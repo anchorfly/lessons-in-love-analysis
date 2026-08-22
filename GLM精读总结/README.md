@@ -19,6 +19,7 @@
 | `04_主线剧情全梳理与分析.md` | 主线六章逐 label 剧情详述、重置年表、谜团解析（复制自根目录《剧情全梳理与分析.md》） | script/ch2script/chap3/finalwarning/chap4/chap4part2 |
 | `05_好叔叔与坏叔叔分支全对照.md` | 好/坏叔叔双路线全对照：amifingered/ami_virgin 双 flag 机制、Ami 线与跨角色（约 100 处引用）两版剧情、系统层惩罚（Maya 神社线门控）、整体画像 | 全库相关分支点 |
 | `06_系统层文本母题表.md` | 全库"系统在叙事内部现身"的修辞速查表（终端广播体/USER 播报/hex 码等，均附行号），与 01、03b 互补 | 全库扫描 |
+| `07_careCode场景解说精读.md` | 开发者 Selebus 的 8 篇 DVD 式场景解说（Prisoner/Stray Cat/Bluejay/Delirium/This Town Has Two Halves/Too Blind to See/Times New Roman/Il Cervo）逐篇精读，联系原事件本体定位与互证，横贯创作观与伏笔总线索 | 上级 `LIL/careCode/` 的 commentary label |
 | `人物事件线/人物事件线全梳理.md` | 39 个 Events 文件的汇总：三层世界观、觉醒者网络、全员索引、未解伏笔、母题词典 | 全部角色支线 |
 | `人物事件线/<角色名>.md` ×37 | 单角色精读：基本盘/love 线/lust 线/主线咬合点/未解伏笔/label 总表 | 各 `*Events.rpy` |
 
