@@ -103,6 +103,20 @@
 - `5516 "where are we right now?"` → `5523 "we're outside."` `5524 "sana sakakibara is making her way over to her mother's house..."`
 → 叙述者以 pareidolia 之名，用无框小写旁白直接对玩家说话，并同步叙述 Sana 的行动。**这是 pareidolia = USER3 叙述声音最完整的样本**。
 
+### 3.4 栖居于 Yumi 脑内（chap4part2 six9，二轮修订新增）
+- `chap4part2.rpy` 源 3582–3612（Obstacle Course 尾声）：Yumi 与小写斜体旁白的直接对话——
+  > N: {i}told you it would work. now speak to the weird fucking turtle thing so we can get out of here and go back to being best friends.{/i}
+  > y: I don't know how many times I need to tell you that you're not my friend… **You're not my friend.**
+  > N: {i}if i'm not your friend, how come we're always spending so much time together?{/i}
+  > y: Because you live inside of my fucking {i}head,{/i} maybe?
+  > N: {i}or maybe you just like me — and you look forward to the way i think for you so you don't have to think for yourself.{/i}
+- 随后 Yumi 请 Wise Turtle "vaporize Pareidolia"（3594），Turtle 答复后 Yumi 与脑内声音**同时**惊愕 "You actually talk? / {i}it actually talks?{/i}"，并互相确认 "We didn't just mutually imagine that, did we?"（3611）。
+- **结论**：pareidolia 不只做破墙旁白，还以"脑内声音"形式寄生于特定角色（Yumi），并自述职能——"i think for you so you don't have to think for yourself"。这与 YumiEvents 2790 的小写 `hello.` 同腔调互相印证：**Yumi 是 pareidolia 的宿主之一**。
+
+### 3.5 终端小游戏中的 USER1 特殊行为（二轮修订新增）
+- `script.rpy:36686`（enterusername，USER1 分支）：`"USER1" IS OFFLINE AND CAN NOT ACCEPT YOUR REQUEST` 之后**直接 `jump babyfinches`**——连接 USER1 不返回错误菜单，而是把玩家坠入甜系平行世界场景（Sensei×Maya 恋人日常、循环对话崩塌、hex 独白）。
+- **解读**：USER1（Ami 线实例）的"离线"不是拒绝而是**重定向**——babyfinches 世界即 USER1 的运行现场（或其备份快照）。这与 AmiEvents 5170 "USER1 HAS SUCCESSFULLY LOGGED IN" 呼应：Ami 线是一个独立运行的用户实例。
+
 ---
 
 ## 四、与长期课题「双声归属」的衔接
@@ -128,6 +142,8 @@
 3. **pareidolia 与 Sekai 是否为同一"世界意识"的两面**：两者都做无框叙述，但腔调/对象不同。需回到 117 场景逐条比对，确认有无"合流"段落。
 4. **TERMINAL 23 的实体意义**：为何是 23？与 Dorm `roomwithclocks` 的 "TIME REMAINING: 2"、重置倒计时是否同构？
 5. **USER5 缺席的含义**：系统只定义到 USER4，是否暗示"第五个用户"是尚未激活的变量（关联未来线 Himawari / 天界管理员）？
+6. **（二轮修订新增）Yumi 宿主化的时点**：pareidolia 何时入住 Yumi 脑内？与 Yuki[2952] "how Yumi was made"、Yumi 线 "aware again" 是否同一事件？
+7. **（二轮修订新增）postwarsix1 hex 双行**（chap4part2 源 5051–5052）"we are being watched again / i hope they can not read numbers" 的书写者归属——旁白本体还是 USER3 代笔？"they" 指谁（其他玩家？系统管理员？）。
 
 ---
 

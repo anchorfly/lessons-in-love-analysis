@@ -33,10 +33,21 @@ lust 节点密集（kirinbj/kirinlay/kirinlust5/202/30 等）。meta 含量极�
 4. **Ayane 交叉**（[9749]–[9920]）：ay "Don't you want to give into temptation and follow me? ...my twenty four hours of yeses begins now"——Kirin 线与 Ayane 的"24 小时 YES"事件交叉，体现觉醒者网络。
 5. **timeloop 间接指涉**（[7027]）：s "I just remembered a thing involving Molly that didn't happen in this game"——"this game" 的措辞暗示角色间流传"某些事不在当前游戏版本里"，与 Maki [2336]、Miku [8455] 的 loop 记忆同构但更弱。
 
+## 四′、三轮增补（chap4part2 精读新证据，2026-08-22）
+
+6. **Christmalloween 侵害事件的后续**（dormwarssix10，源 3741–3761）：Haruka 当面找 Kirin 求"和解"，Kirin 全程冷处理：
+   > h: ...there was no {i}wrongdoing{/i} or anything, right? I was just...{i}distracted{/i} and didn't realize you weren't exactly feeling it.
+   > ki: Ask your friend that walked in on it. Or her daughter, who could have stepped in but didn't. I'm not going to tell people something I'm so ashamed of.
+   > ki: A bathroom stall isn't really much of a {i}room,{/i} though, is it?
+   > ki: I'm not going to tell anyone, {i}Haruka.{/i} But I'd also appreciate it if you didn't talk to me anymore. Like...at all.
+   ——christmalloween 线中发生在**厕所隔间**的越界行为正式定性：Haruka 是加害方（其自认 "I was the aggressor"），目击者为 Sara 及 Sana（均未介入）；Kirin 以羞耻而非愤怒消化此事，选择永久断交。这为 Kirin 的"自我不够好"焦虑补上了创伤性来源之一。
+7. **幽灵三人行追问者**（dormwarssix12 源 4922/4938）：对 Nodoka "I had a threesome with Akira and the ghost of Ami's mother once" 的发言，Kirin 以 "Just...for my own records, how does one have a threesome with a ghost exactly?" 追问、并以 "maybe you can write a thesis statement on ghostly threesomes when you get to college" 收尾——元话题在场但保持玩笑距离，符合其弱 meta 定位。
+
 ## 五、未解伏笔
 
 - Kirin 的"自我不够好"焦虑是否与主线（被"选/不被选"的循环机制）有潜在映射？
 - 她与 Karin 的"new voices"是否同源？（Karin 线明确出现 new voices，Kirin 未提）
+- **（新增）christmalloween 侵害事件**：Haruka 在厕所隔间对她的越界（Haruka 自认 aggressor），目击者 Sara/Sana 均未介入——此事是否会进入后续章节的清算线？
 
 ## 六、label 总表（44 个）
 

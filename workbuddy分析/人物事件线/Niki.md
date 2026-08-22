@@ -119,3 +119,10 @@ callnikimorning[1] · callnikiafternoon[28] · callnikinight[77] · nikigenmorni
 6. **作者层**：nikinaming [4016-4039] Selebus/SubscribeStar/游戏名；NordVPN 广告 [6074]。
 7. **未来记忆**：nikispring8 [7274] catalyst 预言——Sensei 怀有"循环结束后好生活"的类记忆（与 USER/上层结构呼应）。
 
+### 4.6 三轮增补（chap4part2 精读新证据，2026-08-22）
+
+8. **海豚装回归**（dormwarssix6，源 2192–2202）：Niki 穿海豚装登场，Noriko："That's no weird dolphin. That's just my weird sister."；Makoto 也穿同一件出场（[4107-4108] "Hello. It is I. A dolphin."），Otoha 质疑 "how so many people have access to this one specific dolphin costume"（[4107]）。Niki 对 Otoha 预言："One day, you're going to be the one wearing a dolphin suit to get around them after {i}you{/i} wind up falling in love with someone you shouldn't."（[2202]）——海豚装=与不该爱的人恋爱后回避社交的装束。
+9. **复合实锤**（源 2366–2375，对 Rin 私谈）：Rin 观察 "you forgave him and took him back?"→Niki："None of it makes sense, I know. But that just goes to show I'm human, doesn't it? We all do stuff from time to time that defies logic since that's what it means to love somebody."；并确认 "He's the only one for me, as shitty as it is to admit that."（[2394]）——nikispring6 崩溃审判后的关系走向落定：**复合**。
+10. **protect / ruin 理论**（源 2417–2419）："he's apparently decided to **protect you instead of ruin you**. Noriko was the same way until recently. That's what we broke up over."——Niki 给出 Sensei 对待女孩的两分机制（保护/毁坏），并自曝当年分手原因与 Noriko 待遇有关；又评 Noriko："She's stronger than me... And I get what Akira sees in her but, at the same time, there has to be some sort of 'line.'"
+11. **Maya 惧避 Niki**（dormwarssix11 源 4433–4434）：Niki 迟到入场，Maya 只说一个字 "Bye." 即离场；Sensei 求情："Leave this one alone if you can. She's a little different from-"、Niki："Time to break another one before everyone realizes I'm here..."、"Only if we are bathing in their blood."（[4448]/[4452]）——归来的 Niki 以"击碎其他女孩"为乐，连 Maya 都选择回避；Sensei 只能以私人请求劝阻。
+

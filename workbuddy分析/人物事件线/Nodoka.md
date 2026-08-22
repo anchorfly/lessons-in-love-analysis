@@ -37,10 +37,25 @@ Nodoka 线**无独立 lust 命名事件**（标签中无 `nodokalust*`），戏�
    > no: ...imagining how I would feel as someone else...Someone who isn't real.
    与全局"角色是否真实/被创造"母题同构。
 
+## 四′、二轮增补（chap4part2 精读新证据，2026-08-22）
+
+6. **幽灵三人行自白**（dormwarssix12，chap4part2 源 4915）：
+   > no: I had a threesome with Akira and **the ghost of Ami's mother** once.
+   Kirin 当场追问 "how does one have a threesome with a ghost exactly?"（[4922]）——Nodoka 曾与 Ami 亡母之灵直接接触，且在元对话公开场合平静说出。
+7. **apocalypse squad 新成员**（postwarsix1 源 5112）：Nodoka 拉 Uta 进小巷单独谈话："you and I are the newest members of what the rest are calling an '**apocalypse squad**.'"——Rooftop Apocalypse Squad 的正式扩编：Nodoka、Uta 入列。
+8. **"The Girl Who Cannot Breathe"/Kyoko 低语**（postwarsix1 源 5286–5313）：Uta 说自己在女仆咖啡馆走神时梦见 Ami 亡母（[5286-5288] "It was Ami's mom."），Nodoka 反应剧变：
+   > no: You saw her?...**The Girl Who Cannot Breathe?**
+   > no: {i}So he can see her...and she can see her...but I can't see her?{/i}
+   > no: {i}Kyoko...{/i}（[5296][5311-5313]）
+   三重信息：①Nodoka 早知"The Girl Who Cannot Breathe"这一称呼；②她长期在寻找 Kyoko 之灵而不可见；③**Ami 亡母真名 Kyoko 首次由角色口中坐实**。
+9. **巷谈中的自我定位**（源 5148-5155、5208-5221）："I'm not one to act without reason... I do these things not out of malice, but **necessity**."／向 Uta 追问"你愿意接受多少他人之手造成的苦难来丰富自己的人生？"——觉醒后的 Nodoka 把自己摆进"必要之恶"的执行者位置，与作家型人格一脉相承。
+
 ## 五、未解伏笔
 - **Nodoka 的"作家粉丝"身份**：她指认 Sensei 为"writer"是玩笑还是循环记忆的泄露？
 - **Nodoka 与 Futaba 的研究**是否隐喻"角色研究角色/元分析"？
 - **Akira 真名如何在圈层中传播**：Otoha→Nodoka 的揭露是否与 Ayane/Niki 处的揭露属同一"觉醒扩散"？
+- **（新增）Nodoka 与 Kyoko 的关系**：她为何早知 "The Girl Who Cannot Breathe" 称呼？"so he can see her...and she can see her...but I can't see her?" 中"she can see her"指谁？她寻找 Kyoko 的动机是什么？
+- **（新增）"necessity" 指什么**：她在巷谈中自辩的"必要之恶"，是否指向对 Uta/Io 或其他角色已实施/计划中的伤害？
 
 ## 六、label 总表（34 个，节选关键）
 nodokalibrary[1] · nodokainvite[18] · nodokainvitegen[27] · nodokainviteaff[68] · callnodokamorning[99] · callnodokaafternoon[116] · callnodokanight[126] · nodokalibrarygen[196] · nodokalibrary1[226] · nodokalibrary5[512] · nodokadorm15[843] · nodokaspecial15p1[1321] · nodokaspecial15p2[1703] · nodokaspecial15p3[2288] · nodokaspecial20[2701] · nodokaspecial30p1[3123] · nodokaspecial30p2[3457] · nodokaspecial30p3[3793] · nodokaspecial30p4[4103] · sportswars17[4467] · beachfive6[4910] · beachfive10[5272] · halloweennodoka1[5593] · nodokainvite1[5870] · nodokainvite2[6276] · nodokainvite3[6612] · nodokachristmalloween1[7156] · nodokachristmalloween2[7409] · nodokachristmalloween3[7685] · dormwarssixnodoka1[7942] · nodokaspring1[8710] · nodokaspring2[9033] · nodokaspring3[9331]

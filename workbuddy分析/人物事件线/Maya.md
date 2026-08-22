@@ -132,3 +132,13 @@ shrine[1] · callmayamorning[33] · callmayaafternoon[53] · callmayanight[69] �
 5. **Maya=ground zero/catalyst 候补**：无背景女孩（christmalloween3 [9489]）、雨中捡回（[9436]）、Sensei 的 causality 指认（christmalloween1 [8853]）。
 6. **Kaori 感知异常**：无法看见 Maya（mayaspecial45 [5400-5416]）。
 
+### 3.9 三轮增补：flowers「Build-A-Maya」与第六次重置余波
+
+> 摘自会话 D 对 `_digest_flowers.txt` / `_digest_finalwarning.txt` 的精读。
+
+1. **Build-A-Maya：Maya 被"拆解"，Sensei 负责重组**（flowers 线）。taki（HBTV 主持）开场即交代规则 [77]/[79]："You'll need to assemble them yourself. But hey, that'll be good practice for when you have to **reassemble Maya**."／"Once Maya is reassembled, the portal back to your world will be opened."——整个 flowers 副本的目标是把 Maya 一件件拼回床上带回家。重组用"唾液混 fleshglue"（endofbuildamaya [2929-2937]），不合用的器官被取出、由 taki 提供的大罐子保存"in the event that Maya wants them back one day"。Sensei 事后补刀 [2947]："I'm just glad I didn't have to do this with **Sekai**. There were *way* more pieces of her when she died."——Sekai 死亡时碎块更多，为 ground zero 车祸惨状再添旁证。
+2. **梦境层全员知情**：Noriko/Futaba/Sana/Makoto/Chika 各 realm 中少女们以近乎复读的句式送别——"I hope that when you are done reassembling Maya..."（[675][709][743][777][811] 等）——连梦境居民都知道 Maya 当前处于"待重组"状态，重置把她的缺席做成了公共事件。
+3. **终局反转「irreversible」**（[2941][2965-2966]）：taki 宣告 "**You've completed another reset puzzle by reassembling your lost love!**"，随即压低声音补刀 "the events he experienced prior to our program are actually {i}irreversible!{/i}"；Sensei 慌乱否认："Reset puzzles always end with things going back to normal and-"——**本作第一次明示：重置不再复原，此前发生的一切永久生效**。"reset puzzle"的说法还把历次重置重新定性为 Sensei 被安排的解题游戏。
+4. **第六次重置苏醒时的记忆残留**（finalwarning [4168-4187]）：旁白自述从 "reset-induced delusions" 中醒来后，这次罕见地记得大部分内容："I remember being locked in a house. / I remember...being alone. / Delicious hot pot. / A girl who grew up."——软禁回忆闪回未按惯例被清空，与 flowers 的 "irreversible" 同向：循环的擦除机制正在失效。
+5. **dormwarssixmaya1[9549] 归属确认**：该 label 位于 MayaEvents.rpy 本文件内（见 §六 label 总表），即 chap4part2 中 Sana 引诱事件后的跳转目标确为 Niki vs Maya 天台对峙——此前"跳转目标不明"的悬案就此关闭。
+

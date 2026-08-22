@@ -32,11 +32,23 @@ lust 节点含 harukareverse / harukalust25 等。harukaspring6 的 lust 叙事�
 4. **"关掉这破游戏"**（[9867]）：该段结尾旁白 "Let's swap poems for some gnomes because those words sound the same! Let's go touch some grass and turn off this dumb game!" 并连呼 "Stop. Fucking STOP."——对游戏/循环本身的拒斥，与 Kaori 线 connor、Ami 线 aminew2 的"我们都在游戏里"同构。
 5. **真名 Akira 反复出现**（[8688]/[9643]/[9732] 等）："She's falling for you, Akira." / "Akira...hey." / "Akira, can ask you something?"——Haruka 线大量使用 Sensei 真名。
 
+## 四′、三轮增补（chap4part2 精读新证据，2026-08-22）
+
+6. **侵略者自白（christmalloween 侵害事件定性）**（dormwarssix10，源 3741–3761）：Haruka 主动找 Kirin 求"澄清误会"，对话中完成自我定性：
+   > h: ...there was no {i}wrongdoing{/i} or anything, right? I was just...{i}distracted{/i} and didn't realize you weren't exactly feeling it.
+   > h: You haven't, like...{i}told{/i} anyone, have you? Because it'd be really easy for someone to misinterpret the situation and that would...{i}not{/i} be good for me.
+   > ki: Ashamed? Why? What do you have to be ashamed of?
+   > h: **I was the aggressor. {i}And{/i} I'm older than you.**
+   ——先以"misunderstanding/distracted"开脱、再关心"消息是否扩散"、最后在 Kirin 反问下承认自己是加害方；随后反复确认 "You're...really sure you're not going to tell anyone, right?"（[3761]）。**加害者的自保逻辑完整呈现**。
+7. **dormwarssix1 的 Maya 台词旁证**（源 82，m 即 Maya）："Now, watch as I maintain eye contact to guilt him into wanting me and only me again."——Maya 在群像层对 Sensei 的操控性复合策略；与 Haruka 同场。
+8. **Sara 的目击证词**（源 3772，Sara 视角）："I recently caught a {i}different{/i} friend of mine potentially trying to take advantage of a teenage girl in a bathroom."——第三方独立印证 Haruka 即厕所隔间事件的当事人。
+
 ## 五、未解伏笔
 
 - Haruka 所感知的"timeloop"是否与 Maya 所说的"one big cycle"同源？
 - "作者 Selebus"在此以戏谑口吻出现，与 Kaori 线 connor（严肃的 continuity 维护者）是否为同一层级的不同面？
 - Haruka 的 loop 自觉为何未引发系统重置（对比 Ami 线 amiinvite4 的强制重复）？
+- **（新增）christmalloween 事件会否曝光**：Kirin 承诺沉默但永久断交，Sara/Sana 目击在案——Haruka 的自保能否持续？
 
 ## 六、label 总表（40 个）
 
