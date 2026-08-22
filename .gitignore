@@ -1,2 +1,7 @@
 # 本地工作目录
 .workbuddy/
+
+# 中间产物与本地工具（用户指定不同步）
+_tools/
+_tmp_digest/
+.digest/

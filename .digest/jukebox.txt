@@ -1,3 +1,0 @@
-[242]        background "#0008"
-[386]    if renpy.music.get_playing() is not None:
-[387]        $ currentTrack = musicList[renpy.music.get_playing()]
