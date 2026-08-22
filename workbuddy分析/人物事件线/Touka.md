@@ -1,42 +1,148 @@
-# Touka 事件线全析
+# Touka 事件线深读版（逐事件精读）
 
-> 源文件：`ToukaEvents.rpy` ｜ digest：`_digest_Touka.txt` ｜ 共 28 个 label
-> 定位：富家少女（Tsukioka 家长女），射箭/弓道系；元叙事价值在 **"outer barrier / isolation policy / loophole"、"thinking I'm 'in the loop'"、"what is the purpose of this game"**——以富家少女视角触碰世界物理边界（屏障）与游戏本质。
+> 底稿：`_tmp_digest\_digest_Touka.txt`（3817 行，26 个 label）。行号 [N] 均为源 .rpy 行号。
+> 原浅版无「二轮/三轮增补」小节；其独有论点（outer barrier、in the loop、purpose of this game、记忆缺口、pasture 隐喻）已全部并入正文。原浅版称 28 个 label，实数 26 个，已修正。
 
 ## 一、角色基本盘
-- Tsukioka 家长女，Tsubasa 监护、Tsukasa 之姊；射箭/弓道（toukaarchery）。
-- 母亲 "tb"（Tsubasa 场景中的富家女主人）与她同框，富家圈层完整。
-- 与 Chika、Tsuneyo 有跨线交集（[633] "Tsuneyo...Chika...that one girl"）。
 
-## 二、love 线（dating sim 主线）脉络（condensed）
-- 街道/弓道：`toukastreets` → `toukastreetsgen` → `toukastreets1` → `toukastreets5`
-- 弓道：`toukaarchery` → `toukaarchery20`
-- 电话：`calltouka*`
-- 宿舍：`toukadorm10` → `toukadorm25p1→p3`
-- 特殊：`toukaspecial15` → `toukaspecial15p2` → `toukaspecial15p3`
-- 街机：`endoftoukaarcade`
-- 露营：`toukacamp1`
-- 春季：`toukaspring1→8`（最长支线）
+- **定位**：旧式武家大小姐型角色，弓道部核心，礼法、仪态与克制是她的表层人格；事件线的主轴是"被规训的继承人"与"渴望失控的少女"之间的撕扯。
+- **家庭**：母亲在场感极强（地铁出游 [1580] 前后、浴室母女对话 [3814-3833]、spring6 的 Jessica 人格线索）；宅邸（Tsukioka 家相关，见咬合点）是她生活的物理与象征中心。
+- **叙事特殊性**：Touka 线是全作元叙事污染最重的个人线之一——spring3 直接以"等待事件触发"开场，spring5 出现顶替她的冒充实体，spring8 由叙述者亲口承认撒谎。读这条线时，"哪一部分是 Touka"本身就是问题。
+
+## 二、love 线逐事件脉络
+
+### 阶段一：街头与弓道场（初识期）
+
+1. **toukastreets [1]** — 自动贩卖机前初遇。Touka 以一段"假咒语"恶作剧 Sensei [154-228]，用一本正经的仪式感包裹玩笑。这场戏奠定她的人格底色：**认真地上演天真**——她分不清（或不屑于分清）表演与真实，这一特质在后期的身份危机中反复回响。
+2. **toukaarchery [11]** — 弓道场初会。礼法空间的秩序美与街头的随意形成对照（hub 性质场景）。
+3. **toukastreetsgen [21]** / **calltoukamorning [52]** / **calltoukaafternoon [66]** / **calltoukanight [82]** — 日常 hub：街头闲逛与三段时段电话，用于推进好感度，剧情增量有限。
+4. **toukastreets1 [96]** — 旧城区之旅。本事件埋下两个关键异常：
+   - 场景中赫然出现一串十六进制字符 `73 75 64 64 65 6e`，即 ASCII 拼写 **"sudden"** [710]——一条不面向角色、只面向能解码的玩家的元信息；
+   - Sensei 在对话中出现明显**记忆缺口**，无法解释自己为何知道某些事 [745-746]。旧城区作为"城市被封锁前"的残骸，成为记忆与档案错位的舞台。
+5. **toukastreets5 [484]** — 街头线后段日常推进，两人关系升温（细节从略，待核）。
+
+### 阶段二：宿舍与家庭（深入期）
+
+6. **toukadorm10 [874]** — 宿舍夜谈。两条世界级线索：
+   - 谈话中点出 Kumon-mi 与外部世界的隔离状态，以及**货币换算不可靠**这一经济层异常 [971-972]——一座对内自洽、对外失真的城市；
+   - Touka 提及自己看过的某动画乐队 [1121]，与她大小姐教养的错位构成温和的违和（亦为后续"记忆是否属于她"的问题埋线）。
+7. **toukaspecial15 [1265]** — 家庭地铁出游。温馨表象下抛出全线最冷的一句台词：
+   > tk: five years left to live（[1580]
+   （发言者语境待核，但"五年寿命"的倒计时式断言与全作重置循环的时间结构高度共振。）
+8. **toukaspecial15p2 [1636]** — 娱乐区之行（Rin 同行 [1691][1765]）。本事件是 Touka 线的世界观枢纽：
+   - 明确提出娱乐区存在 **outer barrier／isolation policy**（外围屏障／隔离政策）[1640-1642]——城市的封闭不是背景板，而是被执行的政策；
+   - Sensei 自述 **"in the loop"** [1706-1707]；
+   - 并直接叩问 **"purpose of this game"** [1797-1798]——在恋爱事件的表皮下，角色（或叙述者）开始意识到自身处于一个"游戏"之中。
+9. **endoftoukaarcade [2169]** — 街机日的收束节点（短过渡 label）。
+10. **toukaspecial15p3 [2180]** — 浴室母女对话。借按摩店"员工世代相传"的话题 [3814-3833]，把"代际复制"的主题摆上台面：母亲一代的职业/命运模板正在向女儿一代传递——这与循环层的"模板复用"（TEMPLATE）形成文本内呼应。
+
+### 阶段三：弓道场与宅邸（家族期）
+
+11. **toukaarchery20 [2482]** — 弓道场。前辈 Tsuneyo 登场；同时带出 Chika/Chinami 一家的搬迁计划 [2694]，把 Touka 线接入全班的人际网络。
+12. **toukadorm25p1 [2800]** — 宅邸。本事件给出 Touka 处境的核心隐喻与解套逻辑：
+    - **cage speech**：Touka 以笼中物自况，描述被家族期待圈养的状态 [2981-2992]（原浅版所谓 pasture/grazing 隐喻即出于此段落群）；
+    - 但随即出现反转论证：城市已封闭多年，**联姻的外部对象根本不存在**，家族通过婚姻提升地位的路径事实上已经死亡——因此她反而获得了"为爱结婚"的自由 [3095]。封锁（悲剧性的世界观设定）在此成了恋爱线的解放条件：这是 LIL 式反讽的典型样本。
+13. **toukadorm25p2 [3134]** — 私人道场复刻。Sensei 一行复刻了弓道场的私人空间 [3385-3396]："复刻"再次呼应模板主题——重要场景总是出现它的拷贝件。
+14. **toukadorm25p3 [3555]** — 宅邸线收尾（细节从略，待核）。
+
+### 阶段四：夏令营与 spring 系列（崩坏期）
+
+15. **toukacamp1 [3922]** — 夏令营。两人就关系的定义发生正面争论 [4065-4115]：Touka 拒绝草率的命名，坚持关系必须先于标签成立。这是 love 线少有的"由 Touka 主导话语权"的段落。
+16. **toukaspring1 [4270]** — spring 系列开幕。文本以近乎临床的措辞描写 Touka 对父性形象的 **Oedipal craving** [4509]，将她的依恋模式明确指认为"向权威/父亲位置求爱"——这既解释了她与 Sensei 关系的动力学，也为 spring7 中 Tsubasa 对 Sensei "mother figure" 的揭露预置了对称结构。
+17. **toukaspring2 [4627]** — Tsubasa 主场：
+    - Tsubasa 揭露 Sensei 曾将其称为自己的 **mother figure** [4743-4786]——Sensei 的恋母位移第一次被摆上桌面；
+    - Touka 开始直呼其名 **Akira** [4800]，并在后文再次使用 [5061]——名字的祛魅是亲密升级的标记；
+    - 异常行：> se: Come to bed, Aki-kun（[5084] —— 发言者身份存疑（"se" 前缀通常属 Sekai 线人物），出现在 Touka 卧室语境中极不自然，**待核**：可能是脚本复用错误，也可能是刻意的"错误声音渗入"设计。
+18. **toukaspring3 [5107]** — 元叙事正面登场：
+    - 开场即是 Makoto 等人**等待"newest Touka event to trigger"** [5142]——事件不是被经历而是被"触发"的；
+    - 紧接 **reset due**（重置到期）提示 [5115]；
+    - 中段插入 NordVPN 广告戏仿 [5229-5240]，用第四面墙广告完成一次对"赞助商—游戏—玩家"食物链的嘲弄；
+    - 结尾在 Touka 床下发现玩具暗格 [5454-5455]（成人内容段，叙事功能为揭示端庄人格下的隐秘欲望层，详见 lust 线概貌）。
+19. **toukaspring4 [5494]** — 医疗/设施线：Yasu 登场，提及 **New Hope Cathedral** 与 **Etinsib Ziwa** [5931]；并透露该设施**曾见过同类病例** [5699-5705]——Touka 的状况不是孤例，而是一个被机构归档过的类型。
+20. **toukaspring5 [5971]** — 全线最惊悚的一集：**冒充者事件**。
+    - 一个以 "q:" 为前缀的实体**顶替了 Touka** 的位置；
+    - Tsubasa 认出了 masquerader，并问出 **"Which one?"** [6125-6126]——连家人都无法确证眼前的是哪一个 Touka；
+    - 自称距上次相遇已过 **decades** [6132]——该实体的时间尺度与人类角色完全不同；
+    - Touka 的声线（pitch）被"元叙事者"抹去 [6151]；
+    - Karin 全程在场 [6171]，使这场形而上的恐怖落到了可作证的具体视角里；
+    - 事件结尾连续三次 affection 增加，随后一句旁白式的 **"Uh-oh."** [6260]——数值系统本身对异常做出了反应，等于宣告：好感度引擎已被越权写入。
+21. **toukaspring6 [6271]** — 母亲线崩坏：母亲身上浮现异质的 **Jessica** 人格；Touka **记不起自己母亲的年龄** [6470-6472]——记忆缺口从 Sensei 身上传染到至亲身上；中段的 Wilford Blackhole Hands/shrine 段落 [6533-6548] 以邪典式的神龛意象，把"家庭"重构为一个祭祀空间。
+22. **toukaspring7 [6608]** — 宅邸真相密集投放：
+    - Tsubasa 对 Sensei 的执念被定性为 **debt-motivated**（债务驱动），并与 Yumi 之母 Yuki 存在关联 [6678-6680]；
+    - 借樱花树下的传闻揭示 **Ami 的母亲葬于宅邸**，且正是她的诗集引 Nodoka 来到宅邸 [6805-6819]——Touka 线在此为 Nodoka 线供了关键的地理动机；
+    - 直球发问 **"Is Ami your daughter?"** [6829]——把 Sensei 与亡诗人的关系逼到台前；
+    - 以 Twilight 吸血隐喻 [6865-6870] 与 **"we've already abducted you"** [6874-6875] 收束：宅邸对访客而言从来不是邀请制，而是捕获制。
+23. **toukaspring8 [6942]** — 终章：
+    - 叙述者罕见地自我拆穿：> I am a liar. None of that ever happened.（[6963-6964] ——整条事件线的可信度被叙述者亲手撤销；
+    - 巷内自动贩卖机前的亲密场景回到初遇地点（成人内容段，叙事功能为"循环闭合"：欲望的起点与终点在同一台贩卖机前重合）；
+    - "五分钟挑战"最终失败于 **4:45** [7228-7231]——差十五秒。这个精确到荒谬的数字是典型的作者签名：克制系统注定差最后一步。
 
 ## 三、lust 线概貌
-Touka 线**无独立 lust 命名事件**；张力借由与 Sensei 的"被带离舒适圈"冒险、及母亲/监护视线下的约会带出。
 
-## 四、与主线/元叙事的咬合点（核心价值）
-1. **"outer barrier / isolation policy / loophole"**（[1642]）：
-   > tb: Did we perhaps go *under* the outer barrier instead of through it? Have we accidentally discovered a loophole in the isolation policy?
-   **明确命名世界的 "outer barrier（外围屏障）" 与 "isolation policy（隔离政策）"**——与 Yumi[5085] "huge ass wall"、Ayane 未来线"Kumon-mi 屏障被拆除"一致，证明 **世界被物理屏障包围且存在隔离管制**，是角色可观测的设定事实。
-2. **"thinking I'm 'in the loop'"**（[1707]）：
-   > tb: Nevermind. This is what I get for thinking I'm "in the loop."
-   以 **"in the loop"（在循环里）** 作双关——既是社交圈层俚语，又暗合全局 time loop 母题。
-3. **"what is the purpose of this game"**（[1798]）：
-   > to: Can you tell me what the purpose of this game is exactly? I can't seem to make it past the first level.
-   以游戏/关卡口吻理解自身处境，元叙事自我指涉。
-4. **记忆缺口**（[746] "I remember walking around with Touka, but I don't really remember anything about coming over here"）：与循环遗忘母题一致。
+Touka 的 lust 线不宜按场景复述，其叙事功能可归纳为三层：
+
+1. **压抑的泄漏**：床下玩具暗格 [5454-5455]、巷内亲密场景等段落，展示"完美大小姐"人格之下被规训的欲望如何经由物件与偏僻场所泄漏。欲望总发生在**边缘空间**（巷道、床底、浴室），与她在公共空间（弓道场、宅邸正厅）的仪态构成空间政治学对照。
+2. **权力关系的反转**：按摩员工世代传统 [3814-3833]、五分钟挑战失败于 4:45 [7228-7231] 等桥段反复演练"谁在控制时长/身体"——Touka 表面上是被家族驯化的客体，但在亲密关系中她多次成为规则的制定者，而失败恰恰发生在她自己定的规则上。
+3. **欲望的可疑来源**：结合 spring1 的 Oedipal craving [4509] 与 spring5 的顶替事件， lust 线中"Touka 想要什么"本身不可靠——她的欲望可能部分来自模板、部分来自冒充者的残留。成人内容在此不是奖励，而是**症状**。
+
+## 四、与主线/元叙事咬合点
+
+### 恋爱表层
+- 大小姐×教师的禁断框架 + cage→解放 [3095] 的恋爱弧光完整自洽，足以作为一部普通galgame成立。
+- Rin 同行娱乐区 [1691][1765]、Chika/Chinami 搬迁 [2694] 等，把 Touka 线缝进班级群像。
+
+### 重置循环层
+- "five years left to live" [1580] 与 reset due [5115] 共享同一套倒计时时间观。
+- outer barrier/isolation policy [1640-1642]、货币换算不可靠 [971-972]：Kumon-mi 是一个资源与信息都被人为截断的闭环容器。
+- 设施见过同类病例 [5699-5705] + Etinsib Ziwa [5931]：存在一个在幕后对"病例"（即角色们）分类归档的机构网络。
+- Ami 之母葬于宅邸 [6805-6819]、Tsubasa＝Tsukioka 家主母本人（互证线索）、debt-motivated 执念 [6678-6680]：宅邸是跨线阴谋的物理中枢，Touka 线是揭开它的大门。
+
+### 元叙事玩家层
+- hex="sudden" [710]、purpose of this game [1797]、Makoto 等待事件触发 [5142]、affection 三连增加+Uh-oh [6260]、pitch 被抹去 [6151]、叙述者自白 I am a liar [6963-6964]：Touka 线几乎每一阶段都留有一条直通玩家的暗道。spring5 的 "q:" 实体尤其值得注意——它相当于"另一个玩家/另一个模板"挤占了角色位，是全作对多周目/多人观测假说的最直接文本证据。
 
 ## 五、未解伏笔
-- **"outer barrier" 的真相**：屏障是物理的、叙事的、还是 Maya/God 设的？它与"隔离政策"由谁制定？
-- **Touka 是否 loop 感知者**：她的 "in the loop" 是自嘲还是无意识真相？
-- **Tsukioka 家的" pasture/grazing"隐喻**：Tsubasa 说 Touka "已在你的牧场吃草"——是否暗示 Touka 被"圈养"于某层（呼应 Maya 被囚）？
 
-## 六、label 总表（28 个，节选关键）
-toukastreets[1] · toukaarchery[11] · toukastreetsgen[21] · calltoukamorning[52] · calltoukaafternoon[66] · calltoukanight[82] · toukastreets1[96] · toukastreets5[484] · toukadorm10[874] · toukaspecial15[1265] · toukaspecial15p2[1636] · endoftoukaarcade[2169] · toukaspecial15p3[2180] · toukaarchery20[2482] · toukadorm25p1[2800] · toukadorm25p2[3134] · toukadorm25p3[3555] · toukacamp1[3922] · toukaspring1[4270] · toukaspring2[4627] · toukaspring3[5107] · toukaspring4[5494] · toukaspring5[5971] · toukaspring6[6271] · toukaspring7[6608] · toukaspring8[6942]
+1. "se: Come to bed, Aki-kun" [5084] 的真实发言者（待核）。
+2. "q:" 冒充实体的来历、它与 decades [6132] 时间尺度的关系，以及它是否仍在场。
+3. Jessica 人格与 Touka 母亲的关系；Touka 为何记不起母亲的年龄 [6470-6472]。
+4. New Hope Cathedral／Etinsib Ziwa／Yasu 的机构谱系。
+5. "sudden" [710] 究竟预告了什么（某次突然的重置？突然的顶替？）。
+6. 五年倒计时 [1580] 的起算点与对象。
+7. 叙事者为何要在终点自认撒谎 [6963-6964]——是忏悔还是又一次表演。
+
+## 六、label 总表（26）
+
+| # | label | digest 起始行 | 备注 |
+|---|-------|--------------|------|
+| 1 | toukastreets | [1] | 初遇·假咒语 |
+| 2 | toukaarchery | [11] | 弓道场初会 |
+| 3 | toukastreetsgen | [21] | 街头 hub |
+| 4 | calltoukamorning | [52] | 电话 hub |
+| 5 | calltoukaafternoon | [66] | 电话 hub |
+| 6 | calltoukanight | [82] | 电话 hub |
+| 7 | toukastreets1 | [96] | 旧城区·hex/记忆缺口 |
+| 8 | toukastreets5 | [484] | 街头线后段 |
+| 9 | toukadorm10 | [874] | 宿舍夜谈·隔离/货币 |
+| 10 | toukaspecial15 | [1265] | 地铁出游·五年倒计时 |
+| 11 | toukaspecial15p2 | [1636] | 娱乐区·outer barrier/in the loop/purpose of this game |
+| 12 | endoftoukaarcade | [2169] | 街机日收束 |
+| 13 | toukaspecial15p3 | [2180] | 浴室母女·世代传统 |
+| 14 | toukaarchery20 | [2482] | Tsuneyo/搬迁计划 |
+| 15 | toukadorm25p1 | [2800] | 宅邸·cage speech/联姻失效 |
+| 16 | toukadorm25p2 | [3134] | 私人道场复刻 |
+| 17 | toukadorm25p3 | [3555] | 宅邸线收尾 |
+| 18 | toukacamp1 | [3922] | 夏令营·关系定义之争 |
+| 19 | toukaspring1 | [4270] | Oedipal craving |
+| 20 | toukaspring2 | [4627] | Tsubasa mother figure/Akira 之名 |
+| 21 | toukaspring3 | [5107] | 元叙事开场/NordVPN 戏仿 |
+| 22 | toukaspring4 | [5494] | Yasu/New Hope Cathedral |
+| 23 | toukaspring5 | [5971] | 冒充者事件 |
+| 24 | toukaspring6 | [6271] | Jessica 人格/神龛 |
+| 25 | toukaspring7 | [6608] | 宅邸真相/Ami 之母 |
+| 26 | toukaspring8 | [6942] | 叙事者自白/贩卖机闭合 |
+
+---
+
+## 二轮增补（原有内容，原样保留）
+
+原浅版文档不含「二轮增补」「三轮增补」小节，无可保留原文。原版独有论点（outer barrier/isolation policy [1642]、in the loop [1707]、purpose of this game [1798]、Sensei 记忆缺口 [746]、Tsubasa 的 pasture/grazing 隐喻、"28 个 label"之计数）已逐一核实并并入正文；其中 label 总数经全量核对修正为 **26** 个。
