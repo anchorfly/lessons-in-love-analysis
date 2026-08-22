@@ -1,0 +1,431 @@
+
+===== [1] LABEL morningch4 =====
+[4] >> jump chikaspring3
+[6] >> jump osakospring1
+[8] >> jump osakospring3
+[10] >> jump tsubasaspring1
+[12] >> jump karinspring1
+[14] >> jump mikuspring1
+[16] >> jump mikuspring3
+[18] >> jump karinspring3
+[20] >> jump nikispring2
+[22] >> jump sportswars1
+[24] >> jump toukaspring1
+[26] >> jump mollyspring1
+[28] >> jump yasuspring1
+[30] >> jump utaspring1
+[32] >> jump wakanaspring1
+[34] >> jump beachfive1
+[36] >> jump beachfive3
+[38] >> jump wakanaspring3
+[40] >> jump yumispring3
+[42] >> jump chinamispring3
+[44] >> jump halloweenfive1
+[46] >> jump christmasfive1
+[48] >> jump dormwarsfive1
+[50] >> jump nikispring4
+[52] >> jump wakanaspring5
+[54] >> jump makotospring3
+[56] >> jump beachsix1
+[58] >> jump rinspring7
+[60] >> jump wakanaspring8
+[62] >> jump kirinspring2
+[64] >> jump nikispring7
+[66] >> jump mikuspring6
+[68] >> jump utaspring6
+[75] >> jump dormwarssix1
+[77] >> jump postwarsix1
+[79] >> jump tsubasaspring7
+[81] >> jump tsukasaspring8
+[83] >> jump tsuneyospring8
+[85] >> jump kirinspring3
+[87] >> jump ayanespring4
+[89] N: {i}[totaldays] Days have passed...{/i}
+[96] N: I wake up again.
+[98] s: ...
+[103] N: I need to keep myself busy.
+[104] N: .........
+[105] N: ......
+[106] N: ...
+[108] >> jump ch4morningmenu
+
+===== [110] LABEL afternoonch4 =====
+[111] >> jump noonch4
+
+===== [113] LABEL advancetosatch4 =====
+[120] >> jump morningch4
+[122] >> jump morningch4
+
+===== [124] LABEL advancetosunch4 =====
+[130] >> jump morningch4
+[132] N: ERROR ADVANCING TO SUNDAY
+
+===== [134] LABEL advancetomonch4 =====
+[140] >> jump morningch4
+[142] N: ERROR ADVANCING TO MONDAY
+
+===== [144] LABEL advancetotuesch4 =====
+[150] >> jump morningch4
+[152] N: ERROR ADVANCING TO TUESDAY
+
+===== [154] LABEL advancetowedch4 =====
+[160] >> jump morningch4
+[162] N: ERROR ADVANCING TO WEDNESDAY
+
+===== [164] LABEL advancetothursch4 =====
+[170] >> jump morningch4
+[172] N: ERROR ADVANCING TO THURSDAY
+
+===== [174] LABEL advancetofrich4 =====
+[180] >> jump morningch4
+[182] N: ERROR ADVANCING TO FRIDAY
+[185] N: Go somewhere
+[186] N: Where should I go?
+[188] *OPT: Archery Range
+[192] >> jump toukaarchery
+[194] >> jump tsuneyoarchery
+[196] >> jump utaarchery
+[200] *OPT: Rin
+[201] >> jump cafe
+[204] N: What do I want to do?
+[206] *OPT: Hang out
+[207] >> jump harukacafe
+[209] >> jump harukacafedogrep
+[211] >> jump harukacafe
+[212] N: Dojo
+[213] >> jump osakodojo
+[214] N: Library
+[215] >> jump library
+[216] N: Pool
+[217] >> jump mikupool
+[218] N: Maid Cafe
+[219] >> jump amimaidhub
+[220] N: Park
+[221] >> jump otohapark
+[222] N: Go Back
+[223] >> jump ch4morningmenu
+[225] N: Check phone
+[226] >> jump phone_morning
+[228] N: Call someone
+[229] >> jump callmorning
+[231] N: Use the computer
+[232] >> jump computer
+[234] N: Wait until afternoon
+[239] N: .........
+[240] N: ......
+[241] N: ...
+[243] >> jump noonch4
+
+===== [245] LABEL dellaslump =====
+[248] N: {i}[totaldays] Days have passed...{/i}
+[277] N: I wake up again.
+[279] s: ...
+[281] N: What do I want to do?
+[283] >> jump dellaslumpmenu
+[286] N: Take care of Ami
+[290] N: I take care of Ami.
+[291] N: Afternoon comes.
+[292] N: Now, what should I do?
+[294] >> jump dellaslumpmenu2
+[297] N: Take care of Ami
+[298] N: I take care of Ami.
+[299] N: She isn't getting any better.
+[300] N: Night comes.
+[301] N: Now, what should I do?
+[303] >> jump dellaslumpmenu3
+[306] N: Take care of Ami
+[307] N: I finish the day off by taking care of Ami.
+[312] N: It's time to go to bed.
+[316] N: The worm grows.
+[335] N: .........
+[336] N: ......
+[337] N: ...
+[340] >> jump dellaslump
+[342] >> jump dellaexit
+
+===== [344] LABEL dellaexit =====
+[368] N: {i}[totaldays] Days have passed...{/i}
+[375] N: I wake up again.
+[377] s: ...
+[379] N: Someone slid a note under my bedroom door in the middle of the night.
+[380] N: I can only imagine who it must have been.
+[385] N: I pick it up and read it.
+[386] N: All it says is-
+[387] N: {i}You don't have to wait for me.{/i}
+[389] s: ...
+[391] N: I should keep myself busy.
+[395] >> jump noonch4
+
+===== [397] LABEL noonch4 =====
+[399] >> jump otohaspring1
+[401] >> jump tsuneyospring2
+[403] >> jump kirinspring1
+[405] >> jump norikospring2
+[407] >> jump tsukasaspring4
+[409] >> jump iospring4
+[411] >> jump chikaspring5
+[413] >> jump karinspring5
+[415] >> jump yasuspring4
+[417] >> jump ayanespring3
+[419] >> jump yumispring8
+[421] >> jump chikaspring8
+[423] >> jump wakanaspring6
+[425] >> jump rikaspring5
+[427] >> jump toukaspring6
+[429] >> jump iospring8
+[431] >> jump karinspring7
+[433] >> jump mollyspring3
+[435] >> jump futabaspring3
+[437] >> jump otohaspring5
+[439] >> jump mayaspring4
+[441] >> jump mayaspring5
+[443] >> jump kirinspring4
+[445] N: What do I want to do?
+[447] >> jump ch4noonmenu
+[450] N: Go somewhere
+[451] N: Where should I go?
+[454] >> jump streets
+[456] >> jump shrine
+[458] >> jump osakodojo
+[460] >> jump yumispring2
+[462] >> jump bathhouse
+[463] *OPT: Library
+[464] >> jump nodokalibrary
+[466] >> jump chikamaid
+[467] *OPT: Pool
+[469] *OPT: Ayane
+[470] >> jump ayanepool
+[472] >> jump karinpool
+[473] *OPT: Go Back
+[474] >> jump ch4noonmenu
+[477] >> jump phone_afternoon
+[480] >> jump callafternoon
+[483] s: I'll just...walk around until it starts to get dark, I guess.
+[489] N: .........
+[490] N: ......
+[491] N: ...
+[493] >> jump nightch4
+
+===== [495] LABEL nightch4 =====
+[497] >> jump tsuneyospring1
+[499] >> jump makicamp1
+[501] >> jump yasuspring2
+[503] >> jump utaspring2
+[505] >> jump rikaspring1
+[507] >> jump toukaspring3
+[509] >> jump sanaspring4
+[511] >> jump osakospring5
+[513] >> jump iospring5
+[515] >> jump harukaspring3
+[517] >> jump tsuneyospring4
+[519] >> jump rinspring4
+[521] >> jump harukaspring4
+[523] >> jump rikaspring3
+[525] >> jump toukaspring5
+[527] >> jump ayanespring2
+[529] >> jump yumispring7
+[531] >> jump saraspring5
+[533] >> jump tsubasaspring6
+[535] >> jump naospring3
+[537] >> jump wakanaspring7
+[539] >> jump yukispring6
+[541] >> jump tsukasaspring7
+[543] >> jump otohaspring7
+[545] >> jump yasuspring6
+[547] >> jump yasuspring7
+[549] >> jump makotospring4
+[551] >> jump makotospring5
+[553] >> jump harukaspring5
+[555] N: What do I want to do?
+[557] >> jump ch4nightmenu
+[560] N: Go somewhere
+[561] N: Where should I go?
+[563] *OPT: Bar
+[565] N: What do I want to do?
+[567] *OPT: Hang out with Sana
+[568] >> jump sanasbar
+[570] >> jump sarasbar
+[572] >> jump yukibar
+[574] >> jump saramissionaryanim
+[576] >> jump saraeatoutanim
+[578] >> jump sarabjreplay
+[583] >> jump pornshop
+[585] >> jump makotowatchpornrep
+[586] *OPT: Hang out with Maki
+[587] >> jump pornshopmaki
+[589] >> jump makibjanim
+[591] >> jump mollycafe
+[593] >> jump ramenshop
+[595] >> jump iospring1
+[597] >> jump utaspring3
+[599] >> jump utamaid
+[601] >> jump convenience
+[602] *OPT: New Hope Cathedral
+[603] >> jump church
+[607] *OPT: Imani
+[608] >> jump imanidive
+[610] >> jump imanidivedoggyanim
+[611] *OPT: Osako
+[612] >> jump osakodive
+[613] *OPT: Rika
+[614] >> jump rikadive
+[615] *OPT: Wakana
+[616] >> jump wakanadive
+[618] >> jump kaorispring1
+[620] >> jump dormsch4
+[621] *OPT: Go Back
+[622] >> jump ch4nightmenu
+[625] >> jump phone_night
+[628] >> jump callnight
+[631] >> jump inviteover
+[633] *OPT: Go home and sleep
+[638] N: .........
+[639] N: ......
+[640] N: ...
+[643] >> jump endofweekdaych4
+[645] >> jump endofsatch4
+
+===== [647] LABEL endofsatch4 =====
+[653] N: I open the door and immediately collapse onto the bed.
+[654] N: Being alive is exhausting.
+[660] N: I wonder how much longer I can take this for?
+[661] N: .........
+[662] N: ......
+[663] N: ...
+[664] >> jump advancetosunch4
+[670] N: I open the door and immediately collapse onto the bed.
+[671] N: Being alive is exhausting.
+[677] N: I wonder how much longer I can take this for?
+[678] N: .........
+[679] N: ......
+[680] N: ...
+[682] >> jump advancetomonch4
+
+===== [684] LABEL endofweekdaych4 =====
+[689] N: I open the door and immediately collapse onto the bed.
+[690] N: Being alive is exhausting.
+[696] N: .........
+[697] N: ......
+[698] N: ...
+[701] >> jump advancetotuesch4
+[703] >> jump advancetowedch4
+[705] >> jump advancetothursch4
+[707] >> jump advancetofrich4
+[709] >> jump advancetosatch4
+
+===== [711] LABEL dormsch4 =====
+[713] >> jump mayaspring1
+[715] >> jump osakospring8
+[722] N: A rumbling approaches.
+[727] s: What the fuck is this?
+[729] N: {i}Uh-oh! It appears that you are soap-locked!{/i}
+[731] s: What the hell does that mean?
+[733] N: {i}It means you've taken something you were warned not to take and must now pay the price!{/i}
+[735] s: What price? How do I make this giant bottle of shampoo go away?
+[737] N: {i}Sorry! The removal of the shampoo bottle is not yet implemented.{/i}
+[738] N: {i}It looks like you just won't be able to use the dorms again until it is!{/i}
+[740] s: This seems both entirely unfair {i}and{/i} pointless. Do you have any idea how much time I've put into this game?
+[742] N: {i}I know exactly how much time you've put into this game! Which is why I'm so surprised that you still mess up the easiest decisions!{/i}
+[744] s: So what? I just...can't advance anymore? That's it?
+[746] N: {i}You can always go back in time!{/i}
+[747] N: {i}That's what you really want anyway, isn't it?{/i}
+[749] s: Yes. But I don't need to hear it from a mysterious narrator and/or a bottle of shampoo.
+[751] N: {i}Well, hey! Maybe if you come back tomorrow, it won't be here anymore!{/i}
+[753] s: Might as well try.
+[754] s: Later, I guess.
+[756] N: {i}Goodbye, Akira!{/i}
+[761] N: {i}Remember to sleep facing up tonight.{/i}
+[764] >> jump endofsatch4
+[766] >> jump endofweekdaych4
+[772] N: I decide to pay a visit to the dorms.
+[773] N: What should I do?
+[776] N: Knock on a door
+[777] >> jump dorm1knockch4
+[778] N: Second Floor
+[779] >> jump dorm2ch4
+
+===== [781] LABEL dorm2ch4 =====
+[785] N: Now what?
+[788] N: Knock on a door
+[789] >> jump dorm2knockch4
+[790] N: First Floor
+[793] >> jump armsbentback
+[795] >> jump dormsch4
+
+===== [797] LABEL dorm1knockch4 =====
+[798] N: Which door should I knock on?
+[800] *OPT: Room 1 (Yumi & Chika)
+[804] >> jump yumidorm
+[806] >> jump chikadorm
+[807] *OPT: Go Back
+[808] >> jump dorm1knockch4
+[809] *OPT: Room 2 (Ayane & Sana)
+[812] *OPT: Ayane (Current Affection - [ayane_love])
+[813] >> jump ayanedorm
+[814] *OPT: Sana (Current Affection - [sana_love])
+[815] >> jump sanadorm
+[816] *OPT: Go Back
+[817] >> jump dorm1knockch4
+[818] *OPT: Room 3 (Makoto & Miku)
+[822] >> jump makotodorm
+[824] >> jump mikudorm
+[825] *OPT: Go Back
+[826] >> jump dorm1knockch4
+[827] *OPT: Room 4 (Rin & Futaba)
+[830] *OPT: Rin (Current Affection - [rin_love])
+[831] >> jump rindorm
+[832] *OPT: Futaba (Current Affection - [futaba_love])
+[833] >> jump futabadorm
+[834] *OPT: Go Back
+[835] >> jump dorm1knockch4
+[840] >> jump amidorm
+[842] >> jump mayadorm
+[843] *OPT: Go Back
+[844] >> jump dorm1knockch4
+[845] *OPT: Go Back
+[846] >> jump ch4dormmenu
+[847] *OPT: Go Home
+[854] N: ...
+[857] >> jump endofweekdaych4
+[859] >> jump endofsatch4
+
+===== [861] LABEL dorm2knockch4 =====
+[862] N: Which door should I knock on?
+[864] *OPT: Room 6 (Molly & Tsuneyo)
+[867] *OPT: Molly (Current Affection - [molly_love])
+[868] >> jump mollydorm
+[869] *OPT: Tsuneyo (Current Affection - [tsuneyo_love])
+[870] >> jump tsuneyodorm
+[871] *OPT: Go Back
+[872] >> jump dorm2knockch4
+[873] *OPT: Room 7 (Uta & Io)
+[877] >> jump utadorm
+[879] >> jump iodorm
+[880] *OPT: Go Back
+[881] >> jump dorm2knockch4
+[882] *OPT: Room 8 (Otoha & Nodoka)
+[885] *OPT: Otoha (Current Affection - [otoha_love])
+[886] >> jump otohadorm
+[887] *OPT: Nodoka (Current Affection - [nodoka_love])
+[888] >> jump nodokadorm
+[889] *OPT: Go Back
+[890] >> jump dorm2knockch4
+[891] *OPT: Room 9 (Touka & Yasu)
+[895] >> jump toukadorm
+[896] *OPT: Yasu (Current Affection - [yasu_love])
+[897] >> jump yasudorm
+[898] *OPT: Go Back
+[899] >> jump dorm2knockch4
+[900] *OPT: Room 10 (Noriko & Kirin)
+[903] *OPT: Noriko (Current Affection - [noriko_love])
+[904] >> jump norikodorm
+[905] *OPT: Kirin (Current Affection - [kirin_love])
+[906] >> jump kirindorm
+[907] *OPT: Go Back
+[908] >> jump dorm2knockch4
+[909] *OPT: Go Back
+[910] >> jump ch4dorm2menu
+[911] *OPT: Go Home
+[918] N: ...
+[921] >> jump endofweekdaych4
+[923] >> jump endofsatch4
