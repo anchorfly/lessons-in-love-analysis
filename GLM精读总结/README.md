@@ -18,6 +18,7 @@
 | `03b_USER3与pareidolia源文分析.md` | USER3=pareidolia 的闭合证据链；三种叙述声音分离判据 | script/chap3/SanaEvents 定点 |
 | `04_主线剧情全梳理与分析.md` | 主线六章逐 label 剧情详述、重置年表、谜团解析（复制自根目录《剧情全梳理与分析.md》） | script/ch2script/chap3/finalwarning/chap4/chap4part2 |
 | `05_好叔叔与坏叔叔分支全对照.md` | 好/坏叔叔双路线全对照：amifingered/ami_virgin 双 flag 机制、Ami 线与跨角色（约 100 处引用）两版剧情、系统层惩罚（Maya 神社线门控）、整体画像 | 全库相关分支点 |
+| `06_系统层文本母题表.md` | 全库"系统在叙事内部现身"的修辞速查表（终端广播体/USER 播报/hex 码等，均附行号），与 01、03b 互补 | 全库扫描 |
 | `人物事件线/人物事件线全梳理.md` | 39 个 Events 文件的汇总：三层世界观、觉醒者网络、全员索引、未解伏笔、母题词典 | 全部角色支线 |
 | `人物事件线/<角色名>.md` ×37 | 单角色精读：基本盘/love 线/lust 线/主线咬合点/未解伏笔/label 总表 | 各 `*Events.rpy` |
 
@@ -90,9 +91,13 @@
 |---|---|
 | `images/` | CG/背景/缩略图资源（BGs 含 dorm2frinodokagone、dormmonyumigone 等"缺席状态"背景，本身是剧情证据）；webp 需转码查看 |
 | `_tools/digest_events.py` | 自研 Ren'Py→可读摘要脚本（label+行号+对话+跳转，lust 类截断） |
-| `_tmp_match/` | 中间产物区（digest 文本＋精读过程稿），正式成果已并入本区 |
+| `_tmp_match/` | 中间产物区（digest 文本＋精读过程稿），正式成果已并入本区（主线精读/ch4 报告被 04 覆盖，母题表并入 06，其余为工具与草稿） |
 | `.workbuddy/memory/` | 跨会话工作日志（方法与进度记录） |
-| 根目录《剧情全梳理与分析.md》 | 04 的原件（保留不动），另有两份 PDF（Uta 排名日记、五周年 Selebus 问答）在上级 `LIL/` 目录 |
+| `.git/`、`.gitignore`、根目录 `README.md` | git 双仓库基础设施（公开文档仓＋私有全量快照仓） |
+| 根目录《剧情全梳理与分析.md》《选择分析帖-全文翻译.md》 | 前者为 04 的原件（保留不动）；后者为 F95 论坛 CharlotteWiltshire26"选择"分析长文的全文翻译（外部社区分析，参考资料，非游戏源文） |
+| 上级 `LIL/` 目录 | 游戏本体 0.55、汉化补丁 `tl/`、重复反编译副本 `lilCode/`（与分析区逐一相同）、**未读的活动剧情 `careCode/`**（见下方备注） |
+
+> **§2.6 备注——`careCode/` 未读活动剧情清单**（位于上级 `LIL/` 目录，工作区之外）：`fanfest25.rpy`（196KB / 11 label，2025 周年庆）、`fanfest26.rpy`（212KB / 21 label，2026 周年庆）、`hugfest25.rpy`（124KB，拥抱节）、`nov2022–aug2023` 月度礼包 ×8（16–36KB each，分析区 `carepackages.rpy` 仅为其 DLC 框架）、`nib/script.rpy`（60KB，礼包内附独立小游戏：Yuu/Reina/Saki/ikaS 等非 LIL 角色）。分析区内仅有 fanfest 的零星引用（animatedscenes/unlockables），**主体剧情从未精读**。另：`tl/`（74 个 rpy 汉化补丁）、`lilCode/`（与分析区二进制相同的副本）、两份 PDF（Uta 排名日记、五周年 Selebus 问答，记忆已登记）——均非待读源文。
 
 ---
 
