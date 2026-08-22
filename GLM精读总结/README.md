@@ -1,0 +1,157 @@
+# GLM 精读总结 · 生产区总览
+
+> **定位**：本目录（`GLM精读总结/`）是《Lessons in Love》反编译脚本的**正式生产物区域**，收录对工作区全部 71 个 `.rpy` 文件的精读总结。此前的中间产物存于 `_tmp_match/`（临时区）与根目录单文件，本区为整理后的最终集合。
+> **生成**：2026-08-22，GLM。方法：自研 digest 脚本提取（保留 label+源行号+对话+跳转）→ 逐文件/逐 label 精读 → 汇总落盘。
+> **版本勘误（重要）**：旧报告标注 v0.55 有误——`options.rpy:27` 显示本反编译实为 **0.60.0**（`gui.about` 含版本号）。各子报告标题中的 "v0.55" 沿用旧称，实际内容均读自 0.60.0 源文。
+> **分级说明**：本作含成人内容，全部报告一律抽象表述（如"发生亲密关系"），不复述露骨文本；bonus/双版本差异内容按约定忽略。
+
+---
+
+## 一、生产区文件导航
+
+| 文件 | 内容 | 覆盖对象 |
+|---|---|---|
+| `README.md` | 本文件：总览、全文件索引、一页总结、勘误 | — |
+| `01_系统与机制文件精读.md` | 19 个系统文件的机制、变量、解锁表与系统层元叙事 | Phone/PhoneStyles/definitions/screens/gui/options/setup/replace/autopatch/checker/newchecker/happytracker/headpatcentral/unlockables/dlcmenu/jukebox/mathhomework/carepackages/profile_outfits |
+| `02_特殊内容与迷你游戏文件精读.md` | 6 个特殊文件：废案、Build-A-Maya、Sensei-Quest、图片/动画/成人内容主文件 | deletedscenes/flowers/senseiquest/nudes/animatedscenes/inappropriatecontent |
+| `03_章节泛型与USER机制溯源.md` | 章节泛型日常与第四章枢纽调度器；USER1–4 全局溯源 | chap3generics/chap4generics/chap4hub + 全局 grep |
+| `03b_USER3与pareidolia源文分析.md` | USER3=pareidolia 的闭合证据链；三种叙述声音分离判据 | script/chap3/SanaEvents 定点 |
+| `04_主线剧情全梳理与分析.md` | 主线六章逐 label 剧情详述、重置年表、谜团解析（复制自根目录《剧情全梳理与分析.md》） | script/ch2script/chap3/finalwarning/chap4/chap4part2 |
+| `05_好叔叔与坏叔叔分支全对照.md` | 好/坏叔叔双路线全对照：amifingered/ami_virgin 双 flag 机制、Ami 线与跨角色（约 100 处引用）两版剧情、系统层惩罚（Maya 神社线门控）、整体画像 | 全库相关分支点 |
+| `人物事件线/人物事件线全梳理.md` | 39 个 Events 文件的汇总：三层世界观、觉醒者网络、全员索引、未解伏笔、母题词典 | 全部角色支线 |
+| `人物事件线/<角色名>.md` ×37 | 单角色精读：基本盘/love 线/lust 线/主线咬合点/未解伏笔/label 总表 | 各 `*Events.rpy` |
+
+---
+
+## 二、工作区全文件清单与覆盖索引（71 个 .rpy 全覆盖）
+
+### 2.1 主线章节文件（6 个）→ 详见 `04_主线剧情全梳理与分析.md`
+
+叙事顺序**与文件名不一致**（按 jump 衔接重建）：
+
+| 顺序 | 文件 | 规模 | 内容 |
+|---|---|---|---|
+| 1 | `script.rpy` | 185 label / 4.1万行 | 第一章：日常筑基、创世神话（day102）、海滩/万圣节/trinity 特别篇、第一、二次重置、Ami 崩解与 USER 终端解谜 |
+| 2 | `ch2script.rpy` | 131 label / 4.9万行 | 第二章：第一个冬天、宿舍战争 I、第三次重置（kindergartenclass 幸福课）、secondbeach、goodboy、christmastwo（Niki 信箱） |
+| 3 | `chap3.rpy` | 110 label / 4万行 | 第三章：Ayane 觉醒、真名 Akira Arakawa 揭晓、宿舍战争 II/III、Ami 之死 |
+| 4 | `finalwarning.rpy` | 67 label / 5千行 | 第六次重置：真名广播、纸片城、Maya 牺牲自我重置（**夹在第三与第四章之间，是第四章的门厅**） |
+| 5 | `chap4.rpy` | 146 label / 4.3万行 | 第四章《春》：Sensei 夺回叙事权、卡带世界、童年闪回（Sekai 之死=循环起点）、christmalloween |
+| 6 | `chap4part2.rpy` | 13 label / 5.3千行 | 宿舍战争 VI＋战后：最新进度，Kyoko 悬念（未完结） |
+
+### 2.2 章节泛型与枢纽文件（3 个）→ 详见 `03_章节泛型与USER机制溯源.md`
+
+| 文件 | 规模 | 内容 |
+|---|---|---|
+| `chap3generics.rpy` | 78 label | 74 个夏期泛型日常模板 ＋ 隐藏副本 "the great pareidolia mall"（Ami 镜像体 Amy、20 房间迷宫、全程禁回滚） |
+| `chap4generics.rpy` | 65 label | 63 个春季泛型 ＋ alexisevent（故障角色喊 "WE EXIST OUTSIDE" 后被系统以 "lungrot" 抹除） |
+| `chap4hub.rpy` | 17 label | **第四章玩法骨架**：三时段事件门按"星期+flag 链"投放；dellaslump（"The worm grows."）强制照顾 Ami 开场；37 女达标触发宿舍战争 VI |
+
+### 2.3 角色事件文件（37 个）→ 详见 `人物事件线/`
+
+每个文件 0.2–1.4MB，love/lust 双数值阶梯解锁。关键交叉点浓缩表（详见 `人物事件线/人物事件线全梳理.md` §四）：
+
+| 角色组 | 角色（★=元叙事核心） |
+|---|---|
+| 核心层 ★★★★★ | **Ami**（USER1/voices/亲生女儿疑云/main heroine 之争）、**Maya**（重置执行者/三层同活/年龄[redacted]）、**Ayane**（Rooftop Squad/未来线 Himawari/GIRL MAKER）、**Makoto**（previous iteration/调查 Maya↔Akira） |
+| 中坚层 ★★★★ | Kaori（USER2 离线/connor 开发者）、Yumi（knows how game works）、Yuki（Maya 伪造记录/original ten）、Tsuneyo（six 接入/cycle 将尽）、Niki（[uncle] 框架/Akira 揭露）、DormEvents（roomwithclocks/ticktock/trinity1 神话核心簇）、Dorm2（宿舍养成层） |
+| 外围含要点 ★★★ | Nao（USER4/secret 21st/Sekai）、Nodoka（writer returns/Kyoko 线）、Wakana（Nothing is real/killed Maya）、Rika（Past-Maya/Real-Maya）、Miku/Haruka/Maki/Io/Futaba（creator 自指/not real）、Molly/Sara（prisoners to the protagonist）、Noriko/Osako/Otoha/Rin/Sana、Touka/Tsubasa/Tsukasa（Tsukioka 富家圈：barrier/failsafe）、Chika/Chinami/Imani/Karin/Kirin/Uta/Yasu |
+
+### 2.4 系统与机制文件（19 个）→ 详见 `01_系统与机制文件精读.md`
+
+| 文件 | 用途一句话 |
+|---|---|
+| `definitions.rpy` | 全局变量仓库：love/lust 数值、剧情 flag、USER 终端 flag 组（terminal23/ipaddress 等）、注册角色（含 `se`=Sekai、`you did it`、"众神"名单）、cp* 创世问卷 flag |
+| `screens.rpy` | 全套 UI＋进度追踪：五条 reset 弧线留名、手机联系人直达 Trinity III |
+| `Phone.rpy` / `PhoneStyles.rpy` | 手机系统：61 个"x"联系人直跳 Trinity III；删除线"{s}Maya{/s}"联系人唯一按钮 "There is something buried underneath your feet" |
+| `replace.rpy` | **系统语言解码器**：伪语言 unnecessaryBS 把 hex/日/倒序/Zalgo 台词解码为红标英文（"am i okay"、"nothing falls but me"、"there is no god here. just noodles."） |
+| `happytracker.rpy` | HAPPY SCENES 追踪器：23 项官方承认的真叙事层隐藏场景清单＋官方提示 |
+| `mathhomework.rpy` | 名不符实的**电脑中枢**：完整作弊码表（wheredoesthetimego→"It's almost like real life now, isn't it?"） |
+| `headpatcentral.rpy` | 摸头小游戏（5948 行）：藏最浓 meta 台词（Molly 谈 bug 与"这游戏有没有结局"、Tsuneyo 乌鸦劝玩家关游戏） |
+| `jukebox.rpy` | 音乐室：曲名表本身是叙事文本 |
+| `newchecker.rpy` / `checker.rpy` | 新旧版进度校验（全事件完成度核查） |
+| `unlockables.rpy` | 解锁清单：服装/动画/短信图鉴及条件 |
+| `options.rpy` / `gui.rpy` / `setup.rpy` / `autopatch.rpy` | 全局配置（版本号 0.60.0 所在）/GUI 变量/和谐版敏感词表/旧存档补丁 |
+| `dlcmenu.rpy` / `carepackages.rpy` / `profile_outfits.rpy` | DLC 商店/DLC 框架（问卷正文实为 definitions cp* flag＋ch2script 文本）/菜单立绘换装 |
+
+### 2.5 特殊内容与迷你游戏文件（6 个）→ 详见 `02_特殊内容与迷你游戏文件精读.md`
+
+| 文件 | 内容一句话 |
+|---|---|
+| `deletedscenes.rpy` | 24 个废案：oldrwc 是"时钟房间"原型；两处旁白直证主角"接管"了原 Sensei 身份 |
+| `flowers.rpy` | Build-A-Maya：赛道之神 Horseface Taki 命 Akira Arakawa 收集 6 块 Maya 碎片；结局宣布本次 reset "irreversible"；Sensei 吐露"幸好拼的不是 Sekai——她死时碎片更多" |
+| `senseiquest.rpy` | 游戏中的游戏《Sensei-Quest》：Boss 战禁用回滚；杀死开发者 Fred 解锁童年闪回（Sekai 怀孕→与 Nozomu 双亡=循环起点） |
+| `nudes.rpy` | 44 张手机图片解锁（Kaori 为动物科普图） |
+| `animatedscenes.rpy` | 64 个 WebM 动画场景；bonus 自标"非正典、只为搞钱" |
+| `inappropriatecontent.rpy` | 成人内容主文件（124 label/3.4万行）：six 的 hex 名、ticktockx 直言 "Nothing is real. This is just a game"、Maya 被明写"能把世界 reset 回万圣节"、8 处输入 "Selebus" 触发的开发者彩蛋 |
+
+### 2.6 目录与其他文件
+
+| 路径 | 说明 |
+|---|---|
+| `images/` | CG/背景/缩略图资源（BGs 含 dorm2frinodokagone、dormmonyumigone 等"缺席状态"背景，本身是剧情证据）；webp 需转码查看 |
+| `_tools/digest_events.py` | 自研 Ren'Py→可读摘要脚本（label+行号+对话+跳转，lust 类截断） |
+| `_tmp_match/` | 中间产物区（digest 文本＋精读过程稿），正式成果已并入本区 |
+| `.workbuddy/memory/` | 跨会话工作日志（方法与进度记录） |
+| 根目录《剧情全梳理与分析.md》 | 04 的原件（保留不动），另有两份 PDF（Uta 排名日记、五周年 Selebus 问答）在上级 `LIL/` 目录 |
+
+---
+
+## 三、全作内容一页总结
+
+### 3.1 三层世界观
+
+```
+元层（玩家层）  旁白对屏幕喊话 / USER1–4 争终端23 / "Nothing is real" / 开发者 Selebus 自指
+循环层（机制层） Maya 执行 reset / 记忆跨循环残留 / USER 备份 / six·te·sev 世界维护者 / pareidolia=USER3
+表层（恋爱层）  Kumon-mi 小城 / 太空战争征召 99% 男性 / 37 名可攻略角色 / love·lust 数值
+```
+
+### 3.2 主线六阶段（重置时间线）
+
+1. **第一章**：失忆教师日常筑基 → 玩家经 trinity3 获得真实 IP，在终端输入 TERMINAL 23→IP→PORT 1024→USER2→密码 **Boobies123**，**亲手授权第二次重置**（玩家即 SYSTEM ADMINISTRATOR，USER2 无重置权限）。
+2. **第二章**：第一个冬天；第三次重置含 kindergartenclass（幼儿园幸福课，Sensei 童年创伤核心）与 goodboy（加害者逻辑镜像）。
+3. **第三章**：Ayane 觉醒、真名 **Akira Arakawa** 广播、Ami 之死。
+4. **第六次重置（finalwarning）**：纸片城密室逃脱；Maya 牺牲自我执行重置（记忆清零，只剩对 Akira 的爱）。
+5. **第四章《春》**：Sensei 出关夺回叙事权；Sensei-Quest 杀 Fred 解锁童年闪回——少年 Akira 与嫂子 Sekai 的禁忌关系、Sekai 怀孕、与兄 Nozomu 双亡＝**reset 循环的情感起点**；USER2 在 halloweenfive13/14 被 3.4×10^15 未授权连接压垮、"USER2 has been removed!"。
+6. **最新进度（chap4part2）**：宿舍战争 VI 战后；Kyoko（Nodoka 之母）暗线浮出。**未完结。**
+
+### 3.3 人物格局速写
+
+- **Akira Arakawa（Sensei）**：顶替者（deletedscenes 旁白直证"接管"原 Sensei 身份）、创伤幸存者（ 幸福课＋Sekai 事件）、待清算者。
+- **Maya**：重置执行者、被囚的锚、"main heroine of Lessons in Love. I do the time thing"（Karin 线显像）；Past-Maya/Real-Maya 双重结构（Rika 线）。
+- **Ami**：疑似 Akira 与 Sekai 亲生女儿；从甜妹侄女到黑化"收藏家"；USER1。
+- **觉醒者网络**：Makoto（最明确的跨迭代记忆者）、Ayane、Yumi（Rooftop Apocalypse Squad）＋ Kaori/Yuki/Tsuneyo/Nao 等。
+- **元层存在**：six/te/sev（世界维护者）、Himawari/Shi（天界管理员双化身）、Horseface Taki、众神（Halftone, God of Save Slots 等）、开发者（Selebus/Fred/Connor）。
+
+### 3.4 USER 机制（本次溯源定论）
+
+| 实例 | 身份 | 关键证据 |
+|---|---|---|
+| USER1 | Ami 线玩家实例 | Ami 线登录记录；终端中 OFFLINE |
+| USER2 | 主玩家/改写者（32 处） | 只能部分回退世界；第四章被移除 |
+| USER3 | **pareidolia**（空想性错觉/破墙叙述者） | trinity3 末接管 Terminal 23（小写温和语气）；Sana 自承 "you can call me pareidolia"（SanaEvents.rpy:5513）；gpm 商场正式名 "the great pareidolia mall" |
+| USER4 | 保留地址/备份源 | Nao 线 "RESTORING BACKUP FROM USER4"（Nao=TEMPLATE9）；涉嫌木马源头 |
+| USER5 | **不存在**（全局 0 处） | — |
+
+---
+
+## 四、本次补读的新发现与勘误（相对旧报告的增量）
+
+1. **版本**：0.55 → **0.60.0**（options.rpy:27）。
+2. **叙述声音勘误**：`s` = **Sensei**、`se` = **Sekai**（definitions.rpy:2322/2348）。此前把 `s` 误作 Sekai；"USER2 stuff" 质问出自 Sensei 之口。
+3. **pareidolia=USER3 证据链闭合**（旧日志标注的空白已补齐，见 03b）：三重身份——系统音/脑内旁白/被驱逐过的神（"return to a mind that has already purged you once?"）。
+4. **第二次重置的授权结构**：解谜链条（终端/IP/端口/用户名/密码）逐行定位至 script.rpy:36598–36750；IP 答案早在 trinity3 由旁白抄给玩家（33886–33888）。
+5. **USER2 退场**：chap4.rpy:20494–20544 被海量未授权连接压垮后移除；USER4 涉嫌木马源头。
+6. **replace.rpy 解码层**：此前未知的"系统语言解码器"，把 hex/日/倒序/Zalgo 台词还原为红标英文，是跨文件 hex 母题（"am i okay" 等）的机制解释。
+7. **carepackages 勘误**：旧报告所称"月度礼包问卷"正文实为 definitions.rpy cp* flag＋ch2script.rpy:44103 起文本；carepackages.rpy 本体只是 DLC 框架。
+8. **chap4hub 骨架**：第四章"三时段事件门＋dellaslump 强制开场＋37 女达标巨门"的玩法结构首次完整梳理。
+9. **deletedscenes 身份证据**：oldrwc 原型中系统输出 `roomwithclocks=False / totaldays=False` 并重启＋两处"接管"旁白，为"主角顶替原 Sensei"提供最直白源文。
+
+---
+
+## 五、方法论与信源分级
+
+- **流程**：`_tools/digest_events.py` 生成带源行号摘要 → label 总表 → 定向精读 → 六部分结构落盘 → 跨文件交叉验证（grep 全局复核关键引文）。
+- **引文格式**：单文件报告 `[N]`＝源文件行号；跨文件报告 `文件名.rpy:[N]`。所有关键断言可回查原文。
+- **信源分级**：① 系统播报/终端文本（最高，世界机制直证）；② 角色清醒台词；③ 角色醉酒/故障/梦境台词；④ 旁白与元层喊话（需判定双声归属——Sensei `s` / Sekai `se` / pareidolia 无框旁白，判据见 03b §〇）；⑤ 戏内传闻与回忆（最弱，可能有误记）。
+- **已知局限**：外围角色（批次 C/D）采用"交叉点浓缩"策略，完整养成链未逐事件线性复述；`inappropriatecontent.rpy` 按结构归类＋元叙事关键词定向精读，未逐行。
