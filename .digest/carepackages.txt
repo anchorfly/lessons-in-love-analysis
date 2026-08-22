@@ -1,0 +1,9 @@
+[43]            if package.name == name :
+
+===== [56] care_package_menu =====
+[58]    $ open_package = renpy.display_menu(care_package_choices())[0]
+[60]    if open_package is not None:
+[62]        jump care_package_menu
+[63]    else:
+[64]        jump computermenu
+[71]        style_prefix "aff"

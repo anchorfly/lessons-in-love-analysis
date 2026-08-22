@@ -1,0 +1,1466 @@
+===== [1] LABEL oldrwc =====
+[13] N: ...
+[14] N: ...
+[15] N: ...
+[16] N: ...
+[17] N: ...
+[18] N: ...
+[19] N: ...
+[20] N: ...
+[21] N: ...
+[22] N: ...
+[23] N: ...
+[24] N: ...
+[25] N: ...
+[26] N: ...
+[27] N: ...
+[28] N: ...
+[29] N: ...
+[30] N: ...
+[31] N: ...
+[32] N: ...
+[33] N: I wake up in a room with clocks.
+[34] N: I wonder how I got here?
+[36] s: ...
+[38] N: There is a girl in the corner of the room, standing still and staring straight ahead.
+[39] N: It’s quiet enough that I can hear her shallow breaths reverberate and bounce off of the walls.
+[40] N: She looks vaguely familiar.
+[41] N: Where have I seen her before?
+[43] six: Welcome to the edge of the world.
+[44] six: I’m glad you found the time to visit.
+[45] s: Do...I know you?
+[46] six: ...
+[59] N: The girl becomes an ornament.
+[60] N: The kind you want to hang on a Christmas tree.
+[61] N: I try to reach out to her, but my hands are tied to a chair.
+[62] N: I struggle to break them free to no avail.
+[64] six: Welcome to the edge of the world.
+[65] six: There is something buried underneath your feet.
+[66] s: Oh, I thought you were dead.
+[67] s: Is it hard to breathe like that?
+[68] six: No harder than it normally is.
+[69] s: I see.
+[71] N: The {s}three{/s} two of us spend the next few minutes getting to know one another.
+[72] N: My favorite song comes on.
+[77] N: ///////////////PLAY SWEETVERMOUTH.MP3
+[79] N: That’s more like it.
+[81] six: つかれた。つかれた。つかれた。つかれた。つかれた。つかれた。
+[83] s: Me too, 61 6d 20 69 20 6f 6b 61 79.
+[85] N: A guy I knew in [high_school] suddenly died one day when his teeth melted and slid to the back of his throat.
+[86] N: The enamel rehardened, blocking his airway and causing him to suffocate.
+[87] N: It happened at summer camp while the rest of us were sleeping.
+[88] N: That was the first corpse I ever saw.
+[103] six: こんばんは。
+[104] s: You look much nicer up close.
+[105] six: Welcome to the edge of the world.
+[106] six: There is something buried underneath your feet.
+[107] s: Can you tell me what it is?
+[108] six: 笑笑笑笑笑笑笑笑笑笑笑笑笑笑笑笑笑
+[109] s: You’re going to have to speak a little louder.
+[122] N: Like a spider, the girl swiftly moves across the wall, somehow managing to not knock any of the clocks off.
+[123] N: A remarkable talent, that is.
+[125] six: Welcome to {s}sssssssssssssssssssssssss{/s}
+[126] six: There is something buried underneath your feet.
+[128] N: Which door do I want to knock on?
+[131] *OPT: God
+[134] *OPT: Is
+[137] *OPT: Dead
+[140] s: {b}[[Redacted]{/b}, are you in there?
+[142] N: ...
+[143] N: There’s no answer.
+[148] N: {i}Congratulations! Your affection with EVERYONE has increased to 100!{/i}
+[149] N: {i}Congratulations! You have discovered HM02!{/i}
+[150] N: {i}You can now teach {b}Fly{/b} to one of the students!{/i}
+[151] N: {i}Who would you like to teach {b}Fly{/b} to?{/i}
+[164] N: A mysterious hand appears and injects the HM into my thigh.
+[167] N: I get an erection for some reason.
+[169] six: There is something buried underneath your feet.
+[170] six: There is something buried underneath your feet.
+[171] six: There is something buried underneath your feet.
+[172] six: There is something buried underneath your feet.
+[173] six: ああああああああああああああああああああああああああああああああああああ
+[174] s: Shh...It’s going to be okay.
+[175] s: You don’t need to be scared anymore.
+[184] N: The body disappears.
+[193] N: Then reappears.
+[202] N: Then disappears again.
+[211] N: Then reappears.
+[220] N: This goes on for hours.
+[229] N: Eventually, I can feel the blood in my body begin to slow down.
+[238] N: My teeth melt and slide to the back of my throat.
+[244] N: I suffocate.
+[245] N: I die.
+[246] N: //////////////REcoorDinating
+[247] N: /////////Please stand by as system reboots
+[248] N: ////////////////////////roomwithclocks = False
+[249] N: ///////////////totaldays = False
+[250] N: /////////////////Happiness = True
+[252] N: ///////Play “Sweetvermouth.mp3”
+[253] N: ////////////System restart in 10...
+[254] N: ///////////9
+[255] N: ///////////8
+[256] N: ///////////7
+[257] N: ///////////6
+[258] N: ///////////5
+[259] N: ///////////4
+[260] N: ///////////3
+[261] N: ///////////2
+[262] N: ///////////1
+[263] N: {i}Your affection levels have been returned to their normal state.{/i}
+[264] N: {i}Please forget what you saw here.{/i}
+[268] N: .........
+[269] N: ......
+[270] N: ...
+[275] >> jump deletedscenemenu
+===== [278] LABEL thechuscene =====
+[283] s: ...
+[284] ay: ...
+[286] N: That’s odd. I could have sworn I locked the door...
+[287] N: Do locked doors just not register in this world or something?
+[291] ay: Sensei...What are you doing in here?
+[292] s: You...know I live here, right?
+[293] ay: No, well, yes. I mean. Yes, I know that you live here.
+[294] ay: But like-
+[295] ay: Uhh...
+[296] s: I was about to take a bath. You’re welcome to join if you’d like.
+[297] ay: I’m- what? Wait, really? You wouldn’t mind?
+[298] s: I wouldn’t. I can’t really speak for the other two, though.
+[299] ay: Other two?
+[300] s: Aren’t you having a sleepover with Ami and Maya?
+[301] ay: ...Oooooh. Yeahhh. Those two. Uh-huh...
+[302] ay: ...
+[303] s: ...
+[308] ay: {i}Holy heck...{/i}
+[309] s: You’re uhh, staring pretty intensely, aren’t you?
+[310] ay: I’m...what?
+[315] s: You’ve been staring at my dick since you walked in here.
+[316] ay: Oh...Right. I guess I have been.
+[317] ay: ...
+[321] ay: It’s really big.
+[322] s: Thanks. It gets even bigger, you know.
+[323] ay: Really? How much bigger?
+[324] s: Probably another couple inches.
+[328] ay: ...
+[329] ay: Woooow...
+[330] ay: It’s my first time seeing one in real life.
+[331] s: Yeah. I can tell.
+[332] s: You’re like a deer in headlights right now.
+[336] ay: Has Ami seen it before?
+[338] N: Do dreams count? Because if they do, she saw quite a bit of it this morning.
+[341] *OPT: Yeah, she has
+[342] s: She has. We’ve lived together for a number of years. It was bound to happen eventually.
+[343] s: You’re not the only person to ever walk in on me, you know.
+[344] s: Just yesterday, I actually walked in on her while she was in the bath.
+[345] ay: Really? What happened next?
+[346] s: She, uhh, yelled at me and kicked me out of the room.
+[350] ay: That’s it? Nothing else happened?
+[351] s: Nope. That’s it.
+[352] ay: I see...
+[353] s: ...
+[357] ay: ...
+[358] ay: I can't stop looking at it.
+[360] >> jump ayanebr
+[362] *OPT: No, she hasn't
+[363] s: Nope. Wouldn’t really be morally acceptable for me to flash my [niece].
+[364] ay: So...I’m the first one then?
+[366] N: I guess...in this life, yeah?
+[368] s: Looks that way.
+[369] ay: Wow...I’m...
+[373] ay: ...
+[377] ay: I can’t stop looking at it...
+[379] >> jump ayanebr
+===== [382] LABEL ayanebr =====
+[384] s: It’s okay. I really don’t mind. We’re both mature, right? Being naked like this isn’t much of a problem.
+[388] ay: Mature...
+[392] ay: I mean, uh, of course we’re both mature. I don’t mind this at all.
+[396] ay: Yup...Just a totally normal...really big...penis...
+[400] ay: Sooo...do you like, come here often and stuff?
+[401] s: Several times a day, actually.
+[402] ay: I see, I see. Cool.
+[404] N: This has gotten so awkward that I can’t even form an erection.
+[408] ay: Do you like...you know...touch it and stuff?
+[409] s: It would be pretty impossible to not touch it since it’s part of my body and whatnot.
+[413] ay: Ahh, right. That would be kind of hard, wouldn’t it?
+[417] ay: You poor thing...having to carry something that big around all day.
+[418] s: I’ve learned to live with it.
+[422] ay: Heh~ I bet. I mean, of course I didn’t expect it to be small or anything.
+[423] ay: But like-
+[427] ay: ...
+[428] ay: Wow...
+[429] ay: Is it, uhh, getting kind of hot in here?
+[431] N: This almost hurts to watch.
+[433] s: Sure. Maybe a little, I guess.
+[437] ay: You know, Sensei...
+[438] ay: I wouldn’t really mind...{i}giving you a hand{/i} from time to time...
+[439] ay: I mean, I’ve never really done anything before...but if it’s with you, I wouldn’t really mind.
+[440] ay: In fact, I’ve been wanting to get closer to you for a while now.
+[441] ay: And since we’re, uhh, both so {i}mature{/i} and stuff...I think it would be fine.
+[442] s: Really? That would be a big help. Thanks, Ayane.
+[443] s: I wouldn’t mind helping you out either.
+[447] ay: Helping me out?
+[448] ay: ...You mean?
+[449] s: I’m sure you know what I mean.
+[450] s: After all, it wouldn’t be fair if I was the only person getting something out of this deal, would it?
+[454] ay: That’s right...Yeah. That wouldn’t be fair at all...
+[455] ay: ...
+[456] ay: Mm...
+[457] s: You’re staring again.
+[462] ay: {i}There’s no way in hell that thing would fit inside of me...I can barely even fit two fingers in...{/i}
+[463] ay: {i}Mmn~ Just thinking about it is...{/i}
+[468] ay: So umm...Yeah...You can help me out whenever you want.
+[472] ay: Like I said, I’ve kind of liked you for a while now and...
+[473] s: We’d need to keep it a secret, though. Would that be okay with you?
+[477] ay: A secret? How come?
+[478] s: You really need to ask?
+[479] s: You’re best friends with my [niece], you’re one of my students, and not to mention-
+[483] ay: Right, right. Yeah, of course. I get it.
+[484] ay: I’d feel horrible if anything happened to you because of me.
+[485] s: I’m glad you understand.
+[489] ay: A secret relationship with Sensei...
+[493] ay: I hope he’s okay with someone like me...
+[494] s: Ayane, you’re speaking out loud when I'm pretty sure you’re trying to have an inner monologue.
+[498] ay: Huh? What? Oh, yeahhh. I knew that. Hahahah~
+[499] s: Whatever you say...
+[500] ay: Hey, umm, Sensei...
+[501] s: Yes?
+[502] ay: Would you mind if I like...
+[503] ay: You know...
+[507] ay: Touched it?
+[508] s: Go right ahead. Like I said, I don’t mind at all.
+[509] s: You’re going to have to take responsibility if it gets any bigger, though.
+[510] ay: Heh~ Right, right. Of course! I’ll gladly take...responsibility of...
+[514] ay: ...
+[515] ay: Ngh~
+[520] N: Ayane slowly walks up to me and kneels down.
+[521] N: After observing my dick for a few moments, she carefully places her index finger on the head.
+[523] s: You know you can do more than that, right?
+[527] ay: I know. I’m just warming myself up...
+[528] ay: Like I said, I’ve never seen one in real life before...let alone one this big.
+[532] ay: And it’s even bigger up close...
+[533] ay: {i}It's actually kind of scary...{/i}
+[534] s: Well I’m glad you seem to be enjoying it.
+[535] ay: It’s like...as big as my head...
+[539] ay: Hey, Sensei, do you feel weird knowing that one of your students is touching your penis right now?
+[540] s: I certainly feel something...
+[541] ay: Hehe~ I feel really naughty...
+[545] ay: Hey, umm...It might help me out a little if you were to like...
+[549] ay: Tell me what to do...and stuff...
+[551] N: No surprise that Ayane is the submissive type. I’ve had her pegged that way since the moment we met.
+[552] N: This should be fun...
+[556] s: Okay. I’ll give you a few orders and you can do your best to act them out.
+[557] s: If you need help, I can give you a few pointers, but I’ll expect you to get the hang of things quickly.
+[561] ay: Sir, yes sir.
+[562] s: Okay, so first, I’ll need you to-
+[567] a: Ayane? You’ve been in there for a while. Is everything okay?
+[571] ay: Uhh, yeah! Everything is fine! I’ll be out in a minute!
+[572] a: Okay, if you say so!
+[573] a: Also, have you seen Sensei by chance? His shoes are here so I thought he might be-
+[574] ay: Nope! Maybe he went...out for a walk??
+[575] a: Without his shoes?...
+[576] ay: Uhhhh, men are strange!! What do you want me to tell you?!
+[577] a: Right...Well, we’ll be in my room whenever you’re done.
+[578] ay: Okay! Thank you!
+[580] N: ...
+[582] ay: ...
+[586] ay: Why must life be so miserable?
+[587] s: That’s just the way things are, I’m afraid...
+[591] ay: I...should probably get going then, huh?
+[593] N: As much as I want her to stay, we’d be at risk of being discovered if she kept herself in here any longer.
+[595] s: Unfortunately...I think so.
+[599] ay: Ugh...We just got to the good part too...
+[600] s: It’s fine. I’m sure there will be other good parts.
+[604] ay: I sure hope so. I want to see how much bigger this thing can get...
+[605] ay: Also, since we’re getting cut off early and stuff, I guess it wouldn’t hurt to give you a goodbye present.
+[606] s: A goodbye present? What do you-
+[611] ay: Chu~
+[613] N: Ayane’s soft lips press against the head of my cock.
+[614] N: I can feel myself beginning to get hard from the surprise attack.
+[615] N: Her hot breath provides a sensation I haven’t felt in god-knows-how long.
+[619] ay: I’m sorry I couldn’t do more to help you today...Will you ever forgive me?
+[620] s: ...I suppose so. I’m going to need you to do that a few more times, though.
+[621] ay: Sir, yes sir.
+[625] ay: Chu~ Ngh...Chu~
+[626] ay: Mmf...
+[627] ay: Chu~ Chu~ Chu~
+[629] N: She batters my dick with kisses, keeping her eyes closed the entire time.
+[630] N: She’s surprisingly obedient for a girl who’s never seen a penis before.
+[631] N: Just how much does she like me?
+[635] ay: Sensei, are you going to jerk off to this later?
+[636] s: Most likely, yes.
+[637] ay: Heh~ Good...
+[638] ay: That makes me really happy...
+[639] ay: I...already think of you when I touch myself so...
+[643] ay: Chu~
+[645] N: Ayane kisses my dick one last time before getting off of the ground and shakily walking out of the bathroom.
+[646] N: I hope the other two don’t notice how red she’s gotten...
+[652] N: .........
+[653] N: ......
+[654] N: ...
+[659] >> jump deletedscenemenu
+===== [662] LABEL day16old =====
+[665] N: 
+[671] N: ...
+[676] ay: Okay, Sana! Just like we practiced! Are you ready to do this?
+[680] sa: Umm...I don’t really know if this is a good idea...
+[681] sa: Are you sure he isn’t going to notice?
+[685] ay: Of course I’m sure! We’ve rehearsed it plenty of times in the dorm room.
+[686] ay: You’ve just gotta be really convincing with your acting and there’s NO WAY we can fail!
+[690] sa: That sounds easier said than done...
+[694] ay: It’ll be fine! Don’t worry about it.
+[701] s: Okay girls...Time to do that running thing or whatever it is you’re supposed to do for the next half hour.
+[702] s: On my mark! Three...two-
+[704] sa: UHHH...OH NOOO! AYANE HAS FALLEN! THIS IS A TRULY TRAGIC EVENT!
+[705] s: ...?
+[710] ay: Ow! It hurts so bad! I don’t think I can move it!
+[715] sa: SHE WILL NEVER WALK AGAIN!
+[719] s: What’s going on? Are you okay, Ayane?
+[723] ay: Sensei?...Is that you...Your voice sounds so...distant...
+[728] sa: THE LIGHT IS FADING FROM HER EYES!
+[729] s: Okay Sana, I’m going to need you to step aside for a moment.
+[733] sa: Oh...I’m sorry...I...
+[734] sa: Um...
+[735] sa: Bye, then...
+[740] s: What happened? You weren’t even supposed to start running yet.
+[741] ay: I...I don’t know...One moment I was talking about the decline of our current economy and...
+[742] ay: The next thing I know...I can’t feel my legs...
+[743] ay: Sensei...am I going to die?
+[744] s: You’re not going to die.
+[745] s: Here. I’ll carry you to the nurse’s office.
+[746] ay: If...that is what you feel must be done...I suppose I have no choice...
+[750] ay: I will...be in your hands...
+[755] ay: Thank you Sensei...I know how heavy I must be...
+[756] s: You’re like 80lbs. You’re not heavy at all.
+[757] ay: Of course you would say that...You’re a big strong man and I am but a frail [young]woman.
+[758] s: Right...
+[759] ay: Sensei...what will I do if I can never walk again?
+[760] ay: Will you carry me everywhere for the rest of your life?
+[761] s: Uhh, I mean...I could push you around in a wheelchair from time to time.
+[762] ay: I see...You truly are every bit as caring as I thought you were.
+===== [765] LABEL fallenangelrep =====
+[774] s: Hello? Is there a nurse around?
+[775] ay: Sensei...I’m afraid the nurse is not in on Fridays...
+[776] s: What kind of weird schedule is that? People can still get hurt on Fridays.
+[777] ay: I think...you might need to take care of me yourself...
+[778] s: ...
+[780] N: Ah. So that's what’s going on here.
+[782] s: Yup. It looks that way...
+[783] ay: Th-thank you, Sensei...I’ll be in your care...
+[790] N: I carry Ayane through the curtains and lay her down on the bed.
+[792] >> jump ayanenursex
+===== [795] LABEL ayanenursex =====
+[798] ay: ...
+[799] s: ...
+[800] ay: Are you going to touch me?
+[801] s: Of course.
+[802] s: Could you point out where it hurts?
+[803] ay: ...
+[808] N: Ayane points toward her legs. They tremble as she focuses everything she has on trying to remain calm.
+[813] N: She flinches slightly as my hand comes into contact with her skin.
+[814] N: 
+[817] s: Here? Is this where it hurts?
+[818] ay: ...
+[819] ay: I think it’s a little higher...
+[820] s: Hmm.
+[825] s: Here then?
+[826] ay: That’s closer...I think it still might be a {i}little{/i} higher up, though...
+[828] N: 
+[834] ay: Ah! Sensei!
+[835] s: This must be it based on how you jumped just now, right?
+[836] ay: R-Right...It hurts really bad...You’re going to need to do something about it...
+[837] ay: I don’t know how much more of this I can take...
+[TRIMMED 100 lines of explicit content]
+[1038] N: 
+[1040] N: Honestly, I was hoping to have gotten something out of this as well, but I guess it can’t be helped.
+[1041] N: 
+[1043] N: 
+[1046] N: .........
+[1047] N: ......
+[1048] N: ...
+[1053] >> jump deletedscenemenu
+===== [1056] LABEL amibathx =====
+[1060] a: ...
+[1061] a: {i}*Sigh...*{/i}
+[1062] a: I wonder what’s going on with him...
+[1066] s: Ami? Are you almost done in there? It’s been a while.
+[1067] a: Could he really just be tired?
+[1068] a: No...That can’t be it.
+[1069] a: He’d never forget me, no matter how tired he is.
+[1073] s: Hey, are you okay? Did you drown?
+[1074] a: Maybe he’ll be fine in the morning, then?
+[1075] a: Yeah...That’s it. I’m sure everything will go back to normal soon.
+[1079] N: ...
+[1080] s: Oh. You’re alive.
+[1085] a: Huh?...
+[1087] N: 
+[1089] N: Does she not realize I’m here or something?
+[1090] N: 
+[1093] a: Weird...A hallucination?
+[1094] a: Did I stay in the bath too long?
+[1096] N: Or maybe that’s not the case at all...
+[1098] s: Yeah. You’ve been in here for almost an hour. I thought you died.
+[1099] a: Huh...Do hallucinations always talk?
+[1100] s: I’m not a hallucination.
+[1101] a: Ooooooh...I see.
+[1106] a: ...
+[1107] s: ...
+[1108] a: ...
+[1109] s: ...
+[1113] a: Wait-
+[1114] a: Does that mean...
+[1116] N: 
+[1121] a: W-WHAT ARE YOU DOING IN HERE?! CAN’T YOU SEE I’M BUSY?!
+[1122] s: Like I said, I thought you died or something.
+[1123] a: HOW WOULD I DIE IN THE BATH?!
+[1124] s: I don’t know. Maybe you slipped and cracked your head open or something.
+[1125] a: I DIDN’T! I’M TOTALLY FINE! NOW GET OUT!!
+[1126] s: Okay...If you say so. Just hurry up in here.
+[1127] a: I WILL! JUST PLEASE LEAVE!!
+[1135] N: I move out of the bathroom and close the door behind me.
+[1136] N: 
+[1138] N: I wonder if it would technically qualify as [incest] if the two of us were to hook up?
+[1139] N: I mean, it's not like I'm {i}really{/i} her [uncle]...
+[1140] N: Sure, she might not exactly know that yet, but still.
+[1145] a: ...
+[1146] a: I thought I told you no peeking...
+[1147] s: I knocked on the door but you didn’t answer. I thought something might have happened to you.
+[1148] a: Wait, you knocked?
+[1149] s: Yeah, a few times actually.
+[1154] a: Oh...I see...I guess it’s not really your fault then...
+[1155] s: Why do you seem so embarrassed? We’re family aren’t we?
+[1160] a: Well, yeah...but...
+[1165] a: {i}I guess he wouldn’t think much of my stupid body anyway...{/i}
+[1166] s: It’s fine. You can even walk around the house naked for all I care.
+[1168] N: In fact, I more than welcome that idea.
+[1173] a: N-No way! I’d never do that! Not in a gazillion years!
+[1178] a: Plus, wouldn’t that mean you'd be doing the same thing?...I don't know how I feel about that...
+[1179] s: Not particularly. What if one of your friends or a staff member showed up at the house?
+[1180] s: I could theoretically get in a lot of trouble being seen like that.
+[1185] a: Yeah...I guess that would be pretty bad, wouldn’t it?
+[1190] a: But either way! I don’t want you seeing me like that! It makes me feel weird...
+[1191] s: Weird? How so?
+[1192] a: Like, my chest gets all tight and I’m suddenly super self-conscious and it makes me want to die and stuff...
+[1193] s: Well, if it makes you feel any better, I think you’re absolutely adorable.
+[1198] a: That makes me feel even worse!
+[1203] N: Ami storms off into her room and slams the door behind her.
+[1205] a: I-I’ll make dinner while you’re in the bath! I just need to cool off for a few minutes!
+[1207] N: She’s clearly flustered. I’m assuming that’s the first time a boy has seen her naked since she was little.
+[1208] N: I guess that teaches me something about her relationship with Sensei, though.
+[1209] N: Even if the two of them were close, they weren’t up to anything unsavory.
+[1210] N: That actually makes me feel kind of good, in a way. 
+[1211] N: Ami’s innocence is one of the cutest things she has going for her, right next to the twintails.
+[1212] N: 
+[1214] N: Though, I can’t say I wouldn’t accept any advances...I’m only human, after all.
+[1219] N: I remove my clothes and get into the water Ami had been soaking in just moments ago.
+[1220] N: Now...what am I going to do about this erection?
+[1226] N: .........
+[1227] N: ......
+[1228] N: ...
+[1233] >> jump deletedscenemenu
+===== [1236] LABEL day23 =====
+[1241] N: It’s Friday and the girls are in the library for some study hall thing.
+[1242] N: 
+[1244] N: 
+[1246] N: How ridiculous is that?
+[1247] N: I’m going to have to put in a complaint letter or something.
+[1254] s: Okay, I’m here. Sorry for being late again.
+[1255] r: Oh, Sensei! Over here.
+[1260] s: Hey. Where did everybody else go?
+[1261] f: They left when you didn’t show up...
+[1262] r: Forget about them, Sensei. We need your help.
+[1263] s: With what?
+[1264] r: Okay, so-
+[1269] >> jump maleanatx
+===== [1272] LABEL maleanatx =====
+[1272] r: We need you to tell us everything you know about the male anatomy.
+[1273] s: ...
+[1274] s: Everything?
+[1275] r: Well, everything that’s going to be on the anatomy test.
+[1276] f: Rin...I don’t know if Sensei is comfortable with-
+[1277] s: Sure. Where do you want me to start?
+[1282] r: I knew we could count on you!
+[1283] r: 
+[1289] f: Oh god...I’m feeling really light-headed all of a sudden...
+[1294] r: Dude, chill. You’re going to be fine.
+[1295] r: Plus, now you can ask Sensei anything you want about male bodies and stuff!
+[1300] r: 
+[1302] f: I think I’m going to pass out...
+[1303] s: I won’t be weird at all. I’m your teacher, so it’s totally fine to ask things like this.
+[1308] f: Th-then...I guess...that’s okay...
+[1309] r: Okay! So, first question...
+[1311] N: Rin points her finger down at a diagram of the male genitalia in her textbook.
+[1313] r: Is this bigger or smaller than a normal one?
+[1314] s: That question can’t possibly be on the test, can it?
+[1315] r: Who knows?
+[1320] f: Rin! You asked Sensei if he was going to be weird but now you’re the one being weird!
+[1325] r: What do you mean? You literally just said you wanted to know if-
+[1330] f: I said nothing of the sort!
+[1335] f: S-Sensei! What we really need to know is the...umm...layout...of all the parts and stuff.
+[1336] r: 
+[1338] r: How weird is that?
+[1339] s: Very weird.
+[1340] s: Here, let me have a look.
+[1345] N: Futaba hesitantly slides her textbook over to me and I begin pointing out the different sections of the male genitalia.
+[1347] s: Well, this thing here is obviously the penis.
+[1348] f: R-right...The...p-p-penis...What we’re confused about is-
+[1349] r: We basically have no idea what all the inside parts are called.
+[1350] r: Like all the stuff connected to the balls or whatever.
+[1351] s: Rin, you are surprisingly casual about all of this.
+[1352] N: I slide Futaba's textbook back to her
+[1357] r: Why wouldn’t I be? It’s just a drawing. It’s not like it’s a real person or whatever.
+[1362] f: R-real...
+[1363] s: I guess that’s a fair point.
+[1364] s: Here, I’ll go through each part’s name and function with you...
+[1369] N: I spend the next ten minutes describing the male reproductive system to Rin and Futaba.
+[1370] N: 
+[1372] N: I think she’s having a hard enough time just staying conscious.
+[1374] s: And that’s basically everything you need to know. Any questions?
+[1375] r: Hmm...Nope! I think I’m good!
+[1380] r: How about you, Futaba? Are you also a master of the male body now?
+[1381] f: M-master?...
+[1382] s: Like I said, if you have any questions at all, I’m happy to help.
+[1384] N: {i}I also wouldn’t mind giving you a more visual demonstration.{/i}
+[1389] f: Umm...I...think that’s about everything I need to know...
+[1394] r: Really? Because before you were saying-
+[1399] f: THAT'S EVERYTHING! THANK YOU FOR YOUR HELP, SENSEI!
+[1400] f: I’m...going to go to the restroom now!
+[1405] N: ...
+[1407] r: Woah...She normally doesn’t yell like that.
+[1408] s: Yeah, that was a little surprising. I get it, though.
+[1409] s: 
+[1411] r: Nahh. It’s only awkward if you make it awkward.
+[1416] r: Look at me! I’m totally cool right now.
+[1421] r: I...should probably go make sure Futaba is okay, though.
+[1426] r: But thanks again for all your help, Sensei! You’re a real lifesaver.
+[1427] r: Next drink at the cafe is on me, okay?
+[1430] s: Oh, awesome. Hopefully you’ll actually make my order this time.
+[1431] r: Heheh~ We’ll see!
+[1434] s: Oh really? I’ll have to drop by sometime. Thanks, Rin.
+[1435] r: Any time~!
+[1440] N: Rin leaves as well and suddenly I’m all alone in the library...
+[1446] N: 
+[1449] N: .........
+[1450] N: ......
+[1451] N: ...
+[1456] >> jump deletedscenemenu
+===== [1459] LABEL makotodorm10 =====
+[1463] N: I knock on Makoto’s door, hoping she’s still awake.
+[1464] N: 
+[1466] N: Miku, on the other hand, I can imagine being up all night long.
+[1467] N: So I guess I can just hang out with her if Makoto’s in bed already.
+[1469] mak: The door’s open! Come in!
+[1475] N: ...
+[1482] mak: So, to what do I owe this-
+[1487] mak: Wait, Sensei?! What are you doing here so late?
+[1488] s: I was wondering why you just let me walk in.
+[1489] mak: I thought you were one of the girls...
+[1490] s: Yeah, I figured as much. You look really cute in your pajamas.
+[1495] mak: Really?...You think s-
+[1500] mak: Hey, wait a second! Don’t try to distract me like that! You need to get out of here!
+[1501] s: Why?
+[1502] mak: Because it’s late...and someone might get the wrong idea if they saw you come in.
+[1504] >> jump makotomassx
+===== [1507] LABEL makotomassx =====
+[1507] s: So what? It doesn’t really bother me if people think we’re up to something.
+[1509] s: 
+[1515] mak: Wait...
+[1516] mak: Don’t tell me that’s why you’re here tonight?...
+[1517] mak: You don’t think you can just ask me to do something like that whenever you want, do you?
+[1518] s: Of course not. I haven’t even unlocked your Lust stat yet.
+[1523] mak: My...what?
+[1524] s: 
+[1526] s: Also, where’s Miku at? Should we be worried?
+[1531] mak: 
+[1533] s: So the two of us have the entire night together?
+[1538] mak: 
+[1544] mak: No one...saw you come in, did they?
+[1547] s: Nope. We’re in the clear.
+[1548] mak: Okay...just making sure.
+[1550] s: ...
+[1555] mak: ...
+[1556] s: ...
+[1561] mak: Ugh...how am I going to explain this?
+[1562] s: Just tell them we were going over[school] stuff.
+[1563] mak: It’s so late, though...they’ll never believe that...
+[1569] mak: Anyway, do you want some coffee or anything? I just made a fresh pot.
+[1570] s: Why are you making coffee this late? Aren’t you going to bed soon?
+[1571] mak: 
+[1573] s: That sounds...incredibly boring.
+[1578] mak: Boring? What do you mean? Learning is never boring.
+[1579] s: Idea rejected. Think up something else.
+[1584] mak: What?...Why?
+[1585] s: 
+[1591] mak: T-together?...
+[1592] mak: I mean, there’s not really much the two of us can do this late...
+[1593] s: 
+[1599] mak: 
+[1601] mak: 
+[1603] s: ...
+[1604] mak: ...
+[1605] s: Taken care of what, Makoto?
+[1606] mak: Nothing!
+[1607] s: You were touching yourself earlier, weren’t you?
+[1608] mak: ...
+[1609] s: ...
+[1610] mak: I already told you I never get the chance to do stuff like that! Excuse me for seizing a valuable opportunity!
+[1611] s: Wow, the dependable and responsible class rep Makoto Miyamura, getting herself off while her best friend is out of the room.
+[1612] s: That’s almost as nice of an image as that handjob I got.
+[1613] mak: Can you stop talking about that?! It never would have happened if you didn’t just take your pants off out of nowhere!
+[1614] s: Well I’m glad I did. The way you cuddled up against me was adorable. I always had a feeling you could be that cute.
+[1619] mak: 
+[1621] s: Jeez, if only we knew some sort of way to reduce stress.
+[1628] mak: ...
+[1629] s: ...
+[1634] mak: Okay, fine. I’ll let you massage me since you seem so dead-set on it.
+[1635] mak: But nothing more!
+[1636] mak: {size=-15}I’m kind of sensitive after I've already done it once, so...{/size}
+[1637] s: I’m sorry, what was that? I didn’t hear you.
+[1642] mak: Nothing! Please refrain from listening to my thoughts!
+[1647] N: 
+[1654] mak: Guh...I forgot how good this feels...
+[1655] s: See? Don’t you feel mean for talking to me with such a poor attitude now?
+[1656] mak: Yes...I...apologize for my treatment of you, Sensei...
+[1657] mak: I know you just want to help me relax...
+[1661] mak: I just get too wrapped up in myself that I forget how other people feel sometimes.
+[1662] s: ...
+[1663] mak: 
+[1665] mak: 
+[1667] mak: Or whatever it is normal [teenage]girls do.
+[1669] N: 
+[1671] N: 
+[1676] mak: Hah...wow...you’re like...some kind of expert at this...
+[1677] mak: Maybe I’ll...give up on teaching and become a massage the[rapist]...
+[1678] s: I don’t think that’s a good idea.
+[1680] N: I break my two minute no-advice streak to chime in on the idea of her ruining her future.
+[1684] mak: How come? I hear they make good money. Even more than teachers in some cases.
+[1685] mak: Well, being a teacher isn’t exactly a high paying job either, as I’m sure you know already...
+[1686] s: Being a massage the[rapist] comes with its own set of difficulties.
+[1687] s: For example, what would you do if you had a male client who got a little too handsy with you?
+[1688] mak: Aim for the balls.
+[1689] s: ...I’m sorry, what?
+[1690] mak: You know what I’m talking about. That’s a male’s most sensitive area.
+[1691] mak: If anyone ever got too handsy with me, I’d simply utilize their weak point to my advantage.
+[1692] s: ...
+[1693] mak: ...What? Why are you silent all of a sudden?
+[1694] s: You’re strangely intimidating at times, did you know that?
+[1695] mak: Really? I don’t think so at all.
+[1696] s: Follow up question, what if I were the one to get handsy with you?
+[1700] mak: You already know how I respond to that situation.
+[1701] s: Do I?
+[1702] mak: 
+[1704] s: True. Well worth it, though.
+[1705] mak: I’m sure. And now that you’ve learned your lesson, we don’t ever have to worry about-
+[1710] mak: Ah-! Hey! Where do you think you’re touching?!
+[1711] s: Relax. It’s just part of the massage.
+[1712] mak: Like I’d believe th-
+[1716] mak: Ah-!
+[1718] N: Makoto lets out a high pitched gasp as I begin to lightly massage her breasts.
+[1719] N: Even through her bra, I can feel her nipples beginning to harden.
+[1720] N: 
+[1723] mak: Hah...this...isn’t a normal massage...
+[1724] mak: I told you...you weren’t allowed to touch me like this...
+[1728] mak: Don’t pretend...you didn’t hear me...
+[1729] s: These are a little bigger than I thought they’d be...
+[1730] mak: What...do you mean...you {i}thought{/i}?
+[1731] mak: How often...do you think about me like that?...
+[1732] s: Pretty often, actually.
+[1733] mak: That’s...inappropriate...
+[1734] s: No. {i}This{i} is inappropriate.
+[1739] N: 
+[1741] N: 
+[1743] N: My right hand finds its way to her crotch and I begin the next step of the massage...
+[1745] mak: Hah! S-Sensei! S-Stop that! I told you I’m sensitive after I’ve already done it once!
+[1746] mak: And how the heck did you get my shirt off so quickly?!
+[1747] s: I know you're sensitive right now. I’ll be gentle.
+[1748] mak: That’s...not the only issue!...
+[1750] N: Lightly and carefully, I press my fingers through her leggings and work my way up and down her slit.
+[1751] N: She shivers and twitches each time I graze her clit through the...one layer of clothing?
+[1753] s: Are you not wearing underwear?
+[1754] mak: I don’t...like wearing underwear with leggings...
+[1755] mak: Is that a...crime?...
+[1756] s: Of course not. I’m just a little surprised.
+[1757] s: It’s also easier to tell how wet you are already.
+[1758] mak: That’s from...before...
+[1759] s: I think you’re lying to me, Makoto.
+[1760] s: Do I need to see you after class?
+[1761] mak: This is...after class...and I’m already being punished...
+[1762] s: You think this is punishment?
+[1764] N: 
+[1766] N: It’s erotic and adorable at the same time. I didn’t realize Makoto had something like this in her.
+[1768] mak: Ahhh...ahhh! Oh...my god...Sensei...please be careful...it hurts when you...do it too hard...
+[1770] N: 
+[1775] mak: S-sensei...
+[1776] mak: There’s...
+[1777] mak: Something...I have to confess...
+[1778] s: Oh? What is it?
+[1779] mak: Remember that...vibrator...from the store the other day?...
+[1780] s: I remember it well.
+[1781] mak: I might have...brought it home with me...
+[1782] s: Really?
+[1783] mak: Ah...uh-huh...
+[1784] s: Is that what you used to play with yourself earlier?
+[1785] mak: Uh-huh...
+[1786] mak: Does that make me...a bad girl?...
+[1787] s: Very bad. Aren’t you supposed to be the responsible one?
+[1788] s: What would people think if they knew you liked being fingered by your teacher?
+[1789] mak: What would they...think if they knew...you came all over your student’s hand?
+[1790] s: Seems to me like we might have to keep our relationship a secret, huh?
+[1791] mak: Mmf...hah...seems...so...
+[1796] N: 
+[1798] N: 
+[1800] N: Her breathing is rapid at this point. It’s almost like her lungs are collapsing.
+[1801] N: I can sense that she’s going to cum any second now.
+[1805] mak: Ahh...ah...AHHH...S-Sensei...
+[1806] mak: Do you...maybe wanna...
+[1807] mak: You know...
+[1808] mak: ...Fuck me?
+[1809] s: Are you sure that's what you want?
+[1810] mak: Hah...mmm...yeah...I...
+[1811] mak: I think so...
+[1812] mak: Yeah...I want it...really...{i}really{/i} badly...
+[1813] mak: Please...
+[1814] mak: Give it to me already...
+[1815] mak: I've wanted you...since we first met...
+[1816] mak: And b-besides...it's not like I'm...ahhnn...
+[1817] mak: It's not like I’m...going to orgasm...from just...
+[1821] mak: Ah...
+[1823] N: Knowing that she absolutely {i}will{/i} cum from just this, I press harder.
+[1824] N: Two of my fingers come close to entering her, but I'm held back by the layer of fabric separating me from her pussy.
+[1826] mak: Hah...
+[1827] mak: Oh god...yes...S-Sensei...
+[1828] mak: Right...there...
+[1829] mak: I...hah...I...OH MY GOD...AHHH...Yeah~
+[1830] mak: Just..like...
+[1831] mak: ...
+[1833] N: Makoto pauses for a moment, shuddering and digging into her thigh with her nails.
+[1834] N: Her neck digs deep into my shoulder as she prepares for an intense wave of pleasure.
+[1835] N: Then-
+[1842] mak: AHHHHHHHH!!!!!!~~~~~ <33333333333
+[1844] N: Makoto explodes into a fit of pleasure, convulsing in my arms as she reaches out and pulls my hair in desperation.
+[1845] N: It’s a violent orgasm, one in complete contrast to her normal cool demeanor.
+[1846] N: After a moment of shivering and crying out goes by, her body finally relaxes once again...
+[1851] mak: Hah...hah...hah...
+[1852] mak: I’m...sorry...
+[1853] mak: I said...some strange things...near the end there...
+[1854] s: Do you still want me to fuck you?...
+[1855] mak: Umm...I think...I’ll die...if I...do it again tonight...
+[1856] s: Are you sure?
+[1857] mak: Yes...
+[1858] s: Like, really sure?
+[1859] mak: I’m sorry...
+[1860] mak: I would...jerk you off again but...I can’t move...
+[1861] mak: Goodbye, Sensei...
+[1862] mak: Please don’t...forget me...
+[1867] mak: ...
+[1868] s: Makoto?
+[1869] mak: {i}Zzzzz...{/i}
+[1870] s: ...
+[1871] s: God damnit.
+[1877] N: I lay Makoto down on her bed and throw the blanket over her.
+[1878] N: I hope that she is able to recover from the...exhausting night she had tomorrow morning.
+[1879] N: I also hope that we can follow up on those commands she gave me mid-orgasm...
+[1880] N: 
+[1882] N: I wonder how she’d handle losing her virginity?...
+[1884] N: .........
+[1885] N: ......
+[1886] N: ...
+[1891] >> jump deletedscenemenu
+===== [1894] LABEL makotodorm15 =====
+[1899] s: Makoto, are you in there?
+[1901] N: ...
+[1902] N: ...
+[1903] N: ...
+[1904] N: Silence. 
+[1905] N: Strange. She’s normally in her dorm room around this time.
+[1906] N: I guess maybe she had work tonight?
+[1908] >> jump makotomastx
+===== [1911] LABEL makotomastx =====
+[1911] N: I really don’t feel like going all the way to the porn shop, so maybe I should just head back and-
+[1913] mak: {i}Mm...{/i}
+[1914] s: ...
+[1916] N: 
+[1918] N: I’m guessing Makoto heard me knock and didn’t respond because she’s...{i}in the middle of something.{/i}
+[1919] N: But I know how to handle situations like this. 
+[1920] N: I’ll simply wait for her to be done and then knock again, like a true gentleman.
+[1922] N: ...
+[1923] N: ...
+[1924] N: ...
+[1926] mak: Ah...hah...
+[1928] N: Never mind. Time to visit the class president.
+[1934] N: I push the door open to find that this closet pervert had left it open for anyone to walk in on her.
+[1935] N: Therefore, it is not my fault if she yells at me. This is her doing and I am simply blissfully unaware...
+[1941] mak: What?! Sensei?! What...What are you doing in here?! I didn’t say you could come in!
+[1942] s: Correct. But I wasn’t going to simply walk away after hearing all of those cute masturbation noises of yours.
+[1946] mak: Was...Was I really that loud? I was trying to keep my voice down...
+[1947] mak: And why was the door unlocked? You don’t have a key, do you?
+[1948] s: No key here, just determination.
+[1952] mak: Determination doesn’t unlock doors, idiot!
+[1953] s: Says the girl fingering herself in front of her teacher.
+[1957] mak: Well...I can’t just stop in the middle of it...
+[1958] mak: So can you please just...leave for a few minutes and let me-
+[1959] s: Nope. I’m here for the show now.
+[1963] mak: Yeah...I had a feeling you were going to say that.
+[1964] s: You know me so well.
+[1965] mak: Unfortunately, it appears that I do...
+[1969] mak: 
+[1971] s: I think a look like this is perfect for you.
+[1975] mak: Huh?...Why do you say that?
+[1976] s: Because this is the real you, isn’t it? 
+[1977] mak: The real me?
+[1978] s: Yeah. A closet pervert who can’t help but leave doors unlocked while she [masturbate]s.
+[1982] mak: No! You’re misunderstanding! The door thing really was just a coincidence!
+[1986] mak: It’s true that I have been...pleasuring myself a lot more than normal lately...but it’s all for a good reason.
+[1990] mak: So...if you maybe wanted to...help me out a little bit-
+[1991] s: Nope. Not tonight.
+[1995] mak: What?! You’re rejecting me?! Why?!
+[1996] mak: Since when do you have that kind of self-control?!
+[1997] s: I normally don’t. But I’m particularly enjoying watching you play with yourself right now.
+[1998] s: So please continue for the time being or I’ll set {i}this{/i} as my new phone background next.
+[2002] mak: You wouldn’t dare.
+[2003] s: Try me.
+[2005] N: I begin to reach for the phone in my pocket and Makoto quickly goes back to pleasuring herself.
+[2010] mak: Hah...ah...fine...you...you win...
+[2011] mak: You can...watch me...if you want...
+[2012] mak: Not like...I care anyway...
+[2013] mak: You’ve already...seen it before...so it’s not like...this is new to you or anything...
+[2014] mak: Though...hah...I will admit...you’re...definitely...much better at it...than I am...
+[2015] mak: Maybe it’s because...your fingers are bigger?...
+[2016] s: I’m sure that helps.
+[2020] mak: Would it be weird...if I told you I wanted something even {i}bigger{/i}, though?
+[2024] mak: Wait. No. Forget I said that. My brain is doing the talking again.
+[2025] s: Are you trying to seduce me, Makoto?
+[2026] mak: I’m not...doing anything...of the sort...
+[2027] mak: Just...fantasizing out loud...that’s all...
+[2028] s: 
+[2033] mak: Really? You would have...fucked me...Sensei?
+[2034] s: I would have.
+[2038] mak: Hah...oh god...that...turns me on...a lot more than it should...
+[2039] mak: Are you sure...you don’t want to...touch me?...
+[2040] s: Right now, yes. Consider this a detention.
+[2041] mak: Hah...my first detention...
+[2042] mak: I don’t...like it very much...
+[2043] mak: It’s kind of degrading...
+[2044] s: If you don’t want to get in trouble, don’t get caught doing inappropriate things.
+[2045] mak: You’re the...{i}fuck{/i}...you’re the one who walked into my room...this is...a breach of privacy...
+[2046] mak: You should...pay me back...by...fucking me...right now...
+[2047] s: I’m good, thanks.
+[2051] mak: I...hate you...
+[2052] mak: What kind of...man turns down...a virgin when she’s...giving herself up...like this...
+[2053] s: A man who derives great pleasure in watching how horny you get by just thinking about that...
+[2057] mak: I’m not...horny...I’m stressed...it’s different...
+[2058] mak: I’m just...relieving tension...since you won’t do it for me...
+[2063] mak: Ngh~!
+[2065] N: Makoto suddenly begins to rub herself more aggressively, sliding the tips of two of her fingers inside her virgin slit every few seconds.
+[2066] N: She’s essentially (And literally) begging to be fucked right now.
+[2067] N: And while I’ve already decided to not take her virginity tonight, I never said I’m not open to other things.
+[2069] mak: Oh my god...I’m...going to cum...while you just stand there...watching me...
+[2070] mak: I feel like...such a slut...I’m...filthy...
+[2071] mak: Sensei...please...I don’t know how many times I need to ask you...
+[2072] mak: Just...put it inside of me...so I can get this all out of my system...
+[2073] mak: I don’t...want to keep doing this every night...it’s...really...{i}really{/i}...tiring after a while...
+[2074] s: Makoto.
+[2078] mak: Y-Yeah?...What?...
+[2079] s: Keep your eyes closed.
+[2083] mak: Yes...[makotomaster]...
+[2084] mak: Do...whatever you want to me...I won’t say no...to anything...
+[2089] N: Those are dangerous words.
+[2090] N: 
+[2092] N: I’m sure that part of Makoto thinks I’m going to push her down right now.
+[2093] N: And part of me wants to.
+[2094] N: But I want to use her as a toy in another way- while she’s still at her most vulnerable.
+[2098] mak: ...
+[2099] mak: Please...be-
+[2104] mak: MNGH!
+[2105] mak: MMF! WHT...SSS...HPPNING...???!!!
+[2106] s: Keep touching yourself.
+[2111] mak: Mmmm...hmmm...ngh...yes...[makotomaster]...
+[2113] N: I grab the back of Makoto’s head and begin to pull it down on my cock.
+[2114] N: 
+[2116] N: 
+[2119] mak: Nghhh~ Mmf...Sensei...Sensei~
+[2120] mak: Are you...nff...watching...me?...
+[2121] s: How could I not?
+[2122] mak: Are you...mmm...sure...you don’t...want to...put it in?...
+[2123] s: I am.
+[2124] mak: Are you...{i}really{/i}...sure?...
+[2125] mak: There’s never...been one...inside...
+[2126] mak: I bet it...will feel really good for you...
+[2127] s: This already feels good.
+[2128] s: Now go back to focusing on my dick before I take that away too.
+[2129] mak: Mmm...such...mmf...a jerk...
+[2131] N: Her fingers begin to slip in and out of her even faster as her legs continue to spread.
+[2132] N: It’s taking every ounce of self control I have to {i}not{/i} fuck her right now. 
+[2133] N: In fact, I’d be filled with regret if keeping my word didn’t matter more to me than cumming inside of my classroom assistant a little earlier than anticipated.
+[2134] N: I’ve always been stubborn like that. Once I say something, there’s no backing down.
+[2135] N: And if I cave in now, she’ll just think she can get anything she wants from me whenever she wants it.
+[2136] N: The only way to avoid that-
+[2141] mak: MMMMMMNNNNNNNNN~~~~!!!!!
+[2143] N: Is by doing anything else I want with her.
+[2145] mak: MMMGNHHH!! MMMBBBPPHH...HNGH...
+[2147] N: Makoto tries to come up for air several times, but I hold her head down and decide against letting her.
+[2148] N: If she’s that desperate to breathe, she’ll use her nose.
+[2149] N: 
+[2152] s: Hurry up and make me cum, Makoto. I’ll let you breathe as soon as you do.
+[2153] mak: MMMFHHH! MMM...MMM...MNGHH!!~
+[2155] N: 
+[2157] N: And it works.
+[2159] s: Makoto...
+[2160] mak: MMMM!!! MMGNNNHHH! HHNNNGG...!
+[2168] mak: MMMMMMMMMMMMMMMMMMMMMMMMMMMMM~~~!!!!
+[2170] N: I can feel air rapidly escaping Makoto’s nose as her body tries to figure out what’s going on.
+[2171] N: 
+[2177] mak: AHHH...HAH...FUCK...OH GOD...I’M...CUMMING...
+[2178] mak: HAH...ANH...AHHH...
+[2179] mak: Ahh...hah...
+[2180] mak: ...
+[2185] mak: AAAAAAAAAAAAAAAAAaaaaaaaaaaahhhhhhh~~~!!!!
+[2187] N: Makoto lifts herself up for a moment as she convulses from her orgasm. 
+[2188] N: I’m guessing it was the deepthroat that sent her over the edge.
+[2189] N: She really is a pervert, isn’t she?
+[2194] mak: Hah...hah...hah...
+[2195] mak: Oh...my god...
+[2199] mak: You...almost killed me...
+[2200] s: I did no such thing. I was just having fun.
+[2201] mak: Fun...?
+[2202] mak: Did you...feel good, then?...
+[2203] s: Yeah. Not sure if you've realized this but you kind of {i}have{/i} to be feeling good in order to cum.
+[2204] mak: Then...do you want to...have sex now?
+[2205] s: You still want to keep going after that intense orgasm?
+[2206] mak: Yeah...I want you...to...treat my pussy...like you treated my throat...
+[2207] s: You’re fucking insane.
+[2208] mak: Am...not...
+[2212] mak: Just...a...reliable...diligent...girl...
+[2213] mak: And...and...
+[2214] mak: ...
+[2219] mak: Zzzz...
+[2220] s: ...
+[2221] s: Makoto?
+[2222] mak: Mm...zzzzzzzz...
+[2223] s: ...
+[2225] N: Well, I guess that’s all she’s got in her for tonight.
+[2231] N: I think about putting Makoto into a slightly better position for when Miku comes home...
+[2232] N: 
+[2234] N: If you can even call that uncharacteristic...
+[2235] N: Makoto is...
+[2236] N: Well, I’m starting to think she might be a bit of a freak.
+[2241] >> jump deletedscenemenu
+===== [2244] LABEL day34 =====
+[2247] N: Another day of[school] passes by with barely any problems.
+[2248] N: There {i}was{/i} one strange thing that happened, though.
+[2249] N: Ayane, of all people, asked me if she could come to my office after[school] today.
+[2252] N: Normally, I’d think there was some sort of perverted motivation behind this, but something about the way she asked today actually sounded kind of serious.
+[2254] N: I hope she’s doing okay...
+[2258] ay: Sensei? Can I come in?
+[2259] s: Yup. The door is open.
+[2266] ay: Thanks for seeing me today...
+[2267] s: No problem. Is something going on? You don’t normally ask to see me in here.
+[2268] s: In fact, I don’t think you’ve ever asked to see me in here.
+[2273] ay: 
+[2276] N: Huh. I guess she’s talking about a conversation she had with the real Sensei before I took over.
+[2277] N: I didn’t realize Ayane was actually dealing with problems like that.
+[2279] s: If it’s not that, then what’s going on?
+[2284] ay: Do you promise not to laugh when I tell you?
+[2285] s: Of course.
+[2286] ay: ...Okay.
+[2287] ay: But if you make fun of me, I’m going to be really mad. Okay?
+[2288] s: Yup. Just tell me what’s going on.
+[2289] ay: Then...
+[2291] N: ...
+[2297] >> jump officebjx
+===== [2300] LABEL officebjx =====
+[2300] ay: I want to have sex.
+[2302] N: Well then...I guess it was something perverted after all.
+[2304] s: Like...right now? In the office?
+[2305] ay: Well, yes. But also no.
+[2306] s: I’m not sure I follow...
+[2311] ay: 
+[2317] ay: Like, your office is nice and everything...but it’s not {i}that{/i} nice.
+[2318] ay: But anyway, I just wanted you to know that like...I’m ready and stuff...
+[2319] s: Are you sure?
+[2324] ay: I am. I can’t be alone with you without my mind going crazy.
+[2325] ay: 
+[2331] ay: You probably think I’m crazy now, don’t you?
+[2332] s: Crazy?...Hm...
+[2333] s: Maybe a little.
+[2338] ay: Agh! Rude!
+[2343] ay: 
+[2345] s: You don’t need to change anything. I like you just the way you are.
+[2350] ay: Wait, really? But you just called me crazy.
+[2351] s: I called you {i}a little{/i} crazy, which isn’t necessarily a bad thing.
+[2352] s: Sure, you might be a little neurotic. And it’s kind of weird that Despacito is the only song you know-
+[2357] ay: Despacito is a great song!
+[2358] s: Hey, let me finish.
+[2363] ay: Oh, right. Sorry...
+[2364] s: 
+[2370] ay: Do you really mean that? You won’t get bored of me or anything?
+[2371] s: Of course not.
+[2372] ay: 
+[2378] ay: Well, there’s Geoffrey too, but...
+[2379] s: ...Geoffrey? Who the hell is that?
+[2384] ay: He doesn’t matter right now. We’re talking about my virginity. Leave Geoffrey out of it.
+[2385] s: ...Right.
+[2386] ay: So...When are we gonna do it?
+[2387] s: Are you saying we should...schedule it?
+[2392] ay: Sure. I can’t see why not.
+[2393] s: Well, I can see why not. That’s weird.
+[2398] ay: Awe, but I thought you liked weird!
+[2400] N: This girl is ridiculous...
+[2405] ay: Hey, so like...
+[2410] ay: Do you want me to like...give you a blowjob right now? Because I totally will.
+[2411] ay: All this sex-talk is getting me kind of excited...
+[2412] s: Right now? I thought you were against doing stuff in the office?
+[2417] ay: No, no. I’m against losing my virginity in the office. I’m totally open to doing all kinds of other stuff.
+[2419] N: {i}All kinds?{/i}
+[2424] ay: 
+[2426] s: But what if one of the other girls shows up? Ami’s nearly walked in on us twice now.
+[2427] s: And if I know anything about how all this goes, it’s bound to happen again today.
+[2432] ay: I mean...{i}I{/i} don’t really care...
+[2433] ay: It’s only a problem if she sees us, right?
+[2434] s: Well unless you can turn yourself invisible, I don’t think-
+[2439] ay: Don’t worry! I’ve already got it figured out!
+[2440] s: ...?
+[2445] N: Ayane takes my hand and pulls me over to my desk.
+[2446] N: She brings herself to her knees and slides underneath it, almost perfectly fitting inside.
+[2448] ay: Wow, it’s really dark under here. I can barely see anything...
+[2449] s: You don’t really have to {i}see{/i} to give a blowjob.
+[2450] ay: Awe, but where’s the fun in that?...Your penis is so cute!
+[2451] s: Never call a man’s penis cute, Ayane. That’s rule #1 of penises.
+[2452] ay: Is it really?
+[2456] ay: I’ll have to remember that...*chu*
+[2461] N: 
+[2466] ay: Hey, am I allowed to touch myself while I do this?
+[2467] s: I mean...I guess so. Make sure not to let it distract you though, okay?
+[2471] ay: Mmph...Sir, yes sir...
+[2473] N: 
+[2475] N: 
+[2477] N: It’s actually kind of frustrating in a way.
+[2479] s: Ayane, are you not comfortable actually putting it in your mouth?
+[2480] ay: *Amf*...It’s...*shcleck*...too big...
+[2481] ay: It won’t fit.
+[2482] s: Well, keep trying. That’s an order.
+[2483] ay: *Schlurp* If...you say soo...*Umf*
+[2488] ay: Amf...Mmm...mmm...schlip...mlem...
+[2489] ay: Snsss...ifff...lrrrly...wwnnnt...ft...
+[2490] s: Ayane, use words please.
+[2495] ay: *Gasp* I...was saying...It literally won’t fit...
+[2496] ay: My mouth doesn’t open any more than that...
+[2498] N: Curse this large penis...
+[2500] s: Well, whatever. Just keep doing your best.
+[2504] ay: Ahh...I...*schleck*...will...
+[2506] N: 
+[2508] N: Her tongue dances back and forth across the head, lapping up precum between hushed and panicked breaths.
+[2510] ay: Mmf...anf...hah...mmm...
+[2514] ay: Sensei...will it be...bad if I...cum before you?
+[2515] s: Very bad, actually.
+[2516] s: You’re not allowed to cum before me.
+[2520] ay: Huh?! Why not?!
+[2521] s: Because I said so. Are you really about to cum from just a few minutes of touching yourself?
+[2526] ay: Mmf...iffff...feeee...sss...gddd...
+[2527] s: ...What?
+[2532] ay: Paaaah...
+[2533] ay: I was trying to say it feels so good!
+[2534] ay: I’m about to back down on my no-office rule!
+[2535] ay: Please let me cum, Sensei! I’m going to die if I don’t!
+[2536] s: Not until I do. Got it?
+[2541] ay: AMF...SSSS...UNFRRR...
+[2543] N: I’m pretty sure that one was supposed to be ‘so unfair.’
+[2547] a: Sensei? Are you in there?
+[2552] ay: Ah-
+[2553] s: I am. Come on in, Ami.
+[2557] N: It’s almost like this has happened before...
+[2562] s: What’s up? Is something wrong?
+[2563] a: Ummm...Nothing in particular...Just feeling kind of lonely, I guess...
+[2564] a: I was wondering if maybe you...wanted to walk home with me?
+[2565] s: I can after my counseling hours are over.
+[2569] a: But...no one’s here?
+[2570] s: No one’s here {i}right now{/i}. But I can’t leave early in case someone comes in here for help.
+[2574] a: You picked a stupid day to follow the rules...
+[2579] ay: {i}*mmf...mmf...schlurp...lick...mlem...*{/i}
+[2580] ay: {i}Mmm...hurry up and cum already...{/i}
+[2585] a: Did you...hear something just now?
+[2586] s: Hear what?
+[2587] a: I’m...not really sure...
+[2588] s: Huh...No. I don’t think I heard anything.
+[2593] ay: {i}*Ahm...ahmm...mlem...schlick...chu...mmm...*{/i}
+[2595] N: 
+[2597] N: The added layer of excitement is causing me to reach the end of my rope as well.
+[2598] N: I don’t know how much longer I’ll last at this point...
+[2603] ay: *AMMFFF*
+[2605] a: There it is again...I swear I heard something just now.
+[2606] s: You must be tired...maybe I {i}should{/i} leave a little early to make sure you’re okay.
+[2608] N: Ayane tries, yet again, to fit the entire head of my penis into her mouth.
+[2609] N: 
+[2615] N: I can feel her fingers trembling along my shaft. She’s probably climaxing as we speak...
+[2616] N: 
+[2624] ay: {i}*Mmmmmmmmm!!!*{/i}
+[2626] N: I start coughing to mask the noise of Ayane’s revelry in our mutual orgasm.
+[2631] a: Woah, are you okay? You’re not coming down with a cold, are you?
+[2632] s: No...No, I’ll be fine.
+[2633] s: 
+[2638] a: Yeah...Deal. Sorry for being such a baby today. Just wanted to spend a little time with you, that’s all.
+[2639] s: Don’t worry about it. I’ll be out in a second, okay?
+[2640] a: Okay...
+[2646] N: ...
+[2651] ay: ...
+[2653] N: Ayane pauses for a moment, loosening her grip on my cock.
+[2655] ay: We’re horrible people, aren’t we?
+[2656] s: ...Probably.
+[2661] N: I wind up convincing Ayane to wait in the office until Ami and I are gone.
+[2662] N: 
+[2664] N: 
+[2671] >> jump deletedscenemenu
+===== [2674] LABEL day42 =====
+[2678] N: Gym class has ended for the day and I’m staying after with Makoto and Ami to clean the place up.
+[2679] N: Normally, I would have been able to do it all myself while they take their showers, but there was an...’incident’ today...
+[2684] a: Do you think the janitor is going to be okay?...
+[2689] mak: I honestly don’t know...Ayane hit him pretty hard.
+[2690] s: That girl has a hell of an arm on her...
+[2692] N: While dropping by the gym to get something out of the storage room, one of the[school]’s janitors was pelted in the head by a dodgeball.
+[2693] N: Normally, a grown man would be able to shrug something like this off and just get on with his day after a minute or two.
+[2694] N: However-
+[2695] N: What I failed to mention is that this dodgeball had been moving at what seemed to me like a major league player’s fastball.
+[2696] N: As such, the janitor was knocked unconscious and may or may not have cracked his head open on the floor.
+[2697] N: There was blood everywhere.
+[2698] N: And of course I had to be the one to clean it up on the account of us now being down one janitor.
+[2703] a: Sensei, are we being sent home early today?
+[2704] s: I think so. If we actually did just witness a death, that would only make sense.
+[2709] mak: 
+[2711] s: Well at least one good thing came out of this.
+[2716] a: You’re lucky you have two students as dedicated as me and Makoto.
+[2717] s: {i}Makoto and I{/i}, Ami...
+[2722] mak: Um...actually...and forgive me for interjecting, Sensei, but {i}Makoto and me{/i} would probably be better there.
+[2723] s: What? Why?
+[2728] a: Ahh! I thought we were done learning for today!
+[2729] mak: The best way to check which wording is correct is to remove the secondary subject from the sentence entirely.
+[2730] mak: In Sensei’s example, Makoto and I, Ami’s finished sentence would have been: You’re lucky you have a student as dedicated as I...
+[2731] mak: And while that sentence isn’t {i}entirely{/i} flawed, it’s still not the most accepted nor modern phrasing of it.
+[2736] mak: But I’m sure Sensei already knew that and was just having a memory lapse.
+[2737] s: Yup. That is exactly what happened. Thanks for the explanation, Makoto.
+[2742] a: Umm, guys, sorry to interrupt, but did either of you see Futaba and Miku leave the locker room?
+[2747] mak: ...
+[2748] a: ...
+[2749] mak: Oh dear god no.
+[2750] s: Is that a problem? Do those two not have a good relationship or something?
+[2752] N: Makoto and Ami look at each other, completely ignoring me.
+[2757] mak: How could we have let this happen again?
+[2762] a: I was about to ask you the same thing! Aren’t you supposed to be the responsible one here?
+[2763] mak: Ami, as the class president, it would have been improper for me to allow Sensei to clean the gym on his own.
+[2766] a: Yes, but I’m his [niece] and family takes priority in these situations...
+[2768] a: Yes, but I'm his {i}accountant{/i} and we need to go over very important financial documents.
+[2770] s: Guys?
+[2773] mak: No, no. That’s not the case at all. You were simply born into your position while I worked for mine and can be removed at any moment.
+[2774] a: Yes, yes. But Sensei loves me and thinks that girls who wear glasses are gross.
+[2775] s: Hello?
+[2776] mak: No, no, Ami. You have it all wrong. Sensei actually-
+[2778] N: The two of them proceed to argue like this for the rest of the gym period while I scour the room for bone fragments...
+[2780] s: Someone just died. This really isn't the time to argue.
+[2785] >> jump showertimex
+===== [2788] LABEL showertimex =====
+[2788] N: {i}Meanwhile...{/i}
+[2793] f: ...
+[2794] f: ...
+[2795] f: ...
+[2800] mi: ...
+[2801] f: ...
+[2802] mi: Ngh...
+[2807] mi: ...
+[2808] f: ...huh?
+[2809] mi: You think you’re queen of the whole frickin’ world, don’t you?
+[2810] f: W-What?...
+[2815] f: Ah?!
+[2816] mi: You think you’re so darn great just because your bazongas are the size of my head!
+[2817] mi: You know there are plenty of people who like small ones too, dontcha?!
+[2822] f: Ahn~ Miku, stop it! Those are...ahh...sensitive!
+[2823] mi: Yeah, yeah, I bet you’d love it if I believed that!
+[2824] mi: These things are so big you probably can’t even feel this!
+[2825] f: Ahhh~ No! I definitely feel it! And I don’t like it at all!
+[2830] mi: 
+[2832] mi: It’s criminal, I tell ya! Criminal!
+[2833] mi: I should call the police!
+[2838] f: Mmm~! Miku please...I just want to take a shower! I wasn’t doing anything wrong!
+[2843] mi: Your entire existence is wrong! The whole world is wrong! There is no justice!
+[2844] f: Ahhh...This...is...bad...
+[2849] mi: Though...now that I’m touchin’ em...this is kinda fun.
+[2850] mi: They’re really heavy...And they’d probably slow me down on the soccer field.
+[2851] mi: I can just imagine em slappin’ me in the face when I’m tryin to run and that sounds like a nightmare.
+[2852] mi: Plus I can get away with not wearin’ a bra most of the time.
+[2857] f: Miku...please...let go...
+[2858] mi: Why?
+[2859] f: Because...it feels strange...and I’m embarrassed...
+[2860] mi: Embarrassed of these things? How come? If mine were this big I’d be showin’ everybody.
+[2861] f: That’s...ahh...illegal...
+[2862] mi: To heck with the law and to heck with your big, stupid boobs!
+[2863] mi: I’m gonna find someone who cares about smaller girls like me and then you’ll see that you’re not that much of a big shot!
+[2864] f: I’m...not a big shot! I can’t help how large they are...
+[2869] mi: Likely story...
+[2870] mi: What’s your workout routine? You drink a lot of milk, don’t ya?
+[2871] mi: How come mine don’t grow no matter how much milk I drink?
+[2876] mi: TELL ME, DAMNIT!
+[2877] f: AHH~! Miku, don’t squeeze them like that! It hurts!
+[2878] mi: AAAAAAGGGHHHH!!!!! THERE IS NO GOD!!!!!!!
+[2883] N: {i}And on that day...{/i}
+[2884] N: {i}Help never came...{/i}
+[2890] >> jump deletedscenemenu
+===== [2893] LABEL dojo15 =====
+[2897] N: 
+[2899] N: 
+[2902] ay: So...
+[2903] ay: I see you’ve found your way back, Arakawa-san...
+[2904] s: Are we starting this already? And don’t call me Arakawa-san, it’s weird.
+[2905] ay: Tell me...why are you here?
+[2906] s: I came here to chew bubble gum and kick ass...
+[2907] s: And I’m all out of ass...
+[2908] s: Wait, I messed that-
+[2909] ay: No, no. Why are you {i}really{/i} here?
+[2910] s: ...To take back Kumon-mi?
+[2914] ay: I see...
+[2915] ay: So it is too late after all...
+[2916] s: Too late for what? And where is everyone else? You know you’re not allowed to sit there.
+[2920] ay: I rented the place out so we could be alone today.
+[2921] s: You rented out the entire dojo? How much did that cost?
+[2922] ay: 
+[2924] s: Is the bubble wrap business really that lucrative?
+[2928] ay: 
+[2930] s: That’s...a good point, I guess?
+[2934] ay: Either way, that is not why we’re here today...
+[2935] ay: We are here to settle our differences not with violence, but with words...
+[2936] s: If I recall correctly, you pulled a gun on me the last time we ‘sparred.’
+[2937] s: Could it be that the legendary Ayane Amamiya is running from a fight?
+[2941] ay: Of course not. I would never flee from battle.
+[2942] ay: The fact of the matter is, though...
+[2944] N: 
+[2949] ay: I refuse to fight the man I love.
+[2950] s: Woah, hold on a second-
+[2954] ay: So, as the two of us are decidedly in love with one another...
+[2955] s: Hold on, I never said-
+[2956] ay: The only thing we can do is rule this world together.
+[2960] ay: 
+[2963] >> jump ayanesitx
+===== [2966] LABEL ayanesitx =====
+[2966] s: The {i}world{/i}, or just Kumon-mi?
+[2970] ay: The entire world.
+[2971] s: We, uhh, might have a problem then.
+[2975] ay: 
+[2977] s: 
+[2982] ay: Oh...I didn’t even think of that.
+[2983] s: Well, I mean, you could always have twins or something like that, but yeah.
+[2984] s: I don’t really think getting pregnant while you’re a student is a good idea anyway, so...
+[2988] ay: Valid argument, loyal husband.
+[2989] s: I’m not your-
+[2993] ay: There is another problem as well. And I’m afraid this one is specific to me.
+[2994] s: And what could that possibly be...?
+[2998] ay: I am still in a significant amount of pain from when you took my virginity.
+[2999] s: Still? How is that even possible?
+[3003] ay: 
+[3005] s: Well, thanks, but it’s definitely not as big as an arm.
+[3009] ay: 
+[3011] s: Your body {i}has{/i} been altered. That’s what happens when a girl loses her virginity.
+[3015] ay: Oh well. I guess you’ll just have to take care of me from now on since you’ve damaged me beyond repair.
+[3016] s: That’s not how that works...
+[3018] N: There’s really no point in arguing with Ayane when it comes to things like this, so I’ll give up on pushing back.
+[3019] N: Besides, it’s not exactly torture being subjected to a life of having sex with a cute, rich girl.
+[3023] ay: But anyway, all that aside, what did you want to do today?
+[3024] ay: 
+[3026] s: Who said I’m not in the mood? I’m pretty much always in the mood. That’s what it means to be a guy, isn’t it?
+[3030] ay: 
+[3032] s: That’s not even remotely close to what I said.
+[3033] s: I just said that we don’t {i}always{/i} have to get sexual when we’re alone. Which is true.
+[3037] ay: 
+[3039] ay: In fact, even thinking about your penis makes my heart beat super fast.
+[3043] ay: It’s happening right now. Here, come feel it.
+[3044] s: ...
+[3045] s: Okay, fine.
+[3050] N: {i}Roughly 10 seconds later...{/i}
+[3056] ay: There...aren’t you much happier now? It certainly looks like you are.
+[3057] s: How did this happen? I was just supposed to feel your heartbeat.
+[3058] ay: Yeah, but isn’t this more fun? Look how hard it is already.
+[3060] N: Ayane wraps her hand around my dick and begins skillfully stroking it.
+[3061] N: Her innocent smile mixed with her eyes as they fixate on mine bring me closer to ejaculating than I’d like to admit after just a few seconds.
+[3062] N: The truth is, I’ve wanted to get her in this position since I first saw her in her karate uniform.
+[3063] N: And, like she said, there’s really no better time than now to indulge in that...
+[3064] N: I do wish we could have had sex, though.
+[3066] s: Ayane...
+[3067] ay: Yes, Sensei?
+[3068] s: Open your shirt.
+[3069] ay: Yes, Sensei...
+[3074] ay: Like this?
+[3075] s: Exactly like that.
+[3076] ay: Hehe~ I’m happy to please you!
+[3077] ay: You think I look cute in my karate outfit, don’t you?
+[3078] s: Wow, it’s like you were reading my mind.
+[3079] ay: Duhh. My life revolves around you. Of course I can read your mind.
+[3080] ay: 
+[3082] ay: It feels really naughty, don’t you think, Sensei?
+[3083] ay: Imagine if all those other cute karate-girls were here right now?
+[3084] ay: Do you think they’d get off to watching us?
+[3085] s: You seem strangely aggressive right now...
+[3089] ay: Hehe~ You think so?
+[3091] N: Ayane tightens her grip on my cock and starts moving faster.
+[3093] ay: I think they’d get off to us, Sensei. I see them undressing you with their eyes whenever you’re here.
+[3094] ay: They probably go home at night and play with themselves while thinking about you.
+[3095] ay: So seeing me do this would be a win-win for everyone.
+[3096] ay: They win because they get to see your giant penis, and I win because now they know it’s all mine.
+[3098] N: I continue to get harder as Ayane narrates her rhetorically exhibitionist handjob.
+[3099] N: It pains me to say this, but I honestly don’t think I’ll last much longer at this point...
+[3101] s: Bold of you to claim it's 'all yours,' Ayane...
+[3102] ay: Really? But look how hard it got for me after just a little touching.
+[3103] ay: And it's so hot, too...
+[3104] ay: Are you going to cum soon, Sensei?
+[3105] s: I am...You’re getting really good at this...
+[3109] ay: 
+[3111] s: I mean...that’s definitely part of it...
+[3113] N: 
+[3118] ay: Mmm...mm...ngh...come on...
+[3119] ay: Go on and cum, Sensei. Prove to me that you think I’m the cutest.
+[3121] N: Her hand traces the entirety of my shaft over and over, occasionally stopping to adjust her grip.
+[3122] N: As her speed increases, her breaths quicken and become hotter. I can feel them on my skin.
+[3124] s: Ayane, I...
+[3125] ay: Cum on me, Sensei. Come on. Do it. I wanna watch.
+[3126] s: I...
+[3128] N: 
+[3136] ay: Mmm-!
+[3138] N: 
+[3143] ay: Hehe~
+[3144] ay: Don’t you feel all better now that you’ve gotten that out of your system, Sensei?
+[3145] s: I do. But now I’m worried about how you’re going to-
+[3150] ay: Hm? Going to what?
+[3151] s: ...
+[3152] s: Did you just-
+[3153] ay: 
+[3155] ay: It’s proof that I was able to make you feel really good.
+[3156] ay: Plus it's kind of hot thinking of other people seeing me and not knowing what I'm hiding.
+[3158] N: I don’t know if I should be enamored or disgusted right now.
+[3160] s: Well, you’re free to do as you like. Just don’t bank on me giving you a hug before you leave.
+[3164] ay: What?! You should have told me that beforehand!
+[3170] N: Ayane and I hang out in the dojo before deciding to pack up and leave.
+[3171] N: 
+[3173] N: Being a man of my word, I refuse to hug her as she heads back to the dorms.
+[3174] N: I do give her a pat on the head, though, so at least there’s that...
+[3179] >> jump deletedscenemenu
+===== [3182] LABEL futabadorm20 =====
+[3186] s: Futaba, are you in there?
+[3187] f: I am! Please come in, Sensei!
+[3193] N: ...
+[3200] f: Good evening, Sensei. How are you?
+[3201] s: Pretty good, thanks for asking.
+[3202] s: You’re not freaking out about being in your pajamas this time?
+[3207] f: Well...I mean...It {i}is{/i} still a little embarrassing...
+[3209] >> jump futababjx
+===== [3212] LABEL futababjx =====
+[3212] f: But it’s not like we haven’t done anything, umm, {i}more{/i} embarrassing, so...
+[3213] s: More embarrassing? I’m not sure if I know what you’re talking about.
+[3218] f: S-Sensei! You know exactly what I’m talking about!
+[3219] f: The...h-ha...
+[3220] s: Handjob?
+[3225] f: Ugh...It sounds so dirty when you say it like that...
+[3226] s: Are you implying that it wasn’t?
+[3231] f: Of course not. I was just helping you out so you wouldn’t have to be uncomfortable.
+[3232] s: Right, right. It was just a generous gesture between friends.
+[3233] f: Right.
+[3234] s: So if I wanted you to do it again, you would without hesitation.
+[3235] f: Ri-
+[3240] f: Wait, what?
+[3241] s: You won’t, then?
+[3242] f: I mean...I didn’t say I {i}won’t{/i} but...are you sure?
+[3243] f: Is it...you know...
+[3244] s: It is.
+[3245] s: 
+[3247] s: Which, naturally, would mean...
+[3248] f: ...Would mean, what?
+[3249] s: ...That I expect you to help me feel ‘comfortable’ again.
+[3254] f: Ahhhh...of course this would happen...
+[3255] f: I feel kind of stupid for not expecting it...
+[3256] s: There’s no need to feel stupid. It’s just a simple biological function.
+[3257] s: For example, how did you feel while you were jerking me off last time?
+[3264] f: Umm...confused?
+[3265] f: Intimidated?
+[3266] s: Not turned on?
+[3271] f: That’s...embarrassing to say, though...
+[3272] s: You know I’d be open to helping you ‘feel more comfortable’ as well, right?
+[3277] f: Ah! No! That is very much not necessary!
+[3278] f: It’s one thing for me to do something like that to you, but...
+[3279] f: There’s no way {i}I’m{/i} ready to be...t-touched...like that...
+[3280] s: Are you sure? I’m pretty confident in my ability to-
+[3285] f: Very sure! Please remove your pants now so that I may proceed!
+[3286] s: ...
+[3287] s: Well, if that’s what must be done...
+[3292] N: ...
+[3298] f: Wow...It’s already like this?
+[3299] f: Just from seeing me?
+[3303] f: I didn’t realize you were so naughty, Sensei...
+[3304] f: You always seem so laid back and professional...
+[3308] f: I guess it would only make sense for you to have so much pent up energy...
+[3312] f: But don’t worry...I’ll take good care of you...
+[3314] N: Where is this coming from?
+[3315] N: The first time we did something like this, she was flustered and confused-
+[3316] N: Now she’s telling me she’ll take good care of me and massaging my balls...
+[3318] f: Why do you look so surprised, Sensei?
+[3319] s: It just...seems like you’re really into this today...
+[3323] f: Oh? Well, maybe I am.
+[3324] f: Like you said, I need to take responsibility for things like this happening.
+[3325] f: I’m very sorry you had to experience such discomfort because of me.
+[3329] f: Just...don’t do it on my face again, okay? That was really mean.
+[3330] s: Well, if you want to prevent that from happening, there’s always another way...
+[3334] f: Another way? You’re not lying to me again, are you?
+[3335] s: No, no...I’m just saying you could always try using your mouth instead.
+[3339] f: My mouth? But I was just starting to get comfortable doing it like this...
+[3340] s: Then it’s only natural you’d want to advance to the next level, right?
+[3344] f: Maybe if I just...go really fast...
+[3346] N: Wanting to avoid learning something different, Futaba starts jerking me off more aggressively.
+[3347] N: 
+[3352] f: Huh? What am I doing wrong? Why is it starting to get softer?
+[3353] s: Quick, use your tongue to revive it.
+[3357] f: My tongue?
+[3358] s: I promise you’ll see an instant improvement.
+[3359] f: Ahhhhh...Well, I don’t want to fail, so...
+[3364] f: *lick*
+[3366] N: 
+[3371] f: *lick* Wow! It really...*chu* is getting hard again!
+[3372] f: I had...mm...no idea this worked that well...
+[3376] f: Maybe...*shlick* I’m a natural at this, too, Sensei...
+[3377] f: What do you *mlem* think?
+[3379] N: Futaba continues slowly jerking my cock as her tongue dances back and forth across it.
+[3380] N: I’m not going to lie, she’s somehow phenomenal at this.
+[3381] N: 
+[3384] s: You’re...really good at this, Futaba...
+[3388] f: Mmm...mmf...mmm...*lick*
+[3390] N: 
+[3393] f: Mmmf...it’s...starting to...*chu* get really hot, Sensei...
+[3394] f: Remember...*lick*...not to go on my face again...
+[3395] s: As long as you let me use your mouth, that won’t be an issue...
+[3396] f: *lick* Then...
+[3401] f: Mmf...mmm...mmm...ngh...
+[3403] N: Futaba manages to fit a few inches of my cock into her mouth and begins wrapping her tongue around it.
+[3404] N: The warmth of her breath and saliva bring me closer to cumming every second.
+[3408] f: Mmff...am I...doing a good job...*slurp* Sensei?
+[3409] s: Keep going just like that, Futaba...I’m almost there...
+[3413] N: She closes her eyes again, focusing entirely on pleasuring me.
+[3414] N: I’m surprised that she’s so open to letting me finish in her mouth, especially for her first time.
+[3415] N: But I guess it’s better than the alternative in her mind...
+[3419] f: Mmf...mm...Sensei...Sensei...
+[3420] s: Keep going...
+[3421] f: Mm...mmm...pah...nfff...
+[3423] N: Futaba moves faster, taking more of my cock into her mouth as she tightens her grip around it.
+[3424] N: Feeling myself being pushed closer to the edge with every stroke, I finally give in...
+[3432] f: Mmmmmmm!!!~~
+[3434] N: 
+[3436] N: Not being able to keep up, however, some of it spills from her mouth...
+[3440] f: Mffsssalttttt...
+[3441] s: ...What?
+[3445] f: Mmm...*gulp*
+[3447] N: 
+[3453] f: Pah...
+[3454] f: I was trying to say that was a lot...
+[3455] s: You think so? I don’t think it was any more than last time.
+[3459] f: Well it felt like a lot more...but at least none of it got on me.
+[3460] s: You were surprisingly good for that being your first time.
+[3464] f: Heheh~ Well I’m glad I was able to make you feel comfortable again.
+[3465] s: And great job swallowing everything too. Not a lot of girls are willing to do that.
+[3469] f: Do you...have a lot of experience with things like this, Sensei?...
+[3471] N: ...
+[3473] s: Huh? Oh, uhh. No. Not at all. I just know that from...what I’ve researched...or something.
+[3474] f: ...
+[3475] f: I hope you’re not lying to me again...
+[3481] N: I wind up leaving shortly after that exchange.
+[3482] N: I tried, once again, bringing up the idea of pleasuring Futaba but she shot me down with no hesitation.
+[3483] N: I wonder why she’s so resistant to have something sexual done to her as well?...
+[3488] >> jump deletedscenemenu

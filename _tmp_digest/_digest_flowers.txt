@@ -1,0 +1,1750 @@
+===== [1] LABEL beachsix7 =====
+[34] taki: Hey, hey, hey! New games you will play! What do you say? 
+[35] s: Nay.
+[36] taki: Neigh? ¿Qué? Are you gay?
+[37] s: I am not interested in your games, Horseface Taki. You have interrupted my dinner. And for that, you will pay.
+[38] taki: You seem to misunderstand your latest kerfuffle, Akira Arakawa. The whole world is watching you right now. Permission to refuse has NOT been granted.
+[39] s: Aww man. How come they always have to watch me when I’m naked?
+[40] taki: How come you’re always naked? 
+[41] s: Probably sex. And also because you guys keep taking my clothes off every time I’ve gotta do one of these thingies.
+[42] taki: Ah! So you know where you are after all?
+[43] s: Another reset right? At least the song is kind of chill this time. I’m straight vibing rn, Horseface Taki.
+[45] N: I start to do another jig to appease the God of the Track. Soon, I will race with the best. 
+[46] N: He jigs along, but only for a few seconds. He clearly has a job to do and I am but his silly little employee.
+[48] taki: Okay, okay. That’s enough dancing for now. Let me explain the rules of the game. 
+[53] taki: This one’s pretty simple, all things considered.
+[54] s: Oh god. That means it’s going to be super complicated, doesn’t it?
+[55] taki: Not at all! In fact, you were already 14.29%% complete before coming here. Just six more pieces and you’re done!
+[56] s: Pieces of what?
+[57] taki: I’m getting there, okay?
+[62] taki: The goal of this game is to track down the six missing Maya pieces so you can put her back together and continue your journey.
+[63] s: I don’t like this game, Horseface Taki.
+[64] taki: Not {i}yet{/i} you don’t! But you’ll soon find that this isn’t as complicated as navigating the waiting room or filling out magazine sweepstakes.
+[65] taki: In fact, uncovering the missing Maya pieces is as easy as asking your friends if you can have them! 
+[66] s: You brought my friends here? Which ones?
+[67] taki: Well, telling you now would spoil the surprise! 
+[68] taki: It’s {i}your{/i} job to look around and figure that out yourself. But be warned — some of them might not be willing to part with their fraction of Maya and might ask for something in exchange.
+[69] s: Sounds simple enough. I’m used to transactions like this. I’ve lost count of how many times I’ve traded my wiener for warmth and affection.
+[70] taki: Unfortunately, you can’t trade your body in this game. You need to trade items instead. And each friend will have specific preferences you’ll need to match.
+[77] taki: Just obtaining these items would be too easy, though. You’ll need to assemble them yourself. But hey, that’ll be good practice for when you have to reassemble Maya.
+[78] s: What happens when I do that? Is the game over?
+[79] taki: Once Maya is reassembled, the portal back to your world will be opened. But you’re also free to keep hanging out here if you want. And who knows? Maybe you’ll find something else too!
+[80] s: Something else? Like what? Extra body parts for Maya? Because I kind of like her a lot the way she is now. 
+[81] taki: A severed head?
+[82] s: Huh? Oh. No. I meant when all of her pieces are put together. I kind of forgot she was just a head now.
+[83] taki: Unfortunately, I can’t tell you what you’ll find out there. But I {i}can{/i} tell you you won’t find anything by just standing around and talking to me!
+[84] taki: Venture out and test your knowledge once more! And remember — the whole world is watching. You wouldn’t want to leave a bad impression, would you?
+[85] s: Of course not. Thank you, Horseface Taki. You are easily the most helpful god I have encountered thus far.
+[86] taki: Right now, I am just a Lesser God. I must guide at least eighty-five more people through these events until I am eligible for promotion.
+[87] s: Well, get ready. Because it’s {i}about{/i} to be eighty-four.
+[88] taki: I think you might be greatly overestimating the frequency at which these are actually completed.
+[93] s: Doesn’t matter. The fact remains that it’s time to go collect the pieces of my girlfriend’s corpse and carry her back to my world!
+[94] s: Reset puzzle...begin!
+[99] *OPT: Use the workbench
+[100] >> jump buildamayaworkbench
+[101] *OPT: Use the PC
+[102] >> jump buildamayapc
+[103] *OPT: Check your Maya’s progress
+[104] >> jump buildamayaprogress
+[105] *OPT: Go somewhere
+[106] >> jump buildamayaoutside
+===== [111] LABEL buildamayaworkbench =====
+[114] N: I return to the workbench and prepare to get my hands dirty.
+[115] N: What should I do?
+[116] >> jump buildamayaworkbenchmenu
+[123] N: I make my way over to a workbench decorated with everything I could possibly need to grow various plants and craft small trinkets.
+[124] N: It seems like this would be a good place to assemble any of the objects my friends are on the prowl for. 
+[125] N: What should I do?
+[126] >> jump buildamayaworkbenchmenu
+[129] *OPT: Plant something
+[130] >> jump buildamayaplantmenu
+[131] *OPT: Craft something
+[132] >> jump buildamayacraftmenu
+[133] *OPT: Stop using the workbench
+[134] N: I have grown tired of this workbench. I am going to do something else now.
+[139] N: What should that be, though?
+[141] >> jump buildamayahub
+[144] N: Plant corpseflower
+[145] N: I carefully place the corpseflower seed into the soil and drizzle a little water onto it.
+[146] N: .........
+[147] N: ......
+[148] N: ...
+[152] N: Wow! It’s fully grown already!
+[157] N: I carefully remove the corpseflower from the soil and shove it into my pocket. 
+[158] N: It’s way too big for it and it smells kind of bad, but what else am I going to do about it?
+[163] >> jump buildamayaplantmenu
+[164] N: Plant lavender
+[165] N: I carefully place the lavender seeds into the soil and drizzle a little water onto them.
+[166] N: .........
+[167] N: ......
+[168] N: ...
+[172] N: Wow! It’s fully grown already!
+[177] N: I carefully remove the lavender from the soil and shove it into my pocket. 
+[178] N: I hear a whisper from the attic but decide it’s just another ghost and ignore it.
+[183] >> jump buildamayaplantmenu
+[184] N: Plant poppies
+[185] N: I carefully place the poppy seeds into the soil and drizzle a little water onto them.
+[186] N: .........
+[187] N: ......
+[188] N: ...
+[192] N: Wow! They’re fully grown already!
+[197] N: I carefully remove the poppies from the soil and shove them into my pocket. 
+[198] N: I hope this doesn’t get me high.
+[203] >> jump buildamayaplantmenu
+[204] N: Plant roses
+[205] N: I carefully place the rose seeds into the soil and drizzle a little water onto them.
+[206] N: .........
+[207] N: ......
+[208] N: ...
+[212] N: Wow! They’re fully grown already!
+[217] N: I carefully remove the roses from the soil and shove them into my pocket. 
+[218] N: The thorns dig into my thigh and cause me to bleed. Is this the price of love?
+[223] >> jump buildamayaplantmenu
+[224] N: Plant snapdragons
+[225] N: I carefully place the snapdragon seeds into the soil and drizzle a little water onto them.
+[226] N: .........
+[227] N: ......
+[228] N: ...
+[232] N: Wow! They’re fully grown already!
+[237] N: I carefully remove the snapdragons from the soil and shove them into my pocket. 
+[238] N: I can feel myself getting stronger. Do I have superpowers now?
+[243] >> jump buildamayaplantmenu
+[245] *OPT: Go back
+[246] >> jump buildamayaworkbenchmenu
+[249] N: Corpsecrown
+[254] N: I bend some sticks into a circle and peel off pieces of the corpseflower to wrap around it.
+[255] N: I figure this might make a good accessory for one’s head.
+[259] N: {i}You have received a {b}Corpsecrown{/b}!{/i}
+[260] s: Fuck yeah.
+[262] >> jump buildamayacraftmenu
+[264] N: Rose Bouquet
+[269] N: I tear the flowery parts off of the flowers off and place them onto new stick-based stems that won’t decay over time.
+[270] N: This should work, right?
+[274] N: {i}You have received a {b}Rose Bouquet{/b}!{/i}
+[275] s: Fuck yeah.
+[277] >> jump buildamayacraftmenu
+[279] N: Lavender Perfume
+[284] N: Using some of the sticks Makoto gave me as a makeshift pestle, I grind the lavender into a fine paste and empty it into a jar I found in Ami’s room.
+[285] N: Whatever was inside the jar mixes with the lavender quite well. And before I know it, I have perfume.
+[289] N: {i}You have received {b}Lavender Perfume{/b}!{/i}
+[290] s: Fuck yeah.
+[292] >> jump buildamayacraftmenu
+[294] N: Snapdragon Bracelet
+[299] N: I bend some sticks into tiny circles and braid them around each other before plucking petals from the snapdragons and adhering them to said circles with glue.
+[300] N: Horseface Taki looks on in anguish for some reason. I don’t get it.
+[304] N: {i}You have received {b}Snapdragon Bracelet{/b}!{/i}
+[305] s: Fuck yeah.
+[307] >> jump buildamayacraftmenu
+[309] N: Opium
+[314] N: I extract opium from the poppy latex and prepare it for distribution.
+[315] N: Sticks are somehow involved.
+[319] N: {i}You have received {b}Opium{/b}!{/i}
+[320] s: Fuck yeah.
+[322] >> jump buildamayacraftmenu
+[324] N: Ultimate Stick Bouquet
+[328] N: When I think to myself about what Makoto likes, there is only one thing that comes to mind.
+[329] N: Sticks.
+[330] N: She has so many of them lately and has never explained why.
+[331] N: What this means is that I should make her an ultimate bouquet consisting entirely of sticks in order to show my gratitude for her help.
+[332] N: I do that.
+[336] N: {i}You have received the {b}Ultimate Stick Bouquet{/b}!{/i}
+[337] s: I’m coming, Makoto.
+[339] >> jump buildamayacraftmenu
+[341] *OPT: Go back
+[342] >> jump buildamayaworkbenchmenu
+===== [347] LABEL buildamayaprogress =====
+[350] N: I make my way over to the bed and lay out a sheet of cardboard so the Maya pieces don’t cross-contaminate the place I sleep.
+[353] *OPT: Dump out Maya pieces
+[358] N: I dump my bag of Maya out onto the bed and take a look at what I’ve collected so far.
+[359] N: Seems like I still have a lot of work to do.
+[361] s: Hang in there, Maya. I’ll put you back together in no time at all.
+[364] *OPT: Repack Maya
+[369] N: I shove my collection back into the bag of Maya and get on with my mission.
+[374] N: Now what?
+[376] >> jump buildamayahub
+[382] N: I dump my bag of Maya out onto the bed and take a look at what I’ve collected so far.
+[383] N: I’m making progress, but it still seems like I still have a lot of work to do.
+[385] s: Hang in there, Maya. I’ll put you back together in no time at all.
+[388] *OPT: Repack Maya
+[393] N: I shove my collection back into the bag of Maya and get on with my mission.
+[398] N: Now what?
+[400] >> jump buildamayahub
+[406] N: I dump my bag of Maya out onto the bed and take a look at what I’ve collected so far.
+[407] N: I’m almost half-way done now.
+[409] s: Hang in there, Maya. I’ll put you back together in no time at all.
+[412] *OPT: Repack Maya
+[417] N: I shove my collection back into the bag of Maya and get on with my mission.
+[422] N: Now what?
+[424] >> jump buildamayahub
+[430] N: I dump my bag of Maya out onto the bed and take a look at what I’ve collected so far.
+[431] N: Only a few pieces remain now. I’m more than halfway done.
+[433] s: We’re getting there, Maya. I’m doing my best.
+[436] *OPT: Repack Maya
+[441] N: I shove my collection back into the bag of Maya and get on with my mission.
+[446] N: Now what?
+[448] >> jump buildamayahub
+[454] N: I dump my bag of Maya out onto the bed and take a look at what I’ve collected so far.
+[455] N: Just the legs are left now.
+[457] s: ...Do we really even need her legs, though?
+[460] *OPT: Repack Maya
+[465] N: I shove my collection back into the bag of Maya and get on with my mission.
+[470] N: Now what?
+[472] >> jump buildamayahub
+[478] N: I dump my bag of Maya out onto the bed and take a look at what I’ve collected so far.
+[479] N: Only one piece of her remains.
+[481] s: Just a little longer, my sweet girl. 
+[482] s: I will fix you. I promise.
+[485] *OPT: Repack Maya
+[490] N: I shove my collection back into the bag of Maya and get on with my mission.
+[495] N: Now what?
+[497] >> jump buildamayahub
+[503] N: I dump my bag of Maya out onto the bed and take a look at what I’ve collected so far.
+[504] N: At long last, she is complete.
+[506] s: You’re as beautiful as the day I met you.
+[509] *OPT: Repack Maya
+[514] N: I shove my collection back into the bag of Maya and get on with my mission.
+[519] N: Now what?
+[521] >> jump buildamayahub
+[523] *OPT: Complete Maya assembly
+[524] >> jump endofbuildamaya
+[526] N: Complete Maya assembly
+[527] >> jump endofbuildamaya
+[528] *OPT: Go back
+[532] N: That’s enough of that, I suppose. 
+[533] N: What should I do now?
+[535] >> jump buildamayahub
+===== [540] LABEL buildamayaoutside =====
+[543] N: I step outside to find absolutely no one.
+[544] N: Looks like I’ve got some walking to do.
+[546] N: Where do I want to go?
+[549] N: DEN OF THE MOLE RAT
+[550] >> jump buildamayanorikorealm
+[551] N: CARTOGRAPHER’S CRAB-SHACK
+[552] >> jump buildamayafutabarealm
+[553] N: UNBLEACHED BEACH
+[554] >> jump buildamayasanarealm
+[555] N: UNBLEACHED BEACH
+[556] >> jump buildamayaprehappy
+[557] N: THE SMILE MILE
+[558] >> jump buildamayamakotorealm
+[559] N: SPACY’S SUMMER BLAST SAVINGS EVENT
+[560] >> jump buildamayachikarealm
+[561] N: OLD(ER) DISTRICT
+[562] >> jump buildamayayumirealm
+[563] *OPT: HOUSE
+[564] s: On second thought, I’m too scared to be out here.
+[570] s: I’ll feel much safer inside with Horseface Taki.
+[571] N: .........
+[572] N: ......
+[573] N: ...
+[578] N: Now what?
+[580] >> jump buildamayahub
+===== [584] LABEL buildamayapc =====
+[588] N: I sit down at my PC, knowing full well it isn’t going to help me put Maya back together. 
+[589] N: I can at least kill some time and rot what’s left of my brain, though.
+[590] N: What do I want to do?
+[593] *OPT: Check Messages
+[594] >> jump buildamayamessages
+[595] N: Research Koi
+[596] N: If Makoto is going to trust me with this fish, then by golly am I going to raise it right.
+[597] N: As such, I pull up the invisible Internet and begin typing invisible letters into an invisible search engine.
+[599] s: K...O...I. Koi. That should do it.
+[601] N: I spend the next half hour obtaining fish-based information and come to a saddening realization.
+[602] N: Fish belong in the water.
+[604] s: Oh no.
+[609] N: I step away from the computer and check on the fish.
+[610] N: It’s still alive, but just barely. 
+[611] N: I need to do something about this.
+[615] >> jump buildamayahub
+[617] *OPT: Nothing
+[618] N: I sit there and stare at the screen for hours, but somehow time doesn’t change.
+[619] N: I feel kind of dizzy.
+[620] N: Now what?
+[621] >> jump buildamayacomputermenu
+[623] *OPT: Go back
+[624] s: God, what am I doing? I have to save Maya.
+[628] s: No more messing around.
+[630] >> jump buildamayahub
+===== [633] LABEL buildamayamessages =====
+[633] N: I bring up my invisible email page and begin to filter through my equally invisible messages.
+[638] s: !!!
+[640] N: It appears that I have mail. 
+[641] N: Let’s see who’s sent me some love.
+[643] >> jump buildamayamessagemenu
+[646] N: Unfortunately, it doesn’t look like I have any.
+[647] N: Maybe one day, someone will love me enough to send me an email.
+[648] N: {i}Sigh.{/i}
+[650] >> jump buildamayacomputermenu
+[653] N: Noriko
+[654] s: Let’s see what Noriko’s sent me.
+[659] N: I click on her invisible message and bring up the first of two image attachments.
+[660] N: Her voice subsequently plays through the laptop’s speakers.
+[662] n: Good afternoon, [norikomaster]. I have decided to send you a picture of my vagina as thanks for the snapdragon bracelet you gave me.
+[663] n: I apologize if you opened this message in public. But I am also happy knowing that anyone who may have seen this now knows that I am yours.
+[664] n: If you would rather masturbate to my breasts, I have enclosed a picture of them as well.
+[665] n: Please click one more time to advance this message and see them.
+[667] s: Heck yeah.
+[672] N: I click again and make the boobs happen.
+[674] n: As you can see, my nipples are hard. The reason for this is I am thinking about your penis and how it would feel if you were to insert it inside of my vagina (pictured in image #1). 
+[675] n: I hope that when you are done reassembling Maya, we can have sex again. I enjoy having sex with you. 
+[676] n: Please note that you may also print this picture out and ejaculate onto it in lieu of my physical presence. 
+[677] n: I love you. Goodbye.
+[682] N: The boobs go away before I can finish masturbating. 
+[683] N: I decide to start my decision cycle over.
+[685] >> jump buildamayacomputermenu
+[687] N: Futaba
+[688] s: Let’s see what Futaba’s sent me.
+[693] N: I click on her invisible message and bring up the first of two image attachments.
+[694] N: Her voice subsequently plays through the laptop’s speakers.
+[696] f: Good afternoon, [futabamaster]. I have decided to send you a picture of my vagina as thanks for the rose bouquet you gave me.
+[697] f: I also apologize for my earlier explosion on the beach. I am cured now. And I am ready to be fucked again.
+[698] f: If you would rather masturbate to my breasts, I have enclosed a picture of them as well.
+[699] f: Please click one more time to advance this message and see them.
+[701] s: Heck yeah.
+[706] N: I click again and make the boobs happen.
+[708] f: I apologize for my size as I know I am much larger than the rest of the girls in our class and that you are not a good man.
+[709] f: However, I hope that when you are done reassembling Maya, we can have sex again. Your penis makes my vagina feel good and I enjoy when it is in there.
+[710] f: Please note that you may also print this picture out and ejaculate onto it in lieu of my physical presence. 
+[711] f: I love you. Goodbye.
+[716] N: The boobs go away before I can finish masturbating. 
+[717] N: I decide to start my decision cycle over.
+[719] >> jump buildamayacomputermenu
+[721] N: Sana
+[722] s: Let’s see what Sana’s sent me.
+[727] N: I click on her invisible message and bring up the first of two image attachments.
+[728] N: Her voice subsequently plays through the laptop’s speakers.
+[730] sa: Good afternoon, [sanamaster]. I have decided to send you a picture of my vagina as thanks for the corpsecrown you gave me.
+[731] sa: I am wearing it now. And I would like you to know that it increases my arousal when thinking of you by about 50%%. 
+[732] sa: If you would rather masturbate to my breasts, or lack thereof, I have enclosed a picture of them as well.
+[733] sa: Please click one more time to advance this message and see them.
+[735] s: Heck yeah.
+[740] N: I click again and make the boobs happen.
+[742] sa: As you can see, my nipples are hard. The reason for this is I am thinking about being raped. This is a thing I am interested in and potentially the reason I like you so much.
+[743] sa: I hope that when you are done reassembling Maya, you will remember that I am slightly smaller than she is and fuck me instead.
+[744] sa: Please note that you may also print this picture out and ejaculate onto it in lieu of my physical presence. 
+[745] sa: I love you. Goodbye.
+[750] N: The boobs go away before I can finish masturbating.
+[751] N: I decide to start my decision cycle over.
+[753] >> jump buildamayacomputermenu
+[755] N: Makoto
+[756] s: Let’s see what Makoto’s sent me.
+[761] N: I click on her invisible message and bring up the first of two image attachments.
+[762] N: Her voice subsequently plays through the laptop’s speakers.
+[764] mak: Good afternoon, [makotomaster]. I have decided to send you a picture of my vagina as thanks for all of the sticks that you gave me after I gave sticks to you.
+[765] mak: I had no idea you would go to such lengths for me and I wish you would be this nice back in our world. Unfortunately, I will not remember any of this.
+[766] mak: So, if you would rather masturbate to my breasts, I have enclosed a picture of them as well.
+[767] mak: Please click one more time to advance this message and see them.
+[769] s: Heck yeah.
+[774] N: I click again and make the boobs happen.
+[776] mak: As you can see, my nipples are hard. The reason for this is I have become desensitized to the idea of you sleeping with my classmates and I have access to your email account.
+[777] mak: I see what they have sent you and I would like you to know that I hope you will have sex with me once you are done reassembling Maya.
+[778] mak: Please note that you may also print this picture out and ejaculate onto it in lieu of my physical presence. 
+[779] mak: I love you. And sticks. Goodbye.
+[784] N: The boobs go away before I can finish masturbating. 
+[785] N: I decide to start my decision cycle over.
+[787] >> jump buildamayacomputermenu
+[789] N: Chika
+[790] s: Let’s see what Chika’s sent me.
+[795] N: I click on her invisible message and bring up the first of two image attachments.
+[796] N: Her voice subsequently plays through the laptop’s speakers.
+[798] c: Good afternoon, [chikamaster]. I have decided to send you a picture of my vagina as thanks for the lavender perfume you gave me.
+[799] c: It has effectively masked the pungent scent of sex that permeates the Spacy’s Summer Blast Savings event at the mall, leading me to a higher level of comfort.
+[800] c: If you would rather masturbate to my breasts, I have enclosed a picture of them as well.
+[801] c: Please click one more time to advance this message and see them.
+[803] s: Heck yeah.
+[808] N: I click again and make the boobs happen.
+[810] c: As you can see, my nipples are hard. The reason for this is that despite my new enjoyable perfume, there is still sex everywhere and I am watching it.
+[811] c: I hope you will have sex with me once you are done reassembling Maya as I want to show all of these bitches how to really ride a dick.
+[812] c: Please note that you may also print this picture out and ejaculate onto it in lieu of my physical presence. 
+[813] c: I love you. Goodbye.
+[818] N: The boobs go away before I can finish masturbating. 
+[819] N: I decide to start my decision cycle over.
+[821] >> jump buildamayacomputermenu
+[823] N: Yumi
+[824] s: Let’s see what Yumi’s sent me.
+[829] N: I click on her invisible message and bring up the first of two image attachments.
+[830] N: Her voice subsequently plays through the laptop’s speakers.
+[832] y: WHAT’S UP DOUCHEBAG? THANKS FOR THE OPIUM. I’M HIGH AS FUCK.
+[833] y: CHECK OUT THIS PICTURE OF MY VIRGIN PUSSY. BET YOU’RE GONNA JERK OFF TO IT, YOU FUCKING LOSER.
+[834] y: HAHAHAHA. WANT TO SEE MY TITS TOO? I BET YOU FUCKING DO, ASSHOLE.
+[835] y: CLICK AGAIN. YOU KNOW YOU WANT TO.
+[837] s: Heck yeah.
+[842] N: I click again and make the boobs happen.
+[844] y: YOU AIN’T THE ONLY ONE WHO’S PACKIN’, DUDE. THIS IS WHAT I’VE GOT HIDDEN UNDER THAT FUCKIN’ SARASHI. FEAST YOUR EYES ON A REAL CHEST.
+[845] y: ALSO, MY NIPPLES ARE ONLY HARD CAUSE IT’S SUDDENLY COLD OVER HERE. I AIN’T THINKIN’ ABOUT RIDING YOUR FAT COCK AT ALL, FUCKER.
+[846] y: ANYWAY PRINT THIS OUT AND JERK OFF TO IT IF YOU WANT I GUESS.
+[847] y: FUCK YOU. BYE.
+[852] N: The boobs go away before I can finish masturbating. 
+[853] N: I decide to start my decision cycle over.
+[855] >> jump buildamayacomputermenu
+===== [859] LABEL buildamayanorikorealm =====
+[863] s: Noriko? Are you there? I want to talk to you again.
+[868] n: Oh! Hey, Onii-chan! What’s up?
+[870] >> jump buildamayanorikomenu1
+[873] N: I somehow wind up inside of what seems to be an abandoned school with a sewage problem.
+[874] N: A faint sloshing can be heard from one of the stalls, so I call out to investigate.
+[876] s: Who is doing all of that sloshing? Reveal yourself.
+[881] n: It is me! I am the slosher.
+[882] s: Noriko? What are you doing here?
+[883] n: Mmm...I’m not really sure? Some little girl took me here while I was helping her find her mom and I just haven’t ever figured out how to leave.
+[884] s: I mean...I could show you to the door?
+[885] n: Nah. I’ve kind of grown to like it here. It’s super dark and the acoustics in the bathroom are great. I even found a cool piece of Maya to keep me company.
+[886] s: Oh, awesome. Can you give that to me, please?
+[887] n: No.
+[888] s: What? Really? Why? You always do everything I tell you.
+[889] n: I know! But the longer I hold onto this, the longer it takes for you to reassemble her and leave me behind again.
+[890] s: I won’t leave you behind, Noriko. You smell nice and you’re very good at sex.
+[891] n: Thanks! But Maya smells nice too and is probably even better than me at sex since she got a massive head start and has had a ton of practice.
+[892] n: That could’ve been me, Sensei! Nee-chan would have been way less upset watching you fuck me if you just did it earlier. We might have even had a threesome by now.
+[893] s: Noriko...just give me the Maya piece, please. I have a cool workbench now and I can make you something of equal or greater value.
+[894] n: Hmm...well, what do you have in mind exactly? Because I {i}suppose{/i} I can part with a fragment of my rival’s body for the right price.
+[895] s: I was kind of just hoping you’d tell me what you want. That’s way easier than guessing. Especially not really knowing what sort of value you’d place on Maya’s body.
+[896] n: {i}Hah.{/i} Onii-chan, if you’re not even willing to guess, there’s no {i}way{/i} you have anything I need.
+[897] n: I’ll tell you what. Take these. It’s not a piece of your girlfriend, but you {i}should{/i} be able to find some sort of use for them.
+[901] N: {i}Sensei obtained {b}Poppy Seeds{/b}!{/i}
+[903] s: Do I look like a bagel to you?
+[904] n: Of course not! But it’s not like I have anything {i}else{/i} to give you. Well, apart from that piece of Maya. Like, I don’t even have clothes anymore.
+[905] s: Ugh...fine. I’ll take your stupid poppy seeds.
+[906] s: But when I come back, you better be willing to do business.
+[907] n: Maybe! We’ll have to just wait and see.
+[912] n: Bye, Onii-chan! Come back soon!
+[913] n: Oh! And avoid the third classroom on the left! There’s a strange entity in there you can’t find out about yet!
+[915] N: I heed Noriko’s warning, having already met too many strange entities, and head back outside to regroup.
+[916] N: Where should I go now?
+[921] >> jump buildamayagomenu
+[924] *OPT: Propose a trade
+[925] s: I’d like to propose a trade.
+[926] n: Sure! What do you have in mind?
+[928] >> jump buildamayanorikomenu2
+[930] *OPT: Go back outside
+[931] s: Actually, on second thought, I’m just going to go home. I don’t think I have anything you want.
+[932] n: Aww, man. That’s fine!
+[933] n: I’ll be here whenever you come back. Just make sure to call my name since I might be busy sloshing around.
+[934] s: Sounds good. Later, Noriko.
+[935] n: Bye, Onii-chan!
+[940] N: I head back outside to gather my thoughts and figure something else out.
+[942] >> jump buildamayagomenu
+[945] N: Corpsecrown
+[946] s: This cool crown I made out of a corpseflower for your Maya piece. What do you say?
+[947] n: {i}Sniff, sniff.{/i} Why does it smell so weird?
+[948] s: I think it’s just a corpseflower thing.
+[949] n: And you want me to wear that on my head?
+[950] s: No. {i}You{/i} want to wear it on your head. And then give me a piece of Maya in exchange for it.
+[951] n: Mmm...I don’t think so, Onii-chan. Sorry!
+[952] s: Damn it.
+[954] >> jump buildamayanorikomenu2
+[956] N: Lavender perfume
+[957] s: Some perfume made out of lavender and mystery liquid for your Maya piece. What do you say?
+[958] n: Mystery liquid?
+[959] s: I found it in some jar Ami was holding onto.
+[960] n: Can I smell it?
+[961] s: Of course.
+[963] N: I give her a quick spritz with the tester bottle of perfume I made as well, knowing that someone was bound to ask me for this.
+[965] n: Ohhhh, I know what this is.
+[966] s: Can you tell me? 
+[967] n: I...probably shouldn’t. Sorry, Onii-chan!
+[968] n: I {i}do{/i} love it, but I think I’m looking for something else right now. Have any other offers?
+[969] s: Ugh. Damn it.
+[971] >> jump buildamayanorikomenu2
+[973] N: Opium
+[974] s: How about some opium? That should net me a piece of Maya, right?
+[975] n: Opium? Don’t tell me that’s what you turned my poppy seeds into?
+[976] s: Sure. I won’t tell you anything. Do we have a deal?
+[977] n: Onii-chan! I don’t want you to become a drug dealer! You’re supposed to be a good boy!
+[978] s: You have pushed me to this, Noriko. {i}I{/i} didn’t want to be a drug dealer either.
+[979] n: Then quit! And make me a {i}new{/i} offer. I don’t want any opium.
+[980] s: Ugh. You’re so difficult sometimes.
+[982] >> jump buildamayanorikomenu2
+[984] N: Rose Bouquet
+[985] s: Would a nice bouquet of roses be enough to get that Maya piece off of your hands?
+[986] n: You just bought that from the gas station, didn’t you?
+[987] s: No! I grew the roses myself with some seeds I got from Chika. Then replaced all of the stems with some sticks I got from Makoto.
+[988] n: That bouquet’s really gotten around then, huh?
+[989] s: Well...I guess. But-
+[990] n: Sorry, Onii-chan. I don’t want to think of Chika or Makoto every time I look at them. Do you have any other ideas?
+[991] s: Uhh...let me think.
+[993] >> jump buildamayanorikomenu2
+[995] N: Snapdragon Bracelet
+[996] s: How about this cool bracelet I made out of sticks and snapdragons?
+[997] n: Oooh! Let me see, let me see!
+[999] N: I hand Noriko the bracelet and she begins to inspect it. I think her eyes widen as well, but they’re currently censored and I can’t really tell.
+[1000] N: Hey, cool. That rhymed.
+[1002] n: You made this yourself, Onii-chan? It’s really good!
+[1003] s: They say snapdragons symbolize strength and grace. And no girl encompasses those traits better than you do, Noriko.
+[1004] n: Aww! That’s so sweet! I love it. 
+[1005] n: Plus, I kind of miss wearing accessories. Being naked all the time is a little boring. 
+[1006] s: Do we...have a deal then?
+[1007] n: We have a deal!
+[1015] N: {i}Sensei obtained {b}Maya’s torso{b}!{/i}
+[1018] N: {i}Sensei obtained {b}Maya’s pelvis{b}!{/i}
+[1021] N: {i}Sensei obtained {b}Maya’s left arm{b}!{/i}
+[1024] N: {i}Sensei obtained {b}Maya’s right arm{b}!{/i}
+[1027] N: {i}Sensei obtained {b}Maya’s left leg{b}!{/i}
+[1030] N: {i}Sensei obtained {b}Maya’s right leg{b}!{/i}
+[1032] s: Hell yeah. I’m so good at commerce.
+[1033] n: I’m kind of sad that you’re going to leave me again. But hey, at least I get a bracelet out of it this time. That’s more than Nee-chan can say.
+[1034] s: Are you just gonna hang out here? Or do you want to come back to my place and help me rebuild Maya?
+[1035] n: I’ll stay here for now. Maybe we’ll meet again on the outside, though? If I ever decide to leave, that is.
+[1036] s: I hope you do, Noriko. Take care, okay?
+[1037] n: You too, Onii-chan! Good luck with your crafts and stuff!
+[1042] N: I leave Noriko and head back outside to figure out where to go from here.
+[1044] >> jump buildamayagomenu
+[1046] *OPT: Go back outside
+[1047] s: Actually, on second thought, I’m just going to go home. I don’t think I have anything you want.
+[1048] n: Aww, man. That’s fine! 
+[1049] n: I’ll be here whenever you come back. Just make sure to call my name since I might be busy sloshing around.
+[1050] s: Sounds good. Later, Noriko.
+[1051] n: Bye, Onii-chan!
+[1056] N: I head back outside to gather my thoughts and figure something else out.
+[1058] >> jump buildamayagomenu
+===== [1062] LABEL buildamayafutabarealm =====
+[1066] s: Futaba? Are you there? I want to talk to you again.
+[1071] f: Welcome back, Sensei. I’ve been waiting for you.
+[1072] f: Do you need something?
+[1074] >> jump buildamayafutabamenu1
+[1077] N: I suddenly find myself in a peculiar restaurant.
+[1078] N: After waiting in a relatively long queue behind a number of elongated specters, I’m taken into the dining room to meet my server. 
+[1079] N: And while the room {i}may{/i} look to the untrained eye like a library flipped on its head, the reality is that this is the best eatery in town.
+[1080] N: Or at least it used to be. Lately, it’s been occupied by ghosts who can’t let go of the past. And this is where they come to pretend they haven’t grown up.
+[1085] f: W-Welcome to the Cartographer’s Crab-Shack! I’m your server, Fu- Sensei?
+[1086] s: Nice to meet you, Fu-Sensei. One cajun seafood boil, please. And for the drink, I’ll just have a water.
+[1087] f: Sensei, no. It’s me, Futaba.
+[1088] s: Oh, wow. It is. Sorry, I was just so entranced by the menu. There are so many options here.
+[1089] f: Only because we’re serving up anything you can imagine.
+[1090] s: Really? In that case, can I also have a side of one of Maya’s body parts?
+[1091] f: Uhh...I guess I probably shouldn’t have said {i}anything{/i} you can imagine, huh?
+[1092] s: Are you telling me I need to summon the manager?
+[1093] f: I...actually {i}am{/i} the manager. 
+[1094] s: Woah, really? Congratulations. How’d that happen? You’re such a normal girl back home.
+[1095] f: Well, to me, this {i}is{/i} my home. I grew up in the corner right behind me. And while it took me a long time to come out of my shell, pun intended, I’m...doing kind of great now.
+[1096] s: So you don’t want to come back to our world? You want to stay here and serve imaginary crab to elongated specters?
+[1097] f: There will always be a me somewhere else. And all of our memories are connected, so it’s kind of like I’m everywhere at once.
+[1098] s: Weird. I wonder if it’s the same for all of the other girls?
+[1099] f: Probably. It’s been a long time since I’ve seen any of them, though.
+[1100] f: Ever since the remainders of Maya were scattered across the land, we’ve all sort of lost touch.
+[1101] s: Wait. Are you saying that a piece of her {i}can{/i} be found here after all?
+[1102] f: Oh, yes. You just can’t order it like an appetizer. {i}These{/i} are your appetizers.
+[1106] N: {i}Sensei obtained {b}Lavender Seeds{/b}!{/i}
+[1108] s: Lavender seeds?
+[1109] f: Wow, Sensei. Your seed identification skills are very impressive. Only an expert could decipher what type of seeds those are just by looking at them.
+[1110] s: I’m supposed to eat them?
+[1111] f: Or hold on to them, if you’d prefer. They might even grow into something else if you care for them enough.
+[1112] s: Lavender, I’d assume.
+[1113] f: That would make sense, yeah.
+[1114] s: How do I get the piece of Maya then?
+[1115] f: Well, imaginary or not, this is still a business. Which means there will be some sort of transaction involved.
+[1116] f: The only issue is I have very specific tastes and not just any old item will suffice. I’m sure you’ll figure out what I want in no time at all, though.
+[1117] s: I hope so. That Maya back home isn’t going to build itself. Can I just come back whenever I want then?
+[1118] f: Mhm. Just call out for me once you do. This isn’t a real restaurant, so you aren’t going to disturb any customers.
+[1119] f: Oh, and if you see other girls that look just like me around here, they’re also me. You can sleep with all of them and I won’t get upset.
+[1120] s: Sorry. No sex for me in here, Futaba. I’ve got a job to do.
+[1125] s: In fact, I should probably get back to that now if you’re not going to just hand over your fragment of Maya.
+[1126] f: Okay! It was nice seeing you, though. Feel free to come back whenever you’re ready to do business. And remember-
+[1127] s: Unlimited Futaba sex. I know.
+[1128] f: Oh, no. I was talking about the “calling out to me” part.
+[1129] s: Oh, yeah. I’ll remember that too. Later, Futaba.
+[1130] f: Bye, Sensei!
+[1131] f: Until we meet again...
+[1133] N: I pay my imaginary bill and exit the Cartographer’s Crab-Shack.
+[1134] N: What do I want to do now?
+[1139] >> jump buildamayagomenu
+[1142] *OPT: Propose a trade
+[1143] s: I’d like to propose a trade. 
+[1144] f: Sure. What do you have in mind?
+[1146] >> jump buildamayafutabamenu2
+[1148] *OPT: Go back outside
+[1149] s: On second thought, I don’t think I have anything you’d want. I’ll come back later, once I do.
+[1150] f: Sure. I’ll be here. Bye, Sensei.
+[1151] s: Later, Fu-Sensei.
+[1152] f: Can you...please stop calling me that?
+[1157] N: I head back outside to gather my thoughts and figure something else out.
+[1159] >> jump buildamayagomenu
+[1162] N: Corpsecrown
+[1163] s: So I made this crown of corpseflowers that I think would look great on you.
+[1164] f: Oooh...yeah, I don’t think I should wear that. One of the specters told me some pretty bad rumors about those things.
+[1165] s: Probably so he can make his own off-brand versions and peddle them to your coworkers. This one here’s the real deal, Futaba. This thing smells like so many corpses.
+[1166] f: Yeah, see, that’s another reason I don’t really want it. 
+[1167] f: Do you have anything else?
+[1168] s: Uhh...let me see.
+[1170] >> jump buildamayafutabamenu2
+[1172] N: Lavender perfume
+[1173] s: How about this lavender perfume I made out of the seeds you gave me?
+[1174] f: I already have some lavender-scented perfume, but maybe yours is nicer? Can you tell me what’s in it?
+[1175] s: Like, specifically? Or vaguely?
+[1176] f: Well...{i}you{/i} made it, didn’t you? So whatever you put it into it.
+[1177] s: Lavender.
+[1178] f: ...
+[1179] f: And?
+[1180] s: Some mystery fluid from a jar in Ami’s room.
+[1181] f: ...
+[1182] s: Cool, right?
+[1183] f: I think I’m good on perfume right now, actually.
+[1184] s: Damn it. What else do I have?
+[1186] >> jump buildamayafutabamenu2
+[1188] N: Opium
+[1189] s: You look like the kind of girl who likes to have a good time. How about some opium to {i}really{/i} get this party started?
+[1190] f: Your personality has taken a pretty dark shift since Maya was decapitated, huh?
+[1191] s: I’m just trying to get by, Futaba. And sometimes, {i}getting by{/i} means selling opium in exchange for body parts. You know the hustle, right?
+[1192] f: Like, the dance? I don’t think I’m old enough to-
+[1193] s: No, like the {i}hustle.{/i} The struggle. What people like me have to do to get by.
+[1194] f: Oooooohhhhh...
+[1195] f: Yeah, no. I don’t know that. And I don’t really want any drugs either, so...
+[1196] s: Tch. Fine. Let’s see what else I have.
+[1198] >> jump buildamayafutabamenu2
+[1200] N: Rose Bouquet
+[1201] s: I think you’d really like this, Futaba. Look.
+[1203] N: I give Futaba the bouquet of roses, which she grabs with both hands and subsequently cuts her palms on thanks to the artificial, stick-based thorns I included.
+[1204] N: The blood drips down her wrists like ice cream off a melting cone, connecting with the floor similarly to the way in which melted ice cream would connect with the same floor if it also did that.
+[1206] f: They’re beautiful...where did you get this?
+[1207] s: I grew them myself with some seeds Chika gave me. 
+[1208] f: And you’re...giving the bouquet to me instead of Chika? Why?
+[1209] s: Well, roses are a symbol of love or something, aren’t they?
+[1210] f: I repeat — why are you giving this to {i}me{/i} instead of Chika? Or...literally anyone else. You don’t {i}love{/i} me.
+[1211] s: But I will one day. And until then, these roses will serve as a symbol of that. 
+[1212] s: Plus, I replaced the stems with sticks, so they’ll live forever and you won’t need to water them.
+[1213] f: Does it really work like that?
+[1214] s: I don’t know. Maybe?
+[1215] f: {i}Hah...{/i}I still don’t think I’m deserving of this, but...I {i}do{/i} like them. And...I know you really want to put Maya back together, so...
+[1216] f: Here.
+[1224] N: {i}Sensei obtained {b}Maya’s torso{b}!{/i}
+[1227] N: {i}Sensei obtained {b}Maya’s pelvis{b}!{/i}
+[1230] N: {i}Sensei obtained {b}Maya’s left arm{b}!{/i}
+[1233] N: {i}Sensei obtained {b}Maya’s right arm{b}!{/i}
+[1236] N: {i}Sensei obtained {b}Maya’s left leg{b}!{/i}
+[1239] N: {i}Sensei obtained {b}Maya’s right leg{b}!{/i}
+[1241] f: Now you’re one piece closer to having a whole girl.
+[1242] s: I sure am. Thanks a lot, Futaba. I’m glad to have you as my business partner.
+[1243] f: You have me as much more than that, Sensei. Or...at least you {i}could{/i} if you only wanted to.
+[1244] s: ...
+[1245] f: ...
+[1246] s: ...
+[1247] f: ........
+[1248] s: Good to know. Later, then. I have to go  assemble a teenager.
+[1253] f: {i}Hah...{/i}Goodbye, Sensei.
+[1254] f: Thanks again for coming to the Cartographer’s Crab-Shack.
+[1256] N: I leave Futaba and head back outside to figure out where to go from here.
+[1258] >> jump buildamayagomenu
+[1260] N: Snapdragon Bracelet
+[1261] s: How about this nice little bracelet I made out of snapdragons?
+[1262] f: I’m allergic to snapdragons.
+[1263] s: What? Is that even possible?
+[1264] f: Well, I don’t know if it’s technically {i}allergies,{/i} but I start to panic whenever I’m near them. 
+[1265] s: What if I just try to put it on your wrist like-
+[1266] f: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-
+[1267] s: Oh, okay. Never mind.
+[1268] f: Sorry. Do you have anything else?
+[1269] s: Uhh...let me see.
+[1271] >> jump buildamayafutabamenu2
+[1273] *OPT: Go back outside
+[1274] s: On second thought, I don’t think I have anything you’d want. I’ll come back later, once I do.
+[1275] f: Sure. I’ll be here. Bye, Sensei.
+[1276] s: Later, Fu-Sensei.
+[1277] f: Can you...please stop calling me that?
+[1282] N: I head back outside to gather my thoughts and figure something else out.
+[1284] >> jump buildamayagomenu
+===== [1287] LABEL buildamayasanarealm =====
+[1291] s: Sana? Are you there? I want to talk to you again.
+[1296] sa: Mhm...Welcome back, Sensei...
+[1297] sa: Do you...need something?
+[1299] >> jump buildamayasanamenu1
+[1302] N: I arrive at a beach that could use some bleach, but I won’t let that deter me from having a good time. 
+[1303] N: I just don’t like the fact that I can {i}tell{/i} the time at all as places like this are meant to be an escape from that.
+[1304] N: Yet a clock hangs high upon a wall painted to resemble the sky, towering precariously over my desire for leisure and an even more hidden desire to drown myself in the ocean.
+[1305] N: At least then I’d be able to escape the humidity from the world’s largest indoor pool.
+[1310] sa: Hi...
+[1311] s: Oh. Sana. I didn’t expect to see you here. You don’t seem like much of a beach person.
+[1312] sa: One could say the same for you, Sensei...but the truth is I’ve already met you here once before.
+[1313] s: What? When?
+[1314] sa: You were younger...I was not...and you rejected my advances, but...
+[1315] sa: You won’t do that anymore, will you?...
+[1316] s: Well...uh...
+[1317] sa: Because my brother is here too and I think it’d be really hot if you guys, like...restrained me and filled both of my holes at the same time.
+[1318] s: That’s not really what I had in mind when coming here. I’m glad to hear he’s doing okay, though.
+[1319] sa: He doesn’t move anymore, but it seems like bodies don’t really decay in here. I think it must be due to the humidity. 
+[1320] s: Ahh, so you were just going to make me do all of the restraining myself while you humped your brother’s corpse.
+[1321] sa: And you. You’d get a turn too. Don’t make me out to be weird because of that, though. You’re doing the same thing by trying to reassemble Maya, aren’t you?
+[1322] s: I’m reassembling Maya so I can bring her back home. Not so I can have sex with her.
+[1323] sa: Suuuuuuuuuuuuuure...
+[1324] s: I’m {i}serious,{/i} Sana.
+[1325] sa: Suuuuuuuuuuuuuuuuuuuuuuuuuuure...
+[1326] s: Sana.
+[1327] sa: I get it, Sensei. You’re only going to use her body for {i}wholesome{/i} purposes. I {i}completely{/i} understand.
+[1328] s: Stop winking at me. I don’t like it.
+[1329] sa: Sorry...it’s just been a while since I’ve seen anything move...
+[1330] sa: Even the water is completely still. And the hands on the clock are stuck, so...I sort of just wander around and look for things to hump...
+[1331] s: I get it. I did the same when I first came to Kumon-mi.
+[1332] sa: Ah! Kumon-mi! I remember that place...
+[1333] sa: Wow, it’s been so long...
+[1334] s: Do you have any desire to go back? I can probably take you with me, you know. 
+[1335] sa: And leave Shota behind? I can’t do that, Sensei.
+[1336] s: Isn’t he dead?
+[1337] sa: Yeah. But in a sense, aren’t we all?
+[1338] sa: If time won’t move and {i}we{/i} won’t change, we’re all just walking corpses.
+[1339] sa: Which reminds me-
+[1343] N: {i}Sensei obtained a {b}Corpseflower Seed{/b}!{/i}
+[1345] s: What is this?
+[1346] sa: A seed that’ll help you grow a corpseflower. Something to remember me by when you finish building your Maya and stop coming to see me.
+[1347] s: Fortunately for you, I still have some pieces to collect. So we can keep hanging out for a little while.
+[1348] s: And if you just so happen to have a piece of her-
+[1349] sa: Hump it?
+[1350] s: What? No. Give it to me.
+[1351] sa: So {i}you{/i} can hump it?
+[1352] s: Sana, not everything has to be about sex.
+[1353] sa: You’ve changed, Sensei...I’m finally more like you and now you’re just pushing me away.
+[1354] sa: I’ll never give you my piece of Maya at this rate.
+[1355] s: Then you leave me no choice but to make you something you won’t be able to say no to.
+[1356] sa: Nobody can say no if you just cover their mouth with your hand. 
+[1361] s: And, on that note, I am leaving.
+[1362] sa: Okay...but you’ll know where to find me if you need to let off some steam.
+[1363] sa: Shotaaaaa! Where are- oh, right. You can’t move. 
+[1365] N: I leave Sana behind at the Unbleached Beach and figure out where to go from here...
+[1370] >> jump buildamayagomenu
+[1373] *OPT: Propose a trade
+[1374] s: I’d like to propose a trade. 
+[1375] sa: Um...okay...What kind of trade?...
+[1377] >> jump buildamayasanamenu2
+[1379] *OPT: Go back outside
+[1380] s: Actually, I think I’d rather go back outside and try and find something else for you. I know you won’t let go of your Maya fragment easily.
+[1381] sa: Heheh...you’ve got that right...
+[1382] sa: Come back when you have something for me...
+[1387] N: I head back outside to gather my thoughts and figure something else out.
+[1389] >> jump buildamayagomenu
+[1392] N: Corpsecrown
+[1393] N: I remove the corpsecrown from my inventory and immediately capture Sana’s attention.
+[1395] sa: That’s...
+[1396] s: I made it out of the seed you gave me. It was a little difficult cutting it down to a size that could fit a crown, but I think the end result is pretty good.
+[1397] sa: ...
+[1398] s: Do you like it?
+[1399] sa: ...
+[1400] s: Do you...want to try it on?
+[1401] sa: ...
+[1402] sa: Can I?...
+[1403] s: Of course. Here you go.
+[1405] N: I hand the corpsecrown over to Sana, who then places it over her head with trembling fingers, gazing up at the splintering wood I used to make it as if it’s meant to hold her skull in place.
+[1406] N: Her gaze is trapped there for a moment before it shoots to me. And then to nothing.
+[1407] N: Her eyes glaze over and develop a fine blue film over them that makes it appear as if she is a snake about to shed its skin.
+[1408] N: Her mouth drops open, emitting a low hum as the crown settles into her.
+[1410] s: Cool right?
+[1411] sa: {size=-10}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhh...{/size}
+[1412] s: I...take it we have a deal, then?
+[1413] sa: {size=-10}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhh!!!{/size}
+[1421] N: {i}Sensei obtained {b}Maya’s torso{b}!{/i}
+[1424] N: {i}Sensei obtained {b}Maya’s pelvis{b}!{/i}
+[1427] N: {i}Sensei obtained {b}Maya’s left arm{b}!{/i}
+[1430] N: {i}Sensei obtained {b}Maya’s right arm{b}!{/i}
+[1433] N: {i}Sensei obtained {b}Maya’s left leg{b}!{/i}
+[1436] N: {i}Sensei obtained {b}Maya’s right leg{b}!{/i}
+[1438] s: Awesome. Thanks, Sana. 
+[1439] sa: {size=-10}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhh?????{/size}
+[1440] s: Right. Well, I’ll see you later then.
+[1441] sa: {size=-10}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhh!?!?!?&&!?!?!!?!@@!!{/size}
+[1446] N: I leave Sana and head back outside to figure out where to go from here.
+[1448] >> jump buildamayagomenu
+[1450] N: Lavender perfume
+[1451] s: How about some lavender perfume? It smells like-
+[1452] sa: No.
+[1453] s: You didn’t even let me finish. It smells like lavender.
+[1454] sa: I don’t want to smell like lavender...I want to smell like dried cum and sweat...
+[1455] s: Ew. 
+[1456] sa: Just...personal preference, I guess...it makes me feel more human and less artificial...
+[1457] sa: It’s something you have to work for rather than something that comes from a bottle...
+[1458] s: Would it help knowing the perfume has a special mystery fluid I found in Ami’s room?
+[1459] sa: Can I drink it?
+[1460] s: Uh...probably not?
+[1461] sa: Mm...I think I’ll pass then, Sensei...
+[1462] sa: Do you have any other offers?
+[1463] s: Uhh...hold on. Let me see.
+[1465] >> jump buildamayasanamenu2
+[1467] N: Opium
+[1468] s: How about some opium? It might take your necrophilia to the next level.
+[1469] sa: It also might impact my thinking...and I’m the type who enjoys being fully immersed in my actions, Sensei...even when they’re actions I haven’t chosen for myself.
+[1470] s: I don’t get it.
+[1471] sa: Like...if someone chooses what to do with me and doesn’t give me any say in it...I still want to experience it all...even if I {i}hate{/i} it.
+[1472] s: Still don’t get it.
+[1473] sa: Oh...
+[1474] sa: Have you been taking the opium too? I think I’d...be more open to it if we did it together...
+[1475] s: Me? No. I need to be completely lucid for when I reassemble Maya. If I put a single part where it doesn’t belong, she might never be able to walk in the correct direction again.
+[1476] sa: I guess I have to...refuse your offer, then...
+[1477] sa: But if you have something else...I’d be happy to hear it?
+[1479] >> jump buildamayasanamenu2
+[1481] N: Rose Bouquet
+[1482] s: How about a nice bouquet of roses to show you how much I care?
+[1483] sa: Roses?...What am I supposed to do with those?...
+[1484] sa: You can’t hump a rose...it’ll break...
+[1485] s: It’s not about the humping. It’s about having a physical representation of my feelings for you.
+[1486] sa: Can you...not just use the “physical representation” that’s dangling there between your legs?...
+[1487] s: I could. But it feels wrong to receive a piece of Maya in exchange for my body when hers is so much better.
+[1488] sa: You know mine...isn’t that much different, right?...
+[1489] s: Your ribs are slightly more visible. You need to eat more.
+[1490] sa: Then feed me, Sensei...{i}feed me...{/i}
+[1491] sa: Fill me up with your love...
+[1493] N: Looks like Sana doesn’t want roses. I’ll have to try something else.
+[1495] >> jump buildamayasanamenu2
+[1497] N: Snapdragon Bracelet
+[1498] s: How about a snapdragon bracelet? I made it myself.
+[1499] sa: Would someone...really trade you a body part for this?...
+[1500] sa: Appendages alone go for a few thousand on the black market...I could get a bracelet from a vending machine for around 100 yen...
+[1501] s: Is it not the thought that counts to you? I worked hard on this.
+[1502] sa: I don’t...really care {i}how{/i} hard you worked...
+[1503] sa: If I’m going to give up my piece of Maya, I need something of equal or greater value...a tiny bracelet just...isn’t that, Sensei...
+[1504] s: Damn it. Let’s see what else I have.
+[1506] >> jump buildamayasanamenu2
+[1508] *OPT: Go back outside
+[1509] s: Actually, I think I’d rather go back outside and try and find something else for you. I know you won’t let go of your Maya fragment easily.
+[1510] sa: Heheh...you’ve got that right...
+[1511] sa: Come back when you have something for me...
+[1516] N: I head back outside to gather my thoughts and figure something else out.
+[1518] >> jump buildamayagomenu
+===== [1521] LABEL buildamayamakotorealm =====
+[1522] >> jump buildamayaallquestionsdone
+[1528] s: Makoto? Are you there? I want to talk to you again.
+[1533] mak: Oh, Sensei. Welcome back. 
+[1534] mak: Are you here to try and earn some sticks?
+[1535] s: You know it. 
+[1536] s: Let’s hear some riddles, Makoto. It’s time to knock your socks off.
+[1538] >> jump buildamayamakotoquestions
+[1541] N: I arrive at what looks like the remnants of a children’s television show set, but there’s a plaque near the door referring to this building as the “Smile Mile.”
+[1542] N: It smells faintly of peppermint and there’s a light green mist bleeding in through the vents that I’m not sure what to make of. I don’t think the scent is coming from that.
+[1543] N: I don’t really care either way, though. And if I need to deal with a little green mist to uncover a piece of Maya’s body, so be-
+[1545] mak: Sensei? Is that you?
+[1550] s: Makoto? How’d you get into the Smile Mile? I hopped like seven fences to make it inside of here and there’s no way you’re that athletic.
+[1551] mak: I was invited by a good friend of mine. I assumed that the two of you may have already been acquainted, but that doesn’t seem to be the case.
+[1552] mak: Are you looking for something?
+[1553] s: Yeah. I have Maya’s head in a bag, but I need to collect the rest of her to-
+[1554] mak: Say no more. Here.
+[1560] N: {i}Sensei obtained {b}Maya’s torso{b}!{/i}
+[1563] N: {i}Sensei obtained {b}Maya’s pelvis{b}!{/i}
+[1566] N: {i}Sensei obtained {b}Maya’s left arm{b}!{/i}
+[1569] N: {i}Sensei obtained {b}Maya’s right arm{b}!{/i}
+[1572] N: {i}Sensei obtained {b}Maya’s left leg{b}!{/i}
+[1575] N: {i}Sensei obtained {b}Maya’s right leg{b}!{/i}
+[1577] s: Woah, really? Just like that?
+[1578] mak: Of course. What use do {i}I{/i} have for Maya’s body?
+[1579] mak: I was actually holding onto that in hopes that you’d show up. You seemed pretty distraught when you opened that box from Ami.
+[1580] s: What box? I’m not allowed to open boxes. The game doesn’t let me.
+[1581] mak: Ahh, I see. You haven’t grown your reset legs yet. That might make this next part difficult then.
+[1582] s: Next part? What next part? Are you holding out on me, Makoto? Do you have more body parts back there?
+[1583] mak: No more body parts, unfortunately. But I {i}do{/i} have a large collection of sticks that you could probably find something to do with.
+[1584] s: Sorry. Sticks? What am I supposed to do with sticks?
+[1585] mak: You could use them as some sort of crafting reagent, I suppose? Or perhaps there’s just someone else out there who’s really interested in sticks? I don’t know.
+[1586] s: I mean, I can {i}try.{/i} Hand them over and I’ll see what I can-
+[1587] mak: Ah! Not so fast, Sensei. That piece of Maya may have been on the house, but these sticks are a lot more valuable than that.
+[1588] mak: I’m {i}still{/i} willing to let go of them for free, of course. No one wants you to succeed more than I do. But I need to know that you’re serious about escaping this time.
+[1589] s: Do you see this face, Makoto? This is my serious face. I am {i}so{/i} serious right now. Give me the sticks.
+[1590] mak: I can’t, Sensei. I need you to prove {i}how{/i} serious you are by showing me how much attention you’ve been paying. So I’ve prepared a handful of riddles.
+[1591] s: Ughhhhhh! I {i}knew{/i} there’d be questions again. I hate paying attention.
+[1592] mak: Thankfully, you should only need about half of them to achieve your goal. And you can guess as many times as you like. Does that work for you, Sensei?
+[1593] s: I mean...it’s better than nothing, I guess.
+[1597] >> jump buildamayamakotoquestions
+===== [1600] LABEL buildamayamakotoquestions =====
+[1600] mak: Excellent! Let’s start now then.
+[1603] >> jump buildamayaquestion1
+[1605] >> jump buildamayaquestion2
+[1607] >> jump buildamayaquestion3
+[1609] >> jump buildamayaquestion4
+[1611] >> jump buildamayaquestion5
+[1613] >> jump buildamayaquestion6
+[1615] >> jump buildamayaquestion7
+[1617] >> jump buildamayaquestion8
+[1619] >> jump buildamayaquestion9
+[1621] >> jump buildamayaquestion10
+[1623] >> jump buildamayaallquestionsdone
+===== [1626] LABEL buildamayaquestion1 =====
+[1626] mak: Be it torture or torment, whatever you need, there’s a White Princess waiting to swallow your seed.
+[1627] mak: Countless spidersilk hammocks she happily weaves, laced with infinite toxins you shan’t ever leave.
+[1628] mak: What is Her name?
+[1633] s: Gossamer, God of Torment! 
+[1637] mak: Great work, Sensei!
+[1644] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[1646] mak: I knew you had it in you. Now just replicate that success nine more times and you’ll have aced my quiz!
+[1647] s: It’s so lame that you’re being a smart girl here in brain-vacation.
+[1648] mak: You’ll thank me later, I’m sure. 
+[1649] mak: Are you ready for the next question?
+[1652] *OPT: Yes
+[1653] s: Hell yeah, Makoto. Hit me.
+[1654] >> jump buildamayaquestion2
+[1656] *OPT: No
+[1657] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[1658] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[1659] s: Thanks, Makoto. You’re the best.
+[1664] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1665] N: The place that I’ll go next is-
+[1667] >> jump buildamayagomenu
+[1670] s: [buildamayaquiz1]!
+[1674] mak: I’m sorry, Sensei. That’s incorrect.
+[1675] s: Shoot. I thought I had that one.
+[1676] mak: Do you want to try again?
+[1679] *OPT: Yes
+[1680] s: Fuck it. Yeah. Ask me again.
+[1681] >> jump buildamayaquestion1
+[1683] *OPT: No
+[1684] s: I think I’m good for now. I’ll come back when I need some sticks, though.
+[1685] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[1686] s: Thanks, Makoto. You’re the best.
+[1691] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1692] N: The place that I’ll go next is-
+[1694] >> jump buildamayagomenu
+===== [1697] LABEL buildamayaquestion2 =====
+[1697] mak: If you ever feel sad and forget how to smile, abandon your fears and rest here for a while.
+[1698] mak: A man with five heads but only four faces. Just don’t make him mad, for it’s air he displaces.
+[1699] mak: What is His name?
+[1704] s: Giuseppe, God of Clowns!
+[1708] mak: Great work, Sensei!
+[1715] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[1717] mak: You’re doing great. Just eight questions remain now.
+[1718] mak: Are you ready for the next one?
+[1721] *OPT: Yes
+[1722] s: Hell yeah, Makoto. Hit me.
+[1723] >> jump buildamayaquestion3
+[1725] *OPT: No
+[1726] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[1727] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[1728] s: Thanks, Makoto. You’re the best.
+[1733] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1734] N: The place that I’ll go next is-
+[1736] >> jump buildamayagomenu
+[1739] s: [buildamayaquiz2]!
+[1743] mak: I’m sorry, Sensei. That’s incorrect.
+[1744] s: Shoot. I thought I had that one.
+[1745] mak: Do you want to try again?
+[1748] *OPT: Yes
+[1749] s: Fuck it. Yeah. Ask me again.
+[1750] >> jump buildamayaquestion2
+[1752] *OPT: No
+[1753] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[1754] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[1755] s: Thanks, Makoto. You’re the best.
+[1760] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1761] N: The place that I’ll go next is-
+[1763] >> jump buildamayagomenu
+===== [1766] LABEL buildamayaquestion3 =====
+[1766] mak: A cage for your heart and the things you’ve done wrong. Four ears to remember the words of each song.
+[1767] mak: A chance for a wish to fulfill your ambitions. Your misdeeds mean nothing if he says you’re forgiven.
+[1768] mak: What is His name?
+[1773] s: Pegasus, Peerless God of Forgiveness! 
+[1777] mak: Great work, Sensei!
+[1784] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[1786] mak: You’re doing great. Only seven questions left.
+[1787] mak: Are you ready for the next one?
+[1790] *OPT: Yes
+[1791] s: Hell yeah, Makoto. Hit me.
+[1792] >> jump buildamayaquestion4
+[1794] *OPT: No
+[1795] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[1796] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[1797] s: Thanks, Makoto. You’re the best.
+[1802] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1803] N: The place that I’ll go next is-
+[1805] >> jump buildamayagomenu
+[1808] s: [buildamayaquiz3]!
+[1812] mak: I’m sorry, Sensei. That’s incorrect.
+[1813] s: Shoot. I thought I had that one.
+[1814] mak: Do you want to try again?
+[1817] *OPT: Yes
+[1818] s: Fuck it. Yeah. Ask me again.
+[1819] >> jump buildamayaquestion3
+[1821] *OPT: No
+[1822] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[1823] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[1824] s: Thanks, Makoto. You’re the best.
+[1829] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1830] N: The place that I’ll go next is-
+[1832] >> jump buildamayagomenu
+===== [1835] LABEL buildamayaquestion4 =====
+[1835] mak: If the world is a game, then there must be a master. Or at least someone who will keep track.
+[1836] mak: On the wings of white noise, he can play what comes after a choice you can’t ever take back.
+[1837] mak: What is His name?
+[1842] s: Halftone, God of Save Slots! 
+[1846] mak: Great work, Sensei!
+[1853] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[1855] mak: You’re doing awesome! You’re almost halfway done now.
+[1856] mak: Are you ready for the next one?
+[1859] *OPT: Yes
+[1860] s: Hell yeah, Makoto. Hit me.
+[1861] >> jump buildamayaquestion5
+[1863] *OPT: No
+[1864] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[1865] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[1866] s: Thanks, Makoto. You’re the best.
+[1871] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1872] N: The place that I’ll go next is-
+[1874] >> jump buildamayagomenu
+[1877] s: [buildamayaquiz4]!
+[1881] mak: I’m sorry, Sensei. That’s incorrect.
+[1882] s: Shoot. I thought I had that one.
+[1883] mak: Do you want to try again?
+[1886] *OPT: Yes
+[1887] s: Fuck it. Yeah. Ask me again.
+[1888] >> jump buildamayaquestion4
+[1890] *OPT: No
+[1891] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[1892] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[1893] s: Thanks, Makoto. You’re the best.
+[1898] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1899] N: The place that I’ll go next is-
+[1901] >> jump buildamayagomenu
+===== [1904] LABEL buildamayaquestion5 =====
+[1904] mak: In a room full of children who don’t dare to tempt you, there’s a bed that you wouldn’t dare sleep in.
+[1905] mak: Its caregiver cares not for what you have gone through, but she’ll watch as the plot you’re in deepens.
+[1906] mak: What is Her name?
+[1911] s: Floral Laura, God of the Hedgemaze! 
+[1915] mak: Great work, Sensei!
+[1922] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[1924] mak: You’re officially halfway done!
+[1925] mak: I’ve gotta say, I’m really impressed. I had no idea you’d make this far.
+[1926] mak: Do you want to keep going?
+[1929] *OPT: Yes
+[1930] s: Hell yeah, Makoto. Hit me.
+[1931] >> jump buildamayaquestion6
+[1933] *OPT: No
+[1934] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[1935] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[1936] s: Thanks, Makoto. You’re the best.
+[1941] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1942] N: The place that I’ll go next is-
+[1944] >> jump buildamayagomenu
+[1947] s: [buildamayaquiz5]!
+[1951] mak: I’m sorry, Sensei. That’s incorrect.
+[1952] s: Shoot. I thought I had that one.
+[1953] mak: Do you want to try again?
+[1956] *OPT: Yes
+[1957] s: Fuck it. Yeah. Ask me again.
+[1958] >> jump buildamayaquestion5
+[1960] *OPT: No
+[1961] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[1962] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[1963] s: Thanks, Makoto. You’re the best.
+[1968] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[1969] N: The place that I’ll go next is-
+[1971] >> jump buildamayagomenu
+===== [1974] LABEL buildamayaquestion6 =====
+[1974] mak: Lacerations for you and badges for me. You might think that you’re strong, but she’s stronger.
+[1975] mak: As of now she’s just hearsay and hasn’t been seen. Just a scepter could make your arms longer.
+[1976] mak: What is Her name?
+[1981] s: Necalli, God of Knives! 
+[1985] mak: Great work, Sensei!
+[1992] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[1994] mak: You’ve officially entered the more difficult half of the quiz.
+[1995] mak: Think you still have what it takes to keep going?
+[1998] *OPT: Yes
+[1999] s: Hell yeah, Makoto. Keep ‘em coming.
+[2000] >> jump buildamayaquestion7
+[2002] *OPT: No
+[2003] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[2004] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[2005] s: Thanks, Makoto. You’re the best.
+[2010] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2011] N: The place that I’ll go next is-
+[2013] >> jump buildamayagomenu
+[2016] s: [buildamayaquiz6]!
+[2020] mak: I’m sorry, Sensei. That’s incorrect.
+[2021] s: Shoot. I thought I had that one.
+[2022] mak: Do you want to try again?
+[2025] *OPT: Yes
+[2026] s: Fuck it. Yeah. Ask me again.
+[2027] >> jump buildamayaquestion6
+[2029] *OPT: No
+[2030] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[2031] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[2032] s: Thanks, Makoto. You’re the best.
+[2037] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2038] N: The place that I’ll go next is-
+[2040] >> jump buildamayagomenu
+===== [2043] LABEL buildamayaquestion7 =====
+[2043] mak: Summer, winter, autumn, spring — each is perfect for the Fruit Fly’s Wing.
+[2044] mak: Often perched on a desk with no place to sit, he once carved his home in the Heavenly Pit.
+[2045] mak: What is His name?
+[2050] s: Onund, God of the Hole! 
+[2054] mak: Great work, Sensei!
+[2061] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[2063] mak: Only three questions left now. You’re doing so well!
+[2064] mak: Ready for the next one?
+[2067] *OPT: Yes
+[2068] s: Hell yeah, Makoto. Keep ‘em coming.
+[2069] >> jump buildamayaquestion8
+[2071] *OPT: No
+[2072] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[2073] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[2074] s: Thanks, Makoto. You’re the best.
+[2079] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2080] N: The place that I’ll go next is-
+[2082] >> jump buildamayagomenu
+[2085] s: [buildamayaquiz7]!
+[2089] mak: I’m sorry, Sensei. That’s incorrect.
+[2090] s: Shoot. I thought I had that one.
+[2091] mak: Do you want to try again?
+[2094] *OPT: Yes
+[2095] s: Fuck it. Yeah. Ask me again.
+[2096] >> jump buildamayaquestion7
+[2098] *OPT: No
+[2099] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[2100] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[2101] s: Thanks, Makoto. You’re the best.
+[2106] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2107] N: The place that I’ll go next is-
+[2109] >> jump buildamayagomenu
+===== [2112] LABEL buildamayaquestion8 =====
+[2112] mak: How nice it would be to sleep in her bosom, dodging claws or the cords in her hair.
+[2113] mak: For when I wake up and the sun starts to shine, a glass of her warmth is already prepared.
+[2114] mak: What is Her name?
+[2119] s: Harimanti, God of Milk! 
+[2123] mak: Great work, Sensei!
+[2130] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[2132] mak: Two more! You’re better than anyone could have ever imagined!
+[2133] mak: Ready for the next one?
+[2136] *OPT: Yes
+[2137] s: Hell yeah, Makoto. Keep ‘em coming.
+[2138] >> jump buildamayaquestion9
+[2140] *OPT: No
+[2141] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[2142] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[2143] s: Thanks, Makoto. You’re the best.
+[2148] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2149] N: The place that I’ll go next is-
+[2151] >> jump buildamayagomenu
+[2154] s: [buildamayaquiz8]!
+[2158] mak: I’m sorry, Sensei. That’s incorrect.
+[2159] s: Shoot. I thought I had that one.
+[2160] mak: Do you want to try again?
+[2163] *OPT: Yes
+[2164] s: Fuck it. Yeah. Ask me again.
+[2165] >> jump buildamayaquestion8
+[2167] *OPT: No
+[2168] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[2169] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[2170] s: Thanks, Makoto. You’re the best.
+[2175] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2176] N: The place that I’ll go next is-
+[2178] >> jump buildamayagomenu
+===== [2181] LABEL buildamayaquestion9 =====
+[2181] mak: This one might be tough as he’s still up and coming.
+[2182] mak: I now speak of the god who rules one more than nothing.
+[2183] mak: What is His name?
+[2188] s: Arramin, God of Something! 
+[2192] mak: Great work, Sensei!
+[2199] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[2201] mak: I can’t believe it! There’s only one question left!
+[2202] mak: Are you ready, Sensei? Can you complete the quiz?
+[2205] *OPT: Yes
+[2206] s: Let’s fucking do this...
+[2207] >> jump buildamayaquestion10
+[2209] *OPT: No
+[2210] s: I think I’m good for now. I’ll come back when I need more sticks, though.
+[2211] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready for more.
+[2212] s: Thanks, Makoto. You’re the best.
+[2217] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2218] N: The place that I’ll go next is-
+[2220] >> jump buildamayagomenu
+[2223] s: [buildamayaquiz9]!
+[2227] mak: I’m sorry, Sensei. That’s incorrect.
+[2228] s: Shoot. I thought I had that one.
+[2229] mak: Do you want to try again?
+[2232] *OPT: Yes
+[2233] s: Fuck it. Yeah. Ask me again.
+[2234] >> jump buildamayaquestion9
+[2236] *OPT: No
+[2237] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[2238] mak: Okay! I’ll be here. Just call out to me and tell me you’re ready.
+[2239] s: Thanks, Makoto. You’re the best.
+[2244] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2245] N: The place that I’ll go next is-
+[2247] >> jump buildamayagomenu
+===== [2250] LABEL buildamayaquestion10 =====
+[2250] mak: A creator of many, yet a peer of no one. If you call him a clown, you’re a bother.
+[2251] mak: His domain is familiar. His power is unmatched. He’s the one we call Sorrowful Father.
+[2252] mak: What is His name?
+[2257] s: Apollo, Peerless God of Dolor! 
+[2261] mak: Oh my {b}GOD!{/b} You did it!
+[2268] N: {i}Sensei has obtained {b}a stick{/b}!{/i}
+[2270] mak: That’s amazing! You answered every single question correctly!
+[2271] s: I have so many sticks now.
+[2272] mak: You sure do. But unfortunately, that means I don’t have {i}any{/i} anymore. And that’s kind of upsetting.
+[2273] mak: I’ve grown pretty attached to those sticks lately.
+[2274] s: If it makes you feel any better, they’ll all be going to a good cause. 
+[2275] mak: I believe you, Sensei. I know you’ll complete your rebuild of Maya any day now. And when you do, I hope to be right there on the other side when you return to our world.
+[2276] s: It’ll probably be Ayane.
+[2277] mak: Yeah, you’re probably right.
+[2278] s: Either way, Makoto, you’ve been a huge help. I need to go put these sticks to work, though. I refuse to let you down this time.
+[2279] mak: I’ll hold you to that, Sensei...
+[2284] mak: Good luck out there.
+[2286] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2287] N: The place that I’ll go next is-
+[2289] >> jump buildamayagomenu
+[2292] s: [buildamayaquiz10]!
+[2296] mak: I’m sorry, Sensei. That’s incorrect.
+[2297] s: God, this shit is so hard.
+[2298] mak: Do you want to try again?
+[2301] *OPT: Yes
+[2302] s: Fuck it. Yeah. Ask me again.
+[2303] >> jump buildamayaquestion10
+[2305] *OPT: No
+[2306] s: I think I’m good for now. I’ll come back when I need some more sticks, though.
+[2307] mak: Really? You’re just...going to leave in the middle of the very last question?
+[2308] s: Damn right.
+[2313] mak: Sensei, no! Come back! You can’t just leave me in suspense like this!
+[2315] N: I sure can. So I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2316] N: The place that I’ll go next is-
+[2318] >> jump buildamayagomenu
+===== [2321] LABEL buildamayaallquestionsdone =====
+[2324] s: Makoto? Are you there? I want to talk to you again.
+[2329] mak: Sensei?...
+[2330] mak: What are you doing here? You’ve already answered all of my questions.
+[2333] s: I wanted to give you this.
+[2337] N: {i}Sensei has gifted the {b}Ultimate Stick Bouquet{/b} to Makoto!{/i}
+[2339] mak: Wha-
+[2340] s: I had some extra sticks left over after making a bunch of trinkets and I figured I’d craft something for {i}you{/i} as a means of thanking you for all of your help.
+[2341] s: I’d be stuck in here forever if it wasn’t for you, Makoto.
+[2342] mak: My sticks...
+[2343] mak: They’re so beautiful now...
+[2344] s: Perhaps they’ve {i}always{/i} been beautiful...and we just couldn’t see it.
+[2345] mak: Sensei, I...I know they’re just {i}sticks,{/i} but...this really means a lot to me. 
+[2346] mak: To think that you’d learn how to make the {b}Ultimate Stick Bouquet{/b} in such a short amount of time and then...give it to {i}me{/i} of all people?
+[2347] mak: I don’t get it...
+[2348] s: You don’t need to. You just need to accept it.
+[2349] s: Accept it and live your life, Makoto. Escape from the Smile Mile and go back home. Be free.
+[2350] mak: I mean...I kind of {i}can’t{/i} until you finish your mission.
+[2351] s: Oh.
+[2352] mak: B...But! And, uhh...o-okay. So...
+[2353] mak: I actually...{i}do{/i} have something else that...I didn’t tell you about before. But only because I didn’t think you were ready!
+[2354] s: I {i}knew{/i} you had extra body parts back there.
+[2355] mak: It’s not an extra body part! Just...wait here, okay? I’ll be back in one minute!
+[2356] s: I’ll be counting...
+[2365] mak: Okay! I’m back.
+[2366] s: That was only fifty-seven seconds. You have deceived me.
+[2367] mak: That’s a level of pedantry even I have a hard time accepting. But here! 
+[2368] mak: This is my final gift to you...
+[2372] N: {i}Sensei has obtained a {b}Koi{/b}!{/i}
+[2374] s: Woah! You’re seriously going to trust me with a koi? This guy is huge. He’s gotta be worth at least $10.
+[2375] mak: Much more than that, Sensei.
+[2376] s: Well, duh. That’s why I said “at least.” Where did you even get it, though?
+[2377] mak: I caught it while I was fishing somewhere I wasn’t supposed to. It’s probably illegal. But it’s also yours now, so that’s not my problem anymore.
+[2378] s: Makoto Miyamura, you have turned me into a criminal.
+[2379] mak: I mean...{i}did I,{/i} though?
+[2380] s: I have no idea what you’re talking about. Anyway, you enjoy the sticks and I will enjoy this fish. I am suddenly hungry.
+[2381] mak: You’re not going to eat him, are you? Because I want you to look after him, Sensei. Give him a home. Do what {i}I{/i} can’t.
+[2382] s: Well...why {i}can’t{/i} you?
+[2383] mak: Because he’s yours now.
+[2384] s: But that’s-
+[2385] mak: Bye!
+[2390] s: ...
+[2391] s: ...
+[2392] s: ...
+[2393] s: Well...I guess I have a fish now?
+[2401] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2402] N: The place that I’ll go next is-
+[2404] >> jump buildamayagomenu
+[2407] s: I just wanted to say hi. 
+[2408] mak: Oh. Okay. Hi.
+[2409] s: Hi.
+[2410] mak: ...
+[2411] s: ...
+[2412] mak: ...
+[2413] s: ...
+[2414] mak: Is that really all?
+[2415] s: Yup. See you later, Makoto.
+[2420] mak: Oh...okay. 
+[2422] N: I exit the Smile Mile and spend the next few minutes figuring out where to go from here.
+[2423] N: The place that I’ll go next is-
+[2425] >> jump buildamayagomenu
+===== [2429] LABEL buildamayachikarealm =====
+[2433] s: Chika? Are you there? I want to talk to you again.
+[2438] c: Mhm! Welcome back, Sensei. The sale’s extended until Maya’s finally put back together.
+[2439] c: What’s up?
+[2441] >> jump buildamayachikamenu1
+[2444] N: Now that the mall is finally open again, I decide to head on over and see if any of the shops are selling pieces of Maya.
+[2445] N: What I find instead is quite shocking, though. It appears as if an orgy is taking place here. The mall {i}I{/i} am currently accustomed to never had those.
+[2446] N: Times sure are changing, huh? It must be all of that fluoride in the water.
+[2451] c: Sensei! Hey! Welcome to the Spacy’s Summer Blast Savings event! You just missed Chinami. She would have been so happy to see you.
+[2452] s: You brought your little sister to an orgy?
+[2453] c: Hm? Of course not! She was here before {i}I{/i} was. But apparently it’s not as big of a deal as you’d expect. I’ll admit, though. I was pretty shocked at first too.
+[2454] c: You just looking to shop? Or do you need a partner for the ritual? Because I’m still searching as well.
+[2455] c: Or...I guess “waiting” would be more accurate. Nobody here has really suited my tastes until you showed up. But now that you’re {i}here,{/i} we can finally join in!
+[2456] c: I hear the pair who lasts the longest gets a prize. And you and I both know that we can knock these losers out of the water.
+[2457] s: Is the prize a piece of Maya by any chance?
+[2458] c: I don’t think so. I’m pretty sure it’s some kind of helmet, actually.
+[2459] s: Fuck.
+[2460] c: {i}I{/i} have a piece of Maya, though.
+[2461] s: Un-fuck. That’s awesome, Chika. Can I have it?
+[2462] c: Depends. What are you gonna do with it?
+[2463] s: Add it to my collection bag and ultimately put her back together so Horseface Taki will let me leave.
+[2464] c: Who’s Horseface Taki?
+[2465] s: The God of the Track. Whatever that means. Cool guy. His voice is kind of hoarse, though.
+[2466] c: Hahah! Awesome pun, Sensei!
+[2467] s: What pun?
+[2468] c: Oh. Uhh...nevermind, I guess? 
+[2469] c: And Sensei, I love you, but I really can’t just let go of this Maya fragment for nothing. I’m going to need something in exchange for it.
+[2470] s: Can I not just be your orgy partner? Because we might have to go at it for days if these people are serious and that time is {i}worth{/i} something, Chika. I know this because I’m a professional.
+[2471] c: You sure are, Sensei. And frankly, I think your experience is needed here. Like, just look at the couple to my left. There’s no way he’s got it inside. The angle is all wrong.
+[2472] s: We have a deal then? I have a lot of sex with you and {i}you{/i} give me one of Maya’s body parts?
+[2473] c: I just can’t agree to that, unfortunately. Contest-slash-ritual rules don’t allow payment or bribery in exchange for sex. Any deal we make needs to be done behind the scenes.
+[2474] s: Ugh. Nothing’s ever as easy as it looks, is it?
+[2475] c: Doesn’t seem that way, no. But hey! You know what I like, so I’m sure you’ll find something worth trading me.
+[2476] c: And in the meantime, you can have these!
+[2480] N: {i}Sensei obtained {b}Rose Seeds{/b}!{/i}
+[2482] s: Seeds?
+[2483] c: Mhm. Rose seeds. They’re worth their weight in gold if you can grow them. Or...maybe not {i}gold.{/i} But they’re definitely worth their weight in roses. Because...they {i}are{/i} roses.
+[2484] s: Right.
+[2485] c: You get what I’m saying, don’t you? Plant them and...do something with them. Then do {i}more{/i} things and return to me and-
+[2486] s: Okay, yeah. I get it. Thanks, Chika.
+[2487] c: Mhm! Anything for you, Sensei.
+[2488] c: So...can we start now? Because being around {i}this{/i} for so long has got me kind of {i}eager{/i} to join in, if you know what I mean.
+[2489] s: Maybe later. I need to finish crafting stuff for my mission first. 
+[2490] c: Damn it! Even Chinami’s gonna beat me at this rate...
+[2495] s: I don’t think she should be allowed here, but I don’t really have the time to enforce any rules. I have work to do.
+[2496] c: I’ll be here when you need me! Or {i}want{/i} me! Or {i}anything{/i} me! I’m so lonely and so left out!
+[2498] N: And I am so busy, so I leave.
+[2499] N: Where to next?
+[2504] >> jump buildamayagomenu
+[2507] *OPT: Propose a trade
+[2508] s: I’d like to propose a trade. 
+[2509] c: Kay! What kind of trade do you have in mind?
+[2511] >> jump buildamayachikamenu2
+[2513] *OPT: Go back outside
+[2514] s: Actually, I don’t think I’m ready yet. Let me gather some more stuff and come back later.
+[2515] c: Okay! I’ll be here then. Just...waiting.
+[2520] c: Watching all these...other couples have sex...
+[2522] N: I head back outside to gather my thoughts and figure something else out.
+[2524] >> jump buildamayagomenu
+[2527] N: Corpsecrown
+[2528] s: How about this corpsecrown that I made from a giant flower and a bunch of sticks?
+[2529] c: Ew, creepy. Why does it look like that?
+[2530] s: I think it might be alive.
+[2531] c: So you’re giving it to me as, like...a {i}pet?{/i} Like, am I supposed to feed it? Or what?
+[2532] s: I kind of hoped you’d just put it on your head and be like, “Cool, thanks” then give me a piece of Maya I could stuff in my bag.
+[2533] c: Oh, so it’s like some new kind of accessory then? Neat. Kinda retro, even. I don’t really think it fits my style, though.
+[2534] c: Plus, it already smells pretty terrible in here and that crown isn’t exactly helping.
+[2535] s: Damn it. Guess I’ll have to try something else then.
+[2537] >> jump buildamayachikamenu2
+[2539] N: Lavender perfume
+[2540] s: I can offer you this perfume I made?
+[2541] c: Ooh, perfume! Let me see!
+[2543] N: I try to hand Chika the tester bottle I made but, before I can, she snatches the {i}bigger{/i} bottle out of my hands and takes a swig of it.
+[2545] c: Delicious! Is that lavender?
+[2546] s: I don’t think you’re supposed to drink that.
+[2547] c: I do that with all of my perfumes when I’m testing them. I learned it from my mom.
+[2548] s: No wonder she died so young.
+[2550] N: Chika takes another swig of the lavender perfume I worked so hard on.
+[2552] c: ...
+[2553] c: Is there cum in here?
+[2554] s: It’s possible. The only ingredient apart from lavender was some mystery fluid I found in a jar Ami was holding onto.
+[2555] c: She’s so fucking weird.
+[2557] N: Chika takes another sip from the lavender cum bottle.
+[2559] c: Anyway, yeah. This is perfect, Sensei. And the lavender totally helps mask the smell of sex in here! I feel like a brand new girl all of a sudden!
+[2567] N: {i}Sensei obtained {b}Maya’s torso{b}!{/i}
+[2570] N: {i}Sensei obtained {b}Maya’s pelvis{b}!{/i}
+[2573] N: {i}Sensei obtained {b}Maya’s left arm{b}!{/i}
+[2576] N: {i}Sensei obtained {b}Maya’s right arm{b}!{/i}
+[2579] N: {i}Sensei obtained {b}Maya’s left leg{b}!{/i}
+[2582] N: {i}Sensei obtained {b}Maya’s right leg{b}!{/i}
+[2584] c: I wonder if that’s just because I haven’t had any cum in so long?
+[2585] s: Well...I wanted you to {i}wear{/i} the perfume, but I guess drinking it is fine too so long as I get my piece of Maya out of it.
+[2586] c: What are you gonna do once you finish rebuilding her? And also, you {i}are{/i} going to come back, right? 
+[2587] c: Because, again, the sale ends once Maya’s put back together. And if I’m the one girl at this orgy who doesn’t get any dick, my self-esteem is going to take a real blow.
+[2588] s: Uhh...probably? I don’t know. 
+[2589] s: I’m kind of busy right now, though. So I’ll see you later, Chika.
+[2590] c: Whaaaaat?! Really?! Ugh!
+[2595] c: Guess it’s back to masturbating then...
+[2597] N: I leave Chika and head back outside to figure out where to go from here.
+[2599] >> jump buildamayagomenu
+[2601] N: Opium
+[2602] s: What’s a sex party without a little opium? Want to trade your piece of Maya for-
+[2603] c: Sensei, no! I don’t do {i}drugs.{/i} I’ve seen the effect those had on Yumi and I still have a little sister to take care of. 
+[2604] s: Where is she {i}now{/i} by the way?
+[2605] c: Idunno. Fucking some kind of dog-man I think?
+[2606] s: You’re right. Drugs would be a horrible influence on her.
+[2607] c: Exactly. So put that stuff away and make me a better, more wholesome offer. I’m going to keep watching this orgy in the meantime.
+[2609] N: Damn. Looks like Chika doesn’t want any opium.
+[2610] N: I’ll need to try something else.
+[2612] >> jump buildamayachikamenu2
+[2614] N: Rose Bouquet
+[2615] s: How about this bouquet of roses? I did what you told me and turned them into a product. Now they are more valuable and worth at least one Maya part.
+[2616] c: Oh, wow! You totally {i}did!{/i} You even replaced the stems and everything. And- oh! Are those fake thorns?
+[2617] s: I am a master craftsman in this world. Life is so much better when I don’t destroy everything I touch.
+[2618] c: It sounds like it. And, like...I {i}love{/i} the bouquet, don’t get me wrong, but roses are kind of {i}out{/i} right now. That’s why I gave you the seeds. 
+[2619] c: I have a reputation to uphold and can’t really be caught dead with them until they’re back in season.
+[2620] s: But I worked so hard on this.
+[2621] c: And you did great! I just...{i}don’t really want them...{/i}
+[2622] s: ...
+[2623] c: Maybe something else, though! What else do you have?
+[2625] >> jump buildamayachikamenu2
+[2627] N: Snapdragon Bracelet
+[2628] s: I could give you this awesome snapdragon bracelet I made? 
+[2629] c: Snapdragons? Did you get those from Yumi? I {i}thought{/i} I heard something about her raiding people’s gardens recently.
+[2630] s: I got the seeds from her but grew the snapdragons myself. And it was really sad having to kill them for the sake of fashion, so I’d appreciate it if you would take their carcasses off my hands.
+[2631] c: I want to. Really. Just the Spacy’s Summer Blast Savings event has a strict “no bracelets” rule and I don’t want to get disqualified once we start.
+[2632] s: Only bracelets are banned? Why?
+[2633] c: Anklets too. People started putting razorblades in them to sort of shock themselves out of arousal and keep themselves from cumming. Unfair advantage in a sex contest, unfortunately.
+[2634] c: Or a handicap if you’re into bloodplay, I guess. Either way, I don’t make the rules.
+[2635] c: Is there anything else you can trade?
+[2636] s: Uhh...let me see.
+[2638] >> jump buildamayachikamenu2
+[2640] *OPT: Go back outside
+[2641] s: Actually, I don’t think I’m ready yet. Let me gather some more stuff and come back later.
+[2642] c: Okay! I’ll be here then. Just...waiting.
+[2647] c: Watching all these...other couples have sex...
+[2649] N: I head back outside to gather my thoughts and figure something else out.
+[2651] >> jump buildamayagomenu
+===== [2655] LABEL buildamayayumirealm =====
+[2659] s: Yumi? Are you there? I want to talk to you again.
+[2664] y: Huh? The fuck you want?
+[2666] >> jump buildamayayumimenu1
+[2669] N: Apparently, there is a district even older than the old one. And, even more apparently, I am there now. Which is odd because I don’t exactly remember {i}coming{/i} here.
+[2670] N: {size=-1}The sky twists and morphs and gives me slight motion sickness, but a peculiar sunflower peering over the wooden barrier emits a soft whirring noise that acts as verbal Dramamine and makes me feel a little better.{/size}
+[2672] y: Ahh, fuck.
+[2677] y: I ain’t even safe from you in a brand new world, am I?
+[2678] s: Oh. Hey, Yumi. I guess it makes sense that you’d be here. Where’d all your clothes go?
+[2679] y: It’s hot as balls over here, ain’t it? And I don’t wanna fuckin’ deal with that, so birthday suit it is.
+[2680] s: Awesome. Well, happy birthday.
+[2681] y: You’re a fucking idiot. Go home, Sensei.
+[2682] s: I can’t. I need to collect a bunch of pieces of Maya and then reassemble them on my bed so we can return home together.
+[2683] y: Sounds like wishful thinkin’ to me. ‘Specially after I watched you pull her head from a goddamn box just a little while ago. 
+[2684] s: A box? Don’t you mean a {i}bag?{/i}
+[2689] N: I remove Maya’s head from my sack and hold it out to Yumi by the hair.
+[2691] y: Ew! Put that shit away! I don’t want to fuckin’ look at a {i}head.{/i} It’s bad enough just keepin’ {i}this{/i} on me.
+[2693] N: Yumi vomits up one of Maya’s body parts to show me, holding it in her slimy hands before opening her mouth back up and swallowing it whole.
+[2695] y: Girl’s gotta eat.
+[2696] s: I might have the head, sure. But at least {i}I{/i} have the decency to keep mine in a sack.
+[2697] y: Ain’t human bodies just sacks of meat at the end of the day? Ain’t no issue holdin’ shit like I do. I get some nutrients out of it too. 
+[2698] y: Only downside is I get people like you tryin’ to come after me and tear open my body to get to the good stuff. 
+[2699] s: Someone else has come here searching for Maya parts? Who?
+[2700] y: Some dude in a purple hat. Didn’t give me a name. As you can see, though, part’s still in my possession. 
+[2701] y: At least until somebody makes me a good offer, that is.
+[2702] s: Well...what are you looking for exactly? Maybe I have something that-
+[2703] y: You ain’t got shit. I can tell by the look on your face.
+[2704] s: But I-
+[2706] N: Yumi vomits something else up and throws it at me.
+[2710] N: {i}Sensei obtained {b}Snapdragon Seeds{/b}!{/i}
+[2712] s: Ew. Why?
+[2713] y: Think that Maya fragment’s growing or some shit. Body’s probably tryin’ to make more room for it or whatever.
+[2714] s: Are these flower seeds?
+[2715] y: Like I said, fucker. Girl’s gotta eat. I don’t bitch about your diet, so you damn well better not bitch about mine.
+[2716] y: Now get the fuck out of here and don’t come back until you’ve got somethin’ to trade. You hear me?
+[2717] s: Ugh...fine.
+[2722] N: I sink into the cement and emerge in a strange field somewhere, slightly wet.
+[2723] N: Now where should I go?
+[2728] >> jump buildamayagomenu
+[2731] *OPT: Propose a trade
+[2732] s: I’d like to propose a trade. 
+[2733] y: Ugh...fine. What’s your offer?
+[2735] >> jump buildamayayumimenu2
+[2737] *OPT: Go back outside
+[2738] s: Actually, I think I’ll just come back another time. It seems like you’re in a bad mood.
+[2739] y: The fuck would give you that idea, douche-monkey?
+[2744] s: That. I’m sorry, Yumi.
+[2745] y: Good. Fuckin’ go then. See if I care.
+[2747] N: I head back outside and try to figure out where to go from here.
+[2748] N: Now what?
+[2750] >> jump buildamayagomenu
+[2753] N: Corpsecrown
+[2754] s: Could I interest you in this crown, my princess? It’s made of sticks and corpseflower bits.
+[2755] y: Can I interest {i}you{/i} in never fucking calling me your princess again? Put that stupid fucking crown away.
+[2756] s: I think it’d look great on you, though. I probably should have made a tiara, huh?
+[2757] y: You probably shouldn’t try treating me like some fuckin’ doll to play dress up with! Should throw you over this fuckin’ ledge for trying.
+[2758] s: I’m sorry, Yumi. I just don’t like the idea of you being out in public naked and a crown atop your head would make me more comfortable.
+[2759] y: Well, I don’t give a shit about your {i}comfort,{/i} so offer something else or get the fuck out of here.
+[2760] s: Ugh...fine.
+[2762] >> jump buildamayayumimenu2
+[2764] N: Lavender perfume
+[2765] s: How about some fragrant lavender perfume?
+[2766] y: How about you kill yourself?
+[2767] s: I already tried that and you stopped me because you know you care about me deep down.
+[2768] y: Nah, I just didn’t want you fuckin’ crash landing into somebody’s house and then having to deal with all the cops in the area and shit. Too many kids to rob and I don’t want ‘em snitching.
+[2769] s: You still do that?
+[2770] y: I {i}would{/i} if it weren’t for the lack of kids around these days. Guessin’ you already took ‘em all and chained ‘em up in your house, though.
+[2771] s: I don’t have time to kidnap anyone right now. I’m too busy trying to rebuild Maya.
+[2772] y: Well, you should try a little fuckin’ harder then. Because you ain’t gettin’ shit from me at this rate.
+[2774] N: Damn it. This girl is so mean.
+[2776] >> jump buildamayayumimenu2
+[2778] N: Opium
+[2779] s: I’ve got...opium?
+[2780] y: Opium?
+[2781] s: Yeah. Like...drugs.
+[2782] y: I know what fucking {i}opium{/i} is, dumbass. Why the hell do {i}you{/i} have it, though? You ain’t cool enough for that shit.
+[2783] s: I didn’t really know what else to do with the poppies I grew. And I figured that {i}someone{/i} would be willing to pay for this.
+[2784] s: I just didn’t think it would be the girl whose life had already been ravaged by drugs. 
+[2785] y: Course you didn’t, cause you’ve got no fuckin’ clue what you’re doing. It’s people specifically like {i}me{/i} who give into that shit and fall into the same goddamn hole they grew up in.
+[2786] s: But you’re better than that now, right?
+[2787] y: Nope. Give it here, fucker.
+[2792] N: Yumi snatches the opium from me and swallows it the same way she swallowed a piece of Maya earlier.
+[2794] y: Now {i}THAT{/i} is what I’m fuckin’ talking about! {i}THAT{/i} is a god damn trade.
+[2802] N: {i}Sensei obtained {b}Maya’s torso{b}!{/i}
+[2805] N: {i}Sensei obtained {b}Maya’s pelvis{b}!{/i}
+[2808] N: {i}Sensei obtained {b}Maya’s left arm{b}!{/i}
+[2811] N: {i}Sensei obtained {b}Maya’s right arm{b}!{/i}
+[2814] N: {i}Sensei obtained {b}Maya’s left leg{b}!{/i}
+[2817] N: {i}Sensei obtained {b}Maya’s right leg{b}!{/i}
+[2819] s: Will just swallowing it like that even get you high, though?...
+[2820] y: You think I don’t know what I’m fuckin’ doing, numnuts?! I’m the goddamn {i}OPIUM QUEEN{/i} of the older district. 
+[2821] y: You get more of this shit, you bring it directly to me. You understand?
+[2822] s: Why, though? I already got your Maya fragment.
+[2823] y: Because if you {i}don’t,{/i} I will find you and fucking {i}gut{/i} you. 
+[2824] y: You {i}really{/i} want something in exchange, I’ll just suck you off or whatever.
+[2825] s: I’m not sure I want that. Your throat seems to be a bit of an abyss given the things I’ve watched you both swallow and regurgitate up here.
+[2826] y: Ain’t that kind of a selling point, though?
+[2827] s: Not if you puke on me...
+[2828] y: Jesus Christ, you’re such a little bitch! Just take your god damn body part and get out of here!
+[2833] s: Okay, Yumi...Thanks for your help. Even if it was mostly self-motivated and toxic.
+[2834] y: And thank {i}you{/i} for the drugs! I’m gonna be high as FUCK soon. 
+[2836] N: I leave Yumi and head back outside to figure out where to go from here.
+[2837] N: I can hear her excitedly shouting from half a mile away.
+[2839] >> jump buildamayagomenu
+[2841] N: Rose Bouquet
+[2842] s: How about this nice bouquet of roses to-
+[2847] N: Yumi snatches the bouquet out of my hands and throws it over the ledge.
+[2849] s: Yumi, what the heck? I worked hard on that.
+[2850] y: And now you can work hard on goin’ to get it, fucker.
+[2851] s: Ugh...hold on.
+[2856] N: I dash down to the lower level of the street and retrieve the bouquet I made.
+[2861] s: {i}Hah...{/i}very funny, Yu-
+[2866] N: That bitch does it {i}again!{/i}
+[2868] s: This is so unfair! Why are you so much faster than me in this dimension?
+[2869] y: Beats me. Why are {i}you{/i} such a little bitch?
+[2871] N: I guess roses are a no-go...
+[2876] N: I head back down to the lower level to retrieve the bouquet again, tucking it safely back into my pocket before returning to Yumi...
+[2881] y: That’ll teach you to keep all that {i}pretty{/i} shit away from me, fuckface.
+[2882] y: Either make me a real offer or beat it.
+[2884] >> jump buildamayayumimenu2
+[2886] N: Snapdragon Bracelet
+[2887] s: How about this snapdragon bracelet? I made it out of those seeds you vomited up and threw at me the first time I came here.
+[2888] y: Oh, great. So now it’s even {i}bigger{/i} and I’ll have to puke it up again. You don’t think this shit through at all, do you?
+[2889] s: Not really. I’m kind of just guessing. 
+[2890] y: Well, I’ll tell you what. Either you start guessing {i}better,{/i} or I’m going to divide my piece of Maya up into even {i}more{/i} pieces and make this puzzle {i}really{/i} fucking tough for you.
+[2891] y: Do you understand, fucker?
+[2892] s: Yes, Yumi...I understand.
+[2893] y: You gonna be a good boy?
+[2894] s: I’ll be a good boy...
+[2895] y: You gonna get on your knees and bark like a little doggy?
+[2896] s: I’d really prefer not to...
+[2897] y: Do it or I’ll fucking kill you.
+[2898] s: {i}Hah...{/i}
+[2900] N: I get on my knees and bark like a little doggy.
+[2901] N: This is a new low for me.
+[2903] y: Good...
+[2904] y: Now rise and make me a new offer.
+[2905] s: Uhh...let’s see...
+[2907] >> jump buildamayayumimenu2
+[2909] *OPT: Go back outside
+[2910] s: Actually, I think I’ll just come back another time. It seems like you’re in a bad mood.
+[2911] y: The fuck would give you that idea, douche-monkey?
+[2916] s: That. I’m sorry, Yumi.
+[2917] y: Good. Fuckin’ go then. See if I care.
+[2919] N: I head back outside and try to figure out where to go from here.
+[2920] N: Now what?
+[2922] >> jump buildamayagomenu
+===== [2925] LABEL endofbuildamaya =====
+[2929] N: Slowly and methodically, I begin to fuse all of Maya’s pieces back together by mixing my saliva with a jar of fleshglue.
+[2933] N: It’s a long and arduous process that culminates in my bed becoming a sopping wet mess of bodily fluids, but I manage to do it without sacrificing most of her organs.
+[2934] N: There are a few I need to take out as they don’t agree with the fleshglue, but I preserve them in a series of large jars provided by Horseface Taki in the event that Maya wants them back one day.
+[2940] s: Fuck yeah! 
+[2941] taki: You’ve done it, Akira Arakawa! You’ve completed another reset puzzle by reassembling your lost love! 
+[2942] taki: Do you have anything you’d like to say to the viewers back home?
+[2947] s: I’m just glad I didn’t have to do this with Sekai. There were {i}way{/i} more pieces of her when she died.
+[2948] s: Plus, Maya being freshly deceased once the puzzle began let me finish everything before she went cold. 
+[2949] s: It was a pretty smooth experience, I’ve gotta say. And I wouldn’t have been able to do it without the support of my fans.
+[2950] taki: And what would you say is in store for those fans, {i}next?{/i} Where will Akira Arakawa go from here?
+[2955] s: Well, Horseface Taki — the {i}first{/i} thing I’m going to do is get this body back home and give my daughter a stern lecturing about proper beach conduct.
+[2956] s: {i}Then,{/i} I think I’ll probably kick back and relax with a nice warm cup of Joseph. And hey, if I’m feeling crazy, I might even call my ex and apologize to her for fucking her little sister.
+[2957] taki: Wow! So it seems like you’re {i}really{/i} trying to put a positive spin on your life following the completion of this mission. Is that true?
+[2958] s: It sure is, Horseface Taki. No more mistakes for me. I’m a changed man now that I have made death my little cumslut.
+[2963] taki: You heard it here first, folks! Akira Arakawa has every intention of turning his life around! But is it perhaps {i}too late{/i} for that given the {i}state{/i} of his world?
+[2964] s: What?
+[2965] taki: {size=-1}In just a few short moments, Akira Arakawa will learn that the events he experienced prior to our program are actually {i}irreversible!{/i} And I can assure you that you won’t want to miss {i}that!{/i}{/size}
+[2966] s: Wha- irreversible? But that’s...No. That’s not how this is supposed to work. Reset puzzles always end with things going back to normal and-
+[2967] taki: Unfortunately, that’s all the time we have for today! But-
+[2968] s: No it’s not! There’s plenty more time! What do you mean “that’s all?!”
+[2969] taki: ...But join us next time for an all new reunion episode where we bring two fan-favorite girls back to the house of their dreams!
+[2970] s: STOP TALKING! I’M NOT DONE!
+[2971] taki: {i}I’m{/i} Horseface Taki. And {i}you’re{/i} watching HBTV. See you next time!
+[2972] s: NO! DON’T-
+[2986] >> jump beachsix8
+===== [2990] LABEL buildamayaprehappy =====
+[2993] N: I return to the UNBLEACHED BEACH and call out to Sana for help, but she is not here.
+[2994] N: In her place stands an unrecognizable mass of flesh, slowly gurgling and pulsating with boils and growths of various sizes as the corpsecrown sits atop what looks like the remnants of a head.
+[2995] N: This is clearly not important right now. I have a fish to save.
+[2996] N: I remove it from my pocket and make a mad dash to the water, pleading for it to hold on for at least one more minute.
+[2997] N: And it does.
+[3003] N: And I drop it into the water.
+[3004] N: It looks up at me, thankful.
+[3005] N: I stare back, fulfilled — but empty.
+[3007] s: ...
+[3011] N: I jump in after it.
+[3012] N: I belong in the sea.
+[3014] >> jump swimtrip2
+===== [3017] LABEL swimtrip2 =====
+[3040] N: Beach.
+[3046] fam: WE FINALLY MADE IT!
+[3052] s: I can’t believe we’re actually at the beach!
+[3053] ay: Rock on!
+[3054] a: That was the longest car ride of my life! And also thankfully not the last!
+[3058] ay: Rock on!
+[3063] s: I guess now we need to figure out how we’re going to spend our time.
+[3064] s: I want to build a sand castle!
+[3069] a: I want to eat ice cream!
+[3075] ay: I want my mom back!
+[3080] m: (symbolism)
+[3085] s: I sure hope we have enough time for all of these fun activities. The last thing any of {i}us{/i} needs is a little more sunburn.
+[3089] a: You’ve got that right, Dad! Sensitive skin runs in our family, and I don’t want to go back home looking like one of the red types of shellfish!
+[3093] ay: Shellfish aren’t red until you cook them, Arnold!
+[3094] a: Don’t call me Arnold, Arnold!
+[3098] ay: No, really! It’s because heat denatures a protein in their shells called crustacyanin that masks the natural red-orange pigment called astaxanthin and makes them brighter!
+[3099] a: You’re only saying that because you’re coated in your own natural lubricant that makes it impossible for you get sunburnt at all!
+[3104] ay: Oh, Ami! You know me so well!
+[3110] ay: I guess {i}that’s{/i} why they call it a CAT-fish!
+[3116] s: She said the line!
+[3117] a: How come {i}Ayane{/i} gets her own catchphrase but I don’t?! I’m the main character and she’s just my friend who comes over to use the bath sometimes!
+[3118] s: It must be the results of the latest popularity poll. You’re lacking when it comes to male voters age 35-45.
+[3119] a: But {i}Maya{/i} was the popular one before either of us and she’s thriving now.
+[3125] m: (thriving)
+[3126] s: She seems kind of green to me.
+[3130] ay: I guess {i}that’s{/i} why they call it a CAT-fish!
+[3135] a: Okay, {i}that’s{/i} it! I’m going to start my fun beach vacation without either of you!
+[3136] s: With ice cream?
+[3137] ay: More like {i}NICE{/i} cream!
+[3143] a: Stop being popular! This is my show!
+[3144] a: Now please excuse me while I impress you all with my latent diving ability!
+[3148] s: Ami, no! The last time you showed everyone your latent diving ability, you got sucked into a vortex!
+[3153] ay: Look, guys! I can fly now!
+[3157] a: DAMN IT AYANEEEEEEEEEEE!
+[3161] s: Ah! And {i}I’m{/i} being sucked into quicksand!
+[3165] a: DAMN IT QUICKSANNNNNNNNNNNNND!
+[3169] s: Ami, help! This sand is so much faster than normal! I’m not ready to be a short king!
+[3174] a: No can do, Dadsei! I’ve gotta show everyone my latent diving ability for REAL this time! No more messing around!
+[3175] ay: {size=-10} WHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!{/size}
+[3176] s: Okay! Just be careful. That bucket looks particularly violent today!
+[3177] ay: {size=-10}I’M GOING SO FAST!{/size}
+[3178] a: You just need to know how to do it! Watch!
+[3183] a: First, you-
+[3187] a: Oh no! I must have made a mistake! I’m being sucked in!
+[3188] ay: {size=-15} SUPERRRRR AYANEEEEEEEEE!{/size}
+[3189] s: AMI!
+[3190] a: Dad, help! The beach bucket is making me feel weird! I’m supposed to be good at diving!
+[3191] s: And I’m supposed to be taller! Is the beach actually evil?!
+[3196] a: {size=+6}{b}AHAHAHAHAHAGAHAHAGABHGHGAHAHAHH!!!!!!!!!{/b}{/size}
+[3197] s: Ami!
+[3198] a: {size=+6}{b}IT IS CHANGING ME!{/b}{/size}
+[3199] s: Ami!
+[3200] ay: {size=-15}Everyone, look! Check out my latent diving ability!{/size}
+[3201] a: {size=+6}{b}CURSE YOU, POPULARITY POLL!!!!!{/b}{/size}
+[3202] s: Ami!
+[3207] s: ...
+[3208] m: (not currently pictured)
+[3216] s: I guess {i}that’s{/i} why they call it a CAT-fish!
+[3220] ay: {i}Almost there! Make sure to watch me, Sensei!{/i}
+[3221] s: {i}I can’t! The sand is claiming me!{/i}
+[3222] ay: {i}Then I’ll come rescue you right after my dive! Here I go!{/i}
+[3223] s: {i}Ami! I mean- Arnold!{/i}
+[3224] ay: {i}WHEEEEEEEEEE-{/i}
+[3229] ay: Ack!
+[3230] s: Nice dive, future sex!
+[3231] ay: Pfhbfhbfht! What the heck?! This isn’t water at all! It’s just a blue image layer!
+[3235] s: What?! You mean to tell me we came all the way here for blue?! We have blue at home!
+[3236] s: I wanted to be a wet boy!
+[3237] ay: Oh, it’s actually blue raspberry flavored. Sensei! The beach is good again!
+[3238] s: Okay! But {i}I’m{/i} not! Could you lend me a hand, please?!
+[3243] q: Did somebody ask for HAND?
+[3244] s: Woah! {i}Big{/i} hand!
+[3249] s: {i}Ayane! I’m okay now! You can keep your hands!{/i}
+[3250] ay: Okay, Sensei! That’s actually great news because the blue raspberry image layer is trying to eat me!
+[3251] s: {i}What?!{/i}
+[3252] ay: I SAID THE BLUE RASPBERRY IMAGE LAYER IS TRYING TO EAT ME! THE BEACH IS EVIL AGAIN!
+[3253] s: {i}Oh, okay! Good luck!{/i}
+[3254] a: {size=-15}{i}GUYYYYYYSSSSS! OVER HEREEEEEEE!{/i}{/size}
+[3260] a: {size=-15}The beach bucket leads to a magic circle just beyond a section of the beach guided by an assortment of spiderlike creatures! Come help!{/size}
+[3261] s: We can not for we are fighting our own battles just the same!
+[3262] a: {size=-15}Maya! Do something! Only you can save me!{/i}
+[3266] m: (vibing)
+[3271] a: GRAAAAAAHAHHHAHAHHhh! I’M MORPHING AGAIN! WHY WON’T SOMEONE TEACH ME HOW TO CONTROL THIS!?!?!??!! CUT TO COMMERCIAL!
+[3276] a: NOT LIKE THISSSSSSSSSSSSSSSSSSS!!!!!!!!!!
+[3282] s: So this is what my life has come to.
+[3283] s: Had I had only known the beach was evil, I never would have sat in that car for five years, further endangering the life of my family on my journey toward being a wet boy.
+[3284] s: If anyone ever finds my body, let them know this — I enjoyed life. And in my next one, I hope to be faster than the sand.
+[3285] ay: {size=-10}I have escaped the blue!{/i}
+[3286] s: I wonder if I’d turn to glass if I swallowed enough of this before being cremated?
+[3287] s: ...
+[3288] s: ...
+[3289] s: ...
+[3293] s: {size=+15}NOTHING VENTURED, NOTHING GAINED.{/size}
+[3299] ay: Sensei, wait! Do not eat the sand yet, for I have come to rescue you.
+[3300] s: Ayane? How are you moving like that? I thought animations were only for sex.
+[3301] ay: Because I’m an object of favoritism and not bound by the same constraints everyone else is!
+[3302] ay: I think I need to get better at walking, though. This sand sure is quick!
+[3306] s: Well, DUH. How do you think I got into this mess in the first place?!
+[3307] ay: Say, have you seen the other Arnold around here? Whatever happened after she jumped into the beach bucket?
+[3308] s: She’s been crying for help inside of some magic circle just beyond the spider imagery.
+[3309] ay: It may be easier to rescue her with my flying. Should I-
+[3310] s: No! I want to spend private beach time with {i}you!{/i} Ami is merely an obstacle!
+[3311] ay: (Gasp!) Sensei! For real?! It’s not just because I can move like this, is it?
+[3312] s: You can move in all sorts of ways. That’s why I love you. And why I’ve welcomed you into this family despite you not being my real daughter.
+[3313] ay: It’s not just because I give awesome head?
+[3317] s: Is that supposed to be a pun?
+[3322] ay: HAHAHEHEHAHA! I’m also funny! And have guns! The real heroine has been me the whole time! Welcome to the Ayane show! Now, it’s time to- ah!
+[3323] ay: Sensei! Where are you going?!
+[3329] s: Now that I am free, I refuse to let the sand catch me again! Arakawa secret technique — ninja legs!
+[3330] ay: You’ve been a ninja this whole time and you’ve never told me?!
+[3336] s: That’s right! Just {i}try{/i} handling this massive burst of speed!
+[3337] ay: But we were supposed to have private beach time alone where I can give you awesome head and you can be like, “Wow, Ayane! Good job!” and then let me drink all your milk!
+[3338] s: This cow’s run its last race, babe! And if you want milk, you’re gonna have to go to the store!
+[3339] ay: What?!
+[3340] s: Sorry! I can’t hear you over the mountain of dust I am leaving behind that you are subsequently being buried by!
+[3341] ay: That’s not dust at all! It’s sand! And you’re getting it in my cute girl-mouth!
+[3346] s: {size=-10}WHOOOOOOSHHHHH!{/size}
+[3347] ay: MOUUUUU! MATTE YO SENSEI-KUUUUUUN!~
+[3352] a: ...
+[3353] a: ...
+[3354] a: ...
+[3358] a: I will be up here forever, won’t I?
+[3364] s: Ah!
+[3365] s: What is this?
+[3366] s: It appears I have encountered a seashell. It stopped me in my tracks!
+[3367] s: I should {i}do{/i} something about this before Ayane catches up.
+[3368] s: Perhaps if I scoop it up and clean it off, I can present it to her as part of a mating ritual and further earn her favor.
+[3369] ay: {i}Sensei!!!!! I’ll never catch up at this- oh, right. I can fly!{/i}
+[3370] ay: {i}WHEEEEEEE!{/i}
+[3376] s: Arnold, look. I found a seashell!
+[3377] ay: Whaaaaaaaaat? At the {i}beach?!{/i} How?!
+[3378] s: It’s weird, though! When I press my ear to it, I don’t hear the ocean at all! And that’s {i}extra{/i} weird because the ocean is right next to us.
+[3382] ay: It’s probably because you’re holding it wrong, dummy! It’s dangerous to hold a seashell like that!
+[3387] s: Dangerous? Are you saying it might bite me?
+[3388] ay: No, idiot! Seashells don’t have teeth! It’s dangerous for the seashell! Are you {i}trying{/i} to break it?!
+[3389] s: Of course not! I only picked it up to earn your favor!
+[3390] s: Look on and be amazed by my manliness and dependability. I am totally prepared to keep this item forever!
+[3391] ay: Just give it to me already! {i}I{/i} want to hold it! I’ve never gotten to before!
+[3396] s: Yeah, go ahead. I don’t like it. It’s weird.
+[3397] ay: Awwwww! It’s not weird at all, Sensei! Seashells are natural and beautiful and-
+[3403] ay: Huh?
+[3404] s: Wha- the seashell made you ugly?!?! I don’t like you anymore!
+[3409] ay: Huh?! What?! What’s-
+[3415] a: Chotto frickin’ matte, Ayane-chan! You’re not supposed to have that yet!
+[3416] a: Give it here! I’ll put it back where it belongs.
+[3417] s: Ami! You have escaped! I love you the most again. Even {i}if{/i} you’re doing weird things with your fingers right now.
+[3418] a: Just making sure she didn’t take any of your parts, Dad!
+[3419] ay: Ami?...Sensei?...Why do you look like that?...
+[3420] ay: Is it happening again? Are we-
+[3421] q: Aaah....aaaaaaaah!
+[3422] ay: Shh! No, no! You’re okay! Don’t be scared~
+[3423] s: What the heck? That seashell sounds nothing like the ocean.
+[3424] a: Because it’s not a seashell at all, Dad! It’s a poisonous fish that washed up on shore. And it’s going to kill us all if we don’t do something about it!
+[3429] s: Oh no! I have endangered Ayane! I feel bad about this even {i}if{/i} she is ugly now!
+[3430] a: Give us the fish, woman!
+[3431] ay: No...No! You can’t have her! She’s mine! Get away! Both of you!
+[3432] s: It’s already poisoned Ayane! She’s acting delusional!
+[3438] ay: Ngh!
+[3439] s: And {i}now{/i} she is running away!
+[3440] a: Stop! Thief! That woman stole my fish! She’ll doom us all by replicating it and distributing it to fish markets across Japan!
+[3444] s: Ayane! We can still save you! Don’t make me use my ninja legs!
+[3449] s: MMNMNH?!
+[3450] a: It’s no use, Dad. Once someone’s poisoned by the fish, there {i}is{/i} no saving them.
+[3451] a: Even if we get it back, Ayane’s now destined to live a life of panic and anxiety any time the fish isn’t in her sight. She has already imprinted on it and has no use for you anymore.
+[3452] s: Mmmnnnn...
+[3453] a: I know...her freedom is no more.
+[3454] a: It is only misery from here on out.
+[3455] s: ...
+[3456] a: ...
+[3462] a: I guess {i}that’s{/i} why they call it a CAT-fish!
+[3468] N: Sensei and Ami went on to live a happy life together in a house decorated with colorful shells.
+[3469] N: Ayane was never seen again.
+[3470] N: Some say she’s still buried in the sand, patiently waiting to be turned to glass.
+[3475] N: .........
+[3476] N: ......
+[3477] N: ...
+[3483] >> jump buildamayahub

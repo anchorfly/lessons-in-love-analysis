@@ -1,0 +1,2090 @@
+
+===== [1] halloweenfive7 =====
+[7]    "{i}It’s time to get gamey, but not like the meat! Four orbs of power make mission complete!{/i}"
+[8]    "{i}Do you have what it takes to defeat the [[insert generic antagonist]? Test your skills in the Shiawase Group’s latest RPG-{/i}"
+[14]    "{i}Please be advised that Sensei-Quest is still in early access and all assets and aspects are subject to change.{/i}"
+[16]    s "Is the main antagonist a pizza?"
+[18]    "{i}No. We just liked how the icon looked. It really fit the vibe we were going for. We might change it later.{/i}"
+[20]    s "What is it with games and releasing in early access these days? Why can’t you just finish them first?"
+[22]    "{i}Because we need your money! Now run along and collect PREMIUM CURRENCY if you want to get to the end of the game!{/i}"
+[23]    "{i}There will be an option to buy this later. But you’re a beta-tester right now, so we’ve added PREMIUM CURRENCY as a drop from every standard enemy in the game.{/i}"
+[25]    s "But how am I supposed to defeat enemies if I don’t have any gear?"
+[27]    "{i}Oh! We took care of that as well!{/i}"
+[31]    "{i}Sensei has received IRON SWORD!{/i}"
+[35]    "{i}Sensei has received MELON HELMET!{/i}"
+[39]    "{i}Sensei has received DEPRESSION!{/i}"
+[41]    s "Was that last one really necessary?"
+[43]    "{i}What’s wrong? DEPRESSION is a very powerful skill you can use to debuff your enemies by making them feel bad for you!{/i}"
+[44]    "{i}Or at least that's what it will be. Right now, it doesn't do anything.{/i}"
+[46]    s "I wanna learn how to cast FIRE BALL."
+[48]    "{i}Then you better get out there and start earning PREMIUM CURRENCY!{/i}"
+[49]    "{i}Oh, look! Here comes the tutorial NPC now!{/i}"
+[55]    q "Oh, good! You’re finally awake!"
+[56]    q "What’s that dripping out of your helmet, though?"
+[57]    s "I think it’s my DEPRESSION."
+[58]    q "That is very interesting! Are you ready to learn how to play Sensei-Quest?"
+[59]    s "Do I even have a choice?"
+[60]    q "Not if you ever want to see your family again!"
+[61]    q "The objective of Sensei-Quest is to track down the {b}Four Elemental Orbs of Power{/b} and combine them into an {b}Ancient Orb{/b} in order to summon the final boss!"
+[62]    s "Earth, Wind, Water, Fire. Got it."
+[63]    q "What?"
+[64]    s "You said they’re elemental orbs, didn’t you?"
+[65]    q "Yes, but not {i}those{/i} elements. The elemental orbs {i}you{/i} need to collect are, {b}Plant, Worm, Fist,{/b} and {b}Red.{/b}"
+[66]    s "None of those things are elements."
+[67]    q "Not with that attitude, they’re not!"
+[68]    me "Oh! Also, my name is Meowri! I probably should have told you that earlier."
+[69]    s "It’s fine. You look kind of familiar, though. "
+[70]    me "That isn’t very surprising! My design is based on the [[IDEAL FEMALE], so of course you’d remember if you ever encountered anyone who looks like me. But that’s not important right now!"
+[71]    me "Sensei-Quest is an [[OPEN WORLD RPG], so you are free to explore wherever you like! We’re in the town of {b}Fuckladore{/b} right now, which is the main hub of the game."
+[72]    me "Fuckladore is full of vendors and taverns! Or...will be full of vendors and taverns! Right now, there is only one of each."
+[73]    s "Fucking early access games."
+[74]    me "Yeah, sorry about that. You can still feel free to browse those at your leisure, though!"
+[75]    me "The {b}MERCHANT{/b} sells weapons and armor you can use to better take down your enemies, while the {b}TAVERN{/b} sells powerful spells and abilities you can use to...also take down your enemies."
+[76]    s "Why does the tavern sell spells? Isn’t that supposed to be the kind of place that I pick up quests from or something like that?"
+[77]    me "Is it? None of our developers have ever played a video game before. We’re all just kind of guessing."
+[78]    s "This is sounding less fun by the second."
+[79]    me "Just wait until you find out the combat mechanics lack any amount of depth and use the same text box system as visual novels!"
+[80]    s "Ughhhhhhhh."
+[81]    me "The game is super grindy too!"
+[82]    s "Can I just exit out of your dialogue and go exploring now? I clearly have a lot of work to do."
+[83]    me "Okay! If you want to explore on your own, I’ll let you. "
+[84]    me "Just come find me once you’ve collected all of the Orbs of Power and I’ll help you summon the final boss."
+[85]    s "Cool. Thanks, Meowri. I can’t wait to unlock the first sex scene."
+[86]    me "There aren’t any sex scenes in Sensei-Quest."
+[87]    s "UGHHHHHHH!"
+[93]    "{i}Meowri has returned to {b}MEOWRI’S HOUSE.{/b}{/i}"
+[94]    "{i}It’s time for you to save the world!{/i}"
+[96]    s "I will be the hero this world needs."
+[97]    s "But where should I begin my adventure?"
+[99]    menu gameworldmainhub:
+[100]        "Fields of Despair":
+[101]            jump fieldsofdespair
+[103]            jump seaofstairs
+[105]            jump bedlehem
+[107]            jump palaceofthefist
+[109]            jump unholycathedral
+[111]            jump developerisland
+[112]        "Traveler’s Tavern":
+[113]            jump travelerstavern
+[114]        "Roadside Merchant":
+[115]            jump roadsidemerchant
+[117]            "{i}This is the point of no return. Do you still wish to proceed?{/i}"
+[119]            s "Wow, an actual helpful tip for once."
+[121]            "{i}Do you wish to proceed or not?{/i}"
+[123]            menu:
+[124]                "Summon the final boss":
+[126]                    $ halloweenfive7 = True
+[128]                    jump endofgameworld
+[129]                "Continue exploring":
+[130]                    s "I have a few loose ends to tie up first..."
+[132]                    jump gameworldmainhub
+
+===== [135] travelerstavern =====
+[139]    if travbeen == False:
+[140]        q "Hey there! Welcome to the Traveler’s Tavern."
+[141]        q "I haven’t seen you around here before. Are you new in town?"
+[142]        s "Yeah. I just woke up here and now I need to collect a bunch of orbs or I will never see my family again. How is your day?"
+[143]        q "Oh, you know. Can’t complain."
+[144]        q "Well, actually I can since none of the assets for my tavern have been added into Sensei-Quest yet and I’m kind of just standing around in an empty room waiting for an update."
+[145]        q "But I’ve got items! And quests!"
+[146]        s "But the tutorial said you didn’t have quests and that you only sold abilities."
+[147]        q "Outdated tooltip, I guess. But it’s not like those things are ever helpful in the first place, right?"
+[148]        s "Can I have {b}Fire Ball{/b} for free please?"
+[149]        q "Nope! But I’d be willing to let it go for only 500 PREMIUM CURRENCY."
+[150]        s "That’s the same exact price written on the board. I’m not getting a discount at all."
+[151]        q "No discounts here, buddy. A girl’s gotta make a living after all."
+[152]        s "Ughhhh this game is so user unfriendly. I hate having to work for things."
+[153]        q "Same here, man. You think I want to be spending all of my time just standing around like this? Heck no. I ain’t built for the NPC life. So just tell me what you want or drag your butt on outta here. Capiche?"
+[155]        $ travbeen = True
+[157]    else:
+[158]        q "Hey there! Welcome back."
+[159]        q "What can I get for you?"
+[161]    "Right now, I have [pcur] PREMIUM CURRENCY."
+[162]    "What do I want to buy?"
+[164]    menu travmenu:
+[166]            if pcur >= 100:
+[169]                "{i}Quest accepted — Sea of Stairs!{/i}"
+[171]                $ pcur -= 100
+[172]                $ stairmap = True
+[174]                q "Rumor has it that some big ole’ douchebag is holed up in the Sea of Stairs. And if my intel is correct, he might have one of those orbs you’re looking for."
+[175]                s "How possible is it that your intel is incorrect?"
+[176]                q "I’d say it’s about 50/50."
+[177]                s "Did you just sell me a quest that only has a 50%% chance of giving me a reward?"
+[178]                q "Yup! And there’s nothing you can do about it either since all sales are final."
+[179]                s "I would like to speak to the manager."
+[180]                q "That’ll cost you another 5000 PREMIUM CURRENCY."
+[181]                s "..."
+[182]                q "Any questions?"
+[183]                s "Yes. Why do you hate me?"
+[184]                q "I never hate the player. I hate the game."
+[185]                s "..."
+[186]                q "Get it? Because we’re in a game right now."
+[187]                s "..."
+[188]                q "And it sucks."
+[189]                s "I think I'll just try my luck without speaking to the manager."
+[190]                q "Good call."
+[192]                jump travmenu
+[194]            else:
+[197]                "I only have [pcur] PREMIUM CURRENCY..."
+[199]                jump travmenu
+[202]            if pcur >= 150:
+[205]                "{i}Quest accepted — Bedlehem!{/i}"
+[207]                $ pcur -= 150
+[208]                $ bedmap = True
+[210]                q "One of my other customers just came in and told me something about an ancient being taking shelter somewhere in Bedlehem."
+[211]                s "I didn’t realize you had other customers."
+[212]                q "Of course I have other customers. What would the point of a beta test be if only one person was testing the game?"
+[213]                s "I’m not sure. How do I get to Bedlehem, though? I’ve never been there before."
+[214]                q "Not many people have. It’s a super secret location that only a handful of us know how to reach. But seeing as you’ve purchased the quest, I guess I kind of have to tell you, don’t I?"
+[215]                s "That would be greatly appreciated. I have a good feeling I’ll be able to find one of the elemental orbs there."
+[216]                q "Maybe! Only one way to find out, buddy!"
+[218]                "{i}You’re not sure how, but without any actual dialogue revealing the details of the location, you suddenly know how to get to Bedlehem!{/i}"
+[219]                "{i}Video games are awesome!{/i}"
+[221]                jump travmenu
+[223]            else:
+[226]                "I only have [pcur] PREMIUM CURRENCY..."
+[228]                jump travmenu
+[231]            if pcur >= 250:
+[234]                "{i}Quest accepted — Palace of the Fist!{/i}"
+[236]                $ pcur -= 250
+[237]                $ fistmap = True
+[239]                q "There’s this place not far from here where all of the strongest adventurers go to train called the Palace of the Fist."
+[240]                q "And right now, the master of the palace is offering an orb of power to anyone who is able to defeat him."
+[241]                q "Taking him down will be no easy task, though. And even if you have the right build, you might have to try a bunch of different methods until something works."
+[242]                s "If that is the price that must be paid for reuniting with my family, I will do it. I will bring this palace master to his knees."
+[243]                q "Go for it, Sensei! I believe in you!"
+[244]                s "I will put my wiener is his stupid mouth too."
+[245]                q "What?"
+[246]                s "Then I’ll wiggle it around and tell him to call me “daddy.”"
+[247]                q "You’re being really weird about this, man."
+[248]                s "He better be ready for my cummy-wummies."
+[249]                q "Okay, I’m gonna have to ask you to leave now."
+[253]                "{i}You got kicked out of the store!{/i}"
+[255]                s "That guy will never know what hit him once the penis comes out."
+[257]                jump gameworldmainhub
+[259]            else:
+[262]                "I only have [pcur] PREMIUM CURRENCY..."
+[264]                jump travmenu
+[267]            if pcur >= 300:
+[270]                "{i}Quest accepted — Unholy Cathedral!{/i}"
+[272]                $ pcur -= 300
+[273]                $ clockmap = True
+[275]                q "I’m sure I don’t have to tell you this, but the {b}Unholy Cathedral{/b} is the most dangerous place east of Fucklador."
+[276]                s "What’s the most dangerous place to the west?"
+[277]                q "Newark, New Jersey."
+[278]                s "Please tell me there isn’t an orb there."
+[279]                q "There might be! But yeah, for your sake, I hope there’s not."
+[280]                q "But anyway! If you want to try your luck against the {b}Red Twins,{/b} I’d head over there. It won’t be an easy fight, though. Most of my customers try to stay clear of that place by any means possible."
+[281]                s "What happens to the ones who don’t?"
+[282]                q "Well, I wouldn’t still be selling this quest if any of them completed it, would I?"
+[283]                s "Good point. Guess I’ll go see if I can take them down then."
+[284]                q "Okay! Just try not to die. I kind of need you to stay alive for reasons."
+[285]                s "What kind of reasons?"
+[286]                q "You’ll find out in the sequel."
+[288]                jump travmenu
+[290]            else:
+[293]                "I only have [pcur] PREMIUM CURRENCY..."
+[295]                jump travmenu
+[298]            if pcur >= 50:
+[301]                "{i}Sensei has learned {b}Venom Spit!{/b}{/i}"
+[303]                $ pcur -= 50
+[304]                $ venomspit = True
+[306]                jump travmenu
+[307]            else:
+[310]                "I only have [pcur] PREMIUM CURRENCY..."
+[312]                jump travmenu
+[315]            if pcur >= 100:
+[318]                "{i}Sensei has learned {b}Banana Blast!{/b}{/i}"
+[320]                $ pcur -= 100
+[321]                $ bananablast = True
+[323]                jump travmenu
+[324]            else:
+[327]                "I only have [pcur] PREMIUM CURRENCY..."
+[329]                jump travmenu
+[332]            if pcur >= 200:
+[335]                "{i}Sensei has learned {b}Bubble Beam!{/b}{/i}"
+[337]                $ pcur -= 200
+[338]                $ bubblebeam = True
+[340]                jump travmenu
+[341]            else:
+[344]                "I only have [pcur] PREMIUM CURRENCY..."
+[346]                jump travmenu
+[349]            if pcur >= 100:
+[352]                "{i}Sensei has learned {b}Sanitize!{/b}{/i}"
+[354]                $ pcur -= 100
+[355]                $ sanitize = True
+[357]                jump travmenu
+[358]            else:
+[361]                "I only have [pcur] PREMIUM CURRENCY..."
+[363]                jump travmenu
+[366]            if pcur >= 150:
+[369]                "{i}Sensei has learned {b}Fertilize!{/b}{/i}"
+[371]                $ pcur -= 150
+[372]                $ fertilize = True
+[374]                jump travmenu
+[375]            else:
+[378]                "I only have [pcur] PREMIUM CURRENCY..."
+[380]                jump travmenu
+[383]            if pcur >= 50:
+[386]                "{i}Sensei has learned {b}Salt Spray!{/b}{/i}"
+[388]                $ pcur -= 50
+[389]                $ saltspray = True
+[391]                jump travmenu
+[392]            else:
+[395]                "I only have [pcur] PREMIUM CURRENCY..."
+[397]                jump travmenu
+[400]            if pcur >= 500:
+[403]                "{i}Sensei has learned {b}Fire Ball!{/b}{/i}"
+[405]                s "Finally."
+[406]                q "I’m happy for you, buddy."
+[408]                $ pcur -= 500
+[409]                $ fireball = True
+[411]                jump travmenu
+[412]            else:
+[415]                "I only have [pcur] PREMIUM CURRENCY..."
+[417]                jump travmenu
+[420]            if pcur >= 1000:
+[423]                "{i}Sensei has obtained the first piece of an ancient map!{/i}"
+[425]                if ancmap2 == True:
+[426]                    s "Hell yeah. Now I can finally go treasure hunting."
+[427]                else:
+[428]                    s "What am I supposed to do with this?"
+[429]                    q "Beats me. I just figured I could make a quick dime off of it."
+[431]                    "I should try and find the rest of the map..."
+[433]                $ pcur -= 1000
+[434]                $ ancmap1 = True
+[436]                jump travmenu
+[437]            else:
+[440]                "I only have [pcur] PREMIUM CURRENCY..."
+[442]                jump travmenu
+[445]            if pcur >= 1000000:
+[448]                "{i}Sensei has obtained a coupon!{/i}"
+[450]                $ pcur -= 1000000
+[451]                $ travsex = True
+[453]                s "What is this? This is not sex."
+[454]                q "Of course it’s not sex. Did you seriously think you were going to be able to just buy your way into my pants?"
+[455]                q "The tutorial straight up told you there wasn’t any sex in this game. What the hell were you thinking? How long did you have to grind to even get this much PREMIUM CURRENCY?"
+[456]                s "A long time. I am so tired. Please give sex now."
+[457]                q "Not that kind of girl, pal. But that coupon will get you 10%% off at Tojo Ramen once you get out of here!"
+[458]                s "I’d rather take 10%% of your clothes off."
+[459]                q "Do you...want my tie as a consolation prize?"
+[460]                s "Can I have your underwear instead?"
+[461]                q "..."
+[462]                s "????????????"
+[463]                q "Please get out of my store."
+[467]                "{i}You got kicked out of the store!{/i}"
+[469]                s "Gosh darn it."
+[471]                jump gameworldmainhub
+[472]            else:
+[475]                "I only have [pcur] PREMIUM CURRENCY..."
+[477]                jump travmenu
+[479]        "Go Back":
+[481]            jump gameworldmainhub
+
+===== [484] roadsidemerchant =====
+[488]    if roadbeen == False:
+[489]        q "Hey there, nyaa! Welcome to the shop, nyaa! First time in, nyaa?"
+[490]        s "Are you going to do that at the end of every sentence?"
+[491]        q "Would you like me to stop, nyaa?"
+[492]        s "Kind of, yeah."
+[493]        q "Praise the lord. If I had to do that one more time, I was probably going to claw my eyes out. So thanks to you, I won’t go blind!"
+[494]        s "As the hero who will save the world, I am happy to be of service. Now tell me, merchant — what is it you sell here?"
+[495]        q "Can you not read the graphic to my left? Did the developers forget to code it in or something?"
+[496]        s "I can read it. I just wasn’t sure if that would be meta-gaming or if you had to verbally tell me before I could conceive those words in-universe."
+[497]        q "Nope. Just look at the board, tell me what you want, then fork over the dough."
+[498]        s "Why is everything so expensive here?"
+[499]        q "Or complain too. That’s fine, I guess."
+[500]        s "You’re charging 800 PREMIUM CURRENCY for a bucket."
+[501]        q "It’s a good bucket. What do you want from me?"
+[502]        s "A cheaper bucket."
+[503]        q "For what? What do you even need that for?"
+[504]        s "I have no idea. I just got here. Everything is so fresh and new to me."
+[505]        q "Well, it’ll all make sense in due time why my prices seem a little high. But even if it doesn’t, I don’t have any competition! And if you’re going to advance, you’re going to {i}have{/i} to buy this stuff sooner or later."
+[506]        s "We’ll see about that, roadside merchant."
+[507]        q "So! Anything tickle your fancy right now? Or do you want to shop around for a bit? And by “a bit” I mean forever. Because, again, I’m the only girl with wares like these."
+[509]        $ roadbeen = True
+[511]    else:
+[512]        q "Hey there! Welcome back."
+[513]        q "What can I get for you?"
+[515]    "Right now, I have [pcur] PREMIUM CURRENCY."
+[516]    "What do I want to buy?"
+[518]    menu roadmenu:
+[520]            if pcur >= 500:
+[523]                "{i}Sensei has obtained the {b}Sword of Hope!{/b}{/i}"
+[525]                $ pcur -= 500
+[526]                $ swordofhope = True
+[528]                jump roadmenu
+[529]            else:
+[532]                "I only have [pcur] PREMIUM CURRENCY..."
+[534]                jump roadmenu
+[537]            if pcur >= 600:
+[540]                "{i}Sensei has obtained the {b}Shield of Resistance!{/b}{/i}"
+[542]                $ pcur -= 600
+[543]                $ shieldofresistance = True
+[545]                jump roadmenu
+[546]            else:
+[549]                "I only have [pcur] PREMIUM CURRENCY..."
+[551]                jump roadmenu
+[554]            if pcur >= 700:
+[557]                "{i}Sensei has obtained the {b}Boots of Forgiveness!{/b}{/i}"
+[559]                $ pcur -= 700
+[560]                $ bootsofforgiveness = True
+[562]                jump roadmenu
+[563]            else:
+[566]                "I only have [pcur] PREMIUM CURRENCY..."
+[568]                jump roadmenu
+[571]            if pcur >= 800:
+[574]                "{i}Sensei has obtained a {b}Steel Bucket!{/b}{/i}"
+[576]                $ pcur -= 800
+[577]                $ steelbucket = True
+[579]                q "Not so high and mighty now, are you?"
+[580]                s "I can’t believe I just paid 800 PREMIUM CURRENCY for a bucket."
+[581]                q "I can. It’s called capitalism, buddy. Supply and demand. There are no other buckets in Fucklador."
+[582]                s "I am overflowing with sadness."
+[583]                q "Well, at least now you’ve got a bucket to catch some of it!"
+[585]                jump roadmenu
+[586]            else:
+[589]                "I only have [pcur] PREMIUM CURRENCY..."
+[591]                jump roadmenu
+[594]            if pcur >= 400:
+[597]                "{i}Sensei has obtained a {b}Blowtorch!{/b}{/i}"
+[599]                $ pcur -= 400
+[600]                $ blowtorch = True
+[602]                jump roadmenu
+[603]            else:
+[606]                "I only have [pcur] PREMIUM CURRENCY..."
+[608]                jump roadmenu
+[611]            if pcur >= 350:
+[614]                "{i}Sensei has obtained some {b}Massage Oil!{/b}{/i}"
+[616]                $ pcur -= 350
+[617]                $ massageoil = True
+[619]                jump roadmenu
+[620]            else:
+[623]                "I only have [pcur] PREMIUM CURRENCY..."
+[625]                jump roadmenu
+[628]            if pcur >= 3000:
+[631]                "{i}Sensei has obtained the second piece of an ancient map!{/i}"
+[633]                if ancmap1 == True:
+[634]                    s "Hell yeah. Now I can finally go treasure hunting."
+[635]                else:
+[636]                    s "What am I supposed to do with this?"
+[637]                    q "Beats me. I just figured I could make a quick dime off of it."
+[639]                    "I should try and find the rest of the map..."
+[641]                $ pcur -= 3000
+[642]                $ ancmap2 = True
+[644]                jump roadmenu
+[645]            else:
+[648]                "I only have [pcur] PREMIUM CURRENCY..."
+[650]                jump roadmenu
+[653]            if pcur >= 3000:
+[656]                "{i}A new profile outfit for Kaori has been unlocked!{/i}"
+[658]                $ pcur -= 3000
+[659]                $ nyaorifit = True
+[661]                jump roadmenu
+[662]            else:
+[665]                "I only have [pcur] PREMIUM CURRENCY..."
+[667]                jump roadmenu
+[670]            if pcur >= 3000:
+[673]                "{i}A new profile outfit for Nao-chan has been unlocked!{/i}"
+[675]                $ pcur -= 3000
+[676]                $ nyaofit = True
+[678]                jump roadmenu
+[679]            else:
+[682]                "I only have [pcur] PREMIUM CURRENCY..."
+[684]                jump roadmenu
+[687]            if pcur >= 1000000:
+[690]                "{i}Sensei has obtained a stick!{/i}"
+[692]                $ pcur -= 1000000
+[693]                $ roadsex = True
+[695]                s "..."
+[696]                q "Is there a problem, dear customer?"
+[697]                s "I think there might be a printing error on your menu. This is not what I attempted to purchase."
+[699]                "I hold the stick out so she can see that it’s a stick and not sex."
+[701]                q "That seems like a quality piece of wood to me! May I ask what you were attempting to buy?"
+[702]                s "No. It’s too embarrassing."
+[703]                q "Well, how am I supposed to help if I don’t know what the error is?"
+[704]                s "Can’t you just look at my receipt?"
+[705]                q "Do you have a receipt?"
+[706]                s "It never printed."
+[707]                q "Then no, I can’t help you."
+[708]                q "But if you’re looking to sell that neat stick you’ve got there, I can give you...10 PREMIUM CURRENCY for it!"
+[709]                s "..."
+[710]                q "..."
+[711]                q "Fine. I’ll give you 15. But that’s my final offer."
+[712]                s "No..."
+[713]                s "I’ll just hang onto it..."
+[715]                jump roadmenu
+[716]            else:
+[719]                "I only have [pcur] PREMIUM CURRENCY..."
+[721]                jump roadmenu
+[723]        "Go Back":
+[725]            jump gameworldmainhub
+
+===== [728] fieldsofdespair =====
+[734]    if fieldsbeen == False:
+[735]        "{i}The Fields of Despair sprawl out for miles before you! Just look at how sad everything is!{/i}"
+[737]        s "This doesn’t look sad at all."
+[739]        "{i}Yes it does!{/i}"
+[741]        s "It’s just slimes."
+[743]        "{i}Nuh-uh. There’s some other stuff too. Just look at that guy in the suit back there. And- oh! I see a snail!{/i}"
+[745]        s "I guess that guy back there does look kind of sad now that you mention it."
+[747]        "{i}Told you! But anyway! The Fields of Despair are where you can grind for PREMIUM CURRENCY!{/i}"
+[748]        "{i}Each monster has its own weakness and monetary value!{/i}"
+[749]        "{i}In the final version of the game, these monsters will drop SUBPREMIUM CURRENCY which can be exchanged for PREMIUM CURRENCY at an exchange rate of 2:1 or RAINBOW COINS at 4:1!{/i}"
+[750]        "{i}SUBPREMIUM CURRENCY can also be purchased with real money.{/i}"
+[752]        s "Hold on, what the fuck are RAINBOW COINS?"
+[754]        "{i}A higher tier of PREMIUM CURRENCY that can be purchased in special bundles with RAINBOW QUARTZ!{/i}"
+[756]        s "Don’t you mean RAINBOW COINS?"
+[758]        "{i}No.{/i}"
+[760]        s "I hate this game."
+[762]        "{i}But we love you! And we definitely mean you! Not just your wallet!{/i}"
+[763]        "{i}Now, go! Grind! Earn your PREMIUM CURRENCY!{/i}"
+[765]        $ fieldsbeen = True
+[767]        jump fieldsmenu
+[769]    else:
+[770]        "Looks like I’m back here again..."
+[771]        "What shall I slay?"
+[773]        jump fieldsmenu
+[775]    menu fieldsmenu:
+[776]        "Pink Dogslime":
+[777]            jump pinkdogfight
+[779]        "Greenis":
+[780]            jump greenisfight
+[782]        "Blue Dogslime":
+[783]            jump bluedogfight
+[785]        "Herbal Slime":
+[786]            jump herbalfight
+[788]        "Common Snail":
+[789]            jump snailfight
+[791]        "Lavaslime":
+[792]            jump lavafight
+[794]        "Metal Dogslime":
+[795]            jump metalfight
+[797]        "Blobman":
+[798]            jump blobmanfight
+[800]        "Yogurt":
+[801]            jump yogurtfight
+[807]            "{i}You approach the man wearing a suit. His name is Kenji. He does not belong here.{/i}"
+[808]            "{i}He gazes out at the mountains, thinking back to the days when he would visit his grandparents in the countryside of Gifu. It all seems so distant now. {/i}"
+[809]            "{i}Kenji had been off the clock for several hours but, for some reason, he decided to stop here today instead of returning to his wife.{/i}"
+[810]            "{i}They had been fighting lately. Their marriage hadn’t been the same since he’d learned of her affair. But Kenji was spineless and couldn’t find the words to say to try and mend the rift.{/i}"
+[811]            "{i}His eyes hone in on a cardinal — his daughter’s favorite bird. She had passed away from a lengthy battle with leukemia just a few years ago. He visited her grave every Wednesday.{/i}"
+[813]            s "Why is there so much background information on this enemy mob?"
+[818]            "{i}Kenji’s favorite number was nine. When he was younger, he had dreams of becoming a figure skater. But it was a dream that would be shattered along with his kneecap senior year of high school.{/i}"
+[820]            s "Jesus."
+[822]            "{i}He daydreams of the river — of dipping his toes in and feeling like a child again. And he remembers the games he would play with his brothers as the water washed over their feet.{/i}"
+[823]            "{i}He hadn’t seen any of them in years now either, but it wasn’t as if his relationship with them was strained. He was just never good at facing the past — and that’s all they were now.{/i}"
+[825]            s "Can I fight him now?"
+[826]            kenji "Why must we fight at all?"
+[827]            s "Oh, god. You gave him voice lines?"
+[828]            kenji "No matter how many times I fall, I’ll come right back. I think it’s...some kind of metaphor."
+[829]            s "..."
+[830]            kenji "Tell me, young man...what do you believe the meaning of life is?"
+[835]            kenji "Are we put here to find happiness? Or are we only here to die?"
+[836]            kenji "Maybe there’s no reason at all now that I think about it. Maybe this is all just the result of some fortunate coincidence. And maybe these experiences and lives we lead will be just as fleeting as our fading youth."
+[837]            s "..."
+[838]            kenji "You seek the {b}Four Orbs of Power{/b}, don’t you?"
+[839]            kenji "Ha...I remember when I set off on my journey as well."
+[840]            kenji "I’d just registered at the Adventurer’s Guild...my eyes were still so bright and full of hope back then."
+[841]            kenji "But now, I don’t even have eyes."
+[842]            kenji "My...time surely does fly, doesn’t it?"
+[843]            s "..."
+[844]            kenji "Tell me...when you find the {b}Four Orbs of Power...{/b}what do you intend to do? And if your answer is “find my family” or anything along those lines, let me reassure you...they’re safe and sound."
+[845]            kenji "They were never in any danger at all. That’s just a lie the game masters tell us to push us forward. To buy more PREMIUM CURRENCY out of fear that they’ll be harmed. But it’s all just manipulation."
+[846]            kenji "We exist to line their pockets...they don’t even think of us as human."
+[847]            kenji "But you’re different...you still have a chance. {i}You{/i} can be the one to break us out of this cycle."
+[848]            kenji "So...what do you say, young man? Do you have what it takes to save us?"
+[849]            kenji "Where will your journey lead you from here?"
+[851]            menu:
+[852]                "Push":
+[857]                    s "..."
+[859]            "{i}Kenji plunges down the cliff! His body collides with jagged rocks along the way and you can see them tear him open in various places.{/i}"
+[860]            "{i}Countless memories topple down with him. Visions of his daughter. Conversations at the dinner table with his wife. Family dinners. Soccer games. It’s all gone now. And it’s all your fault.{/i}"
+[861]            "{i}You also don’t collect any PREMIUM CURRENCY as you would need to climb to the bottom of the cliff to loot his body.{/i}"
+[863]            s "..."
+[865]            $ suitguyalive = False
+[870]            s "Guess I’ll just keep grinding then..."
+[876]            s "Oh, look. He’s back now."
+[878]            "{i}Please be advised — Sensei-Quest is still in early access! Just pretend his model is gone for now!{/i}"
+[880]            s "What should I fight against next?"
+[882]            jump fieldsmenu
+[884]        "Return to Fucklador":
+[892]            jump gameworldmainhub
+
+===== [895] pinkdogfight =====
+[899]    "{i}Pink Dogslime has appeared!{/i}"
+[901]    menu pinkslimefightmenu:
+[902]        "Attack":
+[903]            menu:
+[904]                "Tackle":
+[905]                    "{i}Sensei used Tackle!{/i}"
+[906]                    "{i}Now he’s all gooey...{/i}"
+[908]                    "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[910]                    jump pinkslimefightmenu
+[913]                    "{i}Sensei used Venom Spit!{/i}"
+[918]                    "{i}It was super effective!{/i}"
+[922]                    $ pcur += 10
+[924]                    "{i}Sensei has earned 10 PREMIUM CURRENCY!{/i}"
+[929]                    jump fieldsmenu
+[932]                    "{i}Sensei used Banana Blast!{/i}"
+[933]                    "{i}Nothing happened...{/i}"
+[935]                    "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[937]                    jump pinkslimefightmenu
+[940]                    "{i}Sensei used Bubble Beam!{/i}"
+[941]                    "{i}Nothing happened...{/i}"
+[943]                    "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[945]                    jump pinkslimefightmenu
+[948]                    "{i}Sensei used Sanitize!{/i}"
+[949]                    "{i}Nothing happened...{/i}"
+[951]                    "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[953]                    jump pinkslimefightmenu
+[956]                    "{i}Sensei used Fertilize!{/i}"
+[957]                    "{i}Pink Dogslime is now pregnant...{/i}"
+[959]                    "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[961]                    jump pinkslimefightmenu
+[964]                    "{i}Sensei used Salt Spray!{/i}"
+[965]                    "{i}Nothing happened...{/i}"
+[967]                    "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[969]                    jump pinkslimefightmenu
+[972]                    "{i}Sensei used Fire Ball!{/i}"
+[977]                    "{i}It was super effective!{/i}"
+[981]                    $ pcur += 10
+[983]                    "{i}Sensei has earned 10 PREMIUM CURRENCY!{/i}"
+[988]                    jump fieldsmenu
+[991]                    "{i}Sensei used his blowtorch!{/i}"
+[992]                    "{i}Nothing happened...{/i}"
+[994]                    "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[996]                    jump pinkslimefightmenu
+[999]                    "{i}Sensei used massage oil!{/i}"
+[1000]                    "{i}Why?...{/i}"
+[1002]                    "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[1004]                    jump pinkslimefightmenu
+[1006]        "Guard":
+[1008]            "{i}Sensei protects himself!{/i}"
+[1009]            "{i}Pink Dogslime is wandering around aimlessly...{/i}"
+[1011]            jump pinkslimefightmenu
+[1013]        "Run Away":
+[1017]            "{i}Sensei has escaped!{/i}"
+[1019]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[1021]            jump fieldsmenu
+
+===== [1023] greenisfight =====
+[1027]    "{i}Greenis has appeared!{/i}"
+[1029]    menu greenisfightmenu:
+[1030]        "Attack":
+[1031]            menu:
+[1032]                "Tackle":
+[1033]                    "{i}Sensei used Tackle!{/i}"
+[1038]                    "{i}Sensei died...{/i}"
+[1043]                    "{i}You somehow manage to respawn in Fucklador.{/i}"
+[1044]                    "{i}Your hospital bill will be sent to you later.{/i}"
+[1046]                    jump gameworldmainhub
+[1049]                    "{i}Sensei used Venom Spit!{/i}"
+[1050]                    "{i}Nothing happened...{/i}"
+[1052]                    "{i}Greenis is getting ready to explode!{/i}"
+[1054]                    jump greenisfightmenu
+[1057]                    "{i}Sensei used Banana Blast!{/i}"
+[1058]                    "{i}Nothing happened...{/i}"
+[1060]                    "{i}Greenis is getting ready to explode!{/i}"
+[1062]                    jump greenisfightmenu
+[1065]                    "{i}Sensei used Bubble Beam!{/i}"
+[1066]                    "{i}Nothing happened...{/i}"
+[1068]                    "{i}Greenis is getting ready to explode!{/i}"
+[1070]                    jump greenisfightmenu
+[1073]                    "{i}Sensei used Sanitize!{/i}"
+[1074]                    "{i}Nothing happened...{/i}"
+[1076]                    "{i}Greenis is getting ready to explode!{/i}"
+[1078]                    jump greenisfightmenu
+[1081]                    "{i}Sensei used Fertilize!{/i}"
+[1086]                    "{i}Sensei died...{/i}"
+[1091]                    "{i}You somehow manage to respawn in Fucklador.{/i}"
+[1092]                    "{i}Your hospital bill will be sent to you later.{/i}"
+[1094]                    jump gameworldmainhub
+[1097]                    "{i}Sensei used Salt Spray!{/i}"
+[1098]                    "{i}Nothing happened...{/i}"
+[1100]                    "{i}Greenis is getting ready to explode!{/i}"
+[1102]                    jump greenisfightmenu
+[1105]                    "{i}Sensei used Fire Ball!{/i}"
+[1110]                    "{i}It was super effective!{/i}"
+[1114]                    $ pcur += 40
+[1116]                    "{i}Sensei has earned 40 PREMIUM CURRENCY!{/i}"
+[1121]                    jump fieldsmenu
+[1124]                    "{i}Sensei used his blowtorch!{/i}"
+[1129]                    "{i}Sensei died...{/i}"
+[1134]                    "{i}You somehow manage to respawn in Fucklador.{/i}"
+[1135]                    "{i}Your hospital bill will be sent to you later.{/i}"
+[1137]                    jump gameworldmainhub
+[1140]                    "{i}Sensei used massage oil!{/i}"
+[1141]                    "{i}Greenis shivers with delight!{/i}"
+[1145]                    "{i}And then it explodes?{/i}"
+[1149]                    $ pcur += 40
+[1151]                    "{i}Sensei has earned 40 PREMIUM CURRENCY!{/i}"
+[1156]                    jump fieldsmenu
+[1158]        "Guard":
+[1160]            "{i}Sensei protects himself!{/i}"
+[1161]            "{i}Greenis is getting ready to explode!{/i}"
+[1163]            jump greenisfightmenu
+[1165]        "Run Away":
+[1169]            "{i}Sensei has escaped!{/i}"
+[1171]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[1173]            jump fieldsmenu
+
+===== [1175] bluedogfight =====
+[1179]    "{i}Blue Dogslime has appeared!{/i}"
+[1181]    menu blueslimefightmenu:
+[1182]        "Attack":
+[1183]            menu:
+[1184]                "Tackle":
+[1185]                    "{i}Sensei used Tackle!{/i}"
+[1186]                    "{i}Now he’s all gooey...{/i}"
+[1188]                    "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1190]                    jump blueslimefightmenu
+[1193]                    "{i}Sensei used Venom Spit!{/i}"
+[1194]                    "{i}Nothing happened...{/i}"
+[1196]                    "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1198]                    jump blueslimefightmenu
+[1201]                    "{i}Sensei used Banana Blast!{/i}"
+[1206]                    "{i}It was super effective!{/i}"
+[1210]                    $ pcur += 10
+[1212]                    "{i}Sensei has earned 10 PREMIUM CURRENCY!{/i}"
+[1217]                    jump fieldsmenu
+[1220]                    "{i}Sensei used Bubble Beam!{/i}"
+[1221]                    "{i}Nothing happened...{/i}"
+[1223]                    "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1225]                    jump blueslimefightmenu
+[1228]                    "{i}Sensei used Sanitize!{/i}"
+[1229]                    "{i}Nothing happened...{/i}"
+[1231]                    "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1233]                    jump blueslimefightmenu
+[1236]                    "{i}Sensei used Fertilize!{/i}"
+[1237]                    "{i}Blue Dogslime is now pregnant...{/i}"
+[1239]                    "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1241]                    jump blueslimefightmenu
+[1244]                    "{i}Sensei used Salt Spray!{/i}"
+[1245]                    "{i}Nothing happened...{/i}"
+[1247]                    "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1249]                    jump blueslimefightmenu
+[1252]                    "{i}Sensei used Fire Ball!{/i}"
+[1257]                    "{i}It was super effective!{/i}"
+[1261]                    $ pcur += 10
+[1263]                    "{i}Sensei has earned 10 PREMIUM CURRENCY!{/i}"
+[1268]                    jump fieldsmenu
+[1271]                    "{i}Sensei used his blowtorch!{/i}"
+[1272]                    "{i}Nothing happened...{/i}"
+[1274]                    "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1276]                    jump blueslimefightmenu
+[1279]                    "{i}Sensei used massage oil!{/i}"
+[1280]                    "{i}Why?...{/i}"
+[1282]                    "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1284]                    jump blueslimefightmenu
+[1286]        "Guard":
+[1288]            "{i}Sensei protects himself!{/i}"
+[1289]            "{i}Blue Dogslime is wandering around aimlessly...{/i}"
+[1291]            jump blueslimefightmenu
+[1293]        "Run Away":
+[1297]            "{i}Sensei has escaped!{/i}"
+[1299]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[1301]            jump fieldsmenu
+
+===== [1303] herbalfight =====
+[1307]    "{i}Herbal Slime has appeared!{/i}"
+[1309]    menu herbalslimefightmenu:
+[1310]        "Attack":
+[1311]            menu:
+[1312]                "Tackle":
+[1313]                    "{i}Sensei used Tackle!{/i}"
+[1314]                    "{i}Nothing happened...{/i}"
+[1316]                    "{i}Herbal Slime lets out a pleasant aroma!{/i}"
+[1318]                    jump herbalslimefightmenu
+[1321]                    "{i}Sensei used Venom Spit!{/i}"
+[1322]                    "{i}Nothing happened...{/i}"
+[1324]                    "{i}Herbal Slime lets out a pleasant aroma!{/i}"
+[1326]                    jump herbalslimefightmenu
+[1329]                    "{i}Sensei used Banana Blast!{/i}"
+[1330]                    "{i}Nothing happened...{/i}"
+[1332]                    "{i}Herbal Slime lets out a pleasant aroma!{/i}"
+[1334]                    jump herbalslimefightmenu
+[1337]                    "{i}Sensei used Bubble Beam!{/i}"
+[1338]                    "{i}Nothing happened...{/i}"
+[1340]                    "{i}Herbal Slime lets out a pleasant aroma!{/i}"
+[1342]                    jump herbalslimefightmenu
+[1345]                    "{i}Sensei used Sanitize!{/i}"
+[1346]                    "{i}Nothing happened...{/i}"
+[1348]                    "{i}Herbal Slime lets out a pleasant aroma!{/i}"
+[1350]                    jump herbalslimefightmenu
+[1353]                    "{i}Sensei used Fertilize!{/i}"
+[1354]                    "{i}Herbal Slime is about to give birth!{/i}"
+[1359]                    "{i}It dies before it can!{/i}"
+[1363]                    $ pcur += 15
+[1365]                    "{i}Sensei has earned 15 PREMIUM CURRENCY!{/i}"
+[1370]                    jump fieldsmenu
+[1373]                    "{i}Sensei used Salt Spray!{/i}"
+[1374]                    "{i}Nothing happened...{/i}"
+[1376]                    "{i}Herbal Slime lets out a pleasant aroma!{/i}"
+[1378]                    jump herbalslimefightmenu
+[1381]                    "{i}Sensei used Fire Ball!{/i}"
+[1386]                    "{i}It was super effective!{/i}"
+[1390]                    $ pcur += 15
+[1392]                    "{i}Sensei has earned 15 PREMIUM CURRENCY!{/i}"
+[1397]                    jump fieldsmenu
+[1400]                    "{i}Sensei used his blowtorch!{/i}"
+[1405]                    "{i}It was super effective!{/i}"
+[1409]                    $ pcur += 15
+[1411]                    "{i}Sensei has earned 15 PREMIUM CURRENCY!{/i}"
+[1416]                    jump fieldsmenu
+[1419]                    "{i}Sensei used massage oil!{/i}"
+[1420]                    "{i}Why?...{/i}"
+[1422]                    "{i}Herbal Slime lets out a pleasant aroma!{/i}"
+[1424]                    jump herbalslimefightmenu
+[1426]        "Guard":
+[1428]            "{i}Sensei protects himself!{/i}"
+[1429]            "{i}Herbal Slime lets out a pleasant aroma!{/i}"
+[1431]            jump herbalslimefightmenu
+[1433]        "Run Away":
+[1437]            "{i}Sensei has escaped!{/i}"
+[1439]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[1441]            jump fieldsmenu
+
+===== [1443] snailfight =====
+[1447]    "{i}Common Snail has appeared! Run for your life!{/i}"
+[1449]    menu snailfightmenu:
+[1450]        "Attack":
+[1451]            menu:
+[1452]                "Tackle":
+[1453]                    "{i}Sensei used Tackle!{/i}"
+[1458]                    "{i}It was super effective!{/i}"
+[1462]                    $ pcur += 5
+[1464]                    "{i}Sensei has earned 5 PREMIUM CURRENCY!{/i}"
+[1469]                    jump fieldsmenu
+[1472]                    "{i}Sensei used Venom Spit!{/i}"
+[1473]                    "{i}Nothing happened...{/i}"
+[1475]                    "{i}Common Snail just...continues being a snail.{/i}"
+[1477]                    jump snailfightmenu
+[1480]                    "{i}Sensei used Banana Blast!{/i}"
+[1481]                    "{i}Nothing happened...{/i}"
+[1483]                    "{i}Common Snail just...continues being a snail.{/i}"
+[1485]                    jump snailfightmenu
+[1488]                    "{i}Sensei used Bubble Beam!{/i}"
+[1489]                    "{i}Nothing happened...{/i}"
+[1491]                    "{i}Common Snail just...continues being a snail.{/i}"
+[1493]                    jump snailfightmenu
+[1496]                    "{i}Sensei used Sanitize!{/i}"
+[1497]                    "{i}Nothing happened...{/i}"
+[1499]                    "{i}Common Snail just...continues being a snail.{/i}"
+[1501]                    jump snailfightmenu
+[1504]                    "{i}Sensei used Fertilize!{/i}"
+[1505]                    "{i}Common Snail is now pregnant...{/i}"
+[1507]                    "{i}Common Snail just...continues being a snail. A pregnant one.{/i}"
+[1509]                    jump snailfightmenu
+[1512]                    "{i}Sensei used Salt Spray!{/i}"
+[1517]                    "{i}It was super effective!{/i}"
+[1521]                    $ pcur += 5
+[1523]                    "{i}Sensei has earned 5 PREMIUM CURRENCY!{/i}"
+[1528]                    jump fieldsmenu
+[1531]                    "{i}Sensei used Fire Ball!{/i}"
+[1536]                    "{i}It was super effective!{/i}"
+[1540]                    $ pcur += 1
+[1542]                    "{i}Sensei has earned 1 PREMIUM CURRENCY!{/i}"
+[1547]                    jump fieldsmenu
+[1550]                    "{i}Sensei used his blowtorch!{/i}"
+[1555]                    "{i}It was super effective!{/i}"
+[1559]                    $ pcur += 1
+[1561]                    "{i}Sensei has earned 1 PREMIUM CURRENCY!{/i}"
+[1566]                    jump fieldsmenu
+[1569]                    "{i}Sensei used massage oil!{/i}"
+[1570]                    "{i}Why?...{/i}"
+[1572]                    "{i}Common Snail just...continues being a snail.{/i}"
+[1574]                    jump snailfightmenu
+[1576]        "Guard":
+[1578]            "{i}Sensei protects himself!{/i}"
+[1579]            "{i}Common Snail just...continues being a snail.{/i}"
+[1581]            jump snailfightmenu
+[1583]        "Run Away":
+[1587]            "{i}Sensei has escaped!{/i}"
+[1589]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[1591]            jump fieldsmenu
+
+===== [1593] lavafight =====
+[1597]    "{i}Lavaslime has appeared!{/i}"
+[1599]    menu lavaslimefightmenu:
+[1600]        "Attack":
+[1601]            menu:
+[1602]                "Tackle":
+[1603]                    "{i}Sensei used Tackle!{/i}"
+[1608]                    "{i}Sensei died...{/i}"
+[1613]                    "{i}You somehow manage to respawn in Fucklador.{/i}"
+[1614]                    "{i}Your hospital bill will be sent to you later.{/i}"
+[1616]                    jump gameworldmainhub
+[1619]                    "{i}Sensei used Venom Spit!{/i}"
+[1620]                    "{i}Nothing happened...{/i}"
+[1622]                    "{i}Lavaslime is getting hot!{/i}"
+[1624]                    jump lavaslimefightmenu
+[1627]                    "{i}Sensei used Banana Blast!{/i}"
+[1628]                    "{i}Nothing happened...{/i}"
+[1630]                    "{i}Lavaslime is getting hot!{/i}"
+[1632]                    jump lavaslimefightmenu
+[1635]                    "{i}Sensei used Bubble Beam!{/i}"
+[1639]                    "{i}It was super effective!{/i}"
+[1643]                    $ pcur += 20
+[1645]                    "{i}Sensei has earned 20 PREMIUM CURRENCY!{/i}"
+[1650]                    jump fieldsmenu
+[1653]                    "{i}Sensei used Sanitize!{/i}"
+[1654]                    "{i}Nothing happened...{/i}"
+[1656]                    "{i}Lavaslime is getting hot!{/i}"
+[1658]                    jump lavaslimefightmenu
+[1661]                    "{i}Sensei used Fertilize!{/i}"
+[1665]                    "{i}Sensei died...{/i}"
+[1670]                    "{i}You somehow manage to respawn in Fucklador.{/i}"
+[1671]                    "{i}Your hospital bill will be sent to you later.{/i}"
+[1673]                    jump gameworldmainhub
+[1676]                    "{i}Sensei used Salt Spray!{/i}"
+[1677]                    "{i}Nothing happened...{/i}"
+[1679]                    "{i}Lavaslime is getting hot!{/i}"
+[1681]                    jump lavaslimefightmenu
+[1684]                    "{i}Sensei used Fire Ball!{/i}"
+[1685]                    "{i}Nothing happened...{/i}"
+[1687]                    "{i}Lavaslime is getting hot!{/i}"
+[1689]                    jump lavaslimefightmenu
+[1692]                    "{i}Sensei used his blowtorch!{/i}"
+[1693]                    "{i}Nothing happened...{/i}"
+[1695]                    "{i}Lavaslime is getting hot!{/i}"
+[1697]                    jump lavaslimefightmenu
+[1700]                    "{i}Sensei used massage oil!{/i}"
+[1701]                    "{i}It burned up immediately...{/i}"
+[1703]                    "{i}Lavaslime is getting hot!{/i}"
+[1705]                    jump lavaslimefightmenu
+[1707]        "Guard":
+[1709]            "{i}Sensei protects himself!{/i}"
+[1710]            "{i}Lavaslime is getting hot!{/i}"
+[1712]            jump lavaslimefightmenu
+[1714]        "Run Away":
+[1718]            "{i}Sensei has escaped!{/i}"
+[1720]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[1722]            jump fieldsmenu
+
+===== [1724] metalfight =====
+[1728]    "{i}Metal Dogslime has appeared!{/i}"
+[1730]    menu metalslimefightmenu:
+[1731]        "Attack":
+[1732]            menu:
+[1733]                "Tackle":
+[1734]                    "{i}Sensei used Tackle!{/i}"
+[1735]                    "{i}Nothing happened...{/i}"
+[1737]                    "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1739]                    jump metalslimefightmenu
+[1742]                    "{i}Sensei used Venom Spit!{/i}"
+[1743]                    "{i}Nothing happened...{/i}"
+[1745]                    "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1747]                    jump metalslimefightmenu
+[1750]                    "{i}Sensei used Banana Blast!{/i}"
+[1751]                    "{i}Nothing happened...{/i}"
+[1753]                    "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1755]                    jump metalslimefightmenu
+[1758]                    "{i}Sensei used Bubble Beam!{/i}"
+[1759]                    "{i}Nothing happened...{/i}"
+[1761]                    "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1763]                    jump metalslimefightmenu
+[1766]                    "{i}Sensei used Sanitize!{/i}"
+[1767]                    "{i}Nothing happened...{/i}"
+[1769]                    "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1771]                    jump metalslimefightmenu
+[1774]                    "{i}Sensei used Fertilize!{/i}"
+[1775]                    "{i}Nothing happened...{/i}"
+[1777]                    "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1779]                    jump metalslimefightmenu
+[1782]                    "{i}Sensei used Salt Spray!{/i}"
+[1783]                    "{i}Nothing happened...{/i}"
+[1785]                    "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1787]                    jump metalslimefightmenu
+[1790]                    "{i}Sensei used Fire Ball!{/i}"
+[1795]                    "{i}It was super effective!{/i}"
+[1799]                    $ pcur += 100
+[1801]                    "{i}Sensei has earned 100 PREMIUM CURRENCY! Jackpot!{/i}"
+[1806]                    jump fieldsmenu
+[1809]                    "{i}Sensei used his blowtorch!{/i}"
+[1810]                    "{i}Nothing happened...{/i}"
+[1812]                    "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1814]                    jump metalslimefightmenu
+[1817]                    "{i}Sensei used massage oil!{/i}"
+[1818]                    "{i}Metal Dogslime is so shiny now!{/i}"
+[1820]                    "{i}Metal Dogslime is huge and hard and shiny and ready to fuck!{/i}"
+[1822]                    jump metalslimefightmenu
+[1824]        "Guard":
+[1826]            "{i}Sensei protects himself!{/i}"
+[1827]            "{i}Metal Dogslime is huge and hard and ready to fuck!{/i}"
+[1829]            jump metalslimefightmenu
+[1831]        "Run Away":
+[1835]            "{i}Sensei has escaped!{/i}"
+[1837]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[1839]            jump fieldsmenu
+
+===== [1841] blobmanfight =====
+[1845]    "{i}Blobman has appeared!{/i}"
+[1847]    menu blobmanfightmenu:
+[1848]        "Attack":
+[1849]            menu:
+[1850]                "Tackle":
+[1851]                    "{i}Sensei used Tackle!{/i}"
+[1856]                    "{i}Sensei died...{/i}"
+[1861]                    "{i}You somehow manage to respawn in Fucklador.{/i}"
+[1862]                    "{i}Your hospital bill will be sent to you later.{/i}"
+[1864]                    jump gameworldmainhub
+[1867]                    "{i}Sensei used Venom Spit!{/i}"
+[1868]                    "{i}Nothing happened...{/i}"
+[1870]                    "{i}Blobman is PISSED!{/i}"
+[1872]                    jump blobmanfightmenu
+[1875]                    "{i}Sensei used Banana Blast!{/i}"
+[1876]                    "{i}Nothing happened...{/i}"
+[1878]                    "{i}Blobman is PISSED!{/i}"
+[1880]                    jump blobmanfightmenu
+[1883]                    "{i}Sensei used Bubble Beam!{/i}"
+[1884]                    "{i}Nothing happened...{/i}"
+[1886]                    "{i}Blobman is PISSED!{/i}"
+[1888]                    jump blobmanfightmenu
+[1891]                    "{i}Sensei used Sanitize!{/i}"
+[1892]                    "{i}Nothing happened...{/i}"
+[1894]                    "{i}Blobman is PISSED! But slightly cleaner now!{/i}"
+[1896]                    jump blobmanfightmenu
+[1899]                    "{i}Sensei used Fertilize!{/i}"
+[1900]                    "{i}Nothing happened...{/i}"
+[1902]                    "{i}Blobman is PISSED!{/i}"
+[1904]                    jump blobmanfightmenu
+[1907]                    "{i}Sensei used Salt Spray!{/i}"
+[1908]                    "{i}Nothing happened...{/i}"
+[1910]                    "{i}Blobman is PISSED!{/i}"
+[1912]                    jump blobmanfightmenu
+[1915]                    "{i}Sensei used Fire Ball!{/i}"
+[1920]                    "{i}It was super effective!{/i}"
+[1924]                    $ pcur += 50
+[1926]                    "{i}Sensei has earned 50 PREMIUM CURRENCY!{/i}"
+[1931]                    jump fieldsmenu
+[1934]                    "{i}Sensei used his blowtorch!{/i}"
+[1939]                    "{i}It was super effective!{/i}"
+[1943]                    $ pcur += 50
+[1945]                    "{i}Sensei has earned 50 PREMIUM CURRENCY!{/i}"
+[1950]                    jump fieldsmenu
+[1953]                    "{i}Sensei used massage oil!{/i}"
+[1958]                    "{i}Sensei died...{/i}"
+[1963]                    "{i}You somehow manage to respawn in Fucklador.{/i}"
+[1964]                    "{i}Your hospital bill will be sent to you later.{/i}"
+[1966]                    jump gameworldmainhub
+[1968]        "Guard":
+[1970]            "{i}Sensei protects himself!{/i}"
+[1975]            "{i}But it’s not enough! Blobman still wins!{/i}"
+[1976]            "{i}Sensei dies...{/i}"
+[1981]            "{i}You somehow manage to respawn in Fucklador.{/i}"
+[1982]            "{i}Your hospital bill will be sent to you later.{/i}"
+[1984]            jump gameworldmainhub
+[1986]        "Run Away":
+[1990]            "{i}Sensei has escaped!{/i}"
+[1992]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[1994]            jump fieldsmenu
+
+===== [1996] yogurtfight =====
+[2000]    "{i}Yogurt has appeared!{/i}"
+[2002]    menu yogurtslimefightmenu:
+[2003]        "Attack":
+[2004]            menu:
+[2005]                "Tackle":
+[2006]                    "{i}Sensei used Tackle!{/i}"
+[2007]                    "{i}He’s covered in yogurt now! Delicious!{/i}"
+[2009]                    "{i}Yogurt is packed full of probiotics!{/i}"
+[2011]                    jump yogurtslimefightmenu
+[2014]                    "{i}Sensei used Venom Spit!{/i}"
+[2015]                    "{i}Nothing happened...{/i}"
+[2017]                    "{i}Yogurt is packed full of probiotics!{/i}"
+[2019]                    jump yogurtslimefightmenu
+[2022]                    "{i}Sensei used Banana Blast!{/i}"
+[2023]                    "{i}Nothing happened...{/i}"
+[2025]                    "{i}Yogurt is packed full of probiotics!{/i}"
+[2027]                    jump yogurtslimefightmenu
+[2030]                    "{i}Sensei used Bubble Beam!{/i}"
+[2031]                    "{i}Nothing happened...{/i}"
+[2033]                    "{i}Yogurt is packed full of probiotics!{/i}"
+[2035]                    jump yogurtslimefightmenu
+[2038]                    "{i}Sensei used Sanitize!{/i}"
+[2043]                    "{i}It was super effective!{/i}"
+[2047]                    $ pcur += 10
+[2049]                    "{i}Sensei has earned 10 PREMIUM CURRENCY!{/i}"
+[2054]                    jump fieldsmenu
+[2057]                    "{i}Sensei used Fertilize!{/i}"
+[2058]                    "{i}Nothing happened...{/i}"
+[2060]                    "{i}Yogurt is packed full of probiotics!{/i}"
+[2062]                    jump yogurtslimefightmenu
+[2065]                    "{i}Sensei used Salt Spray!{/i}"
+[2066]                    "{i}Nothing happened...{/i}"
+[2068]                    "{i}Yogurt is packed full of probiotics!{/i}"
+[2070]                    jump yogurtslimefightmenu
+[2073]                    "{i}Sensei used Fire Ball!{/i}"
+[2078]                    "{i}It was super effective!{/i}"
+[2082]                    $ pcur += 10
+[2084]                    "{i}Sensei has earned 10 PREMIUM CURRENCY!{/i}"
+[2089]                    jump fieldsmenu
+[2092]                    "{i}Sensei used his blowtorch!{/i}"
+[2093]                    "{i}Nothing happened...{/i}"
+[2095]                    "{i}Yogurt is packed full of probiotics!{/i}"
+[2097]                    jump yogurtslimefightmenu
+[2100]                    "{i}Sensei used massage oil!{/i}"
+[2101]                    "{i}Why?...{/i}"
+[2103]                    "{i}Yogurt is confused!{/i}"
+[2105]                    jump yogurtslimefightmenu
+[2107]        "Guard":
+[2109]            "{i}Sensei protects himself!{/i}"
+[2110]            "{i}Yogurt is packed full of probiotics!{/i}"
+[2112]            jump yogurtslimefightmenu
+[2114]        "Run Away":
+[2118]            "{i}Sensei has escaped!{/i}"
+[2120]            s "That was close! [[INSERT ENEMY NAME HERE] almost got me!"
+[2122]            jump fieldsmenu
+
+===== [2125] seaofstairs =====
+[2135]    $ netkillpts = 0
+[2137]    "{i}Net With Knife Nose & Melon Mouth appeared!{/i}"
+[2139]    if knifeseen == True:
+[2140]        net "This again? Just go away."
+[2141]        s "No! I must obtain the Four Orbs of Power!"
+[2142]        net "It would make more sense if there were only {i}three{/i} orbs of power as that number corresponds directly to the amount of frequently recurring gods in Lessons in Love that-"
+[2143]        s "Silence, Net With Knife Nose & Melon Mouth! Your time ends now!"
+[2144]    else:
+[2145]        net "So...we meet again."
+[2146]        s "Again?"
+[2147]        net "Yeah."
+[2148]        s "I don’t remember you."
+[2149]        net "Really?"
+[2150]        s "Yeah. Who are you?"
+[2151]        net "One of the first “curious objects” to ever appear to you. I’m the one who’s really into the lore, remember?"
+[2152]        s "Oh. Well, are we going to fight or do you just want to hand over your Orb of Power?"
+[2153]        net "Just as before, I’m acting as a guardian. I can’t let you pass unless you prove yourself worthy."
+[2154]        net "Please answer the following questions correctly in order to pass."
+[2155]        net "When Yumi is first seen on the beach-"
+[2160]        s "Yah!"
+[2161]        net "Woah. What are you doing?"
+[2162]        s "I have no time for any more quizzes! Taste my blade and all of the abilities I have collected!"
+[2163]        net "I’ll make you regret ever challenging me, heathen."
+[2165]        $ knifeseen = True
+
+===== [2167] netfight =====
+[2168]    $ config.rollback_enabled = False
+[2170]    if senseidamage > 30:
+[2172]        s "Ngh..."
+[2173]        net "This is the end for you, Akira."
+[2174]        net "You were never meant for this place."
+[2175]        s "I can’t...go on..."
+[2181]        "{i}Sensei collapses to the ground!{/i}"
+[2182]        "{i}He has failed...{/i}"
+[2183]        "........."
+[2184]        "......"
+[2185]        "..."
+[2191]        $ senseidamage = 0
+[2193]        "{i}You somehow manage to respawn in Fucklador.{/i}"
+[2194]        "{i}Your hospital bill will be sent to you later.{/i}"
+[2196]        $ config.rollback_enabled = True
+[2198]        jump gameworldmainhub
+[2200]    else:
+[2201]        jump netfightmenu
+[2203]    menu netfightmenu:
+[2204]        "Attack":
+[2205]            menu:
+[2206]                "Tackle":
+[2207]                    if netkillpts == 3 and swordofhope == True:
+[2208]                        "{i}Sensei used Tackle!{/i}"
+[2211]                        "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2212]                        net "Heh. It’s amusing how you still think you can hit me after I’ve dodged so many of your attacks already."
+[2213]                        s "It {i}would{/i} be amusing..."
+[2214]                        s "If I didn’t have another trick up my sleeve!"
+[2215]                        net "What?"
+[2220]                        "{i}Sensei launches a second attack with the Sword of Hope!{/i}"
+[2225]                        net "Ngh!"
+[2226]                        s "Hmph."
+[2227]                        net "Of all the...weapons to slay me with..."
+[2228]                        net "It had to be...that one..."
+[2233]                        "{i}Net With Knife Nose & Melon Mouth has fallen!{/i}"
+[2237]                        "{i}Sensei has obtained the {b}Orb of Plant!{/b}{/i}"
+[2239]                        net "Please...promise me that-"
+[2245]                        s "I don’t make promises to my enemies."
+[2246]                        net "But I have never been your-"
+[2247]                        s "You stabbed me like a million times, dude."
+[2248]                        net "..."
+[2249]                        s "Peace out, man."
+[2250]                        net "Goodbye...Akira..."
+[2256]                        $ senseidamage = 0
+[2257]                        $ plantorb = True
+[2258]                        $ config.rollback_enabled = True
+[2260]                        s "I am stronger now than I was before!"
+[2262]                        "{i}Not really. You just have an extra key item now.{/i}"
+[2264]                        s "Shut up, secret narrator."
+[2266]                        jump gameworldmainhub
+[2268]                    else:
+[2269]                        "{i}Sensei used Tackle!{/i}"
+[2272]                        "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2274]                        "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2276]                        "{i}Sensei has taken 10 Damage!{/i}"
+[2278]                        $ senseidamage += 10
+[2280]                        jump netfight
+[2283]                    "{i}Sensei used Venom Spit!{/i}"
+[2286]                    "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2288]                    "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2290]                    "{i}Sensei has taken 10 Damage!{/i}"
+[2292]                    $ senseidamage += 10
+[2294]                    jump netfight
+[2297]                    "{i}Sensei used Banana Blast!{/i}"
+[2300]                    "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2302]                    "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2304]                    "{i}Sensei has taken 10 Damage!{/i}"
+[2306]                    $ senseidamage += 10
+[2308]                    jump netfight
+[2311]                    "{i}Sensei used Bubble Beam!{/i}"
+[2314]                    "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2316]                    "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2318]                    "{i}Sensei has taken 10 Damage!{/i}"
+[2320]                    $ senseidamage += 10
+[2322]                    jump netfight
+[2325]                    "{i}Sensei used Sanitize!{/i}"
+[2328]                    "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2330]                    "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2332]                    "{i}Sensei has taken 10 Damage!{/i}"
+[2334]                    $ senseidamage += 10
+[2336]                    jump netfight
+[2339]                    "{i}Sensei used Fertilize!{/i}"
+[2342]                    "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2344]                    "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2346]                    "{i}Sensei has taken 10 Damage!{/i}"
+[2348]                    $ senseidamage += 10
+[2350]                    jump netfight
+[2353]                    "{i}Sensei used Salt Spray!{/i}"
+[2356]                    "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2358]                    "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2360]                    "{i}Sensei has taken 10 Damage!{/i}"
+[2362]                    $ senseidamage += 10
+[2364]                    jump netfight
+[2367]                    if netkillpts == 2:
+[2368]                        "{i}Sensei used Fire Ball!{/i}"
+[2370]                        "{i}It’s a direct hit! The enemy is burning!{/i}"
+[2371]                        net "Tch! I see now..."
+[2372]                        net "You used the massage oil to cover me in grease that you could set ablaze with Fire Ball. A genius move, Akira."
+[2373]                        s "Yeah. That’s exactly what I was trying to do. Now, give me your orb!"
+[2376]                        "{i}Net With Knife Nose & Melon Mouth extinguishes the fire!{/i}"
+[2377]                        net "Over my dead melon..."
+[2379]                        "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2381]                        "{i}Sensei has taken 10 Damage!{/i}"
+[2383]                        $ senseidamage += 10
+[2385]                        $ netkillpts += 1
+[2387]                        jump netfight
+[2389]                    else:
+[2390]                        "{i}Sensei used Fire Ball!{/i}"
+[2393]                        "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2395]                        "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2397]                        "{i}Sensei has taken 10 Damage!{/i}"
+[2399]                        $ senseidamage += 10
+[2401]                        jump netfight
+[2404]                    "{i}Sensei used his blowtorch!{/i}"
+[2407]                    "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2409]                    "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2411]                    "{i}Sensei has taken 10 Damage!{/i}"
+[2413]                    $ senseidamage += 10
+[2415]                    jump netfight
+[2418]                    if netkillpts == 1:
+[2419]                        "{i}Sensei used massage oil!{/i}"
+[2422]                        net "What the-"
+[2423]                        s "I hope you like massages, because you’re about to be rubbed out!"
+[2424]                        net "Aren’t we fighting? Why would you just pour oil on me like that? I’m a net. I don’t even have muscles. This accomplishes nothing."
+[2425]                        s "We’ll see about that, Net With Knife Nose & Melon Mouth!"
+[2426]                        net "Bruh."
+[2428]                        "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2430]                        "{i}Sensei has taken 10 Damage!{/i}"
+[2432]                        $ senseidamage += 10
+[2433]                        $ netkillpts += 1
+[2435]                        jump netfight
+[2437]                    else:
+[2438]                        "{i}Sensei used massage oil!{/i}"
+[2441]                        "{i}Net With Knife Nose & Melon Mouth manages to dodge the attack!{/i}"
+[2443]                        "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2445]                        "{i}Sensei has taken 10 Damage!{/i}"
+[2447]                        $ senseidamage += 10
+[2449]                        jump netfight
+[2451]        "Guard":
+[2452]            if netkillpts == 0:
+[2454]                "{i}Sensei protects himself!{/i}"
+[2456]                "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2459]                "{i}Sensei dodges the attack!{/i}"
+[2461]                $ netkillpts += 1
+[2463]                net "Not bad. That’s the last time that will work on me, though."
+[2464]                s "We’ll see about that, Net With Knife Nose & Melon Mouth."
+[2465]                net "Just call me Net, dude."
+[2466]                s "Shut up, Net With Knife Nose & Melon Mouth! Taste my blade!"
+[2468]                jump netfight
+[2470]            else:
+[2472]                "{i}Sensei protects himself!{/i}"
+[2474]                "{i}Net With Knife Nose & Melon Mouth attacks with his noseblade!{/i}"
+[2476]                "{i}It’s no use! Sensei has taken 10 Damage anyway!{/i}"
+[2478]                $ senseidamage += 10
+[2480]                jump netfight
+
+===== [2483] bedlehem =====
+[2493]    $ mannykillpts = 0
+[2495]    "{i}Manny the Unfriendly Maggot appeared!{/i}"
+[2497]    if mannyseen == True:
+[2498]        manny "You never learn, do you?"
+[2499]        s "I’ll surely defeat you this time, former friend."
+[2500]        manny "Listen man, since we used to be on good terms, why don’t I just let you in on a little hint about what will happen if you miraculously {i}do{/i} manage to kick my ass."
+[2501]        manny "Nothing’s going to get any better. Even if you collect the Four Orbs of Power, using them to summon the final boss just sets you up for an even {i}worse{/i} death."
+[2502]        s "But I know I will win, Manfred."
+[2503]        manny "Don’t call me that. And how do you know you’ll win?"
+[2504]        s "Because..."
+[2508]        s "{b}THIS GAME IS NAMED AFTER ME!{/b}"
+[2510]        jump mannyfightmenu
+[2512]    else:
+[2513]        s "Manny? What are you doing here? And who programmed my bedroom into Sensei-Quest?"
+[2514]        manny "You’ve been gone a long time, Sensei. Many things have happened. And {i}I{/i} am the ruler of this realm now."
+[2515]        s "{i}No!{/i}"
+[2516]        manny "I’ve been fucking your girlfriend too."
+[2517]        s "Which one?"
+[2518]        manny "Wait, how many do you have?"
+[2519]        s "I don’t know, man. I’ve lost count."
+[2520]        manny "Well, I’m talking about the rubber one with that hole in it that you keep on the top shelf."
+[2521]        s "Oh, so like none of the human girls?"
+[2522]        manny "Nah, they’re all dead now. Sensei-Quest takes place in the year 5382."
+[2523]        s "Jesus."
+[2524]        manny "I had a threesome with one of the dorms before everyone died, though."
+[2525]        s "Really? Which one?"
+[2526]        manny "I’m not really sure. I haven’t grown any eyes yet. Just a bunch of these Bolwig organ things. Which really sucks because it makes me think I’m going to be a maggot forever."
+[2527]        s "Is that why you’re so unfriendly now?"
+[2528]        manny "Part of it, yeah."
+[2529]        s "That makes sense. It’s really good to see you, though. You’ve grown a lot."
+[2530]        manny "Thanks, man. You look good too."
+[2531]        s "So, can I have the Orb of Presumably Worm or do I actually have to fight you for it?"
+[2532]        manny "You’ve gotta fight me for it. Sorry, dude. Honest truth is I’ve had it ever since A Life of Prizes. It’s what gives me the ability to speak. And I’ve got a girlfriend now. I won’t let you steal my voice."
+[2533]        s "Then...it looks like the time has come..."
+[2534]        s "For me to be Unfriendly Sensei!"
+[2535]        manny "That was lame as fuck, dude. Please just go home."
+[2536]        s "I’M ALREADY HERE!"
+[2538]        $ mannyseen = True
+[2540]        jump mannyfightmenu
+
+===== [2542] mannyfight =====
+[2543]    $ config.rollback_enabled = False
+[2545]    if senseidamage > 30:
+[2548]        s "Ngh!"
+[2549]        manny "You made me do this, former friend. But hey, on the bright side, at least you get to respawn. So you should use that opportunity to do something more productive with-"
+[2550]        s "I’ll...be back..."
+[2551]        manny "Please don’t."
+[2557]        "{i}Sensei collapses to the ground!{/i}"
+[2558]        "{i}He has failed...{/i}"
+[2559]        "........."
+[2560]        "......"
+[2561]        "..."
+[2567]        $ senseidamage = 0
+[2569]        "{i}You somehow manage to respawn in Fucklador.{/i}"
+[2570]        "{i}Your hospital bill will be sent to you later.{/i}"
+[2572]        $ config.rollback_enabled = True
+[2574]        jump gameworldmainhub
+[2576]    else:
+[2577]        jump mannyfightmenu
+[2579]    menu mannyfightmenu:
+[2580]        "Attack":
+[2581]            menu:
+[2582]                "Tackle":
+[2583]                    "{i}Sensei used Tackle!{/i}"
+[2586]                    "{i}Manny the Unfriendly Maggot deflects the blow!{/i}"
+[2589]                    "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2590]                    "{i}Sensei has taken 10 damage!{/i}"
+[2592]                    $ senseidamage += 10
+[2594]                    jump mannyfight
+[2597]                    "{i}Sensei used Venom Spit!{/i}"
+[2599]                    if mannykillpts == 0:
+[2602]                        "{i}Manny the Unfriendly Maggot attempts to deflect the blow, but fails!{/i}"
+[2604]                        manny "What the fuck? Since when are you venomous?"
+[2605]                        s "Since that girl at the tavern rewrote my genetic structure for the low cost of 50 PREMIUM CURRENCY."
+[2606]                        manny "You’re lucky you’re allowed to wander around. And also that you’re able to hold more than one spell at a time. All I know is Bolwig Blast."
+[2607]                        s "More like Bullshit Blast. You can’t hurt me."
+[2608]                        manny "I’d actually prefer Bullshit Blast. That hits way harder. I think I need to evolve first, though."
+[2613]                        "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2615]                        manny "See? Not that bad, right?"
+[2616]                        s "Not at all..."
+[2618]                        "{i}Sensei has taken 10 damage!{/i}"
+[2620]                        s "It only took a third of my HP away."
+[2621]                        manny "Jesus, how squishy are you?"
+[2623]                        $ senseidamage += 10
+[2624]                        $ mannykillpts += 1
+[2626]                        jump mannyfight
+[2628]                    else:
+[2631]                        "{i}Manny the Unfriendly Maggot deflects the blow!{/i}"
+[2634]                        "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2635]                        "{i}Sensei has taken 10 damage!{/i}"
+[2637]                        jump mannyfight
+[2640]                    "{i}Sensei used Banana Blast!{/i}"
+[2643]                    "{i}Manny the Unfriendly Maggot deflects the blow!{/i}"
+[2646]                    "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2647]                    "{i}Sensei has taken 10 damage!{/i}"
+[2649]                    $ senseidamage += 10
+[2651]                    jump mannyfight
+[2654]                    "{i}Sensei used Bubble Beam!{/i}"
+[2656]                    if mannykillpts == 2:
+[2659]                        "{i}Manny the Unfriendly Maggot attempts to deflect the blow, but the bubbles get into his Bolwig organs!{/i}"
+[2661]                        manny "Fuck. This is going to make detecting light so much harder."
+[2662]                        s "Is that a {b}HINT{/b} I hear?"
+[2663]                        manny "What? No. It’s just literally harder to detect light now. Stop fighting like a bitch and just tackle me or something."
+[2664]                        s "And risk getting Bolwig Blasted? No thanks. I’ll stick to my bubbles and salt and venom, thank you very much."
+[2665]                        manny "Tch..."
+[2667]                        "{i}Your barrage of various chemicals has weakened Manny the Unfriendly Maggot!{/i}"
+[2668]                        "{i}He is {b}Stunned{/b} until next turn...{/i}"
+[2670]                        s "Hell yeah."
+[2671]                        manny "Hell no."
+[2673]                        $ mannykillpts += 1
+[2675]                        jump mannyfight
+[2677]                    else:
+[2680]                        "{i}Manny the Unfriendly Maggot deflects the blow!{/i}"
+[2683]                        "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2684]                        "{i}Sensei has taken 10 damage!{/i}"
+[2686]                        $ senseidamage += 10
+[2688]                        jump mannyfight
+[2691]                    "{i}Sensei used Sanitize!{/i}"
+[2694]                    "{i}Manny the Unfriendly Maggot deflects the blow!{/i}"
+[2697]                    "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2698]                    "{i}Sensei has taken 10 damage!{/i}"
+[2700]                    $ senseidamage += 10
+[2702]                    jump mannyfight
+[2705]                    "{i}Sensei used Fertilize!{/i}"
+[2708]                    "{i}Manny the Unfriendly Maggot deflects the...sex?{/i}"
+[2710]                    manny "Ew, dude. I never realized you looked at me that way."
+[2711]                    s "I’m doing it for the sake of battle!"
+[2712]                    manny "Well, stop."
+[2716]                    "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2717]                    "{i}Sensei has taken 10 damage!{/i}"
+[2719]                    $ senseidamage += 10
+[2721]                    jump mannyfight
+[2724]                    "{i}Sensei used Salt Spray!{/i}"
+[2726]                    if mannykillpts == 1:
+[2729]                        "{i}Manny the Unfriendly Maggot is unable to block Sensei’s Salt Spray!{/i}"
+[2731]                        manny "First venom, now salt? What the hell is this fighting style, man?"
+[2732]                        s "You know what they say about venom and salt, Manny."
+[2733]                        manny "........No?"
+[2734]                        s "They’re highly effective against larvae."
+[2735]                        manny "Literally no one has ever said that. You’re probably thinking of slugs. But even then, I don’t think venom has any effect on-"
+[2737]                        "{i}Sensei used Salt Spray again!{/i}"
+[2740]                        "{i}Manny the Unfriendly Maggot is unable to block Sensei’s Salt Spray!{/i}"
+[2742]                        manny "Dude, knock it off."
+[2743]                        s "Hell no. It’s working."
+[2744]                        manny "Well, it’s not going to work anymore."
+[2749]                        "{i}Manny the Unfriendly Maggot has developed an immunity to Salt Spray thanks to his {b}Thicc Skin.{/b}"
+[2751]                        s "You do look pretty thicc."
+[2752]                        manny "And you look pretty dead."
+[2756]                        "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2757]                        "{i}Sensei has taken 10 damage!{/i}"
+[2759]                        $ senseidamage += 10
+[2760]                        $ mannykillpts += 1
+[2762]                        jump mannyfight
+[2764]                    else:
+[2767]                        "{i}Manny the Unfriendly Maggot deflects the blow!{/i}"
+[2770]                        "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2771]                        "{i}Sensei has taken 10 damage!{/i}"
+[2773]                        $ senseidamage += 10
+[2775]                        jump mannyfight
+[2778]                    "{i}Sensei used Fire Ball!{/i}"
+[2781]                    "{i}Manny the Unfriendly Maggot deflects the blow!{/i}"
+[2784]                    "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2785]                    "{i}Sensei has taken 10 damage!{/i}"
+[2787]                    $ senseidamage += 10
+[2789]                    jump mannyfight
+[2792]                    "{i}Sensei used his blowtorch!{/i}"
+[2795]                    "{i}Manny the Unfriendly Maggot deflects the blow!{/i}"
+[2798]                    "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2799]                    "{i}Sensei has taken 10 damage!{/i}"
+[2801]                    $ senseidamage += 10
+[2803]                    jump mannyfight
+[2806]                    "{i}Sensei used massage oil!{/i}"
+[2809]                    "{i}Manny the Unfriendly Maggot hates massages!{/i}"
+[2812]                    "{i}Manny the Unfriendly Maggot casts Empowered Bolwig Blast!{/i}"
+[2813]                    "{i}It’s a critical hit!{/i}"
+[2814]                    "{i}Sensei has taken 20 damage!{/i}"
+[2816]                    $ senseidamage += 20
+[2818]                    jump mannyfight
+[2820]        "Guard":
+[2821]            if mannykillpts == 3 and shieldofresistance == True:
+[2823]                "{i}Sensei protects himself!{/i}"
+[2825]                "{i}Manny the Unfriendly Maggot casts {b}BOTFLY INVASION!{/b}"
+[2827]                s "Woah! What the fuck is that move? You said you only had one!"
+[2828]                manny "Racial passive. All maggots have it. Doesn’t count toward my ability total."
+[2829]                s "Tch!"
+[2834]                "{i}A horde of botflies begin to slap Sensei around!{/i}"
+[2836]                s "Why do they all have hands?!"
+[2837]                manny "Dude, ask the developers. I don’t know. I barely ever use this- wait. What’s that glow?"
+[2842]                "{i}Sensei’s {b}Shield of Resistance{/b} is letting out a blinding light!{/i}"
+[2844]                s "That glow...is the glow of perseverance! Also, you said you wouldn’t be able to detect light anymore! I knew it was a hint!"
+[2845]                manny "I just said it would be harder. I didn’t say-"
+[2851]                "{i}{b}Shield of Resistance acts by itself! It casts {b}Ray of Perseverance{/b}!{/i}"
+[2853]                s "See?! I’ve been right all along!"
+[2855]                manny "Ngh! I can’t...take any more!"
+[2860]                "{i}Manny the Unfriendly Maggot has been slain!{/i}"
+[2864]                "{i}Sensei has obtained the {b}Orb of Worm{/b}!{/i}"
+[2866]                s "Now {i}I{/i} will be able to cast Botfly Invasion as well..."
+[2867]                manny "First off...no you won’t..."
+[2868]                manny "But second...shouldn’t you be more excited about the fact that you’ve obtained an Orb of Power?"
+[2869]                s "I want to be...but I had to kill a friend in the process."
+[2871]                "{i}Manny the Unfriendly Maggot begins to dissolve into some weird green goop.{/i}"
+[2877]                manny "Tell...my girlfriend...I love her..."
+[2878]                s "I’ll do you one better than that, Manny."
+[2879]                s "I’ll love her {i}for{/i} you."
+[2880]                manny "Please...don’t..."
+[2884]                "{i}Sensei has obtained {b}Manny the Unfriendly Maggot’s Girlfriend{/b}!{/i}"
+[2886]                manny "You...motherfucker..."
+[2892]                $ senseidamage = 0
+[2893]                $ wormorb = True
+[2894]                $ config.rollback_enabled = True
+[2896]                s "I must continue my journey!"
+[2897]                s "To greater heights I climb!"
+[2899]                jump gameworldmainhub
+[2901]            else:
+[2903]                "{i}Sensei protects himself!{/i}"
+[2906]                "{i}Manny the Unfriendly Maggot casts Bolwig Blast!{/i}"
+[2907]                "{i}Sensei has taken 10 damage! He totally sucks at guarding!{/i}"
+[2909]                s "Hey..."
+[2911]                $ senseidamage += 10
+[2913]                jump mannyfight
+
+===== [2916] palaceofthefist =====
+[2927]    $ karatekillpts = 0
+[2929]    "{i}Random Karate Person appeared!{/i}"
+[2931]    if karateseen == True:
+[2932]        rand "So you’ve decided to give it another try, I see."
+[2933]        s "You’re not the only one who’s been training, Random Karate Person."
+[2934]        rand "I sure hope that’s the case. Because the pathetic display of combat skills you showed off in our last bout was nothing short of child’s play."
+[2935]        s "Well, you don’t have to be a dick about it. I’m trying really hard. This puzzle is weird."
+[2936]        rand "Not as weird as the hairy frog."
+[2937]        s "The what?"
+[2938]        rand "The one that sneaks in the night — floating by like a log on a larger log."
+[2939]        s "Okay, I’m just going to fight you now."
+[2941]        jump karatefight
+[2943]    else:
+[2944]        rand "Well, well, well...look who finally decided to return home."
+[2945]        s "You know, I knew from the moment I first encountered you that you were going to be a boss I’d have to defeat for a key item in a presumably delusional RPG one day."
+[2946]        rand "I highly doubt the accuracy of that statement. But I welcome you back nonetheless as I’ve been eagerly awaiting the day we cross swords."
+[2947]        s "Are we even allowed to use swords in karate?"
+[2948]        rand "It was merely a figure of speech — another way to say the cicada always catches its breakfast on Fish Day."
+[2949]        s "What?"
+[2950]        rand "Karate is no different from a blade of grass that never found its way home. Or a smile that has just learned how to frown."
+[2951]        s "Oh, I get it. You’re supposed to be wise or something, but the writer of this game isn’t very good."
+[2952]        rand "Or I have merely transcended human knowledge and can now speak on a level that only {b}Enlightened Ones{/b} can understand."
+[2953]        s "I want to doubt you, but that bolded text is making me think twice."
+[2954]        rand "You stand no chance against me, Sensei. But seeing as this is an open competition, I will not refuse your challenge. But also know that I will not hold back."
+[2956]        "{i}Random Karate Person takes a step forward! But the model doesn’t move. Just pretend.{/i}"
+[2958]        rand "Today will be the first day of the rest of your life...and the last day of your third week in Cancun!"
+[2959]        s "???????????????"
+[2964]        "{i}Random Karate Person swings his fist!{/i}"
+[2965]        "{i}Sensei narrowly dodges the attack!{/i}"
+[2967]        $ karateseen = True
+[2969]        jump karatefight
+
+===== [2971] karatefight =====
+[2972]    $ config.rollback_enabled = False
+[2974]    if senseidamage > 30:
+[2977]        s "Ngh..."
+[2978]        rand "Is that all you’ve got, weakling?"
+[2979]        s "Your fists are just so...full of fist-energy..."
+[2980]        rand "Like the hummingbird’s belt, I {i}am{/i} the Wheel of Fortune."
+[2986]        s "One day...I will understand!"
+[2988]        "{i}Sensei collapses to the ground!{/i}"
+[2989]        "{i}He has failed...{/i}"
+[2990]        "........."
+[2991]        "......"
+[2992]        "..."
+[2998]        $ senseidamage = 0
+[3000]        "{i}You somehow manage to respawn in Fucklador.{/i}"
+[3001]        "{i}Your hospital bill will be sent to you later.{/i}"
+[3003]        $ config.rollback_enabled = True
+[3005]        jump gameworldmainhub
+[3007]    else:
+[3008]        jump karatefightmenu
+[3010]    menu karatefightmenu:
+[3011]        "Attack":
+[3012]            menu:
+[3013]                "Tackle":
+[3014]                    "{i}Sensei used Tackle!{/i}"
+[3016]                    if karatekillpts == 3 and swordofhope == True:
+[3017]                        rand "Again? Give it up, Sensei."
+[3022]                        "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3024]                        s "How are you so fast?!"
+[3025]                        rand "Years of training my fists and feet — like a meadow swallowing goldfish."
+[3026]                        s "Yeah, well...while you were training your fists and feet, I was studying the blade!"
+[3031]                        "{i}Sensei swings the Sword of Hope!{/i}"
+[3033]                        rand "What?!"
+[3041]                        rand "YOU ACTUALLY USED A FUCKING SWORD?! ARE YOU INSANE?!"
+[3042]                        s "YOU TOLD ME WE WERE GOING TO CROSS THEM AND YOU DIDN’T EVEN BRING ONE!"
+[3043]                        rand "I TOLD YOU IT WAS A FIGURE OF SPEECH, IDIOT! THIS IS SUPPOSED TO BE A FAIR FIGHT! HOW AM I SUPPOSED TO-"
+[3048]                        "{i}Sensei swings the Sword of Hope again!{/i}"
+[3050]                        rand "PLEASE, STOP!"
+[3055]                        "{i}Sensei has decapitated Random Karate Person!{/i}"
+[3057]                        s "At least {i}this{/i} purchase is giving me a better return on my investment than my Boots of Ass."
+[3063]                        "{i}Sensei swings his sword once more, cleaning the blood off his blade as he reaches down and plucks the {b}Orb of Fist{/b} from Random Karate Person’s pocket!{/i}"
+[3067]                        "{i}Sensei has obtained the Orb of Fist!{/i}"
+[3069]                        $ fistorb = True
+[3070]                        $ senseidamage = 0
+[3071]                        $ config.rollback_enabled = True
+[3073]                        s "I’m going to fist so many girls when I get home."
+[3079]                        "{i}Little did he know, it would take a lot more than an Orb of Power to get his fist inside some of the girls he hangs around.{/i}"
+[3081]                        s "So...now what should I do?"
+[3083]                        jump gameworldmainhub
+[3085]                    else:
+[3088]                        "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3089]                        rand "Pathetic!"
+[3092]                        "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3093]                        "{i}Sensei has taken 10 damage!{/i}"
+[3095]                        $ senseidamage += 10
+[3097]                        jump karatefight
+[3100]                    "{i}Sensei used Venom Spit!{/i}"
+[3103]                    "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3104]                    rand "Pathetic!"
+[3107]                    "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3108]                    "{i}Sensei has taken 10 damage!{/i}"
+[3110]                    $ senseidamage += 10
+[3112]                    jump karatefight
+[3115]                    "{i}Sensei used Banana Blast!{/i}"
+[3117]                    if karatekillpts == 0:
+[3118]                        s "First rule of karate — fight yellow with yellow!"
+[3123]                        rand "Nice try, but-"
+[3125]                        "{i}Sensei’s Banana Blast is empowered by his cool dialogue!{/i}"
+[3127]                        rand "What?"
+[3132]                        "{i}It’s a hit!{/i}"
+[3134]                        rand "..."
+[3135]                        s "Never underestimate the effect potassium can have on one’s body."
+[3136]                        rand "Your words ring true — like the bell that summons the great frog. Or a leaf, blowing carelessly through the halls of a pet store."
+[3137]                        rand "Your pitiful tricks won’t work more than once, though. Like a missing platypus, you lack the technique to make the trees lose sight of the bugs that live beneath them."
+[3138]                        rand "Also, you have the rules of karate wrong."
+[3139]                        s "I do? What’s the actual first rule then?"
+[3140]                        rand "It begins and ends with respect!"
+[3144]                        "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3145]                        "{i}Sensei has taken 10 damage!{/i}"
+[3147]                        $ senseidamage += 10
+[3148]                        $ karatekillpts += 1
+[3150]                        s "That wasn’t respectful at all! In fact, you’ve been disrespecting me pretty much this whole time!"
+[3151]                        rand "Rules are little more than wet socks in summer!"
+[3153]                        jump karatefight
+[3155]                    else:
+[3158]                        "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3159]                        rand "Pathetic!"
+[3162]                        "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3163]                        "{i}Sensei has taken 10 damage!{/i}"
+[3165]                        $ senseidamage += 10
+[3167]                        jump karatefight
+[3170]                    "{i}Sensei used Bubble Beam!{/i}"
+[3173]                    "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3174]                    rand "Pathetic!"
+[3177]                    "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3178]                    "{i}Sensei has taken 10 damage!{/i}"
+[3180]                    $ senseidamage += 10
+[3182]                    jump karatefight
+[3185]                    "{i}Sensei used Sanitize!{/i}"
+[3187]                    if karatekillpts == 2:
+[3188]                        "{i}Random Karate Person stands there and lets it happen!{/i}"
+[3190]                        s "..."
+[3191]                        rand "..."
+[3192]                        s "Ew. This is weird now."
+[3193]                        rand "Thank you for taking the time to wash me. It is important to practice personal hygiene, especially after working up a sweat."
+[3194]                        s "This is supposed to be an attack. You’re not supposed to enjoy it."
+[3195]                        rand "I see that, all these years later, you still don’t know the first thing of martial arts."
+[3196]                        s "Sure I do. Didn’t you see what I did with those bananas earlier?"
+[3197]                        rand "I did. But if your idea of an “attack” is to gingerly rub sanitizing solution all over my muscular body, I believe there is a disconnect between you and the ideas of true strength."
+[3198]                        s "Gross, is that really what I’ve been doing this whole time? Without any attack animations, I kind of figured it was just a beam or something."
+[3203]                        "{i}Random Karate Person dodges backwards!{/i}"
+[3205]                        rand "A beam is just some sort of ray."
+[3206]                        s "That...That one’s accurate, yeah. That’s what a beam is."
+[3207]                        rand "And a ray is nothing more than a deer without its day."
+[3208]                        s "And I’m lost again."
+[3209]                        rand "No, Akira..."
+[3210]                        rand "You {i}have{/i} lost again!"
+[3214]                        "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3215]                        "{i}Sensei has taken 10 damage!{/i}"
+[3217]                        $ karatekillpts += 1
+[3218]                        $ senseidamage += 10
+[3220]                        jump karatefight
+[3222]                    else:
+[3225]                        "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3226]                        rand "Pathetic!"
+[3229]                        "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3230]                        "{i}Sensei has taken 10 damage!{/i}"
+[3232]                        $ senseidamage += 10
+[3234]                        jump karatefight
+[3237]                    "{i}Sensei used Fertilize!{/i}"
+[3240]                    "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3241]                    rand "Pathetic!"
+[3244]                    "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3245]                    "{i}Sensei has taken 10 damage!{/i}"
+[3247]                    $ senseidamage += 10
+[3249]                    jump karatefight
+[3252]                    "{i}Sensei used Salt Spray!{/i}"
+[3255]                    "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3256]                    rand "Pathetic!"
+[3259]                    "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3260]                    "{i}Sensei has taken 10 damage!{/i}"
+[3262]                    $ senseidamage += 10
+[3264]                    jump karatefight
+[3267]                    "{i}Sensei used Fire Ball!{/i}"
+[3270]                    "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3271]                    rand "Pathetic!"
+[3274]                    "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3275]                    "{i}Sensei has taken 10 damage!{/i}"
+[3277]                    $ senseidamage += 10
+[3279]                    jump karatefight
+[3282]                    "{i}Sensei used his blowtorch!{/i}"
+[3285]                    "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3286]                    rand "Pathetic!"
+[3289]                    "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3290]                    "{i}Sensei has taken 10 damage!{/i}"
+[3292]                    $ senseidamage += 10
+[3294]                    jump karatefight
+[3297]                    "{i}Sensei used massage oil!{/i}"
+[3300]                    "{i}Random Karate Person dodges the attack with ease!{/i}"
+[3301]                    rand "Pathetic!"
+[3304]                    "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3305]                    "{i}Sensei has taken 10 damage!{/i}"
+[3307]                    $ senseidamage += 10
+[3309]                    jump karatefight
+[3311]        "Guard":
+[3313]            "{i}Sensei protects himself!{/i}"
+[3315]            if karatekillpts == 1 and bootsofforgiveness == True:
+[3316]                "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3318]                "{i}Sensei dodges the attack thanks to his Boots of Forgiveness — which have finally decided to work!{/i}"
+[3320]                s "About time."
+[3321]                rand "How strange. No one has ever dodged that attack before. How did you do it?"
+[3322]                s "An adventurer never reveals his secrets, Random Karate Person."
+[3323]                rand "You bought the Boots of Forgiveness, didn’t you?"
+[3324]                s "What? How did you-"
+[3325]                rand "Because {i}I’m{/i} the one who made them."
+[3326]                s "This is a plot twist I was both not expecting and don’t fully understand."
+[3327]                rand "They’re made of my skin."
+[3328]                s "Ew! What? I’m wearing boots made with human flesh?"
+[3329]                rand "Just the extra flesh from my ass."
+[3330]                s "I’m wearing ass boots?!"
+[3331]                rand "Ass boots...{i}of forgiveness.{/i} And I {i}forgive{/i} you for purchasing them as they were stolen from me years ago by a former pupil of mine."
+[3332]                s "So, like...how exactly do these boots allow me to dodge your-"
+[3336]                "{i}Random Karate Person attacks with Fist of Polaris!{/i}"
+[3337]                "{i}Sensei has taken 10 damage!{/i}"
+[3339]                $ senseidamage += 10
+[3341]                s "Ow! Wait your turn!"
+[3342]                rand "The boots can read my mind. But I am severing my mental connection with them now. Your tricks are now as useless as a monkey wrench in a casserole."
+[3343]                s "I can’t believe I’m still wearing these..."
+[3345]                $ karatekillpts += 1
+[3347]                jump karatefight
+[3349]            else:
+[3352]                "{i}Random Karate Person attacks with Fist of Polaris! It breaks through Sensei’s defense!{/i}"
+[3353]                "{i}Sensei has taken 10 damage!{/i}"
+[3355]                $ senseidamage += 10
+[3357]                jump karatefight
+
+===== [3360] unholycathedral =====
+[3371]    $ twinskillpts = 0
+[3373]    "{i}The Red Twins appeared!{/i}"
+[3375]    if twinsseen == True:
+[3376]        moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3377]        sev "Thank you for joining us once more in the Unholy Cathedral. My name is [[REDACTED] and I am joined by Moyo Makinamo and Akira Arakawa for another installment of Untitled Ass Kicking."
+[3378]        s "Unfortunately, {i}yours{/i} is the ass that will be kicked this time! I’ve figured out your weakness, Red Twins."
+[3379]        sev "Is such a thing even possible when you’ve yet to fully discern your own?"
+[3380]        moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3381]        s "I guess there’s only one way to find out!"
+[3383]        jump twinsfightmenu
+[3385]    else:
+[3386]        s "Oh god, you two are here as well?"
+[3387]        sev "Perhaps we are, perhaps we aren’t. There are plenty of ways for us to blend in, Akira. Plenty of ways to fit into places we do not belong."
+[3388]        sev "Could the same not be said for you, though? Wandering around with dinner on your head like you’re some sort of hero when we all know you’re anything but."
+[3389]        moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3390]        s "They have my family!"
+[3391]        sev "Who are “they?” The ones who tend the garden? Dust the cobwebs off of tombstones? Your family is no more. And at this rate, you are sure to join them."
+[3392]        s "I will defeat both of you and bring honor back to the name Arakawa."
+[3393]        sev "Honor never left {i}you.{/i} You’re the one who left it behind. And now that it’s sprouted legs and caught up with you...you’re afraid."
+[3394]        s "The only thing {i}I’m{/i} afraid of is you making me wear that dress."
+[3395]        sev "Is that you hinting at how you’d like to wear the dress? It’d be quite random otherwise."
+[3396]        s "Pfft. Absolutely not. Even if it’s kind of cold in here and I still haven’t found or equipped any armor."
+[3397]        moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3398]        s "Does that actually mean something or is she just yelling?"
+[3399]        sev "She’s saying...{i}it’s time to die.{/i}"
+[3401]        $ twinsseen = True
+[3403]        jump twinsfightmenu
+
+===== [3405] twinsfight =====
+[3406]    $ config.rollback_enabled = False
+[3408]    if senseidamage > 30:
+[3411]        sev "Have you had your fun yet?"
+[3416]        "{i}Sensei collapses to the ground! He’s bleeding out!{/i}"
+[3418]        s "Dying has...never been my idea of fun."
+[3419]        sev "Nor was it hers, but that never stopped her."
+[3420]        sev "Give into the blackness that reaches out to envelop you."
+[3426]        sev "Moyo and I will take very good care of your corpse..."
+[3427]        moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3429]        "{i}Before the remainder of life fades from him, Sensei can make out the feeling of both oversized and undersized hands exploring his lower body...{/i}"
+[3430]        "{i}He has failed...{/i}"
+[3431]        "........."
+[3432]        "......"
+[3433]        "..."
+[3439]        $ senseidamage = 0
+[3441]        "{i}You somehow manage to respawn in Fucklador.{/i}"
+[3442]        "{i}Your hospital bill will be sent to you later.{/i}"
+[3444]        $ config.rollback_enabled = True
+[3446]        jump gameworldmainhub
+[3448]    else:
+[3449]        jump twinsfightmenu
+[3451]    menu twinsfightmenu:
+[3452]        "Attack":
+[3453]            menu:
+[3454]                "Tackle":
+[3455]                    "{i}Sensei used Tackle!{/i}"
+[3456]                    "{i}It didn’t work...{/i}"
+[3457]                    sev "Open wide."
+[3459]                    "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3463]                    "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3465]                    $ senseidamage += 10
+[3469]                    "{i}Moyo is looking at bugs.{/i}"
+[3471]                    jump twinsfight
+[3474]                    "{i}Sensei used Venom Spit!{/i}"
+[3475]                    "{i}It didn’t work...{/i}"
+[3476]                    sev "Open wide."
+[3478]                    "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3482]                    "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3484]                    $ senseidamage += 10
+[3488]                    "{i}Moyo is looking at bugs.{/i}"
+[3490]                    jump twinsfight
+[3493]                    "{i}Sensei used Banana Blast!{/i}"
+[3494]                    "{i}It didn’t work...{/i}"
+[3495]                    sev "Open wide."
+[3497]                    "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3501]                    "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3503]                    $ senseidamage += 10
+[3507]                    "{i}Moyo is looking at bugs.{/i}"
+[3509]                    jump twinsfight
+[3512]                    "{i}Sensei used Bubble Beam!{/i}"
+[3513]                    "{i}It didn’t work...{/i}"
+[3514]                    sev "Open wide."
+[3516]                    "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3520]                    "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3522]                    $ senseidamage += 10
+[3526]                    "{i}Moyo is looking at bugs.{/i}"
+[3528]                    jump twinsfight
+[3531]                    "{i}Sensei used Sanitize!{/i}"
+[3533]                    if twinskillpts == 3:
+[3534]                        "{i}But no amount of sanitization will ever wash away the fact that he just drank his own cum!{/i}"
+[3536]                        s "I seriously can’t believe I had to do that in order to progress."
+[3537]                        sev "There are many things you shouldn’t believe — words of those who were never meant to speak, yet still managed to color outside of the lines and deliver their message to you."
+[3538]                        sev "You will never escape, Akira. It doesn’t matter how many of us you slay or conquer."
+[3539]                        sev "You’re a hamster on a wheel. You only {i}think{/i} you’re going somewhere. But the powers that be have you right where they want you."
+[3540]                        sev "And without the assistance of The Hyphenated One, you are even more doomed than ever before."
+[3541]                        s "If I knew this tone shift was coming, I would have used Guard instead."
+[3542]                        sev "Thankfully for you, you shan’t deal with it any longer."
+[3543]                        sev "Come, Moyo. We must feed ourselves to the Dark Entity."
+[3544]                        sev "It must be done to progress Sensei-Quest."
+[3549]                        moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3551]                        "{i}Moyo’s {b}Angelic Words{/b} burn Sensei’s ears!{/i}"
+[3552]                        "{i}He takes 10 damage!{/i}"
+[3554]                        $ senseidamage += 10
+[3560]                        "{i}But it doesn’t matter! The Red Twins have escaped!{/i}"
+[3564]                        "{i}Sensei wins!{/i}"
+[3566]                        s "But...my orb?"
+[3568]                        "{i}There’s a twinkle on the ground — one that looks a bit like a star.{/i}"
+[3572]                        "{i}Sensei has obtained the Orb of Red!{/i}"
+[3574]                        s "..."
+[3575]                        s "..."
+[3576]                        s "..."
+[3581]                        s "Uhh..."
+[3582]                        s "I guess I’m...done here then?"
+[3588]                        "{i}Sensei returns to Fucklador! His erection is still present!{/i}"
+[3590]                        $ redorb = True
+[3591]                        $ senseidamage = 0
+[3592]                        $ config.rollback_enabled = True
+[3594]                        s "Wait. I know how to fix this."
+[3598]                        "{i}Sensei ejaculates into the Steel Bucket again!{/i}"
+[3600]                        s "What do you know? I’m getting a lot of use out of this thing after all."
+[3602]                        jump gameworldmainhub
+[3604]                    else:
+[3605]                        "{i}It didn’t work...{/i}"
+[3606]                        sev "Open wide."
+[3608]                        "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3612]                        "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3614]                        $ senseidamage += 10
+[3618]                        "{i}Moyo is looking at bugs.{/i}"
+[3620]                        jump twinsfight
+[3623]                    "{i}Sensei used Fertilize!{/i}"
+[3625]                    if twinskillpts == 1:
+[3627]                        sev "Aah..."
+[3629]                        "{i}His penis penetrates 79 6f 75 64 69 64 69 74 with ease!{/i}"
+[3630]                        "{i}He feels something crawl across it from the inside?...{/i}"
+[3632]                        sev "Such a naughty boy. Did my {b}Hands of God{/b} not do the trick? Or does violence excite you the way it does me?"
+[3633]                        s "This...isn’t for pleasure..."
+[3634]                        s "This is...an attack!"
+[3635]                        sev "Oh? But it doesn’t hurt at all. And I’m not the type who can be fucked into submission."
+[3636]                        sev "Moyo on the other hand..."
+[3641]                        moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3642]                        sev "She’d do anything for a taste of your milk."
+[3643]                        s "I’m not...attempting to do physical damage!"
+[3644]                        s "I’m...attempting to...deal mental damage in the form of an unwanted pregnancy!"
+[3645]                        s "That is...how I use Fertilize!"
+[3646]                        sev "Use it {i}harder...{/i}"
+[3647]                        sev "I will take everything from you. Even that which you are unwilling to give."
+[3652]                        moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3654]                        "{i}Moyo’s {b}Angelic Words{/b} burn Sensei’s ears!{/i}"
+[3655]                        "{i}He takes 10 damage!{/i}"
+[3657]                        $ senseidamage += 10
+[3658]                        $ twinskillpts += 1
+[3660]                        jump twinsfight
+[3662]                    else:
+[3663]                        "{i}It didn’t work...{/i}"
+[3664]                        sev "Open wide."
+[3666]                        "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3670]                        "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3672]                        $ senseidamage += 10
+[3676]                        "{i}Moyo is looking at bugs.{/i}"
+[3678]                        jump twinsfight
+[3681]                    "{i}Sensei used Salt Spray!{/i}"
+[3682]                    "{i}It didn’t work...{/i}"
+[3683]                    sev "Open wide."
+[3685]                    "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3689]                    "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3691]                    $ senseidamage += 10
+[3695]                    "{i}Moyo is looking at bugs.{/i}"
+[3697]                    jump twinsfight
+[3700]                    "{i}Sensei used Fire Ball!{/i}"
+[3701]                    "{i}It didn’t work...{/i}"
+[3702]                    sev "Open wide."
+[3704]                    "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3708]                    "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3710]                    $ senseidamage += 10
+[3714]                    "{i}Moyo is looking at bugs.{/i}"
+[3716]                    jump twinsfight
+[3719]                    "{i}Sensei used his blowtorch!{/i}"
+[3720]                    "{i}It didn’t work...{/i}"
+[3721]                    sev "Open wide."
+[3723]                    "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3727]                    "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3729]                    $ senseidamage += 10
+[3733]                    "{i}Moyo is looking at bugs.{/i}"
+[3735]                    jump twinsfight
+[3738]                    "{i}Sensei used massage oil!{/i}"
+[3740]                    if twinskillpts == 0:
+[3741]                        sev "Oooh...what’s this? Are we playing a different game now?"
+[3742]                        s "This is a special brand of massage oil that is supposed to weaken you. Probably."
+[3744]                        "{i}Sensei lathers the body of 79 6f 75 64 69 64 69 74 in oil! She shivers with delight!{/i}"
+[3746]                        sev "Yes...I think I could use some more."
+[3747]                        s "That’s strange...you don’t seem any weaker."
+[3748]                        sev "Perhaps Moyo will react differently?"
+[3750]                        "{i}Sensei lathers the body of Moyo Makinamo in oil!{/i}"
+[3755]                        "{i}She cums!{/i}"
+[3757]                        s "This oil isn’t working the way it’s supposed to. I’m going to have to ask for a refund."
+[3758]                        sev "Perhaps we just need more?"
+[3759]                        s "No, ew. Stop. Your body’s really disproportionate and it’s creeping me out. Just die already. And stop appearing in weird events pretending to be important."
+[3762]                        "{i}79 6f 75 64 69 64 69 74 reaches forward and attacks with Handjob!{/i}"
+[3764]                        s "Ngh!"
+[3765]                        sev "There, there...let it all out..."
+[3766]                        sev "Give us enough and we may even hand over the item you’re looking for over."
+[3767]                        s "I...will obtain the orb...the way I’m supposed to!"
+[3774]                        s "NGAAAAH!"
+[3776]                        "{i}Sensei cums so hard that he takes 10 damage!{/i}"
+[3778]                        s "Fuck!"
+[3779]                        sev "If that’s what you so desire."
+[3781]                        $ twinskillpts += 1
+[3782]                        $ senseidamage += 10
+[3784]                        jump twinsfight
+[3786]                    else:
+[3787]                        "{i}It didn’t work...{/i}"
+[3788]                        sev "Open wide."
+[3790]                        "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3794]                        "{i}Sensei is poisoned by the fumes! He takes 10 damage!{/i}"
+[3796]                        $ senseidamage += 10
+[3800]                        "{i}Moyo is looking at bugs.{/i}"
+[3802]                        jump twinsfight
+[3804]        "Guard":
+[3806]            "{i}Sensei protects himself!{/i}"
+[3808]            if twinskillpts == 2 and steelbucket == True:
+[3809]                "{i}His dick is about to erupt!{/i}"
+[3811]                s "My dick is WHAT?"
+[3813]                "{i}About to erupt!{/i}"
+[3815]                s "???!!!??!!???!!??!!??"
+[3817]                sev "Your erection has been steadily growing throughout the entire battle. It’s likely due to my {b}Mantis Eyes.{/b}"
+[3818]                s "You two have...too many abilities! I don’t want to erupt!"
+[3819]                sev "You’ll erupt over and over...every time you come here to challenge us. Your seed only increases our power."
+[3820]                s "Then all I have to do is...keep it away from you!"
+[3822]                "{i}Sensei uses Steel Bucket to catch his eruption!{/i}"
+[3827]                moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3829]                "{i}Moyo Makinamo is enraging!{/i}"
+[3831]                sev "Uh-oh. Moyo seems a bit perturbed that you’d send her to bed without dinner."
+[3833]                "{i}Moyo lunges forward! She is trying to steal the Steel Bucket!{/i}"
+[3835]                s "Stop! I paid good money for this!"
+[3837]                sev "She’ll catch you sooner or later. There’s no way to hide your cum from a hungry Makinamo."
+[3838]                s "There is...one way!"
+[3839]                sev "Oh?"
+[3844]                "{i}Sensei has consumed his own cum from the Steel Bucket!{/i}"
+[3846]                s "This isn’t the time to play that sound clip! That was really gross!"
+[3848]                sev "I have never been more turned on than I am right now."
+[3853]                moyo "^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
+[3855]                "{i}Moyo has stopped enraging.{/i}"
+[3857]                $ twinskillpts += 1
+[3859]                jump twinsfight
+[3861]            else:
+[3862]                sev "Open wide."
+[3864]                "{i}79 6f 75 64 69 64 69 74 used Rotbreath!{/i}"
+[3868]                "{i}Sensei manages to shield himself from some of the fumes! He takes 5 damage!{/i}"
+[3870]                $ senseidamage += 5
+[3874]                "{i}Moyo Makinamo uses Shriek!{/i}"
+[3876]                "{i}Sensei takes 5 damage!{/i}"
+[3878]                $ senseidamage += 5
+[3880]                jump twinsfight
+
+===== [3883] developerisland =====
+[3893]    $ fredkillpts = 0
+[3894]    $ senseidamage = 0
+[3896]    "{i}Fred appeared!{/i}"
+[3897]    "{i}He tips his hat at you.{/i}"
+
+===== [3899] fredfight =====
+[3900]    $ config.rollback_enabled = False
+[3902]    if senseidamage > 100:
+[3905]        s "He’s...too...strong!"
+[3911]        "{i}Sensei collapses to the ground, unable to breathe.{/i}"
+[3912]        "{i}As the light fades from his eyes, he curses Fred.{/i}"
+[3913]        "{i}Fred merely tips his hat in response...{/i}"
+[3914]        "........."
+[3915]        "......"
+[3916]        "..."
+[3922]        $ senseidamage = 0
+[3924]        "{i}You somehow manage to respawn in Fucklador.{/i}"
+[3925]        "{i}Fred is certainly a force to be reckoned with.{/i}"
+[3927]        $ config.rollback_enabled = True
+[3929]        jump gameworldmainhub
+[3931]    else:
+[3932]        jump fredfightmenu
+[3934]    menu fredfightmenu:
+[3935]        "Attack":
+[3936]            menu:
+[3937]                "Tackle":
+[3938]                    "{i}Sensei used Tackle!{/i}"
+[3940]                    if fredkillpts == 0:
+[3944]                        "{i}A direct hit!{/i}"
+[3945]                        "{i}Fred picks himself up off the ground and dusts his clothes off before tipping his hat at you.{/i}"
+[3946]                        "{i}It doesn’t hurt...this time.{/i}"
+[3948]                        $ fredkillpts += 1
+[3950]                        jump fredfight
+[3952]                    if fredkillpts == 10 and swordofhope == True:
+[3956]                        "{i}A direct hit!{/i}"
+[3962]                        "{i}Fred has fallen!{/i}"
+[3963]                        "{i}You have killed an innocent man!{/i}"
+[3965]                        $ senseidamage = 0
+[3966]                        $ fredisdead = True
+[3967]                        $ config.rollback_enabled = True
+[3971]                        "{b}{size=+20}YOU WILL PAY FOR WHAT YOU’VE DONE.{/b}{/size}"
+[3973]                        jump postfreddeathscene
+[3975]                    else:
+[3976]                        "{i}It has no effect...{/i}"
+[3977]                        "{i}Fred tips his hat!{/i}"
+[3982]                        "{i}Sensei takes 50 damage!{/i}"
+[3984]                        $ senseidamage += 50
+[3986]                        jump fredfight
+[3989]                    "{i}Sensei used Venom Spit!{/i}"
+[3991]                    if fredkillpts == 4:
+[3995]                        "{i}A direct hit!{/i}"
+[3996]                        "{i}But why did it make a slapping noise?...{/i}"
+[3997]                        "{i}Fred picks himself up off the ground, also confused by this, and dusts his clothes off before tipping his hat at you.{/i}"
+[3998]                        "{i}He’s starting to feel a little upset about all of these attacks...{/i}"
+[4000]                        $ fredkillpts += 1
+[4002]                        jump fredfight
+[4004]                    else:
+[4005]                        "{i}Fred opens his mouth and swallows the venom!{/i}"
+[4007]                        s "What?"
+[4009]                        "{i}Fred tips his hat!{/i}"
+[4014]                        "{i}Sensei takes 50 damage!{/i}"
+[4016]                        $ senseidamage += 50
+[4018]                        jump fredfight
+[4021]                    "{i}Sensei used Banana Blast!{/i}"
+[4023]                    if fredkillpts == 7:
+[4027]                        "{i}A direct hit!{/i}"
+[4028]                        "{i}Fred picks himself up off the ground, swipes away a few bananas, and dusts his clothes off before tipping his hat at you.{/i}"
+[4029]                        "{i}It doesn’t hurt...this time.{/i}"
+[4031]                        $ fredkillpts += 1
+[4033]                        jump fredfight
+[4035]                    else:
+[4036]                        "{i}Nothing happened...{/i}"
+[4037]                        "{i}Fred tips his hat!{/i}"
+[4042]                        "{i}Sensei takes 50 damage!{/i}"
+[4044]                        $ senseidamage += 50
+[4046]                        jump fredfight
+[4049]                    "{i}Sensei used Bubble Beam!{/i}"
+[4050]                    "{i}It has no effect...{/i}"
+[4051]                    "{i}Fred tips his hat!{/i}"
+[4056]                    "{i}Sensei takes 50 damage!{/i}"
+[4058]                    $ senseidamage += 50
+[4060]                    jump fredfight
+[4063]                    "{i}Sensei used Sanitize!{/i}"
+[4065]                    if fredkillpts == 5:
+[4069]                        "{i}Both he and Fred are so clean now!{/i}"
+[4070]                        "{i}Fred tips his hat, as if to say thanks.{/i}"
+[4072]                        $ fredkillpts += 1
+[4074]                        jump fredfight
+[4076]                    else:
+[4077]                        "{i}Fred tips his hat!{/i}"
+[4082]                        "{i}Sensei takes 50 damage!{/i}"
+[4084]                        $ senseidamage += 50
+[4086]                        jump fredfight
+[4089]                    "{i}Sensei used Fertilize!{/i}"
+[4090]                    "{i}It has no effect...{/i}"
+[4091]                    "{i}Fred tips his hat!{/i}"
+[4096]                    "{i}Sensei takes 50 damage!{/i}"
+[4098]                    $ senseidamage += 50
+[4100]                    jump fredfight
+[4103]                    "{i}Sensei used Salt Spray!{/i}"
+[4104]                    "{i}It has no effect...{/i}"
+[4105]                    "{i}Fred tips his hat!{/i}"
+[4110]                    "{i}Sensei takes 50 damage!{/i}"
+[4112]                    $ senseidamage += 50
+[4114]                    jump fredfight
+[4117]                    "{i}Sensei used Fire Ball!{/i}"
+[4119]                    if fredkillpts == 2:
+[4123]                        "{i}A direct hit!{/i}"
+[4124]                        "{i}Fred picks himself up off the ground and dusts his clothes off before tipping his hat at you.{/i}"
+[4125]                        "{i}It doesn’t hurt...this time.{/i}"
+[4127]                        $ fredkillpts += 1
+[4129]                        jump fredfight
+[4131]                    if fredkillpts == 8:
+[4135]                        "{i}A direct hit!{/i}"
+[4136]                        "{i}Fred picks himself up off the ground and dusts his clothes off before tipping his hat at you.{/i}"
+[4137]                        "{i}It doesn’t hurt...this time.{/i}"
+[4139]                        $ fredkillpts += 1
+[4141]                        jump fredfight
+[4143]                    else:
+[4144]                        "{i}Fred reaches down to pick a coin off the ground, accidentally dodging the attack in the process!{/i}"
+[4145]                        "{i}Fred tips his hat!{/i}"
+[4150]                        "{i}Sensei takes 50 damage!{/i}"
+[4152]                        $ senseidamage += 50
+[4154]                        jump fredfight
+[4157]                    "{i}Sensei used his blowtorch!{/i}"
+[4158]                    "{i}It has no effect...{/i}"
+[4159]                    "{i}Fred tips his hat!{/i}"
+[4164]                    "{i}Sensei takes 50 damage!{/i}"
+[4166]                    $ senseidamage += 50
+[4168]                    jump fredfight
+[4171]                    "{i}Sensei used massage oil!{/i}"
+[4173]                    if fredkillpts == 1:
+[4174]                        "{i}Fred loves massages!{/i}"
+[4175]                        "{i}He thanks you for the oil with a polite tip of his hat.{/i}"
+[4177]                        $ fredkillpts += 1
+[4179]                        jump fredfight
+[4181]                    else:
+[4182]                        "{i}Fred doesn’t want a massage right now...{/i}"
+[4183]                        "{i}Fred tips his hat!{/i}"
+[4188]                        "{i}Sensei takes 50 damage!{/i}"
+[4190]                        $ senseidamage += 50
+[4192]                        jump fredfight
+[4194]        "Guard":
+[4196]            "{i}Sensei protects himself!{/i}"
+[4198]            if fredkillpts == 3 and shieldofresistance == True:
+[4199]                "{i}Fred tips his hat!{/i}"
+[4204]                "{i}Sensei avoids taking damage!{/i}"
+[4206]                $ fredkillpts += 1
+[4208]                jump fredfight
+[4210]            if fredkillpts == 6 and bootsofforgiveness == True:
+[4211]                "{i}Fred tips his hat!{/i}"
+[4216]                "{i}Sensei avoids taking damage!{/i}"
+[4218]                $ fredkillpts += 1
+[4220]                jump fredfight
+[4222]            if fredkillpts == 9 and steelbucket == True:
+[4223]                "{i}Fred tips his hat!{/i}"
+[4228]                "{i}Sensei avoids taking damage!{/i}"
+[4230]                $ fredkillpts += 1
+[4232]                jump fredfight
+[4234]            else:
+[4235]                "{i}Fred politely smiles!{/i}"
+[4237]                jump fredfight

@@ -1,0 +1,126 @@
+[35]                style_prefix "tracker"
+[36]                if roomwithtrack == True:
+[38]                        text_style "modmybutton"
+[40]                else:
+[42]                if letterttrack == True:
+[44]                        text_style "modmybutton"
+[46]                else:
+[48]                if swimmingtrack == True:
+[50]                        text_style "modmybutton"
+[52]                elif amidorm10 == True and amifingered == False:
+[54]                else:
+[56]                if howifeeltrack == True:
+[58]                        text_style "modmybutton"
+[60]                else:
+[62]                if connecttrack == True:
+[64]                        text_style "modmybutton"
+[66]                elif day103 == True and connecttrack == False:
+[68]                else:
+[70]                if specialclassroomtrack == True:
+[72]                        text_style "modmybutton"
+[74]                elif amisroom15 == True and amifingered == False:
+[76]                else:
+[78]                if ticktocktrack == True:
+[80]                        text_style "modmybutton"
+[82]                else:
+[84]                if trinity1track == True:
+[86]                        text_style "modmybutton"
+[88]                else:
+[90]                if trinity2track == True:
+[92]                        text_style "modmybutton"
+[94]                else:
+[96]                if trinity3track == True:
+[98]                        text_style "modmybutton"
+[100]                else:
+[102]                if babyfinches == True:
+[104]                        text_style "modmybutton"
+[106]                elif babyfinches == False and hoorayanotherreset == True:
+[108]                else:
+[110]                if lesson1 == True:
+[112]                        text_style "modmybutton"
+[114]                elif lesson1 == False and thirdreset1 == True:
+[116]                else:
+[118]                if goodboy == True:
+[120]                        text_style "modmybutton"
+[122]                elif sarabar25 == True and anewkey == False and goodboy == False:
+[124]                else:
+[126]                if lamblegs == True:
+[128]                        text_style "modmybutton"
+[130]                elif returntosummer2 == True and anewkey == False:
+[132]                else:
+[134]                if buckettrack == True:
+[136]                        text_style "modmybutton"
+[138]                else:
+[140]                if mothersmilk == True:
+[142]                        text_style "modmybutton"
+[144]                elif mothersmiss == True:
+[146]                else:
+[148]                if amyevent == True:
+[150]                        text_style "modmybutton"
+[152]                else:
+[154]                if rainking == True:
+[156]                        text_style "modmybutton"
+[158]                elif rainkingmiss == True:
+[160]                else:
+[162]                if armsbenttrack == True:
+[164]                        text_style "modmybutton"
+[166]                elif rainkingmiss == True:
+[168]                else:
+[170]                if kyotoevent == True:
+[172]                        text_style "modmybutton"
+[174]                elif rainkingmiss == True:
+[176]                else:
+[178]                if persistent.alexisevent == True:
+[180]                        text_style "modmybutton"
+[182]                else:
+[184]                if swimtrip2 == True:
+[186]                        text_style "modmybutton"
+[188]                else:
+[195]                style_prefix "tracker"
+[197]                if show_hints == True and show_happy_hints and not _in_replay:
+[200]                    if roomwithtrack == False and roomwithclocks:
+[202]                    else:
+[206]                    if letterttrack == False and lettert:
+[208]                    else:
+[212]                    if swimmingtrack == False and swimming:
+[214]                    else:
+[218]                    if howifeeltrack == False and howifeel:
+[220]                    else:
+[224]                    if connecttrack == False and soccer10:
+[226]                    else:
+[230]                    if specialclassroomtrack == False and specialclassroom:
+[232]                    else:
+[236]                    if ticktocktrack == False and ticktock:
+[238]                    else:
+[242]                    if trinity1track == False and trinity:
+[244]                    else:
+[248]                    if trinity2track == False and trinity2:
+[250]                    else:
+[254]                    if trinity3track == False and trinity3:
+[256]                    else:
+[260]                    if babyfinches == False and day218 and hoorayanotherreset == False:
+[262]                    else:
+[266]                    if lesson1 == False and day340 and thirdreset1 == False:
+[268]                    else:
+[272]                    if sarabar25 and anewkey == True and goodboy == False:
+[274]                    else:
+[278]                    if returntosummer1 and returntosummer2 == False:
+[280]                    else:
+[284]                    if chinamidate30 and buckettrack == False:
+[286]                    else:
+[290]                    if slumberreset3 and mothersmilk == False:
+[292]                    else:
+[296]                    if naospecial3 and amyevent == False:
+[298]                    else:
+[302]                    if halloweenfour16 and rainking == False:
+[304]                    else:
+[308]                    if beachfive16 and armsbenttrack == False:
+[310]                    else:
+[314]                    if halloweenkaori2 and kyotoevent == False:
+[316]                    else:
+[320]                    if naospecial3 and persistent.alexisevent == False:
+[322]                    else:
+[326]                    if beachsix6 and swimtrip2 == False:
+[328]                    else:
+[334]            if dark_mode:
+[336]            else:

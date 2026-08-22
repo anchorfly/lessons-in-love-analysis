@@ -1,0 +1,31 @@
+
+===== [1] after_load =====
+[2]    if christmastwo19 and not christmastwo18:
+[3]        $ christmastwo18 = True
+[4]    if secondbeach5 and not secondbeach4:
+[5]        $ secondbeach4 = True
+[6]    if christmastwo19 and mollysad:
+[7]        $ mollysad = False
+[8]    if sadgirls8 == True and makotolust30 == False:
+[9]        $ makotolust30skip = True
+[10]    if sanapic1read == True:
+[11]        $ sananumber = True
+[12]    if tsukasarefused and tsukasacurious:
+[13]        $ tsukasacurious = False
+[14]        $ tsukasaspring4 = False
+[15]        $ tsukasaspring4skip = True
+[16]    if mayablock and christmasfive8:
+[17]        $ mayablock = False
+[18]    if dormwarsfive14 == True and nodokathontwo3 == False:
+[19]            $ ayanespring2miss = True
+[20]            $ saraspring3miss = True
+[21]            $ saraspring4miss = True
+[22]            $ saraspring5miss = True
+[23]    if saraspring2 == True and saraspring2miss == True:
+[24]            $ saraspring2miss = False
+[25]    if chikaspring8 == True and tsukasaspring5miss == True:
+[26]        $ tsubasaspring4miss = True
+[27]        $ tsubasaspring5miss = True
+[28]        $ tsukasaspring6miss = True
+[29]    if undeservedfuture18 == True and armsbenttrack == False:
+[30]        $ armsbentmiss = True

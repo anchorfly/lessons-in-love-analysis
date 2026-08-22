@@ -15,13 +15,14 @@
 | `01_系统与机制文件精读.md` | 19 个系统文件的机制、变量、解锁表与系统层元叙事 | Phone/PhoneStyles/definitions/screens/gui/options/setup/replace/autopatch/checker/newchecker/happytracker/headpatcentral/unlockables/dlcmenu/jukebox/mathhomework/carepackages/profile_outfits |
 | `02_特殊内容与迷你游戏文件精读.md` | 6 个特殊文件：废案、Build-A-Maya、Sensei-Quest、图片/动画/成人内容主文件 | deletedscenes/flowers/senseiquest/nudes/animatedscenes/inappropriatecontent |
 | `03_章节泛型与USER机制溯源.md` | 章节泛型日常与第四章枢纽调度器；USER1–4 全局溯源 | chap3generics/chap4generics/chap4hub + 全局 grep |
-| `03b_USER3与pareidolia源文分析.md` | USER3=pareidolia 的闭合证据链；三种叙述声音分离判据 | script/chap3/SanaEvents 定点 |
+| `../workbuddy分析/USER3与pareidolia源文分析.md`（原 03b，已迁出） | USER3=pareidolia 的闭合证据链；三种叙述声音分离判据 | script/chap3/SanaEvents 定点 |
 | `04_主线剧情全梳理与分析.md` | 主线六章逐 label 剧情详述、重置年表、谜团解析（复制自根目录《剧情全梳理与分析.md》） | script/ch2script/chap3/finalwarning/chap4/chap4part2 |
 | `05_好叔叔与坏叔叔分支全对照.md` | 好/坏叔叔双路线全对照：amifingered/ami_virgin 双 flag 机制、Ami 线与跨角色（约 100 处引用）两版剧情、系统层惩罚（Maya 神社线门控）、整体画像 | 全库相关分支点 |
-| `06_系统层文本母题表.md` | 全库"系统在叙事内部现身"的修辞速查表（终端广播体/USER 播报/hex 码等，均附行号），与 01、03b 互补 | 全库扫描 |
+| `../workbuddy分析/系统层文本母题表.md`（原 06，已迁出） | 全库"系统在叙事内部现身"的修辞速查表（终端广播体/USER 播报/hex 码等，均附行号），与 01、03b 互补 | 全库扫描 |
 | `07_careCode场景解说精读.md` | 开发者 Selebus 的 8 篇 DVD 式场景解说（Prisoner/Stray Cat/Bluejay/Delirium/This Town Has Two Halves/Too Blind to See/Times New Roman/Il Cervo）逐篇精读，联系原事件本体定位与互证，横贯创作观与伏笔总线索 | 上级 `LIL/careCode/` 的 commentary label |
-| `人物事件线/人物事件线全梳理.md` | 39 个 Events 文件的汇总：三层世界观、觉醒者网络、全员索引、未解伏笔、母题词典 | 全部角色支线 |
-| `人物事件线/<角色名>.md` ×37 | 单角色精读：基本盘/love 线/lust 线/主线咬合点/未解伏笔/label 总表 | 各 `*Events.rpy` |
+| `../workbuddy分析/主线章节脚本精读.md`（WorkBuddy 产出） | ch2script/chap3/chap4 三章核心 meta 弧定向精读：thirdreset1–3、slumberreset1–5、endofgameworld、postfreddeathscene 起源场景等 | 三大章节脚本 |
+| `../workbuddy分析/人物事件线/人物事件线全梳理.md`（已迁出） | 39 个 Events 文件的汇总：三层世界观、觉醒者网络、全员索引、未解伏笔、母题词典 | 全部角色支线 |
+| `../workbuddy分析/人物事件线/<角色名>.md` ×37（已迁出） | 单角色精读：基本盘/love 线/lust 线/主线咬合点/未解伏笔/label 总表 | 各 `*Events.rpy` |
 
 ---
 
@@ -48,9 +49,9 @@
 | `chap4generics.rpy` | 65 label | 63 个春季泛型 ＋ alexisevent（故障角色喊 "WE EXIST OUTSIDE" 后被系统以 "lungrot" 抹除） |
 | `chap4hub.rpy` | 17 label | **第四章玩法骨架**：三时段事件门按"星期+flag 链"投放；dellaslump（"The worm grows."）强制照顾 Ami 开场；37 女达标触发宿舍战争 VI |
 
-### 2.3 角色事件文件（37 个）→ 详见 `人物事件线/`
+### 2.3 角色事件文件（37 个）→ 详见 `../workbuddy分析/人物事件线/`
 
-每个文件 0.2–1.4MB，love/lust 双数值阶梯解锁。关键交叉点浓缩表（详见 `人物事件线/人物事件线全梳理.md` §四）：
+每个文件 0.2–1.4MB，love/lust 双数值阶梯解锁。关键交叉点浓缩表（详见 `../workbuddy分析/人物事件线/人物事件线全梳理.md` §四）：
 
 | 角色组 | 角色（★=元叙事核心） |
 |---|---|
@@ -91,8 +92,8 @@
 | 路径 | 说明 |
 |---|---|
 | `images/` | CG/背景/缩略图资源（BGs 含 dorm2frinodokagone、dormmonyumigone 等"缺席状态"背景，本身是剧情证据）；webp 需转码查看 |
-| `_tools/digest_events.py` | 自研 Ren'Py→可读摘要脚本（label+行号+对话+跳转，lust 类截断） |
-| `_tmp_match/` | 中间产物区（digest 文本＋精读过程稿），正式成果已并入本区（主线精读/ch4 报告被 04 覆盖，母题表并入 06，其余为工具与草稿） |
+| `../workbuddy分析/` | **WorkBuddy 产出专区**：人物事件线（37 角色精读＋全梳理）、USER3/pareidolia 源文分析、系统层文本母题表、主线章节脚本精读 |
+| ~~`_tools/digest_events.py`、`_tmp_match/`~~ | 中间产物区已删除：digest 文本与工具脚本随整理清理，正式成果分别并入本区与 `../workbuddy分析/` |
 | `.workbuddy/memory/` | 跨会话工作日志（方法与进度记录） |
 | `.git/`、`.gitignore`、根目录 `README.md` | git 双仓库基础设施（公开文档仓＋私有全量快照仓） |
 | 根目录《剧情全梳理与分析.md》《选择分析帖-全文翻译.md》 | 前者为 04 的原件（保留不动）；后者为 F95 论坛 CharlotteWiltshire26"选择"分析长文的全文翻译（外部社区分析，参考资料，非游戏源文） |

@@ -1,0 +1,2773 @@
+
+===== [1] resetsix1 =====
+[2]    $ day = 1
+[10]    "Maya disappears, but I manage to find my way back home all by myself."
+[11]    "I’m still hungry, so I should probably think about making dinner."
+[12]    "The only problem is that, with Ami gone, doing that could take forever! And this house has limited ingredients!"
+[13]    "If only there was someone who could show up and tell me what I’m supposed to do or how I’m supposed to do it."
+[15]    s "..."
+[16]    s "..."
+[17]    s "..."
+[19]    s "{i}I said...{/i}if only there was someone who could show up and tell me what I’m supposed to do or how I’m supposed to do it. "
+[21]    "..."
+[22]    "..."
+[23]    "..."
+[24]    "Hmm...shoot. It seems I won’t be able to narrate myself out of this one."
+[25]    "I guess I’ll just have to rely on the puzzle-solving skills I’ve gained throughout my time here so far and-"
+[29]    "Oh! Never mind! It looks like someone is here to help me after all."
+[33]    vpa "Today is Monday. The weather outside is currently ninety-four degrees Fahrenheit. "
+[34]    vpa "There is a 30%% chance of rain around 1:00 PM, with scattered showers forecasted to appear at 9:00 PM and continue throughout the night."
+[35]    vpa "You are happy here. There is no reason for you to ever leave."
+[36]    vpa "The world outside is dark and dreary and it is there where you will hurt the most."
+[37]    vpa "Remember to smile, Akira Arakawa. Be content within these walls."
+[38]    vpa "For the moment you leave them, your world will break apart. "
+[39]    vpa "And you are far too weak to ever put it back together."
+[44]    "Wow, that sounds ominous."
+[45]    "How do I want to spend my day?"
+[47]    menu escaperoommainmenu:
+[48]        "Check the kitchen":
+[49]            jump escaperoomkitchen
+[50]        "Check the door":
+[51]            jump escaperoomdoor
+[52]        "Live happily":
+[53]            jump escaperoomlive
+[54]        "Use the computer":
+[55]            jump escaperoomcomputer
+[57]            jump escaperoomcellmenu
+[58]        "Go to sleep":
+[59]            jump escaperoomsleep
+
+===== [61] escaperoomlive =====
+[62]    menu:
+[64]            jump escaperoomtrash
+[66]            jump escaperoomrabbit
+[68]            jump escaperoomfreezer
+[70]            jump escaperoomfridge
+[71]        "Top shelves":
+[72]            jump escaperoomtopshelves
+[74]            jump escaperoommicrowave
+[76]            jump escaperoomcoffee
+[78]            jump escaperoombotleft
+[80]            jump escaperoombotright
+[82]            jump escaperoomfloor
+[83]        "Schedule":
+[84]            jump escaperoomschedule
+[85]        "Television":
+[86]            jump escaperoomtv
+
+===== [88] escaperoomkitchen =====
+[92]    menu escaperoomkitchenmenu:
+[93]        "Check the main room":
+[96]            jump escaperoommainmenu
+[98]            jump escaperoomhotpot
+[100]            jump escaperoomlover
+[101]        "Use Ami’s computer":
+[102]            jump escaperoomamipc
+[104]            jump escaperoomcellmenu
+[105]        "Go to sleep":
+[106]            jump escaperoomsleep
+
+===== [108] escaperoomsleep =====
+[109]    s "Time to hit the hay."
+[114]    "I collapse into my chair at the table and close my eyes."
+[115]    "I stopped using the bed a long time ago."
+[116]    "It’s too full of memories of her."
+[118]    "........."
+[119]    "......"
+[120]    "..."
+[122]    jump escaperoomdaychange
+
+===== [124] escaperoomdaychange =====
+[125]    if day == 1:
+[128]        $ day = 2
+[129]    elif day == 2:
+[132]        $ day = 3
+[133]    elif day == 3:
+[136]        $ day = 4
+[137]    elif day == 4:
+[140]        $ day = 5
+[141]    elif day == 5:
+[144]        $ day = 6
+[145]    elif day == 6:
+[148]        $ day = 7
+[149]    elif day == 7:
+[152]        $ day = 1
+[157]    "Today is a new day."
+[158]    "I wonder what sort of adventure it will bring?"
+[160]    jump escaperoommainmenu
+
+===== [162] escaperoomdoor =====
+[166]    menu escaperoomdoormenu:
+[167]        "Check the main room":
+[170]            jump escaperoommainmenu
+[171]        "Look down":
+[172]            jump escaperoomdelivery
+[174]            jump escaperoomvent
+[175]        "Check the lockers":
+[176]            jump escaperoomlockers
+[178]            jump escaperoomexit
+[180]            jump escaperoomcellmenu
+[181]        "Go to sleep":
+[182]            jump escaperoomsleep
+
+===== [184] escaperoomcomputer =====
+[185]    if escapepcunlocked == False:
+[188]        "Shoot. It looks like the computer requires a password."
+[189]        "I hope I can remember it."
+[191]        jump escaperoompcpass
+[192]    else:
+[195]        "I enter my password in the machine and decide to spend my free time browsing the web."
+[197]        jump escaperoompcuse
+
+===== [199] escaperoompcpass =====
+[200]    $ escaperoompcstrip = renpy.input("ENTER PASSWORD...")
+[201]    $ escaperoompcstrip = escaperoompcstrip.strip()
+[203]    if escaperoompcstrip != "baby":
+[205]        "This password is incorrect."
+[207]        menu:
+[208]            "Try again":
+[209]                jump escaperoompcpass
+[210]            "Give up":
+[211]                s "Hmm...maybe the password will come back to me later?"
+[212]                s "I’ll do something else for now."
+[217]        jump escaperoommainmenu
+[219]    if escaperoompcstrip == "baby":
+[222]        $ escapepcunlocked = True
+[224]        s "Yay. I managed to remember the password."
+[225]        s "What should I do now?"
+[227]        jump escaperoompcuse
+[229]    menu escaperoompcuse:
+[231]            if day == 5:
+[232]                "Today is pay day, so I should have some extra cash to spend on an Internet mystery box."
+[238]                "I enter my credit card information into the computer and smile as I spend my allowance on a mysterious object."
+[239]                "I hope it will change my life in some way."
+[240]                "{i}Eager to receive your mystery box, you go to sleep early.{/i}"
+[241]                "{i}When the morning comes, your mouth is dry and your heart is pounding.{/i}"
+[242]                "{i}You can’t help but feel like you’re missing something. You just don’t know what.{/i}"
+[243]                "{i}And as you open your eyes to the same sights you always see, you listen to the sound of the clock — terrified of what the ticking means now.{/i}"
+[245]                $ mysbox1ordered = True
+[247]                jump escaperoomdaychange
+[248]            if day != 5:
+[251]                "I try to order a mystery box, but my credit card is declined."
+[252]                "I hate when that happens."
+[254]                jump escaperoompcuse
+[257]            if day == 5:
+[258]                "Today is pay day, so I should have some extra cash to spend on an Internet mystery box."
+[259]                "I find one that looks interesting, but it’s still a little out of my price range."
+[261]                s "Hmm...I wonder if there’s some sort of discount code I can use?"
+[262]                s "No harm in trying, I guess."
+[264]                jump escaperoompcdiscountenter
+[266]            if day != 5:
+[269]                "I try to order a mystery box, but my credit card is declined."
+[270]                "I hate when that happens."
+[272]                jump escaperoompcuse
+[274]        "Play music":
+[275]            "I decide to change up the BGM."
+[276]            "What song do I want to listen to?"
+[278]            menu:
+[279]                "“I Am Home”":
+[282]                    "The song changes, and I feel at home once more."
+[283]                    jump escaperoompcuse
+[284]                "“Shining Star”":
+[287]                    "The song changes, and I want to throw up."
+[288]                    jump escaperoompcuse
+[289]                "“10c”":
+[292]                    "The song changes, and I feel stuck."
+[293]                    jump escaperoompcuse
+[294]                "“Sweet Vermouth”":
+[297]                    "The song changes, and I am overcome with shame."
+[298]                    jump escaperoompcuse
+[299]                "“Smells of Summer”":
+[302]                    "The song changes, and I am filled with regret."
+[303]                    jump escaperoompcuse
+[305]        "Watch porn":
+[306]            "What kind of porn do I want to watch?"
+[307]            menu escaperoompornmenu:
+[308]                "Mom & daughter share HUGE cock! (Real incest)":
+[309]                    jump escapeporn1
+[310]                "Desperate Teen Does anything for Cash":
+[311]                    jump escapeporn2
+[312]                "Nympho whore loves BBC":
+[313]                    jump escapeporn3
+[314]        "Write":
+[319]            "I open up Microsoft Word and attempt to put my feelings into poetry."
+[320]            "But with no one to share it with, all it does is remind me of my flaws."
+[321]            "Sometimes, it feels like there’s no point to any of this. That I’m only writing to keep myself a step or two away from death."
+[322]            "I know it will catch up to me some day."
+[323]            "But for now, this is all I can do."
+[324]            "..."
+[325]            "This is all I can do."
+[326]            "{i}You write until you’re half-asleep, then give up and close your eyes.{/i}"
+[327]            "{i}When you wake up, you realize you’ve accomplished nothing. That the night was spent on someone else’s words instead of yours.{/i}"
+[328]            "{i}What remains on the screen is a mirror-image of what they once felt — all dressed up in Times New Roman.{/i}"
+[329]            "{i}You hear her footsteps in your head.{/i}"
+[330]            "{i}It’s like they never go away.{/i}"
+[332]            jump escaperoomdaychange
+[334]        "Stop using the computer":
+[335]            s "On second thought, I don’t want to do this right now."
+[340]            jump escaperoommainmenu
+
+===== [342] escaperoompcdiscountenter =====
+[343]    $ escaperoompcdiscount = renpy.input("ENTER DISCOUNT CODE...")
+[344]    $ escaperoompcdiscount = escaperoompcdiscount.strip()
+[346]    if escaperoompcdiscount == "46782" and luckynumberyay == 46782:
+[347]        jump escaperoomdiscountcorrect
+[348]    elif escaperoompcdiscount == "99635" and luckynumberyay == 99635:
+[349]        jump escaperoomdiscountcorrect
+[350]    elif escaperoompcdiscount == "392354" and luckynumberyay == 392354:
+[351]        jump escaperoomdiscountcorrect
+[352]    else:
+[354]        "This discount code is invalid."
+[356]        s "Darn it. Now what?"
+[358]        menu:
+[359]            "Try again":
+[360]                jump escaperoompcdiscountenter
+[361]            "Give up":
+[362]                s "Ugh. I guess I’ll just have to do something else."
+[363]                jump escaperoompcuse
+
+===== [365] escaperoomdiscountcorrect =====
+[370]    "The discount code is accepted and I shift forward in my seat, excited and impressed by my aptitude for bargain-hunting."
+[371]    "I enter my credit card information into the computer and smile as I spend my allowance on a mysterious object."
+[372]    "I hope it will change my life in some way."
+[373]    "{i}Eager to receive your mystery box, you go to sleep early.{/i}"
+[374]    "{i}When the morning comes, you must peel your flesh off of the vinyl coating on your table.{/i}"
+[375]    "{i}It’s a sensation that used to bother you. But now, it’s more like a reminder that you’ve managed to make it this far.{/i}"
+[376]    "{i}When you open your eyes, you set your sights on the window — remembering what it was like to go outside.{/i}"
+[377]    "{i}You remember how you always hated the sun. And how its forced absence, enacted by the walls of your home, protects you.{/i}"
+[378]    "{i}You are safe here.{/i}"
+[379]    "{i}Everywhere else is dangerous.{/i}"
+[381]    $ mysbox2ordered = True
+[383]    jump escaperoomdaychange
+
+===== [385] escapeporn1 =====
+[389]    porn1 "Mmnch...mlm...mnch..."
+[390]    porn2 "Aah! Aah! Hah!...Ngaah! Fuck me! Fuck...me!"
+[391]    porn1 "You like that, baby? You like my daughter’s pussy?"
+[392]    porn2 "I can’t...take it! It’s too big! It’s...driving me insane!"
+[393]    porn1 "I didn’t raise a quitter, did I? Don’t you want to see this through to the end?"
+[394]    porn2 "AAAAAaaaaAAAAAAaaaaahh!!!!!!"
+[396]    "In this video, a mother and her daughter can be seen having a threesome with a large man, roughly twenty years older than them based on appearance alone."
+[397]    "His penis is likely between ten and twelve inches long, and it is impressive that the daughter is able to fit most of it inside of her vagina."
+[398]    "The man aggressively pounds the daughter until her eyes roll to the back of her head, and her mother provides support by embracing her from behind."
+[399]    "The two of them kiss with no resistance whatsoever. It leads me to believe they do this often. And I begin to ponder just how many men they must have shared previously."
+[400]    "The two women take turns riding the man’s penis and I can’t help but be impressed by his endurance as he’s yet to ejaculate even once."
+[401]    "I grip my cock through my underwear, tugging it in a way that creates a friction burn on the head as I do my best to follow the man’s lead."
+[402]    "Unfortunately, I am weaker than him. And I ejaculate into my underwear the moment the mother begins to play with her daughter’s clitoris."
+[403]    "I wonder how the father must feel. And I wonder if he, too, ejaculates while watching his family have sexual intercourse."
+[408]    jump escaperoommainmenu
+
+===== [410] escapeporn2 =====
+[414]    porn3 "Can you tell me your name?"
+[415]    porn4 "Do I have to? I thought this was, like...an anonymous thing."
+[416]    porn3 "Just your given name is fine. We’ll blur your face so you can stay anonymous."
+[417]    porn4 "Then...you can call me Chinami."
+[418]    porn3 "You’re very pretty, Chinami. Are you a virgin?"
+[419]    porn4 "Mmm...no. Hahahah~"
+[420]    porn3 "Do you have sex often?"
+[421]    porn4 "Not really. I’m definitely not a virgin, though."
+[422]    porn3 "Do you have a favorite position?"
+[423]    porn4 "Mmmm...does sucking dick count?"
+[424]    porn3 "You like to suck dick?"
+[425]    porn4 "Yeah~"
+[426]    porn3 "Do you swallow?"
+[427]    porn4 "Mhmmm...every time~"
+[428]    porn3 "Are you okay with sucking my dick on camera today?"
+[429]    porn4 "Mmmm...yeah~"
+[430]    porn3 "Excellent. Could you go ahead and take your top off for me?"
+[431]    porn4 "Like this?~"
+[433]    "In this video, a girl is brought into an empty-looking room so she can perform sex acts in exchange for what I imagine will be money or exposure."
+[434]    "She starts by taking her clothes off while the man films her and asks her various interview questions."
+[435]    "Eventually, she takes off his pants and begins to perform fellatio."
+[436]    "She looks like she knows what she’s doing."
+[437]    "She keeps her eyes closed while slowly easing more of his penis into her mouth."
+[438]    "Her face begins to flush red as she gets caught up in the mood, which prompts the man to lay her down on his desk so he can insert his penis into her vagina."
+[439]    "She looks mildly uncomfortable at first, but begins to enjoy herself within several minutes."
+[440]    "The man asks if he can ejaculate inside of her and she tells him he can. So he does."
+[441]    "And so do I when the video comes to an end."
+[446]    jump escaperoommainmenu
+
+===== [448] escapeporn3 =====
+[452]    porn5 "AAAAaaaAAAAaaaAAAAHHHH FUUUUUUUUuuuuuuUUUUUuuuuck!"
+[453]    porn6 "Yeah, you fucking like that? You fucking like that?!"
+[454]    porn5 "AaaAaaaAAAAaaaAAAAHHHAhhaahhahhhayessssss! IIIiiIIIiii’m gonnaaAAAaaaa cuUUUuuuMM!"
+[455]    porn6 "Thirsty bitch...thirsty fucking bitch! Tell me you love this dick! Tell me you love this dick!"
+[456]    porn5 "IIiiiIIII loOOOoooOOve yoOOOoouuuUUUuurr diIIiiiIIiiick!!!!"
+[458]    "This video involves a man and a woman enraptured by the sensations of consensual copulation."
+[459]    "Based on the title, I can imagine the woman involved is what many would call “loose,” meaning that she is very experienced sexually."
+[460]    "This is further evidenced by the manner in which she is able to be repeatedly pounded without so much as wincing."
+[461]    "The pair perform their coital routine in various positions, some of which I’ve never seen before. And I think about what it would take to replicate them."
+[462]    "Unfortunately, all I have with me is my hand. So I will be unable to do that today."
+[463]    "Thankfully, the film is alluring enough for me to bring myself to ejaculation. And I am now free to go back to my business both relieved and depressed."
+[468]    jump escaperoommainmenu
+
+===== [470] escaperoomtrash =====
+[471]    if day == 4:
+[475]        s "Wow! My trash can is so clean now! And full of curious objects and trinkets!"
+[476]        peg "Greetings, human. I am the Emissary of Pegasus — and I have come to you with an important message."
+[477]        peg "But first, you must prove your loyalty by telling me how to find the sunset."
+[478]        s "What does the Emissary of Pegasus need to find the sunset for?"
+[479]        peg "Harnessing the power of the sunset is the only way for me to illuminate my special key. But there will be no further use for it once that key is gone."
+[480]        s "I could just take the key off your hands? I’m sure I could find some sort of use for it."
+[481]        peg "Unfortunately, I am unable to simply give it to you without proof of loyalty first."
+[482]        peg "So please, tell me how to find the sunset."
+[483]        s "Well...first, you-"
+[485]        menu:
+[486]            "Say goodbye to Pedro":
+[487]                $ pegapoints += 0
+[488]            "Throw some darts at Steven":
+[489]                $ pegapoints += 0
+[490]            "Say hello to Frankie":
+[491]                $ pegapoints += 1
+[492]            "Drop a tooth in Salem":
+[493]                $ pegapoints += 0
+[495]        s "Then, you-"
+[497]        menu:
+[498]            "Skin your kneecaps":
+[499]                $ pegapoints += 0
+[500]            "Remove your tongue":
+[501]                $ pegapoints += 1
+[502]            "Polish your eyeballs":
+[503]                $ pegapoints += 0
+[504]            "Stomp your feet":
+[505]                $ pegapoints += 0
+[507]        s "Then-"
+[509]        menu:
+[510]            "Run in circles seven times":
+[511]                $ pegapoints += 1
+[512]            "Walk in circles four times":
+[513]                $ pegapoints += 0
+[514]            "Run in circles nine times":
+[515]                $ pegapoints += 0
+[516]            "Walk in circles three times":
+[517]                $ pegapoints += 0
+[519]        s "Then, you have to-"
+[521]        menu:
+[522]            "Spit on the ground":
+[523]                $ pegapoints += 0
+[524]            "Tie your shoes beneath a tree":
+[525]                $ pegapoints += 0
+[526]            "Stare up at the sky":
+[527]                $ pegapoints += 1
+[528]            "Watch eleven Youtube videos":
+[529]                $ pegapoints += 0
+[531]        s "This next one is important. You must say to a face-"
+[533]        menu:
+[534]            "Hey, you! Nice face!":
+[535]                $ pegapoints += 0
+[536]            "Your hot sauce is delicious":
+[537]                $ pegapoints += 1
+[538]            "I’m afraid of the super moon":
+[539]                $ pegapoints += 0
+[540]            "There is no god":
+[541]                $ pegapoints += 0
+[543]        s "Then-"
+[545]        menu:
+[546]            "Spin":
+[547]                $ pegapoints += 1
+[548]            "Gyrate":
+[549]                $ pegapoints += 0
+[550]            "Dance":
+[551]                $ pegapoints += 0
+[552]            "Jump":
+[553]                $ pegapoints += 0
+[555]        s "Then, the final step is-"
+[557]        menu:
+[558]            "Putting your socks back on":
+[559]                $ pegapoints += 0
+[560]            "Turning the lights off":
+[561]                $ pegapoints += 0
+[562]            "Shearing nine sheep":
+[563]                $ pegapoints += 0
+[564]            "Taking a drink":
+[565]                $ pegapoints += 1
+[567]        s "And I’m pretty sure that’s all you need to do."
+[568]        peg "..."
+[569]        s "Did I get it right?"
+[571]        if pegapoints == 7:
+[572]            peg "You certainly did."
+[573]            peg "You have proven your loyalty. And, in doing so, you have earned my special key."
+[577]            $ escapekey1 = True
+[579]            "{i}You have obtained a “Pegasus Key!”{/i}"
+[583]            peg "This key will help you in the coming days, but please be sure to only use it if you are absolutely certain you {i}have{/i} to."
+[584]            peg "The world outside these walls is a terrifying-"
+[585]            s "Yeah, yeah. I’ve heard it all before."
+[586]            peg "But-"
+[587]            s "Thanks for the key, Emissary of Pegasus. But I’ve got a whole bunch of crumpled up paper I have nothing to do with, so you’re going to have to deal with that for a little while."
+[588]            s "Sorry, man."
+[589]            peg "I don’t think you-"
+[594]            "I fill the trash can back up and prepare myself for another garbage day."
+[595]            "Now, time to figure out what to do with this key."
+[599]            jump escaperoommainmenu
+[601]        else:
+[602]            peg "No."
+[603]            peg "I’m afraid this means you have {i}not{/i} proven your loyalty, and that you must retrace your steps if you are ever going to."
+[604]            s "But I’ve taken so many steps. Surely you don’t expect me to remember them all?"
+[605]            peg "And surely {i}you{/i} don’t expect me to assist in the efforts of someone who does not deserve my aid."
+[609]            $ pegapoints = 0
+[611]            peg "Until we meet again, Akira."
+[612]            s "Wait! Emissary of Pegasus!"
+[614]            "{i}You feel wave of exhaustion crash into your body. And, the next thing you know, you’re waking up all over again.{/i}"
+[616]            jump escaperoomdaychange
+[618]    else:
+[622]        "I gaze into the trashcan to find a bunch of crumpled up papers that I don’t remember putting there."
+[623]        "I can’t remember the last time garbage was collected, but I sure hope it comes again soon so I can remember what the bottom of my trash can looks like."
+[624]        "Until then, I guess I’ll have to just store all of my surplus trash in the shower like I normally do."
+[625]        "Here’s to hoping it attracts more friends."
+[630]        jump escaperoommainmenu
+
+===== [632] escaperoomrabbit =====
+[633]    if rabbitpoint == 0:
+[636]        "I approach a stuffed rabbit sitting on top of the refrigerator."
+[638]        rabbit "How can I be of service-pyon?"
+[639]        s "“Pyon?”"
+[640]        rabbit "It’s a rabbit noise-pyon. We say it so you know we are rabbits-pyon."
+[641]        s "Would the ears and bowtie and other rabbit-like features not be enough to do that?"
+[642]        rabbit "We don’t know-pyon. We never live long enough to find out-pyon."
+[643]        s "Right...Well, can you pass me the EnviroKids Organic Gorilla Munch Cereal please?"
+[644]        rabbit "No-pyon. You haven’t earned it yet-pyon."
+[645]        s "Well, what can I do to earn it? I’m really hungry and wanted to spend the day eating EnviroKids Organic Gorilla Munch Cereal."
+[646]        rabbit "That’s a good question-pyon! Unfortunately, I don’t have the answer-pyon."
+[647]        s "Ughhhhh. You stuffed rabbits are always so confusing."
+[648]        rabbit "Sorry-pyon! But maybe you can do something with this-pyon?"
+[653]        "{i}You have obtained a “Nostalgic sex toy”{/i}"
+[657]        s "What am I supposed to do with this?"
+[658]        rabbit "Don’t ask me-pyon! I’m just a rabbit-pyon!"
+[659]        rabbit "I’ll keep a close eye on what you’re doing though-pyon. Your cereal isn’t going anywhere-pyon!"
+[660]        s "Fine. Guess I’ll just have to deal with this stupid vibrating thing for now."
+[661]        rabbit "That’s the spirit-pyon!"
+[663]        $ rabbitpoint += 1
+[667]        s "Great. Now what?"
+[669]        jump escaperoommainmenu
+[671]    elif rabbitpoint > 0 and rabbitpoint < 7:
+[674]        rabbit "Hello again-pyon!"
+[675]        s "Hello, freezer rabbit. Have I earned the EnviroKids Organic Gorilla Munch Cereal yet?"
+[676]        rabbit "Not yet-pyon! But keep at it and I’m sure you will eventually-pyon!"
+[677]        s "Ughhhhhhh."
+[681]        s "Forget it. I’ll just do something else for now."
+[683]        $ rabbitpoint += 1
+[685]        jump escaperoommainmenu
+[687]    elif rabbitpoint == 7:
+[690]        rabbit "Hello again-pyon!"
+[691]        s "Now, you listen here, freezer-rabbit. I’m tired of you holding the EnviroKids Organic Gorilla Munch Cereal hostage. And I’m not going to stand for it anymore."
+[692]        rabbit "You sound angry-pyon!"
+[693]        s "I {i}am{/i} angry-pyon. All I want is some cereal and you won’t give me any. This is child abuse."
+[694]        rabbit "Sounds like you know a lot about child abuse-pyon!"
+[695]        s "Just give me the cereal or I am going to throw you into the oven."
+[696]        rabbit "Hmmmm...pyon."
+[697]        rabbit "Well, you {i}have{/i} been pestering me rather frequently-pyon. And some extra leg room does sound nice-pyon."
+[698]        rabbit "So...okay-pyon! Here you go-pyon!"
+[703]        "{i}You have obtained “EnviroKids Organic Gorilla Munch Cereal”{/i}"
+[707]        rabbit "Are you happy now-pyon?"
+[708]        s "Very. Now, I just need to- wait a minute."
+[709]        rabbit "Is something the matter-pyon?"
+[710]        s "I can hear something whirring inside of the box."
+[711]        rabbit "It’s probably a prize-pyon! Cereal always comes with a prize-pyon!"
+[712]        s "Should I pull it out?"
+[713]        rabbit "Do it-pyon! Now-pyon!"
+[715]        "I reach into the cereal box and-"
+[719]        $ escapekey2 = True
+[721]        "{i}You have obtained a “Cereal Key”{/i}"
+[725]        s "Wow. I had no idea they were putting keys in cereal nowadays. Times have really changed."
+[726]        rabbit "Did you read the fine print on the key-pyon?"
+[727]        s "The what?"
+[728]        rabbit "The fine print-pyon! The rules of the prize!"
+[729]        s "Ugh. No, hold on."
+[731]        "I stare down at the key and read."
+[733]        s "Note...this key will self-destruct if you maintain possession of EnviroKids Organic Gorilla Munch Cereal."
+[734]        rabbit "Uh-oh-pyon! Looks like you need to give the cereal back-pyon!"
+[735]        s "Gosh darn it. This is the last time I ever buy an EnviroKids product."
+[736]        rabbit "At least you got a key-pyon! May it help you in the coming days-pyon!"
+[740]        s "Shut up, freezer rabbit. I’m never talking to you again."
+[741]        rabbit "Farewell-pyon! It’s been fun-pyon!"
+[746]        s "Well...at least I have another key now."
+[748]        jump escaperoommainmenu
+
+===== [750] escaperoomfreezer =====
+[754]    "I make my way over to the freezer and notice there is something peculiar about it — namely the fact that I’m not supposed to store food inside."
+[755]    "Either way, I don’t have the time to worry about what I can and can’t make cold. I need to do something. And I need to do something right now."
+[756]    "But what should I do?"
+[758]    menu escapefreezermenu:
+[759]        "Punch the freezer":
+[763]            s "Hi-ya!"
+[765]            "The freezer shakes, but not much else happens."
+[767]            jump escapefreezermenu
+[769]        "Caress the freezer":
+[770]            "I gently stroke the freezer, hoping it becomes aroused and opens itself up."
+[771]            "Unfortunately, nothing happens."
+[773]            jump escapefreezermenu
+[776]            s "I wonder if this will work?"
+[778]            "Without knowing what else I’m supposed to do, I insert the roach I got from Molly into the freezer’s mouth..."
+[783]            "And it suddenly opens!"
+[785]            s "Oh boy. I can’t wait to see what’s inside."
+[790]            "........."
+[791]            "......"
+[792]            "..."
+[797]            s "Hey, wait a minute. I thought I wasn’t supposed to store food in here?"
+[799]            "A melon stares back at me and reminds me of better days...but I’m not supposed to touch it. Not even for sex."
+[801]            s "..."
+[802]            "..."
+[803]            s "..."
+[804]            "..."
+[805]            s "..."
+[806]            "..."
+[807]            s "..."
+[808]            "..."
+[809]            s "..."
+[810]            "..."
+[812]            "Rules are meant to be broken."
+[814]            s "Time for melon sex."
+[819]            m2 "Cha cha cha. Intruder alert. Cha cha cha. Intruder alert."
+[821]            "Uh-oh. It looks like I’ve triggered the freezer’s alarm system. I need to do something quick."
+[823]            m2 "Cha cha cha. Intruder alert. Cha cha cha. Intruder alert."
+[824]            s "I swear it wasn’t for sex."
+[825]            m2 "This melon is reserved for THE PROTOTYPE. Please return the melon and await THE PROTOTYPE."
+[826]            s "What is THE PROTOTYPE? Why can I not use the melon for my own melon-related reasons? This is unfair."
+[827]            m2 "Cha cha cha. Intruder alert. Cha cha cha. Intruder alert."
+[832]            m2 "{i}Cha cha cha. Intruder alert. Cha cha cha. Intruder alert.{/i}"
+[834]            "I slam the freezer door and keep the melon for myself. Even if it’s against the rules."
+[837]            $ escapemelon = True
+[839]            "{i}You have obtained a “Forbidden Melon”{/i}"
+[841]            jump escaperoommainmenu
+[843]        "Do something else":
+[844]            s "I grow tired of these mindless games."
+[848]            s "I need to use my time wisely."
+[850]            jump escaperoommainmenu
+
+===== [852] escaperoomfridge =====
+[853]    if escapefridgestuff == False:
+[856]        "An ominous presence crowds the air around the refrigerator."
+[857]        "I must endure it if I am to reach my goal."
+[865]        "I manage to endure the ominous presence and can now freely explore the confines of my fridge."
+[866]        "It’s packed to the brim with some of my favorite ingredients — like milk, bananas, milk, shampoo, and milk."
+[867]        "I should add all of them to my inventory so I don’t have to deal with the ominous presence the next time I open the door."
+[871]        $ escapefridgestuff = True
+[873]        "{i}You have obtained “Fridge Contents”{/i}"
+[875]        "Hmm..."
+[876]        "It appears there is still one item left in the fridge. But {i}this{/i} item exudes a strange presence as well. And I feel as if adding it to my inventory could result in unfortunate consequences."
+[878]        s "..."
+[880]        "Do I want to add it to my inventory anyway?"
+[882]        menu:
+[883]            "Take the shampoo":
+[884]                s "It’s just shampoo. What’s there to be afraid of?"
+[888]                $ escapeshampoo = True
+[890]                "{i}You have obtained “Shampoo”{/i}"
+[892]                s "See? That wasn’t so bad."
+[896]                "I close the fridge and get on with my day."
+[898]                jump escaperoommainmenu
+[900]            "Leave it alone":
+[901]                "I’ll just leave the shampoo alone. It’s probably for the best."
+[905]                "I close the fridge and get on with my day."
+[907]                jump escaperoommainmenu
+[909]    if escapefridgestuff == True:
+[912]        s "There’s that shampoo again..."
+[914]        "What do I want to do?"
+[916]        menu:
+[917]            "Take the shampoo":
+[918]                s "It’s just shampoo. What’s there to be afraid of?"
+[922]                $ escapeshampoo = True
+[924]                "{i}You have obtained “Shampoo”{/i}"
+[926]                s "See? That wasn’t so bad."
+[930]                "I close the fridge and get on with my day."
+[932]                jump escaperoommainmenu
+[934]            "Leave it alone":
+[935]                "I’ll just leave the shampoo alone. It’s probably for the best."
+[939]                "I close the fridge and get on with my day."
+[941]                jump escaperoommainmenu
+
+===== [943] escaperoomtopshelves =====
+[946]    "I take a moment to observe the many important notes that either I or someone else left for myself/me."
+[947]    "But I can’t help but feel like there may have been a better way to do this..."
+[949]    s "..."
+[951]    "Oh well. It is what it is. These notes will be here if I ever need them."
+[952]    "But for now, I should get back to happily living my life."
+[956]    jump escaperoommainmenu
+
+===== [958] escaperoommicrowave =====
+[962]    "I’ve always liked microwaves."
+[963]    "There’s something calming about watching the numbers tick down along with the radioactive hum as the contents inside rapidly change to fit your liking."
+[964]    "It’s not like a clock. Though, some microwaves come with clocks built into them."
+[965]    "This is not one of them. This is a good microwave. All it does is cook what I tell it to and burn what I want it to burn."
+[966]    "I can fit all sorts of things inside of my microwave. I use it to store what I can not hold in my hands."
+[967]    "Sometimes, I’ll turn it on for hours with nothing inside and let its melody sing me to sleep."
+[968]    "The electric company doesn’t like that too much. But I can live without power if I absolutely have to. I’ve done it before."
+[969]    "I just like the noise."
+[970]    "But I don’t like that I can see myself in its reflection — for it makes me feel like {i}I’m{/i} inside. And there are few things that scare me more than that at this point in life."
+[971]    "It wasn’t always like that, though."
+[972]    "But it is now."
+
+===== [974] escapemicrowavemenu =====
+[975]    $ escapemicrowavecode = renpy.input("Enter the code to open your microwave.")
+[976]    $ escapemicrowavecode = escapemicrowavecode.strip()
+[978]    if escapemicrowavecode != "1853818235819":
+[979]        "The door doesn’t open."
+[981]        menu:
+[982]            "Try again":
+[983]                jump escapemicrowavemenu
+[984]            "Give up":
+[985]                s "On second thought, I don’t need to open the microwave right now."
+[990]                "What should I do instead?"
+[992]                jump escaperoommainmenu
+[994]    else:
+[999]        "The door opens and I peer into the microwave to uncover my secret stash of important things."
+[1000]        "These maggots are my children. I provide them sperm and greasy food so that they may one day grow into strong, faithful human flies."
+[1001]        "They do not call me “father,” nor do they acknowledge my role in their world. They just gorge themselves on the nutrients I provide and grow."
+[1002]        "One day, they will be human enough to learn to speak. And I will teach them all of my favorite words."
+[1003]        "But until then, all I can do is nurture them and create an environment where they are able to thrive."
+[1004]        "It is fun to be God."
+[1006]        menu:
+[1007]            "Take your phone":
+[1010]                $ escaperoomphone = True
+[1012]                "{i}You have obtained a “Personal Cell Phone” and may now use it to make calls.{/i}"
+[1014]                s "I will see you later, my children."
+[1018]                s "I have many important things to do."
+[1020]                jump escaperoommainmenu
+
+===== [1022] escaperoomcoffee =====
+[1026]    r "Coffee hey! Coffee ho! Coffee is the place to go!"
+[1027]    mo "Coffee this! Coffee that! Coffee with a dog or cat!"
+[1028]    s "Is this some kind of rap song?"
+[1029]    r "It’s not a rap song, homie! It’s the opening to a long awaited trivia game!"
+[1030]    mo "Answer the questions correctly and you’ll get to be caffeinated {i}and{/i} encapsulated!"
+[1031]    s "Encapsulated by what?"
+[1032]    r "Guilt!"
+[1033]    mo "Endless, torturous guilt!"
+[1034]    r "Where have you been?!"
+[1035]    mo "What happened to you?!"
+[1036]    r "What happened to us?!"
+[1037]    s "I don’t want to do this right now."
+[1038]    mo "Then answer our questions so you can move on!"
+[1039]    r "Your grade at the end will determine whether or not you get to proceed!"
+[1040]    mo "Your grade at the end could grant you a key!"
+[1041]    r "Question one! What is the official mascot of home brewed coffee?"
+[1043]    menu:
+[1044]        "AeroPress":
+[1045]            $ rinmollycoffeepoint += 0
+[1046]        "Espresso machine":
+[1047]            $ rinmollycoffeepoint += 0
+[1048]        "French press":
+[1049]            $ rinmollycoffeepoint += 1
+[1050]        "Percolator":
+[1051]            $ rinmollycoffeepoint += 0
+[1053]    mo "Question two! Which coffee machine is the arch nemesis of the Hario v60?!"
+[1055]    menu:
+[1056]        "The Bee House":
+[1057]            $ rinmollycoffeepoint += 0
+[1058]        "Clever Dripper":
+[1059]            $ rinmollycoffeepoint += 0
+[1060]        "AeroPress":
+[1061]            $ rinmollycoffeepoint += 0
+[1062]        "Kalita Wave":
+[1063]            $ rinmollycoffeepoint += 1
+[1065]    r "Question three! What’s another name for the Vietnamese dripper?"
+[1067]    menu:
+[1068]        "Phin":
+[1069]            $ rinmollycoffeepoint += 1
+[1070]        "Phan":
+[1071]            $ rinmollycoffeepoint += 0
+[1072]        "Phon":
+[1073]            $ rinmollycoffeepoint += 0
+[1074]        "Phun":
+[1075]            $ rinmollycoffeepoint += 0
+[1077]    mo "Almost there! Question four — which of these looks like more of a science project than a coffee brewer?"
+[1079]    menu:
+[1080]        "Kalita Wave":
+[1081]            $ rinmollycoffeepoint += 0
+[1082]        "Hario v60":
+[1083]            $ rinmollycoffeepoint += 0
+[1084]        "Clever Dripper":
+[1085]            $ rinmollycoffeepoint += 0
+[1086]        "AeroPress":
+[1087]            $ rinmollycoffeepoint += 1
+[1089]    r "And one last question! Which of these coffee brewers is the best for the homies?"
+[1091]    menu:
+[1092]        "Moka pot":
+[1093]            $ rinmollycoffeepoint += 0
+[1094]        "Chemex brewer":
+[1095]            $ rinmollycoffeepoint += 1
+[1096]        "Melitta Ready Set Joe":
+[1097]            $ rinmollycoffeepoint += 0
+[1098]        "Percolator":
+[1099]            $ rinmollycoffeepoint += 0
+[1101]    mo "So! How do you think you did?"
+[1102]    s "I’ve never been more prepared for anything in my life."
+[1104]    if rinmollycoffeepoint == 5:
+[1105]        r "I’ll drink to that! {i}Coffee{/i} of course — because you passed with flying colors!"
+[1106]        mo "Congratulations, Sir! You’re the coffee boy now!"
+[1107]        s "Awesome. This means I get some sort of prize, right?"
+[1108]        r "You sure do! Show him his prize, Molly!"
+[1109]        mo "For receiving 100%% on the coffee quiz, you’ve won..."
+[1113]        $ escaperoach = True
+[1115]        mo "This spectacular roach!"
+[1117]        "{i}You have obtained a “Spectacular Roach”{/i}"
+[1121]        s "Hooray! A new friend!"
+[1122]        r "And that’s not all! You’ll also be receiving..."
+[1126]        $ escapekey3 = True
+[1128]        r "This spectacular key!"
+[1130]        "{i}You have obtained a “Spectacular Key”{/i}"
+[1134]        s "Nice. What does it open?"
+[1135]        r "I actually have no idea."
+[1136]        mo "Yeah, we’re just here to hand stuff out and give your brain something silly to focus on as a distraction from your unending grief!"
+[1137]        s "Oh, well that’s really nice of you."
+[1138]        r "Yeah, but seeing as answering all of our questions correctly is the trigger that causes us to return to dormancy, we’re going to have to stop responding now."
+[1139]        s "What? Already?"
+[1140]        mo "Come visit us sometime, Sir! We miss you!"
+[1141]        s "..."
+[1142]        r "..."
+[1143]        mo "..."
+[1147]        s "Well, that’s that I guess."
+[1149]        jump escaperoommainmenu
+[1151]    else:
+[1152]        r "Well, that’s depressing! Because you failed!"
+[1154]        $ rinmollycoffeepoint = 0
+[1156]        s "What? Really?"
+[1157]        mo "Yes, Sir! Which means that, unfortunately, you’ll be leaving here today without a prize."
+[1158]        s "Can I at least have some coffee?"
+[1159]        r "Nope! We’re fresh out."
+[1160]        s "But I can see-"
+[1161]        mo "{b}SHE SAID WE’RE OUT, YOU FUCKING PUSSY.{/b}"
+[1165]        "I decide to walk away from the coffee maker as the service there was terrible."
+[1166]        "What should I do instead?"
+[1168]        jump escaperoommainmenu
+
+===== [1170] escaperoombotleft =====
+[1171]    if day != 2:
+[1173]        "I crouch down and come face to face with my bottom left cabinet. Even if my bottom left cabinet doesn’t technically have a face."
+[1174]        "But when I go to open it, I realize it won’t budge."
+[1175]        "This is very unfortunate, as I feel an urgent need to get inside the cabinet so I can do something."
+[1177]        s "Hngh!"
+[1179]        "I attempt to pull it open, but fail miserably and pull a muscle in my arm. This is going to hurt for days, I can already tell."
+[1183]        "Oh well. I guess I’ll have to figure something else out if I want to open that cabinet."
+[1185]        jump escaperoommainmenu
+[1187]    if day == 2:
+[1190]        s "Wow!"
+[1192]        "It looks like my bottom left cabinet is glowing because today is Magical Day."
+[1193]        "This means I’ll finally be able to open the lock and see what’s inside."
+[1198]        s "I hope there is some sort of snack!"
+[1202]        "I place my hand on the lock, releasing the magical seal before pulling the doors open."
+[1206]        "My parrot greets me when I crouch down and put my head inside of his enclosure. I can’t remember the last time I was in here."
+[1207]        "I take a look to the left at his coconut crab and see that he has been raising him well."
+[1208]        "I’m sure you think it’s strange for one of my pets to have a pet, but that’s just how things work in this house."
+[1209]        "We all take care of each other and so we can all live happily ever after."
+[1210]        "I replace my parrot’s bottle of water with a new one- disinfected so his bird liver will not become a home to parasites. And I scratch beneath his chin to show him I love him."
+[1212]        parrot "Sacrifice! Sacrifice!"
+[1213]        s "Sacrifice?"
+[1214]        parrot "A gift for God! A gift for God!"
+[1215]        s "I know what a sacrifice is, Parrot. I’m just a little confused about why you’re, you know, {i}parroting{/i} that word."
+[1216]        parrot "Sacrifice! A gift for God! Sacrifice! A gift for God!"
+[1217]        s "Huh..."
+[1219]        "I guess my parrot wants to be sacrificed."
+[1223]        $ escapeparrot = True
+[1225]        "{i}You have obtained “Parrot”{/i}"
+[1227]        s "I wonder what will become of the coconut crab?"
+[1228]        parrot "{i}Sacrifice! Sacrifice!{/i}"
+[1230]        "My parrot shrinks itself and flies in circles around my invisible backpack. He’s very happy to be outside his enclosure for once."
+[1232]        s "Are you sure about this?"
+[1233]        s "If you’re unhappy, I understand. But I thought we could be a family."
+[1234]        parrot "Miss her! Miss her! Sacrifice! A gift for God!"
+[1238]        s "If that is what must be done, it will be done."
+[1240]        jump escaperoommainmenu
+
+===== [1242] escaperoombotright =====
+[1245]    "I crouch before my brand new smart cabinet, complete with four separate smart locks that need to be touched in the correct order for the door to open."
+[1246]    "There are warnings drawn all over the cabinet in permanent marker, but I’ve found that their permanence won’t persist through a new coat of paint."
+[1247]    "Or maybe it does and I just can’t see the words I once wrote anymore. I don’t know."
+[1248]    "The point is, I visit this cabinet a lot. It’s where I keep my spices and it’s where I keep something else."
+[1249]    "I just hope I can remember how to open it."
+[1250]    "There’s something very important inside. And leaving it in there unattended would be irresponsible of me to do."
+[1251]    "I squint my eyes and steady my hands."
+[1252]    "The order in which I will press the tablets is-"
+
+===== [1254] escaperoombotrighttext =====
+[1255]    $ escapebotrightcode = renpy.input("Smart lock deactivation sequence initiated. Please tap lock quadrants in the correct order.")
+[1256]    $ escapebotrightcode = escapebotrightcode.strip()
+[1258]    if escapebotrightcode != "231312423124":
+[1261]        "The combination I entered isn’t valid."
+[1262]        "Should I keep going? Or should I give up instead?"
+[1264]        menu:
+[1265]            "Keep going":
+[1266]                "One more try won’t hurt."
+[1268]                jump escaperoombotrighttext
+[1270]            "Give up":
+[1273]                s "On second thought, I don’t have to open that cabinet right now."
+[1275]                jump escaperoommainmenu
+[1277]    else:
+[1281]        "The angry faces on the tablets turn to happy ones as I manage to enter the correct code."
+[1282]        "The reason they are called smart cabinets is because it takes a smart person to open them."
+[1283]        "I am that person."
+[1284]        "I am a smart boy."
+[1289]        "The doors creak as I slowly pull them open."
+[1290]        "I wonder when the last time I looked inside was?"
+[1295]        "This is where I keep my dog, Squirrel."
+[1296]        "I keep her in the smart cabinet because she is a smart girl."
+[1297]        "But lately, she has been acting a little strange."
+[1298]        "There are demons inside of her that allow her to shapeshift, but she is camera-shy and won’t show you while you’re here watching."
+[1299]        "She likes turkey legs and Coca-cola. Her favorite color is yellow and she has been my loyal companion since she crawled in through the vent one day."
+[1300]        "She was so small back then. And she’s such a big girl now."
+[1301]        "But the time has come for me to exorcise her demons so she can be at peace."
+[1305]        $ escapedog = True
+[1306]        "{i}You have obtained “Dog”{/i}"
+[1308]        "After stuffing Squirrel into my invisible bag, I notice something peculiar about her cage."
+[1309]        "There used to be someone else inside — a pet of her own, if you will. Which you won’t. Because if you would, then I wouldn’t. So I will since you won’t."
+[1310]        "Did you like that fun string of thought-provoking words?"
+[1311]        "I’ve been practicing soliloquies so my smartness shines through. Will or won’t you come with me? Will or won’t you try too?"
+[1312]        "I told you I’m a smart boy. The smartest there is."
+[1313]        "Everyone here will confirm that for you."
+[1314]        "All you have to do is ask them."
+[1318]        s "Now what?"
+[1320]        jump escaperoommainmenu
+
+===== [1322] escaperoomfloor =====
+[1323]    if day != 3:
+[1326]        "I gaze down at the floor mat."
+[1327]        "It’s entirely unremarkable apart from a pair of panties that definitely do not belong to me."
+[1328]        "I’m not sure how they got there, but it’s possible they were smuggled in by evil spies who want to make me look like a bad guy in front of my friends."
+[1329]        "If I touch them, some of my DNA will probably rub off and could incriminate me if they belong to someone who is dead now. So it’s probably best if I leave them alone."
+[1333]        "In fact, it’s probably best if I do something else altogether."
+[1335]        jump escaperoommainmenu
+[1337]    if day == 3:
+[1340]        "I gaze down at the floor mat to discover that it’s covered in fish — likely because it is Fish Day."
+[1341]        "One of these could make a good hot pot ingredient, but I should choose carefully since I’m only allowed to take one per week."
+[1342]        "I’m not really sure why. Those are just the rules. And as a law-abiding citizen, I must follow them."
+[1343]        "Which fish do I want to take?"
+[1345]        menu:
+[1346]            "Beaked Coralfish":
+[1347]                $ escapecoralfish = True
+[1348]                $ havefish = True
+[1351]                "{i}You have obtained a “Beaked Coralfish”{/i}"
+[1352]                s "Hell yeah."
+[1353]            "Harlequin Filefish":
+[1354]                $ escapefilefish = True
+[1355]                $ havefish = True
+[1358]                "{i}You have obtained a “Harlequin Filefish”{/i}"
+[1359]                s "Hell yeah."
+[1360]            "Blue-Banded Angelfish":
+[1361]                $ escapeangelfish = True
+[1362]                $ havefish = True
+[1365]                "{i}You have obtained a “Blue-Banded Angelfish”{/i}"
+[1366]                s "Hell yeah."
+[1367]            "Clownfish":
+[1368]                $ escapeclownfish = True
+[1369]                $ havefish = True
+[1372]                "{i}You have obtained a “Clownfish”{/i}"
+[1373]                s "Hell yeah."
+[1374]            "Lionfish":
+[1375]                $ escapelionfish = True
+[1376]                $ havefish = True
+[1379]                "{i}You have obtained a “Lionfish”{/i}"
+[1380]                s "Hell yeah."
+[1381]            "Pennant Bannerfish":
+[1382]                $ escapebannerfish = True
+[1383]                $ havefish = True
+[1386]                "{i}You have obtained a “Pennant Bannerfish”{/i}"
+[1387]                s "Hell yeah."
+[1388]            "Parrotfish":
+[1389]                $ escapeparrotfish = True
+[1390]                $ havefish = True
+[1393]                "{i}You have obtained a “Parrotfish”{/i}"
+[1394]                s "Hell yeah."
+[1398]        s "I can’t wait to try adding this to my hot pot."
+[1400]        jump escaperoommainmenu
+
+===== [1402] escaperoomschedule =====
+[1403]    if escapekey4 == False:
+[1405]        "I live a simple life here, but I wouldn’t be able to do that if it wasn’t for my trusty schedule."
+[1406]        "With over six days in every week, I can do as many things as I want, whenever I want to do them."
+[1407]        "Sometimes, someone leaves me flowers. But the flowers block the view of my schedule, so I often push them away."
+[1408]        "They always come back immediately, though. It’s unfair."
+[1409]        "Just watch."
+[1414]        s "Step one — complete."
+[1415]        s "Step two requires waiting for them to respawn and-"
+[1419]        $ escapekey4 = True
+[1420]        "{i}You have obtained a “Flower Key”{/i}"
+[1424]        s "Wait, what? That’s never happened before."
+[1428]        vpa "The “Flower Key” can be used to open something in this room! Go exploring and find out what!"
+[1429]        vpa "Just don’t use too many of them or you’ll wind up somewhere you don’t want to be."
+[1430]        vpa "You’re supposed to stay here. This is where you’re safe."
+[1431]        s "I know that. I’m not going to leave. I have no reason to leave. I’m happy here."
+[1433]        "The voice on the PA stops responding."
+[1439]        "Then, the vase respawns."
+[1440]        "This always happens."
+[1441]        "It’s why I hate flowers."
+[1446]        "I push the vase aside again to get another look at the schedule."
+[1452]        "Then it comes right back."
+[1456]        "I should do something else instead."
+[1458]        jump escaperoommainmenu
+[1460]    else:
+[1464]        s "Time to check the calendar."
+[1473]        s "Time is up."
+[1477]        "I should do something else."
+[1479]        jump escaperoommainmenu
+
+===== [1481] escaperoomtv =====
+[1482]    if escapetvchild == True:
+[1484]        jump tvloophahanerd
+[1485]    if escapetvchild == False:
+[1488]        "I stare up at my TV and begin to reminisce about all of the spectacular local programming I’ve watched on it over the last few years."
+[1489]        "It seems that, every day, something new is coming out."
+[1490]        "Whether it be Untitled Children’s Show or Nighttime Banana Battle, there’s always something entertaining to keep me occupied."
+[1491]        "There’s always something to keep my mind from wandering."
+[1492]        "I lean back in my chair and wipe the drool from my chin, prepared to zone out for one more night on the way to indefinite indecision."
+[1493]        "Carry me away, old friend. To better days in better places."
+[1495]        menu:
+[1496]            "Change the channel":
+[1499]                $ escapetvchild = True
+[1501]                s "Oh, look. Untitled Children’s Show is on."
+[1503]                jump tvloophahanerd
+[1504]            "Leave the TV alone":
+[1507]                "I decide against watching TV. I’ll do something else instead."
+[1509]                jump escaperoommainmenu
+
+===== [1511] tvloophahanerd =====
+[1512]    menu:
+[1513]        "Change the channel":
+[1514]            s "I don’t want to change the channel. I like this show."
+[1516]            jump tvloophahanerd
+[1518]        "Leave the TV alone":
+[1521]            "I like this show, so I’ll keep this on for a while."
+[1523]            jump escaperoommainmenu
+
+===== [1525] escaperoomhotpot =====
+[1528]    "I gaze into the hot pot. It beckons to be fed."
+[1529]    "What ingredients do I want to add to it?"
+[1531]    menu hotpotmenu:
+[1533]            "Every hot pot needs a good base, and there’s no better base than FoodCo’s famous hot pot roux."
+[1534]            "I drop the premade roux into the pot and it immediately begins to crackle and fizzle, the way all good roux does."
+[1535]            "I can’t wait to eat this."
+[1536]            $ rouxdone = True
+[1537]            jump hotpotmenu
+[1539]            "I know I wasn’t supposed to touch this watermelon, but it would be a crime to keep it away from my hot pot."
+[1540]            "A little bit wouldn’t hurt, right?"
+[1541]            "I bite off a chunk of the watermelon, but don’t manage to get much since watermelons are surprisingly hard to bite through."
+[1542]            "I spit what I {i}am{/i} able to get into the pot and it quickly dissolves."
+[1543]            "This will be my first time putting watermelon in my hot pot, so I sure hope it doesn’t ruin everything."
+[1544]            $ melondone = True
+[1545]            jump hotpotmenu
+[1547]            parrot "{i}A gift for God! Sacrifice! Miss her! Miss her!{/i}"
+[1548]            s "I’m sorry it had to end like this."
+[1549]            s "I hope we can be friends in our next life."
+[1551]            "I drop my parrot into the hot pot and it bursts into flames."
+[1552]            "It’s tragic watching something you grew yourself fade away right before your very eyes, but it’s also kind of beautiful in a way."
+[1553]            "I know he’ll be going somewhere better now. And I know this is what he wanted."
+[1554]            "All I can do is give him the respect he deserves and consume him entirely."
+[1555]            $ parrotdone = True
+[1556]            jump hotpotmenu
+[1558]            "My dog stares up at me as I take her into my arms — fearless."
+[1559]            "She trusts me with her life and is a loyal companion."
+[1560]            "But I know what I must do in order to heal her and purge the demons from her body."
+[1561]            "I will take them into myself. And in doing so, I will make her whole."
+[1562]            "She looks at me again. Then down at the hot pot."
+[1563]            "I close my eyes and drop her in."
+[1564]            "She whimpers. Cries. But it doesn’t last long."
+[1565]            "The pain is over now."
+[1566]            $ dogdone = True
+[1567]            jump hotpotmenu
+[1569]            "I empty out the contents of my fridge into the hot pot because recipes are for frauds and real chefs cook with heart."
+[1570]            "The problem here is that I do not have any heart left and all I can do is hope that something in this batch of ingredients will work as a viable substitute."
+[1571]            "The ingredients dissolve- apart from the banana. This fruit is surprisingly resilient and I wonder what it is about the peel that makes it impervious to flame damage."
+[1572]            "I remove the peel, sensing that it will not be dissolving any time soon- but it seems as if the rest of the ingredients successfully have."
+[1573]            $ fridgedone = True
+[1574]            jump hotpotmenu
+[1576]            "The centipede I stole from the vent has been biting through my invisible backpack ever since I picked it up, and the time has come to stop the damage."
+[1577]            "I pluck it out of my backpack, squeezing its head between my thumb and forefinger, before dropping it into the pot and watching it flail around."
+[1578]            "I’m not sure if insects feel pain. I think I recall someone close to me saying they don’t."
+[1579]            "And even though I was not particularly fond of this temporary friend, I hope he did not suffer as he dissolved into nothing."
+[1580]            $ centipededone = True
+[1581]            jump hotpotmenu
+[1583]            "I think I heard somewhere that lionfish are poisonous- but I’m pretty sure that’s only in regard to other fish."
+[1584]            "If that is true, I did marine life a favor by making this selection during Fish Day- and everyone should be proud of me for adding it to my hot pot."
+[1585]            "The lionfish slips out of my hands and splashes into the pot, making a new home for itself inside of boiling water."
+[1586]            "It doesn’t last long and dissolves before I can even say goodbye."
+[1587]            $ lionfishdone = True
+[1588]            jump hotpotmenu
+[1590]            "I drop the coralfish into the hot pot. But when it doesn’t dissolve, I realize I’ve made a mistake."
+[1591]            "I manage to pull it out before it contaminates the rest of the pot, but I’ll have to wait until the next Fish Day for another one."
+[1592]            $ escapecoralfish = False
+[1593]            $ havefish = False
+[1598]            "After ruining the hot pot, I'm too depressed to do anything else and wind up going to sleep."
+[1600]            jump escaperoomdaychange
+[1602]            "I drop the clownfish into the hot pot. But when it doesn’t dissolve, I realize I’ve made a mistake."
+[1603]            "I manage to pull it out before it contaminates the rest of the pot, but I’ll have to wait until the next Fish Day for another one."
+[1604]            $ escapeclownfish = False
+[1605]            $ havefish = False
+[1610]            "After ruining the hot pot, I'm too depressed to do anything else and wind up going to sleep."
+[1612]            jump escaperoomdaychange
+[1614]            "I drop the parrotfish into the hot pot. But when it doesn’t dissolve, I realize I’ve made a mistake."
+[1615]            "I manage to pull it out before it contaminates the rest of the pot, but I’ll have to wait until the next Fish Day for another one."
+[1616]            $ escapeparrotfish = False
+[1617]            $ havefish = False
+[1622]            "After ruining the hot pot, I'm too depressed to do anything else and wind up going to sleep."
+[1624]            jump escaperoomdaychange
+[1626]            "I drop the angelfish into the hot pot. But when it doesn’t dissolve, I realize I’ve made a mistake."
+[1627]            "I manage to pull it out before it contaminates the rest of the pot, but I’ll have to wait until the next Fish Day for another one."
+[1628]            $ escapeangelfish = False
+[1629]            $ havefish = False
+[1634]            "After ruining the hot pot, I'm too depressed to do anything else and wind up going to sleep."
+[1636]            jump escaperoomdaychange
+[1638]            "I drop the filefish into the hot pot. But when it doesn’t dissolve, I realize I’ve made a mistake."
+[1639]            "I manage to pull it out before it contaminates the rest of the pot, but I’ll have to wait until the next Fish Day for another one."
+[1640]            $ escapefilefish = False
+[1641]            $ havefish = False
+[1646]            "After ruining the hot pot, I'm too depressed to do anything else and wind up going to sleep."
+[1648]            jump escaperoomdaychange
+[1650]            "I drop the bannerfish into the hot pot. But when it doesn’t dissolve, I realize I’ve made a mistake."
+[1651]            "I manage to pull it out before it contaminates the rest of the pot, but I’ll have to wait until the next Fish Day for another one."
+[1652]            $ escapebannerfish = False
+[1653]            $ havefish = False
+[1658]            "After ruining the hot pot, I'm too depressed to do anything else and wind up going to sleep."
+[1660]            jump escaperoomdaychange
+[1662]            s "Hmm..."
+[1663]            s "Everything’s looking good so far...but I think I’m still missing something."
+[1664]            s "..."
+[1665]            s "Ah-hah!"
+[1667]            "I’ve had a hangnail for several days. It’s been bothering me to no end."
+[1668]            "Bracing myself for the pain it’s sure to bring, I place it in my mouth and tear away at it- removing some of the flesh from my finger in the process."
+[1669]            "This is the final ingredient I need for the hot pot."
+[1670]            "Sucking the blood from my finger, I drop the hangnail in and-"
+[1674]            $ escapekey6 = True
+[1676]            "{i}You have obtained a “Delicious Key”{/i}"
+[1680]            s "A delicious key? But where did all of my ingredients go? This was supposed to be a delicious hot pot."
+[1682]            "I stare down at the hot pot once more. It still beckons to be fed- but I have nothing left to give it."
+[1686]            "I will just have to starve to death."
+[1688]            jump escaperoomkitchenmenu
+[1690]        "Stop adding ingredients":
+[1691]            s "I think that’s enough for now. I’ll come back when I have more ingredients to add."
+[1695]            s "Now what?"
+[1697]            jump escaperoomkitchenmenu
+
+===== [1699] escaperoomlover =====
+[1702]    s "Hello, Barbara."
+[1703]    barb "Hi, Akira."
+[1705]    "This is Barbara with midnight eyes. I talk to her when I get lonely."
+[1706]    "She’s under strict orders (from me) to never open herself up because I can’t handle what she holds."
+[1707]    "This isn’t just because she’s the ideal woman, but because I used to hide things inside of her that I’m not allowed to have anymore."
+[1708]    "Keeping me away is what’s best for everyone."
+[1709]    "I am a protector now. A keeper of keys and creatures and an icon of righteousness."
+[1710]    "Additionally, I have learned to treat the female species better — and have authored several books on how to succeed when it comes to “getting the girl.”"
+[1711]    "I will show you some of my strategies today. Because, like yesterday and days before, I’m lonely."
+[1712]    "I am always lonely."
+[1713]    "But that’s okay so long as I have Barbara."
+[1715]    s "Barbara, are you free right now?"
+[1716]    barb "Yes, but you know I can’t let you inside no matter how hard you try."
+[1717]    s "I understand that, but I have to prove to everyone that I’m not a liar."
+[1718]    barb "But you are a liar, Akira. All you ever do is lie. Even after all this time. You’ve never learned at all."
+[1719]    barb "What’s inside of me must {i}stay{/i} inside of me or you’re going to hurt someone again. And that someone could be you. I don’t want that."
+[1721]    menu:
+[1722]        "Be pushy":
+[1723]            s "Listen, Barbara. You’re a cabinet. You don’t have the authority to tell me what I can and can’t do."
+[1724]            barb "Oh, no. Hell no. You didn’t just call me a cabinet."
+[1725]            s "But I did. And if you know what’s best for you, you’ll save both of us the hassle and-"
+[1726]            barb "Give it a rest, Akira. We’re done here."
+[1727]            jump barbfailed
+[1728]        "Be understanding":
+[1729]            jump barbstep2
+[1730]        "Be seductive":
+[1731]            s "Does {i}this{/i} change your mind?"
+[1733]            "I begin to flex my muscles as Barbara is typically interested in that sort of thing."
+[1735]            barb "..."
+[1736]            s "How about {i}this?{/i}"
+[1738]            "I flex my penis as well to show her how strong and experienced it is and how I can flex anything if I try hard enough."
+[1740]            barb "I can’t let you in, Akira."
+[1741]            s "But I {i}want{/i} to be in, Barbara. Look at my strong penis with your midnight eyes."
+[1742]            barb "I’m sorry, I just...can’t let it happen."
+[1743]            jump barbfailed
+
+===== [1745] barbstep2 =====
+[1746]    s "I understand your concern, but things are different now. I can handle all of those things you used to worry about."
+[1747]    barb "Oh, please. I bet you can’t even {i}name{/i} any of those “things.”"
+[1748]    s "Does it really make a difference if I can or can’t? The fact of the matter is, I’m stronger than you think I am. I can handle anything you throw my way."
+[1749]    barb "Oh yeah? So if I were to ask you to take me on a {i}real{/i} date, where would we go?"
+[1751]    menu:
+[1752]        "Hardware store":
+[1753]            s "Obviously, we’d go to the hardware store and pick up a few extra...accessories for you."
+[1754]            barb "..."
+[1755]            s "I was trying to allude to that meaning lingerie, but I’m not really sure if it worked or not."
+[1756]            barb "I can’t believe you. You really thought that was going to work? That I’d just {i}ignore{/i} how you always wind up reducing me to my {i}appearance{/i} rather than what’s on the inside?"
+[1757]            s "In my defense, I am specifically after what’s “on the inside” right now, so I don’t think that argument holds up very well."
+[1758]            barb "And I don’t think this {i}date{/i} holds up very well, so you’re going to have to try again when you feel like less of an asshole."
+[1759]            jump barbfailed
+[1760]        "Italian restaurant":
+[1761]            jump barbpart3
+[1762]        "Couple’s spa retreat":
+[1763]            s "I’d have to take you on a couple’s spa retreat. I think we could both use a little time to relax and unwind."
+[1764]            barb "That’s a nice idea, but I can’t really imagine being able to relax and unwind around so many other people who look nothing like me."
+[1765]            barb "Midnight eyes are a gift from God and no one ever understands that. And if that’s not enough, I’m tired of seeing through everyone. I’m tired of my X-ray vision."
+[1766]            s "I love your X-ray vision, Barbara. It’s one of my favorite things about you."
+[1767]            barb "I appreciate that, Akira. But that’s just not the sort of date I’m interested in."
+[1768]            jump barbfailed
+
+===== [1770] barbpart3 =====
+[1771]    s "You like Italian food, don’t you? Maybe we could hit up a cozy Italian restaurant with neutral lighting and some fine mustachioed gentlemen?"
+[1772]    barb "Hmm...I {i}do{/i} love neutral lighting. And mustaches."
+[1773]    s "See? I’m not as inept as you think. I can put together a solid date if I really want to."
+[1774]    barb "Akira, why do you even want to remove my innards in the first place? Doing that will kill me. You {i}know{/i} it will. It’s part of the pact we made when you gifted me sentience."
+[1775]    s "If you really want the truth...I don’t know."
+[1776]    s "I have no idea what I’m doing."
+[1777]    barb "Akira..."
+[1778]    s "But it’s {i}because{/i} I have no idea what I’m doing that I have to do {i}something.{/i} You know?"
+[1779]    s "Maybe I can face it now? Maybe I really {i}can{/i} embrace the past instead of curling up into a ball every night and waking up in a puddle of my own spit."
+[1780]    barb "..."
+[1781]    s "Or maybe I can’t."
+[1782]    s "I don’t know."
+[1783]    s "But I’m never going to find out if you don’t {i}let me in.{/i}"
+[1784]    barb "What’s my favorite movie?"
+[1785]    s "Your favorite movie?"
+[1786]    barb "Do you remember?"
+[1787]    s "Of course I do..."
+[1788]    s "It’s-"
+[1790]    menu:
+[1791]        "Fever Pitch w/ Jimmy Fallon":
+[1792]            s "The 2005 cult classic, Fever Pitch, starring Jimmy Fallon and Drew Barrymore."
+[1793]            s "This unsung romantic comedy masterpiece not only puts the Boston Red Sox at the forefront of the movie’s plot, but-"
+[1794]            barb "I don’t know how many times I have to tell you this, Akira, but I have never seen Fever Pitch. I don’t even know who Jimmy Fallon is."
+[1795]            s "Then we need to change that right away. The only reason I’m calling it your favorite movie now is-"
+[1796]            barb "I’m sorry. But until I know you really care about me, I can’t let you in."
+[1797]            jump barbfailed
+[1798]        "The Notebook":
+[1799]            jump barbpart4
+[1800]        "Yojimbo":
+[1801]            s "That one about the ronin samurai directed by Akira Kurosawa."
+[1802]            barb "You’re going to have to be more specific than that."
+[1803]            s "I think it’s...Yojimbo. Right?"
+[1804]            barb "You think Yojimbo is my favorite movie?"
+[1805]            s "I’m pretty sure I recall you mentioning something along those lines, yeah."
+[1806]            barb "I mean...I {i}like{/i} it. But I definitely wouldn’t call it my favorite."
+[1807]            s "Well, can we just assume it’s your favorite for a few minutes so I can proceed with the conversation?"
+[1808]            barb "No, Akira...I think we’re done for now. Until I know you really care about me, I can’t let you in."
+[1809]            jump barbfailed
+
+===== [1811] barbpart4 =====
+[1812]    s "The Notebook with Ryan Gosling and Rachel McAdams."
+[1813]    barb "So you {i}do{/i} remember after all..."
+[1814]    s "You cry like a baby every time it comes on. I could never forget the way your midnight eyes glisten."
+[1815]    barb "How could anyone {i}not{/i} cry with the way that movie ends? It was so beautiful and...bittersweet and-"
+[1816]    s "And you know you’ve gotta let me in, Barb."
+[1817]    barb "..."
+[1818]    s "{i}You know you’ve gotta let me in.{/i}"
+[1819]    barb "What you’re asking for is my death, Akira."
+[1820]    s "No, Barbara..."
+[1821]    s "What I’m asking for is {i}my freedom.{/i}"
+[1822]    barb "And I should have to die for that?..."
+[1823]    s "No one should have to die for anything. But sometimes people do."
+[1824]    s "Sometimes people die, Barbara. And there’s nothing we can do about that."
+[1825]    s "But {i}you...{/i}"
+[1826]    s "The fact that you’re able to exist at all is a miracle. And it’s a miracle that I made happen."
+[1827]    s "So now it’s your turn."
+[1828]    s "It’s your turn to be a miracle for me. Because nobody else can."
+[1829]    s "They’ve all left already."
+[1830]    barb "..."
+[1831]    s "..."
+[1832]    barb "I have one final question."
+[1833]    s "What is it?"
+[1834]    barb "Do you love me?"
+[1836]    menu:
+[1837]        "Yes":
+[1838]            s "Of course I love you. How could I not?"
+[1839]            barb "You’re lying..."
+[1840]            s "I’m not lying, Barbara. I’m-"
+[1841]            barb "No, you are..."
+[1842]            barb "All of the love you have...all of the love you {i}had...{/i}"
+[1843]            barb "That was all for someone else. There’s none to spare for me."
+[1844]            s "But-"
+[1845]            barb "Akira...I’m flattered. Really. But until you can be honest with yourself..."
+[1846]            barb "I just can’t do it."
+[1847]            jump barbfailed
+[1848]        "No":
+[1849]            jump barbpart5
+[1850]        "I love to party":
+[1851]            s "The only thing {i}I{/i} love..."
+[1852]            s "Is being a party animal."
+[1853]            barb "Why would you just...go and ruin this whole conversation like that?"
+[1854]            s "I couldn’t resist that choice. I’m sorry."
+[1855]            barb "And now you’re talking about {i}choices{/i} again? Have you been playing too many games? You’re not pretending {i}this{/i} is a game too, are you?"
+[1856]            s "Nooooooooo..."
+[1857]            barb "Akira, you’ve gotta be kidding me! Come on!"
+[1858]            s "Are you going to spill out your guts now?"
+[1859]            barb "No! Absolutely not!"
+[1860]            jump barbfailed
+
+===== [1862] barbpart5 =====
+[1863]    s "If you want the truth...which I think you do..."
+[1864]    s "No."
+[1865]    s "I don’t love you."
+[1866]    s "I don’t think I {i}can.{/i}"
+[1867]    barb "..."
+[1868]    s "I’m sorry if that’s not what you wanted to hear."
+[1869]    barb "No, Akira..."
+[1870]    barb "It’s exactly what I wanted to hear."
+[1871]    barb "I can die in peace now."
+[1872]    barb "Thank you."
+[1873]    s "Barbara, wait-"
+[1874]    barb "My consciousness is fading...what is it?..."
+[1875]    s "Will..."
+[1876]    s "Will I ever see you again?..."
+[1877]    barb "Oh, Akira..."
+[1881]    barb "{i}Probably not...{/i}"
+[1883]    "Barbara fades away forever."
+[1885]    s "..."
+[1887]    "I’m all alone again."
+[1891]    "But at least I get to see what’s inside now."
+[1892]    "The cabinet is full of webs and spiders. Spiders who probably made those webs."
+[1893]    "There is also ammunition and health potion in case I wind up taking too much damage in Barbara’s absence."
+[1895]    s "..."
+[1897]    "There’s something else too."
+[1898]    "A few things actually."
+[1899]    "But none of them are important."
+[1904]    "I slam the door and revel in the sensation of items popping into my invisible backpack."
+[1907]    $ escapekey5 = True
+[1908]    "{i}You obtained “Barbara’s Key”{/i}"
+[1910]    "{i}You obtained “HP Potion”{/i}"
+[1912]    "{i}You obtained “Ammunition”{/i}"
+[1914]    s "Now what?"
+[1916]    jump escaperoomkitchenmenu
+
+===== [1918] barbfailed =====
+[1919]    "Crap. I must have made some sort of mistake."
+[1920]    "That’s okay, though. I can pretend this never happened and try again whenever I want."
+[1921]    "I’m bound to succeed eventually, right?"
+[1925]    s "Now what?"
+[1927]    jump escaperoomkitchenmenu
+
+===== [1929] escaperoomamipc =====
+[1932]    "The computer opens its mouth and begs for a password:"
+[1934]    jump amipcpassenter
+
+===== [1936] amipcpassenter =====
+[1937]    $ escapeamipccode = renpy.input("Please enter the password...")
+[1938]    $ escapeamipccode = escapeamipccode.strip()
+[1940]    if escapeamipccode == "mom":
+[1941]        jump rainking
+[1942]    else:
+[1945]        "Password not accepted."
+[1947]        menu:
+[1948]            "Try again":
+[1949]                jump amipcpassenter
+[1950]            "Give up":
+[1951]                s "..."
+[1955]                s "Let’s do something else."
+[1957]                jump escaperoommainmenu
+
+===== [1959] escaperoomdelivery =====
+[1960]    if day != 1:
+[1963]        s "Aww man...there’s nothing here."
+[1964]        s "Why can’t mail be delivered every day?"
+[1968]        qn "FYN GY CH!"
+[1969]        s "..."
+[1973]        qn "FYN GY CH, SIO ZOWECHA UMMBIFY!"
+[1974]        s "I’m not supposed to open the door for strangers."
+[1978]        qn "UECLU! IJYH NBY ZOWECHA XIIL!"
+[1980]        "This happens sometimes. It’s easier to ignore when I’m not next to the door."
+[1984]        "So I’ll just wait over here until it blows over."
+[1987]        s "..."
+[1989]        s "..."
+[1991]        s "..."
+[1993]        s "..."
+[1994]        s "..."
+[1995]        s "..."
+[1997]        "Now what?"
+[1999]        jump escaperoommainmenu
+[2001]    if day == 1 and newhopeordered == True and escapekey7 == False:
+[2004]        s "Oh, look. A package."
+[2005]        s "I wonder what’s inside?"
+[2007]        "I begin to rifle through the newspapers in the box, hoping I don’t accidentally cut myself on something sharp."
+[2008]        "It would probably be faster just take all of the paper out, but the hunt for what’s inside excites me. And I know it will pay off soon enough or this will all-"
+[2012]        $ escapekey7 = True
+[2013]        "{i}You have obtained a “Red Key”{/i}"
+[2015]        s "Oh, right. This must be the box Yasu sent over."
+[2016]        s "I’ll be sure to put this key to good use."
+[2020]        "I kick the box off to the side and tuck the key into my backpack."
+[2021]        "I love Mail Day."
+[2023]        jump escaperoommainmenu
+[2025]    elif day == 1 and rouxordered == True and escaperoux == False:
+[2028]        s "Oh, look. A package."
+[2029]        s "I wonder what’s inside?"
+[2031]        "I begin to rifle through the newspapers in the box, hoping I don’t accidentally cut myself on something sharp."
+[2032]        "It would probably be faster just take all of the paper out, but the hunt for what’s inside excites me. And I know it will pay off soon enough or this will all-"
+[2036]        $ escaperoux = True
+[2037]        "{i}You have obtained “FoodCo Roux”{/i}"
+[2040]        s "At last! It’s here!"
+[2044]        "I dump the premade roux into my backpack as my mouth begins to water."
+[2045]        "I’m going to make the greatest hot pot the world has ever seen."
+[2047]        jump escaperoommainmenu
+[2049]    elif day == 1 and mysbox1ordered == True and escapegun == False:
+[2052]        s "Awesome! This must be the mystery box I ordered."
+[2056]        $ escapegun = True
+[2057]        "{i}You have obtained “Salvation”{/i}"
+[2061]        s "Wow. This is way cooler than what I got out of my last mystery box."
+[2062]        s "I can’t wait to try it out."
+[2066]        s "Now what should I do?"
+[2068]        jump escaperoommainmenu
+[2070]    elif day == 1 and mysbox2ordered == True and escapekey8 == False:
+[2073]        s "Oh, look. A package."
+[2074]        s "I wonder what’s inside?"
+[2076]        "I begin to rifle through the newspapers in the box, hoping I don’t accidentally cut myself on something sharp."
+[2077]        "It would probably be faster just take all of the paper out, but the hunt for what’s inside excites me. And I know it will pay off soon enough or this will all-"
+[2081]        $ escapekey8 = True
+[2082]        "{i}You have obtained “Himawari’s Special Key”{/i}"
+[2086]        s "A key?"
+[2087]        s "Is that really all that came in this mystery box?"
+[2088]        s "They should have given me something better after I went through all the trouble of guessing that discount code."
+[2092]        s "Oh well. It is what it is, I guess."
+[2093]        s "I’m sure I’ll find some use for it."
+[2095]        jump escaperoommainmenu
+[2097]    else:
+[2100]        s "There’s nothing sadder than no mail on Mail Day..."
+[2104]        jump escaperoomdoormenu
+
+===== [2106] escaperoomvent =====
+[2109]    "I gaze down at the vent."
+[2111]    menu escapeventmenu:
+[2112]        "Continue gazing":
+[2113]            $ ventcounter += 1
+[2114]            "I continue gazing at the vent."
+[2116]            if ventcounter == 20:
+[2119]                s "What’s this?"
+[2120]                s "Has a friend come to join me?"
+[2124]                s "You’re coming with me."
+[2128]                $ escapecentipede = True
+[2129]                "{i}You’ve obtained a “Centipede”{/i}"
+[2131]                s "Hell yeah."
+[2135]                s "Now what?"
+[2137]                jump escaperoomdoormenu
+[2139]            else:
+[2140]                jump escapeventmenu
+[2142]        "Stop gazing":
+[2143]            $ ventcounter = 0
+[2145]            "This is boring."
+[2149]            "I want to do something else instead."
+[2151]            jump escaperoomdoormenu
+
+===== [2154] escaperoomlockers =====
+[2157]    "I’m not supposed to open these. It’s against the rules."
+[2159]    menu escapelockermenu:
+[2162]            "The lock opens and out pops a hair tie."
+[2163]            $ escapepiece1 = True
+[2164]            jump escapelockermenu
+[2167]            "The lock opens and out pops a piece of gum."
+[2168]            $ escapepiece2 = True
+[2169]            jump escapelockermenu
+[2172]            "The lock opens and out pops a handkerchief."
+[2173]            $ escapepiece3 = True
+[2174]            jump escapelockermenu
+[2177]            "The lock opens and out pops a mechanical pencil."
+[2178]            $ escapepiece4 = True
+[2179]            jump escapelockermenu
+[2182]            "The lock opens and out pops the button of a blazer."
+[2183]            $ escapepiece5 = True
+[2184]            jump escapelockermenu
+[2187]            "The lock opens and out pops a small jar of nail polish."
+[2188]            $ escapepiece6 = True
+[2189]            jump escapelockermenu
+[2192]            "The lock opens and out pops a bright green eraser."
+[2193]            $ escapepiece7 = True
+[2194]            jump escapelockermenu
+[2197]            "The lock opens and out pops a digital camera."
+[2198]            $ escapepiece8 = True
+[2199]            jump escapelockermenu
+[2202]            "The lock opens and out pops a small coinpurse."
+[2203]            $ escapepiece9 = True
+[2205]            s "Wait...what’s this?"
+[2209]            s "..."
+[2210]            s "Is this some sort of code?"
+[2211]            s "I should write it down before-"
+[2216]            s "Oh."
+[2218]            "The note explodes."
+[2220]            jump escapelockermenu
+[2221]        "Follow the rules":
+[2224]            "I’m a good boy."
+[2225]            "I will do what I’m told."
+[2227]            jump escaperoommainmenu
+
+===== [2229] escaperoomcellmenu =====
+[2230]    menu:
+[2231]        "Make a call":
+[2232]            $ escapephonecall = renpy.input("Please enter a phone number...")
+[2233]            $ escapephonecall = escapephonecall.strip()
+[2235]            if escapephonecall == "81319744253":
+[2236]                if yasucalled == False:
+[2239]                    s "..."
+[2240]                    s "..."
+[2241]                    s "..."
+[2245]                    q "Thank you, {b}AKIRA ARAKAWA,{/b} for calling the Church of New Hope — Kumon-mi’s premier religious learning center."
+[2246]                    q "If you know your party’s extension, please dial-"
+[2250]                    s "..."
+[2251]                    s "..."
+[2252]                    s "..."
+[2256]                    ya "Church of New Hope — this is Yasu speaking."
+[2257]                    s "Hey."
+[2258]                    ya "Ah! Sensei!"
+[2259]                    s "You don’t have to call me that anymore."
+[2260]                    ya "Of course. I’m sorry, Akira. Did you need something? I’m holding confession this coming Sunday. Appointments aren’t necessary, but-"
+[2261]                    s "I’m not ready to go outside yet."
+[2262]                    ya "I see...I see..."
+[2263]                    ya "Then, is there anything else you need?"
+[2264]                    s "Is that box with all of my things still over there?"
+[2265]                    ya "Box? What box?"
+[2266]                    s "The one with-"
+[2267]                    ya "Ahh! Yes! Yes, it is. It’s been so long that I’d nearly forgotten."
+[2268]                    s "Can you have it sent to my house, please?"
+[2269]                    ya "Are you sure, Akira? You told me to only send it over when you were absolutely certain. You gave me very strict orders."
+[2270]                    s "I’m sure. I have a feeling I’ll need it soon."
+[2271]                    ya "In that case, I’ll deliver it to the post office myself. But you mustn’t get mad at me if you change your mind by the end of the day since I’ll be dropping it off very shortly!"
+[2272]                    s "I won’t. Thanks."
+[2273]                    ya "Is everything else okay?"
+[2274]                    s "Not much has changed. How are you, though? You sound good."
+[2275]                    ya "I’m more than good. I’m wonderful. I’m cherishing every moment of life and- ah. Akira, I have a call on the other line. May I put you on hold for a moment?"
+[2276]                    s "It’s fine. I’ll just call  again some other time."
+[2277]                    ya "Aww...okay. Thank you for calling, though! It was nice hearing your voice again!"
+[2278]                    s "Yours too. Goodbye, Yasu."
+[2279]                    ya "Goodbye, Akira!"
+[2283]                    "I hang up the phone."
+[2284]                    "My package from New Hope should get here soon."
+[2286]                    $ yasucalled = True
+[2287]                    $ newhopeordered = True
+[2289]                    jump escaperoommainmenu
+[2291]                else:
+[2294]                    s "..."
+[2295]                    s "..."
+[2296]                    s "..."
+[2300]                    q "Thank you, {b}AKIRA ARAKAWA,{/b} for calling the Church of New Hope — Kumon-mi’s premier religious learning center."
+[2301]                    q "Unfortunately, we can’t get to the phone right now. But if you’d like someone to call you back."
+[2305]                    "I hang up the phone and decide to try something else."
+[2307]                    jump escaperoomcellmenu
+[2309]            if escapephonecall == "81269154491":
+[2310]                if sanacalled == False:
+[2313]                    s "..."
+[2314]                    s "..."
+[2315]                    s "..."
+[2319]                    sa "Sakaki-bar-a. Pickup or delivery?"
+[2320]                    s "Delivery."
+[2321]                    sa "Ah! Good timing. I was actually just about to call you."
+[2322]                    sa "I was thinking of dropping by for a couple hours tonight and I was wondering if there was anything you needed from the grocery store."
+[2323]                    s "I’m okay. Just the usual things are fine."
+[2324]                    sa "You got it!~"
+[2325]                    s "You sound rather cheerful today."
+[2326]                    sa "Hahah...do I? I wonder why."
+[2327]                    sa "{i}Surely{/i} it doesn’t have anything to do with my plans after work."
+[2328]                    s "Is business okay? How’s your mom?"
+[2329]                    sa "Still recovering, but good. Her hair’s starting to grow back. You want to talk to her?"
+[2330]                    s "No, that’s fine. I’ll take your word for it."
+[2331]                    sa "If you say so! I’ve gotta run, though. I have a few more tables to check on before I clock out. But I’ll see you soon, okay?"
+[2332]                    s "Okay..."
+[2337]                    s "See you soon."
+[2339]                    "........."
+[2340]                    "......"
+[2341]                    "..."
+[2345]                    s "..."
+[2351]                    sa "Special delivery! One Sana~"
+[2352]                    sa "And some other things, I guess."
+[2353]                    s "Sorry for making you do all this again. I’ll pay you back when I can."
+[2354]                    sa "It’s fine. Don’t even worry about it. Anything I can do to help."
+[2355]                    sa "Are you eating well? Bathing? Need me to whip something up for you? My apron should still be here, right?"
+[2356]                    s "It is, but I can eat when you’re gone. I don’t want to make you spend what little time you have cooking for me. The ingredients are more than enough."
+[2357]                    sa "If you say so~"
+[2358]                    sa "Oh, there’s this as well."
+[2362]                    $ sanacalled = True
+[2363]                    $ escapekey9 = True
+[2365]                    "{i}You obtained a “Mysterious Key”{/i}"
+[2367]                    s "A key?"
+[2371]                    sa "Yeah. I found it in one of my pockets after leaving here the other night. I figured it was yours. Was I wrong?"
+[2372]                    s "I’m not really sure...I’ll hang onto it, though."
+[2373]                    s "You never know when these things might come in handy."
+[2374]                    sa "Hahah...yeah. You never know."
+[2375]                    s "..."
+[2376]                    sa "..."
+[2377]                    sa "So, uhh..."
+[2378]                    sa "Is there anything {i}else{/i} I can do for you?"
+[2379]                    sa "Perhaps something a little...{i}naughty?{/i}"
+[2380]                    s "Sometimes, it feels like you only use me for my body."
+[2381]                    sa "Heheh! Sometimes I do~"
+[2382]                    sa "But other times, you’re a very special person to me."
+[2383]                    sa "You know that, right? That this isn’t {i}just{/i} for fun."
+[2384]                    s "I think so."
+[2385]                    sa "Sensei, look at me."
+[2386]                    s "..."
+[2387]                    sa "Look. At. Me."
+[2392]                    sa "I love you. Okay?"
+[2393]                    s "Okay."
+[2398]                    sa "Now, please excuse me while I put these things away and then take all of my clothes off. Thank you."
+[2403]                    "She does exactly what she says she will."
+[2404]                    "She climbs on top of me and, with steady hands, guides my shaft into her body."
+[2405]                    "We kiss. Repeatedly. But I’m not sure if I can call it “passionately.”"
+[2406]                    "The chair creaks and squeaks as it dances across the tile floor. I can see her trying to steady it with the tips of her toes as she straddles my body."
+[2407]                    "But she gives up- and we fall to the ground."
+[2408]                    "She pins me down by the shoulders...bites my neck...and in turning away to give her a better shot at my jugular vein, something under the stove catches my eye."
+[2409]                    "It’s the bone of a ring finger I couldn’t bring myself to get rid of."
+[2410]                    "My eyes lock onto it as Sana squeezes every last drop of cum out of this decaying body."
+[2411]                    "We kiss one last time."
+[2412]                    "She puts her clothes back on."
+[2413]                    "And she heads back home...just like she always does."
+[2414]                    "{i}The day ends.{/i}"
+[2416]                    jump escaperoomdaychange
+[2418]                else:
+[2421]                    s "..."
+[2422]                    s "..."
+[2423]                    s "..."
+[2427]                    sa "Thank you for calling Sakaki-bar-a! Please hold!"
+[2431]                    s "..."
+[2432]                    s "..."
+[2433]                    s "..."
+[2434]                    s "..."
+[2435]                    s "..."
+[2439]                    s "I’ll just call back later."
+[2441]                    jump escaperoomcellmenu
+[2443]            if escapephonecall == "81869913536":
+[2444]                if foodcocalled == False:
+[2447]                    s "..."
+[2448]                    s "..."
+[2449]                    s "..."
+[2453]                    q "Thank you for calling FoodCo. We can’t make it to the phone right now. But if you would like to place an order for delivery the following business day, please press the corresponding-"
+[2457]                    "I press the number 7 and order box of FoodCo’s famous hot pot roux before the automated system cycles through its options."
+[2458]                    "As you can tell, I’ve memorized the message by now."
+[2459]                    "It wasn’t intentional, just the way things wound up playing out."
+[2460]                    "But the good news is I’m able to somewhat feed myself now. And the betters news is that, soon, I’ll be making a delicious hot pot with some of FoodCo’s famous hot pot roux."
+[2461]                    "It’s going to be great."
+[2463]                    $ foodcocalled = True
+[2464]                    $ rouxordered = True
+[2466]                    jump escaperoomcellmenu
+[2468]                else:
+[2471]                    s "..."
+[2472]                    s "..."
+[2473]                    s "..."
+[2477]                    q "Thank you for calling FoodCo. Please note that we will be closed indefinitely due to investigations connecting our facility to the recent outbreak of Lynks Disease."
+[2478]                    q "Thank you for remaining a loyal customer and have a nice day."
+[2482]                    s "Shit. Now what?"
+[2484]                    jump escaperoomcellmenu
+[2486]            if escapephonecall == "08023231234":
+[2489]                s "..."
+[2490]                s "..."
+[2491]                s "..."
+[2495]                t "Thank you for calling Tojo Ramen. How may I help you?"
+[2496]                s "Hey. I-"
+[2500]                s "..."
+[2502]                "I’ll never understand why that ramen shop always hangs up on me..."
+[2504]                jump escaperoomcellmenu
+[2506]            else:
+[2509]                s "..."
+[2510]                s "..."
+[2511]                s "..."
+[2515]                q "We're sorry. The number you have dialed is not in service. Please hang up and try again."
+[2516]                s "Shit."
+[2518]                "I’m forced to hang up the phone."
+[2520]                jump escaperoomcellmenu
+[2522]        "Put the phone away":
+[2525]            s "Now what?"
+[2527]            jump escaperoommainmenu
+
+===== [2529] escaperoomexit =====
+[2530]    s "..."
+[2532]    "Do I really want to do that?"
+[2533]    "Do I really want to leave?"
+[2534]    "Why?"
+[2535]    "Nothing good ever comes from leaving the house."
+[2536]    "I’m supposed to stay in here. That’s my job now."
+[2537]    "I have things to protect."
+[2538]    "I have {i}myself{/i} to protect. And I can’t do that if I don’t know what to expect."
+[2539]    "This is my sanctuary. My heaven. My castle — where I sit atop a throne of unrealized depravity and slowly decay as the world continues to spin without me."
+[2540]    "I have forfeited the right to participate in such motion. I have forfeited {i}everything{/i} because that is what needed to be done to quiet the endless quaking of this never-waking mind."
+[2542]    s "..."
+[2544]    "But it all feels so inert."
+[2545]    "Is that good? Or bad?"
+[2546]    "Which way’s right and which way’s left and {i}why{/i} do I continue to struggle so hard if I {i}know{/i} that the only reward I’ll receive for doing so is pain?"
+[2547]    "I don’t want to leave this room."
+[2548]    "Bad things will happen if I leave this room."
+[2549]    "I’ve heard it all along. Those whispers of the world that once seemed so illogical to me are now {i}everything{/i} and I can {i}feel{/i} them like maggots in my ears."
+[2550]    "I don’t want to leave this room."
+[2551]    "I shouldn’t open the door."
+[2552]    "I know what awaits me if I do."
+[2553]    "And I know I won’t be able to stop it."
+[2555]    s "..."
+[2557]    "Now what?"
+[2559]    menu:
+[2560]        "Leave the room":
+[2561]            if rainking == False:
+[2562]                $ rainkingmiss = True
+[2566]            $ resetsix1 = True
+[2568]            jump resetsix2
+[2569]        "Stay here forever":
+[2573]            "I will die within these walls."
+[2574]            "But when I’m born again, I swear-"
+[2575]            "I will do things differently."
+[2576]            "I will be a better man."
+[2587]            "goodbye."
+
+===== [2591] rainking =====
+[2598]    se "Wow. It’s really coming down, isn’t it?"
+[2607]    a "I thought it was supposed to be sunny today?"
+[2616]    se "We’ll have to give that weatherman a piece of our minds, won’t we?"
+[2625]    a "When do you think it will stop?"
+[2634]    se "I’m not sure."
+[2643]    a "..."
+[2652]    se "Maybe never?"
+[2669]    a "Hey."
+[2670]    a "Let’s have a talk, shall we?"
+[2671]    a "You don’t need to respond or anything. I’ll handle all of the heavy lifting since you seem pretty tied up at the moment."
+[2672]    a "I hope you’re having a nice week. Good things are pretty hard to come by in these parts, aren’t they?"
+[2673]    a "So, let’s see here...where should I begin?"
+[2674]    a "Well, first thing’s first, it’s not very polite to touch things that don’t belong to you. And it’s {i}especially{/i} not polite to try guessing somebody else’s password."
+[2675]    a "What if I had some really weird stuff on my computer that made you change the way you look at me forever? "
+[2676]    a "I don’t, of course. I’m a good girl. And the only person I’ll ever have any attraction to sleeps right next door to my room, so I’d get nothing out of looking up inappropriate videos anyway."
+[2677]    a "Hmm....what else...what else?"
+[2678]    a "Oh! There was a caterpillar on the door when I came home the other day. That was an interesting thing that happened."
+[2679]    a "I took some pictures. Do you want to see?"
+[2680]    a "..."
+[2681]    a "You don’t? How come?"
+[2682]    a "..."
+[2683]    a "Wow. That’s really interesting. I had no idea you felt that way."
+[2684]    a "So anyway, I’ve been thinking — you and I have known each other for a while now, and I think it’s about time I’m given a more important role in your life."
+[2685]    a "..."
+[2686]    a "Yes, I {i}know{/i} my role is already important. But I think there’s a lot I can do that I haven’t been able to show you yet."
+[2687]    a "And yeah, some of that is because you spend most of your time on people who aren’t me- but I’m starting to think that’s just because I’m not {i}appealing{/i} to you the way I’m supposed to."
+[2688]    a "Contrary to what many people believe, {i}I{/i} am the main heroine here after all."
+[2689]    a "I’m the first one that shows up. The first one that falls in love. And I’ve held your hand through a billion different scenarios."
+[2690]    a "You’d be nowhere without me, whether you want to believe that or not. But sometimes, it feels like I don’t get the recognition I deserve."
+[2691]    a "So, every once in a while, I think we should have a nice little heart-to-heart like this. "
+[2692]    a "Just to see if there’s anything one of us is doing that the other doesn’t approve of. Or something we think the other should change."
+[2693]    a "Here. You can start. What’s something about me you want to change?"
+[2694]    a "..."
+[2695]    a "Nothing? Really?"
+[2696]    a "..."
+[2697]    a "Oh, come on. There’s gotta be {i}something.{/i}"
+[2698]    a "..."
+[2702]    a "Heheh! Now you’re just being a goober!"
+[2707]    a "But, listen — there’s something about {i}you{/i} that I want to change."
+[2708]    a "Or rather, there’s something about the corner you’ve pushed me into that I’m not really comfortable with anymore. So I’d appreciate it if you’d let me sort of...reposition myself, if you will."
+[2709]    a "You see, it was never my intention to suffocate you. And I feel like, by declaring that I would {i}stop{/i} doing that, I may have accidentally admitted I was in the wrong. Which I’m not."
+[2710]    a "If I’m really going to be the main heroine, which I am, I think it’s only fair that I get to be treated with a little more respect. Okay?"
+[2711]    a "And the best way to respect me is by giving me a job no one else can do. A job more important than just cooking your dinner and washing your clothes."
+[2712]    a "..."
+[2716]    a "My dream job?"
+[2717]    a "That’s a good question. I’ve always just kind of assumed I’d be a housewife."
+[2718]    a "But I think...if I got to choose anything in the world..."
+[2723]    a "I’d be a teacher — just like my mom."
+[2735]    a "Wow! Now I {i}am{/i} a teacher! It’s amazing what you can do if you really apply yourself, isn’t it?"
+[2736]    a "Anyway, today’s lesson is on “understanding.” But what I mean by that is a little more complicated than simply “getting it,” you know?"
+[2737]    a "To understand something, you need to be able to process it in a way that makes sense to you on a personal level! Because once you’re able to “relate,” you’re {i}really{/i} able to understand."
+[2738]    a "Now, many people may tell you that you’re able to understand things {i}without{/i} relating to them, but those people are lying to you. And they’re normally the same people who think relatives shouldn’t have sex!"
+[2739]    a "So, if you listen to those people, you’ll wind up jaded and wrong and evil and you won’t actually “understand” anything because you were taught the wrong things before learning the right ones!"
+[2740]    a "Are you following so far?"
+[2741]    a "..."
+[2742]    a "Great!"
+[2746]    a "Now that you {i}understand{/i} the basics, I can begin to tell you about the first advanced principle of understanding — perception!"
+[2747]    a "We’ve touched on the topic before under similar circumstances, but I’m going to expand on it to the best of my ability! Just be gentle with me since it’s my first day on the job."
+[2748]    a "You see, class- perception means more than just “the way a person sees something.” "
+[2749]    a "There is a hidden element to it, and that element can be dumbed down to “the way a person is {i}made{/i} to see something.”"
+[2750]    a "This raises the question of whether or not it’s truly “perception” at all at that point because, if you’re only seeing something because you’re {i}supposed{/i} to see it, are you really seeing anything at all?"
+[2751]    a "To provide a more specific example about what this means and how it relates to you in real life, imagine this!"
+[2752]    a "A little girl loves her uncle but her uncle is supposed to think he loves somebody else so he doesn’t love his niece as much as he’s supposed to so he’s not properly “understanding” or “perceiving” the situation."
+[2753]    a "Because if he could understand and perceive the situation freely without interference from anyone else he’d understand and perceive that his prior misunderstood perception is...well, it’s bad! Do you get it?"
+[2759]    a "You don’t?"
+[2760]    a "..."
+[2761]    a "Wow, this teaching thing is a lot harder than I thought it would be."
+[2762]    a "Maybe I should just go back to being a student instead?"
+[2770]    a "That’s more like it. This is a setting I do better in."
+[2771]    a "..."
+[2772]    a "What’s that? You think there’s something wrong with the class? Well, that’s probably just because you’re not “understanding” what’s going on right now! Hahah! Do you see what I did there?"
+[2773]    a "I made a joke and this is the part where you’re supposed to praise me for it."
+[2774]    a "Sensei, can I go to the bathroom to watch a concert or whatever? "
+[2775]    a "This is stupid. I play the violin."
+[2776]    a "I’m Ami! Champion of Justice and whatever!"
+[2777]    a "When my butler hears about this, he’s going to give me a gun."
+[2778]    a "Everyone be quiet, you are interrupting my learning."
+[2779]    a "..."
+[2780]    a "What’s that? "
+[2781]    a "..."
+[2782]    a "You’re having a hard time following the dialogue since all of us are Ami?"
+[2783]    a "I guess I can see how that might start problems. But I think you’ve got bigger fish to fry since {i}you’re{/i} the one who has to teach {i}us{/i} about understanding now."
+[2784]    a "..."
+[2785]    a "It’s hard, isn’t it?"
+[2786]    a "But the reason for that is kind of simple. And it calls back that other thing I was talking about when I was trying my hand at being a teacher — that’s how you’re {i}supposed{/i} to be."
+[2787]    a "You don’t {i}need{/i} to get everything and you {i}won’t{/i} get everything because you’re not {i}allowed{/i} to get everything. So be happy with {i}some{/i} things since {i}all{/i} things are off limits."
+[2788]    a "Well, all things except Ami of course. You can have as much Ami as you want. So you should go ahead and want more Ami."
+[2789]    a "..."
+[2790]    a "Oooooooh. {i}That’s{/i} what it means to understand something? That’s way simpler than how I was teaching it. It was a little lacking in terms of incestual anecdotes, though."
+[2791]    a "..."
+[2792]    a "Hm?"
+[2793]    a "..."
+[2794]    a "Oh. That’s probably just because you’re blaming yourself for what happened in the hallway."
+[2803]    s "teenagers."
+[2808]    a "You shouldn’t blame yourself, Sensei. It’s only natural to get upset and start thinking irrationally when you see something that scares you."
+[2809]    a "Or at least it {i}would{/i} be natural for most people. {i}Your{/i} truth is that fear is alluring. It excites you in a way it’s not supposed to. And that’s something I can relate to."
+[2810]    a "I might be a good girl, but that doesn’t mean I don’t do bad things every once in a while. "
+[2811]    a "But that’s okay. Because soon, I won’t have to do anything bad ever again and you’ll be mine forever and ever and ever and ever and ever and no one else will see you."
+[2812]    a "You are safe inside your box."
+[2817]    a "{b}don’t open the door{/b}"
+[2824]    a "Do you ever wonder where we go when we die?"
+[2825]    a "Grandma believed in Heaven. Mom too near the end. And you already know my thoughts on the matter from our bus ride backwards."
+[2826]    a "It might not make the most sense from a logical standpoint, but it definitely sounds the nicest. And I like to think the two of them are hanging out up there and playing bingo or something."
+[2827]    a "Anyway, Maya never actually killed a kitten and the white car was ours. Are you close to waking up yet?"
+[2828]    a "I hope not. But at the same time, I hope so because I’m not sure how much more of this I can take before I throw myself off of the roof."
+[2829]    a "You see, you hurt me a lot. {i}All{/i} of you have been hurting me lately. It’s like you have a collective fetish for making cute redheads sad. And I try not to kink shame, but I’m not a big fan of that one."
+[2830]    a "..."
+[2831]    a "What’s {i}my{/i} biggest kink? I don’t have any. I’m a good girl. And incest doesn’t count. I just like knowing that if I bite my partner’s neck, the blood I’ll draw will be my own."
+[2832]    a "And no, I’m not a vampire. But it would be really cool if I was so I could stop aging and not run the risk of you getting less attracted to me as time goes on."
+[2833]    a "Not like that’s ever going to happen in the first place. But, let’s face it, we both know this is the me you’ll like best. And I don’t blame you at all for that."
+[2834]    a "I wouldn’t blame you for liking the {i}littler{/i} me either. Especially after doing the same thing to {i}your{/i} computer that you did to {i}mine{/i} and learning you’re even worse than everyone thinks you are."
+[2835]    a "And they think you’re gross, Sensei. Even if they want you to fuck them, they think you’re gross. They’re probably just wet from all the hormones and the fact that you’re super attractive."
+[2836]    a "But they all hate you and think you’re gross. Which is why you should love me and only me because I don’t think you’re gross. I think you’re awesome."
+[2837]    a "Rain King."
+[2843]    "slip."
+[2850]    a "{b}I CAN’T FUCKING TAKE IT ANYMORE!!!{/b}"
+[2851]    a "{b}NOTHING I DO WORKS AND YOU KEEP FALLING FURTHER AND FURTHER AWAY!!!{/b}"
+[2852]    a "{b}WHAT DO I NEED TO DO TO MAKE YOU MINE AGAIN?!?!?! TELL ME! TELL ME TELL ME TELL ME!{/b}"
+[2863]    se "Wow. It’s really coming down, isn’t it?"
+[2869]    "........."
+[2870]    "......"
+[2878]    a "Everything you can imagine is real."
+[2889]    a "Why not imagine God?"
+[2893]    q "Yuu! I’m coming in!"
+[2907]    miu "Why didn’t you answer the door? I thought you were dead in here."
+[2908]    yuu "If I was dead, I definitely wouldn’t have answered the door."
+[2912]    saki "Yuu! I’m coming in too!"
+[2913]    miu "Don’t let-"
+[2914]    yuu "Come in!"
+[2919]    saki "slip."
+[2920]    miu "I seriously hate you."
+[2921]    yuu "You have too many strong opinions concerning doors today."
+[2922]    miu "Yeah, whatever. Listen, I-"
+[2926]    yuu "Sorry, Miu. Someone’s at the door and if I don’t answer it, they’ll think I’m dead. I don’t want to risk that."
+[2927]    miu "I can’t believe this is actually happening right now."
+[2928]    yuu "Come in, mysterious door friends."
+[2933]    tsurumi "Wow! Look at this place, Kanon! It’s tiny, but it’s way nicer than the sewer! And super clean too!"
+[2934]    kanon "Nii-sama will love it. Go fetch him, Tsurumi. Have him bring the chains as well."
+[2935]    yuu "Sorry, ladies. This place isn’t for sale- but you wouldn’t want it anyway. Aliens have already attacked the neighbors and it’s possible they’ll be coming for me next."
+[2939]    saki ">=("
+[2940]    yuu "Sorry, Saki."
+[2946]    se "{i}Wow. It’s really coming down, isn’t it?{/i}"
+[2947]    a "{i}I thought it was supposed to be sunny today?{/i}"
+[2948]    a "History repeats itself. That much is common knowledge."
+[2949]    a "But here, in this most special of places, no lines will ever be the exact same length."
+[2950]    a "It’s the little differences that help us understand where we are. And we can map them out like coordinates on our way to an unwanted escape."
+[2951]    a "Heaven is real, Sensei. "
+[2952]    a "I have seen it."
+[2953]    a "It’s closer than you think."
+[2959]    a "{b}Don’t open the door.{/b}"
+[2960]    a "Stay home forever and you’ll never hurt anyone again."
+[2961]    a "I’ll be with you all the while."
+[2962]    a "I am your little girl."
+[2963]    a "And you are my-"
+[2970]    $ rainking = True
+[2974]    if escapetvchild == True:
+[2976]    else:
+[2979]    jump escaperoommainmenu
+
+===== [2981] resetsix2 =====
+[2986]    s "I know what I must do."
+[2991]    ay "Wait! Don’t shoot!"
+[2995]    ay "This isn’t that kind of game!"
+[2996]    s "Who are you and what are you doing in my house?"
+[2997]    m "We’ve come to stop you from destroying everything you love and ultimately ushering in the start of Chapter 4. "
+[2998]    ay "Put the gun down, Sensei. You don’t need to do this."
+[2999]    s "Why should I trust you? I never gave you a key."
+[3000]    m "Wouldn’t it be fair to assume that we just...got our hands on one the same way you just got your hands on like fifty of them?"
+[3001]    s "I don’t know what you’re talking about. But I’m going to give you ten seconds to get out of my house before I open fire."
+[3002]    a "Sensei! Wait!"
+[3006]    s "Ami?"
+[3007]    a "Okay, you can shoot now. I just wanted to make sure I had a front row seat."
+[3008]    ay "Hey! How come you remember Ami but not us? We’re just as important to the story as she is!"
+[3009]    s "Ami, who are these people?"
+[3010]    a "Ayane and Maya. They’re your arch-nemeses and your current mission is to eliminate them by any means possible."
+[3011]    ay "Ami, you traitor!"
+[3012]    m "We’re in for a long day, aren’t we?"
+[3013]    s "Wait a second. If you’re Ami, why are you covered in mosaics?"
+[3014]    a "I’m not! You’re just imagining that I am!"
+[3021]    a "Eep!"
+[3022]    s "I can’t trust any of you."
+[3026]    a "{i}Aaaaah! I’m getting out of here!{/i}"
+[3027]    ay "Sensei! Stop shooting! You don’t understand what-"
+[3034]    ay "Aaah! "
+[3038]    m "{i}Okay. I’m out.{/i}"
+[3039]    ay "Maya, wait! We’re supposed to stick together!"
+[3043]    s "..."
+[3045]    "So it really {i}is{/i} dangerous outside. "
+[3051]    "I shouldn’t have opened the door."
+[3052]    "........."
+[3053]    "......"
+[3054]    "..."
+[3058]    "I manage to make it to the city streets with my life still intact, but I know that everyone is against me now. And I will stop at nothing to ensure my safety."
+[3060]    a "Oh, Sensei. Have you calmed down yet?"
+[3064]    a "That was crazy, right? It really felt like you were trying to shoot me back there."
+[3065]    s "Something still seems off about you..."
+[3066]    a "Again, you’re probably just imagining it. But that doesn’t matter right now. What {i}does{/i} matter is giving you a quick mission briefing so we can get you to the roof on time!"
+[3067]    a "You escaped the safety room, so that’s where you’re headed next, right?"
+[3068]    s "I’m headed nowhere in particular. I just want to enjoy my freedom."
+[3069]    a "Well, if you’re looking for suggestions on {i}how{/i} to enjoy that freedom, why not pay the rest of the girls a visit?"
+[3070]    a "You’ve been gone for a really long time and we’ve all been waiting for you to come back, so I took the liberty of putting together a kind of...card! Of sorts."
+[3071]    s "A card?"
+[3072]    a "Yeah. I had everybody come up with a list of the things they like most about you because I thought hearing it would make you happy."
+[3073]    a "The thing is, though, not everybody has processed your disappearance as well as I have. So most of them are broken now."
+[3074]    s "Broken how?"
+[3075]    a "Well, basically, they think they’re in the card. And that this city’s made of paper."
+[3076]    s "You’re trying to trick me again, aren’t you?"
+[3077]    a "Of course not! I would never-"
+[3082]    a "Wait. Did I say “never?” I meant-"
+[3089]    "{i}Ami Arakawa has been eliminated.{/i}"
+[3090]    "{i}Nineteen students remain.{/i}"
+[3092]    s "Not for long..."
+[3094]    "Where to next?"
+[3096]    menu killallthegirlsinyourclass:
+[3098]            jump chikapaper
+[3100]            jump yumipaper
+[3102]            jump sanapaper
+[3104]            jump makotopaper
+[3106]            jump mikupaper
+[3108]            jump rinpaper
+[3110]            jump futabapaper
+[3112]            jump mayapaper
+[3114]            jump mollypaper
+[3116]            jump tsuneyopaper
+[3118]            jump iopaper
+[3120]            jump utapaper
+[3122]            jump otohapaper
+[3124]            jump nodokapaper
+[3126]            jump toukapaper
+[3128]            jump yasupaper
+[3130]            jump kirinpaper
+[3132]            jump norikopaper
+[3134]            jump paperdorms
+[3136]            jump ayanepaper
+
+===== [3138] chikapaper =====
+[3143]    "........."
+[3144]    "......"
+[3145]    "..."
+[3153]    c "Hm? My favorite thing about Sensei? Gosh...where do I even begin?"
+[3154]    c "At first, I thought he was just, like...normal. Just your average hot teacher without anything really remarkable about him."
+[3155]    c "But as I got to know him a little better, I realized how nice he can really be when he stops acting all mysterious and quiet."
+[3156]    c "My sister loves him too. And obviously, that’s a huge plus. "
+[3157]    c "Apart from Yumi, the two of us have been alone for years now. And I’d be lying if I said that wasn’t really hard at times."
+[3158]    c "Having him around, even if it’s not as often as I’d like it to be, has been a total game changer."
+[3159]    c "But..."
+[3160]    c "I think the thing I like the most is that I know he’d never do anything to purposely hurt me."
+[3167]    $ gunpoint += 1
+[3168]    $ chikagun = True
+[3170]    "{i}Chika Chosokabe has been eliminated.{/i}"
+[3172]    s "Where to next?"
+[3174]    jump killallthegirlsinyourclass
+
+===== [3176] yumipaper =====
+[3181]    "........."
+[3182]    "......"
+[3183]    "..."
+[3191]    y "Seriously? I really have to do this shit? But I barely even like the guy. Fuck do I care about some stupid ass card?"
+[3192]    y "We all know he’s probably just gonna jerk off on it or something."
+[3193]    y "I don’t fuckin’ know. I guess if I, like...absolutely {i}had{/i} to pick something...it would be that he hasn’t ever really given up on me. And that’s pretty fuckin’ rare when it comes to me."
+[3194]    y "Shitty part is that “not giving up on me” leads to him basically being a fuckin’ stalker half the time. "
+[3195]    y "That shit’s creepy as fuck and it’d be really fuckin’ cool if he could give it a rest sometime soon."
+[3202]    $ gunpoint += 1
+[3203]    $ yumigun = True
+[3205]    "{i}Yumi Yamaguchi has been eliminated.{/i}"
+[3207]    s "Where to next?"
+[3209]    jump killallthegirlsinyourclass
+
+===== [3211] sanapaper =====
+[3216]    "........."
+[3217]    "......"
+[3218]    "..."
+[3226]    sa "Um...I..."
+[3227]    sa "It’s kind of...hard to...put how I feel into words, but...I’ll...I’ll try my best..."
+[3228]    sa "Sensei is...I...he’s like...umm..."
+[3229]    sa "He’s not like...family or...anything like that, but...I think we...have a...kind of...special relationship?..."
+[3230]    sa "I don’t...really look up to him, since...he’s...not a good person, but...I..."
+[3231]    sa "When I’m with him...I feel kind of like...like that’s...where I belong...or something..."
+[3232]    sa "Does that...sound weird?...It does...doesn’t it?..."
+[3233]    sa "Let me...Let me start over...I’ll...this time will...be better..."
+[3234]    sa "Sensei is...kind of like...well, it...it feels like I’ve known him...a lot longer than...I actually have..."
+[3235]    sa "And I...that doesn’t...I..."
+[3236]    sa "I still...want to spend more time with him..."
+[3243]    $ gunpoint += 1
+[3244]    $ sanagun = True
+[3246]    "{i}Sana Sakakibara has been eliminated.{/i}"
+[3248]    s "Where to next?"
+[3250]    jump killallthegirlsinyourclass
+
+===== [3252] makotopaper =====
+[3257]    "........."
+[3258]    "......"
+[3259]    "..."
+[3267]    mak "Hahah! It would probably be easier to name all of the things he does that annoy me. But, for the sake of the card, I’m sure I can come up with something..."
+[3268]    mak "Sensei...for better or worse, carries my life in his hands. And he’s yet to do anything to {i}really{/i} let me down."
+[3269]    mak "Yes, he’s full of disappointments. But I understand that some of his tendencies are a direct result of things that he’s had to endure in the past."
+[3270]    mak "I hadn’t experienced true hardship until recently. And I understand how that can change a person now."
+[3271]    mak "So, if anything, I think he’s doing a great job as my mentor. Even {i}if{/i} it seems like he’s trying to actively sabotage my future sometimes."
+[3272]    mak "At the end of the day, I don’t think I’d be able to live without him."
+[3279]    $ gunpoint += 1
+[3280]    $ makotogun = True
+[3282]    "{i}Makoto Miyamura has been eliminated.{/i}"
+[3284]    s "Where to next?"
+[3286]    jump killallthegirlsinyourclass
+
+===== [3288] mikupaper =====
+[3293]    "........."
+[3294]    "......"
+[3295]    "..."
+[3303]    mi "I like his wiener! It’s all big and veiny and fun to squeeze. Oh, and that thing he does with his fingers where he starts goin’ all fast once you’re about to-"
+[3304]    mi "Wait, you’re tellin’ me that ain’t allowed on the card? Crud."
+[3305]    mi "I can think of plenty of stuff, don’t worry! That was just the first thing that came to mind since it’s a pretty new development thingy for me."
+[3306]    mi "For actual stuff I like about Sensei, though..."
+[3307]    mi "I think it’s cool that he accepts me for who I am. Or who I’m...currently being or somethin’?"
+[3308]    mi "I don’t really know myself yet. I’m still tryin’ to figure out who the real Miku Maruyama is. And I like that Sensei doesn’t really pressure me into makin’ any big decisions before I’m ready for ‘em."
+[3309]    mi "Except for all those times he got a little too touchy before I was cool with that. But I’m super cool with it now, so-"
+[3316]    $ gunpoint += 1
+[3317]    $ mikugun = True
+[3319]    "{i}Miku Maruyama has been eliminated.{/i}"
+[3321]    s "Where to next?"
+[3323]    jump killallthegirlsinyourclass
+
+===== [3325] rinpaper =====
+[3330]    "........."
+[3331]    "......"
+[3332]    "..."
+[3340]    r "How long am I allowed to make this thingy? Like, is it cool if I do a whole essay or- really? A few sentences? Hmm...that makes it kinda tough."
+[3341]    r "If you’re really gonna make me narrow it down, I’d probably start off by saying that I’ve never really had any close guy friends before. So he’s my first. And he’s so good at it that I don’t think I’ll ever need another."
+[3342]    r "We’ve had our ups and downs for sure. But I feel like you kind of {i}need{/i} to drive over a few bumps in the road if you’re ever {i}really{/i} gonna bond with somebody, you know?"
+[3343]    r "It’s those hardships that strengthen the connection you have. And no matter what he does or what I do to mess things up, we always find our way back to each other."
+[3344]    r "So...yeah. I don’t think I’ll ever have another friend like him. And I’m not just saying that because he’s twice my age and also pretty much my dad."
+[3351]    $ gunpoint += 1
+[3352]    $ ringun = True
+[3354]    "{i}Rin Rokuhara has been eliminated.{/i}"
+[3356]    s "Where to next?"
+[3358]    jump killallthegirlsinyourclass
+
+===== [3360] futabapaper =====
+[3365]    "........."
+[3366]    "......"
+[3367]    "..."
+[3375]    f "A card?...Of course I’d be willing to write something. Sensei’s done so much for me since becoming my teacher and- oh! Sorry, I should probably be jotting this down, shouldn’t I?"
+[3376]    f "Let’s see...the easy answer would be to talk about what he’s done for my confidence. And how his constant reassurances always make me smile even if I can’t bring myself to fully believe them."
+[3377]    f "But I think the thing I like the most is...hahah...it sounds kind of silly and embarrassing to say it out loud, but..."
+[3378]    f "I like the way he looks at me. "
+[3379]    f "I’m not sure if it’s just because of the bond we’ve built together or if it’s a little more complicated than that, but...sometimes, I don’t realize just {i}how long{/i} our eyes stay locked on one another’s."
+[3380]    f "Then, when I realize, I have to drag myself back to reality and tell myself that this isn’t just another one of my daydreams. "
+[3381]    f "This is a {i}real{/i} person, who’s actively choosing to look into {i}my{/i} eyes when it would be so easy to find another pair somewhere else."
+[3382]    f "I think that’s really special."
+[3389]    $ gunpoint += 1
+[3390]    $ futabagun = True
+[3392]    "{i}Futaba Fukuyama has been eliminated.{/i}"
+[3394]    s "Where to next?"
+[3396]    jump killallthegirlsinyourclass
+
+===== [3398] ayanepaper =====
+[3403]    "........."
+[3404]    "......"
+[3405]    "..."
+[3409]    "{i}One student remains — Ayane Amamiya{/i}"
+[3410]    "{i}She can be found in the dojo.{/i}"
+[3411]    "{i}Would you like to go there now?{/i}"
+[3413]    s "Yes."
+[3415]    "{i}Are you sure? This action can not be-{/i}"
+[3417]    s "Yes."
+[3418]    s "I will kill her and complete my mission."
+[3420]    "{i}If you are certain this is the path you wish to take, please confirm your decision in the following pop-up menu:{/i}"
+[3422]    menu:
+[3423]        "Kill Ayane. Complete Your Mission.":
+[3430]    ay "What I like most about Sensei? Everything, obviously! And if you think that’s just a cop-out answer...I choose everything again!"
+[3431]    ay "Even his worst qualities are amazing to me. And I can’t imagine a life, infinite or not, where I’m not by his side every step of the way."
+[3439]    ay "Hmm...what else...what else? Can I say “everything” a third time? Or is that starting to push it?"
+[3440]    ay "You know what? Let’s throw a third everything in before I start getting slightly more specific and a lot more sentimental."
+[3448]    ay "I’m not related to Sensei. I don’t have that sort of special bond with him. And yeah, I’ve known him for a while, but there are some people who have known him even longer that I can’t really compete with."
+[3449]    ay "I haven’t chased him across Paper City for years on end or endured apocalypse after apocalypse in hopes that he’ll start to regain some of the memories we’ve made together."
+[3450]    ay "In fact, I haven’t really done anything other than just...follow him around."
+[3458]    ay "But I don’t think that matters."
+[3459]    ay "I don’t think you can really quantify love with some words on a card and...I think the idea of even {i}verbalizing{/i} feelings as strong as the ones I have for him wouldn’t do them any justice."
+[3460]    ay "That’s why I choose everything."
+[3468]    ay "That’s why I’ll always choose everything."
+[3476]    ay "And there’s nothing you can do to stop me."
+[3477]    s "Why won’t you die?!"
+[3478]    ay "I literally just told you that. There’s nothing you can do to stop me."
+[3479]    s "I need to kill you to finish my mission! "
+[3480]    ay "And what do you get for finishing your mission, Sensei? Is there some sort of reward?"
+[3481]    s "I..."
+[3482]    s "I don’t know. "
+[3483]    ay "You mean you’ve been running around massacring the entire class for no reason whatsoever? That’s really mean."
+[3484]    s "What’s happening to me?..."
+[3485]    ay "What’s happening is your future wife is coming to the rescue once again. So we can leave this place {i}together.{/i}"
+[3486]    s "We’re not allowed to leave Paper City. This {i}is{/i} the world outside the walls. I was {i}safe.{/i} I was {i}free{/i} inside of my box. I had everything I’d ever need."
+[3487]    ay "But you didn’t have me, did you?"
+[3488]    s "..."
+[3489]    ay "Maybe Maya and Ami are both wrong and {i}I’m{/i} actually the main heroine? That’d sure be a twist, wouldn’t it?"
+[3490]    s "Come back to the safe house with me. There’s still a coconut crab. I can make hot pot for us."
+[3491]    ay "There is no safe house, Sensei. "
+[3492]    s "Yes there is..."
+[3493]    ay "There’s no Paper City either."
+[3494]    s "Yes there is!"
+[3501]    ay "There is nothing."
+[3502]    ay "We are nowhere."
+[3507]    ay "{i}Let’s watch the seasons change together.{/i}"
+[3510]    $ resetsix2 = True
+[3512]    jump resetsix3
+
+===== [3514] mayapaper =====
+[3519]    "........."
+[3520]    "......"
+[3521]    "..."
+[3529]    m "I’m sorry, {i}what{/i} are you asking me to do?"
+[3530]    m "..."
+[3531]    m "My favorite thing about Sensei?"
+[3532]    m "That’s easy."
+[3533]    m "Absolutely nothing."
+[3540]    $ gunpoint += 1
+[3541]    $ mayagun = True
+[3543]    "{i}Maya Makinami has been eliminated.{/i}"
+[3545]    s "Where to next?"
+[3547]    jump killallthegirlsinyourclass
+
+===== [3549] mollypaper =====
+[3554]    "........."
+[3555]    "......"
+[3556]    "..."
+[3564]    mo "My favorite thing about the Supreme Overlord? But why would- wait! Don’t tell me! This is for some big finale-style montage scene, isn’t it?"
+[3565]    mo "Say no more! My favorite thing about Sir would have to be his...compassion? Guilt? Though, I’m not quite sure of how to describe what I mean without making it sound like an insult. "
+[3566]    mo "Ah! Look at it this way — have you ever gone into a choice-based game and thought to yourself “I’m going to be a real arsehole this playthrough” only to pull the plug like, four choices later?"
+[3567]    mo "I feel like that’s the boat Sir is in. I think, somewhere along the lines, he decided to play the bad guy. But now, he’s too deep into the playthrough to change his alignment and is just trudging through reluctantly."
+[3568]    mo "I don’t think he gets any real enjoyment out of making evil decisions. In fact, if anything, I admire his perseverance. Tons of people just turn off the game if it ever gets too hard."
+[3569]    mo "Sir’s the type to complete his mission no matter what. Even if it hurts him. And I think that’s a really cool quality for a person to have."
+[3576]    $ gunpoint += 1
+[3577]    $ mollygun = True
+[3579]    "{i}Molly MacCormack has been eliminated.{/i}"
+[3581]    s "Where to next?"
+[3583]    jump killallthegirlsinyourclass
+
+===== [3585] tsuneyopaper =====
+[3590]    "........."
+[3591]    "......"
+[3592]    "..."
+[3600]    t "Welcome to Tojo Ramen. Please let me know if you have any questions about-"
+[3601]    t "A card?..."
+[3602]    t "Yes. I can provide feedback in regard to his character. But it will be {i}honest{/i} feedback as I believe all reviews should be as truthful as possible."
+[3603]    t "The Supreme Overlord has a complex flavor profile that only those with experienced tongues and distinguished palates can understand."
+[3604]    t "He is unlike anyone else to ever come through these doors. And even if his taste is not specifically suited to my liking, I understand that all it may take to fix him is a little bit of salt."
+[3605]    t "What I mean is that he’s almost there. Almost {i}finished.{/i} Which makes watching him very exciting."
+[3612]    $ gunpoint += 1
+[3613]    $ tsuneyogun = True
+[3615]    "{i}Tsuneyo Tojo has been eliminated.{/i}"
+[3617]    s "Where to next?"
+[3619]    jump killallthegirlsinyourclass
+
+===== [3621] iopaper =====
+[3626]    "........."
+[3627]    "......"
+[3628]    "..."
+[3636]    i "Mmm...normally, I try to stay away from stuff like this. But if it’s for Sensei, I guess I can make an exception."
+[3637]    i "It’s not like he hasn’t already heard all of this from me, though. So...not really sure what you’re trying to get out of just having it on a card, but here you go."
+[3638]    i "The thing I like most about Sensei is how willing he is to put up with my endless barrage of problems and annoyances and that he’s yet to try and get rid of me for having them!"
+[3639]    i "And yes, I know it’s kind of selfish to have my favorite thing about him be more about {i}me{/i} by proxy, but honesty hasn’t failed me yet and I’d really rather not stoop to petty lies to make myself look better."
+[3640]    i "Oh, and if I’m allowed to choose a second thing about him, I like the way he squeezes my hand when he holds it. It’s kind of weirdly comforting in a way that’s hard to describe."
+[3641]    i "I wish he’d do it more often."
+[3648]    $ gunpoint += 1
+[3649]    $ iogun = True
+[3651]    "{i}Io Ichimonji has been eliminated.{/i}"
+[3653]    s "Where to next?"
+[3655]    jump killallthegirlsinyourclass
+
+===== [3657] utapaper =====
+[3662]    "........."
+[3663]    "......"
+[3664]    "..."
+[3672]    u "Hm? My favorite thing about Sensei? "
+[3673]    u "His wallet, obviously! Thanks to him, I never have to worry about paying extra for guac because it’s always comin’ outta his paycheck!"
+[3674]    u "In all seriousness though, I like his...how do I put this...unpredictability?"
+[3675]    u "I feel like he’s always right there when I need him or...want him to be. And it’s gotten to the point where I can’t help but laugh to myself about it because it just seems way too convenient most of the time."
+[3676]    u "Actually, can you even really {i}call{/i} it unpredictability if it keeps happening? Because there’s gotta be a certain point where the unexpected just...{i}becomes{/i} the expected, right?"
+[3677]    u "And maybe that’s where I’m at with him. I don’t know- it probably sounds weird. But I like being able to count on him being there even when I never go out of my way to summon him. "
+[3678]    u "It’s...a relief, I guess. Having someone to fall back on who can distract me from the rest of the world before I even know I want to be distracted."
+[3685]    $ gunpoint += 1
+[3686]    $ utagun = True
+[3688]    "{i}Uta Ushibori has been eliminated.{/i}"
+[3690]    s "Where to next?"
+[3692]    jump killallthegirlsinyourclass
+
+===== [3694] otohapaper =====
+[3699]    "........."
+[3700]    "......"
+[3701]    "..."
+[3709]    o "Yeah, I can think of something for a card. When do you need it by? "
+[3710]    o "Wait, right now? Isn’t that kind of short notice? "
+[3711]    o "Then, uhh...I guess I...like that I can talk to him a little differently than I can talk to other adults. And I don’t mean that in a weird way this time."
+[3712]    o "Sensei’s a weird dude. And he’s all sorts of fucked up. But I feel like he’s got a really interesting and distinct world view that makes it easy to open up to him when you don’t have anybody else."
+[3713]    o "We’ve joked about it before, but I’m not really sure if he realizes just how much he feels like a brother to me. And, as an only child, I’ve always wanted someone like that."
+[3714]    o "I just wish he’d stop making so many stupid fucking decisions."
+[3721]    $ gunpoint += 1
+[3722]    $ otohagun = True
+[3724]    "{i}Otoha Okakura has been eliminated.{/i}"
+[3726]    s "Where to next?"
+[3728]    jump killallthegirlsinyourclass
+
+===== [3730] nodokapaper =====
+[3735]    "........."
+[3736]    "......"
+[3737]    "..."
+[3745]    no "My favorite thing would have to be his {i}mind{/i} of course. It’s so beautifully twisted that simply conversing with him is like climbing up the Enigma of Desire."
+[3746]    no "Being near him makes me {i}think.{/i} And I very much enjoy thinking. {i}Especially{/i} when those thoughts don’t directly lead me toward some sort of conclusion."
+[3747]    no "As you may have realized by now, I am very smart. And there are few questions I don’t know how to answer. But when it comes to all things pertaining to {i}him,{/i} it feels as if all I can do is guess."
+[3748]    no "It remains to be seen whether my guessing will {i}lead{/i} to anything...but what I know for sure is I like watching him."
+[3749]    no "I wonder if he likes watching me?"
+[3756]    $ gunpoint += 1
+[3757]    $ nodokagun = True
+[3759]    "{i}Nodoka Nagasawa has been eliminated.{/i}"
+[3761]    s "Where to next?"
+[3763]    jump killallthegirlsinyourclass
+
+===== [3765] toukapaper =====
+[3770]    "........."
+[3771]    "......"
+[3772]    "..."
+[3780]    to "Oh, what a splendid idea! I love things like this. I’m sure he’ll be delighted."
+[3781]    to "To choose just one aspect of his person, though...hmm..."
+[3782]    to "What I enjoy most about our teacher is his...playfulness, I suppose. At least when it comes to how he associates with me."
+[3783]    to "For as long as I’ve walked this earth, I’ve had what is essentially an army of servants waiting on my beck and call. Even now, I {i}still{/i} have such an army. And this is not me bragging, I assure you."
+[3784]    to "Sensei is the first person apart from my sister to treat me like a normal girl rather than royalty. And while that may have annoyed me before I was used to it..."
+[3785]    to "Now that I {i}am,{/i} I can’t even fathom having that taken away from me."
+[3792]    $ gunpoint += 1
+[3793]    $ toukagun = True
+[3795]    "{i}Touka Tsukioka has been eliminated.{/i}"
+[3797]    s "Where to next?"
+[3799]    jump killallthegirlsinyourclass
+
+===== [3801] yasupaper =====
+[3806]    "........."
+[3807]    "......"
+[3808]    "..."
+[3816]    ya "My favorite thing...is what he has {i}seen.{/i} What he has {i}felt.{/i} As everything you and I will ever experience is little more than an echo peeling off of his flesh."
+[3817]    ya "The amount of people who are truly {i}gifted{/i} is dwindling by the day. And from the moment I met him, I could tell he was special."
+[3818]    ya "He has what it takes to fix this world. How very sad it is that he’s yet to {i}embrace{/i} it."
+[3819]    ya "But that day will come. And when it does, you’ll be happy I led him to the light. "
+[3820]    ya "For it will be that fateful meaning that spells out the rest of eternity and all that comes after."
+[3827]    $ gunpoint += 1
+[3828]    $ yasugun = True
+[3830]    "{i}Yasu Yasui has been eliminated.{/i}"
+[3832]    s "Where to next?"
+[3834]    jump killallthegirlsinyourclass
+
+===== [3836] norikopaper =====
+[3841]    "........."
+[3842]    "......"
+[3843]    "..."
+[3851]    n "I feel like I’ve waited my whole life to answer this question, but now that I’m actually being {i}asked{/i} it, I’m struggling to come up with anything."
+[3852]    n "Ak- {i}ahem.{/i} Sensei’s been a major part of my life since before I could even walk. So coming up with just one thing that trumps all of the others is like...picking out a favorite blade of grass in an open field."
+[3853]    n "That’s probably not the best comparison I could have made, but you get what I’m saying, right? "
+[3854]    n "He’s just...he’s {i}Sensei.{/i} I wouldn’t have spent years chasing after him if he wasn’t worth chasing after."
+[3855]    n "Maybe that’s what I like the most? Just the fact that he’s been there forever and that I’m basically just a baby duck trying to keep up with him at this point."
+[3856]    n "And...now that I say that, I’ve realized another thing I love about him."
+[3857]    n "He doesn’t {i}mind{/i} that I want to stay under his wing a little while longer..."
+[3858]    n "Even though I could probably fly whenever I want."
+[3865]    $ gunpoint += 1
+[3866]    $ norikogun = True
+[3868]    "{i}Noriko Nakayama has been eliminated.{/i}"
+[3870]    s "Where to next?"
+[3872]    jump killallthegirlsinyourclass
+
+===== [3874] kirinpaper =====
+[3879]    "........."
+[3880]    "......"
+[3881]    "..."
+[3889]    ki "Sure, I can tell you my favorite things about Sensei if you want. I just want to know how sexual I’m allowed to get first."
+[3890]    ki "Oh. Well, that makes things a lot harder. I’m sure I can figure something out, though. It just might be a little hard since our relationship has sort of...changed a lot since it started."
+[3891]    ki "You know, I really only started talking to him because I knew Ayane liked him and that he got along with Miku. But I’m really glad I did because he’s actually..."
+[3892]    ki "Well, let’s just say I like him a lot. And not {i}just{/i} because he’s easy to fantasize about when I’m alone in bed."
+[3893]    ki "I like him because he makes me feel better about myself. "
+[3894]    ki "Maybe it’s because of the things he says to me. Maybe it’s because being around him make me feel good by comparison. Maybe it’s something else entirely. I have no idea."
+[3895]    ki "But I like him. "
+[3896]    ki "And he can totally knock me up if he ever wants to."
+[3903]    $ gunpoint += 1
+[3904]    $ kiringun = True
+[3906]    "{i}Kirin Kanda has been eliminated.{/i}"
+[3908]    s "Where to next?"
+[3910]    jump killallthegirlsinyourclass
+
+===== [3912] paperdorms =====
+[3913]    if papercops == False:
+[3914]        $ papercops = True
+[3919]        "........."
+[3920]        "......"
+[3921]        "..."
+[3925]        k "Status, officer Nao-chan."
+[3926]        na "... ... ........ ....... .... .......... .......... ....... .........."
+[3927]        k "Then it’s even worse than I thought..."
+[3928]        k "We’re going to need more cars. Call HQ and have them send out three more stat. "
+[3929]        k "And be careful not to touch anything. We don’t want it to spread."
+[3931]        "I don’t think I’m supposed to be here right now."
+[3932]        "I should leave before I get in trouble."
+[3934]        jump killallthegirlsinyourclass
+[3936]    else:
+[3941]        "........."
+[3942]        "......"
+[3943]        "..."
+[3947]        k "Hey, you! Citizen! What do you think you’re doing? This is a crime scene. The general public isn’t allowed in here."
+[3948]        s "I’m sorry. It won’t happen again."
+[3949]        na "!... ...... ....... ....!"
+[3950]        k "Exactly! By being here, you’re putting {i}yourself{/i} in danger! And that makes {i}us{/i} look bad! "
+[3951]        na "!............"
+[3952]        s "I guess I’ll be on my way then. I’m sorry, officers."
+[3954]        if escapeshampoo == True:
+[3955]            k "Wait just a second, citizen..."
+[3956]            na ".........."
+[3960]            k "I smell contraband!"
+[3961]            na "!!!!!"
+[3962]            s "Contraband? What contraband?"
+[3963]            k "You’ve got shampoo on you, don’t you?!"
+[3964]            s "Yeah, but...I thought I’d need it for something."
+[3965]            k "For {i}what?!{/i} Crime?!"
+[3966]            s "No, for my mission."
+[3967]            k "Your mission is over, bucko! You should have known better than to bring contraband around the two toughest officers in Paper City!"
+[3968]            k "Book him, officer Nao-chan! "
+[3969]            na "!!!!!!!!!!"
+[3974]            s "Noooooooooooooooooooo!!!!!!!!"
+[3980]        else:
+[3984]            $ papercopsdone = True
+[3986]            "I exit the dorms so the officers can finish their crime scene investigation."
+[3987]            "I shouldn’t go back there again."
+[3989]            jump killallthegirlsinyourclass
+
+===== [3991] resetsix3 =====
+[3996]    ay "..."
+[3997]    s "..."
+[3998]    ay "..."
+[3999]    s "..."
+[4000]    ay "I’ve been waiting."
+[4001]    s "You look like you’ve just seen a ghost."
+[4005]    ay "I’m in no mood for jokes right now. "
+[4006]    s "I can see that. I wasn’t trying to make a joke, though. "
+[4007]    ay "Is it really {i}you?{/i} Are you really here?"
+[4008]    s "I think so? I can’t really remember {i}getting{/i} here, but that’s become par for the course for situations like this."
+[4009]    ay "What’s the last thing you remember?"
+[4010]    s "I think-"
+[4017]    s "Talking to Maya...outside of the karaoke booth. Was that where it started this time? Did we {i}all{/i} black out?"
+[4018]    ay "Yes and no...I don’t remember leaving, but I {i}do{/i} remember you acting strange before everything went to Hell."
+[4019]    s "Well, what else happened while I was out? Have you found Maya yet? "
+[4024]    ay "No...I haven’t. And I’m really not in any rush to tell you what happened after you came back into the room. "
+[4025]    s "That sounds...ominous."
+[4030]    ay "It was way worse than just {i}ominous.{/i} It was terrifying. And even after all this time, I still can’t get it out of my-"
+[4031]    s "Wait, {i}all this time?{/i} How long have I been gone? "
+[4036]    ay "It’ll be thirty-five days since I woke up tomorrow. I think. I’ve been trying to keep track, but the clocks are acting...kind of weird."
+[4037]    s "What?..."
+[4038]    ay "I’ve been waiting all this time..."
+[4039]    s "It’s been thirty-five days and Maya isn’t here yet? The world hasn’t reset yet?"
+[4040]    ay "No, but...Sensei...I don’t think this is like the other times we’ve done this."
+[4041]    s "Yeah, I can tell by my month-long absence. "
+[4042]    ay "That’s not what I mean. Even the way it started...it was nothing like the other times I’ve done this. And I want to think it was all just a...mirage, but..."
+[4047]    ay "My clothes...when I woke up..."
+[4048]    ay "They were still...They were covered in...in..."
+[4053]    ay "Sensei, I’ve got a really bad feeling about all this."
+[4054]    s "We need to find Maya. "
+[4055]    ay "We {i}can’t.{/i}"
+[4056]    s "What do you mean we can’t? We’ve done it before. We just have to-"
+[4057]    ay "I mean we literally can’t leave. Everything outside of the school is gone. All we can do is wait for Maya to show up {i}here.{/i} There’s no way we can go out and look for her."
+[4058]    s "What do you mean everything is gone? That doesn’t make sense."
+[4063]    ay "Yeah! I know that! {i}Nothing{/i} makes sense! And things {i}already{/i} didn’t make sense before! But now they somehow make even {i}less{/i} sense! I don’t know what else you want me to tell you!"
+[4064]    s "How about Makoto? Did she make it? Or...how about Sana? Is {i}she{/i} here?"
+[4069]    ay "{i}Sana?{/i} Why would Sana be here?"
+[4070]    s "Because she-"
+[4077]    s "Because I-"
+[4078]    s "I’m..."
+[4079]    s "I’m not...really sure..."
+[4084]    ay "No one’s here but me and you...and I’m sorry to say this when I promised to be more optimistic, but I’m not feeling very hopeful that anyone else will be showing up any time soon."
+[4085]    s "Maya will be here. She’s always here. She’s the one who-"
+[4086]    ay "I told you, Sensei. Things are different this time. This isn’t what we’re used to."
+[4087]    ay "Just think about it. Maya didn’t even realize this was coming. She {i}always{/i} knows when this is coming, doesn’t she?"
+[4088]    ay "Maybe that...weird feeling {i}we{/i} had was what {i}she{/i} normally feels when a reset is approaching? And we just didn’t realize it because it’s never happened to us before."
+[4089]    s "No way...There’s no way she’d be able to keep her cool if she was going through something even remotely similar to-"
+[4090]    ay "Something I’ve learned this apocalypse is that Maya can “keep her cool” no matter {i}what{/i} happens. And I’d be lying if I said that didn’t terrify me. "
+[4091]    s "Why would-"
+[4092]    ay "If you saw what I saw, you’d understand. "
+[4093]    ay "But I’m glad you didn’t. "
+[4094]    ay "Because I don’t think you’d ever be able to forget it."
+[4099]    "Ayane grabs me by the hand and pulls me out into the hallway, where the blinding blue glow of a disappearing world begins to swallow me whole."
+[4100]    "Maya will be here. I know she will."
+[4101]    "And I’m not just saying that because I love her — I’m saying it because that is what {i}needs{/i} to happen in order for all of this to play out the way it’s supposed to."
+[4102]    "Her presence has been the only constant I’ve had throughout these many horrifying trips back to the beginning of our timeline. "
+[4103]    "And in a world that’s always repeating itself, I know she’s bound to as well."
+[4104]    "So even if Ayane is right and everything {i}is{/i} different this time, it won’t be different enough."
+[4105]    "I need to remain hopeful when no one else is."
+[4106]    "And I need to ignore the voices in the back of my mind that refuse to release their grip on it."
+[4107]    "Because I may not have been able to take something that doesn’t belong to me, but I’ll be damned if I don’t take {i}back{/i} something that should have been mine from the start."
+[4112]    s "Ayane-"
+[4113]    ay "I already told you, it isn’t possible to leave."
+[4114]    s "Okay. Sure. But do you really need to squeeze my hand this hard?"
+[4119]    ay "Fuck yes I have to squeeze your hand this hard! You really think I’m going to risk losing sight of you after worrying sick for over a month?! Not a chance!"
+[4120]    ay "You’ll be lucky if I even let you go to the bathroom alone before the world resets."
+[4121]    s "You have nothing to worry about. It’s not going to reset without Maya."
+[4126]    ay "I wonder if you’d still be saying that if you were the one waiting up there instead of me..."
+[4127]    s "Of course I would. I’m more experienced than you when it comes to this stuff."
+[4128]    ay "Not by a lot."
+[4129]    s "But enough to make you at least {i}consider{/i} that I can kind of...help in some way, right?"
+[4130]    ay "Help with {i}what?{/i} All we can do is wait. No amount of planning or {i}thinking{/i} is going to help get us out of a mess that defies all logic and science. "
+[4131]    ay "Some problems just have to fix themselves or...stay broken forever."
+[4132]    s "There has to be {i}something{/i} we can do. I don’t want to risk Maya being stuck “asleep” again. Especially when you couldn’t even see her after the last time she disappeared."
+[4133]    ay "Then maybe we’ll get lucky and you’ll see her up there and we’ll all live happily ever after."
+[4134]    s "Ayane, I get that it’s probably hard to be optimistic when you’ve been stuck here for over a month...but if you start losing it now, I will too. And we don’t have any time to waste on...mental instability."
+[4135]    ay "Well, let’s see if you can figure out a way to remain “mentally stable” once you see what I’ve been looking at for thirty-five days..."
+[4140]    "........."
+[4141]    "......"
+[4142]    "..."
+[4146]    s "..."
+[4147]    ay "..."
+[4148]    s "I’m not really sure what I’m looking at right now."
+[4149]    ay "It wraps around the entire building. "
+[4150]    ay "I felt like it was closing in at first, but I’m pretty sure that was just me having a perpetual panic attack."
+[4151]    s "Have you tried going through it?"
+[4152]    ay "I tried poking it since you can reach it from the front steps of the school, but doing that just sent me back up here."
+[4153]    ay "The pictures change every few hours, but I don’t think it’s, like...a puzzle or anything like that."
+[4154]    ay "I’ve been keeping track of them in a notebook to see if I can figure out if they {i}mean{/i} anything, but I think it’s just the world being broken again."
+[4155]    s "..."
+[4156]    ay "This is why I said you can’t leave. It’s not like the last few times where the sky gets all cool-looking and the rest of the city stays mostly the same."
+[4157]    ay "This time, it’s like the city doesn’t even exist. And that the world’s been whittled down to just the school."
+[4158]    s "..."
+[4159]    ay "..."
+[4160]    s "She’ll be here, Ayane."
+[4161]    ay "If you say so, Sensei."
+[4162]    ay "Do you want coffee or something? We’re probably going to be here for a while."
+[4163]    s "Sure. If you’re running to Koi Cafe, I’ll take a Copyrighted Frozen Beverage."
+[4164]    ay "Lucky for you, I’ve set up my {i}own{/i} Koi Cafe."
+[4169]    "Ayane lets go of my arm for the first time since I opened my eyes or...regained consciousness or...whatever it is that happens when I snap out of reset-induced delusions. "
+[4170]    "It’s a little strange, though. "
+[4171]    "I feel like...I remember most of this one."
+[4172]    "I remember being locked in a house."
+[4173]    "I remember...being alone. "
+[4174]    "Delicious hot pot."
+[4175]    "A girl who grew up."
+[4186]    "And..."
+[4187]    "And that’s it."
+[4188]    "Nothing else happened."
+[4190]    s "You’ve...made quite a home for yourself up here, haven’t you?"
+[4194]    ay "It’s not like I had anything else going on. And you’d be surprised what you can find lying around the school."
+[4195]    s "You’ve got electricity and everything."
+[4200]    ay "I do! And might I add that I’m extremely proud of myself for being able to lug {i}multiple{/i} generators up three flights of stairs. Even {i}if{/i} it did take an entire day."
+[4201]    s "Well, at least you haven’t been sitting here doing nothing. I feel less bad about making you wait a month now."
+[4206]    ay "You should still feel very bad about that and you should never do it again. Because even if I have food and water, the library’s DVD selection is {i}extremely{/i} lacking."
+[4207]    ay "Do you have any idea how many times I’ve watched the Breakfast Club now? Because it is a number I am not proud of, Sensei. "
+[4208]    ay "My English has gotten better, though. So at least there’s that."
+[4209]    s "Leave it to the almost-eternal optimist to find a silver lining in the picture-clouds of the apocalypse."
+[4210]    ay "It helps being a little insane too. I can’t imagine many people in my situation would have set up a base camp, but here I am. "
+[4211]    s "Your mild insanity is the only thing keeping me grounded right now, so thanks for that."
+[4212]    ay "You’re welcome. "
+[4213]    ay "I can only imagine what you had to go through to make it here, but I’m glad you did."
+[4214]    ay "Like I said, though. All there is to do now is continue playing the waiting game. I hope you like the Breakfast Club."
+[4215]    s "You know...maybe I’ll take some coffee after all."
+[4220]    ay "It would be my pleasure, sir. Please take a seat inside our {i}lovely{/i} triangular housing and I’ll have our wait staff bring it out right away."
+[4221]    s "I even get to see your tent? You’re far too kind."
+[4222]    ay "Just wait until you see what {i}other{/i} services we provide."
+[4223]    s "This is probably the least appropriate it has ever been for you to hit on me. "
+[4228]    ay "It’s been thirty-five days. {i}Excuse me{/i} for getting a little excited."
+[4229]    ay "Now, go sit down so I can continue acting like your wife-slash-barista."
+[4234]    "I climb into the tent and find there’s not much inside apart from a futon, a lamp, and a few notebooks Ayane’s been writing in."
+[4235]    "It smells like her. Though, I guess that’s not surprising since she’s essentially been living here for over a month."
+[4236]    "It’s comforting in a way that nothing ever is anymore. {i}Especially{/i} nothing on this rooftop."
+[4241]    "But even if that indiscernible flowery scent of perfume that she {i}still{/i} wears despite what could have been indefinite loneliness clings to my nostrils, my heart can’t help but wander elsewhere."
+[4242]    "Even now, in this claustrophobic polyester pyramid where the two of us are as close as we can be without staining the sheets, I’m thinking of someone else."
+[4243]    "I’m {i}worried{/i} about someone else."
+[4244]    "And she knows it."
+[4245]    "I {i}know{/i} she knows it."
+[4246]    "I can tell from the pheromones that have abandoned her body and flooded the tent. They dance in circles around the two pillows she dragged in here, yet she abstains from touching me because she {i}cares.{/i}"
+[4247]    "And she doesn’t want to force something out of me when all I’ve ever done is force things out of her."
+[4248]    "I’m sure she wouldn’t describe it that way if you asked her where her mind was. I’m sure she’d mention something about how easy it is to read me when I’ve always been her favorite book."
+[4249]    "But if you ask me why she’s fascinated with martyrdom in a world without anyone to die for, I’d tell you it’s because she’s special. "
+[4250]    "That she’s a little insane."
+[4251]    "And that there really isn’t anyone who would handle this the way she does."
+[4253]    ay "Can I ask you something, Sensei?"
+[4254]    s "Sure. What’s up?"
+[4255]    ay "Just out of curiosity, if the world never resets and the two of us are stuck here for the rest of eternity, how long do you want to wait before we start repopulating the planet?"
+[4256]    s "Not the direction I expected this to go in."
+[4261]    ay "I think that’s a perfectly reasonable question! It’s our duty as Japanese citizens to procreate. Even when the rest of the world disappears."
+[4262]    s "Your mind is everywhere but where it’s meant to be right now, isn’t it?"
+[4267]    ay "Where would you say it’s meant to be?"
+[4268]    s "A way out....what we’re supposed to do next...anywhere but mindless fun and what-if scenarios."
+[4269]    ay "Doing that would drive me even {i}more{/i} insane. Besides, I’ve more than paid my dues when it comes to critical thinking over the last month."
+[4270]    ay "Now that you’re here and we can be together again, I kind of just want to...go back to normal for a little while. Because who knows if we’ll ever be able to do that again?"
+[4271]    s "..."
+[4272]    ay "You look upset. How come?"
+[4273]    s "Ayane, when you were...feeling “weird” the day of the Halloween party...were you, like...{i}hearing{/i} things?"
+[4274]    ay "You mean like voices? "
+[4275]    s "Exactly. Does that mean you were?"
+[4276]    ay "Were {i}you?{/i}"
+[4277]    s "I asked you first. "
+[4278]    ay "And I made you coffee."
+[4279]    s "Then...yeah. I was."
+[4280]    ay "Haven’t you always, though?"
+[4281]    ay "I know you’ve had {i}stuff{/i} like that going on forever. And I know that’s why your bond with...Ami has...gotten so strong."
+[4282]    s "Not like this. This time was different."
+[4283]    ay "I’m not surprised. Everything {i}about{/i} this time is different. And, apart from being able to hang out in a tent with you, none of it’s really good."
+[4284]    ay "Were they saying anything specific?"
+[4285]    s "..."
+[4286]    ay "You don’t have to tell me if you don’t want to. I get it."
+[4287]    s "It’s less that I don’t want to and more like I...feel like I’m not {i}supposed{/i} to."
+[4288]    ay "All rules get thrown out the window when the world is ending, Sensei. You can say or do anything you want here."
+[4289]    s "..."
+[4290]    ay "..."
+[4291]    s "I think this might be my last reset."
+[4296]    ay "...what?"
+[4297]    s "I keep...hearing this message that...if I don’t “take something that doesn’t belong to me,” something will be taken from {i}me{/i} instead. "
+[4298]    ay "What does...that mean?"
+[4299]    s "I’m not sure, but...I have an idea. The point is, though, time is up. "
+[4300]    s "I had until the end of summer and, if you hadn’t already noticed, I think that time has come."
+[4301]    ay "Wait, hold on. So, it’s...just because of that voice thing that you think you’re not going to make it through this reset? How did you come to that conclusion?"
+[4302]    s "I wouldn’t call it a {i}conclusion.{/i} It’s more like a feeling. Like I was put here for some sort of purpose and, if I’m not going to fulfill it, there’s no reason for me to exist at all."
+[4303]    ay "Why do you need to have a purpose? Why can’t you just...be you?"
+[4304]    s "I wish I had an answer to that."
+[4305]    ay "No...you don’t. Because you don’t {i}need{/i} to have an answer to that. "
+[4306]    ay "Who cares if you’re not fulfilling your {i}purpose?{/i} Just live happily and let everything else fall into place after that."
+[4307]    s "But the voice-"
+[4308]    ay "You think you’re the only person to hear a voice like that? One that tells you you’re not good enough and that you need to be someone else? {i}Everyone{/i} hears that."
+[4309]    s "I...okay. Sure. But I feel like the way this one is being {i}delivered{/i} to me is a little different than the idea of everyone feeling subconsciously incomplete."
+[4310]    ay "That’s not what I-"
+[4315]    ay "Hah..."
+[4320]    ay "Okay. Yeah. I may have...inadvertently sounded a little preachy and generic just now. And I get that that doesn’t compare to what you are personally going through."
+[4321]    ay "But {i}I’ve{/i} been hearing things too, Sensei. {i}Actual{/i} voices. That want me to do things for them that I don’t {i}want{/i} to do. And Ami heard...hears them too."
+[4322]    s "What? Then...why haven’t you ever said anything?"
+[4323]    ay "Uhh...because it’s creepy and totally fake?"
+[4324]    ay "I just ignore them and nothing bad ever happens to me. Well, apart from being sucked into the apocalypse and being forced to watch the Breakfast Club over and over."
+[4325]    ay "You’re getting scared for no reason. And you’re scaring {i}me{/i} by saying things like “This might be my last reset” when that’s completely untrue."
+[4326]    ay "It’s never over until it’s over. And you’re better than giving up just because the angel on your shoulder hates you even more than {i}you{/i} do."
+[4327]    s "..."
+[4328]    ay "You’re gonna be okay. We’ll get through this together."
+[4329]    s "And if we don’t?"
+[4334]    ay "If we don’t, then I’m definitely jumping on your replacement ASAP and having as many babies as possible."
+[4335]    s "..."
+[4340]    ay "Oh, come on. I’m obviously kidding."
+[4341]    ay "If we don’t, I’m sure {i}one{/i} of us will figure something out."
+[4342]    ay "Maybe it’s me. Maybe it’s you. Maybe it’s Maya. Maybe it’s someone completely unexpected. And maybe it takes another thousand or...million years or whatever."
+[4343]    ay "Predicting the future sucks because all it really does is make the present more nerve-wracking. And the present for us kind of sucks to begin with."
+[4344]    ay "So just...worry about today. Then, when you wake up in the morning, you can worry about tomorrow. "
+[4349]    ay "Which, by then, would {i}also{/i} be today. But I think you get what I’m saying."
+[4350]    s "Yeah..."
+[4351]    s "I think I get what you’re saying."
+[4356]    ay "Great."
+[4357]    ay "Then, please excuse me while I take a much needed nap."
+[4362]    s "Ayane-"
+[4363]    ay "Don’t worry. You can keep talking to me. I just want to rest my head on your lap for a little while. I’ve been extremely Sensei-deprived lately and if I don’t do something about it now, I’m going to die."
+[4368]    s "Are you happy now?"
+[4369]    ay "Mm......yeah..."
+[4370]    ay "I missed this. "
+[4371]    s "I missed you too."
+[4372]    ay "No you didn’t. You were too caught up in blackout-mode to miss me. "
+[4373]    ay "In fact, the only reason I found you in the first place was because I heard banging in one of the classrooms when I went to get some more supplies. You’re lucky I didn’t bring my gun."
+[4374]    s "I think calling either of us lucky in {i}any{/i} regard can’t possibly be accurate when we have to go through things like this."
+[4375]    ay "And {i}I{/i} think you’re wrong. Because we’re definitely lucky to have met each other."
+[4376]    ay "And we’re definitely lucky to have fallen in love."
+[4377]    s "..."
+[4378]    ay "..."
+[4379]    ay "I’m so happy you’re back."
+[4385]    s "Me too."
+[4387]    "........."
+[4388]    "......"
+[4389]    "..."
+[4392]    $ resetsix3 = True
+[4394]    if day == 1:
+[4397]        $ day = 2
+[4398]        $ totaldays += 1
+[4399]        jump resetsix4
+[4400]    elif day == 2:
+[4403]        $ day = 3
+[4404]        $ totaldays += 1
+[4405]        jump resetsix4
+[4406]    elif day == 3:
+[4409]        $ day = 4
+[4410]        $ totaldays += 1
+[4411]        jump resetsix4
+[4412]    elif day == 4:
+[4415]        $ day = 5
+[4416]        $ totaldays += 1
+[4417]        jump resetsix4
+[4418]    elif day == 5:
+[4421]        $ day = 6
+[4422]        $ totaldays += 1
+[4423]        jump resetsix4
+[4424]    elif day == 6:
+[4427]        $ day = 7
+[4428]        $ totaldays += 1
+[4429]        jump resetsix4
+[4430]    elif day == 7:
+[4433]        $ day = 1
+[4434]        $ totaldays += 1
+[4435]        jump resetsix4
+
+===== [4437] resetsix4 =====
+[4442]    ay "Sensei..."
+[4443]    ay "Wake up..."
+[4448]    s "...Ayane?"
+[4449]    ay "..."
+[4450]    s "I take it we both fell asleep?"
+[4451]    ay "..."
+[4452]    s "..."
+[4453]    s "Is there a {i}reason{/i} for this silence? Or..."
+[4454]    ay "Sensei..."
+[4455]    s "...What?"
+[4460]    ay "I think..."
+[4461]    ay "I think something happened..."
+[4462]    s "What do you mean “something happened?” Did that weird picture-wall go down?"
+[4463]    ay "Um..."
+[4464]    ay "Yeah, but..."
+[4465]    ay "I..."
+[4466]    ay "I think you should...probably go see for yourself..."
+[4471]    "........."
+[4472]    "......"
+[4473]    "..."
+[4479]    s "..."
+[4480]    ay "..."
+[4481]    s "The sky is back to normal."
+[4482]    ay "Yeah, but..."
+[4483]    ay "Everything {i}else{/i} isn’t."
+[4484]    ay "All the stuff I brought up here is...well, it's still {i}here.{/i} And I didn’t see anyone when I went downstairs to use the restroom. "
+[4485]    s "..."
+[4486]    ay "No one’s answering their phone either. And I’ve tried everyone."
+[4487]    s "..."
+[4488]    ay "This...hasn’t ever happened before, has it? Where...the world resets but...no one {i}else{/i} goes with it?"
+[4489]    s "No...it hasn’t."
+[4490]    ay "Well...what should we do? "
+[4491]    s "..."
+[4492]    ay "Do you want to, like...look around or something? Maybe today is just a holiday and...and all the girls are grouped up somewhere else?"
+[4493]    ay "Or...or maybe it would be safer to stay put? Maybe the reset’s only, like...halfway done? Maybe we just need to wait out the rest?"
+[4494]    s "What if this isn’t a reset?"
+[4499]    ay "What else would it be?"
+[4500]    s "I have no idea."
+[4501]    s "Maybe it’s a whole new world entirely. Maybe we really {i}did{/i} live through the apocalypse. I don’t fucking know. It doesn’t make sense."
+[4502]    ay "Well...well if...that wall is gone...we can go out and look for Maya, right? Even if it’s a risk. Maybe she’ll know what’s going on?"
+[4503]    s "Or maybe she’s gone and we’re the only people left? Maybe we’ve got a whole fucking world to ourselves now and everything else is fucked?"
+[4504]    ay "Or maybe not? Maybe there’s still a chance to...you know...fix things?"
+[4505]    s "It’s good to see you managed to find your optimism again. It just kind of sucks that it took a botched reset in order to bring it back. It would have been really helpful last night."
+[4510]    ay "..."
+[4511]    s "...I’m sorry. I didn’t mean that."
+[4512]    ay "I know...I’m not upset. I’d probably be lashing out even more if I was in your shoes."
+[4513]    s "You {i}are{/i} in my shoes. It’s not like I’m the only person impacted by everyone and everything suddenly vanishing."
+[4514]    ay "No...but I know how badly you wanted to see Maya again. And all I did last night was-"
+[4515]    s "Maya’s still here. We just have to find her. And once we do, the world will fix itself. "
+[4520]    ay "Sensei..."
+[4521]    s "She’s clearly necessary for the reset to work properly if {i}this{/i} is what we get when she’s not here. "
+[4522]    ay "Which one is it? Is everyone and everything gone? Or are we going to try and keep hope alive by saying Maya is somehow exempt from all of that? "
+[4523]    s "I’ll give you an answer when I think of one. For now, we need to get off of this roof and...do {i}something.{/i} Anything."
+[4528]    ay "...Okay."
+[4529]    ay "But if we can’t find anyone...and it really is just us left...what then?"
+[4530]    s "Do {i}you{/i} have an answer to that question? Because I sure as hell don’t."
+[4531]    ay "Then...I guess that’s just a bridge we’ll have to cross if we ever get to it."
+[4532]    s "I really hope we don’t, Ayane..."
+[4537]    s "I really hope we don’t."
+[4539]    "........."
+[4540]    "......"
+[4541]    "..."
+[4546]    ay "This is kind of creepy, isn’t it?"
+[4547]    ay "It’s one thing to wander the halls of the school while the sky is eating itself and the moon is growing larger by the second, but there’s something even {i}more{/i} unsettling about being alone here in the light."
+[4548]    s "I think you’re just used to the former already. And you’ll have plenty of time to get used to this as well if we really are alone."
+[4549]    ay "On the bright side, at least we’ll be able to have sex in all of the classrooms without getting in trouble."
+[4550]    s "I don’t want to talk about sex right now, Ayane."
+[4551]    ay "That’s how you know it’s bad. "
+[4552]    s "Indeed. It is {i}very{/i} bad. "
+[4557]    s "But I doubt it’s going to get any better if we just stare outside the window waiting for something to happen."
+[4558]    ay "It...feels kind of weird leaving after being stuck here for over a month. Surreal, even."
+[4559]    s "More surreal than a sky made up of pictures and making coffee on an old school desk?"
+[4560]    ay "When that’s what you’ve gotten used to, yeah. Going back to normal {i}is{/i} surreal after spending so much time in a world that doesn’t even seem possible."
+[4561]    s "This is anything but normal and you know that."
+[4562]    ay "I’m not sure I {i}know{/i} anything anymore. It’s like any time I manage to pull myself out of {i}one{/i} crisis, another takes its place. "
+[4563]    ay "Maybe Maya’s been wrong this whole time and {i}I’m{/i} the most unlucky girl to ever exist?"
+[4564]    s "You can tell her that when you see her later and I’m sure she’ll have some sort of witty counterpoint to make you eat your words."
+[4565]    ay "I hope so..."
+[4566]    ay "I just keep thinking about the last thing I said to her."
+[4567]    s "What was it?"
+[4568]    ay "Something mean. But it made sense in the moment."
+[4569]    s "..."
+[4570]    ay "Do you remember the last thing {i}you{/i} said to her?"
+[4575]    s "..."
+[4580]    s "No."
+[4581]    s "I don’t."
+[4583]    "........."
+[4584]    "......"
+[4585]    "..."
+[4590]    ay "So, what’ll be the first stop on Sensei & Ayane’s post-apocalyptic field-trip through Kumon-mi {i}this{/i} time?"
+[4591]    s "The dorms. That’s where we found her the last time she vanished, and I’m willing to bet it’s where we’ll find her again this time."
+[4592]    ay "Would you mind if we stopped at a few other places first?"
+[4593]    s "Like?"
+[4594]    ay "Anywhere people might gather. The park....Koi Cafe...things like that. Nothing too far."
+[4595]    s "Is that really necessary?"
+[4600]    ay "It wouldn’t hurt, I don’t think. And if there {i}is{/i} anyone left, I imagine they’d group up somewhere, like...public. Somewhere that everyone visits regularly."
+[4601]    s "You mean...like the school?"
+[4602]    ay "For all we know, they might not have been able to {i}get{/i} to the school. That wall could have boxed the two of us in while everyone else wondered where {i}we{/i} went."
+[4603]    s "That seems...highly improbable."
+[4604]    ay "Literally everything about this is highly improbable. But if you really don’t think it’s a good idea, we can-"
+[4609]    s "It’s fine..."
+[4610]    s "Like you said, it won’t hurt."
+[4611]    s "And finding {i}anyone{/i} would, at the bare minimum, help us get a better idea of what might be going on here. Especially if they’ve been...{i}conscious{/i} anywhere near as long as you have."
+[4612]    ay "Thank you for not abusing your power as someone who may very well be the last man on earth while the last {i}girl{/i} on earth is much smaller and weaker than you."
+[4613]    s "Smaller, yes. Weaker? Doubtful. You know karate."
+[4614]    ay "I’ll teach you everything I know if we’re unable to find anyone. And you’ll have plenty of time to learn since you don’t want to impregnate me and repopulate the world."
+[4615]    s "Let’s just...focus on finding someone first, Ayane. {i}Then{/i} we can talk about repopulating."
+[4620]    "........."
+[4621]    "......"
+[4622]    "..."
+[4627]    "There is no one at the park."
+[4633]    "There is no one on the street we take to school."
+[4639]    "And there is no one at Koi Cafe."
+[4641]    ay "Okay. I’m willing to admit my idea was a bust now."
+[4642]    s "I had a feeling it would be."
+[4643]    ay "Thank you for humoring me regardless. I just..."
+[4644]    ay "I really had a feeling like we’d find someone here. And after you managed to track down Maya the first time, I wanted to be of some use {i}this{/i} time and-"
+[4645]    s "It’s fine. Let’s just get to the dorms. We’ve used up enough time getting partially sidetracked like this."
+[4646]    ay "Are you {i}really{/i} sure that’s where you want to go next, Sensei?"
+[4647]    s "Yeah, that’s why I mentioned it in the very beginning of our “field trip.” Why does it sound like you’re about to try and talk me out of it?"
+[4652]    ay "That’s..."
+[4653]    ay "Um..."
+[4654]    ay "Well...you remember last night...when we were talking about, like...voices and stuff?"
+[4655]    s "..."
+[4656]    ay "It’s faint, and...I’m not really sure if I’d even call it a {i}voice,{/i} but..."
+[4657]    ay "It’s like something in the back of mind is telling me we shouldn’t go there yet."
+[4658]    s "Weren’t you {i}just{/i} telling me last night that those “voices” don’t need to be taken as gospel? We’re not obligated to listen to them. And I’m not willing to risk waiting around any longer."
+[4659]    ay "I..."
+[4660]    ay "Yeah."
+[4661]    ay "I understand..."
+[4666]    s "Great. Then, let’s get going."
+[4667]    ay "W-Wait! Sensei!"
+[4668]    s "What now, Ayane?"
+[4669]    ay "Oh, I just want to get this rock out of my boot before...got it. Okay, we’re good."
+[4670]    s "Did I really need to be stopped for that?"
+[4676]    "There is no one outside of the dorms."
+[4677]    "But that’s okay."
+[4678]    "There was no one outside of them the other time she vanished either and we still managed to find her."
+[4679]    "{i}I{/i} managed to find her. "
+[4680]    "And I’ll find her again, no matter how many places I need to search."
+[4682]    ay "Sensei..."
+[4683]    s "Don’t try and talk me out of going inside, Ayane. "
+[4684]    ay "I won’t...and I’ll be right there with you."
+[4685]    ay "I just...I don’t want to see you lose hope if she isn’t there. And I feel like you will."
+[4686]    s "I won’t."
+[4687]    ay "But I feel like you will."
+[4688]    s "I told you, I won’t."
+[4689]    ay "But I feel like you-"
+[4695]    "There is no one in the dorms."
+[4697]    s "There’s no one in the dorms."
+[4698]    s "There’s no one here."
+[4699]    s "She’s not here."
+[4700]    s "She’s not here because I killed her in Paper City."
+[4701]    ay "See? I knew this was going to happen. "
+[4702]    s "We really are alone...aren’t we?"
+[4703]    ay "Yes, but there are still places we can look."
+[4704]    s "She’s not here..."
+[4705]    s "There’s no one in the dorms."
+[4706]    s "There’s no one anywhere."
+[4707]    ay "Sensei, look at me."
+[4713]    "I look at her."
+[4715]    ay "You need to calm down."
+[4716]    s "I am calm. I’m calm as can be. I’m the calmest I’ve ever been. I’m calm. I’m so calm. I’m calm, Ayane. I am."
+[4717]    ay "No, you’re not. And I get that you’ve been doing your best to keep it together ever since you woke up, but you need to do {i}better.{/i} "
+[4718]    ay "You need to {i}fight.{/i}"
+[4719]    s "Fight? Fight what? What the fuck do you want me to do? Am I not allowed to freak out for a second while I come to terms with the fact that I might never see Maya again?"
+[4720]    ay "No. "
+[4721]    ay "You’re not, actually. "
+[4722]    ay "You’re not allowed to freak out at all. "
+[4723]    ay "You have to stay completely calm and {i}fight{/i} because, if you don’t, you won’t ever get out of this."
+[4724]    s "What the fuck do you mean?! How do you know that?!"
+[4725]    ay "I know it because you haven’t even made it out of the house yet."
+[4726]    s "What?!"
+[4733]    s "..."
+[4735]    "..."
+[4737]    s "What?"
+[4742]    vpa "You shouldn’t have opened the door."
+[4743]    sa "Hah...hah...hah!"
+[4750]    sa "Fuck! Right there! Right there, baby!"
+[4751]    s "..."
+[4752]    sa "Ohhh my god! I’m gonna cum...you’re gonna make me cum!"
+[4753]    s "..."
+[4757]    sa "Hah...hah......ahh.....hah.........ngah......"
+[4758]    sa "You like my pussy, baby?...You like...fucking me like that?...Yeah?..."
+[4759]    s "Sana?..."
+[4764]    sa "Hah......hah.......hah........"
+[4765]    sa "Guess again......asshole......"
+[4778]    m "Hah....hah....hah...."
+[4779]    m "Blackout sex......really {i}is{/i} the best......"
+[4780]    s "Maya?..."
+[4781]    m "Well, well, well..."
+[4782]    m "Look who.....finally decided to show up..."
+[4783]    s "This..."
+[4784]    s "No...."
+[4785]    s "We can’t-"
+[4786]    m "Don’t you dare...fucking stop..."
+[4787]    s "But you-"
+[4788]    m "I repeat......{i}don’t you dare fucking stop...{/i}"
+[4793]    m "{i}God{/i} that feels so good. Holy shit."
+[4801]    m "Harder......"
+[4802]    m "{i}Faster......{/i}"
+[4803]    s "But...but...won’t I..."
+[4808]    m "You’ll be fine..."
+[4809]    m "{i}Me{/i} on the other hand?..."
+[4810]    m "I am {i}fucked...{/i}Both literally and figuratively..."
+[4811]    s "What does that mean?! What’s going to happen to you?!"
+[4812]    m "Probably the...same thing that happened to you all those...times I couldn’t hold myself back..."
+[4813]    m "First...I’m going to cum {i}so fucking hard...{/i}"
+[4814]    m "Then..."
+[4815]    m "I’ll be reset..."
+[4816]    s "{i}Then{/i} what?!"
+[4817]    m "That’s it...there’s no third step after that..."
+[4818]    s "That’s {i}worse{/i} than me being reset! How am I supposed to do any of this without you?!"
+[4819]    m "You’ll figure it out...You’re smart..."
+[4820]    s "No I'm not! Not even close!"
+[4821]    m "Then...you're creative?..."
+[4822]    s "I’ll get your memories back...I swear. I’ll do it."
+[4823]    m "Good fucking luck. It took me a zillion years to get any of {i}yours{/i} back and we probably won’t even get to cuddle after this..."
+[4824]    s "How do you know?! How do you know it’ll be you instead of me?!"
+[4825]    m "Because...idiot..."
+[4826]    m "It’s already started..."
+[4834]    m "If it weren’t for the...costume you tore off of me...I wouldn’t even know what day it is right now..."
+[4835]    s "That doesn’t mean anything. That-"
+[4836]    m "Give it a...fucking break, would you?...Just screw me and...let my mind get wiped on a slightly happier note..."
+[4838]    "Her legs wrap around my waist and push me in deeper, but despite my mind’s desperate pleas to put an end to this, my body refuses to let up."
+[4839]    "I press her hands harder into the concrete of the same rooftop where she changed my life and force my eyes shut so I can pretend this isn’t happening."
+[4841]    m "Open your eyes...pervert...you know you...can’t resist me..."
+[4843]    "They don’t stay closed for long, though."
+[4845]    s "Maya..."
+[4846]    m "That's me..."
+[4847]    s "I love you..."
+[4848]    m "I know..."
+[4856]    m "God I...almost forgot...how big you are...that’s so good...that’s so fucking good..."
+[4857]    s "Why do you get to close your eyes but not me?..."
+[4862]    m "I was just...blinking..."
+[4863]    m "If you want to play that game...I won’t take my eyes off of you again until this is all over..."
+[4864]    s "Then I’ll make it last forever..."
+[4865]    m "That’s even...more impossible than the...memory thing..."
+[4866]    m "I bet you...want to cum right now...don’t you?..."
+[4867]    m "I’d ask if you’ve been...saving up for me, but...we both know you’ve been {i}spreading your love{/i} all over the place...this whole fucking time..."
+[4868]    s "Are you jealous?..."
+[4869]    m "{i}Very.{/i} Angry too. You’re supposed to be {i}my{/i} man. And I’ve been so loyal this whole time."
+[4870]    s "Except for all those other me’s you apparently seduced."
+[4871]    m "They didn’t count."
+[4879]    m "Mngh.....mmf.....hmngh....."
+[4880]    m "I’m surprised you’re...still hanging in there..."
+[4881]    s "The same goes for you...I imagined you would have crumbled by now based on how long you’ve wanted this..."
+[4882]    m "I got a head start...remember?...Sucks you had to miss my first few orgasms...I came as soon as you put it in..."
+[4883]    s "You must really like me..."
+[4884]    m "Or I’m just very easy to please..."
+[4892]    s "..."
+[4893]    m "Mmm......mm.......hnngh..."
+[4894]    s "..."
+[4895]    m "Mmf.......mmngh.......mm!"
+[4896]    s "You want to cum again, don’t you?..."
+[4897]    m "Yeah..."
+[4898]    m "But..."
+[4903]    m "I don’t want to disappear..."
+[4904]    m "I want to stay here...with you..."
+[4905]    s "I’ll get you back..."
+[4906]    m "Do you promise?..."
+[4907]    s "I promise..."
+[4908]    m "You better mean that! I’ll never forgive you if you don’t!"
+[4917]    m "Ngh!!!"
+[4918]    s "Are you okay? Was that too hard?"
+[4919]    m "It’s...perfect! But...I’m...ngh!"
+[4920]    s "..."
+[4921]    m "Hngh...ngh....ngh!"
+[4922]    s "How much time do you have left?..."
+[4923]    m "Not much..."
+[4924]    m "I’ve already...given up everything else..."
+[4925]    m "All that’s left.....are the memories of you!..."
+[4929]    m "The ones I...treasure most of all!"
+[4930]    m "The memories of...my Akira!"
+[4931]    s "Say it again..."
+[4932]    m "Akira!"
+[4933]    s "Again..."
+[4938]    m "Akira, Akira, Akira!"
+[4939]    s "Again!"
+[4940]    m "Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira, Akira!!!!!!"
+[4944]    m "I love you more than anything! "
+[4952]    $ resetsix4 = True
+[4959]    jump chap4int
+
+===== [4961] chap4int =====
+[4963]    "........."
+[4964]    "......"
+[4965]    "..."
+[4966]    jump springtime1

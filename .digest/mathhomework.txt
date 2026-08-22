@@ -1,0 +1,886 @@
+
+===== [1] computer =====
+[5]    "What should I do?"
+[6]    menu computermenu:
+[9]            jump computermenu
+[11]            menu:
+[13]                    $ amimaster = renpy.input("Enter a name for Ami to call you...")
+[14]                    $ amimaster = amimaster.strip()
+[15]                    "Ami will now call you [amimaster]."
+[16]                    jump computermenu
+[18]                    $ ayanemaster = renpy.input("Enter a name for Ayane to call you...")
+[19]                    $ ayanemaster = ayanemaster.strip()
+[20]                    "Ayane will now call you [ayanemaster]."
+[21]                    jump computermenu
+[23]                    $ chikamaster = renpy.input("Enter a name for Chika to call you...")
+[24]                    $ chikamaster = chikamaster.strip()
+[25]                    "Chika will now call you [chikamaster]."
+[26]                    jump computermenu
+[28]                    $ futabamaster = renpy.input("Enter a name for Futaba to call you...")
+[29]                    $ futabamaster = futabamaster.strip()
+[30]                    "Futaba will now call you [futabamaster]."
+[31]                    jump computermenu
+[33]                    $ harukamaster = renpy.input("Enter a name for Haruka to call you...")
+[34]                    $ harukamaster = harukamaster.strip()
+[35]                    "Haruka will now call you [harukamaster]."
+[36]                    jump computermenu
+[38]                    $ imanimaster = renpy.input("Enter a name for Imani to call you...")
+[39]                    $ imanimaster = imanimaster.strip()
+[40]                    "Imani will now call you [imanimaster]."
+[41]                    jump computermenu
+[43]                    $ kirinmaster = renpy.input("Enter a name for Kirin to call you...")
+[44]                    $ kirinmaster = kirinmaster.strip()
+[45]                    "Kirin will now call you [kirinmaster]."
+[46]                    jump computermenu
+[48]                    $ makimaster = renpy.input("Enter a name for Maki to call you...")
+[49]                    $ makimaster = makimaster.strip()
+[50]                    "Maki will now call you [makimaster]."
+[51]                    jump computermenu
+[53]                    $ makotomaster = renpy.input("Enter a name for Makoto to call you...")
+[54]                    $ makotomaster = makotomaster.strip()
+[55]                    "Makoto will now call you [makotomaster]."
+[56]                    jump computermenu
+[58]                    $ mikumaster = renpy.input("Enter a name for Miku to call you...")
+[59]                    $ mikumaster = mikumaster.strip()
+[60]                    "Miku will now call you [mikumaster]."
+[61]                    jump computermenu
+[63]                    $ mollymaster = renpy.input("Enter a name for Molly to call you...")
+[64]                    $ mollymaster = mollymaster.strip()
+[65]                    "Molly will now call you [mollymaster]."
+[66]                    jump computermenu
+[68]                    $ nikimaster = renpy.input("Enter a name for Niki to call you...")
+[69]                    $ nikimaster = nikimaster.strip()
+[70]                    "Niki will now call you [nikimaster]."
+[71]                    jump computermenu
+[73]                    $ norikomaster = renpy.input("Enter a name for Noriko to call you...")
+[74]                    $ norikomaster = norikomaster.strip()
+[75]                    "Noriko will now call you [norikomaster]."
+[76]                    jump computermenu
+[78]                    $ sanamaster = renpy.input("Enter a name for Sana to call you...")
+[79]                    $ sanamaster = sanamaster.strip()
+[80]                    "Sana will now call you [sanamaster]."
+[81]                    jump computermenu
+[83]                    $ saramaster = renpy.input("Enter a name for Sara to call you...")
+[84]                    $ saramaster = saramaster.strip()
+[85]                    "Sara will now call you [saramaster]."
+[86]                    jump computermenu
+[87]                "Go back":
+[88]                    jump computermenu
+[90]            "{i}Please note that this outfit change applies only to invite-over animations.{/i}"
+[91]            "Who do I want to change outfits for?"
+[92]            menu:
+[94]                    "Choose an outfit for Ami to wear."
+[95]                    menu:
+[96]                        "Casual":
+[97]                            $ amioutfit = "Casual"
+[98]                            "Casual outfit equipped."
+[99]                            jump computermenu
+[101]                            $ amioutfit = "Casual 2"
+[102]                            "Summer dress equipped."
+[103]                            jump computermenu
+[105]                            $ amioutfit = "School"
+[106]                            "School uniform equipped."
+[107]                            jump computermenu
+[109]                            $ amioutfit = "School 2"
+[110]                            "New school uniform equipped."
+[111]                            jump computermenu
+[113]                            $ amioutfit = "Pajamas"
+[114]                            "Pajamas equipped."
+[115]                            jump computermenu
+[117]                            $ amioutfit = "Swimsuit"
+[118]                            "Swimsuit equipped."
+[119]                            jump computermenu
+[121]                            $ amioutfit = "Sailor Moon"
+[122]                            "Sailor Moon costume equipped."
+[123]                            jump computermenu
+[125]                            $ amioutfit = "Amber"
+[126]                            "Outrider Amber costume equipped."
+[127]                            jump computermenu
+[129]                            $ amioutfit = "Winter"
+[130]                            "Winter clothes equipped."
+[131]                            jump computermenu
+[132]                        "Go back":
+[133]                            jump computermenu
+[135]                    "Choose an outfit for Ayane to wear."
+[136]                    menu:
+[137]                        "Casual":
+[138]                            $ ayaneoutfit = "Casual"
+[139]                            "Casual outfit equipped."
+[140]                            jump computermenu
+[142]                            $ ayaneoutfit = "Casual 2"
+[143]                            "Summer clothes equipped."
+[144]                            jump computermenu
+[146]                            $ ayaneoutfit = "School"
+[147]                            "School uniform equipped."
+[148]                            jump computermenu
+[150]                            $ ayaneoutfit = "School 2"
+[151]                            "New school uniform equipped."
+[152]                            jump computermenu
+[154]                            $ ayaneoutfit = "Pajamas"
+[155]                            "Pajamas equipped."
+[156]                            jump computermenu
+[158]                            $ ayaneoutfit = "Swimsuit"
+[159]                            "Swimsuit equipped."
+[160]                            jump computermenu
+[162]                            $ ayaneoutfit = "Knight"
+[163]                            "Knight armor equipped."
+[164]                            jump computermenu
+[166]                            $ ayaneoutfit = "Lumine"
+[167]                            "Lumine costume equipped."
+[168]                            jump computermenu
+[170]                            $ ayaneoutfit = "Winter"
+[171]                            "Winter clothes equipped."
+[172]                            jump computermenu
+[173]                        "Go back":
+[174]                            jump computermenu
+[176]                    "Choose an outfit for Chika to wear."
+[177]                    menu:
+[178]                        "Casual":
+[179]                            $ chikaoutfit = "Casual"
+[180]                            "Casual outfit equipped."
+[181]                            jump computermenu
+[183]                            $ chikaoutfit = "Casual 2"
+[184]                            "Summer clothes equipped."
+[185]                            jump computermenu
+[187]                            $ chikaoutfit = "School"
+[188]                            "School uniform equipped."
+[189]                            jump computermenu
+[191]                            $ chikaoutfit = "School 2"
+[192]                            "New school uniform equipped."
+[193]                            jump computermenu
+[195]                            $ chikaoutfit = "Pajamas"
+[196]                            "Pajamas equipped."
+[197]                            jump computermenu
+[199]                            $ chikaoutfit = "Swimsuit"
+[200]                            "Swimsuit equipped."
+[201]                            jump computermenu
+[203]                            $ chikaoutfit = "Bunny Girl"
+[204]                            "Bunny Girl costume equipped."
+[205]                            jump computermenu
+[207]                            $ chikaoutfit = "Dancer"
+[208]                            "Dancer costume equipped."
+[209]                            jump computermenu
+[211]                            $ chikaoutfit = "Winter"
+[212]                            "Winter clothes equipped."
+[213]                            jump computermenu
+[214]                        "Go back":
+[215]                            jump computermenu
+[217]                    "Choose an outfit for Futaba to wear."
+[218]                    menu:
+[219]                        "Casual":
+[220]                            $ futabaoutfit = "Casual"
+[221]                            "Casual outfit equipped."
+[222]                            jump computermenu
+[224]                            $ futabaoutfit = "School"
+[225]                            "School uniform equipped."
+[226]                            jump computermenu
+[228]                            $ futabaoutfit = "School 2"
+[229]                            "New school uniform equipped."
+[230]                            jump computermenu
+[232]                            $ futabaoutfit = "Pajamas"
+[233]                            "Pajamas equipped."
+[234]                            jump computermenu
+[236]                            $ futabaoutfit = "Swimsuit"
+[237]                            "Swimsuit equipped."
+[238]                            jump computermenu
+[240]                            $ futabaoutfit = "Mami Tomoe"
+[241]                            "Mami Tomoe costume equipped."
+[242]                            jump computermenu
+[244]                            $ futabaoutfit = "Ganyu"
+[245]                            "Ganyu costume equipped."
+[246]                            jump computermenu
+[248]                            $ futabaoutfit = "Winter"
+[249]                            "Winter clothes equipped."
+[250]                            jump computermenu
+[251]                        "Go back":
+[252]                            jump computermenu
+[254]                    "Choose an outfit for Haruka to wear."
+[255]                    menu:
+[256]                        "Casual":
+[257]                            $ harukaoutfit = "Casual"
+[258]                            "Casual outfit equipped."
+[259]                            jump computermenu
+[261]                            $ harukaoutfit = "Work Outfit"
+[262]                            "Work outfit equipped."
+[263]                            jump computermenu
+[265]                            $ harukaoutfit = "Swimsuit"
+[266]                            "Swimsuit equipped."
+[267]                            jump computermenu
+[269]                            $ harukaoutfit = "Cat Girl"
+[270]                            "Cat Girl costume equipped."
+[271]                            jump computermenu
+[273]                            $ harukaoutfit = "Devil"
+[274]                            "Devil costume equipped."
+[275]                            jump computermenu
+[277]                            $ harukaoutfit = "Winter"
+[278]                            "Winter clothes equipped."
+[279]                            jump computermenu
+[280]                        "Go back":
+[281]                            jump computermenu
+[283]                    "Choose an outfit for Kaori to wear."
+[284]                    menu:
+[285]                        "Casual Dress":
+[286]                            $ kaorioutfit = "Dress"
+[287]                            "Casual dress equipped."
+[288]                            jump computermenu
+[289]                        "Winter Outfit":
+[290]                            $ kaorioutfit = "Winter"
+[291]                            "Winter outfit equipped."
+[292]                            jump computermenu
+[294]                            $ kaorioutfit = "Pajamas"
+[295]                            "Fancy outfit equipped."
+[296]                            jump computermenu
+[298]                            $ kaorioutfit = "Swimsuit"
+[299]                            "Swimsuit equipped."
+[300]                            jump computermenu
+[302]                            $ kaorioutfit = "Police Woman"
+[303]                            "Police outfit equipped."
+[304]                            jump computermenu
+[305]                        "Go back":
+[306]                            jump computermenu
+[308]                    "Choose an outfit for Kirin to wear."
+[309]                    menu:
+[310]                        "Casual":
+[311]                            $ kirinoutfit = "Casual"
+[312]                            "Casual outfit equipped."
+[313]                            jump computermenu
+[315]                            $ kirinoutfit = "School"
+[316]                            "School uniform equipped."
+[317]                            jump computermenu
+[319]                            $ kirinoutfit = "School 2"
+[320]                            "New school uniform equipped."
+[321]                            jump computermenu
+[323]                            $ kirinoutfit = "Soccer"
+[324]                            "Soccer uniform equipped."
+[325]                            jump computermenu
+[327]                            $ kirinoutfit = "Swimsuit"
+[328]                            "Swimsuit equipped."
+[329]                            jump computermenu
+[331]                            $ kirinoutfit = "Halloween"
+[332]                            "Slutty schoolgirl costume equipped."
+[333]                            jump computermenu
+[335]                            $ kirinoutfit = "Pajamas"
+[336]                            "Pajamas equipped."
+[337]                            jump computermenu
+[339]                            $ kirinoutfit = "Winter"
+[340]                            "Winter clothes equipped."
+[341]                            jump computermenu
+[343]                            $ kirinoutfit = "Cowgirl"
+[344]                            "Cowgirl costume equipped."
+[345]                            jump computermenu
+[347]                            $ kirinoutfit = "Date Outfit"
+[348]                            "Date outfit equipped."
+[349]                            jump computermenu
+[351]                            $ kirinoutfit = "Misty"
+[352]                            "Misty costume equipped."
+[353]                            jump computermenu
+[354]                        "Go back":
+[355]                            jump computermenu
+[357]                    "Choose an outfit for Maki to wear."
+[358]                    menu:
+[359]                        "Casual":
+[360]                            $ makioutfit = "Casual"
+[361]                            "Casual outfit equipped."
+[362]                            jump computermenu
+[364]                            $ makioutfit = "Lazy"
+[365]                            "Lazy outfit equipped."
+[366]                            jump computermenu
+[368]                            $ makioutfit = "Fancy"
+[369]                            "Fancy outfit equipped."
+[370]                            jump computermenu
+[372]                            $ makioutfit = "Cat Girl"
+[373]                            "Cat girl costume equipped."
+[374]                            jump computermenu
+[376]                            $ makioutfit = "Winter"
+[377]                            "Winter clothes equipped."
+[378]                            jump computermenu
+[379]                        "Go back":
+[380]                            jump computermenu
+[382]                    "Choose an outfit for Makoto to wear."
+[383]                    menu:
+[384]                        "Casual":
+[385]                            $ makotooutfit = "Casual"
+[386]                            "Casual outfit equipped."
+[387]                            jump computermenu
+[389]                            $ makotooutfit = "Casual 2"
+[390]                            "Summer clothes equipped."
+[391]                            jump computermenu
+[393]                            $ makotooutfit = "School"
+[394]                            "School uniform equipped."
+[395]                            jump computermenu
+[397]                            $ makotooutfit = "School 2"
+[398]                            "New school uniform equipped."
+[399]                            jump computermenu
+[401]                            $ makotooutfit = "Pajamas"
+[402]                            "Pajamas equipped."
+[403]                            jump computermenu
+[405]                            $ makotooutfit = "Swimsuit"
+[406]                            "Swimsuit equipped."
+[407]                            jump computermenu
+[409]                            $ makotooutfit = "Witch"
+[410]                            "Witch costume equipped."
+[411]                            jump computermenu
+[413]                            $ makotooutfit = "Vampire"
+[414]                            "Vampire costume equipped."
+[415]                            jump computermenu
+[417]                            $ makotooutfit = "Winter"
+[418]                            "Winter clothes equipped."
+[419]                            jump computermenu
+[420]                        "Go back":
+[421]                            jump computermenu
+[423]                    "Choose an outfit for Miku to wear."
+[424]                    menu:
+[425]                        "Casual":
+[426]                            $ mikuoutfit = "Casual"
+[427]                            "Casual outfit equipped."
+[428]                            jump computermenu
+[430]                            $ mikuoutfit = "Soccer Uniform"
+[431]                            "Soccer Uniform equipped."
+[432]                            jump computermenu
+[434]                            $ mikuoutfit = "Pajamas"
+[435]                            "Pajamas equipped."
+[436]                            jump computermenu
+[438]                            $ mikuoutfit = "Dress"
+[439]                            "Summer Dress equipped."
+[440]                            jump computermenu
+[442]                            $ mikuoutfit = "Swimsuit"
+[443]                            "Swimsuit equipped."
+[444]                            jump computermenu
+[446]                            $ mikuoutfit = "Mikubus"
+[447]                            "Mikubus costume equipped."
+[448]                            jump computermenu
+[449]                        "Go back":
+[450]                            jump computermenu
+[452]                    "Choose an outfit for Molly to wear."
+[453]                    menu:
+[454]                        "Casual":
+[455]                            $ mollyoutfit = "Casual"
+[456]                            "Casual outfit equipped."
+[457]                            jump computermenu
+[459]                            $ mollyoutfit = "School"
+[460]                            "School Uniform equipped."
+[461]                            jump computermenu
+[463]                            $ mollyoutfit = "Winter"
+[464]                            "Winter Clothes equipped."
+[465]                            jump computermenu
+[467]                            $ mollyoutfit = "Pajamas"
+[468]                            "Pajamas equipped."
+[469]                            jump computermenu
+[471]                            $ mollyoutfit = "Swimsuit"
+[472]                            "Swimsuit equipped."
+[473]                            jump computermenu
+[474]                        "Go back":
+[475]                            jump computermenu
+[478]                    "Choose an outfit for Niki to wear."
+[479]                    menu:
+[480]                        "Casual":
+[481]                            $ nikioutfit = "Casual"
+[482]                            "Casual outfit equipped."
+[483]                            jump computermenu
+[485]                            $ nikioutfit = "Pajamas"
+[486]                            "Pajamas equipped."
+[487]                            jump computermenu
+[489]                            $ nikioutfit = "Idol"
+[490]                            "Idol outfit equipped."
+[491]                            jump computermenu
+[493]                            $ nikioutfit = "Winter"
+[494]                            "Winter clothes equipped."
+[495]                            jump computermenu
+[496]                        "Go back":
+[497]                            jump computermenu
+[500]                    "Choose an outfit for Nodoka to wear."
+[501]                    menu:
+[502]                        "Casual":
+[503]                            $ nodokaoutfit = "Casual"
+[504]                            "Casual outfit equipped."
+[505]                            jump computermenu
+[507]                            $ nodokaoutfit = "School"
+[508]                            "School Uniform equipped."
+[509]                            jump computermenu
+[511]                            $ nodokaoutfit = "Winter"
+[512]                            "Winter Clothes equipped."
+[513]                            jump computermenu
+[515]                            $ nodokaoutfit = "Pajamas"
+[516]                            "Pajamas equipped."
+[517]                            jump computermenu
+[519]                            $ nodokaoutfit = "Swimsuit"
+[520]                            "Swimsuit equipped."
+[521]                            jump computermenu
+[522]                        "Go back":
+[523]                            jump computermenu
+[526]                    "Choose an outfit for Sana to wear."
+[527]                    menu:
+[528]                        "Casual":
+[529]                            $ sanaoutfit = "Casual"
+[530]                            "Casual outfit equipped."
+[531]                            jump computermenu
+[533]                            $ sanaoutfit = "School"
+[534]                            "School Uniform equipped."
+[535]                            jump computermenu
+[537]                            $ sanaoutfit = "Winter"
+[538]                            "Winter Clothes equipped."
+[539]                            jump computermenu
+[541]                            $ sanaoutfit = "Pajamas"
+[542]                            "Pajamas equipped."
+[543]                            jump computermenu
+[545]                            $ sanaoutfit = "Swimsuit"
+[546]                            "Swimsuit equipped."
+[547]                            jump computermenu
+[549]                            $ sanaoutfit = "Bar"
+[550]                            "Bar Outfit equipped."
+[551]                            jump computermenu
+[553]                            $ sanaoutfit = "Turtleneck"
+[554]                            "Turtleneck equipped."
+[555]                            jump computermenu
+[556]                        "Go back":
+[557]                            jump computermenu
+[560]                    "Choose an outfit for Sara to wear."
+[561]                    menu:
+[562]                        "Casual":
+[563]                            $ saraoutfit = "Casual"
+[564]                            "Casual outfit equipped."
+[565]                            jump computermenu
+[567]                            $ saraoutfit = "Work"
+[568]                            "Work uniform equipped."
+[569]                            jump computermenu
+[571]                            $ saraoutfit = "Swimsuit"
+[572]                            "Swimsuit equipped."
+[573]                            jump computermenu
+[575]                            $ saraoutfit = "Nurse"
+[576]                            "Nurse costume equipped."
+[577]                            jump computermenu
+[579]                            $ saraoutfit = "Winter"
+[580]                            "Winter clothes equipped."
+[581]                            jump computermenu
+[582]                        "Go back":
+[583]                            jump computermenu
+[584]                "Go back":
+[585]                    jump computermenu
+[586]        "Deleted Scenes":
+[587]            "The following scenes are no longer canon and were removed for being extremely bad. Please view them at your own risk."
+[588]            menu deletedscenemenu:
+[589]                "Main: Chu~":
+[590]                    jump thechuscene
+[591]                "Main: Room With Clocks (Original)":
+[592]                    jump oldrwc
+[593]                "Main: Cliche Bath Scene":
+[594]                    jump amibathx
+[595]                "Main: Male Anatomy":
+[596]                    jump day23
+[597]                "Main: Horrible People":
+[598]                    jump day34
+[599]                "Main: David & Goliath":
+[600]                    jump day42
+[601]                "Makoto: Aim For The Balls":
+[602]                    jump makotodorm10
+[603]                "Makoto: Dangerous Words":
+[604]                    jump makotodorm15
+[605]                "Ayane: The Power of Money":
+[606]                    jump dojo15
+[607]                "Futaba: Preventive Measures":
+[608]                    jump futabadorm20
+[609]                "Go Back":
+[610]                    jump computermenu
+[613]            $ cheatcode = renpy.input("Enter a code...")
+[614]            $ cheatcode = cheatcode.strip()
+[616]            if cheatcode == "goodhomie":
+[617]                $ rinbetrayed = False
+[618]                $ rininvite = True
+[619]                $ cheater = True
+[621]                "{i}Your sins have been forgiven...{/i}"
+[622]                jump computermenu
+[624]            if cheatcode == "rosebud":
+[625]                $ chika_love += 100
+[626]                $ yumi_love += 100
+[627]                $ ayane_love += 100
+[628]                $ sana_love += 100
+[629]                $ makoto_love += 100
+[630]                $ miku_love += 100
+[631]                $ rin_love += 100
+[632]                $ futaba_love += 100
+[633]                $ ami_love += 100
+[634]                $ maya_love += 100
+[635]                $ molly_love += 100
+[636]                $ tsuneyo_love += 100
+[637]                $ sara_love += 100
+[638]                $ haruka_love += 100
+[639]                $ maki_love += 100
+[640]                $ kaori_love += 100
+[641]                $ chinami_love += 100
+[642]                $ karin_love += 100
+[643]                $ kirin_love += 100
+[644]                $ uta_love += 100
+[645]                $ io_love += 100
+[646]                $ noriko_love += 100
+[647]                $ niki_love += 100
+[648]                $ yasu_love += 100
+[649]                $ touka_love += 100
+[650]                $ otoha_love += 100
+[651]                $ nodoka_love += 100
+[652]                $ yuki_love += 100
+[653]                $ wakana_love += 100
+[654]                $ osako_love += 100
+[655]                $ tsubasa_love += 100
+[656]                $ tsukasa_love += 100
+[657]                $ imani_love += 100
+[658]                $ cheater = True
+[660]                "{i}Affection with all characters increased by 100...{/i}"
+[661]                jump computermenu
+[663]            if cheatcode == "allcharactersare18+":
+[665]                "You have gained magical powers!"
+[666]                $ wizardmode = True
+[667]                jump computermenu
+[669]            if cheatcode == "lagfix":
+[670]                "If you entered this cheat, it's because I suck at programming and I am sorry."
+[671]                "Your lag is now fixed!"
+[674]                jump computermenu
+[676]            if cheatcode == "floor1victory":
+[677]                $ dormwarfloor1win = True
+[678]                $ dormwarfloor2win = False
+[679]                $ dormwartie = False
+[680]                $ cheater = True
+[681]                jump computermenu
+[682]            if cheatcode == "floor2victory":
+[683]                $ dormwarfloor2win = True
+[684]                $ dormwarfloor1win = False
+[685]                $ dormwartie = False
+[686]                $ cheater = True
+[687]                jump computermenu
+[688]            if cheatcode == "dormwartie":
+[689]                $ dormwarfloor1win = False
+[690]                $ dormwarfloor2win = False
+[691]                $ dormwartie = True
+[692]                $ cheater = True
+[693]                jump computermenu
+[694]            if cheatcode == "funinthesun":
+[695]                $ beachvacation1 = False
+[696]                $ beachvacation2 = False
+[697]                $ beachvacation3 = False
+[698]                $ beachvacation4 = False
+[699]                $ beachvacation5 = False
+[700]                $ beachvacation6 = False
+[701]                $ beachvacation7 = False
+[702]                $ beachvacation8 = False
+[703]                $ beachvacation9 = False
+[704]                $ beachvacation10 = False
+[705]                $ beachvacation11 = False
+[706]                $ beachvacation12 = False
+[707]                $ beachvacation13 = False
+[708]                $ beachvacation14 = False
+[709]                $ beachvacation15 = False
+[710]                $ beachvacation16 = False
+[711]                $ ayanelust10 = False
+[712]                $ amilust10 = False
+[713]                $ kirinbeachhj = False
+[714]                $ kirinbeachmad = False
+[715]                $ cheater = True
+[717]                "{i}All beach events have been reset.{/i}"
+[718]                "{i}The complete event will trigger next Saturday morning, assuming you have completed all other prerequistes.{/i}"
+[720]                jump computermenu
+[722]            if cheatcode == "fingeryour[niece]":
+[724]                if christmas7 == True:
+[725]                    "{i}There are some mistakes you can not fix.{/i}"
+[726]                    "{i}This red string has already snapped.{/i}"
+[728]                    jump computermenu
+[729]                else:
+[730]                    $ amidorm10 = False
+[731]                    $ amisroom15 = False
+[732]                    $ cheater = True
+[734]                    "{i}Ami's events 'No One Can See Us' and 'Important Things' have been reset.{/i}"
+[735]                    "{i}You now have the opportunity to be a better [uncle].{/i}"
+[737]                    jump computermenu
+[740]            if cheatcode == "iwillalwaysloveyou":
+[741]                $ ami_lust += 100
+[742]                $ cheater = True
+[744]                "{i}Ami's lust has increased by 100.{/i}"
+[746]                jump computermenu
+[748]            if cheatcode == "bubblewrapprincess":
+[749]                $ ayane_lust += 100
+[750]                $ cheater = True
+[752]                "{i}Ayane's lust has increased by 100.{/i}"
+[754]                jump computermenu
+[756]            if cheatcode == "likemotherlikedaughter":
+[757]                $ makoto_lust += 100
+[758]                $ cheater = True
+[760]                "{i}Makoto's lust has increased by 100.{/i}"
+[762]                jump computermenu
+[764]            if cheatcode == "heartofgold":
+[765]                $ chika_lust += 100
+[766]                $ cheater = True
+[768]                "{i}Chika's lust has increased by 100.{/i}"
+[770]                jump computermenu
+[772]            if cheatcode == "atreefallsintheforest":
+[773]                $ futaba_lust += 100
+[774]                $ cheater = True
+[776]                "{i}Futaba's lust has increased by 100.{/i}"
+[778]                jump computermenu
+[780]            if cheatcode == "supermom":
+[781]                $ sara_lust += 100
+[782]                $ cheater = True
+[784]                "{i}Sara's lust has increased by 100.{/i}"
+[786]                jump computermenu
+[788]            if cheatcode == "thouartsick":
+[789]                $ haruka_lust += 100
+[790]                $ cheater = True
+[792]                "{i}Haruka's lust has increased by 100.{/i}"
+[794]                jump computermenu
+[796]            if cheatcode == "youonlyliveonce":
+[797]                $ kirin_lust += 100
+[798]                $ cheater = True
+[800]                "{i}Kirin's lust has increased by 100.{/i}"
+[802]                jump computermenu
+[804]            if cheatcode == "openrelationship":
+[805]                $ maki_lust += 100
+[806]                $ cheater = True
+[808]                "{i}Maki's lust has increased by 100.{/i}"
+[810]                jump computermenu
+[812]            if cheatcode == "tomboysrus":
+[813]                $ miku_lust += 100
+[814]                $ cheater = True
+[816]                "{i}Miku's lust has increased by 100.{/i}"
+[818]                jump computermenu
+[820]            if cheatcode == "shiningstar":
+[821]                $ niki_lust += 100
+[822]                $ cheater = True
+[824]                "{i}Niki's lust has increased by 100.{/i}"
+[826]                jump computermenu
+[828]            if cheatcode == "weebnote":
+[829]                $ molly_lust += 100
+[830]                $ cheater = True
+[832]                "{i}Molly's lust has increased by 100.{/i}"
+[834]                jump computermenu
+[836]            if cheatcode == "nyameadom":
+[837]                $ imani_lust += 100
+[838]                $ cheater = True
+[840]                "{i}Imani's lust has increased by 100.{/i}"
+[842]                jump computermenu
+[844]            if cheatcode == "pocketpussy":
+[845]                $ sana_lust += 100
+[846]                $ cheater = True
+[848]                "{i}Sana's lust has increased by 100.{/i}"
+[850]                jump computermenu
+[852]            if cheatcode == "iseeeverything":
+[853]                $ nodoka_lust += 100
+[854]                $ cheater = True
+[856]                "{i}Nodoka's lust has increased by 100.{/i}"
+[858]                jump computermenu
+[860]            if cheatcode == "seemeafterclass":
+[861]                $ chikadetention = True
+[862]                $ cheater = True
+[864]                "{i}Next time, tell her she's beautiful.{/i}"
+[866]                jump computermenu
+[868]            if cheatcode == "wheredoesthetimego":
+[869]                $ totaldays += 100
+[870]                $ cheater = True
+[872]                "{i}100 Days pass while you sit at the computer.{/i}"
+[873]                "{i}It's almost like real life now, isn't it?{/i}"
+[875]                jump computermenu
+[877]            else:
+[878]                "Code not accepted."
+[879]                jump computermenu
+[881]        "Bonus Animations":
+[882]            menu:
+[883]                "Zagull x Nithhala":
+[884]                    jump rinsanabonusanim
+[885]                "Yasu Gets A Job":
+[886]                    jump toukayasubonusanim
+[888]                    jump yumiekibenbonusanim
+[890]                    jump norikoalleybonus
+[892]                    jump chinamisexfreakbonusanim
+[894]                    jump kittensbonusanim
+[895]                "Rent-a-Molly":
+[896]                    jump rentamollyanim
+[897]                "Go back":
+[898]                    jump computermenu
+[900]        "Go back":
+[904]            if chap4active == True:
+[905]                jump ch4morningmenu
+[906]            else:
+[907]                jump satmorningmenu
+[909]menu chikamenuclothes:
+[910]    "Casual":
+[911]        $ chikamenuoutfit = "Casual"
+[914]    "Winter":
+[915]        $ chikamenuoutfit = "Winter"
+[919]        $ chikamenuoutfit = "Pajamas"
+[923]menu yumimenuclothes:
+[924]    "Casual":
+[925]        $ yumimenuoutfit = "Casual"
+[928]    "Winter":
+[929]        $ yumimenuoutfit = "Winter"
+[932]        $ yumimenuoutfit = "Christmas"
+[936]menu ayanemenuclothes:
+[937]    "Casual":
+[938]        $ ayanemenuoutfit = "Casual"
+[941]    "Winter":
+[942]        $ ayanemenuoutfit = "Winter"
+[946]        $ ayanemenuoutfit = "Pajamas"
+[950]menu sanamenuclothes:
+[951]    "Casual":
+[952]        $ sanamenuoutfit = "Casual"
+[955]    "Winter":
+[956]        $ sanamenuoutfit = "Winter"
+[960]menu makotomenuclothes:
+[961]    "Casual":
+[962]        $ makotomenuoutfit = "Casual"
+[965]    "Winter":
+[966]        $ makotomenuoutfit = "Winter"
+[970]        $ makotomenuoutfit = "Pajamas"
+[974]menu mikumenuclothes:
+[975]    "Casual":
+[976]        $ mikumenuoutfit = "Casual"
+[979]    "Winter":
+[980]        $ mikumenuoutfit = "Winter"
+[984]menu rinmenuclothes:
+[985]    "Casual":
+[986]        $ rinmenuoutfit = "Casual"
+[989]    "Winter":
+[990]        $ rinmenuoutfit = "Winter"
+[993]        $ rinmenuoutfit = "Christmas"
+[997]menu futabamenuclothes:
+[998]    "Casual":
+[999]        $ futabamenuoutfit = "Casual"
+[1002]    "Winter":
+[1003]        $ futabamenuoutfit = "Winter"
+[1007]        $ futabamenuoutfit = "Pajamas"
+[1011]menu amimenuclothes:
+[1012]    "Casual":
+[1013]        $ amimenuoutfit = "Casual"
+[1016]    "Winter":
+[1017]        $ amimenuoutfit = "Winter"
+[1021]        $ amimenuoutfit = "Pajamas"
+[1025]menu mayamenuclothes:
+[1026]    "Casual":
+[1027]        $ mayamenuoutfit = "Casual"
+[1030]    "Winter":
+[1031]        $ mayamenuoutfit = "Winter"
+[1034]        $ mayamenuoutfit = "Christmas"
+[1038]menu mollymenuclothes:
+[1039]    "Casual":
+[1040]        $ mollymenuoutfit = "Casual"
+[1043]    "Winter":
+[1044]        $ mollymenuoutfit = "Winter"
+[1048]menu imanimenuclothes:
+[1049]    "Casual":
+[1050]        $ imanimenuoutfit = "Casual"
+[1053]    "Winter":
+[1054]        $ imanimenuoutfit = "Winter"
+[1058]menu tsuneyomenuclothes:
+[1059]    "Casual":
+[1060]        $ tsuneyomenuoutfit = "Casual"
+[1063]    "Winter":
+[1064]        $ tsuneyomenuoutfit = "Winter"
+[1068]        $ tsuneyomenuoutfit = "Noodles"
+[1072]menu saramenuclothes:
+[1073]    "Casual":
+[1074]        $ saramenuoutfit = "Casual"
+[1077]    "Winter":
+[1078]        $ saramenuoutfit = "Winter"
+[1082]        $ saramenuoutfit = "Pajamas"
+[1086]menu harukamenuclothes:
+[1087]    "Casual":
+[1088]        $ harukamenuoutfit = "Casual"
+[1091]    "Winter":
+[1092]        $ harukamenuoutfit = "Winter"
+[1096]        $ harukamenuoutfit = "Pajamas"
+[1100]menu makimenuclothes:
+[1101]    "Casual":
+[1102]        $ makimenuoutfit = "Casual"
+[1105]    "Winter":
+[1106]        $ makimenuoutfit = "Winter"
+[1110]        $ makimenuoutfit = "Pajamas"
+[1114]menu kaorimenuclothes:
+[1115]    "Casual":
+[1116]        $ kaorimenuoutfit = "Casual"
+[1119]    "Winter":
+[1120]        $ kaorimenuoutfit = "Winter"
+[1123]    "Nyaori":
+[1124]        $ kaorimenuoutfit = "Nyaori"
+[1127]    "Meowri":
+[1128]        $ kaorimenuoutfit = "Nyaori"
+[1132]        $ kaorimenuoutfit = "Pajamas"
+[1136]menu chinamimenuclothes:
+[1137]    "Casual":
+[1138]        $ chinamimenuoutfit = "Casual"
+[1141]    "Winter":
+[1142]        $ chinamimenuoutfit = "Winter"
+[1146]menu karinmenuclothes:
+[1147]    "Casual":
+[1148]        $ karinmenuoutfit = "Casual"
+[1151]    "Winter":
+[1152]        $ karinmenuoutfit = "Winter"
+[1156]menu kirinmenuclothes:
+[1157]    "Casual":
+[1158]        $ kirinmenuoutfit = "Casual"
+[1161]    "Winter":
+[1162]        $ kirinmenuoutfit = "Winter"
+[1166]        $ kirinmenuoutfit = "Pajamas"
+[1170]menu yukimenuclothes:
+[1171]    "Casual":
+[1172]        $ yukimenuoutfit = "Casual"
+[1175]    "Winter":
+[1176]        $ yukimenuoutfit = "Winter"
+[1180]menu utamenuclothes:
+[1181]    "Casual":
+[1182]        $ utamenuoutfit = "Casual"
+[1185]    "Winter":
+[1186]        $ utamenuoutfit = "Winter"
+[1190]menu iomenuclothes:
+[1191]    "Casual":
+[1192]        $ iomenuoutfit = "Casual"
+[1195]    "Winter":
+[1196]        $ iomenuoutfit = "Winter"
+[1199]    "Casual (Original Design)":
+[1200]        $ iomenuoutfit = "Old"
+[1204]menu nikimenuclothes:
+[1205]    "Casual":
+[1206]        $ nikimenuoutfit = "Casual"
+[1209]    "Winter":
+[1210]        $ nikimenuoutfit = "Winter"
+[1214]        $ nikimenuoutfit = "Pajamas"
+[1218]menu norikomenuclothes:
+[1219]    "Casual":
+[1220]        $ norikomenuoutfit = "Casual"
+[1223]    "Winter":
+[1224]        $ norikomenuoutfit = "Winter"
+[1228]        $ norikomenuoutfit = "Pajamas"
+[1232]menu nodokamenuclothes:
+[1233]    "Casual":
+[1234]        $ nodokamenuoutfit = "Casual"
+[1237]    "Winter":
+[1238]        $ nodokamenuoutfit = "Winter"
+[1242]menu otohamenuclothes:
+[1243]    "Casual":
+[1244]        $ otohamenuoutfit = "Casual"
+[1247]    "Winter":
+[1248]        $ otohamenuoutfit = "Winter"
+[1252]menu toukamenuclothes:
+[1253]    "Casual":
+[1254]        $ toukamenuoutfit = "Casual"
+[1257]    "Winter":
+[1258]        $ toukamenuoutfit = "Winter"
+[1262]menu yasumenuclothes:
+[1263]    "Casual":
+[1264]        $ yasumenuoutfit = "Casual"
+[1267]    "Winter":
+[1268]        $ yasumenuoutfit = "Winter"
+[1272]menu tsubasamenuclothes:
+[1273]    "Casual":
+[1274]        $ tsubasamenuoutfit = "Casual"
+[1278]menu tsukasamenuclothes:
+[1279]    "Casual":
+[1280]        $ tsukasamenuoutfit = "Casual"
+[1284]menu wakanamenuclothes:
+[1285]    "Casual":
+[1286]        $ wakanamenuoutfit = "Casual"
+[1289]    "Winter":
+[1290]        $ wakanamenuoutfit = "Winter"
+[1294]menu osakomenuclothes:
+[1295]    "Casual":
+[1296]        $ osakomenuoutfit = "Casual"
+[1299]    "Winter":
+[1300]        $ osakomenuoutfit = "Winter"
+[1304]menu choosemainmenu:
+[1305]    "Current Release":
+[1306]        $ persistent.background = "Default"
+[1310]        $ persistent.background = "Nov2022"

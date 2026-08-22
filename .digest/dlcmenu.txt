@@ -1,0 +1,25 @@
+[10]        style_prefix "event"
+[14]            if not has_care_package("November 2022"):
+[16]                    text_style "dlcbutton"
+[28]            else:
+[43]            if not has_care_package("December 2022"):
+[45]                    text_style "dlcbutton"
+[58]            else:
+[74]            if not has_care_package("January 2023"):
+[76]                    text_style "dlcbutton"
+[89]            else:
+[105]            if not has_care_package("February 2023"):
+[107]                    text_style "dlcbutton"
+[119]            else:
+[134]            if not has_care_package("March 2023"):
+[136]                    text_style "dlcbutton"
+[148]            else:
+[163]            if not has_care_package("April 2023"):
+[165]                    text_style "dlcbutton"
+[178]            else:
+[194]            if not has_care_package("June 2023"):
+[196]                    text_style "dlcbutton"
+[208]            else:
+[223]            if not has_care_package("August 2023"):
+[225]                    text_style "dlcbutton"
+[240]            else:
