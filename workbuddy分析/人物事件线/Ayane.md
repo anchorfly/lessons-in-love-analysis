@@ -1,173 +1,114 @@
-# Ayane 人设与事件线全析（AyaneEvents.rpy，源 14597 行）
-
-> 分析基准：基于 `_tmp_match/events/_digest_Ayane.txt`（自研 digest 管线抽取，保留 label 头[带源行号]＋台词＋旁白）。
-> 引文格式：`[源行XXXX]` 指向 AyaneEvents.rpy 原文行号。成人向内容一律抽象表述，不复述。
-
----
+# Ayane 事件线全析
 
 ## 一、角色基本盘
 
-- **姓名**：Ayane Amamiya（雨宫 / 雨宫彩音向）。金发蓝眼，空手道道场出身，"bubbly, happy one" 是她对外的人设面具。
-- **家庭**：母亲 Himawari（主世界即 Ayane 之母）；继父 / 父亲形象 Geoffrey——"basically always been your actual father"（源9304），被 Ayane 戏称 bodybuilder champion、冷战年代人。生父身份被封锁，与 Sensei 自身被封锁的父母记忆形成对位。
-- **性格内核**：用夸张的喜剧与"美式二修正案/带枪上学"玩笑掩盖深层的悲伤与恐惧。有"Efrosinia"虚构邪恶双胞胎的自嘲人格；长期、反复地给"未来的自己"写信（自述"between ten and a million"封，源14246），是对时间循环创伤的应激性仪式。
-- **元叙事自觉**：是少数明确**自知**身处时间循环 / 重置的角色之一。源6731 亲口："if I'm going to get caught up in a never-ending time loop, I need to stop letting that happen"；被"Big Boi"清洁工、Shi 等跨维度管理员多次直接接触。
-- **情感定位**：对 Sensei 是真爱线（love 主线收束于未来已婚、育有女儿 Himawari）；对 Ami 有持续敌意（"taking care of Ami for all those years"，源11443；未来线删掉 Ami 联系方式）。
+Ayane（绫音）是 Kumon-mi 剑道道场（dojo）线的核心少女角色，也是全作中与「重置循环层」咬合最深的学生之一。她的基本盘由四条线索构成：
 
----
+1. **道场利益线**：dojo 是 Sensei 与 Ayane 共同的情感空间，也是 Touka 收购冲突的战场（digest 第 1000–2000 行段）。Ayane 在这条线上既是受害者（失去训练场所的威胁），又是 Sensei 行动的动机来源之一。
+2. **家庭残缺线**：Ayane 的生母长期缺席。她在 love 线中向 Sensei 透露自己给妈妈写了几百封信、全部存放在床下的盒子里（第 4450–5020 行段）。这一细节使她成为「被抛弃的女儿」原型的最纯粹载体。
+3. **元叙事敏感线**：她是少数直接参与「时间重置是否可修复」讨论的角色。Maya 曾向她出示关于 time/resets 的笔记，并承认自己可能无法修复一切——Ayane 可能永远被困在这个循环里（第 5020–5590 行段）。
+4. **愿望世界线**：在 undeservedfuture 系列中，她所处的世界被揭示为某个愿望的产物，而她与 Himawari 的关系在该世界中发生了根本性重构。
 
-## 二、Love 线逐事件脉络（label＋源行＋关键原文＋中译）
+台词风格上，Ayane 相对克制、礼貌，但在涉及 Sensei 与母亲话题时会突然袒露极强的情感浓度，这种反差是她的人物签名。
 
-> 共 57 个有效 label（剔除动画/路由桩）。按剧情阶段分组。
+## 二、love 线逐事件脉络
 
-### A. 道场日常与情感奠基（dojo 系列）
-- **dojo[1] / firsttimedojo[382] / dojo3to4[595] / dojo5[621] / dojo10[887] / dojo20[1233] / dojo25[1476] / dojo30[1833] / dojo35[2654]**：空手道教学作为关系主场景。Ayane 以"师父/弟子"框架反复试探 deeper relationship。
-  - dojo5[979] 旁白：`"I really wish she'd just accept me as her teacher and not constantly drop hints about a deeper type of relationship when I do not intend to ever have something like that with her."`（真希望她接受我当老师，别总暗示更深关系——而我也从未打算和她有那种关系。）
-- **ayaneinvite[32] / ayaneinvitegen[40] / ayaneinviteaff[87] / ayaneinvite1[2177] / ayaneinvite2[2488]**：邀约喜剧。"fix your oven" 为借口的电话段（gen）是招牌笑点。
-- **神秘贵妇"rlg"到访[1909–1969]**：一位优雅、出言刻薄的富家女性到道场盘问，精准叫出"Ayane Amamiya"，提及"second largest…"（疑似家世/排行线索）。身份未解（见伏笔）。
+**dojo 主线 / ayanepool / ayaneinvite（第 1–1000 行段）**
+Ayane 事件的入口集中在 dojo 场景与 ayanepool 随机池。早期事件确立了她与 Sensei 的师徒式亲近：训练、指导、课后闲谈。ayaneinvite 则是她主动把关系从道场延伸到私人空间的第一次尝试。这一阶段的功能是为后续所有重线（Touka 冲突、special 重置、spring 线）铺设情感地基。
 
-### B. 深夜严肃对话与三个条件（早期核心情感事件）
-- 源~3597–3648（chunk 摘要，位于 ayanespecial 段前）：Ayane 提出与 Sensei 相处的**三个条件**——"只要爱我 / 让我安全地分享感情 / 接受我不愿说出口的部分"；承诺"those parts might be hard to say out loud…so I'll be forced to drop hint after hint after hint, hoping that you manage to understand what I'm trying to tell you"（源3605）。后用"Do you, though?" 反问 Sensei 是否真懂；讽刺其"intentionally dense"。
-- **rlg 段之后 Ayane 拒绝回 Sensei 家**，理由是"会告诉 Ami 我们的事"。
+**Touka 收购冲突（第 1000–2000 行段）**
+dojo 面临被 Touka 势力收购/拆除的危机。Ayane 在此线中表现出超出学生身份的焦虑——对她而言 dojo 不仅社团活动场所，更是与亡母记忆和自我身份绑定的地方。Sensei 介入调停的过程同时推进了两人的信任。这条线是 Ayane love 线中少有的「外部冲突驱动」段落。
 
-### C. 克隆玩笑与 Maya 掌控证据（中期）
-- 源~5223–5271 克隆玩笑段："the other Ayanes"、三个 Ayane 上限；旁白在厕所自慰想象 Ayane 克隆；系统文本 `"Too bad you can't have sex with her!"`。
-- **Maya 掌控 Sensei 的直接证据**，源5257：`"Maya is lucky that I feel like my existence rests in the palms of her hands. Because otherwise, I would have gone against her wishes at least three times in the last hour."`（Maya 真走运——我自觉存在捏在她掌心；否则这一小时里我至少三次违背她意愿。）
+**ayanespecial2 —— 被送回起点（第 2000–3000 行段）**
+本事件是 Ayane 线的第一个叙事断层：Ayane 被送回「起点」，剧情围绕工厂式重置（factory reset）展开讨论。其中 m 角色说出了整条线最重要的元评论之一：
 
-### D. 沙滩三人行（ayanesanabeach1[5275]）
-- 源~6815–6853：Maya 主导安排 3P。Ayane 自陈 `"gave up sex with you for like, an eternity just to make Maya shut up"`，感觉自己像 afterthought，最终接受。属 lust/love 交叉的高潮事件。
+> m: puppets with invisible hands...（[约2000–3000 段]）
 
-### E. 时间循环觉醒者网络（中期群像）
-- **ayanebonus1[6573]**：Chika 向 Sensei 提议三人行，Ayane 不悦；提出"每月一次情绪崩溃配额（sadness allowance）"；重申时间循环自觉（源6731）。
-- **beachfive15[8523]** 旁白[8143]：世界崩坏清单——`"Imani and Wakana are losing it. Rin and Otoha broke up. Makoto's joined the Rooftop Apocalypse Squad and Sana's been—"`（Sana 句被截断）。
-- **Yumi 二次觉醒段[8549–8578]**：源8549 `"Yumi seems to be aware again. And I barely even had to say anything this time."`；Ayane 的笔记本记录 Sensei 的"征服名单"——源8578：`"I'll love you no matter which of my friends you conquer next. I just might have to buy another notebook at this rate."`（无论你下一个拿下我哪个朋友我都爱你，只是得再买本笔记本了。）
-- **Rooftop Apocalypse Squad**：第四成员议题（源6419、8556）。已知成员含 Makoto（源8143 加入）、Sana（"sort of aware"，源8556 语境）、Yumi（二次觉醒）。Ayane 为该网络核心联络者。
+即玩家以无形之手操纵这些木偶。Ayane 的重置不是剧情内的失忆，而是叙事层对角色的直接回收。这使她的 love 线从此带有一层「知道自己可能被抹除」的暗色调。
 
-### F. 未来线（undeservedfuture1–11，本角色最高权重剧情）
-- **undeservedfuture1[10671]**：Himawari 的门把二人送入 **2035 年**。Ayane 变大、已婚、有了女儿 Himawari。源10737：`"If we're still together fifteen years later, it obviously means I was right about you being my future husband! I won in the end!"`
-- **undeservedfuture2–4[11102/11384/11758]**：婚后日常。揭示——二人移居**青森**；源10959 Sana 语：`"that thing has been gone for fifteen years. They tore it down once we lost the space war."`（Kumon-mi 屏障在"空间战争"后拆除，重大世界观设定）；Himawari 称 Ayane"Mom"、Sensei"Akira/Dad"；Ayane 直呼 Sensei 真名 **Akira**（源11577、11749）；Ami 已从联系人删除，但 Himawari 仍有"Aunt Ami"送诗集的圣诞记忆（源11073），Ayane 自述"taking care of Ami for all those years"（源11443）；Sensei："main conflict in my character arc over the last couple years back in reality…fatherhood"（源11444）。讨论"可能存在两个 Himawari"（源11565）。含婚后性事件。
-- **undeservedfuture5[12118]**：与女儿 Himawari 的"停止时钟"对话。源12358 附近 Ayane 表达对时间流逝的恐惧："stop the clock"；源12393 `"You really are the light of my life."`
-- **undeservedfuture6[12440]**：结婚纪念日，Sana 来访。Sana 说出元叙事层台词（"good ending""dating sims"类比，源12674–12676）；源12623 `"Maybe in some other world, I did."`；Sana 对 Sensei 仍有感情（源12665–12675）。
-- **undeservedfuture7[12725]**：**对玩家直接喊话**——源12750–12752："your days are numbered now too — just as mine are… You have no reason or desire to watch someone who isn't struggling, do you?"；源12740 Sensei 自陈"reached the good ending…third chance at life"。第四面墙破裂。
-- **undeservedfuture8[13134]**：与 Himawari 的第二个纪念日晚餐；Sensei 父母记忆被封锁（源13032–13042）；决定再要一个孩子。含性事件。
-- **undeservedfuture9[13405]**：**Ami 来电**（源13494+），Sensei 僵住，Ayane 代为挂断（源13587）；Himawari 提及"that time you hit Dad"（源13598，指 Ayane 曾打 Sensei）。随后**第二个 Himawari（屋顶真实版）现身**，用十六进制密码（源13772–13773 = "What are you doing to me? / I'm scared."）质问并**删除**了"愿望世界版"Himawari（源13785–13810）。与 Ami 线 hex 密码呼应。
-- **undeservedfuture10[13819]**：真实 Himawari 揭示自己是**天界管理员（celestial custodian）**，负责清理 worlds；该完美青森世界是 Ayane 的"愿望世界"；源14009 重磅：`"Maya Makinami does not exist"`——世界是 **Maya 所造、违反规则**，将有人来清洗；"no more resets"即将到来（源13902–13904）。Sensei 随 Himawari 去"工作"（reformatting friends），Himawari 提到 senpai "Shi-chan""totally dead inside"（源14148），并能变身为 Wakana、用手机 app 实时观看 Sensei 人生（源14155–14163）；Sensei 问 blackouts 是否她所致，她否认（源14165）。
-- **undeservedfuture11[—→jump utaspring9]**：父女"清洁"之旅，跨文件跳入 **Uta 线**（utaspring9），是 Ayane→Uta 的硬衔接。
+**夏季泳池异常段（第 3000–3880 行段）**
+盛夏场景中却出现圣诞节临近的时间线矛盾，且角色自述 "Christmas party number three despite still being first years"（[约3000–3880 段]）——一年级的她们已经过了第三个圣诞派对。这是 digest 中最直白的时间线崩坏证据：游戏内时间既在循环、又在错乱叠加。Ayane 作为在场者经历了这些异常但未被允许将其识别为异常。
 
-### G. 元叙事收束（ayanespring4[14179]）
-- **"GIRL MAKER" 旁白段[14192–14314]**：叙述者以第一人称"我"陈述——从垃圾里拔取 Ayane 的头发、用专利"GIRL MAKER"机器重组其 DNA 造"完美女孩"；养兔实验；源14278 `"I love you. But I think you should have left this place a long time ago."`；源14295–14297 `"I am angry. I am sad. And you remind me of this every day."`；源14298–14300 `"you aren't real…in your world, you are. Yet, your world is my world"`；源14301–14304 `"monsters it creates. How beautiful. How perfect they can be…something that comes from me be so much bigger than I am"`；源14307–14309 `"They say your hair continues growing even after you die…I like thinking there will be an echo…through the lens of someone kinder."` ——强烈暗示叙述者是被囚/已死的 **Maya**，在造"完美女孩"（Himawari？Ami？）。
-- 随后 Ayane 经历**重置**，在屋顶遇见吸烟的神秘女孩 **Shi**（源14339+）："Big Boi"清洁工 callback（源14364–14371）；Shi 解释"pocket-hell 由恐惧凝结而成"（源14477–14483）；"draft/草稿"隐喻；源14485 `"Your world is like a fucking weed…growing so quickly"`；源14503 `"Your world is unstable and speeding toward collapse"`；源14545 `"I already know how this ends"`；拒答真名（源14572–14575）；片尾源14586–14588：`"Your mom is doing just fine, Hima-chan"`——**Shi 认识 Himawari**，与 undeservedfuture10 的"Shi-chan"senpai 对位。
+**三人行事件（与 Chika）（第 3880–4450 行段）**
+Ayane 与 Chika 共同参与的 threesome 事件。关键在于 Chika 设定了 "no actual sex" 规则——这条规则本身是 lust 线的安全阀，也侧面说明 Chika 对 Sensei 性欲扩散的警惕。对 Ayane 而言，该事件标志她从暗恋者转为主动参与者，love/lust 两轨在此交汇。
 
----
+**ayanepool55（同段后期）**
+Halloween 讨论、Nodoka 加入名单等日常内容之下，Maya/Miku 表现出对异常的观察反应。Ayane 池事件的「背景板」开始渗出循环层的痕迹。
 
-## 三、Lust 线概貌
+**ayanespring1 —— 探望被软禁的 Sensei（第 4450 行起）**
+Ami 允许 Ayane 探望被软禁（house arrest）的 Sensei，这是 Ami 对外人的罕见放行，说明 Ami 认定 Ayane 对 Sensei 的恢复有正面作用。探望期间：
 
-- 显式 lust label：**ayanelust15[2585] / ayanelust20[4188] / ayanelust40[8736]**（digest 已做 LUST-TRIMMED 截断）。
-- 交叉/隐含性事件：ayanedoggylay[132]、ayanegrindanim[153]、ayanepool[25]、ayanepool55[7627]、halloweenayane1–3[9042/9343/9718]、克隆自慰旁白段（源5223–5271）、ayanesanabeach1 的 3P（Maya 安排）、undeservedfuture8 婚后性事件、beachfive3[8231]/beachfive15[8523] 群像。
-- 系统文本直接调侃："Too bad you can't have sex with her!"（源~5257 上下文）。
+- Ayane 写卡片给 Sensei，并提到自己给妈妈写信数百封、藏在床下盒子（[约4450–5020]）——母题正式浮出水面；
+- Ami 在门外监听全程，暗示软禁中的 Sensei 连这点隐私也被监视；
+- Ayane 对 Sensei 调情，love 线在此达到明确的亲密升级。
 
----
+**Maya 的重置笔记（第 5020–5590 行段）**
+Maya 带 Ayane 寻找关于 time 与 resets 的笔记，自称收集了永恒的笔记（notes on eternity），随即承认：也许一切都无法修复，Ayane 可能永远被困在这里。这段对话把 Ayane 从「不知情的被重置者」变成「部分知情者」。她的反应不是崩溃而是沉默地接受——这与她面对母亲缺席时的方式完全同构：把无处安放的情感写成信、藏进盒子。
 
-## 四、与主线咬合点（编号清单）
+**Makoto 对谈：gaslighting 与守护天使（第 5590–6160 行段）**
+Makoto 与 Ayane 讨论 Ami 的 gaslighting 行为以及 Sensei 周围是否存在 "guardian angel"。谈话被 Imani 打断（Pride month 笑话）。此事件的功能是把 Ami—Sensei 关系的病态结构借第三方之口命名，Ayane 在其中扮演倾听者与共谋者的双重角色。
 
-1. **Maya 掌控 Sensei 的直接证据**（源5257）——本角色线提供最直白的"Maya 捏着 Sensei 存在"文本。
-2. **Rooftop Apocalypse Squad / 觉醒者网络**：Yumi 二次觉醒（源8549）、Sana "sort of aware"、Makoto 加入（源8143）、Ayane 为联络核心——与"无 speaker 旁白归属/Sekai 叙述声音"课题交叉。
-3. **Ayane 自知时间循环**（源6731）+ 反复给未来自己写信（10~百万封，源14246）——循环创伤的少数显性载体。
-4. **undeservedfuture 系列 = 完整未来线**：结婚、女儿 Himawari、愿望世界被删除，是 Maya/Sekai 世界构造论的关键证据链。
-5. **"Maya Makinami does not exist"**（源14009）——世界为 Maya 所造、违反规则、将遭清洗；呼应 Ami 线"Maya 被囚/造世"伏笔。
-6. **Himawari = 天界管理员**，与 Shi 同"公司"；Shi 片尾直呼"Hima-chan"（源14586）——管理员网络贯通。
-7. **十六进制密码再现**（源13772–13773）——与 Ami 线 hex 密码同构，标识"被造物质问造物主"母题。
-8. **Ami 在未来线仍存活、仍纠缠**（电话，源13494+）；Ayane 敌意与"that time you hit Dad"（源13598）——Ami↔Ayane 长期张力。
-9. **Sensei 父母记忆被封锁**（源13032–13042）——与 Ami 亡母、Maya 家族线索同属"被抹除的家族史"。
-10. **"GIRL MAKER" 元叙事**（源14192–14314）——暗示 Maya 被囚/死亡、制造"完美女孩"（Himawari？Ami？），是造世论最诡异的文本。
-11. **跨文件元角色网络**："Big Boi"清洁工（源14364）、Shi（源14339+）——与 Uta/其他角色的清洁工/管理员呼应。
-12. **玩家层直接喊话**（源12750–12752）——第四面墙破裂，定位"元叙事玩家层"。
-13. **"空间战争后 Kumon-mi 屏障拆除"**（源10959）——重大世界观设定，暗示主世界曾遭维度级冲突。
-14. **硬衔接 Uta 线**：ayanespring4 末 `jump utaspring9`——Ayane→Uta 的剧情跳转点。
+**Himawari 登场（第 6160–6730 行段）**
+Himawari 相关对话出现后，Ayane 对 Sensei 说出了她全线最重的一句台词：
 
----
+> ay: I'm a better woman than she was.（[约6160–6730 段]）
+
+她对生母的负面评价开始松动、转向。结合 undeservedfuture 中 Himawari 的位置，这句台词暗示：Ayane 一直在与一个「母亲的替位者」竞争，而当真正的（或另一个版本的）母亲形象出现时，她的第一反应是自我证明。
+
+## 三、lust 线概貌
+
+Ayane 的 [TRIMMED...] 段在叙事功能上可分为三类：
+
+1. **欲望确认段**：大量片段服务于「Ayane 对 Sensei 的渴望从模糊到具体」的渐变。trimmed 内容反复呈现她在独处时对 Sensei 身体的想象与羞耻，功能是把 love 线中被礼仪压抑的部分显影。
+2. **越界试炼段**：与 Chika 三人行前后的 trimmed 段处理「规则的边缘测试」——Chika 的 no-actual-sex 条款正是对这些段落的回应。lust 线在此充当 love 线压力的泄压阀。
+3. **循环污染段**：部分 trimmed 段落带有明显的非自然重复感（场景近乎相同、台词微调），其叙事功能与其他角色的重置暗示一致：lust 内容本身被用作循环的填充物，角色的身体成为被反复读取的资源。
+
+整体而言，Ayane 的 lust 线不承担独立的情节推进，而是 love 线的暗面镜像：每当 love 线停滞（Touka 危机、软禁期、重置之后），lust 段落密度就上升。
+
+## 四、与主线/元叙事咬合点
+
+1. **工厂重置的直接受验体**：ayanespecial2 把「角色被送回起点」演成剧情本身，配合 m 的 "puppets with invisible hands" 评论，Ayane 成为三层世界观中循环层最直白的展示窗口。
+2. **时间线崩坏的人证**：圣诞派对计数错误（一年级过第三个圣诞）证明游戏内时间既循环又错乱，Ayane 是该异常的第一现场目击者。
+3. **Maya 重置笔记的接收者**：「可能永远无法修复、可能永远被困」的判定通过 Maya→Ayane 的对话传递给读者，是循环层绝望感的正式宣告。
+4. **undeservedfuture 系列——愿望世界的解剖标本**（第 6730–7568 行段）：
+   - undeservedfuture8/9：结婚周年纪念晚餐由 Himawari 准备；Sensei 提议再要一个孩子；性爱场景后 Ami 来电令 Sensei 失语——愿望世界复制了幸福的外壳，却没有移除 Ami 这个病灶。
+   - 第二个 Himawari 出现（hi2/hi3 双胞胎设定），hi3 以十六进制说话并删除 hi2——同一存在可以被实例化多次、也可以被随意回收，是「人物即资源」主题的极端演出。
+   - undeservedfuture10 揭示这个世界是某个愿望的产物，且 Maya Makinami 并不存在——连「知晓重置的贤者」都是虚构嵌套的一部分。
+   - undeservedfuture11 + ayanespring4：Sensei 陪 Himawari 去「清理工作」（cleanup），senpai custodian「Shi-chan」登场；GIRL MAKER 实验室与兔子实验独白把「女孩如何被制造」摆上台面。
+5. **Shi 的屋顶审判**：Shi 与 Ayane 在屋顶相遇，提出 pocket-hell（口袋地狱）概念，警告这个「世界是一株正在生长的 weed（杂草）」，并发出 malice（恶意）警告。Shi 拒绝说出姓名，却在结尾留下一句：
+
+> shi: Your mom is doing just fine, Hima-chan.（[约7300–7568 段]）
+
+这句话同时击穿两条线：它向 Himawari（"Hima-chan"）确认了其母亲的状态，也暗示「清理工作」针对的正是这类母亲级存在——Ayane 自己的母亲很可能也在被清理或已被清理的名单上。
 
 ## 五、未解伏笔
 
-1. **"rlg" 神秘贵妇身份**（源1909–1969）：精准叫出 Ayane 全名、出言"中产阶级"鄙夷、问"second largest…"，疑似某家族（Makinami？）代理人。
-2. **Geoffrey / Ayane 生父**：继父是"actual father"还是另有其人？生父为何被封锁？
-3. **Sensei(Akira) 父母**：记忆被封锁（源13032–13042），与 Ami 亡母、Maya 家族是否同源？
-4. **Shi 真名**：明确拒答（源14572–14575）；与"Shi-chan"senpai（源14148）是否同一人？片尾唤"Hima-chan"证实其认识 Himawari。
-5. **"I already know how this ends"（源14545）**：Shi 预知结局，暗示脚本已被决定。
-6. **blackouts 来源**：Sensei 问是否 Himawari 所致，她否认（源14165）——那黑屏究竟谁造成？
-7. **Himawari 的愿望世界与主世界关系**：该世界被删后，主世界是否也处于"待清洗"状态？
-8. **Maya 的愿望/世界从何而来**："Maya Makinami does not exist" 但世界是她造的——Maya 是概念还是人格？
-9. **"someone like me is going to come and cleanse it"**（源13902 语境）：清洗者是谁？是否在后续章节登场？
-10. **Ami 未来动向**：被删联系人但"taking care of Ami for all those years"（源11443），未来线 Ami 处于何种状态？
-11. **Ayane 笔记本全貌**：记录 Sensei"征服名单"（源8578），具体内容未披露。
-12. **Sana 句被截断**（源8143 "and Sana's been—"）：Sana 在崩坏中发生了什么？
-13. **undeservedfuture11 之后**：Sensei 随 Himawari 跳入 utaspring9，去了何处 / 做了什么"清洁"？
+1. **床下盒子的数百封信**：写给母亲的信从未寄出，也未获得任何回音。母亲是死了、离开了，还是像 undeservedfuture 暗示的那样「被清理」了，digest 内无定论。
+2. **Shi 的真实身份**：senpai custodian、拒绝透露姓名、掌握清理工作内情、最后一句直呼 Hima-chan——她是元叙事层的执行者还是另一名幸存者，悬置未解。
+3. **"I'm a better woman than she was" 的完整指涉**：Ayane 评价的 "she" 与 Himawari 的确切关系（生母？母亲的副本？愿望产物？）在 digest 中只给出暗示。
+4. **hi3 删除 hi2 之后**：第二个 Himawari 被十六进制语言的存在删除后，原始 Himawari 是否仍是「原件」，无人验证。
+5. **Maya 笔记的下落与真伪**：既然 undeservedfuture10 说 Maya Makinami 不存在，那批关于永恒的笔记的出处随之可疑。
+6. **Ayane 是否保留重置记忆**：她经历了 special2 送回起点与多次时间异常，但从未明确表现「记得」。她的沉默究竟是天性还是残留记忆，是全线最大的性格谜题。
 
----
+## 六、label 总表
 
-## 六、Label 总表（57 个，带源行号）
-
-| # | Label | 源行 | 类别 |
-|---|-------|------|------|
-| 1 | dojo | 1 | 道场/日常 |
-| 2 | ayanepool | 25 | 泳池 |
-| 3 | ayaneinvite | 32 | 邀约 |
-| 4 | ayaneinvitegen | 40 | 邀约(电话喜剧) |
-| 5 | ayaneinviteaff | 87 | 邀约 |
-| 6 | ayanedoggylay | 132 | Lust交叉 |
-| 7 | ayanegrindanim | 153 | Lust交叉 |
-| 8 | dojogen2 | 174 | 道场 |
-| 9 | callayanemorning | 213 | 日常call |
-| 10 | ayanemorninggen2 | 312 | 日常 |
-| 11 | callayaneafternoon | 346 | 日常call |
-| 12 | callayanenight | 365 | 日常call |
-| 13 | firsttimedojo | 382 | 道场 |
-| 14 | dojo3to4 | 595 | 道场 |
-| 15 | dojo5 | 621 | 道场 |
-| 16 | dojo10 | 887 | 道场 |
-| 17 | dojo20 | 1233 | 道场 |
-| 18 | dojo25 | 1476 | 道场 |
-| 19 | dojo30 | 1833 | 道场 |
-| 20 | ayaneinvite1 | 2177 | 邀约/love |
-| 21 | ayaneinvite2 | 2488 | 邀约/love |
-| 22 | ayanelust15 | 2585 | Lust |
-| 23 | dojo35 | 2654 | 道场 |
-| 24 | ayanespecial1 | 3058 | Love |
-| 25 | ayanespecial2 | 3735 | Love |
-| 26 | ayanelust20 | 4188 | Lust |
-| 27 | ayanenew1 | 4235 | Love(新章) |
-| 28 | ayanenew2 | 4506 | Love(新章) |
-| 29 | ayanenew3 | 4757 | Love(新章) |
-| 30 | ayanespecial40 | 5004 | Love |
-| 31 | ayanesanabeach1 | 5275 | Love/Lust(3P) |
-| 32 | ayanespecial50 | 5610 | Love |
-| 33 | ayanekirintalk | 5938 | 群像(Kirin) |
-| 34 | ayanespecial55 | 6232 | Love |
-| 35 | ayanebonus1 | 6573 | Love/元(时间循环) |
-| 36 | ayanebonus2 | 6912 | Love |
-| 37 | ayanepool55 | 7627 | 泳池 |
-| 38 | ayanespring1 | 7877 | Spring |
-| 39 | beachfive3 | 8231 | 群像 |
-| 40 | beachfive15 | 8523 | 群像(崩坏清单) |
-| 41 | ayanelust40 | 8736 | Lust |
-| 42 | halloweenayane1 | 9042 | 节日 |
-| 43 | halloweenayane2 | 9343 | 节日 |
-| 44 | halloweenayane3 | 9718 | 节日 |
-| 45 | ayanespring2 | 10038 | Spring |
-| 46 | ayanespring3 | 10410 | Spring(Makoto密谈) |
-| 47 | undeservedfuture1 | 10671 | 未来线 |
-| 48 | undeservedfuture2 | 11102 | 未来线 |
-| 49 | undeservedfuture3 | 11384 | 未来线 |
-| 50 | undeservedfuture4 | 11758 | 未来线 |
-| 51 | undeservedfuture5 | 12118 | 未来线 |
-| 52 | undeservedfuture6 | 12440 | 未来线 |
-| 53 | undeservedfuture7 | 12725 | 未来线(玩家喊话) |
-| 54 | undeservedfuture8 | 13134 | 未来线 |
-| 55 | undeservedfuture9 | 13405 | 未来线(Ami来电/双Himawari) |
-| 56 | undeservedfuture10 | 13819 | 未来线(管理员揭示) |
-| 57 | ayanespring4 | 14179 | Spring/元(GIRL MAKER+Shi) |
-
----
-
-## 小结
-
-Ayane 线是**未来线＋元叙事层**信息密度最高的角色线之一：undeservedfuture 系列完整呈现"愿望世界→被造物主否认→清洗"的 Maya/Sekai 世界构造论，并通过 Himawari（管理员）、Shi（吸烟清洁工）、"Big Boi"形成跨文件管理员网络；ayanespring4 的"GIRL MAKER"旁白把 Maya 定位为被囚/已死、仍在造"完美女孩"的叙述者。Ayane 自身的 love 线收束于已婚育女，而其"自知循环＋反复写信"的创伤仪式，使她成为连接表层恋爱模拟与深层重置循环的关键支点。下一步应据此修订《人物事件线全梳理》中 Maya/Sekai 与"管理员网络"两条主线。
+| label | 所属线 | 概要 |
+|---|---|---|
+| dojo 主线相关 | love | 道场日常与师徒关系地基 |
+| ayanepool | love | 随机池日常事件集合 |
+| ayaneinvite | love | Ayane 主动邀请 Sensei 的私人化事件 |
+| Touka 冲突相关 | love | dojo 收购危机，外部冲突驱动段 |
+| ayanespecial | special | 特别事件入口 |
+| ayanespecial2 | special/循环 | 被送回起点；工厂重置；puppets with invisible hands 元评论 |
+| 夏季泳池系列 | love | 时间线异常：圣诞倒计时与三年级派对计数矛盾 |
+| 三人行事件（with Chika） | lust | no actual sex 规则；love/lust 交汇点 |
+| ayanepool55 | love | Halloween、Nodoka 名单、Maya/Miku 异常观察 |
+| ayanespring1 | love | 探望软禁的 Sensei；数百封信母题；Ami 监听 |
+| Maya 重置笔记段 | 循环 | notes on time/resets；「可能永远被困」 |
+| Makoto 对谈段 | love | Ami gaslighting、guardian angel 议论；Imani Pride month 插曲 |
+| Himawari 登场段 | love/愿望 | "I'm a better woman than she was"；对生母评价转变 |
+| undeservedfuture8 | 愿望 | 结婚周年晚餐（Himawari）；再要孩子的提议 |
+| undeservedfuture9 | 愿望 | 性爱场景；Ami 来电致失语；第二 Himawari 出现 |
+| undeservedfuture10 | 愿望/元 | hi3 十六进制删除 hi2；世界为愿望产物；Maya Makinami 不存在 |
+| undeservedfuture11 | 愿望/元 | 清理工作；Shi-chan 登场 |
+| ayanespring4 | 元 | GIRL MAKER 实验室；兔子实验独白；屋顶 pocket-hell/malice 警告；"Your mom is doing just fine, Hima-chan" |

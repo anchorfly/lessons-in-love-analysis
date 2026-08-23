@@ -1,127 +1,129 @@
-# Osako 事件线全析（逐事件深读版）
+# Osako 事件线全析
 
-> 源文件：`OsakoEvents.rpy` ｜ digest：`_tmp_digest/_digest_Osako.txt`（约2303行，源行至 [4420]）｜ 剧情类 label 14 个 + 路由 stub 5 个，共 19 个
-> 定位：**唯一一个"正常成年人"视角的锚点角色**——她以女同性恋伴侣、空手道教练、Sensei 的成年诤友三重身份，串起 Wakana 感情线、Ami 昏迷后时间线与 Sensei 自我认知线；结尾以一场无回答的求婚和一句 "Wakana, I want kids." 戛然而止，是全作少见的以"未落地的重大人生抉择"收束的角色线。
+> 源文件：OsakoEvents.rpy ｜ 共 19 个 label（其中 14 个剧情 label、5 个路由 stub）
+> 定位：唯一以"正常成年人"视角充当锚点的角色——Wakana 的多年伴侣、空手道教练、Sensei 的成年诤友。她的线讲述一个把全部存在押在伴侣身上的女人如何练习"成为自己"，并以一场无回答的求婚和一句 "Wakana, I want kids." 戛然而止，是全作少见的以未落地的重大人生抉择收束的角色线。
+> 阅读提示：正文为纯论述，断言均附源行号（digest 内部标记）；台词直引以 `>` 起头，o=Osako、w=Wakana、s=Sensei、N=旁白、u=Uta。
 
 ## 一、角色基本盘
-- 全名 Osako Osaka；Wakana 的多年伴侣（大学时代起），Wakana 曾是她的老师："was actually my teacher before Akira-sensei was"（旧档[3006]）。
-- 空手道道场出身，运动生涯因封锁期梦碎（osakodojo1）；现为道场教练兼轻音部相关成年圈成员。
-- 性格：毒舌、务实、自我要求低自尊并存——"I don't know if I'll even make it to dessert"式的调情之下，是 chronic 的"担心自己在这个世界上的位置"（[3173] Sensei 点破）。
-- 核心弧线：从"Wakana's Osako"（依附性身份，[1014-1021]）走向"为自己找爱好、找个体性"的自塑尝试——witchcraft 夜课、MILF 俱乐部、剪发改名 "Osako 2.0"，全部失败但**她学会了享受失败**（[3190-3191] "It's about *me.* And that's...great." / "I kind of like this feeling. Failure."）。
-- 与 Sensei 的关系是本线的暗骨：从"道场班里勾搭富家女的变态怪人"[3302]，到互诉真名的诤友，再到她成为**唯一被 Sensei 亲口告知掠食行为真相的成年人**（[3315] "Getting a new hobby won't stop me from preying on teenagers, Osako."）。
+
+- **全名 Osako Osaka**；与 Wakana Watabe 自大学时代起相恋至今。Wakana 曾是她的老师："She was actually my teacher before Akira-sensei was."（[3005]-[3006]，转述自 Noriko）。
+- **职业**：空手道教练兼女仆咖啡店店员（为满足某种"性癖式的服务欲"打工，旁白推测 [859]）。曾练过踢拳，腿法是绝技（[642]）；自称知道七个能一击毙命的压迫点（[346]、[573]）。竞技体育生涯因城市封锁而梦碎："But now that no one's allowed to leave Kumon-mi, that path just...isn't possible anymore."（[746]-[748]），并清醒地计算着运动员年龄窗口的流逝（[757]-[761]）。
+- **性格**：毒舌、务实、暴力即亲和；表层强势之下是慢性的低自尊与分离焦虑——"Just being strong physically doesn't make me strong as a person... I'm actually annoyingly sensitive when it comes to stuff like this."（[217]）。Imani 评价她 "radiate bottom energy"（[1398]），她反唇相讥但并不否认。
+- **核心弧线**：从"Wakana's Osako"（依附性身份，她自己也承认这是最大的恐惧 [1018]-[1019]）走向自塑尝试——剪发、夜课、找爱好、自称 "Osako 2.0"（[2485]）。尝试大多失败，但她学会了享受失败："I kind of like this feeling. Failure."（[3191]）。
+- **与 Sensei 的关系是本线的暗骨**：从"道场班里勾搭富家女的变态怪人"（[3302] 的回忆定性），到互诉真名的诤友，再到她成为唯一被 Sensei 亲口告知掠食行为真相的成年人（[3315] "Getting a new hobby won't stop me from preying on teenagers, Osako."）。
+- **隐藏创伤**：大学时期曾被一位写作《The Girl Who Cannot Breathe》的"虐待诗人"（abuse-poet lady，即 Sensei 的前任）当作工具利用——Sensei 认出这种模式的延续："You really are the product of her existence, aren't you?"（[3730]）。
 
 ## 二、love 线逐事件脉络
 
 ### 路由 stub（5 个）
-- `osakodojo`[1] · `callosakomorning`[29] · `osakodive`[43] · `callosakoafternoon`[49] · `callosakonight`[63]：道场/电话/潜入酒吧的时间段路由，无独立剧情。
 
-### `osakodojogen`[77]
-- 道场喜剧开场：学员偷看更衣被抓，Osako 以 body slam 执法。确立她"暴力即亲和"的教学人格。
+osakodojo[1]、callosakomorning[29]、osakodive[43]、callosakoafternoon[49]、callosakonight[63]：道场/电话/潜入的时间段路由，无独立剧情。
 
-### `osakodate1`[106] —— 周年纪念夜谈
-- Wakana 第一次主动联系外人（Sensei），邀他见证周年晚餐——侧面写出这对伴侣的社交封闭。
-- Osako 的失去恐惧首次明示：*"I'm totally in love with Wakana"*[153]，随之是对关系脆弱性的焦虑。
-- 喜剧调味："seven pressure points"威胁[346]；Sensei 独白 *"It ruins my night."*[325]。
-- 存在双分支变体台词（lesbian/hug partner 表述二选一），属选项分支。
+### osakodojogen [77] — 道场喜剧开场
 
-### `osakodojo1`[434] —— 比试、败北与时间循环独白
-- 与 Sensei 比试，被他歪打正着地压力点踢倒[560-582]。
-- Sensei 劝她回头："Your story with Ayane hasn't finished yet"[474]——埋下日后她成为 Ayane 准母性角色的种子。
-- 关键背景揭示：她的专业运动生涯梦碎于封锁时期[746-766]，道场是她退守的残局。
-- **核心元独白**：叙述者罕见地直接承认世界机制——*"time is being reset every few months"*[771]；并以 Osako 为例收尾：*"Maybe they'll be rewritten into someone with a little better luck?"*[811]。这是"角色可被改写"主题在本线最直白的表述。
+Sensei 借练空手道之名偷看学员更衣，Osako 以 body slam 把他压在地垫上二十分钟执法（[83]-[92]）。确立"暴力即亲和"的教学人格。
 
-### `osakodate15`[826] —— 女仆咖啡厅代班与卡拉OK之夜
-- 代班女仆咖啡厅，年龄梗（被叫 grandma）刺中她对时间流逝的敏感。
-- codependency 讨论：自认 "*Wakana's Osako*"[1014-1021]——身份依附命题正式提出。
-- 名场面：卡拉OK Hallelujah[1077-1098]，用荒腔走板的合唱写伴侣间的默契。
+### osakodate1 [106] — 周年纪念夜谈
 
-### `osakodate20`[1118] —— 成人用品店与 Maki
-- 与 Sensei 逛成人用品店撞见 Maki；DildoSaber 喜剧段落。
-- Osako 对自身性生活的不安借"Uno reverse card"隐喻出口[1349]。
-- Maki 单独把她拉到一旁给她看了某物[1417]——未揭示内容，悬置伏笔（接 Rika/Maki 圈层的 Maya 讨论网络）。
+Wakana 第一次主动联系外人（Sensei），Osako 便拉他在周年纪念日当晚"谈谈"。核心是失去恐惧的首次明示：
 
-### `osakospring1`[1456] —— 昏迷后时间线的入口
-- 时间跳跃至 Ami 昏睡不醒之后：Sensei 独居照顾，*"Ami doesn't make me breakfast anymore"*[1471]。
-- Osako 偷来 Sensei 号码主动来电[1499-1531]——她成为昏迷后少数仍伸手的成年人。
-- 道场踢打式治疗；Sensei 自白：*"I don't feel sorry for myself at all. I hate myself."*[1713]、自称 '*pawn in some...divine game of chess*'[1719]——他已隐约感知更高层存在。
+> o: I'm totally in love with Wakana and, despite her tendency to repeat the same thing over and over and over, she's always been a little unpredictable.（[153]-[154]）
 
-### `osakospring2`[1758] —— 绑架晚餐与《The Girl Who Cannot Breathe》
-- Osako 把 Sensei "绑架"去美式餐厅吃饭；Wakana 痴迷调查昏迷原因、翻遍 Ami 的诗[1941-1949]。
-- 揭示：《The Girl Who Cannot Breathe》作者是 Ami 之母[2018]；Wakana 认出 Sensei 就是书中那个 "Boy"：*"You're the 'Boy,' right?!"*[2041]。
-- 母子了断：亡母幻象在他胸口画圈[2071-2074]；*"She can't hurt you anymore...It's over."*／*"No it's not."*[2047-2052]。
-- **系统文本双连击**：
-  > *"Akira Arakawa's [[DEPRESSION] has worsened!"*[2078]
-  > *"He has learned [[GREATER FACADE]!"*[2079]
-  以技能获取的形式宣告他的心理恶化与面具升级——本线最重要的元叙事坐标。
+她坦白自己早在大学就发誓要保护 Wakana 一生、"even if she didn't want me to"（[188]），并困惑于 Wakana 为何对 Sensei 热身如此之快（[205]-[207]）。Sensei 劝她让伴侣自己去确认想要什么，她承认"everything right now is a little too good to be true"（[253]）。便利店购物段落里旁白给出判词：就算分手，她也会坐在门廊上老去，满脑子还是 Wakana（[321]-[322]）。临别的七个压迫点威胁（[346]）成为后续道场篇的引信。
 
-### `osakospring3`[2097] —— 运动会争吵与办公室危机
-- sportswars 喜剧前半：Imani 与 Wakana 的运动会斗气。
-- 后半转成人向：办公室性场景中 Wakana 因旧伤难以高潮[2217-2224]；Osako 冲动建议她"试一次男人"[2312-2331]——玩笑话戳中关系最深的不安全感，Wakana 受伤逐客。
-- 系统结算：mutual affection -5[2361]。
+### osakodojo1 [434] — 比试、败北与时间循环独白
 
-### `osakospring4`[2385] —— 剪发、MILF 俱乐部与求友告白
-- "Osako 2.0"计划启动：剪发、直呼 Sensei 真名 Akira[2485-2507][2492]——真名在成年圈流通的又一节点。
-- MILF 俱乐部之夜[2546-2737]：中年女性互助会的荒诞温情。
-- Sensei 半认真求友告白[2651-2706]，Osako 以毒舌接住。
-- 收束句极美：*"she falls asleep holding someone who sees her, and I fall asleep holding myself."*[2738]——两人各自抱住的是"被看见的自己"。
+Sensei 应约比试，被预告了攻击方式却依然防不住，颈侧中招倒地（[554]-[582]）。闲谈中 Osako 揭开背景：她的竞技梦碎于封锁期，如今只能教初学者到"动不了为止"（[737]-[766]）。Sensei 的内心独白点破残酷真相——他知道时间每几个月重置一次，她将被永远困在与伴侣相同的 limbo 里，而他盘算着是否该给她虚假的希望（[770]-[775]）。随后是一段罕见的元叙事独白：所有梦想大多会永远悬浮不获实现，幸运者提前学会这一点、改立短期目标，"Then, sooner or later- We'll have everything we've ever wanted. The fortunate ones, I mean."，其余的人？"Maybe they'll be rewritten into someone with a little better luck?"（[801]-[811]）——"被改写"一语直接踩在重置机制的线上。
 
-### `osakospring5`[2765] —— 女巫夜课
-- witchcraft 兴趣班：Noriko/Kirin 登场；假名梗 *"Stacy Fakename. Eighteen."*[2943]。
-- 叙述者抛出 **spinoff 概念**[3062-3069]——游戏自觉谈论"衍生剧"。
-- Noriko 评 Sensei *"brings out the best in people"*（讽刺性反差）[3079]；课程失败被赶出教室——但"一起失败"成了她和 Sensei 友谊的成型仪式。
+### osakodate15 [826] — 女仆店与 Hallelujah
 
-### `osakospring6`[3140] —— 酒吧坦白夜（本线情感顶点）
-- 去 Sara 的住处/酒吧喝酒；Osako 复盘 witchcraft 是 "one more failure"[3155]，却第一次为失败感到快乐[3190-3191]。
-- 她反过来安慰 Sensei："You're not a failure."[3213]；劝他离开学校："walking away from something because it's what's best for *you* doesn't make you a failure"[3231]。
-- **全作罕见的正面自白**：Sensei 承认掠食本性——*"Getting a new hobby won't stop me from preying on teenagers, Osako."*[3315]；她答 *"I'm both proud of you and hate you for admitting that."*[3321]，并摆出举报的两难：毁掉一个朋友=让一个女孩第二次失去父亲[3330]。
-- 她的判词：*"I pity you, Akira."*[3314]；Sensei 决定辞职[3354]（后续线未即时兑现）。
-- 插入 Sana 打断的小插曲[3374-3420]（欲言又止的未完成告白）。
-- 结尾闪回碎片：Kaori 与 Nao 的对话闯入[3476-3500]，Sensei 独白 *"I took her first time and have barely looked at her since. But was it really her at all?"*[3456-3480区间，正文3480附近]——掠食后的抛弃+存在疑虑双重刺点。
-- 结算：*"Osako's affection has increased to [osako_love]!"*[3506]。
+Osako 在 maid cafe 打第二份工，与 Uta 组成吐槽二人组。被 Uta 挑衅"过气"后赌气同去唱卡拉OK，最终选了她唯一认识的歌——Leonard Cohen 的 Hallelujah 全力献唱，把两人吓得中途逃单（[1077]-[1098]）。喜剧外壳下埋着本篇真正的谈话：Sensei 问她是否把自己的人生过度建立在 Wakana 之上——"It just sounds kind of like you stopped existing as Osako once you met her. Now you're just Wakana's Osako."（[1014]），她承认这是她最大的恐惧但拒绝改变："fear is something that is meant to be confronted, not avoided."（[1020]）。她还首次交代高中只有社团朋友、大学后社交圈收缩到只剩 Wakana 一人（[986]-[995]）。
 
-### `osakospring7`[3517] —— 三人行次日、Niki 前史与 Ayane 议题
-- 喜剧开场：三人行后穿着裤子的狂奔求助[3522-3528]。
-- **Niki 前史曝光**：偶像前女友 Niki Nakayama 在酒吧痛诉他睡了她妹妹[3584-3612]；他与 Osako 和 Niki 还共创了新武术复仇[3600]。Osako 的质问切中要害：*"Do you feel bad, Akira? Or are you only just saying that because you were caught?"*[3614]。
-- 他自辩"想被抓住是因为爱"，实为让 Niki 摆脱自己[3615-3629]；Osako 反驳：*"What does it matter how much a person can accomplish if they're miserable while doing it?"*[3626]。
-- Ayane 议题：Ayane 近况 miserable[3650-3657]；Sensei 建议 Osako 做 Ayane 的"酷姐姐/母性角色"[3687-3695]；Osako 抵触但松口[3763-3767]——为 spring8 铺路。中途他自曝创伤源头："You really are the product of her existence...The fucking abuse-poet lady."[3730]。
-- **系统结算五连**[3795-3799]：Osako affection→[osako_love]、Imani/Rika 各 affection/lust 占位符齐跳——多线数值同步结算的展示窗。
+### osakodate20 [826 后续 / 1118] — 成人用品店的秘密
 
-### `osakospring8`[3810] —— 宿舍探病与"母亲问题"
-- **叙述者身份级元文本**：宿舍开场长独白——宿舍是"负面情绪浓度最高处"、二十个女孩"Sometimes even more when the world breaks"[3816]；随后直认 *"But that doesn't mean much since I'm not Akira Arakawa. In fact, I'm not really here at all! And selecting the dorms today was just the trigger you needed..."*[3819-3820]——叙述者公开承认自己是外在于角色的触发器/观察者。
-- 送花探病：Osako 硬着头皮给 Ayane 送便利店花束[3860-3873]，Ayane 的拥抱让她破防[3880-3888]。
-- Ayane 的空洞症描述精确如病历：不是抑郁，而是"下电车总觉得落了东西"的感觉，且"有过一模一样的对话，只是对面站着别人"[3944-3952]——**跨循环既视感**的受害者证词。
-- 母亲问题大讨论[4041-4090]：Osako 以一连串现实障碍（ lesbian/小公寓/Wakana 讨厌小孩 ）回避"想不想要孩子"，最后漏出真心："But in a perfect world...Where none of that is true...Where it's no longer impossible..."[4086-4088]。
-- Ayane 临别补刀：*"If you do want to be a mom...but Miss Watabe doesn't...maybe you two are-"*[4102]，被慌忙打断——直接预告 spring9 结局的裂缝。
+在 Maki 的成人用品店偶遇。DildoSaber 推销闹剧之间，Maki 一句 "I never forget a customer, Osako Osaka."（[1143]）暴露她是常客。Osako 被 Sensei 逼到店外墙边，终于交出秘密：她和 Wakana 的性生活中她永远是"输家"一方，Wakana 极难高潮，而 Wakana 坚称没有问题——她却止不住怀疑自己做得不够（[1345]-[1354]）。Sensei 给出的建议意外地健康：问题只能和当事人本人解决，玩具解决不了焦虑（[1377]-[1380]）。结尾 Maki 拉她去看"会改变你对女人全部认知"的东西，把她从 Sensei 身边带走（[1417]-[1432]）。
 
-### `osakospring9`[4147] —— 吃飞机的人与无回答的求婚
-- 开场是全 digest 最长的叙述者离题：法国艺人 Michel Lotito 两年吃掉一架 Cessna 150[4151-4162]，落点是 Osako 的翅膀正在被烧掉——*"She wonders how far those wings would take her if she didn't have them burned off."*[4166]；"Somewhere, a door is opened."[4168]。
-- 回家撞见周年纪念惊喜：Wakana 盛装晚餐（谎称靠受诅咒的魔法书换灵魂做的菜[4218-4222]，实为 Tsukioka 家仆代办[4290]）。
-- 两人互相致歉复盘：Osako 忏悔 Wakana 沉迷 "Girl Who Cannot Breathe" 时自己不够耐心[4285-4287]；Wakana 说"I've no reason to mourn how the woman I fell in love with is still the woman I fell in love with."[4278]。
-- Osako 提出"个体性焦虑"：*"it's like my existence is just intrinsically tied to all of you guys."*[4329]——话音未落，Wakana 开始求婚。
-- **求婚戏**：Wakana 因旧伤无法下跪，请她"假装我跪着"[4356]；引用聂鲁达《十七首》之一——"I love you as one loves certain obscure things, secretly, between the shadow and the soul"[4358]；小字私语把爱意写成毒药：*"becoming the nightshade that both cures you and kills you."*[4366]；正式请求："spite the Japanese legal system with me and become my bride...will you marry me?"*[4369-4371]。
-- **沉默**。四行省略号对峙[4378-4391]。然后：*"Wakana, I want kids."*[4386]。Wakana 只剩一个字：*"Oh."*[4393]。
-- 随即 jump 进下一周路由[4408-4420]——**不给答案**。本线以全作最日常也最致命的不兼容收尾：她终于飞起来了，代价是和爱人的航线分岔。
+### osakospring1 [1456] — 昏迷后的电话：把人打醒的开端
+
+Ami 事件后 Sensei 长期蛰居，旁白用一整段"Ami 不再做早餐、不再微笑、It's fine, though"的复沓写出他的抑郁（[1471]-[1485]）。Osako 偷来 Wakana 手机里的号码打来电话，把他骗到道场痛殴——"Okay! I feel better now."（[1591]）。随后的对话是全作最直白的抑郁剖析之一：
+
+> s: I don't feel sorry for myself at all. I hate myself. And pretending I don't makes me feel even worse.（[1713]）
+
+> s: I was trying. And just when I felt like I was finally starting to do better, I was punished for it.（[1716]-[1717]）
+
+他说出"divine game of chess"里的棋子感（[1719]），而 Osako 的应对不是安慰而是继续踢他。本篇确立她作为"唯一敢对 Sensei 用物理手段的成年人"的位置。
+
+### osakospring2 [1758] — 美式餐厅：Wakana 在查你
+
+Osako "绑架"他去美式餐厅吃饭，交出正题：Wakana 自从他昏迷后就痴迷地调查成因，翻遍了他侄女的每一首诗，"she's starting to sound like some kind of...conspiracy theorist"（[1942]），甚至 theorize Ami 可能早就知道会发生（[1976]）。Sensei 承认自己昏迷前就警告过 Wakana 别多管闲事（[1957]-[1960]）。谈话转向他的共依存关系自白：Ami 幼年失怙、"it was more like her taking care of me"、如今"She doesn't deserve to suffer over the choices I've made... She's just broken."（[1980]-[1993]）。Osako 追问那些诗真的是"私人情感"吗，进而提到《The Girl Who Cannot Breathe》——Sensei 当场翻脸："Don't talk about her... No one can do what she did."（[2019]-[2028]）。离店前她喊出关键一问："You're the 'Boy,' right?! The one she always wrote about?!"（[2041]），又留下一句他无法反驳的判决："She can't hurt you anymore... It's over."→"No it's not."（[2047]-[2052]）。当晚结算罕见地注明 "+10! But maybe it's just pity!"（[2059]），并以系统文本宣告 Sensei 获得 [[GREATER FACADE]、[[DEPRESSION] 恶化（[2078]-[2079]）。夜里他想起她说的话是假的——因为床上那只画圈的指甲还在（[2070]-[2074]）。
+
+### osakospring3 [2097] — 教练办公室：建议你试一次男人
+
+Wakana 与 Imani 谈完运动会安排后，镜头转到办公桌下——Osako 正在给 Wakana 口交。这场戏表面是情色喜剧，实际是一场关系危机听证会：Wakana 因旧伤几乎从未达到高潮，Osako 积怨爆发，抛出致命质问："what if you're not actually as into girls as you think you are?"（[2280]），升级为"You've never tried it before, Wakana!"（[2295]）。Wakana 以同等逻辑反击（"You've never fucked a man either, Osako." [2297]），最后冷冷下逐客令："It sounded like you were content with just...giving me away to someone else."（[2342]）。结算："The couple's mutual affection has decreased by 5!"（[2361]）。这是全线裂痕的正式起点。
+
+### osakospring4 [2385] — 新发型与 Osako 2.0
+
+Osako 剪了短发。她向 Sensei 承认两人现在是"kind of together"——还住在一起、睡一张床，但有些东西必须改变（[2453]-[2459]），并宣布启动 "Osako 2.0 — the new, confident and cool model"（[2485]），目标是"existence doesn't entirely revolve around her partner"（[2503]）。她需要爱好，Sensei 只能贡献色情片，于是有了三人观看 MILF of the Month 俱乐部首映的荒诞场面。观影间隙的对话才是重点：Sensei 说自己想和她更近一点是因为"我在同一条船上——只是我的船是关于我的一切"（[2658]-[2663]），Osako 第一次认真回应这份友谊（[2687]-[2689]）。结尾旁白给出全线的温柔注脚："she falls asleep holding someone who sees her, and I fall asleep holding myself."（[2738]）。
+
+### osakospring5 [2765] — 女巫夜课：互相拖下水
+
+Osako 报复性地拖 Sensei 上社区大学的巫术课（水晶、圣坛、占卜）。课上撞见 Noriko 和 Kirin（后者报假名 "Stacy Fakename. Eighteen." [2943]）。Noriko 对 Osako 点出本线主题：配角也能拿到外传当主角——"It's not unheard of for side characters to get spinoffs where they get to be the star!"（[3068]），Osako 回应的心愿朴素得心酸："feeling a little more like...someone who doesn't solely exist for someone else would be nice."（[3069]）。Noriko 又断言这两人能互相拯救（[3103]）。三人因扰课被集体逐出教室（[3123]）。
+
+### osakospring6 [3140] — Sara's 酒馆：掠食者的自白
+
+夜课失败后的酒馆长谈，是全线的道德重心。Osako 先分享新学到的能力——享受失败（[3189]-[3191]），再反过来安慰 Sensei "You're not a failure"（[3213]）。随后 Sensei 说出那句无法收回的话：
+
+> s: Getting a new hobby won't stop me from preying on teenagers, Osako.（[3315]）
+
+她的反应分层呈现一个正常人接住这种真相的全过程："I'm both proud of you and hate you for admitting that at the same time."（[3321]）、权衡告发的代价——"a girl would lose her father a second time. My partner would lose her best friend..."（[3330]）、以及最诛心的诊断："They like you more, so they're giving you every benefit of every doubt that has ever existed."（[3343]）。Sensei 宣布决定退出教职（[3354]）。归途中插入一段刺目的意识闪回：Kaori 与 Nao 的日常声音里，他意识到自己夺走了 Nao 的第一次之后几乎没看过她（[3476]-[3500] 区间），"One more word and I would have kicked down the door."。结尾两人约定继续一起上课，"We can figure shit out together."（[3451]）。
+
+### osakospring7 [3517] — 道场避难所：Niki、Ayane 与母亲的课题
+
+Sensei 在与 Imani/Rika 三人行后逃来道场寻求庇护与建议。信息量密集：Niki 已在酒吧把"他睡了偶像的妹妹"公之于众，两人甚至共创了一种武术准备报复他（[3600]）；Osako 逼问"Do you feel bad, Akira? Or are you only just saying that because you were caught?"（[3614]），并戳破他"希望被抓"的自毁逻辑。Ayane 近况异常——"either she's given up on hiding it, or it's just so powerful that she can't."（[3679]）。Sensei 建议 Osako 去 Ayane 身边扮演"酷姐姐/准母亲"的角色（[3687]-[3709]），她抗拒："I don't think I'm really cut out for, like...motherly stuff"（[3747]），Sensei 却说 "I think you'd be a good mom, Osako."（[3748]），她回敬的那句 "{i}Boy.{/i}" 称呼（[3749]）暗示她已读过那部诗集、知道他是谁。本篇埋下两条线：Ayane 的母职缺口，与 Osako 自己不敢承认的育儿欲望。
+
+### osakospring8 [3810] — 花束与空床：Ayane 的"丢了什么"
+
+Osako 主动带着便利店花束登门 Ayane 的宿舍房间探病。这场戏是 Ayane 线的关键侧写：她说不清自己丢了什么，"that feeling you get when you hop off of a train and keep thinking that you accidentally left something behind"（[3945]），且确信同样的对话曾在"另一个人的房间里"发生过（[3952]-[3953]）——循环残留感的直接证词。话题滑向生育：Ayane 连问"你想不想要孩子"，Osako 层层防御（没钱、没时间、Wakana 讨厌小孩，[4078]-[4080]），却在 Ayane 追问"But they want it to happen. And you still won't even say that."之后沉默（[4070]），最后吐出半句 "But in a perfect world... Where none of that is true..."（[4086]-[4088]）——话未说完即逃离。Ayane 对空房说的最后一句话是："Thank you for the flowers..."（[4135]）。
+
+### osakospring9 [4147] — 求婚与悬置的答案
+
+旁白以"吃飞机的法国人 Michel Lotito"的长篇怪喻写 Osako 的心脏下沉（[4151]-[4167]）。她回到家，发现 Wakana 备好了烛光晚餐、穿着礼服——结婚纪念日，她忘了。晚餐谈话回收全部伏笔：Wakana 的药、她的巫术课、Ayane 的近况、Rika 的醉后短信。随后 Wakana 因无法下跪而请她"假装我跪着"，念诵聂鲁达《爱的十四行诗之十七》，求婚：
+
+> w: No matter who you become and what you resemble when you emerge from this cocoon, my love for you will not fade. It is impossible for you to not be beautiful to me.（[4367]）
+
+> w: Osako, will you marry me?（[4371]）
+
+沉默。四行省略号的对峙后，Osaka 给出的不是 yes 也不是 no：
+
+> o: Wakana, I want kids.（[4396]）
+
+> w: Oh.（[4397]）
+
+事件在此戛然而止。"cocoon"一词与茧意象（Amber 的茧、Maya 线的重塑）形成跨线共振——蜕变与承诺在同一句话里相遇，而答案被留在了下一章之外。
 
 ## 三、lust 线概貌
-- 无独立 lust 命名事件。欲望描写集中在三处：(1) 与 Wakana 的长期伴侣亲密（office 场景[2217-2224]及其旧伤挫折）；(2) 成人用品店/三人行次日等喜剧化处理；(3) Sensei 的持续调情被她稳定拒绝（"I'm the only girl in this city that doesn't want to sleep with him"[3931]）——她是全作罕见的**对 Sensei 免疫的女性角色**，这使她的 lust 缺位本身成为人物设定而非内容空白。
-- 数值层面仅出现 mutual affection -5[2361] 与占位符结算[3795-3799]， lust 变量几乎不动，印证其线的"成人关系写实向"定位。
+
+Osako 线的欲望内容集中在三处，且全部服务于关系叙事而非奖励回路。其一是 osakodate20 的成人用品店：DildoSaber 闹剧之下是一次关于女同性恋长期关系中"谁在服务谁"的坦白，玩具是焦虑的替身（[1345]-[1354]）。其二是 osakospring3 的教练办公室场景：口交被写成一场失败的谈判——高潮的不对等最终引爆"你要不要试试男人"的关系核弹（[2280]-[2342]）。其三是散落各处的身份喜剧：她反复声明对男性零性趣（[302]-[309]、[1518]-[1520]），Sensei 则以"我们至少共享对女人的品味"自我安慰（[1304]），MILF of the Month 观影（osakospring4）把三人放在同一张沙发上检验这条边界。欲望在本线中始终是测量亲密与权力的仪表盘，而非目的地。
 
 ## 四、与主线/元叙事咬合点
-1. **[[DEPRESSION]/[GREATER FACADE] 系统文本**（[2078-2079]）：与 Ami 线 "Akira Arakawa has obtained the status effect [DEPRESSED]" 同构，证明状态效果系统跨线一致；"习得 GREATER FACADE"更是把心理防御写成 RPG 技能树。
-2. **时间循环直认**（[771]"time is being reset every few months"+[811]"rewritten into someone with better luck"）：Osako 线是少数由叙述者正面承认 reset 机制的场所。
-3. **叙述者非角色宣言**（[3819-3820]"I'm not Akira Arakawa...I'm not really here at all!"）：叙述者自我指认为外部触发器，是全作元层级最高的旁白时刻之一。
-4. **spinoff 概念**（[3062-3069]）：作品谈论自己的衍生可能性，meta 自觉延伸到媒介层面。
-5. **昏迷后时间线枢纽**：spring1-2 直接承接 Ami 昏迷事件，《The Girl Who Cannot Breathe》="Boy" 身份揭露把 Sensei 的童年创伤接入主线文本。
-6. **跨循环既视感证词**（Ayane [3952]）：以配角之口佐证"同样的对话发生过"。
-7. **真名流通**：Akira 之名经 Osako 之口在成年圈常态化（[2492][3212][3614]等）。
+
+1. **正常人的对照组**：在一个全员被循环扭曲的舞台上，Osako 是少数不知道重置、按常识运转的角色——因此她对 Sensei 的每一次"正常反应"（愤怒、恐惧、权衡告发）都是对玩家共谋结构的照妖镜。
+2. **被告知的成年人**：osakospring6 中 Sensei 亲口向她承认掠食行为（[3315]），使她成为全作唯一掌握完整真相并选择暂不举发的成年人——她的沉默及其理由（[3330]、[3343]）本身就是对故事伦理的核心质询。
+3. **"Boy"与《The Girl Who Cannot Breathe》**：她在 osakospring2 认出 Sensei 就是诗集里的"Boy"（[2041]），在 osakospring7 以"{i}Boy.{/i}"回敬（[3749]）——她经由 Wakana 的痴狂阅读间接进入了作品的文本层，成为恋爱层与"作品内作品"之间的信使。
+4. **循环的旁观证据**：Sensei 在 osakodojo1 的独白中盘算给她虚假的希望（[770]-[775]），并以"be rewritten into someone with a little better luck?"（[811]）预言式地点题——她的梦想困局正是重置机制对普通人生活的静默碾压。
+5. **cocoon 意象跨线共振**：求婚誓词中的 cocoon（[4367]）与 Amber 的茧期交易（naospring1）、Maya 的 Build-A-Maya 重塑共享同一隐喻家族——蜕变、重塑与承诺在本作中是同一个问题的三种问法。
+6. **Ayane 母职缺口的承接者**：Sensei 两度推动她走向 Ayane 身边的"准母亲"位置（osakospring7/osakospring8），而她自己未说出口的育儿欲望（[4086]-[4088]）与最终那句 "I want kids."（[4396]）共同指向下一章的家庭结构重组。
+7. **封锁期设定锚点**："no one's allowed to leave Kumon-mi"（[748]）是她口中世界物理边界最直白的陈述之一，与实体城墙、月亮渲染差异等线索同属"世界是封闭舞台"的证据链。
 
 ## 五、未解伏笔
-- **求婚的答案**：[4393] "Oh." 之后直接跳周——她会答应吗？"I want kids" 与 Wakana 的根本分歧如何落地？
-- **Maki 给她看的"某物"**（[1417]）：内容从未揭晓。
-- **Kaori/Nao 闪回**（[3476-3500]）：Sensei "夺走第一次后再未看她"的对象是谁、与主线哪条线相接？
-- **Sensei 的辞职决定**（[3354]）：在 Osako 线内宣告，是否在其他线兑现？
-- **Sana 未说完的话**（[3383-3419]）："something you said the other day"指向哪次对话？
-- **Ayane 的"落下之物"**：她的空洞感与昏迷事件/循环抹除是否同源？
 
-## 六、label 总表（19 个）
+- 求婚悬案：面对 "Will you marry me?"，她的回答是 "I want kids."——Wakana 的一声 "Oh."（[4397]）之后是什么？这对伴侣会走向婚姻、 breakup 还是某种第三形态？
+- 《The Girl Who Cannot Breathe》的作者——那位"虐待诗人"——究竟对年少的 Osako 做了什么？Sensei 作为"Boy"与她是什么关系？（"No one can do what she did." [2025]）
+- Osako 是否会把掠食真相告诉 Wakana 或 Imani？她权衡过的告发选项（[3330]-[3324] 区间）何时被重新拿起？
+- Sensei 宣布的退教决定（[3354]）是否兑现？
+- 她的竞技梦：若城市重开，超龄的她还会得到"第二次机会"吗——尤其在一个会被"rewritten"的世界里？
+- 七个压迫点的传说究竟是夸张还是有来源（[346]、[573]）？
+
+## 六、label 总表
+
 osakodojo[1] · callosakomorning[29] · osakodive[43] · callosakoafternoon[49] · callosakonight[63] · osakodojogen[77] · osakodate1[106] · osakodojo1[434] · osakodate15[826] · osakodate20[1118] · osakospring1[1456] · osakospring2[1758] · osakospring3[2097] · osakospring4[2385] · osakospring5[2765] · osakospring6[3140] · osakospring7[3517] · osakospring8[3810] · osakospring9[4147]

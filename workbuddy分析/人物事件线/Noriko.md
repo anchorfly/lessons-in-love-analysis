@@ -1,172 +1,108 @@
-# Noriko 事件线深读版
+# Noriko 事件线全析
 
-> 底稿：`_tmp_digest\_digest_Noriko.txt`（约 4285 行 digest，源 .rpy 行号以 [N] 标注）。
-> 引文规范：台词直引保留英文原文，分析语言为简体中文；所有事实断言均附行号；不确定处标注「待核」。
-> 成人内容只做抽象概括，不复述细节。
-
----
+> 源文件：NorikoEvents.rpy ｜ 共 34 个剧情 label
+> 定位：Noriko Nakayama——本作中唯一以「妹妹（Onii-chan）」身份完成从青梅竹马、学生、恋慕者到性伴侣全程跨越的角色，也是乱伦禁忌主题在 love 线被正面书写得最完整的一条线。她的叙事功能有三重：Sensei 童年与家族史的第一见证人与保管者；Maya 线的对位镜像（rival/受害者/共感者）；以及元叙事层最活跃的「打破第四面墙」受害者之一。
+> 阅读提示：台词直引保留英文原文，格式为 `> 前缀: 英文...（[行号]`；前缀 n=Noriko、s=Sensei、ni=Niki、a=Ami、ki=Kirin、m=Maya、na=Nao、y=Yumi、six=six、vpa=广播声、N=旁白；分析语言为简体中文；成人段落（[TRIMMED]）仅做叙事功能概括。
 
 ## 一、角色基本盘
 
-**身份**：中山法子（Noriko Nakayama），中餐厅老板家次女，人气偶像 Niki（Niki Nakayama）之妹，Kirin 的室友兼挚友。自称与 Sensei（真名 **Akira Arakawa**，[3644]-[3645]）相识于出生之前——"You were there when she was born."（Niki 语，[7040]/[7087]），幼年起即视其为兄长、家庭教师与初恋对象，自称"brocon"（兄控）且"one does not *choose* to be a brocon. One is simply born that way."（[6462]）。
+**身份与关系网。** Noriko 是 Niki（Nakayama 姐姐、前偶像）的妹妹，家中经营餐馆；母亲至今仍把 Sensei 当「儿子」惦记（[6367]、[6373]）。她与 Sensei 的关系史早于一切在校学生：婴儿期起就「hanging all over him」（[5033]），童年被其家教学过（[6363]-[6367]），转学进入 Sensei 所在学校后以「转学生」身份继续贴身追随（[4999]）。她自称 brocon 并将其上升为本体论：「One does not *choose* to be a brocon. One is simply born that way.」（[6462]）。
 
-**性格**：高能量、话痨、自我标榜"impulsive! And selfish! And far too sensitive"但同时"strong! And independent!"（[1988]-[1989]）；全校标准化考试第二名（[518]）；素食主义者；随身带刀（[2832]-[2835]）；对"被落下/当备胎"有执念级恐惧（[4789]-[4794]）。
+**性格光谱。** 表层是话痨、自嘲、用玩笑包裹一切的高情商社交者——她能凭「kind heart」读懂完全不会说话的 Nao（[5652]），也能在 sportswars2 里与 Maya 进行全作最锋利的言语对轰。里层则是一个把自我需求无限后置的殉道者：「I've dedicated *yours* to making other people happy」（[5124] Kirin 语）、她自己也承认「being such a martyr all the time」（[6295]）。她对 Sensei 的爱被自己定义为「you'll always be my brother first and a *man* second」（[6459]）——但这条界线在 spring4-5 被她亲手拆除。
 
-**核心矛盾**：她的一生都在追赶一个"永远先到"的位置——姐姐先恋爱、Maya 先被指导、Ami 先被染指。她的每次关键事件都以"差点拥有→被人截胡→自我消化→宣布继续追"为循环结构。Sensei 对她的定义则冷酷得多："I need you to suffer for me."（[4825]/[4836]）。
-
-**叙事功能**：Noriko 是全作中少数**主动凝视世界裂缝**的学生角色——她第一个向 Sensei 指出"世界变得不太对"（[5380]-[5383]）、第一个质疑他的记忆设定在逻辑上不可能成立（ID/信件问题，[3659]-[3665]）、也是异空间梦境（norikospring2）的直接目击者。
-
----
+**叙事声部。** Noriko 是极少数被元叙事旁白「点名嘲讽」的角色：spring1 结尾旁白直接对她泼冷水「*Also, she is wrong! Do not have hope!*...Go home, cum in a sock, then forget this ever happened!」（[5516]-[5519]）；invite4 的乱伦暴露后旁白以游戏公告口吻宣布「*your incestual tendencies have been exposed to someone else!*」（[4874]）。她同时是 sportswars2 的「事件主角」却被告知「Mayonnaise Macaroni is going to have to wait a little longer to be the center of attention again」（[4933]）——元层始终在提醒玩家：她的戏份是借来的，聚光灯本属于别人。
 
 ## 二、love 线逐事件脉络
 
-### 2.1 相识与日常期（convenience1 / convenience5）
+**日常门控与邀请系统（[1]-[353]）。** convenience 是本文件的枢纽跳转表（[1]），串起 kirinspecial40、yumispring9 等跨角色事件；norikoinvite（[21]）与 norikoinvitegen（[234]）、norikoinviteaff（[274]）构成好感度门控。callnorikomorning（[34]）存在「无人接听」分支（[34]-[51]），是早期少数暗示她并非随叫随到的细节。morning/afternoon/night 三段通用日程（[54]/[116]/[218]）提供早餐约会等日常场景。
 
-- **旧区重逢**：Sensei"毫无缘由"走到一家陌生便利店，发现柜台后的打工少女正是 Noriko（[392]-[397]）。开场前叙事者插入词典词条 "(sədn) adjective - occurring or done quickly and unexpectedly" 并直接向玩家发问："What are some words you don't like? Tell me. I'm excited to hear them."（[366]-[380]）——这是本线最早的**打破第四面墙**时刻。
-- Noriko 得知他连"这里是旧区"都不记得，第一反应是"Wait, is this another memory thingy?"（[434]）。她提出"记忆引导论"："maybe your conscience led you here in search of me... What if your memories are trying to speak to you?"（[461]-[463]），而此时店内**根本没有开着的收音机**，Sensei 却说听到很响的歌（[464]-[469]）——微妙的超自然暗示。
-- 她许下本线的核心誓言："even if you forget me now, everything will come flooding back eventually. And when that happens, know you can count on me to be everything you'll ever need."（[659]-[660]）
-- 事件结尾，叙事者给出全篇最冷的一句人物判词：把 Noriko 比作雕塑——"There's too much perfection on the outside for everything to possibly be the same once you work your way in... And the insides of Noriko are a lot less beautiful."（[668]-[672]）
-- **convenience5**：夜里再访。"Onii-chan"称呼在此首次被她当作 kink 自觉化："I think this 'Onii-chan' thing might be a kink for me."（[883]）；Sensei 预告"lust name"制度（[1015]-[1023]，远期伏笔，最终在 norikosexnaming 兑现）。她还提议让优等生 Nodoka 转班过来（[1085]-[1097]）——Kyoko 女儿线在本线的接口。Sensei 名台词："I remember everyone. I am 75% magic."（[1104]）
+**convenience1 / convenience5（[354]/[690]）。** 便利店是 Noriko 的「主场」——她在此打工，与 Yumi 同班。这两段早期事件建立她与 Sensei 在店内的相处模式：半公开的调情、对 Yumi 的照看、以及「店员/青梅竹马」双重身份的日常摩擦。
 
-### 2.2 到家期（norikoinvite1 / norikoinvite2）
+**norikoinvite1-2（[1172]/[1711]）。** invite2 是 love 线前期最紧张的段落：Noriko 把 Ami 支开以单独接近 Sensei，用「新鞋」谎言掩护（[1665]-[1692]）；Maya 临走前一句「I wouldn't expect you to」（[1692]）表明她早已看穿。这一段确立了 Noriko 的行动模式——她从不正面抢夺，只制造缝隙。
 
-- **首次邀请到家**。爆炸性信息由 Noriko 亲口引爆：Sensei 曾与 Niki Nakayama **交往五年**且婚前就出入中山家（[1335]-[1347]）。Ami 全然不知，崩溃质问 "YOU DATED NIKI NAKAYAMA FOR FIVE YEARS AND NEVER TOLD ME ABOUT IT?! WHO EVEN ARE YOU?!"（[1382]-[1383]）——Sensei 对 Ami 的系统性隐瞒首次显形。
-- Noriko 展示政治手腕：先共情 Ami 的处境（"You've loved him for pretty much your entire life, but you've never been able to have him because of societal expectations"，[1415]），随即借势借女仆装（[1421]-[1423]）。
-- **Maya 突袭**：用备用钥匙上门（[1591]）。Ami 以"买药"为由支走 Maya，Noriko 躲进房间；门口一段沉默戏里，Maya 盯着 Ami 脚上的新鞋只说了一句"They're nice."（[1665]-[1692]）——Maya 的洞察力与压抑的嫉妒在此无声爆表。
-- **norikoinvite2 开头的天空独白**是全作元叙事浓度最高的段落之一：Sensei 走回房间途中突然"回到天上"（"I make my way back to the sky instead of my room."，[1738]-[1739]），随后是一整段对玩家的人生回忆诱导（"Think back to when you were young... Picture yourself in the backseat of a car"，[1743]-[1744]），以 "The sky follows you! The world follows you! You can not escape! ... Fall deeper into the wishing well!"（[1752]-[1756]）收尾，然后他发现自己已在房间里却"不记得走过来的"（[1765]-[1766]）。
+**norikospecial20 / norikodorm20（[1790]/[2289]）。** special20 为 Niki 相关的偶像活动支线（promo 于 maid cafe 的往事在 spring2 被回收，[5578]）；dorm20 进入宿舍线，与 Kirin 的室友关系在此定型，为后期三人行埋线。
 
-### 2.3 万圣节余波与道歉（norikospecial20）
+**convenience25 / norikodate30 / norikodorm30（[2747]/[3148]/[3529]）。** 30 级约会与宿舍事件中最重要的文本是 Kirin 加入的「三人床闲谈」群像：Noriko 自曝「I played bass in my underwear once and the vibration felt nice when I sat on my amp」（[3264]）；Kirin 的 Karin 发刷梗（[3272]-[3273]）、Sensei 的西瓜梦（[3276]）、CMBN 蜜桃梗（[3283]），以及 Noriko 的「I'd do Kirin just to get her to shut up」（[3285]）。这段用闹剧笔法预演了 beachsix 三人行的人员配置与相处化学。
 
-- Sensei 独白复盘 Halloween 对 Molly 所为，陷入真实性焦虑："None of it was real. Or some of it was real. Or none. Or some."（[1812]-[1818]）——记忆不可靠主题的又一次直陈。
-- 本段包含他最露骨的黑化自白："Yes. That's everything. This is my life... Why would I ever want anything other than the easiest possible option? ... I can have Ami do everything for me. She'll do it. She loves me."（[1843]-[1851]）
-- 随后与 Ami 同车的对话中，Sensei 问出绝望之问 "Is there *anything* I could do that would make you...feel differently for me than you do right now?"，Ami 答 "Of course not. I'll love you forever and ever. The only question is whether or not that love will become too much for you one day... I think you've always known. But that's a story for another-"（[1891]-[1913]）——"too much" 预言与被打断的半句话是 Ami 线最大伏笔之一。
-- **街头道歉事件**：Noriko 当众下跪道歉（因 Halloween 上 Sensei 手指了她姐姐而自己失态，[1940]-[1962]）。Sensei 内心连环困惑："Why do things keep happening that I don't understand lately?"（[1952]）。路人教师 **Imani** 登场自我介绍（[2099]-[2143]），并留下打破次元的选词敏感："I don't even care that this guy's probably twice your age!"（版本A）/ "this guy's your teacher!"（版本B）（[2087]/[2089] 双版本并存）。
-- **时间硬伤**：Noriko 跑回体育馆拿冬衣"三十秒就回来了"（[2186]），但两人明明已经离开学校十分钟："Define 'just,' because we left like ten minutes ago."（[2218]-[2222]）——本线最直白的时间异常实证。
+**norikoinvite3-4（[3836]/[4419]）。** invite4 尾部发生本线第一个结构性爆点：Sensei 与 Ami 的性事被 Noriko 撞破，乱伦（父女线）首次向第三者暴露。旁白以系统公告的戏谑口吻收场：「*Noriko needs some time to recover from the emotional scarring this has caused her, but you're free to continue having sex with Ami in the meantime!*」（[4875]-[4877]），随后机械地结算数值「*Noriko's affection has increased to [noriko_love]! Ami's lust has increased to [ami_lust]!*」（[4886]-[4887]）——创伤与数值奖励被并置，是全作元叙事冷感最刺目的瞬间之一。
 
-### 2.4 深化期（norikodorm20 / convenience25 / norikodate30 / norikodorm30）
+**sportswars2（[4908]）——Maya 对位镜像的正面书写。** 旁白开宗明义「This time, we'll talk about jealousy」（[4914]），并给出全作对 Maya-Noriko 关系最完整的定性：两人「loved the same man...interested in the same avant-garde literature...their Internet histories were mostly congruous. But, most importantly of all, they shared the same fear — each other.」（[4980]-[4981]）。Noriko 拦下翘掉运动会、要去「storm Sensei's castle」的 Maya（[4959]、[5152]），对话滑入童年闪回：「We were kids, Maya. We said and agreed to a lot of things we didn't understand.」/「*But not all of us did* things we didn't understand.」（[5000]/[5006]）。当 Maya 反击「A creepy stalker who transfers into my school so she can try and fuck my teacher. *That* sucks...So die.」（[4999]）时，Noriko 给出本线的道德锚点：「There are so many parts of you that I want for myself. But being molested is *not* one of them.」（[5082]-[5090]）。事件以 Maya 留下「Peace. And also, die.」（[5093]-[5096]）与 Noriko 一句茫然的「What the hell is death ball?」（[5107]）收尾。回场后与 Kirin 的 Taco Tuesday「主妇幻想」二重奏（[5125]-[5143]）冲淡沉重，但 Kirin 透露的 Karin 异常（「She just came home bawling her eyes out one day and won't tell me what happened」[5183]）是跨角色伏笔。
 
-- **旗袍之夜**：父母寄来餐厅新款旗袍（[2341]-[2434]）。Noriko 重申记忆论："Those memories are still in there somewhere."（[2379]）。Sensei 独白滑向游戏化思维并当场自我捕获："I need to grind affection points. Wait, what are affection points? What am I thinking?"（[2556]-[2558]），紧接着一句被粗体强行打断的话 "{s}Have I really spent so much time with Molly that it{/s} **HAVE RECENT EXPERIENCES SOMEHOW** led to me treating life more like a game..."（[2559]）。随后整段独白布满删除线潜台词："{s}We're stuck here.{/s} ... {s}Nothing can be changed.{/s} ... {s}Something is buried underneath your feet.{/s} ... {s}Does any of this exist?{/s}"（[2597]-[2604]）——**本作最密集的元叙事文本之一**。
-- Noriko 发表"回声论"：Sensei 昔日的愤世嫉俗说教被孩子们吸收后"evolve and adapt... They're closer to like...screams or...encryption keys or something."（[2625]-[2627]），并宣告他是自己的 role model、自己个体化的根源（[2628]-[2640]）。
-- **圣诞礼物伏笔**：她在翻旧物时找到一件想送他的东西，话说到一半被 Sensei 抢答"Sure"截断（[2674]-[2687]），内容始终未揭晓。离场独白："The clouds come back on the way home. They feel a little like hands."（[2738]-[2739]）
-- **convenience25（与 Kirin 三人）**：电视上 Niki 被主持人追问出道前的"过去"与歌里那位"男人"，她当场翻脸切割："Completely made up and not real at all. Next question, please."（[3000]-[3004]）；Noriko 补充其合同明文禁止引发过去话题（[3017]）——偶像面具作为叙事防火墙。Kirin 还抖出**海滩夜 Chika 直播偷录**一事（[3043]-[3063]）。
-- **norikodate30（love hotel）**：Kirin 把约会地点定在 23 号房——正是她失去初夜的房间（[3306]-[3317]）。本事件真正的钩子在结尾：Sensei 向 Kirin 承认"I'm going to have to hurt her feelings again in the near future"却不肯说为什么（[3186]-[3188]/[3502]-[3504]），旁白以神谕腔收束："She wants to taste all the flavors of life — and I will deliver them to her. Even those I know she'll hate."（[3507]-[3509]）
-- **norikodorm30（名字揭示，本线最大节点）**：Sensei 主动验证 Noriko 是否知道他的名字。她不仅知道，还能背出完整档案："Akira Arakawa — thirty-one years old. Lifelong friend and the first love of my life. Ex-boyfriend of Niki Nakayama. My surrogate brother and future *daddy* if all goes according to plan."（[3644]-[3645]）。她对"他不记得自己名字"的世界观漏洞发出致命三连问：身份证呢？账单呢？邮件呢？（[3659]-[3665]），Sensei 只能以"Kumon-mi 的邮政就是这样"搪塞（[3665]）。他承认醒来后听到的第一个词就是"Sensei"（[3674]），且目前确认知道其真名的只有 Niki 和 **Otoha**（[3611]）。随后坦白与 Niki 上床并爱她（[3698]-[3702]）。Noriko 爆炸、消化、再出发的全过程浓缩了她的行为模式，最终以契约语言立誓："Show me the dotted line and I'll sign it."（[3795]）
+**norikospring1（[5213]）——希望的分发者。** 叙述者独白交代他刻意回避桥梁与高处（[5219]，自杀意念的持续暗示），并把 Noriko 称为「creature with pink hair who practically lives inside of that building」（[5221]）——「several blackouts and the biases of my deceased girlfriend(?)」一句（[5221]）是关于「已死女友」的又一次元层闪烁。本段前半是 Yumi 的催吐与洗发水穷酸喜剧（[5279]-[5290]）与叙述者「糟糕的主人」自责（「*Of course* a dog's excitement would fade if it had to watch such a thing」[5312]-[5318]）。真正的核心是深夜谈心：Noriko 指出 Maya「out of nowhere, it's gone right back to how it was when I first transferred in」（[5414]），Sensei 承认「She *is* different」（[5420]），继而吐露重置真相——「that person I talked about when I came back to school...the one I lost...I was talking about *her.*」（[5433]-[5434]）、「it's more like I'm seeing her reflection. Or someone walking around in her skin while the *real* her is just...gone.」（[5440]）。而 Noriko 给出全作罕见的、指向「循环可破」的推论：「If it's the same thing that happened to you, doesn't that mean she's still in there somewhere?...you're getting your memories back little by little, aren't you?」（[5452]/[5458]）。她的希望演说（「But the scenery when you get there, Sensei?...You'll see such beautiful things...」[5490]-[5495]）让叙述者「not sure if I can walk right now」（[5499]）——旁白随即以 [5516]-[5523] 的粗鄙公告将其否定。**Noriko 在本线的独特功能在此定型：她是唯一一个用 Sensei 自身的恢复经历为「Maya 可被找回」提供论证的角色。**
 
-### 2.5 初夜三部曲（norikoinvite3 → norikospring4 → norikospring5）
+**norikospring2（[5544]）——超现实梦境与 six 的登场。** 前半是 Niki 带 Ami 与 Noriko 购物的家庭喜剧（Akira 已是 Ami 的「dad now」[5564]；maid cafe 与 Chika 粉丝 [5577]-[5586]），中途 Noriko 发现那个总在活动出没的沉默女孩 Nao（[5603]），并展示近乎通灵的沟通天赋（[5627]-[5674]）。随后文本毫无过渡地坠入梦境：她手握一颗蛋（[5731]），广播竟能应答——「It is not a dream.」「This is everyone's school.」（[5740]/[5746]），并播报「The time is currently 7:31 PM...You are happy here. There is no reason for you to leave.」（[5751]-[5752]）。Maya 以播报员身份出现，宣布「This is a replica of Heaven. This is the **DEN OF THE MOLE RAT**」（[5780]）；广播里传来 Maya 与 Sensei 的 blackout sex 音频（[5836]-[5847]，Noriko：「Girl seriously takes cucking me to the next level」[5849]）。梦境中段插入大段呓语诗：叙述者称「I think Heaven is a classroom and God is the chalkboard」（[5879]）、鼹鼠宣言「When you strip them, they're mole rats...I think it's time for a *new* world.」（[5924]-[5930]）——这是重置循环层的核心意象群（教室=天堂、新世界=下一次重置）在 Noriko 视角的投影。梦的尽头，哭泣的 Maya 身后出现了本作最大谜团之一的存在 six：「Everything there is to cry about.」（[5940]）以及童谣式呓语「CHAIR GOD, FLARE GOD, MEET ME IN THE AIR GOD...」（[5947]）。Noriko 的应答「Three plus three...Is actually six...」（[5951]-[5952]）换来一串 hex 码 [5959]（解码即「you aren't meant to be here」）。梦醒回到购物现场，她对刚才的一切失忆般恍惚（[5969]-[5990]），旁白结算「*Nao-chan's affection has increased to [nao_love]!*」（[5996]）——梦境被系统轻描淡写地折算成好感度。
 
-- **norikoinvite3**：三次 "event failed" 占位后进入正篇（[3836]-[3881]）。开场 Sensei 又一次断片："Noriko? When did you get here?"——她答"Just...a few seconds ago. You doing okay? You're paler than normal"（[3943]-[3952]）。前戏进行中 **Ami 敲门**，Noriko 躲进衣柜，被迫全程旁听 Ami 对 Sensei 的口交（成人内容段，叙事功能为：让 Noriko 的"特殊记忆"再次被污染，并让 Ami 的占有欲全面亮相——"If you break that promise?.. I'm going to *make sure* that no one else can ever hurt you."（[4280]-[4283]）；"Which fucking whore did you invite into *my* house and stash in *my* closet?"（[4264]）。事后 Noriko 的清算直刺主题："You were supposed to be *MY* mistake!... How come none of the weird, socially unacceptable decisions you've made have ever been aimed at ME?!"（[4761]-[4762]）。Sensei 则给出本线最冰冷的告白："**I need you to suffer for me.** I need you to sacrifice your happiness and stay addicted to me so I don't have to feel things I don't want to feel."（[4825]-[4837]）她答"But I'll do it."（[4840]）。事件末尾系统弹窗亲自下场嘲讽玩家："*Uh-oh! Looks like your incestual tendencies have been exposed to someone else!* ... *She's very good at it and her insides feel great!*"（[4874]-[4877]）
-- **sportswars2（运动会，宿敌对峙）**：旁白开场直接问玩家："Do *you* think she's retained any of her memories? Or do you think that maybe she's kind of always just been a bitch?"（[4935]-[4936]）。通过童年 tutoring 闪回交代宿敌起源：两人同爱一人、同好先锋文学、连浏览记录都高度重合（[4980]），共享同一种恐惧——彼此（[4981]）。Noriko 对当年的定性毫不含糊："There are so many parts of you that I want for myself. But **being molested** is *not* one of them."（[5082]-[5084]）——她始终清楚 Maya 当年是受害者。本事件还埋下 Karin 行为异常的跨线伏笔（[5174]-[5195]）。
-- **norikospring1**：Sensei 独白透露两个重磅信息：他对 Kirin 的戒心源于"several blackouts and the biases of my **deceased girlfriend(?)**"（[5221]）；以及"pieces of my past may no longer throw this puzzle of a life into potential **world-ending turmoil**"（[5227]）。
-- **norikospring2（异空间梦境，本线元叙事最高峰）**：与 Niki、Ami 购物时，Noriko 注意到总在活动上出现的神秘女孩（Nao，[5603]-[5608]），独自上前搭话后被瞬间拽入异空间：
-  - 会回答问题的学校广播："This is everyone's school... The time is currently 7:31 PM... **You are happy here. There is no reason for you to leave.**"（[5736]-[5752]）；问她为何手握鸡蛋，答"Reasons."（[5753]-[5754]）。
-  - Maya 的声音宣布 "This is a replica of Heaven. This is the **DEN OF THE MOLE RAT.**"（[5772]-[5780]），走廊里循环播放 Maya 与 Sensei 的 blackout sex 音声（[5836]-[5847]）。
-  - 神格旁白降临："There are special areas that exist in places and times that only gods would look... No one finds them on accident and no one leaves them on purpose... **I think Heaven is a classroom and God is the chalkboard.**"（[5869]-[5880]）；随后语法崩坏的长段独白以三重宣言收尾："I think it's time for a new world. I think it's time for a *new* world. **New world.**"（[5912]-[5930]）。
-  - 泣不成声的 "**six**" 现身（"Everything there is to cry about."，[5940]），念出押韵疯话 "CHAIR GOD, FLARE GOD, MEET ME IN THE AIR GOD..."（[5947]-[5949]）；Noriko 纠正"三加三是六"（[5951]-[5952]）后，six 输出一串十六进制：`79 6f 75 20 61 72 65 6e 27 74 20 6d 65 61 6e 74 20 74 6f 20 62 65 20 68 65 72 65`（[5959]）＝ **"you aren't meant to be here"**。
-  - 梦醒回到购物现场，弹窗显示"*Nao-chan's affection has increased!*"（[5996]）——强烈暗示这场梦与 Nao 直接挂钩（详见第四节）。
-- **norikospring3（温泉旅馆）**：喜剧主体（把 Sensei 藏进浴室躲避 Niki，[6007]-[6141]）。真正的戏肉在岩园夜谈：Noriko 描绘自己永远缺席的家庭幻景——迷你货车、大包装肉、"I'm never at the table with you when you eat... **Why is *that* the future I envision? Being... what, an *aunt*?**"（[6287]-[6295]）—— martyr 情结的自我觉醒时刻。
-- **norikospring4（安全屋夜谈，全线情感顶点）**：Noriko 替他数罪状——"*Two* times now you have put my education at risk"（[6364]），加上最初逃离 Niki 共三次（[6365]-[6366]）；她母亲至今逢人就问 "Where's my son? Where's Akira?"（[6367]）。随后 Sensei **第一次向任何人**吐露兄长长期虐待史：被锁进壁橱数日、衣物被撕、被尿淋身、被迫学狗叫换食物（[6507]-[6515]）；直到一位红发、穿复古洋装、写诗的女孩拉开橱门，反手给了"祂"一记耳光（[6521]-[6531]）。Noriko 追问"That girl was her mom, right?"（指 Ami 之母，[6553]）——红发救援者的完整身份**待核**。之后两人牵手，Noriko 以俳句下最后通牒："If you take me here... You will have me forever. **There is no escape.**"（[6618]-[6621]）；Sensei 沉默良久，同样以俳句作答："That is fine by me. I'm sick of running away. You've suffered enough."（[6636]-[6642]）
-- **norikospring5（初夜完成）**：成人内容段（叙事功能为：完成"错误归属权"的移交——她终于成为他主动选择的那个"mistake"；并在中途被 Niki 与 Ami 当场撞破）。Niki 的怒火中藏着一条重磅指控："Is *that* what that whore taught you when *you* were the one being groomed?"（[7100]）——**Niki 认定少年 Akira 当年被某成年女性诱奸**，与 Io 线中 Sekai 的定位互证（待核：此处"whore"是否即 Sekai）。Akira 拒绝停下的理由是本线题眼："You're not the only one who loves me, Niki! Noriko...she's known me just as long! She loves me just as much!"（[7080]-[7088]）——尽管 Niki 立刻用"你在她出生时就在场"戳破（[7087]）。事件尾声旁白给出跨时间线誓约："And if there are other timelines out there...the types of worlds that Maya used to dream of... **I will find Noriko myself... In every life, I will see to this.**"（[6899]-[6903]）
+**norikospring3（[6004]）——sister mode 的极限。** Niki 抓奸未遂的闹剧（Ami 谎称两人接吻「Tongues and all」[6034]、Noriko 在浴室隔间里与 Sensei 同处 [6102]）之后，是本线最温柔的一段「兄妹扮演」：她逼 Sensei 说「I love you」并索要量化——「Maximum love?!」（[6176]-[6181]），随即自曝她幻想中的未来是 mini-van、family-pack 肉、Hard-Off 买来的火锅（[6282]-[6283]），而残酷在于「But I'm never at the table with you when you eat...Why is *that* the future I envision? Being...what, an *aunt?*」（[6288]-[6294]）。Sensei 的安慰笨拙而有效：「We were sharing that...family-pack of meat anyway...Maybe *that's* why we didn't save you a seat.」（[6316]-[6318]）。这段确立了 spring 章的情感命题：Noriko 要的从来不是性，而是「一个座位」。
 
-### 2.6 后宫既成事实期（beachsixnoriko1 → norikoinvite6）
+**norikospring4（[6339]）——创伤交换。** 两人躲进她用「妹妹特权」换来的空房（[6344]），叙述者以红发缠住下水道口比喻记忆复苏（[6353]-[6356]）。对话先清算历史——Sensei 两次弃她而去（[6364]）、其母至今仍问「Where's my son?」（[6367]）、以及 Maya tutoring 年代的真相：「So you subjected her to a life of wanting nothing but *me* and I'm sure I don't need to inform you how terrible *that* is.」（[6405]）。Noriko 的宽恕逻辑被逼到墙角后给出答案：「Because we're family, silly...you'll always be my brother first and a *man* second.」（[6454]/[6459]）。这引出了全作最重要的独白之一——Sensei 首次向任何人讲述兄长：「I haven't told *anyone.* You're the first.」（[6545]）：哥哥把他锁进壁橱数日、撕衣服、朝他撒尿、逼他学狗叫才能吃饭（[6509]-[6515]）；直到一个红发女孩拉开橱门、「turned around and slapped Him so hard that, for the first time in my life, I got to see *Him* on the receiving end of physical pain」（[6527]），并从此再没让他睡回壁橱（[6532]）。「That's why I can't stand when people call her a monster. Because she wasn't.」（[6530]）——红发女孩即 Ami 生母的暗示在此完成。创伤交换彻底改写了两人关系的坐标系：Sensei 请求「You can call me whatever you want. It's fine if it's you. But I'd feel more comfortable knowing you just look at me as 'me'...I'm Akira. You're Noriko. That's it.」（[6567]-[6569]）。
 
-- **beachsixnoriko1 / norikosexnaming / endofnorikosexnaming**：与 Kirin 的宿舍三人行；"sex-naming ritual"（性爱称呼仪式）在此兑现 convenience5 埋的伏笔，三分支：让她叫他 Noriko / Kirin / [norikomaster]（[7376]-[7639]）。收束段的排水口独白值得记录："Lodged there in the dark — somewhere close to the bottom of everything... Will we ever see where the drain leads, I wonder? Will we ever *see* at all?"（[7859]-[7863]）——drain 意象与 norikospring4 中 "red hair swallowed by the drain"（[6353]）构成同一母题链。
-- **norikoinvite5**：日常化的性爱邀约。她形容他拨电话前的状态像"temporary stasis"（[7909]）；更黑暗的是她主动暗示幻想幼年期："I was...let's just say...not the same age I am now...catch my drift?"（[8005]-[8012]），Sensei 选择不听（[8020]）。她还提出愿与 Chika 共享（[8189]-[8197]）。
-- **prenorikoinvite6**：纯喜剧——洗漱时被 Ami 请求"把你脸上的东西舔掉"（[8268]-[8283]），Ami 当众大喊请示（[8288]），以旁白戏仿童话收尾："Noriko Nakayama did not have any more sex that day. But at least her face was not licked by a classmate. The end."（[8314]-[8316]）
-- **norikoinvite6（与 Ami 共浴谈判）**：Ami 宣布进入"accepting Ami"阶段、欢迎所有人加入 rotation（[8350]/[8425]）；轻描淡写承认自己曾把 Niki 逼到自杀边缘："even if I made her want to kill herself"（[8487]）；Noriko 供出早已起草好的《中山姐妹法修正案》 threesome 条款（[8523]-[8525]），并承认若 Niki 提议她会答应（[8503]-[8517]）。事件在 Ami 半真半假的操控性威胁 "I guess I'll just kill myself..."（[8580]）中结束——与 [8487] 形成刺耳的互文。
+**norikospring4→5 摊牌（[6579]-[6691]）。** Noriko 立刻指出这个请求的自毁性：「It was a mistake telling me to look at you as just 'you' Akira. When I do that, it suddenly becomes a lot harder to stop myself from acting out on certain things.」（[6599]-[6600]）。Sensei 试图将其降格为怜悯（「what you're feeling isn't love or lust right now...it's pity」[6601]），被她驳回（[6602]），并给出本线最完整的告白：「you might be perturbed by the thought that I would see you as a *man*...but I *want* you to see me as a woman. And I want you to love me the way *you* love.」（[6609]-[6610]）。Sensei 的抵抗只剩一句黑色总结：「This is exactly how it ended last time and now your sister lives in my house...」（[6611]），她答「I am *not* my sister. I am my *own* person who feels and thinks and wants and loves.」（[6612]-[6613]）。最后她以俳句下战书：「If you take me here / You will have me forever / There is no escape.」（[6619]-[6621]）——沉默七行之后，Sensei 以俳句应答：「That is fine by me. I'm sick of running away. You've suffered enough.」（[6636]-[6642]）。他明确点破：「You realize that by doing this, you'll effectively be committing incest, right?」（[6658]），她答「It's okay if it's you...Onii-chan.」（[6660]）。
 
----
+**norikospring5（[6694]）——初夜与当众爆炸。** 初夜的书写刻意保留她的紧张与笨拙（内裤执念 [6702]、五小时时长、二十次以上高潮 [8542]），叙述者的跨时间线誓言是本段真正的落点：「And if there are other timelines out there...I will find Noriko myself. And I will take her here...In every life, I will see to this.」（[6899]-[6902]）。随后 Niki 与 Ami 推门而入，撞破全程（[7016]-[7021]）。Sensei 拒绝停下，理由被推到存在层面：「This...Is who I am...Niki...This...is what you...swore to never leave...I tried to...warn you! I tried to...push you away! But you just...wouldn't stop...loving me!」（[7068]-[7071]）。Niki 的反击刀刀见骨：「So what? You just...take everything then? Is *that* what that whore taught you when *you* were the one being groomed?」（[7099]-[7100]）、最终「This isn't love. I don't know *what* this is.」（[7110]-[7111]）。Ami 则以旁观者身份给出冷血解说：你们「get what you want and it's someone else who has to hurt...So you lose nothing, but gain everything.」（[7137]-[7139]）。Sensei 在她哭完之前继续了三十分钟（[7172]）——love 线在此以对 Niki 的公开处刑收束。
 
 ## 三、lust 线概貌
 
-Noriko 的 lust 线与 love 线几乎不可分割（她的欲望表达本身就是性格装置），以下仅抽象概括：
+**beachsixnoriko1 / norikosexnaming（[7212]/[7376]）。** 海滩宿舍群交事件中，Noriko 与 Kirin 的双人组合登场。前戏闲谈交代了「条款」的黑色幽默——原始约定「she gets my body and you get my heart」（[7328]）被 Noriko 宣布作废：「Voided the first time you touched my cervix.」（[7329]）。她同时完成自我性向的公开声明：「let the record show that I am violently bisexual and willing to engage in various threesomes with you and any other girl we know」（[7265]），并毫不掩饰对 Maya 的欲望（「That'd be the hottest one!」[7273]）。Kirin 戏称 Sensei 的命名仪式（「You did the same thing with me and Miku and I know for a fact you're doing it with everyone else too」[7361]）引出 norikosexnaming 三分支：让 Noriko 反叫「Noriko」（[7380]，附「I have always wanted to be my own little sister」[7395] 的自嘲）、让她改叫「Kirin」（[7416]）、或维持 [norikomaster]（[7635]）；endofnorikosexnaming（[7642]）以「二手体验」玩笑（Sana/Molly [7653]）与 drain 意象短诗（「Will we ever see where the drain leads, I wonder?」[7861]-[7863]）收尾——drain 与 spring4 的红发下水道意象（[6353]）构成同一隐喻系统的两极。
 
-1. **前性行为阶段**：干磨（Halloween 及此前）、教室课桌角的自慰幻想（[2438]-[2443]）、"Onii-chan" kink 的自觉化（[883]）。
-2. **初夜三部曲**：手指→衣柜中断→温泉旅馆未遂→安全屋完成（norikospring4→5），单次时长五个小时（[7313] 侧写）。
-3. **后宫常态化**：与 Kirin 固定三人行、自称"violently bisexual and willing to engage in various threesomes...assuming that all participants consent"（[7265]）、点名最想要的对象竟是 Maya（[7268]-[7292]）。
-4. **越界幻想**：对幼年期的暗示性幻想（[8012]）、对父亲的性转嫁笑话（[973]-[974] 等，反复出现并被 Sensei 制止）、与姐姐的三人行预案（Nakayama Sister Law，[8523]-[8525]）。
-5. **身体设定**：无 gag reflex（[3442]-[3453]，香蕉事故由 Niki 处理）；hair trigger 体质（"I came so many times that I think I might actually have brain damage now"，[7650]）。
+**[TRIMMED] 段（naming 分支内约 [7422]-[7627]、[7680]-[7858] 等）** 为高密度成人内容，叙事功能上完成了三件事：确立 Noriko「无呕吐反射」这一在 invite5 被回收的身体设定（[7191]）；让 Kirin-Noriko 的友情通过共同性行为进入「brand new stage」（[7364]）；以及以 drain 诗把群交场景重新接回循环/沉沦的元层隐喻。
 
----
+**norikoinvite5（[7876]）——替代品的自觉。** 被电话召唤后，Noriko 的开场白是全线的自我画像：「I have hobbies! I like music and my brother and painting and also my brother.」（[7888]）。她声称 Sensei 在拨号时陷入「temporary stasis」、选中她只是「convenient coincidence」（[7909]-[7910]），随即把这份偶然升格为宿命控诉：「you've just got a craving for your own flesh and blood and there's nothing *I* can do about it because of the power dynamics and mutual lust at play!」（[7928]）。本段最锋利的文本是她对「替代 Niki」的主动申请：「Is it really true that she'd suck your dick every morning? Like a sexy little alarm clock?...Have you been oversleeping?...You know, just to...fix your schedule and all that.」（[7981]-[7983]）。Sensei 明确拒绝替代框架（「you don't need to *replace* anyone」[7972]），她反问「What if I *want* to, though?」（[7973]）。口交过程中她暗示曾梦见「not the same age I am now」（[8012]）的版本——童年欲望的黑暗闪回；叙述者则坦白：「I often feel as if I'm searching for a reason to die for anyone.」（[8056]）。她要求的「special」是主动索取颜射并自称「selfish act」（[8136]/[8151]），结尾以「LALALALALALALA. CAN'T HEAR YOU.」（[7934]/[8207]）拒绝一切「我们其实没有血缘」的免责声明——她要的是罪名本身。
 
-## 四、与主线／元叙事咬合点
+**prenorikoinvite6 / norikoinvite6（[8228]/[8336]）——乱伦共同体的入会仪式。** 洗脸时撞见 Ami，后者提出以舔脸代替浪费（[8268]-[8271]），并当众喊话「**DAAAAAD! CAN NORIKO HAVE PERMISSION TO LET ME LICK YOUR CUM OFF OF HER FACE?????**」（[8288]）。共浴长谈是 lust 线的意识形态总结：Ami 宣布「I'm *accepting* Ami now」（[8350]），欢迎 Noriko 进入「rotation」（[8425]）；Noriko 则完成对 Ami 的道德审判——「you're *always* doing fucked up shit like that, Ami. Like...other people suffering is just *fun* for you.」（[8448]），Ami 的回应轻飘飘得可怕：「Am I actually a *bad* person? Weird.」（[8453]）。Ami 坦承「even if I made her want to kill herself」（[8487]，指 Niki），并逼 Noriko 承认愿意与姐姐三人行（[8517]）；Noriko 随即展示早已起草好的「Nakayama Sister Law」修正案条款（禁区清单 [8523]、以及「I have been drafting this...since before Onii-chan ever even slept with me」[8525]）。事件以 Noriko 拒绝与 Ami 二人同行、Ami 的「I guess I'll just kill myself...」（[8580]）作闹剧收尾，跳转 amispring4（[8585]）——Noriko 线的终点是把自己正式接入 Ami 主导的乱伦家庭结构。
 
-三层世界观对照：恋爱表层／重置循环层／元叙事玩家层。Noriko 线提供的关键咬合证据：
+## 四、与主线/元叙事咬合点
 
-1. **【玩家层】对读者的直接发问**："(sədn)...What are some words you don't like? Tell me. I'm excited to hear them."（[366]-[380]）；sportswars2 开场旁白直接向玩家征询对 Maya 的道德判断（[4935]-[4936]）。
-2. **【玩家层】删除线潜台词群**："{s}We're stuck here.{/s}"、"{s}Nothing can be changed.{/s}"、"{s}Something is buried underneath your feet.{/s}"、"{s}Does any of this exist?{/s}"（[2597]-[2604]）——Sensei 的潜意识比他的表层意识更清楚世界的真相。
-3. **【玩家层】游戏机制自觉**："I need to grind affection points. Wait, what are affection points?"（[2556]-[2558]）及被粗体外部力量打断的句子（[2559]）——与 Io 线 affection 崩坏现象同源。
-4. **【玩家层】系统弹窗人格化**：norikoinvite3 结尾弹窗以幸灾乐祸的第二人称点评剧情（[4874]-[4877]）；norikospring1 结尾弹窗直接下达指令式嘲讽 "*Also, she is wrong! Do not have hope! Do not pass Go! Do not collect $200! Go home, cum in a sock, then forget this ever happened!*"（[5516]-[5523]）——**系统在阻止玩家对 Maya 抱有希望**，反向坐实 hope 的危险性。
-5. **【重置循环层】名字不存在于物理世界**：ID 下落不明、所有邮件只印姓氏（[3659]-[3661]），Noriko 指出这在逻辑上不可能（[3662]-[3664])；"It's the first thing I heard when I woke up"（[3674]）暗示"苏醒"即本次循环起点；知情者名单仅 Niki 与 Otoha（[3611]）。
-6. **【重置循环层】时间异常实证**：三十秒/十分钟的错位（[2186]/[2218]-[2222]）；多次"回过神来已在别处"的瞬移（[320]-[321]、[1765]-[1766]、[3950]-[3953]、[7909]）。
-7. **【重置循环层】跨时间线誓约**："if there are other timelines out there... In every life, I will see to this."（[6899]-[6903]）——Sensei 首次以"每一世"为单位对单一角色立誓，且明确提及"Maya 曾经梦想的那些世界"。
-8. **【重置循环层】deceased girlfriend(?)**：[5221]——Sensei 有过一位"已故女友（存疑）"，其对 Kirin 的恐惧源于 blackout 与此人偏见。身份未明（待核：是否为某条已被抹除线中的角色）。
-9. **【元叙事层】norikospring2 异空间梦境**：广播宣称"You are happy here. There is no reason for you to leave."（[5752]）；"Heaven is a classroom and God is the chalkboard"（[5879]）与 Io 线 iospring8 的巨型屏幕/神格旁白互证；"New world." 三连宣言（[5928]-[5930]）指向重置；six 的 hex 解码为 "you aren't meant to be here"（[5959]）——**Noriko 被某个系统级存在判定为闯入者**。梦醒后弹窗加的是 *Nao-chan* 的好感度（[5996]），且梦的开端正是 Noriko 主动接近 Nao（[5603]-[5675]）：Nao 很可能是该空间的锚点或诱饵（待核）。
-10. **【恋爱表层→循环层】Niki 的偶像面具**：电视采访中否认过去的自己与那位"男人"存在（[3000]-[3004]），合同条款禁止触及过去（[3017]）——表层角色的"人设"实为防止真相泄露的封印装置。
-11. **【循环层】记忆可逆性的民间证据**：Noriko 的"记忆回流论"贯穿全线（[659]-[660]、[2379]、[5452]-[5458]），甚至反过来给 Sensei 希望："I know just how scary the thought of someone losing precious memories can be, but I also know now that it's possible to get them back!"（[5483]-[5490]）——这句话成为 Sensei 相信 Maya 仍可复原的第一缕希望（[5501]-[5503]）。
-12. **【恋爱表层】grooming 史实**：Niki 指控"when *you* were the one being groomed"（[7100]）——Akira 少年被成年女性（疑似 Sekai，与 Io 线互证，待核）诱奸的设定获得第二独立信源。
-13. **【恋爱表层】Ami 预言**："whether or not that love will become too much for you one day...that's a story for another-"（[1908]-[1913]）——被打断的半句指向 Ami 线后续重大揭露。
+**重置循环层的证人。** Noriko 是「Sensei 离开后世界微微失真」的第一报告人：「it feels like a...slightly incorrect world that we accidentally fell into when you and Ami left school...a lot of the smaller details go unnoticed by everyone but me.」（[5380]-[5383]）。她把这一感知能力用于 Maya——正是她的追问撬开了 spring1 的重置真相（[5385]-[5434]）。她的观察力（「someone who looks a little too closely at everything」[5384]）是循环层向恋爱表层渗漏的主要导管。
 
----
+**元叙事的常客。** 旁白对她的态度是全作最矛盾的：既借她之口分发希望（spring1），又立刻以系统公告将其羞辱（[5516]-[5523]）；她的创伤被折算成数值（[4886]-[4887]），她的梦境被折算成 Nao 好感度（[5996]）；sportswars2 旁白甚至直接向玩家发问「Do *you* think she's retained any of her memories? Or do you think that maybe she's kind of always just been a bitch?」（[4935]-[4936]）——把角色定性权抛给玩家的同时，也暗示 Maya 的「人设」本身是可被重写的参数。
+
+**跨角色咬合。** 对 Maya：rival、童年旧识、性侵知情者与共情者，sportswars2 是 Maya 线最重要的外部视角；spring2 梦境中 Maya 的 blackout sex 广播与 six 的登场把 Noriko 线接入元叙事主线。对 Niki：从「主妇幻想」的 Taco Tuesday 二重奏（[5125]-[5143]）到 spring5 的当众背叛，Niki 的崩塌是 Noriko 登顶的直接代价，invite6 里「she's struggling a *lot* right now because of something you...*we* did」（[8458]）是事后唯一的忏悔。对 Ami：从 invite4 的受害者到 invite6 的「乱伦共同体」同谋，Noriko 是少数敢当面审判 Ami 却仍被接纳的角色。对 Kirin：室友、共犯与打赌对手，三人行让这段友情「enter a brand new stage」（[7364]）。对 Sensei 兄长创伤：她是唯一的倾诉对象（[6545]），这使她从恋慕者升格为 Sensei 记忆的守墓人。
 
 ## 五、未解伏笔
 
-1. **圣诞礼物**：Noriko 从旧物中翻出的东西始终未揭晓（[2674]-[2687]）。
-2. **six 的身份**与 hex 信息的发送者（[5940]-[5959]）；鸡蛋的用途（[5753]-[5754]）。
-3. **Nao 与异空间的关系**：为何接近她会触发梦境、为何弹窗记在 Nao 名下（[5996]）。
-4. **deceased girlfriend(?)** 是谁（[5221]）。
-5. **红发救援女孩**：救出壁橱中的 Akira、后成为 Ami 生母的女性（[6521]-[6532]、[6553]）——其与"whore/grooming"指控（[7100]）是否同位，待核。
-6. **Otoha 为何知道 Akira 的真名**（[3611]）。
-7. **"story for another-"**：Ami 被打断的那半句（[1913]）。
-8. **Karin 异常**：大哭闭门不出、守着秘密（[5183]-[5195]），跨线伏笔。
-9. **rinspring3 中 Rin 的性伴侣盘点否认 Noriko**（用户提示源 [6503] 附近）——经查本 digest **不含任何 rinse 系列 label**，本文件 [6503] 位于 norikospring4 的虐待独白段，与 Rin 无关；该线索需在 Rin 线 digest 中追踪。
-10. **Noriko 幼年幻想暗示**（[8005]-[8012]）被 Sensei 掐灭后未再处理。
-11. **Niki 的走向**：撞破后拒绝与 Noriko 说话、人生重估中（[8531]-[8532]、[8457]）；Ami 的自杀威胁（[8487]/[8580]）是否会兑现。
-12. **雕塑内里**："the insides of Noriko are a lot less beautiful"（[668]-[672]）——她"完美外壳下的东西"至今只在 [1056]-[1061]（"I am not obligated to make her or anyone else happy"）等处惊鸿一瞥。
-
----
+- **「deceased girlfriend(?)」**（[5221]）：叙述者以括号悬置的已死女友身份未明，与循环层死者名单（sportswars2 中「one of those people was dead」[4919]）疑似同源。
+- **梦境的归属**：spring2 的蛋、应答式广播、7:31 PM、「DEN OF THE MOLE RAT」与 six 的 hex 码（[5731]-[5959]）均无后续解释；six 为何经由 Noriko 的梦显形、以及「Three plus three is actually six」（[5951]-[5952]）是否为解锁条件，皆未回收。
+- **Karin 的秘密**（[5183]）：Kirin 妹妹突然崩溃大哭且闭口不言，被明确标记为「personal」（[5194]），跨线悬置。
+- **童年性幻想**：invite5 中「not the same age I am now」的梦（[8012]）暗示她对 Sensei 的欲望早于成年，与 Maya 被性侵史形成未言明的对照，文本未深究。
+- **Nakayama Sister Law**：与 Niki 的三人行条款（[8523]-[8525]）在 Niki 决裂（[8531]）后成为死档，Niki 线修复与否决定其能否激活。
+- **「In every life」誓言**（[6899]-[6902]）：Sensei 承诺在每个时间线找回 Noriko，是对重置循环的直接挑战，其兑现方式未明。
+- **母亲的凝视**：其母至今盼 Sensei 归来（[6367]），若两家联姻幻想成真，母亲对乱伦关系的知情反应是未引爆的雷管。
 
 ## 六、label 总表
 
-| # | label | 源行 | 内容 |
-|---|-------|------|------|
-| 1 | convenience | [1] | 路由表 |
-| 2 | norikoinvite | [21] | 路由表 |
-| 3 | callnorikomorning | [34] | 电话路由（含无应答分支） |
-| 4 | norikomorninggen | [54] | 早餐约会；时间不可倒流独白 [99]-[103] |
-| 5 | norikoafternoongen | [116] | 午后散步（素食寿司） |
-| 6 | callnorikoafternoon | [172] | 电话路由 |
-| 7 | callnorikonight | [200] | 夜间电话路由 |
-| 8 | norikogennight | [218] | 夜间探班路由 |
-| 9 | norikoinvitegen | [234] | 通用到家邀请（[norikomaster] 态） |
-| 10 | norikoinviteaff | [274] | 同床纯睡眠；"仿佛躺在 Niki 身旁" [283] |
-| 11 | conveniencegen | [315] | 通用便利店；瞬移开头 [320]-[321] |
-| 12 | convenience1 | [354] | 旧区重逢主事件；(sədn) 词条 |
-| 13 | convenience5 | [690] | Onii-chan kink 萌芽；lust name 伏笔；Nodoka 提议 |
-| 14 | norikoinvite1 | [1172] | 首次到家；Niki 五年恋情曝光；Maya 备用钥匙突袭 |
-| 15 | norikoinvite2 | [1711] | 天空独白"wishing well"；pizza rolls 分支 |
-| 16 | norikospecial20 | [1790] | 万圣节余波；黑化自白；Ami"too much"预言；街头道歉；Imani 登场；时间异常 |
-| 17 | norikodorm20 | [2289] | 旗袍之夜；affection points 觉察；删除线独白；圣诞礼物伏笔 |
-| 18 | convenience25 | [2747] | 三人店夜；Niki 采访切割过去；Chika 直播曝光；hopscotch |
-| 19 | norikodate30 | [3148] | love hotel 23 号房；Kirin 密谈"必须再伤害她一次" |
-| 20 | norikodorm30 | [3529] | 名字揭示（Akira Arakawa）；证件悖论；坦白 Niki |
-| 21 | norikoinvite3 | [3836] | 初夜邀约；Ami 衣柜事件；"I need you to suffer for me"；系统弹窗嘲讽 |
-| 22 | sportswars2 | [4908] | 运动会 Maya 对峙；童年闪回；Karin 异常伏笔 |
-| 23 | norikospring1 | [5213] | 春·便利店与 Yumi；deceased girlfriend(?) |
-| 24 | norikospring2 | [5544] | 春·异空间梦境（MOLE RAT／six／hex／New world） |
-| 25 | norikospring3 | [6004] | 春·温泉旅馆浴室藏人；"aunt"幻景独白 |
-| 26 | norikospring4 | [6339] | 春·安全屋夜谈；兄长虐待史首披露；俳句定情 |
-| 27 | norikospring5 | [6694] | 春·初夜完成；Niki 撞破；grooming 指控；跨时间线誓约 |
-| 28 | beachsixnoriko1 | [7212] | 夏·海滩三人行开场；sex-naming 仪式预告 |
-| 29 | norikosexnaming | [7376] | sex-naming 三分支 |
-| 30 | endofnorikosexnaming | [7642] | 三人行收束；排水口独白 |
-| 31 | norikoinvite5 | [7876] | 日常性爱邀约；幼年幻想暗示 |
-| 32 | prenorikoinvite6 | [8228] | 浴室 Ami 喜剧；童话式收尾 |
-| 33 | norikoinvite6 | [8336] | Ami 共浴谈判；rotation 宣言；自杀威胁 |
-
-> 注：norikofirstinvx（[1770] jump 目标）未收录于本 digest；norikoinvite4 由 Ami 线侧进入（本 digest 仅见 [4419] 起 Ami 主导段落，归入 Ami 线分析为宜）。
-
----
-
-## 二轮增补（原有内容，原样保留）
-
-原浅版文档不含「二轮增补」「三轮增补」等增补小节，无可保留内容。本节按规范占位说明。
+| # | label | 行号 | 阶段/性质 |
+|---|-------|------|-----------|
+| 1 | convenience | [1] | 枢纽跳转表 |
+| 2 | norikoinvite | [21] | 邀请系统门控 |
+| 3 | callnorikomorning | [34] | 晨间通话（含无接听分支） |
+| 4 | norikomorninggen | [54] | 日常·早餐 |
+| 5 | norikoafternoongen | [116] | 日常·午后 |
+| 6 | callnorikoafternoon | [172] | 午后通话 |
+| 7 | callnorikonight | [200] | 夜间通话 |
+| 8 | norikogennight | [218] | 日常·夜间 |
+| 9 | norikoinvitegen | [234] | 邀请生成 |
+| 10 | norikoinviteaff | [274] | 好感度门控 |
+| 11 | conveniencegen | [315] | 便利店通用 |
+| 12 | convenience1 | [354] | 便利店·早期 |
+| 13 | convenience5 | [690] | 便利店·中期 |
+| 14 | norikoinvite1 | [1172] | 邀请·一 |
+| 15 | norikoinvite2 | [1711] | 邀请·二（支开 Ami） |
+| 16 | norikospecial20 | [1790] | 偶像活动支线 |
+| 17 | norikodorm20 | [2289] | 宿舍·二十级 |
+| 18 | convenience25 | [2747] | 便利店·二十五级 |
+| 19 | norikodate30 | [3148] | 约会·三十级（Kirin 群像） |
+| 20 | norikodorm30 | [3529] | 宿舍·三十级 |
+| 21 | norikoinvite3 | [3836] | 邀请·三 |
+| 22 | norikoinvite4 | [4419] | 邀请·四（乱伦暴露） |
+| 23 | sportswars2 | [4908] | 运动会·Maya 对峙 |
+| 24 | norikospring1 | [5213] | 春·重置真相与希望 |
+| 25 | norikospring2 | [5544] | 春·梦境与 six |
+| 26 | norikospring3 | [6004] | 春·旅馆闹剧与 aunt 独白 |
+| 27 | norikospring4 | [6339] | 春·创伤交换（兄长自白） |
+| 28 | norikospring5 | [6694] | 春·初夜与 Niki 撞破 |
+| 29 | beachsixnoriko1 | [7212] | 海滩·三人行前奏 |
+| 30 | norikosexnaming | [7376] | 命名仪式（三分支） |
+| 31 | endofnorikosexnaming | [7642] | 命名后群交 |
+| 32 | norikoinvite5 | [7876] | 召唤·替代品自觉 |
+| 33 | prenorikoinvite6 | [8228] | 浴室·Ami 相遇 |
+| 34 | norikoinvite6 | [8336] | 共浴·乱伦共同体入会 |

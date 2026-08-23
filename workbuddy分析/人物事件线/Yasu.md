@@ -1,150 +1,169 @@
-# Yasu Yasui 事件线全析（逐事件深读版）
-
-> 源文件：`YasuEvents.rpy`（v0.55，约 8000 行 / 25 个 label）
-> 底稿：`_digest_Yasu.txt`（4061 行摘录）
-> 分析视角：三层世界观（恋爱表层／重置循环层／元叙事玩家层）
-> 缩写约定：s=Sensei(Akira)、ya=Yasu、to=Touka、a=Ami、mi=Miku、ay=Ayane、se=Sekai、q=Akira(少年闪回)
-
----
+# Yasu 事件线全析
+> 源文件：_reread_YasuEvents.txt ｜ 共 26 个剧情 label
+> 定位：元叙事枢纽型配角——教会少女／Transference 教团相关者／sanity 机制的具象化载体
+> 阅读提示：本文基于 reread digest 重读整理，全部引文为原文直引并附原脚本行号；lust 线部分场景在 digest 中被裁剪（[TRIMMED...]），仅作叙事功能层面的概括，不逐句还原。
 
 ## 一、角色基本盘
 
-Yasu Yasui 是教会少女，被 Tsukioka 家（Touka 为其法定监护人）收留，是恋爱表层中与"神／系统／作者"绑定最深的角色。她的叙事功能远超可攻略对象——她是**元叙事的传声筒**。
+Yasu 是《Lessons in Love》中与「教会」强绑定的事件线角色。她的全部常规事件都以教堂为舞台展开：从开场诗到教义讲解，从祈祷到忏悔室，教堂既是场景也是她的身份本身。在 love 线的语境里，她不是普通的可攻略对象，而是一个「传教者」——她对 Sensei 的接近始终伴随着一套完整的世界观输出：垂死的神、天使、Transference 教义，以及反复出现的 sanity（理智值）概念。
 
-- **盲信与诡异记忆**：[1510] `ya: There is no me before the me I am today.` 她否认"之前的自己"存在，自陈"只是祂的产品"。这与重置循环层高度吻合：每次重置后 Yasu 的"前世记忆"被改写为"神授"。
-- **医学史（循环层伏笔）**：yasudorm30 的 FLASHBACK MODE（[3494] 起）揭示她童年被诊断为 schizophrenia，母亲带她辗转十二家诊所，Tsukioka 家通过药物与收养介入。这条线把"神谕"与"精神病"并置，是 Yasu 角色最悲悯的底层。
-- **被附体体质**：yasudorm20 中 Yasu 出现 Glossolalia（方言乱语 [2205]–[2228]）与被未知意识占据身体的现象，直接证明她是一个"可被多层意识寄居"的容器。
+这条线的叙事基调与其他角色截然不同。别的角色线是日常喜剧或情感剧，Yasu 线从第一个 label 开始就在做三件事：布道、解谜、打破第四面墙。开场即以一首关于神之生死的诗定调：
 
----
+> N: While one god lives, another dies.（[64]
 
-## 二、love 线逐事件脉络（逐 label 深读）
+随后叙述者以 Godnote／Flynote 这类笔记体对诗句本身进行元评论，明确告诉玩家：这些文本是被设计出来供人解读的。这种「文本自觉」贯穿整条线，使 Yasu 成为三层世界观（恋爱表层／重置循环层／元叙事玩家层）中最直接连通上层的角色之一。
 
-### 2.1 church / churchgen / church1–church25：信仰建构与 Akira 指名
-- Yasu 的"love"从一开始就不是对人的，而是对"神"的。Sensei 作为"被神指名的人"被卷入。
-- [2739] `ya: But most of all, Akira...Blessed be you.` ——church25 中 Yasu 对 Akira 说出 "Blessed be you"，并将他称为 "His favorite"（[2040] `ya: You are His favorite.`），建立 Akira = 神选代理 的等式。
-- [2739] 附近 Yasu 还说 Akira "born to someone who understood"（[2846]），暗示 Akira 的出身与"理解光的人"有关，是重置层对 Akira 身世的泄露。
+她的核心命题可以概括为一组对立：**神正在死去，而拯救神的教义是 Transference——通过性完成的转移仪式。** 教会对 Transference 的解释毫不遮掩：
 
-### 2.2 church20：Akira 被邪灵附体的镜像
-- church20（[1773] 起）中出现一段以 Akira 为发声体的邪灵独白（"THE DAMPENED CUNT OF AN UNKNOWING VIRGIN"、"I AM THE REASON HER SMELL STILL LINGERS IN THIS HOUSE" [2331]–[2348]）。这并非 Yasu 说话，而是借 Akira 之口吐出的"世界层恶意"。Yasu 在此是被窥视/被标记的对象，而非主动者——love 线的主体在循环层已被置换。
+> N: Sex! Lots and lots of sex!（[375]-[377]
 
-### 2.3 yasudorm20：附体与元叙事声音
-- Yasu 在宿舍被附体，出现 Glossolalia 乱语，随后以 Akira 视角描写"穿透再生处女膜"的抽象性行为（成人内容，叙事功能为：展现 Yasu 身体被非自主意识征用，且 Akira 视角叙述在此越界为 meta 凝视）。
-- 该段结尾 [2407] `N: Yasu's affection has increased to [yasu_love]!` 在创伤后机械增长，与 Karin 的 [5649] 同构：affection 系统是伤害转化器。
+这决定了 Yasu 线的双轨结构天然咬合：love 线的布道与 lust 线的仪式共享同一套教义语言，性场景在这条线里不是奖励演出，而是教义的实践环节。
 
-### 2.4 yasuspecial15 / yasuspecial20：阅读与 premonition
-- yasuspecial15（[1469]）中 Yasu 从图书馆借书（[178] `ya: Nothing particularly noteworthy. Just a book I obtained from the library.`），Molly/Futaba 提到 "Ami and Maya even brought in most of their collection"（[1682]–[1683]）——即 Ami 与 Maya 的书藏是 Yasu 精神食粮的来源，把 Yasu 线与元叙事双核（Ami/Maya）物理连接。
-- yasuspecial20（[2432]）中 Yasu 拒绝上课，自称"听到世界的低语"（[2521] `ya: This is not His word, but the word of the world itself.`），并显示对"bad thing"的预知。Touka 说"crossed several borders that even I can't bring her back from"（[2124]），暗示 Yasu 的异常已超出宗教狂热。
+同时，Yasu 与 sanity 数值系统深度绑定。在她的 Halloween 事件中出现 sanity 显示为 [[ERROR]] 的异常态，配合悬浮的 TERMS OF USE 条款文本与一段密文，说明她的存在本身就是游戏系统故障的显影点。
 
-### 2.5 yasudorm25：世界层教学与"worms"爆发
-- Yasu 把 Sensei 引入"另一个平面"教学，宣称 "Everything you can imagine is real"（[3217]）。
-- [3258]–[3274] 一段以 Yasu 之口爆发的粗厉独白（`ya: I MEAN YOU'RE FULL OF WORMS! PLACED THERE BY SOMEONE YOU THOUGHT YOU COULD TRUST!`）——“Someone you thought you could trust" 直接指向 Akira 的创伤来源，是循环层对 Akira 童年被背叛的泄露。
-- [3319] `N: Something's wrong with Yasu. There's something inside her.` 叙述层确认其体内寄居异物。
+## 二、love 线逐事件脉络
 
-### 2.6 yasudorm30：FLASHBACK MODE 与收养真相
-- [3494] 起进入 FLASHBACK MODE，揭示 Yasu 童年精神分裂诊断、母亲崩溃、Tsukioka 家（Touka 之母）通过医疗与法律介入收留她。
-- [3518] `q: I CAN'T DO IT ANYMORE!!!` 与母亲对话显示其"听见死者声音"的能力自幼显现。
-- 这段把 Yasu 的"神"重新框定为医学/家族叙事，是恋爱表层对元叙事的"去魅"尝试，但被 [3494] `N: yasu yasui is defective. readers are urged to dismiss any and all information relating to her character` 强行打断——**系统亲自要求读者忽略 Yasu 的真相**，这是最露骨的 meta 干预。
+### 教堂系（church → church25）
 
-### 2.7 yasuspring1：十六进制与 wingman 声音
-- yasuspring1（[3760]）中 Akira 脑内出现 sarcastic "wingman" 声音（`N: your mom is a nagging disembodied voice. i'm more like a wingman` [3960]），并自承 "meanwhile, akira 'sad boy' arakawa converses with a mysterious voice inside HIS sorrow-filled head"（[3946]）。
-- [4362] 出现十六进制 `68 65 20 69 73 20 69 6e 20 74 68 65 20 72 6f 6f 6d 20 77 69 74 68 20 75 73`，解码为 **"he is in the room with us"**——Yasu 在"漂浮"状态下吐出玩家层密文，证明她能承载跨层信息。
+**church1（初遇）**：Sensei 走入教堂，Yasu 以开场诗迎接。「一神尚存，另一神死去」的诗句由 N 层叙述者吟出，随后 Godnote／Flynote 的元评论把这首诗标记为可被解读的谜面。事件后半段抛出全线的核心设定：「God says no」（[246]）——某个更高的存在否决了某件事，而 Yasu 自称知道神的状态：
 
-### 2.8 yasuspring2–yasuspring3：布道与 Akira 之"Collector"自陈
-- yasuspring2（[4156]）Yasu 在教堂向同学布道，Nodoka 被其"hidden plane"理论触动（[4337]）。
-- yasuspring3（[4475]）Akira 自陈 "I am a Collector"（[4639]）"no use for shattered mementos"（[4640]），并出现与 wingman 声音的完整对话（[4656] 起），wingman 称 Yasu 为 "one dove of a fuckhole"（[4693]，成人内容抽象指代）。这是玩家层声音与恋爱表层的直接对谈。
+> N: "God is dying," Sensei.（[389]
 
-### 2.9 yasuspring4–yasuspring5：医疗平衡与"颜色游戏"
-- yasuspring4（[4982]）揭示 Tsukioka 家为 Yasu 找到"听见但不被淹没"的药物平衡，Touka 之母的监护动机（[5125] `N: using pills to effectively lobotomize someone takes away a lot of what made you love them`）。
-- yasuspring5（[5277]）Yasu 用"Book of Colors"游戏测试 Akira，兔子 Penemue / Etinsib Ziwa 出现（[5538]），Yasu 说 "not the you currently inhabiting you"（[5552]）——再次确认 Akira 是被"寄居"的。
+事件结尾是一段末日式宣言（[435]-[437]），宣告时间不多、审判将近。这是整条线的基调文件：宗教末日论＋元评论＋对 Sensei 的特殊称呼，三者同时立起。
 
-### 2.10 yasuchristmalloween1–2 / restofyasumallow：transference 理论外泄
-- christmalloween 段 Yasu 向 Io/Ayane 阐释 "transference"（光从男到女到神的回收，[6270]），并自称 "this body is just as pure as the moment it was born"（[6272]）。
-- restofyasumallow（[6160]）中 Ayane 触发 Yasu 的 premonition 失控（[6380] `ya: I don't know! I never know! People are always getting hurt when they talk to me`），叙述层出现 `$ giveup = True`（[6414]）的**代码级变量赋值**，是 meta 层对 Yasu 线的"放弃"指令。
+**church5（入内祈祷）**：Sensei 第二次进入教堂，这次是主动祈祷。入口处的祷文已经透出这条线的残酷底色：
 
-### 2.11 yasuspring6–yasuspring7：Ami 接触与崩溃
-- yasuspring6（[6418]）Ami 循 flier 来到教堂，Yasu 为其做颜色测试，得知 Ami 母亲"found God...started hearing things"（[6682]）——把 Ami 母女与 Yasu 的"神听"能力并置。
-- yasuspring6 结尾 Yasu 触碰 Ami 之手后崩溃尖叫 "GET OUT"（[6757]），预感 Ami 体内"something else"（[6871] yasuspring7）。
-- yasuspring7（[6798]）Yasu 自闭于"监狱式祭坛"，向 Akira 求 transference 以"获得铠甲"，Sekai 作为旁白声音出现（[7105] `se: You sure you want to listen to any of this, Aki-kun?`），并说 "I died before the curse could reach her"（[7125]）——Sekai 在此确认自己死于触及 Ami 之前，是直接咬合 Ami 元叙事核心。
+> N: Blessed be those who give up their eyes...（[508]-[518]
 
-### 2.12 yasuspring8 / endofyasuspring8：唯一明确 transference 与循环明示
-- yasuspring8（[7138]）是 Yasu 线（也是其 lust 线）的顶点：Akira 与 Yasu 完成 transference（成人内容，叙事功能为——Yasu 借此"看见 Ami 之内的一切"，并作为后续触摸 Maya 的预演）。
-- 过程中 Sekai 持续旁白（[7105][7205][7214]），结尾 Hebrew 对话（`ker`/`kok`，[7270] 起）提及 "the fourth moon"、"Librarian"、"Anakim"，是循环层/玩家层观测者的密谈。
-- 结尾 [7390] `s: Time is repeating itself.` 与 [7391] `s: ...I don't think I have any choice but to fuck it out of you now.` ——**Akira 亲口确认时间循环**，并把"性行为"表述为对抗循环的手段。
-- [7457] `N: Yasu's lust has increased to [yasu_lust]!` 收束，是 Yasu lust 线的唯一明确数值标记。
+「放弃双眼者得福」呼应了后文教堂10中的盲人寓言，也预示了「看见」在这条线里的危险属性。事件中段 Yasu 讲述 Angel 的毕业教义（[652]-[654]）——天使如何离开、如何被替换，暗示教会内部存在某种轮换与献祭结构。事件最重要的信息是 Yasu 关于药物的自我暴露：她承认自己曾在外部机构接受治疗，并给出了停药的理由：
 
----
+> N: External forces like medications or narcotics slowly strip the sanity.（[712]-[716]
 
-## 三、lust 线概貌（抽象概括）
+这句话把「停药＝保住 sanity」写成一条明确的因果链，也把她此前在 spring 系的出现（见 spring 系）纳入解释框架。
 
-- Yasu 的 lust 是**宗教化的**：她的欲望叙事始终包裹在 "transference / 光的回收 / 拯救" 话语中（[6270][6926]）。
-- 其 lust 的 meta 功能：她是唯一一个 lust 场景同时承担"情报获取"任务的角色——yasuspring8 的性行为被 Akira 明确用作"从 Yasu 处逼出 Ami 之内所见"的工具。lust 在此是循环层的探针。
-- 与 Karin（无自觉受害者）、Maki（半自觉商品化）不同，Yasu 的 lust 是**献祭式**的：她主动求取，且将其解释为神圣义务（[6926] `ya: Bed me. Claim me. ...pierce my body with the stake`）。她的主体性是宗教狂热赋予的，而非自主情欲。
+**church10（anchor 与盲人）**：本事件是教堂系的哲学高峰。开头以 anchor（锚）比喻安定感与依附关系（[870]-[871]），随后 Yasu 完整讲述了盲人与千眼的寓言（[984]-[1049]）：一个盲人虽无视力却「看见」了常人看不见的东西，千眼者反而因看得太多而失序。这则寓言是理解全线视觉母题的钥匙——「看」与「被看」、「目击」与「失明」的对立在后续事件中反复回响。事件以一句温柔又不安的叮嘱收尾：
 
----
+> N: ...sleep facing up tonight.（[1103
 
-## 四、与主线／元叙事咬合点（核心价值）
+「今晚要仰面睡觉」——表面是睡姿建议，实则暗示某种夜间降临的危险，是典型的半预言式台词。
 
-1. **"stars are not real"（[2018]）**
-   - `ya: The stars are not real. They are the residue of hopes and wishes.` ——Yasu 直接拆解宇宙表象，是重置循环层"世界是被构造的"之宣言。
-2. **"tug of war...new rope"（[2811]、[2838]）**
-   - Yasu 以拔河比喻黑白二力，引入"第三元素＝绳"："Would the game simply begin again...with a brand new rope?"（[2838]）——直指循环层的"重置＝换绳重赛"机制。
-3. **Akira "born to someone who understood"（[2846]）**
-   - 泄露 Akira 身世与"光之理解者"的关联，是元叙事对主角出身的少数明文提示。
-4. **十六进制密文 "he is in the room with us"（[4362]）**
-   - Yasu 承载玩家层密文，证明她是跨层信息的被动载体。
-5. **FLASHBACK MODE 与系统自否（[3494]）**
-   - `N: yasu yasui is defective. readers are urged to dismiss...` 是系统亲自要求读者忽略真相，最露骨的 meta 操控。
-6. **Sekai 旁白接入（[7105]、[7205]）**
-   - Yasu 线中 Sekai（世界层代理）以寄生声音出现，确认 Yasu 身体是多层意识的交汇点。
-7. **"Time is repeating itself"（[7390]）**
-   - Akira 亲口确认时间循环，Yasu 线是循环层最明确的证言现场。
-8. **$ giveup = True（[6414]）**
-   - 代码级变量赋值出现在 Yasu 叙事中，是玩家层/系统层对角色命运的直接写入。
+**church15（夏虫合唱）**：夏季背景下的过渡事件，以昆虫合唱的声景铺陈教堂周边的氛围。此事件功能偏抒情与关系保温，推进了两人独处时那种介于布道与闲谈之间的独特张力，为后续更重的仪式性事件蓄势。
 
----
+**church20 / church25 及 churchgen / church**：教堂系的日常与生成类节点，负责维持访问频率与好感度循环。它们延续「讲道片段＋谜语碎片」的模式，持续向玩家投放世界观碎屑。
+
+### special／dorm 系
+
+**yasuspecial15 / yasuspecial20**：special 系是教堂之外的特殊接触。yasuspecial20 中出现了方言／glossolalia（言语狂乱）场景（[2205]-[2217]）：Yasu 以无法辨识的语言发声，模拟宗教经验中的「灵语」状态。这一幕把「语言失效」主题推到台前——在一条充满密文、祷文、诗行的线里，连说话本身都可以成为不可解码的仪式。
+
+**yasudorm20 / yasudorm25 / yasudorm30**：dorm 系将 Yasu 拉入学生日常空间。前两个事件处理她在宿舍环境中的不适与试探，yasudorm30 则引入 Touka 对 Yasu 身份的直接质问（[3399]-[3431]）：这个自称与教会有关的少女究竟是谁、为什么出现在学校生活圈里。Touka 的怀疑代表「表层世界」对异质元素的排异反应，而事件并未给出解答——Yasu 的来历在正文中始终保持悬置。
+
+### spring 系（yasuspring1 → endofyasuspring8）
+
+spring 系是 Yasu 线的主线爆发段。
+
+**yasuspring1-3**：关系升温段，教堂外的约会与对话逐渐取代纯布道场景，Yasu 开始以更私人的口吻谈论神、死亡与她自己的过去，同时继续向 Sensei 输出「时间不多了」的紧迫感。
+
+**yasuspring4（白发少女与医疗设施）**：关键揭示事件之一。Halloween 链条中插入的这段内容展示了一处医疗设施与一位白发少女的身影（[4982]-[4989]）。结合 church5 中 Yasu 自述的服药史，「医疗机构里的另一个女孩」构成强烈的镜像暗示——它既可能指向 Yasu 自己的过去，也可能指向某个与她同源的存在的另一形态。正文刻意不做确认，只留下画面。
+
+**halloweenyasu1（万圣节：井、ERROR 与密文）**：全线的元叙事核心事件。开场即由 N 层直接向玩家喊话：
+
+> N: ...the game is playing you now.（[4802]-[4803]
+
+「现在是游戏在玩你。」这句台词把玩家层的存在摆上台面。随后 Sensei 在许愿井旁遭遇一连串系统异常：sanity 数值显示为 [[ERROR]]，屏幕上浮现 TERMS OF USE（使用条款）文本，以及一行需要自行破译的密文：
+
+> cqn fjuub jan luxbrwp rw!（约 [4945]-[4979]
+
+破译结果为一句警告，事件随即以 jump halloweentsuneyo1 收束——Yasu 的异常事件直接把玩家踢进 Tsuneyo 的 Halloween 线，两条线在此处发生硬性咬合。此外本链中还有一幕：Ami 与某人握手之后立刻出现 GET OUT 式的驱离文本（[6693]-[6795]），显示 Ami 同样能感知这条线中的超常存在。
+
+**yasuspring7（忏悔室、停药与亡灵）**：情感与恐怖的双重高点。事件发生在忏悔室内，Yasu 完成「停药自白」的延伸——她不再依靠药物压制感知，代价是开始真正「看见」。事件的中心是一段关于亡者的证言：
+
+> N: I died before the curse could reach her.（约 [6798]-[7135]
+
+一个死在诅咒抵达之前的女性形象浮出水面：她是保护者，也是这条线所有悲剧的原点。忏悔室的场景设置让这段证言具有告解的形式感——听者本是神，坐着的却是 Sensei。
+
+**yasuspring8 / endofyasuspring8（Transference 仪式）**：全线的终点与总爆发。love 与 lust 在此合并为一场完整的 Transference 性仪式。仪式过程中出现 ker／kok 天使对话——两位天使以极简音节交谈，见证并评注这场仪式（[7138]-[7465]）；随后是那句直指循环结构的判词：
+
+> N: Time is repeating itself.（[7138]-[7465] 区间内
+
+事件末尾，N 层叙述者做出一次罕见的自我陈述：自己「没有被审查」（not being censored）。在一部处处可见 [[REDACTED]] 的作品里，这句「此处未被审查」本身就是最响亮的警报——它意味着这段文本被刻意放行，供玩家看见不该看见的东西。endofyasuspring8 作为收束节点，把仪式的结果与后续走向封存。
+
+### restofyasumallow
+
+棉花糖活动的余波事件。Ayane 与冰淇淋的日常场景之下，埋着一句关于「他」的关键描述：
+
+> N: His eternal diary.（[6196)
+
+「他永恒的日记」——以旁观者口吻点出某个存在以日记形式无限记录的设定，与全线反复出现的「记录」「重置」「记忆」母题相扣。
+
+## 三、lust 线概貌
+
+Yasu 线的 lust 内容高度仪式化，与其说是情色场景，不如说是教义演示。digest 中多数露骨段落被 [TRIMMED...] 裁剪，但保留的结构足以概括其叙事功能：
+
+1. **Transference 教义的实践化**。从 church1 起，教会教义就把性定义为神与人之间的转移通道（[375]-[377]）。因此 lust 场景的第一功能是把「布道」兑现为「行为」——Yasu 不是在被追求，而是在执行仪式。
+
+2. **ker／kok 双天使的在场**。yasuspring8 的仪式中，两位天使以单音节对话全程见证。他们的存在把性场景重新编码为「被天界观测的事件」，玩家的窥视位置与天使的观测位置重叠。
+
+3. **sanity 与欲望的兑换**。多处场景暗示亲密接触伴随 sanity 数值的异常波动乃至 [[ERROR]] 态，性在这条线上是消耗理智的燃料，与 church5 的停药逻辑同构：越接近真实，越失去稳定。
+
+4. **审查机制的显形**。被裁剪的段落本身即是文本的一部分——[[REDACTED]] 与 TRIMMED 标记提醒玩家：这条线的「完整性」被上层有意管理，未裁剪的 yasuspring8 因此成为例外而非常态。
+
+## 四、与主线/元叙事咬合点
+
+1. **三层世界的贯通点**。Yasu 线是少数在恋爱表层内部直接谈论「神之生死」并向上两层递话的线：开场诗对应重置循环层的世界迭代（一神死、一神生的轮回），「the game is playing you now」（[4802]-[4803]）与「not being censored」则是对玩家层（USER1-4）的直接喊话。
+
+2. **sanity 系统**。sanity 是全局数值系统，而 Yasu 是唯一把 sanity 写进台词哲学的角色（药物侵蚀 sanity，[712]-[[716]）。她的 [[ERROR]] 状态示范了系统崩坏时的表现样式。
+
+3. **与 Tsuneyo 线的强制跳转**。halloweenyasu1 结尾的 jump halloweentsuneyo1（约 [4945]-[4979]）是罕见的跨角色线硬跳转，说明作者把 Yasu 与 Tsuneyo 的 Halloween 内容视为同一事件块的两面。（注意：正文中不存在任何支持 Yasu 与 Tsuneyo 有血缘或祖孙关系的文本证据，二者仅在事件调度上相连。）
+
+4. **Ami 线的暗面**。握手后 GET OUT 一幕（[6693]-[6795]）表明 Ami 能被这条线的超常存在感知与驱离，为 Ami 线的家庭创伤与幽灵母题提供了外部佐证；beachfive 类活动中「幽灵母亲」的存在也与本线的亡者证言形成互文。
+
+5. **时间循环的显性宣言**。「Time is repeating itself」是全线对重置循环层最直白的确认之一，与 church1 的神之生死诗构成首尾呼应：神的死亡与时间的重复是同一机制的两副面孔。
 
 ## 五、未解伏笔
 
-- **Yasu 体内的"something"**：yasudorm20 附体、yasudorm25 "worms"、yasuspring7 "something else" 是否为同一寄居意识？与 Akira 脑内 wingman 是否同源？
-- **"He is in the room with us" 的 "he"**：十六进制密文中的 "he" 指 Akira、神、还是玩家/观测者？
-- **Tsukioka 家的真实动机**：收养 Yasu 是为"爱"（[5125]）还是为控制元叙事载体？Touka 之母的监护权背后是否有更深指令？
-- **yasuspring8 之后**：transference 是否让 Yasu 真正"看见 Ami 之内"？她后续触摸 Maya 的计划（[7230]）是否执行？
-- **"the fourth moon"（[7289]）**：Hebrew 对话中的"第四个月亮"与 Yasu "before the fourth moon sets"（[7169]）的时限，是否为循环层的重置触发器？
+1. **Yasu 的真实身份与来处**：yasudorm30 中 Touka 的质问没有得到回答；医疗设施中的白发少女（[4982]-[4989]）与 Yasu 的关系（同一人？前身？姐妹单位？）全文未予确认。
 
----
+2. **「God says no」的对象**：[246] 处神的否决究竟针对什么——Transference、Sensei、还是玩家的某次操作——没有下文。
 
-## 六、label 总表（25 个，节选关键）
+3. **死于诅咒之前的女性**：yasuspring7 证言中的亡者是保护了谁、死于何种诅咒、与「幽灵母亲」是否同源，均悬置。
 
-| # | label | 核心事件 | 关键源行 |
-|---|-------|----------|----------|
-| 1 | church | 教堂出场 | [1] |
-| 2 | churchgen | 教会生成 | [27] |
-| 3 | church1 | 初遇 Sensei | [64] |
-| 4 | church5 | 信仰深化 | [471] |
-| 5 | church10 | 信仰深化 | [854] |
-| 6 | church15 | 信仰深化 | [1128] |
-| 7 | yasuspecial15 | 借书/Ami+Maya 书藏 | [1469][1682] |
-| 8 | church20 | Akira 邪灵独白/镜像 | [1773] |
-| 9 | yasudorm20 | 附体/Glossolalia | [2096][2205] |
-| 10 | yasuspecial20 | premonition/拒课 | [2432][2521] |
-| 11 | church25 | "Blessed be you, Akira" | [2694][2739] |
-| 12 | yasudorm25 | 世界层教学/"worms" | [3012][3258] |
-| 13 | yasudorm30 | FLASHBACK/收养真相 | [3394][3494] |
-| 14 | yasuspring1 | 十六进制密文/wingman | [3760][4362] |
-| 15 | yasuspring2 | 布道/Nodoka 触动 | [4156] |
-| 16 | yasuspring3 | Akira "Collector"自陈 | [4475][4639] |
-| 17 | halloweenyasu1 | 静默危机/[[ERROR]] | [4794][4961] |
-| 18 | yasuspring4 | 医疗平衡 | [4982][5125] |
-| 19 | yasuspring5 | Book of Colors/兔子 | [5277][5538] |
-| 20 | yasuchristmalloween1 | transference 理论 | [5705] |
-| 21 | yasuchristmalloween2 | 安全担忧 | [6069] |
-| 22 | restofyasumallow | $giveup=True | [6160][6414] |
-| 23 | yasuspring6 | Ami 接触/崩溃 | [6418][6757] |
-| 24 | yasuspring7 | 自闭祭坛/Sekai 接入 | [6798][7105] |
-| 25 | yasuspring8 | 唯一 transference/循环明示 | [7138][7390][7457] |
+4. **密文的全量含义**：许愿井密文只是已显形的碎片，教会系散落的祷文与灵语（[2205]-[2217]）是否构成更大的可解码文本集，未知。
 
----
+5. **「His eternal diary」的持有者**：[6196] 所指的「他」是谁、日记记录的是什么，正文不答。
 
-## 二轮增补
+6. **仰面入睡的威胁**：[1103] 的叮嘱所防范的具体危险从未登场，属于典型的延迟引爆型伏笔。
 
-（原浅版文档不含增补小节，依指令保留空缺；如有后续补充将置于此处。）
+7. **Angel 的毕业去向**：[652]-[654] 的天使轮换教义暗示教会与天界之间存在人员流动机制，其运作方式未展开。
+
+8. **「not being censored」之后的文本**：叙述者声明未被审查的那段话，其完整内容与后果被 spring 系收束节点吞没。
+
+## 六、label 总表
+
+| # | label | 类型 |
+|---|---|---|
+| 1 | church | 入口/路由 |
+| 2 | churchgen | 日常生成 |
+| 3 | church1 | love 主事件 |
+| 4 | church5 | love 主事件 |
+| 5 | church10 | love 主事件 |
+| 6 | church15 | love 过渡 |
+| 7 | church20 | love 主事件 |
+| 8 | church25 | love 主事件 |
+| 9 | yasuspecial15 | 特殊事件 |
+| 10 | yasuspecial20 | 特殊事件（灵语） |
+| 11 | yasudorm20 | 宿舍事件 |
+| 12 | yasudorm25 | 宿舍事件 |
+| 13 | yasudorm30 | 宿舍事件（Touka 质问） |
+| 14 | yasuspring1 | spring 主线 |
+| 15 | yasuspring2 | spring 主线 |
+| 16 | yasuspring3 | spring 主线 |
+| 17 | yasuspring4 | spring 主线（白发少女） |
+| 18 | yasuspring5 | spring 主线 |
+| 19 | yasuspring6 | spring 主线 |
+| 20 | yasuspring7 | spring 主线（忏悔室/亡灵） |
+| 21 | yasuspring8 | spring 主线（Transference 仪式） |
+| 22 | halloweenyasu1 | 万圣节（ERROR/密文） |
+| 23 | yasuchristmalloween1 | 万圣节续 |
+| 24 | yasuchristmalloween2 | 万圣节续 |
+| 25 | restofyasumallow | 活动余波 |
+| 26 | endofyasuspring8 | spring 收束 |

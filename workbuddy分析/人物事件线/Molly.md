@@ -1,187 +1,136 @@
-# Molly 事件线全析（逐事件深读版）
+# Molly 事件线全析
 
-> 源文件：`MollyEvents.rpy` ｜ digest：`_digest_Molly.txt`（行 [1]–[7531] 全量精读）｜ 共 35 个剧情 label
-> 定位：咖啡店夜班店员、爱尔兰转学生、游戏宅与"二次元"式角色；以 RPG/恋爱模拟框架理解世界，是全作最频繁、最直白地"指认第四面墙"的角色，也是将"被游戏设定困住""我们都是主角囚徒""永远走不完的共通线"等元叙事命题说出口的核心发言人。
-> 阅读提示：Molly 的每一条感情线几乎都包裹在游戏术语里——"装备/解锁""升级/经验值""NPC/主角""共通线/路线"既是她的防御机制，也是她真实处境的精确隐喻。解读时需注意：她自认"NPC""陪伴角色"的反复声明，与 Sensei 对她"被越界对待"的行为之间，构成全作最尖锐的角色—叙事者张力之一。
+> 源文件：MollyEvents.rpy ｜ 共 31 个剧情 label
+> 定位：宅系中二的外来者——爱尔兰转学生、咖啡店店员、漫画社 D&D 主持人。她是全班最自觉的「NPC」：用游戏黑话包裹一切真实情感，把恋爱理解为「route」，把失恋理解为「debuff」。她的 love 线是一条从「自我物化」走向「主动求偶」的缓慢升级之路，而每一步升级都被元叙事层的旁白标注为玩家的又一次堕落。
+> 阅读提示：台词直引格式为 `> 前缀: 英文原文（[行号]`；mo=Molly、s=Sensei/Akira、a=Ami、h=Haruka、t=Tsuneyo、ni=Niki、w=Wakana、mod=Molly之父、N=旁白。行号为 digest 所标原 .rpy 行号。
 
 ## 一、角色基本盘
 
-- **身份/家庭**：爱尔兰裔转学生，由父亲（单亲，被 Molly 称为 "mod"，源 [7165]–[7218]）抚养长大；生母早逝，遗下大量童话/故事书（[2519]–[2522] "a large collection of storybooks and fairytales that she would read to me before she died"）。父亲经济宽裕（"your dad is loaded"，[7128]），是其游戏/手办癖好的资金来源（[4240]）。
-- **核心病理（自我定位为"NPC/陪伴角色"）**：反复声明自己不是"可攻略女主"，而是推动主角前进的工具人。最早在 [2719] "Maybe I {i}am{/i} an NPC...things progress for everyone else while I'm stuck here"；[2900] "Sir is the protagonist and I'm just a stepping stone"；[1453]–[1466] 以"向那个把工作做得很糟却让所有人稍微更好的老师学习"自况。这种自我物化与她对 2D 角色的迷恋同源（[398] "You don't choose 2D, Sir. 2D chooses you"）。
-- **符号系统**：RPG/电子游戏术语（装备、解锁、经验值、NPC、副本、团本[raid]、满级[level-cap]、满血[full rest]）、爱尔兰民间传说（fae、Tír na nÓg 青春之地、月亮迷信 [1249]–[1250]）、动漫/galgame 黑话（H-scene、nukige、fandisc [2901]）。她的"魔法"语言（圣光、Cure Wounds、Charm 法术）既是玩笑，也是与世界建立联结的真诚尝试（[2382]–[2394]）。
-- **人际网络位置**：Koi Cafe 夜班店员，与 Rin 是好友兼"宿敌"（[483] "even if we are arch nemeses...I still love you"），漫画社社长（[931] "Yours truly!"）；与 Ami 同属"被社会视为怪异"的同盟（"Cult of Molly"，[377]）；被 Haruka 收留打工，与 Tsuneyo（"Kendo Princess"）、Futaba 等组 D&D 团（[1526] 起）；被设定为全作"the nicest girl"/情感对照组，常自承"不是 Sensei 的类型"（[2572] 起）。
-- **元叙事自觉强度**：极高但来源可疑——她是真心"感知"循环，还是游戏宅口癖的溢出？digest 内她多次正面指认 Sensei 为"主角"（[1026]–[1027]）、喊出"time loop"（[673]）、以"Equipped/后期解锁"自况（[316]）。此自觉性既是角色特质，也为后续 dormwarssix12 的元对话主持（见四′）埋下伏笔。
-- **跨文化疏离**：作为爱尔兰人在日长期被"Nihongo jouzu"式刻板对待（mollyspring3，[6993]–[7108]），在家乡爱尔兰又因热衷日本文化被霸凌（[7067]–[7137]）。双重"异乡人"处境是其躲入虚构世界的根因（[7056]–[7065]）。
+Molly MacCormack 的身份底色是「永恒的异乡人」。她是爱尔兰人，在 Kumon-mi 被无数次「Nihongo jouzu desu ne」提醒自己不属于这里（[6993]、[7038]）；而在故乡爱尔兰，她同样是孤独的局外人——学校里被同学以五镑不还的小额借贷和无聊嘲讽霸凌（[7138]），回家面对空屋喊出的「Tadaima...」无人回应（[7142]）。母亲早逝，留给她的遗产是一柜子童话书和凯尔特神话信仰（[2520]-[2524]）；父亲独自将她养大，是「Are ya winning, son?」式的笨拙暖男（[7177]-[7179]）。
+
+她的一切性格机制都围绕三层防御展开：
+- **游戏化翻译**：把失眠说成「long rest 不够」（[1990]-[1991]），把心碎说成「resurrection sickness」（[2056]），把散步说成「side quest」（[2286]），把做爱说成「power-leveling」（[6436]-[6439]）。语言即护甲。
+- **中二自设**：称 Sensei 为 Supreme Overlord / Herald of the Adolescents，自称 Emerald Guardian，给 Tsuneyo 起名 Kendo Princess，给 Haruka 起名 Magistrate of Mammaries。她甚至给自己安排了一个内在人格「Siobhan」，用来解释自己脱口而出的失言（[4451]、[4459]）。
+- **NPC 自我定位**：她坚信自己是别人故事里的背景板——「What do you get for falling in love with an NPC? They never change.」（[2899]），「Sir is the protagonist and I'm just a stepping stone.」（[2900]）。这句自我认知既是笑点，也是全事件线的悲剧引擎。
+
+同时她毫不掩饰自己的欲望属性：「I'm a pervert, Sir.」是她的口头禅级别的自我宣判（[1921]、[3491]、[6421]）。她的性经验几乎全部来自想象与玩具，「most of my penetrative experience comes in the form of toys」（[6421]），这使她在 love 线中的每一次真实接触都具有「初体验」的重量。
 
 ## 二、love 线逐事件脉络
 
-**`mollycafe`**[1]：路由 label，串联 mollycafe1/5/10/15/20/25/30p1 与春/夏咖啡通用段（mollyspringcafegen、mollysummer2cafegen），是整条咖啡链的索引。
+### 电话门控（callmollymorning / afternoon / night）
+每日时段电话入口（[177]、[199]、[232]），维持日常联系感，本身无重大剧情。
 
-**`mollyinvite`**[27]：路由，分发到 mollyinvite1 / mollyinvite2 / mollyinvitegen。
+### 咖啡店阶段（mollycafe1 → mollycafe20）
+从 mollycafe1（[255]）到 mollycafe20（[1518]），咖啡店打工场景逐级推进：前期是 Molly 的职场日常与 Haruka 主雇互动，后期演变为她主持的完整 D&D 团——Rin、Ayane、Futaba、Sana、Tsuneyo 各带团角色入场（Zagull Throat Spear、Nithhala、Arborea、Urrheak、Xessaxia、Lidearel）。mollycafe15/20 中队伍在 Frostford 城休整、酒馆遭遇「 mushroom 女」敌役（[1826]-[1891]，女人当场变成蘑菇并掷 initiative）。Sensei 全程格格不入，与 Tsuneyo 有一段关于骰子的存在主义对话：「Perhaps there is a certain ingrained desire in all of us to allow chance to rule our lives?」（[1809]）。Sensei 提前退场，担心扫兴，而 Molly 送他到门口时说：「There are plenty of things I never expected to like that I absolutely love now...And I never would have known that if I didn't give them a chance.」（[1919]）——即便如此，旁白仍冷冷弹出「Molly's affection has increased」（[1962]）：她连被半途抛下都会涨好感。
 
-**`mollyinvitegen`**[35]：电话邀约通用段。Molly 接起即抛 RPG 口吻 "To what or whom do I owe the pleasure?"（[43]），Sensei 以"来做你"调侃，她回以 "It's difficult to do anyone if you can not physically touch them"（[45]）——一语成谶，预示两人关系始终卡在"语言角色扮演"与"真实接触"的夹缝。选项含 Hang Out / Cunnilingus / Headpat（[66]–[71]），表明 lust 支线从系统层就与 love 并列存在。
+### Rin 心碎之夜（mollycafe25 / mollycafe25p2）
+Rin 与他人在一起后，Molly 失魂落魄地在打烊后的店里反复擦同一块吧台（[1980]）。她先用游戏隐喻自我诊疗：「This whole thing with Rin is like a bout of resurrection sickness. For a little while, everything is going to hurt a lot more than normal.」（[2056]-[2057]）。随后 Sensei 陪她收店、送她回家，途中她在 Otoha 常坐的长椅旁举行了一场面向 fae 的祈祷仪式（[2358]-[2379]），并坦承：「I've spent most of my life talking to things that aren't really there in the hopes that...if they are, they'll know I believed in them.」（[2382]-[2388]）。
 
-**`mollyinviteaff`**[74]：选"陪伴"后的日常。Molly 用 Sensei 账号在 YouTube 评论区与人论战，并"用他的账号赞同自己的评论"（[80]–[81]），Sensei 自叹"既骄傲又失望"。结尾 "She does not masturbate this time. And I don't either. Which means that today is both successful {i}and{/i} unsuccessful at once."（[87]–[88]）——浓缩了两人关系的全部悖论：什么都没发生，所以"成功"；什么都没发生，所以"失败"。
+本段的核心是母亲的记忆。她说出 Tír na nÓg——青春永驻、无人死去的彼岸（[2508]-[2512]），「One of those people was my mother.」（[2513]），并回忆母亲留下的故事书是她「her way of communicating」（[2521]）。紧接着是全线的情感谷底：她把自己的败因归为外貌与资源分配——「If I was...prettier or...cooler like someone like Chika or Otoha...I'd have won. But I made the executive decision to put all of my stat points into categories that didn't matter as much as aesthetics.」（[2535]-[2537]）。Sensei 安慰她时，她给出全书最锋利的元叙事回答之一：
 
-**`mollynightgen2`**[107]：深夜咖啡店。Sensei 意外帮 Molly 打扫，扫了五分钟就溜走（[127] "Sorry, Molly. This is your fault for trusting me"）。Molly 被定位为"只想要公会成员"（[115]），Sensei 自认"可能对她产生了抗性"（[61]）。
+> mo: But, Sir...you {i}have{/i} to say that.
+> mo: You're the protagonist.
+> mo: It's your job to make us feel loved or wanted.（[2545]-[2547]）
 
-**`mollycafegen`**[145]：白天咖啡店。Molly 上班即在玩手机游戏（[149]），Sensei 短暂幻想辞职来夜班打工，被"最低工资"劝退（[158]）。日常感铺垫，暗示 Molly 的工作状态与自我沉浸。
+她还拒绝承认圣诞节与 Rin 的吻是初吻：「as far as I'm concerned, I still haven't had my first.」（[2582]-[2583]）——为将来把「第一次」留给 Sensei 埋下结构性伏笔。
 
-**`callmollymorning`/`callmollyafternoon`/`callmollynight`**[177]/[199]/[232]：电话分时段段。afternoon 段 Molly 以 "Top o' whatever time it is right now! The lack of sunlight has propelled my world into a never ending spiral of darkness"（[217]）自嘲，并说"gaming hours"占满全部时间（[219]–[223]）；night 段则提示她正在工作、应去 Koi Cafe（[241]–[242]）。
+### Haruka 晚宴与车内摊牌（mollycafe30p1 / p2）
+p1 以一段赤裸的叙述者「鱼钩」独白开场：他自陈只给玩家看「最重要的部分」，并用「Do you like it when I make your screen flash?」「you can always jerk off into a sock」（[2642]-[2647]）直接嘲弄观看者，署名为「One of the narrators, or Sensei, or Selebus, or a bug...or all of those things, or you.」（[2648]）。随后 Haruka 请 Molly 吃饭答谢，席间逼问 Molly 若现在要恋爱会选谁，Molly 答出「Probably...the Herald of the Adolescents...」（[2862]），随即陷入 NPC 式自我否定：「Best chance I have is to wait for a fandisc that makes all the background girls like me more appealing to the masses.」（[2901]）。旁白点题：「she got my hook caught in her mandible...Because you're the same as her. And I love the way you taste.」（[2941]-[2947]）。
 
-**`mollycafe1`**[255]：初遇深化。Molly 以 "DESTRUCTION?!"（[275]）点单，Sensei 吐槽"你还没完成点单"（[347]）。关键转折：她自陈被养母 Ms. Watabe 否定（[349]–[350] "she just wanted to die!"），并因 Ami 称 Sensei 是"全世界最好的[叔叔]"而想认 Sensei 作养父/新父亲（[364]–[369]）。随后她正面指认恋爱模拟逻辑："If Molly MacCormack is to become the lead heroine of this visual novel"（[388]），Sensei 以"我是你老师这很恶心"回避（[324]）。本 label 同时确立她"2D 优先"的宣言（[398]–[404]）与对 H-scene 的坦率（[410]–[418]），以及被父亲 disown 的玩笑式自贬（[471]–[472]）。
+p2 送醉酒的 Haruka 回家。Haruka 在床上呓语「Just......like that.........Tsuneyo.....」（[3117]），泄露了另一条暗线。之后车内，Molly 迎来全线第一次真正的摊牌：「Sir, answer me honestly- If I were to make a move right now, how would you react?...Because I'm going to. And this is the part where you make a decision that changes the rest of our relationship.」（[3204]-[3208]）。选项赫然是 *OPT: Rape her（[3215]）——拒绝分支里 Sensei 逃下车，留下 Molly 独白「Can't you see this is exactly what I meant when I put you before everyone else?」（[3238]），而 Sensei 用一连串自我开脱说服自己：「She doesn't know what she wants. She's just a hormonal teenage girl.」（[3251]-[3253]），最终「The hook under my desk reels me back to safety...I end the night by jerking off into an orange sock.」（[3272]-[3273]）。
 
-**`mollycafe5`**[537]：关系升温。Molly 在角落打音游（[557]–[568]），被 Sensei 吓一跳后抛 "I used 'Detect Thoughts' on you"（[607]）——Sensei 内心补 "我刚目睹一个女孩重置了世界，所以不排除真有魔法"（[612]），暗示 Molly 的"魔法"口吻在循环世界观下并非纯玩笑。她喊出经典元叙事句：
-> mo: This game is too hard! How do I escape the time loop?! Where is the walkthrough?!（[672]）
-Sensei 装傻（[673]）。随后她提出著名"自动扶梯人生哲学"（[706]–[715] "THE WORLD IS MY STAIRCASE!"），并以 "contract"（契约/路线合约）绑定 Sensei（[384]–[388]）。结尾 Sensei 罕见地承认 "I'm happy to have met you too, Molly"（[816]），Molly 的 affection 首次显著上升。
+### 试衣间与电车（mollydate35p1 / p2）
+次日 Molly 用一通魔兽世界黑话电话强行重启关系（[3311]-[3333]），拉 Sensei 陪同买cosplay服装，逻辑荒谬却严密：「The fact that you are so wholly opposed to physical contact with me at this point makes you the perfect dressing room partner, Sir!」（[3376]）。她甚至预先豁免一切：「But, on the off chance you do [hurt me], I consent to everything. Now, no one has to feel guilty if anything does happen.」（[3419]）。试衣渐入暧昧，Sensei 承认被吸引但请求时间：「I just need a little more time, Molly.」（[3643]）。
 
-**`mollycafe10`**[849]：群像局。Rin、Futaba 到场，Molly 被揭为漫画社社长（[931]）。她当众抛出全作最核心的第四面墙宣言：
-> mo: We are {i}all{/i} but prisoners to the protagonist of the game. And that's you, Sir. You're the only male character around.（[1026]）
-并将气氛推向"nukige"（[1033]）、orgy 玩笑（[1091]–[1096]）。Molly 自评 "the lead heroine always has to leave a lasting impression"（[1169]），暴露她对"女主地位"的执念。结尾 Sensei 边走边想 "orgies the whole way home"（[1184]），喜剧外壳下是欲望与叙事者不可靠的双重信号。
+p2 电车上，两人被挤作贴身姿势，正撞中 Molly 的「终身幻想」（[3835]），她在克制与迎合之间反复横跳。到站后她躲进厕所自救，却撞上 Wakana 与 Osako 的私会现场（[3882]-[3910]），Wakana 事后对 Sensei 三次重复「I have never met anyone who goes by that name before.」（[3960]-[3962]）替她圆场。选项 *OPT: Don't do sex (Now fully implemented!)（[3854]）再次把「不做」做成一个显式功能。
 
-**`mollycafe15`**[1202]：冬日深度。Molly 在街灯下安静喝咖啡，Sensei 首次注意到"剥去中二外壳的她更自然"（[1233]–[1234]）。她谈爱尔兰新月迷信（[1249]）、对 Ami 称 Sensei 曾迷恋水兵月（[1290]），并自贬 "my face...flatter than my chest"（[1300]）。关键：她陈述"被植入此地的异乡人"处境（[1363]–[1385] "If life's a game, I'm basically playing on the hardest difficulty"），Sensei 罕见认真地肯定 "I think you're doing great"（[1405]）。Molly 追问 "Am I on the Sensei route already?! Are you in love with me?!"（[1422]），被否后缩回 "F's in chat for the Irish girl"（[1432]），并以 "opposites attract"（[1415]）自我安慰。本 label 是 love 线情感最"正常"的一段。
+### 露营来电（mollycamp1）
+Sensei 带 Ami 露营期间主动打电话给 Molly——这是他第一次主动联络她。「I just wanted to hear your voice.」（[4064]）让 Molly 一度以为是幻觉（[4071]）。他向这位「单亲父亲养大的孩子」请教如何当父亲，得到答案：「It's to be mindful of her wants and needs...and to always keep her in your heart and mind.」（[4247]）。挂断前她说「I miss you.」（[4255]），旁白以粗体大字收尾：someone who will lend me everything（[4302]）。
 
-**`mollycafe20`**[1518]：D&D 团战群像。Molly 主持团，给各人定 alignment（Sensei "neutral evil"[1541]、Tsuneyo "noodle evil"[1560]、Maya 称 Sensei "chaotic evil"[1574]）。她为让 Maya 大喊而给自己加 buff：
-> mo: I'm giving Sensei advantage on his next attack as a special bonus for getting Maya to yell.（[1582]）
-并以 GM 身份长篇复述剧情（[1635]–[1642] "Illithid Thaum 从幽暗地域涌出"）。团战中 Ayane 扒 Nithhala 口袋、Rin 让 Sana 吹骰子（[1742]–[1762]）等群像互动填充；Tsuneyo 与 Sensei 旁观并对"骰子决定命运"有哲学对话（[1808]–[1811]）。Molly 因 Sensei 提前离场而自责（[1939]–[1943]），但 affection 仍上升——她享受的从来是"被包括在叙事里"。
+### 游戏厅约会（mollyspring1）
+Sensei 提议约会弥补忽视，本段开头却是全书最露骨的内心声音内战：他刚拨通电话就说「Good morning and get ready for the penis.」（[4338]），随即斜体旁白接管——「it was a joke about that time you raped her.」（[4350]），两个声音就「谁在想谁的念头」争吵不休（[4351]-[4354]）。Molly 把这个内在声音命名为 Siobhan，Sensei 则称自己的那个为 Pareidolia（[4445]-[4451]）。约会中 Molly 说出了比任何告白都惊心的愿望：
 
-**`mollycafe25`**[1973]：失恋余波与脆弱面。Molly 机械擦同一处柜台（[1980]），自陈因 Rin 恋情而"失去睡眠"（[2018]）。她坦白曾"admiring Rin's Instagram""在储物间吻拖把"（[2043]–[2045]）的社死时刻，并以游戏术语框定情伤："This whole thing with Rin is like a bout of resurrection sickness"（[2056]）。她说出核心创伤：
-> mo: I did a horrible thing. Not just once, but twice. ... I {i}deserve{/i} to feel down right now.（[2179]–[2184]）
-Sensei 陪她走回宿舍，她途中向 "leyline/能量点"（实为便利店）许愿（[2306]），并以 "stars" 触发 Maya 梗（[2282] "Don't let Maya hear that. She'll probably quiz you on them"）。本 label 首次明确 Molly 的"自罚式归因"模式，与后文 blackout（四′）呼应。
+> mo: It is nice to be cherished, yes.
+> mo: But sometimes I wish that you'd just break me already.（[4699]、[4704]）
 
-**`mollycafe25p2`**[2330]：公园夜话与母系通信。两人走至 Otoha 玩耍的公园（[2348]），Molly 向"夜之精灵/fae"呼告（[2358]–[2379]）。Sensei 问"你都不确定它们存在，为何还说话"，她答：
-> mo: I've spent most of my life talking to things that aren't really there in the hopes that...if they {i}are{/i}, they'll know I believed in them.（[2388]）
-随后她谈家庭：生母遗下故事书，"leaving all of those books behind was just...her way of communicating"（[2521]–[2522]）——与全局"文本/诗/声音承载跨层信息"母题形成民间镜像。她自认因"把属性点加在审美以外的类别"而输给 Chika/Otoha（[2537]–[2539]），Sensei 以"你就是主角，让人觉得被爱是你的工作"反劝（[2546]–[2547]）。她回忆 Christmas 的吻"不算真正的初吻"（[2582]），并坦白仍迷恋 Rin（[2572] "A wreck I'll never get to have or hold"）。affection 上升，social link 建立。
+她自己也点破了根源：「It's because of Halloween, isn't it?...Put it behind you, Sir.」（[4713]-[4720]）。
 
-**`mollycafe30p1`**[2631]：叙事者自体指涉开场。本 label 以一段明显是"叙事者/Selebus/bug/你"的内心独白破题（[2638]–[2648] "Do you like it when I lead you into dark rooms with exchange students and award you affection points..."），直接暴露"游戏机制"框架。随后 Haruka 登场（[2681] "I own the place"），三人晚餐。Molly 自嘲 "NPC"（[2719]）、担心"挡了 Magistrate of Mammaries 与 Sensei 的友谊"（[2688]）。Haruka 暖言 "you're not an NPC...a good girl who's passionate"（[2831]），Molly 红着脸承认对 Sensei 是 "the Herald of the Adolescents"（[2862]）。她再度坍缩：
-> mo: What do you get for falling in love with an NPC? They never change. Their whole purpose in the game is to move the actual players forward.（[2899]–[2901]）
-叙事者以"hook 钩住她下颌"的元比喻收尾（[2941]–[2947]），将 Molly 的脆弱与玩家的"吞噬"欲并置。
+### 魅魔之夜（mollyspring2）
+Molly 以「Yrelyxis, Succubus of the Void」cosplay 完成 love 线首次性接触，且刻意要求口头同意：「please provide verbal consent so as to prevent any more misunderstandings.」（[4919]）——直接回应万圣节旧创。然而事后旁白急转直下：Sensei 谎称她从未这么漂亮过（[5130]），内心却承认「In the act, she was beautiful. But now...all I see is the inability to ever truly abstain from anything.」（[5133]-[5134]），并把病态审美推到极致：「How they're pretty when they're touching me- But prettier when they're locked inside of their rooms.」（[5143]-[5144]）。系统提示解锁宿舍后，旁白补刀：「Now, you can go back to hurting little girls whenever you want.」（[5160]）。Sensei 道过晚安后补了一句「Goodnight, Wilford Blackhole Hands.」（[5179]）——他的又一个内在人格获得姓名。
 
-**`mollycafe30p2`**[2961]：醉酒 Haruka 与 Molly 的告白。Molly 扛醉醺醺的 Haruka 回房，Haruka 性暗示（[2983]–[3005] "make a real woman outta ya"），Molly 以 "Light path / Dark Molly" 二选一梗拒绝趁人之危（[2991]）。独处时她对 Haruka 吐露：仍因 Halloween 事件无法与 Sensei 对视（[3103]–[3106] "ever since that Halloween it's just..."），并问 "Do you think we can ever go back?"（[3106]）。回到 Sensei 后，她正面要答案：
-> mo: If I were to make a move right now, how would you react? ... This is the part where you make a decision that changes the rest of our relationship.（[3205]–[3208]）
-选项竟含 *OPT: Rape her*（[3215]），Sensei 回避（[3220] "You never got to say no"）。Molly 崩溃 "Why do humans have to be so hard?!"（[3244]），叙事者自白 "I still want to run away"（[3265]）并以橙色袜子自慰收场（[3273]）。本 label 将 love 线推至"几乎越界却退回"的高潮，是 Molly 情感最赤裸处。
+### 学 D&D 与「变回 loser」计划（mollyinvite1）
+Sensei 主动邀请 Molly 来家教他玩 D&D（动机被自己拆穿：「Molly's cute and I want to put my penis inside of her.」[5630]，随即改口「Just kidding. I simply want her to be happy.」[5635]）。意外爆点来自 Niki：她曝光 Sensei 童年曾与自己一起看机甲番、玩勇者斗恶龙（[5792]），而 Sensei 对那段记忆一片模糊（[5817]）。Molly 因此爆发存在级震撼——「All this time, we had that thread in common...just obscured by the passage of time and the onset of shame.」（[5884] 附近原文 [5843]）——并立下新目标：「She wants to turn me back into a loser.」（[5877]）。
 
-**`mollydate35p1`**[3293]：次日电话与服装店约会。Molly 用血精灵语 Thalassian 通话（[3311]–[3316]），强行拉 Sensei 去 "Silvermoon" 试衣。她以 "你 opposed to physical contact，所以你是完美更衣室搭档"（[3376]–[3377]）自辩，却暴露 "You have caught me with my pants down, you've rejected my advances, {i}and{/i} you've ejaculated on me"（[3408]）——坐实 Halloween 越界事件的遗留。她给 Sensei 起名 "dalah'surfal"（lover，[3395]），在更衣室反复以"评级 cosplay"逼近界限（[3519]–[3525]），最后承认 "I'm a pervert, Sir. I tried"（[3619]）。affection 上升，Sensei 自承 "you're doing even more to pull me forward"（[3658]）。
+### 黄油双修（mollyinvite2）
+Molly 带「装满黄油游戏的笔记本」上门，提出 cum meter 理论（[5956]），最终幻想成真：两人边玩游戏边互相解决。本段的真正价值在 Sensei 入户前的「龙巢」独白：他把每个来访的女孩都视为闯巢的冒险者，「Dragons must eat too.」（[6018]）。事后系统提示连环轰炸，旁白总结道：「You've once more fulfilled your only purpose on this planet and ejaculated all over some helpless girl! Great job!」（[6347]），直到「Upon reaching 500 headpats, Molly MacCormack will-」被 Sensei 掐断：「Oh, fuck it. Goodnight.」（[6362]-[6363]）。
 
-**`mollydate35p2`**[3672]：地铁拥挤与边缘性接触。两人乘地铁，Molly 以 "stay still or the game ends"（[3742]）要 Sensei 静止，却被人群挤贴（[3759]–[3789]）。叙事者详尽描写被迫的生理贴近与双方 arousal（[3786]–[3805] "which is why she presses back again with more fervor"）。到站后 Molly 逃入洗手间"自解难堪"（[3835]–[3851]），撞见 Wakana 与 Osako（[3888]–[3904] "Neither of us were ever here"）。Wakana 追问 Molly 时诡异否认 "I have never met anyone who goes by that name before"（[3962]），与全局"被抹除/记忆操作"母题互证。Molly 红着脸回来，Sensei 自白 "one more dark room and one more push away from giving her as many [orgasms] as her heart desires"（[3979]）。
+### 森林与命名（beachsixmolly1 / mollysexnaming / endofmollysexnaming）
+海滩篇后续：Molly 把野外性爱设计成「Mystical Breeding Forest」NPC 循环台词剧（[6770]-[6788]），Sensei 则要接受命名小游戏——输入 Rin 会引发她的慌乱（[6505]-[6519]），默认解是称呼 [mollymaster]（[6747]-[6758]）。性爱被明确定义为「power-leveling」：「We're going to max out your sex level or whatever.」（[6439]），其动力是 Sensei 要「make you feel every last bit of that [rough month]」（[6423]）。
 
-**`mollycamp1`**[3999]：露营夜电话。Sensei 在露营中致电 Molly（Ami 不在场），她以 D&D 团术语接话（[4043]–[4059] "corrupted blood...the entire world needed to be reset"）。Sensei 坦白 "I just wanted to hear your voice"（[4064]），Molly 脸红（对 Tsuneyo 称 "aroused or embarrassed"，[4078]）。她追问 Sensei "regaining some sort of normalcy in your life"（[4158]），并分享单亲父教养经验（[4247] "be mindful of her wants and needs"）。结尾叙事者定调：
-> N: ...Or, in Molly's case — {b}someone who will lend me everything{/b}（[4288]–[4289]）
-呼应 Molly"借出一切"的陪伴者本质。
+### 身世回溯与猫娘同盟（mollyspring3 / mollyspring4）
+mollyspring3 是全线的世界观扩容：前半段闪回爱尔兰校园——被同学围观便当、被指「又把卡通黄漫带来学校」（[7099]）、借钱不还的伪友谊（[7128]-[7131]）；后半段与 Ami 逛内衣店遭店员系统性种族微歧视（[6993]-[7052]）。父亲线在此完成最温柔的一笔：「You'll always be my heroine, Molly. No matter where the wind takes you.」（[7218]），而 Molly 的回答是预言：「I'm hoping for a route with a lot less consanguinity and a lot more catgirls.」（[7219]）——回到现实她感叹「Yet, somehow, I have ended up with both.」（[7225]）：她身边恰好站着一个乱伦系的猫娘 Ami，和一个准父辈的 Sensei。
 
-**`mollyspring1`**[4323]：电话中的"叙事者/声音"内战。开场即 Sensei 脑内 "divine voice" 与自身争辩（[4344]–[4354] "it was a joke about that time you raped her"），直接指认 Halloween 越界为 rape，是 digest 内最明确的定性文本。Molly 以实体 "Siobhan" 对应自己的内在声音（[4451] "The entity commanding my every thought is named Siobhan"），与 Sensei 的 "Pareidolia" 形成镜像。两人"arcade 约会"，Molly 穿裙、坚称这是 date（[4543]–[4550]），并自陈 "level one when it comes to dating"（[4533]）。她吐露：
-> mo: But sometimes I wish that you'd just break me already.（[4705]）
-Sensei 问 "It's because of Halloween, isn't it?"（[4713]），Molly 答 "Put it behind you, Sir. Come back to the dorms with me"（[4720]–[4727]）——直接导向下一 label 的性支线。
+与 Ami 的电车对话触及重置循环层：她借「开新档」倾吐倦怠（[7371]-[7375]），Ami 以「It's still the same game at the end of the day, though.」（[7381]）回应；旁白则写下全文件最重要的伏笔之一：「Is there anything she can do at this point to change her fate? Or have the route and its ending already been written?...there {i}is.{/i} She just doesn't know about it yet.」（[7396]-[7399]）。结尾她对着手机里红发猫娘的照片自渎入睡（[7512]-[7515]）。
 
-**`mollyspring2`**[4746]：回宿舍与首次性接触（lust 主线之一，详见第三节）。Molly 以 Yrlexis 魅魔 cosplay 与 "Charm" 法术框定场景（[4876]–[4880]），强调 "I'd love nothing more than to suck every...last...drop"（[4977]）。结束后 Sensei 内心翻脸：
-> N: I've never been {i}less{/i} attracted to her...now, with proof of one more failure on my end painted across her face（[5132]–[5143]）
-并解锁 dorm（[5156]）。这是 love 线与 lust 线在情感层面的关键断裂点：Molly 得到"第一次"，Sensei 却加深了自我厌恶。
-
-**`mollylust10`**[5204]：性群像段（含 Futaba 敲门、[TRIMMED 139 行露骨内容]）。Molly 在片段末以 "Malvin?" 出现（[5560]），与 Tsukioka 夫人（tb，[5574] "that very young white girl" 指 Molly 的 ahem 清嗓）同场，[TRIMMED] 段落叙事功能为"多角色性事件中的一员，Molly 作为在场参与者被点名"。成人内容一律以抽象 token 表述，不复述细节。
-
-**`mollyinvite1`**[5586]：与 Ami 同场的居家邀约。Molly 接电话即被 Sensei 称 "I needed to tap on your name...that is how phones work on planet Earth"（[5598]）。她以为 Sensei 想 ecchi，被邀来后改为一起玩 D&D（[5658]）。关键：Niki 登场，爆出 Sensei 与她童年都是 "huge dweebs"、看机甲番打 Dragon Quest（[5789]–[5792]），Molly 狂怒 "THE SUPREME OVERLORD HAD AN OTAKU PHASE AND I NEVER KNEW"（[5804]）。她立誓"把 Sensei 变回 loser/宅男"（[5865]–[5877]），affection 上升。此段坐实 Molly 与 Sensei 本有"童年宅属性"这一共同线，强化其"我们本该同类"的执念。
-
-**`mollyinvite2`**[5894]：居家色情游戏共玩（lust 主线之一，详见第三节）。Molly 带笔记本装"无数色情游戏"（[5969]），主张 "the buildup {i}is{/i} the good part"（[5983]）。两人各自动手、互相观看，Molly 坦白 "I've cum for you, Sir...Aye...you're certainly in first place now"（[6216]–[6218]）。结尾系统提示 "Molly leaves the room!...Just...not right away"（[6368]）及 lust 上升（[6357]）。情感上她确认 "I want it, Sir...I want it {i}badly{/i}"（[6219]）。
-
-**`beachsixmolly1`**[6383]：森林性约前导。Molly 以 "indie porn game NPC" 自居（[6445] "repeat the same phrase over and over as their bodies are used"），Sensei 称要 "power-level" 她（[6438]–[6443] "max out your sex level"）。她以 "Fair hero! What is your name?"（[6458]）交棒给命名 label。
-
-**`mollysexnaming`**[6465]：性场景中 Sensei 的称呼选择。先试 "Molly"（被拒，文化挪用，[6480]），再试 "Rin"（Molly 透露自己曾幻想 girl Rin 有阴茎并进入自己，[6519]），最终定名 [mollymaster]（[6747]–[6753] "You will now be referred to as [mollymaster] during most sexual dialogue"）。[TRIMMED 93 行] 为命名过程中的露骨对话，叙事功能为"确立支配—服从称呼符码"。
-
-**`endofmollysexnaming`**[6763]：森林性场景本体（lust 主线之一，详见第三节）。Molly 以 "Mystical Breeding Forest" NPC 台词循环（[6770]–[6787] "The Land of Plenty is to the east...the Dark Moors of Formalia to the west"），被 Sensei 抵树贯穿（[6798]）。[TRIMMED 65 行] 为露骨描写，叙事功能为"Molly 以性宣泄 Sensei 的负面情绪（'every last drop of negativity has been expelled from my demonic phallus'，[6951]）"。她事后昏厥、被扶起（[6949]–[6950]）。
-
-**`mollyspring3`**[6962]：双重异乡人深度剖析。与 Ami 逛成人服饰店，店员反复 "Nihongo jouzu desu ne"（[6993]–[7108]）无视 Molly 的流利日语与在日身份；闪回爱尔兰校园：她因带 bento、看 manga 被霸凌（"weeaboo""cartoon porn"，[7088]–[7137]），父亲以 meme 风格关心（"Are ya winning, son?"，[7177]）。父亲说 "You'll always be my heroine...No matter where the wind takes you"（[7193]–[7218]），Molly 回 "a route with a lot less consanguinity and a lot more catgirls"（[7219]）——与 Ami 的 incest 线形成对照式幽默。本 label 是 Molly"永远的异乡人"命题最完整的文本证据。
-
-**`mollyspring4`**[7268]：归途与"被看见"。Ami 肯定 "We {i}have{/i} accepted you...we kind of {i}need{/i} you"（[7352]–[7354]），Molly 自陈与 Ami 相似："for me, there's a cultural barrier instead of a familial one"（[7437]–[7439]）。两人谈"重开存档/new game+"隐喻（[7371]–[7383]），Molly 在车上有 "will we still be friends if I take on a bigger role"（[7454]）之问。结尾她独处自慰、想着红发猫娘与 "latest misdeed"（[7512]–[7525]），affection 与 lust 双升。情感落点是：她终于"被看见"，却仍把欲望锁回虚构。
-
-（注：digest 35 label 之外，原浅版"二轮增补"提及的 dormwarssix12 元对话与 inappropriatecontent/blackout 事件不属本 digest 范围，按指令原样保留于第四节′。）
+mollyspring4 则是一段纯粹的惩罚性元叙事：因为玩家没选和 Ami 做爱，旁白宣布「you missed another event...Way to go, loser.」（[7279]），继而质问玩家本人：「Why won't you let her be happy? She loves you so much.」（[7281]-[7282]）。
 
 ## 三、lust 线概貌
 
-Molly 的 lust 线由三段主线与若干群像性事件构成，全部以"游戏化/角色扮演"为外壳，是她处理欲望与"被允许触碰"的唯一通道。
-
-- **mollyspring2（魅魔 cosplay 口交）**[4876]–[5133]：Molly 以 Yrlexixis 虚空魅魔装束与 "Charm" 法术框定首次真实口交，强调 "consent"（[4919]–[4920] "please provide verbal consent so as to prevent any more misunderstandings"）。叙事功能：Molly 实现"第一次真实性接触"，但 Sensei 事后内心反转（[5132]–[5143]），将之读作"又一次失败/堕落"，暴露叙事者对 Molly 的物化。该段推动关系从"暧昧"跨入"肉体"，却未带来情感和解。
-- **mollyinvite2（色情游戏共玩/互慰）**[5969]–[6368]：Molly 主张 "buildup 即好 part"（[5983]），与 Sensei 互相自慰、互相观看，自称 "cum for you...in first place now"（[6218]）。叙事功能：将 Molly 的"2D 沉迷"转化为与真人的共享幻想，是她"最安全"的欲望实现形态；结尾系统正式解锁其为 Invite-Character（[6344]）。
-- **mollylust10（群像性事件之一员）**[5204]：含 [TRIMMED 139 行] 露骨内容，叙事功能为"多角色性场景中的在场参与者"，Molly 以 "Malvin?"（[5560]）被点名，并与 Tsukioka 夫人（tb）同场。成人内容以抽象 token 表述，不复述。
-- **beachsixmolly1 → mollysexnaming → endofmollysexnaming（森林性场景）**[6383]–[6951]：Molly 扮演 "Mystical Breeding Forest" 循环台词 NPC（[6770]–[6787]），被 Sensei 抵树贯穿；[TRIMMED 93+65 行] 为命名与性描写，叙事功能为"Molly 以性作为宣泄 Sensei 负面情绪（'negativity expelled from my demonic phallus'）的容器"，并确立 [mollymaster] 支配称呼符码（[6753]）。
-- **mollydate35p2（地铁被迫贴近）**[3742]–[3851]：非自愿拥挤导致的边缘性 arousal，叙事功能为"外部世界替两人打破意愿壁垒"，Molly 逃入洗手间自行解决，结构上是 lust 与羞耻的混杂物。
-
-**结构性母题**：Molly 的每次 lust 都伴随"角色扮演/游戏术语"作为心理防护层（魅魔、NPC、buildup、power-level）；她的欲望场景反复暴露"被允许触碰却不被平等爱"的处境，并多次触发 Sensei 的"自厌恶—物化"反弹（[5132]–[5143]、[6949]–[6951]）。同时，这些场景也是全作"系统异常"的窗口：mollyspring1 开场即把 Halloween 越界直呼为 rape（[4350]），将 lust 与"被越界"的创伤硬性缝合。
+lust 线由通用邀请系统与少量专属事件构成：
+- **mollyinvitegen**（[35]）：电话邀请三分支——Hang Out (Raise Affection)、Cunnilingus (Raise Lust)、Headpat（[66]-[71]），是 affection/lust 双轨的最小可见单元；headpat 支线还连接着「500 headpats 解锁某物」的长线钩子（[6362]）。
+- **mollylust10**（[5204]）：当日第四个性伴侣场景（digest 大段 TRIMMED）。可辨的功能信息：Sensei 因连续作战与脑内人格挤占而无法勃起（[5568]），Molly 以 Malvin 之名登场协助（[5560]），并与 Pareidolia 作对比（[5561]）；Tsubasa 敲门打断并以「ahem」抢戏（[5574]），末尾跳转 christmastsubasa1（[5583]），说明 lust 线同时承担向圣诞事件输送角色的管道功能。
+- **TRIMMED 段落的叙事功能**：这些被摘要省略的显式段落共同构成一种「重复消耗」结构——同一角色在不同地点、不同 cos 下重复同类行为，使 lust 数值成为可刷资源。叙事上它们的意义不在情节而在状态：证明 Sensei 已把她纳入「horny roleplay sex-friend」的固定分类（[6392]），以及 Molly 「fantasy 清单」的逐条兑现机制（如电车幻想 [3742]、双修幻想 [6067]）。
+- **命名系统**（mollysexnaming 系列）：将称呼选择权交给玩家，使 lust 行为本身变成一次角色扮演配置，是 lust 线中最接近「meta 玩具」的设计。
 
 ## 四、与主线/元叙事咬合点
 
-1. **"我们都是游戏主角的囚徒"**（[1026]）：
-   > mo: We are {i}all{/i} but prisoners to the protagonist of the game. And that's you, Sir. You're the only male character around.
-   Molly 正面指认 Sensei 为"主角"、自己与众人皆"囚徒"——核心第四面墙宣言，也是"恋爱表层"被角色自身拆穿的锚点。
-
-2. **"逃离时间循环"的玩家口吻呼救**（[672]）：
-   > mo: This game is too hard! How do I escape the time loop?! Where is the walkthrough?!
-   以玩家身份喊出 time loop 与 walkthrough，是循环层（重置/记忆抹除）在角色台词中的直接自指。
-
-3. **"equipped / 后期才能解锁"的 RPG 化自我**（[316]）：
-   > mo: I can't be equipped until much later into the game.
-   用装备/解锁术语描述自身可用性，强化"角色=游戏单位"的自我物化，亦呼应 affection 变量/解锁机制。
-
-4. **对 Maya 的战斗化调侃**（[1582] / [2282]）：
-   > mo: I'm giving Sensei advantage on his next attack as a special bonus for getting Maya to yell.
-   > s: Don't let Maya hear that. She'll probably quiz you on them.
-   将 Maya 框为"会考你的 Boss/任务发布者"，与 Maya 的"管理者/考核者"定位互证，并把"星星"作为二人共知符号。
-
-5. **生母的"故事书通信"**（[2521]–[2522]）：
-   > mo: ...I think that leaving all of those books behind was just...her way of communicating.
-   与全局"文本/诗/声音承载跨层信息"母题（voices/poems/十六进制密码）形成民间镜像——Molly 把跨层通信朴素化为"母亲留书"。
-
-6. **"NPC/陪伴角色"自我定位与恋爱表层的结构性矛盾**（[2719]、[2899]–[2901]、[2900]）：
-   > mo: Sir is the protagonist and I'm just a stepping stone. ... Best chance I have is to wait for a fandisc that makes all the background girls like me more appealing.
-   Molly 主动接受"不可攻略"位置，既是防御，也精准描述了恋爱模拟的路由结构——她自觉困在"永远走不完的共通线"。
-
-7. **叙事者自体指涉与"hook/affection 点数"框架**（[2638]–[2648]、[2941]–[2947]）：
-   mollycafe30p1 开头以 "one of the narrators, or Sensei, or Selebus, or a bug...or you" 直述游戏机制；结尾以 "hook 钩住她下颌" 的元比喻，将玩家"吞噬"欲与 Molly 的脆弱并置，咬合元叙事玩家层。
-
-8. **"Siobhan / Pareidolia"——内在声音镜像**（[4451] vs [4446]）：
-   Molly 的实体化内在声音 "Siobhan" 与 Sensei 的 "Pareidolia"（[4445]）互为镜像，暗示角色与叙事者共享"被声音指挥"的元结构，呼应元叙事层"脑内声音"母题。
-
-9. **Wakana 的"从未见过 Molly"否认**（[3962]）：
-   > w: I have never met anyone who goes by that name before.
-   与全局"记忆抹除/被操作"母题互证——Molly 作为在场角色竟被权威人物否认存在，提示其记忆/存在可能被系统性改写。
-
-10. **与 Rin 线的互证**（已知背景：rinspring3 性伴侣盘点确认 Molly [6470]–[6503]；dormwarssix12 谈存在主义漫画/续作焦虑 [4951]–[5014]）：
-   本 digest 内 mollycafe25（[2056]–[2080]）详写 Molly 因 Rin 恋情而"resurrection sickness"式情伤，mollycafe20/10 多次写二人"宿敌兼挚友"；Rin 是 Molly 情感线的核心参照物与创伤源。
-
-11. **与 Ami 线的互证**（本 digest + 已知背景）：mollyinvite1（[5586] 起）写二人同属"被社会视为怪异"同盟、Molly 立誓帮 Sensei 重拾宅属性；mollyspring3/4（[6962]–[7529]）写二人作为"文化屏障 vs 血缘屏障"的对照，Ami 肯定 Molly"被接纳"。Molly 自承对 Ami 执念的评价（见四′7）与全局 incest 线形成对照。
-
-12. **与 Tsuneyo（Kendo Princess）的互证**：mollycafe20（[1555]–[1614]）写 Tsuneyo "noodle evil" alignment、二人旁观团战；mollycamp1（[4042]–[4121]）写 Molly 与 Tsuneyo 通电话、互称 "Emerald Guardian"/"Kendo Princess"，并疑自己的"怪癖可能不是假的"（[4121]）——暗示 Molly 的"魔法/通灵"口吻在循环层下或有真实基底。
-
-## 四′、二轮增补（chap4part2 / inappropriatecontent 精读新证据，2026-08-22，原样保留）
-
-6. **dormwarssix12 元对话主持**（源 4976–5012）：公开场合直接抛出核心设定假说：
-   > mo: It's a timeloop, I tell you. And the only way out is for the main character to complete all of the routes.
-   并补充当前日常 "don't quite feel like {i}routes{/i} at all...we're all just part of a **never-ending common route** where we all gain ground little by little."（[5010]）——把全作结构总结为"永远走不完的共通线"，是 dormwarssix12 元对话扩散的核心发言人。
-7. **对 Ami 的担忧**（源 4994–4996）：Rin 警告 "don't let your passion manifest like Molly's where it ultimately consumes you and there's just nothing left at all"，Molly 自答："Honestly, I feel like **Ami's even further down that path than I am.**"——两人一致认为 Ami 的执念比 Molly 更深。
-8. **blackout 事件**（inappropriatecontent，源 17920–18030）：Molly 在 LARP 房间内失去意识醒来，Tsuneyo（"Kendo Princess"）称 Sensei（"Herald of the Adolescents"）曾"居高临下地俯视你"、被其驱离且"无法说话"；Molly 完全失忆："I can remember...talkin' to him outside and then...comin' in here..."、"my mind's been all sorts'a screwed up lately...Maybe it was me?"、"'Ve'eard 'bout blackout drinkin' before, but never knew it'd happen tis quickly."（[17984-17989]）——**Sensei 对失忆状态的 Molly 实施了某种越界行为，文本拒绝给出确定答案**；Molly "Not from anything I didn't do to myself, I don't think"（[17997]）的自罚式归因延续其悲剧走向。
+- **万圣节旧创**：Molly 与 Sensei 关系中始终悬着一桩「dark room」事件——他曾「趁你昏迷时占过你便宜」：「none of those people ever took advantage of you while you were unconscious in a dark room.」（[3171]）；Haruka 也提到「ever since that Halloween it's just...」（[3104]-[3105]）；Sensei 自己的版本是「the blissfully ignorant me who would have fucked her on Haruka's couch prior to our dramatic fallout two Halloweens ago.」（[3344]）。三方证词拼出一个从未正面展示的原点创伤。
+- **Rin 三角**：rinspring3 的性伴侣盘点确认了 Molly 曾是 Rin 的对象之一；dormwarssix12 中两人谈存在主义漫画与续作焦虑。本文件内，Rin 是 Molly love 线的前置伤口（mollycafe25 全段）与持续参照系（[2159]、[2565]、[3102]）。
+- **叙述者的自我暴露**：mollycafe30p1 开场的鱼钩独白（[2635]-[2649]）与 invite1 的「Just kidding」双联句（[5630]/[5635]）是元叙事层最直白的两次现身：动机被说出、随即被否认，供玩家自行裁决哪句是真。
+- **内在人格系统**：Siobhan（Molly 版）与 Pareidolia/Wilford Blackhole Hands（Sensei 版）（[4451]、[5179]、[5561]）互为镜像，暗示「脑内声音」可能是同一种世界规则的不同本地化。
+- **系统提示的武器化**：affection/lust 弹窗在关键情感节点被旁白挪用为讽刺（[1962]、[5150]-[5168]、[6344]-[6363]），mollyspring4 更直接把「错过事件」的锅甩给玩家（[7279]-[7282]）。
+- **重置循环暗示**：mollyspring3 的「新存档/已写好的结局/她还不知道方法」（[7371]-[7399]）与 mollycafe25 的 Tír na nÓg（无死之地）形成一组关于「重来」的暗语。
 
 ## 五、未解伏笔
 
-1. **Molly 的"囚徒/循环"自觉来源**（高可信）：她是真有循环感知力，还是游戏宅口癖的溢出？证据双向存在——[672]/[1026] 的直白指认 vs [612] 叙事者"大概是运气好猜中"的消解。dormwarssix12（四′6）将其升级为"公开设定假说"，但仍无系统确认。
-2. **生母遗留故事书的"通信"内容**（中可信）：[2521]–[2522] 称书是"母亲的方式"，是否隐喻 Maya/Ami 母系传递的跨层信息？与全局 voices/poems 母题的关联待核。
-3. **Molly 与"2D 吸引"的元意味**（中可信）：[398] "You don't choose 2D" 是否暗示她"知道自己是虚构角色"的某种变体？其"NPC"自陈（[2719]/[2900]）在玩家层下是否另有所指？
-4. **Halloween 越界事件的全貌**（高可信，关键伏笔）：mollyspring1 开幕即以叙事者之口定性为 rape（[4350]），mollycafe30p2（[3215] *OPT: Rape her*、[3220] "You never got to say no"）与 blackout（四′8）共同指向 Sensei 对失忆 Molly 的越界；事件被刻意留在罗生门状态。Tsuneyo "the Herald was not lying when he decided to trust you"（四′8）暗示什么待核。
-5. **Wakana 否认 Molly 存在**（中可信）：[3962] "I have never met anyone who goes by that name" 是否与记忆抹除/备份还原相关？Molly 是否曾被从某段叙事中剔除？
-6. **"Siobhan / Pareidolia" 内在声音的实质**（低–中可信）：Molly 的 Siobhan（[4451]）与 Sensei 的 Pareidolia（[4445]）是否同一类元层实体？Molly "怪癖可能不是假的"（[4121]）是否暗示她也有真实通灵/重置能力？
-7. **Molly 父亲与 "mod" 身份的延伸**（低可信）：[7165]–[7218] 父亲以 meme 风格出现，是否仅为喜剧塑造，还是与"玩家/GM"层有关联待核。
-8. **[mollymaster] 称呼符码的系统含义**（低可信）：beachsix 线确立的支配称呼（[6753]）是否在其他角色线复现，作为"玩家—角色"权力结构的通用 token？
+1. **万圣节真相**：「dark room」那晚到底发生了什么，三方均只有碎片（[3171]、[3104]、[3344]），全文未正面回收。
+2. **「改变命运的方法」**：mollyspring3 明言存在一条她尚不知晓的出路（[7398]-[7399]），指向后续章节或循环层操作。
+3. **500 headpats**：「Upon reaching 500 headpats, Molly MacCormack will-」被掐断（[6362]），解锁内容悬置。
+4. **Niki 与 Sensei 的童年**：机甲番、DQ 存档记忆卡仍在 Niki 父母家（[5818]），以及被双方紧急叫停的「Niki 卧室往事」（[5808]）。
+5. **Haruka 衣橱缺失物**：Molly 暗示从 Haruka 家拿走了东西（[3425]），配合醉后呓语 Tsuneyo（[3117]），构成 Haruka 私生活的三角疑云。
+6. **中间名**：Medb 还是 Moyra？（[2243]-[2246]）玩笑背后是对「角色档案由谁书写」的一次小规模元质询。
+7. **consanguinity 预言**：「less consanguinity and more catgirls」却「ended up with both」（[7219]-[7225]）——她对 Sensei 的感情是否正在滑向父位替代，文本刻意不结案。
 
 ## 六、label 总表
 
-mollycafe[1] · mollyinvite[27] · mollyinvitegen[35] · mollyinviteaff[74] · mollynightgen2[107] · mollycafegen[145] · callmollymorning[177] · callmollyafternoon[199] · callmollynight[232] · mollycafe1[255] · mollycafe5[537] · mollycafe10[849] · mollycafe15[1202] · mollycafe20[1518] · mollycafe25[1973] · mollycafe25p2[2330] · mollycafe30p1[2631] · mollycafe30p2[2961] · mollydate35p1[3293] · mollydate35p2[3672] · mollycamp1[3999] · mollyspring1[4323] · mollyspring2[4746] · mollylust10[5204] · mollyinvite1[5586] · mollyinvite2[5894] · beachsixmolly1[6383] · mollysexnaming[6465] · endofmollysexnaming[6763] · mollyspring3[6962] · mollyspring4[7268]
-
-（共 31 个命名 label；mollycafe[1] 与 mollyinvite[27] 为路由索引 label，合计 35 个剧情 label，与源文件头注一致。）
-
-## 二轮增补（原有内容，原样保留）
-
-（以下为原浅版"四′、二轮增补"中的 6/7/8 条，已并入上文第四节′，原样保留以符合指令"原样保留"。）
-
-6. **dormwarssix12 元对话主持**（源 4976–5012）：公开场合直接抛出核心设定假说：
-   > mo: It's a timeloop, I tell you. And the only way out is for the main character to complete all of the routes.
-   并补充当前日常 "don't quite feel like {i}routes{/i} at all...we're all just part of a **never-ending common route** where we all gain ground little by little."（[5010]）——把全作结构总结为"永远走不完的共通线"，是 dormwarssix12 元对话扩散的核心发言人。
-7. **对 Ami 的担忧**（源 4994–4996）：Rin 警告 "don't let your passion manifest like Molly's where it ultimately consumes you and there's just nothing left at all"，Molly 自答："Honestly, I feel like **Ami's even further down that path than I am.**"——两人一致认为 Ami 的执念比 Molly 更深。
-8. **blackout 事件**（inappropriatecontent，源 17920–18030）：Molly 在 LARP 房间内失去意识醒来，Tsuneyo（"Kendo Princess"）称 Sensei（"Herald of the Adolescents"）曾"居高临下地俯视你"、被其驱离且"无法说话"；Molly 完全失忆："I can remember...talkin' to him outside and then...comin' in here..."、"my mind's been all sorts'a screwed up lately...Maybe it was me?"、"'Ve'eard 'bout blackout drinkin' before, but never knew it'd happen tis quickly."（[17984-17989]）——**Sensei 对失忆状态的 Molly 实施了某种越界行为，文本拒绝给出确定答案**；Molly "Not from anything I didn't do to myself, I don't think"（[17997]）的自罚式归因延续其悲剧走向。
+| label | 原行号 | 类型/内容 |
+|---|---|---|
+| mollycafe | [1] | 咖啡店事件跳转总表 |
+| mollyinvite | [27] | 邀请入口 |
+| mollyinvitegen | [35] | 邀请三分支（Affection/Lust/Headpat） |
+| mollyinviteaff | [74] | Affection 分支（YouTube 场景） |
+| mollynightgen2 | [107] | 夜间通用 |
+| mollycafegen | [145] | 咖啡店通用 |
+| callmollymorning / afternoon / night | [177]/[199]/[232] | 时段电话门控 |
+| mollycafe1 | [255] | 咖啡店 Lv1 |
+| mollycafe5 | [537] | 咖啡店 Lv5 |
+| mollycafe10 | [849] | 咖啡店 Lv10 |
+| mollycafe15 | [1202] | 咖啡店 Lv15（D&D 团成形） |
+| mollycafe20 | [1518] | 咖啡店 Lv20（Frostford 团战、蘑菇女） |
+| mollycafe25 | [1973] | Rin 心碎之夜（fae 祈祷、Tír na nÓg） |
+| mollycafe25p2 | [2330] | 同夜下半（母亲回忆、「You're the protagonist」） |
+| mollycafe30p1 | [2631] | Haruka 晚宴（鱼钩独白、Herald of the Adolescents 告白） |
+| mollycafe30p2 | [2961] | 送醉 Haruka、车内摊牌、*OPT Rape her |
+| mollydate35p1 | [3293] | cosplay 采购、试衣间（「I consent to everything」） |
+| mollydate35p2 | [3672] | 电车幻想、Wakana/Osako 撞破 |
+| mollycamp1 | [3999] | 露营来电（「I miss you」、育儿请教） |
+| mollyspring1 | [4323] | 游戏厅约会（Siobhan/Pareidolia、「break me already」） |
+| mollyspring2 | [4746] | 宿舍魅魔 Yrelyxis（口头同意、事后幻灭独白） |
+| mollylust10 | [5204] | lust 事件（当日第四人、Tsubasa 打断） |
+| mollyinvite1 | [5586] | 上门学 D&D（Niki 曝光童年、「变回 loser」） |
+| mollyinvite2 | [5894] | 黄油双修（cum meter、龙巢独白） |
+| beachsixmolly1 | [6383] | 海滩篇森林事件（power-leveling） |
+| mollysexnaming | [6465] | 性爱称呼选择小游戏 |
+| endofmollysexnaming | [6763] | 命名结算（Breeding Forest NPC 剧） |
+| mollyspring3 | [6962] | 爱尔兰身世回溯＋Ami 同盟（「change her fate」伏笔） |
+| mollyspring4 | [7268] | 元叙事惩罚段（对玩家的质问） |

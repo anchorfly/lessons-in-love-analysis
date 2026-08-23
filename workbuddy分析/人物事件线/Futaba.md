@@ -1,131 +1,191 @@
-# Futaba Fukuyama 逐事件深读
+# Futaba 事件线全析
 
-> 源文件：FutabaEvents.rpy（约 10480 行，33 个剧情/lust label）
-> Digest：`_digest_Futaba.txt`（4957 行，全文精读完毕）
-> 定位：全作最完整的"自我厌恶→被书写→被唤醒"角色弧。她既是玩家视角外唯一系统性说出 "Nothing is real / None of you are real" 的学生，也是被 Sekai、Nodoka 的书、异空间三股元叙事力量同时"研究"的对象——她的成长线与游戏自身的故障线完全缠绕。
-
----
+> 源文件：`_reread_FutabaEvents.txt`（4956 行 digest，对应原 .rpy 行号 [1]-[10479]）｜label 数：约 35 个（library 路由 + futabainvite/futabanew 系列 + library30-50 + futabadorm 系列 + futabalust 系列 + futabaspecial60 + beachfive9 + christmas 系 + futabaspring 1-4）
+> 定位：Futaba 是全作的"身体自我厌恶"主题载体与元叙事觉醒最彻底的角色——她从被书写的角色，一路走向质疑作者（Nodoka）与直面玩家层（Sekai）的人。
+> 阅读提示：本文按 love 线主轴逐事件推进，lust 线仅做叙事功能概括。所有行号均指 digest 中的原始 .rpy 行号。
 
 ## 一、角色基本盘
 
-- **身份**：Sensei 班上的文学少女，图书馆志愿者，梦想成为作家但长期"找不到自己的声音"。与 Rin 同住宿舍（Rin 如姐妹），密友圈为 Rin/Otoha，外加外校的 Nodoka 与御宅二人组 Molly/Yasu。
-- **核心创伤**：身体畸形恐惧（body dysmorphia）+ 进食障碍史（暴食/催吐）。自认"胖、丑、不配被爱"，看镜子和影子都会恶心（[8201]）。
-- **家庭**：父母在美国（父为建筑师），独生子；第四章起彻底失联超一年（[7554][9371-9372]），成为她攒钱穿越封锁屏障去美国找父母（[9357-9362]）的动机。
-- **写作副线**：从诗歌作业 → 原创（瘸腿猫 Pedro）→ 改写《The Giving Tree》参赛，写作能力始终是她自尊的晴雨表。
-- **关键机制**：futaba_love / futaba_lust 双轨变量；多次出现 `[futabamaster]` 称谓占位符与系统文本（affection/self-esteem 数值化）。
+Futaba Fukuyama 的表层标签是"身材丰满的自卑少女"：因体型遭受长期霸凌（主要来自 Yumi），靠阅读、写作与宅文化（漫画社的 Molly/Yasu 圈子）构筑避难所。但 digest 全文显示她的核心冲突不是"胖"，而是**无法把自己纳入"被爱的可能"之中**——她在镜前崩溃（[5593]-[5595]）、在初夜前夜给 Nodoka 打电话求"把我劝回来"（[5863]-[6001]）、最终在 spring2 中坦白 "I just want it to end... I just want it to be over."（[8205]-[8210]），并描述过自杀想象。
+
+支撑她的三根柱子：
+- **Nodoka Nagasawa**：校外挚友，天才作家，从高中前就为她挡刀（[5247]-[5250]）。两人的关系是 Futaba 线最重要的平行轴——从守护到背叛再到和解，贯穿始终。
+- **Sensei**：从图书馆的写作导师开始，逐步成为性伴侣与情感依赖对象。Futaba 对他的信任以 "guide"（向导）命名（[4867]-[4873]）。
+- **Rin**：室友兼挚友，Futaba 生活秩序的一部分（"Rin would get mad" 是她放弃自杀念头的理由之一，[8248]-[8249]）。
+
+在三层世界观中，Futaba 的独特性在于：她是**唯一被元叙事实体（Sekai）直接"造访"并因此改变行为**的可攻略角色之一（另见 Tsuneyo/Uta），也是唯一一个用 "You broke the world" 直指责怪 Sensei 的角色（[9708]-[9711]）。她从恋爱表层出发，途经重置循环层（CompanyCorp 幻境），最终触及元叙事玩家层的墙。
 
 ## 二、love 线逐事件脉络
 
-### firsttimelibrary [347]
-初遇。Futaba 周末独自在图书馆做志愿，Sensei 以诗歌作业辅导接近她。她对诗中"死亡与快乐易逝"的解读显露早熟的一面，也确立"图书馆=她的领地"这一贯穿全线的空间。
+### 1. library 路由与邀约系统
 
-### chosepoem [489]
-她问 Sensei 为什么愿意像朋友一样和她相处，暴露出"不配得感"的原点。Sensei 一句 "I don't have a...girlfriend" [516] 半开玩笑地划定了关系起点。
+digest 开头的 library label 路由表（[1]）确立 Futaba 事件的模块结构。futabainvite/futabainvitegen 电话邀约（[81]-[90]）暴露了系统的另一面：邀约菜单中并列着 Cunnilingus/Thigh Job/Missionary Sex/Headpat 等 lust 选项——玩家的每一次"约会"从一开始就在 love 与 lust 双轨上滑行。这个菜单本身就是对 Sensei 与学生关系的元叙事注脚：连"牵手散步"都要和性行为放在同一张点单纸上。
 
-### futabafall [607]
-她在课上发呆走神，事后坦白自己一直在写同人小说——借别人的角色安放自己的感情。Sensei 于是布置原创写作作业逼她"发出自己的声音"。叙述中出现 "mutated reflection"（变异的倒影）概念 [802-805]，首次把她的自我形象问题写成近乎怪谈的东西。
+### 2. library20：围栏上的第三颗钉子
 
-### library10 [895]
-神秘笔记本事件：志愿台抽屉里的新笔记本中间凭空出现一段陌生故事——颠倒的房屋、"don't question Papa"、锅炉房里的腐臭。Futaba 坚决否认是自己写的 [979-1032]。这是本线最早的纯元叙事伏笔：有"另一个作者"在往这个世界里塞文本。
+library20 结尾的书店夜"约会"（[1865]-[1896]）是 love 线的奠基事件。两人逛书店、互赠书籍好感升温，叙事以 "Third nail. Fence complete."（第三颗钉子，围栏完工）作结——这是全作罕见的、明确把关系进度具象化为"施工意象"的段落。围栏（fence）在此后的文本中反复出现（Kumon-mi 的隔离墙），暗示 Futaba 与 Sensei 的关系从一开始就被框在"墙内世界"里。
 
-### library15 [1114]
-交初稿：一个女孩和瘸腿猫 Pedro 的故事。Sensei 问 "Why did you kill Pedro?" [1219]，指出她在故事里处死了替身。她也察觉稿子里被插入了"以某人为原型"的角色——写作从此成为两人互相试探的媒介。
+### 3. library30：Nodoka 登场
 
-### library20 [1309]
-午餐外出（准约会）。家庭背景展开：父母定居美国、父亲设计水族馆 [1435-1448]，她是独生女，Rin 待她如姐妹。"big brother"玩笑与她口误说出 crush [1499-1516]，关系升温。
+library30 引入 Nodoka Nagasawa（[1903]-[1929]）：Futaba 的校外好友，登场即以 "No-doka" 的谐音玩笑定调幽默感，随后一句 'I've seen her exposed breasts more times than you.' 对 Sensei 宣示主权般的亲密。这段确立了 Nodoka 的三重身份：比 Sensei 更早认识 Futaba 的人、性话题毫无禁忌的天才、以及未来"书中曝光所有人秘密"的作者。她一登场就是 Futaba 情感世界的既得利益者。
 
-### library25 [1554]
-全作级核心台词落地。谈到世界时 Sensei 说："Exactly. Nothing is real, Futaba. / Nothing is...real? / Not you, not me... Nothing." [1728-1731]。这是 Sensei 第一次对任何学生直接说破"虚无"，而对象恰是最敏感的 Futaba。结尾约定书店约会。
+### 4. library40part2：Yumi 事件——善意引发的爆炸
 
-### library30 [1899]
-Nodoka Nagasawa 登场：外校挚友、天才作家、研究 incest 与基因组学。自称双关笑话 "No-doka" [1924]，当面向 Futaba "求婚"被拒。此 label 里 Futaba 拿到 Sensei 的电话 [2070]，并暗示海滩上发生过某件事、她有不能说的秘密 [2092-2141]；"old tooth"比喻 [2179] 预言式地谈论腐坏。
+library40part2（[3642]-[4034]）是 love 线第一次重大危机。开头是一段极长的 Sensei 内心独白（[3649]-[3663]），其中 "Think of all the different iterations of me that have told her not to worry about it. Think of the ones that did."（[3651]-[3652]）罕见地让 Sensei 承认：**过去的循环里有过伤害 Futaba 的自己**。这段独白还顺带提及 Noriko（[3661]），是 Rin 线 Noriko 伏笔的交叉印证。
 
-### library35 [2270]
-Rin 与 Futaba 正面冲突：Rin 当场揭穿她的进食障碍（催吐行为），Futaba 有生以来第一次对 Rin 吼叫 [2356]。她说出 "This body deserves to be destroyed" [2496]；对照组是 Rin 自己的自残伤痕 [2470-2477]。最终 Rin 承诺保密——两人以"共守秘密"的方式和解。
+随后两人在街头偶遇情绪低落的 Yumi。Futaba 出于善意主动邀约（[3844]），又无心说了一句 "You look a lot like your mom..."（[3866]/[3890]），引爆 Yumi 的家族创伤——她将 Futaba 推上广告牌、挥拳砸墙，喊出 "I am nothing like my mother. Nothing."（[3900]-[3916]）。事后 Yumi 转头质问 Sensei："Was it a misunderstanding when you told me you wouldn't get involved anymore?"（[3962]-[3963]），暴露 Sensei 曾深度介入 Yumi 家事又承诺退出的历史。
 
-### futabainvite1 [2607]
-她第一次到 Sensei 家，名义上是给 Ami 辅导抑扬格五音步（Sonnet 18）。三人场景确立了 Ami 作为"中间人/电灯泡"的结构性位置。
+事件的余波落在 Futaba 一句轻得可怕的话上："This is just what I get for...trying to be nice to someone who doesn't want anything to do with me."（[4011]）——她的自我归因模式（坏事发生=我的错）在此完整成型。
 
-### futabainvite2 [2929]
-首次单独进入卧室。补完家庭设定：父母的公寓随旧校沉没事件失去 [3015]；Kumon-mi 曾经历战争封锁 [3053-3055]——世界观的裂缝通过闲谈渗出。
+### 5. futabanew1/2/3：写作线与三副面孔
 
-### library40 [3185]
-长事件。与母亲通话被性玩笑打断 [3239-3255]；正式向 Sensei 坦白进食障碍全貌 [3443-3448]，配"影子"隐喻 [3425-3433]。随后撞见 Yumi，Futaba 一句"你像她妈妈"引爆 Yumi 积怨 [3900-3975]，Yumi 严词警告她别介入自己的家庭——Futaba 无意中踩进 Yumi 线的雷区。
+futabanew1（[4042]-[4300]）围绕 Futaba 的小说展开。她推翻了原本"完美女主角"的设定，理由是 "All of the best protagonists are flawed."（[4115]）——她正在通过修改笔下角色来练习接纳自己的缺陷。Sensei 点破这是 "mutated reflection"（变异的自我投射，[4140]）。本段的暗线是 Sensei 的内心独白：他站在门外听她更衣时的欲望独白（[4223]-[4252]），以及 "The petals are mine to pluck as soon as the flower finishes blooming."（[4258]，花瓣归我摘）——掠夺性欲望以文学修辞包装，是 Sensei 叙事声音的典型样本。
 
-### library40part2 [3636]
-黑暗独白插曲："Think about me" [3653-3655]、Noriko 名字一闪而过 [3661]、强烈的 loops（循环）暗示 [3650-3659]。叙述者在此短暂失控，暗示 Futaba 线被某种更高层的意识旁听。
+futabanew2（[4309]-[4659]）转向日常：Yumi 在淋浴间霸凌升级，Ayane 出面解围；Futaba 向 Sensei 坦白关键往事——"Did you know I actually used to be pretty skinny?"（[4435]）她曾经瘦过，变胖之后才开始了无止境的自我厌恶，且 "even back then, I didn't believe them"（那时她就不信任何夸奖）。结尾她邀请 Sensei 放学同路，却因 Ami/Miku/Sana/Amaya 一群人围观起哄而仓皇逃走（[4621]-[4624]）——群体目光是她最深的恐惧。
 
-### futabanew1 [4039]
-她开始修改故事：给女主角主动加上缺陷——她终于学会把"不完美"写进自己的投射。夜间在宿舍外交谈收尾。
+futabanew3（[4665]-[5069]）是全作元叙事密度最高的事件之一。开头 Futaba 卡死成 T-pose 复制人、循环播放 "Let's party!"（[4694]-[4732]），Sensei 直接吐槽 "I must brute force Lessons in Love back into doing what I want it to do."（[4683]）——游戏名被角色亲口说出。幻象中 Futaba 喊出 "YOU FAVOR ME... PLUCK MY PETALS."（[4729]-[4732]），与 futabanew1 的花瓣意象呼应成谶。幻象散去后，真实的 Sensei 正处于精神低谷，深夜带 Futaba 走出宿舍，走到城市边缘的隔离墙附近。他自问自答："Are you scared of me? ... you should be."（[4846]-[4857]），而 Futaba 回答她是他的 supporting character，会以任何方式支持他（[4870]-[4873]）。她还透露高中前曾和朋友（即 Nodoka）在墙上写过名字（[4894]-[4897]）。事件以 Sensei 牵起她的手放上自己腿间、内心独白 "It will just make me a little less numb."（[5057]-[5058]）收束——他清楚这不是爱，只是麻醉。
 
-### futabanew2 [4305]
-办公室里倾诉 Yumi 在淋浴间欺凌她的事 [4374]；自嘲这是 "character development" [4453]。储物柜前偶遇 Miku/Sana/Ami/Maya，她对着众人说出 "{i}All{/i} of you..." 后落荒而逃 [4609]——差点说破"你们全都和他有一腿"。故事结尾引文是小王子式的温柔 [4639-4643]；系统提示 appetite -5 [4650]。
+### 6. futabadorm50：Nodoka 的"病毒"属性
 
-### futabanew3 [4662]
-故障大事件。Futaba 出现 T-pose 分身，喊 "Let's party!"，屏幕弹出 "A GIFT RAINS DOWN UPON YOU / YOU HAVE RECEIVED AN [[incomplete Futaba" [4688-4694]。她夜间出走，问 "Are you scared of me?" [4846]，并称 Sensei 为 "guide"（引路人）[4867-4873]。两人走到 Kumon-mi 的边界墙 [4891-4906]——世界的物理尽头。车内亲密段以 "It will just make me a little less numb" [5058] 收束：性对她首先是麻醉剂。
+futabadorm50（[5072]-[5365]）开场即是 Nodoka 开门迎客（"Papa is home." [5100]），随即展开一场关于 Yumi 殴打她的对话。Nodoka 用捕食者隐喻为自己辩护（[5131]-[5139]），Sensei 则在独白中给出对她的定性："Nodoka knows too much... like a cat dropping a dead mouse at the feet of its master"（[5204]-[5209]）——他把 Nodoka 视为一只不断往他脚边献猎物的病毒，"But I am far too afraid to remove her."（[5215]）
 
-### futabadorm50 [5072]
-Yumi 事件余波：Nodoka 被人打了但 Futaba 不知情。Nodoka 谈腐烂的心与掠夺者哲学 [5131-5164]；Sensei 内心独白 "Nodoka knows too much" [5208-5215]。Futaba 反过来替 Nodoka 辩护：若她暗中为自己复仇只会"失望"，因为那违背她的意愿 [5256-5266]；并透露 Nodoka 之母生活无法自理、Nodoka 两头奔波照顾 [5283-5286]。高潮是她脱口而出 "I lo-" 又尖叫改口 "LIKE YOU." [5312-5317]，Sensei 追问时逃走，独白承认 "I wasn't going to say it back." [5357]。另注意 [5306-5307] 出现罕见的行内叙述者 N: 发言，叙事层不稳。
+Futaba 为 Nodoka 辩护的部分揭示了重要背景：Nodaka 的"errands"其实是照顾生活不能自理的母亲（[5283]-[5286]），她是 "an extremely eccentric, socially awkward genius who has trouble empathizing and...a dysfunctional moral compass"（[5295]）。本段情感高潮是 Futaba 差点说出 "I lo—" 后当场炸毛改口 "LIKE YOU!"（[5312]-[5332]），而 Sensei 以 "What if I was going to say it back?" 戏弄后离场，独白承认 "I wasn't going to say it back."（[5357]）——他刻意悬置了她的告白。
 
-### library50 [5370]
-喜剧+转折。Sensei 发现她无视警告纸条、在值班时偷读言情小说（向 Nodoka 借的）并沉浸其中 [5512]。抢书朗读名场面后，她坦白：小说是她体验亲密关系的替代窗口，因为现实中"我不确定自己是谁" [5583-5588]。Sensei 提出角色扮演建议；她宣布 "I think I might like older men..." [5610]，并决定不再等几十年："I don't want to wait another day." [5644]。浴室口交后叙述者预告下次家访将"升级关系" [5653-5655]。
+### 7. library50：浪漫小说与身体的启蒙
 
-### futabainvite3 [5673]
-初次性行为大事件。开场即冷叙述："she is both half of my age and a student of mine" [5678]。电话中她欲言又止想问"con-"（condom），被 Sensei 故意挂断 [5713-5721]。到他家后她躲进房间换情趣内衣，全程打给 Nodoka 求救——Nodoka 电话教练式鼓励 "Futaba, you are beautiful. / It will be okay." [5874-5875]，但当她照镜子尝试接纳自己时崩溃，只说 "I just want to like myself..." [5996]。出来后谎称"忘了穿" [6023]，并请求过程不要评价她的身体 [6048]。过程中疼痛大于快感、中途昏厥 [6244]；系统结算：affection +10，self-esteem 仅 +1 [6262-6263]——数值本身就在陈述"身体给了，自我没跟上"。
+library50（[5370]-[5670]）以喜剧开场：Sensei 无视警告挪开文件夹，撞见上班时间躲起来读言情小说读到出声的 Futaba（[5421]-[5463]）。没收的书引出核心对话：Futaba 承认一年读了约五十本言情小说（[6758] 交叉印证），并说出全段最重的自白——"all of the characters in all of the books I've read know who they are while I'm still mostly...unsure about everything."（[5586]）她读书是为了"借别人的身体体验亲密"。Sensei 提出 roleplay 建议（[5595]-[5604]），Futaba 则宣布决定："if I don't force myself forward...it could take decades...And if I wait that long, I'll have wasted my entire life."（[5625]-[5627]），并当场要求去他家。事件在她为口交后仍想着"下次去你家会发生什么"中结束（[5652]-[5658]）。
 
-### futabaspecial60p1 [6680]
-时间跳跃后的日常回。电车段落：与 Molly、Yasu 购物，透露今年已读约五十本言情小说 [6758]，且刚买了 Nodoka 的新书《The Light of Last...》[6865]。回家与寄住的 Rika 斗嘴；Rika 说去过那本书的签售会，作者"长得和你二楼那个戴眼镜的朋友一模一样" [6929]——Nodoka 双重身份的侧面确认。
+### 8. futabainvite3：初夜
 
-### futabaspecial60p2 [6950]
-全线情感核爆之一：Nodoka 把他们所有人的真实经历写成了出版小说。Futaba 深夜冲去对质："I'm just a pawn you can move around in your book... You're just a character to you, aren't I?!" [7038]。Nodoka 读出书中以 Futaba 为原型的"Fubuki"段落——蝶与蛾群的寓言 [7051-7060]，以及 Nodoka 化身的渴望之光 [7066-7067]，文字极美但无法安抚。Nodoka 的辩护是"秘密是虚构重建现实的建材" [7106-7110] 和"它只是一个矩形（rectangle）" [7138]。Futaba 哭着离开："I hope you're happy, Nodoka." [7162]。
+futabainvite3（[5673]-[6281]）是 love 线的身体里程碑。电话中 Sensei 故意挂断回避 "con-"（condom）话题（[5713]-[5721]）。真正的主角却是 Nodoka——Futaba 在卧室里换情趣内衣时全程与她通话求鼓励（[5863]-[5996]），Nodoka 说出 "Futaba, you are beautiful. It will be okay."（[5874]-[5875]），并索要照片（"That lingerie is akin to a wedding dress as far as I'm concerned." [5922]）。但当 Futaba 对镜完成自我审视的独白（"I can be confident... I can be strong..." [5975]-[5979]）正要抵达高潮时，她突然挂断电话，最后一句是对自己说的："I just want to like myself..."（[5996]）。
 
-### futabaspecial60p3 [7204]
-次日在学校崩塌。她形容枯槁地把 Sensei 拉出课堂，宣布 "She knows everything. None of our secrets are safe." [7332-7334]，随即发现 Sensei 早就知情，爆发："Are all of you insane?! Are all of you just okay with this?!" [7358]。她精准指出自己是全班最容易被打击的目标 [7379-7382]，并坦承一夜读完全书、觉得被侵犯却又忍不住爱它 [7413-7416]。她问出 "Do you regret me, Sensei? Because right now, I'm regretting you." [7430-7431]，再剖白"我太早交出了太多……第一卷结束时我几乎不算人类" [7441-7444]。当 Sensei 问书写到哪里为止，她答："You wake up in a room with clocks." [7487]——全书终点是一间满是钟表的房间（主线终极谜面之一）。label 尾部是纯故障文本："FUTABA'S REQUEST IS MARKED FOR DELETION... PRAISE BE" [7494-7498]。
+进入正题前她提出唯一请求："Can you maybe not say anything about my body while we're doing it?"（[6048]-[6055]）——初夜的整个过程中，她的书包角落露出一角未穿的黑布（那件内衣，[6070]）。事毕她在昏沉中微笑入睡（[6249]-[6255]），系统提示 affection+10、self-esteem 仅 +1（[6262]-[6263]）——数字本身就是评语。
 
-### futabaspring1 [8007]
-性后夜谈。开场独白坦言"我还不懂得怎么去爱她" [8012]，并提到刚才的角色扮演中她叫他 "Daddy" [8022]。话题绕到 Ami 变成"女儿"一事，再绕到 Nodoka 绝交：Futaba 判断 Nodoka 内心悔恨但永远不会说出口，"你和她很像，都在逃避问责" [8153-8154]。随后是全线最沉重的自白：线上治疗、体形障碍 80% 康复率统计、"Am I really going to be part of the 20%?" [8195-8197]；明确说出自杀意念——"sometimes I imagine what that would be like. Or how I would do it." [8207-8208]，以及 "I love all of you guys. It's myself that I can't stomach." [8210]。Sensei 内心回应冰冷得可怕："there are just people who are meant to get lost." [8268]。
+### 9. Nodoka 之书三部曲：futabaspecial60
 
-### beachsixfutaba1 [9437]
-海滩清晨，全员喜剧闲聊反衬她的崩溃：熬夜赶西方文明史申请文书 [9517-9524]，被关心即被激怒，连环爆发——骂 Rin、骂 Otoha（提及其掌掴旧事）、骂 Ayane、骂 Tsuneyo，最后冲着所有人喊 "THIS PLACE ISN'T REAL! NONE OF YOU ARE REAL!" [9662]。她用编剧理论羞辱 Sensei："if you're scared of me...and not scared of him, that's just bad writing" [9701-9702]，宣判 "You broke the world." [9709]。离场时系统弹出 "Futaba and Rin have exited the update!" [9745]，好感结算显示 "[[REDACTED]]'s affection has increased by 0!" [9752-9753]——两个名字都被系统抹除。Rin 事后解释"她有时候会这样"，但叙述者明言这次不同 [9725-9726]。
+futabaspecial60p1（[6680]-[6947]）铺垫：Futaba 与 Molly/Yasu 同行电车，透露 Nodoka 十岁起就有作品出版（[6780]）、她今年已读五十本书、以及 Rika 无意中提到新书签售会上"那个作者长得和你二楼那位戴眼镜的朋友一模一样"（[6929]-[6930]）。
 
-### futabaspring2 [9152]
-图书馆重逢。《The Giving Tree》黑暗改写竞赛：她想写"索取之树"，让男孩复仇砍树，却写不出真正的恶 [9283-9285]——因为她本质上无法相信恶。压力源揭晓：她需要奖金"I need the money. I'm trying to go to America." [9357-9362] 去找失联一年的父母。讨论封锁屏障时她说 "Don't you want to know what's out there, Sensei?... What we're missing?..." [9382-9383]，紧接着同一段对话逐字重复一遍 [9385-9386]——脚本级的循环卡带，随后 "CONNECTION LOST" [9423]。她已能感知世界的重复，却无人可诉。
+p2（[6950]-[7201]）是对峙：Futaba 发现 Nodoka 新书《The Light of Last》以她们所有人的真实经历为蓝本，包括她本人。争吵的核心是隐私与创作的边界——Nodoka 的立场是 "They quite literally are though."（秘密就是 building blocks，[7091]）以及 "a rectangle" 论（书只是矩形，直到有人看出别的，[7137]-[7139]）；Futaba 的立场是 "Our secrets are meant to be secrets."（[7090]）与 "you're not getting it at all"（[7135]）。Nodoka 念出书中写 Futaba 的段落（第 99 页起，"Fubuki was a breath of fresh air — a lone butterfly in an eclipse of moths..." [7051]-[7060]，蝴蝶与飞蛾的意象），甚至有她自己视角的深情旁白（[7066]-[7067]）。Futaba 哭着离开（[7161]-[7162]）。
 
-### futabaspring3 [9761]
-双重现实 label。开场叙述者直接抱怨游戏结构（"remember back when the protagonist used to go to school..."）并喊出 "Oh! I wish I was reset." [9768]。她与 Maya 对谈老师失踪话题，话说到一半被掐断 [9829-9854]——场景瞬间切换为 CompanyCorp 办公室：她是毕业多年、被同事 Miles 追求、被上司呼来喝去的社畜 "Fukuyama"，满屏加粗的 BUSINESS [9882-9914]。旁白补充这个平行人生：投了三百份简历、父母死于回国航班空难 [9934-9939]。老板把她解雇，而这"老板"自称不是 Ami——是 Sekai [9973-9975]。Sekai 的训斥直指要害：她的人生无聊是因为被动（passivity）[10065]，"If you love somebody, and you're sure you love them, you can make them love you back." [10059]，并自认是教会 Aki-kun"推人"的那个人 [10068]。Futaba 认出她："You're supposed to be dead..." [10072]。临走警告："don't talk to that Maya girl anymore. She's a bad influence." [10085]。
+p3（[7204]-[7508]）是崩塌：一夜读完全书、彻夜未眠的 Futaba 第二天在课堂上把 Sensei 拉出教室，眼神空洞如死鱼（[7311]-[7316]）。她质问 Sensei 早就知道这本书为何沉默（[7345]-[7349]），随后爆发全线最长的控诉："All I did was look up to you... I had no fucking clue that you wanted me to suck your dick! And I also had no clue that I'd do it so easily, but here we are!"（[7379]-[7380]）以及对自己处境的精确诊断："I become so reliant on your existence that it's like I'm barely even human by the end of the first volume."（[7418]-[7420]）——她意识到自己在 Nodoka 书中（也在现实中）是"第一个屈服的人"。
 
-### futabaspring4 [10114]
-收束 label。开场是 Sensei 关于走钢丝的怪梦。图书馆里 Futaba 与 Nodoka 已和解到"勉强同桌"的程度 [10137]。当 Sensei 问候近况，她先用极小字号旁白说完真心话 [10199]，随即正式索爱："Also, I am in love with you. Now, say it back for I have earned it." [10219]。她援引 CompanyCorp 幻象作为筹码："我难以自爱的原因之一，就是和一个死活不肯说爱的人交往" [10250]。Sensei 说出 "Fine. I...love you." [10263]，她嫌不够真诚但接受。追问幻象老妇人身份时，Sensei 察觉那是 Sekai [10299-10304]，支开二人当面对质：Sekai 承认"闹"过 Tsuneyo（十字架情节 [10350-10351]）、声称成功率 100% [10372]；Sensei 怒斥 "Because it's not real! You're making them feel that way!" [10373]，Sekai 首次动摇："No, Aki-kun. I was the one who needed you back then." [10364-10365]，继而自问 "Maybe I really am the bad guy?" [10389]。结尾 Futaba 独白完成弧光："in this moment, I'm the closest I've ever come to actually loving myself." [10436]，并以 "Even zero is greater than negative one." [10448] 定义自己的进步观。互道 I love you 收场 [10453-10454]。
+事件的结尾是全作元叙事最冷的一笔。Sensei 问书写在哪里结束，Futaba 答："The book just...ends." "Where does it end? What's the last thing that happens?" —— "You wake up in a room with clocks."（[7474]-[7487]）随后系统文本接管叙事："FUTABA'S REQUEST IS MARKED FOR DELETION AND THE DAY COMES TO AN END. PRAISE BE."（[7494]-[7498]）——请求被标记删除，这一天由更高层的存在强制结束。
 
-## 三、lust 线概貌（抽象概括）
+### 10. futabaspring1：Daddy 游戏与自杀独白
 
-- **标准节点**：futabainvitegen 菜单（eatout/thighjob/missionary 等）、futabamorninggen2/noongen2、call 系列——早期 lust 多为"图书馆/办公室/家访"场景复用，meta 含量低。
-- **futabalust15** [3100]：与 Nodoka 的旅馆三人场景（大量裁剪），床跳比赛由 Futaba 获胜。
-- **makotofutabafuntimelustevent** [6284]：海滩上与 Makoto 的双人服务。叙述者开场即自疑 "This isn't actually happening, is it?" [6358]，怀疑这是两人的"终身捆绑策略" [6363]；结尾他发誓守密并祈祷她们忘掉细节 [6668-6669]——记忆不可靠主题的色情变体。
-- **futabalust25** [7511]：循环期。独白确立 "inescapable loop" 世界观 [7524-7525]，提及抚养"女儿"、玩沙盒城市；她试图联系父母仍失败 [7554]。
-- **christmasfutaba1intro + futabalust40** [8724]/[8842]：圣诞群像推她"主动献身"；Sensei 身边跟着修僧与雪人 Maisie Belle，处于半解离状态（"I'm here...but I'm not" [8850]）；他提醒"角落里可能有 Chika 在看，无视就好" [8877]。
-- 整体而言：Futaba 的 lust 场景反复强调"身心分离"——身体配合、大脑自我攻击（如 invite3 全程、spring1 的 "Daddy" 角色扮演），lust 数值增长从不带来 self-esteem 增长，构成对"攻略=治愈"这一 galgame 公式的持续反驳。
+futabaspring1（[8007]-[8287]）开场即交代 Sensei 已收养 Ami 为女、且刚与 Futaba 发生过扮演父女的性事（[8022]-[8023]、[8074]）。长椅夜谈中，Futaba 先以 "Love makes us do all sorts of crazy things" 为 Ami 的威胁言论辩护（[8046]-[8049]），随后话题转入她的近况：父母失联超过一年（[7554]/[8139]）、与 Nodoka 决裂后的丧失感（[8141]-[8146]）、以及最终的爆发——
+
+"I wish I had something terminal sometimes. Because at least then I'd know where things are headed."（[8201]-[8202]）
+"I just imagine what that would be like. Or how I would do it... And that calms me down a little."（[8207]-[8209]）
+"So please continue to be kind to me, as I am only reluctantly here."（[8211]）
+
+这是 Futaba 线的抑郁最低点。Sensei 问她是否打算自杀，她答 "Nah. Rin would get mad."（[8248]-[8249]）。她还反问 Sensei 会不会像"为了上一个死去的人消失三个月"那样对待她（[8231]-[8236]）——这句指向主线中被隐藏的某次死亡事件。结尾 Sensei 的独白留下巨大悬念："I found something horrible in the process. But it's one of those things you can't change."（[8272]-[8274]）
+
+### 11. beachfive9：倒转世界与"未完成的 Futaba"
+
+beachfive9（[8292]-[8721]）是 Futaba 的第一场元叙事异界之旅。沙滩排球中被球击中的 Futaba "死亡—重生"，坠入上下颠倒的镜像世界：语音播报机械地念出 "Your name is Futaba Fukuyama. You are happy here."（[8434]），要求她寻找 "The egg that will guarantee your selection"（[8445]），并警告 "There are ghosts inside this building... Do not look at them."（[8436]）。她在迷宫中遭遇无数个 "更好的 Futaba" 分身（[8501]-[8503]），与一个因"手太大、无法被完成"而被囚禁的哭泣半神对话——她安慰它 "there's nothing wrong with being a little different"（[8593]-[8609]），邀请它一起逃离（[8673]-[8675]）。这个"被造物主判定为不完整而遗弃的存在"显然是 Futaba 自我厌恶的镜像投射。结尾 Maya 化身的 "six" 出现打断一切，一句日语 "了解！家に帰ろう！"（[8715]）强制送返。
+
+### 12. christmas 系：群像中的 Futaba
+
+christmasfutaba1intro（[8724]-[8839]）展示 love 线罕见的群像喜剧面：Futaba 被 Rin/Sana/Ayane/Nodoka 集体怂恿去主动献身，却在 Sensei 因"修女 Maisie Belle 与僧侣缠身"的精神异常状态下进退维谷（[8728]-[8769]），最终 Nodoka 截胡（[8808]）。futabalust40 中 Sensei 明言 "Today is weird. Like, I'm here...but I'm not."（[8850]），并提醒 Futaba 小心 Chika 尾随（[8865]-[8877]）——Chika 的监视行为在此浮出水面。
+
+### 13. futabaspring2：《The Giving Tree Pt. II》与出走计划
+
+futabaspring2（[9152]-[9434]）回到写作线：Futaba 参加儿童书改编比赛，选择逆向改写《爱心树》为"The Taking Tree"（[9233]-[9240]）——被诅咒的树影、想砍树复仇却下不了手的男孩。她对这个故事的执念显而易见是自传性的：树=她（付出一切却被视为诅咒的存在），男孩=她想象中厌恶自己的他人。Sensei 一针见血："do you think something like this would have helped you when you were little?"（[9277]）。
+
+然后是双重爆点。其一：参赛动机是钱——"I need the money. I'm trying to go to America."（[9357]-[9362]）父母失联超一年，她要攒钱穿越隔离墙去找他们（[9372]-[9377]）。其二：对话陷入循环——她的同一句 "Don't you want to know what's out there, Sensei?... What we're missing?..." 连续出现两次（[9382]-[9386]），中间夹着 Sensei 标记为斜体的内心真实回答 "How am I supposed to respond to that when you'll just ignore anything I have to say?..."（[9395]）——**同一段对话的两个版本同时呈现**，随后 CONNECTION LOST（[9423]）断线。这是文本层面明示"玩家看到的对话并非全部真相"的最直白时刻。
+
+### 14. beachsixfutaba1：全面爆发与"You broke the world"
+
+beachsixfutaba1（[9437]-[9758]）是 Futaba 线的情绪核爆。海滩晨间，熬夜写申请文书的 Futaba 被 Rin 关心吃饭、被众人围观，积压的应激一次性引爆：她辱骂 Rin（"No wonder Otoha hit you when you did the same fucking thing to her!" [9600]）、嘲讽 Ayane（[9607]）、攻击 Otoha（"You're a fucking prodigy... Get lost!" [9648]-[9650]）、羞辱 Tsuneyo（[9659]-[9660]），最后对 Sensei 完成 total disclosure："despite having fucked me a thousand times, you still won't even say you love me! What do I have to do to become more than a convenient fucking cock-sleeve...?"（[9686]-[9687]）。
+
+紧接着文本再次异变：她的话开始出现损坏乱码（"Because if you're scared of {i}me{/i}...and not scared of {i}him,{i} that's just bad writing." [9702]），并说出全作唯一一次角色对主角的直接审判：
+
+"We are all lost. And it is your fault. You did this. You broke the world. And now you're gonna try and pick up the pieces? Don't make me laugh. I hope you fucking choke on the next tongue unfortunate enough to slither into your mouth."（[9708]-[9711]）
+
+随后 "Futaba and Rin have exited the update!"（[9745]）、两个 "[REDACTED]'s affection has increased by 0!"（[9752]-[9753]）—— affection 系统对这场爆发失效了。Sensei 的收尾独白承认："Maybe I did break the world if that's the case... The only question then becomes... When?"（[9740]-[9742]）
+
+### 15. futabaspring3：CompanyCorp 与 Sekai 的审判
+
+futabaspring3（[9761]-[10111]）是 Futaba 的第二场元叙事异界，也是 ELATION PROTOCOL 所在的主舞台。开场独白直接抱怨游戏本身："I kind of wish I was reset. THAT is what I want."（[9768]）以及嫉妒 Maya "keeps getting to have all the fun"（[9774]）。她与 Maya 的闲聊中话说到一半被掐断（[9816]-[9845]），场景瞬间切换：Futaba 变成了 CompanyCorp 的社畜 Fukuyama——毕业多年、父母死于空难（"This is a true thing that happened and not just something thrown in to make you feel worse for her." [9939]，叙述者亲自下场补刀）、被上司 q 当牛做马、拒绝同事 Miles 的邀约、最终被老板叫进办公室解雇。
+
+老板摘下面具：是 **Sekai**——顶着 Ami 的长相（"Not anymore. You're fired, actually." [9973]）。她对 Futaba 展开全作最刻薄的训话，核心判词：
+
+- "You've had opportunity after opportunity to really make yourself stick out and you've squandered every single one."（[10000]-[10001]）
+- "Ever since then, it's just been 'Woe is me...' Talk about static, right? Total snoozefest."（[10009]）
+- "If you love somebody, and you're sure you love them, you can make them love back."（[10058]-[10059]）
+- "Who gives a shit if it goes against your character if it's something that will make your character better?"（[10067]）——"character"一词的双关在这里达到元叙事顶点。
+- 还泄露了 Aki-kun（Sensei）曾"不得不推开想告白的你"的历史，且教他这么做的正是 Sekai 自己（[10068]-[10070]）。
+
+Futaba 认出这个"应该已经死了"的女人（[10071]-[10072]），Sekai 临走丢下一句 "don't talk to that Maya girl anymore. She's a bad influence."（[10085]）——暗示 Maya 在元叙事层另有身份（呼应 beachfive9 的 "six"）。
+
+### 16. futabaspring4：命令式的告白与自我救赎宣言
+
+futabaspring4（[10114]-[10479]）是整条线的收束与升格。开场是 Sensei 关于走钢丝之梦的长篇独白（[10118]-[10122]）。图书馆里，被 Sekai "改造"后的 Futaba 用小字独白说完日常后，突然当众宣布："realized that I'm definitely in love with you and that I'm going to make you say it back to me or probably die trying."（[10199]），随后正式逼问："Also, I am in love with you. Now, say it back for I have earned it and refuse to grow up and work at CompanyCorp."（[10219]）——CompanyCorp 从幻境变成了她给自己设定的地狱终点站。
+
+Sensei 在 "tell you I love you or never have sex with you again" 的二选一下说了 "Fine. I...love you."（[10263]），Futaba 第一反应是 "I don't believe you. That didn't sound sincere enough."（[10268]）。她解释自己不再等待的原因："this is mostly just for my own personal growth so I stop hallucinating scenarios in which older women explain to me that I'm boring and that I'm going to end up as an unsatisfied wage-slave for the rest of my life."（[10277]）
+
+随后 Sensei 追踪 Sekai 对峙（[10328]-[10397]）：Sekai 自称成功率 100%（Tsuneyo、Uta、Futaba 全被激活），辩解 "I'm not forcing anyone to do anything! I can't make people feel things!"（[10378]），但在被追问 Tsuneyo 被绑十字架一事时破防自嘲 "Oh, wow. Maybe I really am the bad guy?"（[10389]）。她自称复活条件是 "once you impregnate your entire class"（[10346]）——真伪存疑，但为 lust 主线提供了元叙事级的动机假说。
+
+最终 Futaba 单独对 Sensei 说出了她的答案（[10430]-[10441]）：听到爱的告白并不能让她远离 CompanyCorp 未来，"In fact, you don't really play any role in my future at all. That's in my hands." 但此刻仍是她的梦想成真——"in this moment, I'm the closest I've ever come to actually loving myself."（[10436]）她最后反问 Sensei："Are you doing your best, Sensei? And if you're not, is there anything I can do to help?"（[10440]-[10441]）——曾经只会索取肯定的女孩，开始向外输出了。Sensei 的回应是 "you know you're too good for me, right?"（[10442]），以及她那句留给全线的注脚："Even zero is greater than negative one."（[10448]）
+
+## 三、lust 线概貌
+
+Futaba 的 lust 内容在 digest 中以 [TRIMMED...] 形式大量存在（如 [7579] 处截断的 203 行、makotofutabafuntimelustevent 中与 Makoto 的双人场景 [6354]-[6666]），从叙事功能上可概括为四类：
+
+1. **关系推进型**：初夜（futabainvite3）、图书馆浴室口交（library50 结尾）等，lust 内容承担 love 线的里程碑功能，且每次都附带心理代价的描写（self-esteem 仅 +1、"don't say anything about my body" 的请求）。
+2. **权力展示型**：Sensei 的内心独白反复出现 "pluck my petals"（摘花瓣）意象（[4258]/[4732]），lust 场景是他确认支配地位的手段；futabanew3 中 "It will just make me a little less numb"（[5058]）则揭示对他而言性行为的本质是麻醉而非亲密。
+3. **群像共享型**：makotofutabafuntimelustevent（Futaba+Makoto 双人，[6337]-[6672]）、christmas 系（Nodoka 截胡、僧侣围观等超现实场景）——lust 内容服务于展示后宫结构的荒诞与 Sensei 的自我厌恶（"I swear to never tell a soul... and prays that the two of them never remember the details." [6667]-[6669]）。
+4. **元叙事污染型**：futabanew3 的 T-pose Futaba 喊出 "DON'T YOU WANT TO TOUCH MY FAT FUCKING TITS, SENSEI?"（[4724]）—— lust 台词由故障化的角色说出时，欲望本身就变成了系统故障的症候。
+
+整体而言，Futaba 的 lust 线是全作中心理成本标注最清晰的一条：每次性行为都同步记录她的自尊波动，使 lust 成为测量她自我厌恶曲线的仪表盘。
 
 ## 四、与主线/元叙事咬合点
 
-1. **"Nothing is real"的第一现场**：library25 [1728-1731] 是全作最早、最直白的虚无宣言之一，且出自 Sensei 之口对 Futaba 说出——她此后所有"这不是真的"呐喊都是这句的回声（beachsix [9662]、special60p3 对书的恐慌）。
-2. **Nodoka 的书＝游戏内的游戏**：special60p2/p3 中"被写成角色"的恐惧，正是玩家视角的镜像。书末"满是钟表的房间" [7487] 直指主线的终局场景；"PRAISE BE" 故障文本 [7498] 与其他角色的 glitch 事件同源。
-3. **Sekai 三度介入**：spring3 的 CompanyCorp 训诫 [10059-10068]、spring4 的对质 [10328-10397]，加上自述还"处理"过 Tsuneyo 和 Uta——Sekai 以亡灵身份系统性"催化"女生们，而她的动机自白（"当年是我需要你"）把师生恋的源头推向更早的过去。
-4. **异空间访客**：beachfive9 [8292] 被排球"击杀"后坠入颠倒世界——VPA 广播 [8434-8438]、寻找"蛋"的任务、因违规而分裂增殖的多个 Futaba [8494-8503]、双手过大的哭泣造物 q [8595-8599]，最后 six 以 Maya 面孔现身并用日语送返 [8695-8715]。这与 library10 的陌生笔记本 [895]、library40part2 的 Noriko 一闪 [3661] 共同构成"有人在她的精神世界里施工"的长线伏笔。
-5. **系统层裸露**：appetite -5 [4650]、[[REDACTED]] affection +0 [9752]、"exited the update" [9745]、CONNECTION LOST [9423]——Futaba 是被系统文本"点名"次数最多的学生，她的存在状态最接近"未完成资源"（呼应 [[incomplete Futaba [4694]）。
-6. **Yumi/Chika/Rika 等外围网**：library40 的 Yumi 冲突、futabalust40 的 Chika 偷窥暗示、p1 的 Rika 寄住，使她的线成为多角色暗线的交汇枢纽。
+1. **三层世界的完整穿越者**：Futaba 是唯一在恋爱表层（library 系列）、重置循环层（CompanyCorp 社畜幻境、镜像迷宫）与元叙事玩家层（Sekai 亲自现身训话、Maya/"six" 的拦截）三个层级都有第一人称体验的角色。
+2. **"You broke the world" 的控诉**（[9708]-[9711]）：这是全部可攻略角色中对 Sensei/玩家最直接的道德审判，且紧接其后 affection 系统"增加 0"、角色"exited the update"——文本用系统行为证实了控诉的效力。
+3. **Nodoka 之书作为"游戏的书中书"**：《The Light of Last》以真实人物为蓝本写小说，恰是 Lessons in Love 自身的做法。"rectangle" 论（书只是矩形）既是 Nodoka 的辩护词，也是对玩家的隐秘提问。
+4. **Sekai 的 dreamweaving 网络**：Futaba、Tsuneyo、Uta 均被 Sekai 造访并改变，Sensei 因此得知 "she's suddenly different now as well"（[10349]）——存在一张跨角色的元干预网络，Futaba 是其中被塑造得最成功也最有自觉的一个。
+5. **Maya 的双重身份线索**：beachfive9 中 "six"（疑似 Maya）以监管者姿态出现并用日语送返 Futaba（[8715]），futabaspring3 中 Sekai 又警告远离 Maya（[10085]）——Maya 在玩家层的角色是最大的跨线伏笔之一。
+6. **隔离墙与美国**：Futaba 高中前与 Nodoka 在墙上写名字（[4894]-[4897]）、如今要攒钱穿墙赴美寻亲（[9372]-[9377]）——墙内墙外的地理设定与主线世界观（Kumon-mi 的封闭性）直接咬合。
 
 ## 五、未解伏笔
 
-- 父母失联真相：是循环抹除、空难（仅存在于 CompanyCorp 平行叙事 [9939]），还是从未存在？"穿越屏障去美国"能否成立？
-- library10 的陌生笔记本作者是谁？颠倒房屋/锅炉房故事与 beachfive9 异空间的"蛋""钟表房间"是否同一套意象？
-- "You wake up in a room with clocks." [7487] ——Nodoka 书中设定的结局指向何处？钟表房间是否即主线的 reset 装置？
-- Noriko 在 [3661] 一闪而过是谁？与 `no`（Nodoka）前缀的关系待考。
-- six 为何借用 Maya 的脸？Maya 被 Sekai 点名为"bad influence" [10085]，两者是否存在关联？
-- spring4 之后 Futaba 获得的"清醒"（知道 Sekai 存在、知道自己曾崩溃）会把她推向觉醒者还是下一个牺牲品？
+1. **父母的下落**：失联超一年（[9372]），CompanyCorp 幻境中"死于空难"的说法是否是某种预演或隐喻，尚无定论。
+2. **"You wake up in a room with clocks"**（[7487]）：Nodoka 书中故事终结的画面，指向某个尚未展开的钟表房间场景——这可能是主线后续的关键场景预告。
+3. **Sensei "发现的可怕之事"**（futabaspring1 结尾，[8272]-[8274]）：他在与 Futaba 夜谈后发现了什么不可改变的事，文本刻意留白。
+4. **"上一个死去的人"与三个月消失**（[8231]-[8236]）：Sensei 曾为某人消失三个月，此人死亡事件是主线级黑洞。
+5. **Sekai 复活条件的真伪**："impregnate your entire class"（[10346]）究竟是字面机制还是谎言，决定了 lust 主线的终极意义。
+6. **Maya / "six" 的真实身份**：元叙事层的监管者还是玩家？Sekai 为何称其为 bad influence？
+7. **Nodoka 和解线**：futabaspring1 中 Futaba 说 "deep down, I think she really is remorseful... But she'll never come out and say that"（[8152]-[8153]），两人关系的修复被悬置。
+8. **镜像迷宫中被囚的半神**：beachfive9 里那个"手太大、无法被完成"的存在是否会在现实层获得对应角色，未可知。
 
-## 六、label 总表（33）
+## 六、label 总表
 
-firsttimelibrary[347] · chosepoem[489] · futabafall[607] · library10[895] · library15[1114] · library20[1309] · library25[1554] · library30[1899] · library35[2270] · futabainvite1[2607] · futabainvite2[2929] · futabalust15[3100] · library40[3185] · library40part2[3636] · futabanew1[4039] · futabanew2[4305] · futabanew3[4662] · futabadorm50[5072] · library50[5370] · futabainvite3[5673] · makotofutabafuntimelustevent[6284] · futabaspecial60p1[6680] · futabaspecial60p2[6950] · futabaspecial60p3[7204] · futabalust25[7511] · futabaspring1[8007] · beachfive9[8292] · christmasfutaba1intro[8724] · futabalust40[8842] · futabaspring2[9152] · beachsixfutaba1[9437] · futabaspring3[9761] · futabaspring4[10114]
+| label | 位置（约） | 类型 | 内容概述 |
+|---|---|---|---|
+| library（路由表） | [1] | 路由 | Futaba 系事件入口分发 |
+| futabainvite / futabainvitegen | [81]-[90] | 邀约系统 | 电话邀约含 lust 选项菜单 |
+| library20 | [1865]-[1896] | love | 书店夜约会，"Third nail. Fence complete." |
+| library30 | [1903]-[1929] | love/配角 | Nodoka 登场 |
+| library40part2 | [3642]-[4034] | love 危机 | 街头偶遇 Yumi，"like your mom" 引爆家族创伤 |
+| futabanew1 | [4042]-[4300] | love/写作 | 小说改稿，"mutated reflection"，花瓣独白 |
+| futabanew2 | [4309]-[4659] | love 日常 | 淋浴间霸凌、曾瘦往事、群体围观逃走 |
+| futabanew3 | [4665]-[5069] | 元叙事 | T-pose 故障、深夜同行至隔离墙、"less numb" |
+| futabadorm50 | [5072]-[5365] | 配角主轴 | Nodoka 的病毒属性、照顾母亲真相、告白炸毛 |
+| library50 | [5370]-[5670] | love | 言情小说曝光、roleplay 提议、决心"强迫自己前进" |
+| futabainvite3 | [5673]-[6281] | love 里程碑 | 初夜；Nodoka 电话助阵；"别说我的身体"请求 |
+| makotofutabafuntimelustevent | [6284]-[6677] | lust | 与 Makoto 双人场景（[TRIMMED]） |
+| futabaspecial60 p1-p3 | [6680]-[7508] | 元叙事主轴 | Nodoka 之书：发现→对峙→课堂崩塌，"room with clocks" |
+| futabalust25 | [7511]-[8004] | lust | 电话打不通的父母、[TRIMMED] 203 行 |
+| futabaspring1 | [8007]-[8287] | love 低谷 | Daddy 游戏、自杀独白、"reluctantly here" |
+| beachfive9 | [8292]-[8721] | 元叙事 | 排球异界：镜像世界、找蛋任务、被囚半神、"six" 送返 |
+| christmasfutaba1intro | [8724]-[8839] | 群像 | 众女怂恿献身、Maisie Belle、Nodoka 截胡 |
+| futabalust40 | [8842]-[9149] | lust | 圣诞夜、"I'm here but I'm not"、Chika 盯梢警告 |
+| futabaspring2 | [9152]-[9434] | love/元叙事 | The Taking Tree、赴美计划、双版本对话与 CONNECTION LOST |
+| beachsixfutaba1 | [9437]-[9758] | 元叙事核爆 | 全面爆发骂遍全场、"You broke the world"、affection+0 |
+| futabaspring3 | [9761]-[10111] | 元叙事主轴 | CompanyCorp 社畜幻境、Sekai 审判（ELATION PROTOCOL）、"make them love you back" |
+| futabaspring4 | [10114]-[10479] | love 收束 | 命令式告白、Sensei 追责 Sekai、"closest to loving myself" |
 
-（注：早期通用路由 label——library[1] · futabainvite[35] · futabainvitegen[45] · futabainviteaff[93] · futabaeatout[133] · futabathighjob[154] · futabamorninggen2[175] · futabanoongen2[206] · callfutabamorning[260] · callfutabaafternoon[269] · callfutabanight[331] · library2to4[582] · library6to9[868]——为选项/日历路由节点，无独立剧情，归入 lust 线概貌。）
+---
+*本文基于 reread digest 全量重写，行号对应原始 .rpy 脚本。*

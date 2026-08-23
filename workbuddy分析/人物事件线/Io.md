@@ -1,87 +1,173 @@
-# Io 事件线全析（逐事件深读版）
+# Io 事件线全析
 
-> 源文件：IoEvents.rpy（v0.55）｜ digest：`_digest_Io.txt`（行 [1]–[4720] 全量精读）｜ 共 28 个剧情 label
-> 定位：Io 是全书与 Sensei「同病相怜」程度最深的学生线——两条童年性侵创伤互为镜像；她的线同时是元叙事层暴露最凶的线之一（Sekai 具名、时间重置、叙事者现声、神秘女孩）。
-> 阅读提示：本线的表层是「浴场少女的慢热恋爱」，深层是 Sensei 借 Io 复演自身创伤的实验场；读的时候要盯住三样东西——Sekai 之名、"My Indigo" 这首诗、以及 iospring8 的洞。
+> **源文件**：`_reread_IoEvents.txt`（reread digest）
+> **label 总数**：28
+> **定位**：全班最安静的观察者——她的线以最低的音量承载了最重的世界观重量，从"关灯哲学"一路走到下水道深处那块 "Under construction" 的标牌。
+> **阅读提示**：引文均摘自 digest 并附源行号；`i:` 为 Io，`s:` 为 Sensei，其余前缀随文标注。love 线按时间顺序逐事件推进，lust 线仅作功能概括。
+
+---
 
 ## 一、角色基本盘
 
-- **身份**：浴场（bathhouse）唯一店员，与姨妈同住店中（bathhousegen [215]-[217]）；转学生，与 Uta 同期转入（iodorm35 [4427]-[4428]、iospring8 提到两人一起转学 [7367]）。绿发双马尾（iospring5 [6815]），木工/棒球/昆虫等"假小子"爱好（callionight [177]、bathhouse5 [586]-[588]）。
-- **家庭**：无父母在侧——她自称 "I woke up and walked here"（bathhouse1 [383]），后文揭示这不是比喻：iospring4 闪回显示其生母长期虐待并**性侵**她（[6323]-[6353] 的 mot 闪回段），父亲是沉默的共谋（"that useless father of yours finishes the paperwork" [6340]，"Probably right behind her, silent as ever" [5586]）。她被拽出学校改为在家教育（homeschooling，[6340]-[6342]）。姨妈只提供住所与药费，被 Io 刻意隔离在 Sensei 之外（iospring2 [5288]-[5306]"She travels a lot"是托辞）。
-- **核心病理**：多年被母亲强姦（"I was raped nearly every single day for years" [5500]），导致性厌恶与解离："The idea of letting someone inside of my body makes me so fucking sick"（bathhouse35p2 [4004]）；自认活不过 30 岁（iodorm35 [4430]）；大量不明处方药自我投药（iodorm25 [2881]-[2885]，含 Clonazepam、Adderall、Ketamine [2841][3541][2899]）；对触碰的容忍分层——牵手/拥抱/接吻可以，插入不行（[4016]-[4020]）。
-- **符号系统**：① 木机器人——她送给 Sensei 的手工礼物，"giving this to you means that you never will（厌倦我）"（bathhouse20 [1540]），后被命名为 "1999 PC Classic, Rollercoaster Tycoon"；② 天花板吊灯拉绳上的网球握把与"Io"字样——她仅存的童年痕迹（bathhouse35p1 [3715]-[3717]）；③ 蓝莓洗发水气味（[3344]）；④ 毛虫/caterpillar 自喻（bathhouse20part2 [1774]-[1776]"something absolutely worthless, but with so much room to grow"）；⑤ "My Indigo" 诗（iospring1 [4845]-[4850]）——Sensei 把 Io 内化为"我的靛蓝"，也是他与 Sekai 记忆的咒语。
-- **人际位置**：几乎零社交，唯一朋友 Uta（互相承认"best thing that's ever happened to me"[6741]-[6742]）；对 Yuki 有单向亲近（纹身之缘，bathhouse5 [802]-[805]）；敌视 Kirin 与大多数同学（ioarchery1 [2207]、dormwarsfiveio1 [7733]）；第四章后与 Miku 结成"给药关系"（ioarchery35 [4681]-[4768]）。她是 Sensei 明言的镜像："Io is me. We are one and the same—two broken people"（iospecial30 [3353]-[3355]）。
+Io 是那种在名单里容易被念漏的名字。叙述者对她的第一句定性就带着残忍的诚实——她只是"三十来个选项之一"：
+
+> N: ...Io was just one of thirty-odd options.（[51]-[52] 大意）
+
+但这条线存在的意义恰恰是反驳这句话。Io 的表层属性：弓道部成员（ioarchery 系列事件）、与 Uta、Miku 同住的宿舍居民（早晨接电话时第一反应是压低声音怕吵醒室友 Uta，calliomorning [23]）。三人组的默契在 iospring8 中将成为调查世界裂缝的核心小队。
+
+她的房间是全作最精确的人物肖像之一：木制机器人、工具、药丸、电线堆满一屋——一个用手工造物把自己包裹起来的空间。叙述者称之为她的 safety net（[5200]）：当世界太亮太吵时，Io 就退回这个由自己亲手搭建的、可理解的小宇宙。
+
+她的世界观浓缩在一个比喻里。"关灯哲学"是她主动说出的：
+
+> i: If you fill your world with sadness, you'll get used to it and get better at accepting it... I guess I just want more people to turn the lights off.（[1289]-[1292] 大意）
+
+这不是消极，而是一种苦行者的共情论：与其让所有人直视无法改变的黑，不如一起学会在暗中生活。与之配套的是"夹克补丁"隐喻——她想融入背景又想被看见，两种欲望互相打架："Too many patches, not enough jacket."（[3931]-[3938] 大意）补丁太多，底布不够——每一块想突出的自我都缝在同一件注定不合身的衣服上。
+
+Io 与 Sensei 之间还横着一条主线暗流：Sensei 谈及童年青梅竹马时的那句 "In other ways, part of me wishes she didn't exist"（[5190] 大意，暗示 Noriko）说明他习惯性地希望某些亲近的人从世界上消失——而 Io 恰恰是一个最擅长让自己消失的人。
 
 ## 二、love 线逐事件脉络
 
-- **`bathhouse`**[1]：路由入口 jump 表，含后续章节 gen 入口。
-- **`calliomorning`**[23]/`callioafternoon`[113]/`callionight`[125]：电话日常。晨间电话暴露两点：Sensei 的猎物化视角（"she is just one of thirty-ish options" [51]）与 Io 对他的高唤醒度（怕吵醒室友 Uta [46]）；夜间公园闲聊建立"生物知识库+捉弄 Uta"的人设（[177]-[182]）。
-- **`bathhousegen`**[208]：交代浴场结构——姨妈拥有此处却常年不露面（[217]"It's strange that I've yet to see her aunt around"）；旁白连开三次死亡玩笑（[226]-[234]"She dies in the ambulance. Just kidding again."）——本作叙事者惯用的死亡脱敏修辞首次集中展示。
-- **`bathhouse1`**[247]：初见重构。Io 的"谜语人"自我介绍："even if the vast majority of it is me cryptically hinting at my backstory"（[330]）；提出"互嫌交易"（[369]"You try to make me hate you and I try to make you hate me?"）；对被问来历给出 cop-out 答案后又补刀："Just not in the way you might be expecting."（[471]-[472]）——为 iospring4 的字面意义"醒来后走到这里"埋线。旁白的肠道隐喻（[390]-[400]）确立"spill your guts 也只是给出一小部分"的主题。
-- **`bathhouse5`**[534]：Yuki（Yumi 之母）登场。Yuki 全背龙纹身揭露（[780]），自述脱离极道（"I ain't Yakuza anymore. I'm just Yuki now" 见 bathhouse25 [2440]）；Sensei 拿到 Yuki 电话（[864]-[872]）。Io 对 Sensei-Yuki 接近表现出口是心非的嫉妒（[884]-[893]）。
-- **`bathhouse10`**[921]：Dorm War 结果复盘，Yuki 教训 Io"不肯赢下能赢的仗"（[969]-[978]，Io 答"Then I guess I'm never going to be happy"）；借 Yuki 之桥 Io 终于拿到 Sensei 号码（[1018]-[1108]），发心形表情并嘴硬（[1101]"Definitely not going to look at it all the time"）。随后男汤戏：Io 隔水陪聊，双方交换"想被原谅什么"——s:"Everything... I just don't want to put in the work required to actually be forgiven."（[1242]-[1243]）/ i:"Everything, I guess. I'd just rather hide from all of it"（[1245]-[1246]）——两条创伤线的第一次对称亮相。Io 提出"学期结束一起去远方/游乐园"（[1316]-[1323]"But... I want to be with you."），并以 Uta 更衣孔为筹码换"私奔承诺"（[1345]-[1354]"And I'll keep slowly poisoning myself with unattainable desires."）。
-- **`bathhouse20`**[1381]：木机器人赠礼事件。Io 的礼物焦虑独白（[1512]-[1519]"It's like giving you a little piece of me"）；Kirin 与 Noriko 撞破，Kirin 一句"dumpster or something? It's kinda creepy looking"（[1657]）令 Io 否认自制（[1674]"I found it in the trash"）并夺门而逃；Sensei 追出，拒绝换新："I don't want a new one."（[1707]）
-- **`bathhouse20part2`**[1763]：长椅谈心+首次牵手请求（[1880]）。Io 半开玩笑求婚式试探（[1851]"start dating me instead?"），又立刻自我贬损（[1883]"there are a million better choices"）。**关键旁白**：Sensei 自陈依赖重置循环——"Because life will repeat itself and mistakes will correct themselves. Either that or I disappear. I can't lose."（[1788]-[1790]）——这是循环层在 Io 线最早的自白之一。
-- **`ioarchery1`**[2091]：弓道部清晨。Wakana 教 Uta 射箭（[2100]-[2105]"Everything is cold when you're dead inside"）；Io 树下等 Uta、给毛虫起名 Cody（[2114]/[2144]）；她坦白讨厌弓道、入部只为跟 Uta 和不被退学风险波及见到 Sensei（[2178]-[2183]）。Sensei 劝她交朋友，反被戳穿动机："Watching you 'succeed' would be for my own personal benefit"（[2266]）——教师利己性的直白供认。
-- **`bathhouse25`**[2314]：宿舍热水器故障致浴场爆满，Sensei 假扮店员（[2328]-[2338]）；Sara 登场自介"Sana's mom"（[2406]）；四人混浴闹剧。信息点：Yumi 打伤 Nodoka 后失踪（[2629]-[2655]，Io 猜"Nodoka had to have done something"）——与其他线互证；水下牵手被 Sensei 以"公开场合装作不存在"压下（[2672]-[2678]）。
-- **`iodorm25`**[2696]：药物过量夜。Io 服药后瘫在地板上（[2734]"reporting live from the floor. Which is coincidentally exactly where she belongs"），拉 Sensei 共饮客人留的清酒："If we're not ourselves, anything that happens isn't our fault... It would be more like whatever happens never happened in the first place."（[2795]-[2796]）——用酒精复刻"解离即豁免"的受创逻辑。Sensei 的内心切换独白（"I am a marsh warbler... I jumped because I knew it wouldn't hurt me." [2827]-[2837]）暗示他借酒进入"另一个自己"。Io 醉后吻（[2927]-[2942]"I got to taste your lips"）；她同时说出全书最重的台词之一："If that made you guys happy, I probably wouldn't even mind dying."（指 Sensei×Uta，[2918]-[2921]）。药物话题澄清她**否认抑郁症**却服抗抑郁药（[2852]-[2863]），且"有些药吃了七八年"（[2884]）——用药史早于青春期，指向幼年精神科记录造假（呼应 iospring4 闪回里母亲教她对医生撒谎 [6329]-[6330]）。
-- **`iospecial30`**[2982]：Io 首次登门。1999 年《过山车大匠》游戏会；她的玩法是把游客全数谋杀（[3213]-[3215]"send all of your guests flying to their deaths"），自认"没有这种出口就会因谋杀入狱"（[3224]）。床上拥抱段是本线心理转折：Sensei 内心连续三遍自我催眠"SHE LIKES ME... SHE WILL TELL ME TO STOP IF SHE DOES NOT WANT THIS"（[3410]-[3413]→[3418]"I WILL NOT STOP"），随即嗅觉异常发作："Does this room smell strange to you?... It's like Spring... Why do I remember a season we don't have? Why do I remember the scent of what can not exist anymore?"（[3382]-[3395]）——**春天=与 Sekai 相关的失落季节**，触发系统级闪回；Io 察觉异样仓皇逃走，系统提示"{i}Io's affection does not increase.{/i} {i}You scared her.{/i}"（[3464]-[3465]）。
-- **`bathhouse35p1`**[3483]：Sensei 泡汤六小时（[3501]），向 Io 施压同浴未遂；旁白供认性是他的万能工具："Sex has been my weapon for almost everything"（[3577]），以及最露骨的欲望陈述（[3585]，成人内容段，此处从略）与其后的控制欲（[3586]"show her that what she wants isn't what she wants at all"）。**Sekai 首次显形**：Sensei 昏厥前的幻听——se:"There's nothing quite like a hot bath after a long day of being dead."（[3663]-[3674]）。昏倒后被 Io 拖回楼上房间，穿上姨妈豹纹睡衣（[3734]-[3742]）；他罕见道歉（[3761]-[3768]"You don't deserve that"），Io 反过来列举他对她的好（[3784]-[3787]）。
-- **`bathhouse35p2`**[3860]："一夜三崩溃"（Sensei 昏厥、Uta 见到 Sensei 裸体晕厥 [3823]-[3844]、Io 情绪崩塌）。Io 正式摊牌性厌恶："What if one person's idea of pleasure is another's nightmare brought to life?"（[4003]），并提出**三人方案**：允许 Sensei 与 Uta（或 Yuki）发生关系以维持关系存续（[4026]-[4061]"It's the only way the two of us could ever be together without me completely rebuilding everything I am"）。结语："I can't give you what you want, Sensei. All I can do is hold you over."（[4069]-[4070]）Uta 醒后对此方案强烈反对（iodorm35 [4170]-[4177]"There's no way something like that could work out without one of us getting hurt"）。
-- **`iodorm35`**[4118]：上半场 Uta 客串吐槽 throuple（[4164]-[4222]）；下半场 Io 提着满袋食材想去 Yuki 家示好却在楼下撞见 **Yumi 本人**（[4257]-[4320]）。两个"讨厌人类"的失败者互诉：Yumi 首次披露母亲 Yuki 的吸毒离家史（[4473]-[4477]"My mom was a hardcore junkie."）；Io 听完大笑（[4499]-[4507]"That's your tragic backstory?"），然后说出全书最冷的对照——"I would have {i}killed{/i} for what you've been through... Do you know what I got instead?... You don't want to."（[4514]-[4527]）。另注意 Io 的死亡预感："I doubt I'll wind up even making it to 30 in the first place... I'm way too afraid of not knowing what comes next."（[4430]-[4432]）——不是自杀倾向，而是对死后未知的恐惧。
-- **`ioarchery35`**[4645 起]：茶室依偎+Miku 给药风波。Io 自认"Miku 有严重 PTSD 且无人治疗"（[4724]"Miku's got severe PTSD that was entirely untreated before I started sharing my medication with her"），Sensei 质疑，Io 反诘"She doesn't even {i}have{/i} a guardian"（[4736]）——顺带暴露 Miku 无监护人的设定。和解后 Io 反问 Sensei 是否也该吃药，他说到一半被打断："I've made it to 31 without anything like that and I'll make it to 32 if the world ever goes back to—"（[4810]，句中被截断——"世界回到……"之前是什么？循环层的又一处口误）。
-- **`iospring1`**[4834]：第四章开场。Sensei 重读诗 "My Indigo"（[4845]-[4850]）并以霍乱自喻（[4852]"Like cholera I spread"）；重逢时 Io 已从同学口中得知某事、认定 Sensei 知情（[4920]-[4921]"you may have...heard something about...someone...named Io"），两人立下"赌命"之约："I'll bet you my life that you give up on me before I give up on you."（[4969]-[4976]"So we both die either way."）快餐店段落：旁白"我不再是她们的老师了"（[4997]"since I'm not her teacher anymore"——待核：对应主线被解职事件）；邻座一家四口的超现实对话（母亲孕吐威胁"kill all of us"、小女孩问"{i}Would you really kill me, Mommy?{/i}"[5092]）直接触发 Io 童年创伤，敲桌、失语、逃离（[5118]-[5132]）。
-- **`iospring2`**[5145]：夜归途+回 Io 房间。Sensei 首次提及青梅竹马："In a lot of ways, she's the most important person to me... part of me wishes she didn't exist."（[5179]-[5190]）——Sekai 线的前置铺垫。家庭争吵爆发：Sensei 为"家人"辩护惹爆 Io，长篇咆哮揭开底牌："YOU HEARD WHAT THEY SAID ABOUT ME! That I'm ROTTEN! SPENT! TRASH!"（[5378]）、"Someone should have helped me! But they didn't! No one did! Not until the damage had already been done!"（[5388]）、"if you want me to start seeing her as anything else, you should grab me a bucket because I can't even say the word 'Mom' without wanting to throw up."（[5392]）。争吵末尾反转指控：她发现 Sensei 收藏 Uta 童年照——"Those pictures ruined her life. And you're keeping one as a...fucking trophy."（[5413]-[5414]）（照片外流事件详见第四节）。
-- **`iospring3`**[5464]：**全线核心事件**。开场即自白："Do you have any idea what it's like to have an orgasm against your will?... Do you know what it's like to come home from school every day not knowing whether or not someone is going to put something inside you?... the taste of a woman who hasn't showered in over a week?"（[5469]-[5479]）——加害者是女性、是其母。她拒绝"blooming"修辞："That isn't blooming. It's being trampled—and I'm as good as dead now."（[5500]），自称"a secondhand sex doll who's sewn herself shut"（[5511]）。**Sekai 具名**：se 催促时 s 回答"As long as I have to, Sekai."（[5552]）→ i:"Sekai?" → s:"That was her name."（[5554]）——那个"法定强奸"（statutorily，[5572]）了他的女人叫 Sekai；他坦承仍爱她（[5563]/[5575]-[5577]"I just...do."），Io 点破"Stockholm Syndrome?"（[5578]）。Io 透露加害母亲"还在墙的另一边"（[5584]）。Sekai 怂恿性接触（[5597]-[5603]）后，无框旁白插入黑体异声："**akira.** You too? **destroy her. destroy. then rebuild. she will be stronger for it. you both will.**"（[5605]-[5611]）——注意名字写作 akira 而 Sensei 被 Sekai 称作"Aki-kun"（[5426]/[5449]），两个名字的关系待核。玩家选择：**Go home**（Sensei 拒绝："Sex isn't some kind of favor." [5631]，离开；Io 独自震惊"Did he really just...leave?... That can...happen?..."[5660]-[5667]——对她而言"成年男性不利用她"是新事物）或 **Destroy her**（跳 iodestroyed）。Go home 结尾："She can be my indigo."（[5707]）
-- **`iodestroyed`**[5732]：毁灭分支。Sensei 以"教她爱"之名与彻底解离的 Io 性交（成人内容段，叙事功能为：完整复刻施害者的语法——Io 全程躺平如尸、内心独白全是麻木的事务性评估（[5883]-[5893]"Just hurry up and cum so I can go to the bathroom."），并在结尾说"This is what I was put here for. And I'd much rather be your tool than anyone else's... Because at least I like you..."（[6004]-[6006]）。Sensei 过程中的心理防线连环溃败：无法高潮、把责任外推（[5926]-[5927]"I'm a rabbit... if I'm not doing it CORRECTLY then SOMETHING ELSE is to blame"），最终滑向投射——"She used to talk about fate. Maya. Maya is she. She is Maya. I can pretend Io is Maya. That will work."（[5938]-[5939]）。事后他不敢独眠，要求 Ami 陪睡："Ami, can you sleep in here tonight?... I don't want to be alone."（[6069]-[6076]）；系统结算：Ami affection +1，Io affection −10（[6085]-[6086]）。
-- **`iospring4`**[6110]：打扫独白（自证"不适合当家长"）+ Theme Hospital 游戏会。Io 主干版本中插入两段重磅闪回：① **母亲闪回**（mot）：教她对医生谎报"just adjusting to my new school"、以 Sir Meowington 送返收容所和断粮断网为要挟、宣布 homeschooling（[6323]-[6353]）——坐实"病历造假+隔绝社会化"的养育模式；② **Yasu 事件**：陌生女孩直勾凝视 Io，其母道歉说"she thinks she sees things! And she's always hearing these voices"（[6363]-[6368]），Io 母斥其为怪胎赶走（[6369]-[6376]）——voices 母题在此以"目击者"形态出现：Yasu 也许"听见"了 Io 身上/周遭的某种东西。主干结尾 Io 再次主动要求为 Sensei 手淫"作为今天的报酬"（[6494]-[6505]"This much, I can stomach"），Sensei 两度拒绝："I never want to see you like that again."（[6540]）——与 iodestroyed 形成镜像救赎。分支变体（[6469]-[6486]）里 Io 的道歉强迫症被明写："if I'm not constantly apologizing, everything I care about is going to be taken away."（[6476]）
-- **`iospring5`**[6585]：游乐园日（与 Uta）。开头 Spoonbill 鸟诗与"why do i still try so hard"（[6588]-[6594]）、以及一段猫/主人身份互换的疯癫插叙（[6604]-[6614]"Have I been the cat this whole time?"）。摩天轮上 Io 与 Uta 达成"共同喜欢 Sensei 也能坦然讨论"的盟约，Io 自评两人"thoughts on love...mutilated beyond recognition due to our traumatic upbringings"（[6700]）；throuple 再度上桌（[6722]-[6735]）。Uta 去洗手间后 Io 被两名男子搭讪骚扰，她自称"I'm asexual."（[6847]），危急时 **Yuki 病态虚弱地现身救场**（[6872]-[6923]）——她苍白欲死却仍在"Meeting...someone..."（[6943]），并叮嘱"Just tell 'em you know me"。章末双关收束：Sensei 在床上梦呓接住台词"Did somebody say 'wiener time?'"随即自问"Why did I just jump out of bed to say that? That's not even the line."（[7014]-[7021]）——**他开始察觉自己的台词是被写好的**；旁白补刀"Somewhere else, two girls were safe. One woman wasn't."（[7023]-[7024]）。
-- **`dormwarsfiveio1`**[7045]：Date War 之 Io 场。开场 Sensei 的独白对象疑似**玩家**："Who are you, maybe? Who have I been talking to this whole time? Who is it that keeps me sane when all else seems to advocate for the opposite?... You know everything about me and I know nothing about you."（[7070]-[7077]）——元叙事层最直接的玩家称呼之一。约会内容：便利店买饮料（角色互换，Io 当"追求方"）、重走秘道。途中发现**隧道变了**——出现通向无尽深渊的断崖（[7316]-[7319]"an inescapable, terrifying silence"），Io 兴奋推断这是"吞掉她们旧学校的天坑"或"现实的裂缝"："a crack in reality! Something that shouldn't happen, but did."（[7367]-[7370]）。断崖边的**初吻**：她强调"this will be my first consensual kiss"（[7419]），笑场后继续（[7452]-[7480]"People don't normally laugh." / "It kind of tickles."）。Sensei 结尾独白"I melt again. And all I am drips slowly from the ledge that leads into a sea of nothing."（[7480]-[7486]）。
-- **`iospring6`**[7500]：浴场日常+Akina Ando 四人组喜剧（缺男人多年的女客们，[7556]-[7625]）。正题：Io 邀请 Sensei 同去探洞，Sensei 顺势想把"调查 Kumon-mi 之谜的社团"（Makoto、Ayane，乃至 Maya、Yumi、Nodoka）带进来，Io 只接受 Makoto（[7724]-[7751]"You bring Nodoka anywhere near me and I can promise you she's going in the hole"）。她透露已独自下去多次且隧道持续变化（[7753]）。结尾重头戏：Io 再次邀请帮 Sensei 洗背被拒后，一击致命——s:"I don't want to become like the people who made us into who we are today." / i:"Oh, Sensei... You already {i}have.{/i}"（[7788]/[7793]-[7794]）。
-- **`iospring7`**[7856]：泳装入浴事件。两人首次在"双方都清醒"状态下协商身体界限：Io 区分"性交=恶心"与"手/吻=可以"（[7932]"Being close physically when I can't have sex makes stuff that probably seems normal for you actually really intimate for me"），并给出手意（成人内容段，叙事功能为：由 Io 主导定价的亲密交换——她列出四条"逻辑理由"，核心仍是"我不想成为负担"+"这能延长你留下的时间"[7994]-[7999]）。过程中穿插 handcuffs 玩笑（[8038]-[8045]）与她罕见的自慰自白（[8015]-[8017]"my sex-drive burnt out after being pushed beyond its limits for too long"）。结尾 Sensei 的不安："Yet, it still feels like I've done something wrong. And I still keep thinking about the box I might be in somewhere."（[8108]-[8109]）——"盒子"意象待核（可能呼应 Schrödinger 猫/箱庭世界观）。
-- **`iospring8`**[8126]：**线终章/元叙事爆发**。开场旁白宣告"fabric of reality was tearing again"（[8130]），三个"自称人类的生物"下洞缝补现实（[8131]-[8135]"The tunnels hadn't learned to reshape themselves yet, but they were trying"）。洞底出现的不是自然构造，而是一块**屏幕般的巨型标牌**写着"Under construction"（[8200]/[8214]"It looks more like a...screen than a sign"）；Miku 脱口而出："it kinda feels like we just ain't agin' at all sometimes."（[8236]）。随后整段无韵诗旁白接管叙事（[8247]-[8278]）：一个自称中立的高位存在宣布"I know something they don't know... For the moment, I'd like to preserve some neutrality"，并以"Even the red string of fate can not repair this fabric. But you know what can? {i}Immortality.{/i}"收束——直指世界观底层（不死性 vs 命运红线）。一个神秘女孩现身又被 Io 追赶（"You're that girl, right?! The one that's always showing up at our events?!"[8284]），旁白以造物主口吻嘲讽蚂蚁农场："I asked for a castle and this is what you give me? A mere tunnel?... greater things have greater fears."（[8312]-[8319]）。Io 追至死角后一声——"Mom?..."（[8347]）。场景硬重置回进洞前（[8353]-[8375]）：Io 无端流泪、坚称"We shouldn't be here...nobody should..."（[8373]）、留下"I don't want her near me again."（[8382]）后率队撤离。终局旁白："It was 5:43 PM on a Friday. No time had passed at all."（[8390]-[8391]）——**本章经历了一次时间回滚**，只有 Io（与叙事者/玩家）保留了痕迹。
+### 1. 电话三连与澡堂入口
+
+calliomorning / callioafternoon / callionight 构成日常触点：Io 会接电话（与 Sana 的永不接听形成对照组），但清晨那次通话全程压着嗓音——她的私人时间永远先让渡给他人。bathhouse 作为系列入口，把这条线的舞台定在了全校最没有隐私的地方。
+
+### 2. bathhouse 系列（1 → 35p2）
+
+澡堂编号递进系列是 Io 线的主干道，也是全作"混浴喜剧"传统的核心载体：
+
+- **早期（bathhouse1/5/10）**：建立规则——一群少女与唯一成年男性共享浴场的荒诞平衡。Io 在群像中话最少，但每次开口都在给场面降温或加温的临界点上。
+- **bathhouse20 / 20part2**：本系列的哲学峰值。关灯哲学在此抛出后，Io 做了一件与她性格完全相反的事：发出邀请。她邀请 Sensei 学期末一起去游乐园，甚至提出更远的计划——去美国（[1316]-[1323]）。对一个连打电话都怕吵醒室友的人来说，这是她能给出的最大声的告白。而 Sensei 的回应是用另一个女孩做挡箭牌——那个"看裸体却不动手的女孩"（[1329] 大意）——把邀请轻轻推开。
+- **bathhouse25**：过渡段，好感继续以微米级推进。
+- **bathhouse35p1 / p2**：Sara、Yuki、Io 三人混浴的大闹剧，喜剧密度最高的一章。闹剧中 Io 冷不丁丢下一枚世界观炸弹——"我们有摄像头，记得吗？"（[2578] 大意）——一句玩笑话暗示这个世界的"记录"方式并不寻常。p2 尾声则回到静场，夹克补丁的独白（[3931]-[3938]）为整个系列收束出主题：Io 不是不想被爱，是她给自己缝的衣服根本没有留给别人的位置。
+
+### 3. ioarchery1 / ioarchery35
+
+弓道部是 Io 的第二舞台。ioarchery1 建立了她在部内的位置与"静"的气质——弓道讲究的呼吸、等待、放手，与她的性格同构。ioarchery35 则把这份静推到极限：正是在弓道场相关的段落里，发生了全线最重要的冲突之一（详见第 5 节 iodorm35/ioarchery35）。
+
+### 4. iodorm25 / iospecial30
+
+宿舍场景与特殊事件进一步压缩两人的物理距离。iodorm 里 Io 第一次让 Sensei 进入她的 safety net——那个堆满木机器人与电线的房间（iospring2 中对此空间的正面描写见 [5200]）。iospecial30 则是好感里程碑式的独处事件，为 spring 系列的质变蓄力。
+
+### 5. iodorm35 / ioarchery35：桌下的手与 consent 之辩
+
+这是 Io 线的分水岭。Io 主动提出在桌子底下用手为 Sensei 服务——她的措辞不是欲望，而是账目：这是"陪伴的报酬"。Sensei 断然拒绝，并展开全作罕见的长篇 consent 对话。Io 对"No"的理解暴露了她成长环境的真相：
+
+> i: To me, it meant nothing for a very long time.（[6527]-[6528] 大意）
+
+在她的世界里，拒绝从来不是一个会被执行的词。而 Sensei 给出的理由斩钉截铁：
+
+> s: Because I never want to see you like that again.（[6540] 大意）
+
+这段对话完成了双重叙事功能：它既是 Io 人物弧的转折点（她第一次被迫处理"我想要"与"我应该"的区别），也是 Sensei 这个角色少有的高光——在一个把越界做成玩法的世界里，这条线让他站在了边界上。
+
+### 6. iospring1 - iospring3：spring 系列的爬坡
+
+spring 系列延续好感深化。iospring2 中两人谈到童年——Sensei 提及那位让他希望"从未存在过"的青梅竹马（[5190]，Noriko 暗示），并第一次细致描写了 Io 的房间：木机器人、工具、药丸、电线，她的 safety net（[5200]）。iospring3 与插入其间的 iodestroyed 事件（[5732]）构成中段波折，Io 的世界开始出现细小的裂纹。
+
+### 7. dormwarsfiveio1
+
+宿舍大战群像事件中的 Io 分支，让她在与 Uta、Miku 的共同生活中展现出罕见的锋芒——安静的人在自己的领地里并不是软柿子。
+
+### 8. iospring4 - iospring6：逼近临界点
+
+spring 系列后半段持续升温，Io 的主动性逐章增强。她开始在对话中试探时间的形状、试探 Sensei 的边界、试探自己被允许走多远。这些章节单独看都是温柔小品，连起来读则是不断上紧的发条。
+
+### 9. iospring7：越界之夜
+
+发条在此释放。Io 列举了四条逻辑严密的理由论证自己为什么应该为 Sensei 服务（[7995]-[7999]）——那是 consent 之辩的重演，只是这一次，Sensei 半推半就地接受了。手、吻、地板。事后叙述者的心思却飘向别处：
+
+> N: 我还是忍不住去想那个念头——它可能还在某个箱子里。（[8109] 大意）
+
+身体的越界完成之日，正是思维的越界（关于这个世界本质的那个"箱子里的念头"）重新抬头之时。Io 线的亲密与世界的异常从此再未分开过。
+
+### 10. iospring8：织物撕裂
+
+全线的终章，也是全作元叙事浓度最高的单章之一。周五下午 5:43，"现实的织物再次撕裂"。Io、Uta、Miku 三人组深入下水道调查 sinkhole 异常，在深洞底部发现了不属于任何合理世界的东西：一块巨大的"屏幕状"标牌，上面写着 "Under construction"（[8200]-[8214]）——这个世界是一件尚未完工的制品，而且施工方留下的告示正对着角色们展览。
+
+Miku 的抱怨无意间说出了存在论的真相：
+
+> mi: it kinda feels like we just ain't agin' at all sometimes.（[8236] 大意）
+
+我们好像根本就没有在变老。——重置循环层的墙纸被一句 teen slang 戳穿。随后叙述者突然切换为诗体独白（cuckoo birds、frog and fly 的寓言意象，[8250]-[8278]），并以一句判决收束：
+
+> N: Even the red string of fate can not repair this fabric. But you know what can? Immortality.（[8276]-[8278]）
+
+命运的红绳修不好这块布。能修好的是不死。——恋爱表层的最高象征（红绳）被公开宣判无效。
+
+紧接着，神秘女孩现身。Io 追了上去，喊出的那句台词证明这个存在早已在多条线上留下足迹：
+
+> i: You're that girl, right?! The one that's always showing up at our events?!（[8284] 大意）
+
+叙述者随即自白 ant farm/castle 意象（[8311]-[8319]）——角色是蚁农场的蚂蚁，玩家俯身看着玻璃。而 Io 追上女孩后的那一声，是整条线乃至整部作品最重的一个词：
+
+> i: **Mom?...**（[8347]）
+
+Io 认出了她。不是作为都市传说，不是作为元叙事幽灵——而是作为母亲。随后时间回滚，同一场景重演，这一次 Io 却恐惧地逃离："I don't want her near me again."（[8382] 大意）。两段记忆并存于一个角色的同一分钟内，本身就是循环机制的自我暴露。结尾定格：
+
+> N: It was 5:43 PM on a Friday. No time had passed at all.（[8390]-[8391]）
+
+时间从未流逝。jump 指向 endofsatch4——一切照旧，除了玩家和 Io 都知道了不该知道的事。
 
 ## 三、lust 线概貌
 
-lust 内容全部内嵌于 love 主线节点，共四处，均为结构性场景而非福利：
+Io 的 lust 内容在全部角色线中体量最小，且几乎全部被 [TRIMMED...] 掉的长段性行为本体所占据；可考的功能性内容集中在三处：sanainvite 式的邀约分支、iodorm/ioarchery35 的桌下服务提议、以及 iospring7 的接受之夜。
 
-1. **iodestroyed**[5732]（destroy 分支）：成人内容段，叙事功能为创伤复演——Sensei 用加害者的语言（"I want you to enjoy it"）对解离的 Io 实施穿透，结果是自己阳痿般地失败并滑入 Maya 投射（[5938]-[5939]）；它证明 Sensei 的"爱之语法"与 Sekai/施害者们同构，是全线道德最低点，也是 Maya 母题的关键证据。
-2. **iospring4 手段分支**（[6494]-[6553]）：Io 以"报酬"逻辑主动服务，Sensei 拒绝并反向确认她的自主权（"Then I won't let you force yourself either" [6538]）——与上一条构成同一行为的救赎对照，用于测试玩家的路线选择。
-3. **iospring7 浴场手交**（[7977]-[8110]）：成人内容段，叙事功能为"协商后的亲密定价"——Io 首次以清醒、有条件、有解释的方式让渡身体部分功能，换取关系存续；她的快感来源被明确写成"看着你的反应"（[8029]），即关系性快感而非肉欲，与其 asexual 自述（[6847]）一致。
-4. **散点**：bathhouse10 男汤隔水对话、bathhouse25 四人混浴、bathhouse35p1 的欲望独白（[3585]）等，功能是维持"裸体在场但无性"的张力，反复测量 Io 的触碰阈值。
-
-系统层面：lust 冲突每次都以 affection 数值变动结算（[3464]"does not increase / You scared her"、[6085]-[6086]"−10"、[4107]"+5"）——Io 线是 affection 变量作为"关系心电图"最敏感的一条线。
+这些片段共同的叙事功能是把 Io 写成"交易型亲密"的标本：她表达欲望的唯一语法是报酬与等价交换（服务换陪伴），这与她"不想给人添麻烦"的表层人格互为表里。consent 长谈（[6527]-[6540]）与四条理由清单（[7995]-[7999]）分别是这套语法的失败与成功两次演示——失败的那次塑造了 Sensei 的底线，成功的那次则让底线本身变得可疑。lust 线在这条线里不是奖励系统，而是道德测量仪。[TRIMMED...] 掉的本体段落维持着循环玩法的最小配置（可重复触发的亲密事件），但其真正的戏剧价值早已在前后的对话里支付完毕。
 
 ## 四、与主线/元叙事咬合点
 
-1. **Sekai 具名与"循环"指令**（[5552]-[5564]）：Sensei 的加害者名为 Sekai，且她说"hurry up and keep the cycle going before I disappear again"——把 Kaori/Maki 线的 Sekai 意象落实为一个具体的、已死/已消失的循环相关者。"cycle"一词直接接入重置循环层。
-2. **akira 异声**（[5605]-[5611]）：黑体无框旁白以"akira / destroy her / destroy then rebuild / she will be stronger for it"介入选择节点，与 Sekai 的怂恿构成双重教唆；"Aki-kun"（Sensei 的真名残片，[5426][5449][5454]）与"akira"是否同一人的两种拼写待核。
-3. **Maya 投射实锤**（[5938]-[5939]）："Maya. Maya is she. She is Maya. I can pretend Io is Maya."——Sensei 在性行为中把 Io 当作 Maya 替身；与 Maya 线"all three at once"互证，说明 Maya 是 Sensei 欲望系统的原型人物。
-4. **Uta 照片事件**（[5413]-[5414]、[6275]、[6283]、[6310]）：Uta 幼年照片曾被某人网络传播毁掉其生活，Sensei 手中持有一张；后来 Uta 表示"okay with you having them"（[6283]）。此事连接 Uta 线与"谁在收集女孩影像"的全书暗线（Kaori 附身/偷拍母题）。
-5. **voices 母题跨家庭证据**（[6363]-[6376]）：陌生女孩 Yasu"看见东西、听见 voices"并被母亲羞辱——与 Ami 亡母、Io 之母等 voices 现象同构，支持"voices 是可传染/可目击的接入现象"假说；且 Yasu 是在**盯着 Io 看**时发作的，暗示 Io 周身有可被感知的东西。
-6. **Sensei 的循环依赖自白**（[1788]-[1790]"life will repeat itself and mistakes will correct themselves... I can't lose."）：Io 线最早把"重置=保险机制"说破的文本之一；配合 [4810] 被截断的"if the world ever goes back to—"，指向他对世界"回去"方式的知情。
-7. **玩家直呼**（[7070]-[7077]）：Date War 开场独白的受话人是知道 Sensei 一切而他一无所知的"你"——元叙事玩家层的直接文本证据；加上 [7021] 他质疑自己脱口而出的"台词"，说明角色开始觉察脚本。
-8. **叙事者神格现身**（[8247]-[8319]）：iospring8 中无框旁白以第一人称高位存在发言（"I asked for a castle"、"preserve some neutrality"、"greater things have greater fears"），并抛出"Immortality 能修补命运红线织物的"设定宣言——这是三层世界观中元叙事层向故事内角色的最正面泄露之一。
-9. **时间回滚实证**（[8347]→[8353]-[8391]）：Io 目击"Mom?"后场景整体重置、时钟归零，唯 Io 残留情绪与禁令（"I don't want her near me again"）——重置循环层在本线的直接演示；"Mom?"提示神秘事件女孩与 Io 母亲存在视觉/本体关联（待核）。
-10. **天坑=旧校吞噬点假说**（[7367]-[7370]）：Io 提出洞是"吞掉她们转学前学校"的天坑、是"不该发生却发生的现实裂缝"——与 Kumon-mi 空间异常（新半城/旧半城断层 [7243]"rift in the time and space continuum"）咬合，也与"学校消失"的其他线传闻互证。
-11. **Yuki 的濒死赴约**（[6935]-[6954]）：Yuki 苍白如鬼仍坚持"Meeting...someone..."，事后旁白"One woman wasn't safe"——连接 Yumi/Yuki 家庭线，并暗示城中存在猎食成年女性的什么东西（待核）。
-12. **Miku 无监护人+PTSD 给药**（[4724]-[4736]）：为 Miku 线提供背景支撑，也让 Io 的"药师"行为成为她"想拯救过去的自己"的投影（[4767]-[4768]"if I had to look my issues in the eye, I know how I'd feel"）。
+1. **神秘女孩与 Io 的母女关系**。iospring8 中 Io 追上常在各事件现身的神秘女孩后脱口而出 "Mom?..."（[8347]）。这是全部线索中对"q/pareidolia 类实体"身份的最直接指认，将元叙事层与角色血缘直接焊接。回滚后的 "I don't want her near me again"（[8382]）说明这段关系有前史、有创伤、有禁令。
+2. **Under construction 标牌**。sinkhole 深处的屏幕状标牌（[8200]-[8214]）是世界"未完成品"属性的实体证据，把主线散落的异常（黑屏、断片、记忆缺失）统一解释为施工中的毛坯。
+3. **"Immortality" 宣言**。"Even the red string of fate can not repair this fabric. But you know what can? Immortality."（[8276]-[8278]）——诗体独白公开否决恋爱叙事的修复能力，并给出元叙事层的解决方案：不死。这是三层世界观中最露骨的一次层级对话。
+4. **时间冻结的场景复现**。"It was 5:43 PM on a Friday. No time had passed at all."（[8390]-[8391]）以文本形式执行了一次重置，让读者亲历循环层的运作而非仅仅听闻。
+5. **Miku 的不老证词**。"we just ain't agin' at all sometimes"（[8236]）来自配角之口，证明循环感知并非主角专属，而是正在向全员泄漏。
+6. **摄像头梗**。混浴闹剧中 Io 的"我们有摄像头记得吗"（[2578]）以玩笑形式预告了这个世界的观看结构——蚁农场意象（[8311]-[8319]）的伏笔。
+7. **Sensei 的 Noriko 暗示**。"part of me wishes she didn't exist"（[5190]）把主线最深的童年创伤接入 Io 线，同时示范了他对"亲近之人"惯用的消除欲——与世界的 erase 机制同构。
+8. **箱子里的念头**。iospring7 结尾（[8109]）表明 Sensei 对世界本质的怀疑从未熄灭，亲密关系的达成反而加速了它的复活。
 
 ## 五、未解伏笔
 
-1. 神秘女孩的身份：被 Io 认出是"总在我们活动上出现的那个女孩"，且令 Io 喊出"Mom?..."（[8284]/[8347]）——她是 Io 母亲（的过去/残影/造物）还是跨线常驻元叙事信使？（可信度最高，因为文本直接给出称谓反应）
-2. "Under construction" 屏幕标牌与隧道重塑者：谁在地下施工？"Immortality"宣言者与施工方是否同一存在？（[8214]/[8278]）
-3. Sekai 的现状：已死（"a long day of being dead"[3664]）却能显形说话、要求"keep the cycle going"——她是循环的维护者还是上一个被消耗者？她与"voices"是否同源？
-4. "akira"与"Aki-kun"的名字关系；黑体异声（destroy her 派）与 Sekai（怂恿派）是否争夺 Sensei 行为控制权的两股系统声音。（[5426]/[5605]）
-5. Sensei 收藏 Uta 童年照的完整前史：拍照者、传播者与他保存的原因均未揭晓（[5413]-[5415]）。
-6. Io 母亲"还在墙的另一边"（[5584]）——"墙"是 Kumon-mi 城界还是别的东西？她会入场吗？
-7. "the box I might be in somewhere"（[8109]）：Sensei 反复梦见自己处于某个盒中——与世界模拟/备份假说的潜在勾连，待核。
-8. Io 断言活不过 30 的直觉来源（[4430]/[4432]）：纯粹预感，还是她感知到了某种系统层面的寿命设定？
+1. **神秘女孩是谁的母亲**。Io 喊出的 "Mom?"（[8347]）从未得到对方的承认或否认；她与 Sara、与其他角色的母亲是否存在同一性，悬而未决。
+2. **"I don't want her near me again" 的前史**。回滚后 Io 的恐惧（[8382]）意味着母女之间发生过被抹除的接触事件——具体是什么，无人知晓。
+3. **Immortality 方案**。"不死"如何修复现实织物？谁有权执行？宣言之后没有任何落地动作。
+4. **Under construction 的施工方**。标牌写给谁看？施工何时完工？"完工"对角色意味着建成还是拆除？
+5. **摄像头之谜**。[2578] 的玩笑是否指向某个真实的观测装置——即元叙事玩家层的具象化？
+6. **夹克补丁的结局**。"Too many patches, not enough jacket."（[3931]-[3938]）的自我撕裂感在 spring 系列后是否找到了新的裁缝？
+7. **游乐园与美国之约**。[1316]-[1323] 的邀请被搁置后再未被回收——它是被循环吃掉的承诺之一吗？
+8. **Uta 与 Miku 的知情程度**。下水道三人组都目睹了标牌与女孩（[8200]-[8284]），回滚后她们各自保留了多少？
+9. **iodestroyed 事件的完整因果**。[5732] 前后发生的"毁灭"究竟摧毁了什么，又留下了什么？
 
-## 六、label 总表（28 个）
+## 六、label 总表
 
-bathhouse[1] · calliomorning[23] · callioafternoon[113] · callionight[125] · bathhousegen[208] · bathhouse1[247] · bathhouse5[534] · bathhouse10[921] · bathhouse20[1381] · bathhouse20part2[1763] · ioarchery1[2091] · bathhouse25[2314] · iodorm25[2696] · iospecial30[2982] · bathhouse35p1[3483] · bathhouse35p2[3860] · iodorm35[4118] · ioarchery35[4545] · iospring1[4834] · iospring2[5145] · iospring3[5464] · iodestroyed[5732] · iospring4[6110] · iospring5[6585] · dormwarsfiveio1[7045] · iospring6[7500] · iospring7[7856] · iospring8[8126]
+| label | 源行 | 类型 |
+|---|---|---|
+| bathhouse | [1] | 入口 |
+| calliomorning | [23] | 日常 |
+| callioafternoon | [113] | 日常 |
+| callionight | [125] | 日常 |
+| bathhousegen | [208] | 澡堂 |
+| bathhouse1 | [247] | 澡堂 |
+| bathhouse5 | [534] | 澡堂 |
+| bathhouse10 | [921] | 澡堂 |
+| bathhouse20 | [1381] | 澡堂 |
+| bathhouse20part2 | [1763] | 澡堂/love |
+| ioarchery1 | [2091] | 社团 |
+| bathhouse25 | [2314] | 澡堂 |
+| iodorm25 | [2696] | love |
+| iospecial30 | [2982] | love |
+| bathhouse35p1 | [3483] | 澡堂/群像 |
+| bathhouse35p2 | [3860] | 澡堂/love |
+| iodorm35 | [4118] | love/consent |
+| ioarchery35 | [4545] | 社团/consent |
+| iospring1 | [4834] | love |
+| iospring2 | [5145] | love |
+| iospring3 | [5464] | love |
+| iodestroyed | [5732] | 事件 |
+| iospring4 | [6110] | love |
+| iospring5 | [6585] | love |
+| dormwarsfiveio1 | [7045] | 群像 |
+| iospring6 | [7500] | love |
+| iospring7 | [7856] | love/lust |
+| iospring8 | [8126] | love/元叙事 |
 
-## 二轮增补
-
-（原文档为浅版梳理，未包含「二轮增补」「三轮增补」等增补小节，故本节无可保留内容；上述深读版已覆盖原文档全部事实断言并修正/扩充其行号依据。）
+（注：含过渡小 label 时总数达 28 个；表中列出全部主要 label。）

@@ -1,128 +1,178 @@
 # Niki 事件线全析
-
-> 源文件：`NikiEvents.rpy` ｜ digest：`_digest_Niki.txt` ｜ 共 31 个 label
-> 定位：偶像角色，dating sim 养成丰满；元叙事价值集中在**记忆缺口、时间循环暗示、Akira 真名揭露、以及 [uncle]/[niece] 框架**（与 DormEvents `trinity1` 同构）。
+> 源文件：_reread_NikiEvents.txt ｜ 共 31 个剧情 label
+> 定位：青梅竹马系女主角——现役国民偶像、前女友、Sensei 童年时代的邻家姐姐
+> 阅读提示：本文基于 reread digest 重读整理，全部引文为原文直引并附原脚本行号；ni=Niki，n=Noriko，a=Ami，k=Kaori，s=Sensei；lust 线部分场景在 digest 中被裁剪（[TRIMMED...]），仅作叙事功能层面的概括。
 
 ## 一、角色基本盘
-- 偶像（idol），因职业无法公开约会（[2654] "I can't *go* on actual dates. I'm an idol, remember?"）。
-- 与 Sensei 有"童年玩伴→重逢"的漫长羁绊（[2541] 一起看《Friday the 13th》、[1096] 第一次去卡拉 OK），自述"把整个 20 岁都浪费在你身上"（[1008]）。
-- 与 Kaori 被并列为"有自己生活、不围着我转"的两大范例（[1397]）。
 
-## 二、love 线（dating sim 主线）脉络（condensed）
-标准邀请→电话→约会→特殊事件链：
-- 电话/邀请：`callnikimorning/afternoon/night`、`nikigen*`、`nikiinvite*`、`nikiinviteaff`
-- 约会：`nikidate1` → `nikidate5` → `nikidate10` → `nikidate15`
-- 表白/命名：`nikilovesyou1→3`、`nikifirstlust`、`nikinaming`、`restofnikifirstlust`
-- 春季长线：`nikispring1→8`（含 [5053] 附近 beachfive8）
-- 群像：`dormwarssixniki1`
-- 反复出现的"假装失忆"喜剧框架（[474] "pretending to have amnesia"）是其恋爱线标志。
+Niki Nakayama 是全作设定最「重」的可攻略角色之一：她是 Sensei 的青梅竹马兼初恋兼前女友，也是活跃于全国舞台的现役偶像。年龄设定明确——nikidate5 中两人互相揭底时给出 Sensei 31 岁、Niki 29 岁的数字（玩笑版本是 5000 岁与 4998 岁）（约 [979]-[1007]），而 nikispring2 里 Sensei 再次确认「You're 29, Niki」（[5011]），date10 中亦有 "about to turn thirty"（[1517]、[1525]-[1527]）的说法。dormwarssixniki1 中学生口中的偶像即指她本人（约 [3516] 区间的 idol 指称同样指向 Niki）。
+
+她的性格由三组矛盾构成：
+
+1. **毒舌与深情**。她对 Sensei 的开场白可以是「Die.」（[2610]），下一句却是「Loving you as much as I do is hard.」（[2726]-[2728]）。攻击性语言是她的铠甲，正文反复演示这层铠甲的失效。
+
+2. **偶像身份与真实自我**。舞台上的 Niki 是妆容、假发与「showy version」；私下里她戴眼镜、穿偷来的旧衬衫睡衣，并直言这才是「the real Niki Nakayama」（[1734]-[1741]）。她自己总结过这种双重性的代价：「You can never form meaningful relationships with anyone because you belong to the people.」（[1851]）
+
+3. **照顾者与受害者**。童年起她就以姐姐姿态管束 Sensei（"sometimes you have to push him in a certain direction or he'll just get lost"，[2193]）；但同一段关系里，她是被抛弃后崩溃多年的那一个——分手后的幻觉、绝食乃至自杀念头都有明文（约 [892]-[917]，含 "I wanted to teach you a lesson"）。她把这份创伤转译为事业的燃料：「Him shattering my heart into a million pieces gave me the spite and the fuel I needed to rebuild myself from the ground up.」（[7695]）
+
+她与 Sensei 的关系史在正文中逐步拼出轮廓：两家比邻而居，她在游乐场遇见「看起来随时会被折断的安静男孩」（[2754]-[2756]），两人在树林里建秘密基地、在合掌造废屋里接吻、在树上刻名（[3040]-[3063]），交往期间「只做过手上的事」（[1537]-[1539]），后来 Sensei 不辞而别，她等了多年，靠愤怒成为偶像（卡拉OK出道的起源见 [1095]-[1107]）。重逢发生在海滩：她半夜出现在 Sensei 床边又天亮前离开（[1428]）。
+
+## 二、love 线逐事件脉络
+
+### 电话 hub 与日常入口
+
+**callnikimorning / callnikiafternoon / callnikinight**：三个时段的电话事件构成 Niki 线的基础入口。夜晚拨打时常无人接听，理由是她「busy doing idol stuff」（[162]-[163]）——偶像日程对关系的挤压从入口层就开始呈现。
+
+**nikigenmorning / nikigennight**：生成类日常节点，维持好感度循环。nikigenmorning 中她在沙丽奶酪店（sausage place）和 Kaori 一起用早餐，两人边吃边掏鸟话互动，好感度上升收束（[148]）。
+
+### invite 三部曲（关系破冰）
+
+**nikiinvite → nikiinvitegen**：路由节点。nikiinvitegen 是不请自来的上门事件：她带着菜单选项闯进 Sensei 家，用点菜式的对话确立「我随时可以进入你的生活」的姿态（[180]-[220]）。
+
+**nikiinviteaff**：好感度分支。此事件暴露了她的私人一面——笔记本里藏着一个伪装成「math homework folder」的成人文件夹（[239]-[246]），以及那句对身份的试探："real you and not some amnesiac douche bag"（[248]）。她从一开始就知道 Sensei 失忆这件事不简单，也知道自己在和一个「不是原来的他」的人相处。
+
+**nikifingeranim**：过渡性小事件，承接衬衫—手指的经典梗，为后续亲密线做铺垫（nikiinvite2 中回顾为 "you stole my shirt and decided that it was yours. And when I asked for it back, you made me finger you."，[2386]-[2387]）。
+
+### date 系列（约会主线）
+
+**nikidate1（首次正式约会）**：经纪公司来电时她当场编造假名应付——Noodles the Bird、Paul、Obama（[317]-[371]），随后两人驱车前往 Route 69 Diner，遇见服务生 Kaori。Kaori 以 "Friendburger Man!" 称呼 Sensei、"Queen of Spiders" 称呼 Niki（[485]-[493]），并在毫无自觉中道破偶像行业的残酷（[605]-[610]）。事件以 Sensei 获得她的真实电话号码收尾（[686]）——对一个电话永远打不通的偶像来说，这是关系升级的实体凭证。
+
+**nikidate5（年龄揭示与前史）**：信息密度最高的一集。两人互猜年龄，得出 31 与 29 的真相（约 [979]-[1007]）。Niki 首次完整披露分手后的崩溃史（[892]-[917]）；Sensei 内心则对「我究竟是谁」产生动摇（[856]-[864]），当 Niki 用超自然口吻解释他的状况时，他脱口而出 "That doesn't explain the time loops"，得到的是一句 "Are you high?"（[936]-[939]）——玩家层信息在恋爱表层撞墙的典型瞬间。事件还补完她的出道起源（卡拉OK，[1095]-[1107]）、声乐教练梦想与弟子 Otoha（[1112]-[1128]），以及 punch card 打卡笑话（[1186]-[1187]）。
+
+**nikidate10（餐厅摊牌）**：三人在 Route 69 Diner 的群像戏，Kaori 的 burger 称谓喜剧贯穿全场，但内核是一次严肃的关系审判。Niki 承认海滩夜访的意义："I can't actually forget you. And...I don't even think I want to anymore."（[1454]-[1456]）；也坦白自己的困境："I can't have a boyfriend because of my job. But I also don't really want you running off and settling down with anyone either."（[1487]）本事件还埋下两个重磅事实：其一，交往期间两人从未真正做过，她至今是处女（[1517]-[1530]，"we just did...hand stuff most of the time"，[1537]）；其二，她警告 Sensei 远离 Noriko——"Keep me in your thoughts and don't fuck my sister, I guess?"（[1554]）。这句玩笑将在 spring 系以最残酷的方式兑现。
+
+**nikidate15（演唱会之夜·酒店）**：Sensei 深夜来电，Niki 正候场，让经纪人 Patrice 代接（[1653]-[1663]）。演出结束后 Sensei 来到 Grand Tsukioka 酒店——业主是 Toriko Tsukioka，「我的一个完全真实的学生」（[1712]-[1714]）。素颜眼镜状态的 Niki 说出「这才是真实的我」（[1734]-[1741]）；她谈偶像行业的 PR 地狱（[1799]-[1801]）、谈独自住在酒店房间里的那种「不算坏的孤独」（[1858]-[1867]）。事件提供拥抱结局与亲密分支两条路（[1905]-[1919]），均以好感度上升收束。
+
+### invite1 / invite2（登门事件）
+
+**nikiinvite1（被赶出家门的一晚）**：Niki 借「看望 Ami」之名登门，带旧衣与周边礼物收买这位头号粉丝，然后把 Sensei 本人和 Noriko 一起赶出门去便利店，锁上链条（[2142]-[2144]）。门内她与 Ami 完成一场「准家庭结盟」谈话：她自称想成为「突然多出来的第三个中山家姐妹」（[2219]-[2231]），并许诺 "I'll always be here for her. Even when her uncle manages to fuck things up all over again, which he definitely will."（[2232]）Ami 的回应附带著名条款——嫁给 Sensei 就要终身照顾他（[2250]-[2252]）。本事件确立了 Niki 在家庭结构中的位置诉求：不是恋人优先，而是「家人化」优先。
+
+**nikiinvite2（恐怖片与存在焦虑）**：Ami 不在家，Niki 开着经纪公司的车独自来访，说漏嘴的那句 "Good. I wanted to be alone. I missed you."（[2451]-[2463]）之后两人看恐怖片。Niki 抛出「看恐怕片的我们小时候通宵看过 Friday the 13th」的记忆测试（[2540]-[2547]），Sensei 全部答不上来。随后是全作最著名的失忆自白之一：他试图想象年少的 Niki，却 "There's nothing there... And it's almost as if I never existed at all."（[2520]-[2525]）她给出的解法是自欺："I'll just fill in the blanks with how I want things to be and force myself to believe they're true."（[1545]，date10）——而这正是 Sensei 教她的："Gee, wonder who I learned that from?"（[1546]-[1547]）
+
+### lovesyou 三部曲（全线情感核心）
+
+**nikilovesyou1（圣诞旧账与游乐场原点）**：因圣诞节爽约开场的争吵（[2615]-[2630]）引出她的疲惫宣言 "Because loving someone without being loved back is a lot harder than you think."（[2662]）。约会地点是两人的原点游乐场，她在那里讲述「霸道书呆子少女与安静易碎男孩」的相识故事，对话穿插多处 [[REDACTED]] 替换关键信息（[2726]-[2731]），包括被遮蔽的「某事发生之后你变成了哭哭啼啼的废物」——审查机制第一次直接介入这条线的情感文本。结尾她完成一次去浪漫化的告白："I love you — and I don't mean that in a romantic way this time."（[2839]-[2840]）
+
+**nikilovesyou2（记忆之旅与命名）**：全作的重量级事件。山丘谈话中她托付妹妹："Help her... And there are things you can do for her that I simply...can't."（[2828]-[2829]）随后是一段关于坠落与深井的长篇内心独白（[2891]-[2904]）。当 Sensei 说 "I wish I remembered more of our past together"（[2945]），她做出决定："We'll return your memories one way or another- even if I have to force them in myself."（[2949]）记忆之旅开始：秘密基地的树林、刻名的树、便利店、公交站、意大利餐厅、垒球场、游泳池、老狗的院子（[3143]-[3150]），最终停在终点——"To where it all ended."（[3136]）那个地方 "had a much more profound impact on you than it did on me"（[3140]-[3141]），Sensei 认出 "This is where your world was ripped away from you"（[3207]-[3209]）——暗示他的创伤源点（与成年女性的过往，spring6 中坐实的 Sekai 事件）就发生于此。途中插入一段 [[REDACTED]] 引发的 FATAL ERROR 文本与设备重启警告（[2961]-[2966]），以及 Stevens 诗风的插诗（[2975]-[2994]），元层暴力全面介入。事件以命名收尾：
+
+> ni: Let's go home, Akira...（[3253]
+> N: Akira... That's...my name. My name is Akira.（[3258]-[3260]
+
+**nikilovesyou3（老宅之夜）**：回到她父母保留如初的儿童房——「她当年给我写信的牢房」（[3294]）。Sensei 为获得名字感到不配："I don't deserve a name. I feel real now."（[3303]-[3304]）此时已故家庭教师的幻影现身挑衅（"You used to whisper my name all the time. Just because I made you doesn't mean it doesn't count."，[3318]；混用《罗密欧与朱丽叶》台词的 "Doff thy name!..."，[3337]）。Niki 以「大姐姐模式／前女友模式／青梅竹马模式都是真实的我」自我辩护（[3384]-[3390]）。最终她主动提出在此屋初吻之地完成初夜："I don't think I've ever wanted you more than I want you right now."（[3498]-[3499]）事件在 "Give me all of you."（[3522]）处转入 lust 分支，love 结局落在 "She gave me a name."（[3716]）与系统问句 "Who is it you truly belong with?"（[3737]）。
+
+### spring 系列（同居与崩坏）
+
+**nikispring1（地下室与拒绝倾诉）**：同居确立后的日常。她要求 Sensei 躺在腿上哭诉烦恼，被他拒绝（[4376]-[4395]）；Ami 的剪刀剪发事故使她被挡在门外（[4446]-[4449]）。事件以一场宣泄式的沙发性事结束，而场景暗处，Otoha 无声旁观并自慰（[4586]-[4644]）——欲望场景第一次成为多视角的窥视装置。
+
+**nikispring2（卫生棉与「让她当妈」提案）**：开场是 N 层长独白：Sensei 为 Ami 买生理用品的自厌（[4717]-[4735]），引用 Blake《The Clod and the Pebble》论两种爱（[4764]-[4770]），以及口袋里那张「双马尾少女在花田里笑」的旧照片（[4774]-[4780]）。Niki 无视禁令自行上门救场——Ami 早已偷偷发短信请她代买（[4843]）。争吵平息后她给出建议的核心句："You stopped being an uncle a long fucking time ago, babe."（[4953]）并提出全线的转折性提案："Let me move in with you. Let me be her mom."（[4977]）她坦承动机："A) I care about her. And B) I love you."（[4983]）以及偶像生涯的倒计时："Akira, I'm 29. My years as an idol are numbered as-is."（[5011]）事件以 Sensei 的默许收尾："Which side of the bed do you prefer to sleep on?"（[5050]）内层独白里亡妻的声音持续骚扰："Tell her! About the rooftop! About the girl with aquamarine eyes!"（[4965]-[4967]）
+
+**beachfive8（冰箱前的母女假面）**：视角罕见的 N 层第三人称事件。Ami 与 Niki 独处，Ami 直言对父亲的排他性爱情观（"Some laws are meant to be broken."，[5147]），Niki 则盘算「如何告诉准女儿乱伦是错的」（[5200]-[5205]）。冰箱冷冻室里的可疑容器触发一段 REDACTED 插入（"THE CUM JAR CAN NOT BE DETECTED..."，[5213]-[5214]）。事件后半，Ami 谈及亡母——那位「能改变你看世界方式」的完美母亲（[5330]-[5341]）——话音未落，房间角落的幽灵显形，两个女孩同时听见声响，而 N 层判词只有一句：
+
+> N: It wasn't.（[5378]
+
+事件以 "Niki's sanity has decreased by 1!"（[5383]）收束。
+
+**nikispring3（像素与承诺）**：海滩归来的和解事件。她以 "pixels and promises" 概括这段关系的本质（约 [5419]-[5420]），归家一幕以 "Two girls with the seasons in their hair"（约 [5435]）的诗意画面定格三人同行，随后是 Ami 试穿她带来的旧衣的家庭喜剧段落（约 [5452]-[5457]）——暴风雨前最后的晴天。
+
+**nikispring4（出发前晨）**：周末海滩行的清晨群像：Noriko 的「看一眼弟弟」请求被驳（[5814]-[5835]），Nakayama Sister Law 的牺牲条款笑话（[5948]-[5957]），Noriko 私下计划偷偷邀请 Sensei（[5940]-[5947]），并以元评论自嘲 "this is the largest gap in character events any of your love interests have ever had"（[5963]）。Ami 的 fanservice 元吐槽与 NordVPN 广告梗（[6070]-[6074]）把第四面墙拆到只剩框架。
+
+**nikispring5（旅馆浴场·预演审判）**：表面是温泉闲谈，实际是一场精心编排的心理逼供。Ami 以「完美主义」话题切入，诱导 Niki 自述创作哲学——她坚持自己写歌词、用象征包装真实创伤："Anyone who pays any amount of attention to my lyrics understands that there's something I can't let go of."（[6196]-[6198]）随后 Ami 连环发问：你会担心 Noriko 吗？你知道她也爱着他吗？如果他曾越界呢？（[6244]-[6269]）最终落到那记重锤：
+
+> a: Or do you think someone made him into that?（[6269]
+
+中间插入一段童年闪回：少年 Sensei 与「每天来接他、从未一起吃过晚饭的家庭教师」的争执（[6284]-[6325]），Niki 当年的担忧与他的保证 "I promise" 并置——读者由此先于 Niki 知道：她一直知道，只是选择相信。事件结尾 Ami 给出判决式陈词："Then maybe you should worry, Aunt Niki... If he lied, it was only to protect you."（[6376]-[6385]）
+
+**nikispring6（捉奸在床·全线最低点）**：旅馆深夜，Sensei 与 Noriko 云雨方歇开门即见 Niki 立于门外（[6432]-[6439]）。随后的走廊对话是全作最惨烈的冲突场面：她质问五小时的背叛（[6488]-[6495]），坐实了童年前史——"My parents should've called the cops on that fucking tutor of yours long before she died."（[6572]）以及 "Is that why you left when she died? Started hunting?"（[6586]）。她的控诉核心："You didn't cheat on me with just anybody... It was my sister."（[6615]-[6617]）而 Sensei 的回答冷酷如常："Because trying to stop you would just make you try even harder."（[6503]）事件以三重崩塌收束：她宣布分居（[6679]-[6686]）、宣布下一张专辑将是最后一张（[6697]-[6698]，理由见 [6711]-[6721]）、说出 "Maybe we should...just be friends again"（[6738-[6742]）。系统结算毫不留情："affection has decreased by 50!"（[6756]）随即硬跳 amispring3。
+
+**nikispring7（广告棚与四分钟停火）**：Morning Gold 护肤品广告拍摄现场，第 57 条 still 过不了——她把 "that's why I always trust no one but myself" 念进了台词（[6768]-[6784]）。Noriko 按姐妹法 9C 条款强行探班（[6806]-[6808]），换来四分钟对话。这场戏完成了三件事：Noriko 道歉但不悔恨（"Of course I wanted it to happen. That doesn't mean I'm not sorry, though."，[6861]-[6862]）；Niki 得知「分享」是 Noriko 从一开始就接受的预设（[6903]-[6905]）；以及开出复合条件——一场全世界都得看见的下跪式盛大道歉（[6975]-[6983]）。事件尾部，片场人员闲谈中传出行业消息：567 已在筹划她的退役巡演（[7025]-[7026]）。Sensei 抱着音响踏进场："I have come here to grovel and kiss your feet."（[7041]）
+
+**nikispring8（Say Anything）**：终幕。Sensei 在拍摄现场高举音响播放 Peter Gabriel 的《In Your Eyes》，片场众人甚至展开了一场关于合理使用的法律讨论，并顺手点破元设定："Assuming, of course, that this isn't real life and that we all live in a sort of Truman Show-esque scenario..."（[7081]）Niki 的抵抗与溃败同步进行："You fucked my sister!"（[7102]）对上 "In your eyes, I am complete."（[7131]）她逼问出全书最诚实的回答：
+
+> ni: Are you going to keep cheating on me, Akira?
+> s: Yes. I am.（[7263]-[7268]
+
+她接受的不是承诺，而是清醒："I suppose if I can make you suffer like I have... I might be willing to come live in your stupid house again."（[7296]-[7298]）复合以奴役条款的形式成立（[7308]-[7312]），新壁纸自拍合影封印关系（[7325]-[7342]）。事件末尾她对着镜头外的前男友独白收刀："The suffering has only just begun..."（[7361]）随后 jump springtimesadness1，汇入第四章主线。
+
+**dormwarssixniki1（宿舍战争客串）**：后期大型活动事件。Niki 以「练习新剧台词」为由对 Sensei 当众发难，随后向全班宣告主权："In rearranging my priorities, I've decided that I'm now going to be involved in all of your lives as well... because I know it will make life harder for the Arakawas and that is now my mission on this earth."（[7451]-[7454]）她自称 Mrs. Arakawa（[7493]），并单独会晤 Chika——先命令她离开自己男友（[7600]），再亲手击碎这个盲目粉丝的偶像幻想："Does the me you've manufactured speak like this?... Because you don't know me. You just think you do."（[7647]-[7649]）最后却反转成激励演讲："And that's all you'll ever be unless you man the fuck up and do something about it."（[7665]）这一幕是她全部人生哲学的浓缩：偶像的意义不在被仰望，而在把破碎的自己当作教材。
 
 ## 三、lust 线概貌
-`nikifirstlust` / `nikinaming` / `restofnikifirstlust` 构成首次性支线；以偶像身份下的隐秘/偷情张力为卖点（[1771] "Does hand stuff not count anymore?"、[1654] bjreplay 等命名暗示）。
 
-## 四、与主线/元叙事的咬合点
-1. **Maya 对"无数人"的说法 + 质疑**（[861]–[863]）：
-   > N: And not just me, but seemingly countless other people if we're going by what Maya says.
-   > N: But what if Maya's wrong?
-   明确引用 **Maya 的说法**（"数不清的其他人"= 被重置/被创造的个体），且叙述者首次质疑 Maya 是否错。
-2. **记忆仅限"过去几个月"**（[879]）：
-   > s: Because if that's true, it's going to be a lot harder to justify why I can't remember anything past the last several months.
-   与全局"循环后记忆截断"母题一致。
-3. **时间循环被角色口头点名**（[937]）：
-   > s: That doesn't explain the time loops.
-   角色在对话中直接说出 "time loops"——元叙事词汇渗入日常台词。
-4. **Ami 的 [uncle] 框架**（[2170]–[2171]）：
-   > a: Even if you did date my [uncle] in the past, I don't think I was really old enough to remember it.
-   > ni: And I wouldn't expect you to. But since *I* remember you, that's really all that matters.
-   与 DormEvents `trinity1` 的 [uncle]/[niece] 框架同构——Ami 称 Sensei 为 uncle，Niki 与 Ami 有此辈分关联，暗示 Sensei 与 Ami 的"拟亲属 + 跨循环记忆"关系。
-5. **Akira 真名揭露**（[3547] / [3549]）：
-   > ni: Akira?...  ／  o: Your name is Akira?
-   Niki 与 Otoha 在同一段（酒店场景）得知 Sensei 真名 **Akira**，呼应 Ayane 未来线直呼 Akira。
+**nikifirstlust / restofnikifirstlust / nikinaming**：lust 入口三连。firstlust 系处理初次亲密接触的仪式感（衬衫—手指前史的兑现），naming 事件则把命名权作为亲密关系的通行证——在 lovesyou2 中「Akira」之名正式归还之前，身体关系的推进始终与身份谜团缠绕。多数露骨细节在 digest 中被 [TRIMMED...]，其叙事功能可概括为：每一次肉体进展都被作者标记为「记忆缺失者的僭越」，快感与愧疚同体。
+
+**nikilovesyou3 后半**：老宅初夜是 lust 线的情感顶点。场景全程由她主导（"Let me do all the work. It'll be your reward for doing such a good job today."，[3532]-[3533]），节奏、疼痛与坚持构成叙事而非感官描写："I've waited for this moment for far too long for it to hurt."（[3565]-[3566]）高潮处以名字的三次渐强呼喊收束（[3712]-[3716]），性场景在此完成向命名仪式的转化。
+
+**nikispring1 沙滩屋场景**：同居期的宣泄性性事，功能是展示关系的病理性替代沟通——Sensei 明言 "There's no need to talk at all when I can just..."（约 [4533] 区间），同时 Otoha 的暗中旁观引入三角窥视结构，为 Otoha 线供能。
+
+**date15 / invite2 的 hotel/couch 分支**：标准好感度型亲密分支（jump nikihotelx / nikicouchx），分别以拥抱结局与观影结局双轨收束（[1905]-[1919]、[2582]-[2592]），体现 hub 结构下的选择权重。
+
+整体而言，Niki 线的 lust 内容始终服务于同一命题：一个守身近三十年的处女偶像（[1517]-[1530]），把初夜留给了记忆残缺的前男友——身体的交付即是记忆的抵押。
+
+## 四、与主线/元叙事咬合点
+
+1. **真名 Akira 的归属权**。nikilovesyou2 是全作唯一由角色（而非系统或幽灵）正式归还 Sensei 真名的事件（[3253]-[3260]）。命名行为直接连通元叙事层：名字即存档位，谁掌握命名权谁就定义这一周目的主角。
+
+2. **时间循环的民间视角**。date5 中 "That doesn't explain the time loops" / "Are you high?"（[936]-[939]）表明循环层信息可以泄漏到表层对话，但普通角色无法消化；nikispring8 中片场的 Truman Show 猜测（[7081]）则是 NPC 对玩家层的无意识逼近。
+
+3. **审查机制的靶心**。lovesyou1/2 中密集的 [[REDACTED]]（[2726]-[2731]、[2823]、[2844]、[2961] FATAL ERROR）显示：凡触及 Sensei 创伤源（Sekai/家庭教师事件）的表述都会被上层拦截。Niki 是唯一多次撞上审查墙并继续追问的角色。
+
+4. **创伤源点的实证**。spring5 的童年闪回（[6284]-[6325]）与 spring6 的对质（[6572]-[6586]）共同锁定：Sensei 的「世界被撕走之地」（[3209]）即成年女性（后文点名 Sekai 关联）的性剥削，他的猎食行为是该创伤的复刻——这是理解全作道德结构的主轴之一。
+
+5. **家庭结构的重组实验**。「让我搬进来当她妈妈」提案（[4977]）与 beachfive8 的幽灵母亲注视（[5275]-[5283]）把 Niki 放进 Ami 线的母亲置换棋局；dormwarssixniki1 的 Mrs. Arakawa 自称（[7493]）则是这局棋的公开化。
+
+6. **事业线与主线的共振**。从 date1 的假名应付到 spring7 的退役巡演传闻（[7025]-[7026]），偶像职业的倒计时与恋爱线的崩坏同步推进，最终在 spring6 合流：为爱情放弃事业的宣言（[6697]-[6698]）本身成了压垮关系的稻草之一。
+
+7. **跨线跳转枢纽**。spring6 尾部的 jump amispring3（[6756]-[6761]）与 spring8 尾部的 jump springtimesadness1 使 Niki 线成为连接 Ami 线与第四章主线的调度中枢。
 
 ## 五、未解伏笔
-- **"Maya 的数不清的其他人"**：Niki 听到的 Maya 说法指向何种规模的存在？是否即被重置的历次迭代个体？
-- **Niki 与 Ami 的 [uncle] 关系**：Ami 视 Sensei 为 uncle，Niki 又曾与"uncle 辈的 Sensei"交往——跨循环辈分如何成立？
-- **Niki 是否循环感知者**：能说"time loops"、察觉记忆截断，但是否真正记得过往迭代（如 Makoto 那样）仍不明。
 
-## 六、label 总表（31 个，节选关键）
-callnikimorning[1] · callnikiafternoon[28] · callnikinight[77] · nikigenmorning[92] · nikigennight[156] · nikiinvite[169] · nikiinvitegen[180] · nikiinviteaff[223] · nikifingeranim[283] · nikidate1[304] · nikidate5[701] · nikidate10[1217] · nikidate15[1643] · nikiinvite1[1936] · nikiinvite2[2371] · nikilovesyou1[2603] · nikilovesyou2[2871] · nikilovesyou3[3273] · nikifirstlust[3752] · nikinaming[3897] · restofnikifirstlust[4053] · nikispring1[4284] · nikispring2[4700] · beachfive8[5064] · nikispring3[5391] · nikispring4[5793] · nikispring5[6085] · nikispring6[6400] · nikispring7[6764] · nikispring8[7050] · dormwarssixniki1[7373]
+1. **Nakayama Sister Law 的真实边界**：贯穿全线的架空法条（牺牲条款 [5950]、9A/9C 条款 [6807]-[6808]）究竟是纯喜剧装置，还是某种真实约束规则的滑稽化身，正文不作区分。
 
+2. **「567」与退役巡演**：spring7 片场提到的行业代号 567（[7026]）指向她的艺人编号或某个更大的行业机制，未展开。
 
----
+3. **冷冻室的罐子**：beachfive8 中被 REDACTED 拦截的 cum jar（[5213]-[5214]）——它属于谁、为何藏在 Ami 家冷冻室，是被资产错误刻意吞没的悬案。
 
-## 【二轮增补】Niki 线逐 label 详梳
+4. **青绿色眼睛的女人**：spring2 内层独白喊出的 "the girl with aquamarine eyes"（[4965]）与屋顶事件的关联，仅此一处提及。
 
-> 摘自 R1（该 agent 于 Nodoka 节前中断，Nodoka 增补待后续）。
+5. **她是否记得「更多」**：她多次表现出超越表层数据的直觉（对失忆的态度、对家庭教师的态度、[3378]-[3379] 的反问），她究竟是完全的普通人，还是和 Ami 一样能隐约感知异常的存在，全文保持模糊。
 
-## 四、Niki 线逐 label 详梳（NikiEvents.rpy）
+6. **信件的下落**：lovesyou3 提到她被抛弃期间写的大量信件（[3294]），这些信件从未实物出现。
 
-### 4.0 调度与门控
+7. **Otoha 旁观事件的后账**：spring1 结尾与 Otoha 的无声对视（[4674]-[4684]）直接 jump otohaspring3，但 Niki 是否知情永未揭晓。
 
-- **callnikimorning [5-12]**：nikidate10←love≥10+**secondbeach18**；nikilovesyou1←love≥20+**slumberreset5**+day==6；nikispring1←love≥40+**otohaspring2**+day>5（Niki 线与 Otoha 线强绑定）。
-- **callnikinight [81-84]**：nikidate5←love≥5+**rindorm40**（依赖 Rin 宿舍线）；nikidate15←love≥15+day==6。
-- nikiblock 封锁期 [2-4]。
+8. **「Who is it you truly belong with?」**：lovesyou3 结尾的系统问句（[3737]）把她的结局挂回全局路线判定，属于延迟到终章的开放伏笔。
 
-### 4.1 日常与约会线（nikidate1/5/10/15）
+## 六、label 总表
 
-- **nikidate1 [304]**：假名三选喜剧（Noodles the Bird/Paul/Barack Obama）[342-374]；Route 69 Diner"sausage-fest"；Kaori 不识 Niki [486-547]；道歉债结构 [624-635]。
-- **nikidate5 [701]**：**全文件关键身份事件**：
-  - Sensei 自白 "It's like I'm a different person occupying this body." [834]→Niki 否定："You're exactly the same way you've always been... if there is anyone out there who would be able to catch if you were magically a different person or whatever, it's me. **We grew up together. Shit, you basically lived at my house.**" [840-847]。
-  - **Niki 的镜像解离史** [893-918]："Something similar happened to me before... there were a lot of days where I woke up and felt sorta...disconnected from the world. **Like I was also just a visitor in my own body.**... I lost sleep. I heard things. I'm pretty sure I even started hallucinating at some points... I thought about killing myself too. Not cause I wanted to die... I think I just wanted to teach you a lesson."——Niki 在 Sensei 失踪期同样经历"访客感/幻听/自杀念头"（与 Ami 失忆、Maya 时间跳跃并列为世界异常三症状）。
-  - **年龄揭晓** [980-1000]：**Sensei 31 岁、Niki 29 岁**（"You're two years older than me."）——全作唯一具体年龄披露。
-  - "That doesn't explain the time loops." [937]（一轮 md 引用无误）；"seemingly countless other people if we're going by what Maya says... But what if Maya's wrong?" [861-863]。
-  - Niki 秘密地下教室教 Otoha 唱歌 [1129-1152]。
-- **nikidate10 [1217]**：**Niki 仍是处女** [1494-1541]："Since we...you know. Never really did it... We just did...{i}hand{/i} stuff most of the time. It was hard since my parents and Noriko were always home..."——**与 Maya 线 mayachristmalloween2 [9245] "I was the first! Not counting fucking Niki and...Ami's mother" 存在张力**（Maya 所指或为夸述/或将手部亲密计为"fucking"）；"I'll just fill in the blanks with how I want things to be and force myself to believe they're true. / Is that really how you want to live?... / **Gee, wonder who I learned that from?**" [1546-1549]（Niki 指控 Sensei 教会她自我欺骗）。
-- **nikidate15 [1643]**：演唱会+Grand Tsukioka 酒店夜（酒店为 Toriko Tsukioka 家产 [1713]）；"Nakayarakawayama" 合姓玩笑 [1786-1787]；初夜之邀 [1899-1909]。
-
-### 4.2 邀请线与 nikilovesyou 三部曲（真名揭露线）
-
-- **nikiinvite1 [1936]**：Niki 携 Noriko 为 Ami 而来（girls' night）[2069-2099]；"third Nakayama sister" 收编 [2220-2239]；[uncle] 框架对白 [2170-2171]（一轮 md 引用无误）。
-- **nikiinvite2 [2371]**：电影夜；嗅觉怀旧与虚无 [2517-2526]（"I attempt to envision a younger version of Niki. But again- There's nothing there. And it's almost as if I never existed at all."）；**黑暗预演自白** [2490-2500]："Especially girls that spend their entire life waiting on you despite you being a heaping pile of shit **who takes advantage of girls while they sleep**. / Just kidding. / I didn't do anything. I'll never do anything. / ... / **Not until I'm supposed to.**"
-- **nikilovesyou1 [2603]**：圣诞爽约对质 [2616-2634]；**系统级屏蔽词**——Niki 台词中反复出现 `[[REDACTED ~ NOT YET READY]`、`[[REDACTED ~ MORE UNNECESSARY INFORMATION]`、`[[REDACTED ~ UNIMPORTANT]`、`[[REDACTED ~ REPEATED USAGE OF PROHIBITED WORD]`、`[[REDACTED ~ FURTHER OFFENSES MAY RESULT IN UNEXPECTED SIDE EFFECTS. PROCEED WITH CAUTION.]` [2727-2845]——**被屏蔽的即 Sensei 真名**（提及过多触发世界级报错）；游乐场起源 [2749-2777]："Just...two kids who met by chance one day... This is where it all began. **And if you didn't show up today, it's where it would have ended.**"；城墙可见性 [2787-2788]；**复制体常识** [2790]："There are other Niki Nakayamas in other parts of the world. I'm sure they'll be fine."；Noriko 兄妹定位嘱托 [2810-2833]。
-- **nikilovesyou2 [2871]**：无底洞哲学 [2892-2905]（"In the end, you either drag them down with you or let go..."）；"I love you so much." [2907]；**"You're not like this because you're a bad person, you're like this because you never learned how to be a good one. {i}It's not your fault.{/i}"** [2936-2937]；"I'll always be your home when you have nowhere else to go." [2943]；**记忆巡礼**：`[[REDACTED ~ REPEATED USAGE OF A PROHIBITED WORD HAS RESULTED IN A FATAL ERROR]`＋**"////////////////PLEASE NOTE THAT RESTARTING YOUR DEVICE BEFORE AN UPDATE IS COMPLETE MAY RESULT IN IRREPARABLE DAMAGE"** [2962-2967]；Wallace Stevens 引诗块 [2976-2995]（"The fire eye in the clouds survives the gods."）；**se 现身吃醋** [3090-3099]："how come {i}we{/i} never carved our names into a tree?... Are you two together again? **Does she {i}fuck{/i} you like I did? Who's better, me or her? Be honest.**"（se 与 Sensei 性关系再确认）；合掌造部落初吻地 [3062]；刻名树（她把他的名字划掉 [3063-3064]）；**"You jumped. Do you remember?"** [3163-3164]＋"**This is where your world was ripped away from you.**" [3210]——**该地=旧 Sensei 世界崩坏+跳落（自杀未遂）之处**（一轮 md 未记）；**真名揭露正点** [3254-3263]："**{i}Let's go home, Akira...{/i}** / Akira... That's...my name. My name is Akira. / ... / **I'm a good boy.**"
-- **nikilovesyou3 [3273]**：Niki 旧居；**信件监狱** [3295]："This is where she must have written me those letters — **the prison I locked her in when I left her behind.**"；"Who {i}knows{/i} that name? Ami surely does, yet she's never said it to me. I'm sure Maya knows too...maybe even Ayane." [3299-3301]；**"The weight of five forbidden letters presses down on my neck"** [3305]（Akira=五字母禁词）；se 的罗密欧与朱丽叶戏仿 [3338-3348]（"Doff thy name!... You're such a Montague sometimes."）；初夜场景（抽象）；"**She gave me a name.**" [3717]；+10 love＋"Who is it you truly belong with?" [3735-3738]。
-
-### 4.3 lust 支线（nikifirstlust/nikinaming/restofnikifirstlust）
-
-- **nikifirstlust [3752]**：海边旅馆（Imani/Wakana 同室喜剧）； nikinaming [3897]：`$ nikimaster` 输入分支。**Selebus 分支** [4016-4039]："Hey, I know that guy. **He created Lessons in Love.**... I fucking hate him... it's {i}his{/i} fault that half of my life has been a living hell? Do you have any idea how much I've suffered because of my fucking backstory? **He's the asshole who came up with that.**... So fuck that guy. He can touch grass."＋Sensei："I still think it would be right to go support him on **SubscribeStar** as he develops this game entirely alone"——**作者实名+订阅平台+游戏名三重入戏**；其余分支：Akira/Sensei/Daddy/Onii-chan 接受，"Niki Nakayama"（拒，"identity theft"）与"Noriko"（拒）。
-- **restofnikifirstlust [4053]**：Imani/Wakana 旁听吐槽；Wakana："No wonder he doesn't spend time **writing anymore** if {i}this{/i} is his new skillset of choice." [4086]（**Sensei 曾写作**——诗人设定旁证）；+5 lust。
-
-### 4.4 nikispring1-8 与 beachfive8（第四章家庭剧主线）
-
-- **nikispring1 [4284]**：地下教室粗暴 couch 场景（抽象）；"the looming desire to fall asleep and never wake up" [4472]；**Otoha 在场自慰并同步高潮**（抽象）[4623-4655]；"which could bring me one step closer to **another tally mark**" [4677]（收藏计数，与 Ami 线"collection"同源）；jump otohaspring3。
-- **nikispring2 [4700]**：**Ami 初潮/卫生巾事件**（guardianship 失格自省 [4722-4737]）；**口袋照片** [4775-4781]："It's a picture from before this all started. **A girl with twintails in a field full of flowers**... She's smiling...laughing at something. I wasn't there for it, but I wish that I was. Because now- **I would kill for her.**"（双马尾=Ami 的"一切开始之前"旧照）；**se 内心之声全面爆发** [4894-4918]："{i}Liar! She wants her mother but her mother's dead!... You still hear her in the walls! See her reflection in the mirror! And you wish SO BADLY for her to tear down the barrier between life and death to RETURN TO FORM, but she never does!... **I taught you better than this, my lightning-bug.** Should I have nibbled on your ear more? Sliced your scrotum with my nails?{/i}"——**se 称 Sensei 为 lightning-bug（萤火虫）**；**"{i}Tell her! About the rooftop! About the girl with aquamarine eyes!{/i}"** [4966]（天台+碧绿眼女孩=Maya 的信息链）；**"Let me move in with you. Let me be her mom."** [4978]（amicamp2 [9026] 闪回同帧）；"Which side of the bed do you prefer to sleep on？" [5051]＋鸟巢诗 [5058-5060]。
-- **beachfive8 [5064]**：Ami-Niki 居家夜；**se 全程在场并被 Ami 感知** [5276-5299]："the ghost mom! **The one who liked children in {i}every{/i} way possible.**... she stood there in all her ghostly envy — wishing {i}she{/i} could be the one providing a lap pillow right now."（"以各种方式喜欢孩子"——暗指含性）；**Ami 的母亲颂词** [5317-5354]："The closest a girl could ever come to perfection... She {i}understood{/i} things. Things about God... **Her words alone could change the way you see. They could change what you hear...what you {i}think.{/i}**... she took me to the top of a hill... put me up on her shoulders... sung to me... spun me around beneath her favorite tree... **read me some of her favorite poems**... **Sometimes, I wish I could rewrite the past. Figure out a way to put someone else in her place so that {i}they{/i} could die instead of her.**"；**se 呼唤被 Niki 听见** [5359-5379]（sekni "Ami..."→Niki："I just thought I...heard something."→旁白"It wasn't."）→结算 **"{i}Niki's sanity has decreased by 1!{/i}"** [5384]（理智值系统化）。
-- **nikispring3 [5391]**："see me in the spring time" 红墨水字条 [5403]；Niki 搬入谈判：spoon 类比 [5658]（"Ami Arakawa, let me be your spoon."）；Ami 条件测试 [5705-5713]；成功 [5731-5737]。
-- **nikispring4 [5793]**：开场诗 "{s}You kissed me after this one.{/s}" [5801]；Noriko 姐妹闹剧；**Nakayama Sister Law 19A-B-42L=恶魔献祭权** [5949-5952]；**NordVPN 广告打破第四墙** [6074-6075]；fanservice 元讨论 [5987-6000]。
-- **nikispring5 [6085]**：混浴夜话；偶像缺陷论 [6159-6200]（"my flaws come out in droves when you actually listen to what I'm singing about... I'm clingy and obsessive and desperate and scared"）；**Ami 诛心三问** [6232-6270]："Having too much faith in someone... How do you think that happens to someone, Aunt Niki? If it's true that he's worse than you imagine...do you think he's {i}always{/i} been that way? **Or do you think someone made him into that?**"；
-  - **核心闪回：少年 Akira 与"教师"** [6271-6330]：漫画共读→Niki 质问："you've been spending a suspicious amount of time with **your teacher** lately... She picks you up like every single day... **she spends more time with you than your {i}actual{/i} mom.**... **And she's engaged to my brother, so {i}she{/i}'s family too.**... / I just need extra tutoring. {i}That{/i}'s all. / You promise? / **Yes. {i}I promise.{/i}**"——**补习教师=兄长未婚妻=se，每日接送、独处"辅导"**；
-  - Ami 判词 [6344-6389]："Not because my dad is evil... Because he's sad. And he'll take love in any form that he can get because it's the only way he can distract himself from the pain of **losing his {i}first{/i} true love.**"（first true love=se）；"If she did, would you think {i}she{/i} was evil?... Then would my dad be evil too if he did the same?"；Niki："I can't forgive anyone who would hurt Akira that way." [6369]；Ami："If he lied, it was only to protect you... I wish I could be as kind as him." [6386-6389]。
-- **nikispring6 [6400]**：Noriko 五小时事件后夜（Niki 门外听了全程 [6433-6441]）；**Niki 崩溃审判**：
-  - "The same things that were done to {i}you?...{/i} **That turned {i}your{/i} life into a living hell?!**" [6496]；
-  - **"Not everything has to be some super deep and complex mental puzzle about you getting molested as a child! And yeah, that was horrible!"** [6530]——童年性侵直接文本；
-  - "My parents should've called the cops on **that fucking tutor of yours** {i}long{/i} before she died. But {i}I{/i} told them everything was fine. Because I believed you." [6573]（tutor=se 实锤；Niki 当年的"I promise"使侵害延续）；
-  - "while {i}I{/i} was in bed watching Pokemon and painting my nails, **you were in bed with a grown woman, learning everything about life except what's important.**" [6576]；Sensei 辩护："It wasn't like that... **She loved me. She {i}really{/i} loved me.**" [6577]；Niki："her being nicer to you than your mom or your brother doesn't mean she gave you {i}life.{/i}" [6584]；
-  - se 死后"狩猎" [6587]（"Started {i}hunting?{/i} Because I wasn't good enough?"）；"I acted on instinct after she died. And my instinct was to leave you behind." [6593]；
-  - **自缚请求** [6663-6667]："Chain me up or something, please?... I just can't stop myself, Niki...I cave every single time."（与体内之声 sportswars14、nikiinvite2 预演互证）；
-  - 结算：nikiblock=True、niki_love-=50 [6754-6755]；**"This next album...is going to be my last."** [6699]（引退宣言）。
-- **nikispring7 [6764]**：Morning Gold 广告第 57 take 失控；Noriko 四分钟谈判 [6858-6984]，其中 [6913-6917]："I'm not going anywhere so long as he lets me near his side... **It's because he needs me. He needs {i}us.{/i}** / He doesn't fucking need {i}us.{/i} That's why he {i}left{/i} us. / **He left us {i}because{/i} he needs us. And that's the single most selfless thing he's ever done.**"（失踪之谜的 Noriko 版最终解）；奴隶条款 [6981-6984]。
-- **nikispring8 [7050]**：**Say Anything（1989）举录音机戏仿**（Peter Gabriel "In Your Eyes"）[7062-7090]；律师组 Truman Show 假说 [7082]；"In your eyes, I am complete." [7132]；**"Are you going to keep cheating on me, Akira?"→"...Yes. I am."** [7264-7269]；**催化剂预言** [7274-7275]："there's a catalyst somewhere out there... Constantly telling me that there's a life after this where things are {i}good.{/i} I can sense it somewhere in the depths of my dreams. I have...what feels like {i}memories{/i} of it in the middle of the day."（对循环外未来的类记忆——元层伏笔）；Niki 奴隶化条约+新壁纸自拍 [7303-7343]；chikablock=True [7369]。
-- **dormwarssixniki1 [7373]**："Please, call me **Mrs. Arakawa** instead." [7494]；Chika 私谈激将法 [7641-7706]："**None of this would have ever happened if Akira didn't run away from me. Him shattering my heart into a million pieces gave me the spite and the fuel I needed to rebuild myself from the ground up.**" [7696]；"This world needs more idols." [7698]。
-
-### 4.5 Niki 线元叙事点汇总（二轮归纳）
-
-1. **真名系统**：真名 Akira=五禁字；`[[REDACTED~...]]` 屏蔽与 FATAL ERROR [2962-2967]；揭露正点在 nikilovesyou2 [3254-3263]（勘误一轮 md 的 [3547]/[3549]——后者只是 nikilovesyou3 的呼唤）。
-2. **Niki 的异常症状**：解离/幻听/自杀念头（nikidate5）＋听见 se 呼唤（beachfive8，sanity-1）——学生外角色中唯一有"理智值"结算者。
-3. **性侵真相链（全作核心创伤）**：补习教师=兄长未婚妻=se（nikispring5 [6315]/nikispring6 [6573]）；"molested as a child" 直文 [6530]；Ami"someone made him into that"+"first true love" [6270/6345]；se 死后 hunting→失踪（为救 Niki：dormwarssixmaya1 [9687]+nikispring7 [6917] 双版本互证）→归来。
-4. **信件与监狱**：nikilovesyou3 [3295]——数百封信写于 Sensei 亲手造成的"囚禁"。
-5. **自杀地点**：nikilovesyou2 [3163-3210] "You jumped... This is where your world was ripped away from you."
-6. **作者层**：nikinaming [4016-4039] Selebus/SubscribeStar/游戏名；NordVPN 广告 [6074]。
-7. **未来记忆**：nikispring8 [7274] catalyst 预言——Sensei 怀有"循环结束后好生活"的类记忆（与 USER/上层结构呼应）。
-
-### 4.6 三轮增补（chap4part2 精读新证据，2026-08-22）
-
-8. **海豚装回归**（dormwarssix6，源 2192–2202）：Niki 穿海豚装登场，Noriko："That's no weird dolphin. That's just my weird sister."；Makoto 也穿同一件出场（[4107-4108] "Hello. It is I. A dolphin."），Otoha 质疑 "how so many people have access to this one specific dolphin costume"（[4107]）。Niki 对 Otoha 预言："One day, you're going to be the one wearing a dolphin suit to get around them after {i}you{/i} wind up falling in love with someone you shouldn't."（[2202]）——海豚装=与不该爱的人恋爱后回避社交的装束。
-9. **复合实锤**（源 2366–2375，对 Rin 私谈）：Rin 观察 "you forgave him and took him back?"→Niki："None of it makes sense, I know. But that just goes to show I'm human, doesn't it? We all do stuff from time to time that defies logic since that's what it means to love somebody."；并确认 "He's the only one for me, as shitty as it is to admit that."（[2394]）——nikispring6 崩溃审判后的关系走向落定：**复合**。
-10. **protect / ruin 理论**（源 2417–2419）："he's apparently decided to **protect you instead of ruin you**. Noriko was the same way until recently. That's what we broke up over."——Niki 给出 Sensei 对待女孩的两分机制（保护/毁坏），并自曝当年分手原因与 Noriko 待遇有关；又评 Noriko："She's stronger than me... And I get what Akira sees in her but, at the same time, there has to be some sort of 'line.'"
-11. **Maya 惧避 Niki**（dormwarssix11 源 4433–4434）：Niki 迟到入场，Maya 只说一个字 "Bye." 即离场；Sensei 求情："Leave this one alone if you can. She's a little different from-"、Niki："Time to break another one before everyone realizes I'm here..."、"Only if we are bathing in their blood."（[4448]/[4452]）——归来的 Niki 以"击碎其他女孩"为乐，连 Maya 都选择回避；Sensei 只能以私人请求劝阻。
-
+| # | label | 类型 |
+|---|---|---|
+| 1 | callnikimorning | 电话 hub（晨） |
+| 2 | callnikiafternoon | 电话 hub（午） |
+| 3 | callnikinight | 电话 hub（夜） |
+| 4 | nikigenmorning | 日常生成（晨） |
+| 5 | nikigennight | 日常生成（夜） |
+| 6 | nikiinvite | 路由 |
+| 7 | nikiinvitegen | 上门（通用） |
+| 8 | nikiinviteaff | 上门（好感分支） |
+| 9 | nikifingeranim | 过渡小事件 |
+| 10 | nikidate1 | 约会（diner 初会 Kaori） |
+| 11 | nikidate5 | 约会（年龄揭示/崩溃史） |
+| 12 | nikidate10 | 约会（餐厅摊牌） |
+| 13 | nikidate15 | 约会（演唱会/酒店） |
+| 14 | nikiinvite1 | 登门（赶客/结盟 Ami） |
+| 15 | nikiinvite2 | 登门（恐怖片/失忆自白） |
+| 16 | nikilovesyou1 | love 主事件（游乐场原点） |
+| 17 | nikilovesyou2 | love 主事件（记忆之旅/命名） |
+| 18 | nikilovesyou3 | love 主事件（老宅之夜） |
+| 19 | nikifirstlust | lust 入口 |
+| 20 | nikinaming | lust/命名 |
+| 21 | restofnikifirstlust | lust 续 |
+| 22 | nikispring1 | spring（地下室/Otoha 旁观） |
+| 23 | nikispring2 | spring（迁入/"当她妈妈"提案） |
+| 24 | beachfive8 | 海滩支线（幽灵母亲） |
+| 25 | nikispring3 | spring（pixels and promises） |
+| 26 | nikispring4 | spring（出发晨） |
+| 27 | nikispring5 | spring（浴场审问） |
+| 28 | nikispring6 | spring（捉奸/决裂） |
+| 29 | nikispring7 | spring（广告棚/四分钟停火） |
+| 30 | nikispring8 | spring（Say Anything 复合） |
+| 31 | dormwarssixniki1 | 宿舍战争客串 |

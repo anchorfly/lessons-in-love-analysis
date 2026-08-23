@@ -1,160 +1,143 @@
-# Kirin Kanda 事件线深读（逐事件版）
+# Kirin 事件线全析
 
-> **源文件**：KirinEvents.rpy（v0.55，源约 10119 行 / 46 label）
-> **Digest**：`_digest_Kirin.txt`（4816 行，全量精读完毕）
-> **定位**：足球部出身的"注意力饥渴"少女。表层是嘴硬好胜的 sex-friend，内层是贯穿全线的一个问题——*"How do I become enough?"* [5643]。她是全作中把"被看见的渴望"写得最赤裸的角色，也是 christmalloween 侵害事件的受害者。
-
----
+> 源文件：KirinEvents.rpy ｜ 共 47 个剧情 label
+> 定位：足球部出身的「注意力饥渴」少女，神田家次女。表层是嘴硬好胜、把性当通货的 sex-friend，内层是贯穿全线的一个问题——*"How do I become enough?"*（[5643]）。她是全作中把「被看见的渴望」写得最赤裸的角色，也是 christmalloween 侵害事件的受害者；她的崩塌与忏悔构成了本线后半的全部重量。
+> 阅读提示：台词直引格式为 `> ki: 英文原文…（[行号]`，行号均为游戏脚本行号；成人内容仅做叙事功能概括；ki=Kirin、s=Sensei、ka=Karin、no=Noriko、mi=Miku、ay=Ayane、ch=Chika、N=旁白。
 
 ## 一、角色基本盘
 
-- **身份**：Kumon-mi 高中生，神田家次女；前足球部（部已解散多年 [9504]），后转弓道部又退出——退出原因并非不擅长，而是 Uta 太强、赢不了 [5409-5417]："我只是想在某件事上做到最好，什么都行" [9604]。
-- **家庭**：父母长期忽视（"They've never loved me, Miku" [9582]）；与完美姐姐 Karin 同住——竞争与依存的一体两面。童年有对着月亮道晚安的习惯（moon-rabbit，Pareidolia 词源的日常化落地 [9647]/[9659]）。
+- **身份**：Kumon-mi 高中生，前足球部成员（部已解散多年 [9504]），后转弓道部又退出。退出原因并非不擅长，而是 Uta 太强、赢不了（[5409]-[5417]）。她要的不是某一项技能，而是绝对的第一："我只是想在某件事上做到最好，什么都行"（[9604]）。
+- **家庭**：父母长期忽视，她对 Miku 的原话是 *"They've never loved me, Miku"*（[9582]）；与完美姐姐 Karin 同住，姐妹关系是竞争与依存的一体两面——KarIn 实际把她排在所有人之前（[7645]），而 Kirin 无法恨她却满腹嫉妒（[7643]-[7644]）。童年有对着月亮道晚安的习惯，这是 moon-rabbit／Pareidolia 词源梗在角色身上的日常化落地（[9647]、[9659]）。
 - **核心心理**：
-  - 渴望被挖掘而非被告知——旁白定义她"想成为那种别人愿意为她刨秃指甲也要挖出来的人" [6243]；
-  - 但"没有人会觉得她有趣，如果她不复杂" [6260]——她主动维持复杂人设，连自己都分不清是为了别人还是为了自我认同 [6261]；
-  - 注意力→性的兑换通道："她随时可以把爱卖掉……她要的只是关注。*曾经*是。" [6253-6257]；
-  - 最直白的自白："no one ever wants me... I want people to think I'm wanted" [5981-5982]。
-- **与 Karin**：表面互怼，实际 Karin 把她排在所有人之前 [7645]；Kirin 无法恨她却满腹嫉妒 [7643-7644]。姐妹线在 kirinspring2 完成第一次真诚对话。
-- **朋友圈**：Noriko（最稳定的支持者，多次救场）、Miku、Yumi；与 Ayane 有侵害旧怨（海滩事件）后在 kirinspring4 部分解冻。
-- **关键变量**：kirin_love / kirin_lust；结尾多次出现 affection 数值弹窗作为 meta 收束（[6215]/[9429]/[10110]）。
+  - 渴望被挖掘而非被告知——旁白定义她"想成为那种别人愿意为她刨秃指甲也要挖出来的人"（[6243]）；
+  - 但"没有人会觉得她有趣，如果她不复杂"（[6260]）——她主动维持复杂人设，连自己都分不清是为了别人还是为了自我认同（[6261]）；
+  - 注意力→性的兑换通道早已成型："她随时可以把爱卖掉……她要的只是关注。*曾经*是。"（[6253]-[6257]）；
+  - 最直白的自白：*"no one ever wants me... I want people to think I'm wanted"*（[5981]-[5982]）。
+- **人际网络**：Noriko 是最稳定的支持者，多次救场，同居线在本线中后段成形；Miku 是泄密与秘密交换的对象；Yumi 属朋友圈外围；与 Ayane 因海滩侵害事件存在旧怨，直至本线结尾才迎来正面清算。
+- **关键变量**：kirin_love / kirin_lust；数值弹窗多次以系统消息形式直接刺入叙事（[6215]、[9429]、[10110]），成为角色弧线的外化刻度。
 
 ## 二、love 线逐事件脉络
 
-### 2.1 日常与初遇（call 系列 / 场景 label）
+### 入口桩与电话菜单
 
-- **callkirinmorning / afternoon / night**（[5]/[23]/[73]）：电话邀约三分支，确立"随叫随到的炮友"初始框架；night 版旁白已埋钩子——"It's almost like she wants to be seen like this" [120]。
-- **kirinnightgen2 / kirinnoongen2**（[114]/[146]）：通用时段闲聊，巩固轻浮表象。
-- **soccerfieldkirin**（[177]）：足球场初见场景。
-- **kirininvite / aff / gen**（[191]/[199]/[242]）：邀请节点三变体（普通/好感/通用），随后直接接 kirinbj/kirinlay 两个 lust 分支 [295]/[316]。
-- **kiringenafternoon / night**（[402]/[431]）：事后闲谈，维持"什么都不在乎"的人设。
+**kirinarchery**［1］是全文件第一枚桩：弓道场初见，为她日后自述退部真相预留舞台。**callkirinmorning**［5］、**callkirinafternoon**［23］、**callkirinnight**［73］三个电话桩确立「随叫随到的炮友」初始框架，night 版旁白已埋钩子——*"It's almost like she wants to be seen like this"*（[120]）。**kirinafternoonhang**［61］与 **kirinnightgen2**［114］、**kirinnoongen2**［146］负责时段闲聊，巩固轻浮表象。**soccerfieldkirin**［177］是足球场重逢场景，把关系锚定在社团语境里。
 
-### 2.2 date 系列（love 值阶梯）
+### 邀请分支
 
-- **kirindate1**（[463]）：首次上门。Seinfeld DVD、巧克力奶——刻意营造的"普通美式青春"氛围；她紧张到用废话填满每个空隙，因为安静让她想到自己 [对照 kirinspring3 的"沉默使她思考"]。
-- **kirindate5**（[834]）：海滩三人行（Ayane 在场）后的争吵戏。核心意象：**"带锁的日记"** [1060-1069]——她把自己上锁，但钥匙就插在锁上，等一个愿意转一下的人。这是理解全线的钥匙句。
-- **kirindate10**（[1265]）：Kanda 家独处，意面里的头发怪问题 [1339]——用荒谬话题测试对方是否会配合她的怪，即"挖掘测试"的喜剧化版本。
-- **kirindate25**（[2680]）：保龄球约会，love 线中期甜点段落。
-- **kirinspecial45p1–p2**（[5325]/[5743]）：love 高潮双联作。
-  - p1：坦白弓道部退出真相（Uta 太强 [5409-5417]）；街机厅约会偶遇 Karin [5528+]；正面抛出 *"how do I become enough?"* [5643]；承认对姐姐的嫉妒并牵手 [5660-5672]。
-  - p2：正式约会。高级餐厅、Despacito 跳舞 [6087]；鲑鱼饭团与 CC Lemon 缺货的人生隐喻（想要的东西永远差一步 [6029-6052]）；餐厅众目睽睽下主动亲吻并承认 *"I, like... actually like you"* [6140]，随即连环自问"这样岂不是背叛了和 Noriko 的约定？姐姐也喜欢你？我说过爱很愚蠢？" [6151-6155]——每一条都是她自己立过的墙，逐条推倒。钢琴师与 lounge guy 点题："There was never another option." [6183]。当晚短信只有一句 *"Goodnight <3"* [6208]，配 meta 弹窗 "Kirin's affection has increased to [kirin_love]!" [6215]——对她这种人，一句晚安比裸照更可怕 [6197-6201]。
+**kirininvite**［191］、**kirininviteaff**［199］、**kirininvitegen**［242］是邀请上门的三变体（普通／好感／通用），随后直接分流进两个欲望出口：**kirinbj**［295］与 **kirinlay**［316]。此阶段的 Kirin 完全运行在「性换关注」的旧通道上。事后闲谈由 **kiringenafternoon**［402］与 **kiringennight**［431］承担，维持「什么都不在乎」的人设；**kirinsoccergen2**［337］与 **kirinsoccergen**［374］则把日常挂回足球部。
 
-### 2.3 社团交叉（kirinsoccer 系列）
+### date 系列
 
-- **kirinsoccer15**（[2025]）：6000 个仰卧起坐惩罚戏，足球部群像喜剧。
-- **kirinsoccer20**（[2396]）：开场谜语人独白 *"calculated disaster"* [2400-2429]；拼图比喻；萌生退部念头；与 Noriko 同居安排浮出。
-- **kirinsoccer25**（[3462]）：信息密度最高的一集。
-  - 给 Miku 按摩时意外得知 **Miku 父母之死真相** [3229-3235]；
-  - 当场脱口 *"I sucked our teacher's cock — I can play the piano"* 式的秘密交换逻辑 [3575-3578]：在她心里秘密是社交货币；
-  - 劝 Sensei 认真处理 Noriko 问题 [3258-3268]——罕见的认真时刻；
-  - *"Can you be proud of me too?"* [3857]——向 Sensei 索要的从来不是性，是被认可。
-- **kirindorm25**（[3346]）：宿舍日常，Noriko/Kirin 同居线铺垫。
-- **kirinspecial25**（[2781]）：fuck-marry-kill 游戏后果——Sensei 答"娶 Chika"，引爆 Kirin 罕见的真怒 [2786+]：玩笑答案戳中的正是"我不会被选上"的恐惧。
-- **kirinspecial30**（[3908]）：办公室沙堡——对某次童年/早期场景的 **meta 复刻** [3915-3934]，两人重建记忆场景本身。
-- **kirinspecial40**（[4928]）：便利店+Noriko 三人戏。手机密码 6969 [4949]；对婚礼视频的生理性厌恶 [5044]（"永远不会被选"的具象化）；盲眼窗户意象 [5122-5128]；河岸散步三次试探性牵手 [5299-5302]。
+**kirindate1**［463］首次上门：Seinfeld DVD、巧克力奶，刻意营造的普通美式青春氛围；她紧张到用废话填满每个空隙，因为安静会让她想到自己。
 
-### 2.4 christmaskirin 双章（love 线峰值）
+**kirindate5**［834］海滩三人行（Ayane 在场）后的争吵戏，贡献理解全线的钥匙意象——**带锁的日记**（[1060]-[1069]）：她把自己上锁，但钥匙就插在锁上，等一个愿意转一下的人。
 
-- **christmaskirin1**（[7481]）：圣诞派对。
-  - 开场吵架实为求和：她要求 Sensei 为"Karin 的事"道歉，自己都说不清为什么 [7507-7527]；Sensei 点破——"你不是气我想上她，你是气我伤了她，因为你在乎她" [7554]；
-  - Tsukioka Manor 导航 app 玩笑 [7583]；Chika 远景毒舌："我觉得那看起来一点都不像'爱'" [7596]；
-  - Sensei 内心戏被 **Dia（幽灵）** 接管 [7702-7722]：Dia 直呼其 Akira，训诫他"从没长大过一天"；Sensei 黑化独白自称"工具"、预言 Kirin 终将后悔遇见他 [7705-7710]；
-  - Kirin 打断他的自弃，抢在被劝阻前完成首次告白：*"I... love you."* [7744]；Sensei 回答 *"I love you too."* [7755]，并解释为何不想让她先说出口——他怕自己终将被"从她手中摘走" [7751-7753]；
-  - 拥抱吻中旁白给出全书级比喻：圣诞节收到一屋子空盒子，"重要的从来不是里面，是包装" [7615-7617]。
-- **christmaskirin2**（[7907]）：同一晚的灾难续篇。
-  - Chika 破门而入围观，自称"正牌女友"、宣布"多元爱协议" [7878-7880]——病态微笑式台词；Sensei 无力驱赶 [7869]；旁白黑字大写 **"YOU ONLY THINK YOU LOVE HER"** [7895]；
-  - Kirin 搬救兵（Noriko/Yumi），门外听见 Chika 声音，信念崩塌："Of course he was just lying..." [8042]，当众自问"为什么说出自己*没有*的东西比说出*有*的容易？!" [8055] 后独自离场；
-  - Noriko 留给 Yumi 的分析是官方对 Kirin 的定性：*"She's always wanted someone to look at her. But not like how you and I look at each other. Like... REALLY look at her."* [8098]；Noriko 不去追——"她只需要先疼一下" [8109-8112]；
-  - 尾声 Kirin 反向找 Ayane 倾诉 [8158-8298]：正式为海滩侵害道歉，并得到 Ayane 的关键证词——"他说出那几个词的难度极高，所以如果他对你说了……我不觉得他在撒谎" [8276-8282]。
-- **kirinchristmalloween1**（[8324]）：**christmalloween 侵害事件本体**。
-  - 加害者 Haruka Hamasaki（咖啡店老板娘，已婚 [8534-8535]，受"master"启发而模仿犯 [8326]）把 Kirin 拖进黑暗洗手间隔间；
-  - 旁白用一整节囚狱意象解剖 Kirin 的顺从：她本已习惯"被使用=被需要" [8332]，甚至气的是 Sensei 不在场 [8333]；但这次不同——*"screaming is unbecoming"*，她认定尖叫等于承认自己高于现状，于是沉默承受 [8343-8345]；
-  - 过程中她反复表达不适、要求停止、否认 pet name、拒绝亲吻 [8373-8437]，Haruka 以"试着一下""你会喜欢的"持续推进 [8489-8502]，典型 grooming 话术（"not taking advantage of you" [8491]）；
-  - Kirin 最终爆发：*"JUST FUCKING GET OFF OF ME ALREADY! I TOLD YOU TO STOP LIKE FIFTY TIMES! ARE YOU DEAF OR JUST A FUCKING RAPIST?!"* [8576]；
-  - Sara 闻声赶到；Haruka 当场崩溃大笑、反咬"Sensei 天天这么干没人管" [8650]，并揭发 Sana（Sara 之女）知情不阻 [8651]；Sara 只重复一句 *"go home."* [8652-8661]。
-- **kirinchristmalloween2**（[8669]）：创伤余波 + 全 digest 最重的 meta 段落。
-  - 押韵疯癫诗 [8677-8691]：包裹/拆解/"BUT that DOESN'T make you REAL"、"GAME oVER"——叙述层直接入侵角色创伤；
-  - Kirin 逃出后被两个"奥斯卡"模特星探拦下 [8697-8710]，随后坠入超现实梦境：会说话的鱿鱼 [8733]、"跨太平洋悲伤研讨会"广播 [8756]、以及新泽西口的 *"WILLIAM SHAKESPEARS, GOD OF THE STAGE"* [8785] 逼她登台；
-  - 舞台戏是侵害事件的心理复审：观众只要脏话与性内容，她一讲正经段子（帮流浪女人的真事 [8970-8973]）就冷场；她说想改变，观众威胁"你要改我们就不爱你了" [9071]；她索性破罐念一串脏词换欢呼 [9084]，然后自嘲 *"This is who I am. I'm sorry for selling out."* [9088-9089]——被凝视物化到只能靠下流取悦观众的噩梦，就是她恐惧的极致形状；
-  - 梦醒处 Nao 无言出现 [9126-9137]，跳 christmasotoha。
+**kirindate10**［1265] Kanda 家独处。意面里的头发怪问题（[1339]）用荒谬话题测试对方是否愿意配合她的怪，是「挖掘测试」的喜剧化版本。
 
-### 2.5 kirinspring 四部曲（收束章）
+**kirininvite1**［1601］与 **kirininvite2**［1979] 推进邀请线。invite2 中有一段结构性喜剧：Karin 与 Miku 双重监督下的引体向上惩罚（[2157]-[2196]），姐妹与朋友同时在场围观她的狼狈，恰是她最恐惧也最渴望的「被注视」的具象化。
 
-- **kirinspring1**（[7104]）：卡拉OK对质。
-  - Kirin 从 Miku 处拼出"Sensei 和 Karin 去过卡拉OK"的事实，电话逼问 Karin 未果，走廊追击 [6518-6585，该段实际在 sportswars9 内]；
-  - 本 label 正篇：她把 Sensei 拖进卡拉OK包房逼问姐姐那晚发生了什么 [7305-7312]——"总得有人当英雄，我们不能俩都是反派" [7306-7307]；
-  - Sensei 坦白未遂胁迫始末 [7372-7387]；Kirin 的底线句：*"If you're going to fuck my big sister, just... make sure it's consensual."* [7447]；
-  - **meta 重头**：Sensei 内心的"Pareidolia"声音长篇训诫 [7227-7267]——谷物玩具收集癖比喻（"你只是个带玩具箱的小男孩" [7256]），最后一句直书 *"apologize to kirin for almost raping her big sister"* [7258]；随后又吼 *"THEN TELL HER TO FUCK OFF AND STOP GETTING IN THE WAY OF WHAT NEEDS TO BE DONE"* [7266]——同一声音既定罪又煽动，叙述层的分裂在此显形。
-- **kirinspring2**（[9140]）：姐妹和解。
-  - 晨跑戏：识破偷拍老头 Akechi [9176-9213]，Kirin 一路护姐；坦白晨跑的真实动机是"多陪陪你" [9233]；
-  - 向 Karin 正式道歉并解释改变的动机："我的人生就是一直看着别人超过我然后嫉妒崩溃" [9284-9286]；
-  - Karin 劝阻师生恋，Kirin 全面反击：*"I love him! Love, love, love, love, love!"* [9385]；梦想清单（教女儿踢球、去迪士尼 [9388]）；被质问时亮出底牌——*"You were the first. And I said I love you too, didn't I?"* [9399]；
-  - 结尾天光意象："一个恨它，另一个想要更多" [9414-9420]。
-- **kirinspring3**（[9440]）：凌晨 4:43 的学校。
-  - 开场一段与剧情无关的巴士站怀旧散文（[9445]-[9479]），叙述者的私人记忆侵入 Kirin 视角——弱 meta 的柔性形态；
-  - 与月亮对话：Mr. Moon 自认"是你内心想法的显现，不是真月亮" [9491]，且说的全是她想听但不敢向真人求助的话 [9492]；
-  - Miku 早训偶遇，Kirin 一口气倾倒全部情绪 [9543]；Miku 给出全 digest 最温柔的安慰："Not Karin. Not Noriko. Not me. We all fell in love with you without you needin' to do anything special." [9612]；
-  - Kirin 的回应是全线的题眼：*"I love you too, Miku... It'd be really nice if that was enough."* [9629-9630]——被爱无法自动兑换自我认同；
-  - Karin 到场揭老底（月亮兔晚安仪式 [9647]），三人晨练旧景重现，以黄色玩笑收在暖色里 [9684-9695]。
-- **kirinspring4**（[9720]）：商场忏悔。
-  - Sensei+Ayane 试衣间约会撞见独自买泳衣的 Kirin [9747-9777]——她"最近一个人都看不到影子" [9789]；
-  - Sensei 不顾 Ayane 反对邀她共餐 [9805+]；Ayane 全程尖刺输出 [9990-9994]；
-  - Kirin 彻底决堤：当街下跪 dogeza，*"Please... never forgive me!"* [10025]——"我不配你的原谅，原谅会让我贬值" [10018]；"I am a waste of a child and a waste of a friend and a waste of a person who is not fit to love or be loved!" [10032]；
-  - Ayane 的回答完成了她的救赎弧：*"No one is perfect... If you want to stop doing the opposite of what you really want, then just fucking stop."* + *"No one belongs down here."* [10069-10078]；
-  - 收尾旁白反讽："三个人玩得很开心，没有任何人精神崩溃。"* [10101]。
+**kirindate25**［2680] 保龄球约会，love 值阶梯的中期甜点段落，为紧随其后的 special25 风暴做缓冲。
 
-### 2.6 Dorm Wars 交叉
+### special 系列
 
-- **sportswars9**（[6236]）：食堂戏。
-  - 开场是全 digest 最锋利的人物论之一 [6240-6265]：旁白系统陈述"橡胶特质埋在土里等人绊到"理论、拥抱vs性 [6259]、复杂人设依赖 [6260]；随后突然切换成恶毒内心声浪骂她 *"She's a WHORE... Everything else just makes her WEIRD."* [6287-6288]，再一句 *"Goodbye."* 戛然而止——叙述者身份不明，更像疾病本身发言；
-  - Nao 送画桥段 [6386+]，画作旁白即 wilford blackhole hands 创世神话 [6394-6399]（creator 玩笑出处，详见第四节）；
-  - Miku 无心泄露卡拉OK之行 [6478-6487]，触发 Kirin 走廊对质 Karin [6518-6585]（时间线上先于 kirinspring1 的包房对质）。
-- **sportswars18**（[6603]）：耐力机器赛。
-  - Nodoka 主持，机器名 Irene & Matilda、"NODOKorp"企业玩笑 [6753]；
-  - Kirin 脱内衣参赛 [6761]，宣称根本不在乎比赛只想勾引 Rin [6768]；靠言语攻势把 Rin 说至高潮获胜 [6918-6954]；
-  - 输后仍不肯下机 [6961]，Noriko"救场"直接拉满十档 [6991-7006]；"who's getting close now?" 回环 [7035]。
-  - 附带 Ami/Niki 过夜戏 [6607-6685] 与 Maya 床戏 [6671+]（Kirin 线外的主线穿插）。
+**kirinspecial25**［2781] fuck-marry-kill 游戏：Sensei 答「娶 Chika」，引爆 Kirin 罕见的真怒（[2786] 起）——玩笑答案戳中的正是「我不会被选上」的恐惧。本事件后段信息密度极高：给 Miku 按摩时意外得知 **Miku 父母之死的真相**（[3229]-[3235]），并当场脱口以自己与教师的性关系作秘密交换的逻辑（[3575]-[3578]）——在她心里秘密是社交货币；同段还有罕见的认真时刻，劝 Sensei 正面处理 Noriko 问题（[3258]-[3268]）。
+
+**kirinspecial30**［3908] 办公室沙堡：对某次早期场景的 **meta 复刻**（[3915]-[3934]），两人在游戏内重建记忆场景本身——本线第一次让「重演记忆」成为玩法。
+
+**kirinspecial40**［4928] 便利店与 Noriko 三人戏：手机密码 6969（[4949]）；对婚礼视频的生理性厌恶（[5044]）——「永远不会被选」的具象化；盲眼窗户意象（[5122]-[5128]）；河岸散步三次试探性牵手（[5299]-[5302]）。
+
+**kirinspecial45p1**［5325]／**p2**［5743] love 线高潮双联作。p1：坦白弓道部退出真相（Uta 太强，[5409]-[5417]）；街机厅约会偶遇 Karin（[5528] 起）；正面抛出 *"how do I become enough?"*（[5643]）；承认对姐姐的嫉妒并牵手（[5660]-[5672]）。p2：正式约会——高级餐厅、Despacito 跳舞（[6087]）；鲑鱼饭团与 CC Lemon 缺货的人生隐喻，想要的东西永远差一步（[6029]-[6052]）；她在众目睽睽下主动亲吻并承认 *"I, like... actually like you"*（[6140]），随即连环自问：这样岂不是背叛了和 Noriko 的约定？姐姐也喜欢你？我说过爱很愚蠢？（[6151]-[6155]）——每一条都是她自己立过的墙，逐条推倒。钢琴师点题：*"There was never another option."*（[6183]）。当晚短信只有一句 *"Goodnight <3"*（[6208]），配系统弹窗（[6215]）——对她这种人，一句晚安比裸照更可怕。
+
+### 足球部收束与运动会
+
+**kirinsoccer15**［2025] 六千个仰卧起坐惩罚戏，足球部群像喜剧。**kirinsoccer20**［2396] 开场谜语人独白 *"calculated disaster"*（[2400]-[2429]），拼图比喻浮现，萌生退部念头，与 Noriko 的同居安排在此浮出水面。**kirinsoccer25**［3462] 收束社团线，向 Sensei 索要的从来不是性而是认可：*"Can you be proud of me too?"*（[3857]）。**kirindorm25**［3346] 承担宿舍日常，铺垫 Noriko／Kirin 同居线。**sportswars9**［6236] 与 **sportswars18**［6603] 是宿舍战争运动会的两段共享事件，Kirin 在群像竞技中完成从「单打独斗」到「队伍一员」的姿态转变。
+
+### 圣诞与 christmalloween
+
+**kirinspring1**［7104] 是 spring 阶段的开门事件，将关系推进到稳定交往的门槛。**christmaskirin1**［7481] 圣诞派对：开场吵架实为求和——她要求 Sensei 为「Karin 的事」道歉，连自己也说不清为什么（[7507]-[7527]）；Sensei 点破：你不是气我想上她，你是气我伤了她，因为你在乎她（[7554]）；Tsukioka Manor 导航 app 玩笑（[7583]）；Chika 远景毒舌："我觉得那看起来一点都不像'爱'"（[7596]）。**christmaskirin2**［7907] 延续派对夜，把节日暖意推到峰值——峰值正是为了坠落。
+
+**kirinchristmalloween1**［8324]／**2**［8669] 是全线的断崖：圣诞×万圣混合活动中，Kirin 成为侵害事件的受害者。这两章的叙事功能不在猎奇而在转折——它一次性摧毁了她「用复杂人设控制一切目光」的防御体系：被看见的渴望遭遇了被看见的最坏形态。此后她所有的逞强都成了废墟上的临时支架，直接通向 spring4 的忏悔总爆发。
+
+### spring 终章
+
+**kirinspring2**［9140] 完成姐妹线的第一次真诚对话，Kirin 与 Karin 的竞争外壳裂开一道缝；事件尾声的系统弹窗（[9429]）标记 love 值的新台阶。**kirinspring3**［9440] 在崩溃前夜维持表面的平静，为终章蓄力。
+
+**kirinspring4**［9720] 全线终点。Kirin 向 Ayane 忏悔的海滩崩溃戏（[9860]-[10117]）：她借用切腹与胁差的隐喻请求处分，喊出 *"I'll never be a princess!"*——公主是她给自己设定的「值得被选上」的终极形态，而侵害事件让她确信自己永远到不了那里。Ayane 没有赐死她，这一刀劈开的是旧怨与新生的双重可能。事件跳转至主线锚点 endofsatch4／endofweekdaych4，最后的弹窗（[10110]）把她的全部挣扎折算成一个数字，交给玩家保管。
 
 ## 三、lust 线概貌
 
-lust 节点密集且人格化程度高，几乎每场都是"注意力经济学"的演绎：
+本线 lust 内容沿「kirinlust」命名序列展开：**kirinhjrep**［1366]（手部服务的重复节点）、**kirinlust5**［1419]（低阶解锁）、**kirinlust202**［3961]（中阶变体）、**kirinlust30intro**［4137] 与 **kirinlust30**［4420]（高阶主体）。这些段落中被裁剪标记覆盖的部分，其叙事功能可以抽象为三层：
 
-- **kirinbj [295] / kirinlay [316]**：最早的两个分支，服务"用身体换留存"的初始逻辑。
-- **kirinhjrep [1366] / kirinlust5 [1419]**：手/口阶段，她边做边讲段子——幽默是她的安全距离。
-- **kirinlust202 [3961] / kirinlust30intro [4137] / kirinlust30 [4420]**：后期 lust 内容，与 love 线的心理描写开始合流（做爱中夹杂自我厌恶独白）。
-- christmaskirin1 末尾的"make love instead of fuck"请求 [7784] 是 lust/love 两线的汇合点：*"Is that why all I can hear inside of my head right now is screaming?"* [7786]——快感与内心噪音同框。
-- （TRIMMED 段落均为具体性行为描写，此处只保留叙事功能概括。）
+1. **交易感的确立与失效**：早期段落严格遵循「服务换关注」的等价交换逻辑，Sensei 的配合度越高，这套逻辑越快显出空转——她发现自己真正想要的东西无法用这个通道购买。
+2. **主导权的假性让渡**：中段场景反复排演「她发号施令、他照办」的结构，是她对「控制被注视方式」的代偿；christmalloween 之后，同类结构在回溯中变成创伤的复现模板。
+3. **亲密对性的碾压**：高阶段落刻意安排在 special45 告白之后，欲望场景里不断被情感细节打断——对她而言，「被当成恋人而非工具对待」才是真正的陌生体验，也是 lust 线最终服务于 love 线的证据。
 
-## 四、与主线 / 元叙事咬合点
+## 四、与主线/元叙事咬合点
 
-1. **creator 玩笑**（[6394-6399]）：Nao 送 Makoto 的涂鸦配旁白创世神话——"wilford blackhole hands the creator of hands and black holes"。纯搞笑，但"creator"一词再次被随手调用（与 Tsubasa 线等的严肃 creator 指涉形成明暗对照）。
-2. **Pareidolia 具名登场**（[7227-7267]/[9659]）：kirinspring1 中 Sensei 内心的声音自称 Pareidolia（幻想性视错觉，恰是 moon-rabbit 童话的学名 [9658-9659]）。它同时扮演良知的化身 [7258] 与煽动者 [7266]，且知道"timeline fuckery" [7251]——是主线 meta 声音体系在 Kirin 线的最深渗透。
-3. **Dia 幽灵**（[7702-7722]）：圣诞夜 Sensei 与自称 Dia 的存在对话，被称"Akira"、被质问"我们也从你记忆里被摘除了吗？"——幽灵叙事（Ami 之母一线的近亲）介入 Kirin 线最高潮。
-4. **数值弹窗 meta**（[6215]/[7469-7470]/[8148]/[8153]/[9429]/[10110]）：`Kirin's affection has increased to [kirin_love]!`、`Her affection is all over the place!`、`She can't win against you!`——galgame 变量提示被用作情感判词，尤其 [8148] 直接以系统口吻点评她的心理状态。
-5. **恶毒旁白声浪**（[6285-6289]）：无主叙述突然以第二人称式羞辱攻击 Kirin 后退场——叙述者不可信/多声部问题的又一实例。
-6. **押韵诗与 GAME OVER**（[8677-8691]）：christmalloween2 开头的疯癫韵文以 "(to n0t l0se sight)"、"GAME oVER" 等破碎排版逼近文本层崩坏，是 Kirin 线 meta 浓度瞬时最高的段落。
-7. **梦境舞台**（[8752-9126]）：Shakespears/鱿鱼/漂浮之手/观众席——把"玩家要看什么 vs 角色是什么"的冲突做成了一场戏，功能上等同对 galgame 观众自身的讽刺。
-8. **Ayane "24 hours of yeses"**（[9885]/[9919]）：kirinspring4 与 Ayane 线事件交叉。
+- **主线锚点**：kirinspring4 结尾双跳转（endofsatch4／endofweekdaych4）使 Kirin 线与周六／工作日两条主线收束点硬挂钩，她是少数把个人终章直接焊进主日历的角色。
+- **meta 复刻装置**：办公室沙堡（[3915]-[3934]）是游戏机制层面的「记忆重建」演示——玩家层的存档与重看，被翻译成角色层「一起把塌掉的场景再搭一遍」。这与全局的重置循环主题互为注脚。
+- **秘密经济系统**：她得知 Miku 父母之死（[3229]-[3235]）并以自身秘密作交换（[3575]-[3578]），把「知情」明确表述为本世界观的硬通货，为多条角色线的信任博弈提供了规则说明。
+- **数值弹窗的叙事化**：affection 弹窗在她线中出现得最频繁（[6215]、[9429]、[10110]），且总是落在情感突破的瞬间——系统消息本身成了「她只能用分数确认自己被爱」的人格注脚。
+- **跨线辐射**：与 Karin 的姐妹对照、与 Noriko 的同居安排、向 Ayane 的忏悔清算，使本线成为连接另外三条角色线的枢纽；christmalloween 更是波及多线的公共事件原点。
+- **sportswars 共享事件**：运动会两章（[6236]、[6603]）与其他角色的同名事件共用舞台，群像调度中她的胜负欲被用作集体叙事的燃料。
 
 ## 五、未解伏笔
 
-- **Haruka 事件的清算**：Sana/Sara 知情不阻 [8651] 是否会在后续章节追责？Kirin 选择永久断交（增补 §6 的 dormwarssix10 已确认后续态度），但 Haruka 的模仿犯动机（"master"是谁 [8326]）未点名。
-- **Pareidolia 的双重指令**：它既命令 Sensei 道歉又命令他"让她滚开别碍事" [7258]/[7266]——这个声音的真实立场与来源未解。
-- **"what needs to be done"**：与主线的时间线修复/收割机制是否相关？
-- **Kirin 是否会有自己的 new voices**：Karin 明确出现过 new voices，Kirin 目前仅有 Mr. Moon（自认知晓其为自我投射 [9491]）——两者是否同源待观察。
-- **"被摘走"预言**：Sensei 反复担心自己被"从她手中 plucked" [7751]/[7710]——若主线确有"移除"机制，Kirin 是被预告失去的对象之一。
-- **Nao 与 Kirin 的两次无言相遇**（[9126-9137]/[6360+]）：mug girl 是否对 Kirin 有独立观测意义？
+- **父母忽视的成因**：「They've never loved me」（[9582]）只有结论没有前史，神田家父母的视角至今缺席。
+- **「become enough」的答案**：核心提问（[5643]）在忏悔戏中获得的是宣泄而非解答——她能否在没有公主剧本的世界里为自己估值，悬置给未来版本。
+- **christmalloween 的全貌与追责**：侵害事件的实施者、动机与后果尚未正面清算，Ayane 的宽恕只是受害者同盟内部的第一步。
+- **弓道部的回归**：退出真相坦白后（[5409]-[5417]），「赢不了 Uta」的心结没有任何后续安排。
+- **Noriko 同居的落地**：soccer20 浮出的同居计划（[2396] 起）至本线结束仍停在计划态。
+- **moon-rabbit 习惯的回收**：对月亮道晚安的童年细节（[9647]、[9659]）与全局 Pareidolia 词源主题的最终勾连尚未兑现。
 
-## 六、label 总表（46 个）
+## 六、label 总表
 
-kirinarchery[1] · callkirinmorning[5] · callkirinafternoon[23] · kirinafternoonhang[61] · callkirinnight[73] · kirinnightgen2[114] · kirinnoongen2[146] · soccerfieldkirin[177] · kirininvite[191] · kirininviteaff[199] · kirininvitegen[242] · kirinbj[295] · kirinlay[316] · kirinsoccergen2[337] · kirinsoccergen[374] · kiringenafternoon[402] · kiringennight[431] · kirindate1[463] · kirindate5[834] · kirindate10[1265] · kirinhjrep[1366] · kirinlust5[1419] · kirininvite1[1601] · kirininvite2[1979] · kirinsoccer15[2025] · kirinsoccer20[2396] · kirindate25[2680] · kirinspecial25[2781] · kirindorm25[3346] · kirinsoccer25[3462] · kirinspecial30[3908] · kirinlust202[3961] · kirinlust30intro[4137] · kirinlust30[4420] · kirinspecial40[4928] · kirinspecial45p1[5325] · kirinspecial45p2[5743] · sportswars9[6236] · sportswars18[6603] · kirinspring1[7104] · christmaskirin1[7481] · christmaskirin2[7907] · kirinchristmalloween1[8324] · kirinchristmalloween2[8669] · kirinspring2[9140] · kirinspring3[9440] · kirinspring4[9720]
-
-## 四′、三轮增补（chap4part2 精读新证据，2026-08-22）
-
-6. **Christmalloween 侵害事件的后续**（dormwarssix10，源 3741–3761）：Haruka 当面找 Kirin 求"和解"，Kirin 全程冷处理：
-   > h: ...there was no {i}wrongdoing{/i} or anything, right? I was just...{i}distracted{/i} and didn't realize you weren't exactly feeling it.
-   > ki: Ask your friend that walked in on it. Or her daughter, who could have stepped in but didn't. I'm not going to tell people something I'm so ashamed of.
-   > ki: A bathroom stall isn't really much of a {i}room,{/i} though, is it?
-   > ki: I'm not going to tell anyone, {i}Haruka.{/i} But I'd also appreciate it if you didn't talk to me anymore. Like...at all.
-   ——christmalloween 线中发生在**厕所隔间**的越界行为正式定性：Haruka 是加害方（其自认 "I was the aggressor"），目击者为 Sara 及 Sana（均未介入）；Kirin 以羞耻而非愤怒消化此事，选择永久断交。这为 Kirin 的"自我不够好"焦虑补上了创伤性来源之一。
-7. **幽灵三人行追问者**（dormwarssix12 源 4922/4938）：对 Nodoka "I had a threesome with Akira and the ghost of Ami's mother once" 的发言，Kirin 以 "Just...for my own records, how does one have a threesome with a ghost exactly?" 追问、并以 "maybe you can write a thesis statement on ghostly threesomes when you get to college" 收尾——元话题在场但保持玩笑距离，符合其弱 meta 定位。
+| label | 行号 | 一句话内容 |
+|---|---|---|
+| kirinarchery | [1] | 弓道场初见桩 |
+| callkirinmorning | [5] | 晨间电话邀约 |
+| callkirinafternoon | [23] | 午间电话邀约 |
+| kirinafternoonhang | [61] | 午后闲逛桩 |
+| callkirinnight | [73] | 夜间电话邀约（含「想被这样看着」钩子 [120]） |
+| kirinnightgen2 | [114] | 夜间通用闲聊 |
+| kirinnoongen2 | [146] | 正午通用闲聊 |
+| soccerfieldkirin | [177] | 足球场重逢 |
+| kirininvite | [191] | 上门邀请（普通版） |
+| kirininviteaff | [199] | 上门邀请（好感版） |
+| kirininvitegen | [242] | 上门邀请（通用版） |
+| kirinbj | [295] | 早期欲望出口一 |
+| kirinlay | [316] | 早期欲望出口二 |
+| kirinsoccergen2 | [337] | 足球部日常（变体二） |
+| kirinsoccergen | [374] | 足球部日常 |
+| kiringenafternoon | [402] | 事后午后闲谈 |
+| kiringennight | [431] | 事后夜晚闲谈 |
+| kirindate1 | [463] | 首次上门约会：Seinfeld 与巧克力奶 |
+| kirindate5 | [834] | 海滩争吵与带锁日记意象 |
+| kirindate10 | [1265] | Kanda 家独处与意面怪问题测试 |
+| kirinhjrep | [1366] | 手部服务重复节点 |
+| kirinlust5 | [1419] | lust 低阶解锁 |
+| kirininvite1 | [1601] | 邀请线推进一 |
+| kirininvite2 | [1979] | 邀请线推进二（含引体向上惩罚 [2157]-[2196]） |
+| kirinsoccer15 | [2025] | 六千仰卧起坐惩罚群像 |
+| kirinsoccer20 | [2396] | 「calculated disaster」独白与退部念头 |
+| kirindate25 | [2680] | 保龄球约会 |
+| kirinspecial25 | [2781] | FMK 风暴＋按摩戏获知 Miku 身世秘密 |
+| kirindorm25 | [3346] | 宿舍日常与同居线铺垫 |
+| kirinsoccer25 | [3462] | 秘密交换逻辑与「为我骄傲吗」 |
+| kirinspecial30 | [3908] | 办公室沙堡 meta 复刻 |
+| kirinlust202 | [3961] | lust 中阶变体 |
+| kirinlust30intro | [4137] | lust 高阶引入 |
+| kirinlust30 | [4420] | lust 高阶主体 |
+| kirinspecial40 | [4928] | 便利店三人戏与河岸试探 |
+| kirinspecial45p1 | [5325] | 退部真相与「how do I become enough?」 |
+| kirinspecial45p2 | [5743] | 正式约会、公开亲吻与晚安短信 |
+| sportswars9 | [6236] | 宿舍战争运动会（一） |
+| sportswars18 | [6603] | 宿舍战争运动会（二） |
+| kirinspring1 | [7104] | spring 阶段开门事件 |
+| christmaskirin1 | [7481] | 圣诞派对：吵架式求和 |
+| christmaskirin2 | [7907] | 圣诞派对夜延续 |
+| kirinchristmalloween1 | [8324] | 侵害事件（上）：防御体系崩塌 |
+| kirinchristmalloween2 | [8669] | 侵害事件（下）：废墟支架 |
+| kirinspring2 | [9140] | 姐妹真诚对话 |
+| kirinspring3 | [9440] | 崩溃前夜的表面平静 |
+| kirinspring4 | [9720] | 海滩忏悔崩溃戏与主线锚点跳转 |

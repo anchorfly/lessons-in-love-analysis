@@ -1,183 +1,146 @@
-# Miku Maruyama 事件线深读（MikuEvents.rpy，v0.55，源约 9400 行 / 38 label）
+# Miku 事件线全析
 
-> 基于 `_digest_Miku.txt`（4805 行）全量精读重写。台词直引格式：`> mi: 英文原文…（[源行号]`；成人内容仅做叙事功能概括；所有事实断言标注行号，存疑处标"待核"。缩写：s=Sensei、mi=Miku、mak=Makoto、ka=Karin、a=Ami、i=Io、u=Uta、maki=Maki、f=Futaba、sa=Sana、ay=Ayane、N=旁白。
-
----
+> 源文件：MikuEvents.rpy ｜ 共 38 个剧情 label
+> 定位：足球部出身的前运动少女，丸山家幸存者。表层是精力过剩、口无遮拦、性知识贫乏却觉醒极快的开心果，内层是目睹父母被枪杀的 PTSD 患者——拔发、怕巨响、解离，靠 Io 的来路不明药片维持运转。她是全书少数**玩过《Lessons in Love》本体游戏**的角色，元叙事咬合最深的角色之一。
+> 阅读提示：台词直引格式为 `> mi: 英文原文…（[行号]`，行号均为游戏脚本行号；成人内容仅做叙事功能概括；mi=Miku、s=Sensei、mak=Makoto、maki=Maki、a=Ami、i=Io、f=Futaba、ka=Karin、N=旁白。
 
 ## 一、角色基本盘
 
-- **身份**：足球部出身的前运动少女（soccer 系列事件），后转入游泳部相关活动（[6262]）；与 Makoto 同宿舍、互为最亲密的室友兼"共享恋人"同盟。
-- **家庭背景（本线最大解明）**：幼年家中遭两名窃贼入室抢劫，父母双亲被枪杀于她眼前，她躲在母亲身下/床下全程听见枪响——这是她"怕巨响、拔头发、解离"的创伤根源（[6074]–[6151]，详见 mikudorm55p2）。
-- **精神状态**：PTSD + 拔发癖（trichotillomania）+ 解离倾向。长期服用 Io 私下提供的来路不明药物（"Dr. Io"是她的戏称 [5406]），药物过量事件后经 Makoto 介入转向正规治疗（[5972]、[6013]）。
-- **表面性格**：精力过剩、口无遮拦、性知识贫乏但性欲觉醒极快；自称"Champion of Justice and Soccer"（[4978]）。对 Sensei 的感情定位长期是"friends with benefits"，直到 spring7 才请求"boyfriend"称号（[9363]）。
-- **元层级位置**：她是全书少数**玩过《Lessons in Love》本体游戏**的角色——在 Maki 店里被要求试玩前半小时以熟悉商品（[8439]–[8453]）。这使她成为元叙事咬合最深的角色之一。
-- **关键变量**：miku_love / miku_lust 多次系统级直显（[5120]、[5475]、[5835]、[6195]、[6985]、[7502 附近]、[8750]–[8751]、[9406]–[9407]）。
+- **身份**：Kumon-mi 高中生，足球部成员直至社团解散（[8412] 侧证）；与 Makoto 同宿舍，两人互为室友兼「共享恋人」同盟——这是理解本线一切亲密结构的前提。
+- **家庭创伤（本线最大解明）**：幼年家中遭两名窃贼入室抢劫，双亲在她眼前被枪杀，她躲在母亲身下全程听见枪响（[6074]-[6151]）。这是她怕巨响、拔发癖（trichotillomania）与解离倾向的唯一根源。
+- **病理与药物**：长期服用 Io 私下提供的来路不明药物（"Dr. Io" 是她的戏称 [5406]）；泳池药物过量事件后经 Makoto 介入转向正规治疗（[5972]、[6013]）。
+- **表面性格**：自称 "Champion of Justice and Soccer"（[4978]）；对 Sensei 的感情定位长期锁死在 friends-with-benefits，直到终章才主动请求升级（[9363]）。性觉醒写得像副作用：先有欲望的生理证据，再补感情的认知。
+- **元层级位置**：在 Maki 店里被要求试玩本作游戏前半小时以熟悉商品（[8439]-[8453]）——角色玩自己的游戏，这一设定使她成为三层世界观（恋爱表层／重置循环层／玩家层）的活体接口。
+- **关键变量**：miku_love / miku_lust 多次系统级直显（[5120]、[5475]、[5835]、[6195]、[6985]、[8750]-[8751]、[9406]-[9407]），密度为全书前列。
 
 ## 二、love 线逐事件脉络
 
 ### 入口桩
-- **mikupool[1]**：泳池入口场景。
-- **soccerfield[13]**：足球场初遇。
-- **callmikumorning[42] / callmikuafternoon[58] / callmikunight[141]**：三段电话桩，随好感度分流。
 
-### mikuinvite[231] / mikuinvitegen[242] / mikuinviteaff[286]
-邀请上门的三分支桩（普通/好感线），后续 invite1/invite2 的前身。
+**mikupool**［1］泳池入口、**soccerfield**［13］足球场初遇，两枚场景桩确立她的运动少女形象。**callmikumorning**［42］／**callmikuafternoon**［58］／**callmikunight**［141］三段电话桩按好感分流，维持「随时可约」的初始框架。
 
-### mikusoccergen2[323] → firsttimesoccer[354] → soccer2to4[619]
-足球部初见与早期社团互动。firsttimesoccer 是 Miku 线正式起点：Sensei 被拖进足球部当"Coach"（该称呼后来进入 lust 线命名树，[8406]–[8433]）。
+### 邀请分支
 
-### soccer5[652] → soccer10[951] → soccer15[1355] → soccer20[1651] → soccer25[2067] → soccer30[2439]
-以 love 值阶梯推进的社团约会系列：训练—独处—肢体接触升级的标准爬塔结构，同时铺设 Miku "怕巨响""过度活跃"的伏笔（具体触发点分布待核，前半 digest 为概读）。
+**mikuinvite**［231］／**mikuinvitegen**［242］／**mikuinviteaff**［286］邀请上门三变体，是 invite1/invite2 的前身结构。
 
-### mikuwinterbeach1[2754]
-冬季沙滩特别事件，soccer30 与 soccer35 之间的节令插入。
+### 足球部系列
 
-### soccer35[2804]
-足球系列收官。此后足球部解散（后文 Sensei 提到 "since the soccer club disbanded" [8412]），社团线让位给宿舍养成线。
+**mikusoccergen2**［323] → **firsttimesoccer**［354] → **soccer2to4**［619] 完成入部仪式：Sensei 被拖进球队当 "Coach"，该称呼日后进入 lust 线的命名树（[8406]-[8433]）。随后是标准好感爬塔：**soccer5**［652]、**soccer10**［951]、**soccer15**［1355]、**soccer20**［1651]、**soccer25**［2067]、**soccer30**［2439]。soccer25 内嵌一段标志性喜剧：储物间清洁戏中 Miku 骑上 Sensei 肩膀够球，*"Is this what it feels like bein' a tall person?"*（[2170]-[2223] 区间），Futaba 的身材玩笑穿插其间——肢体喜剧之下是她对身高差＝权力差的天然敏感。**soccer35**［2804] 社团线收官，此后足球部解散，养成主场让位给宿舍。**mikuwinterbeach1**［2754] 冬季沙滩特别事件插在 soccer30 与 soccer35 之间。
 
-### mikudorm45[3145] / mikudorm45p2[3496]
-宿舍线核心转折：**Makoto 得知 Miku 与 Sensei 的关系后的三角谈判**。Miku 亲吻 Sensei 被 Makoto 知晓，两人达成"不互相隐瞒"协议；Makoto 表示宁可 Miku 也参与也不愿她去找别人：
-> mak: I'm more comfortable with the idea of you romantically pursuing Miku than any of the other girls.（[3276]–[3307] 区间，精确句行待核）
-> mi: The whole reason I wanted to do somethin' like this is so we wouldn't hurt each other's feelings...（[3307]）
-> mi: ...maybe just *consider* it when we're all doin' stuff together?（[3306]）
+### 宿舍三角的确立
 
-这确立了贯穿全线的"三人共同体"结构：Maku 先行、Miku 跟进、彼此透明。
+**mikudorm45**［3145]／**p2**［3496] 全线上半的结构转折：Makoto 得知 Miku 与 Sensei 的关系后的三角谈判。Miku 亲吻 Sensei 被 Makoto 知晓，两人达成「不互相隐瞒」协议：
 
-### mikuspecial50[3899]
-50 级特殊事件（内容为概读，细节待核）。
+> mak: I'm more comfortable with the idea of you romantically pursuing Miku than any of the other girls.（[3276]
+> mi: The whole reason I wanted to do somethin' like this is so we wouldn't hurt each other's feelings...（[3307]
 
-### mikudorm50[4260] → mikuinvite1[4306] → mikuinvite2[4649]
-- invite1：首次手指爱抚节点（lust 首次解锁的前置）。
-- invite2：**本线第一个成人事件**——Miku 主动跑到 Sensei 家要求"回礼"（"fair is fair and I'm the only one who's gotten some so far" [4745]）。事件后旁白罕见地打破第四墙直接向玩家忏悔：
-> N: Right now, a high school freshman is on her way to my house because I am going to do things to her. And *she* is going to do things to me. This is happening because I let it. And there is no way you can word it that makes it okay. Please. Stop watching me.（[4692]–[4696]）
-- 事件中埋下两条重要暗线：①万圣节失忆事件——Sensei 内心提到酒店房里发生过什么但"Miku doesn't seem to remember that"（[4748]，另见 [4849] "Valium"、[4857] 万圣节服装）；②Miku 泄密习惯——她把手指的事说给了 Kirin 听（[4874]–[4876]）。
+这确立了贯穿全线的「三人共同体」：Makoto 先行、Miku 跟进、彼此透明。dorm45p2 尾部藏着一次重要的情绪泄洪：Miku 说想忘记某事，Sensei 以茧与羽化作答——*"her wings fuse to her chrysalis"*（[3799]-[3850] 区间），并邀她去商场挑衣服当作约会。「想忘记」的具体所指此处按下不表，成为悬置到 spring 阶段的钩子。
 
-### mikupool55[5132]：泳池药物过量事件（全线上半最重要节点）
-- Miku 在泳池边意识涣散近乎昏迷，Karin 误判为疲劳（[5136]–[5143]）。
-- Sensei 的内心独白完整展示其自利推理链：不送医务室是因为怕 Makoto 发现他早就知情（[5186]–[5192]），并反复自我催眠"I am making the right choice"（[5222]–[5249]），甚至预先把责任推给 Io（"It will be Io's fault." [5235]）。
-- 背回宿舍后误拨电话给 Ami，随后说出全书罕见的自我暴露：
-> s: That's my name. Just it isn't. My real name is Akira. Hello.（[5363]）
-- 苏醒后的 Miku 处于药物残余状态，主动提出以初夜"回报"并被拒（[5395]–[5413]）；她随即暴露真实想法："Because they'll make me talk!"（医生会逼她开口，[5770] 呼应段）以及"You ain't got the first idea of what I'm dealin' with"（[5424]）。
-- 事件以一段坠落意象诗收束（[5447]–[5456]），并给出系统级惩罚文本：
-> {i}Miku's affection has increased to [miku_love] for the remainder of the night, but it goes back down the morning after when she has trouble remembering what happened.{/i}
-> {i}You hurt yourself when you got home, but only you will know what that means.{/i}（[5475]–[5476]）
+### invite 线与第四墙忏悔
 
-### mikudorm55p1[5481]：解离夜
-- 开场即超现实化：Sensei 敲门"震碎现实"，进入西语的**萨尔瓦多·达利／圣安东尼的诱惑**幻境关卡（[5503]–[5553]）——达利指令中"看穿墙壁"引出旁白承认自己有"看见一切"的主角能力，却"看不进她的脑子"（[5545]–[5552]）。
-- 门内 Miku 在解离循环："It isn't real. None of it's real."（[5558]–[5563]）。旁白借蠹鱼（silverfish）隐喻展开对玩家的第二次直接攻击：
-> {i}But the craziest part of all is that there are people even worse than you. And you never know what those people are doing with doors.{/i}（[5577]–[5578]）
-- 随后旁白本身崩坏（大小写错乱）："But I woN'T keep It THat WaY any LOnger... And why the month of July no longer exists for me."（[5587]–[5589]）——"七月消失"是未解伏笔。
-- 旁白补叙 Miku 战前的温暖家庭记忆（微波炉晚餐、周末电视、睡在父母中间），并以一句惊人的措辞收尾：
-> N: The following day would mark a reset — just not the kind you're familiar with.（[5617]）
-- 现实层：Miku 归罪 Sensei 偷走她的药（实为 Makoto 收缴，[5734]），歇斯底里发作、撕扯头发，Makoto 回家后 Sensei 被请走。系统结算：affection -10（[5835]）。
+**mikuspecial50**［3899] 五十级特殊事件承接过渡。**mikudorm50**［4260] 之后进入 **mikuinvite1**［4306]（首次手指爱抚节点）与 **mikuinvite2**［4649]——本线第一个成人事件：Miku 主动上门要求「回礼」，*"fair is fair and I'm the only one who's gotten some so far"*（[4745]）。事件旁白罕见地打破第四墙直接向玩家忏悔：
 
-### mikudorm55p2[5843]：道歉日与创伤解明（全线情感顶点）
-- 清晨 Miku 主动上门道歉，坦白前一晚的真相：药没被偷，是她自己忘了放哪；Makoto 找到后冲掉剩余药物并联系 Maki 安排正规就诊（[5996]–[6013]）。
-- Miku 决定第一次向 Sensei 讲述"为什么我是这样的人"（[6051]–[6068]），完整复述童年惨案：深夜起床喝水→撞见两个入室者（含两人的对话插叙 int1/int2 [6081]–[6104]）→叫醒父母→躲藏→两声枪响→呼喊渐弱→试图摇醒遗体（[6074]–[6151]）。
-> mi: Was it my fault? If I never woke up...If I never got thirsty...If I was quieter...Then maybe...maybe they would...（[6142]–[6144]）
-> s: There is no "because of" anyone. Some things just happen without a reason.（[6147]）
-- 创伤机制点明：任何巨响都会把她拽回现场（[6158]–[6163]），"They'll make me talk"的真正含义是害怕向医生复述这段经历。
-- 结算：affection +10（[6195]）。
+> N: Right now, a high school freshman is on her way to my house because I am going to do things to her. And *she* is going to do things to me. This is happening because I let it. And there is no way you can word it that makes it okay. Please. Stop watching me.（[4692]
 
-### mikuspring1[6216]：抑郁期重逢（第四章开端）
-- 时间点位于 Sensei 因 Ami 相关事件陷入"sadness-coma"闭门数月之后（[6256]、[6439]）；开场大段自毁性自言自语独白（[6219]–[6229]）。
-- Miku 电话把他拉回社交圈：组织与 Io/Uta 的野餐（[6269]）。她自述近况：戒断药物成功、开始心理治疗、成绩回升（[6260]–[6261]）。
-- 野餐上她逐一报告众人状态，其中 Ayane 每次游泳部后在淋浴间偷偷哭的观察（[6462]–[6463]）是为 Ayane 线埋线。
-- **记忆异常时刻**：她说想回到"年初那样"，随即卡壳——
-> mi: Wait...what? Weren't you absent at the start of the year? How does that...nah, I've gotta be...（[6483]）
-  她隐约察觉 Sensei 年初根本不在学校，但念头被自己掐灭。这是 Miku 线最直接的"循环/时间线不一致"露头。
+事件同时埋下两条暗线：万圣节酒店夜里发生过什么而 *"Miku doesn't seem to remember that"*（[4748]，另见 [4849] 的 Valium 与 [4857] 万圣服装）；以及她的泄密习惯——手指的事已经说给了 Kirin 听（[4874]-[4876]）。
 
-### mikuspring2[6512]：promised land（成人用品店）
-- Miku 把 Sensei 带到 Miyamura 家的成人用品店"启蒙"（[6518]–[6521]）；Maki 出场，马件（horse cock）喜剧段（[6588]–[6627]），同时确认 Maki 已从 Sara 处得知 Sensei 回归（[6635]）。
-- Miki 信息更新：Makoto 的"神秘男友"似乎已了结或转入地下（[6673]）。
-- Miku 在店内看到不该看的东西当场社死逃离（[6681]–[6696]）（具体所见未明示，待核）。
-- 夜路上 Miku 首次主动求牵手，被 Karin 撞破后慌乱圆谎（"That's just from all the porn." [6791]）。事件末解锁 karaoke 支线跳转（karinspring2，[6990]）。
+### 泳池过量事件（上半最重要节点）
 
-### mikuspring3[6993]：Dorm Wars 动员与室友深谈
-- 前半为运动会喜剧：Miku 给 Futaba/Sana/Ayane 排兵布阵（[6997]–[7150]）。
-- 后半 Makoto×Miku 淋浴间对话是本章重心，信息量极大：
-  - Makoto 自述反常的轻松感："Like all of the weight I've been carrying my whole life has somehow just *vanished.* And I can be me *now* without worrying about how I'll be in the *future.*"（[7266]）——结合世界观（无限时间、"no rush anymore" [7290]），这是死亡驱动/循环感知的强烈暗示。
-  - Miku 试探竞争底线并获得承诺："If that person's me, we'll stay friends...won't we?" — mak: Of course.（[7293]–[7294]）
-  - 本章收尾旁白只有两句，指向 Sensei 缺席的状态：*One more day without you passes by. The cogs continue to move.*（[7299]–[7300]）
+**mikupool55**［5132]：Miku 在池边意识涣散近乎昏迷，Karin 误判为疲劳（[5136]-[5143]）。Sensei 不送医务室的真实理由是自利推理链——怕 Makoto 发现他早就知情（[5186]-[5192]），反复自我催眠 "I am making the right choice"（[5222]-[5249]），甚至预先把责任推给 Io："It will be Io's fault."（[5235]）。背回宿舍后误拨电话给 Ami，说出全书罕见的自我暴露：
 
-### mikuspring4[7308]：跑步约会与告白铺垫
-- Sensei 一反常态主动约 Miku 慢跑（"To make you happy." [7347]），恢复旧日活动。
-- 膝枕段 Miku 脱口而出："Is this what havin' a boyfriend's like?"（[7485]）、"I like you *so* much, Sensei."（[7502]）。
-- 两人就"排他性/嫉妒"长谈，Sensei 少见地袒露过去："I used to have feelings for someone who belonged to someone else."（[7575]–[7584]）。
-- Miku 给出本线最重要的自我定义陈述：
-> mi: I can't give ya brains like Makoto or boobs like Futaba. I ain't as creative as Nodoka, ain't as stylish as Chika, and I ain't even half as cute as Ami. I ain't got much, really. Don't even have a family anymore. All I have to give is myself.（[7604]–[7605]）
-> s: You've really grown up, Miku. — mi: Not without help, I haven't.（[7611]–[7612]）
-- 章末 Miku 正式提出初夜意愿（"I wanna do it with you..." [7630]），并补充 Makoto 教的安全套常识但自己不想用（[7639]–[7644]）。
+> s: That's my name. Just it isn't. My real name is Akira. Hello.（[5363]
 
-### mikuspring5[7652]：初夜失败（全线下半最重要节点）
-- 事前反复确认与怯场喜剧（倒数十秒协议 [7832]）之后急转直下：进入失败、剧痛、大出血，Miku 数次喊停（[7970]–[7978]）。
-- 过程中旁白出现**第二种声音**——粗体小写的内心恶魔，用最粗鄙的话阻止他停手：
-> hey man, it's not YOUR fault she's tight as shit... stop thinking, bitch boy. just savor the moment.（[7945]、[7957]）
-  这是 Sensei 内在加害者人格的首次成文化显形，与 mikupool55 的自我合理化独白同构但更露骨。
-- 恐慌处理段落里 Sensei 再次拨给 Makoto；Makoto 冷静接管（拒绝叫救护车以免暴露，"You doing that raises so many red flags" [8104]），并顺带回忆起自己初夜也被同样丢下（[8100]）。
-- 本事件使 Miku 的阴道性交此后长期不可用，直接塑造 mikulust5/spring6/spring7 全部替代式性行为的叙事逻辑。
+与 Ami 的通话里他形容自己 "Everywhere and nowhere"。苏醒后的 Miku 处于药物残余状态，主动提出以初夜「回报」并被拒（[5395]-[5413]）；她随即暴露真实动机——医生之所以不能去，*"Because they'll make me talk!"*（[5770] 呼应段）：她怕的不是治疗，是被问出父母的事。
 
-## 三、lust 线概貌（抽象概括）
+### 创伤总解明
 
-Miku 线的成人内容有一条清晰的**身体承受力母题**：她的身体无法容纳常规性行为，于是所有 lust 场景都围绕"替代方案—练习—等待成长"展开，且每次都伴随权力/竞争话语（与 Makoto、Kirin、Sana 比较）。
+**mikudorm55p1**［5481]／**p2**［5843]：p1 承接过量余波，p2 正面引爆身世——窃贼、枪声、母亲的身体、床下的整夜（[6074]-[6151]）。拔发、怕巨响、解离在此获得统一解释；转向正规治疗的决断也在 Makoto 主导下完成（[5972]、[6013]）。本段之后，Miku 的所有「过度活跃」都完成了重新编码：那不是性格，是症状的代偿。
 
-1. **mikuinvite2（[4745]–[5124]）**：首次口交。"fair is fair"的互惠框架由 Miku 自己提出；她把性行为理解为与好友的"竞争得分"（"It just...feels kinda like I'm...winning right now" [4947]）。事件解锁 lust 变量与随时邀约权限（[5120]–[5121]）。
-2. **初夜失败（spring5）**：唯一一次尝试阴道性交，以伤害与恐慌告终（详见上文）。叙事功能：把"性=竞赛"的 Miku 式认知撞碎一次，也让她此后对 Sensei 的信任反而加深。
-3. **mikulust5 → mikunaming/mikupostnaming（[8123]–[8537]）**：店后室场景引入"naizuri"类体位替代方案（[8266]），核心是命名选择树——Sensei 让 Miku 选一个称呼（详见第四节 meta 分析）。此段确立 Miku 性格中的开关特质："the sexual stuff is essentially activated by a toggle switch"（[8726]）。
-4. **mikuspring6（[8848]–[9027]）**：秘密公寓的豆芽菜晚饭+轻度亲密。成人内容退居背景，主体是道德辩护对话（见第四节第 6 条）。
-5. **mikuspring7（[9132]–[9330]）**：指尖+仅顶端进入的边缘行为，Miku 主动配合并自慰；Sensei 在最后关头的出体外射决定中闪过一个"whale"念头（[9322]–[9323]，含义未解）。事后 Miku 提出 boyfriend 称号请求（[9363]）。
+### spring 系列
+
+**mikuspring1**［6216] 与 **mikuspring2**［6512] 处理创伤披露后的关系重建：Sensei 自认救了她一命（[5327]-[5378] 区间的追述定位），两人第一次以「非炮友」的身份相处，节奏刻意放慢。**mikuspring3**［6993] 宿舍战争运动会动员章，贡献全书最长的冗长标题笑话（SMUS-DDW:NBA 式命名），群像喜剧为高压剧情强制降压。**mikuspring4**［7308] 与 **mikuspring5**［7652] 推进日常约会与信任积累，love 值弹窗（[6985]）落在 spring3 尾声。
+
+### 命名与元叙事接口
+
+**mikulust5**［8123] lust 低阶节点之后，**mikunaming**［8286] 成为全线最特殊的章节：两人正式讨论「该怎么称呼彼此与这段关系」，"Coach" 命名树在此展开（[8406]-[8433]）；同段她在 Maki 店里试玩了《Lessons in Love》本体（[8439]-[8453]）——她评价自己正在经历的这款游戏，玩家层与角色层在同一场戏里重叠。**mikupostnaming**［8537] 处理命名后的微妙期：称呼变了，关系的重量也随之变了。
+
+### 秘密公寓与终章
+
+**mikuspring6**［8762]：Miku 搬进 Sensei 的秘密公寓（[8795]-[9038]），豆芽菜晚餐的贫穷喜剧之下压着两条重线——其一是「new Maki」抑郁线：Maki 得知 Sensei 与两个女儿都上了床后崩溃，转而对女儿实施管束，Miku 被夹在这户人家的地震带正中央；其二是 grooming 辩论，Sensei 以 *"any girl who has been groomed would likely say"* 的句式自我辩护又自我怀疑——这段话是全局对「教师—学生恋」伦理问题最直白的正面处理。
+
+**mikuspring7**［9041] 终章。电影夜，Moby Dick 引文贯穿始终作为捕鲸与执念的框架隐喻；Sensei 的内心独白冷不防摊牌：*"I don't love Miku. And Miku doesn't love me."*——紧随其后的是 forced coming-of-age 独白，承认这段关系里没有人在以正确的方式长大。lust 场景以「仅 tip 进入」的分寸收束，把越界停在一厘米之外。情感终点由 Miku 亲口敲定：
+
+> mi: ...can I call you my boyfriend?（[9363]
+
+从 friends-with-benefits 到 boyfriend 的请求，是全书少数由女方主动完成的命名仪式。事件跳转 endofsatch4／endofweekdaych4，主线锚点合拢。
+
+## 三、lust 线概貌
+
+本线欲望内容分散在 invite 系列、**mikulust5**［8123] 与 spring7 终场，被裁剪标记覆盖的部分可抽象为四种叙事功能：
+
+1. **等价交换的入门**：invite2 的「回礼」逻辑（[4745]）把性表述为账目，与她运动员式的规则感同构——先立规矩，再破规矩。
+2. **药物的幽灵**：多个欲望场景发生在药物残余期内（[4849] Valium、[5395]-[5413] 过量后的「回报」提议），欲望的知情同意问题被反复摆在台面上，构成对 Sensei 的持续控诉。
+3. **命名的洗白机制**：mikunaming（[8286]-[8536]）把称呼系统当作欲望的再包装流水线——换一个名字，同一件事就从交易变成了恋爱，这正是 lust 线对 love 线的反讽馈赠。
+4. **一厘米的伦理刻度**：spring7 的 tip-only 场景把「没有完全越界」本身写成内容——它既是克制也是欺骗，取决于读者站在哪一层看。
 
 ## 四、与主线/元叙事咬合点
 
-1. **Sensei 自报真名 Akira（[5363]）**：药物过量事件中意识混乱时说出 "My real name is Akira. Hello."——与 Ami 线系统文本、Maki 等人直呼同构，是"真名"母题在 Miku 线的落点。另见命名树的 Akira 分支（[8511]–[8522]）："What's more romantic than being called by your regular name during the most intimate moments of your life?"
-
-2. **Miku 玩过游戏本体——全书最直白的元叙事对话（[8438]–[8466]）**：命名树 Selebus 分支中，Miku 脱口接上 "Lessons in Love. I know."（[8440]），解释是 Maki 让她试玩前半小时熟悉商品，还提到游戏里的 Ami 对她说 breed her（[8445]–[8446]）。随后两人共同推演套层悖论：
-> s: I just feel like this creates some sort of meta paradox thing where we all exist inside of a game that simulates exactly what we're going through right now.（[8453]）
-> mi: So you're sayin' that what's happenin' now could be happenin' in the game version too?（[8454]–[8455]）
-Sensei 为避免悖论主动放弃该选项（"let's just say you *shouldn't* call me Selebus" [8463]）。这是全项目对"游戏套游戏"最露骨的一次正面讨论。
-
-3. **reset 措辞（[5617]）**：旁白描述 Miku 战前日常时写道 "The following day would mark a reset — just not the kind you're familiar with."——用玩家熟悉的 "reset" 一词指代普通生活的日复一日，与循环层术语形成刻意互文。
-
-4. **记忆不一致的自觉（[6483]）**：Miku 是少数自己察觉"年初你不在学校却说要回到年初"这一矛盾的角色，虽当场自我否认。配合 spring3 中 Makoto 的 "life is a constantly repeating-" 被打断（[7186]，Makoto 线），构成宿舍组对循环层的渐进感知。
-
-5. **旁白对玩家的两次直接攻击**：①mikuinvite2 后的忏悔独白 "Please. Stop watching me."（[4696]）；②mikudorm55p1 的蠹鱼段落——"there are people even worse than you. And you never know what those people are doing with doors."（[5577]–[5578]）。两处都把玩家的观看行为本身定为共犯结构。
-
-6. **道德辩护与 groomed 一词（[8962]–[9013]）**：spring6 晚餐上 Miku 以"社会多数派"逻辑为关系正当化（"In a world where everybody's crazy, it's the normal person who's insane" [9001]、"[if] we can't make each other happy because of a number...that's kinda lame, ain't it?" [8973]）。Sensei 的回应罕见地不闪避：
-> s: ...that's exactly what any girl who has been groomed would likely say.（[8970]）
-> s: I do this because I'm addicted, selfish, careless, and self-destructive. It's the worst combination possible.（[8991]）
-而 Miku 的回答是本线情感核心："You're one of the very few things out there I'm not afraid of, Sensei."（[8994]）、"if you wanted to hurt me, you'd have done it already."（[9011]）
-
-7. **内心恶魔声音成文化（[7945]–[7957]、[8028]）**：初夜失败段出现的粗体第二人称声音，以及恐慌顶点 Sensei 内心吼出的 "EVERYTHING WILL BE FINE"（[8028]），把 mikupool55 中"I am making the right choice"的自我催眠机制升级为人格化的加害者声部。
-
-8. **Makoto 的异常化（[7253]–[7268]、[7290]）**：室友观察视角记录了 Makoto 的剧变——"you've felt a lot...different. Happier, maybe?"→mak: "I am. Happier now... Or...at least, more *free.*...all of the weight I've been carrying my whole life has somehow just *vanished.*"——与 Makoto 主线的死亡驱动线索互证；Miku 作为最近距离的观察者是这条暗线的重要证人。
-
-9. **万圣节失忆事件（[4748]、[4849]）**：Sensei 内心两次提及酒店房里发生过的事"Miku doesn't seem to remember"，且以 "Valium." 一词点出可能原因——暗示存在被药物抹除的共同经历，属跨线伏笔。
-
-10. **命名权自指玩笑（mikunaming 全分支 [8286]–[8534]）**：让角色为玩家角色命名的分支树本身就是对视觉小说命名输入机制的戏仿；其中 Makoto 分支（"every time I close my eyes, I also just imagine I'm Makoto" [8368]）与 Kirin 分支、Coach 分支（足球部回忆杀 [8406]–[8433]）各自回收本作其他人物线。
-
-11. **affection/lust 变量直显常态化**：本线 8 处以上系统文本直接以变量名结算（[5120]、[5475]–[5476] 含条件回退、[5835]、[6195]、[6985]、[8750]–[8751]、[9406]–[9407]），其中 [5475]–[5476] 的"次日回落+你回家后伤害了自己"两条是系统文本直接向玩家施压的罕见案例。
-
-12. **Moby Dick 双引文（spring7 [9117]–[9128]、[9389]–[9395]）**：madness/forbidden seas 引文对应 Sensei 自我认知的恶化（"I bypassed a chrysalis entirely and evolved discreetly before your very eyes" [9127]），温暖/寒冷对照引文则用于收束 boyfriend 请求后的夜晚——文学引用承担了旁白的自我诊断功能，与 Yuki 线的诗歌引用同构。
+- **主线锚点**：spring7 结尾双跳转（endofsatch4／endofweekdaych4）使本线与周六／工作日主日历硬挂钩。
+- **角色玩游戏**：她在 Maki 店里试玩《Lessons in Love》本体（[8439]-[8453]），是三层世界观中最露骨的一次层间穿透——玩家看着角色评价玩家的行为。
+- **Akira 之名**：泳池过量夜的电话事故让 "My real name is Akira"（[5363]）落在她这条线，而非任何主线章——主角身份危机的第一块实证碎片交给了她保管。
+- **Ami 通道**："Everywhere and nowhere" 的通话把她与 Ami 的神秘气质线并联，姐妹般的「不在场者」意象共享。
+- **Io 医药暗线**：她的药片来源（[5406]）接入 Io 的地下供给网络，与多条角色线的药物问题同源。
+- **Maki/Makoto 家庭线**：「new Maki」抑郁与管束（spring6）使本线成为母女震中的记录仪，Makoto 线的一半重量在本线过秤。
+- **秘密经济**：invite2 的泄密（[4874]-[4876]）示范了情报在本世界的传播速度——一个秘密经 Miku 之口抵达 Kirin，再由 Kirin 进入更广的交换网络。
 
 ## 五、未解伏笔
 
-按可信度排序：
+- **她想忘记的事**：dorm45p2 尾部的「想忘记」（[3799]-[3850]）始终未指名——它与万圣节失忆夜（[4748]）是否同体，悬而未决。
+- **万圣节酒店之夜**：Valium、失忆与服装线索（[4849]、[4857]）指向的那一夜从未正面还原。
+- **Io 药片的成分与来源**：只确定了「来路不明」（[5406]），处方权、成瘾性与 Io 的动机全部悬置。
+- **父母枪案**：两名窃贼的下落、案件是否告破，文本保持沉默。
+- **"Everywhere and nowhere"**：这句自我形容（[5363] 区间）与 Ami 线的同款气质是否指向同一设定层，无定论。
+- **boyfriend 之后**：命名仪式完成于版本末尾，这段关系的下一形态尚未开演。
 
-1. **"七月消失"**：旁白崩坏段自称 "the month of July no longer exists for me"（[5589]）——指向 Sensei 经历中的某个被删除/不可面对的时间段，与循环层的重置节点可能相关。（高可信为有意伏笔）
-2. **whale 念头**：spring7 射出前一刻 "It's a whale."（[9323]）——无上下文，或与 Moby Dick 引文体系、或与世界观某意象相关，待核。
-3. **万圣节失忆**：Valium + 酒店房（[4748]、[4849]）——那晚实际发生了什么、谁下的药、为何只有 Sensei 记得。
-4. **Miku 拔发复发**：spring6 提到新发型是因为 "the thing happened again and Makoto had to...clean stuff up"，且 Miku 自己"完全不记得那一晚"（[8866]–[8868]）——解离性发作在治疗开始后反而复发，且伴随记忆缺失。
-5. **Io 的药物来源与动机**：Miku 坚持不在 Makoto 面前提及 Io（"I didn't wanna throw Io under the bus" [6009]）；Io 的"药剂师"行为链未见源头交代。
-6. **Chika 的 boyfriend 崩坏**：Sensei 向 Miku 承认 Chika 因称号问题"kind of snapped"并担忧她会杀人（[7550]–[7556]）——跨线炸弹。
-7. **Makoto 的 vanished weight**：室友视角确认其反常轻松感（[7266]），与主线死亡暗示的最终关联待后续章节验证。
+## 六、label 总表
 
-## 六、label 总表（38 个）
-
-mikupool[1] · soccerfield[13] · callmikumorning[42] · callmikuafternoon[58] · callmikunight[141] · mikuinvite[231] · mikuinvitegen[242] · mikuinviteaff[286] · mikusoccergen2[323] · firsttimesoccer[354] · soccer2to4[619] · soccer5[652] · soccer10[951] · soccer15[1355] · soccer20[1651] · soccer25[2067] · soccer30[2439] · mikuwinterbeach1[2754] · soccer35[2804] · mikudorm45[3145] · mikudorm45p2[3496] · mikuspecial50[3899] · mikudorm50[4260] · mikuinvite1[4306] · mikuinvite2[4649] · mikupool55[5132] · mikudorm55p1[5481] · mikudorm55p2[5843] · mikuspring1[6216] · mikuspring2[6512] · mikuspring3[6993] · mikuspring4[7308] · mikuspring5[7652] · mikulust5[8123] · mikunaming[8286] · mikupostnaming[8537] · mikuspring6[8762] · mikuspring7[9041]
-
----
-
-## 二轮增补
-
-（原浅版文档不含二轮/三轮增补小节，此处保留占位。若后续有增补内容，请追加于本节之下。）
-
+| label | 行号 | 一句话内容 |
+|---|---|---|
+| mikupool | [1] | 泳池入口桩 |
+| soccerfield | [13] | 足球场初遇 |
+| callmikumorning | [42] | 晨间电话桩 |
+| callmikuafternoon | [58] | 午间电话桩 |
+| callmikunight | [141] | 夜间电话桩 |
+| mikuinvite | [231] | 上门邀请（普通版） |
+| mikuinvitegen | [242] | 上门邀请（通用版） |
+| mikuinviteaff | [286] | 上门邀请（好感版） |
+| mikusoccergen2 | [323] | 足球部日常变体 |
+| firsttimesoccer | [354] | 入部仪式与 "Coach" 称呼起源 |
+| soccer2to4 | [619] | 社团早期合集 |
+| soccer5 | [652] | 好感阶梯五级 |
+| soccer10 | [951] | 好感阶梯十级 |
+| soccer15 | [1355] | 好感阶梯十五级 |
+| soccer20 | [1651] | 好感阶梯二十级 |
+| soccer25 | [2067] | 好感阶梯二十五级（含储物间骑肩戏 [2170]-[2223]） |
+| soccer30 | [2439] | 好感阶梯三十级 |
+| mikuwinterbeach1 | [2754] | 冬季沙滩特别事件 |
+| soccer35 | [2804] | 社团线收官 |
+| mikudorm45 | [3145] | 三角谈判开端 |
+| mikudorm45p2 | [3496] | 「不隐瞒」协议＋茧之隐喻与商场邀约 |
+| mikuspecial50 | [3899] | 五十级特殊事件 |
+| mikudorm50 | [4260] | 宿舍五十级节点 |
+| mikuinvite1 | [4306] | 首次爱抚节点 |
+| mikuinvite2 | [4649] | 首个成人事件＋第四墙忏悔 [4692] |
+| mikupool55 | [5132] | 泳池药物过量事件与 Akira 之名 [5363] |
+| mikudorm55p1 | [5481] | 过量余波 |
+| mikudorm55p2 | [5843] | 父母枪案总解明 [6074]-[6151] |
+| mikuspring1 | [6216] | 创伤披露后的重建（一） |
+| mikuspring2 | [6512] | 创伤披露后的重建（二） |
+| mikuspring3 | [6993] | 宿舍战争运动会动员与冗长标题笑话 |
+| mikuspring4 | [7308] | spring 约会推进 |
+| mikuspring5 | [7652] | spring 信任积累 |
+| mikulust5 | [8123] | lust 低阶节点 |
+| mikunaming | [8286] | 命名讨论＋试玩游戏本体 [8439]-[8453] |
+| mikupostnaming | [8537] | 命名后的微妙期 |
+| mikuspring6 | [8762] | 秘密公寓、「new Maki」抑郁线与 grooming 辩论 |
+| mikuspring7 | [9041] | 电影夜终章、tip-only 分寸与 boyfriend 请求 [9363] |

@@ -1,110 +1,124 @@
-# Chinami 事件线精读笔记（ChinamiEvents.rpy，v0.55，共 5889 行 / 22 label）
+# Chinami 事件线全析
 
 ## 一、角色基本盘
 
-- **Chinami Chosokabe**：Chika 的妹妹，小学生体型。自称"5000 岁巫师"（wizard），游戏内多处用 `if bonus == True` 分支区分"巫师设定"与普通解读（如 `chinamidate1` 行 332："even if she is a 5,000 year old wizard"）。
-- **身体状况**：免疫缺陷 + 严重花生过敏（`chinamidate10` 行 1030 "peanut incident"，Yumi 曾喂她花生险出事）；出门须戴手套、口罩/头盔，除 Chika 外不被允许外出（Yumi 因花生事件被禁带她出门）。
-- **语言习惯**：第三人称自称；经营虚构企业 "Chinami-Corp"（主营长颈鹿），热衷股票/GME/商业术语梗；口头禅后期变为 "Bad News Bears"（`chinamidate30` 行 2400 起）。
-- **对 Senpai 的称呼**：从 "Sensei" 逐步过渡到 "future dad"（`chinamidate10` 行 931）→ "Papa"（`chinamidate20` 行 1618 起）。
-- **调度结构**：`callchinamimorning`(行1)/`callchinamiafternoon`(22)/`callchinaminight`(39)，按 `chinami_love` 阈值（0→date1、10→date10、15→date15、25→date25 等）与章节标志分发；夜间通话曾因"Chika 在场不好解释"被拒。
+Chinami（千波）是 Chosokabe 家的小女儿，Chika 的妹妹，全作中最年幼的主要角色之一。她的基本盘由五个支点构成：
+
+1. **家庭结构**：母亲已故（chinamidate1 中她对着母亲的照片祈祷，求 Sensei 娶 Chika，[约1–570 段]），由姐姐 Chika 独力抚养。她从未有过父亲，因此主动把 Sensei 命名为 "Papa"——这个称呼是她整条线的核心装置。
+2. **体弱设定**：花生过敏致命（chinamidate10，[约571–1141 段]）；chinamispring3 中进一步自述患有免疫缺陷症（immunodeficiency disorder），叙述者随即自嘲这病「只在游戏的随机段落里发作」（[3493]）。疾病既是喜剧素材，也是元叙事的自指。
+3. **第三人称自称**：Chinami 几乎全程以第三人称说话。chinamispring4 中她解释这是习惯，且承认切换第一人称「比听起来难」（[4128]）；chinamispring8 中 Hailey 把她卡在第三人称解读为信任的表现（[5766–5772]）。
+4. **早熟的资本头脑**：Chinami-Corp 设定（chinamidate1）、Roth IRA（[5442]）、向 Yumi 学商业知识（chinamidate15）——她用商业话语包裹对亲密关系的全部理解。
+5. **信息黑箱中的孩子**：所有大人都在对她隐瞒性知识，而她恰恰是被这些隐瞒塑造得最扭曲的角色——她从 Game of Thrones、偷听、Tsukasa 的转述中拼凑世界观，得出大量半对半错的结论。
 
 ## 二、love 线逐事件脉络
 
-### chinamidate1（行200）
-电话开场：Chika 请 Sensei 去"看妹妹"（dog-sitting 梗："You want me to dog-sit again." 行228）。首次独处：Chinami 假装看电视（电视其实没开），最爱节目是《权力的游戏》（行346 "Game of Thrones."），自测属于兰尼斯特家（"They have a lot of money and like each other more than they're supposed to" 行368）。梦想："one day, Chinami is going to be rich. And then she's going to buy a big house for her and big sis."（行375-376）
+**callchinamimorning / afternoon / night 及 gen2 日常系列（第 1–570 行段）**
+Chinami 线的入口是三个呼叫 label 与 chinamimorninggen2、chinaminoongen2、chinamigenmorning、chinamigenafternoon 等日常事件。这些段落确立日常节律：看电视（假装是 Game of Thrones）、玩商业游戏、等姐姐回家。日常的密度本身即是伏笔——她的世界小到只能由电视与姐姐构成。
 
-### chinamidate5（行545）
-"Chinami hotline! This is the CEO, Chinami speaking!"（行559）。黑暗面一闪："Chinami never does anything. She just sits in a room and cries."（行569）。居家读 Yumi 藏的血腥漫画、玩杀猪手游（"The pig game is also the only thing she's better than her sister at" 行611）。提出想学"大姐姐们的课程"，为将来能上学做准备（行620）——旁白点出 "{i}If{/i} she's ever allowed to go to school."（行622）
+**chinamidate1 —— 第一次 babysit**
+Sensei 第一次照看 Chinami。她演示「假装看电视」（电视里根本没有节目），介绍 Chinami-Corp，并对着亡母照片祈祷 Sensei 娶 Chika（[约1–570]）。此事件一次性给出她的三大创伤反应：用虚构填补空洞、用公司隐喻理解家庭、用祈祷处理愿望。
 
-### chinamidate10（行918）
-接电话即喊 "Good morning, future dad!"（行931）。bonus 分支：Chinami 相信"牵手=怀孕"、催 Senpai 让 Chika 怀孕给她换小妹妹（行935-958）。阳台场景：Chinami-Corp 完成"收购"、想买大象、抱怨 Chika 不让她投 GME（行1046）。约定以后一起做 Jell-O（行1057）。
+**chinamidate5 —— 故事时间与 Yumi 的暴怒**
+Chinami 讲述 Chiaki 名字的来源（[约1–570]），随后 Yumi 回家撞见 Sensei，暴怒赶人。此事件首次暴露 Chosokabe 家对外人（尤其成年男性）的防御机制，也为 Yumi—Sensei 的紧张关系埋线。
 
-### chinamidate15（行1232）
-冬季泳池派对（充气儿童泳池）。Chika 电话骚扰："Come get wet with my sister and me."（bonus，行1255）。Yumi 泡在 kiddie pool 里给 Chinami 上经商课（行1321-1323）。本段后部（约行1500）出现关键台词："Chinami has no future." / "Or at least not the kind of future her sisters and their future husband do."——Chika/Yumi 与 Senpai 结婚的玩笑语境，随后 Chika 回家撞见。
+**chinamidate10 —— 花生过敏与阳台**
+致命过敏事件后，二人在阳台长谈。Chinami 说出想要一个小妹妹、想要 Jell-O pool（[约571–1141]）。过敏事件的功能是第一次让 Sensei 意识到「她的死亡是真实可能的」，阳台谈话则把这种死亡焦虑转化为孩子式的补偿幻想。
 
-### chinamidate20（行1589）
-商场约会。Chinami 戴狗面具喝不了草莓牛奶（"Doggies can't drink strawberry milk. They'll get a tummy ache." 行1639）。偶遇学生 Otoha 与 Rin，名场面："Please tell me you're not going to pretend she's a real puppy."（Otoha，行1706）/ Rin："If we just accept and agree that it {i}is{/i} a puppy, we can all move on"（行1708）。Otoha 翻旧账"你曾计划绑架我"（行1717）。
+**chinamidate15 —— 冬季泳池派对**
+Yumi 在 kiddie pool 里教商业知识；Chinami 自我诊断病情，并说出全线最冷的一句自我判定：
 
-### chinamidate25（行2033）
-Chinami 的"商业伙伴" Tsukasa 与其姐 Touka 来访。互称 "Papa!" / "Jeeves!"（行2098-2099，Touka 全名梗 "Philip Jeeves Tsukioka the Fourteenth"）。Touka 对贫民公寓的真实反应："It is an utter crime that people are allowed to live in such places."（行2132）。楼下的电视天线没人敢拆，"Chinami doesn't want to be homeless!"（行2147-2148）。
+> ch: Chinami has no future.（[约571–1141 段]）
 
-### chinamidate30（行2307）
-强 meta 开场：blood1-4 场景 + "{s}I GO TO MALL{/s}"（划掉重写，行2321），旁白直白粗俗化（"time to fuck my fake girlfriend" 行2324）。商场陪 Chika 给 Chinami 买衣；"thick meatloaf" 双关梗连环翻车（行2383-2388）；Chinami 从 Tsukasa 处学来"affair"一词并爆料 "Tsukasa's big sister is having an affair with everyone in town!"（行2410）。
+一个孩子以商业评估的口吻宣判自己的未来，这是她「用公司话语处理恐惧」模式的顶点。
 
-### chinamispring1（行2643）
-Chika 出门打工后 Sensei 留守。大段自我厌恶独白：设想自己成为 Chinami 父亲 figure，"And I would break her like the china doll she is"（行2686）；担心自己像伤害 Yumi/Molly 那样伤害她（行2692）。鬼魂问答（行2706 "Do you believe in ghosts, Papa?" → static 闪切后答 "Yes."）。核心对话："Does Papa love Chinami?" ——"No."（行2754-2755）；"Is it wrong for you to love big sis Chika?" ——"It's extremely wrong. Because I'm thirty-one."（行2766-2771）。
+**chinamidate20 —— 商场狗面具与 Rin 的崩溃**
+商场偶遇 Rin 与 Otoha。Rin 得知 Chinami 是 Chika 的妹妹后情绪崩溃——因为 Chika 曾对 Rin 说过「你的眼睛很漂亮」（[约1141–1710]）。此事件把 Chinami 定位为各条创伤线（Rin—Chika）的意外引爆点：她自己毫不知情，却不断触发他人最深的伤口。
 
-### chinamispring2（行3001）
-Senpai 敲门拜访，Tsukasa 以"商业伙伴"身份出场（"Jeeves"称呼延续）。两人大人式互动让 Senpai 不适；本事件铺垫 Tsukasa 对成人话题的好奇被点燃（在 spring5 被 Chinami 点破："She never talked about any of that adult stuff until she saw you do it" 行4372）。
+**chinamidate25 —— business partner 与 Catcher in the Rye**
+Chinami 声称 business partner 即将到访，实际是 Tsukasa。她向 Sensei 解释「Papa 被 past 的鬼魂缠身，逼他做错误决定、不能好好爱 Chinami」（[1711–1726]）——孩子语言精准命中 Sensei 的心理病灶。Tsukasa 到场后，三人围绕《麦田里的守望者》展开教学尝试：Sensei 想教，却在中途陷入沉默（"silent method" 实为睡着）。插入 Maya 与 Noriko 关于 Holden Caulfield 与抑郁症的争论（[3221–3265]），随后出现关键元叙事注记：
 
-### chinamispring3（行3421）
-高烧看护事件。开场为整段颠倒世界意识流诗（"The sky was upside down when I stepped outside today." 行3426；"I will never get to where I'm going." 行3439）。此前插入 "mall Chika" meta 电话：低俗小写文风、"don't have sex with her either"（行3463）、"i love you bye"（行3475-3476）。正文中 Senpai 自我催眠："Hello. My name is Akira Arakawa. I have a wife named Chika and a daughter named Chinami. These are not delusions."（行3491-3492）。直面 Chinami 可能早死的恐惧（行3519-3520）。
+> N: She wasn't blurred this time.（[3291]）
 
-### chinamispring4（行3957）
-浴室场景。开场又一首自物化诗（"Today, my bones will be the soup..." 行3963-3967）。Senpai 全程背对、拒绝入浴（"this is already a step further than I planned on going today" 行3985）。Chinami 连环危险提问：Chika 说梦话泄露"你爱不止一个人"（行4014）、"Has Papa been doing naughty things with big sis Yumi?"（行4023）、最后压轴 "Or maybe {i}I'm{/i} your type and that's why you're afraid to get in the bath with me."（行4075）。Senpai 三选一回答："Chika would come out on top."（行4076）。
+——「这次她没有被模糊处理」，直接承认存在一套对角色面容/存在进行模糊的机制。随后 Tsukasa 与 Chinami 以粗体大字互相开关于 erection 的玩笑（[3318–3329]），把儿童不宜的话题推到叙事表面。事件结尾出现系统提示与警告：
 
-### chinamispring5（行4293）（即 chinamiconfronts 系列）
-Chinami 回家质问：她听到了隔墙声音、且在 Tsukasa 家时 Senpai 与某女孩在其房间做事（行4342 "Papa {i}made{/i} this hole when he did it with a girl in Tsukasa's room!"）。核心控诉："She just doesn't understand why everyone starts going crazy once they meet {i}you.{/i} You're just a normal boy."（行4381）；"Big sis Chika too! She {i}never{/i} lied to Chinami before she met you!"（行4379）。Chinami 承认自己开始感到说不清的悲伤（行4397-4398），结尾 "Chinami doesn't know if that's possible anymore, Papa..."（行4408）。
+> N: iT IS never TOo lATE TO TUrn OFf thE GAMe（[3400–3418]）
 
-### chinamispring6（行4636）
-Chika 归家发现两人相拥睡着，幸福感独白（"Look at what I have..." 行4679）与叙述者冷峻插叙（"harm befell the man below her before he'd even reached Chinami's age" 行4674）。深夜 Chika 在熟睡的 Chinami 身旁对半醒的 Senpai 主动身体亲密（行4713-4743，含 "You'll wake up our daughter..." 行4729）——详见 lust 概貌。
+之后 jump 至 amispring1——Chinami 的日常事件直接接入 Ami 线，暗示两条线的底层共享同一循环结构。
 
-### chinamispring7（行5106）
-承接主线：偶像 Niki 向全世界公开与 Senpai 的恋情，Chika 崩溃失语并持刀（"she has a knife" 行5143）。Chinami 漂了金发（新立绘，行5181）并组织营救：用花生威胁失败（差点害死自己）、拖 Chika 到椅子上坐好。Senpai 用"Niki 后台通行证"试图唤醒，无效后开玩笑 "I'm going to run away with your little sister and marry her."（行5227）。观察到 Chika 仍下意识举刀护妹（"she's still {i}subconsciously{/i} trying to protect you" 行5244）。
+**chinamispring3 —— 病中照护与「另一个人生」**
+开篇是倒悬天空、Backwards Boulevard 的意识流诗（[3425–3439]）。Chika 在 pareidolia mall 找到新工作，托 Sensei 照顾发烧的 Chinami。Sensei 的内心独白罕见地以本名自白："My name is Akira Arakawa. I have a wife named Chika and a daughter named Chinami. These are not delusions."（[3490]）——他必须靠反复背诵才能相信这个虚构家庭。
 
-### chinamispring8（行5371）
-Chika 走出崩溃的方式是疯狂扫荡 Niki 周边（"WE NEED MORE MONEY!" 行5414）。Chinami 邀 Nao-chan（全程只发 "!" 的无口角色）一起买 boba；两人遭遇 mall 里两个"传送门"（Death / Life）的纯 meta 寓言段落（行5437-5464），Chinami 选择 Life 门："Because life is objectively better than death."（行5460）。收尾诗句："One step, two steps, three steps, jump. What fun we will have once the tree is a stump."（行5469-5470）。
+病中的 Chinami 要求 Papa 陪浴。Sensei 以「我是男人身上一切错误的总和、是会杀死你的病毒」拒绝（[3772–3776]）。此处分支：
+- **Endanger her**：Sensei 屈服，随后 jump chinamispring4；
+- **Protect her**：他拒绝，系统旁白随即宣判——在另一个人生里你会做出相反选择，在那个世界你勇敢、是人；而这个世界里你是懦夫、是变态，"Everyone else is growing. And you'll never catch up at this rate."（[3867–3885]）
 
-## 三、lust 线概貌（抽象表述）
+选择本身被叙事层评价：两个选项都不是「好结局」，protect 分支换来的是对玩家/角色的双重羞辱。
 
-- 本文件**没有以 Chinami 本人为对象的独立 lust label**（对比 Imani 文件有 imanilust5 等）；Chinami 相关的成人内容全部以"在场者/旁听者"框架出现在 love 线事件中，且叙事上刻意强调 Senpai 的自我厌恶与克制。
-- `chinamispring3`：fever watch 期间穿插 meta 化的粗俗旁白（把 Chika 称作妻子、把自己称作父亲的催眠式独白），以及"差点起意又压下"的心理描写。
-- `chinamispring4`：浴室共处一室（背身），文本重心是 Chinami 的越界提问而非描写本身。
-- `chinamispring5` 开头：以 Chinami 视角复述此前发生在 Chika 与 Senpai 之间、以及 Tsukasa 家房间里的成人行为（她只是听到者）。
-- `chinamispring6`：Chika 在熟睡的 Chinami 身旁主动发起亲密行为——未成年人同床在场的框架，属全作最争议桥段之一，此处仅记录存在与位置（约行4713-4760），不复述细节。
-- 结论：Chinami 线的功能是"欲望叙事的道德镜面"——她是 Senpai 用于自我证明"我还有底线"的对象，而文本不断暗示这面镜子正在碎裂。
+**chinamispring4 —— 洗发与 Jaime Lannister**
+延续浴场场景。Chinami 用《权力的游戏》类比 Sensei—Chika—Yumi 的三角关系（Jaime/Cersei/Brienne，[4104–4114]），并追问 Sensei 是否因为自己是 "type" 才不敢共浴。她首次说出 "lolicon" 一词（学自 Yumi，[4176–4177]）。Chika 提前回家撞见洗发的画面，狂喜大喊 "IT'S LIKE WE'RE AN ACTUAL FAMILY!"（[4250]）——虚构家庭在不知情的姐姐眼中达到了完满。
 
-## 四、与主线的咬合点
+**chinamispring5 —— Tsukasa 的包办婚姻危机**
+Chinami 听到 Sensei 与 Chika 在家中做爱，随后展开她全线最惊人的一段谈判：她透露 Tsukasa 的母亲 Tsubasa 正在为 Tsukasa 安排婚姻，而 Tsukasa 不敢拒绝；她提议——如果 Tsukasa「已经和别的男人在一起过」，婚事就难成了——并暗示 Sensei 可以做那个男人，她保证保密（[4478–4622]）。Sensei 惊恐拒绝，但承诺去和 Tsukasa 谈。此事件确立 Chinami 的核心矛盾：她不是无知，而是用从电影里学来的扭曲逻辑主动「安排」大人的性关系，动机是保护朋友。
 
-1. **meta/重置系统**：`chinamidate30` 的 blood 开场与划掉重写文本、`chinamispring3` 的 "mall Chika" 平行场景与意识流诗、大量 `_in_replay` / `renpy.end_replay()` 结构（17 处 end_replay）——Chinami 线是全作 meta 实验密度最高的线之一。
-2. **家庭线（Chika 线）**：Chinami 是 Chika 线的常驻副舞台——从 dog-sitting 起点直到 Niki 公开恋情→Chika 崩溃持刀（spring7）→周边扫店疗愈（spring8），完全嵌在 Chika 弧线的每个节点上。
-3. **Yumi 线**：花生过敏事件解释 Yumi 缺席；spring1 中 "big sis Yumi is...actually, Chinami doesn't know what big sis Yumi has been doing"（行2741）呼应 Yumi 主线失踪期。
-4. **Niki 偶像线**：spring7-8 直接消费主线 Niki 事件；Chinami 对 Niki 海报的态度（Imani 线里也有喊话梗）形成跨线呼应。
-5. **其他角色交叉**：Tsukasa/Touka（date25、spring2、spring5）、Otoha/Rin（date20）、Nao-chan（spring8，无口设定首次大篇幅展示）。
-6. **Senpai 黑深残内核**：spring1/spring4 的诗与独白持续供给他"童年受害→加害焦虑"的主线心理逻辑（"someone lit my hands on fire a long, long time ago" 行3995）。
+**chinamispring6 —— 阳台之夜与目击**
+Chika 深夜在阳台对熟睡的 Sensei 手交并发生关系，而 Chinami 半夜醒来，目睹了全程十分钟，无人发现（[4780–4855]）。次日早晨的对峙是全线喜剧与恐怖的混合巅峰：Chika 用疯狂做五百块煎饼逃避话题、没收手机防止她「自己查」（[4884–5087]），最终承认错误并承诺「以后会教，但要时间」。结尾旁白：
 
-## 五、未解伏笔清单
+> N: And so one more fruit began to ripen.（[5089]）
 
-1. **Chinami 的寿命**：多处暗示她可能活不长（spring1 行2695 "she's probably going to die before any one of us"；spring3 整场高烧恐慌），病因与结局未揭。
-2. **"5000 岁巫师"真伪**：bonus 分支反复横跳，官方从未盖章；spring8 的传送门寓言进一步模糊现实边界。
-3. **Chika 持刀崩溃**的完整后续与心理修复在 Chinami 线内未闭合（移交 Chika/Niki 主线）。
-4. **Nao-chan 的"两个传送门"**：spring8 结尾诗句（"once the tree is a stump"）指向不明，疑似大型 meta 伏笔。
-5. **Chinami 的早熟知识来源**：她自称"从 K-drama 学的""GoT 学的"，但对成人话题的精准追问（spring4/spring5）超出解释框架；"Chinami will do that so long as Papa promises to keep it a secret"（行4063）暗示她有交换筹码式的目的性。
-6. **"everyone goes crazy once they meet you"**：Chinami 在 spring5 提出的指控是全作核心命题的角色版表述，尚未在文本内被正面回应。
+——「又一颗果实开始成熟」，明确宣告 Chinami 正在走向性成熟，而所有大人能做的只有拖延。
+
+**chinamispring7 —— Niki 公开恋情与持刀的 Chika**
+Niki（Sensei 的偶像前女友）向全世界公开与 Sensei 的恋情，Chika 当场心碎成紧张性木僵，手持菜刀一动不动（[5116–5244]）。Chinami 独自应对失败后打电话向 Papa 求援，甚至提出「替姐姐同意 Sensei 用做爱唤醒她」的方案（[5253–5264]）。最终 Sensei 召来 Niki 本人处理。此事件中 Chinami 首次被推上「照护者」位置并明确抗议："Chinami's not supposed to be the caregiver in this relationship! She is!"（[5240]）。
+
+**chinamispring8 —— 传送门、派对世界与 Hailey**
+Chika 化身 Niki 周边扫货狂人，带 Chinami 搜遍全城唱片行（[5376–5428]）。Chinami 与不会说话的 Nao 偶遇商场里的两扇传送门（Death 门与 Life 门，[5436–5463]），穿门进入一个美式派对世界：那里有 Hailey Hawthorne（野兔，密歇根来）、Paul、Octavia、Beatrice 等兽人角色；Howard 提到 Kumon-mi 是「几年前那场极度孤立的太空战争中被与世界隔绝的城市」（[5572]）——主线城市的封闭在异世界口中得到侧证。
+
+Hailey 以典型 grooming 话术逐步接近 Chinami（"impulses" 理论、"practicing" 接吻，[5771–5838]），Chinami 同意接吻的瞬间被 Nao 打断，场景切回 Chika 的扫货狂潮（[5856–5871]）。此事件是 Chinami 线第一次让她暴露在「另一个掠食者」面前——而叙事在此处戛然而止，把最危险的接触留成悬案。
+
+## 三、lust 线概貌
+
+Chinami 的 [TRIMMED...] 段在叙事功能上可归为四类：
+
+1. **感官启蒙段**：阳台目击（chinamispring6）前后的 trimmed 内容处理她第一次将「性」与「身边的具体的人」挂钩的过程。她的反应不是欲望而是无法命名的愤怒、悲伤与愧疚的混合物（[4844–4849]），功能是呈现「过早目击」对儿童心理的腐蚀。
+2. **语言污染段**：从 "erection"（[3320]）、"lolicon"（[4156]）到 "dog sex"（[4476] 段前后的用词），trimmed 段记录她词汇表中成人词汇的累积曲线——每个新词都来自某个大人的失职。
+3. **掠食者引力段**：Hailey 派对事件的 trimmed 部分与正文共同构成完整的 grooming 教科书：孤立（"just between us"）、正常化（impulses 理论）、升级（练习接吻）。Chinami 的体弱、缺爱、无朋辈，使她成为理论上最易猎食的目标。
+4. **循环填充段**：部分 trimmed 段落以近似重复的日常场景出现（看电视、吃饭、游戏），其功能与 gen2 系列 label 一致：为循环提供可无限重放的「安全日」，同时用重复本身暗示时间并未真正前进。
+
+## 四、与主线/元叙事咬合点
+
+1. **模糊机制的自供**：[3291] "She wasn't blurred this time." 是全部角色线中唯一直接承认「存在对角色的模糊处理机制」的注记，而它出现在 Chinami 的日常事件里。
+2. **关掉游戏的最后通牒**：[3400] 的乱码警告 "iT IS never TOo lATE TO TUrn OFf thE GAMe" 把 USER 层的劝退信息嵌进儿童日常事件，随后 jump amispring1——Chinami 线与 Ami 线在循环结构上直接连通。
+3. **免疫缺陷的自指**：叙述者明说她的病「只在游戏的随机段落发作」（[3493]），疾病被承认为叙事便利而非生理事实。
+4. **Kumon-mi 封闭的外部证词**：派对世界的 Howard 说 Kumon-mi 在「太空战争」后被封锁（[5572]）——从异世界视角确认主舞台是与世隔绝的实验场。
+5. **传送门系统**：Death/Life 双门出现在 pareidolia mall（[5436]），与 Nao（不能说话的女孩）绑定。Nao 的沉默、传送门、派对世界共同构成 Chinami 线独有的「侧门」——主线角色从未通过其他渠道进入该世界。
+6. **Akira 的自我催眠**：[3490] 段 Sensei 以真名背诵虚构家庭关系来维持现实感，说明 Chinami 的 "Papa" 叙事已经反噬施术者本人。
+7. **果实成熟的宣告**：[5089] "one more fruit began to ripen" 以旁白身份把 Chinami 的性成熟登记为叙事事件——她的成长被系统性地当作倒计时管理。
+
+## 五、未解伏笔
+
+1. **阳台目击的后果**：Chinami 目击了十分钟却从未被发现的性爱场景，这段记忆将如何影响她对 Sensei 与 Chika 的态度，digest 结束时未爆发。
+2. **Hailey 的未完成接触**：接吻被打断，但 Hailey 知道她的名字、城市、家庭结构，且 Chinami 承诺保密（[5833]）。这条掠食线索完全悬置。
+3. **传送门与 Nao**：门是谁放置的、为何只有 Chinami 与 Nao 进入、Nao 为何不能说话、她在派对世界经历了什么——全部无解。
+4. **Chiaki 名字之谜**：chinamidate5 中 Chiaki 名字来源的故事（[约1–570]）指向 Chosokabe 家更早的往事，与亡母的关系未展开。
+5. **"Chinami has no future" 的字面性**：她的自我判定究竟是抑郁式修辞，还是对「这个角色不会活到结局」的元叙事直觉，未验证。
+6. **Tsubasa 的包办婚姻**：Sensei 承诺去和 Tsukasa 谈（[4622]），后续在 Chinami 线内未见回响。
+7. **Rin 与 Chika 的过去**：「你眼睛很漂亮」引发的崩溃（[约1141–1710]）指向两人共享的一段历史，Chinami 永远不会知道全貌。
 
 ## 六、label 总表
 
-| label | 行号 | 一句话内容 |
+| label | 所属线 | 概要 |
 |---|---|---|
-| callchinamimorning | 1 | 晨间调度入口，按 chinami_love 阈值分发 |
-| callchinamiafternoon | 22 | 午后调度入口 |
-| callchinaminight | 39 | 夜间调度入口（通话被拒梗） |
-| chinamimorninggen2 | 47 | 与 Chika 的晨间日常（通用填充） |
-| chinaminoongen2 | 79 | 正午通用填充 |
-| chinamigenmorning | 112 | 通用晨间片段 |
-| chinamigenafternoon | 155 | 通用午后片段 |
-| chinamidate1 | 200 | 首次看娃：GoT、买房梦想 |
-| chinamidate5 | 545 | CEO 热线与讲故事：哭泣一闪、血腥漫画 |
-| chinamidate10 | 918 | future dad 来电：收购、GME、Jell-O 之约 |
-| chinamidate15 | 1232 | 冬季泳池派对："Chinami has no future" |
-| chinamidate20 | 1589 | 商场狗面具约会：偶遇 Otoha/Rin |
-| chinamidate25 | 2033 | Tsukasa/Touka 来访：Papa & Jeeves |
-| chinamidate30 | 2307 | meta 商场行：meatloaf 梗、affair 八卦 |
-| chinamispring1 | 2643 | 独守：鬼魂问答、"Does Papa love Chinami? No." |
-| chinamispring2 | 3001 | 拜访：Tsukasa 商业伙伴登场 |
-| chinamispring3 | 3421 | 高烧看护：意识流诗 + mall Chika meta |
-| chinamispring4 | 3957 | 浴室拷问：naughty stuff 与三选一 |
-| chinamispring5 | 4293 | Chinami 质问：为什么遇见你大家都疯了 |
-| chinamispring6 | 4636 | Chika 归家：三人同榻之夜（敏感） |
-| chinamispring7 | 5106 | Niki 公开恋情余波：持刀的 Chika |
-| chinamispring8 | 5371 | 周边扫店：Nao-chan 与生死传送门 |
+| callchinamimorning / afternoon / night | 入口 | 三时段呼叫入口 label |
+| chinamimorninggen2 / noongen2 / genmorning / genafternoon | love/日常 | 日常节律：电视、游戏、等姐姐 |
+| chinamidate1 | love | 首次 babysit；Chinami-Corp；对亡母照片祈祷 |
+| chinamidate5 | love | Chiaki 名字来源；Yumi 回家暴怒 |
+| chinamidate10 | love | 花生过敏；阳台谈话；小妹妹与 Jell-O pool |
+| chinamidate15 | love | 冬季泳池派对；Yumi 商业课；"Chinami has no future" |
+| chinamidate20 | love | 商场狗面具；Rin/Otoha 偶遇；Rin 崩溃 |
+| chinamidate25 | love/元 | business partner（Tsukasa）；Catcher in the Rye；"She wasn't blurred this time"；turn off the game 警告；jump amispring1 |
+| chinamispring3 | love/元 | 病中照护；Akira 自我催眠独白；陪浴抉择（Endanger/Protect）；「另一个人生」旁白 |
+| chinamispring4 | love | 洗发；Jaime/Cersei/Brienne 类比；Chika 的 "ACTUAL FAMILY" 狂喜 |
+| chinamispring5 | love | Tsukasa 包办婚姻；Chinami 的危险提案；Sensei 的承诺 |
+| chinamispring6 | love/lust | 阳台之夜；Chinami 目击；煎饼恐慌；"one more fruit began to ripen" |
+| chinamispring7 | love | Niki 公开恋情；Chika 木僵持刀；Chinami 的照护者抗议 |
+| chinamispring8 | love/元 | 周边扫货；Death/Life 传送门；派对世界与 Hailey；Kumon-mi 封闭证词；被打断的吻 |

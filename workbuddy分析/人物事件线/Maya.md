@@ -1,144 +1,140 @@
-# Maya Makinami 事件线梳理（MayaEvents.rpy，v0.55，约 10500 行 / 39 label）
+# Maya 事件线全析
 
-> 基于 `_digest_Maya.txt`（5895 行）精读。Maya 是**全作神话核心**——神社巫女、"做时间的事"、唯一明确知道"这是一个大循环"并"同时活在所有三层"的角色；年龄被系统涂黑（[[redacted]）。所有结论标注源行号。
-
----
+> 源文件：MayaEvents.rpy ｜ 共 36 个剧情 label
+> 定位：全作神话核心——神社巫女、时间重置的知情者与执行者、唯一横跨"恋爱表层／重置循环层／元叙事玩家层"三层存在的角色。她的线讲述了一个"旧 Maya"被系统替换为"新 Maya"的完整悲剧，以及新 Maya 在不知情中重走旧路的过程。
+> 阅读提示：正文为纯论述，断言均附源行号（digest 内部标记）；台词直引以 `>` 起头，m=Maya、s=Sensei、N=旁白、q=无名角色。
 
 ## 一、角色基本盘
 
-- **身份**：神社巫女（shrine 系列主场景）， cryptic、对 Sensei 既驱逐又吸引。sportswars / halloweenmaya / mayafestival 显示她是主角圈核心成员。
-- **表面性格**：沉默、毒舌、死鱼眼；反复命令 Sensei 远离自己却又在循环中等待他。自称 "Maya Makinami. My hobbies include watermelons and the violin. My past is of none of your concern."（[1401]）。
-- **深层状态（全作最关键）**：
-  - 她的**年龄被系统涂黑**（[1401] "Age, [[redacted]"）——她不是普通学生，是某种非人/被囚实体。
-  - 她**知道这是一个大循环**（[920] "if this really is one big cycle"）。
-  - 她**同时活在过去/现在/未来三层**（[906] "Maya has somehow found a way to live in all three at once"）。
-  - 神社是"无论何时访问都不变"的固定点（[102] "some places remain unchanged no matter when you visit them"）——即重置循环中不被清除的锚点。
-- **关键变量**：maya_love / maya_lust；bonus 分支。
-- **与 Ami 的互文**：Ami 线 halloweenami1 称 Maya 为 "the tragic tale of Maya Makinami (or the one who wears her skin)"（skinwalker 措辞）；Ayane 线揭示 "Maya is lucky that I feel like my existence rests in the palms of her hands"（[5257]，Maya 掌控 Sensei）；未来线 Himawari 称 "Maya Makinami does not exist"（[14009]）。
+- **身份**：神社巫女。神社是全城唯一"无论何时访问都不变"的固定点——雪覆全城唯神社无雪，她给出的解释是"有些地方不随时间改变"（[98]-[102]）。这使神社成为重置循环中不被清除的锚点。
+- **表面性格**：沉默、毒舌、死鱼眼。自称 "Maya Makinami. My hobbies include watermelons and the violin. My past is of none of your concern."——而年龄一栏被系统涂黑（[1401]）。系统级信息遮蔽说明她不是普通学生。
+- **深层状态**：她知道世界是一个大循环（[920] Sensei 求证"if this really is one big cycle"，她未否认）；旁白明示她"同时活在三层"（[906] "Maya has somehow found a way to live in all three at once"）；她能操控世界的某些部分却否认拥有完整控制权（[1462]）。
+- **双 Maya 结构**：旧 Maya 是与 Sensei 相恋多年的全知者、重置执行者；halloweenmaya3 中被系统强制重置为"新 Maya"——一个没有背景故事、雨中被 Sensei 捡回的女孩（[9489]、[9436]）。旧 Maya 曾预言这次替换（[1872]-[1881]："What if, after the next reset, there was a brand new Maya Makinami?"），剧情内自我实现。
+- **关键关系**：与 Sensei 的多年恋人关系（"We fuck and we cuddle and we kiss and we part. That's how it's always been." [6174]）；与 Ami 的镜像/竞争关系（Ami 自称世界之主并折磨她）；与 Niki 的旧情人关系（Sensei 当年抛下 Niki 是"为了救她" [9687]）；与 Ayane 的巫女学徒情谊。
+- **职能**：季节切换执行者（"I'll be finalizing the switch during the next reset." [1813]）、搬箱流水线的运输端（Ami 生产箱子→Maya 搬运→Sensei 送往学校，箱子无人能打开，[7643]-[7705]）、以及"用重复台词计数循环次数"的活体年表（[1573]-[1576]）。
 
 ## 二、love 线逐事件脉络
 
-- **firsttimeshrine**（[125]）：初遇。神社在雪中"未被积雪覆盖"（[98]），Maya 给出"有些地方无论何时访问都不变"的 cryptic 回答（[102]）——奠定"固定点"母题。
-- **shrine5 → shrine40**（[483]–[4350]）：随 love 值递进的神社日常，Maya 逐渐从"驱逐"转为默许陪伴。
-- **mayafestival1–4**（[2715]–[3936]）：祭典四部曲，情感推进。
-- **mayadate45 / mayaspecial45**（[4610]/[5059]）：高阶约会/特殊事件。
-- **sportswars5 / sportswars10 / sportswars14**（[5490]/[5898]/[6216]）：Dorm Wars 与主角圈交叉（与 Ayane 线的"三人协商"呼应）。
-- **halloweenmaya1–3**（[6438]–[7095]）：万圣节，Maya 的悲剧被以戏谑方式触及（"wears her skin" 同位的皮肤/替身议题）。
-- **mayaspring1–5**（[7571]–[10191]）：第四章弹簧事件，**spring 是她"做时间的事"的收束段**（与 DormEvents 的 roomwithclocks / ticktock / trinity1 神话簇直接咬合）。
+### 神社授课序列（firsttimeshrine → shrine40）
 
-## 三、lust 线概貌（抽象概括）
+初遇即全面知情。无名角色 q 的开场白是 "Getting started early this time, I see."（[145]-[146]）——"这次"二字暴露她知晓周期重演。她直接戳穿 Sensei 的身份伪装（[161]），给出无限世界论："There is an infinite amount of worlds... Sometimes, they spin so fast that parts of them combine."（[308]-[330]），随后发出全作最重要的警告：
 
-lust 节点不显式见于 label 名（Maya 线以 shrine/date/festival/spring 命名），meta 密度在 love 线本身已极高，lust 段多被含蓄处理。Karin 线中 Maya 自述 "I do the time thing"（[4174]）可视为对其"职能"的元说明。
+> m: my existence is heavily dependent on yours. And that existence is in grave danger if you do not heed this warning.（[354]-[358]）
 
-## 四、与主线咬合点（核心）
+> m: getting close to you is the actual worst thing that could possibly happen. For both of us.（[384]-[386]）
 
-1. **神社 = 重置循环中的固定锚点**（[98]–[102]）：雪覆全城唯神社无雪；Maya "some places remain unchanged no matter when you visit them"——神社是循环中不被 wipe 的记忆/实体锚点，类比 DormEvents 的 clocks 房间。
-2. **"同时活在所有三层"**（[906]）：旁白 "Maya has somehow found a way to live in all three at once"——明示 Maya 跨越"恋爱模拟表层 / 重置循环层 / 元叙事玩家层"三层存在，是全书对世界观结构最凝练的注脚。
-3. **她知道这是一个大循环**（[920]）：s "Maya, if this really is one big cycle...what I decide to do right now won't make much of a difference in the long run, right?"——Sensei 在此直接向 Maya 求证循环本质，而 Maya 未否认，仅怨 Sensei "理解力太差"（[925]）。
-4. **年龄被涂黑 = 非人/被囚**（[1401]）："Maya Makinami. Age, [[redacted]."——系统级信息遮蔽，与 Ami 线 amispring5 所指"被囚在秘密性牢笼数月的女孩"（[11138]）、未来线 "Maya Makinami does not exist"（[14009]）共同指向：**Maya 本体可能并不以"学生"身份真实存在**。
-5. **"做时间的事"**（Karin 线 [4174]）：Maya 在 Karin 面前自陈 "the main heroine of Lessons in Love. I do the time thing."——将"时间操控"归为自己的职能，与 DormEvents ticktock / roomwithclocks 的时钟机制、Ami 线 amiinvite4 的强制重复重置同属"时间/重置"神话簇。
-6. **Haruka 让出主角席位**（Haruka 线 [3344]）："I'm actually going to give the main heroine spot to Maya"——第三方角色公开确认 Maya 的 main heroine 地位，与 Ami（自称 main heroine）、Karin 线 Maya 自述形成"谁是真主角"的三角张力。
-7. **shrine30 门控挂在 Ami 的 virgin flag 上**（MayaEvents.rpy:18）：`maya_love >= 30 and mayadorm30 == True and ami_virgin == False and shrine30 == False` 才能进入 shrine30——**Maya 神社线的推进以"Sensei 已夺走 Ami 处女"（坏叔叔状态）为硬前提**；进度校验（newchecker.rpy:2041）与 Progress UI（screens.rpy:3980）同步该条件。机制层把 Maya—Ami 双姝绑定为道德/剧情共同体（详见 `Ami.md` 好/坏叔叔标识一节）。
+shrine5 中她把 Ami/Ayane 的好感解释为"残缺的感知"（[553]），用 3D/2D 拼图比喻 Sensei 的格格不入（[609]）。shrine10 是世界观宣言的顶峰：
+
+> m: I see everything that you see. The past. The present. The future.（[808]-[809]）
+
+> m: Nothing is real... this has all happened before... and it will happen again. Over and over and over.（[838]-[843]）
+
+她描述螺旋论（[881]-[885]）并断言"every single one will be wiped clean after a set amount of time"（[893]）。shrine15 发现隐藏秘境，禁果独白一句话点破两名对手："More forbidden than the one with my blood. More forbidden than the one who wishes for that blood."（[1069]-[1076]，前者指 Ami、后者指 Noriko），并警告接近真相会"回到一切的起点"（[1112]-[1115]），怒斥 Sensei 别把这一切当游戏："those girls are people."（[1123]-[1127]）。本篇结算置下 connect 旗标（[1307]）。
+
+shrine20 抛出复制体论："If all of the buildings and structures stay the same, but the people filling them are all replaced with identical copies equipped with altered minds, can we still call it the same world?"（[1503]-[1504]），以及 credits roll 三连问——游戏结束后角色们会怎样？如果他们不随重置一起复位呢？（[1541]-[1543]）。她承认自己"需要你失败到一定程度"（[1455]-[1456]）。
+
+shrine25 自白季节切换职责（[1813]），并做出替换预言（[1872]-[1881]）。Sensei 回答：就算新 Maya 有一模一样的兴趣，"those dead eyes are what I expect to see each and every time we meet"（[1886]-[1889]）——这句话后来成为刺向他的刀。
+
+shrine30（坏叔叔线专属里程碑）给出"记忆＝硬盘重格式化"理论：
+
+> m: What you were experiencing in watching those girls adapt to you was a type of reformatting... that will be how they remain until a new user comes along.（[2154]-[2163]）
+
+她哀叹 Sensei 对 Ami 的伤害："I really wish you didn't go all the way with Ami, though. I hate watching her get hurt after everything that she's been through."（[2180]-[2181]），并冷眼旁观众女"falling for version after version of the same teacher but failing to truly capture him each and every time"（[2131]-[2133]）。
+
+shrine35 中她的知识开始衰减："everything I know about the world has been slowly fading away since winter began."（[2573]-[2574]），并罕见地自我修正世界观："I was wrong... there is clearly no cycle at all. And if there is, it's a really fucking stupid one without any rules."（[2620]-[2624]）。身份接近揭露："The reason I don't want you to learn any more about 'your' past is precisely because it is your past. Probably."（[2629]-[2642]）。绝望之下她曾试图以性挽回 Sensei 被拒（[2531]-[2548]）。
+
+shrine40 中 Ayane 成为巫女学徒，二人组建"reset-stuff 例会"（[4437]），计划测试他人能否获得觉醋试验（[4491]-[4516]）。Ami 黑名单真相在此揭开：Maya 曾用"几十年甚至几个世纪"尝试接纳 Ami 入伙，"it never worked... it made her...mad."（[4542]-[4556]）。结尾伊卡洛斯意象："This cycle will melt the wax of my wings. I'm flying too close to the sun."（[4593]-[4594]）。
+
+### mayafestival 四部曲（第二章收束）
+
+mayafestival1：生日晨，Sensei 祝她"再活一百万年"（[2742]）。墙上的 MM 字条之谜——Maya 认得笔迹却"不记得写过"（[2855]-[2875]），暗示存在另一个 Maya。天台怀孕理论：Ayane 上次能登顶屋顶是因为怀了 Sensei 的孩子、"she was a temporary extension of you"，而重置连物理属性都能回滚——"she was rewritten to be the same exact person, just...without a parasite growing inside of her."（[2969]-[3001]）。情感突破："I'm finally starting to feel something again."（[3047]-[3048]）。
+
+mayafestival2：远郊秘境祭典——既非旧区亦非新区（[3227]-[3231]），第三区域的存在首次露出。无名甜瓜摊主 q 从未被人问过名字（[3322]），疑似无背景板角色。
+
+mayafestival3：旁白突然对"中层以外的听者"坦白：
+
+> N: I'm scared. But no one can ever know that. No one in the middle, at least.（[3545]-[3577]）
+
+巫女身份起源在此交代：她坚持穿巫女服是因为怀疑"巫女"身份是她能挺过每次重置的存续条件（[3805]-[3843]）。而告白即灾难——"talking about us has"让世界每次都陷入混乱（mayadate45 [4651]-[4859]）。
+
+mayafestival4：bonus 版超现实段落出现系统调试文本 "////////////////HAND SUCCESSFULLY ADDED"（[4130]-[4135]）。她的泡沫之梦预言了双 Maya 的屋顶相会："We were on the roof. The same room. At different times. The same place."（[4137]-[4150]）。结尾箱子再现："Only if you can open it."（[4206]-[4217]），随后系统宣告 "THERE ARE NO MORE MAYA EVENTS IN CHAPTER 2"（[4323]-[4324]）。
+
+### mayadate45 / mayaspecial45（第三章感情正线）
+
+mayadate45（+100 love）是电话告白事件。"Call me by my real name."（[4664]）——而真名是 Niki 告诉她的，她随即警告知道真名本身可能触发抹除（[4705]-[4712]）。历史性自白：她曾与历代"假 Sensei"发生关系并亲手弄坏了他们——"I may have caved into some of my carnal desires and...broken several Senseis... I've seen it firsthand."（[4839]-[4842]）。她称这个世界为 "chronoprison"（[4855]），指出城墙正在变得"less and less metaphorical by the day"（[4898]），还发现两人看到的月亮大小不同——同一世界的不同渲染（[4972]-[4981]）。
+
+mayaspecial45 中出现诡异一幕：咖啡店里 Kaori 完全无视 Maya 的两次点单，Maya 惶然发问 "Can you see me?"（[5400]-[5416]）——存在感知异常。结尾系统文本只有一句："it is waking up"（[5480]）。
+
+### sportswars 三部曲（旧 Maya 时代终结）
+
+sportswars5：Ami 卧床期探房。开场诗中被删除线的 "{s}I'm scared.{/s} I'm yours!"（[5512]）。Ami 逼问出轨并取得"Anything anything"的许诺后，主动放行情报指向神社（[5817]-[5879]）。阴森收尾，系统授予状态："Maya Makinami has gained that status effect [[PARANOID]!"（[5890]-[5891]）。
+
+sportswars10：Wilford Blackhole Hands 荒诞审判戏中，黑洞胃里有半透明流产儿，名字是变量 `[whatyousaid]`（[5937]-[6030]）。随后是全线的核心创伤——崩溃期的 Sensei 对追来数月的 Maya 说：
+
+> s: You're not Maya... You're a meat puppet.（[6094]-[6095]）
+
+她的真相爆发："It's been months! And we've been together for years!"（[6165]），并宣告这段关系的本体："We fuck and we cuddle and we kiss and we part. That's how it's always been. And that's how it should be because that's what we want."（[6174]）。结尾诗以"Boy"（Sensei 体内之声）落款："We're closer than you know, Boy. This house is not your home."（[6196]-[6198]）。
+
+sportswars14：追逐与摊牌。她定义两人的系统："You break, I fix. I break, you fix."（[6275]），并留下全作最著名的宣言：
+
+> m: I am Maya Makinami. I am the best and worst secret you have ever kept... not even a million time-loops could stop me（[6351]）
+
+而 Sensei 的内心独白揭示黑暗面：体内的声音在寻找"可以伤害的人"，"Maybe that someone is her?"（[6389]-[6425]）。结尾他决定带她去"另一个家"。
+
+### halloweenmaya 三部曲（新 Maya 诞生）
+
+halloweenmaya1：Maya 开始不受控地在时间线间跳跃，性场景中脱口叫出真名 "A...Akira?..."（[6606]），真实层里转瓶却吻了 Ami（[6699]）。结尾诗："the girl the girl the girl... it's me"（[6728]-[6736]）。
+
+halloweenmaya2：跳跃症状公开化（[6791]）。假 Sensei（良心或魔鬼的化身）宣判 "I'm not Akira. I'm not even here."→"YOUR WISH IS MY COMMAND."（[7025]-[7057]），Maya 领悟："I get it now. I'm in Hell."（[7073]）。穿插 Ami 的意识入侵文本："THIS IS SUPPOSED TO BE MY STORY... CAN YOU HEAR ME?"（[6933]-[6934]）。
+
+halloweenmaya3 是全文件元叙事密度最高的事件：新 Maya 醒来即被"另一个时间点的 Ami"绑在椅子上折磨录像。Ami 揭示替换史——"this sort of thing has happened to you tons of times now!... this time... you're the only one who was forced to start over."（[7202]-[7203]），并宣告世界所有权：
+
+> m(ami): Every single one of you. This is my world. I'm real. You and all of those other girls are tools. But you're a good tool.（[7265]-[7266]）
+
+> m(ami): If I'm unlucky enough to end up in a world where that doesn't work out- I take the world away instead.（[7328]-[7329]）
+
+她还当着 Maya 的面演示杀人：勒颈倒数十秒（[7466]-[7471]）。收束旁白抹除一切存在："Maya dies again. And so does Ami. Neither one of them ever existed... I am the ghost of better days."（[7523]-[7545]）。系统随后解锁 Alexis——"She exists in a different place at a different time... she is trapped. And you float freely, like a frog on a lily pad."（[7550]-[7558]）。尾帧倒计时："CURRENTLY GATHERING: APPROPRIATE DENIZENS OF THE TWENTY-THIRD TERMINAL... ONLY SEVERAL MORE RESETS ARE PERMITTED"（[7564]-[7566]）。
+
+### 第四章：新 Maya 重建线（mayaspring1–5 与 christmalloween）
+
+mayaspring1：开场定调新 Maya 的处境——"She was always the constant. She was always the one. Until she wasn't."（[7576]-[7591]）。箱子链揭秘：新 Maya 也在替 Ami 运箱并扔进垃圾桶，Sensei 本能地说"它们得送去学校"却不知为何（[7643]-[7705]）。她自封"Maya Raising Project"，自述对 se（第一个失去的女孩）的定位（[7893]-[7897]），夏目漱石式的告白替代语（[7992]-[8001]）。
+
+mayaspring2：Sensei 自曝秘密研究复活——"the secret resurrection studies I've been partaking in behind your back... until I become one of them."（[8061]-[8064]），并直接点名 Sekai："I doubt Maya and Sekai would get along very well."（[8061]）。第二次初约会（takoyaki）中，新 Maya 展示不该拥有的记忆，Sensei 惊觉："You shouldn't have retained any of that, Maya. Everything Ayane and I told you should have been purged after Halloween."（[8287]-[8288]）——记忆残留是循环擦除机制失效的征兆。她把感情比作箱子："you are the box I've stored all of my feelings in"（[8299]）。牵手被她称为"最不忠的一刻"（[8396]）。
+
+mayaspring3：Ami 以"女儿"身份闯入宿舍夜，自曝用手机定位监控 Sensei、并在他食物里下过东西（[8618]-[8631]）。对峙升级至杀人许可论："Words like 'kill' are too heavy... to be wasted on those who have never been alive to begin with."（[8713]-[8716]），以驯化哲学 "Just want fewer things."（[8740]）收尾。结算讽刺性地给 Ami 加了 100 好感。
+
+mayachristmalloween 三部曲（+400 love）：情侣酒店。第一部以寄居蟹隐喻开场（[8767]），成因对质中 Maya 否认自己是世界成因："I didn't create this world, Sensei... Literally none of this is what I want."（[8853]-[8862]）。第二部揭开辅导室初夜回忆（[9065]-[9068]），并给出第一顺位宣言："I was the first! Not counting fucking Niki and...Ami's mother!"（[9245]）——Sensei 的性史顺序中赫然出现已死多年的 Ami 之母（[9247]）。第三部是身世完整版：最早记忆是雨中醒来看到哭过的 Sensei（[9436]-[9439]），被带往废弃公寓分床而睡（[9444]-[9447]），他教她文学与诗歌（[9448]）；醋意的源头是"另一个身上有草莓味的女孩"（[9450]-[9451]，即 Ami）；她主动在冬天告白（[9487]-[9497]）。而她的存在被一句话定性："The girl who would not exist at all if it were not for you."（[9523]）。
+
+dormwarssixmaya1：Niki 与 Maya 天台外对峙。Niki 转述 Sensei 的警告"她不一样"（[9585]），Maya 自认 "I'm ground zero."、"you can look me as the catalyst to all of this if you want"（[9693]-[9701]），并点破转折点："They were always going to suck the moment Ami's mom died!"（[9687]）——Sensei 当年抛下 Niki 是为了救她（[9687]）。结尾以买饮料和解收场。
+
+mayaspring4：猫装六小时性爱马拉松（内容抽象），穿插 Sensei 对旧 Maya 的哀悼："I wonder what she looked like after."（[10027]-[10029]）。"Let's get married."→"No."→"Good. That was just a test anyway."（[10101]-[10111]）。她的自我认知坍缩为一句话："I am nothing. I am seen."（[10172]-[10173]）。
+
+mayaspring5：以千禧时钟开篇——钟摆永远在"The Martyr and The Old Clown"之间摆动（[10200]-[10209]）。Ayane 率全班穿巫女装突袭神社求和好，Makoto 向 Uta 科普重置机制并确认"That happened to Maya."（[10289]-[10304]）。和解场面中 Ayane 说 "I'd trade all of them for you."（[10446]），Maya 哭诉 "I've never been that important to...anyone but Sensei before."（[10451]），又对 Niki 的归来绝望："Why did it have to be her?..."（[10488]），最后问出 "Is there somewhere out there for girls like us?..."（[10492]）。结尾诗是职能的自白："'Tis the hands, you see. In lifting them, I change the present nightly."（[10553]-[10557]）。
+
+## 三、lust 线概貌
+
+Maya 线没有独立的 lust 命名 label；欲望内容全部内嵌于 love 线的亲密场景中，且几乎每一段都同时是元叙事装置：辅导室初夜回忆承载着旧 Maya 与 Sensei 的关系史与"求毁"心理（[9065]-[9068]）；halloweenmaya1 的教室幻境性场景是时间跳跃症状的发作现场，真名脱口即症状顶点（[6606]）；halloweenmaya3 的折磨戏是世界所有权宣言的舞台（[7265]）；mayaspring4 的猫系场景则包裹着"结婚测试"与"我是无物"的存在坍缩（[10101]-[10173]）。欲望在本线中从来不是奖励回路，而是权力关系与记忆机制的显影液——谁在场景中掌权，谁就暂时"拥有"这个世界。
+
+## 四、与主线/元叙事咬合点
+
+1. **三层存在的活体样本**：旁白明示她"同时活在三层"（[906]），神社是不随重置改变的锚点（[98]-[102]）——她是世界观结构本身的人形注脚。
+2. **重置执行者**：季节切换（[1813]）、搬箱流水线（[7643]-[7705]）、"需要你失败到一定程度"（[1455]-[1456]）——她不是循环的受害者而是其零件，直到自己也被循环碾过。
+3. **Ami 的世界所有权**：halloweenmaya3 中 Ami 宣告 "This is my world. I'm real."（[7265]）与夺世威胁（[7328]-[7329]），配合收束旁白 "I am the ghost of better days"（[7544]）、Alexis 解锁（[7550]-[7558]）与第二十三终点站的剩余重置倒计时（[7564]-[7566]），构成全作元叙事层的最高浓度文本。
+4. **记忆机制失效的先兆**：新 Maya 不该保留的记忆保留了（[8287]-[8288]）；MM 字条笔迹成谜（[2855]-[2875]）；月亮因人而异（[4972]-[4981]）——系统正在漏液。
+5. **Ami 之母悬案**：第一顺位宣言把"Niki 与 Ami 之母"排在 Maya 之前（[9245]），且 Ami 之母"已死多年"（[9247]）——母女线与时间线的交汇点。
+6. **Sekai 与 ground zero**：Sensei 的复活研究直接点名 Sekai（[8061]）；Maya 自认 ground zero/catalyst（[9693]-[9701]）并知道"Sekai 之死是一切的转折点"（[9687]）。
+7. **Kaori 感知异常**：Kaori 看不见 Maya（[5400]-[5416]），与"存在感知"相关的异常现象再添一例。
 
 ## 五、未解伏笔
 
-- Maya 的"被涂黑的年龄"与"不存在论"（未来线）如何调和？她究竟是囚徒、神、还是玩家投射？
-- "做时间的事"具体指什么机制？她能否主动重置，还是被重置束缚？
-- 神社为何是固定锚点？是否与她"被囚"的地点重合？
-- Maya 与 Ami 的血缘/镜像关系（Ami 疑似 Akira 亲生女，Maya 疑似被囚本体）尚待汇总文档厘清。
+- 涂黑的年龄（[1401]）与"雨中被捡回、无背景故事"（[9436]、[9489]）如何统一？她究竟是被造物、囚徒，还是世界的前一任"用户"？
+- "第一个失去的女孩"se 是谁？在 Sensei 的性史与情感史中，她排在 Niki 与 Ami 之母之后还是之前？
+- 巫女服是否真是她挺过重置的存续条件（[3805]-[3843]）？若属实，新 Maya 继承巫女服意味着什么？
+- 第二十三终点站在收集谁？"ONLY SEVERAL MORE RESETS ARE PERMITTED"（[7566]）的倒计时归零后会发生什么？
+- Alexis 是谁？"被困于别处、不同时间"的玩家同类（[7550]-[7558]）与"ghost of better days"是否同源？
+- MM 字条的真正作者（[2855]-[2875]）：是旧 Maya 的残留，还是第三个 Maya？
+- Sensei 体内之声（"Boy"）的来源与目的（[6196]-[6198]、[6389]-[6425]）——它是否就是玩家层伸入恋爱层的手指？
 
-## 六、label 总表（39 个）
+## 六、label 总表
 
 shrine[1] · callmayamorning[33] · callmayaafternoon[53] · callmayanight[69] · mayanoongen2[93] · firsttimeshrine[125] · shrine2to4[457] · shrine5[483] · shrine10[708] · shrine15[969] · shrine20[1317] · shrine25[1641] · shrine30[1939] · shrine35[2275] · mayafestival1[2715] · mayafestival2[3114] · mayafestival3[3540] · mayafestival4[3936] · shrine40[4350] · mayadate45[4610] · mayaspecial45[5059] · sportswars5[5490] · sportswars10[5898] · sportswars14[6216] · halloweenmaya1[6438] · halloweenmaya2[6743] · halloweenmaya3[7095] · mayaspring1[7571] · mayaspring2[8053] · mayaspring3[8409] · mayachristmalloween1[8759] · mayachristmalloween2[9002] · mayachristmalloween3[9301] · dormwarssixmaya1[9549] · mayaspring4[9807] · mayaspring5[10191]
-
-
----
-
-## 【二轮增补】Maya 线逐 label 详梳（神社线重点）
-
-> 摘自 R1。
-
-## 三、Maya 线逐 label 详梳（MayaEvents.rpy，重点：神社线+新旧 Maya 结构）
-
-### 3.0 调度与门控
-
-- **shrine 调度器 [2-31]**：shrine15←love≥15+mayadorm10；shrine20←love≥20+beachvacation16+mayadorm15；shrine25←love≥25+mayadorm20；shrine35←love≥30+**mayadorm35**；shrine30←love≥30+mayadorm30+**ami_virgin==False** [18]（坏叔叔硬门，与 05 对照一致）；**shrine40←love≥40+nikilovesyou3** [20]（Maya 线后期硬依赖 Niki 告白线！）；chap4 后转入 mayaspringshrinegen。
-- 电话 [34-90]：shrine40 之前 Maya 从不接电话（"But of course she doesn't."）；senseisad/mayablock 时直接 "No."；**mayadate45←norikodorm30**（Maya 约会依赖 Noriko 宿舍线）。
-
-### 3.1 神社线（shrine5→40：世界观授课序列）
-
-- **firsttimeshrine [125]**（+1）：**初遇即全面知情**。q 开场白 "Oh...wonderful. **Getting started early this time, I see.**" [145-146]（"这次"——她知道周期重演）；直接戳穿 "you {i}didn't{/i} just happen to wake up inside of that body and assume the role of someone entirely unfamiliar to you?" [161]；Ami 生日测试（八月，Sensei 猜错 [198-215]）；无限世界论 [308-330]（"There is an infinite amount of worlds... They spin together, but in different directions. Sometimes, they spin so fast that parts of them combine."）；**核心警告** [354-358]："From this moment on... You will have nothing to do with me... The reason I was willing to help you out to the extent I have today is that {i}my{/i} existence is heavily dependent on yours. And that existence is in grave danger if you do not heed this warning."（我的存在依赖于你，靠近会把两者都拖入毁灭）；"getting close to you is the actual worst thing that could possibly happen. For {i}both{/i} of us." [384-386]；"I want you to stop looking for answers and just go enjoy your exciting new life" [377]。
-- **shrine5 [483]**：Ami/Ayane 的好感被解释为 "mutilated perception" [553]；**3D/2D 拼图比喻** [609]（"You're like a...3D puzzle piece trying to blend in with 2D ones"——与 Ami 线 amispring5 的 "polygons" 同族意象）；"You got a head start. Everyone already loves you. But you know for a fact that they wouldn't if they could see what I see." [618-619]。
-- **shrine10 [708]**：**三重视觉宣言** [808-809] "I see everything that you see. The past. The present. The future."；"Nothing is real... this has all happened before... and it will happen again. Over and over and over." [838-843]；螺旋论 [881-885]（"You will meet me and I will meet you... It will continuously spiral... The spiral will continue until you can't even close your eyes without seeing me. But I will never be any closer to you than an image you can conjure up at will."）；**"every single one will be wiped clean after a set amount of time"** [893]；旁白 [906] "Maya has somehow found a way to live in all three at once."（一轮 md 引用无误）；Sensei [920] "if this really is one big cycle..."。
-- **shrine15 [969]**：隐藏点初发现（树后秘境）；禁果独白 [1069-1076]：**"More forbidden than the one with my blood. More forbidden than the one who {i}wishes{/i} for that blood."**（前=Ami，后=Noriko——一句话点破两名对手的本质）；**"You're close enough to ruin as-is. One wrong move or strange circumstance may send you spiraling out of control. You'll wind up in a place you've never seen before. And suddenly, you'll be back at the beginning of everything."** [1112-1115]（接近真相→回到起点的机制描述）；**"Stop... Treating this... Like a fucking game... those girls are {i}people.{/i}"** [1123-1127]；"this version of you is perhaps the most irritating one yet. Perhaps it's not too late to trade it in for a different one." [1142-1143]；fate 问答 [1197-1289]："everything is connected. Life and death... Day and night... Summer and winter... / You and me? / ...Yeah... You and me..."；结算置 **`$ connect = True`** [1307]（连接 flag）。
-- **shrine20 [1317]**：年龄涂黑 "**Maya Makinami. Age, [[redacted]. My hobbies include watermelons and the violin. My past is of none of your concern.**" [1401]；**世界操控自白** [1462]："this world isn't something I have complete control over. **I just know how to manipulate certain parts of it to make things easier.**"；"You succeeding only makes things harder for me. I need you to fail to a certain degree." [1455-1456]；世界观拷问 [1489-1549]："If you knew when the world was going to end, what would you do about it?"；**复制体论** [1503-1504] "If all of the buildings and structures stay the same, but the people filling them are all replaced with identical copies equipped with altered minds, can we still call it the same world?"；"Something about the way time flows here is different than it should be." [1526]；**credits roll 三连问** [1541-1543]："But what happens after the credits roll? What becomes of everyone inside of that game? And what happens if they don't reset along with the others the next time you press 'Start?'"；"this isn't a game. You only think it is." [1548]；结尾 [1573-1576]："I'm really tired of hearing that line. It was cute the first time... How many times have you heard it exactly?"（**Maya 用重复台词计数循环次数**）；"I may require your help again in the near future... carrying a few more boxes." [1615-1616]（**箱子搬运=重置执行的伏笔**）。
-- **shrine25 [1641]**：**季节切换执行者自白** [1813]："I'll be finalizing the switch during the next reset."（下次重置时我会完成季节切换——"I do the time thing" 的文本内实据）；时间感知重置 [1824-1825]："It's as if everyone's perception of time itself resets along with the world. It's just one more thing I don't yet understand."；**死亡警告** [1847-1848]："You, too, shall vanish one day. It's absolutely imperative that you be ready for it at any given moment."；**替换假设** [1872-1881]："What if, after the next reset, there was a brand new Maya Makinami? One who didn't know too much about the world... Would you treat her the same way you treat everyone else?... Or would you try to bring the old one back?"（**预言了后来发生的"新 Maya"事件**）；Sensei 的回答："Even if she had all the same interests...watermelons and violin, those dead eyes are what I expect to see each and every time we meet. Replacing them with brand new ones just wouldn't feel right." [1886-1889]。
-- **shrine30 [1939]**（好叔叔线永久 miss 的里程碑事件，标题 "Breaking, the Best Way"）：午餐谈判 [1984-2010]（"We've always gone out late at night so I wouldn't feel weird about anyone seeing us together"）；**硬盘/重格式化理论** [2154-2163]："Computers don't have brains like humans do. They have hard drives... What you were experiencing in watching those girls adapt to you was a type of reformatting. They were freeing up space in their minds to make room for the 'new' you. And unless you do something to ruin them... **that will be how they remain until a new user comes along.**"（新用户=玩家）；"Because I needed you to fail to a certain extent. And you failed wonderfully. Good job, Sensei." [2172-2174]；**Ami 哀叹** [2180-2181]（bonus）："I really wish you didn't go all the way with Ami, though. I hate watching her get hurt after everything that she's been through."——Maya 全程知情且哀伤，但此事件本身要求 ami_virgin==False（**只有在已经伤害后才能听到哀悼**）；"They're just normal girls who are blissfully unaware that they're caught in a loop. Falling for version after version of the same [high_school] teacher but failing to truly capture him each and every time. It's actually quite sad...watching them bend and break so many times." [2131-2133]；记忆抹板警告 [2140] "you wind up poking your nose deeper into the past and get your slate wiped clean again"；"I'm just used to it by now." [2198]。
-- **shrine35 [2275]**：超新星记忆 [2294-2305]（"I viewed a supernova just the other day... I'm not allowed to remember, though. Maya says that if I do, I might disappear."）；雪夜失时 [2379-2381]（丢失数小时、浑身湿透而不自知）；**上一夜事件**：Maya 绝望之下试图以性挽回被拒 [2531-2548]（"It was an act of desperation, not sexual aggression!" [2076]）；发作史 [2565-2566] "You've been having episodes like that since the first loop began. They just always manifest differently...and get progressively harder to pick up on"；知识衰减 [2573-2574] "everything I know about the world has been slowly fading away since winter began. For all I know, everyone could vanish tomorrow."；**Noriko 上一循环加害指控** [2576-2588]："it gets rid of the single worst girl I have ever crossed paths with before she can damage you any more... **She's going to chase you off the same way she did the last time.**"；**世界观自我修正** [2620-2624]："I have told you in the past that you are 'changing.' **I was wrong.** I have told you in the past that everything is part of a cycle. **I was wrong about that as well.** You are not changing and... there is clearly no cycle at all. And if there is, it's a really fucking stupid one without any rules."；**身份接近揭露** [2629-2642]："The reason I don't want you to learn any more about 'your' past is precisely because it is {i}your{/i} past. Probably. / Saying 'definitely' too soon and then losing you would be the emotional equivalent of dropping my body feet first into a meat grinder. / Stay exactly where you are now- at the precipice of everything. The edge of the world... **Because the second you fall off- I fall as well.**"
-- **shrine40 [4350]**（+1）：**Ayane 成为巫女学徒**；"reset-stuff" 例会 [4437]；三阶段计划 [4446]（rooftop apocalypse buddy→coworker→bride）；**觉醋试验计划** [4491-4516]："During the last one, we discovered that it is not entirely impossible for others to gain some sort of awareness as well. Which would mean that {i}this{/i} time- [we test it again]"；Ayane 拆穿 Maya 的"fluke"双标 [4501-4505]；**Ami 黑名单真相** [4542-4556]：Maya："Ami's not a good idea, Ayane... I'd be describing probably **decades or...centuries of trying that exact thing to no avail** as I thought the same thing as you. And not only did it never work, **it made her...mad.**"；Ayane："Sensei wasn't a recurring thing for this until a couple cycles ago, right?" Maya："**Yes and...no. That's also a little too complicated to just casually recount.**"（Sensei 在循环中的地位并非一贯如此）；"Time itself might be infinite, but who knows if {i}ours{/i} is?" [4567]；结尾伊卡洛斯 [4593-4594] "This cycle will melt the wax of my wings. I'm flying too close to the sun."
-
-### 3.2 mayafestival 四部曲（[2715]-[4348]，第二章 Maya 收束段）
-
-- **mayafestival1 [2715]**：生日晨；Sensei 问候 "Here's to a million more years or however long you've been wandering around inside of **the bubble**." [2742]（泡沫=世界）；**迭代计数** [2795]："out of all of the iterations of you that I have seen in the past, I can't say that any of them have ever gone furniture shopping."；**MM 字条之谜** [2855-2875]：Sensei 墙上有署名 MM 的字条，Maya："it sounds like something I would say... **But I don't recall ever writing this. And I know your password. It's Boobies123.**"——**另一个 Maya 的笔迹**；Maya 补留一张字条并警告 "I...Wouldn't be so sure of that."（别确定没别人动过这面墙）；**天台/怀孕理论** [2969-3001]："Why do {i}you{/i} think Ayane made it to the roof last time? A feat that no one else has ever accomplished before... Because you two had sex and she got pregnant. Which means she was carrying {i}your{/i} DNA inside of her. **Which means she was a temporary extension of {i}you.{/i}**"＋"It wasn't meant to be there, so it was disposed of... **More than just memories can be altered by the shift in time. Physical attributes can be set back as well.** I believe Ayane was rewritten to be the same exact person, just...without a parasite growing inside of her."（**怀孕被重置物理抹除**——与 Ami 线 amiinvite4 [7108] "pregnancy is probably not the cause" 互证）；情感突破 [3047-3048] "I'm finally starting to feel something again. I don't want that to go away."；舞台指示诗行 "{i}A moment of silence.{/i}/{i}A crack in the glass.{/i}/{i}A light in the attic.{/i}/{i}A dream of the past.{/i}" [3050-3068]。
-- **mayafestival2 [3114]**：远郊秘境祭典（"I don't think we're in the old district... But I don't think we're in the new one either? Where is this place?" [3227-3231]——**第三区域**）；甜瓜摊（坏叔叔+bonus 限定 [3233-3241]）：无名摊主 q **"nobody's ever asked me my name"** [3322]、知道 Sensei 是老师 [3352]、六百万比索报价 [3286-3289]——疑似无身份背景板角色；"I'm a growing girl. Or at least I would be if it weren't for the whole time loop thing. I guess I'm just doomed to be eternally hungry." [3389-3390]；Maya 对 Noriko 的杀意玩笑 [3439]。
-- **mayafestival3 [3540]**：**旁白对玩家的秘密** [3545-3577]："Sometimes, I can't tell if I'm awake or not... Can I tell you another secret? **I'm scared. But no one can ever know that. No one in the middle, at least.** I'll reconsider my position once it's somewhere else."（"中层没有人可以知道——等它到了别处再说"＝对元层听者坦白）；废弃神社（"Out of order"牌+兔子神 [3769-3773]）；**巫女身份起源** [3805-3843]：开始于小学末/初中 [3809-3811]；"I've toyed with the idea of leaving before. Especially when I was getting a new {i}you{/i} every four months or so. But I ultimately decided against it because, **on the off chance that there is {i}something{/i} about being a shrine maiden allowing me to persist through each reset**- Well, I don't want to risk severing that."（**巫女服=存续条件假说**）；"I'm doing it for everyone." [3842]；**告白即灾难** [4651-4859]（mayadate45）："Talking about those things has never broken the world. / And talking about us has? / ...{i}Yes.{/i} Things have spiraled into chaos {i}every other time{/i} I have done that."
-- **mayafestival4 [3936]**（**+25 love** [4333]）：bonus 版超现实段：蛋黄/鱿鱼意识流 [4099-4189]；**系统调试文本** [4130-4135]："////////////////ADD HAND"→"////////////////HAND SUCCESSFULLY ADDED"；**Maya 的泡沫之梦** [4137-4150]："I had a dream that I was flying. You were there, but it wasn't actually you. **We were on the roof. The same room. At different times. The same place.** The sky turned black and I felt a bubble begin to form underneath my forearm. You approached me and helped me pop it. From out of the bubble oozed a thick, yellow liquid. You lapped it up like a cat and told me that we would be better for it."；利未记 11:9-12 鱿鱼禁食引文（"This is my word. Egg is okay, though." [4182-4183]）；**箱子再现** [4206-4217]："A box... it's not really a present at all. I just need your help carrying it. / Am I at least allowed to know what's in it this time? / **Only if you can open it.**"（与 amicamp1 车祸预言、amispring1 dream box、mayaspring1 box chain 连成"箱子=重置道具"母题）；blackout 群像闪切 [4239-4280]；**结尾系统文本** [4323-4324]："////////////////MAYA EVENT COMPLETE / ////////////////THERE ARE NO MORE MAYA EVENTS IN CHAPTER 2"。
-
-### 3.3 mayadate45 / mayaspecial45（第三章感情正线）
-
-- **mayadate45 [4610]**（**+100 love** [5003]）：电话告白事件。"it may have taken the end of several worlds (Or several ends of one world) for me to {i}be able{/i} to share something like this with you" [4615]；**"Call me by my real name."** [4664]；**真名来源** [4705-4712]："I didn't [remember]. **Niki told me.**"→Maya："Those {i}fucking{/i} Nakayamas will never stop being problematic. It's an actual miracle you're still here to talk about this when you could have been wiped right then and there."（知道真名本身可能触发抹除）；Maya 的历史性自白 [4839-4842]："You should have been mine...like you were {i}before{/i} all of this started happening... after several lapses in judgement and an earth-shattering amount of desperation, I...**may have caved into some of my carnal desires and...broken several Senseis.** But that's exactly why I'm so scared of what will happen if we {i}do{/i} get closer. **I've seen it firsthand.**"（Maya 曾与历代"假 Sensei"发生关系并亲手"弄坏"了他们）；"until we're confident that we're actually {i}free{/i} from this weird fucking **chronoprison**" [4855]；**实体城墙** [4898]："Powerlines cut through the night sky and decorate the **colossal walls that keep us trapped, becoming less and less metaphorical by the day**."；天台恐惧 [4923-4931]："The most scared I've been in recent memory was when I made it to the rooftop two resets ago and you weren't there... / I don't want to die..."；月亮大小分歧 [4972-4981]（Sensei 觉得月亮变大，Maya 看到不变——**同一世界的不同渲染**）；结尾告白 "I don't...not...feel the same way you said you did before..." [4993]。
-- **mayaspecial45 [5059]**：雨季开始（世界变化）；**Kaori 完全无视 Maya** [5400-5416]：Maya 两次呼叫点单，Kaori 只应答 Sensei——Maya："But...I've never been ignored in my life. I'm adorable. **Can you see me?**"（Kaori 无法感知 Maya——与 Uta 缺勤、第一名女仆之谜同族的"存在感知异常"）；结尾系统文本 **"{i}it is waking up{/i}"** [5480]。
-
-### 3.4 sportswars 三部曲（[5490]-[6428]：旧 Maya 时代与崩溃中段）
-
-- **sportswars5 [5490]**：Ami 卧床期，Maya 探房；开场诗含删除线 "{s}I'm scared.{/s} I'm yours!" [5512]；第三人称叙述 "Ami Arakawa would always be her number two" [5563]；Ayane/Makoto 在议论 Maya 记忆被重置 [5610-5616]；**亲吻 gambit** [5817-5876]：Ami 逼问 "So you haven't been having sex with my uncle behind my back?"，Maya 撒谎 "I would never"，Ami 取得 "Anything anything" 许诺；Ami 主动放行情报 "Sensei's probably at the shrine... He probably went there to pray." [5876-5879]；阴森收尾 [5888]："You've never hurt someone before."＋系统 **"Maya Makinami has gained that status effect [[PARANOID]! / You two have so much in common!"** [5890-5891]。
-- **sportswars10 [5898]**：开场"Girl"诗 [5908-5930]（童年回忆+砒霜泡茶+"Some nights I think I'm being watched"）；Wilford Blackhole Hands 荒诞序列 [5937-6030]（"The half-translucent miscarriage inside of Wilford Blackhole Hands' black hole stomach"；婴儿名 [whatyousaid] 变量梗 [5995]）；**"meat puppet"事件** [6040-6190]：崩溃期 Sensei 对追踪而来的 Maya 说 **"You're not Maya... You're a meat puppet."** [6094-6095]；Maya 的真相爆发 [6165]："It's been {i}months{/i}! **And we've been together for {i}years{/i}!**"；**"We fuck and we cuddle and we kiss and we part. That's how it's always been. And that's how it {i}should{/i} be because that's what we {i}want.{/i}"** [6174]——旧 Maya 与 Sensei 的多年恋人关系实锤；"I've just never met you before." [6177]；结尾诗 [6196-6198]："We're closer than you know, Boy. **This house is not your home.**"（"Boy"=体内之声）；maya_love-1 [6201]。
-- **sportswars14 [6216]**：追逐与摊牌；Maya 的系统论 [6275]："You break, I fix. I break, you fix... we fill the radio silence with sex and our shitty idea of what 'affection' means. That's the system we've created."；"I am Maya Makinami. **I am the best and worst secret you have ever kept.**... not even a million time-loops could stop me" [6351]；初夜地点"study room" [6361-6362]；Sensei 的黑暗独白 [6389-6425]："There's a voice in the back of my head... Maybe there's someone it's {i}okay{/i} for me to hurt? **Maybe that someone is her?**"（体内之声驱使他伤害新 Maya；karaoke booth/豪宅暗室/旧城区皆为"voice"的施暴场）。
-
-### 3.5 halloweenmaya1-3（时间跳跃与"新 Maya"诞生）
-
-- **halloweenmaya1 [6438]**：Maya 开始**不受控地在时间线间跳跃**（教室→幽会记忆→转瓶接吻）；教室幻境中的性场景（成人内容抽象）里 **Maya 脱口叫出真名 "A...Akira?..."** [6606]；"Promise me again that you're not leaving me for your stupid childhood friend." [6610]；真实层：转瓶吻了 Ami（"I thought you were Sensei!" [6699]）；结尾诗 [6728-6736]："or perhaps there lies another place for gods to go to sleep... What would you say if I told you there was nothing? / - the girl the girl the girl... **it's me**"。
-- **halloweenmaya2 [6743]**：跳跃症状公开化 [6791] "It's like every five minutes I'm getting sent to a different place in time!"；假 Sensei（良心/魔鬼化身）宣判 [7025-7058]："**I'm not Akira. I'm not even here.**... Maybe you're asleep?... **YOUR WISH IS MY COMMAND.**"→Maya："I get it now. **I'm in Hell.**" [7073]；穿插诗 [6925-6935]（"A room for your sister/A place to black out"）；**Ami 意识入侵文本** [6934-6935]："**THIS IS SUPPOSED TO BE MY STORY** / The girl with the me who is me who is Ami I am Ami **CAN YOU HEAR ME?**"。
-- **halloweenmaya3 [7095]**（全文件 meta 密度最高事件）：新 Maya 醒来被**绑在椅子上、由"另一个时间点的 Ami"持工具与摄影机折磨**（性内容抽象）。核心台词：
-  - Ami 全知："For **millions and millions of years**, that's literally {i}all{/i} you've ever done." [7188]
-  - 替换史 [7202-7203]："this sort of thing has happened to you {i}tons{/i} of times now! And every single time, it's {i}started{/i} off great, only to get {i}really{/i} fucking annoying once you start trying to {i}figure things out.{/i}... this time... **you're the {i}only{/i} one who was forced to start over.**"
-  - 主角之争 [7228]："no matter how many times you deceive yourself into believing you're the main heroine, **there will always be someone who's been doing this way longer than you.**"
-  - **世界所有权宣言** [7266]："That's right. {i}Every single one of you.{/i} **This is {i}my{/i} world. {i}I'm{/i} real. You and all of those other girls are tools.** But {i}you're{/i} a good tool."
-  - 夺世威胁 [7323-7329]："I stopped understanding the idea of 'patience' when I realized just how infinite time here really is. Now, I just {i}take{/i} what I want. And if I'm unlucky enough to end up in a world where that doesn't work out- **I take the {i}world{/i} away instead.**"
-  - 恐吓 [8716-8717]（mayaspring3）："Words like 'kill' are too heavy... to be wasted on those who have **never been alive to begin with**. And while I can't reset you myself, I can sure find a way to make you {i}wish{/i} I could."
-  - 收束旁白 [7523-7545]："**Maya dies again. And so does Ami. Neither one of them ever existed. Nothing has ever existed... In this world, it's you and me. Everyone else is noise... Who am I, you ask?... I am the ghost of better days.**"
-  - **系统解锁** [7550-7558]：`$ persistent.alexisisreal = True`→"{i}Congratulations! You've unlocked **Alexis**! She exists in a different place at a different time. Just like you right now... Just she is trapped. And you float freely, like a frog on a lily pad. Where will your tadpoles spread next?{/i}"（**Alexis=被困的"玩家同类"**，被囚于别处；玩家被比作漂浮的青蛙）
-  - 尾帧 [7565-7567]："**CURRENTLY GATHERING: APPROPRIATE DENIZENS OF THE TWENTY-THIRD TERMINAL... THIS PLACE IS BECOMING INCREASINGLY LESS STABLE. ONLY SEVERAL MORE RESETS ARE PERMITTED**"（第二十三终点站在收集"居民"；**剩余重置次数有限**——全作最直接的倒计时宣言）。
-
-### 3.6 mayaspring1-5 与 christmalloween（第四章：新 Maya 重建线）
-
-- **mayaspring1 [7571]**：开场 [7576-7591] "She was always the constant. She was always {i}the one.{/i} **Until she wasn't.**"；黑色怒文 [7604-7606]；**箱子链揭秘** [7643-7705]：新 Maya 也在替 Ami 运箱（"Because of fucking **Ami!** She keeps leaving these fucking boxes in there and refuses to move them herself. So I've just been taking them every time she shows up and throwing them in the trash."→Sensei："**They need to go to the school!** That's just... where we always took them in the past. I don't...really {i}know{/i} why."——箱子=Ami 生产→Maya 运输→Sensei 送达学校的固定流水线，内容双方都打不开）；"Maya Raising Project" [7893]；"An actor? Want me to perfectly mimic your last true love?... Or maybe someone even smarter than you? Someone like {i}her.{/i} **The {i}first{/i} girl you lost.**" [7896-7897]（"第一个失去的女孩"——se 之前尚有一人？）；"sex-mom" 称呼 [7835-7842]（Maya 对 se 的定位=Sensei 的"性妈妈"，Sensei 抗议"She was...a lot more than that"）；"So please don't die, for **I have seen what I would turn into and it is not pretty.**" [7844]；夏目漱石式告白替代 [7993-8008]。
-- **mayaspring2 [8053]**：**复活研究自白** [8061-8064]："Come to think of it, a second haunting might be nice — even if I doubt Maya and **Sekai** would get along very well. They wouldn't need to, though. I'm sure I could figure out how to ration my time in between **the secret resurrection studies I've been partaking in behind your back.** It's only a matter of time now. Not until I succeed — **until I become one of them.**"（**Maya 线直接点名 Sekai**；Sensei 秘密研究"复活/成为亡灵"）；第二次初会/初次约会结构 [8069-8078]；Maya 模拟假说 [8159] "I'm not entirely convinced that we're {i}all{/i} not actually robots"；**记忆保留异常** [8287-8288]：Sensei："It's weird that you can...{i}know{/i} this much despite not having been to the rooftop with us. **You shouldn't have retained any of that, Maya. Everything Ayane and I told you should have been purged after Halloween.**"；Maya 的感情箱子比喻 [8299] "{i}you{/i} are the box I've stored all of my feelings in"；世界尽头问答 [8371-8384]："What else is there to {i}do{/i} when we've already done it all? Is {i}that{/i} the end of the world? Is that what {i}she{/i} saw? / I don't think so... **The end of the world is a little more colorful than that.**"；牵手与"最不忠时刻" [8397]。
-- **mayaspring3 [8409]**：宿舍夜（se 也在场 "Hi, Aki-kun!" [8488]，并蔑称 Maya "that...{i}thing{/i}" [8526]，又说 "Oh, yay! She's just like me!" [8539]）；Ami 的监控自曝 [8619-8628]：手机定位追踪+"**Just wait until you find out what I've put in his food.**"（在 Sensei 食物里下过东西）；对峙升级 [8603-8740]：Maya 决定全盘告诉 Sensei→Ami 的杀人许可论 [8716-8717]（见 3.5）→"**Just want fewer things.**" [8740]（Ami 的驯化哲学收尾）；结算 **ami_love += 100**＋"She clearly loves you more!" [8745-8748]（系统层面的讽刺）。
-- **mayachristmalloween1-3 [8759-9548]**（+200/+200 [9534-9535]）：情侣酒店三部曲。
-  - 1：寄居蟹隐喻 [8767]（"A hermit crab who found a pretty shell and crawled inside, not realizing that shell belonged to me"）；**成因对质** [8853-8862]：Sensei："If you really did somehow cause this... then it only makes sense that {i}you{/i} might have to end it as well."；Maya："**I didn't create this world, Sensei... Literally {i}none{/i} of this is what I want.**"
-  - 2：无名引诗块 [9008-9022]；"your favorite protagonist" 叙述者自称 [9012]；**辅导室初夜回忆** [9065-9068]："have {i}all{/i} the memories of what you did to me in the tutoring room just {i}totally{/i} gone now?... How you used to just {i}poke{/i} me and {i}prod{/i} me because you were afraid I was going to break. You caved pretty quickly once I started begging to be broken"；**第一顺位宣言** [9245]："Because you're {i}my{/i} man!... **{i}I{/i} was the first! Not counting fucking Niki and...Ami's mother!**"（Maya 亲口列出 Sensei 的性史顺序：Niki、**Ami 之母**、然后是她——母女线最重磅旁证之一）；"Ami's mom has been dead for {i}years{/i} now" [9247]。
-  - 3：**Maya 身世完整版** [9434-9503]：最早记忆=雨中醒来看到哭过的 Sensei [9436-9439]；被带往废弃公寓（一张床，他当晚买褥子分睡 [9444-9447]）；"You'd feed me. Buy me clothes. Teach me all sorts of stuff about {i}literature{/i} or {i}poetry{/i}" [9448]；醋意爆发源于"另一个常来、他更亲近、身上有草莓味的女孩"（=Ami）[9450-9451]；**"a random girl with no back story mysteriously showed up one day"** [9489]——**Maya 无背景设定**；她主动告白（冬天）→雪地答应 [9487-9497]；"The girl who would not exist at all if it were not for you." [9523]。
-- **dormwarssixmaya1 [9549]**：Niki vs Maya 天台外对峙；"He told me {i}not{/i} to talk to you... Something about you being '**different**'" [9585]；**"I'm ground zero."** [9694]＋"you can look me as **the catalyst** to all of this if you want" [9701]；**"They were always going to suck the moment Ami's mom died!"** [9687]（Maya 知道 Sekai 之死是转折点）；"He ran away to {i}save{/i} you! From {i}this!{/i}" [9687]（**Sensei 当年抛下 Niki 是为了救她**——Niki 线失落之谜的 Maya 版答案）；偶像否定 [9749-9751]；和解饮料邀请结尾。
-- **mayaspring4 [9807]**：Thomas Gray《爱猫之死》引诗 [9808-9817]/[10168-10171]；猫系调教场景（成人内容抽象）；"I wonder what it felt like back then. I wonder what noises she made. I wonder what she looked like after." [10027-10029]（对旧 Maya 的哀悼）；结婚测试 [10102-10113]（"Let's get married."→"No."→"Good. That was just a test anyway."）；结尾 **"I am nothing. I am seen."** [10172-10173]。
-- **mayaspring5 [10191]**：**千禧时钟开场** [10200-10209]："the hands of **The Millennium Clock** ticked incessantly back and forth between **The Martyr and The Old Clown**"（苏格兰国家博物馆千禧钟；其后 Pandora's Box/Hunger/Madness/Grief/Intellectuals/Hermits/War Camps/Forced Labor/Holocaust/Requiem/Belfry/Spire 均为该钟表盘分区名——**用真实钟表装置隐喻世界结构**）；Ayane 率 Uta/Nodoka/Makoto/Yumi 穿巫女装声援；**Makoto 向 Uta 科普重置** [10289-10304]："despite living in a never-ending loop of our freshman year, we can technically still lose whatever memories we accumulate throughout said loops and wind up back at the starting point. **That happened to Maya.**"；Nodoka 的精确提问 [10303]（"the only memories that are purged are the ones we've made during the loops and not those that predate when they began"）；**Ayane-Maya 和解** [10386-10493]："It was always you and me until it just...wasn't anymore." [10407]；"I'd trade all of them for you." [10446]；Maya："I've never been that important to...anyone but Sensei before." [10451]；"Why did it have to be her?..." [10488]（对 Niki 归来的绝望）；"Is there somewhere out there for girls like us?..." [10492]；结尾诗 [10553-10557] "'Tis the hands, you see. In lifting them, I change the present nightly."（操作时钟之手=改写现在——Maya 职能的诗化自白）。
-
-### 3.7 Maya 线元叙事点汇总（二轮归纳）
-
-1. **双 Maya 结构**：旧 Maya（全知者/爱人/重置执行者，shrine 系列与 sportswars 的回忆层）与新 Maya（被重置后重历依恋，halloweenmaya3 诞生、mayaspring 重建）——"被替换"的预言（shrine25 [1872-1881]）在剧情内自我实现。
-2. **重置执行的具体职责**：季节切换（shrine25 [1813]）、搬箱（festival4/spring1 箱子流水线）、"keep the wheels of time spinning"（Ami 线 amispring2 [9867] 的 Noriko 对照）。
-3. **上层存在三证**：Alexis（halloweenmaya3 persistent 解锁，被困者）；"ghost of better days" 叙述者；第二十三终点站+剩余重置次数有限 [7565-7567]。
-4. **物理规则**：怀孕可被重置抹除（festival1 [2998]）；携带 Sensei DNA 者可上屋顶（festival1 [2978]）；城墙是实体（mayadate45 [4898]）；月亮渲染因人而异（mayadate45 [4972]）。
-5. **Maya=ground zero/catalyst 候补**：无背景女孩（christmalloween3 [9489]）、雨中捡回（[9436]）、Sensei 的 causality 指认（christmalloween1 [8853]）。
-6. **Kaori 感知异常**：无法看见 Maya（mayaspecial45 [5400-5416]）。
-
-### 3.9 三轮增补：flowers「Build-A-Maya」与第六次重置余波
-
-> 摘自会话 D 对 `_digest_flowers.txt` / `_digest_finalwarning.txt` 的精读。
-
-1. **Build-A-Maya：Maya 被"拆解"，Sensei 负责重组**（flowers 线）。taki（HBTV 主持）开场即交代规则 [77]/[79]："You'll need to assemble them yourself. But hey, that'll be good practice for when you have to **reassemble Maya**."／"Once Maya is reassembled, the portal back to your world will be opened."——整个 flowers 副本的目标是把 Maya 一件件拼回床上带回家。重组用"唾液混 fleshglue"（endofbuildamaya [2929-2937]），不合用的器官被取出、由 taki 提供的大罐子保存"in the event that Maya wants them back one day"。Sensei 事后补刀 [2947]："I'm just glad I didn't have to do this with **Sekai**. There were *way* more pieces of her when she died."——Sekai 死亡时碎块更多，为 ground zero 车祸惨状再添旁证。
-2. **梦境层全员知情**：Noriko/Futaba/Sana/Makoto/Chika 各 realm 中少女们以近乎复读的句式送别——"I hope that when you are done reassembling Maya..."（[675][709][743][777][811] 等）——连梦境居民都知道 Maya 当前处于"待重组"状态，重置把她的缺席做成了公共事件。
-3. **终局反转「irreversible」**（[2941][2965-2966]）：taki 宣告 "**You've completed another reset puzzle by reassembling your lost love!**"，随即压低声音补刀 "the events he experienced prior to our program are actually {i}irreversible!{/i}"；Sensei 慌乱否认："Reset puzzles always end with things going back to normal and-"——**本作第一次明示：重置不再复原，此前发生的一切永久生效**。"reset puzzle"的说法还把历次重置重新定性为 Sensei 被安排的解题游戏。
-4. **第六次重置苏醒时的记忆残留**（finalwarning [4168-4187]）：旁白自述从 "reset-induced delusions" 中醒来后，这次罕见地记得大部分内容："I remember being locked in a house. / I remember...being alone. / Delicious hot pot. / A girl who grew up."——软禁回忆闪回未按惯例被清空，与 flowers 的 "irreversible" 同向：循环的擦除机制正在失效。
-5. **dormwarssixmaya1[9549] 归属确认**：该 label 位于 MayaEvents.rpy 本文件内（见 §六 label 总表），即 chap4part2 中 Sana 引诱事件后的跳转目标确为 Niki vs Maya 天台对峙——此前"跳转目标不明"的悬案就此关闭。
-
