@@ -10,7 +10,7 @@
 |---|---|---|
 | `全文本梳理.md` | 71 个源文件的覆盖索引、六次重置时间线、三层世界观、人物格局、系统层母题与未解伏笔的总览 | 全库总纲，建议首先阅读 |
 | `人物事件线/人物事件线全梳理.md` | 三层世界观整合、主线迭代重构、觉醒者网络、全员事件线索引、元叙事母题词典 | 角色层汇总 |
-| `人物事件线/<角色名>.md` ×37 | 单角色精读：基本盘 / love 线 / lust 线 / 主线咬合点 / 未解伏笔 / label 总表 | 角色层明细 |
+| `人物事件线/<角色名>.md` ×38 | 单角色逐事件深读版：基本盘 / love 线逐事件脉络 / lust 线概貌 / 主线咬合点 / 未解伏笔 / label 总表（部分含「二轮/三轮增补」小节） | 角色层明细 |
 | `人物事件线/DormEvents.md` | 宿舍养成层，含 roomwithclocks / ticktock / trinity1 神话核心簇 | 角色层明细 |
 | `主线章节脚本精读.md` | ch2script / chap3 / chap4 及 script / finalwarning / flowers / chap4part2 的章节脚本定向精读 | 主线剧情层 |
 | `USER3与pareidolia源文分析.md` | pareidolia＝USER3 的证据链、旁白三声分离判据、TEMPLATE9 与 USER4 定论 | 叙事声音专题 |
@@ -27,7 +27,7 @@
 
 - **方法**：自研 digest 脚本提取 label 结构（label 头＋源行号＋对话/旁白＋jump/call/menu），分批精读后落盘；关键断言经 Grep 回查原文复核。
 - **引文格式**：单文件报告内 `[N]` ＝ 源文件行号；跨文件报告内 `文件名.rpy:[N]`。所有引用均可回查 `../游戏文本/` 原文验证。
-- **修订标记**：各文档内的「二轮增补」「三轮增补」小节为 2026-08-22 二轮修订时回填的内容，依据 `_tmp_digest/` 下 script / finalwarning / flowers / chap4part2 / inappropriatecontent / deletedscenes 六份 digest 的精读成果。
+- **修订标记**：各文档内的「二轮增补」「三轮增补」小节为 2026-08-22 二轮修订时回填的内容，依据 `_tmp_digest/` 下 script / finalwarning / flowers / chap4part2 / inappropriatecontent / deletedscenes 六份 digest 的精读成果。全部 38 份角色/事件线 md 已于 2026-08-23 升级为「逐事件深读版」（六部分结构、逐 label 覆盖、行号复核）。
 - **内容说明**：涉及成人内容的段落一律以抽象方式概括其结构与叙事功能，不转录具体描写。
 
 ## 四、相关区域
