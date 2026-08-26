@@ -52,7 +52,7 @@
 
 | 角色组 | 角色（★=元叙事核心） |
 |---|---|
-| 核心层 ★★★★★ | **Ami**（USER1/voices/亲生女儿疑云/main heroine 之争）、**Maya**（重置执行者/三层同活/年龄[redacted]）、**Ayane**（Rooftop Squad/未来线 Himawari/GIRL MAKER）、**Makoto**（previous iteration/调查 Maya↔Akira） |
+| 核心层 ★★★★★ | **Ami**（母=Sekai（已闭环）/voices/main heroine 之争）、**Maya**（重置执行者/三层同活/年龄[redacted]）、**Ayane**（Rooftop Squad/未来线 Himawari/GIRL MAKER）、**Makoto**（previous iteration/调查 Maya↔Akira） |
 | 中坚层 ★★★★ | Kaori（USER2 离线/connor 开发者）、Yumi（knows how game works）、Yuki（Maya 伪造记录/original ten）、Tsuneyo（six 接入/cycle 将尽）、Niki（[uncle] 框架/Akira 揭露）、DormEvents（roomwithclocks/ticktock/trinity1 神话核心簇）、Dorm2（宿舍养成层） |
 | 外围含要点 ★★★ | Nao（USER4/secret 21st/Sekai）、Nodoka（writer returns/Kyoko 线）、Wakana（Nothing is real/killed Maya）、Rika（Past-Maya/Real-Maya）、Miku/Haruka/Maki/Io/Futaba（creator 自指/not real）、Molly/Sara（prisoners to the protagonist）、Noriko/Osako/Otoha/Rin/Sana、Touka/Tsubasa/Tsukasa（Tsukioka 富家圈：barrier/failsafe）、Chika/Chinami/Imani/Karin/Kirin/Uta/Yasu |
 
@@ -122,7 +122,7 @@
 
 - **Akira Arakawa（Sensei）**：顶替者（flowers/senseiquest 旁白直证"接管"原 Sensei 身份）、创伤幸存者（幸福课＋Sekai 事件）、待清算者。
 - **Maya**：重置执行者、被囚的锚、"main heroine of Lessons in Love. I do the time thing"（Karin 线显像）；Past-Maya/Real-Maya 双重结构（Rika 线）。
-- **Ami**：疑似 Akira 与 Sekai 亲生女儿；从甜妹侄女到黑化"收藏家"；USER1。
+- **Ami**：母亲=Sekai（2026-08-27 闭环：AmiEvents.rpy:10447-10465＋chap4.rpy:15999/16004）；生父 Akira/Nozomu 未定；从甜妹侄女到黑化"收藏家"；USER1 身份未证实。
 - **觉醒者网络**：Makoto（最明确的跨迭代记忆者）、Ayane、Yumi（Rooftop Apocalypse Squad）＋ Kaori/Yuki/Tsuneyo/Nao 等。
 - **元层存在**：six/te/sev（世界维护者）、Himawari/Shi（天界管理员双化身）、Horseface Taki、众神（Halftone, God of Save Slots 等）、开发者（Selebus/Fred/Connor）。
 
