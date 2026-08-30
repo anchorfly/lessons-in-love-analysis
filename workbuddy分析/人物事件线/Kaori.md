@@ -7,19 +7,20 @@
 ## 一、角色基本盘
 
 - **表层身份**：Kumon-mi 的多职打工少女，自封 "The Queen of Spiders, Mistress of the Dark, and greatest waitress in Kumon-mi!"；与警官 Yuki 有血缘关系，称其 Aunt Yukiburger，幼年与 Yumi 是邻居玩伴。
-- **语言系统**：以错位的复合词指代万物——鞋是 "protective leg-hand containers"、鸡是 "friends"、手机震动是 "bzzzzzzzzzzz"。这套语言不是卖萌设定，而是人格叠层互相覆盖后留下的转译损耗。
-- **死亡履历**：全城皆知她已死于事故；她自己的记忆是 "an abundance of juice and the seas of white. Those are my earliest memories."，并自认 "It was almost mine until I was brought back to life."。Yumi 证实所有人当初都以为她死了。
+- **语言系统**：以错位的复合词指代身体与万物——手被叫做 "arm feet"、腿是 "leg machines"、肩膀是 "shoulder tubes"、鞋是 "foot protectors"、脑内灵光是 "lightbulbs"（均见于 kaoridate15／kaoridate15p3），手机震动则写作 "BZZZZ BZZZZ"。这套语言不是卖萌设定，而是人格叠层互相覆盖后留下的转译损耗。
+- **死亡履历**：全城皆知她已死于事故；她自己的记忆是 "an abundance of juice and the seas of white. Those are my earliest memories."（kaorispring1），并自认 "It was almost mine until I was brought back to life."（kaorispring1）。Yumi 证实所有人当初都以为她死了（kaorispring1）。
 - **身体真相**：胸口大型蜘蛛纹身之下是 scar——"> k: Time's up! It's a scar, fucker! Your first love lives on! It just has a different house now!"。这具身体被明确比喻为 "> k: This body's kind of like a sweet, low-cost Airbnb. And every season, different tourists show up and want to rent it out."，内住神明 "Two. Three. Four. As many as we can cram inside."。
 - **叙事功能**：她是"死者归来"谜面、Sekai 遗志的载体、诸神规则的违规示范者，也是把主角从纯欲喜剧拖入神学的引路人。
 
 ## 二、love 线逐事件脉络
 
-### 1. 序盘：电话三连与 kaoridate1～15（怪话少女养成史）
+### 1. 序盘：callkaorimorning/afternoon/night 与 kaoridate5/10/15/15p2/15p3（怪话少女养成史）
 
-- callkaorimorning/afternoon/night 与 kaoriinvite/gen/aff 系列（/////）为日常电话与邀约入口，确立她"随时来电、永远离题"的联系模式。
-- kaoridate5小鸡巷事件奠定死亡教育母题：她买鸡受骗自嘲 "> k: I am not familiar with the chicken market so it is possible the chicken-killing-food-man took advantage of me."；旁白随后点破小巷曾"cut them down and teach Kaori about death long before she was prepared to learn"——John 所在的小巷是她第一间死亡教室。
-- kaoridate15 区间她开始以宗教语体自我加冕："> k: But take heart, Friend. The Queen of Spiders has overcome this world!"、哀悼失败时自叹 "> k: Woe is the Queen of Spiders."，并反问 "> k: If losing friends I never became friends with is as painful as this, what should Mini-Kaori have felt when people she actually loved died?"——"Mini-Kaori"（死前的自己）作为他者被首次提及。
-- Uta 一句 "> u: Kaori-{i}chan{/i}. She's a part of the family now."标记她被主角家庭正式接纳。
+- callkaorimorning/afternoon/night 与 kaoriinvite/gen/aff 系列为日常电话与邀约入口，确立她"随时来电、永远离题"的联系模式；其间的约会 label（kaoridate5／10／15 及续作 15p2／15p3）逐步展开主线。
+- kaoridate5：小鸡巷买鸡受骗，她自嘲 "> k: I am not familiar with the chicken market so it is possible the chicken-killing-food-man took advantage of me."；这是她直面"被利用/死亡"母题的开端（小巷作为死亡教室的旁白在 kaoridate20 才由主角回述）。
+- kaoridate10：宗教语体自我加冕——"> k: But take heart, Friend. The Queen of Spiders has overcome this world!"；"Mini-Kaori"（死前的自己）作为他者被首次提及（"> k: You want to hear about Mini-Kaori?"）。
+- kaoridate15：电话以新招呼 "Phone call!" 开场；以 "arm feet" 指手、"leg machines" 指腿等错译展现语言系统；再去小鸡巷发现鸡已被卖作食材，主角念 "Death is nothing at all" 安慰她；Kaori 以 Mini-Kaori 自指并反问 "> k: If losing friends I never became friends with is as painful as this, what should Mini-Kaori have felt when people she actually loved died?"。
+- kaoridate15p2：女仆咖啡厅。Uta 将她接纳为家庭一员——"> u: Kaori-{i}chan{/i}. She's a part of the family now."；哀悼失败时她自叹 "> k: Woe is the Queen of Spiders."。
 
 ### 2. kaoridate15p3：理想世界、机器人与"禁止触碰的一处"
 
@@ -30,7 +31,7 @@
 
 ### 3. kaoridate20：John 的预言夜与 USER2 掉线
 
-- 寻鸡之夜变成先知讲道：John 以括号翻译发表启示录式独白——"> john: Bacawk. (Let me walk the path that I am destined to walk. Drink in the blood of those that I have lost.)"、"> john: Bacawk. (God is dead, human. But for how long will he remain that way? And who of equal value must die to bring him back?)"、"> john: Bacawk. (For I have conquered the world.) Which means that it must conquer me in return."。这些 Maya 式台词从一只鸡口中说出，本身就是世界文本层失序的证据。
+- 寻鸡之夜回到小鸡巷，旁白称那小巷曾 "cut them down and teach Kaori about death long before she was prepared to learn"（kaoridate20）；随后 John 以括号翻译发表启示录式独白——"> john: Bacawk. (Let me walk the path that I am destined to walk. Drink in the blood of those that I have lost.)"、"> john: Bacawk. (God is dead, human. But for how long will he remain that way? And who of equal value must die to bring him back?)"、"> john: Bacawk. (For I have conquered the world.) Which means that it must conquer me in return."。这些 Maya 式台词从一只鸡口中说出，本身就是世界文本层失序的证据。
 - 高潮处直接被审查切断："> john: BACAAAAAAAAAAWK! (zaf nqradq etq [[REDACTED. DIALOGUE CENSORED DUE TO CHICKEN.])"。
 - 随后旁白亲手抹除整段事件："This was an imaginary event. Please forget it after ten more seconds of egg dance."；主角自认记忆缺失 "> s: I just...don't really remember coming back here."；场景以系统广播收尾："> N: //////////////////////////USER2 HAS GONE OFFLINE"——玩家层的掉线公告嵌进恋爱场景。
 
@@ -39,14 +40,14 @@
 - 她追白猫迷路至旧城区，主角找到她的地点意味深长："> N: Kaori stands at the railing of a bridge where I once met someone she's forgotten."——"她所遗忘的人"即 Sekai 类存在，遗忘是单向安装的。
 - 旁白在此说出本线最阴冷的双人想象："> N: I think of what it would be like to shove both her consciousness and mine into a blender and deliver it unto the people of this place through telephone wires."。
 - 她以《马太福音》失羊喻许诺永恒追寻："> k: If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?"、"> k: To the end of time, Friend. And even after that."——一个"不该懂隐喻"的人精准引用经文，人格叠层再度露头。
-- Tojo 拉面店里她无师自通点了店主亡父的私房菜 tori shio，Tsuneyo 当场起疑——死者偏好经由这具身体泄漏。
-- 停电瞬间她凭空消失，搜索无果；旁白以复读对抗失控："> N: Everything is normal.（//）"；好感结算当场损毁："> N: {i}Kaori's aff____________________xxxxxxxxxxxxxxx{/i}"。回家撞见 Ami 裸睡沙发、旁白低语 "She is getting so big."后跳转 amidate50——本 label 直接咬合 Ami 线。
+- Tojo 拉面店里她无师自通点了菜单上并未列出的 tori shio ramen（kaoridate25）；Tsuneyo 当场起疑 "How did you know of it?"（那本是她父亲常做的拿手菜，由 Yuki 点破），暗示这具身体记得她本不该知道的事。
+- 停电瞬间她凭空消失，搜索无果；旁白以复读对抗失控："> N: Everything is normal."；好感结算当场损毁："> N: {i}Kaori's aff____________________xxxxxxxxxxxxxxx{/i}"。回家撞见 Ami 裸睡沙发、旁白低语 "She is getting so big."后跳转 amidate50——本 label 直接咬合 Ami 线。
 
 ### 5. kaorispecial35：藏宝图、循环对话与"有什么醒了"
 
 - 门上只有一字的地图书写宣告："> k: It is a treasure map!"；开场旁白直接对读者说话："I tell you this not as someone recollecting the past, but as someone experiencing the present right there with you. Open your eyes."。
 - John 已变异为怪物："> john: FEED.......ME........"、"> john: YOU...KNOW NOT...WHAT AWAITS YOU..."。
-- 森林中对话发生逐字循环——同一组问答原文重演于，第三轮再演至；她对死亡的描述随之变形："> k: Very, very not good! No amount of grape-blood in see-through cylinders can compare to experiencing human life for the second first time!"、"these earlier memories have been ripped from my mind like coconuts off of a coconut tree"。
+- 森林中对话发生逐字循环——同一组问答原文重演数次；她对死亡的描述随之变形："> k: Very, very not good! No amount of grape-blood in see-through cylinders can compare to experiencing human life for the second first time!"、"these earlier memories have been ripped from my mind like coconuts off of a coconut tree"。
 - 循环间隙她答非所问地宣布："> k: Something is waking up."；地图最终被证明只有一个字，场景跳往 treasureisland。
 
 ### 6. kaorispecial40：Nao 入队
@@ -56,7 +57,7 @@
 
 ### 7. kaoridate40：眼睛换人、倒计时与初吻
 
-- 主角的跟踪妄想反复出现："Nothing followed me here."（//），随后旁白推翻一切："> N: Something did follow me here. You can't see it. But I can."。
+- 主角的跟踪妄想反复出现："Nothing followed me here."，随后旁白推翻一切："> N: Something did follow me here. You can't see it. But I can."。
 - 她的眼睛突然换色、语气换人，主角结巴出 "> s: Who...are you?..."；自我介绍说到一半断线："> k: But most importantly, I am your- ...Huh? My fleshy exterior feels very tingly all of a sudden."。
 - 场景被一段乱序倒计时接管："> N: 5! 4! 3! M! Parrot! Nothing! -1! Circle! And most importantly... T!"——字母 T 与 Makoto 线元诗的 "If T is for time..."（MakotoEvents）同源，跨线共用一套字母神学。
 - 强吻爆发，拟声被汉字"月"淹没，好感值连环跳涨；主角的坦白定义了这段关系的麻醉本质："> N: And yet her tongue is like novocaine. It kills off all the pain and makes me numb."、"{i}This{/i} is what I'm meant to be. Confused. Afraid."。事后她毫无记忆："> k: The world just changed all of a sudden and when my sight-spheres became normal sight-spheres again, you were right in front of me."。
@@ -71,7 +72,7 @@
 ### 9. halloweenkaori1／2：屋顶神学总揭示
 
 - 万圣节空校开场即尸体化隐喻："> N: Everything has been removed from the school. It's an empty box...A specific girl, of course. One who's also had everything removed from her."；主角自陈 "I would make a terrible father."，并以假人模型回忆 Sekai："> N: My sanity slips away as if I'm wearing her dress again, touching myself in the mirror to try and deceive myself into believing it's her....mannequins...lack the defining trait that makes humans {i}human.{/i} Malice."。
-- 摊牌层层递进：主角指控 "> s: ...you have been possessed by the one that haunts me."；她回应 "You have all the time in the world."（/）并撕破伪装——"> k: have you seriously not figured it out yet? god, humans are so fucking dumb. all it takes is a little persistence and a dash of magic and boom — they're caught in the web."。
+- 摊牌层层递进：主角指控 "> s: ...you have been possessed by the one that haunts me."；她回应 "You have all the time in the world."并撕破伪装——"> k: have you seriously not figured it out yet? god, humans are so fucking dumb. all it takes is a little persistence and a dash of magic and boom — they're caught in the web."。
 - 主角迁怒："> s: {i}You{/i} did this. It's {i}your{/i} fault she's gone! You're the one who made me do that to her!"。她随即交出全部底牌：Airbnb 容器论、复数神明、选择 Kaori 的理由 "> k: It's not about what {i}she{/i} did wrong...it's about the her {i}inside{/i} of {i}her."、纹身下的 scar与成因——"> k: Not because of \"Kaori.\" Because of {i}Sekai.{/i} And how {i}that{/i} dime-piece actually {i}got it.{/i}"；晚期的 Sekai 被描述为众声争夺的容器 "She was {i}losing{/i} it. She was {i}tainted.{/i} But her infection made her even more beautiful than she already was."。
 - 神学体系完整交付：信仰供养论 "In order for a god to live, that god must have people who believe in them."；规则与刑罚 "> k: The ones who reach the top of the ladder are the ones who make the rules. And the punishment we receive for breaking them is even worse a fate than death. They turn us into {i}you.{/i}";遗忘即死亡 "> k: We can't ever {i}die{/i} until we're truly forgotten"；Wishing Well 底层的休眠神。她还披露对 Nodoka 的处刑："> k: One of them {i}did{/i} catch on. Nodoka....So I melted her wings."。
 - 场景后半段，旁白以小写字体完成"最弱之神"（Pareidolia）的告别独白："i have sacrificed myself to someone for something and even i can't tell you what it is anymore...and it is vengeful."、"i was exactly what you wanted me to be — a scapegoat. i was something to hate to give you a break from hating yourself."、"everything you can imagine is real, akira."，并预告礼物藏匿于时间而非空间："things i have hidden not where but {i}when.{/i}"；临别以咆哮破功："{b}IT WAS NEVER YOURS TO BEGIN WITH, YOU UNGRATEFUL PIG!...{/b}"，主角苦笑确认身份："> s: Yeah, {i}there's{/i} the Pareidolia I know."。
@@ -98,7 +99,7 @@
 
 - **Sekai 母轴**：纹身/scar、"Mommy" 口癖回源、Ami 房间还乡——本线是 Sekai 死后叙事的最大集散地，并与 Ami 线、Maya 线共享异色瞳与"容器"设定。
 - **重置循环层**：逐字循环对话、"Something is waking up."、好感变量损毁、主角亲历 reset 体感与 "NOT AGAIN"。
-- **元叙事玩家层**：USER2 掉线公告、Patreon 版口癖玩笑、对读者的直接喊话、Connor×Selebus 连续性修补、渲染问题与神秘门（/）、字母 T 倒计时。
+- **元叙事玩家层**：USER2 掉线公告、Patreon 版口癖玩笑、对读者的直接喊话、Connor×Selebus 连续性修补、渲染问题与神秘门、字母 T 倒计时。
 - **神学体系**：诸神信仰经济学、规则刑罚（化为人类）、Wishing Well 与"最弱之神"告别——为全作的"神明"词义提供总纲，Ami 的 "brand new god"亦应放入此框架解读。
 
 ## 五、未解伏笔

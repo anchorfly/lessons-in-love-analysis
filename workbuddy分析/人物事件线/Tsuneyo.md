@@ -60,7 +60,7 @@
 1. **跨迭代记忆载体**："Memory Girl" 的命名与 Narrator 的"wiped again"共同指向：Tsuneyo 可能是少数携带前次迭代记忆的存在。她的"记忆空洞"与"恶魔附身"夜则是记忆机制故障的症状级描写。
 2. **ELATION PROTOCOL**：万圣节篇开头"cats had come out to play"属于游戏最高层的元叙事事件序列，Tsuneyo 篇被选为其舞台之一。
 3. **命运预告**：Seiko 式旁白直言她将"hang herself with his mantle"——与她在 的死亡宣言互为镜像，构成明确的死亡Flag网络。
-4. **对玩家的三问**（//）：直接把恋爱表层的问题上升为玩家层的伦理问题，尤其"Would you be like Him?"把 Sensei 与某种更高存在并置。
+4. **对玩家的三问**：直接把恋爱表层的问题上升为玩家层的伦理问题，尤其"Would you be like Him?"把 Sensei 与某种更高存在并置。
 5. **诗体对话段**：门/门框意象与"虚构改变人"的主题，是理解本作叙事哲学（角色自知虚构却仍被改变）的核心文本之一。
 6. **封闭城镇的旧城区视角**：Tojo Ramen 作为旧城区仅存的业态，其存亡本身就是 Kumon-mi 时间停滞主题的具象化（对比 Haruka 线对物资来源的疑问）。
 

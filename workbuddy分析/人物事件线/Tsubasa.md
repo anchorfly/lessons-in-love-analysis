@@ -8,7 +8,7 @@
 
 - **身份**：Tsukioka 家主母。丈夫 Tomonori 是名义上的家主，但实际权柄在她手中——她亲口承认这种分工："Tomonori may be the family head, but do you really think {i}I'm{/i} the type to gleefully allow someone else to pull my strings?"。她对 Yuki 的说法更直接："This is my privilege as the most powerful woman in Kumon-mi."，并强调这一头衔是新近确立的："now I can make it even {i}more{/i} difficult because I currently {i}am{/i} the most powerful woman in Kumon-mi."。更早的自我介绍则是 "wealthiest woman in all of Kumon-mi"与 "I'm a very powerful woman, Sensei."。
 - **家族**：Tsukioka 家自 Kumon-mi 建镇起便是本地豪族；她本人经政治联姻嫁给 Tomonori，婚后夫妻分房。育有两女：长女 Touka（继承人）、幼女 Tsukasa。她对女儿们的教育理念是驯化式的："Most people aren't smart enough to make their own decisions."。
-- **行为模式**：全知全控。她自称 "I know everything that goes on in this house."（/），甚至能远程查看 Tsukasa 的浏览器历史。她惯用三件套：威胁、交易与"我只是随口说说"——后者在 / 被她反复申明为一种存在方式而非托辞。
+- **行为模式**：全知全控。她自称 "I know everything that goes on in this house."，甚至能远程查看 Tsukasa 的浏览器历史。她惯用三件套：威胁、交易与"我只是随口说说"——后者在 / 被她反复申明为一种存在方式而非托辞。
 - **隐藏层**：她有失忆自述、诗人过去、以及一段被反复暗示的旧日创伤——被锁进壁橱听门外声音的童年。她与 Yuki 是跨越阶层的少年旧识（Yuki 称她 "Nee-sama"，两人并无血缘），这是全角色线中唯一让她"放下戒备"的关系。
 - **元叙事位置**：她知道不该知道的事。她会问 "What did YOU hear in the rain?"式的问题之外，还说出 "What's wrong with playing God when the one we dreamt up never wants to come outside?"——她至少部分知晓世界的虚构性。
 
@@ -88,7 +88,7 @@ Tsubasa 则逐步亮出底牌：联姻本身就是局——"if a third party int
 
 ### tsubasaspring6
 
-与 Yuki 的私人日，是全线唯一让 Tsubasa 卸下权力的篇章。开场借商场"装修"带出主线钩子：Tsubasa 拥有施工期进入权限。随后是芭比裙羞辱式玩闹，其间顺口透露 she had Yakuza cronies castrated 为 Yuki 报仇。"Kumon-mi 最有权势的女人"原句即出自本段与 Yuki 的斗嘴（/）。
+与 Yuki 的私人日，是全线唯一让 Tsubasa 卸下权力的篇章。开场借商场"装修"带出主线钩子：Tsubasa 拥有施工期进入权限。随后是芭比裙羞辱式玩闹，其间顺口透露 she had Yakuza cronies castrated 为 Yuki 报仇。"Kumon-mi 最有权势的女人"原句即出自本段与 Yuki 的斗嘴。
 
 她拒绝囚禁 Yuki 的理由是一句诗："A forest bird never wants a cage."，并补上："it's your freedom that's always made you so beautiful."。月光下的自行车后座戏以旁白作结：
 
@@ -104,7 +104,7 @@ s 家中喜剧场。Niki 与 Ami 在场，Tsubasa 上门并贡献了本线最荒
 
 > tb: I enjoy playing with you. You're the only toy I have that I can use in public without being put on a registry. （)
 
-车内戏是本段的实质内容：她清算 s 在小巷对 Touka 的越轨（/），点破他"极易被操纵"的本质，随后围绕 Tsukasa 的未来展开哲学交锋——"Maybe turning her into a 'monster' is precisely what will save her? It saved {i}you,{/i} did it not?"。当 s 否认后，她忽然说出半句预言：
+车内戏是本段的实质内容：她清算 s 在小巷对 Touka 的越轨，点破他"极易被操纵"的本质，随后围绕 Tsukasa 的未来展开哲学交锋——"Maybe turning her into a 'monster' is precisely what will save her? It saved {i}you,{/i} did it not?"。当 s 否认后，她忽然说出半句预言：
 
 > tb: Then you've given up on achieving any sort of happy ending? Of reaching a future where everyone's dreams can come true?
 

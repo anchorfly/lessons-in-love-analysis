@@ -22,7 +22,7 @@ Yumi 的成长弧光异常清晰：从被强吻的受害者（streets5），到�
 
 ### 序盘路由层：streets 与三个 call 事件
 
-`streets` 是菜单式跳转 hub，本身无剧情；`callyumimorning/afternoon/night`（//）为日常电话事件。值得注意的是 `callyuminight` 里的一句环境描写："Yumi's phone is still broken."——手机损坏这个细节在后文 yumislumber1 的"新秘密号码"和 yumispring1 的"借母亲手机"中反复回收，成为她与外界连接始终脆弱的物质隐喻。
+`streets` 是菜单式跳转 hub，本身无剧情；`callyumimorning/afternoon/night`为日常电话事件。值得注意的是 `callyuminight` 里的一句环境描写："Yumi's phone is still broken."——手机损坏这个细节在后文 yumislumber1 的"新秘密号码"和 yumispring1 的"借母亲手机"中反复回收，成为她与外界连接始终脆弱的物质隐喻。
 
 ### yumigennight：gen 线的墓地夜谈
 
@@ -156,7 +156,7 @@ Yumi 发现他站在桥栏边的意图并拦下："You looked like you were abou
 
 新生海滩旅行第五版。s 旁白交代此行目的：把 Yumi 再次拉入觉醒网络——"she may have even saved my life recently"，并流露出希望有人取代自己的念头。
 
-海边谈话是 recruit 线的关键节点。s 用"不听就吻你"的玩笑开场，却发现 Yumi 自己先开口："Ain't we already...{i}done{/i} this before?..."（/）。她描述大量"像梦又像记忆"的既视感，其中包括从未发生过的留堂强暴记忆——s 确认这些是其他时间线的残留，然后给出正式解释：
+海边谈话是 recruit 线的关键节点。s 用"不听就吻你"的玩笑开场，却发现 Yumi 自己先开口："Ain't we already...{i}done{/i} this before?..."。她描述大量"像梦又像记忆"的既视感，其中包括从未发生过的留堂强暴记忆——s 确认这些是其他时间线的残留，然后给出正式解释：
 > s: Every few months, we get sent back to an earlier part of the school year. And, with the exception of three of us, no one retains any memories of it. You are one of those people.
 
 他还警告自己的连续性问题："there {i}were{/i} four of us but...there aren't anymore."，以及 "If you {i}do{/i} carry over and {i}I{/i} don't, don't think of that new person as me."。雷雨骤至，两人在储物棚躲雨——Yumi 全程牵着的手是 s 身上唯一的干燥处。s 的内心独白首次点名 Maya 之死的方式："my knife in the back of Maya"，并提及 Ayane 的救世兼婚姻计划。事件尾声揭示 Chika 在门外全程偷听，崩溃尖叫，最后一句直接质问玩家："What did {i}you{/i} hear in the rain?"。
@@ -248,10 +248,10 @@ Yumi 的 lust 轨道内容散布于各事件的双版本台词与若干 trim 段
 
 ## 四、与主线/元叙事咬合点
 
-1. **觉醒者网络 recruit 线的完整样本。** 从 streets30 的试探性提问，到 yumicallnight35 的深渊通话，到 yumislumber2 的时间停滞揭露，再到 yumislumber3 的正式入网（/），Yumi 是全作中唯一一条被完整拍摄的"普通人被告知真相"的全过程记录。
+1. **觉醒者网络 recruit 线的完整样本。** 从 streets30 的试探性提问，到 yumicallnight35 的深渊通话，到 yumislumber2 的时间停滞揭露，再到 yumislumber3 的正式入网，Yumi 是全作中唯一一条被完整拍摄的"普通人被告知真相"的全过程记录。
 2. **记忆携带者之谜。** s 在 beachfive13 确认她是"每次都能察觉的三人之一"，且 "It's happened before. Which is why we're dragging you into it again now."暗示她的察觉本身就是循环的一部分。她的 detention 强暴记忆则证明其他时间线存在一个更坏的 s——这与 "there {i}were{/i} four of us"的减员陈述互相印证。
-3. **Pareidolia 寄宿体系。** 从 streets10 的 "Tell me you see me."到 yumispring6 的新旁白声音（/），到 yumispring7 的完整显形（含 "Code of Joy" 体系），再到 yumispring10 的电视审判，Yumi 的脑内构成了游戏元叙事层在角色内部的最大代理点。"purged once" 的设定说明清除并非免疫。
-4. **Kaori/Tsubasa/Yuki 关系网。** yumislumber2 的 Kaori 存活情报与 yumispring8 的 YukiTsubasa "Nee-sama" 关系（/）共同指向 Tsukasa/Tsukioka 家族在主线中的深层卷入；Tsubasa 的 "$10,000/pet" 交易与其 "third" 之言为家族线埋下重钩。
+3. **Pareidolia 寄宿体系。** 从 streets10 的 "Tell me you see me."到 yumispring6 的新旁白声音，到 yumispring7 的完整显形（含 "Code of Joy" 体系），再到 yumispring10 的电视审判，Yumi 的脑内构成了游戏元叙事层在角色内部的最大代理点。"purged once" 的设定说明清除并非免疫。
+4. **Kaori/Tsubasa/Yuki 关系网。** yumislumber2 的 Kaori 存活情报与 yumispring8 的 YukiTsubasa "Nee-sama" 关系共同指向 Tsukasa/Tsukioka 家族在主线中的深层卷入；Tsubasa 的 "$10,000/pet" 交易与其 "third" 之言为家族线埋下重钩。
 5. **死亡与重置的关系实验。** Makoto 父亲之死作为环内唯一死亡先例被 Yumi 亲自援引来对抗母亲癌症的绝望——reset 能否治愈疾病，是主线尚未裁决的问题，而 Yumi 是把这个赌注压得最重的人。
 6. **Maya/Ayane 层的渗漏。** beachfive13 的 "knife in the back of Maya"与 Ayane 的救世兼婚姻计划经由 Yumi 事件首次向玩家明示，使她的海滩之夜成为主线拼图的关键碎片。
 7. **玩家层直接对话。** yumispecial45 的开场旁白、yumispring2 的 game files 对谈、beachfive13 结尾的 "What did {i}you{/i} hear in the rain?"、yumispring7 的 WORDBOX 指令——Yumi 事件承担了全作相当比例的第四面墙拆除工程。
@@ -263,7 +263,7 @@ Yumi 的 lust 轨道内容散布于各事件的双版本台词与若干 trim 段
 3. **q/candy 的本体。** yumispring7 中母亲声音递来的 "more than candy"究竟是药物、超自然物还是纯粹幻觉，文本拒绝裁决；"We..............made it.................."中的 "we" 指谁不明。
 4. **YukiTsubasa 的前史。** "Two of us go back to before you were even born."与 "our {i}third{/i}"指向一段未讲述的三人往事；Tsubasa 出资治病的真实动机未明。
 5. **Yuki 的生死赌注。** 手术风险与癌症复发可能悬而未决；Yumi 压在 reset 上的希望没有任何保证。
-6. **深渊实体的归属。** yumicallnight35 中自称对 "her" 另有称呼、对象是 "the world" 的实体（/）与 six、Pareidolia、chalkboard 诸神之间的关系未整合。
+6. **深渊实体的归属。** yumicallnight35 中自称对 "her" 另有称呼、对象是 "the world" 的实体与 six、Pareidolia、chalkboard 诸神之间的关系未整合。
 7. **Chika 线的残余引力。** "we broke up" 式的友情状态、Chika 潜入 Yakuza 的往事与其精神崩坏的现状之间，尚有一条未走完的修复线。
 8. **发夹。** yumispring9 特写的不卖之物从未被解释来历；结合 s 的 "collector" 独白，它可能既是 innocently 的装饰也是被收藏的第一件藏品。
 > 按源行号检索本角色 label，见 `索引/Yumi索引.md`。

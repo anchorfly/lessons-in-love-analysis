@@ -63,8 +63,8 @@
 
 lust 侧共约十余个 label，digest 中多段被截断，按可辨结构归纳为四类功能：
 
-1. **场所绑定型**：pornshop5/10/15/20/25（////）以音像店为固定密室，把"师生禁忌"压缩进一个反复重返的空间符号；pornshop25 穿插 Turboman 特摄闹剧——"> s: You mean to tell me that this limited edition Turboman action figure actually comes from the toy shop next door and not this business?"、"> N: I don't know if Turboman can actually fly or not, but I'm going to pretend he can...because I think that makes him sound more turbo."——用玩具英雄的幼稚幻想对冲关系的肮脏感。
-2. **升级阶梯型**：makotoinvite1/2/finger/grind（///）与 makotolust5/10/30（//，含 skip 分支）构成标准 affection→lust 数值阶梯：邀请→爱抚→手指→门槛事件；makotolust30skip 的存在说明 30 级事件设有前置豁免分支，是本线少见的结构性分岔。
+1. **场所绑定型**：pornshop5/10/15/20/25以音像店为固定密室，把"师生禁忌"压缩进一个反复重返的空间符号；pornshop25 穿插 Turboman 特摄闹剧——"> s: You mean to tell me that this limited edition Turboman action figure actually comes from the toy shop next door and not this business?"、"> N: I don't know if Turboman can actually fly or not, but I'm going to pretend he can...because I think that makes him sound more turbo."——用玩具英雄的幼稚幻想对冲关系的肮脏感。
+2. **升级阶梯型**：makotoinvite1/2/finger/grind与 makotolust5/10/30（//，含 skip 分支）构成标准 affection→lust 数值阶梯：邀请→爱抚→手指→门槛事件；makotolust30skip 的存在说明 30 级事件设有前置豁免分支，是本线少见的结构性分岔。
 3. **惩罚/劳动场景型**：打扫惩罚场景中 Chika 缺席、Makoto 以 "prior obligations" 解释——lust 场景兼任其他角色线的伏笔投放点。
 4. **哀伤转化型**：makotonew2/3 与 dorm55 系列中的性事并非独立 lust 内容，而是丧父哀悼的变形出口（见第二节第 2、3 目）——本线 lust 的独特之处在于它始终是 grief 的症状而非奖励。
 

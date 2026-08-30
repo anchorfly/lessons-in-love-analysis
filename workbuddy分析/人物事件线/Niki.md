@@ -5,7 +5,7 @@
 
 ## 一、角色基本盘
 
-Niki Nakayama 是全作设定最「重」的可攻略角色之一：她是 Sensei 的青梅竹马兼初恋兼前女友，也是活跃于全国舞台的现役偶像。年龄设定明确——nikidate5 中两人互相揭底时给出 Sensei 31 岁、Niki 29 岁的数字（玩笑版本是 5000 岁与 4998 岁），而 nikispring2 里 Sensei 再次确认「You're 29, Niki」，date10 中亦有 "about to turn thirty"（、-）的说法。dormwarssixniki1 中学生口中的偶像即指她本人（约 区间的 idol 指称同样指向 Niki）。
+Niki Nakayama 是全作设定最「重」的可攻略角色之一：她是 Sensei 的青梅竹马兼初恋兼前女友，也是活跃于全国舞台的现役偶像。年龄设定明确——nikidate5 中两人互相揭底时给出 Sensei 31 岁、Niki 29 岁的数字（玩笑版本是 5000 岁与 4998 岁），而 nikispring2 里 Sensei 再次确认「You're 29, Niki」，date10 中亦有 "about to turn thirty"的说法。dormwarssixniki1 中学生口中的偶像即指她本人（约 区间的 idol 指称同样指向 Niki）。
 
 她的性格由三组矛盾构成：
 
@@ -103,7 +103,7 @@ Niki Nakayama 是全作设定最「重」的可攻略角色之一：她是 Sense
 
 **nikispring1 沙滩屋场景**：同居期的宣泄性性事，功能是展示关系的病理性替代沟通——Sensei 明言 "There's no need to talk at all when I can just..."（约 区间），同时 Otoha 的暗中旁观引入三角窥视结构，为 Otoha 线供能。
 
-**date15 / invite2 的 hotel/couch 分支**：标准好感度型亲密分支（jump nikihotelx / nikicouchx），分别以拥抱结局与观影结局双轨收束（-、-），体现 hub 结构下的选择权重。
+**date15 / invite2 的 hotel/couch 分支**：标准好感度型亲密分支（jump nikihotelx / nikicouchx），分别以拥抱结局与观影结局双轨收束，体现 hub 结构下的选择权重。
 
 整体而言，Niki 线的 lust 内容始终服务于同一命题：一个守身近三十年的处女偶像，把初夜留给了记忆残缺的前男友——身体的交付即是记忆的抵押。
 

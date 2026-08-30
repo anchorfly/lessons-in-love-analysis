@@ -19,7 +19,7 @@ Rin 的表层设定是"完美优等生"：成绩优异、社团活跃、情绪�
 
 ### 1. cafe 系列与日常电话事件
 
-digest 开头即给出 cafe label 路由表，说明 Rin 的日常事件高度模块化：callrinmorning / callrinafternoon 两个电话事件（/）构成玩家与 Rin 保持联系的最低频接口。电话中 Rin 的状态并非阳光——"Sad girl stuff. Coffee and loud music about girls."是她对自身情绪状态的罕见直白表述：听关于女孩的吵闹音乐、喝咖啡、难过。这句台词的叙事功能是为后续的自我伤害揭露埋设情绪基线：玩家在早期就被告知 Rin "有难过的事"，只是不知道有多深。
+digest 开头即给出 cafe label 路由表，说明 Rin 的日常事件高度模块化：callrinmorning / callrinafternoon 两个电话事件构成玩家与 Rin 保持联系的最低频接口。电话中 Rin 的状态并非阳光——"Sad girl stuff. Coffee and loud music about girls."是她对自身情绪状态的罕见直白表述：听关于女孩的吵闹音乐、喝咖啡、难过。这句台词的叙事功能是为后续的自我伤害揭露埋设情绪基线：玩家在早期就被告知 Rin "有难过的事"，只是不知道有多深。
 
 ### 2. 自我伤害的揭露与"骂我"请求
 

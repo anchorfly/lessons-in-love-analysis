@@ -100,7 +100,7 @@ Sensei 陷入自毁式的抑郁（自认"毁了世界"并在课堂上假装无�
 
 > sa: A...Actually...would you want to...walk with me? I have work, so...I'm not going back to the dorms just yet...
 
-叙述者对这段关系的定义发生了质变："She's a girl I can kind of just exist with."紧接着又被自己否定——"No she's not. I can't exist with her at all."（/）。曾经需要保护的人如今成了唯一能与他并肩走路的人。
+叙述者对这段关系的定义发生了质变："She's a girl I can kind of just exist with."紧接着又被自己否定——"No she's not. I can't exist with her at all."。曾经需要保护的人如今成了唯一能与他并肩走路的人。
 
 ### 8. sanaspring1 尾—sanaspring2：未来之家与两个月
 
@@ -137,7 +137,7 @@ Sana 不顾警告为哥哥拔刀，刀尽之日即是传说崩塌之时——Sho
 
 ### 11. sanainvite1 / sanainvite2：Niki 在门外
 
-电话邀约、上门、初夜——却被提前回家的女友 Niki 搅局。为了脱身，Sana 临场编造自己是女同性恋、对 Sensei "觉得恶心"（/-），表演天衣无缝，反而引出 Niki 对 Ami 性向的一连串试探。Niki 去洗澡后两人终于结合，而高潮瞬间 Sensei 再次发生现实置换：他闻到火锅味、感到油毡地板，看见"长大了许多"的她骑在身上——"In this moment — I am home. I am happy."——并在此幻觉中说出了 "I think I love you."
+电话邀约、上门、初夜——却被提前回家的女友 Niki 搅局。为了脱身，Sana 临场编造自己是女同性恋、对 Sensei "觉得恶心"，表演天衣无缝，反而引出 Niki 对 Ami 性向的一连串试探。Niki 去洗澡后两人终于结合，而高潮瞬间 Sensei 再次发生现实置换：他闻到火锅味、感到油毡地板，看见"长大了许多"的她骑在身上——"In this moment — I am home. I am happy."——并在此幻觉中说出了 "I think I love you."
 
 清醒后的 Sana 冷得像另一个人：
 
