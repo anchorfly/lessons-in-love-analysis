@@ -1,0 +1,144 @@
+*********************************
+Progress & Guidance Mod v0.60.0
+*********************************
+
+- Install by copying the files into your LiL install folder.
+
+*********************************
+Progress Screen
+*********************************
+
+IMPORTANT: This is distinct from the "Progress" button on the botton of the screen in the base game
+
+* Adds a single screen showing all stats and event progress (accessible via "Progress" on the menu sidebar)
+* Girls are added to the screen in accordance with story progress
+* An ! indicator appears next the names of girls with events available
+* Clicking on a girl's name (or on "Main" or "Happy") on this screen will take you to the corresponding tracker
+
+*********************************
+Guide Mod
+*********************************
+
+* The Guide Mod adds a column of guidance to modified versions of the event trackers
+* A single line of guidance is provided for each incomplete event that a player is reasonably close to seeing
+* Guidance is updated as you fulfill requirements
+* Guidance for Happy Events is not provided until a player has entered their event track
+* A compilation of all available guidanec is provided on the Hint screen
+
+*********************************
+Keyboard Shortcuts
+*********************************
+
+	P : Progress screen
+	M : Main Events tracker
+    N : Hint screen
+	G : One of the girl's trackers (Sana by default, otherwise your last visited girl)
+	O : Mod Options screen
+    T : Toggles whether completed events are shown on trackers
+	U : Refreshes the progress/hint screens
+    C : Toggles whether icons for girls with no uncompleted events are shown on trackers
+
+* These shortcuts will only become active after you've visited the Progress screen for the first time.
+  If they stop working for whatever reason, revisiting the Progress screen will reactivate them.
+  You may need to click on "Return" in the lower left corner rather than exiting via ESC at least once.
+* Pressing "P", "G", or "N" while on the progress/girls/hint screen will return you to the game, provided
+  you used those shortcuts to open the screen in the first place.
+
+*********************************
+How the Hints Work:
+*********************************
+
+The general idea behind the guidance is to avoid overwhelming the player with two many hints.
+
+1.	If no guidance is offered for an event, it either means that that event is too far away to worry about
+	or it will happen automatically.
+2.	If the guidance says "progress needed", it means that you need to see at least one event of each of the
+	listed types to unlock the event.
+3.	A red (!) at the end of the guidance indicates either:
+	1. if it's a lust event (pink text), the event is time sensitive and you should prioritize it
+	2. if it's a normal event (black text), the event involves an important choice. Make a save beforehand.
+	Clicking on the red (!) will take you to a screen with more specifics
+
+*********************************
+Changelog
+*********************************
+
+0.35.0.3
+- Adds compatibility with the Dark Mode mod to the Options menu
+
+0.35.0.2
+- Rewrote hint page
+
+0.34.0.2
+- Restored "hide happy hint" functionality
+
+0.31.0
+- Added an option to hide the "DLC" option from the menu
+
+0.26.0p2
+- Minor bug fixes
+- Clicking on a red (!) will now take you to an explanation screen
+
+0.24.0
+- links added to quickbar at bottom of screen
+- hint screen added to menu (reverts to wiki link if hints are turned off)
+- reduced event processing mode removed
+
+0.23.0p2 v3
+- Minor bug fixes
+- Added happy events to the Hint screen (added option to turn this off)
+
+0.23.0p2 v2
+- Minor bug fixes
+- Added "(currently... )" text to affection/lust hints
+- Made the names on the Hint screen into links leading to each girl's tracker
+- no longer includes screens.rpy
+
+0.23.0p2
+- Minor bug fixes
+
+0.23.0p1
+- New option: next values (off by default). When on, the affection/lust needed for a character's next event
+  will be shown in parentheses on the progress screen (only if you have not yet reached the needed amounts)
+- New option: reduced event processing mode (on by default): Reduces how often Ren'py processes events for
+  the mod, making opening the mod's screens faster. When turned on, you may need to hit refresh on the 
+  progress screen (or hit "U") after loading a save game.
+- Changed hints to explicitly state needed affection\lust amounts
+
+0.22.0p1
+- error that occurred when viewing the Chapter 2 tracker while in Chapter 1 has been corrected.
+
+0.21.0p2
+- Most of the code has been rewritten
+- Added hint screen
+- Added additional links on the bottom of the girls' event trackers
+- Added a few things to options
+
+0.20.0p1
+- Additional keyboard shortcuts added
+- The toggle completed events now effects all trackers. Let me know if you find any errors.
+
+0.18.0p1
+- Keyboard shortcuts added
+- Added Options screen
+- Quick Menu changed
+
+0.17.0:
+- Navigation buttons on the top of each girl's event tracker has been replaced with portraits
+- A "Toggle Completed" button has been added to the Main Event trackers allowing you to hide/unhide completed events
+  (the size of the scroll window is unchanged, so you may have to scroll back up to the top)
+- Day indicator on the Progress screen has been moved to the left to make room for additional girls
+
+*********************************
+Credits
+*********************************
+
+Props to Selebus for creating this game and vehemental for turning my initial progress screen into a table
+
+*********************************
+Known Issues
+*********************************
+
+None
+
+Contact cckerberos#1353 on Discord with any comments
