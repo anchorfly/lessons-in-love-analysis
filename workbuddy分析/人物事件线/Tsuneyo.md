@@ -1,77 +1,106 @@
 # Tsuneyo 事件线全析
 
-> 源文件：`_tmp_digest/reread/_reread_TsuneyoEvents.txt`（覆盖源文件，共 32 个 label）。
-> 定位：Tsuneyo Tojo 是旧城区 Tojo Ramen 的年轻女老板，病父的独女，全作唯一的 "Memory Girl"。她的线是"传统与责任如何压弯一个人"的寓言，同时也是元叙事层介入最深的学生线之一——从英雄名号的授予到对玩家本身的拷问。
-> 阅读提示：love 线以拉面店夜谈系列为主轴缓慢升温；lust 线极短（实质仅 tsuneyospring8 一役），却以"人格切换"的方式完成，与其 love 线的克制形成最刺眼的反差。
+> 源文件：`游戏文本/TsuneyoEvents.rpy`（30 个剧情 label）。相关 label 另分布于 `游戏文本/Dorm2Events.rpy`（`tsuneyofirsthall`、`tsuneyohall`、`tsuneyodorm`、`tsuneyodormgen`、`tsuneyodorm5`、`tsuneyodorm10`、`tsuneyodorm15`、`tsuneyodorm20`、`tsuneyodorm25`）、`chap3generics.rpy`（`tsuneyosummer2archerygen`、`tsuneyosummer2ramengen`、`tsuneyocallmorninggen`、`tsuneyocallafternoongen`）、`chap4generics.rpy`（`tsuneyospringarcherygen`、`tsuneyospringramengen`）、`chap3.rpy`（`tsuneyogswrong`、`tsuneyogstrivia`）、`finalwarning.rpy`（`tsuneyopaper`）。
+> 定位：Tsuneyo Tojo 是旧城区 Tojo Ramen 的现任经营者。父亲卧病在店铺二楼、靠机器维持，她几乎全部的人生都在店内度过，直到近期才获准外出上学。她的线同时承担两件事：一条以深夜店内长谈为主轴、缓慢升温的 love 线；以及全作介入最深的元叙事通道——记忆泄漏、附身、诗体对话，以及直接向玩家发出的质询。
+> 台词前缀：t=Tsuneyo、s=Sensei、a=Ami、ay=Ayane、mo=Molly、n=Noriko、k=Kaori、na=Nao、y=Yumi、yu=Yuki、se=Sekai、tom=Tom Mato, M.D.、tenc=Tenchou-Sama、q=???、six（角色名为十六进制串）、te=Teacher、N=旁白；斜体层的旁白声音另行注明。全文以 label 名为唯一锚点。
+> 阅读提示：ramen 主线并非单纯按好感递进，它被 dorm 线与若干主线事件交叉门控；lust 线也不是单点引爆，而是三步递进，前两步都发生在她意识不清的状态下。
 
 ## 一、角色基本盘
 
-- **姓名与身份**：Tsuneyo Tojo（"visit Tojo Ramen and, by association, Tsuneyo Tojo"），旧城区拉面店 Tojo Ramen 的现任经营者："I am simply trying to do my best as the current manager of Tojo Ramen."
-- **家系与使命**：店由父亲创立——"My father started Tojo Ramen with one goal in mind...to make people smile."。父亲如今病重，她自认将与店铺同生共死："I will die here the same way my father will."
-- **性格底色**：极端的义务感与自我压抑。她把店铺神圣化——"Tojo Ramen is not just a house of soup, it is a house of secrets. And everything you say within these walls shall stay here forever."；连自己的烦恼都拒绝倾吐："This is meant to be a place for others to voice their worries to me. I will tarnish the sanctity of Tojo Ramen if I attempt to do the same."
-- **幽默感**：一板一眼的冷笑话是她的招牌——"Tojo Ramen. All of the flavor, none of the violence."；"hearts are 50%% off on the third Sunday of every month"。
-- **元叙事身份**：在 Noriko 与 Ayane 的跑团夜中被授予英雄名 "Memory Girl"——"I am Memory Girl. I have memories of everything."；Narrator 随后的评论暗示这一身份跨越迭代："Just let Memory Girl's brain get wiped again."
+- **姓名与身份**：Tsuneyo Tojo。旁白在 `tsuneyonightgen2` 里把"去拉面店"和"去找她"直接画上等号——"I make my way to the second half of town to visit Tojo Ramen and, by association, Tsuneyo Tojo."。她对自身的定位在 `restoframen30` 里说得最直白："I am simply trying to do my best as the current manager of Tojo Ramen."
+- **家系与使命**：店由父亲创立，目标只有一个——ramen25p2 里她对 Noriko 说："My father started Tojo Ramen with one goal in mind...to make people smile."，并接上"As such...I, too, want to make people smile."。父亲如今卧床、依赖机器维持：`ramen20` 里停电的原因是"The machines keeping my father well require a large amount of energy."；`tsuneyospring1` 里她对 Yumi 的说法更冷——"He is all but a machine now."。她把守店视为唯一职责，`tsuneyospring4` 里对会说话的番茄说："It is my only duty. I would leave everyone and everything else behind for it if I needed to."
+- **与死亡绑定的自我想象**：`ramen20` 里她说："I will die here the same way my father will."。`ramen15` 里她有一套"人死后会变成树"的推想——"What if every forest we see is actually a graveyard?"，并据此开玩笑说自己还不能死是因为没人埋她："I can't die yet. There is no one to bury me."
+- **性格底色**：她把店铺定义为倾听场所。`tsuneyospring4` 的原话是："Tojo Ramen is not just a house of soup, it is a house of secrets. And everything you say within these walls shall stay here forever."；同一段里她也说出倾听者的单向枷锁："This is meant to be a place for others to voice their worries to me. I will tarnish the sanctity of Tojo Ramen if I attempt to do the same."。`ramen20` 里她对这套理念给出完整版："Tojo Ramen is a special restaurant where people from all walks of life can gather to consume pork broth and air out their worries... Such is the promise of Tojo Ramen."
+- **幽默感**：一板一眼的冷笑话与广告体是她的招牌。`ramen5` 里她为店铺编出口号"Tojo Ramen. All of the flavor, none of the violence."（`ramen10` 里被 Sensei 提醒后又重复了一遍）；"Tojo Ramen, where noodles reign supreme and hearts are 50% off the third Sunday of every month"出现在 `ramen25p2` 与 `restoframen30`。她也清楚自己的段子不好笑，`ramen5` 里的自评是："Much funnier than my actual jokes, anyway."
+- **元叙事身份**：`tsuneyospring3` 里她给自己起了英雄名——"My hero name is 'Memory Girl.'"，并当着 Ayane 与 Sensei 的面宣称："I am Memory Girl. I have memories of everything."。同一 label 末尾，斜体层的旁白声音留下一句："Just let Memory Girl's brain get wiped again."
 
 ## 二、love 线逐事件脉络
 
 ### 2.1 入口系统
-- `ramenshop` 为店铺入口跳转表；`tsuneyoarchery` 提供弓道场这一第二据点（"She's either at the archery range or Tojo Ramen."）。
-- `calltsuneyomorning`、`calltsuneyoafternoon`、`calltsuneyonight` 构成按时段呼叫的入口组——晨间电话的旁白即点明她的日常："Tsuneyo should be working right now."
+
+- `ramenshop` 是店铺入口的跳转表，按 `tsuneyo_love` 与各项事件完成标记分流：`ramen1`（0 点起）、`ramen5`（5 点起）、`ramen10`（10 点起，且要求 `tsuneyodorm5` 已完成）、`ramen15`（15 点起，且要求 `christmas7` 已完成）、`ramen20`（20 点起，且要求 `tsuneyodorm20` 已完成）、`ramen25`（25 点起，且要求 `secondbeach18` 已完成）、`ramen30`（30 点起，且要求 `ramen25p2` 与 `tsuneyodorm25` 均已完成）；35 点且 `yumispring6` 完成后转 `tsuneyospring5`。chap4 生效期间改跳 `tsuneyospringramengen`，chap3 生效期间改跳 `tsuneyosummer2ramengen`，圣诞后改跳 `tsuneyonightgen2`，其余情况落到通用夜 `ramengen`。也就是说，ramen 主线的推进被 dorm 线与若干主线事件交叉锁死。
+- 第二据点是弓道场：`tsuneyoarchery`（chap4、chap3 期间分别跳 `tsuneyospringarcherygen`、`tsuneyosummer2archerygen`）。
+- 电话入口组 `calltsuneyomorning`、`calltsuneyoafternoon`、`calltsuneyonight`：三者都先检查 Sensei 自身状态，`senseisad` 为真时直接放弃拨打（"I don't want to call her right now..."）；前两者在 chap4 生效期间打不通（"She doesn't."），其余时段跳 `tsuneyocallmorninggen`、`tsuneyocallafternoongen`。夜间入口根本不拨号，只给一句定位："Tsuneyo should be working right now. I can probably see her if I go to Tojo Ramen."
+- 宿舍线是另一条并行支线（Dorm2Events.rpy 的 `tsuneyodorm` 跳转表及 `tsuneyodorm5`／`tsuneyodorm10`／`tsuneyodorm15`／`tsuneyodorm20`／`tsuneyodorm25`），以敲门开场——`tsuneyodorm5`："I knock on Tsuneyo's door and wait to see if she's around."。她的室友是 Molly：`tsuneyospring7` 里 Sensei 敲她的门，答话的是屋内的 Molly。
 
 ### 2.2 ramen 系列夜谈：主线中的主线
-- `ramengen` / `ramen1` / `ramen5` / `ramen10` / `ramen15` / `ramen20` / `ramen25` / `ramen25p2` / `ramen30` / `restoframen30`——每 5 点好感一次递进的深夜店内长谈，是本线情感的全部地基。
-- **ramen10 区间**：她解释独自守店的理由——"running Tojo Ramen alone helps me protect all of its secrets."
-- **ramen15 区间**：店铺哲学成型——"Tojo Ramen is a special restaurant where people from all walks of life can gather to consume pork broth and air out their worries... Such is the promise of Tojo Ramen."
-- **ramen20 区间**：停电之夜。她嘴硬否认怕黑："Why would I fear the darkness? I do not have darknessophobia."，却在黑暗中说出全线的核心台词："I will die here the same way my father will."。事后她又用公告体消解尴尬："Tojo Ramen sincerely apologizes for the loss of power during your visit tonight."
-- **ramen25 区间**：玩笑式的末日宣言"Tojo Ramen is no more. This is the end."。
-- **ramen25p2 区间**：假设性讨论中埋着真实恐惧——Narrator 假想"Tojo Ramen goes out of business and Tsuneyo spends the rest of her life working at the convenience store instead."。她随后道出父亲的初衷。
-- **ramen30 区间**：传教般的执念浮出水面："I must spread the word of Tojo Ramen so that it will not be forgotten."——对被遗忘的恐惧是她一切行为的底层动机。
-- `restoframen30`：收束段，她罕见地示弱："Tojo Ramen has been undergoing an embarrassing patch of failures recently."
+
+- `ramengen`：无编号的通用夜。Sensei 吃完又留了半小时听她讲童年，结论是"everything she tells me is rather weird"；临走他多留小费，被她拒收——"I can't accept this. It is not culturally acceptable."
+- `ramen1`：第一次正式进店。菜单便宜得离谱，她给出的解释是旧城区的人口结构："the old district is not in the best of shape. The most populous demographic in the area is the elderly. And next is the poor."，并接上一句冷到骨子里的总结："All of the people stuck here are simply waiting to die."。这一夜也立起两个长期设定：她由父亲在家教大、没有受过正式教育；店后间曾是 Yakuza 谈事的地方，而她坚称他们"work in real estate"。
+- `ramen5`：刀与狗。她把菜刀藏在身后（"Prepare to die, you bastard."），解释却平淡到无聊——切配料时忘了放下。她养过一只狗，狗病死、"not served to anyone"，埋在几个街区外的空地。她也在这里自陈没有上过学："I lack any sort of formal education and even I know that."。长谈的高点是她第一次正面讲出店铺于她的意义："This is more than just a home for me and my father. It's a home for anyone who has 700 yen and a little bit of time to spare."，并反驳 Sensei 说她不懂社会："So to say I don't understand society because of my homeschooling just isn't true."
+- `ramen10`：Kaori 求职专场。Kaori 追着要一份工作，被她一个"No."挡回；Kaori 把面叫作"dough strings"，她当场暴走——"I am tempted to slap a bitch."。Sensei 只说一句"noodles"就能让她安静下来，她也承认："I am very easily swayed."。Kaori 最后因内急冲出门去，留下一碗几乎没动的面，由 Sensei 替她吃光。
+- `ramen15`：冬夜长谈，本线信息密度最高的一段之一。她研究恐惧症，理由是"Fear plays a big role in determining a person's actions."；她讲"人死后会长成树"的假说，推出"每一片森林其实都是墓地"，被 Sensei 一句"那墓地又是什么"问倒。她拒绝雇人的理由在此定型："running Tojo Ramen alone helps me protect all of its secrets."——怕的是竞争对手发现盐味汤底的配料。父亲已下不了楼（"he's unable to leave his room"），店铺因此只在工作日上午休息、周末上午营业。中段是一整段她把"fuck"当成普通词乱用的连珠对话（bonus 分支里 Sensei 掏出手机录音，说要拿它当铃声），Yuki 推门进来正好撞见最后一句，只留下一句"Just gonna pretend this never even happened."。
+- `ramen20`：停电之夜，本线的情感核心。开场她为前一晚的录音事件记仇（"Why did you allow me to say so many things about fucking? Now everyone thinks I am a harlot."），也因为 Sensei 点了咖喱而不高兴。对话推进到她说出店铺宣言——"Tojo Ramen is a special restaurant where people from all walks of life can gather to consume pork broth and air out their worries... Such is the promise of Tojo Ramen."，紧接着是那句死亡自陈："It's true. I will die here the same way my father will."。话音刚落，一声巨响切断电源，原因是父亲的医疗设备耗电过大。她上楼查看父亲，一去就是半小时；备用电源启动后整间店变成红色；Sensei 在黑暗里失去时间感，手机也没电。她回来说停电时父亲察觉到楼下有客人，于是按父亲的意思免单，并用公告体收尾："Tojo Ramen sincerely apologizes for the loss of power during your visit tonight."。出门时下起了雪，Sensei 把那份咖喱扔进了第一个垃圾桶。
+- `ramen25`：青葱危机。店里缺葱、一整天没有客人，她宣布"Tojo Ramen is no more. This is the end."。Sensei 提议去便利店买，她第一次听说便利店可以绕开"Produce Delivery Administration"（正规送货还要等四十八小时）。两人穿过旧城区，被一群流浪老人注视，她对此有自己的解释："Look at them as worse or older versions of us."；她也就此讲出父亲为什么从不见人——"My father is a man full of pride. He does not wish to be seen in his current state."。bonus 分支里，她为补上亏损给出的方案是"I will have to sell my body."。
+- `ramen25p2`：便利店与归途。Noriko 在店里当班，三人碰面；bonus 分支里 Tsuneyo 把货架上的东西误认成"vegetable covers"，Noriko 抢过去并向她解释那其实是安全套，她留下一句"You have deceived me yet again. You are truly a man to be feared."。中段旁白突然插入一段"全灭"假想——Noriko 笑到撞死在柜台、Tojo Ramen 倒闭、她余生在便利店打工、Sensei 退役后办慈善并最终当选首相——叙事随即切回店内继续。回程路上 Noriko 主动提起两人算是同行（她家开着一家中式餐馆），Tsuneyo 的回答是她的人生纲领："My father started Tojo Ramen with one goal in mind...to make people smile. As such...I, too, want to make people smile."，真正的目标是"spreading joy throughout the world in the form of thin wheat or rice tubes"，而"As long as this mission is being accomplished, it does not matter who profits in the end."。到店后她却以"已经打烊"为由把两人关在门外——"water is for paying customers only"。
+- `ramen30`：Yuki 同席的夜晚。开场生意已因青葱事件的解决而回升。她解释父亲为什么放她出门："Because I have grown as much as I can in this one place. In order to become a better person, I must greet the world with open arms and a fistful of noodles. I must spread the word of Tojo Ramen so that it will not be forgotten."。Yuki 透露她父亲欠自己五千日元赌债；bonus 分支里她的还债方案同样是"I will have to sell my body to Yuki"，被 Yuki 一句"You know I don't swing that way"挡回，改成以免单抵债。第二次停电时，她先给出自我怀疑："Tojo Ramen has been undergoing an embarrassing patch of failures recently. I am beginning to doubt whether I am truly up to the task of maintaining this building or not."，随后上楼查电闸，Yuki 拉着 Sensei 跟了上去。
+- `restoframen30`：楼梯与门。上楼前是一段旁白独白，把楼梯写成只能上升或下降的东西（"The best thing about stairs is that you only have two options: to ascend or descend."），一路推到"LET ME BECOME YOUR STAIRS."。中途插入署名 `six` 的四句劝退——"Turn off the game! Things will only get worse!"；以及署名 `te` 的 bonus 台词："Pay ATTENTION to ME! ME! WHO GIVES YOU the motivation YOU NEED TO fuck AT ALL."；还闪过 Ami 的几行全大写台词（"I MISS MY MOM"／"YOU ARE ALL I HAVE"）。到楼上后，Yuki 那句 bonus 台词被 Tsuneyo 撞破；她手里握着刀却说不出为什么拿着——"I do not remember picking it up."，只把身份重复一遍："I am simply trying to do my best as the current manager of Tojo Ramen, where hearts are 50% off on the third Sunday of every month."。Yuki 两次提出帮忙改电路，都被她挡回："I have the situation under control. Please return to the restaurant."
 
 ### 2.3 slumber 系列：走出店铺的第一步
-- `tsuneyoslumber1` / `tsuneyoslumber2` / `tsuneyoslumber3`：三人（含 Noriko）的夜间出游系列。slumber2 的章鱼烧摊上，她第一次玩起角色扮演——"Come, H...Husband. We will now begin the second phase of our food tour."——结巴的 "Husband" 称呼是 love 线最大的情感泄露。
-- 同段她袒露店铺对自己的意义："Tojo Ramen is my home. My entire life had taken place there until recently. Abandoning it in pursuit of something newer would feel like abandoning a piece of myself."；以及久违的快乐："It was the most fun I've had in a long while. And all I needed to do to feel this way was shirk my one and only responsibility."
+
+- `tsuneyoslumber1`：桥上的一天。Sensei 没有她的号码，先打给 Molly（Molly 顺口叫他"the father of Noodles the Unholy"）；号码发来后仍打不通，他于是判断"She's either at the archery range or Tojo Ramen."，最后在桥上找到她。她承认从早起就觉得不对劲（"Since the moment I woke up, I've felt like something is wrong."），却说不出怕的是什么——"Perhaps fear itself?"。Sensei 说明来意是请她参加睡衣派对，她的第一反应是"Does it involve time travel?"（理由是 Emerald Guardian 说过这是这个阶段典型的剧情推进手段）。这一段的情感推进是一次关于"约会"的拉锯：她先说不想回店里，再一本正经地推论"你是我唯一经常接触的男人，所以我将来生的孩子很可能是你的"，最后给出那句："Upon careful introspection, I continue to see little downside in regard to something as simple as a date."
+- `tsuneyoslumber2`：游乐园。约会地点由她选，理由是"an amusement park would carry the lowest probability of us touching one another"；她怕游乐设施，却硬要 Sensei 陪。章鱼烧摊前她没带钱包，张口对摊主说"My husband will pay for me."，被吼之后由 Sensei 付钱；随后便是那句著名的台词："Come, H...Husband. We will now begin the second phase of our food tour."。这一天她不断岔开话题，Sensei 始终没能说出真正的来意。真正的重心在烤鸡肉串摊前：她问要不要给店里加展示橱窗，谈着谈着变成"要不要把店搬走"，她的回答是——"Tojo Ramen is my home. My entire life had taken place there until recently. Abandoning it in pursuit of something newer would feel like abandoning a piece of myself."，并补上"Not to mention the toll it would take on my father."。她也第一次说出对父亲去世的恐惧："I have come to accept that, yes. But it does not mean I am comfortable with it."
+- `tsuneyoslumber3`：摩天轮。她怕高——"I'm not ready to become a tree."，被 Sensei"车厢会脱轨"的谎话吓到，扬言"I am filing for divorce the moment I step outside of this box."。玩笑之后是两条关键信息：其一，她说自己一整天都在逃避，是因为不想让"这一天远离一切的幻觉"被提前打破——"I kept changing the subject not because of some predetermined outline or divine intervention, but because I did not want the illusion of this day away from everything to be prematurely dispelled."；其二，她终于听到并接受了"世界在循环"的说法，而且觉得它莫名地不陌生——"I can't help but feel like it's not my first time hearing it."。她只问了一件事："If for some reason, my consciousness resets... Will you take me here again?"，得到承诺后她说"this day exists to no one but us."。而她对这一天的评价是那句自白："It was the most fun I've had in a long while. And all I needed to do to feel this way was shirk my one and only responsibility of maintaining Tojo Ramen."
 
 ### 2.4 spring 系列：世界向她打开
-- `tsuneyospring1`：Narrator 写下离巢隐喻——"She didn't have one until the time came for her to leave the nest. And she was shocked to see just how much world there was outside of Tojo Ramen."
-- `tsuneyospring2`：她注意到保守秘密的社交形态——"Most of the customers at Tojo Ramen do not hold back their thoughts when conversing with me, so I am not used to dealing with those who would rather keep things confidential."
-- `tsuneyospring3`：Noriko 与 Ayane 夜访拉面店，跑团之夜授予她 "Memory Girl" 名号（-"Nothing from the past can escape the mind of Memory Girl."）。
-- `halloweentsuneyo1`：万圣节特别篇。开场即元叙事宣告——"Far beyond the infinity house, something was happening. The cats had come out to play. It was time for ELATION PROTOCOL."。Tsuneyo 以战斗姿态登场："I am a warrior of the culinary arts. I am Tsuneyo Tojo — future sole proprietor of Tojo Ramen."。Seiko 式旁白则冷酷预言她的命运："the girl who will one day hang herself with his mantle!"
-- `tsuneyospring4`：店铺神学的完整陈述——倾听者的枷锁、"we serve only the most mid-tier ingredients. Anything higher taints the authenticity of ramen."、"house of secrets"。
-- `tsuneyospring5`：她也有冷面怪谈的一面——"Or perhaps they will capture you and dissect you and bring the remains to Tojo Ramen to be turned into soup."
-- `tsuneyospring6`：记忆出现空洞——"I recall stepping away from Tojo Ramen and walking with you. Then stopping near a spot that overlooks the town."，以及 rinspring4 澡堂夜健美登场的余波："Customers are not allowed on the top floor of Tojo Ramen. How unfair that you have found a loophole to store policy by being present while I was undergoing demonic possession."
-- `beachsixtsuneyo1` / `beachsixtsuneyo2`：海滩事件组。第二段以整段押韵诗体展开幻想拉面店的哲学对话：门与门框、虚构能否改变人、记忆与遗忘的辩证——这是全线的诗性顶点，也是 "Memory Girl" 身份的诗化注脚。
+
+- `tsuneyospring1`：Yumi 来吃饭。开场是一段自我拆台的旁白（"旧城区的心脏"不对、"肝脏"也不对），随后改用第三人称写她：她喜欢鸟、会学鸟叫、用手机 App 记鸟鸣——"She didn't have one until the time came for her to leave the nest. And she was shocked to see just how much world there was outside of Tojo Ramen."（"one"指智能手机）。她把店铺和自己定义为情绪银行："I am the ramen girl — your personal bank for emotions and concern. And all that you spill will be cleaned and left on rags that I throw into a large, grey bucket at the end of the night."。她也在这里说出倾听者的另一面："Most of the customers at Tojo Ramen do not hold back their thoughts when conversing with me, so I am not used to dealing with those who would rather keep things confidential."。她向 Yumi 交代了自己的身世——"This building is my home. I was raised by the owner, my father, who is now confined to bed upstairs. He taught me how to swing a sword and strangle game-fowl."，并补一句"He is all but a machine now."。label 的最后一句是一记闷棍，她问 Yumi："Does the date December 28th, 2020 mean anything to you?"
+- `tsuneyospring2`：Emerald Guardian 与"预知梦"。她把 Molly（她口中的 Emerald Guardian）带到游乐园，理由是"there's some reason I needed to come here"，而她从没来过——"I've only seen this place in dreams."。Molly 先判定那是"另一条时间线的记忆"，两人又一起推翻，改成"我在预知未来"，于是她自称 soothsayer。Sensei 被叫来后当场戳破："This is a memory. We've done this before."；她认出摩天轮、认出"husband"，随即头痛发作跪地，最后要求："Tomorrow... Bring them to Tojo Ramen... To me..."。这一段也划清了她与 Molly 的边界：Molly 以为是"前世恋人"，她的回答是"You are a friend. And you are a very good friend, but that is all."，并直言"Emerald Guardian, I am a heterosexual woman."
+- `tsuneyospring3`：Memory Girl 的命名之夜，也是本线最严重的异常事件。Makoto 缺席，Ayane 转述："She...decided not to come."。三人围坐店内，Tsuneyo 先为前一晚的失态道歉、并提议切断小指谢罪，被 Ayane 制止。Ayane 讲完"无限重复的学年"之后，她的反应不是震惊而是"我早就知道"——"I am Memory Girl. I have memories of everything. I remember that sleepover well. I was just unaware that it was actually a memory until I learned that these 'visions' were not simply visions at all."。她说自己记得睡衣派对上谁在场（"Yamo."，即 Yumi），却不记得那晚是怎么结束的。Sensei 提起 Yumi 说过 Tsuneyo 曾向她问过一堆关于日期与睡衣派对的怪问题，她否认。随后灯光炸裂、停电、她消失；两人在店外找到她——她赤身裸体、瞳孔消失，反复背诵一段经文（"Kill the apostates. Seize them and kill them wherever you find them."），并说出两句指向明确的话："There are clues in a house near a lake. It started before you were born." 与 "Infinite...spring... Infinite...world..."。Sensei 的结论是："This has never happened before."。事件结束在斜体旁白那句："Seriously, though. Let's not go to the old district anymore. Just let Memory Girl's brain get wiped again."
+- `halloweentsuneyo1`：万圣节篇，介于梦与附体之间。开场她在切胡萝卜（"Thank you, Master Geoffrey."），旁白随即切进元叙事层："Far beyond the infinity house, something was happening. The cats had come out to play. It was time for ELATION PROTOCOL."；她的自我宣告是："I am a warrior of the culinary arts. I am Tsuneyo Tojo — future sole proprietor of Tojo Ramen."。画面碎裂后，署名 `q` 的声音念出一段押韵咒骂——"NO MATTER HOW YOU CUT IT AND NO MATTER HOW IT BLEEDS, YOU WILL ALWAYS BE THE NOODLE GIRL."／"BECAUSE THAT'S WHAT WE AGREED."。随后登场的是 Sekai，她自报家门："My name is Sekai. I believe you know my daughter, Ami!"，并称自己已经死了（"I'm dead."）。Sekai 把她困进"golden noodle trap"，逼她面对自己的欲望，并宣称这个世界是她自己造的："I know because you're the one who created this world."。她全程请求停止（"I beg you...please stop this...I can't handle it..."）。结尾 Sekai 以宣告者口吻点出她的结局："Tsuneyo Tojo — daughter of Tojo Ramen's sole proprietor and the girl who will one day hang herself with his mantle!"。事件结束时她只留下一句"I should probably find a bandage..."；画面切到与 Sensei 同床的 Molly，她说："It should have been me."。本段记 `tsuneyo_lust += 1`。
+- `tsuneyospring4`：番茄医生与两位客人。她对一个会说话的番茄（Tom Mato, M.D.）倾诉幻觉，并重申倾听者的单向枷锁。Kaori 与 Nao 进门，她的招待辞是："Here at Tojo Ramen, we serve only the most mid-tier ingredients. Anything higher taints the authenticity of ramen."；她再次把店定义为"house of secrets"——"Tojo Ramen is not just a house of soup, it is a house of secrets. And everything you say within these walls shall stay here forever."。Kaori 说出自己的第一次（对象是人、是男人），她罕见地接上自白："I, too, recently had my first sexual experience."，并讲出她此后反复挣扎的那个问题："I knew not of attraction... But now that I do know, I am terrified. How can just wanting something feel so powerful?"。结尾 Nao 指着她身后喊出一个名字——"Tenchou-sama!"，画面连闪，署名 `tenc` 的声音吼出"GET IT OUT"，她只吐出两个字："Dad?..."
+- `tsuneyospring5`：父亲"回来"了。她被父亲"given a night off"，站在店外等了五个小时，因为父亲不想见"那个把我操了很多次的男人"（"my father does not wish to meet the man who has fucked me so many times"）。两人绕旧城区散步，她讲这里的致幻花——"There is a hallucinogenic flower here that blooms only when the weather rapidly switches between cold and hot. They grind them up and use them to brush their teeth."，并给出那句黑色玩笑："Or perhaps they will capture you and dissect you and bring the remains to Tojo Ramen to be turned into soup."。中途她有两行倒放式台词（源文为反向英文，内容是担心自己不符合日本男性理想中的"大和抚子"形象）。她向 Sensei 讲出万圣节那晚的"梦"——"I recently had my first physically intimate experience with the ghost of Ami's mother."，并追问"你射在她里面几百次了吧？她作为一个人是什么样的？"。Sensei 回应说自己也能看见 Sekai、那也许不是梦；此处有一个二选一菜单（"Pry"／"Leave her alone"），两条分支画面相同：她突然吻上去，随即被某种东西接管——先是"No! Stop! Get off of me!"，再是一句全大写："TAKE ME HOME AND FUCK THE ABSTINENCE OUT OF ME, BRO! I WANT MY FATHER TO WATCH!"。之后她倒地、头痛、失神，最后留下的是："Something... Is... Coming..."
+- `tsuneyospring6`：白房间与 WORMGOD54。Sensei 把她抱回店里，店内空无一人——"Wasn't...her father supposed to be working?"。楼上是与楼下油污截然相反的"最无菌的环境"，除了一扇不锈钢门什么都没有。旁白交代了门的守卫：WORMGOD54，自称"the Unending Root Canal"，不是真神、但由一位神创造，职责是守住那扇门，会伪装成"一盏灯、一盘水果、或一个正在种树的男人"；旁白同时点出"his sister"——她不知道他的存在，他也不能让她知道。她醒来后完全变了个人，反复自报"Samurai of Flavor and the Kendo Princess of the Golden Desert"，并反复求欢；Sensei 拒绝的理由是："I was kind of hoping Tsuneyo would be Tsuneyo when I take her virginity, though."。Nao 中途出现（被称作"a bug"），随后画面连闪、`totaldays` 一次性加 100，事件结束在 Sensei 那句"Just another boring day in Kumon-mi."。收尾旁白只有三行："I called Tsuneyo on the way home. She remembers kissing me. Everything after that is a blur."
+- `beachsixtsuneyo1`：对账。在海滨旅馆的走廊，她直白地问"如果你真这么迷恋我，为什么我们还没做过"，并要求用谈话"唤起"上次那种被接管的感觉。她能回忆起的只有断点之前的部分："I recall stepping away from Tojo Ramen and walking with you. Then stopping near a spot that overlooks the town. I remember telling you about the dream. And then you being surprised. And then I believe my head started to hurt, but... The memories appear to cut off there."。Sensei 说出自己看到的：一片全白的楼层、一扇被封住的门、以及脱光衣服求欢的她。她否认，拿出手机里自家照片作证——客厅、她的房间、父亲在她隔壁；她的反击是："Customers are not allowed on the top floor of Tojo Ramen. How unfair that you have found a loophole to store policy by being present while I was undergoing demonic possession."。但 Nao 通过 Kaori 给出的描述站在她这边：那是一间"traditional style 2LDK"、有淡淡的猪骨汤味、很久没擦过灰的屋子，完全没有白房间；Kaori 还转述 Nao 记得 Amber。三条证词互相矛盾，Sensei 只能怀疑是自己的感知出了错。
+- `beachsixtsuneyo2`：海边拉面店，全场押韵。四人去了一家上周新开的海边拉面店，从进门起所有台词都变成诗体（"Noodle store?"／"We call them ramen-ya in this country on this world."）。争论的起点是 Sensei 说"我来过这里两次，每次都怪，像这家店根本不存在"，随后演变成一场关于虚构与真实的对辩：Kaori 说"If our feelings are scripted, they're still felt, not denied!" 与 "A thought's still a thought if it isn't your own! Like a house is a house if it isn't a home!"；她的反题是"What's real is the truth, what's fake is what's not. And if fiction can change you, you're weak and you'll rot."；Sensei 则把门写成没有门的门——"Or a gate, if you will. Where there's no door at all. So the door leads to nowhere and further we fall."。她也在这里甩出一句预告："You might have to return that body you've borrowed."。走出店门，押韵戛然而止，她嗅到 Sensei 身上"home"的气味，问："Did we have sex again? Am I going to purge every instance of this from my mind?"——得到的答案是没有。
 
 ### 2.5 tsuneyospring7：对玩家的拷问
-- Molly 用自家 eroge 藏书给她做"性教育"（Shuffle、Cross Channel、Dohna Dohna、Nekopara 等），而 Tsuneyo 借虚构角色之口连环发问：**"Do you regret anything?"**、**"Could you fall in love with him if it meant extending your time here?"**、**"Would you be like Him?"**——三问分别刺向 Sensei 的悔意、循环内恋爱的意义、以及玩家/神明的道德位置。这是学生线中最直白的元叙事质询。
+
+Sensei 敲她的门，被屋内的 Molly 用一整套奇幻腔调赶走（"Begone, creature of the night!"）。随后是 Molly 与她两人的"性教育"之夜：Molly 依次翻出 Shuffle（她评价"Generic slop. Next."）、某部"不算真续作"的续作、Cross Channel（Molly 概括为"一群学生被扔进时间循环、记忆被周期性重置"）、Dohna Dohna（她看了一眼就说"I would look breedable in all of those outfits."）、Nekopara（她评价"点一个按钮就有阴茎进去了，这剧本真烂"，却宣布"我有责任解放 Coconut"）。Molly 留下两条论断："just because you're consuming content like this doesn't mean it's indicative of who you are as a person."，以及"sexual personalities and regular personalities don't always overlap"。
+
+真正重的是后半段的三次追问，全部由她向 Molly 发出：
+
+1. **"Do you regret anything?"**——她注意到 Molly 对这段关系的态度与班上其他人不同：别人谈爱与嫉妒，Molly 却愿意让她插队。
+2. **"Could you fall in love with him if it meant extending your time here?"**——她把世界设想成游戏，问 Molly 会不会为了"继续玩下去"而改变自己："Could you change yourself if you had to? To survive."
+3. 一整串无人回答的排比——"Or would you die? Alone in a quiet room. Surrounded by wires and styrofoam cups, decorated with rehydrated produce and brown-tinted oil. Would you be like Him? Are you like Him? Is that why we are here together? Is that why we suffer?"
+
+这串质问的前情是两人刚谈完"路线"：Molly 承认像她这样的角色在视觉小说里"we might get endings, but that's it"，读者真正想要的是 Ami 那一型；她随即把问题推回二人自身——"Are we just side characters who'd make no appearance in these 'true routes' I've heard you mention in the past?"。这是本线把恋爱层问题上升为玩家层问题的最直白文本。
 
 ## 三、lust 线概貌
 
-本线的 lust 内容高度集中：此前所有 [TRIMMED...] 段几乎不存在，欲望被压缩到 tsuneyospring8 一场戏中引爆——这种结构本身就是人物塑造：压抑二十数年后的一次性释放，且以"人格替换"的形式完成。
+本线的 lust 不是"压抑到某一点突然释放"的单点结构，而是三步递进，且前两步都发生在她意识不清的状态下：
+
+1. `halloweentsuneyo1`：由 Sekai 主导，她全程被动、全程请求停止，事件以 `tsuneyo_lust += 1` 记档。
+2. `tsuneyospring5`／`tsuneyospring6`：她主动亲吻 Sensei 之后被接管，喊出"TAKE ME HOME AND FUCK THE ABSTINENCE OUT OF ME, BRO! I WANT MY FATHER TO WATCH!"；`tsuneyospring6` 里接管状态自称"Kendo Princess of the Golden Desert"并反复求欢，被 Sensei 以"想等 Tsuneyo 本人清醒时再拿走她的第一次"为由拒绝。
+3. `tsuneyospring8`：她清醒、有预谋、主动上门的一次。
 
 ### 3.1 tsuneyospring8：手铐之夜
-- 开场即宣言式自白："I have done a great deal of research over the last week teaching myself the ins and outs of sex... and understand now that I am actually just another dirty, cock-loving girl like everyone else."
-- 她援引神秘出处为变轨辩护："The Emerald Guardian says that people's sexual personalities often differ from their regular ones. And I already told you — I'm another dirty, cock-loving girl now."——"Emerald Guardian" 这一来源成谜。
-- 场景中她主动用手铐束缚 Sensei，并在高潮中以角色扮演称呼对方——"was this in any of your fantasies of me, Husband?"——slumber 系列的 "Husband" 游戏在此被彻底性化。
-- 事后她将钥匙留在 Sensei 身上径自离去，把控制关系倒转；Ami 与 Niki 随后登场清算，Ami 的开场白点题："A nice, big plate of karma and it's not even noon yet! I had no idea Tojo Ramen even delivered!"
+
+- 她在上课时间按响 Sensei 家的门铃，理由是她听说"班上的女生想要性的时候都来这里"——"Like a watering hole, but for bitches."。手铐来自 Emerald Guardian，也就是 Molly。
+- 她铐住的是 Sensei，理由是"只有这样才能确保控制权在我手里"——"this is the only way I can be absolutely certain that I will remain in control."。她对动机的自陈是：万圣节那晚确实把她推到了这一步，但说她没用浪漫和性的方式想过他，那是撒谎——"I have done a great deal of research over the last week teaching myself the ins and outs of sex, pun intended, and understand now that I am actually just another dirty, cock-loving girl like everyone else."
+- 她援引 Molly 的话解释自己的"变轨"："The Emerald Guardian says that people's sexual personalities often differ from their regular ones. And I already told you — I'm another dirty, cock-loving girl now."
+- 全程由她控场：只用双手与嘴，刻意保留内衣——"Today is just the appetizer. I need to save something good for next time."；她把 slumber 系列那个称呼彻底性化——"was this in any of your fantasies of me, Husband?"；目的也被她自己说穿——"I want to wave everything you could have in front of your face so that you'll keep thinking about me even after I leave."
+- 结束后她穿好衣服就走，拒绝解铐——"Why? That's so much less funny, though."／"I'm the funny one. Remember? That's my job."
+- 收尾是二选一：`amispring4` 已完成时进门的是 Ami——"A nice, big plate of karma and it's not even noon yet! I had no idea Tojo Ramen even delivered!"，她拒绝替他解铐，条件从"把 Niki 赶出家门"一路退到"现在就和我做"，并宣布 Sensei 得留在椅子上；否则进门的是 Niki，而钥匙已被 Tsuneyo 带走——"How? I don't have the key."，Niki 只好说要去叫锁匠，然后自己先去洗澡。两个结尾里，Sensei 都被留在椅子上。
 
 ## 四、与主线/元叙事咬合点
 
-1. **跨迭代记忆载体**："Memory Girl" 的命名与 Narrator 的"wiped again"共同指向：Tsuneyo 可能是少数携带前次迭代记忆的存在。她的"记忆空洞"与"恶魔附身"夜则是记忆机制故障的症状级描写。
-2. **ELATION PROTOCOL**：万圣节篇开头"cats had come out to play"属于游戏最高层的元叙事事件序列，Tsuneyo 篇被选为其舞台之一。
-3. **命运预告**：Seiko 式旁白直言她将"hang herself with his mantle"——与她在 的死亡宣言互为镜像，构成明确的死亡Flag网络。
-4. **对玩家的三问**：直接把恋爱表层的问题上升为玩家层的伦理问题，尤其"Would you be like Him?"把 Sensei 与某种更高存在并置。
-5. **诗体对话段**：门/门框意象与"虚构改变人"的主题，是理解本作叙事哲学（角色自知虚构却仍被改变）的核心文本之一。
-6. **封闭城镇的旧城区视角**：Tojo Ramen 作为旧城区仅存的业态，其存亡本身就是 Kumon-mi 时间停滞主题的具象化（对比 Haruka 线对物资来源的疑问）。
+1. **Memory Girl 与"被擦除"**：`tsuneyospring3` 的命名、她对新信息"莫名地不陌生"的反应、以及斜体旁白那句"Just let Memory Girl's brain get wiped again."，共同把她钉在"记忆会泄漏的人"这个位置上；`beachsixtsuneyo1` 里她对 `tsuneyospring5` 那一夜的回忆有明确断点，是同一机制的当事人视角版本。
+2. **ELATION PROTOCOL**：`halloweentsuneyo1` 开场那句"Far beyond the infinity house... The cats had come out to play. It was time for ELATION PROTOCOL."，把她这条线挂进了游戏的元叙事事件序列。
+3. **死亡预告**：Sekai 在 `halloweentsuneyo1` 里称她是"the girl who will one day hang herself with his mantle"；她自己在 `ramen20` 里说"I will die here the same way my father will."。一句来自外部宣告、一句出自本人之口，构成一组互相照应的预示。
+4. **对玩家的三问**：`tsuneyospring7` 末尾的三串问句（悔意／为延长时间而改爱／"Would you be like Him?"），语境是"角色有没有自己的路线与结局"，因此被质问的并不只是 Sensei。
+5. **诗体对话段**：`beachsixtsuneyo2` 全场的押韵对辩，主题是"虚构能否改变人"与"没有门的门"；它与 `tsuneyospring1` 里自我拆台的旁白、`restoframen30` 里的楼梯独白，同属本作直接对读者说话的几段文本。
+6. **旧城区视角**：`ramen1` 给出的人口结构（先是老人、其次是穷人）、`ramen25` 里街头的注视、`tsuneyospring5` 里的致幻花与"他们会把你解剖了送进 Tojo Ramen 熬汤"的玩笑，共同把这个城区描述成一个正在被抽空、并被 Kumon-mi 另一半抛下的地方。
 
 ## 五、未解伏笔
 
-1. **父亲的死与店铺的命运**： 的共生死亡宣言何时兑现？店是随父亡而关，还是如 假想般被迫转营？
-2. **Memory Girl 的真相**：她究竟记得哪些迭代？ 的记忆缺口是被抹除还是被替换？Narrator 的"brain wiped again"暗示这不是第一次。
-3. **"Would you be like Him?"**中的"Him"所指——Sensei？开发者？还是更高层的玩家？文本拒绝回答。
-4. **Emerald Guardian**：Tsuneyo 性知识与其"人格切换"解释体系的来源完全不明，是本线最大悬案。
-5. **ELATION PROTOCOL 的内容与目的**：猫、无限宅邸（infinity house）等意象均无下文。
-6. **附身之夜**：澡堂夜的"demonic possession"究竟是字面意义还是元叙事演出，未获确认。
-7. **手铐的后续**：钥匙留在 Sensei 身上离开（tsuneyospring8 结尾）后，两人关系的实际走向与 Ami/Niki 清算的后果均悬置。
-8. **吊死预兆**：与 形成双重死亡Flag，但触发条件未知。
-> 按源行号检索本角色 label，见 `索引/Tsuneyo索引.md`。
+1. **父亲的死与店铺的命运**：`ramen20` 的共生死亡宣言与 `ramen25` 里"要不要搬店"的未决讨论都悬着；`tsuneyospring5` 里父亲突然能下楼看店，而 `tsuneyospring6` 的楼上却只剩一间白房间和一扇被封住的门，两条线索尚未对上。
+2. **Memory Girl 的真相**：她为什么"莫名地不陌生"、为什么记得睡衣派对、`tsuneyospring5` 那一夜之后为什么只记得吻；旁白那句"wiped again"暗示这不是第一次，但没有给出次数或机制。
+3. **"Would you be like Him?" 中的"Him"**：`tsuneyospring7` 里没有任何一行给出答案，问句之后 label 直接结束。
+4. **白房间与那扇门**：Sensei 看到的全白楼层、Tsuneyo 手机里的照片、Nao 转述的传统 2LDK，三种说法互相矛盾；WORMGOD54 被旁白称为"他的姐妹"的兄弟、由"父亲"创造，但他与 Tsuneyo 的父亲是否为同一存在，源文没有说明。
+5. **ELATION PROTOCOL**：猫、infinity house 只在 `halloweentsuneyo1` 出现，没有下文。
+6. **附身之夜的性质**：`tsuneyospring5`／`tsuneyospring6` 里接管她的存在自称"Kendo Princess of the Golden Desert"，与 `tsuneyospring3` 里背诵经文、瞳孔消失的状态是否同源，源文没有确认。
+7. **手铐的后续**：`tsuneyospring8` 的两个结尾都停在 Sensei 被铐在椅子上；钥匙在 Tsuneyo 手里，Ami 或 Niki 的条件都还没有兑现。
+8. **December 28th, 2020**：`tsuneyospring1` 最后一句问 Yumi 的问题，在 Tsuneyo 这条线内没有下文。
+
+> 全部 label 名与源文位置见 `索引/Tsuneyo索引.md`。
