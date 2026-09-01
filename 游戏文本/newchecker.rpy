@@ -76,6 +76,7 @@ init python:
         global imaninudecheck
         global mikunudecheck
         global mollynudecheck
+        global tsuneyonudecheck
         global otohanudecheck
         global sananudecheck
         global chinaminudecheck
@@ -272,6 +273,7 @@ init python:
         imaninudecheck = 0
         mikunudecheck = 0
         mollynudecheck = 0
+        tsuneyonudecheck = 0
         otohanudecheck = 0
         sananudecheck = 0
         mayanudecheck = 0
@@ -1136,6 +1138,16 @@ init python:
             chap4point += 1
         if postwarsix1 == True:
             chap4point += 1
+        if beachseven1 == True:
+            chap4point += 1
+        if beachseven2 == True:
+            chap4point += 1
+        if beachseven3 == True:
+            chap4point += 1
+        if beachseven4 == True:
+            chap4point += 1
+        if beachseven5 == True:
+            chap4point += 1
 
         #HAPPY (7 NON-MISSABLE/4 MISSABLE)
         if roomwithtrack == True:
@@ -1287,6 +1299,10 @@ init python:
         if chikachristmalloween1 == True:
             chikapoint += 1
         if chikachristmalloween2 == True:
+            chikapoint += 1
+        if beachsevenchika1 == True:
+            chikapoint += 1
+        if beachsevenchika2 == True:
             chikapoint += 1
 
         #YUMI (20 NON-MISSABLE)
@@ -1802,6 +1818,8 @@ init python:
             rinpoint += 1
         if rinspring9 == True:
             rinpoint += 1
+        if beachsevenrin1 == True:
+            rinpoint += 1
 
         #FUTABA (18 NON-MISSABLE/3 MISSABLE)
         if firsttimelibrary == True:
@@ -2008,6 +2026,8 @@ init python:
             amipoint += 1
         if amispring5miss == True:
             amimiss += 1
+        if beachsevenami1 == True:
+            amipoint += 1
 
         #MAYA (19 NON-MISSABLE/1 MISSABLE)
         if firsttimeshrine == True:
@@ -2324,6 +2344,8 @@ init python:
             iomiss += 1
         if iospring8 == True:
             iopoint += 1
+        if beachsevenio1 == True:
+            iopoint += 1
 
         #NODOKA (5 NON-MISSABLE)
         if nodokalibrary1 == True:
@@ -2475,6 +2497,8 @@ init python:
         if toukaspring7 == True:
             toukapoint += 1
         if toukaspring8 == True:
+            toukapoint += 1
+        if beachseventouka1 == True:
             toukapoint += 1
 
         #YASU (5 NON-MISSABLE)
@@ -2862,6 +2886,10 @@ init python:
             karinpoint += 1
         if karinspring7miss == True:
             karinmiss += 1
+        if beachsevenkarin1 == True:
+            karinpoint += 1
+        if beachsevenkarin1miss == True:
+            karinmiss += 1
 
         #KIRIN (13 NON-MISSABLE)
         if kirindate1 == True:
@@ -3094,6 +3122,10 @@ init python:
             wakanapoint += 1
         if wakanaspring8 == True:
             wakanapoint += 1
+        if beachsevenwakana1 == True:
+            wakanapoint += 1
+        if beachsevenwakana2 == True:
+            wakanapoint += 1
 
         #OSAKO (2 NON-MISSABLE)
         if osakodate1 == True:
@@ -3236,6 +3268,8 @@ init python:
             imanipoint += 1
         if imanispring4 == True:
             imanipoint += 1
+        if beachsevenimani1 == True:
+            imanipoint += 1
 
         #RIKA (3 NON-MISSABLE)
         if rikadate1 == True:
@@ -3308,6 +3342,13 @@ init python:
                 utanudecheck += 1
             else:
                 utanudecheck += 0
+
+        #TSUNEYO NUDES (1)
+        if beachsevenami1 == True:
+            if tsuneyonude1read == False:
+                tsuneyonudecheck += 1
+            else:
+                tsuneyonudecheck += 0
 
         #MAYA NUDES (1)
         if tsubasaspring6 == True:
@@ -3438,7 +3479,7 @@ init python:
             else:
                 makotonudecheck += 0
 
-        #NODOKA NUDES (1)
+        #NODOKA NUDES (3)
         if nodokalibrary1 == True:
             if nodokapic1read == False:
                 nodokanudecheck += 1
@@ -3446,6 +3487,11 @@ init python:
                 nodokanudecheck += 0
         if dormwartwo9 == True:
             if nodokawar2picread == False:
+                nodokanudecheck += 1
+            else:
+                nodokanudecheck += 0
+        if beachseven2 == True:
+            if nodokapic3read == False:
                 nodokanudecheck += 1
             else:
                 nodokanudecheck += 0

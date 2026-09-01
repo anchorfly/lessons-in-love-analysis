@@ -797,7 +797,7 @@ screen affection():
         vbox:
             if ami_love >= 0:
                 if resetsix4 == True:
-                    if chap1point + chap2point + chap3point + chap3miss + chap4point + chap4miss != 421:
+                    if chap1point + chap2point + chap3point + chap3miss + chap4point + chap4miss != 426:
                         text "Main Events Available!"  style "affgrid"
                     if happypoint + happymiss != 20:
                         text "Secret Events Available!"  style "affgrid"
@@ -830,10 +830,10 @@ screen affection():
                     text "{color=#ff4dd2}Ami Arakawa{/color}" style "affgrid"
                     text "{color=#ff4dd2}[ami_love]{/color}" style "affgrid"
                     text "{color=#ff4dd2}[ami_lust]{/color}" style "affgrid"
-                    if amitotal == 42:
-                        text "{color=#ff4dd2}[amitotal]/42 {b}✓{/b}{/color}" style "affgrid"
+                    if amitotal == 43:
+                        text "{color=#ff4dd2}[amitotal]/43 {b}✓{/b}{/color}" style "affgrid"
                     else:
-                        text "{color=#ff4dd2}[amitotal]/42{/color}" style "affgrid"
+                        text "{color=#ff4dd2}[amitotal]/43{/color}" style "affgrid"
 
                     text "{color=#00bab1}Ayane Amamiya{/color}" style "affgrid"
                     text "{color=#00bab1}[ayane_love]{/color}" style "affgrid"
@@ -846,10 +846,10 @@ screen affection():
                     text "{color=#AF7F00}Chika Chosokabe{/color}" style "affgrid"
                     text "{color=#AF7F00}[chika_love]{/color}" style "affgrid"
                     text "{color=#AF7F00}[chika_lust]{/color}" style "affgrid"
-                    if chikatotal == 38:
-                        text "{color=#AF7F00}[chikatotal]/38 {b}✓{/b}{/color}" style "affgrid"
+                    if chikatotal == 40:
+                        text "{color=#AF7F00}[chikatotal]/40 {b}✓{/b}{/color}" style "affgrid"
                     else:
-                        text "{color=#AF7F00}[chikatotal]/38{/color}" style "affgrid"
+                        text "{color=#AF7F00}[chikatotal]/40{/color}" style "affgrid"
 
                     text "{color=#FF9999}Chinami Chosokabe{/color}" style "affgrid"
                     text "{color=#FF9999}[chinami_love]{/color}" style "affgrid"
@@ -878,18 +878,18 @@ screen affection():
                     text "{color=#80C9DC}Imani Imai{/color}" style "affgrid"
                     text "{color=#80C9DC}[imani_love]{/color}" style "affgrid"
                     text "{color=#80C9DC}[imani_lust]{/color}" style "affgrid"
-                    if imanitotal == 13:
-                        text "{color=#80C9DC}[imanitotal]/13 {b}✓{/b}{/color}" style "affgrid"
+                    if imanitotal == 14:
+                        text "{color=#80C9DC}[imanitotal]/14 {b}✓{/b}{/color}" style "affgrid"
                     else:
-                        text "{color=#80C9DC}[imanitotal]/13{/color}" style "affgrid"
+                        text "{color=#80C9DC}[imanitotal]/14{/color}" style "affgrid"
 
                     text "{color=#BBE3A1}Io Ichimonji{/color}" style "affgrid"
                     text "{color=#BBE3A1}[io_love]{/color}" style "affgrid"
                     text "{color=#BBE3A1}N/A{/color}" style "affgrid"
-                    if iototal == 26:
-                        text "{color=#BBE3A1}[iototal]/26 {b}✓{/b}{/color}" style "affgrid"
+                    if iototal == 27:
+                        text "{color=#BBE3A1}[iototal]/27 {b}✓{/b}{/color}" style "affgrid"
                     else:
-                        text "{color=#BBE3A1}[iototal]/26{/color}" style "affgrid"
+                        text "{color=#BBE3A1}[iototal]/27{/color}" style "affgrid"
 
                     text "{color=#4B4B4B}Kaori Kadowaki{/color}" style "affgrid"
                     text "{color=#4B4B4B}[kaori_love]{/color}" style "affgrid"
@@ -902,10 +902,10 @@ screen affection():
                     text "{color=#AC9D77}Karin Kanda{/color}" style "affgrid"
                     text "{color=#AC9D77}[karin_love]{/color}" style "affgrid"
                     text "{color=#AC9D77}N/A{/color}" style "affgrid"
-                    if karintotal == 16:
-                        text "{color=#AC9D77}[karintotal]/16 {b}✓{/b}{/color}" style "affgrid"
+                    if karintotal == 17:
+                        text "{color=#AC9D77}[karintotal]/17 {b}✓{/b}{/color}" style "affgrid"
                     else:
-                        text "{color=#AC9D77}[karintotal]/16{/color}" style "affgrid"
+                        text "{color=#AC9D77}[karintotal]/17{/color}" style "affgrid"
 
                     text "{color=#9C8080}Kirin Kanda{/color}" style "affgrid"
                     text "{color=#9C8080}[kirin_love]{/color}" style "affgrid"
@@ -1013,11 +1013,11 @@ screen affection():
 
                     text "{color=#a30041}Rin Rokuhara{/color}" style "affgrid"
                     text "{color=#a30041}[rin_love]{/color}" style "affgrid"
-                    text "{color=#a30041}N/A{/color}" style "affgrid"
-                    if rintotal == 37:
-                        text "{color=#a30041}[rintotal]/37 {b}✓{/b}{/color}" style "affgrid"
+                    text "{color=#a30041}[rin_lust]{/color}" style "affgrid"
+                    if rintotal == 38:
+                        text "{color=#a30041}[rintotal]/38 {b}✓{/b}{/color}" style "affgrid"
                     else:
-                        text "{color=#a30041}[rintotal]/37{/color}" style "affgrid"
+                        text "{color=#a30041}[rintotal]/38{/color}" style "affgrid"
 
                     text "{color=#005730}Sana Sakakibara{/color}" style "affgrid"
                     text "{color=#005730}[sana_love]{/color}" style "affgrid"
@@ -1038,10 +1038,10 @@ screen affection():
                     text "{color=#F0E68C}Touka Tsukioka{/color}" style "affgrid"
                     text "{color=#F0E68C}[touka_love]{/color}" style "affgrid"
                     text "{color=#F0E68C}[touka_lust]{/color}" style "affgrid"
-                    if toukatotal == 22:
-                        text "{color=#F0E68C}[toukatotal]/22 {b}✓{/b}{/color}" style "affgrid"
+                    if toukatotal == 23:
+                        text "{color=#F0E68C}[toukatotal]/23 {b}✓{/b}{/color}" style "affgrid"
                     else:
-                        text "{color=#F0E68C}[toukatotal]/22{/color}" style "affgrid"
+                        text "{color=#F0E68C}[toukatotal]/23{/color}" style "affgrid"
 
                     text "{color=#eae6aa}Tsubasa Tsukioka{/color}" style "affgrid"
                     text "{color=#eae6aa}[tsubasa_love]{/color}" style "affgrid"
@@ -1077,11 +1077,11 @@ screen affection():
 
                     text "{color=#540087}Wakana Watabe{/color}" style "affgrid"
                     text "{color=#540087}[wakana_love]{/color}" style "affgrid"
-                    text "{color=#540087}N/A{/color}" style "affgrid"
-                    if wakanatotal == 15:
-                        text "{color=#540087}[wakanatotal]/15 {b}✓{/b}{/color}" style "affgrid"
+                    text "{color=#540087}[wakana_lust]{/color}" style "affgrid"
+                    if wakanatotal == 17:
+                        text "{color=#540087}[wakanatotal]/17 {b}✓{/b}{/color}" style "affgrid"
                     else:
-                        text "{color=#540087}[wakanatotal]/15{/color}" style "affgrid"
+                        text "{color=#540087}[wakanatotal]/17{/color}" style "affgrid"
 
                     text "{color=#74d9e9}Yasu Yasui{/color}" style "affgrid"
                     text "{color=#74d9e9}[yasu_love]{/color}" style "affgrid"
@@ -3459,9 +3459,9 @@ screen gamemenuami():
         text ("{color=#ff4dd2}Lust: [ami_lust]{/color}") style "profile"
         text ("{color=#ff4dd2}Headpats: [amipats]{/color}") style "profile"
         if amimiss < 1:
-            text ("{color=#ff4dd2}Events: [amipoint]/42{/color}") style "profile"
+            text ("{color=#ff4dd2}Events: [amipoint]/43{/color}") style "profile"
         else:
-            text ("{color=#ff4dd2}Events: [amipoint]/42{/color} {color=#FF0000}([amimiss] Missed){/color}") style "profile"
+            text ("{color=#ff4dd2}Events: [amipoint]/43{/color} {color=#FF0000}([amimiss] Missed){/color}") style "profile"
 
     imagebutton:
         idle "amievrep1.png"
@@ -3804,6 +3804,12 @@ screen amitracker():
                 text _("{color=EF1A1A}{s}INESCAPABLE WHITE NOISE{/s}{/color}")
             else:
                 text _("Victrola")
+            if beachsevenami1 == True:
+                textbutton _("Antarctic Treaty System {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenami1", locked=False)
+            else:
+                text _("Antarctic Treaty System")
             textbutton _("Back") action ShowMenu('gamemenuami')
 
 screen gamemenumaya():
@@ -4152,9 +4158,9 @@ screen gamemenuchika():
         text ("{color=#AF7F00}Lust: [chika_lust]{/color}") style "profile"
         text ("{color=#AF7F00}Headpats: [chikapats]{/color}") style "profile"
         if chikamiss < 1:
-            text ("{color=#AF7F00}Events: [chikapoint]/38{/color}") style "profile"
+            text ("{color=#AF7F00}Events: [chikapoint]/40{/color}") style "profile"
         else:
-            text ("{color=#AF7F00}Events: [chikapoint]/38{/color} {color=#FF0000}([chikamiss] Missed){/color}") style "profile"
+            text ("{color=#AF7F00}Events: [chikapoint]/40{/color} {color=#FF0000}([chikamiss] Missed){/color}") style "profile"
 
     imagebutton:
         idle "chikamorningrep1.png"
@@ -4455,6 +4461,18 @@ screen chikatracker():
                     action Replay("chikachristmalloween2", locked=False)
             else:
                 text _("See You in School")
+            if beachsevenchika1 == True:
+                textbutton _("Melancholera {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenchika1", locked=False)
+            else:
+                text _("Melancholera")
+            if beachsevenchika2 == True:
+                textbutton _("Storybook Romance {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenchika2", locked=False)
+            else:
+                text _("Storybook Romance")
             textbutton _("Back") action ShowMenu('gamemenuchika')
 
 screen gamemenuyumi():
@@ -6515,12 +6533,12 @@ screen gamemenurin():
         text ("{color=#a30041}Height: 5'4/163cm{/color}") style "profile"
         text ("{color=#a30041}Birthday: February 14th{/color}") style "profile"
         text ("\n{color=#a30041}Affection: [rin_love]{/color}") style "profile"
-        text ("{color=#a30041}Lust: N/A{/color}") style "profile"
+        text ("{color=#a30041}Lust: [rin_lust]{/color}") style "profile"
         text ("{color=#a30041}Headpats: 0{/color}") style "profile"
         if rinmiss < 1:
-            text ("{color=#a30041}Events: [rinpoint]/37{/color}") style "profile"
+            text ("{color=#a30041}Events: [rinpoint]/38{/color}") style "profile"
         else:
-            text ("{color=#a30041}Events: [rinpoint]/37{/color} {color=#FF0000}([rinmiss] Missed){/color}") style "profile"
+            text ("{color=#a30041}Events: [rinpoint]/38{/color} {color=#FF0000}([rinmiss] Missed){/color}") style "profile"
 
     imagebutton:
         idle "rinevrep1.png"
@@ -6812,6 +6830,12 @@ screen rintracker():
                     action Replay("rinspring9", locked=False)
             else:
                 text _("Transpacific Sadness Symposium VIII: AN ATOM (ME) AND ADAM (YOU)")
+            if beachsevenrin1 == True:
+                textbutton _("Little Waves {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenrin1", locked=False)
+            else:
+                text _("Little Waves")
             textbutton _("Back") action ShowMenu('gamemenurin')
 
 screen gamemenumolly():
@@ -7110,6 +7134,19 @@ screen gamemenutsuneyo():
             xalign 0.925 yalign 0.935
             focus_mask True
             action ShowMenu('tsuneyoreplays')
+
+    if tsuneyonudecheck >= 1:
+        imagebutton:
+            idle "phonenotif.png"
+            hover "phonehover.png"
+            xalign 0.925 yalign 0.500
+            action ShowMenu('tsuneyophone')
+    else:
+        imagebutton:
+            idle "phoneblank.png"
+            hover "phonehover.png"
+            xalign 0.925 yalign 0.500
+            action ShowMenu('tsuneyophone')
 
     textbutton _("{size=+20}Change Profile Outfit{/size}"):
         action Function(tsuneyo_next_outfit)
@@ -8411,9 +8448,9 @@ screen gamemenukarin():
         text ("{color=#AC9D77}Lust: N/A{/color}") style "profile"
         text ("{color=#AC9D77}Headpats: 0{/color}") style "profile"
         if karinmiss < 1:
-            text ("{color=#AC9D77}Events: [karinpoint]/16{/color}") style "profile"
+            text ("{color=#AC9D77}Events: [karinpoint]/17{/color}") style "profile"
         else:
-            text ("{color=#AC9D77}Events: [karinpoint]/16{/color} {color=#FF0000}([karinmiss] Missed){/color}") style "profile"
+            text ("{color=#AC9D77}Events: [karinpoint]/17{/color} {color=#FF0000}([karinmiss] Missed){/color}") style "profile"
 
     imagebutton:
         idle "karinevrep1.png"
@@ -8584,6 +8621,14 @@ screen karintracker():
                 text _("{color=EF1A1A}{s}Burnt Chocolate{/s}{/color}")
             else:
                 text _("Oatmeal Raisin")
+            if beachsevenkarin1 == True:
+                textbutton _("Same Time Tomorrow {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenkarin1", locked=False)
+            elif beachsevenkarin1miss == True:
+                text _("{color=EF1A1A}{s}Closed for the Season{/s}{/color}")
+            else:
+                text _("Same Time Tomorrow")
             textbutton _("Back") action ShowMenu('gamemenukarin')
 
 screen gamemenukaori():
@@ -8820,7 +8865,7 @@ screen gamemenuimani():
         text ("\n{color=#80C9DC}Affection: [imani_love]{/color}") style "profile"
         text ("{color=#80C9DC}Lust: [imani_lust]{/color}") style "profile"
         text ("{color=#80C9DC}Headpats: 0{/color}") style "profile"
-        text ("{color=#80C9DC}Events: [imanipoint]/13{/color}") style "profile"
+        text ("{color=#80C9DC}Events: [imanipoint]/14{/color}") style "profile"
 
     imagebutton:
         idle "imanievrep1.png"
@@ -8960,6 +9005,12 @@ screen imanitracker():
                     action Replay("imanispring4", locked=False)
             else:
                 text _("Lost in the Sauce (Pied Piper)")
+            if beachsevenimani1 == True:
+                textbutton _("ELATION PROTOCOL 99: HASSAN, HOSANNA (THE MIRROR OF AMIR) {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenimani1", locked=False)
+            else:
+                text _("ELATION PROTOCOL 99: HASSAN, HOSANNA (THE MIRROR OF AMIR)")
             textbutton _("Back") action ShowMenu('gamemenuimani')
 
 screen rikatracker():
@@ -9317,9 +9368,9 @@ screen gamemenuwakana():
         text ("{color=#540087}Height: 5'6/169cm{/color}") style "profile"
         text ("{color=#540087}Birthday: October 10th{/color}") style "profile"
         text ("\n{color=#540087}Affection: [wakana_love]{/color}") style "profile"
-        text ("{color=#540087}Lust: N/A{/color}") style "profile"
+        text ("{color=#540087}Lust: [wakana_lust]{/color}") style "profile"
         text ("{color=#540087}Headpats: 0{/color}") style "profile"
-        text ("{color=#540087}Events: [wakanapoint]/15{/color}") style "profile"
+        text ("{color=#540087}Events: [wakanapoint]/17{/color}") style "profile"
 
     imagebutton:
         idle "wakanaevrep1.png"
@@ -11748,6 +11799,36 @@ screen maintrackerch4():
                     action Replay("postwarsix1", locked=False)
             else:
                 text _("Vault of Glass")
+            if beachseven1 == True:
+                textbutton _("Make Me Into Gyoza {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachseven1", locked=False)
+            else:
+                text _("Make Me Into Gyoza")
+            if beachseven2 == True:
+                textbutton _("Male-Enhancement {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachseven2", locked=False)
+            else:
+                text _("Male-Enhancement")
+            if beachseven3 == True:
+                textbutton _("Shaken, Not Stirred {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachseven3", locked=False)
+            else:
+                text _("Shaken, Not Stirred")
+            if beachseven4 == True:
+                textbutton _("A Night of Just One Prize This Time {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachseven4intro", locked=False)
+            else:
+                text _("A Night of Just One Prize This Time")
+            if beachseven5 == True:
+                textbutton _("The End Complete {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachseven5", locked=False)
+            else:
+                text _("The End Complete")
             textbutton _("Back") action ShowMenu('eventtracker11')
 
 screen gamemenuyuki():
@@ -12021,6 +12102,18 @@ screen wakanatracker():
                     action Replay("wakanaspring8", locked=False)
             else:
                 text _("Dick Wizard")
+            if beachsevenwakana1 == True:
+                textbutton _("The Cask of Amontillado {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenwakana1", locked=False)
+            else:
+                text _("The Cask of Amontillado")
+            if beachsevenwakana2 == True:
+                textbutton _("Les Fleurs du Mal {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenwakana2", locked=False)
+            else:
+                text _("Les Fleurs du Mal")
             textbutton _("Back") action ShowMenu('gamemenuwakana')
 
 screen osakotracker():
@@ -12594,9 +12687,9 @@ screen gamemenuio():
         text ("{color=#BBE3A1}Lust: N/A{/color}") style "profile"
         text ("{color=#BBE3A1}Headpats: 0{/color}") style "profile"
         if iomiss < 1:
-            text ("{color=#BBE3A1}Events: [iopoint]/26{/color}") style "profile"
+            text ("{color=#BBE3A1}Events: [iopoint]/27{/color}") style "profile"
         else:
-            text ("{color=#BBE3A1}Events: [iopoint]/26{/color} {color=#FF0000}([iomiss] Missed){/color}") style "profile"
+            text ("{color=#BBE3A1}Events: [iopoint]/27{/color} {color=#FF0000}([iomiss] Missed){/color}") style "profile"
 
     imagebutton:
         idle "ioevrep1.png"
@@ -12806,6 +12899,12 @@ screen iotracker():
                     action Replay("iospring8", locked=False)
             else:
                 text _("The Hatchery")
+            if beachsevenio1 == True:
+                textbutton _("My Anchor & Me {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachsevenio1", locked=False)
+            else:
+                text _("My Anchor & Me")
             textbutton _("Back") action ShowMenu('gamemenuio')
 
 screen gamemenunoriko():
@@ -13785,7 +13884,7 @@ screen gamemenutouka():
         text ("\n{color=#F0E68C}Affection: [touka_love]{/color}") style "profile"
         text ("{color=#F0E68C}Lust: [touka_lust]{/color}") style "profile"
         text ("{color=#F0E68C}Headpats: 0{/color}") style "profile"
-        text ("{color=#F0E68C}Events: [toukapoint]/22{/color}") style "profile"
+        text ("{color=#F0E68C}Events: [toukapoint]/23{/color}") style "profile"
 
     imagebutton:
         idle "toukaevrep1.png"
@@ -13975,6 +14074,12 @@ screen toukatracker():
                     action Replay("toukaspring8", locked=False)
             else:
                 text _("One Step Closer")
+            if beachseventouka1 == True:
+                textbutton _("Hitohira {b}✓{/b}"):
+                    text_style "mybutton"
+                    action Replay("beachseventouka1", locked=False)
+            else:
+                text _("Hitohira")
             textbutton _("Back") action ShowMenu('gamemenutouka')
 
 screen gamemenuyasu():

@@ -11136,7 +11136,7 @@ label makotospring4:
     mak "..."
     maki "..."
     maki "Have you gone fucking insane?"
-    mak "Why aren’t repeating your last line of dialogue?"
+    mak "Why aren’t you repeating your last line of dialogue?"
 
     scene makotodildofight21
     with dissolve
@@ -11188,7 +11188,7 @@ label makotospring4:
 
     mak "So, how are we going to kill her?"
     s "{i}What? We’re not. That’s not why this is a big deal.{/i}"
-    mak "If we kill her, she’ll forget. Right? I mentioned blowjobs too. I said pretty much everything. And now I have to explain all of this my {i}psychiatrist{/i} next, so that’s just {i}great.{/i}"
+    mak "If we kill her, she’ll forget. Right? I mentioned blowjobs too. I said pretty much everything. And now I have to explain all of this to my {i}psychiatrist{/i} next, so that’s just {i}great.{/i}"
     s "{i}How did this even come up? Did she confront you again or-{/i}"
     mak "It doesn’t matter {i}how{/i} it came up! Just that it {i}did{/i} and my plan immediately backfired and now I look {i}crazy{/i} because who in their right mind would fucking believe that?!"
     s "{i}Miku’s there too, right? Have you tried doing the same with her?{/i}"
@@ -11404,7 +11404,7 @@ label makotospring5:
 
     mak "I know how it sounds, okay?! I didn’t believe it either until I had no choice {i}but{/i} to believe it. And now I have no idea how old I even {i}am{/i} because this has been going on for an indeterminate amount of time!"
     mak "Even then, though, I’ve been conscious of it long enough that I likely {i}would{/i} be in college by now if time {i}did{/i} progress! "
-    mak "Which means I {i}have{/i} mentally matured to the point where I’d legally be allowed to make decisions like this {i}without{/i} your paternal input. Which is great, because sex could be important to saving us all!"
+    mak "Which means I {i}have{/i} mentally matured to the point where I’d legally be allowed to make decisions like this {i}without{/i} your parental input. Which is great, because sex could be important to saving us all!"
     maki "From what?!"
     mak "I don’t really know! We haven’t figured that part out yet!"
 

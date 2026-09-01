@@ -27,4 +27,6 @@ label after_load:
         $ tsubasaspring5miss = True
         $ tsukasaspring6miss = True
     if undeservedfuture18 == True and armsbenttrack == False:
-        $ armsbentmiss = True 
+        $ armsbentmiss = True
+    if karinspring1 == True and karinlied == True:
+        $ karindate15 = True

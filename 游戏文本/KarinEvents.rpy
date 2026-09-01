@@ -6022,3 +6022,252 @@ label karinspring7:
     $ renpy.pause(10, hard=True)
 
     jump amispring5
+
+label beachsevenkarin1intro:
+    scene karinharucafe1
+    with dissolve2
+    play music "cafe.mp3"
+
+    h "Hey! Nice to see you again. What can I get you?"
+
+    if harukaspring6 == False:
+        "It was a normal day at Koi Cafe. But just a short while ago, Haruka was-"
+        "Actually, wait a second. You’re not supposed to be here."
+        "This event it is for people who FUCKED her! And you didn’t FUCK her at all!"
+        "Get out of here, you bastard! This cafe is for perverts only! And now you have to a miss {i}Karin{/i} event because of it which increases your chances of sleeping with {i}her{/i} as well!"
+
+        scene black
+        with dissolve
+        play sound "footsteps.mp3"
+
+        "Yeah, that’s right. Keep on walking. No fun for you today."
+        "Just go stand in that corner for several hours until Akira finally wakes up and the story can get sad again or something."
+        "{i}You stand in the corner for several hours. It sucks. Everyone has fun except for you. Also, you are thirsty and that just makes it suck more.{/i}"
+        "{i}Then the thing happens and you forget about how thirsty you were.{/i}"
+
+        $ beachsevenkarin1miss = True
+
+        jump beachsevenchika2
+
+    else:
+        jump beachsevenkarin1
+
+label beachsevenkarin1:
+    "It was a normal day at Koi Cafe. But just a few days or weeks ago or whatever, Haruka was getting the life-force fucked out of her at some bus stop by a dude who isn’t here right now."
+    "This will be relevant in a minute, I promise."
+
+    malec "Just a large coffee for me. Black. Because once you go black, you never go back. Haha. Joke."
+    h "Uhh...okay. One black coffee."
+    littlegirl "Sorry about him. Daddy’s been terrible at talking to pretty ladies ever since Mom was hit by a truck."
+
+    scene karinharucafe2
+    with dissolve
+
+    h "Oh no. That’s absolutely terrible. I have no idea how I’m supposed to pivot to asking you what you want to drink now."
+    littlegirl "I’ll also just have a large black coffee. Because once you go black, you never go back. Haha. Joke."
+    malec "Sorry about her. My daughter’s been terrible at talking to mature women ever since my wife was hit by a truck."
+
+    scene karinharucafe3
+    with dissolve
+
+    h "Okaaaaay. So two large black coffees. Next customer in line, please?"
+
+    scene karinharucafe4
+    with dissolve
+
+    h "Hey! Nice to-"
+
+    scene karinharucafe5
+    with dissolve
+
+    h "Oh. It’s you. {i}Again.{/i}"
+
+    scene karinharucafe6
+    with fade
+
+    ka "Hi! I’m not much of a coffee drinker, so I was wondering if you had any recommendations? And also if you’d like to talk to me about what happened now."
+    h "This is a place of business, not a psychiatrist’s office. Let alone {i}my{/i} psychiatrist’s office. So you can either order something or you can leave. We’re too busy today for this."
+    ka "Then, is there a time you go on break so I can come back around then?"
+    h "I don’t get a break today. My best barista is on vacation right now and we’re short-staffed as is."
+    ka "In that case, I’d like to apply for a job. And I’m ready for my interview right now!"
+    h "Hah...{i}please,{/i} just get out of line. I told you I’m fine and that I do not need your help with anything. At all. And I likely never will, so- "
+    ka "Fine. Then I’ll just have one of whatever you recommend. For here. So I can stare at you from the back of the room until you feel pressured enough by my approachable smile to...well, approach me."
+    cussy1 "I’ll have what she’s having. I want to spend some quality time with the cafe lady too. I’ve heard {i}stories{/i} about this place."
+    cussy2 "Dude, are you a part of the Koi Cafe Girls subreddit? The fan fiction over there has been {i}insane{/i} lately."
+    ka "Haruka, what are these people talking about?"
+    h "{i}Three{/i} black coffees. Now, {i}please{/i} get out of line and I’ll come over to tell you to leave {i}again{/i} once the line is gone."
+
+    scene karinharucafe7
+    with dissolve
+
+    ka "Can you actually add milk and sugar? I’m not very good with bitter things."
+
+    play sound "static.mp3"
+    scene karinharucafe8 with flash
+    stop sound
+
+    h "..."
+    ka "..."
+    ka "I see you have forgotten my coffee."
+    h "Karin."
+    ka "It’s okay. I can wait."
+    h "How many times are you going to do this?"
+    ka "As many as it takes until you let me help you."
+
+    scene karinharucafe9
+    with dissolve
+
+    h "I don’t {i}need{/i} help, okay?! This is all one big misunderstanding! "
+    ka "You were on the side of the road, collapsed against a bench while only partially dressed and covered in bodily fluids."
+    h "Yeah, and some people {i}like{/i} that! I just happen to be one of them! And if you involve yourself in this any more, we could {i}both{/i} get in serious trouble! "
+    h "This isn’t a thing we can talk about! I don’t {i}want{/i} to talk about it! And there’s no way in hell your parents would allow it, so-"
+    ka "Nobody ever {i}wants{/i} to talk about being assaulted. Which is why I don’t mind you taking your time when it comes to opening up. {i}I{/i} just want you to know I am always here for when you {i}do.{/i}"
+
+    scene karinharucafe10
+    with dissolve
+
+    h "Yes. I’m aware. {i}Literally{/i} always. And for the last time, I was not {i}assaulted.{/i} That was a conscious decision."
+    ka "Then I think we need to have a talk about some of the reckless conscious decisions you’ve been making."
+    h "Why do you even {i}care?{/i} For all you know, I could be the worst person in the entire world. You have no idea who I am outside of this place. You don’t even know who I am {i}in{/i} it."
+    ka "You are absolutely right. And since you barely have any idea who {i}I{/i} am as well, it would only be right for me to better introduce myself now."
+
+    scene karinharucafe11
+    with dissolve
+
+    h "Oh my god...I almost think it would be {i}better{/i} if some horny stranger found me at that bus stop instead of you."
+
+    play sound "static.mp3"
+    scene karinharucafe12 with flash
+    stop sound
+
+    ka "My name is Karin Kanda. I’m a sophomore at Kumon-mi High and the captain of the swim team. Which is more like just a swim {i}club,{/i} but I’m the captain nonetheless."
+    h "{i}Hah...{/i}"
+    ka "I have a cat named Pancake, I am gunning for a sports scholarship when the time comes for me to start applying to colleges, and I have a sister named Kirin, who I believe you already know."
+    h "That’s-"
+    ka "One more thing you may not know about me is that I take women’s safety very seriously. And that, I, too, have had at least one run-in that left me fearing for me life. "
+    ka "I was lucky enough to walk away from that encounter unscathed, but the same can’t be said for everyone. Which is why, if there is anything I can do to help you, I {i}want{/i} to. No, I {i}need{/i} to."
+    ka "We shouldn’t be living in fear, Haruka. And I know it’s hard to talk about these things but, if we {i}don’t,{/i} who’s going to stop the man who took advantage of you from taking advantage of someone else?"
+
+    scene karinharucafe13
+    with fade
+
+    h "So you’re really just not going to believe this was a consensual thing at all, huh? "
+    ka "You were crying."
+    h "And crying is a normal physical response to sex. "
+    ka "Now, I am not at all experienced when it comes to such a thing, but I feel like being left on the side of the road is not. "
+    h "It can be."
+    ka "But what if someone {i}found{/i} you? Aren’t you married? Because I’ve asked around about who you are and-"
+
+    scene karinharucafe14
+    with dissolve
+
+    h "{i}Why?!{/i} Stop! This is really weird, Karin! And I directly told you to leave me alone back then, so-"
+    ka "No, you said you don’t {i}deserve{/i} my help."
+
+    scene karinharucafe15
+    with dissolve
+
+    ka "And while I’m not sure what it is that made you think of yourself that way, I can’t bring myself to even acknowledge the possibility of it."
+    ka "What would your husband think if he saw you back there? Surely {i}he’d{/i} want to do something about it too, right?"
+    h "Probably not if he knew what I’ve been doing behind his back."
+    ka "Haruka-"
+    h "Those “stories” those guys at the counter were talking about, Karin? They’re about me. About how some customer caught me having sex here one night. With someone who {i}isn’t{/i} my husband."
+    h "Do you still want to help me now?"
+
+    scene karinharucafe16
+    with fade
+
+    ka "I...am sure you had your reasons."
+    h "I did! And the reason is that I just fucking {i}love{/i} sex. I love cocks. I love cocks inside of me. Anywhere. Any time. I am a cock {i}maniac.{/i} And my husband’s been gone for so long that he doesn’t even know."
+    ka "If you think that such vulgar language will make me back down from wanting to help you, it won’t. "
+    h "I don’t get what you want to help me {i}with,{/i} though! I never asked for any of this! And you have no idea what you’re even talking about! "
+    h "You just saw something you shouldn’t have one night and now it’s taken over your naive teenage mind. And it’s an...admirable, cause. {i}Sure.{/i} But you’re trying to help the wrong person here."
+    h "There are a million other people you’d be better off looking out for than me. I’m just some...morally inept, adulterous whore who’s probably {i}more{/i} likely to actually assault someone than {i}be{/i} assaulted."
+    ka "Why are you so against someone caring about you?"
+
+    scene karinharucafe17
+    with fade
+
+    h "Because you only get one shot at being a teenager and you’re wasting precious energy and motivation on something that is just going to burn you in the end."
+    h "If it was possible to {i}help{/i} me, don’t you think I’d have {i}gotten{/i} that help already? You really think I’d just sit around and wait for some teenager to find my half-naked, cum-covered body? "
+    ka "..."
+    h "I’m not a victim, Karin. I’m the exact opposite of that. "
+    h "You have no idea who you’re speaking to right now. And that’s exactly how things {i}should{/i} be. You’re better off that way."
+    ka "I refuse."
+
+    scene karinharucafe18
+    with dissolve
+
+    h "Yeah, of course you do."
+    ka "Even if what you say is true and you were {i}not{/i} some sort of victim that night, I can not allow myself to sit idly by and watch as you belittle yourself in such a way."
+
+    scene karinharucafe19
+    with dissolve
+
+    ka "You’re a human being, Haruka. Even the most deplorable people of {i}all{/i} shouldn’t be casting aside their self-worth as if it’s {i}nothing.{/i}"
+    ka "I don’t care that you love...{size=-15}sex.{/i} Or that you’re some sort of....C-word...maniac. You’re still a woman who deserves to be loved but, even more than that, someone who deserves to love {i}herself.{/i}"
+    h "With all due respect, you’re just {i}wrong.{/i} Not everyone deserves to be loved the way you think they do."
+    h "If I {i}was{/i} assaulted, would you be offering this same sort of unwarranted guidance to the person who took advantage of me? Or do they get cast aside because they’re lower on your priority list? "
+    ka "Why does that matter? We’re talking about what’s happening here and now. How you stand at that counter every day with what I assume is a fake smile while you’re secretly dying on the inside."
+    ka "My sister is the same way. I-"
+
+    stop music
+    play sound "thump.mp3"
+    scene karinharucafe20 with hpunch
+
+    h "I don’t want to hear about your {i}sister!{/i} I don’t {i}care{/i} about your sister! I care that you keep wandering into my business every single day and wasting your time on a lost cause!"
+    h "You want to make a difference, Karin?! Help someone who needs it! Not someone who fucks up for the {i}sake{/i} of fucking up just because she can’t stand it when no one is looking at her! "
+    ka "But {i}I’m{/i} looking at you..."
+
+    scene karinharucafe21
+    with dissolve2
+
+    h "I know..."
+    ka "So isn’t this exactly what you want?"
+    h "It {i}should{/i} be. But it’s {i}not.{/i}"
+    h "Now, get the fuck out of my store or I’ll have you trespassed."
+    ka "Haruka-"
+    h "{i}Now.{/i}"
+
+    scene karinharucafe22
+    with dissolve
+
+    ka "..."
+    h "I said {i}now.{/i}"
+    ka "I’ll be back again tomorrow. "
+
+    play sound "chair.mp3"
+    scene karinharucafe23 with dissolve
+
+    h "Wha- {i}no!{/i} Were you not listening?! I seriously {i}will{/i} have you trespassed! I’m not kidding!"
+    ka "If a misdemeanor is what it takes to have you reach out and ask for help, it will all be worth it in the end."
+
+    scene karinharucafe24
+    with fade
+
+    h "That sort of optimism is going to be your undoing, you know. "
+    h "This world is darker than you think, Karin. You’re choosing a terrible way to learn that right now. "
+    ka "Yeah, well...maybe you’re right about that..."
+    ka "Maybe I don’t know what I’m getting myself into. Maybe this is all...bigger and scarier than someone like {i}me{/i} can handle."
+    h "..."
+
+    scene black
+    with dissolve2
+
+    ka "But I need to learn sometime, don’t I?"
+    ka "And if I can help someone along the way..."
+    ka "I think that lesson will be worth it."
+    h "That...you..."
+    h "I don’t...I don’t {i}want{/i} you to-"
+    ka "Same time tomorrow, Haruka. "
+    ka "Have your trespassing order ready."
+
+    $ renpy.end_replay()
+    $ beachsevenkarin1 = True
+
+    play sound "winner.mp3"
+
+    "{i}Karin Kanda has unlocked a {b}NEW ROUTE!{/b}"
+    "{i}Her curiosity has increased to 5!{/i}"
+
+    jump beachsevenchika2

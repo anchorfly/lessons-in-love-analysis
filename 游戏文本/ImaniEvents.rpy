@@ -5168,3 +5168,402 @@ label imanispring4:
     "{i}Imani’s affection has increased to [imani_love]!{/i}"
 
     jump rikaspring7
+
+label beachsevenimani1:
+    play sound "static.mp3"
+    scene imaniprotocol1 with flash
+    stop sound
+
+    ima "..............................."
+    s "{i}Are you always this loud or are you just extra excitable today?{/i}"
+
+    play sound "glass.mp3"
+    scene imaniprotocol2
+
+    r "{i}I...haah...can’t help it when you...touch me like that! It’s...been a while, okay?!{/i}"
+
+    play sound "static.mp3"
+    scene imaniprotocol3 with flash
+    stop sound
+
+    ima "..............................."
+    s "{i}No wonder Chika seized you the night you sent me that video. I’d have practically sprinted over if I knew you’d be this cute.{/i}"
+    r "{i}S...Sensei! Just...put it in, already! Don’t...haaah...make me wait any longer!{/i}"
+    ima "..............................."
+
+    play sound "static.mp3"
+    scene imaniprotocol4 with flash
+    stop sound
+
+    ri "Okay! Towel acquired. Why I {i}need{/i} a towel to enter the sauna with you despite us having seen each other’s naked bodies plenty of times now, I do not know. But-"
+    r "{i}{size=-5}AAAAAH! FUCK! YES! RIGHT THERE! RIGHT THERE!{/i}{/size}"
+
+    scene imaniprotocol5
+    with dissolve
+
+    ri "Huh? Did you just hear-"
+
+    play sound "static.mp3"
+    scene imaniprotocol6 with flash
+    stop sound
+    play music "undersea.mp3"
+
+    ima "Nope! Hahahah! I didn’t hear anything! Nothing at all! But I’m not really in the mood to go into the sauna anymore, so how about we just go do something else? {i}Anything{/i} else. Right now. Please."
+    r "{i}{size=-5}NGAAAHAHAHAA-{/i}{/size}"
+
+    scene imaniprotocol7
+    with dissolve
+
+    ima "AAAAAAAAAAAAAAAAAAHHHHHH! I’M IN SO MUCH PAIN ALL OF A SUDDEN! I NEED TO LIE DOWN!"
+    ri "I knew it. I {i}knew{/i} you were only pretending to be okay with Wakana joining the sex club. That pain you feel, Imani? That’s your heart breaking."
+
+    scene imaniprotocol8
+    with dissolve
+
+    ri "Thankfully, I know the perfect medicine for this. It’s-"
+    ima "Alone time!"
+
+    scene imaniprotocol9
+    with dissolve
+
+    ri "Oh. Well, I was going to offer to take care of you myself. But if you’d rather do it on your own, that’s fine."
+    ima "I would. "
+    ri "Sauna tomorrow morning instead then?"
+    ima "No. You don’t want to go in there. Ever."
+    ri "Is it too hot or something? Did you check the temperature while I was searching for my-"
+    r "{i}{size=-5}CUMMING! I’M CUMMING! SENSEI! SENSEI!!!!!{/i}{/size}"
+
+    scene imaniprotocol10
+    with dissolve
+
+    ri "Are you really not hearing-"
+    ima "NOPE! OUTSIDE! RIGHT NOW!"
+
+    play sound "static.mp3"
+    scene imaniprotocol11 with flash
+    stop sound
+
+    "Things had gotten {i}pretty bad{/i} for Imani Imai all of a sudden. Bad enough that she knew she should intervene. The first conflict she faced was {i}when{/i} to intervene, though."
+    "Which is why she was out here — waiting for her beloved senpai to return from his heated closet of debauchery so she could confront {i}him{/i} without traumatizing her student slash good friend’s daughter."
+    "{size=-4}And while she’d known for quite some time that such a thing was {i}possible{/i} given the nature of these girls and the man they encircle as if he were the sun, she’d tried her best to deceive herself into believing otherwise.{/size}"
+    "It was a tactic she perfected the night she was scarred for life — something that may have {i}saved{/i} said life when all was said and done after hours and hours of her attackers saying and doing things."
+    "Tonight, she’d save {i}another{/i} life, though. It was her turn to finally make a difference and be the angel she prayed for back when she still believed that praying made a difference."
+
+    r "Hey, Miss Imai! "
+
+    play sound "static.mp3"
+    scene imaniprotocol12 with flash
+    stop sound
+
+    r "Whatcha doing out here so late? Futaba told me you were supposed to be helping her with something."
+    ima "Oh, nothing. Just waiting for that guy right there. "
+
+    scene imaniprotocol13
+    with dissolve
+
+    r "What, {i}this{/i} guy? When did he get here? You can take him. I have no use for this person."
+    s "Were we...supposed to hang out tonight or something? I could have sworn I-"
+
+    play sound "static.mp3"
+    scene imaniprotocol14 with flash
+    stop sound
+
+    ima "I would like to speak with you. {i}In private.{/i}"
+    s "May I...know what this is in regard to first?"
+    r "I bet it’s Miss Watabe. I imagine everyone knows by now. Word gets around these parts {i}pretty quickly{/i} nowadays."
+    s "Imani, I’m not sure what Wakana told you. But-"
+    ima "Does this look {i}private{/i} to you? Do you really want to talk about this with Rin right there?"
+
+    scene imaniprotocol15
+    with dissolve
+
+    r "{i}Okay!{/i} Well, it is clear to me that Sensei is in trouble and I will now leave because I do not want to be in trouble as well. "
+    r "Farewell, adults. I am off to go be an innocent teenager elsewhere."
+
+    scene imaniprotocol16
+    with dissolve
+
+    s "Imani, I get that you’re upset. But-"
+    ima "Not here. {i}Walk.{/i}"
+
+    play sound "static.mp3"
+    scene imaniprotocol17 with flash
+    stop sound
+
+    s "Imani, it was only like three times."
+    ima "Mhm. Sure."
+    s "Okay, {i}four{/i} times. For me. I think Wakana finished a few more. But that’s not exactly a thing I can text her about when she is currently ignoring me for some reason."
+    ima "Oh, well that changes everything as my anger right now is directly linked to the amount of times you made Wakana orgasm. I can’t believe you figured it out so easily. "
+    s "Well, it’s not like we {i}planned{/i} this. If anything, it’s Rika’s fault for locking us in that room together."
+    s "In fact, we’d probably still be {i}in{/i} that room if Wakana didn’t break the door down this morning."
+    ima "Mhm. Noted."
+    s "I think the key here is for you to just not get drunk anymore if I’m going to keep having sex with your friends whenever it happens."
+
+    play sound "static.mp3"
+    scene imaniprotocol18 with flash
+    stop sound
+
+    ima "Get inside. Now."
+    s "This is starting to feel like an intervention and I don’t like it."
+    ima "Senpai. I will say it once more. {i}Get in the fucking room.{/i}"
+    s "I don’t really like confrontation. So I think I’ll just wait until you cool down before I-"
+    ima "Get in the {i}fucking{/i} room or I will go get Rika and have her here for this conversation as well. And I can guarantee you that you don’t want that."
+    s "I mean, this is partly her fault. So I think it probably {i}would{/i} be best if-"
+    ima "Do you really think that’s what this is about? Do you seriously think I was waiting to confront you about sleeping with {i}Wakana?{/i}"
+    ima "Or is there maybe someone {i}else{/i} you’ve slept with in the last, oh I don’t know, {i}hour{/i} or so that I may be a {i}liiiiiiiittle{/i} more concerned about?"
+
+    scene imaniprotocol19
+    with dissolve2
+
+    s "..."
+    s "Wait, you-"
+    ima "Get in the fucking room."
+    s "Imani...I-"
+    ima "{i}Now.{/i}"
+
+    scene black
+    with dissolve2
+    play sound "slidedoor.mp3"
+
+    "At this point, Imani’s blood was boiling so intensely that you wouldn’t even be able to cook pasta in it because it would overboil and the blood would go everywhere and the pot would dry out."
+    "So what better time to call in an experienced chef who’s familiar enough with a stove named {b}LOVE{/b} to turn her down to a gentle simmer and get her to open up her mind to brand new flavors?!"
+
+    stop music
+    play sound "static.mp3"
+    scene imaniprotocol20 with flash
+    stop sound
+    play music "acoustic.mp3"
+
+    se "It’s me! I’m the chef! And it’s so nice to finally meet you, {i}Miss Imai!{/i}"
+
+    scene imaniprotocol21
+    with dissolve
+
+    se "{i}Love{/i} the swimsuit, by the way. I actually went on a mission trip to Ghana when I was still in elementary school. Beautiful place. Such {i}kind{/i} people there. "
+    ima "Who the fuck are you?...Senpai, who the fuck is she?!"
+
+    scene imaniprotocol22
+    with dissolve
+
+    se "Ah-ah-ah. Now, hold on just one second, Imani. Can I call you Imani? Either way, Aki-kun’s not going to be able to respond right now. "
+    ima "And why is that?..."
+    se "Why, because I turned him into Dr. Partycock, of course."
+
+    play sound "static.mp3"
+    scene imaniprotocol23 with flash
+    stop sound
+
+    s "Hey, hey, hey! Looks like it’s BONER TIME again!"
+    ima "What the-"
+    se "Isn’t his hair just fantastic now?! Oh, and the way you can gaze into those big eyes of his and see right through them? Ugh, isn’t he just to die for?!"
+    se "Which might not be {i}why{/i} I died specifically but, like, it {i}could{/i} be. It’s anyone’s call, really. I like being {i}mysterious.{/i}"
+    ima "S...Senpai?..."
+    s "That’s Dr. Partycock to you, bitch. AYOOOOOOOOOO."
+
+    play sound "static.mp3"
+    scene imaniprotocol24 with flash
+    stop sound
+
+    se "Like I said, talking to him right now isn’t going to really help. Which is great because, from what {i}I{/i} understand, you brought him here to talk about something pretty lame in the first place!"
+    se "So how about we just call it a day and you forget you ever saw anything, huh? Or I guess {i}heard{/i} since you decided not to open the door and watch for whatever reason."
+    ima "What do you mean “for whatever reason?!” Akira’s like 31 and Rin is-"
+
+    scene imaniprotocol25
+    with dissolve
+
+    se "Woah! Easy there, kiddo. Are you {i}trying{/i} to get us cancelled? Because you and I both know that ignorance is bliss, which is exactly why you’ve been so happy lately!"
+    se "Also, if you could do me a solid and not tell Aki-kun that I appeared to you, that’d be great. "
+    se "He hasn’t liked me talking to any of the younger girls, but I don’t think he’s said anything about the older ones so I’m taking a shot in the dark here."
+    ima "{i}Appeared?!{/i} So what, you’re a fucking ghost or something? Am I dreaming right now? Because I don’t feel like I’m dreaming but I sure as fuck {i}hope{/i} I’m-"
+    se "No, you got it right the first time. I’m a ghost. And if you couldn’t already tell by how breathtakingly beautiful I am-"
+    ima "You’re Ami’s mother...The Girl Who Cannot Breathe. "
+
+    scene imaniprotocol26
+    with dissolve
+
+    se "Hey! Seems like you’re pretty smart after all!"
+    se "Which is great because it’ll make this next part go way smoother. Close your eyes!"
+    ima "Close my- why?! What the fuck is going on?!"
+    se "Hey, it’s either that or bear witness to the end of the world. {i}Your{/i} choice, girlie. "
+    se "It’s thematically relevant for you to do as I say, though. So swallow that pride like Rin probably just swallowed Aki-kun’s hot cum and you’ll be super thankful in a few seconds! Trust me!"
+    ima "You fucking- {i}fine!{/i} I’m already in {i}this{/i} deep. Might as well fall a little further."
+    se "That’s the spirit, Imani."
+
+    stop music
+    scene black
+    play sound "snap.mp3"
+
+    se "We’ve {i}all{/i} gotta fall some time."
+
+    $ renpy.pause(10, hard=True)
+
+    play sound "static.mp3"
+    scene imaniprotocol27 with flash
+    stop sound
+    play music "lessons.mp3"
+
+    se "Which brings us to today’s lesson! If you see something, {b}SAY NOTHING.{/b}"
+    se "Should be easy enough for a girl who’s ignored as many red flags as you. Right, Imani?"
+
+    play sound "static.mp3"
+    scene imaniprotocol28 with flash
+    stop sound
+
+    ima "Hey! Fuck you, lady! I wouldn’t have closed my eyes at all if I knew you were going to strip me and tie me to a fucking chair!"
+    se "Oh, you were going to wind up tied to a chair either way. You don’t really have much of a say in anything that happens here, unfortunately. My classroom, my rules!"
+    ima "Then the least you can do is tell me when class ends so I can get back to teaching the boy you fucking {i}molested{/i} that it doesn’t give him the right to molest others too!"
+
+    play sound "static.mp3"
+    scene imaniprotocol29 with flash
+    stop sound
+
+    se "Well, {i}duh.{/i} It’s the {i}girls{/i} who give him that consent, silly. If it was up to me, you’d all be having a big orgy right now and I wouldn’t have had to clock in for overtime."
+
+    play sound "static.mp3"
+    scene imaniprotocol30 with flash
+    stop sound
+
+    se "Now, I know this might seem boring. And I know you might be thinking to yourself, “How come {i}I{/i} need to be taking lessons right now when it’s normally my job to {i}give{/i} them?” "
+    se "But I assume you were also bored when you were learning English! Or math! Or basic biology! "
+    se "Or any of those {i}other{/i} topics you use on a daily basis that you never would have learned {i}at all{/i} without the help of those smarter than you! Like me!"
+    se "I did this for a really long time, you know. And it’s not like I molested {i}all{/i} of my students. Just the one I liked the most!"
+
+    scene imaniprotocol31
+    with dissolve
+
+    se "I’d be lying if I said I never thought about the others, though. Boy, I sure hope nobody checked my hard drive after I died. Talk about {i}embarrassing.{/i}"
+
+    play sound "static.mp3"
+    scene imaniprotocol32 with flash
+    stop sound
+
+    ima "Cool. So you’re a creepy fucking remorseless predator who wants her victim to be just as bad as her. And I’m supposed to just sit back and let that happen?"
+    se "Well...yes! That is precisely what I am trying to teach you right now. "
+    se "These girls {i}need{/i} Aki-kun or they won’t ever grow up! And if you try to get in the way of that, not only will you live the rest of your life in misery, but also you’ll-"
+    se "Actually, I guess you’ll kind of just live the rest of your life in misery. I don’t think anything else terrible would happen unless you’re, like, hit by a car or something. "
+    ima "So fucking your teacher is just a way of life now? How is that going to lead to {i}anything{/i} good for those girls?"
+
+    scene imaniprotocol33
+    with fade
+
+    se "You know, there’s a lot I {i}could{/i} say right here that’d, like, {i}definitely{/i} convince you. But I don’t think you even {i}need{/i} that much convincing, Imani."
+    se "I think you’ve known this was happening all along and have just been telling yourself it isn’t because you’re a slave to your own moral compass and didn’t want anything to change. "
+    se "Which makes you pretty complicit, doesn’t it?"
+    se "So either you’re a fucking {i}idiot,{/i} which I don’t think you are. Or you’ve been okay with all of this because it’s been super easy to ignore. "
+    se "And it would have been easy today as well, but you decided to interject for some reason. Why?"
+    se "Were you just jealous that it was Rin instead of you? Oh! Or maybe {i}you{/i} want to fuck Rin? She’s cute, isn’t she? "
+    se "I’d say we can fuck her together, but I’m not sure if I can drag two actual people here at once anymore."
+    ima "I don’t want to fuck Rin! I’m not like you two!"
+    se "{size=-4}Oh, please. Do you really mean to tell me that if your classroom was full of hot teen boys who wanted to pump you full of {b}YOUTH{/b} that you wouldn’t even {i}think{/i} about staying after school with one or two or ten of them?{/size}"
+    se "Just thinking things isn’t inherently {i}bad,{/i} Imani. Your fantasies belong to you and you only. And if you wish it, I can probably summon like twenty faceless teenagers into this room to fuck you right now! "
+    ima "I obviously don’t fucking want that!"
+    se "Not even in a “dream?” "
+
+    scene imaniprotocol34
+    with dissolve
+
+    se "Oh! It’s because you like them even younger, isn’t it? We really {i}are{/i} twins!"
+    ima "I’M NOT FUCKING LIKE YOU! CAN YOU PLEASE GET THAT THROUGH YOUR-"
+
+    play sound "static.mp3"
+    scene imaniprotocol35 with flash
+    stop sound
+
+    ima "MNGH?!"
+    se "Hey. No yelling in class or I’ll have no choice but to give you detention."
+
+    scene imaniprotocol36
+    with dissolve
+
+    ima "You can take your fucking detention and shove it up your ass. "
+    se "I prefer the other hole, but I suppose I’m open to experimenting. "
+    ima "Just because I gave Akira the benefit of the doubt doesn’t make me {i}complicit.{/i} How was I supposed to know he was actually {i}like{/i} this?"
+    se "Oh, so you {i}are{/i} an idiot then. It’s either that or you’re a liar. "
+    ima "It’s called having faith in someone, cunt. You might know what that’s like if you didn’t spend your entire life grooming Akira into the monster you {i}wanted{/i} him to be."
+    se "Silly, Imani. It’s specifically {i}because{/i} I have faith in Aki-kun that I’m willing to interject the way you do. There’s only so much he can accomplish on his own, though."
+    se "Which is why I am telling you, {i}not warning you,{/i} that the best course of action for {i}everyone{/i} right now is to drop that moral compass of yours into the ocean and forget you heard anything."
+    ima "And if I don’t?"
+    se "Ever heard of a wooden horse?"
+
+    scene imaniprotocol37
+    with dissolve
+
+    ima "You’re even worse than I thought, huh?"
+    se "It’s easy to hate me when you don’t have the full picture. "
+    se "Just like it’d be easy for anyone to hate {i}you{/i} as well when an {i}actual{/i} rational person wouldn’t have waited until they heard some teenager getting railed to put her foot down."
+
+    scene imaniprotocol38
+    with dissolve
+
+    se "Let’s face it, Imani. You wouldn’t care at all if you didn’t feel responsible for those girls. You just don’t want any of them growing up as miserable and damaged as you."
+    ima "And that makes me evil how?"
+    se "It {i}doesn’t.{/i} That’s exactly what I’m trying to tell you."
+    se "It’s clear you care for all of them almost half as much as I cared about Aki-kun. And while that might not sound like much, that’s only because Aki-kun was my {i}everything.{/i}"
+    se "Love someone as much as I loved him and you’d be a creepy remorseless predator too. "
+    ima "You never loved him at all. "
+    se "Wow. You really {i}do{/i} want to ride that wooden horse, don’t you?"
+    ima "What do you get out of this anyway? How does telling me to ignore what I saw help you {i}rest{/i} at all?"
+    ima "Are you just trying to protect him? Is that what it is? Because I could argue I’m doing the same thing and I feel like most people would be on my side."
+    se "You seem to be forgetting someone else I am involved with in your class, Miss Imai. Perhaps a young girl who looks and sounds and smells like me? Hm?"
+    ima "You mean the one who won’t shut up about wanting to fuck her dad? Is that {i}your{/i} influence as well?"
+    se "Not intentionally. But she could be genetically predisposed to such desires if sexual proclivities are a thing to be passed down through genetics. "
+    ima "I can’t let this go on. I can’t let Akira become like you or this will just {i}keep{/i} happening. "
+    se "Oh, you sweet summer child. You can’t tell on {i}all{/i} of us. There are girls just like me everywhere. "
+    se "Just, for every Sekai or every Akira, there are a hundred Imanis. A {i}thousand{/i} even. Which means a thousand people who blend into the background and never see what we see."
+
+    scene imaniprotocol39
+    with dissolve
+
+    se "So join us! Join the dark side! Fuck your students! Drink Aki-kun’s thick cum out of their inexperienced holes, then teach them how to eat pussy! It’ll be {i}awesome!{/i}"
+    ima "I’m glad you fucking died."
+
+    scene imaniprotocol40
+    with dissolve
+
+    se "So rude. Especially after I went to all this trouble to plant the seed. I don’t even want to finger you anymore."
+    ima "What {i}seed?{/i} The fuck are you on about now?"
+    se "The seed of self-doubt, of course. The one that beckons you not to rewrite your morals or mirror my own, but grows into the scale that measures pros and cons better than man ever could."
+    se "Polaris will not guide you home, Imani. It will lead you {i}directly{/i} into the storm. "
+    se "And if you really want to protect those girls-"
+
+    stop music
+    play sound "static.mp3"
+    scene imaniprotocol41 with flash
+    stop sound
+
+    se "You may first need to {i}touch{/i} them..."
+    r "Hey, Miss Imai! "
+
+    play sound "static.mp3"
+    scene imaniprotocol12 with flash
+    stop sound
+
+    r "Whatcha doing out here so late? Futaba told me you were supposed to be helping her with something."
+    ima "I..."
+    ima "Senpai, you..."
+    ima "{i}Both{/i} of you..."
+    ima "You..."
+    ima "{i}You...{/i}"
+    r "We what? What happened?"
+    s "..."
+    ima "..."
+    ima "I..."
+
+    scene black
+    with dissolve2
+    $ renpy.pause(4, hard=True)
+
+    ima "Nothing."
+
+    $ renpy.end_replay()
+    $ beachsevenimani1 = True
+    $ imani_lust += 1
+    $ imani_love -= 10
+
+    "{i}Imani’s lust has increased to [imani_lust]!{/i}"
+    "{i}Imani’s affection has decreased to [imani_love]...{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump beachseven4intro

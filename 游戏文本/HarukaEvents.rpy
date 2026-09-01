@@ -9343,7 +9343,7 @@ label harukaspring5:
     h "Why, though? Like, is this some sort of national government funded effort? Because it’s not like we give anything {i}back{/i} to them."
     sar "I guess that’s true, yeah. Our main export was Niki until she started sleeping with Sensei every night. Hard to put out new music when there’s a penis inside of you. What’s this all about, though?"
     h "What do you mean?"
-    sar "You seem iff tonight."
+    sar "You seem off tonight."
     sa "Contemplative."
     sar "Yeah. Whatever Sana just said."
     sa "Like you’re lost in thought instead of relaxing...which would imply that something is wrong."
@@ -9446,7 +9446,7 @@ label harukaspring5:
 
     h "Ah..."
     sa "Like, I obviously knew what the two of you were getting up to when I bumped into you in the hallway. What I didn’t really get was why Kirin seemed so reluctant?"
-    sa "She’s always talking about older woman and sex and hitting on everybody but, when push comes to shove, I guess she’s kind of innocent too, huh?"
+    sa "She’s always talking about older women and sex and hitting on everybody but, when push comes to shove, I guess she’s kind of innocent too, huh?"
     h "..................."
 
     scene harukasanabar15
@@ -9729,7 +9729,7 @@ label harukaspring6:
     h "Um...or I...I could {i}keep{/i} talking?"
     h "It feels...kind of good, to tell you the truth. Sara and Maki are the only ones I can really get my feelings out to, but it’s not like I want to just openly {i}admit{/i} to them how...well...{i}bad{/i} I’ve been lately. Hahah..."
     h "Do you...ugh..."
-    h "Akira, can ask you something?"
+    h "Akira, can I ask you something?"
     s "Sure."
     h "Do you think..."
     h "Do you think there’s any helping people like us? "

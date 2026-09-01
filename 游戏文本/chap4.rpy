@@ -15436,7 +15436,7 @@ label beachfive16:
     $ beachfive16 = True
     $ chikablock = True
     $ ayane_love += 1
-    $ makoto_love + 1
+    $ makoto_love += 1
     $ ayane_lust += 1
     $ makoto_lust += 2
     $ bendyarms = True

@@ -9558,7 +9558,7 @@ label kirinspring3:
     scene kirinfield11
     with dissolve
 
-    mi "Took a {i}bunch{/i} of sessions with my therpaist for me to start feelin’ any better from talkin’ about stuff."
+    mi "Took a {i}bunch{/i} of sessions with my therapist for me to start feelin’ any better from talkin’ about stuff."
     mi "Probably gonna have to start that whole process over now, though, since Maki’s makin’ me get a new one."
     ki "What? Why?"
 
@@ -9946,7 +9946,7 @@ label kirinspring4:
     "This is something I haven’t felt myself because {i}I{/i} am lucky."
     "Not everyone is, though. And I often try to remember that in between unwanted blessings."
     "But I often fail."
-    "As it turns out, blessings are more appealing than regrets, even when undeserved. And that I’d rather live a life of lies than once where I must face the facts I have written myself."
+    "As it turns out, blessings are more appealing than regrets, even when undeserved. And that I’d rather live a life of lies than one where I must face the facts I have written myself."
     "If life is what you make it, just make it better. Lock the sad parts away."
     "Just accept that, in doing so, there will be moments where they attempt to break free and send your life spiraling into a colossal tempest of unrealized ambition and mind-shattering anguish."
     "So it goes, I guess."

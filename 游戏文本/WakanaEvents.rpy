@@ -4923,3 +4923,760 @@ label wakanaspring8:
     "..."
 
     jump noonch4
+
+label beachsevenwakana1:
+    scene wakanabeachttl1 with dissolve2
+    play music "photoframe.mp3"
+
+    ima "Okayokay! Nowiss Senpai’s {i}*hic*{/i} turn! Dare meto...kissyou! I dareyou to...dareme todo that!"
+    ri "Imani, I’m okay with reminding you every five minutes since we’re friends and threesome partners, but we’re playing a different game tonight. Which means you can’t keep daring Akira to do things. "
+    ima "Sure I can! We’reall adulllss herean all! Issupto him if he’s wanna...annsser thingsthough!"
+    s "I feel like if we don’t cut her off soon, I’m going to wind up having sex with Rika again."
+
+    scene wakanabeachttl2
+    with fade
+
+    w "So Imani gets drunk and Rika’s the one you wind up sleeping with? How does that work?"
+    s "Well, last time it involved Rika getting drunk as well. This time, I imagine it will just be on account of her wanting my penis inside of her."
+    w "Gross."
+    ima "Lessave a {i}*hic*{/i} foursssome! It’ll be jusslike tha one time butssss Rika now asstead of Osako..."
+    ri "Noooo! Let’s keep playing the game! Akira needs to do two truths and a lie now!"
+
+    scene wakanabeachttl3
+    with dissolve
+
+    s "Isn’t it Wakana’s turn, though? We’re going counter clockwise, aren’t we?"
+    ri "Oh, true. Just hers are never fun so I forgot she was even playing."
+    w "I’ll have you know I am perfectly capable of being {i}fun.{/i} It’s just difficult to do without restraints."
+    ri "I brought some if you need them. I always have handcuffs in my travel bag. It’s less for sex and more just because I’ve always wanted to conduct a citizen’s arrest, though."
+
+    scene wakanabeachttl4
+    with dissolve
+
+    w "Two truths and a lie then? I-"
+    ri "Ah-ah-ah! Not just {i}any{/i} truths and lies, though. Imani made us guess between the Pokemon she’d sleep with, so you need to match those vibes at the very least."
+    w "I was {i}trying{/i} to before I was so rudely interrupted. "
+    s "I’m sure Rika’s probably still just sour from you doing nothing but naming various writers the last time we played this and making us guess which ones you don’t hate."
+    w "Someone needs to take Stephen King’s computer anyway. His work is somehow even less consistent than your mood, Akira. "
+    s "Excuse me, but I’ve only had one mental breakdown today. That’s pretty good for a beach trip."
+    ima "Heywe still got timefor anotherr! Get naked and we can {i}*hic*{/i} do somea that CFNM stuff!"
+    ri "That does sound fun, I won’t lie."
+
+    scene wakanabeachttl5
+    with dissolve
+
+    s "CFNM?"
+    w "You are the most fucking vanilla sexpest who has ever existed. Who even created you?"
+
+    scene wakanabeachttl6
+    with dissolve
+
+    s "I don’t remember."
+    w "How convenient."
+    ri "Wakana, come on! Imani’s gonna pass out if you make us wait any longer!"
+
+    scene wakanabeachttl7
+    with dissolve
+
+    ima "Huh? Who’s Imani? That- oh, {i}I’m{/i} Imani! It’s me!"
+    w "Okay, but-"
+    ima "DA DAAA. DAD ADADADA...IT’S ME. Youguyss know that song?"
+    w "Okay, but have it be known that I am only saying these things to both “match the vibe” and show Akira that I am cooler than him."
+    w "Two truths and a lie. I lost my virginity in a bar, I once had sex in a classroom, and my single day orgasm record is ten."
+    ri "Okay, well that orgasm one’s a lie. No one can still keep track of their orgasm counter once it starts getting that high. Plus, I’ve heard stories from Osako. You’re a one and done kind of girl. "
+    w "No, I’m a “one and focus on pleasing my partner” kind of girl. "
+    ima "Thasswhat guys say when theycan’t getit up anymore. Ain’that right, Senpaiii?"
+    s "I think the bar one is a lie, actually. You, I can see. But I don’t think Osako would have agreed to such a thing for  her first time."
+
+    scene wakanabeachttl8
+    with dissolve
+
+    w "Who said she agreed to anything at all? Maybe I took advantage of her and didn’t give her room to resist whatsoever?"
+
+    scene wakanabeachttl9
+    with fade
+
+    ri "Ten orgasms. Final answer. That one is the lie."
+    ima "Senpaaaaaiiiiiii..."
+    s "I thought we needed to decide as a group? I still think it’s the bar one."
+    ri "Overruled. I’m the only one who isn’t drunk right now, so I’m the only one who can think rationally."
+
+    scene wakanabeachttl10
+    with fade
+
+    s "I’ve only had three beers."
+    ri "Lies. You’re at least halfway done with your fourth, so I’m rounding up."
+    s "Still not enough to be drunk. Just because you’re trying to cut down on calories does not mean you can overrule my correctness. "
+    w "So which answer are you locking in? Ten orgasms or my virginity in a bar?"
+    s "I-"
+    ri "Ten orgasms! Final answer."
+
+    scene wakanabeachttl11
+    with fade
+
+    w "Bzzzzzzt. You lose."
+    s "I fucking knew it. You should have listened to me, Rika. No one is better at imagining Wakana’s sex life than I am."
+
+    scene wakanabeachttl12
+    with dissolve
+
+    w "Don’t get ahead of yourself, Arakawa. You’re wrong too. I did lose my virginity in a bar. On Christmalloween, actually. Care to take a guess what I was dressed as?"
+    s "Nothing. You aren’t fun enough for that."
+    w "Well, at least you got {i}that{/i} right."
+
+    scene wakanabeachttl13
+    with fade
+
+    ri "Wait, hold the fucking phone. "
+    ima "Okay!"
+    ri "Thanks, Imani. What do you {i}mean{/i} you’ve never had sex in a classroom? You’re a teacher. And you went to college together with your long term partner. Classrooms are basically just giant beds in my experience."
+    w "I’ve had sex {i}near{/i} classrooms. Faculty rooms. Teacher’s lounge. Gymnasium. Gymnasium shower. The music room."
+    ri "{i}My{/i} music room?! Is that why all of my girls are so horny?! You contaminated it with your hot goth pheromones! How could you?!"
+
+    scene wakanabeachttl14
+    with fade
+
+    ima "Can I put this phone down now? I wanna drink some more."
+    ri "Yes, Imani. You can put the phone down. Do you need another drink too?"
+    ima "Yespleaseee!"
+    w "Don’t {i}encourage{/i} her. Any more and she’s going to wind up in the hospital before the beach trip ends and then Akira is never going to visit her and it will form a rift in their relationship."
+    s "You’ve definitely had sex in a classroom. Those were all lies."
+
+    scene wakanabeachttl15
+    with dissolve
+
+    w "Just because you’ve likely imagined it a thousand times does not make it true. "
+    s "Sorry. I have a hard time telling the difference sometimes."
+    w "Regardless, it’s your turn now, Arakawa. Which I believe means you must now “match the vibes” as well. "
+    w "Just hopefully in a way that will not depress all of us since your sexual background is darker than The Cask of Amontillado."
+    s "Two truths and a lie. I’ve had sex with Imani, I’ve had sex with Rika, and I’ve had sex with you."
+    w "I’m going to drown you in the ocean."
+    s "That just means you think I’m cute."
+
+    scene wakanabeachttl16
+    with fade
+
+    ri "Come on, Akira. Give us a real one! Make us guess which one of us you’ve yanked it to the most or something. "
+    s "That sounds hard to do in the format of this game’s prompts. I’ll just come up with something else."
+    w "We all know it’s me anyway. I’m the one he can’t touch."
+    s "Two truths and a lie. I’ve masturbated in my office, I don’t own any sex toys, and I have never had sex in a classroom."
+
+    scene wakanabeachttl17
+    with dissolve
+
+    w "You bitch. You just stole one of mine."
+    ri "Not owning any sex toys in 2020 is crazy. Even when you have one built into your hand. "
+    ima "Issclearly notthat one sinceI’m Senpai’s sextoy."
+    ri "Wait, yeah. Clarify. Does Imani count as a sex toy?"
+    s "I am not counting her as a sex toy, no. She is a human female who shall not be reduced to merely an object."
+    w "How very progressive of you."
+    ri "You’re not going to tell me you’ve had sex in the music room too, are you? I’d ask Imani, but I think she’s just reached the stage where words no longer make any sense to her."
+    ima "Blehbbht."
+    ri "See?"
+
+    scene wakanabeachttl18
+    with fade
+
+    w "So you’ve never done it in the classroom either, huh?"
+    s "Is that the answer you’re locking in?"
+    ri "It’s gotta be the sex toy one. I’ve heard how much you visit the porn shop. There’s no way Maki’s let you leave that place without at least {i}one{/i} free fleshlight."
+    w "Ignore Rika. I’m locking in the classroom answer."
+    ri "Booooo! That’s-"
+    s "Wakana is correct. I have never had sex in a classroom."
+
+    scene wakanabeachttl19
+    with dissolve
+
+    w "Ha! Get fucked, you sober cunt."
+    s "That’s right. Get fucked, you sober cunt."
+
+    scene wakanabeachttl20
+    with fade
+
+    ima "Issomebody gonna walkme home againnn?"
+    ri "We’re at the beach, Imani. You aren’t going home tonight. We’re sleeping at a fancy resort thingy. Remember?"
+    ima "Blehbbht."
+    ri "Damn. I thought we had her back for a second."
+
+    scene wakanabeachttl21
+    with dissolve
+
+    ri "You guys need any more beer? I can go grab another 12-pack after I take Imani to a quieter room so she can rest."
+    w "I’m fine. I’ve already achieved my mission of reaching inebriation. I can die happy now. Or, at the very least, just die in general."
+    s "Unfortunately, completing your mission came at the cost of stealing my share of the alcohol. Which means I am not drunk at all when I probably should be so I can have an excuse for anything else that happens tonight."
+
+    scene wakanabeachttl22
+    with dissolve
+
+    ri "I can grab some for you, Akira. I don’t mind."
+    s "No, it’s fine. I should probably be heading back to my room soon anyway."
+    ri "No, stay! This night’s just getting started, man. "
+    ri "I’ve never gotten to come to the beach with you guys before. Which means we need to make up for lost time by hanging out until the sun rises."
+    w "Oh, right. I suppose it is your first trip, isn’t it?"
+
+    scene wakanabeachttl21
+    with dissolve
+
+    ri "Yes! And I have heard stories of how you look in your swimsuit, so I am very excited for when you are rested and recovered tomorrow to say the least."
+    w "And who have you heard these stories from, exactly?"
+    ri "The light music club. They worship you as a goddess over there. "
+    w "Good. I am one."
+    ima "Imaniiiiiiii...Take me hoooooome..."
+
+    scene wakanabeachttl20
+    with dissolve
+
+    ri "{i}Noooo. You’re{/i} Imani. I’m {i}Rika.{/i}"
+    ima "Hehehahah...{i}Rika.{/i} Thassa fun name. Like {i}Pika{/i}chu. {i}Rikachu.{/i}"
+    ri "Maybe next Christmalloween, okay? Come on."
+
+    scene black
+    with dissolve2
+    play sound "slidedoor.mp3"
+
+    ri "Don’t go anywhere, you two! I’ll be right back with more alcohol! Which I will not drink for both calorie-related reasons and also because I want to remember tonight!"
+    ima "Bye-bye, Imani! I love yoooouuuu!"
+    s "Please get someone to watch her so she doesn’t choke on her vomit and die. Futaba will do it. She’s responsible."
+    ri "Any chance I get to see Futaba is a good one, so okay! Be right back!"
+
+    play sound "static.mp3"
+    scene wakanabeachttl23 with flash
+    stop sound
+    play sound "lock.mp3"
+
+    ri "...Is what I {i}would{/i} say if I was not a {i}liar!{/i}"
+    ri "Enjoy being locked in there until morning, {i}suckers.{/i} Operation: Jim Halpert is a go after all! I just needed to work alone this time!"
+    ima "Go! Time! Sleep? Bed!"
+    o "Uhh...what are you guys doing?"
+
+    scene wakanabeachttl24
+    with dissolve
+
+    ri "Wha...what are {i}you two{/i} doing?! Shouldn’t you be in bed right now?!"
+    o "It’s only like 10:30. Why would we be asleep?"
+
+    scene wakanabeachttl25
+    with dissolve
+
+    ri "Wow, really? Is that it? It felt way later."
+    sa "Is...Miss Imai okay? Do you...need help...taking her somewhere?"
+    ri "She’s fine. Just steer clear of this room for the next twelve hours. Do you understand?"
+    o "Why? Did you trap Sensei and Miss Watabe in there in an effort to make them finally sleep together?"
+
+    scene wakanabeachttl26
+    with dissolve
+
+    ri "Wha...{i}no!{/i} You mean like in the eighth season of The Office where Jim and Cathy are forced to sleep in the same room and Jim needs to overcome temptation in order to progress?! That would be, like...so dumb!"
+    sa "Okay...Because we would...probably be okay with avoiding the room if...that’s what was happening..."
+    sa "But, since it’s not..."
+
+    scene wakanabeachttl27
+    with dissolve
+
+    ri "Wait, hold on. Really?"
+    o "Oh, sure. Pretty much everybody in the light music club except Chika wants those two to sleep together. It’s kind of wild they haven’t yet."
+    ri "I see..."
+    ima "Who are we talkin’ about?! I wanna join in!"
+    ri "In that case, the two of you never saw anything. Understood?"
+    sa "Loud and clear."
+    o "Want us to stand guard?"
+    ri "Could you? I need to get this one back to her room before she throws up on the carpet."
+
+    play sound "static.mp3"
+    scene wakanabeachttl28 with flash
+    stop sound
+
+    s "Is it just me or has Rika been gone for a while now?"
+    w "She probably forgot which room we were in and gave up. "
+    s "Should I, like...go look for her something? "
+    w "Just text her. Phones exist for a reason."
+    s "My phone’s in my room. Do you have yours?"
+    w "Rika took it so I wouldn’t be {i}distracted{/i} during bar night. "
+    s "I’ll be right back then. I-"
+
+    play sound "doorlocked.mp3"
+    s "Huh? That’s weird."
+
+    scene wakanabeachttl29
+    with fade
+
+    s "The door is locked."
+    w "From the outside? Amazing. I’m sure Rika had nothing to do with this at all and that this resort is merely just terrible when it comes to security and safety."
+
+    scene wakanabeachttl30
+    with dissolve
+
+    s "So, what do we-"
+
+    play sound "static.mp3"
+    scene wakanabeachttl31 with flash
+    stop sound
+
+    s "Oh."
+    w "{i}I’m{/i} going to sleep. "
+    w "It’s clear she isn’t coming back and I’m too drunk and miserable to continue existing anyway."
+    s "I see that didn’t stop you from taking the last few beers we had to your nightstand, though. "
+    w "I need them there in case I get thirsty in the middle of the night."
+
+    scene wakanabeachttl32
+    with fade
+
+    s "Do you want to talk?"
+    w "No. I want to die."
+    s "Me too, but we’re in this together. And we’d both be equally mad if the other died. "
+    w "I would dance on your grave and I have never once danced a day in my life."
+    s "So, how’s Osako? "
+    w "Wonderful. It’s {i}me{/i} who should not inhabit this planet anymore. And I am an idiot for believing we could face the future together. "
+    s "You’re not an idiot for proposing to the woman you’re in love with, Wakana. You’re an idiot for thinking you {i}could{/i} get married considering Japan does not allow that."
+    w "For what it’s worth, I did include that in the proposal. Just none of it matters anymore because we’re on a “break” and that’s just the adult way of saying we’re absolutely fucking {i}fucked.{/i}"
+    s "Is she, like...living somewhere else then? Are {i}you{/i} living somewhere else?"
+
+    scene wakanabeachttl33
+    with fade
+
+    w "We’re both still in the apartment. But she sleeps on the couch now since she’s trying to be {i}nice{/i} and not damage my back."
+    w "Frankly, I’d rather it just break. So dramatically and painfully, in fact, that the only thing doctors would be able to do for me is numb me {i}permanently{/i} via euthanasia."
+    s "You guys will figure it out, Wakana. You always do."
+    w "No, Arakawa. {i}We won’t.{/i} Not this time. This isn’t just some stupid {i}fight{/i} or a {i}misunderstanding.{/i}"
+    w "It’s a misalignment of ideals and desires and, more than anything, a testament to the fact that despite what we both {i}want,{/i} we simply aren’t right for one another."
+
+    scene wakanabeachttl34
+    with dissolve
+
+    w "Now, please excuse me as I pass out and dream of being crushed by the moon. "
+    s "You really think I’m going to let you sleep on that note?"
+    w "No. But could you at least turn the light off so the brightness no longer hurts my eyes?"
+    s "Have you taken your medication tonight? Whatever that medication {i}is{/i} now."
+    w "{i}Yes,{/i} Arakawa. Why? Is someone paying you to be my nurse?"
+
+    scene wakanabeachttl35
+    with fade
+
+    s "I’m just worried about you. I’ve never seen you drink this much before and I feel like you’re just putting on a brave face right now since all of your friends are here."
+    w "I was about to ask you exactly what your idea of a “brave face” means but then I remembered who I am talking to and realized you just have no clue at all."
+    s "You’re giving up."
+    w "At least I’m not crying."
+    s "Do you {i}want{/i} to?"
+    w "No, you fucking idiot. Who ever {i}wants{/i} to cry? It feels bad, it makes your head hurt, it gives you congestion, and it makes you utterly hideous."
+    s "I don’t mind seeing you when you’re hideous, you know. "
+    w "Then bust that god damn door down and get me something else to drink as my impending jaundice would likely please both of us right now."
+    s "Is there anything I can {i}actually{/i} do? That will help. Even if it’s just a little."
+
+    scene wakanabeachttl36
+    with fade
+
+    w "Turn the lights off and put Gilmore Girls on the TV. I fucking hate the show, but they talk very quickly and it will distract me from my thoughts."
+    s "Anything else?"
+    w "Not unless you know “She Walks in Beauty” by heart."
+    s "She walks in beauty, like the night. Of cloudless climes and starry skies."
+
+    scene wakanabeachttl37
+    with dissolve
+
+    w "Oh, {i}now{/i} you’re suddenly letting the poetic side of you out again. Fantastic. Exceptional timing as always, Arakawa."
+    s "And all that’s best of dark and bright meet in her aspect and her eyes."
+    w "Stop. Upon reflection, I’ve realized you’re going to ruin that poem for me. I’d like to just lie here in silence instead, please. "
+    s "Sure. I’ll go set a futon up in the living room and leave you alone. Sorry for-"
+
+    stop music fadeout 5.0
+    scene wakanabeachttl38
+    with dissolve
+
+    w "Don’t leave me alone."
+    s "What? But you-"
+
+    scene wakanabeachttl39
+    with dissolve2
+
+    w "I want you with me right now. Sleep here instead. "
+    s "Uhh..."
+    w "Please?..."
+    s "This is...quite the 180 out of nowhere, I must admit."
+    w "Arakawa, I only bicker like this with you because it brings me joy. You should know by now I mean very little of it."
+    w "So when I tell you to leave, please just always assume I’m saying “Don’t go.”"
+
+    scene wakanabeachttl40
+    with dissolve
+
+    w "Now, if you’ll excuse me, I’m going to go back to pretending I hate you right now so I can trick myself into thinking things are normal when they very clearly are not."
+    s "Wow. You’re {i}really{/i} drunk if you’re just going to come out and be all cute like that."
+    w "Can you pull the covers over me? I can’t move."
+
+    scene black
+    with dissolve2
+
+    s "Yes, Wakana."
+    s "I can pull the covers over you."
+
+    $ renpy.end_replay()
+    $ beachsevenwakana1 = True
+    $ wakana_love += 5
+
+    "{i}Wakana’s affection has increased to [wakana_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+label beachsevenwakana2:
+    scene wakanasex1 with dissolve2
+    play music "longingforthefuture.mp3"
+
+    w "I like Charles Baudelaire. I like Sylvia Plath. I like Algernon Charles Swinburne."
+    s "There’s no way some nihilistic goth girl in her twenties dislikes Sylvia Plath, so I’m going to say Swinburne is the lie."
+    w "Why him and not Baudelaire?"
+    s "Because Baudelaire wrote the Flowers of Evil and you like flowers."
+    w "Pretty flimsy reasoning, Arakawa. You intend to stake your guess on that and that alone?"
+    s "There’s not really much at stake here apart from bragging rights, so sure. I’m locking in the answer."
+    w "Then you’ll be happy to know that you are, once again, correct. How infuriating."
+    s "Guess this just means I like you more than you like me."
+    w "Such information is already known to all. How am I to match your affection for me when you are nothing short of obsessed? "
+    s "You’re right. Any {i}more{/i} obsessed and I’d be staying up late at night studying your background in an attempt to get to know you better behind the scenes."
+    w "One day, you will stop hanging that over my head. And when you do, I hope it is because you have died."
+    s "I can’t tell if this means you’re wishing for my swift death or that I will torment you until death do us part."
+
+    scene wakanasex2
+    with dissolve
+
+    w "Would it kill you or not kill you to use language more suited to calming one whose proposal was so recently rejected?"
+    s "Tell me which of those you’d prefer and I will give you my answer."
+    w "I am so insanely drunk right now. "
+    s "I can tell. You’ve been touching my hand for thirty minutes."
+
+    scene wakanasex3
+    with dissolve
+
+    w "I’ve been reading your palm."
+    s "Then you’re either very bad at it or there’s just a lot written there."
+    w "I imagine it’s a mix of both. It’s been a while since I’ve done something like this."
+    s "Want to pull out your tarot cards while you’re at it? Burn some sage to expel all of the demons in the room?"
+    w "I’d need to burn an entire field of sage to expel any demons you dragged in, Arakawa. "
+    s "What does my palm say?"
+    w "That you’ll ultimately be the reason this world expires. And that you’re the worst man who has ever walked the face of the planet he is about to destroy."
+    s "Is that actually what it says or are you just riffing?"
+    w "I’m not sure. Ask me again when I am sober. Which may never happen again, but I digress."
+
+    scene wakanasex4
+    with dissolve
+
+    w "Also, stop stalling and give me your truths. We’re not done playing yet."
+    s "You sure you don’t want to try and sleep? It’s well past midnight now."
+    w "I can’t fall asleep before you. You’ll take advantage of me."
+    s "Then should I go to sleep? Because you’re so drunk right now that I’m afraid you might do the same."
+    w "I have zero interest in sleeping with you, Arakawa. Do not confuse me wishing to sleep {i}beside{/i} you for that, please."
+    s "Zero? Really?"
+    w "Really."
+    s "You’re very touchy for someone with zero interest then. My palm’s already been read and you’re still just playing with my hand."
+
+    play sound "static.mp3"
+    scene wakanasex5 with flash
+    stop sound
+
+    w "Fine. I suppose I’ll just let go then."
+    s "You’re just playing with my shirt now instead."
+    w "I get fidgety when I can’t fall asleep. "
+    s "Have you thought for a second that you might only be struggling to do that because you keep talking to me?"
+    w "I’m still waiting on your truths."
+    s "Are you not excited for the lie?"
+    w "Not particularly. Lies don’t teach me anything else about you. "
+    s "I could just tell you if you have any questions, Wakana. You don’t need to gamify getting to know me better. You already got me into bed."
+    w "Getting you into bed is far easier than learning things about you, Arakawa. But I suppose, if you’re willing, I can just ask a few things outright."
+    s "Like?"
+    w "Do {i}you{/i} ever hope to be married?"
+    s "Why? Do you still have the ring and want to put it good use?"
+    w "Be serious."
+    s "I don’t know. Maybe. "
+    s "I think I’d mostly just want it if the person I fell for wanted it. Similar to how it was with you and Osako, I assume."
+
+    scene wakanasex6
+    with dissolve
+
+    w "You’re right to a certain extent. {i}Marriage{/i} on its own never made much sense to me apart from its financial benefits. And even then, the only relationship I’ve ever had has been a same-sex one."
+    s "So it was never really about the {i}marriage{/i} part at all and more just a symbol of your love, right?"
+
+    scene wakanasex7
+    with dissolve
+
+    w "Who would you choose out of anyone, Arakawa? "
+    s "Can I not say you?"
+    w "Imani? Your childhood friend? I suppose Rika may be a dark horse as well."
+    s "Okay. I guess I {i}can’t{/i} say you, then."
+    w "I already told you I’m not interested in lies."
+    s "I’m not really ready to make that choice, unfortunately. I can’t decide right now."
+    w "Do you hope to one day? Or do you intend to live the rest of your life as some womanizing scumbag who can’t ever settle for one person?"
+    s "Easy for you to say when you’ve only {i}been{/i} with one person."
+
+    scene wakanasex8
+    with dissolve
+
+    w "Yes, I suppose it is. Though, I can’t say I’ve had many other suitors to begin with. So it’s not as if such thoughts crossed my mind often."
+    s "That’s probably because you scare them all away. What sort of {i}suitor{/i} would pursue someone as terrifying as you?"
+    w "Am I really that scary?"
+    s "You were at first. But now that I know who you really are, you’re about as intimidating as a stuffed bear."
+    w "And I’m sure there are plenty who’d say you’re as intimidating as a real one. Just goes to show you that people don’t always know what they’re talking about."
+    s "I {i}am{/i} intimidating, though. I’m a big, strong man who does big, strong manly things."
+    w "Like cheering up friends when their lives are falling apart. Or pulling the covers over them when they can’t move. Or letting them watch Gilmore Girls to drown out those nagging inner monologues."
+    s "I think I might have to start watching that show next if it really works for that."
+    w "You’re not scary, Arakawa. And you should stop pretending to be. I don’t like you that way."
+    s "Which way {i}do{/i} you like me then?"
+    w "Like this, obviously. "
+    s "Yeah?"
+    w "I suppose it may just be the alcohol, though. And that I will slaughter Rika in the morning for forcing us into this bed together. "
+    s "Hey, {i}you{/i} forced me into this bed. I offered to sleep in the other room."
+    w "I wanted to show you Gilmore Girls."
+    s "No, you just wanted to play two truths and a lie."
+    w "Tell me something else, then. Something nobody knows."
+    s "Nobody?"
+    w "Yeah. What good is a friend that you can’t share secrets with?"
+    s "I think I’ll have to get back to you with that. I’m not sure there’s anything out there nobody knows about me yet."
+    w "No deeply buried secrets?"
+    s "I imagine there are and I just haven’t found them yet. But I also imagine they are very, very sad."
+    w "Probably. You’re a sad man, Arakawa."
+    s "And it’s because I’m a sad man that I should not be making {i}you{/i} sad while you are already on the brink of a mental breakdown."
+    w "The breakdown has already occurred. It’s merely being suppressed by my blood alcohol level at the moment."
+    s "Then here’s hoping that waking up beside me cures you and you’ll never have to worry again."
+    w "It won’t. "
+    s "Yeah, I don’t think so either."
+    w "Can I tell {i}you{/i} something next? Something I’ve already told you once?"
+    s "You may. I just hope it’s one of those “cute Wakana” things and not just you being mean to me again. "
+    w "Oh. Then, maybe I should just keep it to myself."
+    s "{i}Hah...{/i}what is it? Just tell me."
+    w "It’s nothing much, really."
+    w "Just that you’re a lot uglier up close."
+
+    scene wakanasex9
+    with dissolve
+
+    s "Ah, yes. Thank you for that."
+    w "Don’t mention it. Just thought I’d share."
+    s "..."
+    w "..."
+
+    play sound "static.mp3"
+    scene wakanasex10 with flash
+    stop sound
+    play sound "tackle.mp3"
+
+    w "Mmmh! Mmfh! Mmnh! {i}Ah!{/i} Aah...aaahnf...haaah..."
+    s "Mnch...mlm...mmmf..."
+    w "Aahmmf! Mmmfh! Mmmfhhh!"
+
+    scene wakanasex11
+    with dissolve
+
+    s "Wakana, we-"
+    w "Just shut the fuck up and take my pants off..."
+
+    play sound "static.mp3"
+    scene wakanasex12 with flash
+    stop sound
+    play sound "tackle.mp3"
+    with hpunch
+
+    w "Aaah! Haah! A...Arakawa!...I...hah...gave you {i}one{/i} order and-"
+    s "Still calling me that even now?"
+    w "You like it, you...fucking pervert!"
+    s "You like it too, Wakana. I can already feel how wet you are through your pajamas."
+
+    scene wakanasex13
+    with dissolve
+
+    w "I already...told you! I’m...drunk! It’s clearly just...the alcohol!"
+    s "Then I guess-"
+    w "If you even think about stopping I will chop it off in the middle of the night! Don’t you {i}dare{/i} quit on me now or a...terrible fate will befall you!"
+    s "Tell the truth. How long have you wanted this for?"
+
+    scene wakanasex14
+    with dissolve
+
+    w "I...haven’t! Haven’t you ever heard of a...moment of passion?! Now keep your fucking mouth shut and just- "
+
+    scene wakanasex15
+    with hpunch
+
+    w "Ahh!........Wha.......haaah!"
+    s "Oh, you’re {i}sensitive,{/i} aren’t you?"
+    w "I’m not...normally! Just....aaah....right there, I.......aah!"
+    s "You’re even cuter than I thought you’d be like this..."
+
+    scene wakanasex16
+    with dissolve
+
+    w "Oh, you’ve seen me before you fucking {i}demon.{/i} Don’t even pretend you weren’t looking at me back then."
+    s "Don’t pretend you weren’t looking at me either, then."
+    w "It’s not my fault your fucking cock took up half the bed! Why on earth would someone as terrible as you even be {i}blessed{/i} with such an impressive feature in the first place?!"
+    s "To better cheer up my friends when they’re in need."
+    w "Rika is going to fucking {i}die{/i} in the-"
+
+    scene wakanasex15 with hpunch
+
+    w "Aaah! Ah! Ah! Aaah!"
+    s "I’m gonna take your pants off now, okay?"
+    w "Okay! Yes! Do that! Okay!"
+
+    play sound "static.mp3"
+    scene wakanasex17 with flash
+    stop sound
+
+    w "Just...be gentle please. My back is-"
+    s "I know. I’ll try not to hurt you. But if I do, just tell me and I’ll stop."
+    w "Tell you to {i}stop?{/i} No. After you’ve been dreaming of this for essentially your entire life, it’d be incredibly rude for me to tell you to stop. Just don’t fucking {i}kill{/i} me. I can handle a {i}little{/i} pain."
+
+    scene wakanasex18
+    with dissolve
+
+    s "It wouldn’t be easier for you to get on top, would it?"
+    w "I wasn’t lying earlier when I said I can’t move. Everything is spinning and I doubt I could even stand up right now."
+    s "If you’re that drunk, I probably shouldn’t be having sex with you."
+    w "No, probably not. But do it anyway. I haven’t had an orgasm in over a month since I’ve been too sad to masturbate."
+    s "Want to at least sandwich another truth and a lie in there to make a reveal like that less embarrassing?"
+    w "Sure. Fine. I am really fucking horny right now and I also I can fly. Now hurry up and-"
+
+    play sound "static.mp3"
+    scene wakanasex19 with flash
+    stop sound
+    with hpunch
+
+    w "MNGHGH?!"
+    s "I’ll go slow, okay?"
+    w "No, no, no, no, go faster. Just not too fast."
+    s "That’s-"
+    w "Basically, if you could just only move your cock without moving the rest of your body and shaking the bed, that would be {i}great.{/i}"
+    s "Yeah, I don’t think I can do that. That’s more of a dildo thing than a real penis thing."
+    w "God, I always {i}knew{/i} having sex with a man would be frustrating! "
+    s "And {i}I{/i} always knew you’d feel this good inside."
+
+    play sound "static.mp3"
+    scene wakanasex20 with flash
+    stop sound
+
+    w "Yeah, well, congratu-fucking-lations, Arakawa. You’ve finally done it. Now the...only person I know who you {i}haven’t{/i} slept with yet is fucking...{i}Osako,{/i} which is just {i}fantastic.{/i}"
+    s "Yeah, she’s the one girl out there who I think is telling the truth when she says she doesn’t want to sleep with me."
+    w "I seriously...didn’t either! I love you, just...just as a friend! "
+    s "Of course. I know that. We’re just two friends being a little...{i}extra{/i} friendly with one another right now."
+    w "You can...go a little faster...I’m okay..."
+    s "You sure?"
+    w "Yes, just-"
+
+    play sound "static.mp3"
+    scene wakanasex21 with flash
+    stop sound
+    play sound "dosex.mp3"
+
+    w "Oh! Oh my god...fuck...right there...it’s so fucking deep...oh my god! Yes...yes!"
+    s "Did Osako really struggle with you, Wakana? You seem pretty easy to please."
+    w "It was a...medication issue! It had to be! She didn’t...aah...do anything wrong! I just...haah! Haaah! "
+    s "You just like my cock a little more, don’t you?"
+    w "I...don’t know! But either way, you...talk too fucking much! Just keep...{i}fucking{/i} me and let me whimper without interjecting every two seconds!"
+    s "And when I’m ready to cum?"
+    w "Today is safe, so...you can do it inside..."
+    s "Can you say that again but look into my eyes while you do it? I’m going to need enthusiastic consent before I cum inside of you, Wakana."
+
+    scene wakanasex22
+    with dissolve
+
+    w "Fucking cum inside my pussy, you god damn devious bastard! There! Is that what you want?!"
+
+    play sound "static.mp3"
+    scene wakanasex19 with flash
+    stop sound
+
+    s "Yes. And I thank you for the consent because I am already about to cum."
+    w "Wha- already?! It’s been five fucking minutes! I’ve heard that men are weak, but I didn’t expect it to be {i}this{/i} bad!"
+    s "Can you blame me? We both know I’ve been waiting for this forever."
+    w "Well, I hope it was...worth the fucking wait! Can you at least...make me cum before you...haah! Ngh?!"
+    s "You’re already {i}about{/i} to cum, aren’t you?"
+    w "I never...this is... it’s only been...hah! What’s...ngh...happening...to me?!"
+    s "Need me to slow down? Or-"
+    w "No! Faster! Harder! I can...handle it! Just...fuck me! F...Fuck me, Arakawa! "
+    s "Call me by my real name."
+    w "A...Akiraaa! Fuck me...Fuck me, Akira! Fuck me! Haah! Aah! HAAAH! NNN....MGAHHH!?"
+
+    with sexfade
+    with sexfade
+    with sexfade
+    scene wakanasex23 with cumflash
+    with hpunch
+
+    w "AAAH! AAAHHH! HAAAAHHHH! NGAAAAAHHHHHHHH!"
+    w "Hah......aaah.........oh my god......"
+
+    scene black
+    with dissolve
+    play sound "tackle.mp3"
+
+    w "What an...absolutely disgusting sensation...this is......."
+
+    scene wakanasex24
+    with dissolve2
+
+    s "What sensation? Being completely filled up by my cum? You don’t like it?"
+    w "What do you...think you’re doing?"
+    s "I think they call it aftercare. Sounded like something you would like."
+    w "Don’t pretend to be sweet and loving now, you insatiable deviant..."
+    s "Okay, sure. I guess I’ll just keep fucking you then."
+
+    scene wakanasex25
+    with hpunch
+    play sound "dosex.mp3"
+
+    w "Aah! Hah! Wha...again?! While I’m still...haah! A...Aren’t men supposed to have some sort of...recharge time or something?!"
+    s "My desire to take care of you has helped me push past my limits. You said five minutes wasn’t enough, right?"
+    w "Yes, but that was before I...aaah...haaah! Oh god...it feels...d...different like this!"
+    s "You like it. Don’t lie."
+    w "I love it...Keep going...fuck me deeper, Arakawa! Pound me with that...massive fucking cock! "
+    s "We’re going to make a mess of the bed, Wakana. Our friends are going to know exactly what went on tonight when they come back to get their things tomorrow."
+    w "They’re the ones who...enabled this! So they can...deal with the consequences when we wake up in the-"
+
+    scene wakanasex26
+    stop music
+    $ renpy.pause(8, hard=True)
+    scene wakanasex27
+    with dissolve3
+
+    w ".............................................."
+    w "........................"
+
+    scene wakanasex28
+    with dissolve2
+
+    w "............................"
+    w "......................................................"
+
+    scene wakanasex29 with hpunch
+
+    w "Oh my god."
+
+    play sound "static.mp3"
+    scene wakanasex30 with flash
+    stop sound
+    play music "normalday.mp3"
+
+    w "Oh my god."
+    w "Oh my god, oh my god, oh my god, oh my god. "
+    w "Oh my god, oh my god, oh my god, oh my god, oh my god, oh my god, oh my god, oh my god."
+
+    scene wakanasex31
+    with dissolve
+    play sound "slidedoor.mp3"
+    stop music fadeout 5.0
+
+    w "OH MY GOD, OH MY GOD, OH MY GOD! NO! AAH! HOW?! WHY?! "
+
+    scene black
+    with dissolve2
+
+    w "RIKA!!!!!!"
+    w "YOU BETTER HOPE TO GOD I DO NOT SEE YOU ON MY WAY OUT OF HERE!"
+
+    $ renpy.end_replay()
+    $ beachsevenwakana2 = True
+    $ wakana_love += 1
+    $ wakana_lust += 1
+
+    "{i}Wakana’s lust has increased to [wakana_lust]!{/i}"
+    "{i}Wakana’s affection has increased to [wakana_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump beachsevenkarin1intro

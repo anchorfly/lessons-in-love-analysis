@@ -11452,3 +11452,272 @@ label amispring5:
         jump advancetosunch4
     if day == 7:
         jump advancetomonch4
+
+label beachsevenami1:
+    play sound "static.mp3"
+    scene amibeachteleportation1 with flash
+    stop sound
+    play music "amiamiami.mp3"
+
+    a "Daddy! Hi! I’ve been looking all over the place for you! And I promise it’s for perfectly normal reasons!"
+    s "Wow, what a perfectly normal thing to say."
+
+    scene amibeachteleportation2
+    with dissolve
+
+    a "Whatcha doing all the way over here when there are over fifteen girls in swimsuits just ten miles down the shore where everybody else is hanging out?"
+    s "Ten miles? You mean to tell me I’ve managed to walk ten miles during the brief off-screen interlude that just happened?"
+
+    scene amibeachteleportation3
+    with dissolve
+
+    a "Ahh, okay. That explains it. You always do this thing where you start to dematerialize off screen and, if nobody stops you in time, your particles are reassembled somewhere else within a ten mile radius."
+
+    scene amibeachteleportation1
+    with dissolve
+
+    a "And while it sucks that you hit the distance cap, no cloud is without its silver stomach lining because NOW you get to give me a piggyback ride all the way back to everyone else!"
+    a "Unless of course you’d like me to go home and fuck myself like you did last night by coming here with all of my friends without so much as inviting me. That’s {i}fine,{/i} though!"
+    s "It doesn’t {i}sound{/i} fine."
+
+    scene amibeachteleportation4
+    stop music
+
+    a "Because it’s not."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+
+    scene amibeachteleportation1
+    with dissolve
+    play music "amiamiami.mp3"
+
+    a "So, what were you guys doing? Orgy? Are you into Dungeons & Dragons now? Was it an orgy? "
+    s "You know how I feel about orgies, Ami. I just saw a few of them naked and then ran away to go talk to Yumi. "
+    a "Why Yumi? Yumi isn’t special and there is nothing special {i}about{/i} her apart from how satisfying it would be to pound each of her tsundere holes into oblivion."
+    s "Ami, I think we need to talk."
+
+    scene amibeachteleportation5
+    with dissolve
+
+    a "No!"
+    s "Oh, okay."
+    a "In fact, now’s the actual {i}worst{/i} time for the two of us to talk since you are rapidly losing your grip on reality! And it’s probably because you’re {i}thinking{/i} of talking to me! Which is bad! Don’t do it!"
+    s "You’re just afraid of getting grounded again."
+    a "No, silly! I’m afraid I’ll lose the last remaining thing I love! Which becomes increasingly more probable the more unstable the ground we stand upon becomes! "
+    s "What do you know that I don’t? "
+    a "What, you mean besides everything?"
+    s "Yeah. Write it all out on a sheet of paper that I’ll forget about after being sent to a different timeline where you didn’t write it. I want more difficult details I can refer to as plot holes."
+
+    play sound "static.mp3"
+    scene amibeachteleportation6 with flash
+    stop sound
+
+    a "But the only hole you need is right here. Mouth hole. The hole that is both inside of and is also my mouth."
+    s "Mouth hole does sound good right now. But I can’t help but feel like you’re only here to distract me from my goal of accidentally erasing someone again."
+
+    scene amibeachteleportation7
+    with dissolve
+
+    a "Wow, I wonder what all of those things in the background are? Body bags? I better not draw any attention to them to further complicate the scenario in play here!"
+    s "What’s going on with the water?"
+
+    scene amibeachteleportation8
+    with dissolve
+
+    a "It’s wet. Like me. Why?"
+    s "Just wondering."
+
+    play sound "static.mp3"
+    scene amibeachteleportation9 with flash
+    stop sound
+
+    a "Sauna!"
+    s "Oh."
+    a "Be more impressed! I just moved us over nine miles without even blinking! Reward me for all of my hard work by going back to normal!"
+    s "Me? You’re the one who’s being weird right now. Nobody else I know intentionally teleports me into saunas."
+    a "That’s because nobody else has had a creepy and/or intimate encounter with you inside one of them yet! And I won’t be able to say that for much longer, so take advantage of me now!"
+
+    scene amibeachteleportation10
+    with dissolve
+
+    a "And by “me” I mean “it.” But only if you’re on the Anti-Ami route, which runs parallel to the more politically correct {i}Pro-Ami{/i} route. No conditional dialogue this time, unfortunately."
+    s "It’s so hot in here that I’m forgetting the entire point of my panic attack right now."
+
+    scene amibeachteleportation11
+    with dissolve
+
+    a "Great! Now follow that train of thought until it SPADs and no one wants to hire you for their railway company anymore!"
+    a "We’re a normal family! I’m a normal girl and you’re a normal guy! And Niki’s a normal lady with a normal sister and I’m the only one who doesn’t mandatorily receive your semen because life is cruel."
+    a "That’s a problem for another day, though. How many fingers am I holding up?"
+    s "I don’t know. They’re currently off screen."
+    a "Then tilt the camera down, idiot!"
+
+    scene amibeachteleportation12
+    with dissolve
+
+    s "I still can’t tell. One hand is clipping into your body and the other hand is behind your left thigh."
+
+    scene amibeachteleportation13
+    with dissolve
+
+    s "Wait a minute, when did you pierce your belly button? I didn’t give you permission to do that."
+    a "I did it myself with a safety pin to bring this outfit together and remind you of things that never happened! Plus, it’ll be a fun Easter egg for anyone who’s watched me get shot before!"
+
+    play sound "static.mp3"
+    scene amibeachteleportation14 with flash
+    stop sound
+
+    s "Ami, you’re not allowed to get shot either. I don’t understand why you keep doing things without my permission. You are out of control and I don’t know what to do about it anymore."
+    a "Well, who says you need to do anything? I’m kind of like Antarctica. "
+    s "I’m going to need you to elaborate on that one, red daughter."
+    a "Because Antarctica isn’t governed by a single body, but instead regulated by the Antarctic Treaty System which includes a bunch of different countries from all over the globe. {i}Duuuuuuuuuuuuuh.{/i}"
+    s "..."
+    a "..."
+    a "I mean that you have no control over me and that my freedom is just a farce since everyone else has decided that I am important enough to turn into a slave."
+    s "No daughter of mine is allowed to be a slave either."
+
+    play sound "static.mp3"
+    scene amibeachteleportation15 with flash
+    stop sound
+
+    a "Grave!"
+    s "Stop taking after the tombstone behind you. You and I both know that each time we rhyme, we- oh no. It’s happening again."
+    a "How come everybody gets to see my mom but me? Do you have any idea how many times I’ve come here? I even tried to dig her up once until I realized it was just my other dad down there."
+    s "Don’t talk about him. {i}I’m{/i} your dad and you’re my cute little zygote."
+    a "That’s what I think too! But despite what either one of us thinks, he {i}was{/i} a person who actually existed! And he both fed me and had a ton of sex with Mom!"
+    s "You don’t need to remind me, Ami. I’ve smelled his pee before."
+    a "Gross! When can I see my mom again?"
+    s "I don’t know. Go talk to Kaori. She’s wearing her heart."
+
+    scene amibeachteleportation16
+    with dissolve
+
+    a "{i}What?!{/i}"
+    s "You really didn’t know? But you seem to know so many things that nobody else knows. Like how to teleport nine miles or Antarctica facts."
+    a "Are you telling me my mom’s been inside of {i}Kaori{/i} this whole time?!"
+    s "Kind of, yeah. I’m having a hard time controlling my informational output at the moment."
+
+    play sound "static.mp3"
+    scene amibeachteleportation17 with flash
+    stop sound
+
+    a "Beach again. Why did you keep this from me?"
+    s "To protect you."
+    a "From what? Closure?"
+    s "Hey, don’t yell at me. I’m broken right now. And you’re not without your own flaws in the informational output department, red daughter."
+    a "Maya kept a ton of stuff from you too and that didn’t stop you from falling in love with {i}her{/i} for the, like, trillionth time. How come it’s only bad when I do it?"
+    s "Maya never {i}KILLED{/i} people you big, dumb dummy!"
+
+    scene amibeachteleportation18
+    with dissolve
+
+    a "She’s killed {i}tons{/i} of people! We all have! You really think there’s only one yandere in a class of twenty neuro-divergent nymphomaniacs?! Every one of us has become obsessed and done unspeakable things in the-"
+
+    play sound "static.mp3"
+    scene amibeachteleportation19 with flash
+    stop sound
+
+    a "Hahah! {i}Nope!{/i} You almost got me to {i}say{/i} things! My compassion has become my weakness once again!"
+    s "Does “everybody” include all of the side characters too? Because Maki’s been making me question some things lately."
+
+    scene amibeachteleportation20
+    with dissolve
+
+    a "I have no idea what you’re talking about. But, if I did, I’d probably remind you that no one you encounter is without purpose, Dad. At least among those of us you can see."
+    a "Maki. Chinami. Karin. Sara. Even that little gremlin, Nao-chan. "
+
+    scene amibeachteleportation21
+    with dissolve
+
+    a "You’re gonna have to collect {i}everybody{/i} in one life if you want to actually {i}do{/i} anything about any of this. No secret hole or slumber party is going to give you any answers a sea of hungry vaginas can’t."
+
+    play sound "static.mp3"
+    scene amibeachteleportation22 with flash
+    stop sound
+
+    a "But that’s all you’re getting out of me! I’m off to go find Kaori now and {b}{size=+10}RIP HER FUCKING HEART OUT.{/b}{/size}"
+    s "Please don’t kill anyone because of things I revealed in the midst of my delusions, Ami. I really don’t want to ground you again. I always feel bad afterward."
+    a "Oh, you don’t have to worry about that! I might know a bunch of stuff, but I’m no cardiologist! I have no idea how to actually keep a heart operating once it leaves its cage!"
+    a "Just know that, if you are {i}lying{/i} to me right now, I’m going to be very very very VERY VERY {b}VERY VERY {size=+10}VERY VERY{/b}{/size} mad."
+    s "I’m incapable of lying in my current state. That’s why I have no choice but to tell you I have a boner right now, even if I’m currently playing the Anti-Ami route."
+    a "I knew that penetrating my own flesh with a safety pin would work! Boys are so predictable, I swear."
+    s "Ami, what’s happening to me?"
+    a "I already told you earlier, Dad! The ground we walk upon is becoming unstable!"
+
+    play sound "static.mp3"
+    scene amibeachteleportation23 with flash
+    stop sound
+
+    a "I mean, just look! We’ve been halfway submerged this entire time and had no idea until we gained the perspective of an outsider! But that’s exactly how things are {i}supposed{/i} to be here!"
+    s "I don’t get it. Please explain it to me in terms that even casual readers will understand."
+
+    scene amibeachteleportation24
+    with dissolve
+
+    a "We shouldn’t be fighting against all this weirdness, Dad. We should be embracing it! Because if something’s normal to us, who cares if it isn’t normal to anyone else?"
+    a "Whether it be having sex with your daughter, floating text about how cute I am, sex with your daughter, teleporting nine miles, or even having sex with your daughter! All of these things are only wrong if they’re real."
+    a "So, as the only ones capable of defining our own respective realities, wouldn’t it make more sense for us to accept all the extra onion rings the world included with our fries and just friggin’ eat ‘em anyway?"
+    s "Is that really the simplest explanation possible?"
+    a "Beats me. I’m just a clingy teenage girl chasing after her own idea of happiness. And you’re-"
+    s "The huggy boy."
+    a "No. Wrong game. You’re my dad. "
+    a "We’re both normal people living normal lives and anyone who makes you question that or think there’s anything better {i}outside{/i} of this world is intentionally leading you astray. Understood?"
+    s "So I don’t want to leave?"
+
+    stop music
+    play sound "static.mp3"
+    scene amibeachteleportation25 with flash
+    stop sound
+
+    a "Of course you don’t want to leave. Wanting to leave would be stupid."
+    a "Do you know what happens to you out there, Dad? "
+    a "Do you know what happens to {i}me?{/i}"
+    a "Accept the [[REDACTED] Spring. It is the last chance you have to live a life free of worry."
+    a "What’s most important of all, though, is that you {i}leave me alone.{/i}"
+    a "I love you too much to not tell you everything if you truly, earnestly ask."
+
+    play sound "static.mp3"
+    scene amibeachteleportation22 with flash
+    stop sound
+    play music "amiamiami.mp3"
+
+    a "Anyway, that’s all! You should start coming down soon now that you’ve managed to mostly avoid any real form of confrontation again."
+    a "Oh! {s}I left a present for you in the sauna, by the way. Just don’t open it until tomorrow if you don’t want to ruin the entire weekend.{/s} Love you!"
+    s "Don’t go looking for Kaori, Ami."
+
+    scene amibeachteleportation26
+    stop music
+
+    a "Why?"
+    s "Because closure won’t fix you."
+    a "Are you saying I’m broken?"
+    s "No."
+    s "Just that some things are better off dead."
+    a "Once more, our outlooks perfectly align. "
+
+    scene black
+
+    a "And yet, for the zillionth time..."
+    a "We mean something completely different."
+
+    $ renpy.end_replay()
+    $ beachsevenami1 = True
+    $ ami_love += 1
+
+    "{i}Ami’s affection has increased to [ami_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    play sound "phonebeep.wav"
+    "{i}You have received a picture message from Tsuneyo Tojo!{/i}"
+
+    jump beachsevenchika1

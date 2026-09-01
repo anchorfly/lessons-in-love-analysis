@@ -14485,7 +14485,7 @@ label ayanespring4:
     shi "You shouldn’t plan on coming back {i}at all.{/i} Your world is like a fucking {i}weed,{/i} I swear. It’s growing so quickly that we don’t even know what to do about it anymore."
     ay "There are more places like this then?..."
     shi "{i}A lot{/i} more. But they aren’t meant to be seen. "
-    shi "You’ll be safer if you just stay where you supposed to be. And you’ll attract {i}way{/i} less attention too. "
+    shi "You’ll be safer if you just stay where you’re supposed to be. And you’ll attract {i}way{/i} less attention too. "
     ay "I can’t choose to do that, though..."
     ay "I’ve been sucked into so many weird realities and met so many weird creatures at this point that these “pocket-hells” are basically just a way of life for me now."
     shi "No, you’re getting it wrong again. {i}This{/i} one is a pocket hell. Those other places you’re getting sucked into are something else."

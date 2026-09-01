@@ -7269,3 +7269,289 @@ label toukaspring8:
         jump endofsatch4
     else:
         jump endofweekdaych4
+
+label beachseventouka1:
+    play sound "static.mp3"
+    scene toukayasubeachfight1 with flash
+    stop sound
+
+    "SO DRAW ME {s}IN TO{/s} INTO YOU."
+
+    play sound "static.mp3"
+    scene toukayasubeachfight2 with flash
+    stop sound
+    play music "yasusings.mp3"
+
+    ya "Touka?..."
+    ya "Will you...talk to me now?"
+
+    play sound "static.mp3"
+    scene toukayasubeachfight3 with flash
+    stop sound
+
+    to "..."
+    ya "{i}Please?{/i}"
+
+    "These words, that once would have cut like a knife, had dulled and pressed upon the skin of Touka Tsukioka hard enough to bruise her."
+    "The secrets that spilled all over the cell the night Yasu was claimed clung to her when she returned home shortly after. And it took little more than a glance to expose them for what they really were."
+    "Misguided betrayal. Reckless naiveté. Orbs of repressed vitriol that hovered over two separate souls like halos, incessantly reminding her of the chaos that exists outside of her bubble."
+    "Silence was easier than anger, though."
+    "So Touka had her own share of secrets now. Or at least little thoughts she could fashion into them to distract her from the jagged, whispery voice pouring from an angel’s cocoon."
+    "If only metamorphosis came easy. Then each of them could fly away."
+
+    ya "Touka-"
+    to "Did I not tell you to leave me alone, Yasu? Go have fun with the other girls. I will not be your babysitter this weekend."
+
+    scene toukayasubeachfight4 with fade
+
+    ya "But I don’t want to be with the other girls right now. And you’ve barely said anything to me all week."
+    ya "Can we at least swim in the same water?"
+    to "I am in no mood to {i}swim,{/i} Yasu."
+    ya "You’re in no mood to do {i}anything.{/i} All you do now is just sit around and look angry. And your blood is so loud I’m afraid it will rip you in two."
+    to "Then you best close the door behind you so you’re not covered in it when I {i}do{/i} explode. Bye-bye now."
+
+    play sound "static.mp3"
+    scene toukayasubeachfight5 with flash
+    stop sound
+
+    ya "No! Stop doing that! It’s not fair if I’m the only one ever being looked out for!"
+    ya "Through His teachings, I have learned that in times of crisis, even the most lost of lambs can still find their way back. And I know it is not a fitting role, but I would like to play the shepherd this time so you can-"
+    to "I don’t care about your stupid god. I don’t care about what you {i}think{/i} he {i}teaches{/i} you. And I {i}definitely{/i} don’t care to have {i}you{/i} of all people try to reach out and help me right now."
+    ya "Touka! That’s-"
+
+    scene toukayasubeachfight6
+    with dissolve
+
+    to "I am {i}trying{/i} to do the right thing and not talk rudely to you as I know this is not entirely your fault..."
+    to "But unfortunately, that means I must not talk to you {i}at all{/i} for a little while because my self-control only goes so far."
+    to "Now, close the door and go. Surely there’s someone else for you to share the water with."
+
+    play sound "static.mp3"
+    scene toukayasubeachfight7 with flash
+    stop sound
+
+    ya "I don’t {i}want{/i} to share it with anyone else, though. The two of us almost always enjoy the beach trip together. Why would it be any different this time?"
+
+    scene toukayasubeachfight8
+    with dissolve
+
+    to "Why would it- are you fucking kidding me right now?"
+    ya "Please don’t curse. You of all people shouldn’t dirty yourself with such little sins."
+
+    scene toukayasubeachfight9
+    with dissolve
+
+    to "Fuck your “sins” and fuck your idea of what is “clean” and fuck your fucking outlook on fucking curse words! I’m telling you one last time to leave me alone! I do not want to {i}be around{/i} you, Yasu. {i}At all.{/i}"
+    ya "What happened to make you act this way toward me?..."
+
+    scene toukayasubeachfight10
+    with dissolve
+
+    to "Oh, stop pretending to be an idiot. Surely you’re competent enough to know when and how all of this started. "
+
+    scene toukayasubeachfight11
+    with fade
+
+    f "Is everything okay, you two? Should Molly and I step out?"
+    to "Yes, please. And take Yasu with you so I can call the front desk and ask them how much longer it will be until my room is ready."
+    mo "I brought a bunch of new manga, Yasu. I even separated them based on how sinful they are so you can pick and choose from what I will now refer to as the “purity pile.”"
+
+    scene toukayasubeachfight12
+    with fade
+
+    ya "That is very thoughtful and it sounds very fun, but I need to talk to Touka and I can’t figure out how to do it without making her angrier."
+    to "A good start would have been attempting to do so {i}without{/i} spectators. Just as a reference point in the future. "
+
+    scene toukayasubeachfight13
+    with dissolve
+
+    ya "I {i}did{/i} try that! Over and over and over again! But you’re just as cold when I do that as you are right now! And you’re the type of girl who {i}normally{/i} burns like the sun! "
+    ya "If something is wrong, Touka, you must tell me! Lest your essence be corrupted and send you spiraling halfway down the-"
+
+    scene toukayasubeachfight14
+    with hpunch
+
+    to "Can you stop playing dumb and speak to me like a normal fucking girl if you want to talk?!"
+    to "In fact, what good do you think talking is even {i}going{/i} to do when all of my words will be inevitably filtered through some fucking ancient codex anyway?! You don’t actually {i}hear{/i} me! You don’t {i}listen!{/i}"
+    to "You sit there every fucking day, wide-eyed and aloof! Often in the {i}wrong{/i} direction! And all I say goes in one ear and out the other! "
+    to "What exists between them, I have no idea! But it clearly isn’t a brain if you can’t even comprehend what “go away” means!"
+    ya "Why are you being so mean?..."
+
+    scene toukayasubeachfight15
+    with dissolve
+
+    to "Hah! {i}Why am I being so-{/i} I don’t know, Yasu. I really don’t. "
+    to "Perhaps I should strip down and lock myself in a musty jail cell to repent for my actions on my fucking knees since that’s what your {i}religion{/i} would likely have me do."
+    ya "So...that {i}is{/i} what has caused you such great pain then."
+
+    scene toukayasubeachfight16
+    with dissolve
+
+    to "Oh, what a fucking {i}genius{/i} you are! Excellent job, Yasu! You finally figured it out!"
+
+    play sound "static.mp3"
+    scene toukayasubeachfight17 with flash
+    stop sound
+
+    f "Okay, yeah. I think we should probably go."
+    mo "Uhh...just come find us in the common room if you want to check out the purity pile, Yasu. I can almost guarantee it isn’t going anywhere."
+    ya "Why didn’t you just say something, Touka?! You {i}know{/i} our beliefs don’t align! I don’t understand what it is that you’re not okay with when it’s often the complete opposite from what I-"
+    to "NO ONE IN THE FUCKING {i}WORLD{/i} IS “OKAY” WITH THE THINGS YOU ARE, YASU! JUST FUCKING ADAPT, ALREADY! {i}I{/i} DID! DO YOU NOT REMEMBER THAT THIS WORLD IS NEW FOR ME TOO?!"
+    ya "But you’re strong! And I’m just-"
+
+    play sound "static.mp3"
+    scene toukayasubeachfight18 with flash
+    stop sound
+
+    to "Does this look like “strong” to you?! Do you think I’m adequately holding things together right now?! "
+    to "Or am I perhaps a little pissed off that you’d give away your fucking {i}purity{/i} so easily?! Over a fucking {i}nightmare,{/i} no less!"
+    f "Okay. Time to go, Molly."
+
+    play sound "slidedoor.mp3"
+    scene toukayasubeachfight19
+    with dissolve
+
+    to "I taught you better than this. Mother {i}and{/i} I taught you better than this. But, like always, you heard absolutely fucking {i}nothing.{/i} "
+    to "{size=-2}Now it’s just like you’re back at the fucking doctor’s office, letting people take advantage of you all over again! If only you listened to those who care about you even {i}half{/i} as much as you listen to all those fucking “voices!”{/size}"
+    ya "I {i}had{/i} to do it, Touka! You don’t understand! But I’m safe now! And I don’t need to do it anymore! I don’t need to-"
+
+    scene toukayasubeachfight20
+    with dissolve
+
+    to "Oh, good! No worries at all then! What great news!"
+    ya "R...Really? I-"
+
+    scene toukayasubeachfight21
+    with dissolve
+
+    to "NO, YOU FUCKING DUNCE! IT’S NOT GREAT! IT WILL NEVER {i}BE{/i} GREAT! YOU LOST YOUR VIRGINITY TO A TEACHER IN THE BASEMENT OF A FUCKING CHURCH AFTER LITERALLY {i}BEGGING{/i} FOR IT!"
+    to "There are over ten thousand fucking religions in this world and not a single ONE OF THEM beside yours would endorse such a thing! Take a fucking second to think about {i}that,{/i} Yasu! "
+
+    play sound "static.mp3"
+    scene toukayasubeachfight22 with flash
+    stop sound
+
+    ya "But you want to do the same thing! You want to receive Sensei’s light too! So why is it only bad for {i}me?!{/i}"
+    ya "What would have been the {i}right{/i} way to do it in your eyes?! Why haven’t you yelled at anyone else?!"
+    to "BECAUSE YOU’RE SUPPOSED TO BE MY BEST FRIEND! Did you really think you could do something like this and I’d just shrug it off like it’s no big deal?! {i}I{/i} haven’t even slept with him yet!"
+    ya "Okay, but {i}I{/i} have! And just because we’re friends doesn’t mean you get to tell me what I’m allowed to do with my body! It’s still {i}mine!{/i}"
+    ya "Sensei took very good care of me. And I-"
+
+    play sound "static.mp3"
+    scene toukayasubeachfight23 with flash
+    stop sound
+
+    to "He {i}took care{/i} of you. Oh, great. That’s just great. I absolutely {i}love{/i} all of the things that could possibly mean. What a wonderful thing to hear."
+    ya "I don’t regret it one bit...I’m safer now. And we aren’t in love, so you don’t need to feel the sort of pressure commonly associated with adultery! You can still sleep with him and I’ll be {i}happy{/i} for you!"
+    to "Thank you so much for your blessing, Yasu. That means just about as much to me as the ten paragraph passage you spoke at my bedside while I was trying to fall asleep last night."
+    ya "Those words mean {i}everything,{/i} though! They-"
+
+    scene toukayasubeachfight24
+    with dissolve
+
+    to "They mean nothing! {i}NOTHING!{/i} Your bible is NOTHING but a mess of nonsensical contradictory statements you pull out to justify {i}everything!{/i} But there’s no {i}meaning!{/i} It’s all just fanatical drivel! "
+    ya "It’s not! It’s the truth!"
+    to "Then tell me why you said just a moment ago that your body belongs to {i}you{/i} when I’ve heard a million times that it belongs to your fucking god! Which one is it, Yasu?!"
+
+    play sound "static.mp3"
+    scene toukayasubeachfight25 with flash
+    stop sound
+
+    ya "It is both."
+    to "Yeah, of fucking course it is. How convenient."
+    ya "He gave me this body. And while it is {i}my{/i} body to do as I please with, that does not mean I mistrust what He would have me do with it. "
+    to "Mhm. And was He also the one who made you strip down for all those little “photo sessions” in the past?"
+    ya "That was before I knew of Him. "
+    to "But if He asked you to do them now, would you?"
+    ya "..."
+    to "Yasu-"
+    ya "I would."
+    to "I knew it..."
+    to "Nothing about you is {i}yours.{/i} No girl would choose a place like that for one of the most important moments of her life. You’re just a puppet."
+
+    scene toukayasubeachfight26
+    with dissolve
+
+    ya "I’m not a puppet..."
+    to "Oh, perhaps just a worm then? A roach? What are all of those other terrible things “He Who Loves You So Much” forces you to call yourself? There are too many to recount right now."
+    to "A maggot, perhaps? A housefly? Oh! Why not go for something {i}truly{/i} exotic and call yourself a fucking vinegaroon while you’re at it?!"
+
+    play sound "static.mp3"
+    scene toukayasubeachfight27 with flash
+    stop sound
+
+    ya "Because I’m a {i}girl!{/i} I’m not a bug! I’m not a worm! I’m Yasu!"
+    ya "I like shoujo manga and strawberry daifuku and swimming and {i}you!{/i} I like Sensei too! I’m not a puppet! I’m not an idiot! I’m just {i}me!{/i} And I can’t help it if I’m a little broken when I was born this way!"
+    ya "You can’t say that God is leading me astray when you’re doing the same thing He is, though! You {i}both{/i} have ideas for what I’m supposed to be and how I’m supposed to act and I can’t follow {i}all{/i} of them!"
+    ya "So what {i}am{/i} I supposed to do, Touka?! Trust {i}your{/i} word over the one that’s been with me way longer?!"
+    ya "Believe that {i}you{/i} are right and {i}He{/i} is wrong and wait until the world is over to do what everyone else is doing?!"
+    ya "I just want to {i}live!{/i} I want to keep experiencing these happy days for the first time in my life! "
+    ya "And I’m sorry if the choice {i}I{/i} made makes you sad or angry, but it was still {i}my{/i} choice at the end of the day! And I stand by it!"
+    to "You {i}are{/i} an idiot, Yasu."
+
+    scene toukayasubeachfight28
+    with dissolve
+
+    to "You don’t even realize it’s {i}worse{/i} when the choice is truly yours. "
+    ya "But...how?"
+    to "{i}You{/i} tell me. If you’re as human as you say you are, what other reasons might I have to be upset about you and Sensei crossing the line you did?"
+    ya "I..."
+    to "You?..."
+
+    scene toukayasubeachfight29
+    with dissolve2
+
+    ya "..."
+    to "..."
+    ya "It isn’t like that..."
+    ya "I really just..."
+    ya "It saved me. {i}He{/i} saved me."
+    to "You just keep making it worse, don’t you?"
+    ya "If it is an apology you want, I will get down on my knees and-"
+
+    scene toukayasubeachfight30
+    with dissolve
+
+    to "Yasu, how would you like having the dorm room to yourself for a while?"
+    ya "...What?"
+    to "Perhaps even indefinitely? I think it’s rather clear that Kumon-mi High isn’t going to work out as well for me as my mother had hoped. "
+    ya "You’re...leaving?"
+    to "I haven’t decided anything yet, but-"
+
+    scene toukayasubeachfight31
+    with dissolve
+
+    ya "No. No, you can’t leave. Not now. The timing is wrong. Bad things will happen if you leave. "
+    to "Yasu-"
+    ya "{i}I’ll{/i} leave. You can stay and I’ll go out on my own again. I’ve done it before. I can survive. I can-"
+    to "I’ve had enough of your {i}prophecies,{/i} okay? I don’t care how...accurate they are most of the time. My fate is decided by me and me alone. Not the things you hear and not the things you see."
+    to "This is what it means to be free. Not...whatever {i}you{/i} are."
+    ya "Touka...please..."
+    to "Salvation doesn’t seem so great anymore, now does it?"
+    ya "{i}Please...{/i}"
+
+    scene black
+    with dissolve2
+    play sound "slidedoor.mp3"
+    stop music fadeout 10.0
+
+    to "I told you to leave me alone, didn’t I?"
+    ya "Don’t go..."
+    to "My words never mattered to you. It’s exactly as I said."
+    to "In {i}one{/i} ear..."
+    to "Out the other."
+    to "May your “end of days” be full of bliss."
+    ya "And...may the..."
+    ya "May the path you walk..."
+    ya "Be free of callousness..."
+
+    "........."
+    "......"
+    "..."
+
+    $ renpy.end_replay()
+    $ beachseventouka1 = True
+
+    "{i}Touka has dropped out!{/i}"
+
+    jump beachsevenwakana1

@@ -9869,3 +9869,371 @@ label rinspring9:
         jump endofsatch4
     else:
         jump endofweekdaych4
+
+label beachsevenrin1:
+    if _in_replay:
+        play music "gentle.mp3"
+
+    scene sky
+    with dissolve2
+
+    "Oh, hello there. I must have forgotten you were watching."
+    "And while I’m sure my thoughts were sorely missed, I’ve been struggling to get them in order over the last few hours. So it’s like I never had much to share in the first place."
+    "There are two things worth mentioning, though. "
+    "One — I had sex with Wakana and it was awesome. But it seems that she does not agree as she has apparently vanished from the beach and will not answer my texts."
+    "Two — Chika had sex with someone {i}else.{/i} Someone I am on the way to meet now. "
+    "Someone who, despite how things have been between us lately, has elected not to tell me either. "
+    "{size=-4}So I am currently spiraling and thinking about whether or not this has happened with anyone {i}else{/i} just to be kept from me in favor of prolonging what is believed to be some sort of mental stability on my end when it’s really anything but.{/size}"
+    "Shocking, I know. But when the grip on your manhood isn’t even strong enough to make you cum, it’s easy to to find yourself in the cuck chair every once in a while. And it’s easy to feel weak because of that."
+    "Which isn’t to say I’ve ever believed I’m {i}strong.{/i} "
+    "It’s just been a long time since this has happened to me. "
+    "And based on what I’m thinking right now, I realize I have not grown at all. "
+    "Let the record show that I blame no one but myself, though. Which would likely be true even if I had done nothing wrong. "
+    "But Chika is still Chika and Rin is still Rin and assuming they will love me and only me just because this universe has been abundantly convenient so far would be foolish. Especially when Rin has already shown me that."
+    "I can lose all of them. At any moment. And that’s terrifying, but it isn’t enough to make me change my ways since this path was decided for me."
+    "And if others elect to stop following me down it, well..."
+    "Good for them, I guess."
+
+    scene rinbeachdate1 with dissolve2
+
+    "When I find Rin, she’s unmoving — staring off into the distance, watching little waves make first contact with the shoreline."
+    "{size=-4}I see the nape of her neck. Piercings I often forget are there. Discern the color of the band that keeps her ponytail in place. And I realize again just how beautiful the sides of people we don’t normally see can be when they’re finally presented to us.{/size}"
+    "Yet I wonder what I look like from behind. And how boring that image must be for the ones I love to look elsewhere instead."
+    "I remain here for a moment. Feet planted in the sand, half-swallowed by the earth. "
+
+    r "Sensei..."
+
+    "But my presence is noticed before I have the chance to destroy anything else."
+
+    r "I don’t know if I want to do this anymore."
+    s "..."
+    r "I don’t know if I want to do {i}anything{/i} anymore. "
+    r "Just, sometimes I..."
+    r "I can’t help but wonder how things would be if we never met. "
+    r "If I was just Rin and you were just you and..."
+    r "And we existed in different parts of the world. Forever kept apart by fate itself."
+    s "..."
+    r "..."
+
+    play sound "static.mp3"
+    scene rinbeachdate2 with flash
+    stop sound
+
+    r "Just kidding. I still want to hang out all day. It just felt weird to stand here without all of the drama and-"
+
+    scene rinbeachdate3
+    with dissolve
+
+    r "Oh no. Did that actually upset you? You look so sad. I’m sorry, I-"
+    s "No, it’s nothing. You’re fine."
+
+    scene rinbeachdate4
+    with dissolve
+
+    s "{i}I’m fine.{/i} And I’m all yours for the entire day, so choose how you’d like to spend this time wisely."
+    r "Are you absolutely sure? "
+    s "I am absolutely sure."
+    r "So is this frown because you finally banged Miss Watabe then and can’t find her anywhere?"
+
+    scene rinbeachdate5
+    with dissolve
+
+    s "How do you already know about that?"
+    r "I didn’t, technically. But I saw her get on the bus this morning and heard some pretty damning noises coming from her room last night when I went to go for a walk. Guess I have proof now, though. "
+    s "Don’t tell anyone else, okay? I’m pretty sure she regrets it."
+    r "I doubt that. Pretty much everybody knows about the tension between you guys. I just regret not being there to watch."
+
+    scene rinbeachdate6
+    with dissolve
+
+    s "Well, Wakana aside, what’s the plan? I assume you came up with one since this was your idea?"
+    r "I {i}did!{/i} But it involves us leaving, so please follow me to the parking lot and get into the Uber that I am probably going to have to pay extra for since you were late."
+
+    scene rinbeachdate7
+    with dissolve
+
+    s "We’re leaving? Won’t that seem suspicious to everyone else when they can’t find either one of us?"
+    r "I’ve got that under control too. Futaba and Ami are going to keep Imani distracted so she can’t go looking for you."
+    s "What about your mom?"
+    r "She’ll probably get distracted by all of the seashells scattered around here or something. That one’s easy."
+    s "Well, where are we going then?"
+    r "Somewhere I can murder you and dispose of the body without issue. Duh. "
+    s "Oh. Well, I guess I should just follow you to the parking lot then, huh?"
+    r "Any last words you’d like to leave your niece-daughter and your hot idol girlfriend? I can relay them once I finish cleaning all of the blood off of me."
+    s "No. But you can tell Noriko to apologize to both of them on my behalf since she’s better with words than I am. "
+    r "I’ll do my best to not forget while I’m dismembering you in a few hours."
+    s "Thanks, Rin. I appreciate that."
+    r "No worries, homie. I’m getting a new skull for my shelf out of it, so that’s more than enough for me."
+
+    stop music fadeout 10.0
+    scene sky
+    with dissolve2
+
+    "And so the two of us get into a car together that takes us down a long winding road until I am thrown from the backseat and tied up while unconscious."
+    "When I awake, both of my legs are gone and Rin is in the process of removing my right arm. "
+    "She tells me it has always been her favorite and I’m inclined to agree on account of it being my dominant one."
+    "Regardless, I wish the arm goodbye and, within the hour, I have no limbs left to hurt anyone with."
+    "Of course none of this actually happens and what we {i}actually{/i} wind up doing is spending the day at a nearby outlet mall that apparently just opened."
+    "Rin says it’s an extension of the one we have closer to the school, just she words it in a way that makes it sound more like that mall is growing than anything else."
+    "And you’re not there."
+    "I left you behind because A) I didn’t want you to violate my corpse. And B) In the event that I was not murdered, it felt only right to award her the privacy she’s earned for waiting so long."
+
+    play sound "static.mp3"
+    scene noonsky with flash
+    stop sound
+
+    "But this is privacy I will strip now as we’ve returned to the Place Where We Are Watched and I think {i}you{/i} have earned the right to see her naked teenage body after jerking off to it for so long."
+
+    play sound "static.mp3"
+    scene rinbeachdate8 with flash
+    stop sound
+    play music "asobeatsex6.mp3"
+
+    r "I like your towel. But I think it would look better on the floor."
+    s "The sauna is certainly an interesting choice to round out our day of off-screen fun."
+    r "Why do you shield your penis from me when I would very much like to see it with my own mouth? I mean hand. I mean eyes."
+    s "Rin, why are we here?"
+    r "What do you mean why are we here?"
+    s "I mean that I am going to get ideas if you take me somewhere like this at the end of a date."
+
+    scene rinbeachdate9
+    with dissolve
+
+    r "Oh. Well, yeah. That’s kind of the point. "
+    r "I couldn’t think of anywhere more private at the inn and it would take too long for us to go back to the dorms together."
+    r "And honestly, I didn’t even realize this place {i}had{/i} a sauna until Ami told me about it earlier. So we can call it exploration and curiosity in more ways than just the fact that I want to see your penis."
+    s "Are you telling me that we are only on the verge of crossing a line right now because of my daughter’s intervention?"
+    r "That and the fact that we’ve both been masturbating to each other for years now, yeah. "
+    s "You’re coming on really strong today, I’m not gonna lie."
+
+    scene rinbeachdate10
+    with dissolve
+
+    r "I’ve got the most dating experience out of anybody we know now. What can I say?"
+    s "Yeah...you really do, don’t you?"
+
+    scene rinbeachdate11
+    with dissolve
+
+    r "Let’s sit down."
+    r "If something happens, something happens. And if {i}nothing{/i} happens, I still had a great day. And it wouldn’t have even been half as great without you, Sensei."
+    s "..."
+    r "Probably because I would have been wandering around some unfamiliar outlet mall by myself. Then sitting alone in a sauna."
+
+    scene rinbeachdate12
+    with dissolve
+
+    r "Huh. I wonder if this is how Yumi always feels?"
+
+    play sound "static.mp3"
+    scene rinbeachdate13 with flash
+    stop sound
+
+    r "So! Give me your review. How would you rate my performance as a girlfriend today?"
+    s "Surprisingly natural given how nervous you always are when it comes to romance."
+    r "I was thinking of more on a scale of one to ten, but I guess that works as well. It all {i}felt{/i} natural too. I like not having to change for you."
+    s "Well, that’s good. Because I think changing at all would just make you less likable in the end. "
+
+    scene rinbeachdate14
+    with dissolve
+
+    r "Oh? Are you implying I am {i}perfect{/i} then? Shall we tell the rest of the class to hang it up and that I have been crowned the winner despite being one of the few girls you have yet to {i}breach?{/i}"
+    s "Well, if nothing else, you’re certainly the first to refer to losing your virginity as being {i}breached.{/i}"
+
+    scene rinbeachdate15
+    with dissolve
+
+    r "My hetero virginity at least. Otoha and I went through a pretty intense honeymoon phase as I’m sure you’ve heard. Like, literally. Through a wall."
+    s "{i}Just{/i} Otoha?"
+
+    scene rinbeachdate16
+    with dissolve
+
+    r "Huh?"
+    s "Was it really {i}just{/i} Otoha you did those things with, Rin?"
+    r "What do you mean? Of course it was just her. Who else have I dated?"
+    s "Forget it. It’s nothing."
+    r "Sensei, what’s going on? Why are you acting so sketchy all of a-"
+    s "Why are you lying to me?"
+
+    scene rinbeachdate17
+    with dissolve
+
+    r "I’m not! Why do you think I’m-"
+    s "Rin, do you know why I was late today?"
+    r "Yes! Because you were banging Miss Watabe!"
+    s "Because I was talking to Chika."
+
+    scene rinbeachdate18
+    with dissolve2
+
+    r "...................Oh."
+    s "Yeah."
+    r "And.......what did Chika tell you, exactly?"
+    s "Enough for me to know you’re lying right now."
+
+    scene rinbeachdate19
+    with dissolve2
+
+    r ".......Yeah. "
+    r "Yeah, I..."
+    r "That was a lie."
+
+    scene rinbeachdate20
+    with dissolve
+
+    r "It’s not how it sounds, though! Like that was just {i}one{/i} time and it came out of literally nowhere and I had no idea what was even going {i}on{/i} at the time! Like, it doesn’t even count to me. Not at all."
+
+    scene rinbeachdate21
+    with fade
+
+    s "How long did you have a crush on her for, Rin? "
+    r "What does that-"
+    s "Longer than you’ve had one on me. Right?"
+    r "{i}Maybe,{/i} yeah! But I don’t get why everyone keeps asking me that when-"
+    s "Rin, you’re only saying that Chika doesn’t count because the two of you are in a weird spot and you’ve moved on to focusing on {i}me{/i} instead of her. That’s it."
+    r "Because {i}you’re{/i} the one I like! "
+    s "And because you like me {i}now,{/i} a physically intimate moment with someone extremely important to you just “doesn’t count?” How would Chika feel if she heard you say that?"
+    r "I...that..."
+    s "Do you have any idea how much you mean to her? Because I didn’t until today. And now I’m not sure if she actually even loves {i}me{/i} at all."
+
+    scene rinbeachdate22
+    with fade
+
+    r "As if I’m going to believe that after she sprung her feelings on me just to immediately cut me off and tell me to leave her alone for the rest of forever."
+    r "And of course {i}now{/i} she’s getting involved with the guy I’m into and sabotaging my time with {i}him{/i} as well because apparently I’m just not allowed to like {i}anyone{/i} according to her."
+    s "She wasn’t trying to {i}sabotage{/i} anything. "
+    s "And if she weren’t directly involved, I highly doubt she would have told me anything at all. She came clean because {i}she{/i} believes she cheated on me and couldn’t keep it to herself anymore."
+    r "She didn’t have to say who it was, though. She didn’t have to tell you it was me."
+    s "That would have been great for you, wouldn’t it? You’d have been able to lie and I would have just had to accept it."
+    r "I’m sorry, okay? I was going to tell you eventually, I just didn’t think {i}right now{/i} of all times would be the right time to {i}do{/i} that. "
+    s "You don’t hide things from me often, Rin."
+
+    scene rinbeachdate23
+    with dissolve
+
+    r "I {i}know!{/i} Which is why-"
+
+    play sound "static.mp3"
+    scene rinbeachdate24 with flash
+    stop sound
+
+    s "Which is why I know that this is serious. And that it isn’t just “nothing” to you like you said."
+    r "Fine. Then it was nothing {i}important.{/i} And let me just remind you that it only happened in the first place because I was horny for {i}you!{/i} How was I supposed to know Chika would-"
+    s "Stop defending yourself like I’m trying to attack you, Rin. I’m not arguing that you don’t actually like me or something. I obviously know you do."
+    r "Then why are you trying to put more distance between us right now?...I don’t get it. Everything was going so well."
+    s "Because it’s one thing to lie by omission and just never bring something up. But if I directly ask you something and you lie to me {i}then,{/i} you’re the one putting distance between us. Not me."
+    r "So if I had just admitted it, you’d have touched me by now?"
+    s "Rin-"
+
+    play sound "static.mp3"
+    scene rinbeachdate25 with flash
+    stop sound
+
+    r "How much {i}did{/i} she tell you anyway?..."
+    r "Did she mention how quickly I came? How I was too nervous to go down on her as well? How I was dripping wet before she even started? "
+    r "Do you also want to know that I still think about it sometimes? About how she knew exactly how I’d like it and how pretty she looked between my legs? Is that what you want to hear, Sensei? Are you happy now?"
+    s "All I want is for this to be real and not something you have to lie about one day when you want to look good in front of someone else."
+
+    scene rinbeachdate26
+    with dissolve
+
+    r "Do you really think I’d still be here if I wasn’t serious about you? Chika was my actual {i}dream girl{/i} for forever and yes — we hooked up one night. Yes, I liked it. But {i}that’s all.{/i} "
+    s "Do you love her, Rin?"
+    r "I love {i}you.{/i}"
+    s "You’re allowed to love more than one person, though."
+    r "{i}Am I?{/i} Because that’s what Chika did and you just said you don’t know if you can even {i}believe{/i} she loves you anymore. "
+    r "I want you to believe that you’re the one I want, Sensei. And I’m willing to do anything you want in order to prove that. {i}Anything.{/i}"
+    s "Rin-"
+    r "Why have you not touched me yet?..."
+
+    play sound "static.mp3"
+    scene rinbeachdate27 with flash
+    stop sound
+
+    r "I’m right here. Waiting. Practically {i}begging{/i} for you to hold me and kiss me and fuck me like you do in your dreams, but you’re pushing me away. So do I need to be more aggressive or what?"
+    r "Does everyone {i}else{/i} have to work this hard? Is this really all because I lied? Or are you just scared of something {i}you{/i} aren’t telling me?"
+    r "Because it’s one thing to lie by omission and just never bring something up. But if I directly ask you something and you lie to me {i}then,{/i} you’re the one putting distance between us. Right, Sensei?"
+    s "I...I don’t..."
+    s "This just..."
+    s "It’s been a long time since I’ve had to think of things like this. "
+    r "Then think about {i}me{/i} instead. How the only things between us right now are a single towel and the fact that you got all weird at the worst possible moment."
+    r "If you want me to suck it, I’ll suck it. If you want to put it inside me, {i}just put it inside me.{/i} We {i}both{/i} want it, so all we’re doing by talking right now is torturing each other. "
+    r "Let’s cross a line. Let’s do something {i}bad.{/i} We’ve earned that much, haven’t we? "
+    r "We can talk more once we get it all out of our systems. Every day even. For the rest of time or until you get bored of me. Whichever comes first. "
+    s "You...must be {i}really{/i} horny right now, huh?..."
+    r "You’re right. So horny, in fact, that if you don’t do something soon, I might have to go look for Chika. Surely {i}she’d{/i} take care of me, right? I mean...she’s done it {i}before,{/i} so-"
+    s "Okay. Message received. "
+
+    scene black
+    with dissolve2
+
+    s "Get over here before you run off and give me even more to bitch about."
+    r "Heheh....here as in your lap? Don’t mind if I- ooooh...{i}This{/i} hard already, Sensei? {i}Somebody’s{/i} excited."
+    s "Rin, you’re on my thigh. "
+    r "What?"
+    s "That’s my thigh you just called hard."
+    r "Uh....Well, can we just forget that happened? Because I- aaah! "
+    s "{i}That{/i} one is my penis. But you’re not ready for that yet."
+    r "Haah...of course...I am! I haven’t spent the last several years fantasizing about it just to be- whaaaha?! Sensei!?"
+
+    scene rinbeachdate28
+    with dissolve2
+
+    r "It’s really...aaah...impolite to just...haaah...flip someone over and...ngaaah....start...fingering them like this, you know!!! Haah! Ngaaahhh!!"
+    s "You weren’t kidding, huh? I could fit two inside right off the bat."
+    r "Just...fuck me at that point!...Is what I {i}would{/i} say if you didn’t feel so good right now! Aaah! Haah! Oh god! Aaaah!"
+
+    scene rinbeachdate29
+    with dissolve
+
+    s "Mnch...chh....mnch...."
+    r "Oh god...oh no...Sensei, my...aaaah...my ears are...really sensitive! P...haaah...please s....slow down...."
+    r "If you...keep kissing them like that, I...aaah...haaaah...."
+
+    scene rinbeachdate30
+    with dissolve
+
+    s "Mm..."
+    r "MNGHGHGHGH?! N...NO BITING! TOO...SENSITIVE! TOO...HAAH! NO! S...STOP IT! STOP IT! HAAAH! I....AAAAH.....HAAAAAH!"
+    s "Not cumming already, are you?"
+    r "N...NOOOO! OBVIOUSLY NOT!"
+    s "Mmgh...mmm...lying again?"
+    r "N...NUH-UH! I’D NEVER-"
+
+    play sound "static.mp3"
+    scene rinbeachdate31 with flash
+    stop sound
+
+    r "KYAAH! HAAAH! RIGHT THERE, RIGHT THERE, YES! DON’T STOP! DON’T STOP! S...SENSEI! KEEP GOING! KEEP GOING! KEEP-"
+
+    play sound "static.mp3"
+    scene rinbeachdate32 with flash
+    stop sound
+
+    ri "What do you mean she isn’t coming back?! The mission was a complete success! "
+    ima "Sure. If you count essentially tricking two drunk people into having sex with each other as a success, you’re 100%% right. "
+    ri "Um, excuse me Imani, but Akira wasn’t drunk at all."
+    ima "Doesn’t that just make it worse?"
+
+    scene rinbeachdate33
+    with dissolve
+
+    ri "{i}Maybe to you! But back in my day, we had this thing called “implied consent.” And we both know Wakana was an aspiring member of the Akira Sex Club long before you and me joined.{/i}"
+    ri "{i}If those two fucked, they did it because they wanted to. Not because Wakana was drunk. Have you seen my towel?{/i}"
+    ima "Have you checked the giant shelf with the word “TOWELS” written all over it?"
+    ri "{i}Towels...towels...ah! There’s- wait, no. That’s just a fire extinguisher."
+
+    scene rinbeachdate34
+    with fade
+
+    ima "Great start to the weekend, I must admit. "
+    ima "First, I get so drunk that I pass out and can’t remember anything. {i}Then,{/i} Wakana and Senpai finally bone. And now, to top it all off, I’m stuck babysitting Rika while-"
+    r "{i}{size=-5}AAHHH! FUCK! DON’T STOP, DON’T STOP, DON’T...HAAAH! AAAAAAAH!{/i}{/size}"
+
+    $ renpy.end_replay()
+    $ beachsevenrin1 = True
+    $ rin_lust += 1
+    stop music
+
+    jump beachsevenimani1

@@ -85,6 +85,8 @@ label morningch4:
             jump kirinspring3
         if day < 6 and nodokaspring3 == True and ayanespring4 == False:
             jump ayanespring4
+        if day == 4 and utaspring9 == True and mayaspring5 == True and (kirinspring4 == True or kirinspring4miss == True) and beachseven1 == False:
+            jump beachseven1
         else:
             "{i}[totaldays] Days have passed...{/i}"
 

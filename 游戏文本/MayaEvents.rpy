@@ -10384,7 +10384,7 @@ label mayaspring5:
     ay "..."
     ay "I don’t..."
     ay "I don’t know what sort of relationship you have with me."
-    ay "I don’t where the Maya {i}I{/i} know starts or...where {i}you{/i} begin. And that’s made it...really hard for me to accept the way things are now."
+    ay "I don’t know where the Maya {i}I{/i} know starts or...where {i}you{/i} begin. And that’s made it...really hard for me to accept the way things are now."
     ay "I know you’ve found some closure with Sensei. And I’m happy for you guys...really. "
     ay "I never really...{i}got{/i} that, though. So it’s still like my friend is just a new person all of a sudden and..."
     ay "I miss her sometimes. "
@@ -10440,7 +10440,7 @@ label mayaspring5:
     with dissolve2
 
     ay "You’re just a normal teenage girl at the end of the day, aren’t you? We {i}both{/i} are...So why are we always pretending to be something bigger?"
-    ay "Why can’t we just cry when we want to cry? Scream when we scream? Lash out and punch our pillows as we curse the world for how cruel it is to us? "
+    ay "Why can’t we just cry when we want to cry? Scream when we want to scream? Lash out and punch our pillows as we curse the world for how cruel it is to us? "
     ay "I don’t want to always be strong. And that’s why I feel comfortable telling you now that I can’t do this alone anymore. I need you."
     m "You...have like four other girls out there already, though. Are they not enough?"
     ay "I’d trade all of them for you. Just please don’t tell any one of them I said that."
@@ -10466,7 +10466,7 @@ label mayaspring5:
     m "What if you never wind up feeling like you can tell me anything or...what if I just never care as much as she did?"
     m "Like, the only {i}good{/i} friend I’ve ever had is Ami and I literally just trashed her behind her back. Who says I won’t do the same with you?"
     ay "You probably will. And maybe this is just ignorance on my end since the last Maya may have been super jaded after an eternity of misery, but I don’t think she or {i}you{/i} ever meant or {i}mean{/i} that stuff."
-    ay "I think you’re just as scared as me. And I think you should be allowed to feel that way instead of just suppressing it like we’ve both been doing for God-know how long."
+    ay "I think you’re just as scared as me. And I think you should be allowed to feel that way instead of just suppressing it like we’ve both been doing for God-knows how long."
     ay "I am {i}struggling{/i} right now. And Sensei isn’t always there to make those feelings go away. But we can be that for each other, Maya. Salvation."
     m "That’s the gayest thing a straight girl has ever said."
     ay "I think we’re supposed to kiss now."

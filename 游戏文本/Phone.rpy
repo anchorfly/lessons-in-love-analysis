@@ -74,7 +74,7 @@ init 1 python:
             Contact("osako", "Osako", "Osaka", osako_custom_name, Color("#9A6BA1"), osako_love, -1, osakonumber, False),
             Contact("otoha", "Otoha", "Okakura", otoha_custom_name, Color("#B83A6A"), otoha_love, -1,  otohanumber, False),
             Contact("rika", "Rika", "Rokuhara", rika_custom_name, Color("#D18E77"), rika_love, rika_lust,  rikanumber, False),
-            Contact("rin", "Rin", "Rokuhara", rin_custom_name, Color("#a30041"), rin_love, -1,  rinnumber, False),
+            Contact("rin", "Rin", "Rokuhara", rin_custom_name, Color("#a30041"), rin_love, rin_lust,  rinnumber, False),
             Contact("sana", "Sana", "Sakakibara", sana_custom_name, Color("#005730"), sana_love, sana_lust,  sananumber, christmasfive8),
             Contact("sara", "Sara", "Sakakibara", sara_custom_name, Color("#365D4C"), sara_love, sara_lust,  saranumber, saradate1),
             Contact("touka", "Touka", "Tsukioka", touka_custom_name, Color("#F0E68C"), touka_love, touka_lust,  toukanumber, False),
@@ -82,7 +82,7 @@ init 1 python:
             Contact("tsukasa", "Tsukasa", "Tsukioka", tsukasa_custom_name, Color("#f0ca8c"), tsukasa_love, tsukasa_lust,  tsukasanumber, False),
             Contact("tsuneyo", "Tsuneyo", "Tojo", tsuneyo_custom_name, Color("#C8B330"), tsuneyo_love, tsuneyo_lust,  tsuneyonumber, False),
             Contact("uta", "Uta", "Ushibori", uta_custom_name, Color("#AA4588"), uta_love, -1,  utanumber, False),
-            Contact("wakana", "Wakana", "Watabe", wakana_custom_name, Color("#540087"), wakana_love, -1,  wakananumber, False),
+            Contact("wakana", "Wakana", "Watabe", wakana_custom_name, Color("#540087"), wakana_love, wakana_lust,  wakananumber, False),
             Contact("yuki", "Yuki", "Yamaguchi", yuki_custom_name, Color("#CDCDCD"), yuki_love, -1,  yukinumber, False),
             Contact("yumi", "Yumi", "Yamaguchi", yumi_custom_name, Color("#d12e2e"), yumi_love, -1,  yuminumber, False)
         ]

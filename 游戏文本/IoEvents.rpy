@@ -8402,3 +8402,278 @@ label iospring8:
         jump endofsatch4
     else:
         jump endofweekdaych4
+
+label beachsevenio1:
+    if _in_replay:
+        play music "ame.mp3"
+
+    play sound "static.mp3"
+    scene iobeachint1 with flash
+    stop sound
+
+    i "Hi."
+    r "Oh, okay. Well, I guess my turn is over now. Later, Sensei! "
+    s "Later, Rin. See you tomorrow unless something tragic suddenly happens to me."
+
+    scene iobeachint2
+    with dissolve
+
+    i "Sorry. Did I interrupt something?"
+    s "Yes, Io. You quite literally interrupted something. I have no idea what else that word could possibly mean to you if you need to ask me this question right now."
+    i "Asking that was mostly just a formality I decided to employ to appear more normal and less rude."
+    i "I technically knew I was interrupting something. I just didn’t really care because my thing is more important than condoms."
+    s "Most things are. But go ahead, shoot. Just let the record show that I have plans both tonight and tomorrow. So if you’re trying to hang out with me, you’re going to need to schedule something ASAP."
+    i "I probably won’t have time to hang out at all this weekend, so you can give my slot to somebody else. I’m too busy being mature and working damage control to be frantic and anxious right now."
+    s "Damage control for what exactly?"
+    i "Before I answer that question, are you also only asking something to appear more normal and less rude? Because it’d be really weird if you didn’t actually know yet and I’m pretty sure you do."
+    s "Does it involve a certain maid and certain things that maid may have done before she was a maid?"
+    i "Okay, so you {i}do{/i} know. "
+    s "I take it Uta’s not handling it well then? And that you need me to go cheer her up since there’s only so much you can do on your own?"
+    i "No. In fact, I’d like you to do the exact {i}opposite{/i} of that since she really, really likes you and will probably start crying out of shame or something if she sees you right now."
+    s "So just...avoid her all weekend? That’s easier said than done. Especially immediately after I just alluded to something tragic happening. Uta could very well be that tragic thing, Io."
+
+    scene iobeachint3
+    with dissolve
+
+    i "It’ll probably be as simple as to just not go looking for her, honestly. I was able to talk to Touka about getting Uta and me a room of our own and she’s in there with AC blasting right now."
+    s "You talked to Touka? Willingly? On your own?"
+
+    scene iobeachint4
+    with dissolve
+
+    i "You should have seen me in the classroom. I stood up and yelled at everyone and I didn’t even have a panic attack until I got home. "
+    i "I have to be serious Io right now, Sensei. Uta’s always the one looking out for me and if I can’t repay that when she needs me most, what good even am I?"
+    s "I-"
+    i "And don’t actually answer that question because I already know I’m just no good at all."
+    s "Walk with me."
+    i "Okay."
+
+    play sound "static.mp3"
+    scene iobeachint5 with flash
+    stop sound
+
+    "Io and I take off down the beach as I start walking her back to the inn. And while it’s nice to see this protective side of her, I can’t help but feel bad about the circumstances that brought it out."
+    "Feeling bad about the leakage of someone’s childhood nudes is kind of just the baseline of having compassion, though. So don’t give me too much credit when I’m pretty sure {i}everyone{/i} feels bad right now."
+
+    s "So, like...I heard about this from Ami obviously. But I didn’t really pry any details out of her. "
+    i "You didn’t get any pictures then?"
+    s "Not this time, no. Though, I’m not really sure what sort of details they’d provide if I did."
+    i "None really. I just wanted to confirm that I don’t need to snatch your phone away and throw it into the ocean."
+    s "You probably still do, to be honest. It’s practically a portable bank of potential charges against me at this point."
+
+    scene iobeachint6
+    with dissolve
+
+    i "Sure, but at least you’re talking about stuff you obtained with consent. Or at least I {i}hope{/i} you’re talking about stuff you obtained with consent. But I care less about everyone else than I do about Uta right now."
+    i "Which is also just how I feel literally all of the time. But it’s especially true right now since our entire class has suddenly violated her privacy. Albeit accidentally, but still."
+    s "It was just...a random text chain then? Like, {i}everyone{/i} got them?"
+    i "I originally thought it was just our class, but...yeah. I think pretty much any cell phone inside of the school was sent those pictures. "
+    i "And given how many people are acquainted with Uta as a result of her merely existing, it didn’t take long for word to get around about who was {i}in{/i} those pictures."
+    s "And how is she handling all of this? Apart from bad enough to warrant damage control and the very rare “Serious Io?”"
+    i "Exactly how I thought she would if she was ever confronted with news of her past getting out. "
+    i "She’s still smiling and saying everything is fine. That she doesn’t care if anyone knows this about her since it’s just a “part of who she is” or whatever else her counselors fed her to make her accept things."
+    i "It’s all a lie, though. Surely {i}you{/i} know Uta’s smile by now. So you’d be able to discern a forced one with no issues at all. She’s operating off of auto-pilot, basically. "
+    i "Like, I didn’t even want her to {i}come{/i} here but she just kept insisting on it because she just wants everything to be normal again when she knows deep down, nothing will ever be “normal” again."
+    s "You don’t know that for sure, though. Like, apart from Ami the day it happened and you right now, no one’s said anything about this to me {i}at all.{/i} So I can’t imagine anyone is talking to {i}her{/i} about it."
+    i "It’s not about whether anyone talks about it, Sensei. It’s about whether or not they know. "
+    i "Uta’s cultivated an image for herself that she’s {i}proud{/i} of. She’s finally going to a school where rumors about her aren’t circulating like crazy. Or...at least they {i}weren’t.{/i} But that’s obviously changed."
+    i "So now it’s back to square one and she’s never going to feel comfortable again. Which sucks {i}extra{/i} hard since there’s literally nowhere else to run to now."
+    s "Is she still going to school? Do the teachers know about-"
+    i "{i}Everyone{/i} knows. Yet, Uta’s still showing up like nothing even happened. "
+
+    play sound "static.mp3"
+    scene iobeachint7 with flash
+    stop sound
+
+    i "Miss Imai’s been trying to talk to her and, like, {i}be supportive{/i} or whatever. But it’s not going to change anything. So the only way for Uta to overcome it is to {i}literally{/i} change herself. Again. And that worries me."
+    i "She’s always been stronger than me. And I’ve looked up to her since we met because of that..."
+    i "But there’s only so much a person can take and, if she has to keep rewriting herself like this, who’s to say what will be left of the girl at the core of it all?"
+    s "Well, I was about to ask how I can help, but it doesn’t seem like I {i}can.{/i}"
+
+    scene iobeachint8
+    with dissolve
+
+    i "I just don’t understand how this could have been avoided..."
+    i "Like, it’s {i}weird.{/i} This isn’t just one person we’re talking about. This isn’t pictures being sent to you or me or her but an {i}entire fucking school.{/i} How does that even happen?"
+
+    scene iobeachint9
+    with dissolve
+
+    i "{i}Who{/i} would do that? Why is everyone so fucking evil? Why can’t we just live our lives without people trying to rape us or exploit us everywhere we look?"
+    s "..."
+
+    scene iobeachint10
+    with dissolve
+
+    i "Sorry, I..."
+    i "I’m just not really handling this as well as I hoped. "
+    i "And it’s dredging up a bunch of shitty memories that will inevitably make {i}me{/i} shitty as a result. And so both of us are just going to dissolve into nothing but scorn and shame and then eventually disappear."
+    s "Well, I’d greatly prefer if neither of you {i}disappeared.{/i} Weird things just...happen sometimes. Especially here, of all places."
+
+    scene iobeachint11
+    with dissolve
+
+    i "What is that supposed to mean?"
+
+    scene iobeachint12
+    with fade
+
+    s "Uta will know what it means. And if she doesn’t, she’ll learn soon. "
+    s "This place is nothing like she hopes...but I think she’ll get through it, Io. "
+    s "We both know that shame never fully wears off. But it does get easier to ignore sometimes. And if Uta’s come this far, who are we to fear where else she’ll go?"
+    i "Yes, but at least {i}we{/i} don’t have our shame paraded in front of us and distributed to all of our peers. If anything, Uta has it even {i}worse{/i} than we do. "
+    i "She can’t even {i}hide.{/i} So how are we supposed to help as two people who do nothing but {i}avoid{/i} our pasts?"
+    s "I confront my past every day now. The issue with me is that I always let it win. But Uta isn’t like us. And if she’s as strong as you say, maybe we can learn from her how to become better people after all of this blows over."
+
+    scene iobeachint13
+    with fade
+
+    i "And if it doesn’t?..."
+    s "..."
+    i "If she lets the past win the same way you do, won’t she become just as much of a monster?"
+    i "There’s a chance nothing good comes out of this. That someone is sending those things to all of us because they want to {i}break{/i} her then marvel at the mess that she becomes."
+    i "Just, if Uta breaks, so will I. How could I not when she’s been my anchor this whole time?"
+    s "You’ve wrapped too much of yourself up in her, Io. You’re the only one who gets to define who and what you are."
+    i "No...I’m not. That choice was made for me a long time ago and there is nothing I can do to escape it. Uta’s the one who got out. She {i}knows{/i} how to become something else. "
+    s "Then I say we let her."
+
+    scene iobeachint14
+    with dissolve
+
+    i "..."
+    s "If she wants to act like nothing happened, let her. If she wants to lie in bed with the AC blasting while avoiding all human contact, let her. "
+    i "But what if she wants to do something bad?..."
+    i "Do we {i}let her{/i} do that as well?"
+    s "..."
+    i "There’s something weird about all of this, Sensei. "
+    i "Something I can’t quite put my finger on."
+
+    scene black
+    with dissolve2
+
+    i "There’s no way real life is supposed to be this depressing, right?..."
+
+    "........."
+    "......"
+    "..."
+
+    scene iobeachint15
+    with dissolve2
+
+    "Io stayed quiet for the rest of the walk back when I couldn’t come up with an answer. I still don’t know what “real life” is."
+    "{size=-4}Because if Descartes is right and my previous statements confirms as much, this life {i}is{/i} real. And that, by even being able to wonder if it is or not, I’m creating some sort of paradox where I have {i}realer{/i} thoughts somewhere else.{/size}"
+    "Then {i}that{/i} me has “realer” thoughts and it goes on and on and on for all eternity."
+    "Yes, strange things happen in this place. And yes, I’ve been taught to believe that most of them are {i}unrealistic.{/i} That they don’t fit in with what “reality” is meant to be. But that’s just {i}it.{/i}"
+    "I think that way because that’s how I was {i}taught{/i} to think. And if what someone else was taught contradicts that, {i}that{/i} creates a paradox too. "
+    "{size=-4}Who says “real life” can’t be this depressing? Who says it isn’t the most depressing thing that can possibly exist? And why would we even listen to whoever that is in the first place when this world is supposed to be what {i}we{/i} make of it? Not them.{/size}"
+    "Be it fact or fiction, truth or false, what matters most is how it makes you feel."
+    "I don’t want to leave this place because I don’t think it should exist."
+    "I want to leave it because it makes me sad."
+
+    i "I went back to that hole recently..."
+    i "The one where we kissed for the first time."
+    s "Uhh...cool? Kind of a weird time to bring that up, though."
+    i "I saw my mother there."
+    s "..."
+    i "And then she was gone."
+    s "Io-"
+    i "I...don’t think it was {i}actually{/i} her. I think I was just seeing things in the dark or...something like that."
+    i "But I’m afraid to go back now."
+    i "And I wonder if..."
+    s "..."
+    i "I wonder if I only saw that in the first place because something or...someone didn’t want me to keep looking around in there."
+    s "That’s-"
+
+    scene iobeachint16
+    with dissolve
+
+    i "Weird, I know. And...kind of random. "
+    i "But all this talk or...{i}lack{/i} of talk about what’s real or make believe has got me thinking."
+    i "If this {i}is{/i} just some kind of story...and all {i}we{/i} are is characters dropped in to make it more interesting..."
+    i "What reason would there possibly be to keep us from exploring?"
+    i "And why did they have to make us all so sad?..."
+    s "..."
+
+    scene iobeachint17
+    with dissolve
+
+    i "..."
+    i "Thanks for walking me back, Sensei. "
+    i "I’m...gonna go spend some time with Uta now."
+
+    scene black
+    with dissolve2
+
+    "Io wanders off after leaving me somewhat speechless. Again. "
+    "She’s getting good at that."
+
+    scene tree3
+    stop music
+
+    "It’s all ridiculous, though."
+    "She saw her mother because that’s what scares her."
+    "It’s the same reason I see you every time I close my eyes."
+
+    play sound "static.mp3"
+    scene iobeachint18 with flash
+    stop sound
+
+    i "Hey. Still doing okay in here?"
+    u "Mhm. Just watching TV. "
+
+    scene iobeachint19
+    with dissolve
+
+    i "Yeah, I...I can see that."
+
+    play sound "static.mp3"
+    scene iobeachint20 with flash
+    stop sound
+
+    u "It looks like my show ended, though."
+    u "Did you run into Sensei?"
+    i "I-"
+    u "Is he coming?"
+    i "Uta..."
+    u "I think today’s going to be the day, Io. "
+    u "I think I’m finally going to lose my virginity."
+    u "I’m so excited, I can barely breathe."
+
+    play sound "static.mp3"
+    scene iobeachint21 with flash
+    stop sound
+
+    i "Have you taken your medication yet?"
+    u "I don’t understand why I can’t have grapefruit."
+    i "Uta, you need to-"
+    u "I took it, don’t worry. I love you, Io."
+    u "Thank you for always taking care of me."
+    i "Do you want the remote? We can...watch a movie together or something?"
+    u "He isn’t coming, is he?"
+    i "You don’t want to see him right now, Uta."
+
+    play sound "static.mp3"
+    scene iobeachint20 with flash
+    stop sound
+
+    u "Oh..."
+    u "Okay. If that’s what you think is best."
+    i "Would you rather I leave you alone?"
+    u "No, you can stay. I’m fine."
+    i "You’re not-"
+    u "I said I’m fine. "
+    i "..."
+    u "I said I’m-"
+
+    scene black
+
+    i "I know."
+    i "I heard you the first time..."
+
+    $ renpy.pause(5, hard=True)
+    $ beachsevenio1 = True
+    $ io_love += 1
+
+    "{i}Io’s affection has increased to [io_love]!{/i}"
+
+    jump beachsevenami1

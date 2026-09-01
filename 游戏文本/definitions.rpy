@@ -473,6 +473,11 @@ init:
     $ dormwarssix11 = False
     $ dormwarssix12 = False
     $ postwarsix1 = False
+    $ beachseven1 = False
+    $ beachseven2 = False
+    $ beachseven3 = False
+    $ beachseven4 = False
+    $ beachseven5 = False
 
     #FUTABA
     $ firsttimelibrary = False
@@ -538,6 +543,7 @@ init:
     $ rinspring7 = False
     $ rinspring8 = False
     $ rinspring9 = False
+    $ beachsevenrin1 = False
 
     #AMI
     $ firsttimeamisroom = False
@@ -582,6 +588,7 @@ init:
     $ amispring4miss = False
     $ amispring5 = False
     $ amispring5miss = False
+    $ beachsevenami1 = False
 
     #MIKU
     $ firsttimesoccerfield = False
@@ -757,6 +764,8 @@ init:
     $ chikaspring8 = False
     $ chikachristmalloween1 = False
     $ chikachristmalloween2 = False
+    $ beachsevenchika1 = False
+    $ beachsevenchika2 = False
 
     #SANA
     $ firsttimebar = False
@@ -925,6 +934,7 @@ init:
     $ iospring7 = False
     $ iospring7miss = False
     $ iospring8 = False
+    $ beachsevenio1 = False
 
     #NODOKA
     $ nodokalibrary1 = False
@@ -992,6 +1002,7 @@ init:
     $ toukaspring6 = False
     $ toukaspring7 = False
     $ toukaspring8 = False
+    $ beachseventouka1 = False
 
     #YASU
     $ church1 = False
@@ -1107,6 +1118,8 @@ init:
     $ karinspring6 = False
     $ karinspring7 = False
     $ karinspring7miss = False
+    $ beachsevenkarin1 = False
+    $ beachsevenkarin1miss = False
 
     #KIRIN
     $ kirindate1 = False
@@ -1182,6 +1195,8 @@ init:
     $ wakanaspring6 = False
     $ wakanaspring7 = False
     $ wakanaspring8 = False
+    $ beachsevenwakana1 = False
+    $ beachsevenwakana2 = False
 
     #SARA
     $ saradate1 = False
@@ -1375,6 +1390,7 @@ init:
     $ imanilust5 = False
     $ imanispring3 = False
     $ imanispring4 = False
+    $ beachsevenimani1 = False
 
     #RIKA
     $ rikadate1 = False
@@ -1874,6 +1890,13 @@ init:
     $ dormwarssiximaniwin = False
     $ sarafacialchoice = False
     $ sanafacialchoice = False
+    $ beachsevensanaayane = False
+    $ beachsevenmikumakoto = False
+    $ beachsevenyumichika = False
+    $ beachsevenrinfutaba = False
+    $ beachsevenmollytsuneyo = False
+    $ beachsevenyasukirin = False
+    $ beachsevenotohanodoka = False
 
     ##RESET4
     $ needchili = False
@@ -2303,6 +2326,8 @@ init:
     $ kirinchristmalloweennuderead = False
     $ rikanude1read = False
     $ tsukasanude1read = False
+    $ tsuneyonude1read = False
+    $ nodokapic3read = False
 
     define a = Character("Ami", color="#ff4dd2", who_outlines=[(absolute(2.5), "#000", absolute(0), absolute(0))])
     define ahead = Character("Ami (Headless)", color="#ff4dd2", who_outlines=[(absolute(2.5), "#000", absolute(0), absolute(0))])

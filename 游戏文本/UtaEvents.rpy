@@ -8722,7 +8722,7 @@ label utaspring9:
     play sound "slidedoor.mp3"
     scene utaleak28 with dissolve
 
-    ima "What do we even for things like this? The teacher’s handbook didn’t say shit about nudie epidemics."
+    ima "What do we even do for things like this? The teacher’s handbook didn’t say shit about nudie epidemics."
     r "SANA, STOP! SERIOUSLY! I DON’T WANT TO SEE!"
 
     scene utaleak30

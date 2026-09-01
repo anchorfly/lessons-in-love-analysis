@@ -94,6 +94,8 @@ init:
     $ futaba_love = 0
     $ maki_love = 0
     $ maki_lust = 0
+    $ wakana_lust = 0
+    $ rin_lust = 0
     $ kaori_lust = 0
     $ tsuneyo_lust = 0
     $ tsukasa_lust = 0
@@ -213,6 +215,7 @@ init:
     $ mayanudecheck = 0
     $ karinnudecheck = 0
     $ rikanudecheck = 0
+    $ tsuneyonudecheck = 0
     $ dellapoints = 0
 
     $ chinamimiss = 0

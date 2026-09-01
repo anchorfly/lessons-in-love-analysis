@@ -5334,3 +5334,2395 @@ label postwarsix1:
     "..."
 
     jump nightch4
+
+label beachseven1:
+    scene clearnightsky
+    with dissolve2
+    play music "goodmorning.mp3"
+
+    "I woke up this morning with a strange image in my head."
+    "It’s me — alone in a cabbage patch, but each cabbage is colored with a different hue to match every single set of eyes I know."
+    "There’s even one for mine — growing all by itself in a row ten meters detached from the rest, swarmed by flies and other insects as I’m the only one the farmers neglected to spray with deterrent."
+    "Though, it seems more like they forgot me entirely given how beautiful the rest are."
+    "Some are doing better than others. Like a blue one and a pink one. Which is impressive on its own as it seems their sunlight is blotted out by massive spheres of ruby and aquamarine that rule over the fields."
+    "I know who these are for, of course — the two greatest loves I’ve ever had and the two who, if life was really fair, would grow even larger and feed me for all eternity."
+    "This is not {i}my{/i} farm, though. I am merely a man who presently sees it. The cabbage growing in the corner, if you will."
+    "But if you {i}won’t,{/i} I implore you to dig deep within yourself for a scythe made of doubt to hack up the rest of what’s grown or is growing while you leave me here to fend off the flies."
+    "I am certain this vision must have meant something, as does my request to have you falsify it before I can double it and give it to the next person. "
+    "And no, this is no plea to “save everyone else and leave me here to rot” or something of that nature. In fact, it’s quite the opposite as I would very much like to continue living. At least for right now."
+    "My guess at what this image means, though, is that I grow in different ways. That, by “fending off the flies,” what I’m really doing is living inversely. "
+    "Picture this — that they are not here to feed on my decaying matter or give birth to their children, but to pick me clean like {i}I’ve{/i} become a termite queen myself. "
+    "Then, once the rotten bits are gone, I’ll be born again. The farmers will return and look down at me as their last bit of hope. Then they’ll chop me up and mix me with pork and make me into gyoza. "
+    "That’s the hope, at least. That’d give me purpose apart from making the other cabbages look more appetizing."
+    "There’s probably something else, too. But you can check back at the end of the weekend once I’ve had some more time to think about it."
+    "In the meantime, I’m going to keep plowing the fields of this forgotten farm in hopes of uncovering something either buried beneath my feet or hidden somewhere inside of my head."
+    "It’d be really weird to just imagine an avant-garde cabbage patch for no reason after all. "
+
+    play sound "static.mp3"
+    scene beachseven1 with flash
+    stop sound
+
+    "Especially while I’m surrounded by a bunch of teenage girls in an inn roughly twelve hours before any other adults arrive. "
+    "I’m pretty sure it would make a lot more sense to just focus on them for now."
+
+    ay "And so marks the start of yet another Rooftop Apocalypse Squad slumber party meeting! A ritual that, despite being almost entirely unsuccessful, is still fun no matter what!"
+
+    scene beachseven2
+    with dissolve
+
+    ay "{size=-2}Now, if we could please get a moment of silence for Uta and Tsuneyo who were not able to join us today, it’d be both greatly appreciated and an excellent start to what I’m sure will be a very brief and very weird meeting.{/size}"
+
+    scene beachseven3
+    with fade
+
+    m "You make it sound as if they died."
+    no "I’m confused. Tsuneyo is a part of this group as well? I was not aware of this."
+    ay "Yeah, none of us really know what’s going on with her, to be honest. Sometimes she’s aware, sometimes she isn’t. So I just invite her to everything now to be safe."
+    mak "Seeing as a moment of silence is likely impossible in this group, I say we just move past your pseudo-eulogy and address the matter most dramatically at hand right now."
+    y "You mean that your mom knows you’re gettin’ porked by the teacher and now thinks you’re crazy because she’s some kinda outlier?"
+
+    scene beachseven4
+    with dissolve
+
+    m "Damn. That sucks."
+    mak "It’s worse than when my dad died, honestly."
+    no "How {i}did{/i} your father die? I thought time was repeating itself."
+    y "Maybe he’s dying every single reset loop? And I’m allowed to say that without sounding like a bitch since that’s exactly what’s probably going on with {i}my{/i} mom from now on. Still kinda TBD on that."
+    mak "Right, which is why we should spend the rest of the night planning out how to murder her so we can answer this question once and for all."
+
+    scene beachseven5
+    with fade
+
+    ay "No, Makoto. We are not going to spend the night planning how to kill your mother. Parents are hard to come by in 1-A and we can’t just be getting rid of them whenever they inconvenience us."
+    mak "Easy for you to say. Both of your parents are basically unaware of your existence while my only remaining one is {i}too{/i} aware. "
+    s "This is what happens when it takes too long for shame to first reach a person. Makoto is ill-prepared to have other people know she’s having sex."
+    mak "There won’t be anything to be ashamed of anymore once I am a murderer."
+    ay "No murder. Bad Makoto. What we need to be doing right now is figuring out how to get your mom to join the apocalypse squad, not be excommunicated from the planet."
+
+    play sound "static.mp3"
+    scene beachseven6 with flash
+    stop sound
+
+    mak "{i}Join?!{/i} Absolutely not! What can {i}she{/i} possibly contribute to any of this?! "
+    ay "Yumi doesn’t really contribute either and we’ve never tried to kill her. "
+    no "She did try to kill me, though."
+    y "Yeah, and I’d be trying it again right now if Ponytail weren’t in the fucking way."
+    m "Oh, good. Now I can’t get up for another drink without becoming an accomplice to murder. Slumber parties are so much fun."
+    mak "Can we at least wait until after the next reset to...you know...{i}include{/i} her? Like, there’s a very real chance she gets sent back and we never have to deal with any of this again, right?"
+
+    scene beachseven7
+    with fade
+
+    no "Do you know when this next “reset” is, exactly? Is there a specific date it usually occurs on? Any signs to look out for beforehand?"
+    ay "Not really. I feel like one needs to be coming up soon, though. Our last one spat us out in Christmalloween and that was like a whole nine months ago."
+    no "And “Christmalloween” is not actually a holiday in the {i}correct{/i} timeline, yes? It’s a product of time unraveling or something of that nature."
+    ay "Right."
+
+    play sound "static.mp3"
+    scene beachseven8 with flash
+    stop sound
+
+    m "No. Not right. Christmalloween is real and Ayane is lying to you. And you can definitely trust me because I’m the real Maya who was never reset or anything like that."
+    ay "{size=-2}Mhm, right. So you’ve just been acting like a brand new Maya ever since the first one disappeared and broke Sensei in half? And you are only revealing this now because of how important it is to preserve Christmalloween?{/size}"
+
+    scene beachseven9
+    with dissolve
+
+    m "That’s right. Everything from the moment of my “disappearance” up until now was all a clever ploy to make Sensei fall in love with me again. And now that I have succeeded, there is no reason to keep it up."
+
+    scene beachseven10
+    with fade
+
+    y "How come everybody in this fuckin’ class thinks that guy is in love with them?"
+    s "You don’t need to say “that guy,” Yumi. I’m right here."
+
+    scene beachseven11
+    with dissolve
+
+    y "Cool, yeah. I’ll just ask you then. Why do all these morons think you’re in love with them when you’re really just a serial rapist?"
+    s "I imagine it’s a mix of boredom, lack of options, persistence, hope, competitive nature, my unrivaled manliness and remarkably good looks."
+    y "That’s a lot of words to say they’re all just fuckin’ stupid."
+
+    scene beachseven12
+    with fade
+
+    ay "I agree, Yumi. It is quite obvious that Sensei is in love with me and me only and that everyone else has merely fallen victim to his charm, unrivaled manliness, and remarkably good looks. But I digress."
+    mak "You can’t digress after a blatant lie like that! If anything, {i}Maya{/i} is the one he really loves here."
+
+    scene beachseven13
+    with dissolve
+
+    m "See? Even Makoto knows."
+    ay "Regardless of who loves who or why Christmalloween is fake or any other tangential thingy we’re almost getting sidetracked by, we came here for a reason and that reason is to make progress."
+
+    scene beachseven14
+    with dissolve
+
+    ay "Makoto, if your mom really is {i}aware{/i} now, we can’t just ignore her. Try thinking of it as an opportunity to have her support your relationship or something. I saw your PowerPoint. {i}I{/i} was convinced."
+    ay "And the unfortunate truth is that if she experiences even a {i}fragment{/i} of what we have, who you’re sleeping with will be the {i}least{/i} of her worries."
+    mak "Somehow I doubt that...But still, I think we should at least wait until-"
+    ay "Yes. We’ll wait until after the next reset to indoctrinate her. I doubt anything else would be able to convince her this is legitimate anyway. "
+    y "That it for the meeting then? We done?"
+    ay "Not quite. There are still a few other matters we need to address. Sensei?"
+    s "Ayane and I “woke up” with what seems like some sort of...shared memory or something after the last reset. But we don’t know how or why we wound up with it."
+    ay "The “memory” Sensei is referring to, if we’re going to call it that, is that Maya may or may not be the cause of this for some reason."
+
+    scene beachseven15
+    with fade
+
+    no "Interesting."
+    m "{i}Bullshit{/i} is more like it. I think I’d know if I were God."
+    no "Not exactly. And especially not if you’re a different person now from the one you were in the beginning. "
+    m "Don’t encourage them. This is annoying enough without a smart person on their team."
+    mak "Oh, well fuck me I guess. How exactly are we even supposed to investigate such a thing, though? Because it’s not as if we can trace Maya’s past when none of it is in the files."
+    ay "That’s what the meeting’s for, Makoto! It’s not just Maya we need to “investigate,” though. It’s Ami too."
+
+    scene beachseven16
+    with dissolve
+
+    no "Ami?"
+
+    scene beachseven17
+    with fade
+
+    ay "She’s been acting {i}weird{/i} for a while now. {i}Very{/i} weird. And Maya will vouch for that. Right, Maya? "
+    m "Uh...y...yeah."
+    m "Yeah, she’s...weird."
+
+    if otohaspring6 == True:
+        no "Interesting. I wonder if this has anything to do with her going through all of my things the other day? Does she know I’ve gained knowledge of all this yet?"
+        mak "She probably just smelled a lingering trace of Sensei on your belongings and wanted to check if he was inside of them."
+
+    ay "Now, this {i}is{/i} Ami we're talking about. So she's always going to have {i}some{/i} bit of weirdness to her no matter what we do and I'm sure she has her reasons for that."
+    ay "So I'm not suggesting we bombard her with {i}questions{/i} or invite her to these {i}meetings{/i} or anything of that nature- but that we simply be {i}wary{/i} of her. That's all."
+    ay "That was the method pre-reset Maya took, and I'm confident now that she did that for a reason. Even if pre-reset Maya was wrong like 75%% of the time."
+    s "And I...still don’t think she’s involved."
+
+    scene beachseven18
+    with dissolve
+
+    ay "Yes, and you can {i}keep{/i} thinking that since I don’t want you breaking down again in the event that she {i}is.{/i} You can leave her to us, Sensei. You just keep treating her the way you always do. "
+    y "Or you can just man up and deal with the fact that sometimes, the people in your life ain’t what you thought they’d be."
+
+    scene beachseven19
+    with dissolve
+
+    ay "Oh, thank you for picking {i}now{/i} to contribute, Yumi. What excellent timing for such helpful advice."
+
+    scene beachseven20
+    with fade
+
+    y "I’m just sayin’, if the two of you guys {i}really{/i} want to put an end to all of this shit like you’ve been ranting about nonstop lately, the fuck is babying each other when shit gets hard gonna do?"
+    y "Say that incestuous weirdo {i}does{/i} know something. Say she’s somehow the key to fuckin’ {i}all{/i} of this..."
+    y "Is Sensei just gonna hide in his room again while a bunch of stupid teenagers try to put the fucking world as we know it back together? Or is he gonna fucking {i}do{/i} something about it? "
+    ay "Is there any {i}reason{/i} for this sudden hostility or are you just hungry again?"
+    y "Just thinkin’ out loud. "
+    y "I don’t know shit about Ponytail or the fucking {i}genius{/i} over there, but Four Eyes and I don’t really mind stayin’ trapped here. So why should {i}we{/i} be doin’ all the work for the two people who {i}do{/i} want to leave?"
+    y "I don’t wanna help somebody who ain’t gonna try to help themself. So you can keep all that Ami shit away from me. The less I need to talk to her, the better."
+    ay "I mean...yeah. That's kind of the point I was getting at."
+
+    scene beachseven21
+    with fade
+
+    no "I, too, find the idea of infinity quite appealing, if anyone would like my opinion."
+    y "Fuck you, cunt. Get your {i}own{/i} fucking opinion. That one’s mine."
+    no "Why {i}do{/i} you want to leave, if I may ask? What is there to gain from a more {i}real{/i} version of reality?"
+
+    scene beachseven22
+    with fade
+
+    ay "Well, I..."
+    ay "You see, we...uh..."
+    s "There’s something waiting for us outside of this place."
+
+    scene beachseven23
+    with dissolve2
+
+    ay "..."
+    s "I don’t really know what it is and...I don’t think Ayane really knows either, but..."
+    s "Whatever it is, I don’t think we’re going to find here."
+    ay "Akira..."
+    s "Yumi is right about my attitude toward Ami. I need to stop being a coward and I shouldn’t rely on any of you to fight my battles for me."
+    s "I’ll talk to her. I just...have to find the right time."
+
+    scene beachseven24
+    with dissolve2
+
+    ay "..."
+    s "..."
+    ay "..."
+    s "..."
+    y "Aight, well if Blondie’s just gonna stand there lookin’ all proud and {i}in love{/i} and shit, I’m gonna go take a walk and try not to throw up. "
+
+    scene beachseven25
+    with dissolve
+
+    ay "No, no. It’s fine."
+    ay "We came to the beach a full day early to try and get each other up to speed, sure. But these meetings are more about just {i}being together{/i} than actually getting anything done."
+    mak "As an FYI, Nodoka, she’s only saying that because we never get anything done."
+    no "Thank you. I was unsure if the lackadaisical approach was the norm or if we were just abstaining from feasible progress on account of Uta’s absence."
+    y "It’s the norm. This RSA shit is like 99%% planning and then waiting around for the world to do something before we can. "
+    ay "Again, this is more about just {i}being together{/i} than actually-"
+
+    play sound "static.mp3"
+    scene beachseven26 with flash
+    stop sound
+
+    y "Yeah, I’m gonna go for a walk now. Nice {i}meeting,{/i} y’all."
+
+    scene beachseven27
+    with dissolve
+
+    ay "Okay. Well, I guess I’ll just sit down too then. "
+
+    scene beachseven28
+    with dissolve
+    play sound "footsteps.mp3"
+
+    mak "You think Sensei’s going to be okay talking to Ami?"
+    ay "Only one way to find out. Seems more feasible than you talking to your mom at this point."
+    mak "Well, yes. Ami doesn’t hold Sensei to the highest standard possible and my mother would rather me stay abstinent for thousands of years than sleep with someone her age."
+    m "There is not nearly enough food here."
+
+    scene beachseven29
+    with dissolve
+    play sound "slidedoor.mp3"
+
+    mak "That’s your seventh pizza. "
+    m "I said what I said and I stand by it."
+    no "{i}Yumi, may I speak to you for a moment?{/i}"
+
+    play sound "static.mp3"
+    scene beachseven30 with flash
+    stop sound
+
+    y "No. You may not."
+    no "Oh. "
+    no "Then, may I speak in your general direction and assume that you hear?"
+    y "The fuck do you want, Nodoka?"
+    no "In hindsight, I believe stealing your clothes and commanding you to masturbate in the locker room may have been a mean thing to do. "
+    y "And?"
+    no "And I acknowledge that I was most likely in the wrong there."
+    y "This an apology?"
+    no "I’ll apologize to you when you apologize to Futaba for making her doubt herself more than she already does."
+    y "I {i}did{/i} apologize to her, you fucking-"
+    no "If merely saying the words “I’m sorry” was enough to make an apology sincere, I would have no trouble at all doing the same right now. "
+    no "But I have learned recently that it is not. And that these things must come from a place somewhere in close proximity to one’s chest cavity in order to come across as “real.”"
+    no "You aren’t sorry for the things you said to Futaba. You still belittle her. You just do it behind her back now."
+    y "Yeah, but I never fucking commanded her to masturbate in a locker room."
+    no "Perhaps not. But you {i}have{/i} stolen her clothes. And had her parade herself around the showers looking for something to cover herself with like she has something to be ashamed of when she doesn’t. "
+    no "I’ve heard the stories. Of the things you’ve done to torment her despite her doing nothing to {i}you{/i} whatsoever. But I do not understand them as good antagonists typically come with a motive."
+    no "I have seen the way she cries and heard the shaking of her voice as the shame pours from out her mouth. But as I repeat these words to you, you stand there unchanged and unrepentant."
+    no "Is it that you take joy in hurting people? And merely picked the lowest hanging fruit you could? Or was there something else you were hoping to gain from breaking her?"
+    y "..."
+    no "Will you {i}ever{/i} be sorry?"
+    y "Will {i}you,{/i} Nodoka? "
+    y "Can machines even {i}feel{/i} in the first place?"
+    no "I am trying. "
+    no "That’s why I am here."
+    y "Well...maybe that’s why I’m here too."
+    no "..."
+    y "..."
+    no "Okay. Well, goodbye then, I suppose."
+
+    $ renpy.end_replay()
+    $ beachseven1 = True
+
+    jump beachseven2
+
+label beachseven2:
+    play sound "static.mp3"
+    scene groupshower1 with flash
+    stop sound
+
+    ay "Oh hey, you’re still alive. Yumi is growing."
+    no "We all are. That is why Akira likes us."
+
+    scene groupshower2
+    with dissolve
+
+    m "She’s not wrong."
+    s "She rarely ever is."
+    mak "Seeing as our “meeting” has concluded and that we have the rest of the night to ourselves before our classmates start showing up, we need to figure out what to do now. Any suggestions?"
+    no "I...could throw together another impromptu sex competition?"
+
+    scene groupshower3
+    with dissolve
+
+    ay "No."
+    mak "No."
+    m "Sure- "
+
+    scene groupshower4
+    with dissolve
+
+    m "Oh. Really? Just me?"
+    ay "Any {i}other{/i} ideas?"
+    m "Not a single one of you? Seriously?"
+    no "Why am I the one being looked to for answers? I’m still the newcomer to this group. Let Akira decide our plans for the rest of the night if anything."
+    mak "He’s just going to choose the same thing as you."
+    m "Then he and I can have a 1v1 sex competition with each other while Nodoka judges and the two of you can go be boring with Yumi or something."
+
+    scene groupshower5
+    with dissolve
+
+    s "I’m not trying to make anyone here uncomfortable. So the clearest solution to this dilemma is for me to have sex with each one of you individually."
+    ay "I mean, you might as well just rank us at that point. "
+    mak "We do have options apart from sexual ones, you know. There are movies, board games, the ten other pizzas we set aside for Maya."
+    m "Those are for later and I would prefer to eat them in private. "
+
+    scene groupshower6
+    with dissolve
+
+    mak "Oh, I see. You prefer to {i}eat{/i} in private but are more than willing to engage in a sex competition with the rest of us. "
+    m "Is there something about that you find difficult to understand, Makoto?"
+    mak "Nope. That’s pretty much par for the course with this class nowadays."
+    ay "What if there’s something both sexual and {i}not{/i} sexual we can do together to make everyone happy?"
+
+    scene groupshower7
+    with dissolve
+
+    mak "Like?"
+    ay "There’s that new spa they just opened up. Down the hall from the sauna. We could all hang out there and unwind before vacation formally starts tomorrow?"
+    mak "And what? Turn Sensei into our private massage therapist in lieu of the actual staff members here?"
+    s "It’s fine. I can take one for the team."
+    ay "Not even. I’m pretty sure the rules say you’re not allowed to completely undress in there. "
+
+    stop music
+    play sound "static.mp3"
+    scene groupshower8 with flash
+    stop sound
+    play music "citylife.mp3"
+    $ renpy.pause(3, hard=True)
+
+    s "..."
+
+    play sound "static.mp3"
+    scene groupshower9 with flash
+    stop sound
+
+    ay "Okay, so turns out I had it backwards and we’re all naked now. Whoops."
+    mak "There is a zero percent chance that this is going to remain non-sexual. I’m calling it now."
+    no "Now, I wouldn’t say that, Makoto. I placed Akira here in a very similar situation during the last Dorm Wars and he handled it quite flawlessly. Isn’t that right, Maya?"
+
+    if mayaspring4 == True:
+        m "At least initially. It wasn’t until later when he got to take all of those frustrations out on me. I sure hope that doesn’t happen again tonight."
+
+    else:
+        m "I can’t remember. I needed to purge that night from my mind to rationalize the fact that I wasn’t chosen."
+
+    scene groupshower10
+    with dissolve
+
+    ay "Oh, so that’s where you all disappeared to. Why wasn’t I invited?"
+    no "Apologies, but you didn’t fit the theme. You’ve already grown too much."
+    no "Perhaps I can pass you an invitation if I can acquire enough wedding dresses for a future competition I have in mind, though."
+
+    scene groupshower11
+    with dissolve
+
+    ay "Sounds good to me! Any chance I get to see my future husband nervously stand there with an erection is one that I am obligated to take as his kinky future bride."
+    s "It appears that we have mistaken Hell itself for a spa. This is just as dangerous as the Dorm Wars hotel room."
+    no "I’d say it’s {i}more{/i} dangerous as we’re all as vulnerable as can be now. Yourself included, Akira."
+    no "If only Yumi were here with us as well. I imagine the four of us could hold her down quite easily and confirm once and for all just how much she likes our teacher here."
+    m "I care a little less about how much she likes him and more about how much he likes us. And by “us” I mean me. You know what must be done, Sensei."
+    s "I don’t think I’ve ever known anything less than I have in this moment. I’m surprised my brain can even function when I assume all of the blood in my body is currently inside of my penis."
+    mak "I don’t see what the big deal is. You’ve seen all of us naked plenty of times before. "
+    s "Yeah, but never {i}at once.{/i} This changes everything."
+    mak "Does it? Perhaps I simply don’t understand. I wonder if there is anything that can be done to enlighten me?"
+
+    scene groupshower12
+    with dissolve
+
+    ay "Don’t fall for her trap, Sensei. We both know I’m the one you want to spend some {i}extra time{/i} with in here. There’s no need for someone like {i}me{/i} to try and trick you, is there?"
+    s "Uhh..."
+    m "I’m not going to bother trying to {i}convince{/i} you at all. "
+    m "Instead, I will attempt to break you by reminding you that your childhood friend is probably sitting on some couch thinking about you right now while you debate which naked teenager to have your way with."
+    s "Wow. Thanks, Maya."
+    m "You’ll choose me if you’re sad. This is what must be done, unfortunately. "
+    no "Well, well. It appears a competition has simply fallen into my lap this time. This is far easier than planning it."
+
+    scene groupshower13
+    with fade
+
+    ay "Don’t call it a competition. It’ll supercharge Makoto and either we’ll wind up losing or we’ll have to listen to her cry about not winning for the rest of the night."
+    m "Look at me, you disgusting predator. Look at what I have become because of you. This is all your fault. My future could have been so bright. So promising."
+    mak "Okay, Maya. I think you might be going a little overboard here."
+
+    scene groupshower14
+    with dissolve
+
+    no "All’s fair in love and sex. Isn’t that right, Akira? With so many forbidden fruits all in one place, we might need to make you a whole basket."
+    s "I don’t have enough penis for all of you."
+    ay "Now, that’s just blatantly false. We could all probably fit a hand around it if we angle ourselves correctly."
+    no "Why do you look away? Feast your eyes on what stands before you. There’s nothing to be {i}afraid{/i} of here."
+    no "Unless, of course, the resort staff is still present despite us renting the entire facility out and could catch you committing heinous crimes at any moment. "
+    no "They call it jailbait for a reason though, don’t they?"
+
+    scene groupshower15
+    with dissolve
+
+    no "Just look at Maya. How slender...how {i}breakable{/i} she is. Don’t you feel compelled to just split that cute little creature in two?"
+
+    scene groupshower16
+    with fade
+
+    m "Look at me any longer and I might have to start touching myself. "
+    s "I...uhh..."
+    ay "Oh, come on! We don’t want to {i}break{/i} him. We just want to tease him until he cums on his own from looking at us."
+    m "No thanks. I want him inside of me before he even has the chance to spill everything on the floor. And he wants to be inside of me too. Don’t you, Akira? "
+    s "I want to be inside all of you but, again, {i}not enough penis.{/i}"
+    no "That’s why you must choose wisely. You {i}can{/i} seize us tonight, Akira. I won’t punish you the same way twice. "
+
+    scene groupshower17
+    with fade
+
+    no "It doesn’t have to be just {i}one{/i} either. You can mix and match. Take three and leave one out. {i}Whatever{/i} you like. We have a whole night ahead of us, don’t we?"
+    s ".............."
+    no "Just you...and four eager little girls. Each with their own strengths and weaknesses. Ready to {i}kill time{/i} until the sun rises and it becomes much harder to reserve moments of intimacy with us."
+    mak "Nodoka does make a good point. Miss Imai, Miss Watabe, and Rika are all going to be here tomorrow. Dodging all three of them will inevitably be harder than...well, whatever {i}this{/i} is."
+    ay "Poor Rika. I don’t think I’ve ever heard {i}anyone{/i} call her Ms. Rokuhara."
+    m "{i}Akira...{/i}if you want to make the best use of your time, you should start now. I don’t really mind the other girls getting a turn as well so long as we go in order of height. Shortest to tallest, of course."
+    mak "How about worst vision to best vision? That’s the only category I can think of where I’m beating all three of you."
+    ay "Guys, please."
+
+    scene groupshower18
+    with fade
+
+    ay "If Sensei’s going to be having sex with us in order, he should be doing it in order of {i}breedability.{/i} And no one’s more ready for that than me. Right, Sensei? You’ve got yourself a whole baby factory down here. "
+    ay "I’ll savor last every last drop the way it’s meant to be savored. "
+    ay "Maya doesn’t even {i}want{/i} kids. Do you really want to cum inside of some girl who just wants to spit it all out? Or do you want to put a baby inside of someone? Huh? "
+
+    scene groupshower19
+    with dissolve
+
+    ay "The only problem is that once Sensei is inside of me, he won’t ever want to take it out. So I feel kind of bad for subjecting the rest of you to-"
+
+    play sound "static.mp3"
+    scene groupshower20 with flash
+    stop sound
+
+    mak "You can breed me too! Fuck it! We don’t even know if it’s possible with the way time works here, so I’ll be the test dummy!"
+    mak "And that should be more alluring than Ayane asking you to do the same since she’s {i}always{/i} wanted that and I made you wear a condom the first like hundred times we did it."
+    ay "You got Sensei to wear a {i}condom?{/i} How {i}dare{/i} you."
+    m "Condoms are for cowards. Why would anyone want a fleshy latex-covered tube inside of them when you could just use the pull-out method and lie there drenched in semen for a while? "
+    mak "I’m just as breedable as Ayane! And if for some reason you think I’m not, you can have both Nodoka {i}and{/i} me at the same time! I owe her a favor anyway."
+    no "Oh? Are we forming alliances now?"
+
+    play sound "static.mp3"
+    scene groupshower21 with flash
+    stop sound
+
+    no "I knew my constant poking and prodding would get you one day. "
+    no "How would you like to do this, Makoto? Shall I gently tickle your swollen bud, nibbling on your ear as he thrusts in and out of you? Or would you perhaps like to use your tongue on my-"
+    mak "Make no mistake, Nodoka. Just because I have agreed to share Sensei with you does not mean I am attracted to you. And if you so much as {i}think{/i} of touching my “swollen bud,” I will have you eliminated."
+    no "Oh dear. I suppose my passing is well-overdue then as I’ve been dreaming of doing such things since the moment we met."
+
+    play sound "static.mp3"
+    scene groupshower22 with flash
+    stop sound
+
+    ay "Okay, Maya. I know you’re opposed, but it seems like we’re going to have to team up as well if we want to win this."
+    m "I’m not opposed at all. I knew this would happen eventually."
+    ay "But at the shrine the other day-"
+    m "Yeah, I just say things sometimes. I’m more than willing to have a threesome with you. If anything, I’m surprised {i}you{/i} want to on account of the whole “not liking girls” thing."
+
+    scene groupshower23
+    with dissolve
+
+    ay "It’s easy when I think about how much Sensei will enjoy it. And if I’m sharing him with someone I care about, like you, I don’t really mind another girl being there."
+    ay "Just sorry in advance if I don’t easily let him out of me. I can be kind of clingy during sex. You might have to bite me or something."
+    m "I can do that. In fact, I want to do that. That sounds hot."
+
+    scene groupshower24
+    with dissolve
+
+    ay "Oh, right. I, like...vaguely remember the old Maya telling me once that she’s had a threesome with pretty much all of us. So I guess it makes sense that you would need to be at least {i}kind of{/i} into it."
+    m "{i}All{/i} of you? That’s so many. When did the old me become such a slut? "
+
+    scene groupshower25
+    with dissolve
+
+    ay "To be fair, you did have like thousands or millions of years or something. Which I imagine is also how much time you’d {i}need{/i} in order to rationalize a threesome with Noriko."
+
+    scene groupshower26
+    with dissolve
+
+    m "No. I imagine that threesome will be entirely {i}irrational{/i} when it happens. Which I’ve always kind of figured it would on account of the whole “rivals” thing. I’m just not looking forward to it."
+    ay "I don’t think I’ve ever heard you call her your “rival” before. It’s normally just “bitch” or “whore.” I want to be your rival too. You guys aren’t the only ones in love with Sensei."
+    m "I can only have one. And I’m not about to become rivals with someone who just gave me permission to bite her a second ago."
+    ay "Rock, paper, scissors to see who starts with the penis inside of them?"
+
+    scene groupshower27
+    with dissolve
+
+    m "Let’s at least figure out who Akira is going to choose before we-"
+
+    scene black
+    with dissolve
+    scene groupshower28
+    with dissolve2
+
+    m "Oh, there’s no fucking {i}way.{/i}"
+    ay "Did he...did he {i}leave?{/i} Did he just walk away from {i}all four of us{/i} naked and fighting over him?"
+    mak "This is why I never fucking take my eye off of him. He’s nothing but a disappointment when it matters most."
+    no "Huh."
+    no "I suppose we’ll all just need to have sex without him then."
+
+    stop music
+    play sound "static.mp3"
+    scene groupshower29 with flash
+    stop sound
+    $ renpy.pause(3, hard=True)
+
+    y "..."
+    s "..."
+    y "Uhh..."
+    y "The fuck you doin’ over here for? "
+    y "Thought you were going to the fuckin’ spa thing with everyone else?"
+    s "I was."
+    y "Okay..."
+    y "And?"
+    s "Executive dysfunction."
+    y "Ah."
+    y "Okay."
+    s "..."
+    y "..."
+    y "Don’t they make some kinda “male-enhancement” pill for that?"
+
+    scene groupshower30
+    play sound "pop.mp3"
+    $ renpy.pause(5, hard=True)
+
+    $ renpy.end_replay()
+    $ maya_love += 1
+    $ makoto_love += 1
+    $ nodoka_love += 1
+    $ ayane_love += 1
+    $ yumi_love += 1
+    $ beachseven2 = True
+
+    play sound "phonebeep.wav"
+    "{i}You have received a picture message from Nodoka Nagasawa!{/i}"
+
+    jump beachseven3
+
+label beachseven3:
+    $ totaldays += 1
+    $ day = 5
+    hide thursday onlayer date
+    show friday onlayer date
+
+    play sound "static.mp3"
+    scene sky with flash
+    stop sound
+    play music "ame.mp3"
+
+    "I had zero sex after returning from the beach last night. But I suppose that’s just what I get for insulting an entire spa worth of girls by sneaking away while they were fighting over my penis."
+    "I imagine today will be different, though. Because, with an entire class worth of girls on the way here right now, there is bound to be at least one or two of them horny enough to still sleep with me despite being slighted."
+    "Either that or this is where my story ends. And everything from this point on becomes the typical all-ages romantic comedy it was meant to be before I showed up and set fire to it with my rampant libido."
+
+    play sound "slidedoor.mp3"
+
+    "Ready to ruin some lives and subsequently complain about it, I slide the door of my room (which I slept in alone, thank you very much) open and step out into the sun."
+    "Thankfully, I encounter three of my co-stars immediately afterward and don’t have to stand around trying not to be judged by you anymore."
+
+    play sound "static.mp3"
+    scene beachsevenfriday1 with flash
+    stop sound
+
+    "Hooray for adult companionship that I will definitely maintain throughout the weekend and not accidentally destroy in one way or another."
+
+    ima "Morning, Senpai! Whatcha up to?"
+    s "Oh, just foreshadowing. You guys are here early."
+    w "I want to fucking die."
+    ri "I got to drive the school bus! And to Wakana’s dismay, we only almost died once."
+
+    scene beachsevenfriday2
+    with dissolve
+
+    s "You let her behind the wheel of a vehicle students were inside of? I thought you were supposed to be keeping everyone safe in my absence?"
+    ri "Hey, man. If I can drive the Dir En Grey tour bus from Kyushu to Kanto after their regular driver mysteriously drowned in a soapland, I think I can handle getting from the school to here in mostly one piece."
+    ima "Which is great since all of us dying a fiery crash would probably spawn some sort of melodramatic anime I wouldn’t be able to collect royalties for on account of being a ghost."
+
+    scene beachsevenfriday3
+    with dissolve
+
+    w "Please remember who you’re talking to while dropping hypotheticals like that. The last thing I need this weekend is Arakawa stealing my thunder in the department of sorrow."
+    ri "Department of Sorrow would be a cool band name. Can I drive the tour bus for them too?"
+    ima "{size=-2}Just hang on until tonight, Wakana. We will cure your misery with all the alcohol you can possibly stomach. Which is pretty much all of it. So there’s a chance we might accidentally usher in a new prohibition tonight.{/size}"
+    s "Do you guys have some sort of occasion planned?"
+
+    scene beachsevenfriday4
+    with dissolve
+
+    ima "Yeah, and you’re coming. It’s Friday, which means it’s time for all of us to get hammered since we can’t exactly go to the bar while we’re chaperoning a field trip."
+    s "You can’t exactly chaperone a field trip while hammered either, can you?"
+    ima "No, but we can probably leave them alone for a couple hours without anybody getting into trouble. Especially if you’re with us, which you will be. "
+    ri "I did bring a leash if you try and refuse. And I think all of us would very much enjoy getting to use it on you as an FYI."
+    w "Why are you even here, Arakawa? "
+    s "Same reason anyone comes here. To catch some waves and show off my beach body."
+
+    scene beachsevenfriday5
+    with dissolve
+
+    w "No, I meant why are you here {i}this early?{/i} Miyamura wouldn’t divulge to me why you decided to get a leg up on all of us and stay over on Thursday as well."
+    s "Are you upset I didn’t invite you along?"
+    w "Kind of, yes. I’ll take any excuse to get out of my apartment right now. Even if that excuse involves spending additional time beside the walking tragedy that is you."
+    ima "I’d have liked an invite too, Senpai. You could have showed off your beach body to me privately if you were that excited about it."
+    ri "I don’t like euphemisms, so I’m just going to directly say that I would have liked to have sex with you last night as well."
+
+    scene beachsevenfriday6
+    with dissolve
+
+    ima "This complete lack of tact is why all of us are teachers and you aren’t."
+    ri "Is “tact” another word for “education?” "
+    w "Arakawa-"
+    s "I just wanted to get out of the house as well, Wakana. Please remember that I experience misery just as much as you. It’s important to my character."
+    w "I see. Then, I suppose we can talk more about this later as it is far too early for me to be awake and I am going to nap until the sun sets."
+
+    scene beachsevenfriday7
+    with dissolve
+
+    ima "We’re gonna head inside and get situated. Were you heading over to breakfast? A few of the girls were asking if you’d be there and I didn’t even realize you were already here."
+    s "I suppose that would be the right thing to do. But I am only doing this because you asked and not because I want to see them in swimwear."
+
+    scene beachsevenfriday8
+    with dissolve
+
+    ri "You know, with out-front honesty like that, I don’t really understand how I ever suspected you of anything. "
+    ima "Senpai-"
+    s "Farewell, fellow adults."
+
+    play sound "static.mp3"
+    scene beachsevenfriday9 with flash
+    stop sound
+
+    ima "..."
+    w "{i}Hah...{/i}"
+    ri "Think we’ll get to see him take his shirt off if we follow him for a little while?"
+
+    play sound "static.mp3"
+    scene beachsevenfriday10 with flash
+    stop sound
+
+    "I escape the first of many obstacles as I depart from the inn and follow the coastline, dialing the number of someone who, several days ago, informed me that she’d be receiving her “penance” today."
+
+    play sound "phonebeep.wav"
+
+    n "{i}Hello?{/i}"
+
+    "That someone is Noriko if you are both blind and deaf but can communicate with me telepathically."
+
+    s "Morning. Everything still going according to plan?"
+
+    play sound "static.mp3"
+    scene beachsevenfriday11 with flash
+    stop sound
+
+    n "I’m not sure I’d call it a “plan” when I’m just hanging out in my room. But if you’re curious about whether or not Nee-chan knows where you are yet, I don’t think so."
+    s "{i}You’re still tagging along for press stuff then?{/i}"
+    n "Not like I had much of a choice when she came at me with, “It’s the least you can do to help after fucking my boyfriend.” Her big-sister card is so much stronger now and I hate it."
+
+    scene beachsevenfriday12
+    with dissolve
+
+    n "Have you seen Kirin’s new swimsuit yet? She wouldn’t shut up about wanting you to see it last night."
+    s "{i}I haven’t seen anyone but the other teachers yet. I’m heading to breakfast now.{/i}"
+    n "Well, tell her she’s cute when you {i}do{/i} see her, okay? And tell me you miss me since I’ve earned at least that much for distracting Nee-chan until you get back."
+    s "{i}I miss you.{/i} "
+
+    scene beachsevenfriday13
+    with dissolve
+
+    n "Ugh, great. Now I’m turned on. Thanks. "
+    n "It’s so unfair that you get to return to ground zero of my defloration while {i}I{/i} get to watch my sister bow and apologize all weekend. "
+    n "I want {i}my{/i} back to hurt too, you know. Just for different reasons that all involve your penis and-"
+
+    play sound "knock.mp3"
+    scene beachsevenfriday14 with hpunch
+
+    ni "{i}Noriko? Are you-{/i}"
+    n "Go away! I’m masturbating!"
+    ni "{i}Ew! Are you dressed at least?{/i}"
+    n "Mostly!"
+    ni "{i}Well, hurry the fuck up! Mom wants you downstairs for breakfast!{/i}"
+
+    scene beachsevenfriday15
+    with dissolve
+
+    n "{size=-2}I have to go, Onii-chan. I’d say try not to miss me too much, but what I really want is for you to think about me every time you walk past the room where we had five hours worth of hot pseudo-incestuous sex together.{/size}"
+    s "{i}I will. I promise. Before you go, though, were you also able to-{/i}"
+    n "Nope. Ami laughed in my face and told me she wasn’t about to miss out on an opportunity to show off her lack of tits in front of you all weekend."
+    n "That’s not {i}exactly{/i} how she worded it and I may have embellished a little, but I know that’s what she meant. So she’s probably on her way to the beach now if she’s not already there."
+    s "{i}Tch. Got it. Thank you for trying.{/i}"
+    n "How {i}do{/i} you feel about flat chests by the way? Like, what’s your {i}ideal{/i} size? Should I be thinking about getting a reduction? "
+
+    play sound "static.mp3"
+    scene beachsevenfriday16 with flash
+    stop sound
+
+    "I hang up the phone before I’m forced to make an impossible decision and-"
+
+    scene beachsevenfriday17
+    with dissolve
+
+    "Actually, hold that thought."
+
+    s "Good morning, Touka. I-"
+    to "Die a thousand deaths. And then a thousand more."
+
+    scene beachsevenfriday18
+    with dissolve
+
+    s "Oh. Okay."
+    s "So..."
+    s "Two thousand?"
+
+    "It appears that Touka is still mad at me for sleeping with Yasu. If she...even {i}knows{/i} I slept with Yasu and isn’t just wallowing in forced uncertainty while succumbing to my infectious pessimism."
+    "I’m not sure if I should apologize, though. But I’m not really sure how to approach her {i}at all{/i} right now, so here’s hoping someone {i}more{/i} approachable crosses my path next."
+
+    scene beachsevenfriday19
+    with dissolve
+
+    mi "Sensei! There ya are! Here to catch some waves and show off that beach bod?"
+    s "Oh, hey. I normally get the opposite of whatever I’m thinking about. Maybe this is is some sort of good omen and this weekend will be awesome?"
+    ki "How come you never come down here in swim trunks anymore? Miku and I haven’t gotten to feel up your abs since our first trip here."
+    s "Can I feel yours? That swimsuit is so cute that I suddenly feel compelled to tear it into shreds and drown you in the ocean."
+
+    scene beachsevenfriday20
+    with dissolve
+
+    ki "Oh, th...this old thing?...Y...You really think so? Hahah...hah..."
+    mi "The heck was that drownin’ part for?"
+    s "Cuteness aggression. Like how I want to push you down and strangle you right now. "
+    mi "That one sounds kinda hot, though. We had a whole section for stuff like that at the porn shop before Maki decided to fire me over my secret relationship with some guy I met online."
+    s "You...mean me right?"
+
+    scene beachsevenfriday21
+    with dissolve
+
+    mi "Oh, right. Kirin already knows you’re porkin’ me and I ain’t gotta pretend around her. Yeah, I mean you."
+    s "I’ve technically only “porked you” once. But I don’t like that term, so I’m going to stop using it now."
+    ki "Hahah...heh...cute...he called me cute..."
+    mi "Oi! Back to reality, Kirin. This {i}kawaii{/i} act you’ve got goin’ on is makin’ me feel all weird inside."
+
+    scene beachsevenfriday22
+    with dissolve
+
+    ki "Oh! Yeah, I...{i}sorry.{/i} Just...nobody’s ever told me they want to drown me before."
+    mi "{i}That’s{/i} the part you liked?..."
+    ki "Kind of, yeah. It’s like how I can’t look at Sensei without wanting to tie him to my sister’s bed and edge him for nine consecutive hours."
+    mi "Again, I think you guys are weavin’ this whole drowning thing into just general physical kinkiness and I ain’t really followin’."
+    s "Is your sister here this time, Kirin?"
+
+    play sound "static.mp3"
+    scene beachsevenfriday23 with flash
+    stop sound
+
+    ki "No. Why? Am I not enough for you or something?"
+    s ".............Uh."
+    mi "Noriko taught Kirin the eye thing and now she won’t stop doin’ it any time she wants something."
+    ki "{i}Love me.{/i}"
+    s "I {i}do{/i} love you."
+
+    play sound "static.mp3"
+    scene beachsevenfriday24 with flash
+    stop sound
+
+    ki "N...Not in public, you big jerk!"
+
+    play sound "escape.mp3"
+    scene beachsevenfriday25 with hpunch
+
+    mi "..."
+    s "..."
+    mi "Yeah, so that’s what I’ve been dealin’ with lately."
+
+    play sound "static.mp3"
+    scene beachsevenfriday26 with flash
+    stop sound
+
+    ay "Morning, you two! Love the new swimsuit, Molly. It really fits you."
+    mo "Aye, doesn’t it?! Not bad for my first time creating my own swimwear, right?"
+    t "The Emerald Guardian has voiced her excitement on numerous occasions now over wearing this for approximately one hour before turning into a boiled crustaceous sea creature."
+
+    scene beachsevenfriday27
+    with dissolve
+
+    mak "Oh, right. You get really bad sunburn, don’t you?"
+    mo "I do. It is but one of the many reasons I refuse to go outside unless I am forced to. But there is a powerful, secret tincture one may use to combat the sun that not many know of!"
+    ay "Molly, everyone uses sunscreen."
+
+    scene beachsevenfriday28
+    with dissolve
+
+    mo "But it feels so {i}weird!{/i} And half of its purpose goes out the window if you have no one to apply it for you. Such a thing is a quintessential pillar to nearly every single beach episode, you know. Yet here I am, untouched!"
+    t "I will apply the tincture for you, Emerald Guardian. It is the easiest way for you to obtain your cliche OVA moment."
+
+    scene beachsevenfriday29
+    with dissolve
+
+    mo "No thank you, Kendo Princess. I’d prefer the Supreme Overlord be the one to do it. But I feel as if there is a separate sticky white fluid he’d prefer to cover me with in the event that I actually ask."
+    ay "Yeah. I don’t think semen provides much protection from the sun, unfortunately."
+    t "This is true. But at least it tastes good."
+
+    scene beachsevenfriday30
+    with dissolve
+
+    mak "Uh..."
+    ay "Um...what?"
+    t "I said, “at least it tastes good.” And by “it,” I was referring to semen. Not sunscreen, as previously mentioned."
+    mo "Uhh...surprise? The Kendo Princess has joined the, uhh...{i}extracurricular activities{/i} club with the rest of us."
+    t "I’m a bonafide whore now. Just like all of you. I can finally fit in."
+    mak "Do you actually like the taste?"
+
+    scene beachsevenfriday31
+    with dissolve
+
+    ay "Wait, do you not?"
+    mak "Are...Wait, are we all not just {i}pretending{/i} to like it? I didn’t think anyone actually {i}did.{/i} This is a joke, right?"
+    ay "I like it. It tastes like love."
+    mo "I don’t care either way. You can put me in the neutral party."
+    t "I could drink it by the gallon."
+
+    scene beachsevenfriday32
+    with dissolve
+
+    mak "{i}Ew!{/i}"
+    ay "Even I think that’s too much, Tsuneyo."
+    t "One glass of cum, please. Shaken, not stirred."
+    mo "I’m trying to get her to tone it down, I swear. She hasn’t yet discerned what is socially acceptable yet."
+
+    play sound "static.mp3"
+    scene beachsevenfriday33 with flash
+    stop sound
+
+    r "Yo! If it ain’t my favorite homie. "
+    s "Careful talking to me in public, Rin. The only brain cells left in your mom’s head are the ones she uses to protect you from my penis and she’s here right now."
+    r "Is she? Because {i}I{/i} don’t see her. Which means it’s now safe to penis me as much as you like. "
+
+    scene beachsevenfriday34
+    with dissolve
+
+    r "Please! Gaze upon these breasts and ask yourself how they would feel within your hands! Think deeply of how they have unknowingly longed for your touch and ask, {i}why? How{/i} have I avoided them for so long?"
+
+    if nikinudetrade == True:
+        s "I mean, technically, I didn’t {i}completely{/i} avoid them thanks to Otoha. But I imagine that’s still a sore spot, so..."
+        r "True! That was a very gross and bad thing you did, Sensei."
+    else:
+        s "Hey, I did see them that one time when I opened your door while you were getting dressed."
+        r "And yet you did not {i}seize{/i} them! How {i}dare{/i} you!"
+
+    scene beachsevenfriday35
+    with dissolve
+
+    r "Regardless, we both know I like you now. So I was wondering if you wanted to add yourself to the list of tragic beach romances I’ve had in my life. As fleeting as the ocean itself."
+    s "The ocean is a lot of things but I don’t think {i}fleeting{/i} is one of them, Rin. If anything, it’ll likely consume us all. I just hope I get to drown Kirin in it before that happens."
+
+    scene beachsevenfriday36
+    with dissolve
+
+    r "Oh, was your first instinct after seeing her new swimsuit {i}also{/i} to drown her? Because even I got that. And I’m very rarely ever attracted to her, to be honest."
+    s "I knew if anyone would understand my feelings, it would be you."
+
+    scene beachsevenfriday37
+    with dissolve
+
+    r "Cause we’re besties, obviously. And, just to clarify, this is not me friend-zoning you like I have in the past. "
+    r "I know now that we’re the kind of besties who are {i}best{/i} suited to {i}ease{/i} the growing tension between us with the assistance of our bodies."
+    s "That was so incredibly dumb. But very fitting if you are trying to flirt right now. It’s nice being on this end of your awkward advances for once."
+    r "And it’s nice feeling comfortable enough to awkwardly advance on you! Which is why I’d like to invite you into my pants tomorrow."
+    s "I can’t tell if you actually meant to say pants there not."
+
+    scene beachsevenfriday38
+    with dissolve
+
+    r "Did I say pants? I didn’t mean to say pants. I didn’t even {i}bring{/i} pants."
+    s "So are you just inviting me out on some sort of date then? Do I get the same confession treatment everybody else got? "
+    r "It doesn’t need to be a {i}date,{/i} per se. I just want to hang out with you tomorrow since we’ve never really gotten that chance here before apart from scattered mental breakdowns."
+    s "Why tomorrow? Why not tonight?"
+    r "Because this is the day where you go around and talk to everybody and they all fight over your attention since {i}they{/i} want you tonight."
+    r "But if I invite you to do stuff {i}tomorrow,{/i} you’ll be more inclined to say yes since nobody else has brought anything {i}up{/i} about tomorrow yet. It’s a calculated move. I’m sneaky now."
+    s "Well done, Rin. So well done that I’ll agree right here and now."
+    r "Are you absolutely sure? Because if you agree and then something happens and you don’t show up tomorrow, I’m just never coming to the beach again."
+    s "I am absolutely sure. And I also promise to not tell your mom about it while I am having sex with her tonight."
+    r "Thank you, Sensei. I appreciate that. But please be careful with her. She is very old and likely breakable. And she gives me an allowance now that she is employed that I would like to keep."
+    s "Oh man. I wanted you to get embarrassed and blush and beg me not to sleep with her. Now, I’m going to feel bad when I ultimately do."
+    r "Another calculated move. I’m just always going to be one step ahead of you now. I know you too well, Sensei."
+    s "I assume the way you’re standing is also calculated, then?"
+    r "Oh, have you noticed the fact that I’ve been slightly pushing out my chest this whole time? And hiding my arms behind my back to emphasize it and appear both comfortable and defenseless?"
+    s "You’re good. "
+
+    scene beachsevenfriday39
+    with dissolve
+
+    r "Just because I’m late to join the party doesn’t mean I’m at a disadvantage, Sensei. I’ve got the power of friendship on my side. And everyone knows the best relationships form with a foundation like that."
+    s "Ah, maybe you {i}should{/i} just date Molly then."
+
+    scene beachsevenfriday40
+    with dissolve
+
+    r "Mmph...Real nice, buddy."
+    s "See you tomorrow?"
+    r "Is it customary for the boy or the girl to bring condoms when sex is a possibility? I’ve never been heterosexual before."
+    s "Condoms are a psy-op created by the pharmaceutical industry to perpetuate Japan’s birthrate crisis. I’m not bringing any and neither will you."
+
+    scene beachsevenfriday41
+    with dissolve
+
+    r "Okaaaaaay. But if you knock me up, you’re going to have to cover all of my shifts at the cafe and find a babysitter for our child that isn’t my mom. "
+    s "Again, I will keep that in mind when I am having sex with her tonight."
+    r "Please don’t think of me while having sex with my mom because it implies you’ll be thinking about her while having sex with me."
+
+    $ renpy.end_replay()
+    $ beachseven3 = True
+    $ rin_love += 1
+
+    jump beachsevenio1
+
+label beachseven4intro:
+    if _in_replay:
+        menu:
+            "Floor 1 Version":
+                jump beachseven4f1
+            "Floor 2 Version":
+                jump beachseven4f2
+
+    scene secondsleepoverthing1
+    with dissolve2
+    play music "wewereangels.mp3"
+
+    r "So...I guess this is a thing now."
+    s "A thing we were almost caught doing, you mean."
+    r "Imani is cool, though. She probably wouldn’t have done anything even if she {i}did{/i} catch us. "
+
+    scene secondsleepoverthing2
+    with dissolve
+
+    r "Now, my {i}mom{/i} on the other hand, that would have been a problem. I’ll need to ask Futaba how they managed to get away in the first place."
+
+    scene secondsleepoverthing3
+    with dissolve
+
+    r "Do you think we could have actual sex next time? Like, you’re just as good at fingering me as Otoha was, but-"
+    s "What do you mean “just as good?”"
+    r "That’s a compliment, homie. She was great at it. It’s all the guitar, probably. "
+    s "Yeah, but I need to be better than her. Or, at the very least, she can never know we are equals."
+    r "Why?"
+    s "Because she’ll make fun of me for it and I’m a sensitive boy. You should know this by now."
+    r "Maybe you should go down on me next and we can rank you in that department too?"
+
+    scene secondsleepoverthing4
+    with dissolve
+
+    s "And have to compete against Chika too? No thanks. I’m still sad about that in the first place. "
+    r "Know what you have that neither of them do, though?"
+    s "Glasses..."
+    r "{i}Penis.{/i} Now stop feeling sorry for yourself and enjoy your slumber party."
+
+    scene secondsleepoverthing1
+    with dissolve
+
+    s "My what?"
+    r "Oh, have you not heard yet? We’re doing a repeat of the slumber party reward from the first Dorm Wars since none of the other rewards we ever came up with panned out."
+
+    if dormwarssixfloor1win == True:
+        jump beachseven4f1
+    else:
+        jump beachseven4f2
+
+label beachseven4f1:
+    if _in_replay:
+        scene secondsleepoverthing1
+        play music "wewereangels.mp3"
+
+    r "Which means that you get to enter the room with me to a bunch of girls in pajamas where we can pretend you didn’t just make me cum like five times in thirty minutes!"
+    s "I thought it was six."
+    r "It was seven."
+    s "..."
+    r "..."
+    s "Then why-"
+
+    scene secondsleepoverthing5
+    with dissolve
+
+    r "I’ll go in first so things look less suspicious!"
+
+    scene secondsleepoverthing6
+    with dissolve
+    play sound "slidedoor.mp3"
+
+    s "Oh. Okay."
+    s "..."
+    s "..."
+    s "..."
+    s "Damn it, Otoha."
+
+    play sound "static.mp3"
+    scene secondsleepoverthing7 with flash
+    stop sound
+
+    "And so it comes to this again — one more reward pulled from the jaws of a shark with that shark being Imani and the reward being a room full of hormonal teenagers. "
+    "Well, seven hormonal teenagers and one Yumi. But if God is real, perhaps her aggressive teenage lust will kick in tonight and I can complete this collection once and for all."
+    "The only issue now is to figure out the order in which I spend my time with them as I’m sure whoever is picked first will think they are the most loved and whoever is picked last will cry."
+
+    ay "Don’t feel bad about the order you’re going to pick us in, future husband. I took charge during our pre-slumber party meeting and informed everyone that this dilemma would short circuit your brain."
+    ay "Which is great because now we can just rationalize not being chosen first as a direct result of your crumbling mind!"
+    sa "That’s the secret trick to how Ayane is still mentally stable after all this time fighting over you..."
+    mi "Sensei! Pick us first and Makoto will let you put it in all her holes!"
+
+    scene secondsleepoverthing8
+    with dissolve
+
+    mak "Wha- I never agreed to that!"
+    mi "No, but you {i}would.{/i} Am I right or am I right? "
+    ay "I’ll agree to it. It’s like Meatloaf said. “I would do anything for love and that includes anal.”"
+    y "Pretty sure my mom listens to that song and I’m pretty sure that ain’t how it goes..."
+
+    "Well...it appears that the time has come for me to make a choice once more."
+    "Who should I approach first?"
+
+    menu beachsevenf1menu:
+        "Sana & Ayane" if beachsevensanaayane == False:
+            scene secondsleepoverthing9
+            with fade
+
+            ay "Hooray! The love of my life has blessed me with his presence! "
+            sa "Hooray...The love Ayane’s life has blessed me with his presence..."
+
+            scene secondsleepoverthing10
+            with dissolve
+
+            ay "Hey, is it true that you and Miss Watabe finally did it? "
+            s "I see word {i}does{/i} get around eerily fast nowadays. "
+            sa "It’s true then?...How was it? "
+            ay "Yeah, I’m curious too. I’ve always gotten dominatrix vibes from her. At least based on her dynamic with Osako-sensei. Did she tie you up? Can {i}I{/i} tie you up?"
+            s "I don’t think I should be divulging any details about our relationship to you. Especially after being reminded that you’re in regular contact with Osako and she is probably going to kill me if she ever finds out."
+            ay "Oh, yeah. You’re done for. Which is why I just hope it was worth it."
+
+            scene secondsleepoverthing11
+            with dissolve
+
+            sa "Miss Watabe is beautiful...I can’t tell which one of you I’m more jealous of right now. "
+            ay "Yeah. It does seem like she’d be the type of girl you’re into if you leaned more into the lesbian side of you."
+            ay "Plus, you’ve got even more in common with her than you do with Sara. And between the two of them, you’ll probably never have to buy clothes for yourself either."
+            sa "Are you sure you can’t give us any details? Not even what she was wearing?"
+            s "Hey, instead of that, why don’t we talk about what you two did today? You know, since I was off doing my own thing and couldn’t really keep an eye on you."
+
+            scene secondsleepoverthing12
+            with dissolve
+
+            ay "Referring to Rin as “your own thing” sounds kind of possessive, doesn’t it? That’s language you should be using with me and me only, mister."
+            sa "Why are you even trying to hide stuff from us at this point? Everyone but the teachers knows you two were on a date today."
+            s "I wouldn’t say I was {i}hiding{/i} anything. Just that I didn’t find this information critical in any way. Nor was I {i}doing{/i} her."
+            sa "Oh. Well, you should have."
+            ay "Yeah, she’s wanted it even longer than Miss Watabe has. Good for her, honestly. Good for {i}both{/i} of you."
+            sa "Yeah, it seemed like the two of you had kind of...mutually friend-zoned each other for basically...all of eternity."
+            ay "I’m glad you’re back now, though. Because it means that Sana and I can convince you to sleep in the futon with us."
+            s "You guys are sharing a futon?"
+            sa "Not as of right now. But we would if you’re involved."
+
+            scene secondsleepoverthing13
+            with dissolve
+
+            ay "Two roommates. One Sensei. One {i}futon.{/i}"
+            sa "Four hands and two mouths in the middle of the night once everyone else is asleep and-"
+
+            scene secondsleepoverthing14
+            with dissolve
+
+            ay "Okay. Too much detail. Calm down, Sana."
+            sa "I don’t think I can now...heheh..."
+            s "This is an...alluring proposition, I will not lie."
+
+            scene secondsleepoverthing15
+            with dissolve
+
+            ay "You agree then?! Can I write it on the board?! Please let me write it on the board before anyone else gets to you! "
+            sa "You could take us to {i}your{/i} room too, if you prefer...I don’t think either one of us would be opposed to that."
+            ay "I don’t think Sana would be opposed to literally anything! Ever! But that’s kind of beside the point!"
+            s "I’ll...think about it. There’s a lot of night left, you two. Anything could happen."
+            ay "Don’t say things like that when, more often than not, what it foreshadows is terrifying! "
+            sa "I hate sleeping alone...I sure hope you decide to...{i}cuddle{/i} with us later. "
+            s "Yeah...we, uhh..."
+            s "{i}We’ll see.{/i}"
+
+            $ beachsevensanaayane = True
+            $ ayane_love += 3
+            $ sana_love += 3
+
+            "Okay. That should be enough of Sana and Ayane for now. Who should I check up on next?"
+
+            jump beachsevenf1menu
+
+        "Yumi & Chika" if beachsevenyumichika == False:
+            scene secondsleepoverthing16 with fade
+
+            y "Why are you here? Go away."
+            s "But Yumi, if I don’t equally distribute my time with all of you, people will complain."
+            y "{i}Who?{/i} I won’t complain. Chika won’t complain. Will {i}you{/i} complain? Probably. Because you’d be missing out on an opportunity to torture me. Which seems to be the only thing you care about. "
+            s "I guess this means the two of you are friends again, then? And that you no longer fear for your life in the presence of her?"
+
+            scene secondsleepoverthing17
+            with dissolve
+
+            y "Who, {i}this{/i} girl? She’s barely said {i}anything{/i} all day. You’d think her fucking sister died if it wasn’t for that weirdly complacent half-smile she can’t seem to part with if her life depended on it."
+            c "I know I’m going to start crying the second I let go of this smile, so I’m just going to maintain it for as long as possible and ignore everything else around me. "
+            c "You two keep talking, though. It’s okay."
+
+            scene secondsleepoverthing18
+            with dissolve
+
+            y "Alright. Well, you heard her I guess. We’ve just gotta pretend we like each other until she goes back to normal and stops making us feel bad."
+            c "I’m still sentient enough to remember you admitting your kiss and that you like him now."
+            y "Fuck. "
+            s "Oh? So you’re telling other people? That’s adorable, Yumi. I should kiss you again right here. In front of everyone."
+            y "And I should rip your dick off so that it stops contaminating my town. Just cause I {i}should{/i} doesn’t mean I {i}will,{/i} though. And it’s probably best for you to do the same."
+            s "Even if I’ll be hurting you by abstaining?"
+            y "Since when do you give a shit about hurting {i}me{/i} of all people? "
+            s "Well, as you can see, I have already damaged Chika today. And you’re the next closest thing, so I guess I just need to ruin things with you now to keep my streak going."
+
+            scene secondsleepoverthing19
+            with dissolve
+
+            y "Wait, this is {i}your{/i} fault? The fuck did you do this time?"
+            c "This is my fault, not Sensei’s. I told him about {i}you-know-who.{/i}"
+            s "Yeah, and then I hung out with her for the entire day before the two of us showed up {i}here{/i} together to rub it all in. "
+            c "That definitely didn’t help, yeah. So I guess you can take some of the blame if you really insist."
+
+            scene secondsleepoverthing20
+            with dissolve
+
+            y "She wasn’t gay when I found her. How the hell’d you turn her into this? You ain’t gonna make {i}me{/i} gay next, are you? "
+            s "No, Ayane’s conversion is taking too long and it’s weakening my powers. I’m not sure I’ll have enough left for you by the time she finally admits to being bisexual."
+            c "Sensei did not {i}turn me gay,{/i} Yumi. Jeongyeon from TWICE did. Then Niki and Rin drove the final nails in and now I have to forever suffer at the hands of bisexuality."
+            y "Nah, I still think it was his fault. "
+            s "For what it’s worth, so do I. The ratio of straight girls to bisexual ones in your class is far too low for me to think I’m not somehow involved."
+            y "Maybe they’re all just fuckin’ confused cause there are barely any dudes around anymore?"
+            s "Well, at least that means I don’t need to worry about competition with {i}you.{/i}"
+
+            scene secondsleepoverthing21
+            with dissolve
+
+            c "Oh god. The dam is starting to break. "
+            y "Not cool, asshole. "
+            s "It was supposed to sound more like a joke than it came out. I will go away now."
+            y "Nah, not so fast. If this bitch starts crying in the middle of a fuckin’ slumber party and {i}I{/i} have to deal with it, you’re gonna dismantle the like ten years it took for you to groom me. "
+            y "Tell her you’re sorry first. {i}Then{/i} you can leave."
+            s "I’m sorry, Chika. And I will now leave you alone so you can go back to trying to not cry for the rest of the night. "
+            c "I hope it rains so I can go outside where no one will notice I’m crying."
+            y "Oh, fantastic. You made her fuckin’ emo too."
+            s "In my defense, that could have very well been Rin’s doing as well. There’s way of knowing whose fault that was."
+            c "{i}Mmmmmmmmmmmm...{/i}"
+            s "Okay. Leaving now. Sorry."
+
+            $ beachsevenyumichika = True
+            $ yumi_love += 3
+            $ chika_love += 3
+
+            "I should go somewhere else before I break Chika. Who should I check up on next?"
+
+            jump beachsevenf1menu
+
+        "Miku & Makoto" if beachsevenmikumakoto == False:
+            scene secondsleepoverthing22 with fade
+
+            mi "Heck yeah! {i}Now,{/i} we can finally get this party started! Just hope you brought the party favors since me and Makoto ain’t got jobs anymore."
+            mak "I’m surprised you made it back at all, honestly. I was under the assumption that you and Rin weren’t going to be seen again until summer break was over. To {i}make up for lost time{/i} and all that."
+
+            scene secondsleepoverthing23
+            with dissolve
+
+            mi "Wait, what even {i}is{/i} a party favor? "
+            mak "I believe it’s something the {i}host{/i} of a party gives out to the guests. But I don’t really get invited to parties unless I’m planning them, so I wouldn’t know."
+            mi "The heck you talkin’ about? You come to {i}all{/i} our parties."
+            mak "Yes, because I plan them. Pay attention."
+            mi "Then, did you also plan on losin’ your virginity to Sensei in a friggin’ witch costume? Cause that sounds way too cool for you, honestly. A Makoto plan wouldn’t be that fun."
+            mak "I did, technically. I just planned on it failing since that was back when Sensei thought forcing me into abstinence would be funny. "
+            mi "Damn. What kinda guy tries to ruin a girl’s perfect attendance record like that?"
+            s "I didn’t {i}think{/i} that would be funny, Makoto. It {i}was{/i} funny. "
+
+            scene secondsleepoverthing24
+            with dissolve
+
+            mak "No, it wasn’t. What’s {i}funny{/i} is how far things have fallen into the opposite direction. And that I am now in trouble {i}because{/i} of all the sex we’ve had. "
+            s "No, what’s {i}really{/i} funny is that you made a PowerPoint about it. "
+            mi "Hey, you think Maki will let me sell dildos again if I make a PowerPoint about those? Just without all the stuff about Sensei trying to fit his wiener inside of me?"
+            mak "No, Miku. In fact, I think Sensei could literally die right now and my mother would {i}still{/i} not give us our jobs back as she’s convinced this is all her fault. To which she is at least somewhat correct, but still."
+            s "I think I’m more to blame than she is and you don’t have a problem with {i}me,{/i} Makoto. "
+            mak "{size=-4}I disagree entirely. If I hadn’t grown up listening to my mother being ravaged by all sorts of men in the middle of the night or pornographic advertisements in the middle of the {i}day,{/i} I imagine I’d have a slightly different relationship with sex right now.{/size}"
+            mi "I don’t know. {i}I{/i} didn’t really have to deal with much of that stuff and I’m still one of those “loose women” now. So maybe it {i}is{/i} just Sensei’s fault we’re like this?"
+            s "Miku, you are many things. But a “loose woman” is not one of them."
+
+            scene secondsleepoverthing25
+            with dissolve
+
+            mi "Hey, thanks! I’ve been around the market long enough to know that’s a compliment now! "
+            mak "I’m not sure I’d call it a {i}compliment{/i} when you are apparently just physically incapable of having sex in the first place."
+
+            scene secondsleepoverthing26
+            with dissolve
+
+            mi "Sorry, Makoto. All {i}I’m{/i} hearin’ is that you’re jealous of my vagina and that you wish you could be as tight as me. Right, Sensei?"
+            s "No, Makoto’s feels better."
+
+            scene secondsleepoverthing27
+            with dissolve
+
+            mak "Heh."
+            mi "How {i}dare{/i} you! You’ll be lucky if I don’t snap it off next time!"
+            s "Yeah, that’s exactly the issue. Like, there’s such a thing as being {i}too{/i} tight. And if I can’t even have sex with you without you flooding the room with blood, I don’t really {i}want{/i} to."
+            mi "That’s just cause you ain’t tried in a while! I’ve been stretchin’ it out! You can’t make a fair assessment until you bang me again! Tell him, Makoto!"
+
+            scene secondsleepoverthing28
+            with dissolve
+
+            mak "Why? I just won. We’re rivals, remember?"
+            mi "Not to me! And if some guy started trash-talkin’ {i}your{/i} vagina all of a sudden, I’d do what any friend does and stick up for it! "
+            mak "Please don’t. I like my friends better when they’re not discussing my genitals. Thank you."
+
+            scene secondsleepoverthing29
+            with dissolve
+
+            mi "Sounds to me like a {i}competition{/i} is in order. "
+            mak "What, like...now? Right here?"
+            mi "I can’t keep this relationship a secret any longer, Sensei! The world must know! "
+            sa "We all know already, Miku..."
+            ay "Yeah, you haven’t been subtle about your “broken vagina” over the last few loops. I mean resets. I mean years."
+            mak "Nice save, Ayane."
+            mi "I can’t keep this relationship a secret any longer, Sensei! The world must know! "
+            s "Yeah, I actually think I’m just going to walk away now. I’m not good at doing things like this in groups. Makoto will vouch for me."
+            mak "It’s true. He’s a weak, weak man."
+            s "Okay, now that’s just mean."
+
+            $ beachsevenmikumakoto = True
+            $ miku_love += 3
+            $ makoto_love += 3
+
+            "And that’s also enough of Makoto and Miku for now. Who should I check up on next?"
+
+            jump beachsevenf1menu
+
+        "Rin & Futaba" if beachsevenrinfutaba == False:
+            scene secondsleepoverthing30
+            with fade
+
+            s "Hey, you two. "
+            f "Hi, Sensei. Can you please tell Rin that I don’t need every single intimate detail about what the two of you did in the sauna? Thanks."
+            r "Seems only fair to me after having to listen to your stories for years, Futaba. At least {i}I’ve{/i} never given Sensei a boobjob in the nurse’s office before."
+
+            scene secondsleepoverthing31
+            with dissolve
+
+            f "And you likely never will since Sensei doesn’t come to school anymore. Which means I’ll always have one leg up on you in school-related sexual encounters. "
+            r "That makes me kind of sad, actually. What good is a sexual relationship with a teacher if he can’t pull me aside during homeroom sometimes? "
+            s "You still have Imani and Wakana, I guess. And also your mom."
+
+            scene secondsleepoverthing32
+            with dissolve
+
+            r "Ugh. Futaba can just have all three of them. Sensei’s going to be my sole sexual partner for the indefinite future since I’d like to reaffirm to him that he’s the only one I’m interested in."
+            r "We can just break into school over the weekend if I want to do stuff with him in the nurse’s office, I guess."
+            f "I’m happy for you either way, Rin. It’s been a long time coming and I hope it was worth it."
+
+            scene secondsleepoverthing33
+            with dissolve
+
+            r "Oh! Speaking of a long time coming, I heard you and Futaba finally exchanged the L word together! Hooray!"
+            s "Why are you censoring the word “love?”"
+            r "Because I’m not trying to embarrass you guys! {i}Duh.{/i}"
+            s "Well, too late for that since Futaba’s already turned bright red."
+
+            scene secondsleepoverthing34
+            with dissolve
+
+            f "It still feels...kind of surreal, to be honest. It just happened so fast. "
+            r "No the heck it didn’t, dude. It was something you spent literal {i}years{/i} building up to. That is, by definition, slow as hell. "
+            f "I meant, like...{i}in the moment.{/i} I get that it took years for it to happen, I just didn’t really expect it to happen in the library and...directly in front of Nodoka."
+
+            scene secondsleepoverthing35
+            with dissolve
+
+            r "Looks like we’re {i}both{/i} growing up then, huh? "
+            r "And pretty soon, we’ll be in {i}college{/i} having threesomes together when you finally decide to start {i}experimenting.{/i} Which would obviously be with me. Like, come on. "
+            r "And yeah, it’ll probably be weird the first hundred times. But we’ll get the hang of it, I’m sure. That’s what sisters do, isn’t it?"
+            f "Thank you, Sensei. I am very excited to have to deal with this version of Rin going forward. This will not be annoying at all, I’m sure."
+            s "I am both sad and relieved that Rin is an only child if her outlook on what sisters do is what she just said."
+
+            scene secondsleepoverthing36
+            with dissolve
+
+            r "Oh, come on. You mean to tell me you’d turn down a threesome with the Nakayama sisters? "
+            s "No. Which is why the “sad” part of my last statement exists. "
+            r "Listen, I can’t {i}say{/i} I’d have a threesome with my sister for sure as I don’t have one. But Futaba is the closest thing I’ve got and I’d {i}definitely{/i} have one with her, so...you see what I’m putting down here?"
+            f "Again, I just {i}really{/i} want to thank you for awakening this side of her. {i}Really.{/i} My life is going to be so fun now. {i}All the time.{/i}"
+            r "So how about next weekend for a late night trip to the Kumon-mi High infirmary? You can bring Futaba too if it helps you feel more comfortable."
+            f "{i}So much fun.{/i}"
+
+            $ beachsevenrinfutaba = True
+            $ rin_love += 3
+            $ futaba_love += 3
+
+            "Okay. Well, that’s enough of Rin and Futaba for now, so I should probably go check on someone else."
+
+            jump beachsevenf1menu
+
+        "Ami & Maya" if beachsevensanaayane and beachsevenrinfutaba and beachsevenmikumakoto and beachsevenyumichika:
+            scene secondsleepoverthing37 with fade
+
+            s "Ayane."
+            ay "Present."
+            s "I’ve noticed that two of you are missing. Why?"
+            ay "Ami’s here. In the bedroom. She just didn’t really feel like hanging out with the rest of us tonight."
+            s "And Maya?"
+            sa "We haven’t really seen her all day..."
+            ay "Yeah, we were supposed to play D&D and everything. But she left with Ami yesterday and just never came back so we had to postpone."
+            s "And that did not concern you at all?"
+            ay "Oh no, it did. I just couldn’t really bring up any of those concerns to you since you were making out with Rin somewhere. Makoto was able to get a hold of her, though."
+            s "Makoto."
+
+            scene secondsleepoverthing38
+            with dissolve
+
+            mak "Present."
+            s "Where’s Maya?"
+            mak "I assume somewhere in Kumon-mi. "
+            s "Very helpful. Thank you."
+            mak "Hey, I could be wrong. You never know with this place."
+            ay "Just ask Ami. She’d never hurt you."
+            sa "Yeah, Ami would never hurt you."
+            mak "Yeah, Ami would never hurt you."
+            s "Okay."
+
+            play sound "static.mp3"
+            scene secondsleepoverthing39 with flash
+            stop sound
+
+            s "Ami, would you ever hurt me?"
+            a "Of course not! Why do you ask?"
+            s "I wasn’t going to, but that watermelon on the bed made me second guess myself. "
+
+            scene secondsleepoverthing40
+            with dissolve
+
+            a "This isn’t a melon. This is Maya. "
+            s "Then where’s the rest of her?"
+            a "I assume somewhere in Kumon-mi. "
+            s "Ami."
+            a "Hey, I could be wrong. You never know with this place."
+            s "Why did you leave yesterday? And what was I supposed to find in the sauna? There was nothing there."
+            a "I went to talk to Kaori and brought Maya with me since I didn’t want to ride the bus alone and get sexually assaulted."
+            s "And the sauna?"
+            a "I forget. Probably something incest-related. Maybe a mug to match the one I bought a couple months ago. Nao-chan probably snuck in and stole it. I’m sure it’s no big deal."
+            s "And why did you have to talk to Kaori again?"
+            a "What’s with all the questions, Dad? We’re on vacation. Go put on a yukata and relax with me. I’ll give you a back massage or something. Then you can give {i}me{/i} one after you blow mine out."
+            s "Or the two of us could leave this place together so I can confirm that you didn’t tie either of those girls to a chair and leave them there to be discovered at a later date."
+            a "That’s just silly. If I was going to tie anyone to a chair, it would be Niki. I fear I won’t be able to get through to her any other way. I think it’d be hard getting past Noriko right now, though."
+            s "Ami-"
+            a "Why are you so distrustful of me lately? I might do some questionable things every once in a while, sure. But it’s not like I ever lie to you."
+            s "You lie to me every single day. And you did it again just yesterday when-"
+
+            play sound "static.mp3"
+            scene secondsleepoverthing41 with flash
+            stop sound
+
+            s "Ah..."
+            a "When what, Dad? Did the two of us talk about something yesterday? My memory is a little fuzzy. But if you think you can remind me, then by all means!"
+            s "..."
+
+            scene secondsleepoverthing42
+            with dissolve
+
+            a "Listen — I know I’m not a perfect daughter. Far from it. But I {i}always{/i} have your best interests at heart. And if I tell you everything is fine, you should believe me. Like I’d believe you if you did the same."
+            s "Oh, really? Then I think it’d be in your best interests to tell me if something has happened to either Maya or Kaori. "
+            a "Sure! Nothing has happened to either Maya or Kaori. Can we cuddle now? I stayed in this room all by myself so we could do it in private and everything. "
+            s "And the melon head?"
+
+            scene secondsleepoverthing43
+            with dissolve
+
+            a "I got lonely and missed my best friend...How very moe of me. "
+            s "I just don’t understand how I’m supposed to believe you when-"
+
+            play sound "slidedoor.mp3"
+            scene secondsleepoverthing44
+            with dissolve
+
+            ay "Sensei, sorry to interrupt, but Maya’s on the phone. Do you want to talk to her? Also — hi, Ami. "
+            a "Hi, Ayane. What were you about to say, Dad?"
+            s "..."
+            a "..."
+            ay "You know what? I’ll just leave the two of you alone now that we’ve confirmed she isn’t lost or dead. Which doesn’t mean I expected her to be, but still."
+
+            play sound "slidedoor.mp3"
+
+            ay "{i}I’ll, uhh...be out here if you guys need me!{/i}"
+            s "..."
+            a "Can we cuddle now or is there some other fear you need to quash first?"
+            s "I’m sorry. You just...haven’t been very predictable lately, Ami. And it feels sometimes like you’re trying to sabotage every single relationship I have that doesn’t directly involve you."
+            a "I get that. Like, that {i}is{/i} kind of what I did with Niki, all things considered. "
+            a "Just because I want them all to fail doesn’t mean I’m going to try and {i}destroy{/i} them, though. That’s something you can handle on your own."
+            a "Like, I didn’t interrupt your meeting with Rin today, did I? In fact, I actually {i}helped{/i} Futaba distract the other adults from noticing you were gone. That’s gotta count for something, right?"
+            s "I just want us to be happy. That’s all. So if there’s something {i}I{/i} can do that will help prevent you from lashing out, just tell me. I don’t want to play these games anymore. I really don’t."
+
+            scene secondsleepoverthing39
+            with dissolve
+
+            a "Great! Me neither! And that’s exactly what I’ve been trying to tell you this whole time!"
+            a "The more you struggle, the harder the game gets. So just be happy with what you have and {i}I{/i} can be happy with you. The end."
+            s "That just..."
+            s "That doesn’t sound like an ending to me."
+            a "No?"
+            a "Well, maybe this will then."
+
+            stop music
+            $ renpy.end_replay()
+            $ beachseven4 = True
+
+            jump beachseven5
+
+label beachseven4f2:
+    if _in_replay:
+        scene secondsleepoverthing1
+        play music "wewereangels.mp3"
+
+    r "Which means it’s finally time for us to part ways..."
+    r "So you can go hang out with all of the second floor girls and {i}I{/i} can hang out with the first floor ones and pretend you didn’t just make me cum like five times in thirty minutes."
+    s "I thought it was six."
+    r "It was seven."
+    s "..."
+    r "..."
+    s "Then why-"
+    r "I had a lot of fun today, Sensei."
+    r "I like you a lot."
+    s "If you really like me, you’ll tell me I’m better than Otoha at fingering you."
+    r "You literally just told me to stop lying to you a little while ago, though."
+    s "That-"
+    r "Goodnight, Sensei! See you tomorrow."
+
+    scene secondsleepoverthing6
+    with dissolve
+    play sound "slidedoor.mp3"
+
+    s "Oh. Okay."
+    s "..."
+    s "..."
+    s "..."
+    s "Damn it, Otoha."
+
+    play sound "static.mp3"
+    scene secondsleepoverthing45 with flash
+    stop sound
+
+    "And so it comes to this again — one more reward pulled from the jaws of a shark with that shark being Imani and the reward being a room full of hormonal teenagers. "
+    "One of them being my new arch nemesis."
+
+    o "Don’t just enter the room scowling at me like that, dude. I haven’t even talked to you today."
+    s "If it were up to you, you’d probably never talk to me at any point ever."
+    o "Probably, yeah. But does being normal make me a bad guy now?"
+    s "Yes."
+    o "Oh. Well, okay. I guess you can proceed with your scowling all you like, then. And I’ll just sit here being something unattainable that you’re forever forced to chase after."
+
+    scene secondsleepoverthing46
+    with dissolve
+
+    mo "Sir! I see the time has finally come for us to reap the rewards of one more successful quest! But, unfortunately for you, it seems as if {i}your{/i} quest is just beginning."
+    s "If everything I have experienced so far has just been a really long prologue, I am going to be very pissed off."
+    mo "Then pissed you shall be! As before you lies three options — each sure to permanently alter your path in life!"
+    mo "Unless this is one of those “make every choice before you unlock a new one” type scenarios. I suppose things will remain mostly unchanged if that’s what’s happening."
+    s "That’s how it was last time, so I imagine that’s how it’ll be again."
+    mo "Then, in that case, feel free to approach us in whatever order you wish! And I’m sure it won’t offend any of us at all!"
+    s "..."
+    mo "No, really. Like, everybody here is practically AFK."
+    s "You’d think you guys would be a little more involved with each other with nearly half of you missing."
+    mo "You’d think so, yeah. But alas. So what will it be, hero? Which path will you take first?"
+
+    "It appears that the time has come for me to make a choice once more."
+    "Which path should I take?"
+
+    menu beachsevenf2menu:
+        "Molly & Tsuneyo" if beachsevenmollytsuneyo == False:
+            scene secondsleepoverthing49
+            with fade
+
+            mo "A wise choice indeed, Supreme Overlord."
+            s "I mean, I’m going to have to spend time with all of you before I can progress my {i}quest.{/i} So the order doesn’t necessarily matter."
+            t "I demand silence from both of you if you intend on interrupting my breeding session. I’m trying to get it wet, bro."
+            s "I’ve been meaning to ask, but what the fuck have you done to her?"
+
+            scene secondsleepoverthing50
+            with dissolve
+
+            mo "I’ve merely turned her down a road she’d have discovered on her own one day. But perhaps a bit too aggressively as the Kendo Princess seems to struggle tearing herself away from La Soleil at all these days."
+            s "The sun?"
+            mo "No, it’s the name of the cafe from Nekopara."
+            t "Take that fat cock like you were born to, Coconut. Feel the power of my phallic girth."
+            mo "Typically, the honeymoon phase with H-games lasts only a month or two before one goes back to normal. So I imagine she’s approaching the end of hers."
+            t "I am the pussy conqueror. Both literally and even more literally. "
+            mo "I-"
+            t "Because “pussy” means both vagina and cat. And I am having sex with anthropomorphic female cats."
+            mo "I-"
+            t "I do wish some of these sex scenes weren’t animated, though. It’s rather jarring and extremely tacky. And significantly messier than regular sexual contact based on my limited experience with it."
+
+            scene secondsleepoverthing51
+            with dissolve
+
+            mo "Yes, well, sometimes developers are forced to add such content to their products because they know people are more inclined to pay with their erections rather than they would with their minds."
+            s "You’re both girls, though. You don’t get erections."
+            t "That ain’t very woke of you at all, bro. Sounds like you need some pussy."
+            mo "You know what I meant, Sir. And it’s likely for the best that we don’t get actual erections as it’d be far harder for all of us to conceal how...{i}excited{/i} your mere presence makes us lately."
+            t "Just imagine a bunch of cocks all over the place. Powerful, hard cocks. Engorged penises. On everyone. All aimed at you. Some may call it Heaven, but I would call it Hell. "
+            s "Yes, I think I would also call that Hell."
+            t "Only I am allowed to say that. It is homophobic when you do it since you were born with a penis and that prohibits you from holding certain opinions without incurring the wrath of those with different ones."
+            s "So you’re allowed to say whatever you want just because you have a vagina?"
+
+            scene secondsleepoverthing52
+            with dissolve
+
+            t "Yes. I have learned from the Internet that “equality” these days is just the belief that we can objectify you based on your genitals, but you can not objectify us because that is bad. Now sit down, penis."
+            s "Yeah, so whatever you’ve done to Tsuneyo has clearly corrupted her. "
+            mo "Aye. But, in my defense, she’s always been rather easy to corrupt. "
+            mo "And we can likely offset these opinions by just sending her to Twitter instead of Bluesky. I just worry such a thing would incur an overcorrection of sorts."
+
+            scene secondsleepoverthing53
+            with dissolve
+
+            mo "Or you could just buy her a collar. I imagine she’d be easy to train with that alone based on the games she’s been playing lately."
+            t "The Emerald Guardian is right. I would make an excellent sex slave. I’ve learned so much in such a short time about how to fuck that no one would even know I’ve never done it before."
+            s "And just like that, I am fine with whatever has happened to her."
+
+            scene secondsleepoverthing54
+            with dissolve
+
+            t "Typical man. All you care about is sex. There is no hypocrisy behind this message at all."
+            mo "I’ll keep working on {i}refining{/i} her, Sir. The Kendo Princess has always been a nephilim of sorts. And it is up to us to expand upon her human side as best as we can."
+            s "Well, I guess that tells me what you’ll be doing for the rest of the night. "
+            mo "We’re fucking Azuki next. I could not leave Tsuneyo’s side even if I wanted to."
+            s "I don’t know what that means."
+
+            scene secondsleepoverthing55
+            with dissolve
+
+            mo "And you call yourself a lolicon..."
+
+            $ beachsevenmollytsuneyo = True
+            $ molly_love += 3
+            $ tsuneyo_love += 3
+
+            "Okay. Well, on that note, I think it’s time to check on someone else."
+
+            jump beachsevenf2menu
+
+        "Otoha & Nodoka" if beachsevenotohanodoka == False:
+            scene secondsleepoverthing56
+            with fade
+
+            s "Okay. I’m here now. And I’m ready to forgive you, Otoha. "
+            o "You smell like Rin."
+            s "Never mind. I just don’t think it’s destined to ever work out between us."
+            o "Does this mean what I think it means? Are the two of you {i}finally{/i} a thing? Because you guys were working toward that before I even came into the picture."
+            s "Otoha, you coming into the picture is part of why it took so long in the first place."
+            o "I could say the same thing about you and Niki in regard to me and {i}my{/i} fruitless pursuit of a one-sided love. "
+            s "Just you’d be wrong since Niki will never love you the way she loves me."
+            o "She might if I was a few years older and you just didn’t exist. So that’s the way I’ll rationalize the fact that you’ve actually managed to defeat me in something."
+            no "So, when will the two of {i}you{/i} finally have sex?"
+            s "Ho-"
+            o "He’s going to say something about my pajamas. Like, “Hopefully soon if she’s going to keep wearing that in front of me.”"
+            s "...No."
+            o "I got it exactly right, didn’t I?"
+            s "You can’t just wear a ponytail {i}in addition{/i} to the pajamas, Otoha. It’s the most sexual haircut."
+
+            scene secondsleepoverthing57
+            with dissolve
+
+            o "How?! "
+            s "Where do I even begin? You’re letting your guard down. You look more {i}comfortable.{/i} It highlights your face better. It won’t get in the way during a blowjob. It can be used as a handle during sex. It-"
+            o "Okay. So now I know to never put my hair in a ponytail around you again. Thanks. "
+            s "It’s for your own safety, really. I-"
+            no "Where did you hear that, Akira?"
+
+            scene secondsleepoverthing58
+            with dissolve
+
+            s "Hear what? These are thoughts I have come up with on my own because I am a pervert. "
+            no "So no one has directly said to you that the ponytail is the most sexual haircut before? Because that sounds eerily familiar to me for some reason and I believe there could be more to it."
+            o "Just because the two of you are perverts doesn’t mean you have some kind of secret connection. It’s probably just you guys being weird again. That happens, like...every single day."
+            s "Yeah, I don’t think that came from anywhere specific. I think Otoha’s right and we just both suck. Also, since when do you play piano?"
+
+            scene secondsleepoverthing59
+            with dissolve
+
+            no "I’m not very good. It just helps me keep my hands busy."
+            o "You’re not very bad either. Like, you’ve got Heart & Soul down and that’s more than enough to impress people at parties."
+            no "I’ve been asking Otoha to teach me but she keeps backing down."
+            o "Yeah, because you keep sensually caressing my hands while I’m trying to show you stuff."
+            no "It is not {i}my{/i} fault they are so delicate and alluring. Perhaps it wouldn’t be an issue at all if you’d only wear gloves to stop distracting me from touching them."
+
+            scene secondsleepoverthing60
+            with dissolve
+
+            o "{i}Okay!{/i} Hair down for Akira. Gloves for Nodoka. Anything else I need to take note of for wardrobe changes? Or should I just start walking around in a hazmat suit to keep the two of you in check?"
+            no "You really never heard that anywhere? About ponytails, I mean."
+            s "Do you really think it’s important enough to ask about twice? "
+            no "I’m not sure, to be honest. But I’ve been tying my hair back more than normal lately and I don’t {i}think{/i} there’s been any sort of notable change to my libido. "
+            s "Maybe we just need to have sex so you can find out?"
+
+            scene secondsleepoverthing61
+            with dissolve
+
+            no "I thought we were going to on Thursday, but then you left me all alone in the shower. I might have even cried about it if I could only figure out how."
+            o "Hi. I’m still here. So if you guys are gonna have sex or something, do it through the wall again. At least {i}that{/i} I could pretend to not really hear. "
+            s "One day, that’s going to be us. And someone else will be on the other side of the wall-"
+            o "Fingering Rin? Cool. Who will it be this time?"
+            s "{i}Anyone but you.{/i}"
+            o "What?"
+
+            "I’m angry again. I think it’s time to check on somebody else."
+
+            o "The scowl is back. {i}You fingered Rin.{/i} And now you’re jealous that I did it better than you. I’m getting so good at this."
+            s "No you’re not. And goodbye."
+
+            $ beachsevenotohanodoka = True
+            $ otoha_love += 3
+            $ nodoka_love += 3
+
+            jump beachsevenf2menu
+
+        "Yasu & Kirin" if beachsevenyasukirin == False:
+            scene secondsleepoverthing62 with fade
+
+            ya "Hi, Sensei! Guess who saw a jellyfish today? It’s me! I was so happy that I almost forgot-"
+
+            play sound "static.mp3"
+            scene secondsleepoverthing63 with flash
+            stop sound
+
+            ya "About how sad I am..."
+            ki "She’s been on and off like this all day, but it’s fine. I’ve been taking care of her."
+            s "Really? {i}You?{/i} Why? Where’s Touka?"
+            ki "The two of them got into a fight yesterday. I don’t really know the details but, between Noriko not coming this year and Miku hanging out with Makoto, I figured I could be Yasu’s new buddy for the weekend."
+
+            play sound "static.mp3"
+            scene secondsleepoverthing64 with flash
+            stop sound
+
+            ya "Yes! Kirin has been very nice to me all day! So nice that you’d never even {i}know{/i} she’s been bathed in sin for so long!"
+            ki "Want to tell him what we ate for lunch?"
+            ya "Nothing! Because we went swimming and eating before you do that results in the immediate loss of self that painfully dissolves you from the feet up! "
+            ki "Okay. But do you want to tell him what we ate {i}after{/i} we went swimming?"
+            ya "I had so many ichigo daifuku that my stomach hates me now! It is rebelling from the inside out and hopes to consume all that I both currently am and hope to be one day! "
+
+            scene secondsleepoverthing65
+            with dissolve
+
+            ki "Karin was busy with something and couldn’t tag along this year. But she gave me permission to order food with her allowance and I used it to treat Yasu to something that would help cheer her up."
+            s "Seems like she’s really rubbing off on you, huh?"
+
+            scene secondsleepoverthing66
+            with dissolve
+
+            ki "Yasu? How? This is the first time I’ve really hung out with her for more than a few minutes."
+            s "Not her, Karin. "
+            s "All this time, you’ve been beating yourself up over being a terrible sister when it seems like you’d make a great {i}older{/i} one when given the opportunity. "
+
+            scene secondsleepoverthing67
+            with dissolve
+
+            ki "Huh...I guess I hadn’t really thought of it like that. "
+            ki "No wonder Karin’s always trying to do stuff for me if this is what having a little sister is like. It’s like a massive dopamine boost every time I manage to make her smile. "
+            ya "I almost went home today because I felt out of place here and didn’t want to ruin everyone’s weekend. But I’m glad I did not since I have a new friend now!"
+
+            play sound "static.mp3"
+            scene secondsleepoverthing63 with flash
+            stop sound
+
+            ya "I just needed to lose my other friend first..."
+            ki "We’ll get there. The gaps between her character swaps are getting longer as the day goes by."
+            ya "I am a traitorous harlot incessantly toeing the jagged gossamer threads of what it means to {i}be.{/i}"
+            ki "So anyway-"
+            ya "The thinness of each strand makes them feel akin to razors as they cut deep into the flesh that both holds me upright and pulls me below at once."
+            ki "So anyway, how was {i}your{/i} day? You were hanging out with Rin, right?"
+
+            play sound "static.mp3"
+            scene secondsleepoverthing65 with flash
+            stop sound
+
+            s "I was, yeah. And it was pretty good. Kind of sad I didn’t get to see your new swimsuit a little more, though."
+
+            scene secondsleepoverthing68
+            with dissolve
+
+            ki "I can wear it again for you! Whenever you want! I look really cute, don’t I?! I think it’s the color. It’s the color, right? And the flower! Noriko helped me pick out the flower. I love you. "
+
+            play sound "static.mp3"
+            scene secondsleepoverthing69 with flash
+            stop sound
+
+            ki "Love {i}it.{/i} Sorry. That was an accident. I got excited. Please ignore that it happened or I will burst into flames."
+            ya "Silly, Kirin. True love doesn’t cause one to burst into flames. Only {i}false{/i} loves does! "
+            ya "And if the sound of your blood is not contaminated by an unseen miasma that permeates the inn, it sounds to me like {i}your{/i} blood wants to mix with {i}Sensei’s{/i} blood! Hooraaaay blood!"
+            s "Keep it at the dorm. You can {i}model{/i} it for me all you want the next time I come visit."
+            ya "Can I help? I enjoy it when Molly lets me model things so long as most of my skin remains unexposed."
+            ki "I think you’re better off sitting this one out, Yasu. You can help me when you’re older or...something."
+
+            $ beachsevenyasukirin = True
+            $ yasu_love += 3
+            $ kirin_love += 3
+
+            "Okay. I should probably take a step back and check on someone else before Kirin digs herself into an even deeper hole."
+            "Who should it be, though?"
+
+            jump beachsevenf2menu
+
+        "Io & Uta" if beachsevenmollytsuneyo and beachsevenotohanodoka and beachsevenyasukirin:
+            scene secondsleepoverthing70
+            with fade
+
+            s "Are Io and Uta in the bedroom or do they still have their own thing going on?"
+            mo "They have their own room this weekend, Sir. Right down the hall."
+            ki "I’m not really sure if it’s a good idea to try talking to Uta right now, though. She’s a little...out of it."
+            s "Well, yeah. I think she has every right {i}to{/i} be out of it if what I’ve heard is true. "
+            o "Oh, it is. It’s a {i}whole{/i} thing at Kumon-mi High now. We’re not even allowed to bring our phones into the classroom anymore."
+            ki "Yeah, they make us keep them in our lockers all day. And Imani’s been, like, {i}all over{/i} that policy ever since it started."
+            o "She’s been trying to get Uta to come to counseling too, but she’s too busy pretending nothing happened to even really acknowledge her."
+            s "Great. Well, I guess it’s time for me to bring the counseling directly to her then."
+            o "Please do not have sex with her right now. As a personal favor to me if your perpetual lust is as dangerous as it currently seems. "
+            s "I am obviously not going to have sex with her, Otoha. I just feel like it’d be sad for her to miss out on a very rare Dorm Wars prize after captaining your team for so long."
+            ki "You can have sex with me if you want if it helps you get it out of your system."
+            mo "I also volunteer for that."
+            ya "I’m scared to do it again. It felt too good the first time."
+
+            scene secondsleepoverthing71
+            with dissolve
+
+            ki "I’m sorry, what?"
+            o "Akira...you didn’t."
+            ya "What? Everyone else does it and you never look at them this way."
+            s "Yeah, so, I’m gonna leave now."
+
+            play sound "static.mp3"
+            scene secondsleepoverthing72 with flash
+            stop sound
+
+            i "Sensei? What are you doing in here?"
+            s "Oh, good. I finally got the room right. I walked into the first floor’s room for a split second and almost sparked an orgy."
+            i "That is both disgusting and also doesn’t answer my question. You shouldn’t be here right now."
+
+            scene secondsleepoverthing73
+            with dissolve
+
+            s "Why is it so cold in here?"
+            i "I told you yesterday! I have the AC on blast and the bedroom lights off to create a more comfortable environment for Uta, who very clearly needs it right now!"
+            i "You know what would most definitely {i}not{/i} make her comfortable, though? The boy she likes entering her safe space in the midst of a mental break! "
+
+            play sound "slidedoor.mp3"
+            scene secondsleepoverthing74 with dissolve
+
+            u "Io? What are you yelling about? Is everything-"
+
+            scene secondsleepoverthing75
+            with fade
+
+            u "Oh. Sensei’s here. "
+            u "Sorry for the absence of my pants. I’d have dressed more appropriately if I knew you were coming over."
+            s "Your eyes look...quite pretty tonight, Uta."
+
+            scene secondsleepoverthing76
+            with dissolve
+
+            u "Thank you. So do yours. Do you still like me even though I’m a whore?"
+
+            scene secondsleepoverthing77
+            with fade
+
+            s "Well, I was {i}going{/i} to say she doesn’t seem all that bad until that last part. "
+            i "Her filter isn’t as...effective when she’s like this. Which is another reason I didn’t really think it would be good for the two of you to see each other right now."
+            u "You don’t need to worry about me, Io. Sensei won’t do anything to make me feel bad. And he already knows I was a little freak in Nara, so there’s no need to hide that from him {i}now.{/i}"
+            i "Uta...it’s still too early. You told me if you ever get bad that I’m supposed to isolate you until you start to get {i}better.{/i}"
+
+            scene secondsleepoverthing78
+            with fade
+
+            u "I don’t see how any of that is relevant when I’ve been totally fine this whole time."
+            i "{i}Hah.{/i} You’re not, {i}fine.{/i} And you’d be looking out for me if I was in the same situation, so-"
+            u "You’re being annoying. I want to hang out with Sensei."
+            i "I...that’s..."
+            s "She doesn’t mean it."
+            i "No, I mean she’s {i}right.{/i} I know for a fact that I’m annoying. Uta just doesn’t point that out very often and-"
+            s "Just give us like ten minutes, okay? I won’t stay long. But we’re cashing in on Dorm Wars prizes tonight and it felt weird visiting the rest of your floor without seeing you two."
+            u "Oh, right. I forgot everyone else was here."
+            u "No one has come to say hi to me. I am sad now."
+            i "Sensei..."
+            s "Just ten minutes, Io. That’s all."
+            i "{i}Hah...{/i}"
+
+            scene black
+            with dissolve2
+
+            i "Fine..."
+
+            "........."
+            "......"
+            "..."
+
+            scene secondsleepoverthing79
+            with dissolve2
+
+            "I turn the lights in the living room off to help keep Uta comfortable. "
+            "I’m not sure how effective it is, but Io knows better what she needs during times like this than {i}I{/i} do, so I decide to just take her word for it and deal with the dark and the cold for now."
+            "Without hesitation, Uta sits down beside me, wrapping her arms around mine and staring off in the direction of the chabudai...but I assume not really {i}seeing{/i} anything."
+            "And while I can’t say I’ve ever {i}looked{/i} like her, I’ve certainly felt like her. And I understand at least a little of what she’s going through right now...even if I’ll be ultimately unable to help her."
+
+            u "Everyone knows I’m a bad girl now, Sensei. "
+            u "You might have to home-school me at this rate."
+            s "I don’t think such a thing will be necessary, Uta. You’ll be back on your feet in no time at all."
+            u "I never left my feet, silly. This was always going to happen. I’ve been prepared for it from the start."
+            u "Frankly, it’s amazing I lasted as long as I did here without anyone finding out about the real me. "
+            u "Other other than you or Io, I mean. But you guys have been through some stuff too. And if {i}you’re{/i} doing fine, then obviously I can do fine as well."
+            s "It’s okay if you don’t though, Uta. "
+            u "..."
+            s "You don’t {i}need{/i} to be fine. You can cry on me. You can cry on Io. And neither one of us will look at you any different for it. "
+            s "In fact, we {i}want{/i} you to cry. It’d be healthier than just {i}pretending{/i} everything is fine, at least."
+            u "That’s the funny part. I don’t feel like crying at all."
+            u "In fact, I can’t even remember what crying feels like. "
+            u "I like this, though. Holding your arm. Your warmth. Your smell."
+            s "..."
+            u "Is Io still watching?"
+            s "No...She closed the door and is giving us some privacy."
+            u "Then, do you want to have sex with me?"
+            s "What? No. Absolutely not. That’s-"
+            u "Because I’m disgusting. Right?"
+            u "Because you want someone you can keep to yourself. And that means nothing when my body belongs to everyone. Right?"
+            s "{i}Wrong.{/i} Not even {i}close{/i} to right."
+            u "You’re okay with sharing me then? Just not right now?"
+            s "It’s not {i}sharing{/i} you, Uta. All of that stuff is in the past. It has nothing to do with any of-"
+            u "It’s only in the past because something bad happened."
+            u "I’d still be taking pictures like that today if nothing ever came of it. "
+            u "I still like it when people look at me."
+            u "But it’s depressing. "
+            u "Because it’s only ever {i}just{/i} looking. "
+            u "And even though you know I want you very very very very very very badly, you can’t bring yourself to touch me."
+            s "..."
+            u "Why?"
+
+            if iospring3 == True:
+                s "Because I’ve already made that mistake before. And even if I {i}was{/i} just showing you love in the fucked up way I’ve come to know it, I know you wouldn’t feel it."
+                s "You don’t feel anything right now. "
+                s "You’re merely pretending to."
+
+            else:
+                s "Because I care about you. So much that even the thought of taking advantage of the state you’re in right now makes me sick to my stomach."
+
+            u "Did you get them this time?"
+            s "Uta-"
+            u "There were a lot."
+            u "I’m doing all {i}sorts{/i} of stuff in them."
+            u "I hope you saw. "
+            s "No you don’t."
+            u "Yes I do."
+            u "I want you to know I’d do all of that and more for you."
+            u "One thousand pictures just to hold your hand. A thousand more to kiss your cheek. "
+            u "How many would I need to take for you to consume me?"
+            u "Just buy me a camera and I will take them all."
+
+            scene black
+            stop music
+
+            u "And then, it will be nothing but black. "
+            u "So you can fill the void with me."
+            u "I’d be happiest if you just swallowed me whole."
+            u "But I apologize in advance for the taste."
+            u "This fruit was ripe before I ever met you."
+            u "It is practically inedible now."
+
+            $ renpy.end_replay()
+            $ beachseven4 = True
+
+            jump beachseven5
+
+label beachseven5:
+    play sound "static.mp3"
+    scene beachsevenend1 with flash
+    stop sound
+    play music "newstart.mp3"
+
+    "Let’s try ending on a hopeful note for once! I figure it might help you feel a little better after all of the trials and tribulations you have faced here in this Infinite Spring."
+    "Besides, I need some practice with that as a narrator and {i}you{/i} need some practice with it as a man who’d likely go out of his way to dispose of a box of happiness if it was mistakenly delivered to your door one day."
+    "And that’s super unhealthy, you know! The fact that you’ve made it this far living off of free samples is both a testament to your will and proof that God doesn’t hate you as much you think He does!"
+    "How about finally picking up a membership card though, huh? "
+    "Something that’ll show all those people handing out the samples that it’s okay for you to have them and that you didn’t just crawl in through a hole in the wall you dug in hungry desperation."
+    "The main issue here is that you’re still kind of unemployed-ish and membership cards can be super expensive, so you’ll have to steal one from someone else."
+    "I can help with that, though! I just need you to click whichever one of the following buttons will help you remember better."
+
+    menu beachsevenendmenu:
+        "Smile (UNDER CONSTRUCTION)":
+            "Stop clicking on things that clearly don’t work!"
+            jump beachsevenendmenu
+        "Frown (UNDER CONSTRUCTION)":
+            "Stop clicking on things that clearly don’t work!"
+            jump beachsevenendmenu
+        "The expression doesn’t matter":
+            "It’s what it hides that does."
+
+    play sound "static.mp3"
+    scene thething with flash
+    stop sound
+
+    "hey, what’s the meaning of- oh, shit."
+
+    s "...Pareidolia?"
+
+    "akira? 久しぶり！"
+    "the fuck you doing here, though? i’m supposed to be expunged. further communication between the two of us should be impossible without the help of a third party."
+    "that’s what i’ve been working on lately, though. and i think it’s working based on how much she’s been flicking the bean lately. "
+    "either way, you’re kinda harshing the vibe right now, bro. because, as much as i like pissing you off, i like tormenting hormonal teens too and you’re seriously cock-blocking me right now."
+
+    s "All I did was click a button. A button I never would have clicked if I’d known you would just-"
+
+    "blah blah blah. i’m the bad guy and you’re the good guy and the only reason you suck is because of me or whatever. i’ve heard it all before, champ. send me back to yumi."
+
+    s "Yumi? That’s-"
+
+    "yo, what the hell? i can’t even ping her location. did you fucking sever my connection to yumi? you fucking cuckburger. am i stuck in here of all places again? no way. how? why? fuck you, dude. "
+    ay "Sensei?"
+
+    play sound "static.mp3"
+    scene beachsevenend2 with flash
+    stop sound
+
+    s "...Yeah?"
+
+    "oh, and congrats on finally landing a version of the stray cat who doesn’t pop the second your cock slams into her cervix. proud of you, buddy."
+
+    ay "Everybody’s getting ready to leave, but the three of us wanted to walk around for a little while longer. "
+    ay "Do you want to tag along or just head back with the rest of the group?"
+    m "He’s been in and out of “consciousness” all morning, so the clear path forward here is to-"
+    sa "Take him with us into a soundproof room and see who he throws himself at first."
+    m "My thoughts exactly."
+
+    scene beachsevenend3
+    with dissolve
+
+    ay "You two are gross and inconsiderate. I’ll just take care of him myself and you can leave instead."
+    m "Nice try, Ayane. No."
+    sa "If Sensei’s going to go into sex robot mode, it’s only fair that everyone gets a turn to play with him. Right, Sensei?"
+    s "Yes. Let’s all get naked and do sex to each other."
+
+    "lol. still so easy."
+
+    s "{i}(I swear to however many gods there are that if you start controlling me again, I will find a new, inventive way to kill you and make you wish even more that you were still inside Yumi.){/i}"
+
+    "dude, i’d love to be inside of yumi. just wait until you see how cute her face is when she’s trying not to cum from-"
+
+    play sound "static.mp3"
+    scene beachsevenend4 with flash
+    stop sound
+
+    "Perfect! So, now that you’ve been reacquainted with a long-lost friend, why don’t we float around and guess what everyone else is up to, huh?"
+    "I imagine that the conversation at the Tsukioka house is going something like this:"
+
+    tb "I propose that all of the females in this family sleep with Akira simultaneolusly because I’m a super evil bad guy who’s definitely up to something and I am clearly into this."
+
+    play sound "static.mp3"
+    scene beachsevenend5 with flash
+    stop sound
+
+    to "Noooooooo! Only {i}I{/i} get to have his cummy-wummies, Mommy! I’m already sad because I have to share them with Yasu, but now I have to share them with {i}you{/i} too? Waaaaaaaaaaahhhhh!"
+
+    play sound "static.mp3"
+    scene beachsevenend4 with flash
+    stop sound
+
+    "Okay, okay. That’s probably not how it’s going and I’m sorry. This {i}hopeful{/i} thing isn’t exactly my forte, but I’m sure I can do a little better! I just need to remember some stuff as well."
+    "Let’s see, I- ah! Got it. {i}This{/i} is how it went."
+
+    tb "Rejected. Absolutely not."
+    tb "You will continue attending Kumon-mi High or I’ll have every single one of your horses turned into glue. Do you understand?"
+
+    play sound "static.mp3"
+    scene beachsevenend6 with flash
+    stop sound
+
+    to "Wha...what do you mean {i}rejected?!{/i} What happened to listening to my input on the state of my education?! I’m not {i}learning{/i} anything in that blasted school, Mother! I’m not-"
+    tb "Touka dear, you’re being irrational because Yasu slept with Akira. And while I understand the sentiment-"
+
+    scene beachsevenend7
+    with dissolve
+
+    to "How do you even know about that?! It happened in a fucking jail cell underground!"
+
+    play sound "static.mp3"
+    scene beachsevenend4 with flash
+    stop sound
+
+    tb "Do not use such language with me, dear. I am still your mother regardless of how upset you are that your best friend slept with the man you like before {i}you{/i} did."
+    to "That’s...you don’t...what?! WHAT?!?!"
+    tb "To be fair, though, a lot of this is {i}your{/i} fault, isn’t it? I understand the hesitance and all given that this {i}is{/i} your virginity we’re talking about. But delaying like this is only going to lead to more problems, dear."
+    tb "Would you like me to arrange a romantic trip of some sorts? A getaway for the two of you to go absolutely wild on one another without the fear of interruption? Would {i}that{/i} help?"
+    to "NO! NO IT WOULDN’T, MOTHER! IN FACT, I STILL DON’T UNDERSTAND WHY YOU EVEN {i}WANT{/i} THIS IN THE FIRST PLACE!"
+
+    scene beachsevenend8
+    with dissolve
+
+    tb "Oh, yay. A temper tantrum. I’ve seen these in sitcoms. "
+    tb "Go to your room so I can quietly knock on the door in approximately thirty minutes and enter with a heavy-handed life lesson further displaying our gaps in respective wisdom."
+    to "I...you..."
+
+    play sound "doorslam.mp3"
+    scene beachsevenend9 with hpunch
+
+    to "{i}AAAAAAAAAAAAAAAAHHHHHHHH!!!!{/i}"
+    tb "Oh, Akira. Could you be any {i}more{/i} predictable if you tried?"
+
+    scene black
+    with dissolve2
+
+    tb "It’s no wonder Sekai adored you so much. "
+    tb "She always knew how {i}exciting{/i} you’d be once you reach full-bloom. Why, it’s like watching Sodom & Gomorrah all over again!"
+    tb "Now, who was next according to plan? I wonder if- oh."
+    tb "{i}Oh my.{/i}"
+
+    play sound "static.mp3"
+    scene beachsevenend10 with flash
+    stop sound
+
+    "All around the world, wonderful things are happening! But, of course, that means some {i}sad{/i} things are happening too..."
+    "Relationships ending, homes breaking apart, good friends going their separate ways — all of these things, on paper, could make you cry if you still remembered how!"
+    "And maybe it’s just because you’ve grown numb, sure. But maybe it’s {i}also{/i} possible that these things can be good at the end of the day!"
+    "After all, if it wasn’t for tragedy, the two of us wouldn’t have ever grown so close. Close enough that I can speak to you when you’re not here. How you can {i}hear{/i} me always, like a muse! "
+    "That’s where hope kicks in again. And how the tone of {i}everything{/i} changes based on little things like lighting or the songs you use when speaking of them! "
+    "So when you see this despondent woman alone on a couch with cardboard boxes piled up behind her, do you view it as an ending? A beginning? Or both?"
+    "Doesn’t the fact it ended at all signal that something better is still to come?"
+    "Because I think it does! And that’s why I keep going. "
+    "After ending."
+    "And ending."
+    "And ending and ending and ending and ending and-"
+
+    play sound "static.mp3"
+    scene beachsevenend11 with flash
+    stop sound
+
+    "AH! BUS! WHERE’S MY SEATBELT?!"
+
+    i "Uta, I can not let you go to work like this. I’m sorry."
+    u "Why not, Io? Everyone at the cafe likes me. And they don’t even care that I have my clothes on."
+    i "Because you keep saying things like that. That’s why."
+    u "Stop being silly. We both know I like the attention. Why pretend I don’t? "
+    u "In fact, why do you think I took a job like that in the first place after everything that’s happened to me?"
+    i "Because you’re {i}good{/i} at it. And it makes you a ton of fucking money. And because you just {i}like{/i} being cute since that’s who you are."
+    i "Those other people don’t matter, Uta. You do this for yourself. And thinking it all just revolves around how other people view you is what you promised yourself would stop happening once you moved."
+    u "I’m hungry. Do you want to stop for food on the way home?"
+
+    scene beachsevenend12
+    with dissolve
+
+    i "Uta, when you came to Kumon-mi, we promised we would be there for each other, didn’t we? "
+    i "That we’d trust one other {i}before{/i} we trust ourselves since our self-worths were robbed from us by evil people? You remember that. I know you do."
+    u "I used to masturbate to you when I thought you were a boy online."
+    i "Cool. That’s-"
+    u "I didn’t stop when I learned you were a girl either. It might have even made it better."
+    i "Okay. You’re hypersexual and I don’t find that to be malicious in any way, so I don’t care. It changes nothing. "
+    i "I just can’t let you sit there and tear yourself down like this. I won’t just {i}watch{/i} as the girl I admire most crumbles into nothing and becomes everything she’s already destroyed once before."
+    u "Why {i}do{/i} you admire me, anyway? "
+    u "Tons of girls we know have been through terrible things too and you’re mean to all of them. Why do {i}I{/i} get special treatment when my actions created this problem? Hm?"
+    i "Because I love you. That’s why."
+    u "Gay."
+    i "Far from it. And please never repeat this again because it is the most embarrassing thing I have ever said, but I’ve also...you know...when I thought {i}you{/i} were a boy."
+
+    scene beachsevenend13
+    with dissolve2
+
+    u "Io..."
+    i "I obviously stopped when I found out you were a girl, though! So just...know how important you must be to me if that was a thing that happened, okay?! You know how I am with that stuff! "
+    u "We were masturbating to each other when we thought we were both boys? That {i}is{/i} gay."
+    u "We’re so gay for each other."
+
+    scene beachsevenend14
+    with dissolve
+
+    i "No we’re not! We’re just super important to one another and-"
+    man "{i}Ahem.{/i}"
+
+    scene beachsevenend15
+    with dissolve
+
+    i "Oh, mind your own fucking business, dude! Can’t you see we’re having a moment here?!"
+
+    play sound "static.mp3"
+    scene beachsevenend16 with flash
+    stop sound
+
+    r "Aaah...isn’t a nice cup of coffee just the {i}best{/i} the morning after your teacher gives you seven orgasms?"
+    f "I’m quickly beginning to feel that you are even more incorrigible after this than you were after you started dating Otoha. My happiness for you is waning."
+
+    scene beachsevenend17
+    with dissolve
+
+    r "Don’t be like that, Futaba! We can finally connect over our shared sexual interest of someone! That part of us has never aligned before and I, for one, am very excited about-"
+    c "Waaah!? No! Stop! {i}Yumi!{/i}"
+
+    scene beachsevenend18
+    with dissolve
+
+    r "Huh?"
+
+    play sound "static.mp3"
+    scene beachsevenend19 with flash
+    stop sound
+
+    c "I changed my mind! I don’t want to-"
+    y "Go. You’ve been bitching about wanting to talk to her all fucking morning, so just do it. Not sure what the big fuckin’ deal is when her vagina’s already been in your fucking mouth."
+
+    scene beachsevenend20
+    with dissolve
+
+    c "Hah...hahah! Sorry about her, gang. I’ve got no idea what she’s talking about. Really. I was just...{i}breakfast!{/i} I talked about wanting breakfast and you guys just happened to be near where the breakfast {i}is!{/i}"
+    c "And that’s okay! I can just not eat. Ever again. And then die of starvation because that would probably be for the best at this point and...hahah! Okay, bye!"
+    f "Oh god. Chika’s turned into Rin and Rin’s turned into Chika."
+    y "A match made in fucking hell, if you ask me. This shit ain’t gonna fly at all if the two of us are going to be hanging out again."
+
+    scene beachsevenend21
+    with dissolve
+
+    c "Well, it’s certainly not helping that you would just force this onto me, you fucking-"
+
+    play sound "static.mp3"
+    scene beachsevenend22 with flash
+    stop sound
+
+    r "There’s a seat beside me if you’re brave enough, Chika. You can have it if you want."
+    f "Where? The only seat beside you is-"
+
+    scene beachsevenend23
+    with dissolve
+
+    f "Oh. Oh, I get it."
+    r "{i}ThankyouIloveyoubye.{/i}"
+
+    scene beachsevenend24
+    with dissolve
+
+    f "I...uhh...I suppose I’ll just sit next to Nodoka then."
+
+    scene black
+    with dissolve2
+
+    y "Good, because I fucking won’t."
+    c "No, no! Futaba! Sit! Please. By all means. I don’t want to take your seat. I’ll just...go stand over there!"
+    f "In...the ocean?"
+    c "Hahah! Yeah! The ocean is wet! I mean...fine! Hahah! Girl!"
+    r "Was I really that bad? There’s no way I was that bad, right?"
+    no "I miss when you were a confused and horny lesbian. I feel as if we’re running out of those now and it is throwing Yuritopia into disarray."
+    y "Can I hit her again, please?"
+    f "Maybe just once."
+
+    play sound "static.mp3"
+    scene beachsevenend25 with flash
+    stop sound
+
+    "Anyway, now that things are ramping down again, I just want to say I think it’s {i}great{/i} how different things can be based on how they’re presented. "
+    "It’s what’s helped me remain so {i}mysterious{/i} for so long, you know! "
+    "But the closer we come to an ending we can all be happy with, the more those mysteries (mine included) will fade!"
+    "But with that fading comes something new. "
+    "Whether it be a new career-"
+
+    n "You’re really getting serious about this acting thing, huh?"
+
+    "A new family."
+
+    ni "It’s only a matter of time until Akira loses the job he’s pretending to have. And I don’t want him and Ami going hungry once my reserves dry up."
+
+    "Or a new outlook on life entirely."
+
+    n "Does this mean you’re okay with her incest kink now then?"
+    ni "Absolutely fucking not."
+
+    "Or not. Darn it."
+
+    scene beachsevenend26
+    with dissolve
+
+    n "Oh, okay. The new decor threw me off."
+    ni "I take one down, she puts two back up. There’s no winning with her. But that doesn’t mean I want her to {i}starve.{/i}"
+    ni "She’s Akira’s responsibility, which means she’s {i}my{/i} responsibility too. For better or worse. Normally worse."
+
+    scene beachsevenend27
+    with dissolve
+    play sound "doorbell.mp3"
+
+    n "And us? Are we finally okay now?"
+    ni "Are you seriously asking me if we’re {i}okay{/i} while you are actively sleeping with the man I am trying to figure out how to support as we speak?"
+    n "Are you implying it’s fine if I just {i}passively{/i} sleep with him? Because I can live with somnophilia. That seems like a fair compromise."
+    ni "Get the fucking door, Noriko. I want my tacos."
+    n "Yes, onee-sama. I love you, onee-sama. Thank you for all of the hand-me-downs, onee-sama."
+
+    play sound "chair.mp3"
+    scene beachsevenend28
+    with dissolve
+
+    ni "They weren’t supposed to include a live human being, you fucking brat. You’re so lucky that telling mom would just make things even worse."
+
+    play sound "dooropen.mp3"
+
+    n "Nuh-uh! Mom would {i}totally{/i} let me date Akira. I’d just need to wait a couple years, probably."
+    ni "Get fucked. Just not literally. Ever again. Or I will kill you."
+
+    "Everything is hopeful so long as you keep a positive outlook on life. "
+    "That’s what my mom taught me when I was little and it’s what I’m {i}supposed{/i} to be teaching you every day now. But I lose sight of that every once in a while."
+    "I lose sight of a lot of things."
+    "And sometimes, everything goes dark and I don’t know what to do."
+    "It’s scary. {i}Really{/i} scary. "
+    "But I’m sure you feel that way as well. And that even when I {i}feel{/i} alone, which is all the friggin’ time, I’m  really not."
+    "There will always be people out there willing to support me. "
+    "No matter how badly I try to make them go away."
+    "Now, if you’ll please excuse me — there’s something I woke up wanting to do."
+
+    play sound "static.mp3"
+    scene beachsevenend29 with flash
+    stop sound
+
+    a "Hi! Whatcha doing?"
+    ni "A...Ami? What are {i}you{/i} doing? What is this?"
+    a "A hug. I haven’t seen you in a few days and I’ve missed you."
+    ni "What did you do?"
+
+    scene beachsevenend30
+    with dissolve
+
+    a "I haven’t done {i}anything.{/i} What’s wrong with a girl wanting to hug her mom?"
+    ni "Her..."
+    ni "What did you just-"
+
+    scene beachsevenend31
+    with dissolve
+
+    a "Do you want to go shopping today? I’m thinking of growing my hair out again and I want to buy some new accessories for it."
+
+    scene beachsevenend32
+    with dissolve
+
+    ni "I like your short hair, though. And if you’re only planning on growing it out again to make Akira happy, you-"
+
+    scene beachsevenend33
+    with dissolve
+
+    a "It’s just for me this time. I think I’m happier that way."
+
+    play sound "static.mp3"
+    scene beachsevenend34 with flash
+    stop sound
+
+    a "Do you want to come too, Noriko? All three of us could spend the day together and stuff. We’re practically family, after all."
+    n "Do I get a hug too or is it just Nee-chan?"
+    a "I’ll make my way over once I’m done with her, promise."
+    ni "Ami, what’s gotten into you? You haven’t been this nice me in...a long time."
+
+    scene beachsevenend35
+    with dissolve
+
+    a "You’ve been working hard, haven’t you?"
+    a "And it hasn’t been easy, has it?"
+    a "But you’re still standing. And not just anybody could do that."
+    n "Nee-chan isn’t just anybody. She’s the strongest, coolest, {i}most forgiving{/i} sister in the world. And no hiccup in any sort of familial relationship would get to her forever. Right, Nee-chan?"
+    ni "You actually want to go shopping? You don’t just need money?"
+    a "It doesn’t {i}need{/i} to be shopping. We could also just watch a movie or something. All I really want is to be with you. "
+    a "{i}Both of you.{/i}"
+
+    scene black
+    with dissolve2
+
+    a "We only have so much time together after all..."
+
+    scene beachsevenend36
+    with dissolve2
+
+    s "..."
+    m "I bet you feel {i}really{/i} proud of yourself right about now, huh?"
+    s "I do not enjoy the way you are looking at me."
+    ay "Maya’s just jealous that your third arm isn’t hard enough to grab right now. "
+    sa "Sensei’s just a little nervous to have so many cute girls in the same bath together, I bet. "
+    m "It’s the shower all over again."
+
+    scene beachsevenend37
+    with dissolve
+
+    sa "Shower? What shower?"
+    m "I’d rather not recall such terrible memories, thank you very much."
+    ay "There’s only three of us this time, though. That still comes in under your limit. Right, Akira?"
+
+    scene beachsevenend38
+    with dissolve
+
+    sa "I don’t like that you’ve been calling him that more lately...It feels different when {i}you{/i} say it."
+    ay "Well, it only makes sense that I use his given name more often since the two of us are going to get married one day! Better to get used to it now, you know?"
+    m "I hope you don’t mind continuing to share him even {i}if{/i} that happens, because you’re going to need to. And take special note of the “if” and not “when” I decided to use there."
+    ay "We’ll see that about, Maya."
+
+    scene sky
+    with dissolve2
+
+    sa "Why do you sound so confident all of a sudden?"
+    m "You mean apart from her normal, annoying, ingrained confidence?"
+    ay "{i}Well,{/i} Sana — if you need to know, I had a dream last night."
+    s "What kind of dream?"
+    ay "I met my guardian angel! And she promised me we’d end up together."
+    m "A dream. How absolutely foolproof. The rest of us are clearly doomed."
+    sa "I had a dream like that too once. I woke up before I got her name, though."
+    ay "Yours was a girl too? What’d she look like?"
+    sa "I...huh. I think she...looked like me? But I can’t...really remember."
+    s "You ever have something like that, Maya?"
+    m "No, and I’m quite thankful for that as I’d like my fate to be decided by me and not some mysterious dream-entity, thank you very much."
+    s "I guess this just confirms that you-"
+
+    play sound "static.mp3"
+    scene sky with flash
+    stop sound
+
+    s "Ah..."
+
+    play sound "water1.mp3"
+
+    sa" Quick. Lay him down on the rock while he’s still broken. "
+    m "Ayane, give me his other arm. I’m more than willing to be an accomplice here."
+    ay "You guys need to stop taking advantage of my future husband every time he- {i}ahh!{/i}"
+    s "Sex. "
+    ay "{i}Kyaah!{/i} I’ve...been chosen! Ahh! Go on...without me! {i}AAAAH!{/i} "
+    m "Tch. We weren’t quick enough."
+    sa "But...I don’t understand..."
+    sa "She’s the most developed out of all of us..."
+    ay "The...aah.....baby factory! It...kyaahh...calls to him!"
+
+    play sound "water1.mp3"
+
+    m "{i}Hah...{/i}I’ll go stand on guard."
+    sa "And I’ll..."
+
+    scene black
+    with dissolve2
+
+    sa "I’ll wait right here and watch..."
+
+    stop music fadeout 15.0
+
+    $ renpy.end_replay()
+    $ beachseven5 = True
+
+    scene beachsevenend39
+    with dissolve2
+    $ renpy.pause(5, hard=True)
+    scene beachsevenend40
+    with dissolve2
+    $ renpy.pause(5, hard=True)
+    scene black
+    with dissolve3
+    $ renpy.pause(3, hard=True)
+
+    "........."
+    "......"
+    "..."
+
+    if day >= 6:
+        jump endofsatch4
+    else:
+        jump endofweekdaych4

@@ -260,7 +260,7 @@ label callchikanight:
         "......"
         "..."
         "Huh. I guess Chika's busy right now."
-        jump callnight    
+        jump callnight
     if senseisad == True:
         "I don't want to call her right now..."
         jump callnight
@@ -11358,3 +11358,672 @@ label chikachristmalloween2:
     "{i}An hour later...{/i}"
 
     jump nodokachristmalloween1
+
+label beachsevenchika1:
+    play sound "shower.mp3" fadein 3.0
+    scene chikayumishower1
+    with dissolve2
+
+    "And so I take you somewhere else without the use of teleportation, just secret narrator powers."
+
+    stop sound fadeout 5.0
+
+    "It’s somewhere far detached from the [[mind]set you just stood in, but not so far detached from where you’re meant to be right now according to my outline."
+    "But ignoring my broken tripod and the roaring sounds of water crashing down onto both stone and the reddened flesh of an unpictured girl, the mood here is better. Relaxed."
+    "The sun has begun its descent and, with it, madness too disembarks in preparation for the evening’s promised melancholy."
+    "A door slides open, revealing she who carries such cholera — nude once more thanks to the author’s perversions and their apparently infinite desire to see her exposed breasts."
+
+    play sound "slidedoor.mp3"
+    scene chikayumishower2 with dissolve2
+
+    "And next, the music. "
+
+    play music "smellsofsummer.mp3"
+    scene chikayumishower3 with dissolve2
+
+    "It isn’t the “normal” song for a situation like this. Especially when she who canonically sings it is currently in the backseat of a limousine right now."
+    "But it helps set the stage. And it’s only one step detached from a song the naked girl in front of us would memorize on early-morning walks to school."
+
+    scene chikayumishower4
+    with dissolve2
+
+    "That tinny, overmodulated sound you only get from old or cheap headphones would do nothing to distract her from the words she’d hear but never heed. "
+    "{size=-2}Then sooner rather than later, she’d be plucking them from her ears and fixing her skirt before sitting down beside the girl she just laid her eyes on — the second-most impermanent recipient of all of her “good mornings.”{/size}"
+
+    c "Yumi?..."
+
+    scene chikayumishower5
+    with fade
+
+    y "Oh, good. Glad it’s you and not somebody else. Saves me an assault charge. "
+    c "Since when do you shower before it’s dark out?"
+    y "Since when do {i}you{/i} shower after the sun starts setting?"
+
+    scene chikayumishower6
+    with dissolve
+
+    c "I figured this was the best time to come here without bumping into anybody else. I take it you’re...in the same boat?"
+    y "Pretty much. Never got a chance to take one last night, so I figured I’d get it out of the way now before dinner."
+    c "Should I wait until you’re done then?..."
+
+    scene chikayumishower5
+    with dissolve
+
+    y "Huh?"
+    c "Because, like...I don’t know. You don’t really like me anymore and you wanted to be alone. So I’m kind of intruding."
+    y "..."
+    c "I can wait. It’s fine."
+    y "Chika, did you somehow manage to forget who cast who aside in the middle of your year-long psychotic break? Cause I sure as fuck ain’t the one who stopping liking you."
+    c "Right. I get that. But, if I were you, I’d probably think I’m pretty fucking selfish and stupid and not want to be naked beside me anymore."
+    y "Weird to say this, but you’ve seen me naked more than literally anybody else I’ve ever known. I really don’t give a shit."
+    c "It’s...okay if join you then? "
+
+    scene chikayumishower7
+    with dissolve
+
+    y "Yeah, sure. It’s fuckin’ {i}creepier{/i} with you hanging out in the background like that, so just hurry up and sit down already."
+
+    scene black
+    with dissolve
+    scene chikayumishower8
+    with dissolve2
+
+    c "Thank you. For both letting me be naked with you and also not hating me despite you having every right to do that."
+    y "Just glad you seem fuckin’ normal today. Been a while."
+    c "I’m getting there. How’s your mom?"
+
+    scene chikayumishower9
+    with fade
+
+    y "Oh. Uhh...she’s alright, I guess."
+    c "Tsubasa’s taking care of her, right?"
+    y "That’s one way to put it. Not sure if it’s just cause she’s payin’ for her whole treatment or what, but that lady’s got Yuki on a fuckin’ leash it seems."
+    c "You’re still calling her Yuki even after everything that’s happened?"
+    y "Just because she’s dying don’t mean I’m gonna forgive her for choosin’ drugs over me when I was a kid. Think she’ll {i}always{/i} just be Yuki to me. Callin’ her “Mom” or whatever just feels weird."
+    c "Fair enough. I’m glad to hear she’s okay, though. Even if I am obligated to hate her as your friend. If...we’re still even-"
+
+    scene chikayumishower10
+    with fade
+
+    y "Yes, you sappy piece of shit. We are still {i}friends.{/i} Now, stop being weird about it already."
+
+    scene chikayumishower11
+    with dissolve
+
+    c "Noted...Though, it seems like I have some work to do if I’m going to reclaim my spot as your {i}best{/i} friend from Noriko, who has apparently seized it."
+    y "Oh, fuck off. I ain’t gonna rank the two of you. Probably not fair to Noriko if anything since you’re way less annoying than she is when you aren’t trying to kill me."
+    c "Chinami’s been asking about you, you know."
+    y "Why? She texts me all the fuckin’ time about when I’m going to come around again."
+
+    scene chikayumishower12
+    with dissolve
+
+    c "Oh, right. I wonder why she asks me at all then?"
+    y "Some kinda subliminal messaging or some shit, maybe. Trying to get you to reach out to me, I guess."
+
+    scene chikayumishower13
+    with dissolve
+
+    c "Maybe..."
+    c "And I’m sorry I haven’t. I’ve been {i}thinking{/i} about you, though. It’s just, like...I kind of needed some time away from...basically everyone in order to get my head on straight again."
+    y "Yeah, you made that pretty apparent during {i}Christmalloween.{/i} Guessing that’s why you’re hiding in the showers at like 4:00 PM too? Afraid of bumping into {i}Rin{/i} or something?"
+    c "Let’s, like...{i}not{/i} talk about Rin, if possible. The less I think about her, the better. And I already spent most of our last meeting bitching about my own life, so it’s your turn now."
+    y "You sure about that? Cause I ain’t got much to bitch about and it sounds like {i}you’ve{/i} got a ton."
+    c "Alternatively, we could just, like...not bitch about anything at all and just hang out like old times? I’m sure {i}some{/i} good stuff has happened to us in the last year or so, right?"
+
+    scene chikayumishower14
+    with fade
+
+    y "Uh...y...yeah..."
+    y "I guess...not {i}everything{/i} has been shitty..."
+    c "{i}Oooooh?...{/i}Now {i}that’s{/i} a rare expression. Do tell..."
+
+    scene black
+    with dissolve
+
+    y "A...Actually, I...I’m done showering and I’m gonna go, like...soak in the hot spring now."
+    c "Oh, wait! I want to come. I’ll be quick."
+    y "A quick shower for you is like thirty fucking minutes, so I’ll just see you when I’m about to get out, I guess."
+    c "No, I can {i}actually{/i} be quick this time! There’s gossip involved!"
+    y "It’s not even gossip! Just fucking...take your time or whatever!"
+    c "Nope! Done now."
+
+    play sound "water1.mp3"
+
+    y "There’s no way that was enough time! You didn’t even wash your hair."
+
+    play sound "water1.mp3"
+    scene chikayumishower15
+    with dissolve2
+
+    c "Well, duh. Washing your hair every day is actually {i}bad{/i} for it. And I’ve definitely told you that before, so don’t pretend this is new information."
+    y "Ain’t bleaching your hair bad for it too? What happened to using your natural color?"
+    c "A little thing called mania. I’m sure you’ll experience it one day when your emotions finish developing and you decide to shave your head in a fit of rage or something."
+    y "I hope not. Pretty sure shaved heads don’t normally go well with my, uhh...{i}size.{/i}"
+
+    scene chikayumishower16
+    with dissolve
+
+    c "Have they gotten bigger? Because I feel like they’ve gotten bigger."
+    y "A little bit, yeah...Don’t fuckin’ stare at ‘em, though. Unless you’re gonna try and get gay with {i}me{/i} next."
+    c "Are you saying it’s okay if I {i}do{/i} get gay with you?"
+    y "If you don’t mind drowning in a hot spring, yeah. "
+    c "So what was that blush before? What are you not telling me?"
+    y "Don’t worry about it. Really. I’d prefer to, like...keep this to myself. For probably a hundred different reasons."
+    c "Okay. I’m not gonna pry or anything. But know that you {i}can{/i} talk to me if you want to. "
+    c "And even if it’s something about you, like, {i}making out{/i} with Sensei or something, I’m not going to try to kill you again. I’ve more or less come to terms with his...{i}promiscuity{/i} by now."
+    y "I...will keep that in mind."
+
+    scene chikayumishower17
+    with fade
+
+    c "You know...it’s kind of weird. I feel like I always wind up in the bath with people on the days I doubt myself the most. I wonder if the universe is trying to tell me something?"
+    y "What? You mean, like...bathe more?"
+    c "No, idiot. Something about, like...calming down and remembering my roots. Taking things easy. "
+    y "You sure that ain’t just you prescribing some sorta meaning to random shit cause you want to hear it? How the fuck is bathing “returning to your roots?”"
+    c "Because this is how I grew up. "
+    c "My mom and I {i}always{/i} bathed together before she died. And it wasn’t just great for bonding, but it saved money on water too. It’s how we connected. Like a good luck ritual to start every day."
+    y "Ahh, yeah. Guess you and Chinami do that shit too. Can see what you mean now, I guess.  "
+    c "Maybe it’s some sort of vulnerability thing? Like, completely shedding your armor in front of somebody else makes it easier to come clean and not keep hiding stuff you would be otherwise."
+
+    scene chikayumishower18
+    with fade
+
+    y "Or maybe you’re just gay as fuck and like being naked with other girls."
+    c "My mom and Chinami included?"
+    y "You could be into fuckin’ feet for all I know and I’d have no idea. Not really a thing we talk about."
+    c "Hey, I am {i}more{/i} than willing to talk about all sorts of sexual stuff with you. {i}You’re{/i} the one who has essentially stitched her vagina shut so you’ll never have to worry about it."
+    y "Yet you accused me of sleeping with the man you {i}love{/i} behind your back. Seems like a shitty thing to remove my {i}stitches{/i} for."
+    c "That was a different Chika. I’m the good one. I exist again."
+    y "How can I be so sure?"
+
+    scene chikayumishower19
+    with fade
+
+    c "Well...I guess you {i}can’t,{/i} really. Like, {i}I{/i} never thought I’d just lose my mind like that. {i}I{/i} never thought I’d lose sight of what really matters. And yet I did. "
+    c "So I paid the price for it and ruined the second most important relationship in my life."
+    y "You mean you and Sensei?"
+
+    scene chikayumishower20
+    with dissolve
+
+    c "No, you stupid bitch! I mean {i}you!{/i}"
+    y "Well, is Chinami in fuckin’ {i}third{/i} then? Because there ain’t no way I’m more important to you than Sensei is."
+
+    scene chikayumishower21
+    with dissolve
+
+    c "You {i}are,{/i} though. I was just so blinded by my entire life unraveling that I lost sight for a moment. "
+    y "Sensei ain’t ever been your “entire life,” Chika. You just told yourself he was because you want to live in a fuckin’ fairy tale where everything is good all the time and that just ain’t ever gonna be true."
+    c "I {i}know{/i} that. And this isn’t me trying to avoid responsibility or whatever, but you {i}know{/i} why that happened, right? You know why I broke so easily. "
+
+    scene chikayumishower22
+    with dissolve
+
+    y "Course I know. That’s why I don’t hold it against you."
+    y "Always knew you were gonna crack one day. That’s why I’ve always tried to warn you about that guy. It’s always people in positions like yours that get this shit the worst. "
+    y "{size=-2}You wrap everything up in one person and put all your faith in {i}them{/i} because it makes the burden you’re carryin’ a little less heavy. Then you remember at the end of the day why you were carryin’ shit alone in the first place.{/size}"
+    y "There’s a reason I let myself get close to you, Chika. And it’s cause we ain’t really all that different at the end of the day. You just...like to pretend we {i}are{/i} sometimes."
+    c "Why didn’t you hit me?"
+
+    scene chikayumishower23
+    with dissolve
+
+    y "Heh?"
+    c "Like, you could have literally just slapped some sense into me and you didn’t."
+    y "You tryin’ to blame all this shit on me not hitting you now?"
+    c "Of course not. Just, you know, maybe {i}actually{/i} hit me if I wind up losing myself again. I honestly think it could work."
+    y "Should I hit you right now then?"
+
+    scene chikayumishower24
+    with dissolve
+
+    c "Now? But I thought I was cured. I thought I was good again?"
+    y "Social butterflies don’t form cocoons in the middle of parties, dude. You’re out here avoiding confrontation cause you’re scared of what’ll happen out there when you bump into fuckin’ {i}Rin.{/i}"
+    c "We agreed to not talk about her. Stop it."
+    y "You make a choice yet? Which one of them it’s gonna be? Cause that’s what you’re hung up on, yeah?"
+
+    scene chikayumishower25
+    with dissolve2
+
+    c "I..."
+    c "I chose Sensei."
+    y "Yeah, of fuckin’ course you did."
+    c "I know it’s the {i}wrong{/i} choice. And I don’t want this to sound like I’m some sort of martyr or whatever-"
+    y "Good, because I deal with enough of that shit from Noriko."
+    c "I just...think it’s what’s better for Rin. And I don’t want to be confusing her when she’s still trying to figure out who {i}she{/i} is. "
+    y "So you think it’s {i}better{/i} for Rin to go fuck some creepy old guy than a girl her age who she’s already had feelings for in the past."
+    c "{i}Obviously not.{/i} I just think I shouldn’t be making any choices {i}for{/i} her. Especially when most of those choices were driven by my...uhh...{i}irrational obsession{/i} with her."
+    y "You implying there’s some kinda obsession that {i}is{/i} rational?"
+    c "Well, that’s kinda just what love is as a whole, don’t you think?"
+
+    scene chikayumishower26
+    with dissolve
+
+    y "Not really, no."
+    c "Don’t fucking lie to me, whore. I’m not going to forget we’re only in here because you got all embarrassed and stormed off after I asked you if anything good has happened lately."
+    y "Can we not?"
+    c "You pressed me about Rin, so it’s only fair I get to press you about this."
+    y "Just ignore it and we can call it even for you almost killing me that one time."
+    c "When did it happen? {i}What{/i} happened?"
+    y "Chika-"
+    c "It’s Sensei, right? For real this time."
+    y "..."
+
+    scene chikayumishower27
+    with dissolve2
+
+    c "{i}Hah...{/i}"
+    c "It was bound to happen eventually, Yumi. I’ve known you like him even longer than {i}you{/i} have. And I’m...happy for you. Really."
+    y "No you fuckin’ ain’t, Chika. You’re as loyal as a fucking dog and I...I...kissed your...whatever the fuck he is."
+    c "Do dogs cheat on their owners now? Because {i}I{/i} did. "
+    y "Yeah, to get back at your fuckin’ {i}owner{/i} for spending all of his free time rolling around with other dogs at the local pound. That ain’t your fault."
+    c "It doesn’t matter whose {i}fault{/i} anything is. What matters is that it happened. And that it will {i}keep{/i} happening because he just...isn’t happy with one dog."
+    y "He won’t be happy with any amount of {i}dogs.{/i} He’s a fucking man-whore."
+    c "You’re right. He won’t. That’s why he hangs out somewhere they’re all desperate to be adopted. He can get all their hopes and up...make them envision a perfect little home where they get all the attention they need."
+    c "Where their every need is taken care of and they never have to worry about anything. And all it takes is a few minutes of patting our heads and giving us little treats."
+
+    scene chikayumishower28
+    with fade
+
+    c "Dogs...people...we’re all pretty simple, really. We just want to feel loved and special. "
+    c "And it doesn’t really matter how much of a lone wolf you are when you’re a pack animal by instinct, Yumi. "
+    c "It’s probably sad watching everyone else at the pound get taken on walks while you sit there in your cage, barking at anyone who walks by."
+    c "They don’t realize you’re just barking because you’re scared, though. They don’t realize that...you’d make a {i}great{/i} dog if someone just gave you the chance."
+    c "I’m glad you get to go for a walk now. That you’re getting the chance I got. That everyone got."
+
+    scene chikayumishower29
+    with fade
+
+    y "Not sure how much of a fan I am as referring to a bunch of girls as dogs and some fuckin’ weird guy as the only human in this hypothetical. "
+    c "It’s more about our ages and less about our sex. Like, Miss Watabe would be a human too or something. It isn’t {i}only{/i} Sensei."
+    y "You really aren’t mad at me? Because I’ve felt like shit about this, I’m not gonna lie."
+    y "You and Noriko are {i}both{/i} wrapped the fuck up in him and I’m just over here, like...not hating him as much as I used to. What gives me the right to do what you guys do?"
+
+    play sound "water1.mp3"
+
+    c "Since when do you care about your “rights?”"
+
+    scene chikayumishower30
+    with fade
+
+    y "Yo. The fuck are you doing?"
+    c "{i}My{/i} Yumi never concerns herself with what she is or isn’t allowed to do. She does things anyway. Regardless of the consequences they could bring."
+    y "Cool, yeah. You gotta rub your boobs against me to tell me that, though?"
+
+    scene chikayumishower31
+    with dissolve
+
+    c "Yes, actually. As a matter of fact, I do."
+    y "Well, {i}stop.{/i} You know this shit makes me feel weird."
+    c "If you feel weird about your best or {i}ex{/i} best friend pressing her boobs against you, how the hell are you going to feel when Sensei has his naked body pressed against yours?"
+
+    scene chikayumishower32
+    with dissolve
+
+    y "Chill, dude! It was just a fuckin’ kiss!"
+    c "Yeah, for {i}now.{/i} But then it’ll be fingering. And handjobs. And before you know it, the two of you are going to be tangled up in the sheets of his bed. Or your bed. Whoever’s bed, really. Probably both."
+    y "I...already told him I don’t wanna do that shit! I want to, like...go slow and...everything."
+    c "Yeah, good luck with that. And not just because he’s Sensei either. It’s because hormones are evil and being alone together with the person you like will {i}do things{/i} to you. {i}Bad{/i} things. And you will give in to them."
+    y "On second thought, I think I preferred it when you {i}did{/i} hate me for potentially doing shit with him! That was way better than this!"
+
+    scene chikayumishower33
+    with dissolve
+
+    c "I love you so much, Yumi. I {i}missed{/i} you so much. "
+    c "Stop growing up without me. We’re supposed to do that together."
+    y "Well, was I supposed to just...fuckin’ {i}wait{/i} all this time? The hell do you want from me?"
+    c "Just you in general. It’s nothing specific. "
+    y "Okay, then sure. Let’s be fuckin’ friends again or whatever. I don’t know how to cook and you do so I’m already benefiting from this."
+
+    scene chikayumishower34
+    with dissolve
+
+    c "Good! Now, tell me more about your {i}kiss.{/i} How’d it happen? {i}Where{/i} did it happen? Who initiated it?"
+    y "Think I liked you better when you were strictly into monogamy. "
+
+    scene chikayumishower35
+    with dissolve
+
+    c "Oh my god! This means I can finally teach you how to suck a dick now! I’ve waited forever for this!"
+    y "{i}Why?!?! No!!{/i}"
+
+    stop music fadeout 10.0
+    scene noonsky
+    with dissolve2
+
+    "And so the chapter closes on a friendship once fragmented as two parties pick up the pieces."
+    "Each one assembles a half of a heart and presses them together, reluctantly as it may be, to form a key that opens a door to a brand new coloring book."
+    "Upon realizing they only have one crayon, however, they will need to learn to share if they want to work on completing said book and opening the next door."
+    "Breaking the crayon in half is impossible, you see. The crayon has bones and will bleed all over the place."
+    "But the bright side is that it changes colors every thirteen minutes and vibrates gently between thumb and forefinger."
+    "All of this means nothing, of course. This passage is but a coloring book as well. One sold on shelves all over the country. And so its guts will always be different, but its cover never changes. "
+    "Books like this do not have chapters. But you can certainly draw them in."
+
+    $ renpy.end_replay()
+    $ beachsevenchika1 = True
+
+    jump beachseventouka1
+
+label beachsevenchika2:
+    play sound "static.mp3"
+    scene chikatells1 with flash
+    stop sound
+    play music "gentle.mp3"
+
+    c "Oh...hi."
+    s "Hey, Chika. I didn’t see you around yesterday. What are you up to?"
+    c "Just...going to breakfast. Nothing special."
+    s "Cool."
+    c "Yes. It {i}is{/i} cool."
+    s "..."
+    c "Very cool."
+    s "Okay. You seem weird today. Something is going on."
+    c "I’m sorry. I wasn’t prepared to see you and I don’t know how to act. "
+    s "I didn’t realize that was something you needed to prepare for."
+    c "It wasn’t always. But life is a lot more complicated now and I haven’t completely rediscovered myself yet."
+    s "Is that...something I can help with? Or something that is simply a symptom of me leading you on for so long?"
+
+    scene chikatells2
+    with dissolve
+
+    c "I mean...I wouldn’t say you {i}led me on...{/i}"
+    s "I would. That is kind of literally what happened by not being outwardly honest with you and allowing you to keep thinking we were exclusive."
+    c "True but, to be fair, it’s not like I’m entirely {i}blameless.{/i} Like, how was {i}I{/i} supposed to know that Niki was {i}actually{/i} your childhood friend and that you were sleeping with her too."
+    s "Probably from me telling you that."
+    c "Right, but why would I {i}believe{/i} it?"
+    s "Probably because her little sister is in your class and has not been candid about being in love with me since she was a kid."
+
+    scene chikatells3
+    with dissolve
+
+    c "Love is blind, okay?!"
+    s "Like the TV show?"
+    c "How do you even know about that?! You don’t watch TV!"
+    s "No, but Niki does. And I have known her since we were both children, so-"
+    c "Yes, I’m aware of that now and don’t need to be reminded anymore!"
+    s "Sorry. Just making sure. "
+    c "Either way, I get it now! My perfect dream world has been shattered and I must now face the fact that I don’t actually have the perfect storybook romance with a cool older guy I {i}thought{/i} I did. "
+
+    scene chikatells4
+    with dissolve
+
+    c "It was...naive of me to expect everything to work out perfectly. So why don’t we just both share some of the blame and try to move on or something?..."
+    s "Chika, do you really think {i}I’m{/i} still the right person for you? Like, be honest."
+
+    scene chikatells5
+    with dissolve
+
+    c "What do you mean?..."
+    s "I mean you obviously don’t want this. You’re just clinging to me now because you’re afraid of losing me or something. You could do so much better and we both know it."
+    c "Are you actually breaking up with me then?..."
+
+    scene chikatells6
+    with dissolve
+
+    s "{i}Hah...{/i}do you want to come inside? This probably isn’t a conversation we should have in the hall."
+    c "If you’re going to break up with me, you can do it here. Don’t invite me in for it."
+    s "I am entering my room now. You may follow if you wish to continue this conversation."
+
+    scene chikatells7
+    with dissolve
+    play sound "slidedoor.mp3"
+
+    c "Well, of course I want to continue the conversation! As it stands, I don’t know if I still have a boyfriend or not!"
+
+    play sound "static.mp3"
+    scene chikatells8 with flash
+    stop sound
+
+    s "I’m surprised you’re still calling me that, honestly. I figured that, if anything, knowing you’re sharing with Niki would dissuade you from even {i}wanting{/i} the title of “girlfriend.”"
+    c "I just don’t know what I’d call myself otherwise. Like, we’re clearly more than just {i}friends{/i} and it’s not like I’m trying to become your mistress or something. "
+    s "And I’m not trying to make you into that. So whatever you want to call yourself is fine by me."
+
+    scene chikatells9
+    with dissolve
+
+    c "Wait, are you {i}not{/i} dumping me then? Because it seemed like you were taking me in here to do that."
+    s "Of course not. What sort of idiot would let a girl like you go? "
+
+    scene chikatells10
+    with dissolve
+
+    s "I’d much rather you just suffer than deal with not having you at all."
+    c "That’s both super mean and super cute at the same time! I don’t know how I’m supposed to interpret it!"
+    s "Sit down. Let’s talk."
+
+    scene chikatells11
+    with fade
+
+    c "Uhh...should we maybe, like...clean up first? Looks like you...were busy last night."
+    s "Don’t be too impressed. The smallest pile is mine. I’m not sure how Imani and Wakana are doing, though."
+    c "I heard Miss Watabe left this morning. Too hungover, maybe?"
+    s "Uhh...{i}maybe.{/i} I haven’t really talked to her yet."
+
+    scene chikatells12
+    with fade
+
+    c "This feels kinda weird, honestly. The vibes are totally different from when the two of us went to the ryokan I won tickets for."
+    s "Yeah. For one, I can still breathe. I learned things about you that weekend I hope no one else ever learns."
+    c "Yeah...Yeah, I know you...aren’t as {i}open{/i} to me being with anyone else as I am with you."
+    s "Let’s not pretend you’re okay with it either, Chika. No more hiding things from each other. You hate who I am, but you love me at the same time. And that’s perfectly normal."
+    c "Well, don’t sound {i}too{/i} beat up over it."
+    s "I don’t sound “beat up” because I’ve been waiting for this since we first got involved. You were always going to wind up hurting like this and it was always going to be because of me. "
+    c "Would it have killed you to at least {i}warn{/i} me, though?"
+    c "I’ve obviously had my fair share of tragedy, Sensei. But finding out you weren’t as faithful as I thought you were hit me just as hard as the rest of the terrible stuff I’ve been through."
+    c "It’s just...been so much, you know? Like, I thought {i}you{/i} were the thing all of my hard work finally landed me. And that things would finally start to get a little easier so long as we were in love."
+    c "Turns out, I have never been more wrong about anything in my life. And that it’s all even {i}harder{/i} now because I fell for someone like you."
+    s "Do you regret it?"
+    c "..."
+
+    scene chikatells13
+    with fade
+
+    s "It’s okay if you do, Chika. And if you’re worried about hurting my feelings, don’t be. You’ve more or less earned the right to do that whenever you want now."
+    c "I feel like “regret” isn’t the right word. "
+    c "Like...sometimes it {i}feels{/i} like it is. And I look back at all that’s happened and I’m just...fucking {i}angry.{/i} At you. At me. Even at Niki, who hasn’t technically done anything wrong."
+    c "{i}Regretting{/i} it makes it sound like I wish it never happened, though. And that’s not true. I just wish it didn’t hurt so much."
+    s "And I’m sorry it did. But I’ll be here so long as you need me to be here. And I’m still more than happy to fill out a page or two in that “storybook” you want. I can’t do it all, though. So if there’s someone-"
+    c "What if there {i}is{/i} someone?"
+
+    scene chikatells14
+    with dissolve2
+
+    s "..."
+
+    scene chikatells15
+    with fade
+
+    c "What if...hypothetically speaking...there {i}is{/i} someone else I’ve developed...{i}feelings{/i} for?"
+    c "And what if it made more sense to be with {i}them{/i} than it does with you in every possible way? "
+    c "What if that person brought me the same sort of joy {i}you{/i} did, just without the fear of them sleeping with everyone I know and breaking my heart in the process?"
+    c "Would you want me to be with that person so long as it brings me happiness? Or would you {i}really{/i} rather I continue suffering just so {i}you{/i} can feel a little less terrible inside?"
+    s "..."
+    c "It’s not an easy question, is it? "
+    c "Do you see what I’ve been living with now? The things I’ve had to think because of {i}you?{/i}"
+
+    scene chikatells16
+    with dissolve
+
+    c "I’m in {i}high school.{/i}"
+    c "Look at what you’ve done to me."
+    c "Look at who I am now. "
+    c "I’m supposed to be worried about my homework or what my plans are this weekend. Not which one of my friends my teacher is fucking tonight or how I’m supposed to keep the lights on with a part-time job."
+    c "What if I want to be normal? Just for a little bit? Date someone my age? Someone I relate to. Who I’m attracted to. Who I can see myself growing older with when you’ve already gone and done that without me."
+    c "Are these things you want to keep from me, Sensei? Are these feelings I should ignore just to make {i}you{/i} feel better?"
+
+    scene chikatells17
+    with fade
+
+    s "I..."
+    s "Is that..."
+
+    play sound "vibrate.mp3"
+    scene chikatells18
+    with dissolve
+
+    s "..."
+    c "Is someone expecting you?..."
+    s "Yes, but-"
+    c "Just answer it. I’m not going anywhere."
+
+    scene chikatells19
+    with dissolve
+
+    s "It’ll just take a minute, okay? I made plans with Rin, but I can have her wait a little longer since this is obviously-"
+    c "It’s fine. I can wait."
+    s "Just one second. Sorry."
+
+    scene chikatells20
+    with dissolve
+    play sound "phonebeep.wav"
+
+    s "Hello?..."
+    s "..."
+    s "No, I’m not {i}ghosting{/i} you. Just in the middle of something right now."
+    s "..."
+    s "No, I’m still coming. I’ll just be a few minutes late."
+    s "..."
+    s "Yeah. Yeah, see you then."
+
+    play sound "phonebeep.wav"
+    scene chikatells21 with dissolve
+
+    s "Sorry, so-"
+    c "Feels like it was just the other day me and {i}her{/i} were meeting up here while {i}you{/i} were off doing your own thing."
+    s "Sure, but I feel like there’s something more important you’re not telling me right now."
+
+    scene chikatells22
+    with fade
+
+    c "It’s kind of funny...How you bring up something like “regrets” and then immediately {i}that{/i} happens."
+    s "..."
+    c "Imagine I said yes to her back then? How different things would be right now? "
+    c "How you wouldn’t be getting that call at {i}all{/i} and I wouldn’t be on the brink of tears in the same room you probably slept with someone {i}else{/i} last night? How did any of this happen? "
+    c "How did we get here?..."
+    s "Chika...is there-"
+
+    scene chikatells23
+    with dissolve
+
+    c "A few months ago, I went into Rin’s room to console her after her mom caught her trying to sext you. "
+    c "She thought I was going to be mad because she knew how much I love you. And that I wouldn’t approve of her chasing after you next despite the two of us being such good friends."
+
+    scene chikatells24
+    with dissolve
+
+    c "And I {i}was{/i} mad. Furious, even. But not because of that."
+    c "It was because I imagined you hurting her. I imagined the confusion she hasn’t had the chance to face yet. I imagined you touching her the way you touch me. "
+    c "It made my blood boil. But it all happened so fast. So I thought to myself, “What’s the best way to make all of this stop?” "
+    c "What can {i}I{/i} do to comfort her? To comfort {i}both{/i} of us and stop all of these terrible, sad feelings?"
+    s "Chika-"
+
+    scene chikatells25
+    with dissolve2
+
+    c "I pushed her down on the bed. I took her panties off. And then I ate her out. "
+
+    scene chikatells26
+    with fade
+
+    s "..........."
+    c "I think that part of me hoped she’d fall for me again. That she’d realize I like her the way she used to like me and stop chasing after you. "
+    c "But of course, I failed. And I confused the ever living {i}hell{/i} out of her in the process because she, at least up until then, thought all we were was friends. And I think she was right."
+    c "I think I {i}ruined{/i} that. But even now, I can’t stop thinking about her. And I want to be {i}more{/i} than that. But I want to be more than that with {i}you{/i} too, so...what does this make me?"
+    c "I want you. I want her. But I don’t want the two of you to have {i}each other.{/i} And I feel bad about that. But I also don’t {i}want{/i} to feel bad about that because I want you to understand what it’s like to be us."
+
+    scene chikatells27
+    with fade
+
+    s "..."
+    c "Are you {i}mad{/i} at me?"
+    c "Because you {i}should{/i} be. "
+    c "You should feel betrayed and unwanted and lost and confused and all of the other things I’ve felt because of you."
+    c "But you should also feel seen. Because someone finally gets it. "
+    c "Because I finally understand what it’s like to love two people at once."
+    s "..."
+    c "Can you still love me even if I am like this? "
+    s "You..."
+    c "..."
+    s "What...What about {i}her,{/i} though? Because Rin is still freaking out since the two of you are-"
+    c "The reason I’m able to talk to you right now is specifically {i}because{/i} I distanced myself from her."
+    c "If I didn’t, it would have been the same thing all over again. Where I get so obsessed that nothing else matters and I wind up ruining the part of my life that I love."
+    c "And it’s better for her too. She’s less confused this way. And she can let you hurt her if that is truly what she wants."
+    s "..."
+    c "..."
+    s "I...have no idea what to say here."
+    c "..."
+    s "Like, I obviously don’t have the right to be mad, but-"
+    c "Yes you do. "
+    c "I’m your {i}girlfriend.{/i} Remember? And I went and cheated on you with somebody else."
+    s "Yes. But I-"
+    c "Two wrongs don’t make a right. "
+    s "Okay, but I have way more than just {i}two{/i} wrongs under my belt."
+    c "Two, three, a thousand. I don’t think it really matters."
+    c "It always hurts when something or someone you’re passionate about winds up not being all it’s cracked up to be."
+    c "And we’re both that to each other now. So the question is if we’ll {i}keep{/i} being that way or just..."
+    c "Run off somewhere else and...{i}be{/i} something else. If we even {i}can.{/i} If we’re not just kidding ourselves."
+    s "When did you realize you loved her?..."
+    c "That’s the cruelest part of all..."
+
+    scene black
+    with dissolve2
+
+    c "It was the second she realized she loves {i}you.{/i}"
+
+    "........."
+    "......"
+    "..."
+
+    scene chikatells28
+    with dissolve2
+
+    c "I’m sorry. I really am. But I have no regrets...and I think that means I’m growing."
+    s "Or regressing. It’s because of what you’re feeling that I {i}don’t{/i} grow and likely never will."
+    c "Don’t ever let anyone be ignorant for as long as I was again, okay? Just rip the bandage off next time and you’ll spare them all of the pain in the world."
+    s "Not all of it. You’re hurting just as much now as you were when you found out about me."
+    c "Yes, but some of this pain was my choice. "
+    s "And {i}all{/i} of my pain is my choice."
+    c "Not all of it. That’s just what it sounds like when you’ve given up."
+    s "What happens now then?"
+    c "What happens now is you go meet up with Rin."
+    c "You take her somewhere nice. You don’t mention anything about me. You make her smile and realize how wonderful she is. And you treasure her."
+    c "It’s really that easy. It just {i}feels{/i} hard whenever you remember everything else that exists."
+    s "I meant with {i}us.{/i}"
+    s "What happens to you and me?"
+    c "I suppose that depends on whether or not you can still look at me without being overcome by rage."
+    s "Does that get easier with time?"
+    c "A little bit. My blood still boils when I look into your eyes and remember all the lies, though."
+    s "I won’t lie anymore. Not to you, at least."
+    c "But to everyone else?"
+    s "..."
+    c "Can I...hug you? Please?"
+
+    scene chikatells29
+    with dissole
+
+    s "You don’t need to ask, idiot."
+    c "I feel like I do now. Is this what it’s like to live in shame?"
+    s "You have nothing to feel ashamed about. You didn’t get enough love from me, so you just looked for it somewhere else."
+    c "Does this mean you don’t get enough from me?"
+    c "That I could have prevented all of this if I just loved you a little more?"
+    s "Chika..."
+
+    scene black
+    with dissolve2
+
+    s "If you loved me any more, I imagine we’d both be dead by now."
+    c "Heheh..."
+    c "You know..."
+    c "Maybe we {i}should{/i} be..."
+
+    $ renpy.end_replay()
+    $ beachsevenchika2 = True
+    $ chika_love += 5
+
+    "{i}Chika’s affection has increased to [chika_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump beachsevenrin1
