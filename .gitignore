@@ -8,3 +8,10 @@ _tmp_digest/
 
 # 回收站目录
 _trash_*/
+
+# 仅从仓库移除、本地保留（2026-09-04 用户拍板，不再跟踪）
+avn_order.json
+guide_pre_rebuild.html
+增量内容总结.md
+增量内容提交说明.md
+search/
