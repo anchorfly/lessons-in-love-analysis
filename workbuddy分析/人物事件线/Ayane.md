@@ -43,6 +43,9 @@ halloweenayane2 中，Maya 带 Ayane 寻找她关于 time、resets 的笔记（"
 **Makoto 对谈：gaslighting 与 guardian angel（ayanespring3）**
 ayanespring3 中，Ayane 与 Makoto「开会」讨论如何应对世界末日/重置。Ayane 说每次向 Ami 打探，Ami 都 "gaslights me into thinking everything's completely normal"；当 Makoto 质疑 Ami 与 Ayane 的亲密时，Ayane 称 Ami "basically my little sister"，并说自己的 "guardian angel" 告诉她 Ami 不能伤害自己。谈话被 Imani 闯入打断，Imani 以 "Pride month" 笑话调侃两人。此事件借第三方之口点出 Ami—Sensei 关系的病态结构，Ayane 在其中扮演计划者与共谋者的双重角色。
 
+**ayanespring4 —— 未来的信、课桌裂缝与一枪（ayanespring4）**
+0.60.0 事件。表层剧情是一堂课：Imani 布置"给未来的自己写信"的作业，Ayane 在笔记本前枯坐（Ami：'You've been staring at that naked notebook for like five minutes now.'，AyaneEvents.rpy:14210），她说 "It feels kind of weird to be writing letters that won't ever be read, doesn't it? You think I'd be used to this by now."（14240）——"早就该习惯了"是重置知情者的口吻。她还在往学校带枪："Somewhere between ten and a million"（14246），Ami 指出一支"正从你课桌的裂缝里冒出来"（"There's one popping out of a rift in your desk right now"，14254；连 Makoto 都看见后改口 "oh, yeah. I guess there is"，14255）。Ami 说出 "{i}Bang.{/i}"（14262）后画面切黑、枪声、五秒静默，旁白只留一句 "I have all the hair I need now."（14269）——随后 Ayane 照常出现在后续场景，这场"枪击"的层属（教室内的真实事件，还是元叙事层的采样表演）被文本刻意悬置。本事件后半（屋顶与 Shi）见「四」第 5 条。
+
 **Himawari 登场与「I'm a better woman than she was」（undeservedfuture1 起；undeservedfuture4）**
 undeservedfuture1 起，Himawari 作为 Ayane 与 Sensei 在愿望世界中的「女儿」登场。undeservedfuture4 中，年长版的 Ayane 对 Sensei 说："I am a better woman than she was." 紧接 Sensei 反问 "I thought you loved your mom?"，表明此处 "she" 指 Ayane 的生母；Ayane 进而说，若母亲能看着自己却无此爱意，"Maybe she wasn't as great as I thought"。这句台词是对生母评价的松动，而非指向某个「母亲的替位者」。
 
@@ -65,18 +68,21 @@ Ayane 的 lust 内容在叙事功能上可分为三类：
    - undeservedfuture7 中，Ayane 以侍者口吻为与 Sensei 的结婚周年纪念晚餐上菜（"Happy anniversary...Your server will be with you shortly"）；undeservedfuture8 的性爱场景中 Sensei 提议 "have another baby"，Ayane 回应 "You really...want to...have another...baby with me?!"。该愿望世界由 Ayane、Sensei 与 Himawari 三人构成，Ami 未在其中出现。
    - undeservedfuture9 中出现两个 Himawari 实例（文中以角色标签 hi2、hi3 区分）：hi2 以十六进制说话（"57 68 61 74..."），而 hi3 令 hi2 的台词崩坏、化为乱码（"MMMMOMMMMM???///////////"），并致歉称 "Mistakes stick out too much"——演示了「同一存在可被实例化多次、也可被回收」。
    - undeservedfuture10：Himawari 自陈这个世界是她的愿望所造（"That's my world. My wish."），且 "Maya Makinami does not exist"——连「知晓重置的贤者」都是虚构嵌套的一部分。
-5. **ayanespring4 与 Shi 的屋顶相遇**（ayanespring4）：
-   - ayanespring4 以一段「GIRL MAKER」元叙事开场：Ayane 在疑似教室的空间写「信」，旁白描述把女孩头发送入 "GIRL MAKER" 机器、并以兔子做实验的独白，把「女孩如何被制造」摆上台面。
-   - 之后 Ayane 在屋顶遇见 Shi。Shi 拒绝透露姓名（"Girl who isn't interested in giving you any of her personal details"），提出 pocket-hell（口袋地狱）概念，警告 "Your world is like a fucking weed...growing so quickly"（世界像疯长的杂草），并发出 malice（恶意）警告。Shi 此前已在 undeservedfuture10 称其为自己的 senpai（前辈）；而 Himawari 自述是清理世界的 "celestial custodian"（天体管理员）。
-   - Shi 对 Himawari 说 "Your mom is doing just fine, Hima-chan"，既向 Himawari 确认其母亲状态，也暗示「清理工作」针对母亲级存在。
+5. **ayanespring4 与 Shi 的屋顶相遇**（ayanespring4，0.60.0）：
+   - **GIRL MAKER 框架**：事件以一段外层叙述者独白开场——为了"让人类对正在度过的美好日子产生乡愁"，答案 "We must {i}break{/i} them, of course!"（14194），具体做法是 "lock them in cages, hook them up to machines that scan their minds"（14195）；选中的标本是 "Blonde hair. Blue eyes. Young...the perfect specimen!"（14198，即 Ayane），而真正的原因是 "we already have her hair! We plucked it from the garbage...reassembling her DNA in a patented 'GIRL MAKER' machine"（14199-14200）。随后给出全事件唯一菜单选项："Pluck her hair for the 'GIRL MAKER' machine"（14205）——玩家被强制成为拔发共犯。枪声假死之后，独白转向实验室里的兔子与一个已死之人："They say your hair continues growing even after you die. It isn't true...but they say it is anyway."（14307-14308）；叙述者对"你"说 "I love you. But I think you should have left this place a long time ago. For every second you spend here is one more second you could have been spending with her."（14278-14279）、"I feel guilty about it sometimes when I forget you aren't real. But in your world, you are."（14298-14299），并自陈造物反噬："How can something that comes from {i}me{/i} be so much bigger than I am before it even finishes growing?"（14304）——"GIRL MAKER 造出的怪物何其完美"（14301）与"你的故事将由更仁慈的人续写"（14309）并置，作者层的声音比以往任何事件都直白。收束句："For even if you are an experiment, you are {i}still{/i} my pet."（14314）。
+   - ** Ayane 目击重置**：Ayane 独处时突然看见异象："A... A reset?... {i}Now?{/i} ... What am I looking at?..."，一个声音只答 "A mistake."（14322-14327）——她以当事人视角撞见了一次重置的执行瞬间，随即被拽入 knock-off 学校。
+   - **屋顶会面**：Ayane 被变回幼年（"why am I so young again?"，14342），遇见吸烟的神秘少女 Shi。Shi 否认自己是神／天使／恶魔，Ayane 猜 "A janitor?"（14348）并回忆曾在类似处境遇到自称 "Big Boi" 的清洁工把朋友和她送回家（14365；Shi 确认："{i}That{/i} janitor."，14371）。Shi 用手机上一个 "irregular app" 把她变回原样（14395），并拒绝分享：这个 app 的代价是 "giving up basically everything...and never actually go home at all"（14402）。墙上的"照片"是记忆——"Yours, obviously."（14427）。Shi 给这个空间定性：a "draft"（草稿／自动保存，14473）、"a space born from intense emotion. Fear, in this case...your own customized pocket-hell"（14477-14479）；Ayane 反驳说让她情绪激动的对象全都不在场（"Sensei isn't here. My mom isn't here."，14481），Shi 只回 "I said it was a draft, didn't I?"（14482）——此处尚未成形。对 Ayane 的世界，Shi 的判词是 "Your world is like a fucking {i}weed{/i}...growing so quickly that we don't even know what to do about it anymore."（14485），同类空间 "A lot more. But they aren't meant to be seen."（14487），并警告 "You'll be safer if you just stay where you're supposed to be."（14488）。世界正在走向崩坏："unstable and speeding toward collapse"（14503）；Ayane 的回答是全书价值观的自白："I think the best world is one you {i}can{/i} leave whenever you want."（14505）。被问 "Do you know how my story ends?" 时 Shi 以 "Would you want to know if I did?" 带过（14552-14553）；Ayane 选择不听（"No."，14560）。Shi 在 Ayane 说出 "Thank you, mysterious smoker girl" 后几乎报出名（"I'm... No. It's probably better if I don't."，14572-14575）。
+   - **Hima-chan**：Ayane 离开后，Shi 独白 "Even when you aren't here, you still find ways to annoy me. Your mom is doing just fine, Hima-chan."（14586-14587）。既有读法（Shi 是 Himawari 的 senpai）下此语是对 Himawari 说"Ayane 无恙"；但由于这句话紧跟 Ayane 关门离去，而"母亲下落不明"恰是 Ayane 的核心创伤，文本同时允许"对 Ayane 说的"这一读法——两种读法指向两个不同的接收者，疑是有意留双关。
 
 ## 五、未解伏笔
 
 1. **床下盒子的数百封信**：写给母亲的信从未寄出，也未获得任何回音；母亲是死了、离开了，还是像 undeservedfuture 暗示的那样「被清理」了，源文无定论（仅表明去向未知）。
-2. **Shi 的真实身份**：作为 Himawari 的 senpai（前辈）、拒绝透露姓名、掌握清理工作内情、最后直呼 Hima-chan——她是元叙事层的执行者还是另一名幸存者，悬置未解。
+2. **Shi 的真实身份**：作为 Himawari 的 senpai（前辈）、拒绝透露姓名（"I'm... No. It's probably better if I don't."）、掌握清理工作内情、最后直呼 Hima-chan——她是元叙事层的执行者还是另一名幸存者，悬置未解。0.60.0 补充的侧面：她持有能改造躯体、跨世界移动的 "irregular app"，代价是"放弃一切、永远回不了家"（14402）；她认识 "Big Boi"（14371）；她自称在别的世界"休假"（14451/14456）；她每天被"另一个少女"劝戒烟（14410）。这些特征指向外来者系统（Yuu/Miu/Saki/Tsurumi/Kanon 一组）而非本作角色，但无定名证据。
+3. **GIRL MAKER 与死者的头发**：外层叙述者为"GIRL MAKER"采集的头发来自谁——被枪击"采样"的 Ayane，还是独白中那位"死后头发仍在生长"的亡者（14307）？若机器能以头发重建 DNA（14200），"女孩如何被制造"就从比喻滑向字面；"monsters it creates. How beautiful. How perfect"（14301）所指的造物是否就是女孩们本身，悬置。
 3. **"I'm a better woman than she was" 的完整指涉**：源文已点明 "she" 为 Ayane 生母（Sensei 反问 "I thought you loved your mom"），但 Ayane 对母亲的真实态度转变仍是开放命题。
 4. **hi3 删除 hi2 之后**：第二个 Himawari 被十六进制语言的存在删除后，原始 Himawari 是否仍是「原件」，无人验证。
 5. **Maya 笔记的下落与真伪**：既然 undeservedfuture10 说 Maya Makinami 不存在，那批关于永恒的笔记的出处随之可疑。
 6. **Ayane 是否保留重置记忆**：她经历了 ayanespecial2 送回起点与多次时间异常，但从未明确表现「记得」。她的沉默究竟是天性还是残留记忆，是全线最大的性格谜题。
+7. **Shi 已知的结局**：Shi 两次表示知道结局——"I already know how this ends."（14545）与对 "Do you know how my story ends?" 的回避（14552-14561）；Ayane 最终选择不听（"No."）。这个被她主动放弃的答案是 Ayane 线最重的悬置信息。
 
 > 按 label 检索本角色事件内容，参见 `索引/Ayane索引.md`。

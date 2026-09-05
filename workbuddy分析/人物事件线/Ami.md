@@ -104,7 +104,7 @@ Ami 的 lust 轨道由 amiinvitethighjob、amiinvitereverse、amigenafternoon、
 5. **时间停滞**：halloweenami1 中 Niki 相关的 "everything else has stopped" 表明 Ami 线的欢乐日常发生在被冻结的世界里，她的每一次微笑都是循环内的表演。
 6. **"附着之物"的他者证词**：specialbonusamiscene 里 Ami 本体自述 "These hands... These smiles... Those aren't me. Those will never be me."；0.60.0 中 Yasu 的触碰感知从外部对上了同一判断——"Ami and...and something else..."、"It was so many of them!"（YasuEvents.rpy:7113/7121）。本体自白与第三方感知互为印证，"Ami"是容器、内里为多体的设定由单源升级为双源。
 7. **内心声部＝Sekai 的最硬证据**：se 在 Yasu 报告后插话 "She's lying. Ami's not involved in any of this. I died before the curse could reach her."（YasuEvents.rpy:7126）——自述死亡、且以"我先死，诅咒才没碰到她"的口吻护女，只有亡母 Sekai 全部吻合。该声部同时替 Sensei 保管着关于 Ami 的关键信息（诅咒的存在），即他的"内心"里住着一个比他知道得多的记忆托管者。
-8. **hex 编码的感知侧呼应**：Ami 的"颜色"以 hex code 交付（ff4dd2，YasuEvents.rpy:6653），Yasu 自身是 74d9e9（6617）——教会把人的存在直接写成十六进制，与全作"真相以 hex／乱码出现、谎言以台词出现"的形式学标记（babyfinches 车祸记忆、day220 遗言）同构。Ami 连"被他人看见的样子"都是编码过的。
+8. **hex 编码的感知侧呼应**：Ami 的"颜色"以 hex code 交付（ff4dd2，YasuEvents.rpy:6653），Yasu 自身是 74d9e9（6617）——教会把人的存在直接写成十六进制，与全作"真相以 hex／乱码出现、谎言以台词出现"的形式学标记（babyfinches 车祸记忆、day220 遗言）同构。Ami 连"被他人看见的样子"都是编码过的。旁证：definitions.rpy:2334 定义了一个名为 "Pink" 的说话声部（第四章末彩装四人组 red/blue/green/pink 之一，ch2script.rpy:48101 "I'm the pink one!"），其专用色值正是 #ff4dd2——与 Ami 的"颜色"完全一致；是否即同一存在的两个显形位，文本未表态。
 9. **父女正名**：Sensei 对 Touka 当面纠正："She is my {i}daughter,{/i} Touka. Please stop calling her my niece. {i}Please.{/i}"（YasuEvents.rpy:6948）——"侄女"是登记关系，"女儿"是他第一次在他人面前主动认领的名分；结合 rainking 的 "I am your little girl. And you are my—"（finalwarning.rpy）与 chap4.rpy:42287 的 "Dad?" 口误，父女论在 0.60.0 获得正面文本支撑。
 10. **邪神侧的目标锁定**：教会传单集中出现在 Ami 家附近（YasuEvents.rpy:6537），Yasu 转述神意 "He wants you. {i}Both{/i} of you."（6554）——与 USER 层的持续注视平行，"超自然侧"同样把这对父女当作共同目标。Ami 的特殊性不是Sensei 的主观判断，而是多方势力的公论。
 

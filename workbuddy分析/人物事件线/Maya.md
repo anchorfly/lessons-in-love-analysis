@@ -216,19 +216,15 @@ dormwarssixmaya1 是 Niki 与 Maya 在天台外的对峙。Niki 转述 Sensei �
 
 Niki 道出自己真正的目的不是让众人难堪，而是想确认"他还有没有救"；最后她说 "There's a konbini around the corner. How about I buy you a drink?"，并坦言也想从 Maya 这里打听 Ami 的事。收尾旁白说今晚只结束了一场战争，"Maya Makinami still feels insignificant — for she would never offer up an olive branch like this."
 
-mayaspring4 是猫装性爱马拉松，开篇即写 "I have been having sex with this creature for roughly six consecutive hours now."。她带了一整袋道具（其中不少是她自己买的，还有一根可拆装钢管），并说明不同道具对应不同"Maya"。中途 Sensei 想起旧 Maya：
+mayaspring4 是猫装性爱马拉松，开篇即写 "I have been having sex with this creature for roughly six consecutive hours now."。她带了一整袋道具（其中不少是她自己买的，还有一根可拆装钢管），并说明不同道具对应不同"Maya"——其中一句信息量最大："if you want a Maya who looks and sounds a lot like the one you used to play with in the dark, use the rotor. That's the first toy you ever bought for me, Master."（MayaEvents.rpy:9852）：道具史直通上一轮循环，"in the dark" 的那个 Maya 是谁悬置。中途 Sensei 脱口 "Wow, what a weird time for me to gain a little closure on the passing of your last iteration."（10000——对"上一代 Maya 之死"的收尾感），被 Maya 按住："If you start talking about that other fucking Maya again while I am dressed as a cat and sucking your cock, I swear to fucking God, Akira."（10001）。他另有一句起源宣告："You started it all. You were the first one..."（10049）；她的回应把两人定义为地狱同伴："I would doom you to a...thousand hells if it let me keep feeling you inside of me like this!...We belong in hell, Akira! We weren't...made for this world!"（10050-10052）。旁白把她定性为体外的心脏："She's like a heart. {i}My{/i} heart. Twelve centimeters I could not live without...she's meant to be inside of me somewhere, but...she's not. So she's something I need to protect despite not being strong enough to {i}do{/i} that."（10091-10092）。事后是那段著名对话："Let's get married." → "No." → "Good. That was just a test anyway."，她补一句 "I'd do it because {i}you{/i} want to. Not because I want it."（10102-10112）。随后一段笑声对话里，Maya 指出 Sensei 不知道自己什么时候在笑（"Do you not know when it's happening?"——"I...guess not."，10150-10151）；旁白补刀 "I can't remember if I ever managed a response to that."（10163）——他连自己的表情都不归自己管。结尾诗节后只剩两句自我定义："I am nothing." / "I am seen."。本节结算 maya_love +1、maya_lust +1。
 
-> "I wonder what it felt like back then. I wonder what noises she made. I wonder what she looked like after."
-
-事后是那段著名对话："Let's get married." → "No." → "Good. That was just a test anyway."，她补一句 "I'd do it because {i}you{/i} want to. Not because I want it."。结尾诗节后只剩两句自我定义："I am nothing." / "I am seen."。本节结算 maya_love +1、maya_lust +1。
-
-mayaspring5 以千禧时钟开篇——"the hands of The Millennium Clock ticked incessantly back and forth between The Martyr and The Old Clown"。Ayane 带着 Uta、Nodoka、Yumi、Makoto 穿着从唐吉诃德买来的巫女服列队突袭神社，说是要实现当年"全班都当巫女"的玩笑。等待期间 Makoto 向 Uta 与 Nodoka 科普重置机制：无限循环的高一里仍可能丢掉循环期间累积的记忆、被打回学年伊始的"起点"，Uta 追问"这发生在谁身上"，Makoto 答 "That happened to Maya."。单独相处时 Ayane 说她不知道"我认识的那个 Maya 在哪儿结束、你从哪儿开始"，只说想念以前两人一起聊"世界末日"的日子；Maya 反问自己算不算重要，Ayane 答：
+mayaspring5 以千禧时钟开篇——"the hands of The Millennium Clock ticked incessantly back and forth between The Martyr and The Old Clown"（MayaEvents.rpy:10200），并借苏格兰国家博物馆钟楼的狂想把本作定性为 "Pandora's Box"（10203-10207）。Ayane 带着 Uta、Nodoka、Yumi、Makoto 穿着从唐吉诃德买来的巫女服列队突袭神社（"Don Quijote. They have everything there."，10349），开场先伪造了一段"遗言"："One day, if something terrible happens to me, it will be {i}you{/i} who must carry the mantle."——Maya 戳穿 "No iteration of me would ever say 'I love you so much. We'll be best friends forever.'"，Ayane 答 "You said it with your eyes."（10253-10261）。等待期间 Makoto 向 Uta 与 Nodoka 科普重置机制：无限循环的高一里仍可能丢掉循环期间累积的记忆、被打回学年伊始的"起点"，Uta 追问"这发生在谁身上"，Makoto 答 "That happened to Maya."（10289），并拆穿旧仪式的真相 "I think Ayane just liked wearing the dress and hanging out with Maya, to be honest."（10306）；Nodoka 则立刻抓住机制要点反问："the only memories that are purged are the ones we've made during the loops and not those that predate when they began, correct?"（10303）。单独相处时 Ayane 说她不知道"我认识的那个 Maya 在哪儿结束、你从哪儿开始"（10387），只说想念以前两人一起聊"世界末日"的日子；她还透露跨循环的恒定信息——"You've {i}always{/i} been afraid of her [Niki]. I know that much hasn't changed."（10425）——以及自己早知道"被送回去"的可能："I always thought it'd be {i}me{/i} to get sent back if it was either one of us, honestly. I wasn't prepared for this."（10394-10395）。记忆分歧段（Ami 位置）在此发生：Maya 只记得 "we're both always with Ami...I can't specifically remember where-"，Ayane 纠正 "Ami was barely even a part of it before you {i}left.{/i}...It was always you and me until it just...wasn't anymore."（10406-10407）。旧 Maya 的形象由 Ayane 补完："even if you constantly insulted me...and were willing to sacrifice me so long as it meant saving {i}you,{/i} it didn't {i}matter.{/i} You were still my {i}friend.{/i}"（10453）——"Not just the other girl who hangs out with Ami."（10454）。Maya 反问自己算不算重要，Ayane 答：
 
 > ay: I'd trade all of them for you. Just please don't tell any one of them I said that.
 
 > m: I've never been that important to...anyone but Sensei before.
 
-谈到 Niki 时 Maya 崩溃："Why did it have to be her?..."，并问出 "Is there somewhere out there for girls like us?..."。Ayane 答 "I believe that one day, there will be a place for everyone."。结尾诗是职能的自白："'Tis the hands, you see. In lifting them, I change the present nightly."
+谈到 Niki 时 Maya 崩溃："Why did it have to be her?..."，并问出 "Is there somewhere out there for girls like us?..."。Ayane 答 "I believe that one day, there will be a place for everyone."（10487-10499）。结尾诗是职能的自白："'Tis the hands, you see. In lifting them, I change the present nightly."（10556）。群像收尾时 Uta 点明这场活动的性质是 "Rooftop Apocalypse Squad orientation"（10535）——与 makotospring5 的命名互证。
 
 ## 三、lust 线概貌
 
@@ -243,6 +239,8 @@ Maya 线没有以 lust 命名的独立 label；欲望内容全部内嵌于 love 
 5. **Ami 之母与"第一个失去的女孩"**：mayachristmalloween2 的第一顺位宣言把 "Niki" 与 "Ami's mother" 排在 Maya 之前，并说 Ami 之母"已死多年"——源文此处只写 "Ami's mother"，未点名；按已核验的家族事实，Ami 的母亲是 Sekai。mayaspring2 里 Sensei 另有一句 "I often wish I didn't have to remember Sekai."，Maya 答 "That's basically the only reason we're together."
 6. **Sekai 与 ground zero**：mayaspring2 中 Sensei 自曝"背着你进行的秘密复活研究"，目标是"直到我成为他们之一"；dormwarssixmaya1 中 Maya 自认 "I'm ground zero." 与 "the catalyst to all of this"，并把一切变糟的时点定位在 "the moment Ami's mom died"。
 7. **Kaori 的单向回应**：mayaspecial45 里 Kaori 对 Maya 的两次点单毫无反应，只对 Sensei 应答，Maya 因此问出 "Can you see me?"，最终由 Sensei 代她下单收场。
+8. **"第一个"的序列**：mayaspring4 中 Sensei 的起源宣告 "You started it all. You were the first one..."（10049）与 mayachristmalloween2 的性史序列（"I was the first! Not counting fucking Niki and...Ami's mother!"）共同指向：Maya 是这套循环机制的第一个学生侧当事人——"ground zero" 的另一面。
+9. **表情不自知**：mayaspring4 里 Maya 指出 Sensei 不知道自己何时在笑（10150-10151），旁白承认他"不记得自己有没有回应"（10163）——连他对自己面部状态的内省都不可靠，与 halloweenfour14 遗忘 Sekai 之名、harukaspring6 的 "I can't really remember" 同属自我记忆缺损谱系。
 
 ## 五、未解伏笔
 
@@ -253,5 +251,7 @@ Maya 线没有以 lust 命名的独立 label；欲望内容全部内嵌于 love 
 - Alexis 是谁？"被困于别处、不同时间"的存在与 "I am the ghost of better days" 的发声者是否同源？
 - MM 字条的真正作者：是旧 Maya 的残留，还是另一个 Maya？
 - sportswars10 与 sportswars14 中的诗自称 "Girl"、对 "Boy" 说话；sportswars14 里 Sensei 又自述"后脑有个声音"。这个声音的来源与目的尚无答案。
+- "the one you used to play with in the dark"（9852）：道具史指向一个"黑暗中玩的 Maya"——是上一轮循环的她、某个夜间形态，还是 Ami 式的"附着之物"，无从判断。
+- 记忆分歧的裁决者：mayaspring5 中 Maya 与 Ayane 对"Ami 在旧友谊里的位置"各执一词（10406-10407）——两份记忆必有一份被改写；谁的版本是原版，与 MM 字条同属"被编辑的过去"档案。
 
 > 本角色 label 的检索索引，见 `索引/Maya索引.md`。

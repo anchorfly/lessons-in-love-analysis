@@ -42,7 +42,7 @@ Uta 是弓道部成员兼女仆咖啡厅店员，表面是全作中最接近"完
 
 **utaspring8**：bad ending 大厅，全作元叙事密度最高的事件之一。若走向坏结局，Sensei 进入一个大厅空间，遇到一名清洁工——她在惊惶中先被 Uta 主观认作/想象成 Ami 的模样（源文为 Uta 称其"based off of Ami"），随后自称是 **Ami 已故母亲的鬼魂**，并宣讲：这条 route 已被取消（route cancelled，按 label 名见 `索引/Uta索引.md`）；世界处于无限循环之中，附带 BEEF 宇宙论；提及 xoanon；最后以"Consider yourself Sekai-ed."宣告玩家被踢出路线。随后时间回溯，获得重选机会。该事件把 Uta 线的私人悲剧正式接入游戏的循环—取消机制，并首次将 Ami 母亲的亡灵设为跨路线的元叙事向导。
 
-**utaspring9**：全班群发童年裸照事件——加害网络以奈良制服班级照的形式总爆发。Io 怒斥全班；Uta 却公开选择接纳："These are my friends. I shouldn't have to hide who I am from them."，并两次重复"I don't mind it at all."——这句平静的重复既是创伤解离的征兆，也是她夺回叙事权的姿态。尾声 Ami 告诉 Sensei：全班都收到了照片，唯独他没有，"Weird..."——他被排除在加害链条之外这件事本身即是谜团。
+**utaspring9**：全班群发童年裸照事件——加害网络以奈良制服班级照的形式总爆发。事件直接承接 ayanespring4（后者以 jump utaspring9 收尾）：开场 Ayane 醒来说 "I feel like I just came back from another dimension again."（UtaEvents.rpy:8508），Ami 接 "Again? Is that something you do often?"——"Whatever do you mean, best friend?"（8509-8511）。泄露本身带超常属性：Futaba 删掉的照片自己回来且增殖——"I tried to delete it, but...it's back and...ah! I just got...five more?!"（8661）；Wakana 确认别班也在发生（"It's happening here too then?"，8707）。Io 先于所有人知情并试图拦下 Uta（"Go. Get out here. That's your-{/i}"，8760），Uta 只答 "They've already figured it out."（8769）——随后是她的公开自认："These are my friends. I shouldn't have to hide who I am from them."，并说出全段最冷的台词："They won't care how many lonely men all over the globe have jerked off to my pictures. Or how many cum tributes were sent back to me...It brings me great joy knowing how many people I can make happy with my body. And that it doesn't matter what shape, size, or age it is in order to do that."（8784-8786），再两次重复 "I don't mind it at all."（8788-8789）——此刻源文给出全作罕见的舞台指示：所有说话者的台词栏尽数留白（8790-8802），全班以沉默收场。Io 怒斥全班在先（"CAN YOU ALL JUST FUCKING SHUT UP ALREADY?!"，8742）。尾声 Ami 向 Sensei 汇报并试探："Are you telling the truth or are you lying to me right now because you don't want to feel bad about keeping them?"（8819）——Sensei 确实一张都没收到（8841）；Ami 留下一句 "She was pretty {i}active{/i} back in elementary school."（8838）与 "Weird..."（8848）离开。
 
 ## 三、lust 线概貌
 
@@ -56,6 +56,8 @@ Uta 线的情色段落高度服务于创伤叙事。[TRIMMED] 内容可抽象为
 4. **m 与旁白 N 的介入**。m 的"Would it be any easier if this all just went away?"与 N 的堕落怂恿在同一段落先后发声，展示元叙事层内部的分裂：一方提供退路，一方实施腐蚀。
 5. **Kumon-mi 活体城市论**把舞台本身升级为潜在主体，与循环、重置共同构成本作的宇宙论三件套。
 6. **Ami 同盟**。两条受害叙事的真正交汇（童年裸照创伤、叔叔床上自慰幻想）将 Uta 线与 Ami 线的创伤母题并联（见 utaspring1 / amimaidreturn 系列），而 bad ending 大厅中 Uta 在惊惶下将"Ami 母亲"误认/想象成 Ami 的模样，使该元叙事向导与 Ami 形象产生交叠。
+7. **泄露的反物理性**。删除即复活、且越删越多（utaspring9:8661），说明这批照片不是普通数据而更像被"播撒"的实体——与 Ami 线的"附着之物"、Yasu 线的诅咒属同一类无法用常理解释的传播机制。
+8. **事件链的物理衔接**。ayanespring4 以 jump utaspring9 直接跳入本事件：Ayane 刚从"另一个次元"（Shi 的屋顶）回来，Uta 的照片随即引爆——0.60.0 的 spring 章在事件层面互为因果链，而非平行日常。
 
 ## 五、未解伏笔
 
@@ -67,4 +69,6 @@ Uta 线的情色段落高度服务于创伤叙事。[TRIMMED] 内容可抽象为
 - **reset 提议的字面化**：Uta 口中的 reset 是否意味着她曾经历或发起过重置。
 - **Ami 母亲之死的真相**及其能以鬼魂身份巡游各路线的机制。
 - **xoanon 与 BEEF 宇宙论**的确切所指。
+- **照片的来源与增殖机制**：删除即复活（utaspring9:8661），寄件者与投放方式成谜；Io 的先知式知情（8760）说明有人比受害者更早知道泄露即将发生。
+- **Uta 的自我暴露史**：她自己承认拍照发送时的快乐（8785-8786）——受害与自愿在她的案例里无法切割；"shape, size, or age" 的表述与 utadorm40p1 的童年照片链如何互证，悬置。
 > 按源行号检索本角色 label，见 `索引/Uta索引.md`。

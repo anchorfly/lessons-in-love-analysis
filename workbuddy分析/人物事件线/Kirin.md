@@ -60,9 +60,11 @@
 
 ### spring 终章
 
-**kirinspring2** 完成姐妹线的第一次真诚对话，Kirin 与 Karin 的竞争外壳裂开一道缝；事件尾声的系统弹窗标记 love 值的新台阶。**kirinspring3** 在崩溃前夜维持表面的平静，为终章蓄力。
+**kirinspring2** 完成姐妹线的第一次真诚对话，Kirin 与 Karin 的竞争外壳裂开一道缝；事件尾声的系统弹窗标记 love 值的新台阶。
 
-**kirinspring4** 全线终点。Kirin 在服装店（与 Ayane 试泳装，kirinmallsad 场景）向 Ayane 忏悔的崩溃戏：她借用切腹与胁差的隐喻请求处分，喊出 *"I'll never be a princess!"*——公主是她给自己设定的「值得被选上」的终极形态，而 christmalloween 侵害事件让她确信自己永远到不了那里。Ayane 没有赐死她（"New idea! Let's just calm down and not bring seppuku into the equation?"），这一刀劈开的是旧怨与新生的双重可能。事件结尾跳转至主线锚点 endofsatch4／endofweekdaych4，最后的弹窗把她的全部挣扎折算成一个数字，交给玩家保管。
+**kirinspring3** 凌晨 4:43 的校门口独角戏（"Time: 4:43 AM...Mood: Bad"，KirinEvents.rpy:9441）。旁白先用一段虚构的青春通勤记忆做幌子，随后拆穿：Kirin 根本没睡——与父母吵架后整夜等一句不会来的道歉（9463），并写下她距离消失有多近："If she dissolved into nothing right now, no one would notice at first...it wouldn't be until her remains began to drift across the sea that anyone would realize something was wrong."（9466-9467）。她对着月亮说话，"Mr. Moon" 最后自认是 "the manifestation of your innermost thoughts"——只会说她想听的话，因为她没勇气向真人求助（9492-9493）。Miku 提早到场，穿着解散多年的足球部制服："I still kind of...come here before school all the time...I guess I just miss it"（9505-9511）。Kirin 的核心自白在此展开："They've never loved me, Miku...I just want to be noticed, you know? I want to be {i}seen.{/i}"（9583-9584）、"The way I am now, I...feel {i}disposable.{/i}"（9606）、"all of the love I {i}do{/i} get just feels like pity to me!"（9616）；她把封闭小镇说成牢笼："We're trapped in here...and there's no place for me"（9628）。Miku 的回答是本事件唯一的光："Not Karin. Not Noriko. Not me. We all fell in love with you without you needin' to do {i}anything{/i} special."（9613）。Karin 到场后补出童年细节：Kirin 小时候每晚开窗对月亮上的兔子道晚安，"because she was afraid it was lonely"（9648）——Miku 说那是 "parold-dolia"，Karin 纠正 "Pareidolia."（9659-9661）。事件尾声旁白换到"我"的旧巴士站："That girl who lived across the street moved away. She has a family now. Their oldest daughter is seven. All I have is you."（9702-9704）。
+
+**kirinspring4** 全线终点。开场是 Sensei 与 Ayane 的商场试衣间约会（店员见怪不怪的 "not again"，9749；Sensei 自述 "I believe I may have unintentionally started another collection just now"，9727——「收藏」母题的又一次显影），随后撞见独自买泳装排解心情的 Kirin（9790）。Ayane 摊出旧案定性："She sexually assaulted me and never even showed any remorse until I threatened to beat her to a pulp after school one day."（9814）；Kirin 全盘认领："I'd...never forgive someone either if they...did what I did to you guys."（9799）。旁白给海滩事件一个新的解释框架："It was never an appetite for destruction that compelled her to 'attack' us on the beach so long ago...if I were to pin her down in that moment and tell her she is loved, she'd be someone completely different from who she wound up as today."（9941-9942）——事件标题 "Failed Attempts at Arson" 由此落地：她烧的是自己（9939-9940）。午餐桌上 Kirin 的谢罪螺旋失控：先一句 "I'm really lonely."（9869），随后下跪土下座、请求的却是**不要被原谅**——"Please...never forgive me!"（10026）、"I am a waste of a child and a waste of a friend and a waste of a {i}person{/i} who is not fit to love or be loved!"（10033），甚至两度把切腹搬上台面（"without a fucking wakizashi"，10041）。她的嫉妒自白把侵害重新定义为扭曲的憧憬："so I went after the most perfect one of all to try and feel better about myself"（10000）、"I grabbed the whole fucking spoon and shoved it all down my throat because it was the only way I'd ever know what it's like to be anywhere {i}close{/i} to you!"（10015）；句式一路下滑到 "I'll never be a {i}princess!{/i}"（10012）。她对 Ayane 说的最后祝福同时是自我否定与两代母亲的比较："You're going to be a great mom, Ayane...Way better than mine. Way better than {i}yours.{/i}"（10003/10010）。Ayane 的回应摒弃了所有戏剧性："No one is perfect...I'm just a girl like you. I'm not an angel."（10070-10073）、"Because {i}no one{/i} belongs down here. That's how."（10079）——以"没人属于地板"接住她。事件结尾旁白宣布 "The three of us have a great time and no one has any sort of mental breakdown at all."（10102）——紧接一场大型崩溃之后的官方谎言式总结；kirin_love 与 ayane_love 同时+1（10108-10109）。
 
 ## 三、lust 线概貌
 
@@ -79,6 +81,9 @@
 - **秘密经济系统**：她得知 Miku 父母之死并以自身秘密作交换，把「知情」明确表述为本世界观的硬通货，为多条角色线的信任博弈提供了规则说明。
 - **数值弹窗的叙事化**：affection 弹窗在她线中出现得最频繁，且总是落在情感突破的瞬间——系统消息本身成了「她只能用分数确认自己被爱」的人格注脚。
 - **跨线辐射**：与 Karin 的姐妹对照、与 Noriko 的同居安排、向 Ayane 的忏悔清算，使本线成为连接另外三条角色线的枢纽；christmalloween 更是波及多线的公共事件原点。
+- **Pareidolia 一词的正面命名**：kirinspring3 中 Miku 把「对月亮说话」说成 "parold-dolia"，Karin 当场纠正 "Pareidolia."（KirinEvents.rpy:9659-9661）——这个贯穿全局母题（空想性错视：在无意义处看见脸／意义）首次由角色亲口说出，而说话场景恰是"对月亮上的兔子说话"：母题、词源、人物行为三者同框。
+- **牢笼自白**："We're trapped in here...and there's no place for me"（9628）——封闭小镇作为监狱的设定再次由学生之口确认，与 Makoto 班长线、Haruka 线的物资来源之问同属一链。
+- **叙述者的巴士站**：kirinspring3 尾声旁白自述旧巴士站对面"那个女孩"已搬走、成了家（9702-9703），收束句 "All I have is you."（9704）——叙述者再次把孤独投向玩家方向，与 Haruka 线的叙述者受苦经济学同构。
 - **sportswars 共享事件**：运动会两章与其他角色的同名事件共用舞台，群像调度中她的胜负欲被用作集体叙事的燃料。
 
 ## 五、未解伏笔
@@ -88,5 +93,7 @@
 - **christmalloween 的全貌与追责**：侵害事件的实施者、动机与后果尚未正面清算，Ayane 的宽恕只是受害者同盟内部的第一步。
 - **弓道部的回归**：退出真相坦白后，「赢不了 Uta」的心结没有任何后续安排。
 - **Noriko 同居的落地**：soccer20 浮出的同居计划至本线结束仍停在计划态。
-- **moon-rabbit 习惯的回收**：对月亮道晚安的童年细节与全局 Pareidolia 词源主题的最终勾连尚未兑现。
+- **moon-rabbit 习惯的回收**：童年细节已在 kirinspring3 当场回收（Karin 补出故事、Pareidolia 一词被点名，9648/9660），但其与全局 USER3/pareidolia 母题的最终勾连（月亮上的兔子是否也是一个"被看见的存在"）尚未兑现。
+- **父母的道歉缺口**：kirinspring3 明写她整夜等待的道歉"never came and never {i}would{/i} come"（9463）——神田家不仅忽视，还永不认错；这一态度的成因与后果悬置。
+- **未说完的话**：kirinspring4 结尾 Kirin 只留一句 "Things lately are just..."（10091）即被打断——christmalloween 之外是否还有新变故，无下文。
 > 按源行号检索本角色 label，见 `索引/Kirin索引.md`。
