@@ -2,6 +2,10 @@
 
 > 源文件：NikiEvents.rpy ｜ 共 31 个剧情 label
 > 定位：Niki Nakayama——现役国民级偶像、Sensei 的青梅竹马兼前女友，也是全作中「名字／记忆」主线在恋爱线里最主要的经手人。她的叙事功能有三重：Sensei 童年与创伤史的保管者；Ami 家庭结构重组的推动者；以及把元叙事层的失忆命题从「设定」逼成「关系问题」的那个角色。
+
+### 0.61.0：第七次海滩（主章中的 Niki）
+
+beachseven3 她把 Noriko 带到海滩当"筹码"——原话是 "It's the least you can do to help after fucking my boyfriend."（chap4part2.rpy:6025）。beachseven5 的居家戏披露她的经济角色：与 Noriko 谈 Ami 的画时说 "It's only a matter of time until Akira loses the job he's pretending to have. And I don't want him and Ami going hungry once my reserves dry up."（7534）；对乱伦的立场依旧是 "Absolutely fucking not."（7539）；姐妹拉锯以 tacos 与"一亿次下放的衣服"收场（7547-7569）。本版本她最大的事件是 Ami 的拥抱：Ami 上门说 "A hug. I haven't seen you in a few days and I've missed you."，她第一反应是 "What did you do?"（7586-7588）；听到 "What's wrong with a girl wanting to hug her mom?" 时卡壳（"Her... What did you just-"，7594-7595）；Ami 留长发、邀姐妹逛街、肯定她"还站着"（7600-7630），黑屏前一句 "We only have so much time together after all..."（7635）。chika2 证实她的青梅竹马身份已被 Chika 知晓（ChikaEvents.rpy:11732-11735）。
 > 阅读提示：本文全部依据 NikiEvents.rpy 源文（必要时参照 chap3.rpy、chap4.rpy、chap4hub.rpy、NorikoEvents.rpy 的跳转点）；遇 bonus 分支只取 bonus == True 一侧。台词为英文直引，label 名是唯一锚点。前缀：ni=Niki、s=Sensei、n=Noriko、a=Ami、k=Kaori、o=Otoha、ima=Imani、w=Wakana、c=Chika、se=Sekai、pat=Patrice、di=导演、fad/sad=片场助理、q=接线员、N=旁白。分析语言为简体中文。
 
 ## 一、角色基本盘

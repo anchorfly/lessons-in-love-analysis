@@ -2,6 +2,10 @@
 
 > 源文件：游戏文本/FutabaEvents.rpy（含约 35 个 label）。
 > 定位：Futaba 是全作"身体自我厌恶"主题的核心载体，也是元叙事觉醒最彻底的角色之一——她从被书写的角色，逐步走向质疑作者（Nodoka）与直面玩家层（Sekai）。
+
+### 0.61.0：第七次海滩（主章中的 Futaba）
+
+Dorm Wars 奖励夜她与 Rin 同组：Rin 当面宣布"Futaba 与 Sensei 终于互诉了 L 词"（chap4part2.rpy:6632），Futaba 的反应是 surreal——"It just happened so fast...I just didn't really expect it to happen in the library and...directly in front of Nodoka."（6642）；随后承受 Rin 的"姐姐三人行"宣言轰炸（6648-6658），Sensei  总结 "I am both sad and relieved that Rin is an only child if her outlook on what sisters do is what she just said."（6651）。beachseven5 早餐位移戏里她被 Rin 的暗语（旁边空座）吓得改坐 Nodoka（7503-7506）。
 > 阅读提示：本文按 love 线主轴逐事件推进，lust 线仅做叙事功能概括；文中以 label 名为锚点，可在 FutabaEvents.rpy 中检索核实。
 
 ## 一、角色基本盘

@@ -96,4 +96,8 @@
 - **moon-rabbit 习惯的回收**：童年细节已在 kirinspring3 当场回收（Karin 补出故事、Pareidolia 一词被点名，9648/9660），但其与全局 USER3/pareidolia 母题的最终勾连（月亮上的兔子是否也是一个"被看见的存在"）尚未兑现。
 - **父母的道歉缺口**：kirinspring3 明写她整夜等待的道歉"never came and never {i}would{/i} come"（9463）——神田家不仅忽视，还永不认错；这一态度的成因与后果悬置。
 - **未说完的话**：kirinspring4 结尾 Kirin 只留一句 "Things lately are just..."（10091）即被打断——christmalloween 之外是否还有新变故，无下文。
+
+### 0.61.0：第七次海滩（主章中的 Kirin）
+
+beachseven3 带新泳装登场（Noriko 透露 "She wouldn't shut up about wanting you to see it last night."，chap4part2.rpy:6030），接住 Sensei 的 "cute" 后当场宕机（6096-6113），并自曝新技能——Noriko 教的眼神攻击（"Noriko taught Kirin the eye thing and now she won't stop doin' it any time she wants something."，6125）与死亡调情论（"It's like how I can't look at Sensei without wanting to tie him to my sister's bed and edge him for nine consecutive hours."，6115）。Dorm Wars 奖励夜她与 Yasu 同组，首次长时间看护他人：Sensei 点破 "All this time, you've been beating yourself up over being a terrible sister when it seems like you'd make a great {i}older{/i} one when given the opportunity."（7027），她当场开悟（"It's like a massive dopamine boost every time I manage to make her smile."，7033）；兴奋过头说漏 "I love you." 又慌忙改口（7056-7062）。姐姐 Karin 的蹲守路线里她被介绍为 "a sister named Kirin, who I believe you already know"（KarinEvents.rpy:6145）。
 > 按源行号检索本角色 label，见 `索引/Kirin索引.md`。

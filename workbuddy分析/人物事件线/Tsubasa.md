@@ -289,4 +289,8 @@ s 否认后她抛出半句预言：
 - **s 的柜中童年**：`tsubasaspring8` 的壁橱记忆（数数、门外的尖叫与呻吟与床响）属于 s，源文没有点名门外的人是谁。
 - **"sometimes I just have to say things"**：这句话究竟是托辞还是陈述，全文件内没有判据；她说过的话里哪些属于"必须说的"也没有清单。
 
+
+### 0.61.0：第七次海滩（主章中的 Tsubasa）
+
+chika1 经 Yumi 之口确认其对 Yuki 的全面接管："Tsubasa's taking care of her, right?"——"That's one way to put it. Not sure if it's just cause she's payin' for her whole treatment or what, but that lady's got Yuki on a fuckin' leash it seems."（ChikaEvents.rpy:11439-11440）——出资治疗与人身控制并存。
 > 按源行号检索本角色 label，见 `索引/Tsubasa索引.md`。

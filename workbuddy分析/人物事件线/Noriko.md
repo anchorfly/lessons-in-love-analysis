@@ -2,6 +2,10 @@
 
 > 源文件：NorikoEvents.rpy ｜ 共 34 个剧情 label
 > 定位：Noriko Nakayama —— 本作中以「妹妹（Onii-chan）」身份完成从青梅竹马、被辅导的学生、恋慕者到性伴侣全程跨越的角色。她的叙事功能有三重：Sensei 童年与创伤史的第一见证人与保管者；Maya 线的对位镜像（rival、童年旧识、性侵知情者与共感者）；以及元叙事层最活跃的「被旁白点名」的角色之一。
+
+### 0.61.0：第七次海滩（主章中的 Noriko）
+
+beachseven3 的电话戏确立她本周的角色——被姐姐带来当"分散注意力"的筹码（"Her big-sister card is so much stronger now and I hate it."，chap4part2.rpy:6025），自嘲要 Sensei 想着"我们有过五小时伪乱伦性行为的那个房间"（6054）；并转报 Ami 拒绝被隔离（6056-6057）。beachseven5 在 Niki 家：Ami 的拥抱邀请落到她头上（"Do I get a hug too or is it just Nee-chan?"——"I'll make my way over once I'm done with her, promise."，7617-7618），她以对姐姐的赞美收尾："Nee-chan isn't just anybody. She's the strongest, coolest, {i}most forgiving{/i} sister in the world. And no hiccup in any sort of familial relationship would get to her forever. Right, Nee-chan?"（7627）。
 > 阅读提示：台词直引保留英文原文；分析语言为简体中文；label 名是唯一锚点，不标行号坐标；成人段落只做叙事功能概括，不逐句铺陈。
 
 ## 一、角色基本盘

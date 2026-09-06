@@ -80,4 +80,8 @@ Otoha 没有独立的 lust 路由 label，与主角也没有性场面；她的�
 7. **Nodoka 的"任务"**：Otoha 明言知道却不能说，并坚持"Nodoka's not like that"。
 8. **Ami 的"另一个世界"计划**：otohaspring6 结尾 Ami 确认"I just needed to know you were you."，招募意图明显，目的与手段均未揭。
 9. **Ado 连接**：Niki 与 Ado 的旧交在 Otoha 面前泄露，音乐线的外部变量已埋下。
+
+### 0.61.0：第七次海滩（beachseven4f2 中的 Otoha）
+
+她与 Nodoka 同组，姿态是全书最松弛的一次："But does being normal make me a bad guy now?"——"Yes."——"Oh. Well, okay. I guess you can proceed with your scowling all you like, then. And I'll just sit here being something unattainable that you're forever forced to chase after."（chap4part2.rpy:6823-6825）。马尾话题引出跨角色的认知共振——Sensei 脱口"马尾是最性感的发型"，Nodoka 觉得"eerily familiar"，Otoha 打破幻想："Just because the two of you are perverts doesn't mean you have some kind of secret connection."（6950）。她同时是 Rika 撮合局的望风者之一（5150-5183），并在 Uta 的病房外替 Sensei 划底线（"Please do not have sex with her right now. As a personal favor to me."，7090）。
 > 按源行号检索本角色 label，见 `索引/Otoha索引.md`。

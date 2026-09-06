@@ -110,4 +110,8 @@
 4. **"礼物藏在何时"**：Pareidolia 临别预告的 multiple gifts至今未见完整清单。
 5. **死因细节**："until I was roadkill"是唯一一次接近直接的死因陈述，与"seas of white"之间的空白未被填补。
 6. **对 Nikke 的半句遗言**没有下半句。
+
+### 0.61.0：主章中的 Kaori——"她戴着她的心"
+
+beachsevenami1 里 Sensei 在谵妄中泄出全书级信息："Go talk to Kaori. She's wearing her heart."（AmiEvents.rpy:11598）；Ami 当场崩溃："Are you telling me my mom's been inside of {i}Kaori{/i} this whole time?!"（11605），Sensei 只能承认 "Kind of, yeah. I'm having a hard time controlling my informational output at the moment."（11606）。Ami 随即宣布 "I'm off to go find Kaori now and {b}RIP HER FUCKING HEART OUT.{/b}"（11646），又用 "I'm no cardiologist!"（11648）拆掉威胁的落点。母亲的某种残存（心）寄宿于 Kaori 体内——0.60.0 里 Kaori 对 Maya 的点单毫无反应、只应答 Sensei 的单向性（mayaspecial45），在此获得全新解释空间。事件以 Sensei 的 "Don't go looking for Kaori, Ami."——"Because closure won't fix you."——"Just that some things are better off dead."（11694-11703）收束。
 > 按源行号检索本角色 label，见 `索引/Kaori索引.md`。

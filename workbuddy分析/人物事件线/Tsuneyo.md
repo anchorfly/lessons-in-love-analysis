@@ -103,4 +103,8 @@ Sensei 敲她的门，被屋内的 Molly 用一整套奇幻腔调赶走（"Begon
 7. **手铐的后续**：`tsuneyospring8` 的两个结尾都停在 Sensei 被铐在椅子上；钥匙在 Tsuneyo 手里，Ami 或 Niki 的条件都还没有兑现。
 8. **December 28th, 2020**：`tsuneyospring1` 最后一句问 Yumi 的问题，在 Tsuneyo 这条线内没有下文。
 
+
+### 0.61.0：第七次海滩（主章中的 Tsuneyo）
+
+RSA 为她与 Uta 开场默哀，Ayane 的注解是 "Sometimes she's aware, sometimes she isn't. So I just invite her to everything now to be safe."（chap4part2.rpy:5380）——她的意识闪烁已被知情者当作常态管理。beachseven3 防晒戏里完成堕落宣言（"I'm a bonafide whore now. Just like all of you. I can finally fit in."，6177；"I could drink it by the gallon."，6187）；4f2 与 Molly 同组，Nekopara 术语满载（"I am the pussy conqueror. Both literally and even more literally."，6862；"I would make an excellent sex slave."，6892）。utaspring9 的照片潮她也中招（"I too have received these photographs. I am officially popular."，UtaEvents.rpy:8674）；beachsevenami1 结尾 Sensei 收到的图片短信即来自她（AmiEvents.rpy:11721）——缺席者以系统消息的方式在场。
 > 全部 label 名与源文位置见 `索引/Tsuneyo索引.md`。

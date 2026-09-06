@@ -197,4 +197,8 @@ lust 线由通用邀请系统与少量专属事件构成：
 6. **中间名**：Medb 还是 Moyra？玩笑背后是对「角色档案由谁书写」的一次小规模元质询。
 7. **consanguinity 预言**：「less consanguinity and more catgirls」却「ended up with both」——她对 Sensei 的感情是否正在滑向父位替代，文本刻意不结案。
 
+
+### 0.61.0：第七次海滩（beachseven4f2 中的 Molly）
+
+她与 Tsuneyo 同组，展示自己的"驯化工程"："I've merely turned her down a road she'd have discovered on her own one day. But perhaps a bit too aggressively as the Kendo Princess seems to struggle tearing herself away from La Soleil at all these days."（chap4part2.rpy:6857——Nekopara 咖啡厅名）；对 Tsuneyo 的定位是 "The Kendo Princess has always been a nephilim of sorts. And it is up to us to expand upon her human side as best as we can."（6899），并预告下一步 "We're fucking Azuki next."（6901）。beachseven3 的防晒群戏（6154-6167）与 Tsuneyo 的 "at least it tastes good" 宣言（6168-6187）同框。
 > 按源行号检索本角色 label，见 `索引/Molly索引.md`。

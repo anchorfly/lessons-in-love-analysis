@@ -3,6 +3,10 @@
 > 源文件：`游戏文本/RikaEvents.rpy`（主体）、`游戏文本/chap3.rpy`（`rikaspecial1`）、`游戏文本/chap4generics.rpy`（`rikaspringdivegen`、`rikaspringmorninggen`）、`游戏文本/nudes.rpy`（`rikanude1`）。
 > 定位：Rin Rokuhara 的养母；Kumon-mi 高中轻音部顾问；Sensei 身边唯一一个"成年人视角"的朋友兼怀疑者。
 > 版本说明：`RikaEvents.rpy` 中不存在 `if bonus:` 式的双分支，本文件所记即源文所写，无需区分版本。
+
+### 0.61.0：第七次海滩（主章中的 Rika）
+
+她是本版本的幕后操盘手之一："Operation: Jim Halpert"——借口拿毛巾把 Sensei 与 Wakana 反锁一房（WakanaEvents.rpy:5147-5148，The Office 第八季梗），Otoha/Sana 望风，并掌握情报 "pretty much everybody in the light music club except Chika wants those two to sleep together."（5177）；望风期间让 Imani 醉倒以免碍事（5042 附近她替 Imani 拿酒）。事后定性自己的作品：Imani 自认 "essentially tricking two drunk people into having sex with each other"，Rika 纠正 "Um, excuse me Imani, but Akira wasn't drunk at all."（RinEvents.rpy:10215-10216），并搬出 "back in my day, we had this thing called 'implied consent.'"（10222）。她也是 beachseven3 的校车司机（"their regular driver mysteriously drowned in a soapland"，5945）。
 > 阅读提示：本文件为纯中文分析，以 **label 名**为唯一锚点（无行号坐标）。按 label 回溯源文见 `索引/Rika索引.md`。
 
 ## 一、角色基本盘

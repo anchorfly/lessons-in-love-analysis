@@ -101,4 +101,8 @@
 - **父母枪案**：两名窃贼的下落、案件是否告破，文本保持沉默。
 - **"Everywhere and nowhere"**：这句自我形容与 Ami 线的同款气质是否指向同一设定层，无定论。
 - **boyfriend 之后**：命名仪式完成于版本末尾，这段关系的下一形态尚未开演。
+
+### 0.61.0：第七次海滩（主章中的 Miku）
+
+beachseven3 随 Kirin 登场：恋情在 Kirin 面前完全公开（"Kirin already knows you're porkin' me and I ain't gotta pretend around her."，chap4part2.rpy:6105），食色店解雇与"网上认识的那个人"的后续（6099）。Dorm Wars 奖励夜她与 Makoto 同组：vagina 之争、"loose woman" 的自我辩论（6555-6576），以及全书又一处未觉醒者的循环滑嘴——"you haven't been subtle about your 'broken vagina' over the last few loops. I mean resets. I mean years."（6592，此句实为 Ayane 代她说出，Miku 未察觉异常）。
 > 按源行号检索本角色 label，见 `索引/Miku索引.md`。

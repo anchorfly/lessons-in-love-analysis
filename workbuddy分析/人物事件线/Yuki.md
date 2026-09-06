@@ -91,4 +91,8 @@
 - **Io 的隐患**：Yuki 要求 Sensei 不要把母女见面的打算告诉 Io，理由是 Io 对她有奇怪的依恋，怕她嫉妒后跟 Yumi 起冲突；同时她说 Io 不该听到自己的过去。本线内未再展开（`yukidate1`、`yukidate5`）。
 - **Rika 的后续**：被逐出门后，这位 42 岁的邻居在本线内再无出场（`yukispring2`）。
 - **桥上之夜**：Sensei 的跳桥计划只有一句带过，动机与 Yumi 的目击后果均未在本线回收（`yukicamp1`）。
+
+### 0.61.0：第七次海滩（主章中的 Yuki）
+
+chika1 证实她的临终状态：Yumi 说 "Just because she's dying don't mean I'm gonna forgive her for choosin' drugs over me when I was a kid. Think she'll {i}always{/i} just be Yuki to me. Callin' her 'Mom' or whatever just feels weird."（ChikaEvents.rpy:11442）——她已进入临终阶段，由 Tsubasa 出资治疗并"拴着"（11440）。
 > 按源行号检索本角色 label，见 `索引/Yuki索引.md`。

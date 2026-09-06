@@ -266,4 +266,8 @@ Yumi 的 lust 轨道内容散布于各事件的双版本台词与若干 trim 段
 6. **深渊实体的归属。** yumicallnight35 中自称对 "her" 另有称呼、对象是 "the world" 的实体与 six、Pareidolia、chalkboard 诸神之间的关系未整合。
 7. **Chika 线的残余引力。** "we broke up" 式的友情状态、Chika 潜入 Yakuza 的往事与其精神崩坏的现状之间，尚有一条未走完的修复线。
 8. **发夹。** yumispring9 特写的不卖之物从未被解释来历；结合 s 的 "collector" 独白，它可能既是 innocently 的装饰也是被收藏的第一件藏品。
+
+### 0.61.0：第七次海滩（主章中的 Yumi）
+
+RSA 会议上她贡献了全场最重的质问："Say that incestuous weirdo {i}does{/i} know something. Say she's somehow the key to fuckin' {i}all{/i} of this... Is Sensei just gonna hide in his room again while a bunch of stupid teenagers try to put the fucking world as we know it back together? Or is he gonna fucking {i}do{/i} something about it?"（chap4part2.rpy:5516-5517），并自陈立场："Four Eyes and I don't really mind stayin' trapped here. So why should {i}we{/i} be doin' all the work for the two people who {i}do{/i} want to leave?"（5520）。散会后与 Nodoka 的单独对话里，她把更衣室旧案与"道歉"问题对撞，收在两个"非人"角色的互认上——"Can machines even {i}feel{/i} in the first place?"，"I am trying. That's why I am here."，"Well...maybe that's why I'm here too."（5618-5623）。共浴夜她独自躲开，接住了溜出房间的 Sensei（"Executive dysfunction."，5886）。beachseven5 的早餐戏里她强推 Chika 去面对 Rin（"her vagina's already been in your fucking mouth."，7475），并保留打人的请求权（7517）。
 > 按源行号检索本角色 label，见 `索引/Yumi索引.md`。

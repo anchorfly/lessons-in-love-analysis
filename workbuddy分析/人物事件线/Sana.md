@@ -414,4 +414,8 @@ lust 线在功能上是一台可无限重入的往复机：sanainvite2 的结算
 10. **Sana 与 Ami**。sanainvite1 里 Niki 追问之下，Sana 说"Ami 愿意的话我不介意和她交往，只是想慢慢来"；sanaspring2 里 Ami 在课上发表"要把其他女生肢解掉"的演说。这两条线至今没有交集。
 11. **bar45 的记忆分歧**。Sana 记得的过夜与 Ayane、Sensei 的记忆不一致——究竟是谁的记忆被改写，还是被重置抹掉的那一次另有版本？
 
+
+### 0.61.0：第七次海滩（主章中的 Sana）
+
+Dorm Wars 奖励夜她与 Ayane 同组接待 Sensei：对 Wakana 的婚约余波毫不知情又好奇（"Miss Watabe is beautiful...I can't tell which one of you I'm more jealous of right now."，chap4part2.rpy:6407），并抛出 futon 提议（"Two roommates. One Sensei. One {i}futon.{/i}"，6429）。beachseven5 温泉戏的两个落点：守护天使之梦——"I had a dream like that too once. I woke up before I got her name, though... I think she...{i}looked like me?{/i} But I can't...really remember."（7671-7673，Ayane 的天使许诺与她"天使像自己"的残缺记忆并置）；终场她自任旁观者（"I'll wait right here and watch..."，7704）。
 > 按 label 检索本角色全部事件，见 `索引/Sana索引.md`。
