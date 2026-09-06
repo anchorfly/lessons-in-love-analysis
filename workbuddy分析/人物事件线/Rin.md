@@ -174,4 +174,8 @@ Rin 的自慰在源文中是明写的，而且和自毁被放在同一套机制�
 5. **生父**：`rinspring2` 里 Rin 说"他是我人生里最大的问号"，并说"没有意义去翻石头找答案"——源文只留了缺口。
 6. **`rinspring9` 里的"第二个 Rin"与 Maya 究竟是什么**：那段被写成"不是梦，是结果"，但源文没有解释"结果"指的是什么，也没有交代 Rin 本人记住了多少。
 
+
+### 0.61.0：第七次海滩（beachsevenrin1）
+
+开场旁白两条自报："One — I had sex with Wakana and it was awesome. But it seems that she does not agree as she has apparently vanished from the beach and will not answer my texts."；"Two — Chika had sex with someone {i}else{/i}."（RinEvents.rpy:9883-9884），并承认 "I realize I have not grown at all...this path was decided for me."（9890-9893）。约会由 Rin 全程设计：奥莱购物中心是老商城的"延伸"——旁白特意写她把它说成商场自己在生长（9977）；去桑拿的主意来自 Ami（"I didn't even realize this place {i}had{/i} a sauna until Ami told me about it earlier."，10004）；Imani 的注意力由 Futaba 和 Ami 负责拖住（9956）。对质段是本事件核心：Sensei 揭穿她与 Chika 的事，Rin 的辩解从"那不算"滑坡到细节外漏（"she knew exactly how I'd like it and how pretty she looked between my legs?"，10135）；"Do you love her, Rin?"——"I love {i}you.{/i}"——"You're allowed to love more than one person, though."（10142-10144）；她把 Sensei 教她的话原样奉还："if I directly ask you something and you lie to me {i}then,{/i} you're the one putting distance between us."（10156）。事件在指尖场景后收束，尾声是 Rika 与 Imani 的后台对话：Imani 自认 "essentially tricking two drunk people into having sex with each other"（10215），Rika 纠正 "Akira wasn't drunk at all."（10216），Imani 则自曝当晚断片（10231）——Wakana 一夜是 Imani 的撮合局。
 > 按源行号检索本角色 label，见 `索引/Rin索引.md`。

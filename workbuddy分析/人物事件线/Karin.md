@@ -106,4 +106,8 @@ Karin 在 KarinEvents.rpy 内没有任何以 lust 数值为目标的事件；与
 8. **"Maybe in a different life."**：主角在 date15 对平行可能性的罕见松口，与他此后反复出现的"重置"表述彼此勾连。
 9. **Kirin 的按摩失态与身份漂移**："I'm good Kirin now. I've decided to switch personalities."，以及她在按摩中途突然忘记自己要说什么——Kirin 为什么会在那一瞬间断线，源文没有解释。
 
+
+### 0.61.0：新路线——Koi Cafe 的蹲守者（beachsevenkarin1intro/1）
+
+前置门槛为 harukaspring6（巴士站事件）；未达成则旁白直接把玩家赶出咖啡店并标记错过（KarinEvents.rpy:6034-6048）。事件本体：Karin 目击 bus stop 之后认定 Haruka 遭性侵，逐日在 Koi Cafe 蹲守（"As many as it takes until you let me help you."，6115），递出完整自我介绍（游泳部社长、Kirin 之姐、猫叫 Pancake）并自曝 "I, too, have had at least one run-in that left me fearing for me life."（6147）。Haruka 的抵抗是全书最狠的自我作践："I'm not a victim, Karin. I'm the exact opposite of that."（6194）；"Because you only get one shot at being a teenager and you're wasting precious energy and motivation on something that is just going to burn you in the end."（6191）。Karin 的回答只有一句："But {i}I'm{/i} looking at you..."（6220），以及无限续杯式的 "I'll be back again tomorrow."（6237）。事件结算直接开路线："Karin Kanda has unlocked a {b}NEW ROUTE!{/b}"＋新数值 "Her curiosity has increased to 5!"（6270-6271）。背景彩蛋：Koi Cafe 已有自己的 subreddit 同人圈（6096）。
 > 按源行号检索本角色 label，见 `索引/Karin索引.md`。

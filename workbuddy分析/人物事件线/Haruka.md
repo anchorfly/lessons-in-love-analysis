@@ -2,6 +2,10 @@
 
 > 源文件：游戏文本/HarukaEvents.rpy（共 44 个 label）。
 > 定位：Haruka Hamasaki 是本作成人侧的核心配角——Koi Cafe 老板娘、已婚却深陷不伦的孤独成年女性、Rin 的 "work mom"。她的线是全作中"成年角色如何被 Sensei 一步步拖入深渊"的最完整样本，也是元叙事介入最频繁的角色线之一。
+
+### 0.61.0：第七次海滩（主章中的 Haruka）
+
+本版本的 Haruka 由三条支线包围：其一，Rika 的 "Operation: Jim Halpert"——把她与 Sensei 反锁一房的撮合局（WakanaEvents.rpy:5148；轻音部"除 Chika 外全员"是共犯，5177），一夜之后她清晨破防出逃（"RIKA!!!!!! YOU BETTER HOPE TO GOD I DO NOT SEE YOU ON MY WAY OUT OF HERE!"，5668-5669），随后从海滩消失、不回短信（RinEvents.rpy:9883）；Imani 事后被 Rika 定性为 "essentially tricking two drunk people into having sex with each other"（10215），Rika 纠正 "Akira wasn't drunk at all."（10216）。其二，Karin 以"性侵救助"为由在 Koi Cafe 日日蹲守（详见 Karin.md），Haruka 的抵抗核心是 "I'm not a victim, Karin. I'm the exact opposite of that."（KarinEvents.rpy:6194）。其三，Touka 家的餐桌戏里 Touka 之母对 Yasu 牢房之夜的全知（"It happened in a fucking jail cell underground!"——Touka 的惊问，chap4part2.rpy:7353）。
 > 阅读提示：love 线呈现"孤独→友情→自我重建→再度崩塌"的完整弧光；lust 线则是一部加速堕落的编年史，两线在 harukadate30 处汇合为"堕落契约"。文中以 label 名为锚点，可在 HarukaEvents.rpy 中检索核实。
 
 ## 一、角色基本盘

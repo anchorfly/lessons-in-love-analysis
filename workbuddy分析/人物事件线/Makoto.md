@@ -89,4 +89,8 @@ lust 侧共约十余个 label，digest 中多段被截断，按可辨结构归�
 6. **Maki 的觉知走向**：她是"被迫相信"还是"被重置抹除"（Makoto 赌的是后者，11527-11528）——0.60.0 把这个选择留给后续版本；她那句 "the {i}last{/i} time I had to be the only sane person in the room"（11308）暗示她此前经历过类似围剿，是否为跨循环记忆残留未知。
 7. **花瓶的空位**：叙述者宣称口袋里"专门给她（Maki）留着空位"（11565）——花瓶完成后要装什么、给谁看，与「收藏」母题的最终用途一并悬置。
 8. **Big Boi 的记忆门槛**：为何 Ayane 记得、Sensei 不记得（11542-11543）——清洁工层存在的可见性规则悬置。
+
+### 0.61.0：第七次海滩（主章中的 Makoto）
+
+RSA 会议首选议题就是她：母亲知情后的处境被 Yumi 一句话钉死（"your mom knows you're gettin' porked by the teacher and now thinks you're crazy because she's some kinda outlier?"，chap4part2.rpy:5382），Makoto 自评 "It's worse than when my dad died, honestly."（5388）并提议"今晚就计划怎么杀了她"（5391）——被 Ayane 驳回（5396），改成"等下次重置再拉她入伙"的路线（5464）。共浴戏里她以"当实验用小白鼠"参战（"We don't even know if it's possible with the way time works here, so I'll be the test dummy!"，5805）。Dorm Wars 奖励夜一楼组里她与 Miku 的 vagina 之争、以及她对母亲不会复职的判断（6552）延续了 PowerPoint 事件的余波。
 > 按源行号检索本角色 label，见 `索引/Makoto索引.md`。

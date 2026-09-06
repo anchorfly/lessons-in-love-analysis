@@ -254,4 +254,8 @@ Touka 的 lust 内容几乎全部内嵌于 love 事件，未独立成篇，其�
 9. **Touka 的两难**：她宣称传统止于自己，又主动走进"怪物"的逻辑——当家族义务与个人欲望正面冲突时她会选哪边，这是本线留给终局的提问。
 
 ---
+
+### 0.61.0：第七次海滩（beachseventouka1）——决裂与退学
+
+Touka 拒绝与 Yasu 说话已一周；Yasu 的求和全部撞墙（"Can we at least swim in the same water?"——"I am in no mood to {i}swim,{/i} Yasu."，ToukaEvents.rpy:7308-7309）。爆发点后 Touka 的控诉层层升级：核心是教会牢房那一夜——"YOU LOST YOUR VIRGINITY TO A TEACHER IN THE BASEMENT OF A FUCKING CHURCH AFTER LITERALLY {i}BEGGING{/i} FOR IT!"（7427）；她顺带承认了自己的立场 "{i}I{/i} haven't even slept with him yet!"（7436）。追问 Yasu 过去的"photo sessions"时得到全书最不安的服从性回答："But if He asked you to do them now, would you?"——"...I would."（7465-7468）→ "You're just a puppet."（7470）。Yasu 的自我确立宣言与之对撞："I'm not a puppet! I'm not an idiot! I'm just {i}me!{/i} And I can't help it if I'm a little broken when I was born this way!"（7484）。Touka 透露退学意向（"Kumon-mi High isn't going to work out as well for me as my mother had hoped."，7517），Yasu 以预言阻拦："No. No, you can't leave. Not now. The timing is wrong. Bad things will happen if you leave."（7524）；Touka 的回答是自由宣言："My fate is decided by me and me alone."（7527）。事件以 "{i}Touka has dropped out!{/i}"（7555）结算，两人互道错位的祝词收场（7543-7546）。
 > 按源行号检索本角色 label，见 `索引/Touka索引.md`。

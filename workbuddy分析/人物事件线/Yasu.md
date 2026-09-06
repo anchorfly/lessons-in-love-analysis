@@ -172,4 +172,8 @@ Yasu 线的 lust 内容高度仪式化，与其说是情色场景，不如说是
 10. **Angel 的毕业去向**：church5 的天使轮换教义暗示教会与天界之间存在人员流动机制，其运作方式未展开。
 
 11. **「not being censored」之后的文本**：叙述者声明未被审查的那段话，其完整内容与后果被 spring 系收束节点吞没。
+
+### 0.61.0：第七次海滩（beachseventouka1 中的 Yasu 与主章）
+
+与 Touka 的决裂是 Yasu 侧的 0.61.0 主事件（Touka 侧详见其文档）：她被指"向神献出贞操"后完成了一次自我确立——"I'm not a puppet! I'm not an idiot! I'm just {i}me!{/i} And I can't help it if I'm a little broken when I was born this way!"（ToukaEvents.rpy:7484），并以预言拦人（"Bad things will happen if you leave."，7524）。Dorm Wars 奖励夜里她与 Kirin 同组：Kirin 承担了看护角色，Sensei 点破 "you'd make a great {i}older{/i} one when given the opportunity"（chap4part2.rpy:7027）；她的"角色切换"持续恶化——"The gaps between her character swaps are getting longer as the day goes by."（7041），切换瞬间会说出 "I am a traitorous harlot incessantly toeing the jagged gossamer threads of what it means to {i}be.{/i}"（7042）这类句子；血话题再现（"if...it sounds to me like {i}your{/i} blood wants to mix with {i}Sensei's{/i} blood! Hooraaaay blood!"，7064）。beachseven1 的开场默哀即为她与 Uta 而设（5373-5380）。
 > 按源文件检索本角色 label，见 `索引/Yasu索引.md`。

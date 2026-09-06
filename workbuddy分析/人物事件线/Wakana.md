@@ -256,4 +256,10 @@ Rika 断言她与 s 之间有 "some {i}crazy{/i} sexual tension"，Imani 以"我
 9. **Operation: Cathy Simms 是否会被执行**：Rika 临走时说"改变了主意就告诉我"，方案悬置在提议阶段，Wakana 当场拒绝。
 10. **`wakanaspring8` 结尾的床头状态**：两人仍同床、尚未正式分开（她本人说法是"正站在那不可避免的命运边缘，而且这次更严重"），分居是否落地留到 Osako 线。
 
+
+### 0.61.0：第七次海滩（beachsevenwakana1/2）
+
+**wakana1（酒吧夜与锁房）**。Imani 醉倒后 Rika 清醒操盘：她借口拿毛巾把 Sensei 与 Wakana 反锁一屋——"Operation: Jim Halpert is a go after all!"（WakanaEvents.rpy:5148，The Office 第八季梗），Otoha/Sana 望风并证实"轻音部除 Chika 外全员盼着这俩睡一起"（5177）。房内戏是 Wakana 的求偶破裂全交代：向 Osako 求婚被拒、两人"on a break"、Osako 睡沙发（5228-5241）；她的双关请求被旁白钉在墙上："So when I tell you to leave, please just always assume I'm saying 'Don't go.'"（5296）；"Don't leave me alone."（5285）。Byron《She Walks in Beauty》由 Sensei 背出半首被她叫停（5270-5278）。
+
+**wakana2（一夜与清晨大逃亡）**。睡前游戏继续：她给 Sensei 看手相，读出的判词是 "you'll ultimately be the reason this world expires. And that you're the worst man who has ever walked the face of the planet he is about to destroy."（5354）；"You're not scary, Arakawa. And you should stop pretending to be."（5419）。性事段的关键自白："I haven't had an orgasm in over a month since I've been too sad to masturbate."（5530）；"the only person I know who you {i}haven't{/i} slept with yet is fucking...{i}Osako{/i}"（5552）；"I love you, just...just as a friend!"（5554）；"Call me by my real name."——"A...Akiraaa!"（5591-5592）。清晨的静默处理（5636-5643 全部空台词）后是爆发："Oh my god."×N → "RIKA!!!!!! YOU BETTER HOPE TO GOD I DO NOT SEE YOU ON MY WAY OUT OF HERE!"（5654-5669）——与 chika2 的"Miss Watabe 一早离店"和 rin1 的"vanish from the beach"闭环。
 > 按 label 检索本角色全部事件与行号，见 `索引/Wakana索引.md`。

@@ -82,4 +82,8 @@ Nodoka 的 lust 线几乎全部集中在 special15 系列，且方向与其他�
 - **失踪的六天**：nodokaspring3 中她自己只记得最后一天，前六天（totaldays+7 的游戏时间）发生的事无交代。
 - **像素书的完整内容**：只显形了"恐惧 Gardener／答案在脚下"一段（9004-9015），写给"过去或现在的自己"的信还有多少未被读出。
 - **"警告下一个"的下文**：sev 电话里 "she's chasing after her right now"（9317）——"她"追"她"是谁追谁、结果如何（"that's not good at all"，9322），是 0.60.0 留给后续版本的最直接钩子。
+
+### 0.61.0：第七次海滩（主章中的 Nodoka）
+
+首次以 RSA 成员身份参会：为 Uta/Tsuneyo 默哀时确认 Tsuneyo 的意识闪烁（chap4part2.rpy:5380），并问出重置时点情报（"Do you know when this next 'reset' is, exactly?"，5416——Ayane 估计"九个月前是上次"，5417）。散会后她与 Yumi 的单独对话是本版本她的核心场：为更衣室事件做"不像道歉的道歉"，反被 Yumi 逼出存在论问题——"Can machines even {i}feel{/i} in the first place?"，她的回答 "I am trying. That's why I am here."，与 Yumi 的 "Well...maybe that's why I'm here too."（5618-5623）构成两个"非人"角色的互认。Dorm Wars 奖励夜她在二楼：与 Otoha 同组（马尾话题的来源不明的共通——"that sounds eerily familiar to me for some reason"，6949；学琴、与 Otoha 的暧昧拉扯，6954-6975），对"共浴之夜"的失约委屈（6974）。
 > 按源 label 名回源见 `游戏文本/NodokaEvents.rpy`。

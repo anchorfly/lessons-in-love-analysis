@@ -84,4 +84,10 @@
 6. **Uta 的报复计划**："Uta-chan is going to make you pay for this transgression for *years* to come"。
 7. **ChikaRin 关系的最终形态**：告白+绝交的双重宣言后，两人约定"I'll still see you in school!"——这段关系是被搁置还是被引爆，尚无下文。
 8. **梦境体系**：cube、Spacy's Summer Blast、Q 怪物、"Transpacific Sadness Symposium"构成一套未命名的超现实子系统，其与重置层的关系完全未知。
+
+### 0.61.0：第七次海滩（beachsevenchika1/2）
+
+**chika1（与 Yumi 的淋浴和解）**。Chika 特意挑日落前的空档洗澡躲人，撞上同样躲人的 Yumi；两人把"绝交期"摊开重算——Yumi 点破当年是 Chika 先抛弃她（"did you somehow manage to forget who cast who aside in the middle of your year-long psychotic break?"，ChikaEvents.rpy:11416），并确认 Yuki 临终近况：Tsubasa 出钱治疗、"got Yuki on a fuckin' leash"（11440），Yumi 仍拒绝叫她"Mom"（11442）。Chika 披露自己的母亲仪式："My mom and I {i}always{/i} bathed together before she died...It's how we connected. Like a good luck ritual to start every day."（11525）。被问"选谁"时她答 "I chose Sensei."（11590），理由包装成为 Rin 好（"I don't want to be confusing her when she's still trying to figure out who {i}she{/i} is"，11594）。全段的狗/收容所比喻是她对后宫结构的总结算："He can get all their hopes and up...make them envision a perfect little home...And all it takes is a few minutes of patting our heads and giving us little treats."（11623-11624），并预言 Yumi 的今天："I'm glad you get to go for a walk now. That you're getting the chance I got. That everyone got."（11633）。
+
+**chika2（对 Rin 的告白）**。Chika 主动来跟 Sensei 摊牌"我们还算不算情侣"，随后交代全案：几个月前 Rin 被母亲撞破给 Sensei 发性短信，Chika 去安慰她——"I pushed her down on the bed. I took her panties off. And then I ate her out."（11924）；动机是让 Rin 回头、停止追 Sensei，结果两头落空。她的处境自白把年龄问题说穿："I'm in {i}high school.{/i} Look at what you've done to me...What if I want to be normal? Just for a little bit?"（11848-11852）。残忍的顶点是被问"何时爱上她的"："That's the cruelest part of all... It was the second she realized she loves {i}you.{/i}"（11967-11972）。她要求 Sensei 如约去赴 Rin 的约并把 Rin "treasure" 好（11989-11991）；事件以双向的死愿收尾——s "If you loved me any more, I imagine we'd both be dead by now."，c "Maybe we {i}should{/i} be..."（12015-12018）。另：本事件证实 Sensei 房间里 Imani 与 Wakana 都留了痕迹（"The smallest pile is mine. I'm not sure how Imani and Wakana are doing, though."，11799），Miss Watabe 一早离店（11800-11801）。
 > 按源行号检索本角色 label，见 `索引/Chika索引.md`。

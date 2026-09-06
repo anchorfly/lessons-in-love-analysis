@@ -254,4 +254,8 @@ Maya 线没有以 lust 命名的独立 label；欲望内容全部内嵌于 love 
 - "the one you used to play with in the dark"（9852）：道具史指向一个"黑暗中玩的 Maya"——是上一轮循环的她、某个夜间形态，还是 Ami 式的"附着之物"，无从判断。
 - 记忆分歧的裁决者：mayaspring5 中 Maya 与 Ayane 对"Ami 在旧友谊里的位置"各执一词（10406-10407）——两份记忆必有一份被改写；谁的版本是原版，与 MM 字条同属"被编辑的过去"档案。
 
+
+### 0.61.0：第七次海滩（主章中的 Maya）
+
+RSA 会议上她以"真 Maya"发言被 Ayane 当场拆穿（chap4part2.rpy:5425-5431），共享记忆的矛头也指向她（5468）。共浴戏里她与 Ayane 结成三人行同盟——一反神社那天的拒绝："I'm not opposed at all. I knew this would happen eventually."（5826），并被告知旧 Maya "跟我们都三人行过"（5840）。Dorm Wars 奖励夜她被换到 Ami 一侧：周四随 Ami 离开后失踪（6680），Sensei 在卧室见到的只有一只西瓜——"This isn't a melon. This is Maya."（6709）；Ami 的全部解释都是圆场，"I got lonely and missed my best friend...How very moe of me."（6745）。beachseven5 里 pareidolia 的贺词把她钉进流浪猫链："congrats on finally landing a version of the stray cat who doesn't pop the second your cock slams into her cervix."（7296）——"不会 pop 的一版"即当前 Maya。温泉收场时她担任守卫（7698）。
 > 本角色 label 的检索索引，见 `索引/Maya索引.md`。

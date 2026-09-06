@@ -85,4 +85,8 @@ Ayane 的 lust 内容在叙事功能上可分为三类：
 6. **Ayane 是否保留重置记忆**：她经历了 ayanespecial2 送回起点与多次时间异常，但从未明确表现「记得」。她的沉默究竟是天性还是残留记忆，是全线最大的性格谜题。
 7. **Shi 已知的结局**：Shi 两次表示知道结局——"I already know how this ends."（14545）与对 "Do you know how my story ends?" 的回避（14552-14561）；Ayane 最终选择不听（"No."）。这个被她主动放弃的答案是 Ayane 线最重的悬置信息。
 
+
+### 0.61.0：第七次海滩（主章中的 Ayane）
+
+RSA 海滩会议由她主持：默哀、议程、"警惕 Ami"决议的提出者（chap4part2.rpy:5478-5498），并与 Sensei 共享"重置后带着记忆醒来"的异常（5467）。共浴戏中她打出 "breedability" 排序（5792）并与 Maya 结盟（5825-5835）。Dorm Wars 奖励夜她坐镇一楼，终场 Ami&Maya 由她开门报信（6752）。beachseven5 的温泉戏给她两个落点：守护天使之梦——"I met my guardian angel! And she promised me we'd end up together."（7669，与 ayanespring3 的 guardian angel 说法接续）；以及 Sensei 的最终选择落在她身上（7690-7694，Sana 感叹 "She's the most developed out of all of us..."，7693）。她对 "Akira" 直呼其名的升级也在这场戏里被 Sana 点出（7657-7658）。
 > 按 label 检索本角色事件内容，参见 `索引/Ayane索引.md`。

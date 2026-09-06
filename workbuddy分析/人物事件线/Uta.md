@@ -71,4 +71,8 @@ Uta 线的情色段落高度服务于创伤叙事。[TRIMMED] 内容可抽象为
 - **xoanon 与 BEEF 宇宙论**的确切所指。
 - **照片的来源与增殖机制**：删除即复活（utaspring9:8661），寄件者与投放方式成谜；Io 的先知式知情（8760）说明有人比受害者更早知道泄露即将发生。
 - **Uta 的自我暴露史**：她自己承认拍照发送时的快乐（8785-8786）——受害与自愿在她的案例里无法切割；"shape, size, or age" 的表述与 utadorm40p1 的童年照片链如何互证，悬置。
+
+### 0.61.0：第七次海滩（主章中的 Uta）
+
+泄露的余波贯穿 beachseven 主章：beachseven1 为她与 Tsuneyo 默哀开场（chap4part2.rpy:5373）；Dorm Wars 奖励夜的二楼终场完全属于她——Io 独占病房式管理（空调冷气、熄灯、隔离），并转述校内措施（全班禁机、Imani 推动心理咨询，7086-7088）。Uta 的过滤器失守后把话说尽："Do you still like me even though I'm a whore?"（7134）；"I'd still be taking pictures like that today if nothing ever came of it. I still like it when people look at me. But it's depressing. Because it's only ever {i}just{/i} looking."（7201-7204）；"One thousand pictures just to hold your hand. A thousand more to kiss your cheek. How many would I need to take for you to consume me? Just buy me a camera and I will take them all."（7225-7227）；自我定价收尾："This fruit was ripe before I ever met you. It is practically inedible now."（7236-7237）。beachseven5 的公交戏是 Io 与 Uta 的相互定音：Io "Because I love you. That's why."（7429）；Uta 抛出 "I used to masturbate to you when I thought you were a boy online."（7422），Io 交出对等的秘密（7431）；"We're so gay for each other."（7439）。
 > 按源行号检索本角色 label，见 `索引/Uta索引.md`。
