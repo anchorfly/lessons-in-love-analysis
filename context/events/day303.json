@@ -1,0 +1,990 @@
+{
+ "label": "day303",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": ": Umm...Good morning, Ayane.",
+   "zh": ""
+  },
+  {
+   "en": ": Would it be a bother if I sat here for today?",
+   "zh": ""
+  },
+  {
+   "en": ": I was originally going to sit in the back of the classroom to make sure I was not in anyone’s way, but...there is a girl who looks rather...frightening back there.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, that’s just Yumi.",
+   "zh": ""
+  },
+  {
+   "en": ": She's not really scary, but she’ll probably make fun of you for being rich or something. Either way, you can sit here.",
+   "zh": ""
+  },
+  {
+   "en": ": I see...I had no idea that simply being wealthy could actually prove disadvantageous in certain cases.",
+   "zh": ""
+  },
+  {
+   "en": ": But I suppose I can just bring my bodyguard to[school] from now on to avoid any confrontations with her.",
+   "zh": ""
+  },
+  {
+   "en": ": You...probably don’t have to go that far, you know. It’s not like she’s going to attack you or anything.",
+   "zh": ""
+  },
+  {
+   "en": ": Besides, wouldn’t you be able to hold your own anyway? I thought you started training in karate and stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh...Yes, I suppose we never resolved that matter concerning your training facility.",
+   "zh": ""
+  },
+  {
+   "en": ": Well...yeah. All this time, I kind of just figured it was a done deal. There’s no way my family can outspend yours when it really comes down to it.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, you need not concern yourself with that anymore.",
+   "zh": ""
+  },
+  {
+   "en": ": What do you mean?",
+   "zh": ""
+  },
+  {
+   "en": ": You're not saying what I think you're saying, are you?",
+   "zh": ""
+  },
+  {
+   "en": ": To...further clarify, I was able to convince my father that I was no longer interested in karate.",
+   "zh": ""
+  },
+  {
+   "en": ": I've decided to learn something else instead.",
+   "zh": ""
+  },
+  {
+   "en": ": But...why? You had to be pretty interested if things got to the point where you were literally about to hire a personal instructor and buy out a dojo.",
+   "zh": ""
+  },
+  {
+   "en": ": Change of heart, I suppose?...",
+   "zh": ""
+  },
+  {
+   "en": ": I didn’t realize how important that place was to you when I first arrived.",
+   "zh": ""
+  },
+  {
+   "en": ": It took a lot of convincing to have my father slow down the process, but...I do hope that you’ll be able to continue having fun there...as we will no longer be needing it.",
+   "zh": ""
+  },
+  {
+   "en": ": You...really did all that for me?",
+   "zh": ""
+  },
+  {
+   "en": ": There’s no need to make a fuss over it.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sure it’s plenty apparent that I have a hard time picking up on certain things due to my upbringing, but I really do not want to be on poor terms with anyone. Especially you.",
+   "zh": ""
+  },
+  {
+   "en": ": So if choosing a different martial art is what I must do, then I will be sure to do it.",
+   "zh": ""
+  },
+  {
+   "en": ": But, for now, I will continue to rely on a bodyguard to protect me from this “Yumi” character who appears to have a problem with girls that dress nicely and buy expensive things.",
+   "zh": ""
+  },
+  {
+   "en": ": That was really nice of you, Touka...",
+   "zh": ""
+  },
+  {
+   "en": ": As I said, please don’t make a fuss over it.",
+   "zh": ""
+  },
+  {
+   "en": ": If there is anyone in this[school] who I would benefit from creating a deep connection with, it is you.",
+   "zh": ""
+  },
+  {
+   "en": ": How unfortunate that our families must compete in the same market. A true Montagues and Capulets situation.",
+   "zh": ""
+  },
+  {
+   "en": ": Come to think of it, I’m not really sure what your family does.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re really in the same market as mine? Because that’s like...a really weird market.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, yes. It’s an incredibly strange market.",
+   "zh": ""
+  },
+  {
+   "en": ": And while we’ve since expanded to many other markets like hospitality and food service, the one you find yourself in is where our initial fortune comes from.",
+   "zh": ""
+  },
+  {
+   "en": ": You see, my grandfather is the original creator of bubble wrap. The poppable kind.",
+   "zh": ""
+  },
+  {
+   "en": ": Woah! Who would have thought Kumon-mi was home to both the family who created bubble wrap and the family who found fortune through innovating it?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m more surprised at just how profitable such a strange venture was for the two of our families.",
+   "zh": ""
+  },
+  {
+   "en": ": But, I suppose it’s best if we choose not to question our wealth and instead attempt to carry on our respective legacies.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh...",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, I don’t think I’m really going to be involved in my family’s “legacy” after I get out of [high_school].",
+   "zh": ""
+  },
+  {
+   "en": ": Oh dear. Have your product sales been falling?",
+   "zh": ""
+  },
+  {
+   "en": ": Have consumers figured out how to pop your bubbles?",
+   "zh": ""
+  },
+  {
+   "en": ": It’s not that. I just don’t really want to follow in my dad’s footsteps.",
+   "zh": ""
+  },
+  {
+   "en": ": Money kind of turned him into a different person.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, is there something else you’d be interested in pursuing instead?",
+   "zh": ""
+  },
+  {
+   "en": ": As I mentioned, the Tsukiokas have their hands in many different aspects of many different markets, and I would gladly put in a good word for you in any of them as I can already tell how kind you are.",
+   "zh": ""
+  },
+  {
+   "en": ": Thanks, Touka. But I don’t really think something like that is what I want out of life.",
+   "zh": ""
+  },
+  {
+   "en": ": You don’t...want to succeed financially? Please explain your rationale as I’m quite unfamiliar with this peculiar thought process.",
+   "zh": ""
+  },
+  {
+   "en": ": I think I’d just be happier if I settled down and...got to live as a housewife or something.",
+   "zh": ""
+  },
+  {
+   "en": ": You know. Raising kids...making breakfast for Sensei every morning.",
+   "zh": ""
+  },
+  {
+   "en": ": For...who?",
+   "zh": ""
+  },
+  {
+   "en": ": I think I may have misheard you.",
+   "zh": ""
+  },
+  {
+   "en": ": For Sensei. Our teacher.",
+   "zh": ""
+  },
+  {
+   "en": ": Didn't I say he was my future husband the first time you and I met?",
+   "zh": ""
+  },
+  {
+   "en": ": Yes, but...after thinking more about it, I just figured you were joking.",
+   "zh": ""
+  },
+  {
+   "en": ": Nope. I’m in love with him and stuff and want to spend the rest of my life by his side.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s really the only way I’ll ever be happy.",
+   "zh": ""
+  },
+  {
+   "en": ": But...he’s in a completely different class!",
+   "zh": ""
+  },
+  {
+   "en": ": What are you talking about? He’s literally right there.",
+   "zh": ""
+  },
+  {
+   "en": ": Social class! You’d be giving up everything!",
+   "zh": ""
+  },
+  {
+   "en": ": I had no idea it was even legal for people of our level to engage in relationships with those so far outside of it!",
+   "zh": ""
+  },
+  {
+   "en": ": Also, why him? If you are going to wed a commoner, at least wed one that is halfway decent as a human being!",
+   "zh": ""
+  },
+  {
+   "en": ": It doesn’t matter to me that I’d be “giving up everything” since I’d still be keeping the one thing in the world that brings me more happiness than any packaging wrap ever could.",
+   "zh": ""
+  },
+  {
+   "en": ": So...does this mean...the two of you are...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Are what?",
+   "zh": ""
+  },
+  {
+   "en": ": I can’t say it out loud! It would be completely shameful!",
+   "zh": ""
+  },
+  {
+   "en": ": But if you can’t say it out loud, how am I supposed to know what you’re talking about?",
+   "zh": ""
+  },
+  {
+   "en": ": Do they not teach you context clues in this-",
+   "zh": ""
+  },
+  {
+   "en": ": Oh. Right.",
+   "zh": ""
+  },
+  {
+   "en": ": They don’t teach you anything at all here.",
+   "zh": ""
+  },
+  {
+   "en": ": Wow...",
+   "zh": ""
+  },
+  {
+   "en": ": So many desks...",
+   "zh": ""
+  },
+  {
+   "en": ": So many girls...",
+   "zh": ""
+  },
+  {
+   "en": ": So many voices...",
+   "zh": ""
+  },
+  {
+   "en": ": Who is that character? She seems quite...odd.",
+   "zh": ""
+  },
+  {
+   "en": ": No idea. I’ve never seen her before.",
+   "zh": ""
+  },
+  {
+   "en": ": Maybe that’s your new roommate?",
+   "zh": ""
+  },
+  {
+   "en": ": What? No...",
+   "zh": ""
+  },
+  {
+   "en": ": No, she’s likely just...lost!",
+   "zh": ""
+  },
+  {
+   "en": ": Lost?",
+   "zh": ""
+  },
+  {
+   "en": ": I am many things...but lost is not one of them.",
+   "zh": ""
+  },
+  {
+   "en": ": Perhaps it is you that is lost?",
+   "zh": ""
+  },
+  {
+   "en": ": Would you like to find out where to go?",
+   "zh": ""
+  },
+  {
+   "en": ": I can show you the way.",
+   "zh": ""
+  },
+  {
+   "en": ": Are...missionaries even allowed in this[school]?",
+   "zh": ""
+  },
+  {
+   "en": ": Like, not even the good kind of missionary either, if you know what I’m talking about.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Sana?",
+   "zh": ""
+  },
+  {
+   "en": ": I know that you’re innocent and stuff, but that was a really good-",
+   "zh": ""
+  },
+  {
+   "en": ": Woah. Hold up. What’s wrong?",
+   "zh": ""
+  },
+  {
+   "en": ": Is everything okay?",
+   "zh": ""
+  },
+  {
+   "en": ": I...",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve...seen her before...",
+   "zh": ""
+  },
+  {
+   "en": ": Where? Like...a church or...something?",
+   "zh": ""
+  },
+  {
+   "en": ": I...",
+   "zh": ""
+  },
+  {
+   "en": ": She...",
+   "zh": ""
+  },
+  {
+   "en": ": Just...around...",
+   "zh": ""
+  },
+  {
+   "en": "I make my way over to the strange girl and quickly come to terms with exactly who she is.",
+   "zh": ""
+  },
+  {
+   "en": "And likely why no one wanted to talk to Makoto or me about her.",
+   "zh": ""
+  },
+  {
+   "en": ": ...Yasu Yasui?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Silly me. It appears I did have a name after all.",
+   "zh": ""
+  },
+  {
+   "en": ": Am I going to be punished for lying?",
+   "zh": ""
+  },
+  {
+   "en": ": Do you think I am a sinner?",
+   "zh": ""
+  },
+  {
+   "en": ": Do you like sinners?",
+   "zh": ""
+  },
+  {
+   "en": ": How will you punish me, Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": See, Makoto? This is exactly why I didn’t know much about her. She’s straight up crazy.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re not really one to be calling people crazy, Noriko.",
+   "zh": ""
+  },
+  {
+   "en": ": Ahem! Silence, everyone.",
+   "zh": ""
+  },
+  {
+   "en": ": She may seem strange at first, but I’m sure she is perfectly normal.",
+   "zh": ""
+  },
+  {
+   "en": ": Please let her introduce herself to everyone before passing judgement.",
+   "zh": ""
+  },
+  {
+   "en": ": Really? Askin’ to be fuckin’ punished within thirty seconds of showin’ up ain’t exactly normal, four-eyes.",
+   "zh": ""
+  },
+  {
+   "en": ": Yumi, if you’re going to act out, just leave.",
+   "zh": ""
+  },
+  {
+   "en": ": Fuck that. I wanna see how this plays out.",
+   "zh": ""
+  },
+  {
+   "en": ": Ahh, so that one is Yumi. What a surprise.",
+   "zh": ""
+  },
+  {
+   "en": ": If only Futaba were here today so I could show off.",
+   "zh": ""
+  },
+  {
+   "en": ": Honestly, she’s kind of lucky she’s not. This girl’s givin’ me fucking chills.",
+   "zh": ""
+  },
+  {
+   "en": ": So. Many. Voices.",
+   "zh": ""
+  },
+  {
+   "en": ": Can I have them?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sorry, what?",
+   "zh": ""
+  },
+  {
+   "en": ": How much can you see in the dark, Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t understand-",
+   "zh": ""
+  },
+  {
+   "en": ": How much can you see in the dark?",
+   "zh": ""
+  },
+  {
+   "en": ": I really hope this is part of your introduction and not just how you’re going to be from now on.",
+   "zh": ""
+  },
+  {
+   "en": ": I can see everything there is to see in the dark.",
+   "zh": ""
+  },
+  {
+   "en": ": I have nightvision.",
+   "zh": ""
+  },
+  {
+   "en": ": And I come to you, in all of my glory, in all of my PAIN-",
+   "zh": ""
+  },
+  {
+   "en": ": To guide these girls to salvation!",
+   "zh": ""
+  },
+  {
+   "en": ": TO GUIDE THEM TOWARD THE TRUTH!",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Maya, want to weigh in on this?",
+   "zh": ""
+  },
+  {
+   "en": ": ...Wait, are you talking to me?",
+   "zh": ""
+  },
+  {
+   "en": ": Your name is Maya, isn't it?",
+   "zh": ""
+  },
+  {
+   "en": ": Yes, but what would I possibly have to do with this crazy person?",
+   "zh": ""
+  },
+  {
+   "en": ": I just assumed that since you’re the religious one, you’d have some sort of input on-",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, no. Don’t go calling me “the religious one” when I have made it incredibly apparent that I am only acting that way out of instinct and habit.",
+   "zh": ""
+  },
+  {
+   "en": ": I am not touching this girl with a ten foot pole.",
+   "zh": ""
+  },
+  {
+   "en": ": Touch me.",
+   "zh": ""
+  },
+  {
+   "en": ": Reach out and touch me.",
+   "zh": ""
+  },
+  {
+   "en": ": Reach toward the light and bathe in my flesh. My blood. For I shall carry you to the ends of the earth.",
+   "zh": ""
+  },
+  {
+   "en": ": Or, alternatively, you can sit down and just...stop with all of this weird gospel stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": Turn off the lights. Something wonderful is about to happen.",
+   "zh": ""
+  },
+  {
+   "en": ": The lights are staying-",
+   "zh": ""
+  },
+  {
+   "en": ": How many bodies are in this room?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sorry?",
+   "zh": ""
+  },
+  {
+   "en": ": How many bodies? How many bodies? How many bodies? How many bodies? How many bodies? How many bodies? How many bodies?",
+   "zh": ""
+  },
+  {
+   "en": ": Even if you count, you will be wrong.",
+   "zh": ""
+  },
+  {
+   "en": ": I see things you can not see. Hear things you can not hear. Why do you look away?",
+   "zh": ""
+  },
+  {
+   "en": ": I am looking directly at you.",
+   "zh": ""
+  },
+  {
+   "en": ": Are you, though?",
+   "zh": ""
+  },
+  {
+   "en": ": ...Yes?",
+   "zh": ""
+  },
+  {
+   "en": ": I am Yasu Yasui! Messenger of the one so commonly mislabeled!",
+   "zh": ""
+  },
+  {
+   "en": ": The one so commonly overlooked! With compassion mistaken for callousness!",
+   "zh": ""
+  },
+  {
+   "en": ": Yes! Another one of my people! Finally!",
+   "zh": ""
+  },
+  {
+   "en": ": She appears to be less approachable than you, Emerald Guard-",
+   "zh": ""
+  },
+  {
+   "en": ": Shh! I want to hear her speech!",
+   "zh": ""
+  },
+  {
+   "en": ": Years and years and years and years and years ago, there was a light.",
+   "zh": ""
+  },
+  {
+   "en": ": That light gave birth to all things.",
+   "zh": ""
+  },
+  {
+   "en": ": You, me, the ground, the sky, the animals, the air, the water-",
+   "zh": ""
+  },
+  {
+   "en": ": It all comes from the light.",
+   "zh": ""
+  },
+  {
+   "en": ": And it comes in a form safer than the sun. A form that you can stare into for prolonged periods of time and not return blind-",
+   "zh": ""
+  },
+  {
+   "en": ": But return with vision unparalleled. Unmatched.",
+   "zh": ""
+  },
+  {
+   "en": ": You return with the ability to see everything!",
+   "zh": ""
+  },
+  {
+   "en": ": How many of you will believe, knowing all of these things are possible?!",
+   "zh": ""
+  },
+  {
+   "en": ": How many of you will come with me?!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ": None of you?",
+   "zh": ""
+  },
+  {
+   "en": ": How very sad.",
+   "zh": ""
+  },
+  {
+   "en": ": I offer you a chance to see everything...and yet you sit behind those strange wooden blocks, finicking with loose strings on your uniforms and turning away from a messenger of God.",
+   "zh": ""
+  },
+  {
+   "en": ": I wonder how many of you can truly be saved.",
+   "zh": ""
+  },
+  {
+   "en": ": I WONDER HOW MANY OF YOU CAN TRULY BE SAVED!",
+   "zh": ""
+  },
+  {
+   "en": ": Hello, everyone. My name is Yasu Yasui, and I will be a student in this class starting today.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m rather shy when it comes to meeting new people, so I hope you will all be gentle with me.",
+   "zh": ""
+  },
+  {
+   "en": ": My hobbies include reading and seeing how long I can hold my breath underwater until the world starts to go fuzzy.",
+   "zh": ""
+  },
+  {
+   "en": ": The longest I have lasted is three whole minutes.",
+   "zh": ""
+  },
+  {
+   "en": ": I have never [masturbate]d before and love the sound of cicadas more than anything else I’ve ever heard.",
+   "zh": ""
+  },
+  {
+   "en": ": Woah, wait. What? Who just drops that kind of info into an introduction?",
+   "zh": ""
+  },
+  {
+   "en": ": A crazy person, Kirin.",
+   "zh": ""
+  },
+  {
+   "en": ": But hey, on the bright side, my intro is no longer the weirdest!",
+   "zh": ""
+  },
+  {
+   "en": ": Thanks, creepy ghost girl!",
+   "zh": ""
+  },
+  {
+   "en": "Yasu makes her way over to Touka’s desk and gently places her hands on it, lowering both her body and the volume of her voice as if to say “I’m harmless.”",
+   "zh": ""
+  },
+  {
+   "en": "It’s almost like she’s attempting to confirm what she told me the other night about how she has no reason to hurt anyone.",
+   "zh": ""
+  },
+  {
+   "en": "But judging by Sana, who’s still holding her tears back in the corner of the room despite not even being acknowledged by Yasu, this clearly isn’t true.",
+   "zh": ""
+  },
+  {
+   "en": "There are more ways to hurt people than just damaging their outer shells.",
+   "zh": ""
+  },
+  {
+   "en": "Sometimes, the most painful experiences are the ones that start from within, rupturing our organs or, in many cases, the wires we use to transfer our thoughts.",
+   "zh": ""
+  },
+  {
+   "en": "Once those wires fray, our thoughts run rampant and infect everything else both inside of and around us.",
+   "zh": ""
+  },
+  {
+   "en": "I watch as my two newest students infect each other.",
+   "zh": ""
+  },
+  {
+   "en": ": Excuse me...You are Touka Tsukioka, correct?",
+   "zh": ""
+  },
+  {
+   "en": ": Um...",
+   "zh": ""
+  },
+  {
+   "en": ": No. That’s somebody else. Goodbye.",
+   "zh": ""
+  },
+  {
+   "en": ": So much for your name being important to you.",
+   "zh": ""
+  },
+  {
+   "en": ": Silence! Can’t you see that my life is in danger right now?! Call my mother immediately!",
+   "zh": ""
+  },
+  {
+   "en": ": You’re in no danger at all. I’m so frail and pitiful that a girl like you would be able to snap me like a twig if she so wanted.",
+   "zh": ""
+  },
+  {
+   "en": ": Please don’t hurt me, Touka. I beg for your forgiveness.",
+   "zh": ""
+  },
+  {
+   "en": ": I...um...okay?",
+   "zh": ""
+  },
+  {
+   "en": ": Will...will that be all?",
+   "zh": ""
+  },
+  {
+   "en": ": Of course. I won’t disturb you any more than I already have.",
+   "zh": ""
+  },
+  {
+   "en": ": My introduction seemed to veer a bit off the tracks. But, you see, that’s not my fault.",
+   "zh": ""
+  },
+  {
+   "en": ": I hear things sometimes. I hear things that make me do things.",
+   "zh": ""
+  },
+  {
+   "en": ": But I will never do anything to you. I promise.",
+   "zh": ""
+  },
+  {
+   "en": ": Thank...you?...",
+   "zh": ""
+  },
+  {
+   "en": ": You’re welcome.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh...And I’ll also be moving into your dorm room after class today.",
+   "zh": ""
+  },
+  {
+   "en": ": But I won’t take long. I don’t have very many things.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re...moving into...my room?",
+   "zh": ""
+  },
+  {
+   "en": ": Are you sure you don’t want to trade with anyone else?",
+   "zh": ""
+  },
+  {
+   "en": ": Would anyone else like to live with me?",
+   "zh": ""
+  },
+  {
+   "en": ": I promise to not be any sort of hindrance to your daily lives.",
+   "zh": ""
+  },
+  {
+   "en": ": D-Don’t all jump at once! I understand how exciting this opportunity must be and-",
+   "zh": ""
+  },
+  {
+   "en": ": It doesn’t appear that anyone else wants to live with me...",
+   "zh": ""
+  },
+  {
+   "en": ": Please, Touka?...Will you be my friend?",
+   "zh": ""
+  },
+  {
+   "en": ": I promise I’ll be a good girl...",
+   "zh": ""
+  },
+  {
+   "en": ": I...",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t you...have anywhere else to stay?",
+   "zh": ""
+  },
+  {
+   "en": ": We can’t all be as rich and precious as you, Touka.",
+   "zh": ""
+  },
+  {
+   "en": ": For me, the only choices are the dorm room, a dark alley somewhere cold, or the sanctuary.",
+   "zh": ""
+  },
+  {
+   "en": ": I have a weak constitution, so the alley will likely kill me. And sleeping too often in the sanctuary will kill me even faster.",
+   "zh": ""
+  },
+  {
+   "en": ": I...see...",
+   "zh": ""
+  },
+  {
+   "en": ": Well...I would certainly not want you to get hurt, but...",
+   "zh": ""
+  },
+  {
+   "en": ": I...I am also not very exciting to be around and...we appear to be extremely different.",
+   "zh": ""
+  },
+  {
+   "en": ": Back to the alley it is, then...",
+   "zh": ""
+  },
+  {
+   "en": ": I’m very sorry for bothering you...",
+   "zh": ""
+  },
+  {
+   "en": ": Wait! No! It’s...",
+   "zh": ""
+  },
+  {
+   "en": ": Fine! You can stay in my room with me!",
+   "zh": ""
+  },
+  {
+   "en": ": But...only until you find somewhere else!",
+   "zh": ""
+  },
+  {
+   "en": ": A slumber party! I’m so excited!",
+   "zh": ""
+  },
+  {
+   "en": ": We’ll be like normal girls for once in our lives.",
+   "zh": ""
+  },
+  {
+   "en": ": Um...I...",
+   "zh": ""
+  },
+  {
+   "en": ": Okay...",
+   "zh": ""
+  },
+  {
+   "en": "Yasu doesn’t sit down following the conversation with Touka.",
+   "zh": ""
+  },
+  {
+   "en": "She proceeds to stand in the corner of the room for five minutes, though. So that’s a thing that happens.",
+   "zh": ""
+  },
+  {
+   "en": "After that, she exits the classroom without saying another word.",
+   "zh": ""
+  },
+  {
+   "en": "It takes Sana a full hour to calm down. And, even after she does, it’s clear that she remains at least mildly on edge until the end of the[school] day.",
+   "zh": ""
+  },
+  {
+   "en": "The bell rings and everyone goes back to living their lives the way they normally would.",
+   "zh": ""
+  },
+  {
+   "en": "Well, everyone except Touka- who now not only has to figure out a way to survive amidst a flurry of commoners, but deal with a girl who the rest of us have no idea how to approach.",
+   "zh": ""
+  },
+  {
+   "en": "I wish her the best.",
+   "zh": ""
+  },
+  {
+   "en": "Yasu’s affection has increased to [yasu_love]!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

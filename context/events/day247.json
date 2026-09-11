@@ -1,0 +1,922 @@
+{
+ "label": "day247",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": "I wound up getting a call from Makoto sometime last night about how Io was approved for switching classes today-",
+   "zh": ""
+  },
+  {
+   "en": "And, as such, I’m meeting up with her in the hall beforehand to give her the crash course on my, uhh, teaching methods.",
+   "zh": ""
+  },
+  {
+   "en": ": So, you’re telling me that all I’m going to have to do every day is just...show up?",
+   "zh": ""
+  },
+  {
+   "en": ": Pretty much.",
+   "zh": ""
+  },
+  {
+   "en": ": I think my original plan was more along the lines of “Show up and don’t be an asshole,” but we have one girl who wouldn’t even be allowed to come any more if that were the case.",
+   "zh": ""
+  },
+  {
+   "en": ": Can’t you just kick her out if you don’t want her?",
+   "zh": ""
+  },
+  {
+   "en": ": Maybe?",
+   "zh": ""
+  },
+  {
+   "en": ": She’s been getting better, though. Which I’m mildly surprised about since I haven’t done anything to really change her as of yet.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s good, I guess.",
+   "zh": ""
+  },
+  {
+   "en": ": I probably wasn’t ever going to talk to her anyway, but I feel a little safer now knowing you’ve already begun her rehabilitation process.",
+   "zh": ""
+  },
+  {
+   "en": ": Still sticking to your plan of just breezing by as a loner?",
+   "zh": ""
+  },
+  {
+   "en": ": Kinda just gonna play the field, if you know what I mean.",
+   "zh": ""
+  },
+  {
+   "en": ": Feel things out. See who’s worth my time and who’s just another face in the hall.",
+   "zh": ""
+  },
+  {
+   "en": ": I can relate to that.",
+   "zh": ""
+  },
+  {
+   "en": "Or at least I feel like I could have related to that at some point.",
+   "zh": ""
+  },
+  {
+   "en": "My life’s become a vast departure from what I imagined it would be.",
+   "zh": ""
+  },
+  {
+   "en": "I’ve gotten to know so many people over the last few seasons and, honestly?",
+   "zh": ""
+  },
+  {
+   "en": "I feel like I can even say I’ve enjoyed many parts of it.",
+   "zh": ""
+  },
+  {
+   "en": "Particularly the parts where I get to have sex, but other parts have been good too.",
+   "zh": ""
+  },
+  {
+   "en": ": So, ready to do this?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m fine with just hanging out in the hall instead.",
+   "zh": ""
+  },
+  {
+   "en": ": In fact, want to ditch class and go get breakfast or something? I’ll treat you.",
+   "zh": ""
+  },
+  {
+   "en": ": Getting cold feet, Io?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Something like that.",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei, do you remember all that stuff I was saying about how I would try not to be “too me” when I joined the class?",
+   "zh": ""
+  },
+  {
+   "en": ": I do remember you saying something along those lines, yes.",
+   "zh": ""
+  },
+  {
+   "en": ": Good.",
+   "zh": ""
+  },
+  {
+   "en": ": Now, what if I told you the reason I said that was that the real “me” isn’t fun or exciting to be around?",
+   "zh": ""
+  },
+  {
+   "en": ": I’d say that there are plenty of people just like that.",
+   "zh": ""
+  },
+  {
+   "en": ": You think so?",
+   "zh": ""
+  },
+  {
+   "en": ": Of course. I’m not particularly fun or exciting either and people keep gravitating toward me.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re an attractive guy in a[school] full of hormonal [teenager]s. Of course that’s going to happen.",
+   "zh": ""
+  },
+  {
+   "en": ": So, what? You’re worried everyone will think you’re boring?",
+   "zh": ""
+  },
+  {
+   "en": ": Not boring. Inherently unlikable and unwilling to change.",
+   "zh": ""
+  },
+  {
+   "en": ": Kind of like the one asshole girl you were talking about before.",
+   "zh": ""
+  },
+  {
+   "en": ": If I come across as anything less than what you want me to be, will you try to change me as well?",
+   "zh": ""
+  },
+  {
+   "en": ": That depends.",
+   "zh": ""
+  },
+  {
+   "en": ": On?",
+   "zh": ""
+  },
+  {
+   "en": ": Whether you want to change or not.",
+   "zh": ""
+  },
+  {
+   "en": ": Do you want me to change?",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t even know you yet. We’ve had three conversations so far and they’ve all been completely different from one another.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s not too late to back out, you know. I read the transfer thing and it doesn’t formally go through until the end of the[school] day.",
+   "zh": ""
+  },
+  {
+   "en": ": If you want to throw me out, you have every right to do that.",
+   "zh": ""
+  },
+  {
+   "en": ": And I won’t blame you if you do.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m trash. This[school] is trash. Everything is trash.",
+   "zh": ""
+  },
+  {
+   "en": ": Heheh~ Here I go again.",
+   "zh": ""
+  },
+  {
+   "en": ": You should have taken me up on that breakfast thing when I offered it.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Uhh.",
+   "zh": ""
+  },
+  {
+   "en": ": Are you okay?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m going to try to go in there and put on a smile.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m gonna try to introduce myself to all of those girls-",
+   "zh": ""
+  },
+  {
+   "en": ": But I want you to know that I might just wind up walking out halfway through.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s where our new relationship comes in handy, then.",
+   "zh": ""
+  },
+  {
+   "en": ": Most teachers wouldn’t allow something like that. But you’re free to walk out whenever you want in my class.",
+   "zh": ""
+  },
+  {
+   "en": ": And you're not even gonna let me finish building the wall...",
+   "zh": ""
+  },
+  {
+   "en": ": You sure you don’t want to get breakfast with me? I’ll tell you all about why I am the way I am.",
+   "zh": ""
+  },
+  {
+   "en": ": I think it might be a little better for me to actually figure out what “the way you are” is first.",
+   "zh": ""
+  },
+  {
+   "en": ": Well damn. I guess that’s my cue to go say a bunch of stuff about myself then, huh?",
+   "zh": ""
+  },
+  {
+   "en": ": Think you’re going to be able to handle it?",
+   "zh": ""
+  },
+  {
+   "en": ": Of course. Assimilation isn’t optional.",
+   "zh": ""
+  },
+  {
+   "en": ": If I need to blend in in order to get by, I’ll giggle and gossip the way good girls are groomed to.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll fake some interests and laugh at their horrible jokes.",
+   "zh": ""
+  },
+  {
+   "en": ": Heck, maybe I’ll intentionally trip on the way to my desk to show everyone that I’m clumsy and lovable.",
+   "zh": ""
+  },
+  {
+   "en": ": They’ll write me off as another normal girl-",
+   "zh": ""
+  },
+  {
+   "en": ": And never realize how broken I actually am.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Watch me, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": Watch me assimilate.",
+   "zh": ""
+  },
+  {
+   "en": "Io slides the door open and moves into the classroom before I’m able to think up a reasonable response.",
+   "zh": ""
+  },
+  {
+   "en": "But what would a reasonable response to that even be?",
+   "zh": ""
+  },
+  {
+   "en": "I hate ruling out peoples’ troubles from the get-go...but what could be going on in that head of hers that would make her be so openly self-deprecating without any desire to change?",
+   "zh": ""
+  },
+  {
+   "en": "If you’re going to complain about being trash, why not just...stop being trash?",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "It isn’t until I set foot into Class-A that I realize I’m like that, too.",
+   "zh": ""
+  },
+  {
+   "en": "How many times have I pointed out the flaws in myself, only to shrug them off and cast them aside?",
+   "zh": ""
+  },
+  {
+   "en": "Perhaps Io is the same way?",
+   "zh": ""
+  },
+  {
+   "en": "Or perhaps she’s a victim of circumstance-",
+   "zh": ""
+  },
+  {
+   "en": "Not some guy with poor morals who was dropped into a world in which they’d run rampant.",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "In the event that this girl is, as she suggests, trash, it probably isn’t a good idea to display her in front of a group of her peers and shine a light on her.",
+   "zh": ""
+  },
+  {
+   "en": "If that were you up there, far away from your safe little cubby in the back of the room, would you be happy?",
+   "zh": ""
+  },
+  {
+   "en": "If you had knowingly informed someone that you were uncomfortable with yourself as a person and that someone immediately said “Go show everyone who you really are,” you’d hate them, right?",
+   "zh": ""
+  },
+  {
+   "en": "In hindsight, that’s how I felt.",
+   "zh": ""
+  },
+  {
+   "en": "Or rather, that’s how I feel.",
+   "zh": ""
+  },
+  {
+   "en": "Because I can not resign myself to a small wooden box.",
+   "zh": ""
+  },
+  {
+   "en": "I must watch a lovely caterpillar squirm.",
+   "zh": ""
+  },
+  {
+   "en": "Trying desperately to cocoon itself.",
+   "zh": ""
+  },
+  {
+   "en": "And become something beautiful.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "I give you another poem.",
+   "zh": ""
+  },
+  {
+   "en": "Does this ever happen to you?",
+   "zh": ""
+  },
+  {
+   "en": "If not, you live a life to be envied.",
+   "zh": ""
+  },
+  {
+   "en": "Steady, now.",
+   "zh": ""
+  },
+  {
+   "en": "Calm your beating heart.",
+   "zh": ""
+  },
+  {
+   "en": "For even when their faces disappear-",
+   "zh": ""
+  },
+  {
+   "en": "Their voices cry out.",
+   "zh": ""
+  },
+  {
+   "en": "If you pay close attention, they sound something like this.",
+   "zh": ""
+  },
+  {
+   "en": "A mix of all your favorite things and a touch of what you hate.",
+   "zh": ""
+  },
+  {
+   "en": "Some train themselves to tune the voices out.",
+   "zh": ""
+  },
+  {
+   "en": "And others-",
+   "zh": ""
+  },
+  {
+   "en": ": I’m Io.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t feel good.",
+   "zh": ""
+  },
+  {
+   "en": ": See you.",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "I open the door and begin to look for Io.",
+   "zh": ""
+  },
+  {
+   "en": "Uta jumped up and immediately started trying to quell the confusion the second she left.",
+   "zh": ""
+  },
+  {
+   "en": "And I...actually did something for once.",
+   "zh": ""
+  },
+  {
+   "en": "Why is that, I wonder?",
+   "zh": ""
+  },
+  {
+   "en": ": Looking for me?",
+   "zh": ""
+  },
+  {
+   "en": ": Well you didn’t run far.",
+   "zh": ""
+  },
+  {
+   "en": ": Just needed some air.",
+   "zh": ""
+  },
+  {
+   "en": ": Guess my normal-girl act isn’t as polished as I thought it would be.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll work on it.",
+   "zh": ""
+  },
+  {
+   "en": ": The hard part is already over. You can just do whatever you want from now on.",
+   "zh": ""
+  },
+  {
+   "en": ": Gotta say, though, that was definitely a strong first impression.",
+   "zh": ""
+  },
+  {
+   "en": ": I personally liked the part where I stood there and looked like an idiot for ten whole minutes.",
+   "zh": ""
+  },
+  {
+   "en": ": I think it was closer to like fifteen seconds, but yeah.",
+   "zh": ""
+  },
+  {
+   "en": ": Really? It felt a lot longer to me.",
+   "zh": ""
+  },
+  {
+   "en": ": That tends to happen when you’re the center of attention.",
+   "zh": ""
+  },
+  {
+   "en": ": Ugh. Now people are probably going to try and ask me if everything is okay or if I’m nervous or blah blah blah.",
+   "zh": ""
+  },
+  {
+   "en": ": Is that really such a bad thing?",
+   "zh": ""
+  },
+  {
+   "en": ": Io fact number-one. Get your notebook ready.",
+   "zh": ""
+  },
+  {
+   "en": ": I should probably just commit whatever this is to memory. I don’t want to break out a notebook each time I see you.",
+   "zh": ""
+  },
+  {
+   "en": ": Previously on “Io Opens Up to a Guy She Just Met,” we learned that Io does not like people.",
+   "zh": ""
+  },
+  {
+   "en": ": This was a lie.",
+   "zh": ""
+  },
+  {
+   "en": ": Io specifically does not like girls.",
+   "zh": ""
+  },
+  {
+   "en": ": Also, Io is going to stop talking in third person now because she feels like a moron.",
+   "zh": ""
+  },
+  {
+   "en": ": Why just girls?",
+   "zh": ""
+  },
+  {
+   "en": ": Is that even a question?",
+   "zh": ""
+  },
+  {
+   "en": ": Girls are messed up, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": Just look at me.",
+   "zh": ""
+  },
+  {
+   "en": ": Me...and the rest of them...we’re all at that age where everything is just a big fucking project.",
+   "zh": ""
+  },
+  {
+   "en": ": And I love projects, don’t get me wrong.",
+   "zh": ""
+  },
+  {
+   "en": ": I've built so many things.",
+   "zh": ""
+  },
+  {
+   "en": ": But sometimes, you can just take one look at something and know that it’s beyond fixing.",
+   "zh": ""
+  },
+  {
+   "en": ": Getting to know people means getting to know what ails them.",
+   "zh": ""
+  },
+  {
+   "en": ": Which means trying to help them fix it.",
+   "zh": ""
+  },
+  {
+   "en": ": Which means figuring out how to fix it.",
+   "zh": ""
+  },
+  {
+   "en": ": Then, before long, you’re spending more time on someone else than yourself.",
+   "zh": ""
+  },
+  {
+   "en": ": How many friends does a normal [teenage]girl have?",
+   "zh": ""
+  },
+  {
+   "en": ": Four? Five?",
+   "zh": ""
+  },
+  {
+   "en": ": Probably a lot more, to be honest.",
+   "zh": ""
+  },
+  {
+   "en": ": Ugh. That’s even worse.",
+   "zh": ""
+  },
+  {
+   "en": ": The more people you know, the more burdens you're forced to carry.",
+   "zh": ""
+  },
+  {
+   "en": ": But some people have big frickin’ burdens, you know?",
+   "zh": ""
+  },
+  {
+   "en": ": So maybe you can say that I’m afraid of being weighed down, or even that I'm afraid I’d weigh somebody else down-",
+   "zh": ""
+  },
+  {
+   "en": ": But the fact of the matter is, I think it’s easier to just stay away from people like that.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll surround myself with projects that won’t judge me or stab me in the back if I can’t do anything about them.",
+   "zh": ""
+  },
+  {
+   "en": ": Or maybe I’ll just waste away my days with someone like you- who will sit there like a big old sponge and soak up all of my complaints.",
+   "zh": ""
+  },
+  {
+   "en": "The walls crumble once more.",
+   "zh": ""
+  },
+  {
+   "en": ": So, can we go get breakfast now?",
+   "zh": ""
+  },
+  {
+   "en": ": Before that...I want to point out a little hypocrisy in your logic, Io.",
+   "zh": ""
+  },
+  {
+   "en": ": Which part?",
+   "zh": ""
+  },
+  {
+   "en": ": Your key complaint about girls is that they’re all projects. But don’t you think you’re making yourself sound like a bit of a project, too?",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, I’m like ten projects. I know that.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s why I gave you that warning about how you might not like me once you get to know me.",
+   "zh": ""
+  },
+  {
+   "en": ": And if that’s true?...And I don’t come to like you once I figure you out?",
+   "zh": ""
+  },
+  {
+   "en": ": You can throw me away.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll probably cry for a day or two. Maybe a week. But I’ll get over it.",
+   "zh": ""
+  },
+  {
+   "en": ": Worse things have happened to me.",
+   "zh": ""
+  },
+  {
+   "en": ": I just have a good feeling about the two of us.",
+   "zh": ""
+  },
+  {
+   "en": ": But there’s a good chance that feeling is just hormones.",
+   "zh": ""
+  },
+  {
+   "en": ": And there’s a good chance that I’m already well beyond repair.",
+   "zh": ""
+  },
+  {
+   "en": ": But, in the event I’m not-",
+   "zh": ""
+  },
+  {
+   "en": ": Do you want to try?",
+   "zh": ""
+  },
+  {
+   "en": ": Do you want to keep getting to know me even after I’ve done nothing but say things that would scare a normal person away the last few days?",
+   "zh": ""
+  },
+  {
+   "en": ": Cause I think...if you turn me down now, I can manage to not get hurt.",
+   "zh": ""
+  },
+  {
+   "en": ": There’s still a little bit of the wall left.",
+   "zh": ""
+  },
+  {
+   "en": "I find myself thinking this a lot but-",
+   "zh": ""
+  },
+  {
+   "en": "Teenagers really are exhausting.",
+   "zh": ""
+  },
+  {
+   "en": "How do you even develop a perspective like Io’s this early on in life?",
+   "zh": ""
+  },
+  {
+   "en": "It’s only her first year in [high_school] and she’s already acting like she’s given up on associating with anyone for the rest of eternity.",
+   "zh": ""
+  },
+  {
+   "en": "Where does she expect to go?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "And why...do I want to go with her?",
+   "zh": ""
+  },
+  {
+   "en": ": Of course I still want to get to know you.",
+   "zh": ""
+  },
+  {
+   "en": ": I can’t let you just only have Uta for the rest of your [high_school] career.",
+   "zh": ""
+  },
+  {
+   "en": ": Maybe I can even get you to add a few more of the girls into the mix. Hiding from them forever isn’t going to do you any favors.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve got a lot of baggage, Sensei...You’re opening a real can of worms here.",
+   "zh": ""
+  },
+  {
+   "en": ": Are you really trying to talk me out of this while looking like that?",
+   "zh": ""
+  },
+  {
+   "en": ": How do I look? I can’t see my face.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know. Desperate?",
+   "zh": ""
+  },
+  {
+   "en": ": Desperate?...",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah...",
+   "zh": ""
+  },
+  {
+   "en": ": That might not be too far off.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re a real weirdo, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": I thought my “Throw everything at him and pray something sticks” strategy was going to backfire for sure, but...",
+   "zh": ""
+  },
+  {
+   "en": ": You don't seem scared of me at all.",
+   "zh": ""
+  },
+  {
+   "en": ": Let’s just say I’ve gotten pretty good at handling girls with issues over the last few months.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, please handle mine gently if you’re going to handle them at all.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m a lot more delicate than I let on...",
+   "zh": ""
+  },
+  {
+   "en": ": So please...",
+   "zh": ""
+  },
+  {
+   "en": ": Don't let me break.",
+   "zh": ""
+  },
+  {
+   "en": "One thing I don’t think Io realizes is that, after a few short conversations-",
+   "zh": ""
+  },
+  {
+   "en": "She already feels more delicate than almost anyone I've ever met.",
+   "zh": ""
+  },
+  {
+   "en": "But her self-perception is clearly all out of sorts.",
+   "zh": ""
+  },
+  {
+   "en": "It’s strange how someone so self-centered can be so unaware of who they are or how they appear to others.",
+   "zh": ""
+  },
+  {
+   "en": "You’d think that focusing everything around your own interests or disinterests would help you avoid that.",
+   "zh": ""
+  },
+  {
+   "en": "But I guess, in some rare cases-",
+   "zh": ""
+  },
+  {
+   "en": "That exact mindset can warp you.",
+   "zh": ""
+  },
+  {
+   "en": "Io Ichimonji does not exist.",
+   "zh": ""
+  },
+  {
+   "en": "She has already lost herself.",
+   "zh": ""
+  },
+  {
+   "en": "And, I can’t say this for sure right now-",
+   "zh": ""
+  },
+  {
+   "en": "But I’m pretty sure that whoever this girl is-",
+   "zh": ""
+  },
+  {
+   "en": "Needs my help finding her.",
+   "zh": ""
+  },
+  {
+   "en": "Congratulations! Uta and Io have been added to the second floor of the dorms!",
+   "zh": ""
+  },
+  {
+   "en": "They’re staying in Room 7 and are now available to spend free time with on nights and weekends.",
+   "zh": ""
+  },
+  {
+   "en": "Additionally, Uta can be found at the Maid Cafe at night and Io can be found at the Bathhouse on afternoons!",
+   "zh": ""
+  },
+  {
+   "en": "Io’s affection has increased to [io_love]!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

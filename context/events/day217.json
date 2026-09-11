@@ -1,0 +1,658 @@
+{
+ "label": "day217",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "Time: 4:23 PM\\nLocation: Karaoke Room 4",
+   "zh": ""
+  },
+  {
+   "en": "Mission: Despacito 2",
+   "zh": ""
+  },
+  {
+   "en": ": Ya, ya me está gustando más de lo normal~",
+   "zh": ""
+  },
+  {
+   "en": ": Todos mis sentidos van pidiendo más~",
+   "zh": ""
+  },
+  {
+   "en": ": Esto hay que tomarlo sin ningún apuro~",
+   "zh": ""
+  },
+  {
+   "en": ": SING IT, AMI!",
+   "zh": ""
+  },
+  {
+   "en": ": Despacito...",
+   "zh": ""
+  },
+  {
+   "en": ": Dadadada Despacito...",
+   "zh": ""
+  },
+  {
+   "en": ": Dadadadadadada Despacito",
+   "zh": ""
+  },
+  {
+   "en": ": Dadadadadada Despacito...",
+   "zh": ""
+  },
+  {
+   "en": ": DES-PA-CITO!",
+   "zh": ""
+  },
+  {
+   "en": ": Would you mind explaining to me why we’re in the hallway instead of next to the people I came here with?",
+   "zh": ""
+  },
+  {
+   "en": ": You came here with me as well, remember? Ayane dragged both of us along.",
+   "zh": ""
+  },
+  {
+   "en": ": I only needed to be dragged after finding out you were coming.",
+   "zh": ""
+  },
+  {
+   "en": ": I was a willing participant up until that point.",
+   "zh": ""
+  },
+  {
+   "en": ": Would you rather be in there listening to Despacito for the fifth time today?",
+   "zh": ""
+  },
+  {
+   "en": ": Good point. Please carry on.",
+   "zh": ""
+  },
+  {
+   "en": "School ended a few hours ago and, somehow or another, I wound up coming here with a few of the girls after stopping back at their dorms.",
+   "zh": ""
+  },
+  {
+   "en": "I had initially tried tracking down Makoto again, but wasn’t able to find her before she managed to get home.",
+   "zh": ""
+  },
+  {
+   "en": "So, not knowing what else to do about the matter, I seek out an all-knowing creature named Maya Makinami.",
+   "zh": ""
+  },
+  {
+   "en": "She’ll probably have some idea of what’s going on with our faithful class representative.",
+   "zh": ""
+  },
+  {
+   "en": ": I was wondering if you’ve noticed anything different about Makoto lately.",
+   "zh": ""
+  },
+  {
+   "en": ": You mean how she looks dead inside?",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, that.",
+   "zh": ""
+  },
+  {
+   "en": ": Yes. It would be impossible not to notice.",
+   "zh": ""
+  },
+  {
+   "en": ": What did you do to her?",
+   "zh": ""
+  },
+  {
+   "en": ": I can’t absolve you of your sins, but it will at least help me prepare in the event of you attempting to do the same thing to me.",
+   "zh": ""
+  },
+  {
+   "en": ": I didn’t do anything...",
+   "zh": ""
+  },
+  {
+   "en": ": She just randomly became all dark and gloomy after the two of us went up to the roof a while ago.",
+   "zh": ""
+  },
+  {
+   "en": ": The roof as in...the roof of the[school]?",
+   "zh": ""
+  },
+  {
+   "en": ": That’s probably the only roof I’ve been on in years, so yeah.",
+   "zh": ""
+  },
+  {
+   "en": ": What were you two doing up there? That place is off limits.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s never stopped you.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m only there once every few months. It’s not like I spend my nights off hanging out up there.",
+   "zh": ""
+  },
+  {
+   "en": ": Really? Because I wouldn’t put that past you.",
+   "zh": ""
+  },
+  {
+   "en": ": Whatever. Why does this involve me?",
+   "zh": ""
+  },
+  {
+   "en": ": I barely ever talk to Makoto. I have no idea what’s going on with her.",
+   "zh": ""
+  },
+  {
+   "en": ": She’s probably just upset that the guy she likes is a creep.",
+   "zh": ""
+  },
+  {
+   "en": ": So there’s nothing...weird about the rooftop that would cause her to like...short-circuit or something?",
+   "zh": ""
+  },
+  {
+   "en": ": Short circuit?...",
+   "zh": ""
+  },
+  {
+   "en": ": Do you think we’re all robots now? Is that your new theory?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m assuming that answer means it’s just a normal rooftop after all?",
+   "zh": ""
+  },
+  {
+   "en": ": Of course it’s just a normal rooftop.",
+   "zh": ""
+  },
+  {
+   "en": ": The only thing special about it is that it’s the highest point of the city. Other than that it’s just a roof.",
+   "zh": ""
+  },
+  {
+   "en": ": Then why do you always go there to do the reset thing? I thought it had some sort of powers or something.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, I don’t really know. I just kind of went there the first time the world ended because strange things tend to happen on rooftops in a lot of the manga and games I read.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve just kept going back ever since.",
+   "zh": ""
+  },
+  {
+   "en": ": I guess you could say it’s become a bit of a tradition.",
+   "zh": ""
+  },
+  {
+   "en": ": I forgot you were even into that kind of stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": Yes. Surprise. I have interests.",
+   "zh": ""
+  },
+  {
+   "en": ": My life does not revolve around sweeping a shrine and waiting for you to ask me the right questions.",
+   "zh": ""
+  },
+  {
+   "en": ": To be fair, though, the rooftop is technically the only place I’ve ever watched the world change. So maybe there’s something to it after all?",
+   "zh": ""
+  },
+  {
+   "en": ": I really expected you to have a little more information than just that.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sorry to have let you down.",
+   "zh": ""
+  },
+  {
+   "en": ": You don’t look very sorry.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m not. I was lying.",
+   "zh": ""
+  },
+  {
+   "en": ": The thing with Makoto is kind of strange, though.",
+   "zh": ""
+  },
+  {
+   "en": ": If she started acting that way after coming down from the rooftop and what you’re saying about not assaulting her is true, maybe she...saw something?",
+   "zh": ""
+  },
+  {
+   "en": ": Did she say anything you found odd?",
+   "zh": ""
+  },
+  {
+   "en": ": Anything I found odd?",
+   "zh": ""
+  },
+  {
+   "en": "Hmm...",
+   "zh": ""
+  },
+  {
+   "en": "Pretty much everything she said yesterday struck me as odd.",
+   "zh": ""
+  },
+  {
+   "en": "The girl near the lockers was barely even Makoto at all.",
+   "zh": ""
+  },
+  {
+   "en": "There was no hope left in her eyes.",
+   "zh": ""
+  },
+  {
+   "en": "All I saw was an unending emptiness that not even the glare of the fluorescent hallway lights could brighten up.",
+   "zh": ""
+  },
+  {
+   "en": ": She did start talking about how everything is pointless and how god isn’t real at some point.",
+   "zh": ""
+  },
+  {
+   "en": ": And then what?",
+   "zh": ""
+  },
+  {
+   "en": ": And then I...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Well?",
+   "zh": ""
+  },
+  {
+   "en": ": And then I kind of instinctively pinned her against the locker and asked her to come up to the roof with me.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Are you sure you're not the one who needs help?",
+   "zh": ""
+  },
+  {
+   "en": ": Because it sounds to me like she was just depressed and you tried to take advantage of that to bring her somewhere private.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, that part doesn’t sound good thinking back on it.",
+   "zh": ""
+  },
+  {
+   "en": ": But I swear, something is going on with her.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, on the bright side, it’s possible that she’ll go back to normal very soon.",
+   "zh": ""
+  },
+  {
+   "en": ": With the world ending again in the next few days or weeks, she might just be the normal Makoto again once we usher in Winter.",
+   "zh": ""
+  },
+  {
+   "en": ": But I guess we won’t really know until that happens.",
+   "zh": ""
+  },
+  {
+   "en": ": Has anyone ever changed that drastically before?",
+   "zh": ""
+  },
+  {
+   "en": ": Yuuuuuuuuuuuuuuuuup.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": That’s directed at me, isn’t it?",
+   "zh": ""
+  },
+  {
+   "en": ": Was it my eyebrows or my eyes that gave you that idea?",
+   "zh": ""
+  },
+  {
+   "en": ": Or perhaps the elongated “yup?”",
+   "zh": ""
+  },
+  {
+   "en": ": A mixture of all three. Was I really that bad?",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t even get me started.",
+   "zh": ""
+  },
+  {
+   "en": ": But yes. Changes like that are possible. Though they seem to be very rare for anyone but you.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re an entirely different case. You change personalities faster than a girl getting off of a long-term relationship changes her hairstyle.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m surprised you even made it this far as you, to be honest.",
+   "zh": ""
+  },
+  {
+   "en": ": Do you have any idea how much trouble you’ve caused me in the past?",
+   "zh": ""
+  },
+  {
+   "en": ": I feel like I’m being scolded right now.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "I can hear Maya take a deep breath as she desperately prevents herself from carrying on her impromptu lecture any further.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m going back inside now.",
+   "zh": ""
+  },
+  {
+   "en": ": Ayane will probably take a break after one or two more Despacitos and then we can order food and I will finally feel whole again.",
+   "zh": ""
+  },
+  {
+   "en": ": Sure. I’ll follow you in.",
+   "zh": ""
+  },
+  {
+   "en": ": Please do not.",
+   "zh": ""
+  },
+  {
+   "en": "Maya walks into the karaoke booth and, lo and behold, Ayane is singing the same song as always.",
+   "zh": ""
+  },
+  {
+   "en": "Ami reluctantly sings along, albeit with significantly worse Spanish, and I question why these girls continue to bring Ayane here if all they ever get out of it is misery.",
+   "zh": ""
+  },
+  {
+   "en": ": Why are you sitting right next to me?",
+   "zh": ""
+  },
+  {
+   "en": ": There’s plenty of seating in this room and literally anywhere else would be better than where you chose.",
+   "zh": ""
+  },
+  {
+   "en": ": But I wasn’t done talking to you yet.",
+   "zh": ""
+  },
+  {
+   "en": ": But I was done talking to you. I really don’t know anything else about Makoto or the rooftop so just wait it out and see what happens.",
+   "zh": ""
+  },
+  {
+   "en": ": Do you have enough self-control to do that? Or are you going to explode?",
+   "zh": ""
+  },
+  {
+   "en": ": If you’re going to explode, please go back out into the hallway. Ayane’s voice is loud enough. Any more noise will make my ears bleed.",
+   "zh": ""
+  },
+  {
+   "en": ": Hi~",
+   "zh": ""
+  },
+  {
+   "en": ": What are you two doing?",
+   "zh": ""
+  },
+  {
+   "en": ": You were out in the hallway for a really long time.",
+   "zh": ""
+  },
+  {
+   "en": ": If I didn’t know any better, I’d think Maya was trying to steal you from me.",
+   "zh": ""
+  },
+  {
+   "en": ": Please get your [uncle] out of my sight. He’s roughly three miles too close right now.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay now that’s just excessive.",
+   "zh": ""
+  },
+  {
+   "en": ": Heheh~ This is exactly why I wasn’t worried about you two being alone.",
+   "zh": ""
+  },
+  {
+   "en": ": Did I hear Makoto’s name come up, though?",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, yeah. Still trying to figure out what’s going on with her.",
+   "zh": ""
+  },
+  {
+   "en": ": No luck yesterday then?",
+   "zh": ""
+  },
+  {
+   "en": ": None at all.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh well. I guess all there is to do is just let her be swallowed by her infinite sadness and get on with our lives.",
+   "zh": ""
+  },
+  {
+   "en": ": And speaking of getting on with our lives...",
+   "zh": ""
+  },
+  {
+   "en": ": ...What?",
+   "zh": ""
+  },
+  {
+   "en": ": Why are you looking at me like that?",
+   "zh": ""
+  },
+  {
+   "en": ": Because we’re going shopping for winter clothes together soon.",
+   "zh": ""
+  },
+  {
+   "en": ": ...Okay, but why does that call for angry eyebrows and a maniacal grin?",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know. I just felt like making that face. Like I was forcing you to come even though I know you like trying on new clothes.",
+   "zh": ""
+  },
+  {
+   "en": ": You do?",
+   "zh": ""
+  },
+  {
+   "en": ": Yes. Surprise. I have interests.",
+   "zh": ""
+  },
+  {
+   "en": ": You should come too, Sensei!",
+   "zh": ""
+  },
+  {
+   "en": ": I still haven’t started at the maid cafe yet, so I don’t have any money and I need you to buy me warm stuff or I will freeze to death and you’ll have to pay even more for a funeral.",
+   "zh": ""
+  },
+  {
+   "en": ": I can just bury you in the backyard, it’s fine.",
+   "zh": ""
+  },
+  {
+   "en": ": That works. At least my ghost wouldn’t have to walk very far to find you.",
+   "zh": ""
+  },
+  {
+   "en": ": Unfortunately, Sensei has plans that day and can not accompany us. What a shame.",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t just decide I have plans, Maya.",
+   "zh": ""
+  },
+  {
+   "en": ": It was worth a shot.",
+   "zh": ""
+  },
+  {
+   "en": ": So you’ll come then?",
+   "zh": ""
+  },
+  {
+   "en": ": Sure. Not like I have anything else I need to do.",
+   "zh": ""
+  },
+  {
+   "en": ": Tomorrow night is fine, right? Does that work for everyone?",
+   "zh": ""
+  },
+  {
+   "en": ": DEESSS-PAAAFFFFFTTTT- TOMORROW?!",
+   "zh": ""
+  },
+  {
+   "en": ": But I have stuff to do tomorrow and I wanna come!",
+   "zh": ""
+  },
+  {
+   "en": ": You and I can go together a different day, Ayane.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah! But I’m going to come to that too so I can make sure Ayane keeps her hands off of you.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s fine. You’ll still be able to help me out in the fitting room, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": No you will not. That’s not even legal.",
+   "zh": ""
+  },
+  {
+   "en": ": Hah...",
+   "zh": ""
+  },
+  {
+   "en": ": This really never stops being troublesome...",
+   "zh": ""
+  },
+  {
+   "en": "And so we proceed to finalize our plans for winter shopping tomorrow night.",
+   "zh": ""
+  },
+  {
+   "en": "Apparently, the mall normally gets busy this time of year with people shopping for their significant others and whatnot.",
+   "zh": ""
+  },
+  {
+   "en": "Just, with so many significant others being in fucking space, I can’t imagine the mall will be nearly as busy as Ami expects it to be.",
+   "zh": ""
+  },
+  {
+   "en": "Either way, it looks like tomorrow might wind up being a bit more eventful than an average Friday, so I’ll need to brace my wallet and prepare for whatever is to come.",
+   "zh": ""
+  },
+  {
+   "en": "I’m sure it will all be worth it in the end, though.",
+   "zh": ""
+  },
+  {
+   "en": "Winter clothes are a special type of attractive.",
+   "zh": ""
+  },
+  {
+   "en": "I’m all about seeing cute girls naked, but something about layers upon layers upon layers makes me feel a little different than any other type of outfit possibly can.",
+   "zh": ""
+  },
+  {
+   "en": "Some people may tell you that the reason for this is because it adds to the mystery of what could be underneath the clothes-",
+   "zh": ""
+  },
+  {
+   "en": "But, as someone who has seen a sizable portion of these girls nude already, I can guarantee it’s much more than that.",
+   "zh": ""
+  },
+  {
+   "en": "And suddenly, tomorrow can’t come soon enough...",
+   "zh": ""
+  },
+  {
+   "en": "Maya’s affection has increased to [maya_love]!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

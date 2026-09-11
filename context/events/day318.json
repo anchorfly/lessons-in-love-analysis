@@ -1,0 +1,762 @@
+{
+ "label": "day318",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": ": I don’t get it...",
+   "zh": ""
+  },
+  {
+   "en": ": What part? What aren’t you getting?",
+   "zh": ""
+  },
+  {
+   "en": ": The part with all the words.",
+   "zh": ""
+  },
+  {
+   "en": ": Uta, you need to help me so I can help you.",
+   "zh": ""
+  },
+  {
+   "en": ": I can’t teach you the words if I don’t know the words that need to be taught.",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei! I am dumb! Please come help!",
+   "zh": ""
+  },
+  {
+   "en": ": You really think he’s going to do anything to help you in this situation?",
+   "zh": ""
+  },
+  {
+   "en": ": We’re still two of the newest girls in the[school] and even we should know that teaching is at the very bottom of his list of interests.",
+   "zh": ""
+  },
+  {
+   "en": ": Ugh...stupid standardized test thingies...showing up out of nowhere and reminding us that we’re not all just cruisin’ by without havin’ to work for it.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey, I’m totally down to help you. I just need to know a little more about what you’re struggling with.",
+   "zh": ""
+  },
+  {
+   "en": "Hello there.",
+   "zh": ""
+  },
+  {
+   "en": "As you can see, the class is hard at work today.",
+   "zh": ""
+  },
+  {
+   "en": "Though, some are finding a bit more success than others.",
+   "zh": ""
+  },
+  {
+   "en": "I actually don’t mind days like this, where the girls are suddenly hit with reminders through my faithful class representative that they can’t slack off every day-",
+   "zh": ""
+  },
+  {
+   "en": "Because that just means things will be quieter than normal.",
+   "zh": ""
+  },
+  {
+   "en": "When things are quieter than normal, I have an easier time sleeping through the[school] day.",
+   "zh": ""
+  },
+  {
+   "en": "And the sooner the[school] day ends, the sooner I can do the things I actually want to do.",
+   "zh": ""
+  },
+  {
+   "en": "IE: Not be in[school].",
+   "zh": ""
+  },
+  {
+   "en": "It’s a little weird how, even though I don’t do any teaching at all, it’s still mentally and physically draining being inside of this place.",
+   "zh": ""
+  },
+  {
+   "en": "I guess that’s just one of the effects[school] can have on the mind.",
+   "zh": ""
+  },
+  {
+   "en": "Regardless, I’m glad that things are slowing down today.",
+   "zh": ""
+  },
+  {
+   "en": "Here’s hoping that Uta figures out “the words” or whatever it is she’s struggling with.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey, what if we stop studying altogether and just guess on all of the answers for the thingy? I’m sure we can fail like one or two of those, right?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m pretty sure we get held back if we fail any of them.",
+   "zh": ""
+  },
+  {
+   "en": ": Well then what the heck is the point of normal tests and normal grades if the standardy ones are the only ones that matter?",
+   "zh": ""
+  },
+  {
+   "en": ": You...do realize we haven’t taken a single “normal” test since we got here, right? They’re like, not even a thing anymore.",
+   "zh": ""
+  },
+  {
+   "en": ": Life itself is a test, dearest Io.",
+   "zh": ""
+  },
+  {
+   "en": ": From the moment we are born to the moment we get cancer and die, every day is a test to see if we’re fit to survive.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s cool. But if you’re not going to actually use it, can I have my notebook back?",
+   "zh": ""
+  },
+  {
+   "en": ": Right after you teach me the words.",
+   "zh": ""
+  },
+  {
+   "en": ": I still don’t know what words you’re even talking about.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, well, well...It seems to me that someone could use a little pick me up.",
+   "zh": ""
+  },
+  {
+   "en": ": I may be tiny, but I highly doubt even a skilled martial artist like yourself could just lift me up out of my chair, Ayane.",
+   "zh": ""
+  },
+  {
+   "en": ": So unless you plan on picking up my brain and replacing it with one that has more words, I think you’re better off just going back to your own seat.",
+   "zh": ""
+  },
+  {
+   "en": ": Actually, Uta...I was thinking now might be as good a time as any to begin Operation: Firestarter.",
+   "zh": ""
+  },
+  {
+   "en": ": You want to burn the[school] down?! Right now?!",
+   "zh": ""
+  },
+  {
+   "en": ": Of course not. I’d be asking Ami for help if that were the case.",
+   "zh": ""
+  },
+  {
+   "en": ": That was so long ago! And it only happened once!",
+   "zh": ""
+  },
+  {
+   "en": ": See? She’s the only experienced arsonist in the class.",
+   "zh": ""
+  },
+  {
+   "en": ": Mmmmmmm...you sure about that?",
+   "zh": ""
+  },
+  {
+   "en": ": Please don’t plan to burn the[school] down.",
+   "zh": ""
+  },
+  {
+   "en": ": This place might suck, but I still rely on it to pay my bills.",
+   "zh": ""
+  },
+  {
+   "en": ": I suppose if Sensei doesn’t like the[school], there isn’t much stopping us from demolishing the place.",
+   "zh": ""
+  },
+  {
+   "en": ": I am ready when you are, Ayane.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay, you do remember what Operation: Firestarter actually is, right? Because we came up with it together.",
+   "zh": ""
+  },
+  {
+   "en": ": Course I remember. Do ya really think now is the best time, though?",
+   "zh": ""
+  },
+  {
+   "en": ": Absolutely not.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know what you two are planning but-",
+   "zh": ""
+  },
+  {
+   "en": ": Actually, on second thought, what better time than now?",
+   "zh": ""
+  },
+  {
+   "en": ": Touka and Yasuyasu are finally startin’ to show some chemistry, so there’s nothin’ else holdin’ us back.",
+   "zh": ""
+  },
+  {
+   "en": ": Hm? Did someone say Touka?",
+   "zh": ""
+  },
+  {
+   "en": ": Am I being included in [high_school] gossip? Is it good or bad?",
+   "zh": ""
+  },
+  {
+   "en": ": Please tell me.",
+   "zh": ""
+  },
+  {
+   "en": ": Fact is, even if we do fail our tests, we’ll still have fun in the process. So it will all be worth it in the long run.",
+   "zh": ""
+  },
+  {
+   "en": ": You should still study. Education is important and I’m only suggesting this since I’m kind of smart.",
+   "zh": ""
+  },
+  {
+   "en": ": You slimy bastard.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay. I don’t have to be involved. Please enjoy your conversation that may or may not be about me.",
+   "zh": ""
+  },
+  {
+   "en": ": You should probably be studying, Uta. You can’t really afford to goof off right now.",
+   "zh": ""
+  },
+  {
+   "en": ": Also, if you get held back, I won’t have anyone else to talk to and that would suck.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey, the offer to hang out with Noriko and me is still-",
+   "zh": ""
+  },
+  {
+   "en": ": Please don’t talk to me. I’m studying.",
+   "zh": ""
+  },
+  {
+   "en": ": Ayane, I’m glad you chose today as the day to remind me that I don’t care about learning.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s not really what I was-",
+   "zh": ""
+  },
+  {
+   "en": ": Because if there’s anything that’s going to motivate me to study harder, it’s not studying at all!",
+   "zh": ""
+  },
+  {
+   "en": ": Amen to that, Uta!",
+   "zh": ""
+  },
+  {
+   "en": ": So, with that in mind...I believe it is time for us to begin phase one.",
+   "zh": ""
+  },
+  {
+   "en": ": Hostile takeover?",
+   "zh": ""
+  },
+  {
+   "en": ": Hostile takeover.",
+   "zh": ""
+  },
+  {
+   "en": ": Hostile what now?",
+   "zh": ""
+  },
+  {
+   "en": ": Ayane, if you’re still bringing guns to[school] after all of the incidents with the janitors, I’m going to have to step in and-",
+   "zh": ""
+  },
+  {
+   "en": ": Wait, what are you doing?",
+   "zh": ""
+  },
+  {
+   "en": ": Step aside, Sensei! This is our classroom now! Me and Ayane are about to blow your-",
+   "zh": ""
+  },
+  {
+   "en": ": Penis!",
+   "zh": ""
+  },
+  {
+   "en": ": Mind!",
+   "zh": ""
+  },
+  {
+   "en": ": Penis...mind?",
+   "zh": ""
+  },
+  {
+   "en": ": I wouldn't say they’re entirely wrong considering it is your mind, but I still can’t condone-",
+   "zh": ""
+  },
+  {
+   "en": ": Wait! What are you two doing?! Get your hands off of him!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": You know, I was really hoping things were about to go in a different direction when I heard the “penis” thing, but-",
+   "zh": ""
+  },
+  {
+   "en": ": Nodoka.",
+   "zh": ""
+  },
+  {
+   "en": ": Yes?",
+   "zh": ""
+  },
+  {
+   "en": ": Now is not the time.",
+   "zh": ""
+  },
+  {
+   "en": ": I beg to differ, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": Ayane, Uta...why am I sitting at this desk?",
+   "zh": ""
+  },
+  {
+   "en": ": Because you’re about to be[school]ed, bitch.",
+   "zh": ""
+  },
+  {
+   "en": ": Excuse me?",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t call my husband a bitch, Uta. Remember that his role in all of this is just as important as ours.",
+   "zh": ""
+  },
+  {
+   "en": ": Look at him, cozied up at a [high_school]er’s desk like he’s pretending to be [young]again.",
+   "zh": ""
+  },
+  {
+   "en": ": You literally pushed me here.",
+   "zh": ""
+  },
+  {
+   "en": ": So weak. So childish.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay, seriously. Stop.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sorry! I’m just gettin’ fired up thinking about how we’re going to be spending the next two days starting...RIGHT NOW! GO!",
+   "zh": ""
+  },
+  {
+   "en": ": Students! Teacher! Molly!",
+   "zh": ""
+  },
+  {
+   "en": ": Why just Molly?! What did I do?!",
+   "zh": ""
+  },
+  {
+   "en": ": If you have been eavesdropping on my desperate pleas for help, first of all, shame on you!",
+   "zh": ""
+  },
+  {
+   "en": ": Second, you probably overheard a conversation about Ayane and me burning down the[school]!",
+   "zh": ""
+  },
+  {
+   "en": ": Do not fear! That will not be happening!",
+   "zh": ""
+  },
+  {
+   "en": "A scattered, awkward applause started by Rin quickly spreads throughout the classroom.",
+   "zh": ""
+  },
+  {
+   "en": ": But what we will do...is set a fire under your asses! For now is the time to get down and groovy!",
+   "zh": ""
+  },
+  {
+   "en": "Oh. I’m guessing this is the “orgy of fun” that was recently proposed.",
+   "zh": ""
+  },
+  {
+   "en": "I’m still hoping it’s an actual orgy. Though the idea of it lasting two full days like Uta suggested is mildly intimidating.",
+   "zh": ""
+  },
+  {
+   "en": "But if anyone is up to the task, it’s me.",
+   "zh": ""
+  },
+  {
+   "en": "I begin to slide off my shirt and-",
+   "zh": ""
+  },
+  {
+   "en": ": Um...Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": Now is probably not the best time...",
+   "zh": ""
+  },
+  {
+   "en": ": Fine. I’ll wait for someone else to go first.",
+   "zh": ""
+  },
+  {
+   "en": ": I can take the back seat every once in a while.",
+   "zh": ""
+  },
+  {
+   "en": ": So, Uta and I have been doing a lot of talking lately, and we think it might be good for us to have a little bonding exercise now that our class is finally full.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s how it started, at least...",
+   "zh": ""
+  },
+  {
+   "en": ": Right. But in beginning to talk about different ways to bond, it quickly became apparent that there is a big point of contention between the two of us.",
+   "zh": ""
+  },
+  {
+   "en": ": Ayane thinks her floor is better than ours! And we must show her that she is wrong!",
+   "zh": ""
+  },
+  {
+   "en": ": Rise up, second floor! And Molly!",
+   "zh": ""
+  },
+  {
+   "en": ": I AM ON THAT FLOOR TOO!",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know what gave Uta the idea that the second floor was better than the first, but I’m pretty sure it has something to do with finally being at a higher elevation than other girls her age.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll have you know that I am one whole inch taller than Sana. And sometimes one inch is all that matters.",
+   "zh": ""
+  },
+  {
+   "en": ": Isn’t that right, Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t think it would make that much of a difference for me.",
+   "zh": ""
+  },
+  {
+   "en": ": Heheh...",
+   "zh": ""
+  },
+  {
+   "en": ": Yes. You could lose one inch and still be taller than all of us.",
+   "zh": ""
+  },
+  {
+   "en": ": You are a large man.",
+   "zh": ""
+  },
+  {
+   "en": ": Thanks, Tsuneyo. That’s exactly what I was referring to.",
+   "zh": ""
+  },
+  {
+   "en": ": Anyway, the two of us thought it might be good to start a little...friendly competition to truly show everyone, once and for all, which floor is the better floor.",
+   "zh": ""
+  },
+  {
+   "en": ": And so! I will be the captain of my floor and Ayane will be the captain of-",
+   "zh": ""
+  },
+  {
+   "en": ": Absolutely not!",
+   "zh": ""
+  },
+  {
+   "en": ": We’re going to have our next batch of standardized tests any day now. And you should know more than anyone how crucial it is to be studying at a time like this!",
+   "zh": ""
+  },
+  {
+   "en": ": Also, the first floor is clearly better and the fact that you think you can disprove that with a stupid contest is laughable.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey now...I wouldn’t say laughable. There’s plenty of stuff our floor is better at.",
+   "zh": ""
+  },
+  {
+   "en": ": That may be true, but I absolutely will not support a contest to prove that.",
+   "zh": ""
+  },
+  {
+   "en": ": Wow. That was pretty much word for word how you said she would react.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah. I was more or less prepared for this.",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t make me sound like some sort of predictable-",
+   "zh": ""
+  },
+  {
+   "en": ": You can be captain of the first floor, Makoto.",
+   "zh": ""
+  },
+  {
+   "en": ": It should be okay that way, right?",
+   "zh": ""
+  },
+  {
+   "en": ": ...Me?",
+   "zh": ""
+  },
+  {
+   "en": ": Sure! Why not?",
+   "zh": ""
+  },
+  {
+   "en": ": You already lead the classroom and you’re the student council president, so you definitely have the experience.",
+   "zh": ""
+  },
+  {
+   "en": ": Besides, we’re going to win either way, so it doesn’t really matter who the captain is.",
+   "zh": ""
+  },
+  {
+   "en": ": Well...I suppose it does sound like a good bonding experience. And the second floor could certainly use that given that they’re all still relatively new here.",
+   "zh": ""
+  },
+  {
+   "en": ": But...the winners would need to get something to make it worth while. Wouldn’t they?",
+   "zh": ""
+  },
+  {
+   "en": ": Otherwise, it’s just a waste of time and-",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, we’ve already decided on what the winner gets.",
+   "zh": ""
+  },
+  {
+   "en": ": And it’s a lot more than just bragging rights.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s right, Ayane...In fact, it’s the most sought after award in the[school].",
+   "zh": ""
+  },
+  {
+   "en": ": S-Sought after?...",
+   "zh": ""
+  },
+  {
+   "en": ": Then...wouldn’t that mean...",
+   "zh": ""
+  },
+  {
+   "en": ": THE WINNER GETS SENSEI!",
+   "zh": ""
+  },
+  {
+   "en": ": What?",
+   "zh": ""
+  },
+  {
+   "en": ": Is it too late to drop out of the contest?",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, I can sit this one out too. Give him to somebody else.",
+   "zh": ""
+  },
+  {
+   "en": ": What the fuck?",
+   "zh": ""
+  },
+  {
+   "en": ": Specifically, whichever floor wins will get to keep him in their room for the upcoming beach trip.",
+   "zh": ""
+  },
+  {
+   "en": ": So you better start packin’ your PJ’s now, Sensei. You’re gonna be with us second floor girls whether Otoha likes it or not.",
+   "zh": ""
+  },
+  {
+   "en": ": Oooooh, that is a good reward.",
+   "zh": ""
+  },
+  {
+   "en": ": How do we win?! What do I do?! What is the dress code for the sleepover?!",
+   "zh": ""
+  },
+  {
+   "en": ": You can’t win.",
+   "zh": ""
+  },
+  {
+   "en": ": Us first floor girls have been with Sensei much longer than any of you.",
+   "zh": ""
+  },
+  {
+   "en": ": Sounds to me like somebody is forgetting I’ve been with Sensei longer than anyone except for like, Ami I guess.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t care if I have to carry the entire floor. I’m going to win and I’m going to get all up in his business at our swimsuit slumber party thingy.",
+   "zh": ""
+  },
+  {
+   "en": ": Lay so much as a finger on him and you will die.",
+   "zh": ""
+  },
+  {
+   "en": ": Joke's on you. I'm perfectly content dying for that.",
+   "zh": ""
+  },
+  {
+   "en": ": You underestimate me, Chika.",
+   "zh": ""
+  },
+  {
+   "en": ": Are you okay with these terms, Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": He’s okay with them as long as our floor wins and he gets to sleep in the bed with me.",
+   "zh": ""
+  },
+  {
+   "en": ": Better idea: What if all twenty-one of us just sleep in the same bed and-",
+   "zh": ""
+  },
+  {
+   "en": ": No can do, Sensei. I appreciate you openly admitting that you want to sleep in the bed with me, even though I’ve known it all along-",
+   "zh": ""
+  },
+  {
+   "en": ": But the show must go on and the combatants must be chosen.",
+   "zh": ""
+  },
+  {
+   "en": ": So please, here and now, surrender your rights and agree to room with whoever the winner of the contest is.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t really like calling it “surrendering my rights” but...if all that’s going to happen is me sleeping next to a bunch of girls, sure.",
+   "zh": ""
+  },
+  {
+   "en": ": Perfect!",
+   "zh": ""
+  },
+  {
+   "en": ": Now, please exit the room so we can figure out who is up against who and blah blah blah logistical stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re going to need the rest anyway, Sensei. These next two days are going to be action-packed, especially since you'll be acting as a judge for some of the competitions.",
+   "zh": ""
+  },
+  {
+   "en": ": I actually have to participate? I can’t just surrender myself and be done with it?",
+   "zh": ""
+  },
+  {
+   "en": ": Oh you’ll be participating, alright. This contest can’t exist without you.",
+   "zh": ""
+  },
+  {
+   "en": ": Now get the heck out of my classroom so me and Makoto can start whippin’ our girls into shape!",
+   "zh": ""
+  },
+  {
+   "en": ": I’m down to get whipped if Uta is offering. Sounds fun.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve never really looked at her like that, but I probably wouldn’t refuse if Makoto wanted to whip me as-",
+   "zh": ""
+  },
+  {
+   "en": ": No one is whipping anyone! But yes, Sensei, please vacate the premises.",
+   "zh": ""
+  },
+  {
+   "en": ": It appears that Uta and I have quite a bit to talk about...",
+   "zh": ""
+  },
+  {
+   "en": "Welcome to the first annual Super Mega Ultimate Dorm War!",
+   "zh": ""
+  },
+  {
+   "en": "The next two days will be completely filled with events featuring head to head battles between two girls from each floor.",
+   "zh": ""
+  },
+  {
+   "en": "Some events will have predetermined outcomes, but several of them have outcomes that you will be able to choose!",
+   "zh": ""
+  },
+  {
+   "en": "In the end, only one floor can be crowned as the winner!",
+   "zh": ""
+  },
+  {
+   "en": "So sit back, relax, and do the thing!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

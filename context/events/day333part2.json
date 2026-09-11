@@ -1,0 +1,842 @@
+{
+ "label": "day333part2",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": ": Help.",
+   "zh": ""
+  },
+  {
+   "en": ": This strange man is following me and I think I’m in danger.",
+   "zh": ""
+  },
+  {
+   "en": ": Wow.",
+   "zh": ""
+  },
+  {
+   "en": ": You know, I’ve been thinking about it for a while, but you really don’t look like you should be working here.",
+   "zh": ""
+  },
+  {
+   "en": ": Thanks, Osako. It’s nice to see you too.",
+   "zh": ""
+  },
+  {
+   "en": ": School hours are over. I can’t do anything for you.",
+   "zh": ""
+  },
+  {
+   "en": ": If you are still alive when[school] opens tomorrow-",
+   "zh": ""
+  },
+  {
+   "en": ": Actually, just find someone else. I don't want to deal with this.",
+   "zh": ""
+  },
+  {
+   "en": ": She’s not in danger anyway. We’re just both heading in the same general direction and apparently that grosses her out or something.",
+   "zh": ""
+  },
+  {
+   "en": ": Fair enough.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s a perfectly acceptable reason to be disgusted. You’re the scum of the earth.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m somehow relieved that you’re not as popular with adults as you are with [teenager]s.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, don’t worry Maya. These two are too in love with one another to ever fall for me anyway.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh! Hahahaha...",
+   "zh": ""
+  },
+  {
+   "en": ": I...don’t know if Wakana really wants word of that getting out in her workplace...",
+   "zh": ""
+  },
+  {
+   "en": ": You said something I don’t inherently despise for once. How nice.",
+   "zh": ""
+  },
+  {
+   "en": ": Uhh...congratulations. But I’ll be going now.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t really see how any of this relates to me.",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t you want to be part of a cool adult conversation where all of us do cool adult stuff and you get to feel included?",
+   "zh": ""
+  },
+  {
+   "en": ": Do you really think that’s the kind of stuff that I’m interested in?",
+   "zh": ""
+  },
+  {
+   "en": ": I may act mature for my age, but I’m still a [teenage]girl and would much prefer to hang out with people that aren’t paying homeowner's insurance.",
+   "zh": ""
+  },
+  {
+   "en": ": Now stop following me.",
+   "zh": ""
+  },
+  {
+   "en": ": Heh...You look sort of like a kitten right now, Osako.",
+   "zh": ""
+  },
+  {
+   "en": ": Do you mind if I pet you?",
+   "zh": ""
+  },
+  {
+   "en": ": Isn’t this fun, Maya? We’re about to watch lesbians do lesbian stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": Yes. Hooray. Again, this has nothing to do with me.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey! Uhh...Wakana and me were just going to go out for coffee and-",
+   "zh": ""
+  },
+  {
+   "en": ": Wakana and I, my cute little kitten.",
+   "zh": ""
+  },
+  {
+   "en": ": Wakana and I were about to go out for coffee and...if you two aren’t doing anything...why not come with us?",
+   "zh": ""
+  },
+  {
+   "en": ": No thanks.",
+   "zh": ""
+  },
+  {
+   "en": ": Sure. I’m okay with it if Maya is.",
+   "zh": ""
+  },
+  {
+   "en": ": Have you just given up on paying any attention to me for the rest of the day now that all of the world ending stuff is out of the way?",
+   "zh": ""
+  },
+  {
+   "en": ": World ending stuff?",
+   "zh": ""
+  },
+  {
+   "en": ": Long story. But also, yes.",
+   "zh": ""
+  },
+  {
+   "en": ": We finished our formally scheduled conversation and are now free for the rest of the day.",
+   "zh": ""
+  },
+  {
+   "en": ": And if you leave now, I’d just wind up following you to your dorm and forcing you to hang out with me anyway.",
+   "zh": ""
+  },
+  {
+   "en": ": Is...it really okay for you to say stuff like that in[school]?",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know these people. What reason is there for me to join all of you when-",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll buy you food.",
+   "zh": ""
+  },
+  {
+   "en": ": I...",
+   "zh": ""
+  },
+  {
+   "en": ": Mmh!",
+   "zh": ""
+  },
+  {
+   "en": ": Did you just scoff at me?",
+   "zh": ""
+  },
+  {
+   "en": ": You tapped into one of my weaknesses and now I’m having a hard time declining.",
+   "zh": ""
+  },
+  {
+   "en": ": If it makes you feel any better, I’ve kicked this guy’s ass on multiple occasions now and could easily intervene if he tries to pull anything on you.",
+   "zh": ""
+  },
+  {
+   "en": ": Thank you. That does make me feel slightly better.",
+   "zh": ""
+  },
+  {
+   "en": ": Peculiar.",
+   "zh": ""
+  },
+  {
+   "en": ": What do you mean?",
+   "zh": ""
+  },
+  {
+   "en": ": I had just assumed this girl was one of your concubines due to her outburst when that pink haired anarchist professed her love to you.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay. If we’re going to get coffee or whatever, let’s do it now.",
+   "zh": ""
+  },
+  {
+   "en": ": There’s no use standing around talking about things that don’t matter to anyone when there are...bagels and stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s a bit of a touchy subject seeing as I just had to convince Maya not to murder that girl less than twenty minutes ago.",
+   "zh": ""
+  },
+  {
+   "en": ": Huh.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, I never have to be convinced to not talk about something, so that’s fine.",
+   "zh": ""
+  },
+  {
+   "en": ": But if you two are coming, please try to keep conversation to a minimum.",
+   "zh": ""
+  },
+  {
+   "en": ": Just don’t bring up stars or religion or whatever and I’m sure that much will be doable.",
+   "zh": ""
+  },
+  {
+   "en": ": I hope you’re aware that you are the actual bane of my existence.",
+   "zh": ""
+  },
+  {
+   "en": ": I hope you’re aware that you have an allowance for this double date and that I will not be bankrupted by a girl with a bottomless pit for a stomach.",
+   "zh": ""
+  },
+  {
+   "en": ": A...double date, huh?",
+   "zh": ""
+  },
+  {
+   "en": ": That’s actually really cute if we...ignore the fact that one of the girls isn’t old enough to drink and is...going out with her teacher.",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t call it a date. I didn’t agree to that.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m just hungry.",
+   "zh": ""
+  },
+  {
+   "en": ": Well then, like you said, there’s no use standing around.",
+   "zh": ""
+  },
+  {
+   "en": "Maya grabs her coat out of her locker and the four of us leave the[school] together.",
+   "zh": ""
+  },
+  {
+   "en": "We begin walking in the opposite direction of the path I normally take home and it quickly becomes clear to me that there are still a lot of places in Kumon-mi that I’m not familiar with yet.",
+   "zh": ""
+  },
+  {
+   "en": "We pass by the takoyaki stand Maya brought me to a long time ago and I notice that it’s closed for the winter.",
+   "zh": ""
+  },
+  {
+   "en": "Either that or the old man running it died and left it to rot.",
+   "zh": ""
+  },
+  {
+   "en": "I wonder how many pounds of octopus still linger within the confines of the cart’s freezers?",
+   "zh": ""
+  },
+  {
+   "en": "I wonder how rotted they’ve become and if any insects have managed to crawl their way inside to feed off of the-",
+   "zh": ""
+  },
+  {
+   "en": ": Okay! We’re here.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh.",
+   "zh": ""
+  },
+  {
+   "en": ": That was...extremely quick.",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": So...now what?",
+   "zh": ""
+  },
+  {
+   "en": ": Wakana and I haven’t been on a double date since college.",
+   "zh": ""
+  },
+  {
+   "en": ": Please...don’t call it that. I just want to eat.",
+   "zh": ""
+  },
+  {
+   "en": ": I’d prefer not to think about anything that happened in college.",
+   "zh": ""
+  },
+  {
+   "en": ": This also wouldn’t qualify as a double date considering the two on the opposite side of the table are here against their will.",
+   "zh": ""
+  },
+  {
+   "en": ": Correction: I am here against my will. Frankly, there is no place Sensei would rather be.",
+   "zh": ""
+  },
+  {
+   "en": ": Wow, you really do know me better than I know myself.",
+   "zh": ""
+  },
+  {
+   "en": ": That aspect of your personality is just common sense.",
+   "zh": ""
+  },
+  {
+   "en": ": Why else would you spend so much time chasing after someone so obviously trying to get away from you?",
+   "zh": ""
+  },
+  {
+   "en": ": Hahah...that sounds a little like us.",
+   "zh": ""
+  },
+  {
+   "en": ": Please don’t explain why.",
+   "zh": ""
+  },
+  {
+   "en": ": Osako kept her feelings for me secret for far longer than she had to.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re...not exactly easy to approach about that sort of thing, you know.",
+   "zh": ""
+  },
+  {
+   "en": ": And since we were already friends...it made it like, eleven times harder.",
+   "zh": ""
+  },
+  {
+   "en": ": Eleven?",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah. I don’t know. Leave me alone.",
+   "zh": ""
+  },
+  {
+   "en": ": Osako gets embarrassed when we talk about the old days. Please don’t pay it any mind.",
+   "zh": ""
+  },
+  {
+   "en": ": She’s a lot more...brazen when we’re alone.",
+   "zh": ""
+  },
+  {
+   "en": ": I changed my mind. I love them and I want them to be together forever.",
+   "zh": ""
+  },
+  {
+   "en": ": I didn’t realize your mind needed changing.",
+   "zh": ""
+  },
+  {
+   "en": ": I initially mistook them for a swinger couple trying to get the two of us involved in their...antics.",
+   "zh": ""
+  },
+  {
+   "en": ": And that this was a meeting designed to get me to open up to the idea of it.",
+   "zh": ""
+  },
+  {
+   "en": ": And you still came?",
+   "zh": ""
+  },
+  {
+   "en": ": You underestimate my love for food.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my God, I...didn’t even realize that...people your age could interpret things that way.",
+   "zh": ""
+  },
+  {
+   "en": ": I guess the...sudden invitation probably did seem a little weird then...",
+   "zh": ""
+  },
+  {
+   "en": ": While it’s true that relationships like that exist, I think it’s a bit unfair to immediately assume my partner and I were a part of one.",
+   "zh": ""
+  },
+  {
+   "en": ": It is, and I apologize. I can’t help but be a little judgemental at times and, unfortunately, Ms. Watabe’s reputation isn’t exactly...good.",
+   "zh": ""
+  },
+  {
+   "en": ": I beg your pardon?",
+   "zh": ""
+  },
+  {
+   "en": ": Careful, Maya. She can probably give you detention.",
+   "zh": ""
+  },
+  {
+   "en": ": At the risk of sounding rude, there are just a lot of girls who think she might be into some...strange practices.",
+   "zh": ""
+  },
+  {
+   "en": ": Please explain what you mean by “strange practices.”",
+   "zh": ""
+  },
+  {
+   "en": ": I’m afraid I can’t do that without relinquishing my aura of stoicism and I am, once again, very sorry.",
+   "zh": ""
+  },
+  {
+   "en": ": I could call Nodoka and find out. She seems to really like Wakana.",
+   "zh": ""
+  },
+  {
+   "en": ": Absolutely not. The last thing I want is that smut writer rattling off her fantasies about me over the telephone for the whole world to hear.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s not how phones work, babe.",
+   "zh": ""
+  },
+  {
+   "en": ": Silence, Osako. Clear my name to our companions. I’m too infuriated to speak.",
+   "zh": ""
+  },
+  {
+   "en": ": I...don’t really want to tell them about our...personal life...",
+   "zh": ""
+  },
+  {
+   "en": ": That’s unfortunate because I really want to hear about it.",
+   "zh": ""
+  },
+  {
+   "en": ": May I be excused? Despite how fond I’m growing of you two, I’m still here for the food and I’m pretty sure we order at the counter.",
+   "zh": ""
+  },
+  {
+   "en": ": But we’re finally getting to the good part.",
+   "zh": ""
+  },
+  {
+   "en": ": No, we’re getting to the swinger part. The part I specifically stated that I want no part of.",
+   "zh": ""
+  },
+  {
+   "en": ": Now, if you’ll please excuse me.",
+   "zh": ""
+  },
+  {
+   "en": "Maya gets up and goes to the counter to likely order every single item on the menu, leaving me alone with two women who have probably even less interest in sleeping with me than she does.",
+   "zh": ""
+  },
+  {
+   "en": "Today is suddenly bad.",
+   "zh": ""
+  },
+  {
+   "en": ": So...what’s that girl’s name again? She’s...a lot different from Ayane.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, right. This incorrigible fiend is also a student of yours.",
+   "zh": ""
+  },
+  {
+   "en": ": Her name is Maya. And yes, she is very different from Ayane.",
+   "zh": ""
+  },
+  {
+   "en": ": Does Ayane know you’re out with her? Because...I was pretty sure you two were like...you know.",
+   "zh": ""
+  },
+  {
+   "en": ": Rumor has it that he is “you know” with roughly half of his class.",
+   "zh": ""
+  },
+  {
+   "en": ": That rumor is false, thank you very much.",
+   "zh": ""
+  },
+  {
+   "en": "I have yet to crack the halfway point.",
+   "zh": ""
+  },
+  {
+   "en": "But rest assured, Wakana-",
+   "zh": ""
+  },
+  {
+   "en": "I will get there.",
+   "zh": ""
+  },
+  {
+   "en": ": Well...whatever the case, I like this girl.",
+   "zh": ""
+  },
+  {
+   "en": ": She doesn’t really talk the way most girls her age do.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my.",
+   "zh": ""
+  },
+  {
+   "en": ": Are you actually attempting to swing, Osako?",
+   "zh": ""
+  },
+  {
+   "en": ": God, no! I was just saying that this is kind of fun and that we should maybe do it again sometime or something!",
+   "zh": ""
+  },
+  {
+   "en": ": That sounds like what a swinger would say.",
+   "zh": ""
+  },
+  {
+   "en": ": It does...",
+   "zh": ""
+  },
+  {
+   "en": ": You haven’t been hiding another strange fetish from me, have you?",
+   "zh": ""
+  },
+  {
+   "en": ": Another?",
+   "zh": ""
+  },
+  {
+   "en": ": It’s not another! It would be the first one!",
+   "zh": ""
+  },
+  {
+   "en": ": And it isn’t! Because it’s not true!",
+   "zh": ""
+  },
+  {
+   "en": ": Hm...whatever you say.",
+   "zh": ""
+  },
+  {
+   "en": ": Despite being a teacher, I’m not very in tune with what youths nowadays are after.",
+   "zh": ""
+  },
+  {
+   "en": ": But if you say that wanting to be blindfolded, tied up, and teased is normal, I have no reason to disbelieve you.",
+   "zh": ""
+  },
+  {
+   "en": ": Wakana, why?!",
+   "zh": ""
+  },
+  {
+   "en": ": It’s not even that weird! And now I’m going to have to kill him for knowing!",
+   "zh": ""
+  },
+  {
+   "en": ": If you’re going to go all out with this swinging thing, you’re going to have to disclose your interests to all parties first.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my God, I hate you so much.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t think I’ll ever be able to look at you the same way again.",
+   "zh": ""
+  },
+  {
+   "en": ": Ahhhhh! Come on!",
+   "zh": ""
+  },
+  {
+   "en": ": Okay, I’m back. I only ordered half of the menu items and-",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": What did you do?",
+   "zh": ""
+  },
+  {
+   "en": ": It really wasn’t my fault this time.",
+   "zh": ""
+  },
+  {
+   "en": ": Right. And why is Ms. Watabe’s girlfriend covering her eyes?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Because she likes being blindfolded.",
+   "zh": ""
+  },
+  {
+   "en": ": Mmmmmmm!",
+   "zh": ""
+  },
+  {
+   "en": ": ...I don’t get it.",
+   "zh": ""
+  },
+  {
+   "en": ": Because you’re too [young]and innocent.",
+   "zh": ""
+  },
+  {
+   "en": ": Uh-huh. Right.",
+   "zh": ""
+  },
+  {
+   "en": ": While my partner grieves at the loss of one of her most intimate details, I would like to take a moment to make an important announcement.",
+   "zh": ""
+  },
+  {
+   "en": ": An...important announcement?",
+   "zh": ""
+  },
+  {
+   "en": ": You didn’t invite us to some sort of...big thing, did you? Because I still barely know either of you and would feel very uncomfortable if that were the case.",
+   "zh": ""
+  },
+  {
+   "en": ": An...announcement?",
+   "zh": ""
+  },
+  {
+   "en": ": But what would you be-",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my God...are you...",
+   "zh": ""
+  },
+  {
+   "en": ": Is this what I think it is?",
+   "zh": ""
+  },
+  {
+   "en": ": I really, really hope not.",
+   "zh": ""
+  },
+  {
+   "en": ": Wakana...",
+   "zh": ""
+  },
+  {
+   "en": ": Are...",
+   "zh": ""
+  },
+  {
+   "en": ": Are you...",
+   "zh": ""
+  },
+  {
+   "en": ": Everyone...",
+   "zh": ""
+  },
+  {
+   "en": ": Osako...",
+   "zh": ""
+  },
+  {
+   "en": ": I want to fucking die.",
+   "zh": ""
+  },
+  {
+   "en": ": Beautiful.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": You...",
+   "zh": ""
+  },
+  {
+   "en": ": Why would that be...an important announcement?",
+   "zh": ""
+  },
+  {
+   "en": ": Were you expecting something else, my kitten?",
+   "zh": ""
+  },
+  {
+   "en": ": No! I just...",
+   "zh": ""
+  },
+  {
+   "en": ": I’m gonna go order something, too!",
+   "zh": ""
+  },
+  {
+   "en": ": Would you mind ordering me another tea, my love?",
+   "zh": ""
+  },
+  {
+   "en": ": Fine! What kind?!",
+   "zh": ""
+  },
+  {
+   "en": ": Lavender, please. It will remind me of your eyes.",
+   "zh": ""
+  },
+  {
+   "en": ": God, I hate that you’re so cute!",
+   "zh": ""
+  },
+  {
+   "en": "As Osako clumsily runs over to the counter to order, Wakana removes a notebook from a large black bag and begins to scribble something down on it.",
+   "zh": ""
+  },
+  {
+   "en": ": This was fun. And, at the risk of sounding like a swinger, I’d like to invite you both to do it again sometime.",
+   "zh": ""
+  },
+  {
+   "en": ": It isn’t often that Osako and I spend time with other couples. And even if you two are not romantically involved, I’d like the opportunity to tease her some more around you, if you will have us.",
+   "zh": ""
+  },
+  {
+   "en": ": Doing so is the only thing that can shine light upon the dark tangle of wires that has become my heart.",
+   "zh": ""
+  },
+  {
+   "en": ": I will respectfully decline.",
+   "zh": ""
+  },
+  {
+   "en": ": I will respectfully accept your phone number.",
+   "zh": ""
+  },
+  {
+   "en": ": But if Osako tries to beat me up for texting you, I’m going to need you to stand up for me.",
+   "zh": ""
+  },
+  {
+   "en": ": Osako is a free woman and you will accept my telephone number fully understanding the risk it carries with it.",
+   "zh": ""
+  },
+  {
+   "en": ": Damn it. Fine. Just give it to me.",
+   "zh": ""
+  },
+  {
+   "en": ": Absolutely pathetic.",
+   "zh": ""
+  },
+  {
+   "en": "I mark this down as a victory in my book not only because I got a new phone number, but because Maya called me pathetic instead of disgusting for once.",
+   "zh": ""
+  },
+  {
+   "en": "Which...I guess isn’t really much better in the grand scheme of things.",
+   "zh": ""
+  },
+  {
+   "en": "Or better at all, for that matter.",
+   "zh": ""
+  },
+  {
+   "en": "But hey, phone number.",
+   "zh": ""
+  },
+  {
+   "en": "Osako returns a short while later with a spread of pastries for all of us to share and, after we spend around forty-five minutes eating everything, we pay our bills and leave the cafe...",
+   "zh": ""
+  },
+  {
+   "en": "Congratulations! You now have Wakana’s phone number!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

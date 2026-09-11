@@ -1,0 +1,1386 @@
+{
+ "label": "day220",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": "Let me tell you a story.",
+   "zh": ""
+  },
+  {
+   "en": "A long time ago, before you and I existed, there was a great, big ball of light floating through the universe.",
+   "zh": ""
+  },
+  {
+   "en": "The ball’s name was Nozomu.",
+   "zh": ""
+  },
+  {
+   "en": "It’s an origin story you should be familiar with by now.",
+   "zh": ""
+  },
+  {
+   "en": "But what if I told you there was another origin story?",
+   "zh": ""
+  },
+  {
+   "en": "One that less people know about, but one that still exists?",
+   "zh": ""
+  },
+  {
+   "en": "Is that a story you’d be interested in hearing?",
+   "zh": ""
+  },
+  {
+   "en": "Yes",
+   "zh": ""
+  },
+  {
+   "en": "Great!",
+   "zh": ""
+  },
+  {
+   "en": "No",
+   "zh": ""
+  },
+  {
+   "en": "Oh.",
+   "zh": ""
+  },
+  {
+   "en": "Well that’s unfortunate, because I’m going to tell you anyway.",
+   "zh": ""
+  },
+  {
+   "en": "Imagine thinking you actually had a choice in the matter.",
+   "zh": ""
+  },
+  {
+   "en": "Some people seem to believe the story about the ball of light doesn’t make sense or that it doesn’t align with their perception of the universe itself.",
+   "zh": ""
+  },
+  {
+   "en": "Some people are just more...scientific by design.",
+   "zh": ""
+  },
+  {
+   "en": "And so they believe what any science-loving people would believe in and worship a god who is science incarnate.",
+   "zh": ""
+  },
+  {
+   "en": "Because worshipping a god who is science is better and less scary than worshipping no god at all.",
+   "zh": ""
+  },
+  {
+   "en": "This god was very different from Nozomu.",
+   "zh": ""
+  },
+  {
+   "en": "When faced with loneliness, he simply sat there.",
+   "zh": ""
+  },
+  {
+   "en": "His entire life (If that’s what you can even call it in the case of a god) existed in the confined space of a dark bedroom- much like the one you’re in now!",
+   "zh": ""
+  },
+  {
+   "en": "But when given the option to do things in his spare time, he elected to stay still instead of going places like a cafe or a library.",
+   "zh": ""
+  },
+  {
+   "en": "He wasn’t very human.",
+   "zh": ""
+  },
+  {
+   "en": "In fact, he wasn’t human at all.",
+   "zh": ""
+  },
+  {
+   "en": "So, as he sat there in a dark room, engulfed by darkness and eating darkness for breakfast, lunch, and dinner, he planted his roots into the dark floor.",
+   "zh": ""
+  },
+  {
+   "en": "The roots turned into wires.",
+   "zh": ""
+  },
+  {
+   "en": "And all of the knowledge stuck inside this shell of a planet was ultimately absorbed by him.",
+   "zh": ""
+  },
+  {
+   "en": "And with those roots, sunken deep into the ground and twisting around everything that has since emerged from the soil-",
+   "zh": ""
+  },
+  {
+   "en": "He was able to control it all.",
+   "zh": ""
+  },
+  {
+   "en": "Or at least to some extent.",
+   "zh": ""
+  },
+  {
+   "en": "Oftentimes, people would forsake the fact that they had literally grown from this god.",
+   "zh": ""
+  },
+  {
+   "en": "They’d turn their backs on him and decide to believe in something different.",
+   "zh": ""
+  },
+  {
+   "en": "But this god could not feel, so he did not mind.",
+   "zh": ""
+  },
+  {
+   "en": "One by one, day by day, the fruits of his energy- powered by the celestial body that gifted them life, would leave him to rot.",
+   "zh": ""
+  },
+  {
+   "en": "They would leave him to rot as he remained in that dark room, letting the world move around him- spinning so fast that even thinking about it would cause you to burn up and die.",
+   "zh": ""
+  },
+  {
+   "en": "Little by little, the control he had over all life had diminished.",
+   "zh": ""
+  },
+  {
+   "en": "Instead of influencing everyone inherently, he was only able to influence those who would willingly give themselves to him.",
+   "zh": ""
+  },
+  {
+   "en": "But, at that point, it was less the work of a god and more the idea of faith itself allowing anyone who did give themselves up to persevere.",
+   "zh": ""
+  },
+  {
+   "en": "So what was the point of it all?",
+   "zh": ""
+  },
+  {
+   "en": "What was the point of being a god if there was no use for a god in the first place?",
+   "zh": ""
+  },
+  {
+   "en": "Those who love science have no need for a god, even if that god is science itself.",
+   "zh": ""
+  },
+  {
+   "en": "Mixing religion and logic never works. And the second god knew this since those feelings died along with those who carried them and ultimately fed into the soil.",
+   "zh": ""
+  },
+  {
+   "en": "Slowly, like a dying battery-powered clock, the roots were drying out.",
+   "zh": ""
+  },
+  {
+   "en": "The wires were fraying and not transferring the information or energy needed to sustain the once all-knowing god.",
+   "zh": ""
+  },
+  {
+   "en": "All because people were bored or forgot about him.",
+   "zh": ""
+  },
+  {
+   "en": "O, how horrible it must be to drown in loneliness.",
+   "zh": ""
+  },
+  {
+   "en": "To drown in misery if misery could exist to those who do not feel.",
+   "zh": ""
+  },
+  {
+   "en": "A god is a god.",
+   "zh": ""
+  },
+  {
+   "en": "A wire is a wire.",
+   "zh": ""
+  },
+  {
+   "en": "If you connect those two things, you’ll wind up with an entity who, by all means, should become mad with power.",
+   "zh": ""
+  },
+  {
+   "en": "And yet this particular god (Who may or may not even exist in the first place) somehow managed to remain calm.",
+   "zh": ""
+  },
+  {
+   "en": "In contradiction to the callous nature of who many deem his predecessor, that glowing ball of horny light-",
+   "zh": ""
+  },
+  {
+   "en": "The second god (Who may or may not actually be the first if he even exists in the first place) was calm.",
+   "zh": ""
+  },
+  {
+   "en": "But he needed to be.",
+   "zh": ""
+  },
+  {
+   "en": "He needed to process information, analyze it, and only intervene when necessary.",
+   "zh": ""
+  },
+  {
+   "en": "Because somewhere in this god’s code, there was a line or two stating that he must maintain order.",
+   "zh": ""
+  },
+  {
+   "en": "“Let the process play out,” he’d think with his weird, computery brain.",
+   "zh": ""
+  },
+  {
+   "en": "“Only correct errors when errors appear.”",
+   "zh": ""
+  },
+  {
+   "en": "“If there are some who seek help, I shall give it only if necessary.”",
+   "zh": ""
+  },
+  {
+   "en": "“For as God, I must do godly things.”",
+   "zh": ""
+  },
+  {
+   "en": "That last part is something all gods say only to completely change their mind when they realize just how many people need help (IE: All of them).",
+   "zh": ""
+  },
+  {
+   "en": "So, we wind up here-",
+   "zh": ""
+  },
+  {
+   "en": "Alone in the same type of dark room a god was born in.",
+   "zh": ""
+  },
+  {
+   "en": "And we think to ourselves- “I wonder what I should do with my day?”",
+   "zh": ""
+  },
+  {
+   "en": "And to that I say-",
+   "zh": ""
+  },
+  {
+   "en": "Why not become a god yourself?",
+   "zh": ""
+  },
+  {
+   "en": "If a horny ball of light and a tree-like computer can do it, certainly you can too.",
+   "zh": ""
+  },
+  {
+   "en": "Right?",
+   "zh": ""
+  },
+  {
+   "en": "Again, this is all just a story, though.",
+   "zh": ""
+  },
+  {
+   "en": "It’s a thing I heard from a person who heard it from some other person who heard it on some radio show.",
+   "zh": ""
+  },
+  {
+   "en": "But I guess if we’re willing to believe a list of things passed down by “actual” gods for thousands of years, removing the things I’ve heard from two people and bringing them back up here holds a little more weight.",
+   "zh": ""
+  },
+  {
+   "en": "Who would you rather believe?",
+   "zh": ""
+  },
+  {
+   "en": "One guy who heard something just the other day?",
+   "zh": ""
+  },
+  {
+   "en": "Or one guy who heard something thousands of years ago and started one long game of telephone where people turned whatever his message was into some mutilated mess?",
+   "zh": ""
+  },
+  {
+   "en": "If neither of those sound good to you-",
+   "zh": ""
+  },
+  {
+   "en": "Why not worship a god who is the earth itself?",
+   "zh": ""
+  },
+  {
+   "en": "A god who is both tree-like and computer-like!",
+   "zh": ""
+  },
+  {
+   "en": "Whose roots are wires! Whose fruits are floppy disks!",
+   "zh": ""
+  },
+  {
+   "en": "Or I guess compact discs or MP3s in this day and age.",
+   "zh": ""
+  },
+  {
+   "en": "Either way, you’re free to believe whatever you would like to believe.",
+   "zh": ""
+  },
+  {
+   "en": "I’m just here to tell you stories every once in a while.",
+   "zh": ""
+  },
+  {
+   "en": "It's unfortunate, though.",
+   "zh": ""
+  },
+  {
+   "en": "I heard somewhere, probably from a person who knows a person who listens to some radio show, that there is a third god.",
+   "zh": ""
+  },
+  {
+   "en": "But all I know is that this god is overcome with concern.",
+   "zh": ""
+  },
+  {
+   "en": "Concern for what is unclear but...",
+   "zh": ""
+  },
+  {
+   "en": "Oh well.",
+   "zh": ""
+  },
+  {
+   "en": "I hope I wind up hearing more so I can tell you about it.",
+   "zh": ""
+  },
+  {
+   "en": "I like talking to you.",
+   "zh": ""
+  },
+  {
+   "en": "I’ve come to think that we’re good friends.",
+   "zh": ""
+  },
+  {
+   "en": "And friends do things for one another, right?",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "I'm going to take your silence as a yes.",
+   "zh": ""
+  },
+  {
+   "en": "And I'm going to use that yes to have you do something for me right now.",
+   "zh": ""
+  },
+  {
+   "en": "Thankfully, it's something you were going to do anyway.",
+   "zh": ""
+  },
+  {
+   "en": "And if it seems a little familiar, it's because it is.",
+   "zh": ""
+  },
+  {
+   "en": "But I can assure you that it's for the best.",
+   "zh": ""
+  },
+  {
+   "en": "Now-",
+   "zh": ""
+  },
+  {
+   "en": "Retrace your footsteps.",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "Jump",
+   "zh": ""
+  },
+  {
+   "en": "Jump",
+   "zh": ""
+  },
+  {
+   "en": "Jump",
+   "zh": ""
+  },
+  {
+   "en": "Jump",
+   "zh": ""
+  },
+  {
+   "en": "Jump",
+   "zh": ""
+  },
+  {
+   "en": "Jump",
+   "zh": ""
+  },
+  {
+   "en": "Welcome home.",
+   "zh": ""
+  },
+  {
+   "en": "6e 6f 74 68 69 6e 67 20 66 61 6c 6c 73 20 62 75 74 20 6d 65 (nothing falls but me)",
+   "zh": ""
+  },
+  {
+   "en": ": Where am I?",
+   "zh": ""
+  },
+  {
+   "en": ": .....i?",
+   "zh": ""
+  },
+  {
+   "en": ": Hello? Who’s there?",
+   "zh": ""
+  },
+  {
+   "en": ": ...sei?",
+   "zh": ""
+  },
+  {
+   "en": ": Why is everything so dark?...",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t feel so good...",
+   "zh": ""
+  },
+  {
+   "en": ": ...Ami?",
+   "zh": ""
+  },
+  {
+   "en": ": SOMETHING...IS...WRONG...",
+   "zh": ""
+  },
+  {
+   "en": ": My body feels so hot...",
+   "zh": ""
+  },
+  {
+   "en": ": I can feel...so many things...",
+   "zh": ""
+  },
+  {
+   "en": ": WHAT IS...",
+   "zh": ""
+  },
+  {
+   "en": ": HAPPENING TO ME?...",
+   "zh": ""
+  },
+  {
+   "en": "mY aDoRaBlE [niece] stanDS OVer my bed and I CAN c her pussy lol0l0l0l.",
+   "zh": ""
+  },
+  {
+   "en": ": I had a dream just now that...everyone disappeared...",
+   "zh": ""
+  },
+  {
+   "en": ": But...you’re still here...right?...",
+   "zh": ""
+  },
+  {
+   "en": ": RIGHT?!",
+   "zh": ""
+  },
+  {
+   "en": ": You’re here, right?!",
+   "zh": ""
+  },
+  {
+   "en": ": Tell me you see me!",
+   "zh": ""
+  },
+  {
+   "en": ": I can see you...",
+   "zh": ""
+  },
+  {
+   "en": ": Just...calm down for a second.",
+   "zh": ""
+  },
+  {
+   "en": ": CALM DOWN?! HOW CAN I CALM DOWN WHEN I CAN FEEL MYSELF MELTING FROM THE INSIDE?!",
+   "zh": ""
+  },
+  {
+   "en": ": WE...WE NEED TO GO TO THE HOSPITAL!",
+   "zh": ""
+  },
+  {
+   "en": ": You need to get dressed first.",
+   "zh": ""
+  },
+  {
+   "en": ": aaaaaahaaahahahhhhhhhH!HHH!H!!!!AAAAHHH!H!!!!!!!!!!!!!",
+   "zh": ""
+  },
+  {
+   "en": ": SEN,.......LFVL;SVLSDKLVHNSV.....SEI!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+   "zh": ""
+  },
+  {
+   "en": ": Help...meeeee!!!!",
+   "zh": ""
+  },
+  {
+   "en": ": SOM3TH1NG 1S H4PP3NING!!!!!!!!!!!!!!!!!!!!!!1111111111111",
+   "zh": ""
+  },
+  {
+   "en": ": Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": "Oh, there was one more thing I forgot to mention about the second god. The one with all of the wires.",
+   "zh": ""
+  },
+  {
+   "en": "He’s capable of a lot more than just deleting viruses like depression or bipolarity from the human subconscious.",
+   "zh": ""
+  },
+  {
+   "en": "Sometimes, if he’s controlling the right person, he can make some visual alterations as well.",
+   "zh": ""
+  },
+  {
+   "en": "It’s something the horny ball of light never learned to do.",
+   "zh": ""
+  },
+  {
+   "en": "So if you’re ever forced to choose between gods, maybe the callous one would be easier than the calm one after all?",
+   "zh": ""
+  },
+  {
+   "en": "Now, back to your [niece].",
+   "zh": ""
+  },
+  {
+   "en": ": Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey.",
+   "zh": ""
+  },
+  {
+   "en": ": Help me. Help me. Help me.",
+   "zh": ""
+  },
+  {
+   "en": ": AGHHHHHHHH342356234461352456234!!!!!!!!!",
+   "zh": ""
+  },
+  {
+   "en": ": 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 21 21 21 21 21 21 21 (praise be!praise be!praise be!praise be!praise be!!!!!!!!)",
+   "zh": ""
+  },
+  {
+   "en": "I can hear the sounds of Ami’s teeth beginning to crunch and snap inside of her mouth and I finally believe that something might be happening to her after all.",
+   "zh": ""
+  },
+  {
+   "en": "Think back to your worst experience in a dentist’s chair and multiply it by nine and a half.",
+   "zh": ""
+  },
+  {
+   "en": "That’s somewhere in the realm of what I imagine she’s experiencing right now.",
+   "zh": ""
+  },
+  {
+   "en": "That poor girl.",
+   "zh": ""
+  },
+  {
+   "en": "We should take her skin off and make her feel a little more comfortable.",
+   "zh": ""
+  },
+  {
+   "en": ": 68 65 6c 70 20 6d 65 21 (help me!)",
+   "zh": ""
+  },
+  {
+   "en": ": Shhh...",
+   "zh": ""
+  },
+  {
+   "en": ": It will all be over soon.",
+   "zh": ""
+  },
+  {
+   "en": ": 49 20 64 6f 6e 27 74 20 77 61 6e 74 20 69 74 20 74 6f 20 62 65 20 6f 76 65 72 21 20 49 27 6d 20 73 63 61 72 65 64 21 (I don't want it to be over! I'm scared!)",
+   "zh": ""
+  },
+  {
+   "en": ": 53 65 6e 73 65 69 21 20 49 20 6c 6f 76 65 20 79 6f 75 21 (Sensei! I love you!)",
+   "zh": ""
+  },
+  {
+   "en": ": 49 20 64 6f 6e 27 74 20 77 61 6e 74 20 74 6f 20 6c 6f 73 65 20 79 6f 75 20 61 67 61 69 6e 21 (I don't want to lose you again!)",
+   "zh": ""
+  },
+  {
+   "en": ": 4e 6f 74 20 6c 69 6b 65 20 74 68 69 73 21 (Not like this!)",
+   "zh": ""
+  },
+  {
+   "en": "Ami says a lot of things to me but I don’t speak “numbers.”",
+   "zh": ""
+  },
+  {
+   "en": "I imagine it’s something about how much pain she’s in or how worried she is about the burden her soon-needed dental work will put on our budget.",
+   "zh": ""
+  },
+  {
+   "en": "If it’s really as bad as I expect it to be, we might need to look into prostitution instead of just throwing her into some maid cafe.",
+   "zh": ""
+  },
+  {
+   "en": "A girl like her would be sure to raise a lot of money if things ever went down that route.",
+   "zh": ""
+  },
+  {
+   "en": "I’m not that big into the idea of my [niece] taking some random guy’s cock just to put food on the table but-",
+   "zh": ""
+  },
+  {
+   "en": ": Oh wait.",
+   "zh": ""
+  },
+  {
+   "en": ": There are barely any other men here to begin with.",
+   "zh": ""
+  },
+  {
+   "en": ": Ami, how would you feel about sleeping with another girl?",
+   "zh": ""
+  },
+  {
+   "en": ": 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 21 21 21 21 21 21 (aaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!!)",
+   "zh": ""
+  },
+  {
+   "en": ": 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 (No!No!No!No!No!No!No!)",
+   "zh": ""
+  },
+  {
+   "en": ": 49 27 6d 20 6e 6f 74 20 72 65 61 64 79 20 74 6f 2e 2e 2e 6c 65 61 76 65 20 79 65 74 21 (I'm not ready to...leave yet!)",
+   "zh": ""
+  },
+  {
+   "en": ": Cool. I’m going to take that as a yes.",
+   "zh": ""
+  },
+  {
+   "en": "I move my waist up in an attempt to fuck my [niece] one last time before she becomes a lesbian in order to save our family.",
+   "zh": ""
+  },
+  {
+   "en": "I slide back on my bed because I still feel weird about [incest] despite having a huge boner right now (lol).",
+   "zh": ""
+  },
+  {
+   "en": "Unfortunately, I’m unable to finish my motion as my lower body appears to be glued to the bed.",
+   "zh": ""
+  },
+  {
+   "en": "If only I were able to throw myself into one of those lucid dreams somehow and still keep my physical form.",
+   "zh": ""
+  },
+  {
+   "en": "But I guess it would be more like becoming a ghost than a lucid dream at that point.",
+   "zh": ""
+  },
+  {
+   "en": "Either way, I’ll just have to let Ami’s episode play out before I do anything else.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m going to die...",
+   "zh": ""
+  },
+  {
+   "en": ": I’m going to die and you won’t even do anything about it...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh...GOD! WHY DOES IT HAVE TO HURT SO MUCH?!",
+   "zh": ""
+  },
+  {
+   "en": "I suddenly get the feeling that there is nothing.",
+   "zh": ""
+  },
+  {
+   "en": ": I love you so much...",
+   "zh": ""
+  },
+  {
+   "en": ": I really do...",
+   "zh": ""
+  },
+  {
+   "en": ": Sen...sei...",
+   "zh": ""
+  },
+  {
+   "en": ": At least remember the me who smiled instead of the me who did things like this.",
+   "zh": ""
+  },
+  {
+   "en": ": And, if this is what it’s like to experience the end of everything, know that I’m truly happy being able to experience it with you.",
+   "zh": ""
+  },
+  {
+   "en": ": You are everything to me.",
+   "zh": ""
+  },
+  {
+   "en": ": And no one will ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever take you away.",
+   "zh": ""
+  },
+  {
+   "en": ": Goodbye.",
+   "zh": ""
+  },
+  {
+   "en": ": For now.",
+   "zh": ""
+  },
+  {
+   "en": "Ami suddenly vanishes.",
+   "zh": ""
+  },
+  {
+   "en": "I wonder where she went?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "I lie in bed and stare at the ceiling.",
+   "zh": ""
+  },
+  {
+   "en": "What time is it?",
+   "zh": ""
+  },
+  {
+   "en": "It’s dark inside of my room but what appears to be sunlight pours through the window.",
+   "zh": ""
+  },
+  {
+   "en": "But then again, it could be a different form of light like an oversized lantern or a callous god.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Perhaps I should get up and do some exploring?",
+   "zh": ""
+  },
+  {
+   "en": "This is my door.",
+   "zh": ""
+  },
+  {
+   "en": "I open this and close this every morning on my way into the city to try and fuck my students.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "But today, it won’t open for some reason.",
+   "zh": ""
+  },
+  {
+   "en": "Perhaps I should try something else?",
+   "zh": ""
+  },
+  {
+   "en": "Use the cool rectangle machine",
+   "zh": ""
+  },
+  {
+   "en": "See out of the clock",
+   "zh": ""
+  },
+  {
+   "en": "I decide to become a clock.",
+   "zh": ""
+  },
+  {
+   "en": "I move my arms around in a circle.",
+   "zh": ""
+  },
+  {
+   "en": "It becomes difficult mimicking the second-hand, so I give up on that and decide to become a slower clock.",
+   "zh": ""
+  },
+  {
+   "en": "I wish I could become one without arms.",
+   "zh": ""
+  },
+  {
+   "en": "An infinite clock.",
+   "zh": ""
+  },
+  {
+   "en": "That would be really nice.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Now what?",
+   "zh": ""
+  },
+  {
+   "en": "Heaven!",
+   "zh": ""
+  },
+  {
+   "en": "My consciousness detaches from my body and floats up to the ceiling to look down at me from a new perspective.",
+   "zh": ""
+  },
+  {
+   "en": "It seems like I was able to lucid-dream after all.",
+   "zh": ""
+  },
+  {
+   "en": "I thought this sort of thing required a lot of practice but I was able to succeed on my first try.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "I think about how great life would be if I was able to float my spirit-self into places I’m not allowed to be like girls’ locker rooms or Maya’s bed.",
+   "zh": ""
+  },
+  {
+   "en": "And then I think about how great it would be to be allowed in those places to begin with.",
+   "zh": ""
+  },
+  {
+   "en": "I’ve gotta keep working hard so one day I’ll be able to bypass laws and fuck my [niece]’s best friend.",
+   "zh": ""
+  },
+  {
+   "en": "Let’s get back to adventuring!",
+   "zh": ""
+  },
+  {
+   "en": "Thing on the wall",
+   "zh": ""
+  },
+  {
+   "en": "There are a few things on the wall but none of them look as important as the menu suggested.",
+   "zh": ""
+  },
+  {
+   "en": "The one that catches my eye the most is a weird poem with some check marks next to it.",
+   "zh": ""
+  },
+  {
+   "en": "I guess the original Sensei liked poetry.",
+   "zh": ""
+  },
+  {
+   "en": "Did I know that already?",
+   "zh": ""
+  },
+  {
+   "en": "I can’t remember.",
+   "zh": ""
+  },
+  {
+   "en": "But I’m definitely not the one who wrote this.",
+   "zh": ""
+  },
+  {
+   "en": "I don’t remember those check marks either.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "I read the note on the right hand side of the corkboard.",
+   "zh": ""
+  },
+  {
+   "en": "It’s signed by MM.",
+   "zh": ""
+  },
+  {
+   "en": "I know so many MM’s.",
+   "zh": ""
+  },
+  {
+   "en": "This letter is stupid.",
+   "zh": ""
+  },
+  {
+   "en": "I should do something else.",
+   "zh": ""
+  },
+  {
+   "en": "Look at plants",
+   "zh": ""
+  },
+  {
+   "en": "I decide to look at my plants for whatever reason.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Nothing happens. Probably because they are plants.",
+   "zh": ""
+  },
+  {
+   "en": "Maybe something will happen if I watch them for ten seconds straight?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Nope. Doesn’t look like anything is going to happen after all.",
+   "zh": ""
+  },
+  {
+   "en": "Oh well.",
+   "zh": ""
+  },
+  {
+   "en": "I should do something else.",
+   "zh": ""
+  },
+  {
+   "en": "Watch the picture machine",
+   "zh": ""
+  },
+  {
+   "en": "I decide to pay a visit to my big-screen picture machine.",
+   "zh": ""
+  },
+  {
+   "en": "The TV is playing a show about several girls in a large house.",
+   "zh": ""
+  },
+  {
+   "en": "One of them is dead inside of a boiler room and the rest of the girls are either ignoring it or haven’t found out yet.",
+   "zh": ""
+  },
+  {
+   "en": "I stick around a little while longer to see if anything else happens, but it’s a surprisingly boring program.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "They should turn my life into a TV show.",
+   "zh": ""
+  },
+  {
+   "en": "I’m sure there are plenty of perverts respectable human beings who would watch it with their family.",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "Huh. Family.",
+   "zh": ""
+  },
+  {
+   "en": "I think I had one of those once.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "I try my hardest to remember, but my brain has been destroyed by all of the television I watch, so I am unable to.",
+   "zh": ""
+  },
+  {
+   "en": "Go under the desk",
+   "zh": ""
+  },
+  {
+   "en": "I get on my knees and crawl under the desk.",
+   "zh": ""
+  },
+  {
+   "en": "It’s a tight fit, but I’m able to get all the way back there with only minimal trouble.",
+   "zh": ""
+  },
+  {
+   "en": "I suddenly feel a lot younger.",
+   "zh": ""
+  },
+  {
+   "en": "I feel like there are many kids all over the planet who need to hide underneath things like this unironically.",
+   "zh": ""
+  },
+  {
+   "en": "But here I am, covered in dust and bumping my head every two seconds for the sake of...reliving childhood I guess?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Was childhood really this boring?",
+   "zh": ""
+  },
+  {
+   "en": "Kids are so stupid.",
+   "zh": ""
+  },
+  {
+   "en": "They should be doing things like dodging cars on the highway or going skydiving instead of hiding away from the world under a silly little-",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "My mind short-circuits when I find a 500 Yen coin near my right foot.",
+   "zh": ""
+  },
+  {
+   "en": "I am going to be rich.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Wait...what was I doing again?",
+   "zh": ""
+  },
+  {
+   "en": "What do I want to do on the rectangle?",
+   "zh": ""
+  },
+  {
+   "en": "Press some buttons",
+   "zh": ""
+  },
+  {
+   "en": "I decide to press some buttons.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Words appear on the screen.",
+   "zh": ""
+  },
+  {
+   "en": "It looks like I’m supposed to do something.",
+   "zh": ""
+  },
+  {
+   "en": "Jump to IP Address",
+   "zh": ""
+  },
+  {
+   "en": "Jump to Port Number",
+   "zh": ""
+  },
+  {
+   "en": "Jump to Username",
+   "zh": ""
+  },
+  {
+   "en": "Jump to System Password",
+   "zh": ""
+  },
+  {
+   "en": "Go back to the stuff",
+   "zh": ""
+  },
+  {
+   "en": ": I have no use for this rectangle right now.",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////ACCEPTED",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////REJECTED",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PLEASE CONTACT YOUR SYSTEM ADMINISTRATOR OR TRY AGAIN",
+   "zh": ""
+  },
+  {
+   "en": "////////////////CHECKING PORT NUMBER",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PORT NUMBER IS VALID",
+   "zh": ""
+  },
+  {
+   "en": "////////////////CHECKING PORT NUMBER",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PORT NUMBER IS INVALID",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PLEASE CONTACT YOUR SYSTEM ADMINISTRATOR OR TRY AGAIN",
+   "zh": ""
+  },
+  {
+   "en": "////////////////”USER1” IS OFFLINE AND CAN NOT ACCEPT YOUR REQUEST",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PLEASE ENTER A DIFFERENT USERNAME",
+   "zh": ""
+  },
+  {
+   "en": "////////////////REQUESTING CONNECTION TO ”USER3”",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////CONNECTION HAS BEEN REJECTED",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PLEASE ENTER A DIFFERENT USERNAME",
+   "zh": ""
+  },
+  {
+   "en": "////////////////”USER4” IS A RESERVED ADDRESS",
+   "zh": ""
+  },
+  {
+   "en": "////////////////YOU ARE CURRENTLY UNABLE TO REQUEST THIS CONNECTION",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PLEASE ENTER A DIFFERENT USERNAME",
+   "zh": ""
+  },
+  {
+   "en": "////////////////”USER2” IS CURRENTLY UNDERGOING MAINTENANCE",
+   "zh": ""
+  },
+  {
+   "en": "////////////////WOULD YOU STILL LIKE TO CONNECT?",
+   "zh": ""
+  },
+  {
+   "en": "Yes",
+   "zh": ""
+  },
+  {
+   "en": "////////////////ATTEMPTING CONNECTION",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////CONNECTION ACCEPTED",
+   "zh": ""
+  },
+  {
+   "en": "No",
+   "zh": ""
+  },
+  {
+   "en": "////////////////CONNECTION TERMINATED",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PROCESS ENDED",
+   "zh": ""
+  },
+  {
+   "en": "////////////////INVALID USERNAME",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PLEASE CONTACT YOUR SYSTEM ADMINISTRATOR OR TRY AGAIN",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PASSWORD ACCEPTED",
+   "zh": ""
+  },
+  {
+   "en": "////////////////FINALIZING CONNECTION TO “USER2”",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////...",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PASSWORD INCORRECT",
+   "zh": ""
+  },
+  {
+   "en": "////////////////PLEASE TRY AGAIN",
+   "zh": ""
+  }
+ ]
+}

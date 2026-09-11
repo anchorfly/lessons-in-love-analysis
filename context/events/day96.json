@@ -1,0 +1,646 @@
+{
+ "label": "day96",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": ": We’re finally free! I felt like today was dragging on forever.",
+   "zh": ""
+  },
+  {
+   "en": ": I was this close to faking a stomach ache so I could go home, Sensei. You better be proud of me for toughing it out.",
+   "zh": ""
+  },
+  {
+   "en": ": Ami, if you ever want to leave, you can just tell me. I literally do not care at all.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, you should! Like you always used to say, a mind is a terrible thing to waste.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey, come to think of it...you never really say anything encouraging like that anymore. How come?",
+   "zh": ""
+  },
+  {
+   "en": ": Have I already peaked as a student in your eyes? Is it all downhill from here?",
+   "zh": ""
+  },
+  {
+   "en": ": Maybe it's just the fact that he's changed and is an entirely different person now? That sounds reasonable, doesn't it?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, hi Maya. Thanks for joining in. You've been so quiet since the last bell rang that I forgot you were even there.",
+   "zh": ""
+  },
+  {
+   "en": ": I apologize for not making my presence more apparent. I’ve been a little distracted all day.",
+   "zh": ""
+  },
+  {
+   "en": ": And it certainly doesn’t help that he’s with us for some reason.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey, I’ve been respectful and haven’t spoken to you at all. The least you can do is refrain from insulting me for a little bit.",
+   "zh": ""
+  },
+  {
+   "en": ": Why? Are the feelings you pretend to have hurt in some way? Would you like me to apply a make-believe bandage to them?",
+   "zh": ""
+  },
+  {
+   "en": ": Here. Let me reach into my make-believe purse and get one for you.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Maya seems abnormally...agitated today- which is surprising given that she’s normally pretty agitated to begin with.",
+   "zh": ""
+  },
+  {
+   "en": "The thing is I really haven't done anything this time, though. At least not to my knowledge. So this is just completely bizarre to me.",
+   "zh": ""
+  },
+  {
+   "en": ": So, uhh...ignoring how cranky you are, is it okay if we stop at the convenience store on the way home?",
+   "zh": ""
+  },
+  {
+   "en": ": It’s been crazy hot lately and I think I might die if I don’t have a drink in the next few minutes.",
+   "zh": ""
+  },
+  {
+   "en": ": Feel free. I actually have somewhere else I need to be anyway, so I'll be heading back on my own now.",
+   "zh": ""
+  },
+  {
+   "en": ": Wait, what? I thought we were studying together tonight.",
+   "zh": ""
+  },
+  {
+   "en": ": Something came up and I’m not going to be able to make it.",
+   "zh": ""
+  },
+  {
+   "en": ": What came up? Is everything okay?",
+   "zh": ""
+  },
+  {
+   "en": ": Is that why you've been in such a bad mood?",
+   "zh": ""
+  },
+  {
+   "en": ": We’re best friends, so you can always tell me if something is on your-",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll see you later.",
+   "zh": ""
+  },
+  {
+   "en": ": Goodbye, Ami.",
+   "zh": ""
+  },
+  {
+   "en": "Maya takes off down the road (The road opposite from the one that leads to the dorms, mind you) and vanishes from our sight, leaving the two of us equally confused.",
+   "zh": ""
+  },
+  {
+   "en": "I can tell that Ami is worried, but I chalk this sudden disappearance up to just another one of Maya's mood swings. I highly doubt it's anything substantial.",
+   "zh": ""
+  },
+  {
+   "en": ": The heck is with her today? That was totally rude.",
+   "zh": ""
+  },
+  {
+   "en": ": It's probably just that time of the month or something.",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei, ew! Don't you know it's impolite to say things like that?",
+   "zh": ""
+  },
+  {
+   "en": ": Sorry. I’ve just stopped expecting Maya to ever behave predictably, so I'm not too surprised by her sudden, as you put it, crankiness.",
+   "zh": ""
+  },
+  {
+   "en": ": Well...I guess she does randomly start acting different sometimes. Like all those random speeches about the universe and stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": You get to hear those too? I thought I was a special case.",
+   "zh": ""
+  },
+  {
+   "en": ": Not so much anymore. She stopped saying that kind of stuff to me when I told her I didn’t really care about or understand any of it.",
+   "zh": ""
+  },
+  {
+   "en": ": I used to get it all the time, though.",
+   "zh": ""
+  },
+  {
+   "en": ": But anyway! Is it okay with you if we stop at the store on the way home?",
+   "zh": ""
+  },
+  {
+   "en": ": If I take like ten more steps into this hateful summer heat without a drink I am going to melt.",
+   "zh": ""
+  },
+  {
+   "en": ": The store is more than ten steps away, so the chances of you melting on the way there seem pretty high.",
+   "zh": ""
+  },
+  {
+   "en": ": Not if you give me a piggyback ride!",
+   "zh": ""
+  },
+  {
+   "en": ": Sure. Hop on.",
+   "zh": ""
+  },
+  {
+   "en": ": Wait...really?",
+   "zh": ""
+  },
+  {
+   "en": ": Because I was kind of just kidding. I’m fine walking on my own for a little while longer.",
+   "zh": ""
+  },
+  {
+   "en": ": You sure? Because I really don't mind.",
+   "zh": ""
+  },
+  {
+   "en": ": You mean you...won't feel embarrassed or anything?",
+   "zh": ""
+  },
+  {
+   "en": ": Embarrassed? Not really. I'll probably feel like an idiot, but I've also noticed how flushed you've been since we stepped outside.",
+   "zh": ""
+  },
+  {
+   "en": ": So if having you on my back is all it takes for you to not die, that's fine by me.",
+   "zh": ""
+  },
+  {
+   "en": ": Besides, it’s only a couple blocks away. If it was any longer, I doubt I'd have the stamina or the willpower to continue.",
+   "zh": ""
+  },
+  {
+   "en": ": Well...thanks, [amimaster]. I-",
+   "zh": ""
+  },
+  {
+   "en": ": Hey! Wait a second! What do you mean stamina or willpower?! Are you calling me fat?!",
+   "zh": ""
+  },
+  {
+   "en": ": Just get on my back, Ami.",
+   "zh": ""
+  },
+  {
+   "en": ": Fine! But if you complain even once about me being heavy, I’m pulling your hair out!",
+   "zh": ""
+  },
+  {
+   "en": "Ami hops onto my back and throws her arms around my neck.",
+   "zh": ""
+  },
+  {
+   "en": "Of course, she isn’t heavy at all. It's like carrying a large backpack if the backpack cooked you dinner and occasionally said mildly suggestive things about your relationship.",
+   "zh": ""
+  },
+  {
+   "en": "We get some strange looks from people as we make our way down the street, but neither of us seem to really care.",
+   "zh": ""
+  },
+  {
+   "en": "In fact, Ami seems quite happy about not having to walk anymore.",
+   "zh": ""
+  },
+  {
+   "en": "Her fingers grab hold of the collar of my shirt and cause my tie to get messed up, but she takes a moment to playfully tuck it back in as we round the corner and wind up in front of the shop...",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ": Thanks for the ride, [amimaster]! And thanks for buying me a drink as well!",
+   "zh": ""
+  },
+  {
+   "en": ": Well it’s not like you had any money, so...",
+   "zh": ""
+  },
+  {
+   "en": ": Heheh...silly me, forgetting my wallet and asking you to pay for me. Good thing I have the best [uncle] in the whole wide world.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, yeah. Flattery won’t get you anywhere.",
+   "zh": ""
+  },
+  {
+   "en": ": Really? Cause I could have sworn that all of that ‘flattery’ was one of the things helping get you into my dorm room at night.",
+   "zh": ""
+  },
+  {
+   "en": ": You really want to talk about our relationship in front of a convenience store in the middle of the day?",
+   "zh": ""
+  },
+  {
+   "en": ": What's wrong? No one here knows we’re related.",
+   "zh": ""
+  },
+  {
+   "en": ": I think you might also be forgetting the issue with our age gap as well.",
+   "zh": ""
+  },
+  {
+   "en": ": Pfft...whatever. I'll save the flirting for until we're home.",
+   "zh": ""
+  },
+  {
+   "en": ": Awww, why not? I was hoping I’d at least get a raise on my allowance or something.",
+   "zh": ""
+  },
+  {
+   "en": ": You don’t even get an allowance, Ami.",
+   "zh": ""
+  },
+  {
+   "en": ": Well I did until you decided you just weren't going to give me one anymore.",
+   "zh": ""
+  },
+  {
+   "en": ": I put a roof over your head. Isn't that enough?",
+   "zh": ""
+  },
+  {
+   "en": ": Not really, but I guess it's not up to me to decide what you do with your money.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh! So, I had a question about this test thingy I totally forgot to ask you.",
+   "zh": ""
+  },
+  {
+   "en": ": This again? I thought we were finally done talking about that.",
+   "zh": ""
+  },
+  {
+   "en": ": Nononono, this one isn’t about studying or anything like that. I was just wondering what you planned on doing after the tests.",
+   "zh": ""
+  },
+  {
+   "en": ": What do you mean?",
+   "zh": ""
+  },
+  {
+   "en": ": I mean that as soon as those are over, we start the last semester of the[school] year.",
+   "zh": ""
+  },
+  {
+   "en": ": Which means that a few months later, summer vacation starts.",
+   "zh": ""
+  },
+  {
+   "en": ": Which means that...",
+   "zh": ""
+  },
+  {
+   "en": ": You won’t be my teacher for much longer...",
+   "zh": ""
+  },
+  {
+   "en": "Is the end of the year really that close?",
+   "zh": ""
+  },
+  {
+   "en": "I remember talking about it with Sana recently, but...I didn’t think it would get here this quickly.",
+   "zh": ""
+  },
+  {
+   "en": "Maybe I should talk to one of the staff members and see about carrying my class over into the next year?",
+   "zh": ""
+  },
+  {
+   "en": "It would be a shame having to start all over after coming so far with so many of them.",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t worry just yet, Ami. There’s still...some semblance of hope that I’ll be able to teach you again next year.",
+   "zh": ""
+  },
+  {
+   "en": ": Huh? What do you mean?",
+   "zh": ""
+  },
+  {
+   "en": ": I mean that I can try to talk to someone about just...keeping the same class?",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know. I haven’t figured it out yet.",
+   "zh": ""
+  },
+  {
+   "en": ": That somehow makes me feel even less confident about you teaching me again...",
+   "zh": ""
+  },
+  {
+   "en": ": You at least need a plan, Sensei...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh! What if you, like...go up to the principal and start crying or something?",
+   "zh": ""
+  },
+  {
+   "en": ": Remember how I always used to cry when you wouldn’t buy me anything from the convenience store?",
+   "zh": ""
+  },
+  {
+   "en": ": You mean like what happened two minutes ago?...",
+   "zh": ""
+  },
+  {
+   "en": ": Ahh...I remember it like it was yesterday.",
+   "zh": ""
+  },
+  {
+   "en": ": Again, it was two minutes ago.",
+   "zh": ""
+  },
+  {
+   "en": ": Maybe if you try that with the principal, he’ll let you teach us all again!",
+   "zh": ""
+  },
+  {
+   "en": ": I can’t imagine that working, to be honest. There comes a time in your life where crying just doesn’t always get you what you want anymore.",
+   "zh": ""
+  },
+  {
+   "en": ": Really? Cause I’m getting older and it’s clearly still working for me.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, well you’re cute. The world works differently for cute girls.",
+   "zh": ""
+  },
+  {
+   "en": ": You can pretty much cry your entire way through life and everything will work out.",
+   "zh": ""
+  },
+  {
+   "en": ": Ah! Am I...experiencing sexism for the first time? Is that what this is?",
+   "zh": ""
+  },
+  {
+   "en": ": Is this a taste of the world yet to come?",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t like this at all, Sensei! I feel strange! Please, hold me and make me feel better!",
+   "zh": ""
+  },
+  {
+   "en": ": I’m not going to hold you with all of these people around.",
+   "zh": ""
+  },
+  {
+   "en": ": That’s no fair! You already gave me a piggyback ride! How is a little hug any different?!",
+   "zh": ""
+  },
+  {
+   "en": ": It just is, okay? Besides, you’re not even upset right now.",
+   "zh": ""
+  },
+  {
+   "en": ": How do you know that?!",
+   "zh": ""
+  },
+  {
+   "en": ": Because you never get angry-eyebrows when you’re upset. You always go into puppydog-mode.",
+   "zh": ""
+  },
+  {
+   "en": ": Puppies can get angry!",
+   "zh": ""
+  },
+  {
+   "en": ": So you’re a literal puppy now?",
+   "zh": ""
+  },
+  {
+   "en": ": Yes! Woof~!",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Can you at least hold my hand?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Ugh, fine.",
+   "zh": ""
+  },
+  {
+   "en": ": Yay!",
+   "zh": ""
+  },
+  {
+   "en": ": When we get home.",
+   "zh": ""
+  },
+  {
+   "en": ": GAAAAAAAHHHHHHHHH!",
+   "zh": ""
+  },
+  {
+   "en": ": Wow. You must really like holding hands.",
+   "zh": ""
+  },
+  {
+   "en": ": No! I really like you! Get the hint already!",
+   "zh": ""
+  },
+  {
+   "en": "Of course I have obviously gotten the hint. It's kind of hard not to after bringing your niece to orgasm.",
+   "zh": ""
+  },
+  {
+   "en": "But there’s a time and a place for everything. And I don’t think the two of us are at the point where we should be expressing those feelings in public just yet...",
+   "zh": ""
+  },
+  {
+   "en": "And honestly, I doubt a time where that will be acceptable will ever come.",
+   "zh": ""
+  },
+  {
+   "en": "Of course I know how Ami feels about me...but I’m supposed to be her [uncle] now.",
+   "zh": ""
+  },
+  {
+   "en": "It just wouldn't be right to use that position to take advantage of her. And it especially would not be right in public.",
+   "zh": ""
+  },
+  {
+   "en": ": Can we just get back to the topic at hand?",
+   "zh": ""
+  },
+  {
+   "en": ": You asked me what my plans were after the next batch of tests were over, but what about yours?",
+   "zh": ""
+  },
+  {
+   "en": ": Mine? What do you mean?",
+   "zh": ""
+  },
+  {
+   "en": ": Well...how are you going to spend your last couple months in[school]?",
+   "zh": ""
+  },
+  {
+   "en": ": Umm...The same way I have been, I guess?",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve been trying not to think about it, to be honest.",
+   "zh": ""
+  },
+  {
+   "en": ": I already have a problem with getting attached to stuff, so if I dwell on this[school] year ending, I’ll just wind up feeling even worse once it’s actually over.",
+   "zh": ""
+  },
+  {
+   "en": ": We’re so close to the end at this point and...there isn’t really anything we can do about it.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve accepted that.",
+   "zh": ""
+  },
+  {
+   "en": ": It might sound kinda sad, but...that’s just life, isn’t it?",
+   "zh": ""
+  },
+  {
+   "en": ": You always told me when I was little that time won’t ever wait for us.",
+   "zh": ""
+  },
+  {
+   "en": ": And that even if I sit down and wish as hard as I can, over and over...there’s no guarantee that any of those wishes will ever come true.",
+   "zh": ""
+  },
+  {
+   "en": ": So...ever since then, I’ve just taken things day by day. And it’s worked out so far!",
+   "zh": ""
+  },
+  {
+   "en": ": I mean, the two of us are closer than ever. That’s gotta be a plus, right?",
+   "zh": ""
+  },
+  {
+   "en": ": Right...",
+   "zh": ""
+  },
+  {
+   "en": ": Um...sorry for getting sappy out of nowhere like that. I think this coffee’s got espresso in it or something because my brain’s moving at like, twice the speed it normally does.",
+   "zh": ""
+  },
+  {
+   "en": ": Would you mind giving me another piggyback ride on the way home by any chance? If I can't keep up with my own thoughts, I doubt I'll be able to keep up with...my legs. Or something.",
+   "zh": ""
+  },
+  {
+   "en": ": What?",
+   "zh": ""
+  },
+  {
+   "en": ": I think...walking might be kinda bad for my over-caffeinated [teenage]heart right now.",
+   "zh": ""
+  },
+  {
+   "en": ": That's an excuse if I've ever heard one. You're walking and that's that. Your piggyback quota for the day has already been exceeded, unfortunately.",
+   "zh": ""
+  },
+  {
+   "en": ": Hah...I had a feeling you were going to say something like that...",
+   "zh": ""
+  },
+  {
+   "en": "Ami and I begin the short voyage to the bus station, this time walking several feet apart from one another.",
+   "zh": ""
+  },
+  {
+   "en": "She talks more about potential plans for getting me to be her teacher again, but none of them seem all that feasible.",
+   "zh": ""
+  },
+  {
+   "en": "I’ll just have to figure something else out.",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "I really don't want to start all over.",
+   "zh": ""
+  },
+  {
+   "en": "Ami’s affection has increased to [ami_love]!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

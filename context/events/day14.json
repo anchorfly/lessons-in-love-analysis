@@ -1,0 +1,614 @@
+{
+ "label": "day14",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": "And so comes the end of another[school] day.",
+   "zh": ""
+  },
+  {
+   "en": "Today was...",
+   "zh": ""
+  },
+  {
+   "en": "Well, let's just say it was a little different than what I'm used to.",
+   "zh": ""
+  },
+  {
+   "en": "I've obviously known about Yumi's habits when it comes to bullying some of the other girls but, up until today, I figured that was only a thing she did when I wasn't around.",
+   "zh": ""
+  },
+  {
+   "en": "As it turns out, she could not care less about that and is perfectly open to insulting everyone even with an authority figure ten feet away from her.",
+   "zh": ""
+  },
+  {
+   "en": "Of course, her target today wound up being the one she spends so much time on that it could practically be considered a hobby- Futaba.",
+   "zh": ""
+  },
+  {
+   "en": "I was so shocked by Yumi's brazenness that I wasn't even able to step in to try and stop her right away- prompting Makoto to speak up instead because she is a better teacher than me.",
+   "zh": ""
+  },
+  {
+   "en": "I did, however, tell Yumi to come to my office after class so I can...do something that I haven't quite figured out yet.",
+   "zh": ""
+  },
+  {
+   "en": "But seeing as it's been thirty minutes since the final bell rang and she still hasn't knocked, I'm beginning to think that won't be happening.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Or maybe she just has a horrible grasp on the concept of time.",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei? May I come in?",
+   "zh": ""
+  },
+  {
+   "en": "Or maybe it's not her at all and she really just...isn't coming.",
+   "zh": ""
+  },
+  {
+   "en": ": Sure. The door is open.",
+   "zh": ""
+  },
+  {
+   "en": ": Uhm...good afternoon.",
+   "zh": ""
+  },
+  {
+   "en": ": Hey, Futaba. I didn’t expect to see you today.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, I...wasn't really expecting to come today, but...",
+   "zh": ""
+  },
+  {
+   "en": ": If this is about the Yumi thing, I feel like I should warn you that there is a very small chance she might show up while you're here.",
+   "zh": ""
+  },
+  {
+   "en": ": I...saw her leaving school, so...I don't think that's going to be happening...",
+   "zh": ""
+  },
+  {
+   "en": ": Ah. Well, that explains why I only called it a small chance. I figured something like that might happen given the type of person she is.",
+   "zh": ""
+  },
+  {
+   "en": ": Is this...a bad time?",
+   "zh": ""
+  },
+  {
+   "en": ": Considering my only appointment was just cancelled, nope. Take whatever time you need. I've got nothing else going on.",
+   "zh": ""
+  },
+  {
+   "en": ": I won't be long...",
+   "zh": ""
+  },
+  {
+   "en": ": I'm just...a little upset and...thought that talking about it might help.",
+   "zh": ""
+  },
+  {
+   "en": ": And Rin has work today, so...I couldn't go to her instead. I'm sorry if that's an inconvenience.",
+   "zh": ""
+  },
+  {
+   "en": ": You know, I actually tried talking to Yumi last week about this and-",
+   "zh": ""
+  },
+  {
+   "en": ": And she probably just shrugged it off, right?...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh. Yeah, sorry. I'm sure you've heard all of that before.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh! I'm so sorry! I didn't mean to interrupt you! It's just...like you said, I've...already heard this before...",
+   "zh": ""
+  },
+  {
+   "en": ": But...you don't have to apologize just because I'm too sensitive, Sensei. You didn't do anything wrong at all.",
+   "zh": ""
+  },
+  {
+   "en": ": Either way, I'm sorry that this keeps happening to you.",
+   "zh": ""
+  },
+  {
+   "en": ": And I'm sorry to keep troubling you by coming here afterwards...",
+   "zh": ""
+  },
+  {
+   "en": ": It's not like I'm expecting anything to change, but...just talking to an adult about it is enough to put me at ease for a little while.",
+   "zh": ""
+  },
+  {
+   "en": ": It really helps...knowing that you're looking out for me. Even if that...doesn't really stop Yumi from doing things anyway.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah. Well, Yumi is a fucking bitch and you should probably just ignore anything she ever says to begin with.",
+   "zh": ""
+  },
+  {
+   "en": ": S-Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": Are you sure it's okay for you to say things like that?...",
+   "zh": ""
+  },
+  {
+   "en": ": Are you going to tell anyone I said it?",
+   "zh": ""
+  },
+  {
+   "en": ": Well...no, but-",
+   "zh": ""
+  },
+  {
+   "en": ": Then it's fine. Besides, that girl’s been nothing but cold to me since I met her.",
+   "zh": ""
+  },
+  {
+   "en": ": I'm starting to doubt that there's anyone who can actually get through to her and that she won't understand what she's putting others through until she's put through something herself.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m...sure she has her own problems...",
+   "zh": ""
+  },
+  {
+   "en": ": For all we know...she could have already gone through more than either one of us.",
+   "zh": ""
+  },
+  {
+   "en": ": Sure, maybe. But that still wouldn't be an excuse for her to take everything out on you.",
+   "zh": ""
+  },
+  {
+   "en": ": I think...it would be less of a problem if I knew how to actually stand up for myself...",
+   "zh": ""
+  },
+  {
+   "en": ": I feel like someone else always has to step in because I’m too...cowardly to actually do anything...",
+   "zh": ""
+  },
+  {
+   "en": ": This...isn't new either. I've never been good when it comes to confrontation.",
+   "zh": ""
+  },
+  {
+   "en": ": You'd think that dealing with this for so long would have...maybe prepared me or something, but...",
+   "zh": ""
+  },
+  {
+   "en": ": I guess it's kind of hard to stand up for myself when I...don't really see anything worth standing up for?...",
+   "zh": ""
+  },
+  {
+   "en": ": Does that make sense?",
+   "zh": ""
+  },
+  {
+   "en": ": I mean...it does. But why would you feel that way? I think there's plenty about you worth defending.",
+   "zh": ""
+  },
+  {
+   "en": "Futaba focuses on the floor for a few moments as she summons the resolve to respond.",
+   "zh": ""
+  },
+  {
+   "en": "The truth is, I knew the answer to my question before I even asked it. But keeping it to myself without letting any words out into the open won't bring us closer.",
+   "zh": ""
+  },
+  {
+   "en": "My silence would do absolutely nothing for her.",
+   "zh": ""
+  },
+  {
+   "en": "The same goes for pretending to understand her...or pretending to relate.",
+   "zh": ""
+  },
+  {
+   "en": "All a person can do at a time like this is feign ignorance and gently pull the words out of someone else when they won't fall out on their own.",
+   "zh": ""
+  },
+  {
+   "en": ": Um...Well...",
+   "zh": ""
+  },
+  {
+   "en": ": I just...don’t agree with that...",
+   "zh": ""
+  },
+  {
+   "en": ": I...don't see myself as the type of person who's...worthy of being defended...",
+   "zh": ""
+  },
+  {
+   "en": ": Which makes it feel so much worse a lot of the time since everyone always has to stick up for me...",
+   "zh": ""
+  },
+  {
+   "en": ": I just...",
+   "zh": ""
+  },
+  {
+   "en": ": I don't really like myself, I guess.",
+   "zh": ""
+  },
+  {
+   "en": ": Why, though? I think you’re great. And everyone except Yumi would probably agree.",
+   "zh": ""
+  },
+  {
+   "en": ": Thank you...really...But hearing something like that isn’t enough to change how I feel.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s just...",
+   "zh": ""
+  },
+  {
+   "en": ": It's really hard...",
+   "zh": ""
+  },
+  {
+   "en": ": Looking at the other girls sometimes, I mean...",
+   "zh": ""
+  },
+  {
+   "en": ": I'm sure it sounds petty, but...I can't help but be a little jealous.",
+   "zh": ""
+  },
+  {
+   "en": ": If I...",
+   "zh": ""
+  },
+  {
+   "en": ": If I could look like Yumi...I'd be so happy...",
+   "zh": ""
+  },
+  {
+   "en": ": So the fact that she's always the one to point out how I don't?...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Being heavy...",
+   "zh": ""
+  },
+  {
+   "en": ": Is really hard, Sensei...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "I honestly have no idea how I’m supposed to reply to something like this and am reminded once again of the hesitance I face when stepping into this room each day.",
+   "zh": ""
+  },
+  {
+   "en": "I'm not qualified to make anyone feel better about themselves- not when, more often than not, I can't even pinpoint how I personally feel.",
+   "zh": ""
+  },
+  {
+   "en": "The natural reaction here would be...reassurance, right?",
+   "zh": ""
+  },
+  {
+   "en": "But something about that just seems so...expected.",
+   "zh": ""
+  },
+  {
+   "en": "Would the true owner of this body have more to offer than just the insistence that this person who has a hard time looking at herself should just...look a little closer?",
+   "zh": ""
+  },
+  {
+   "en": "Or are all of us equally worthless when it comes to changing one's perception of themself?",
+   "zh": ""
+  },
+  {
+   "en": "I don't know.",
+   "zh": ""
+  },
+  {
+   "en": "But I can't stay silent forever.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sorry for being such a downer all of a sudden...I know you’re probably uncomfortable hearing something like this from me...",
+   "zh": ""
+  },
+  {
+   "en": ": I mean...there’s no way you could honestly look at me and tell me not to worry about it. Not when you see the difference with your own eyes every single day.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Futaba.",
+   "zh": ""
+  },
+  {
+   "en": ": Y...Yeah?...",
+   "zh": ""
+  },
+  {
+   "en": ": I'm going to tell you something right now, but you're going to have to keep it between us. Got it?",
+   "zh": ""
+  },
+  {
+   "en": ": Um...sure. I...already expect everything that happens in here to remain confidential, so...",
+   "zh": ""
+  },
+  {
+   "en": ": Good.",
+   "zh": ""
+  },
+  {
+   "en": ": In that case, I find you extremely attractive.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Uhh...sorry, but...I don't think I heard you quite well...",
+   "zh": ""
+  },
+  {
+   "en": ": That's fine. I don't mind saying it again.",
+   "zh": ""
+  },
+  {
+   "en": ": Wait. You don't-",
+   "zh": ""
+  },
+  {
+   "en": ": I think you're extremely attractive and that the way you think about yourself is wrong.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": You...You do?!",
+   "zh": ""
+  },
+  {
+   "en": ": Yup. But again, don't tell anyone I said that.",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei...that's...wait...",
+   "zh": ""
+  },
+  {
+   "en": ": I'm...still a student! Being attracted to me would mean-",
+   "zh": ""
+  },
+  {
+   "en": ": We don't have to talk about what it means. But sitting here and listening to you talking about how you don't like yourself is tough to do when I feel the exact opposite way, you know?",
+   "zh": ""
+  },
+  {
+   "en": ": I...I...",
+   "zh": ""
+  },
+  {
+   "en": ": Plus, without being too specific, I'm sure there are plenty of girls in this school that envy certain parts of you.",
+   "zh": ""
+  },
+  {
+   "en": ": That's-",
+   "zh": ""
+  },
+  {
+   "en": ": Inappropriate? Yeah, probably. But I didn't say any specifics, so all you can really do is assume and file this under some sort of gray area.",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei...do you...",
+   "zh": ""
+  },
+  {
+   "en": ": Really think I’m pretty?...",
+   "zh": ""
+  },
+  {
+   "en": ": Me?...",
+   "zh": ""
+  },
+  {
+   "en": ": Is that weird?",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah...I think so...",
+   "zh": ""
+  },
+  {
+   "en": ": No one’s ever looked at me like that before...let alone an adult...",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t...really know what to say...",
+   "zh": ""
+  },
+  {
+   "en": ": I mean, you don’t have to say anything. I just don’t want you to feel down on yourself anymore and...this was all I could think of saying to try and snap you out of it.",
+   "zh": ""
+  },
+  {
+   "en": ": I'm sure it didn't do much, though. So if there's anything you want from me in the future, don't hesitate to ask.",
+   "zh": ""
+  },
+  {
+   "en": ": Th-Thanks! But I, umm...I think you’ve already helped me enough for now...",
+   "zh": ""
+  },
+  {
+   "en": ": I...probably just need a little more time to...process what I just found out, but...uhh...",
+   "zh": ""
+  },
+  {
+   "en": ": I...",
+   "zh": ""
+  },
+  {
+   "en": ": I'm also...",
+   "zh": ""
+  },
+  {
+   "en": ": Attracted to you...",
+   "zh": ""
+  },
+  {
+   "en": ": What was that? I couldn't hear you.",
+   "zh": ""
+  },
+  {
+   "en": ": Good. It was...extremely embarrassing.",
+   "zh": ""
+  },
+  {
+   "en": ": I see...",
+   "zh": ""
+  },
+  {
+   "en": ": Umm...I really am feeling a little better now, though...",
+   "zh": ""
+  },
+  {
+   "en": ": It makes me really happy knowing you don’t look at me the same way Yumi does...",
+   "zh": ""
+  },
+  {
+   "en": ": I’m pretty sure I don’t see anything the same way Yumi does, so I wouldn’t worry about that too much.",
+   "zh": ""
+  },
+  {
+   "en": ": Heheh...I guess I’ll...try not to, then.",
+   "zh": ""
+  },
+  {
+   "en": ": Really, though- feel free to drop by whenever you’re feeling down.",
+   "zh": ""
+  },
+  {
+   "en": ": I accept house calls too, starting right now. I might have to charge you, though, depending on what sorts of services you're after.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay! Uhh...thank you! But I think that...your office is fine and...I...",
+   "zh": ""
+  },
+  {
+   "en": ": I don't know what...sorts of...services you are referring to...",
+   "zh": ""
+  },
+  {
+   "en": ": Would you like a list? Let me just a grab a pen and-",
+   "zh": ""
+  },
+  {
+   "en": ": No thank you! I'll be on my way now!",
+   "zh": ""
+  },
+  {
+   "en": ": I'm sorry again for taking up so much of your time!",
+   "zh": ""
+  },
+  {
+   "en": ": You really don't have to leave if-",
+   "zh": ""
+  },
+  {
+   "en": ": Goodbye, Sensei! Thank you for the...information you shared with me today!",
+   "zh": ""
+  },
+  {
+   "en": ": I promise I won't tell anyone!",
+   "zh": ""
+  },
+  {
+   "en": ": Goodbye again!",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "I hope I didn't scare Futaba off by admitting to her that I've been looking at her as more than just a student.",
+   "zh": ""
+  },
+  {
+   "en": "I doubt she's the type to do anything malicious or...irresponsible with the information, but I guess you can't ever be too sure about anything in this life.",
+   "zh": ""
+  },
+  {
+   "en": "At the very least, I hope she takes solace in the fact that there is someone out there fantasizing about her while continuously writing herself off as unwanted and undesirable.",
+   "zh": ""
+  },
+  {
+   "en": "The sadder truth, however-",
+   "zh": ""
+  },
+  {
+   "en": "Is that I want everyone.",
+   "zh": ""
+  },
+  {
+   "en": "And that she's no more special than the rest of them.",
+   "zh": ""
+  },
+  {
+   "en": "Futaba's affection has increased to [futaba_love]!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

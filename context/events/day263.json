@@ -1,0 +1,858 @@
+{
+ "label": "day263",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": ": Well, well, well...Would you look who we have here?",
+   "zh": ""
+  },
+  {
+   "en": ": Am I being mugged?",
+   "zh": ""
+  },
+  {
+   "en": "I run into the Kanda sisters on my way home from[school], who are about to shake me down for all I am worth if we’re basing the rest of this event on Kirin’s first line of dialogue.",
+   "zh": ""
+  },
+  {
+   "en": ": Yes. Give us all of your money.",
+   "zh": ""
+  },
+  {
+   "en": ": We need to buy cigarettes and guns and other stuff that we’re definitely into despite our outwardly adorable appearances.",
+   "zh": ""
+  },
+  {
+   "en": ": I see.",
+   "zh": ""
+  },
+  {
+   "en": ": Karin, are you in on this too?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...Karin?",
+   "zh": ""
+  },
+  {
+   "en": ": Talking is hard.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m just going to stand here and let Kirin take your money.",
+   "zh": ""
+  },
+  {
+   "en": ": I will buy lunch from the convenience store and eat all by myself, letting the snow pile up over my body and carry me off to a new life.",
+   "zh": ""
+  },
+  {
+   "en": ": Wait, you don’t actually need money, do you? Because I’m not giving you any.",
+   "zh": ""
+  },
+  {
+   "en": ": Uhh...no.",
+   "zh": ""
+  },
+  {
+   "en": ": How come everyone else is able to come up to you after[school] but the second I do it, you think you’re being mugged?",
+   "zh": ""
+  },
+  {
+   "en": ": How would I even mug you? Have you seen me? I’m like a third of your size.",
+   "zh": ""
+  },
+  {
+   "en": ": To be honest, I feel a lot safer knowing it’s just you against me now. Karin was the one I was worried about.",
+   "zh": ""
+  },
+  {
+   "en": ": Why are you worried about her and not me?!",
+   "zh": ""
+  },
+  {
+   "en": ": Why are you worried about me to begin with?! What did I do wrong?!",
+   "zh": ""
+  },
+  {
+   "en": ": Relax, soccer sisters. No one is fighting anyone today.",
+   "zh": ""
+  },
+  {
+   "en": ": ...What did you just call us?",
+   "zh": ""
+  },
+  {
+   "en": ": Soccer sisters...",
+   "zh": ""
+  },
+  {
+   "en": ": I love it.",
+   "zh": ""
+  },
+  {
+   "en": ": I personally prefer that the people I’m talking to use my actual name, but it’s whatever, I guess.",
+   "zh": ""
+  },
+  {
+   "en": ": What are you up to? Going home early?",
+   "zh": ""
+  },
+  {
+   "en": ": Early? I’m going home at the same time I always do.",
+   "zh": ""
+  },
+  {
+   "en": ": Really? Don’t you normally sit in your fancy office chair after[school] and wait for girls to show up and “talk?”",
+   "zh": ""
+  },
+  {
+   "en": ": If the nurse can take Fridays off, so can I.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, right. I forgot the first year teachers also acted as counselors.",
+   "zh": ""
+  },
+  {
+   "en": ": Is that not how it works for your grade?",
+   "zh": ""
+  },
+  {
+   "en": ": We just have one counselor who handles all of the classes.",
+   "zh": ""
+  },
+  {
+   "en": ": Probably because everyone has already resigned themselves to how much [high_school] sucks by the second year and is tired of complaining about it.",
+   "zh": ""
+  },
+  {
+   "en": ": But vulnerable, impressionable girls like myself rely on our teachers to make us feel better about the things that ail us. Right, Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": Yes, but in an incredibly roundabout way.",
+   "zh": ""
+  },
+  {
+   "en": ": You’ve...been seeing a guidance counselor?",
+   "zh": ""
+  },
+  {
+   "en": ": Kirin, I don’t know if you’re joking, but-",
+   "zh": ""
+  },
+  {
+   "en": ": So, Sensei, have you heard the news?",
+   "zh": ""
+  },
+  {
+   "en": ": News? What news?",
+   "zh": ""
+  },
+  {
+   "en": ": A certain “soccer sister” might be changing classes soon.",
+   "zh": ""
+  },
+  {
+   "en": ": What? You’re not in Ms. Watabe’s class, are you?",
+   "zh": ""
+  },
+  {
+   "en": ": I was at the beginning of the year but she axed me like, right off the bat.",
+   "zh": ""
+  },
+  {
+   "en": ": So they moved me to class C, but I’ve been really obnoxious in there because that teacher sucks even more.",
+   "zh": ""
+  },
+  {
+   "en": ": So, by process of elimination, I’ve got a preeeeetty good chance of ending up with you next.",
+   "zh": ""
+  },
+  {
+   "en": ": Unless they just decide to expel me instead. But a mind is a terrible thing to waste and blah blah blah adult-speak.",
+   "zh": ""
+  },
+  {
+   "en": ": Is there an open seat next to Ayane, by any chance?",
+   "zh": ""
+  },
+  {
+   "en": ": Hold on a second. I can’t tell if you’re actually being serious right now.",
+   "zh": ""
+  },
+  {
+   "en": ": You need me to spell it out for you?",
+   "zh": ""
+  },
+  {
+   "en": ": I, Kirin Kanda, have been intentionally provoking teachers to try and wind up in your class since the first time I heard Miku talk about you.",
+   "zh": ""
+  },
+  {
+   "en": ": Couldn’t you have just...asked for a transfer?",
+   "zh": ""
+  },
+  {
+   "en": ": A - There is literally zero fun in that.",
+   "zh": ""
+  },
+  {
+   "en": ": B - If a girl just asks to be transferred into the hot teacher’s class, literally everyone will start to think “you know what” is going on.",
+   "zh": ""
+  },
+  {
+   "en": ": Who knows what? I don’t follow.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m saying that people are going to think I want to fuck him.",
+   "zh": ""
+  },
+  {
+   "en": ": Kirin!",
+   "zh": ""
+  },
+  {
+   "en": ": Just because he’s also our coach doesn’t mean you can say such vulgar things in front of him!",
+   "zh": ""
+  },
+  {
+   "en": ": Why not? He doesn’t care at all. Right, Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": It’s true. I really don’t.",
+   "zh": ""
+  },
+  {
+   "en": ": Of course he doesn’t care. It’s not his reputation at stake if someone hears that.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay, I know people around here don’t exactly think too highly of me, but something like that would definitely still have some effect on my reputation.",
+   "zh": ""
+  },
+  {
+   "en": ": Oooooh, okay...Okay. You just don’t want somebody to hear me saying anything inappropriate because it will make you look bad. Gotcha.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m worried about what people will think of you. I don’t care what anyone has to say about me.",
+   "zh": ""
+  },
+  {
+   "en": ": Easy for you to say when-",
+   "zh": ""
+  },
+  {
+   "en": ": Ugh...Just forget about it.",
+   "zh": ""
+  },
+  {
+   "en": ": Anyway, Sensei, point is that you shouldn’t be surprised if I suddenly wind up switching classes again.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll do my best to be a model student so I don’t embarrass you the same way I embarrass my older sister.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": What? Why are you looking at me like that?",
+   "zh": ""
+  },
+  {
+   "en": ": Your face is really red all of a sudden.",
+   "zh": ""
+  },
+  {
+   "en": ": It is not.",
+   "zh": ""
+  },
+  {
+   "en": ": Do you two fight like this often?",
+   "zh": ""
+  },
+  {
+   "en": ": No. This is the first time ever.",
+   "zh": ""
+  },
+  {
+   "en": ": Is that sarcasm?",
+   "zh": ""
+  },
+  {
+   "en": ": Of course it’s fucking sarcasm. Why are we even talking about this right now?",
+   "zh": ""
+  },
+  {
+   "en": ": You should be celebrating that I jumped through so many hoops for the chance to study under you.",
+   "zh": ""
+  },
+  {
+   "en": ": Doesn’t it sound fun to have one more girl under you, Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m leaving now.",
+   "zh": ""
+  },
+  {
+   "en": ": Are you coming home tonight or do I have to tell Mom to wrap your food in advance so you can eat whenever you decide to show up instead?",
+   "zh": ""
+  },
+  {
+   "en": ": The latter, please. I had plans with some friends tonight anyway.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sure you did.",
+   "zh": ""
+  },
+  {
+   "en": "Karin redirects her gaze from the ground to me and stares into my eyes for significantly longer than she ever has before.",
+   "zh": ""
+  },
+  {
+   "en": "Normally, this would be the part where she blushes and runs away.",
+   "zh": ""
+  },
+  {
+   "en": "Or collapses.",
+   "zh": ""
+  },
+  {
+   "en": "Or anything equally...Karin-ish.",
+   "zh": ""
+  },
+  {
+   "en": "But instead, she just looks at me.",
+   "zh": ""
+  },
+  {
+   "en": "Speaking nothing.",
+   "zh": ""
+  },
+  {
+   "en": "Doing nothing.",
+   "zh": ""
+  },
+  {
+   "en": "Just...",
+   "zh": ""
+  },
+  {
+   "en": "Staring.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Please watch over her.",
+   "zh": ""
+  },
+  {
+   "en": "And then she leaves.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Please watch over me, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": I keep getting into trouble and need someone like you to bail me out.",
+   "zh": ""
+  },
+  {
+   "en": ": You know she was just looking out for you, right?",
+   "zh": ""
+  },
+  {
+   "en": ": You know she’s just obligated to do that since she’s the older sister, right?",
+   "zh": ""
+  },
+  {
+   "en": ": It’s her job to make sure I don’t talk about fucking my future teacher in public and it’s my job to sneak into her closet and cut her dresses into pieces.",
+   "zh": ""
+  },
+  {
+   "en": ": I really hope that’s not a thing you do to her.",
+   "zh": ""
+  },
+  {
+   "en": ": Not anymore, it’s not. Being grounded for two months was not a good time.",
+   "zh": ""
+  },
+  {
+   "en": ": But that’s beside the point~",
+   "zh": ""
+  },
+  {
+   "en": "Kirin grabs me by the tie and pulls me away from the entrance of the[school].",
+   "zh": ""
+  },
+  {
+   "en": "People can obviously still see us, just...less people, I guess.",
+   "zh": ""
+  },
+  {
+   "en": ": Be more excited about this or I’ll feel dumb for being excited myself.",
+   "zh": ""
+  },
+  {
+   "en": ": Who said I’m not excited?",
+   "zh": ""
+  },
+  {
+   "en": ": Are you?",
+   "zh": ""
+  },
+  {
+   "en": ": Sure.",
+   "zh": ""
+  },
+  {
+   "en": ": That doesn’t sound very convincing.",
+   "zh": ""
+  },
+  {
+   "en": ": Do you want me to jump up and down and shout “Yipee?”",
+   "zh": ""
+  },
+  {
+   "en": ": No. That would make me feel really uncomfortable now that I’m picturing it.",
+   "zh": ""
+  },
+  {
+   "en": ": Please stop picturing it.",
+   "zh": ""
+  },
+  {
+   "en": ": Ew. It’s actually kind of gross.",
+   "zh": ""
+  },
+  {
+   "en": ": Why my class, though?",
+   "zh": ""
+  },
+  {
+   "en": ": The fact that you need to ask is actually very upsetting.",
+   "zh": ""
+  },
+  {
+   "en": ": I mean, I get why you’d want to be in my class...but I figured you'd also think something like “It’s less fun if it happens all the time.”",
+   "zh": ""
+  },
+  {
+   "en": ": You mean like, you think I’ll stop wanting to be around you if I’m around you all the time?",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah. That.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Holy shit. What if you’re right?",
+   "zh": ""
+  },
+  {
+   "en": ": I didn’t even think about that.",
+   "zh": ""
+  },
+  {
+   "en": ": For all I know, you could completely lose interest in me the second I’m easier to obtain.",
+   "zh": ""
+  },
+  {
+   "en": ": Stop understanding me all of a sudden!",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve done it. I’ve uncovered part of Kirin Kanda.",
+   "zh": ""
+  },
+  {
+   "en": ": You’ve uncovered several parts of me before.",
+   "zh": ""
+  },
+  {
+   "en": ": But for some reason, this one is significantly more embarrassing than the others. And I didn’t even cum this time.",
+   "zh": ""
+  },
+  {
+   "en": ": This conversation would be very strange if you did.",
+   "zh": ""
+  },
+  {
+   "en": ": So now what?",
+   "zh": ""
+  },
+  {
+   "en": ": What do you mean now what? Is your transfer finalized?",
+   "zh": ""
+  },
+  {
+   "en": ": Probably. Maybe? I don’t know.",
+   "zh": ""
+  },
+  {
+   "en": ": Yes.",
+   "zh": ""
+  },
+  {
+   "en": ": Yes it is.",
+   "zh": ""
+  },
+  {
+   "en": ": I join your class on Wednesday.",
+   "zh": ""
+  },
+  {
+   "en": ": Is this the end of our relationship?",
+   "zh": ""
+  },
+  {
+   "en": ": Obviously not. You have to at least fuck me first.",
+   "zh": ""
+  },
+  {
+   "en": ": After that, we can figure something out.",
+   "zh": ""
+  },
+  {
+   "en": ": Doesn’t the fact that you’ll be allowed to skip whenever you want now kind of void the purpose of our deal in the-",
+   "zh": ""
+  },
+  {
+   "en": ": You will fuck me and you will like it!",
+   "zh": ""
+  },
+  {
+   "en": ": I hope!",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know. I could be horrible.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m probably not, but there’s always a chance.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll do my best!",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Today’s been a weird day.",
+   "zh": ""
+  },
+  {
+   "en": ": I woke up late...then I had to ask for a transfer...and now you’ve got me questioning my own feelings about-",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my god. Are you hard?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": That “You will fuck me and you will like it” line got to me.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah...I can see that.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Okay, so, being around you more than normal might be less of an issue than we think.",
+   "zh": ""
+  },
+  {
+   "en": ": I figured that out when you accidentally mentioned asking for a transfer.",
+   "zh": ""
+  },
+  {
+   "en": ": Did I actually say that?",
+   "zh": ""
+  },
+  {
+   "en": ": Right before noticing my erection.",
+   "zh": ""
+  },
+  {
+   "en": ": Huh.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": It’s still there.",
+   "zh": ""
+  },
+  {
+   "en": ": I know it’s still there! But even I’m not crazy enough to jerk you off in the courtyard while everyone is still leaving[school]!",
+   "zh": ""
+  },
+  {
+   "en": ": You’re going to have to...stop having a hard-on!",
+   "zh": ""
+  },
+  {
+   "en": ": Right now.",
+   "zh": ""
+  },
+  {
+   "en": ": Wow.",
+   "zh": ""
+  },
+  {
+   "en": ": No one’s ever told me that before.",
+   "zh": ""
+  },
+  {
+   "en": ": Listen, you can do all the perverted stuff you want to me when I move into the dorms.",
+   "zh": ""
+  },
+  {
+   "en": ": But for now, I’ve gotta...go for a walk and take some time to think about...stuff that I need to think about.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s not like me to actually go out of my way for something like this.",
+   "zh": ""
+  },
+  {
+   "en": ": What is like you exactly? Because I still have no idea.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know. That’s a thing I have to think about as well.",
+   "zh": ""
+  },
+  {
+   "en": ": So, like...do you really visit everyone in their rooms? You do, right?",
+   "zh": ""
+  },
+  {
+   "en": ": That's not just a rumor?",
+   "zh": ""
+  },
+  {
+   "en": ": The dorms are like a second home for me. Just all of the doors are locked and I’d probably get in trouble if anyone important ever heard me say that.",
+   "zh": ""
+  },
+  {
+   "en": ": And when I move in, you’ll visit me too?",
+   "zh": ""
+  },
+  {
+   "en": ": There is a high likelihood of that happening.",
+   "zh": ""
+  },
+  {
+   "en": ": What if my roommate sucks?",
+   "zh": ""
+  },
+  {
+   "en": ": Even better.",
+   "zh": ""
+  },
+  {
+   "en": ": Not that kind of suck.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know. I’ll figure something out.",
+   "zh": ""
+  },
+  {
+   "en": ": Doesn’t your current class have dorms, though?",
+   "zh": ""
+  },
+  {
+   "en": ": Technically, yes. But it’s in a different building and no one I really like is there...so I’ve just been staying with my parents.",
+   "zh": ""
+  },
+  {
+   "en": ": At least in your building, I’ll have Miku to chill with if you ever get bored of me.",
+   "zh": ""
+  },
+  {
+   "en": ": Or if I’m horrible at sex.",
+   "zh": ""
+  },
+  {
+   "en": ": You’re probably not.",
+   "zh": ""
+  },
+  {
+   "en": ": But there’s always a chance.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Are you okay?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m fine! Thank you for asking!",
+   "zh": ""
+  },
+  {
+   "en": ": I’m...gonna go now!",
+   "zh": ""
+  },
+  {
+   "en": ": Right...",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll...see you next week, I guess!",
+   "zh": ""
+  },
+  {
+   "en": ": Are you going to apologize to your sister for yelling at her?",
+   "zh": ""
+  },
+  {
+   "en": ": Maybe!",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know!",
+   "zh": ""
+  },
+  {
+   "en": ": Probably!",
+   "zh": ""
+  },
+  {
+   "en": ": Ahh! Get out of my head!",
+   "zh": ""
+  },
+  {
+   "en": "Huh...",
+   "zh": ""
+  },
+  {
+   "en": "So Kirin Kanda is transferring into my class.",
+   "zh": ""
+  },
+  {
+   "en": "Is something like that really okay while students from the other[school] are still trickling in one by one?",
+   "zh": ""
+  },
+  {
+   "en": "Granted, my class is still on the smaller side, but...",
+   "zh": ""
+  },
+  {
+   "en": "I don’t know.",
+   "zh": ""
+  },
+  {
+   "en": "I just never thought Kirin would go to the effort of actually making a change that drastic.",
+   "zh": ""
+  },
+  {
+   "en": "She’s always just seemed to go with the flow or whatever the hip new term for being a modern drifter is.",
+   "zh": ""
+  },
+  {
+   "en": "Regardless, I’m sure she’ll...liven up the class in a multitude of ways.",
+   "zh": ""
+  },
+  {
+   "en": "If anything, at least I can count on things being slightly more interesting from now on.",
+   "zh": ""
+  },
+  {
+   "en": "Kirin’s affection has increased to [kirin_love]!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

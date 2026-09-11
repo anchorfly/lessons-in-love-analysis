@@ -1,0 +1,626 @@
+{
+ "label": "day38",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": "I decide to stop by the park on my way home in hope of bumping into a mysterious and flirty transfer student, but wind up bumping into Makoto instead.",
+   "zh": ""
+  },
+  {
+   "en": "And all before I even had the chance to get my mandatory afternoon inner monologue started...",
+   "zh": ""
+  },
+  {
+   "en": ": Huh?...Sensei? What are you doing here?",
+   "zh": ""
+  },
+  {
+   "en": "As you can see, she is just as surprised as I am.",
+   "zh": ""
+  },
+  {
+   "en": ": I was about to ask you the same question. You interrupted my fated meeting with a mysterious transfer student.",
+   "zh": ""
+  },
+  {
+   "en": ": But...we don’t have any transfer students. I just checked the register yesterday.",
+   "zh": ""
+  },
+  {
+   "en": ": Why? Are you really so obsessed with school that you need to read over a list of all your classmates just to stay occupied?",
+   "zh": ""
+  },
+  {
+   "en": ": No...I was just curious about whether or not you've been correctly marking down everyone's absences. Which you haven't.",
+   "zh": ""
+  },
+  {
+   "en": ": You really need more friends.",
+   "zh": ""
+  },
+  {
+   "en": ": I have a perfectly adequate amount of friends, thank you very much!",
+   "zh": ""
+  },
+  {
+   "en": ": Now, what's all this about a mysterious transfer student?! What do you know that I don't?!",
+   "zh": ""
+  },
+  {
+   "en": ": There is no actual transfer student. I was just daydreaming about the chances of running into a cute girl.",
+   "zh": ""
+  },
+  {
+   "en": ": Thankfully, I appear to have encountered one that I don't even need to bother going through introductions with.",
+   "zh": ""
+  },
+  {
+   "en": ": Ah...",
+   "zh": ""
+  },
+  {
+   "en": ": D...d...",
+   "zh": ""
+  },
+  {
+   "en": ": D...?",
+   "zh": ""
+  },
+  {
+   "en": ": D...Don't just go from insulting me to complimenting me that quickly! It makes it hard to think!",
+   "zh": ""
+  },
+  {
+   "en": ": Anyway, I’m really just here to kill some time. But what about you? I figured you'd have work today.",
+   "zh": ""
+  },
+  {
+   "en": ": I do have work today, we’re just not open yet.",
+   "zh": ""
+  },
+  {
+   "en": ": We've tried opening earlier in the past, but we have been historically dead during regular business hours, so it's really not worth the effort.",
+   "zh": ""
+  },
+  {
+   "en": ": That makes sense. Sunsets are nice and whatnot, but looking at them doesn't really make you want to masturbate.",
+   "zh": ""
+  },
+  {
+   "en": ": Why must you ruin every conversation almost immediately?",
+   "zh": ""
+  },
+  {
+   "en": ": Because if I didn't, you'd probably keep talking about porn shop data or something. And that just sounds boring.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, forgive me for taking an interest in statistics. Would it make you happier if I spent more of my time actively consuming the material we sell?",
+   "zh": ""
+  },
+  {
+   "en": ": It-",
+   "zh": ""
+  },
+  {
+   "en": ": Please don't actually answer that question.",
+   "zh": ""
+  },
+  {
+   "en": ": Damn it.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, umm...While I'm already on the topic of asking for forgiveness...",
+   "zh": ""
+  },
+  {
+   "en": ": I'd like to apologize for my outburst in the classroom the other day.",
+   "zh": ""
+  },
+  {
+   "en": ": I realize that it was completely out of character for me to...even consider that you'd be willing to spend your free time outside of school with me, so...",
+   "zh": ""
+  },
+  {
+   "en": ": I won’t hold it against you if you want to just...forget everything I said or pretend it never happened.",
+   "zh": ""
+  },
+  {
+   "en": ": Why would I do that? In fact, doesn't the fact that I'm talking to you right now kind of prove that I do want to spend time with you outside of school?",
+   "zh": ""
+  },
+  {
+   "en": ": Not if it's...based entirely on coincidence and not something we proactively planned on doing.",
+   "zh": ""
+  },
+  {
+   "en": ": Well, if you don't have anything else to do, how about we proactively plan to hang out until you have to leave for work?",
+   "zh": ""
+  },
+  {
+   "en": ": Unless you were on your way to study right now or something. Which you probably were because you are Makoto and that is what you do.",
+   "zh": ""
+  },
+  {
+   "en": ": I'll actually have you know that I have banned myself from studying today.",
+   "zh": ""
+  },
+  {
+   "en": ": Instead, I've been trying to enjoy myself by taking a relaxing walk in the park.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s actually kind of nice. The weather here has been perfect lately, hasn't it?",
+   "zh": ""
+  },
+  {
+   "en": ": I can't even remember the last time it rained.",
+   "zh": ""
+  },
+  {
+   "en": ": Wait...yeah. Why hasn't it rained yet?",
+   "zh": ""
+  },
+  {
+   "en": "I know month-long periods without rain aren't impossible, but it's been bright and sunny every single day since I woke up here.",
+   "zh": ""
+  },
+  {
+   "en": "That...has to lead to some sort of environmental problems eventually, doesn't it?",
+   "zh": ""
+  },
+  {
+   "en": ": Who knows? Perhaps we're just in the early stages of a drought?",
+   "zh": ""
+  },
+  {
+   "en": ": For now, though...would you...you know...",
+   "zh": ""
+  },
+  {
+   "en": ": Actually...nevermind. It's a lot more embarrassing asking out loud than I thought it would be?",
+   "zh": ""
+  },
+  {
+   "en": ": Really? Even after I suggested doing exactly what you were about to suggest like two minutes ago?",
+   "zh": ""
+  },
+  {
+   "en": ": So...So you do want to go for a walk with me! Well...thank you very much for asking, Sensei! I would love to!",
+   "zh": ""
+  },
+  {
+   "en": "You know, with how much Makoto obviously likes me, I figured she'd be getting flustered a lot more frequently than she actually does.",
+   "zh": ""
+  },
+  {
+   "en": "Granted, she's still near the top of the chart when it comes to that incredibly specific demographic-",
+   "zh": ""
+  },
+  {
+   "en": "But the fact that she's able to keep herself composed at all is sort of a testament to how...composed and diligent she is as a person.",
+   "zh": ""
+  },
+  {
+   "en": "It's those traits of hers that make the points in time where she does get flustered all the more appealing, though.",
+   "zh": ""
+  },
+  {
+   "en": "I know I give her shit about how much time she spends studying and, honestly, I can't imagine ever stopping that with how fun it's been so far.",
+   "zh": ""
+  },
+  {
+   "en": "But-",
+   "zh": ""
+  },
+  {
+   "en": "I do think she's interesting.",
+   "zh": ""
+  },
+  {
+   "en": "And not just because I am going to have sex with her one day.",
+   "zh": ""
+  },
+  {
+   "en": ": Heheh...this feels kind of weird, doesn't it?",
+   "zh": ""
+  },
+  {
+   "en": ": You think so? It feels pretty normal to me.",
+   "zh": ""
+  },
+  {
+   "en": ": But...this isn't like the hall at school. You and I have never actually spent time together like this before.",
+   "zh": ""
+  },
+  {
+   "en": ": Also...there's the whole issue of you being a teacher...and me being a student...",
+   "zh": ""
+  },
+  {
+   "en": ": And we're walking around a public park, no less. Anyone who sees us likely thinks this is some sort of...date.",
+   "zh": ""
+  },
+  {
+   "en": ": It's like something straight out of a shoujo manga- a genre of book I absolutely do not read.",
+   "zh": ""
+  },
+  {
+   "en": ": What is-",
+   "zh": ""
+  },
+  {
+   "en": ": Uh-oh! Looks like it's time for a weebnote!",
+   "zh": ""
+  },
+  {
+   "en": ": Shoujo manga is a genre of comics aimed at young girls that typically focuses on blossoming romances between two unlikely candidates!",
+   "zh": ""
+  },
+  {
+   "en": ": I'm sure that doesn't sound familiar at all, does it?",
+   "zh": ""
+  },
+  {
+   "en": ": Did you hear something just now?",
+   "zh": ""
+  },
+  {
+   "en": ": Me? No.",
+   "zh": ""
+  },
+  {
+   "en": ": Anyway, I can’t say I’m all that familiar with shoujo manga. Though, I do feel slightly more informed about it all of a sudden...",
+   "zh": ""
+  },
+  {
+   "en": ": So, do you come to this park often, Sensei?",
+   "zh": ""
+  },
+  {
+   "en": ": I have to say, I didn’t peg you as the type to enjoy public spaces like this.",
+   "zh": ""
+  },
+  {
+   "en": ": This is actually the first time I’ve been here. I didn't even know this place existed.",
+   "zh": ""
+  },
+  {
+   "en": ": It actually didn't until just a short while ago.",
+   "zh": ""
+  },
+  {
+   "en": ": One of my favorite things about Kumon-mi is how it's always changing. It's like...every time you wake up, there's something a little different going on.",
+   "zh": ""
+  },
+  {
+   "en": ": We didn’t even have the cafe until recently. Now, it’s one of the most popular spots in town.",
+   "zh": ""
+  },
+  {
+   "en": ": Is that somewhere you go often?",
+   "zh": ""
+  },
+  {
+   "en": ": No more than the average person, I suppose.",
+   "zh": ""
+  },
+  {
+   "en": ": It seems like it would be a nice place to study if only it was a little quieter. Unfortunately, I don't think I'd be able to focus with how busy it always seems to be.",
+   "zh": ""
+  },
+  {
+   "en": ": I do like coffee, though. The pot I keep in my room is actually one of the first things I bought with my own money.",
+   "zh": ""
+  },
+  {
+   "en": ": Just try to keep it away from Miku if possible. I don’t want to imagine how hard she'd be to keep up with while hopped up on caffeine.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, you don’t have to worry about that. Miku actually hates coffee.",
+   "zh": ""
+  },
+  {
+   "en": ": She needs to put almost eight tablespoons of sugar in one cup to even drink it. It's that you should be worried about, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": That sounds somehow even more terrifying...",
+   "zh": ""
+  },
+  {
+   "en": ": She’s doing her best...but I agree that she can be a bit hard to keep up with on occasion.",
+   "zh": ""
+  },
+  {
+   "en": ": I just wish she'd focus a little more on her studies so I don’t have to move onto the next grade without her.",
+   "zh": ""
+  },
+  {
+   "en": ": I could...maybe invite her over to my place for private tutoring? That doesn't sound creepy, does it?",
+   "zh": ""
+  },
+  {
+   "en": ": Wait...you offer private tutoring sessions at your house?",
+   "zh": ""
+  },
+  {
+   "en": ": Doesn’t that go against section 9C of the student handbook?",
+   "zh": ""
+  },
+  {
+   "en": ": I could have sworn that students weren’t allowed to enter the residence of a teacher without express permission from the principal.",
+   "zh": ""
+  },
+  {
+   "en": "What kind of[school] actually puts a rule as specific as that in their student handbook?",
+   "zh": ""
+  },
+  {
+   "en": ": I...am an exception to that rule.",
+   "zh": ""
+  },
+  {
+   "en": ": Do you...",
+   "zh": ""
+  },
+  {
+   "en": ": Do you mind if I ask why?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": I do, actually.",
+   "zh": ""
+  },
+  {
+   "en": ": Well...umm...",
+   "zh": ""
+  },
+  {
+   "en": ": If that's the case...",
+   "zh": ""
+  },
+  {
+   "en": ": Would you maybe...mind if I came over for a private session one day?",
+   "zh": ""
+  },
+  {
+   "en": "You know, I expected Makoto to care a little more about my blatant shattering of section 9C...but I guess the idea of being alone with me combined with learning managed to outweigh that.",
+   "zh": ""
+  },
+  {
+   "en": "There's no way she believes that I'm an exception to the rule, so I guess that even she's okay with breaking a few of them if she's able to get something she wants out of it.",
+   "zh": ""
+  },
+  {
+   "en": "Of course, that will not stop me from teasing her about this because that sounds fun.",
+   "zh": ""
+  },
+  {
+   "en": ": I don't think so, Makoto. You don't really seem to need tutoring. My time is better spent on other girls.",
+   "zh": ""
+  },
+  {
+   "en": ": Wha-",
+   "zh": ""
+  },
+  {
+   "en": ": Just because I'm at the top of the class doesn't mean that I don't struggle with certain things too!",
+   "zh": ""
+  },
+  {
+   "en": ": I need tutoring just as much as the next girl, Sensei!",
+   "zh": ""
+  },
+  {
+   "en": ": Do you? Or do you just want to be alone in my house with me?",
+   "zh": ""
+  },
+  {
+   "en": ": Well...umm...",
+   "zh": ""
+  },
+  {
+   "en": ": I suppose that's...just a thing that would have to happen for the...purpose of furthering my education.",
+   "zh": ""
+  },
+  {
+   "en": ": Or something.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": You just want another massage, don't you?",
+   "zh": ""
+  },
+  {
+   "en": ": No! I don't want another massage!",
+   "zh": ""
+  },
+  {
+   "en": ": I don't know if I believe you.",
+   "zh": ""
+  },
+  {
+   "en": ": I just...need to learn everything I can since I also want to be a teacher some day.",
+   "zh": ""
+  },
+  {
+   "en": ": And...I feel like if I’m ever going to get to where I want to be in order to do that...I probably need to learn from the best.",
+   "zh": ""
+  },
+  {
+   "en": "Was the person in this body before me really that great of a teacher?...",
+   "zh": ""
+  },
+  {
+   "en": "Just what the Hell did he do to get Makoto to think so highly of him?",
+   "zh": ""
+  },
+  {
+   "en": ": If that's all it is, you can come over whenever you want.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll have to make sure I warn Ami ahead of time, though. I don’t think she’d take too kindly to a girl showing up unannounced, student or not.",
+   "zh": ""
+  },
+  {
+   "en": ": Hahah...yeah.",
+   "zh": ""
+  },
+  {
+   "en": ": She...really loves you, doesn’t she?",
+   "zh": ""
+  },
+  {
+   "en": ": I am her uncle after all.",
+   "zh": ""
+  },
+  {
+   "en": "Kind of.",
+   "zh": ""
+  },
+  {
+   "en": ": Agreed...I have my issues with Ami, but...you two make a good pair.",
+   "zh": ""
+  },
+  {
+   "en": ": I'd almost feel a little guilty for intruding because of that.",
+   "zh": ""
+  },
+  {
+   "en": ": Almost?",
+   "zh": ""
+  },
+  {
+   "en": ": Well...",
+   "zh": ""
+  },
+  {
+   "en": ": Let's just say my thirst for knowledge vastly outweighs how I feel about her.",
+   "zh": ""
+  },
+  {
+   "en": "Makoto and I walk around for a little while longer before the time comes for us to part ways.",
+   "zh": ""
+  },
+  {
+   "en": "I mention coming over to her family's shop tonight and she begs me not to because that is what she always does when I suggest such a thing.",
+   "zh": ""
+  },
+  {
+   "en": "All in all, nothing really changes.",
+   "zh": ""
+  },
+  {
+   "en": "The time we spend outside of school isn't all that different from the time we spend in it.",
+   "zh": ""
+  },
+  {
+   "en": "Sure, there's a tinge of additional suggestiveness sprinkled onto different portions of our conversations...but it's all entirely normal apart from that.",
+   "zh": ""
+  },
+  {
+   "en": "Maybe that's a good thing, though?",
+   "zh": ""
+  },
+  {
+   "en": "Maybe the relaxing life that Makoto wants doesn't require the wide open world? Maybe she can find comfort in the same building she spends every Monday through Friday in?",
+   "zh": ""
+  },
+  {
+   "en": "Or maybe a life of comfort just isn't possible for her at all if even this is not enough to turn her into someone else.",
+   "zh": ""
+  },
+  {
+   "en": "I believe she's fine the way she is, albeit slightly flawed...But we're all flawed in our own ways and that alone doesn't make us worth giving up on.",
+   "zh": ""
+  },
+  {
+   "en": "She says goodbye to me with a smile on her face- and if it weren't for the glow of the sun illuminating her true feelings, I'd likely believe it.",
+   "zh": ""
+  },
+  {
+   "en": "Unfortunately for both of us, it's much easier to see in the light.",
+   "zh": ""
+  },
+  {
+   "en": "And so I know that smile is no smile at all.",
+   "zh": ""
+  },
+  {
+   "en": "But-",
+   "zh": ""
+  },
+  {
+   "en": "It's still beautiful in its own backwards way.",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "Makoto's affection has increased to [makoto_love]!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}

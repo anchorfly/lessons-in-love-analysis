@@ -1,0 +1,922 @@
+{
+ "label": "day244",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": ": Poke.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Pokey-poke poke.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Pokey-pokey-pokey-pokey-poke.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": "So, I bet you’re wondering how I found myself in this situation.",
+   "zh": ""
+  },
+  {
+   "en": "It was a normal day of[school] just like any other.",
+   "zh": ""
+  },
+  {
+   "en": "In fact, it was so normal that it ended without any hiccups and this onslaught of poking came out of virtually nowhere.",
+   "zh": ""
+  },
+  {
+   "en": "Yup.",
+   "zh": ""
+  },
+  {
+   "en": "I know you were expecting a little more detail as to why this small female is now walking alongside me and-",
+   "zh": ""
+  },
+  {
+   "en": ": Pokey-poke.",
+   "zh": ""
+  },
+  {
+   "en": "And doing that.",
+   "zh": ""
+  },
+  {
+   "en": "But I really have no idea.",
+   "zh": ""
+  },
+  {
+   "en": ": Is there something you need from me, Uta?",
+   "zh": ""
+  },
+  {
+   "en": ": You mean I can’t just walk side by side with you and poke you without any ulterior motives?",
+   "zh": ""
+  },
+  {
+   "en": ": Is that what’s happening right now?",
+   "zh": ""
+  },
+  {
+   "en": ": No. I have an ulterior motive.",
+   "zh": ""
+  },
+  {
+   "en": ": And what might that ulterior motive be, exactly?",
+   "zh": ""
+  },
+  {
+   "en": ": You see, Sensei. I’ve got this really good friend who transferred in alongside me...",
+   "zh": ""
+  },
+  {
+   "en": ": And I was just thinking that you would be my favorite person in the whole wide world if you’d be able to...oh, I don’t know-",
+   "zh": ""
+  },
+  {
+   "en": ": Get her into our class?",
+   "zh": ""
+  },
+  {
+   "en": ": And you think poking me on the way home from[school] is the way to accomplish that?",
+   "zh": ""
+  },
+  {
+   "en": ": Would you prefer I did something a little...extra?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": What did you have in mind?",
+   "zh": ""
+  },
+  {
+   "en": ": Ah! You thought I was being serious!",
+   "zh": ""
+  },
+  {
+   "en": ": You thought I was offering to do freaky stuff with you just now!",
+   "zh": ""
+  },
+  {
+   "en": ": Why do you torment me like this?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sorry, Sensei. But I’m afraid that it is too cold and too wet to be doing freaky stuff right now.",
+   "zh": ""
+  },
+  {
+   "en": ": Plus, this is the only uniform I have and I can't afford it getting all messy.",
+   "zh": ""
+  },
+  {
+   "en": ": So I’m very sorry but I’m going to have to reject you once again.",
+   "zh": ""
+  },
+  {
+   "en": ": Please do not hold this against me. I hope we can continue to remain friends.",
+   "zh": ""
+  },
+  {
+   "en": ": Hah...",
+   "zh": ""
+  },
+  {
+   "en": ": What is your friend’s name?",
+   "zh": ""
+  },
+  {
+   "en": ": Ah! Are you actually gonna do it?!",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my God! I love you! You’re the best ever!",
+   "zh": ""
+  },
+  {
+   "en": ": I never agreed to anything. I don’t even know if something like that is in my power.",
+   "zh": ""
+  },
+  {
+   "en": ": Really? Cause I talked to her teacher and she said that she’s fine with you taking pretty much everybody out of her class if you want.",
+   "zh": ""
+  },
+  {
+   "en": ": Does your friend’s teacher have purple hair and look like she hasn’t slept in ten years?",
+   "zh": ""
+  },
+  {
+   "en": ": Uh-huh. Just like that, actually.",
+   "zh": ""
+  },
+  {
+   "en": ": Then...maybe there is something I can do after all.",
+   "zh": ""
+  },
+  {
+   "en": ": Yay!",
+   "zh": ""
+  },
+  {
+   "en": ": Just so you know though, I still can’t get freaky. I’ve barely even settled into my dorm and I wouldn’t even know where to go for something like that.",
+   "zh": ""
+  },
+  {
+   "en": ": I have a house, you know.",
+   "zh": ""
+  },
+  {
+   "en": ": Ooooooh you sly dog, you. Offering to take a [young_girl] home on her way out of[school].",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t you live with Ami? Won’t she get jealous?",
+   "zh": ""
+  },
+  {
+   "en": ": Wait! You want both of us! At the same time!",
+   "zh": ""
+  },
+  {
+   "en": ": And in our uniforms!",
+   "zh": ""
+  },
+  {
+   "en": ": I see right through you, Sensei! I had no idea you-",
+   "zh": ""
+  },
+  {
+   "en": ": You really need to tone it down while we’re still on[school] grounds.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, probably. The more I think about it, the more we risk having one of your eleven-hundred girlfriends see us.",
+   "zh": ""
+  },
+  {
+   "en": ": I already lost my first fight to Yumi. I need to train before I’m ready to take on another opponent.",
+   "zh": ""
+  },
+  {
+   "en": ": Right...",
+   "zh": ""
+  },
+  {
+   "en": ": This friend, though-",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, yeah!",
+   "zh": ""
+  },
+  {
+   "en": ": I was actually thinking, if you aren’t too busy today, the two of us could go pay her a visit so you can get a feel for her.",
+   "zh": ""
+  },
+  {
+   "en": ": Not like a literal feel, though.",
+   "zh": ""
+  },
+  {
+   "en": ": She doesn’t have to call her parents for approval or anything the way I do, but she’s not really a big people-person.",
+   "zh": ""
+  },
+  {
+   "en": ": But hey, who knows? You seem to draw in girls my age, so maybe she’ll be calling you Master soon, too?",
+   "zh": ""
+  },
+  {
+   "en": ": Just in the good way and stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": You really don’t hold anything back in public conversation, do you?",
+   "zh": ""
+  },
+  {
+   "en": ": My lack of a filter will one-day be my demise.",
+   "zh": ""
+  },
+  {
+   "en": ": But until then, please continue taking care of me~",
+   "zh": ""
+  },
+  {
+   "en": "I will take care of you forever, Uta-chan.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t have any plans today, so we can go meet her if you’d like.",
+   "zh": ""
+  },
+  {
+   "en": ": Where does she live?",
+   "zh": ""
+  },
+  {
+   "en": ": You know that bathhouse somewhere between the maid cafe and the[school]? There.",
+   "zh": ""
+  },
+  {
+   "en": ": She lives in a bathhouse?",
+   "zh": ""
+  },
+  {
+   "en": ": Mhm. Her aunt owns the place and she helps run it.",
+   "zh": ""
+  },
+  {
+   "en": ": She’s probably working right now, but as long as you don’t mind naked people walkin’ around all...naked and stuff, we can hang out there.",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t mind naked people at all. I actually prefer them.",
+   "zh": ""
+  },
+  {
+   "en": "Which is something I can safely say now that there are virtually zero men anywhere to be found.",
+   "zh": ""
+  },
+  {
+   "en": ": Then all aboard the Uta-Express!",
+   "zh": ""
+  },
+  {
+   "en": ": Just not like aboard-aboard, if you know what I mean.",
+   "zh": ""
+  },
+  {
+   "en": ": Right. Because you’d have to call your parents.",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah. This train’s out of service and can’t take on any passengers right now. Sorry, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": I can’t tell if I love or hate all of these innuendos.",
+   "zh": ""
+  },
+  {
+   "en": ": You love ‘em. I can see it in those big ole’ pretty eyes of yours.",
+   "zh": ""
+  },
+  {
+   "en": ": Now, come on! We’ve gotta get there before all the old ladies show up and start playin’ strip mahjong in the back room!",
+   "zh": ""
+  },
+  {
+   "en": ": Is that...actually a thing that happens there?",
+   "zh": ""
+  },
+  {
+   "en": ": Probably. You know how old ladies get.",
+   "zh": ""
+  },
+  {
+   "en": "What Uta does not know is that...I don’t know how old ladies get.",
+   "zh": ""
+  },
+  {
+   "en": "How is that even a thing I would know?",
+   "zh": ""
+  },
+  {
+   "en": "I’ve made it overwhelmingly apparent that I hardly ever associate with anyone out of Uta’s age group- which sounds kind of sickening when I actually put it into words.",
+   "zh": ""
+  },
+  {
+   "en": "But that’s beside the point.",
+   "zh": ""
+  },
+  {
+   "en": "The matter at hand is meeting this friend of hers- who may or may not wind up making my life just as difficult as Uta is.",
+   "zh": ""
+  },
+  {
+   "en": "The girl’s barely left my side since she showed up in[school].",
+   "zh": ""
+  },
+  {
+   "en": "And, even though I don’t really have any problem with that, maybe having someone else she knows around will get her to...ease up a bit?",
+   "zh": ""
+  },
+  {
+   "en": "But, then again, there’s a chance that this will all just crash and burn in the end.",
+   "zh": ""
+  },
+  {
+   "en": "I guess I’ll just have to wait and see.",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "Uta leads me into the bathhouse that I’ve been to with Ami and Ayane several times before.",
+   "zh": ""
+  },
+  {
+   "en": "She stops walking abruptly and quickly turns to face me. I can see her friend out of the corner of my eye and I’m slightly confused as to why we’ve yet to approach her.",
+   "zh": ""
+  },
+  {
+   "en": ": Welp. Time to get naked, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": Like, both of us?",
+   "zh": ""
+  },
+  {
+   "en": ": Nope. Just you.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s a bathhouse. It’s bad manners to be walking around in your normal clothes.",
+   "zh": ""
+  },
+  {
+   "en": ": But you-",
+   "zh": ""
+  },
+  {
+   "en": ": My friend works here. I don’t have to follow the rules.",
+   "zh": ""
+  },
+  {
+   "en": ": Something tells me I should not be falling for this trick.",
+   "zh": ""
+  },
+  {
+   "en": ": Something tells me somebody is a little self-conscious.",
+   "zh": ""
+  },
+  {
+   "en": ": That is definitely not what’s happening right now.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m just messin’ with you anyway. But you can’t blame me for being kinda curious.",
+   "zh": ""
+  },
+  {
+   "en": ": Now, come on! I’ll introduce you to Io.",
+   "zh": ""
+  },
+  {
+   "en": "I shrug off the fact that Uta just...openly admitted to being curious about my penis (?) and follow her to the counter.",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": ": Welp, here she is! Ain’t she a beaut?",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, she's adorable.",
+   "zh": ""
+  },
+  {
+   "en": ": Am I...being appraised right now?",
+   "zh": ""
+  },
+  {
+   "en": ": Sure are, Io.",
+   "zh": ""
+  },
+  {
+   "en": ": But anyway, meet Sensei. He’s the best teacher I’ve ever had and I’ve only been in his class for a week.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Aren’t you that guy who rented out the men’s bath with that one blonde girl a while ago?",
+   "zh": ""
+  },
+  {
+   "en": ": I was really hoping you wouldn’t have remembered that.",
+   "zh": ""
+  },
+  {
+   "en": ": Blonde girl?!",
+   "zh": ""
+  },
+  {
+   "en": ": Natural blonde or bleach-blonde?!",
+   "zh": ""
+  },
+  {
+   "en": ": That’s the part you want to know more about?...",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve gotta know if it was Ayane or Chika! I need to update your hit-list!",
+   "zh": ""
+  },
+  {
+   "en": ": What if it wasn’t someone from the class?",
+   "zh": ""
+  },
+  {
+   "en": ": Ah! You scoundrel! How many girls are you seeing?!",
+   "zh": ""
+  },
+  {
+   "en": ": So like...are you guys here to take baths...or?",
+   "zh": ""
+  },
+  {
+   "en": ": What’s going on right now?",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, no. We’re here for the naked mahjong game with the old ladies in the back.",
+   "zh": ""
+  },
+  {
+   "en": ": How many times do I have to tell you that isn’t a thing we do here?",
+   "zh": ""
+  },
+  {
+   "en": ": I just don’t believe you, Io. I’m sorry.",
+   "zh": ""
+  },
+  {
+   "en": ": Uta here was trying to get you into my class.",
+   "zh": ""
+  },
+  {
+   "en": ": She was?",
+   "zh": ""
+  },
+  {
+   "en": ": Yup!",
+   "zh": ""
+  },
+  {
+   "en": ": But...why?",
+   "zh": ""
+  },
+  {
+   "en": ": I...actually didn’t ask that.",
+   "zh": ""
+  },
+  {
+   "en": ": You’ve just seemed really down the last few days and I thought it might pep you up a bit being around me and stuff.",
+   "zh": ""
+  },
+  {
+   "en": ": I know how hard it can be making friends in new-",
+   "zh": ""
+  },
+  {
+   "en": ": Ugh. Uta, come on. Not this again.",
+   "zh": ""
+  },
+  {
+   "en": ": No, no, no! Hear me out. Sensei is actually a super awesome teacher and already said he’d be fine with taking you into the class.",
+   "zh": ""
+  },
+  {
+   "en": ": Really?",
+   "zh": ""
+  },
+  {
+   "en": ": I...",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah, I guess that’s kind of what happened.",
+   "zh": ""
+  },
+  {
+   "en": ": But why? You don’t even know me.",
+   "zh": ""
+  },
+  {
+   "en": ": I could like, be a serial killer or something.",
+   "zh": ""
+  },
+  {
+   "en": ": Uta vouched for you so that’s good enough for me.",
+   "zh": ""
+  },
+  {
+   "en": ": But also, since I’m going out of my way for you-",
+   "zh": ""
+  },
+  {
+   "en": ": You want me to keep the thing about you and the blonde girl a secret?",
+   "zh": ""
+  },
+  {
+   "en": ": Preferably, yes.",
+   "zh": ""
+  },
+  {
+   "en": ": Sure. Do whatever you want. I'm not a big fan of secrets but if that's all it takes, sure.",
+   "zh": ""
+  },
+  {
+   "en": ": Your business is your business after all.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, cool. You’re the complete opposite of Uta.",
+   "zh": ""
+  },
+  {
+   "en": ": Why is that cool?! You love me! I was ready to get freaky after this!",
+   "zh": ""
+  },
+  {
+   "en": ": No you weren’t.",
+   "zh": ""
+  },
+  {
+   "en": ": She hasn’t even called her parents yet.",
+   "zh": ""
+  },
+  {
+   "en": ": See? You’re not the only one who can see through people, Uta.",
+   "zh": ""
+  },
+  {
+   "en": ": I have so much love to give and no one who will accept it...",
+   "zh": ""
+  },
+  {
+   "en": ": Um...is there like, anything you need from me to help out with the transfer thing?",
+   "zh": ""
+  },
+  {
+   "en": ": Dying to get out that badly?",
+   "zh": ""
+  },
+  {
+   "en": ": I mean...Yeah, a little bit I guess.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m not going to drop out or anything if I stay in Ms. Watabe’s class, but I’d definitely like being around at least one person I know more than...zero of them.",
+   "zh": ""
+  },
+  {
+   "en": ": Also, you’d be the first teacher I’ve ever gotten to see the penis of and that sounds like a fun novelty.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh great. So that’s a thing you saw.",
+   "zh": ""
+  },
+  {
+   "en": ": What?! Io!",
+   "zh": ""
+  },
+  {
+   "en": ": Your aunt says you’re only supposed to watch the cameras when people are up to no good!",
+   "zh": ""
+  },
+  {
+   "en": ": He’s an older guy who got into a bath with a girl my age. Of course I was going to think he was up to no good.",
+   "zh": ""
+  },
+  {
+   "en": ": Surprisingly, though, nothing happened at all.",
+   "zh": ""
+  },
+  {
+   "en": ": They just sat back to back and talked to each other for like two whole hours.",
+   "zh": ""
+  },
+  {
+   "en": "To be fair, I was totally down to do more than that but Ayane didn’t seem like she was in the best state of mind that night.",
+   "zh": ""
+  },
+  {
+   "en": ": Really, though. If there’s anything I can do to help make this happen, just ask.",
+   "zh": ""
+  },
+  {
+   "en": ": The more I think about getting out of Ms. Watabe's, the more psyched up I’m getting.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve always done better with male teachers anyway so this is like, a totally awesome idea.",
+   "zh": ""
+  },
+  {
+   "en": ": Will a discount on bath-stuff sweeten the deal?! Oh! Should I throw in Uta?!",
+   "zh": ""
+  },
+  {
+   "en": ": Disclaimer: Uta is not for sale. Please keep your hands in the vehicle at all times.",
+   "zh": ""
+  },
+  {
+   "en": ": That won’t be necessary.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll do what I can but I can’t guarantee it will work out.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve taken in transfer students before but I’ve never stolen one from another class.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s not really stealing if it’s what I want, though, right? You can just tell them I’m not happy in the other class or something.",
+   "zh": ""
+  },
+  {
+   "en": ": Ms. Watabe is kind of a creep anyway.",
+   "zh": ""
+  },
+  {
+   "en": ": She’s definitely...unique.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my God, I’m so excited and I haven’t even switched classes yet.",
+   "zh": ""
+  },
+  {
+   "en": ": How many people are in there? Twenty? Twenty-five? Ms. Watabe’s class has like six hundred so-",
+   "zh": ""
+  },
+  {
+   "en": ": You’d be the fourteenth.",
+   "zh": ""
+  },
+  {
+   "en": ": Only fourteen?!",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei, you know how they call people who are really good at getting along with everybody “social butterflies?”",
+   "zh": ""
+  },
+  {
+   "en": ": Well, Io here is the complete opposite.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s true. I only talk to like two people. Everyone sucks. Please save me.",
+   "zh": ""
+  },
+  {
+   "en": ": How are you two even friends?",
+   "zh": ""
+  },
+  {
+   "en": ": We were pen-pals when we were little!",
+   "zh": ""
+  },
+  {
+   "en": ": It wasn’t until Uta moved to Kumon-mi that we finally got to meet in person.",
+   "zh": ""
+  },
+  {
+   "en": ": She was a little shorter than I expected. And significantly more female. But I came around to liking her anyway.",
+   "zh": ""
+  },
+  {
+   "en": ": Was Uta...posing as a male online?",
+   "zh": ""
+  },
+  {
+   "en": ": No...I just had a really...masculine screen name and we never really talked about our genders.",
+   "zh": ""
+  },
+  {
+   "en": ": I kind of...thought Io was going to be a boy as well...",
+   "zh": ""
+  },
+  {
+   "en": ": But yeah, weird origin story aside, thank you so much, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": Is it okay if I call you Sensei already?",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t even know what else you would call me.",
+   "zh": ""
+  },
+  {
+   "en": ": And I can move into Uta’s dorm room?",
+   "zh": ""
+  },
+  {
+   "en": ": Do you not have a roommate yet, Uta?",
+   "zh": ""
+  },
+  {
+   "en": ": Well, you see...another one of the reasons I wanted Io to join our class was that I...kind of get really scared at night if there’s no one around.",
+   "zh": ""
+  },
+  {
+   "en": ": And I’ve got all sorts of tools and metal stuff, so I can protect her if it really comes to it.",
+   "zh": ""
+  },
+  {
+   "en": ": Wait, what?",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t worry about it. Just focus on filling out all that paperwork or whatever it is you have to do and I’ll...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...You'll what?",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, sorry. I just remembered your penis.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay, I wanted you two to get along but I also wanted things to go a little differently than this.",
+   "zh": ""
+  },
+  {
+   "en": ": Really? She seems pretty great to me, Uta.",
+   "zh": ""
+  },
+  {
+   "en": ": Thanks.",
+   "zh": ""
+  },
+  {
+   "en": ": There are a lot of words I’d use to describe myself, but “great” isn’t anywhere close to the list.",
+   "zh": ""
+  },
+  {
+   "en": ": And even if you’re only doing this because Uta put you up to it, I’m...glad you’re taking a chance on me.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ll try not to get in your hair.",
+   "zh": ""
+  },
+  {
+   "en": ": And I’ll try to not come to the bathhouse with your future-classmates.",
+   "zh": ""
+  },
+  {
+   "en": ": Again, I don’t really care if you do. Your business is your business.",
+   "zh": ""
+  },
+  {
+   "en": ": Then I will come to the bathhouse with all of them.",
+   "zh": ""
+  },
+  {
+   "en": ": As long as I don’t have to clean up after you, we’re good.",
+   "zh": ""
+  },
+  {
+   "en": ": This is a compromise I am willing to accept.",
+   "zh": ""
+  },
+  {
+   "en": ": Pleasure doing business with you, Io.",
+   "zh": ""
+  },
+  {
+   "en": ": Don’t sweat it. Stop by anytime you like.",
+   "zh": ""
+  },
+  {
+   "en": ": Uta normally takes a bath around 8:00 every night, so if you stop by around then I can look the other way and let you walk in on her.",
+   "zh": ""
+  },
+  {
+   "en": ": Deal.",
+   "zh": ""
+  },
+  {
+   "en": ": Sweet.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Mom?",
+   "zh": ""
+  },
+  {
+   "en": ": I think we need to talk.",
+   "zh": ""
+  }
+ ]
+}

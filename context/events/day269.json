@@ -1,0 +1,1222 @@
+{
+ "label": "day269",
+ "title_zh": "",
+ "lines": [
+  {
+   "en": "Wednesday begins with somewhat of a change of fate.",
+   "zh": ""
+  },
+  {
+   "en": "Or, as a certain normal [teenage]girl would likely say instead, the result of an unfortunate twist in an otherwise unbending cycle.",
+   "zh": ""
+  },
+  {
+   "en": "Or something along the lines.",
+   "zh": ""
+  },
+  {
+   "en": "I actually took it upon myself to inform Maya of Kirin’s transfer plan the other day and, just as expected, something like this has never happened before.",
+   "zh": ""
+  },
+  {
+   "en": "Instead of getting philosophical, however, she just sighed to herself and ran her fingers through her hair, saying something I can’t quite remember as she walked off.",
+   "zh": ""
+  },
+  {
+   "en": "I imagine she just called me disgusting. She does that often.",
+   "zh": ""
+  },
+  {
+   "en": "Sure, the context of the rest of the conversation didn’t really invoke any need for me to be insulted, but that’s never stopped her before.",
+   "zh": ""
+  },
+  {
+   "en": "Why stop now? When things are finally becoming new and exciting?",
+   "zh": ""
+  },
+  {
+   "en": "Or terrible.",
+   "zh": ""
+  },
+  {
+   "en": "I guess we’ll just have to wait and see.",
+   "zh": ""
+  },
+  {
+   "en": ": Soooo...hey!",
+   "zh": ""
+  },
+  {
+   "en": ": I’m Kirin Kanda, and I’ve met pretty much all of you already since I totally crashed your Christmas party.",
+   "zh": ""
+  },
+  {
+   "en": ": But I guess I’m here to crash your class now as well.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m not expecting any sort of warm welcome or anything like that, but-",
+   "zh": ""
+  },
+  {
+   "en": ": HECK YES! KIRIN KANDA AND MIKU MARUYAMA IN THE SAME CLASS!",
+   "zh": ""
+  },
+  {
+   "en": ": EVERYBODY GIVE HER A ROUND OF APPLAUSE!",
+   "zh": ""
+  },
+  {
+   "en": ": Uhh...no. Please don’t do that.",
+   "zh": ""
+  },
+  {
+   "en": ": What I was trying to say before Miku jumped in...is that I hope we can all get along and...you know, be normal students together or whatever.",
+   "zh": ""
+  },
+  {
+   "en": ": Sooooo...yeah. I guess if anyone has any questions or anything like that, I’d be more than happy to answer.",
+   "zh": ""
+  },
+  {
+   "en": ": If not, I’ll just take my seat and we can all pretend that I’ve been here the entire time and didn’t just randomly show up one day.",
+   "zh": ""
+  },
+  {
+   "en": "The class remains silent for a moment apart from Miku’s cheering and several other girls who she’s able to coax into awkwardly clapping for Kirin.",
+   "zh": ""
+  },
+  {
+   "en": "Kirin doesn’t react, of course.",
+   "zh": ""
+  },
+  {
+   "en": "She doesn’t look to me for approval, either.",
+   "zh": ""
+  },
+  {
+   "en": "In fact, she basically doesn’t even acknowledge my existence as soon as she gets the ball rolling.",
+   "zh": ""
+  },
+  {
+   "en": "It’s possible that she’s just trying to avoid raising suspicion, but-",
+   "zh": ""
+  },
+  {
+   "en": "Isn’t that the opposite of what she’d normally do?",
+   "zh": ""
+  },
+  {
+   "en": "Is a normal introduction in a room full of people she knows truly fun to her?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve got a question.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh! Ayane, my best friend in the whole wide world.",
+   "zh": ""
+  },
+  {
+   "en": ": Whatever can I do for you?",
+   "zh": ""
+  },
+  {
+   "en": ": How are you and Ayane best friends?! She didn’t even clap!",
+   "zh": ""
+  },
+  {
+   "en": ": Did ya not hear my applause?!",
+   "zh": ""
+  },
+  {
+   "en": ": What are you doing?",
+   "zh": ""
+  },
+  {
+   "en": ": What do you mean? I just so happened to be transferred into this class.",
+   "zh": ""
+  },
+  {
+   "en": ": Total coincidence. Kinda crazy, huh?",
+   "zh": ""
+  },
+  {
+   "en": ": Didn’t you transfer classes less than a month ago? What was wrong with your last one?",
+   "zh": ""
+  },
+  {
+   "en": ": I felt my education was lacking in my previous environment and am now looking to improve myself.",
+   "zh": ""
+  },
+  {
+   "en": ": You have very much come to the wrong class, if that’s the case.",
+   "zh": ""
+  },
+  {
+   "en": ": I wouldn’t mind giving you a list of teachers who, you know, teach if you have a minute after[school].",
+   "zh": ""
+  },
+  {
+   "en": ": That won’t be necessary. After giving it some thought, I’ve decided that this is the right class for me.",
+   "zh": ""
+  },
+  {
+   "en": ": And if anyone has a problem with that, Ayane, they can take it up with Sensei personally.",
+   "zh": ""
+  },
+  {
+   "en": ": He approved the transfer, so if anyone is to blame here, it’s him.",
+   "zh": ""
+  },
+  {
+   "en": ": What?...",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei...",
+   "zh": ""
+  },
+  {
+   "en": ": You could have at least given me a warning, or...",
+   "zh": ""
+  },
+  {
+   "en": ": To be completely honest, she just kind of sprung it on me out of nowhere.",
+   "zh": ""
+  },
+  {
+   "en": ": You did approve it, though.",
+   "zh": ""
+  },
+  {
+   "en": ": Yes. I did approve it.",
+   "zh": ""
+  },
+  {
+   "en": ": Is something wrong, Ayane? I thought you and Kirin were kind of close?",
+   "zh": ""
+  },
+  {
+   "en": ": Yeah...",
+   "zh": ""
+  },
+  {
+   "en": ": Me too...",
+   "zh": ""
+  },
+  {
+   "en": ": Welp, I suppose this concludes my introduction!",
+   "zh": ""
+  },
+  {
+   "en": ": I’d like to thank everyone for accepting me to the class and give a special thanks to Miku for making several people awkwardly clap for me.",
+   "zh": ""
+  },
+  {
+   "en": ": I totally didn’t hate that at all.",
+   "zh": ""
+  },
+  {
+   "en": "Kirin grabs her bag off of the ground and makes her way over to an unoccupied desk on the left hand side of the room.",
+   "zh": ""
+  },
+  {
+   "en": "She sits next to Io.",
+   "zh": ""
+  },
+  {
+   "en": "And, as expected of someone as outgoing as her, she immediately tries to strike up a conversation.",
+   "zh": ""
+  },
+  {
+   "en": "Unfortunately for Kirin, she picked one of the absolute worst people to talk to.",
+   "zh": ""
+  },
+  {
+   "en": "Nothing against Io, of course. It’s just...",
+   "zh": ""
+  },
+  {
+   "en": "Well-",
+   "zh": ""
+  },
+  {
+   "en": ": Hey. Are you new here as well? I don’t remember seeing you at the Christmas party.",
+   "zh": ""
+  },
+  {
+   "en": ": My old[school] exploded.",
+   "zh": ""
+  },
+  {
+   "en": ": Ooooh, a transfer then? How are you liking this place compared to the last one?",
+   "zh": ""
+  },
+  {
+   "en": ": It’s...a[school], I guess.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sorry, are you trying to become friends or something? Because I’m not really interested.",
+   "zh": ""
+  },
+  {
+   "en": ": Uhh...excuse me?",
+   "zh": ""
+  },
+  {
+   "en": ": Io! You know darn well that’s not how you’re supposed to talk to people you’re meeting for the first time!",
+   "zh": ""
+  },
+  {
+   "en": ": So, what? You want me to lie to her and tell her I want to paint our nails and go shopping for flowers or something?",
+   "zh": ""
+  },
+  {
+   "en": ": Yes! Kind of!",
+   "zh": ""
+  },
+  {
+   "en": ": I want you to actually want to do that!",
+   "zh": ""
+  },
+  {
+   "en": ": Ya can’t just rely on me forever, ya know?",
+   "zh": ""
+  },
+  {
+   "en": ": Please do excuse my rude behavior, Kanda-san.",
+   "zh": ""
+  },
+  {
+   "en": ": I would absolutely adore the prospect of painting each other’s nails and perusing the local florist for hydrangeas if you’d be so inclined.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": I...",
+   "zh": ""
+  },
+  {
+   "en": ": I kind of like you for some reason.",
+   "zh": ""
+  },
+  {
+   "en": ": Please don’t. I am not worth it.",
+   "zh": ""
+  },
+  {
+   "en": ": Please help.",
+   "zh": ""
+  },
+  {
+   "en": ": I can’t do it anymore.",
+   "zh": ""
+  },
+  {
+   "en": ": Wakana? What’s up?",
+   "zh": ""
+  },
+  {
+   "en": ": Please use my last name in front of the students, you pathetic waste of carbon.",
+   "zh": ""
+  },
+  {
+   "en": ": Wakana Watabe, what’s up?",
+   "zh": ""
+  },
+  {
+   "en": ": “What’s up” is that I’m going to throw myself off of the roof of this building if you do not get this suspiciously smart but infinitely obnoxious girl out of my classroom immediately.",
+   "zh": ""
+  },
+  {
+   "en": ": I will literally pay you. I do not care.",
+   "zh": ""
+  },
+  {
+   "en": ": I just can’t take it anymore.",
+   "zh": ""
+  },
+  {
+   "en": ": Are you going to say your catch phrase?",
+   "zh": ""
+  },
+  {
+   "en": ": I...want...to...fucking...die...",
+   "zh": ""
+  },
+  {
+   "en": ": Wakana! You can’t just walk away in the middle of a discussion!",
+   "zh": ""
+  },
+  {
+   "en": "Why does this student know Ms. Watabe’s first name?",
+   "zh": ""
+  },
+  {
+   "en": "Why does that make me jealous?",
+   "zh": ""
+  },
+  {
+   "en": "Wait, what’s even going on right now?",
+   "zh": ""
+  },
+  {
+   "en": ": You are our teacher. If you are not here to teach, then why bother-",
+   "zh": ""
+  },
+  {
+   "en": ": Getting a...",
+   "zh": ""
+  },
+  {
+   "en": ": Job in...",
+   "zh": ""
+  },
+  {
+   "en": ": Education...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...?",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my god...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my god...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my god...you’re here...",
+   "zh": ""
+  },
+  {
+   "en": ": You...",
+   "zh": ""
+  },
+  {
+   "en": ": You...",
+   "zh": ""
+  },
+  {
+   "en": ": When?",
+   "zh": ""
+  },
+  {
+   "en": ": How long?",
+   "zh": ""
+  },
+  {
+   "en": ": Why?",
+   "zh": ""
+  },
+  {
+   "en": ": If I knew this is where you went...I...I...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": I think you might have me confused with someone else.",
+   "zh": ""
+  },
+  {
+   "en": ": Absolutely not! No! I’ve...",
+   "zh": ""
+  },
+  {
+   "en": ": I've looked...everywhere for you!",
+   "zh": ""
+  },
+  {
+   "en": ": Well, clearly not everywhere because you’re here and...and I’m here and...and...",
+   "zh": ""
+  },
+  {
+   "en": ": And...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": I missed you so much...",
+   "zh": ""
+  },
+  {
+   "en": ": So...fucking...much...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Ever since you left, I’ve been looking online and asking my sister and...",
+   "zh": ""
+  },
+  {
+   "en": ": You are extremely hard to find! You know that?!",
+   "zh": ""
+  },
+  {
+   "en": ": Like, who doesn’t have social media nowadays?! I figured even you would have caved by now, but-",
+   "zh": ""
+  },
+  {
+   "en": ": But I guess it would make sense if you wanted to avoid us...",
+   "zh": ""
+  },
+  {
+   "en": ": I mean, of course you wanted to get away from...everything that happened...",
+   "zh": ""
+  },
+  {
+   "en": ": But I always thought that I was special.",
+   "zh": ""
+  },
+  {
+   "en": ": Because you...you were special. To me.",
+   "zh": ""
+  },
+  {
+   "en": ": The most special thing in the world.",
+   "zh": ""
+  },
+  {
+   "en": ": Holy shit.",
+   "zh": ""
+  },
+  {
+   "en": ": Can I hug you?",
+   "zh": ""
+  },
+  {
+   "en": ": I’m gonna hug you.",
+   "zh": ""
+  },
+  {
+   "en": ": And I’m probably gonna cry a lot.",
+   "zh": ""
+  },
+  {
+   "en": ": But you have...no idea how much I’ve been looking forward to this...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": This is actually quite touching.",
+   "zh": ""
+  },
+  {
+   "en": ": What is? I have no idea what's even going on.",
+   "zh": ""
+  },
+  {
+   "en": ": What’s going on is I’m going to squeeze the life out of you.",
+   "zh": ""
+  },
+  {
+   "en": ": I deserve it after being as patient as I’ve been all these years.",
+   "zh": ""
+  },
+  {
+   "en": "The mysterious, pink-haired girl lunges forward and buries her face in my chest.",
+   "zh": ""
+  },
+  {
+   "en": "Within a matter of seconds, I can feel her tears seep through the fabric of my dress shirt.",
+   "zh": ""
+  },
+  {
+   "en": "She goes through short bursts every several seconds where she sobs uncontrollably.",
+   "zh": ""
+  },
+  {
+   "en": "Her fingers dig into my body with so much force that it feels doubtful she’ll ever even contemplate letting go.",
+   "zh": ""
+  },
+  {
+   "en": "This has to be someone Sensei knew before I took over and started ruining all of his relationships.",
+   "zh": ""
+  },
+  {
+   "en": "Or fixing them, depending on your ethical standpoint concerning power dynamics and how to use them to manipulate [teenage]girls.",
+   "zh": ""
+  },
+  {
+   "en": "If I had to take a guess, most people would probably consider that ruining them.",
+   "zh": ""
+  },
+  {
+   "en": "If I was the person I’m supposed to be- or if he was the person he was supposed to be instead of some memory floating out there in the ether-",
+   "zh": ""
+  },
+  {
+   "en": "This would be a touching reunion.",
+   "zh": ""
+  },
+  {
+   "en": "Probably.",
+   "zh": ""
+  },
+  {
+   "en": "I don’t know the details of his relationship with this girl, but-",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": When was the last time we saw each other?",
+   "zh": ""
+  },
+  {
+   "en": ": Almost three years ago.",
+   "zh": ""
+  },
+  {
+   "en": ": It was on a Thursday.",
+   "zh": ""
+  },
+  {
+   "en": ": But you disappeared once before that, too.",
+   "zh": ""
+  },
+  {
+   "en": ": I should have probably just moved on, but...",
+   "zh": ""
+  },
+  {
+   "en": ": But I always knew I’d find you again if...",
+   "zh": ""
+  },
+  {
+   "en": ": If I didn't give up...",
+   "zh": ""
+  },
+  {
+   "en": "Huh.",
+   "zh": ""
+  },
+  {
+   "en": "There’s no easy way out of this situation, but...",
+   "zh": ""
+  },
+  {
+   "en": "I guess I could play the amnesia card?",
+   "zh": ""
+  },
+  {
+   "en": "That's been my ace in the hole so far, at least.",
+   "zh": ""
+  },
+  {
+   "en": "Ami already assumes something weird happened to my memory, but it hasn’t personally impacted her all that much, so I guess she just shrugs it off for the most part.",
+   "zh": ""
+  },
+  {
+   "en": "I mean, just telling whoever this is that I don’t remember her is sure to break her.",
+   "zh": ""
+  },
+  {
+   "en": "If she’s not already broken, that is.",
+   "zh": ""
+  },
+  {
+   "en": "But I guess we’re all a little broken at the end of the day.",
+   "zh": ""
+  },
+  {
+   "en": "Some more than others.",
+   "zh": ""
+  },
+  {
+   "en": "Some much, much more than others.",
+   "zh": ""
+  },
+  {
+   "en": ": There’s something you should probably know.",
+   "zh": ""
+  },
+  {
+   "en": ": There are a lot of things I should probably know. We’ve been out of touch for quite some time now.",
+   "zh": ""
+  },
+  {
+   "en": ": I really...really can’t believe this is happening.",
+   "zh": ""
+  },
+  {
+   "en": ": Neither can I, but...",
+   "zh": ""
+  },
+  {
+   "en": ": ...But what?",
+   "zh": ""
+  },
+  {
+   "en": ": But that’s probably because...something happened to my memory.",
+   "zh": ""
+  },
+  {
+   "en": ": What, like...amnesia?",
+   "zh": ""
+  },
+  {
+   "en": ": I hope that’s not just a convenient excuse to tell me you forgot about me.",
+   "zh": ""
+  },
+  {
+   "en": ": To me it’s more like...I never knew you in the first place.",
+   "zh": ""
+  },
+  {
+   "en": ": So...",
+   "zh": ""
+  },
+  {
+   "en": ": You’re saying all of your memories of me are just totally gone?",
+   "zh": ""
+  },
+  {
+   "en": ": Right...",
+   "zh": ""
+  },
+  {
+   "en": ": And I know it might hurt you to hear that since you’ve been searching for so long but-",
+   "zh": ""
+  },
+  {
+   "en": ": Not at all...",
+   "zh": ""
+  },
+  {
+   "en": ": Nothing hurts anymore.",
+   "zh": ""
+  },
+  {
+   "en": ": If your memories are gone, I’ll just figure out a way to get them back.",
+   "zh": ""
+  },
+  {
+   "en": ": We’ll start fresh.",
+   "zh": ""
+  },
+  {
+   "en": ": I am kinda sad, though. I was hoping you’d comment on how tall I’ve gotten.",
+   "zh": ""
+  },
+  {
+   "en": ": I finally had my growth spurt and I think I’ve gotten pretty damn cute, to tell you the truth.",
+   "zh": ""
+  },
+  {
+   "en": ": It’s kind of hard to judge that with you so close, but...yeah. I'd say you’re cute.",
+   "zh": ""
+  },
+  {
+   "en": ": If we’re starting fresh, would you mind telling me your name?",
+   "zh": ""
+  },
+  {
+   "en": ": You don’t even remember that much?",
+   "zh": ""
+  },
+  {
+   "en": ": I...No.",
+   "zh": ""
+  },
+  {
+   "en": ": I’m sorry.",
+   "zh": ""
+  },
+  {
+   "en": ": You don’t ever have to apologize to me. I’ll be with you forever...",
+   "zh": ""
+  },
+  {
+   "en": ": So long as you don’t run away again, of course.",
+   "zh": ""
+  },
+  {
+   "en": ": My name is Noriko Nakayama and I have been in love with you since I was six years old.",
+   "zh": ""
+  },
+  {
+   "en": ": Okay, this is suddenly much less touching.",
+   "zh": ""
+  },
+  {
+   "en": ": Nakayama?...",
+   "zh": ""
+  },
+  {
+   "en": ": ...No. There's no way.",
+   "zh": ""
+  },
+  {
+   "en": ": Uhh...that’s...",
+   "zh": ""
+  },
+  {
+   "en": ": Obviously too young, I know that. But it doesn’t change how I’ve felt all of these years.",
+   "zh": ""
+  },
+  {
+   "en": ": And how I still feel now.",
+   "zh": ""
+  },
+  {
+   "en": ": Want to run away and get married?",
+   "zh": ""
+  },
+  {
+   "en": ": Please at least finish the[school] day.",
+   "zh": ""
+  },
+  {
+   "en": ": Noriko, I-",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Ami? Are you raising your hand right now?",
+   "zh": ""
+  },
+  {
+   "en": ": Who is that?",
+   "zh": ""
+  },
+  {
+   "en": ": Ami?...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh my god, like, [niece] Ami?!",
+   "zh": ""
+  },
+  {
+   "en": ": She’s so cute now!",
+   "zh": ""
+  },
+  {
+   "en": ": Sensei, who is that?",
+   "zh": ""
+  },
+  {
+   "en": ": Uhh...I still don’t really understand myself, but-",
+   "zh": ""
+  },
+  {
+   "en": "...!",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Maya?...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh...",
+   "zh": ""
+  },
+  {
+   "en": ": Oh...",
+   "zh": ""
+  },
+  {
+   "en": ": Why.",
+   "zh": ""
+  },
+  {
+   "en": ": Why?",
+   "zh": ""
+  },
+  {
+   "en": ": Why. Why. Why?",
+   "zh": ""
+  },
+  {
+   "en": ": WHY ARE YOU HERE?!",
+   "zh": ""
+  },
+  {
+   "en": ": It’s...",
+   "zh": ""
+  },
+  {
+   "en": ": It’s...because of that stupid fucking[school].",
+   "zh": ""
+  },
+  {
+   "en": ": Isn't it?",
+   "zh": ""
+  },
+  {
+   "en": ": That stupid...FUCKING[school] that decided to SINK and turn everything on its GOD DAMN...FUCKING HEAD!!!",
+   "zh": ""
+  },
+  {
+   "en": "Something is wrong.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Get out.",
+   "zh": ""
+  },
+  {
+   "en": ": Now.",
+   "zh": ""
+  },
+  {
+   "en": ": No. I’m not-",
+   "zh": ""
+  },
+  {
+   "en": ": I wasn’t asking you. I was telling you.",
+   "zh": ""
+  },
+  {
+   "en": ": Get...the fuck...out of my classroom...you filthy...stalker...bitch...",
+   "zh": ""
+  },
+  {
+   "en": ": I don’t know if I’m turned on or terrified right now.",
+   "zh": ""
+  },
+  {
+   "en": ": Rin! Shh...",
+   "zh": ""
+  },
+  {
+   "en": ": Maya...calm down for a second and-",
+   "zh": ""
+  },
+  {
+   "en": ": Get out.",
+   "zh": ""
+  },
+  {
+   "en": ": Get out get out get out.",
+   "zh": ""
+  },
+  {
+   "en": ": Get. The fuck. Out.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Fine. Then I’ll get out.",
+   "zh": ""
+  },
+  {
+   "en": "Maya leaves her desk and slowly brings herself to the front of the classroom, stopping in front of the door and staring directly at Noriko.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Maya, is everything-",
+   "zh": ""
+  },
+  {
+   "en": ": Stay out of this, Sensei.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Are you planning on letting go of him any time soon?",
+   "zh": ""
+  },
+  {
+   "en": ": Not a fucking chance.",
+   "zh": ""
+  },
+  {
+   "en": ": Never again.",
+   "zh": ""
+  },
+  {
+   "en": ": I see.",
+   "zh": ""
+  },
+  {
+   "en": ": You did get taller, by the way.",
+   "zh": ""
+  },
+  {
+   "en": ": But that isn’t going to change anything.",
+   "zh": ""
+  },
+  {
+   "en": ": You were unwanted then, and you are unwanted now.",
+   "zh": ""
+  },
+  {
+   "en": ": No one will ever...in this timeline or others...ever love you.",
+   "zh": ""
+  },
+  {
+   "en": "Timeline?...Then-",
+   "zh": ""
+  },
+  {
+   "en": ": We’ll see about-",
+   "zh": ""
+  },
+  {
+   "en": ": Burn in hell, you fucking cunt.",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "zh": ""
+  },
+  {
+   "en": ": Well, shit.",
+   "zh": ""
+  },
+  {
+   "en": ": I see that her opinion of me hasn’t changed much.",
+   "zh": ""
+  },
+  {
+   "en": ": I’ve never seen her act that way before.",
+   "zh": ""
+  },
+  {
+   "en": ": Really?",
+   "zh": ""
+  },
+  {
+   "en": ": Guess I’m just lucky, then.",
+   "zh": ""
+  },
+  {
+   "en": ": What in the world did you do to her?",
+   "zh": ""
+  },
+  {
+   "en": ": I honestly don’t even remember, but...I don’t think I did anything?",
+   "zh": ""
+  },
+  {
+   "en": ": It doesn’t matter, though.",
+   "zh": ""
+  },
+  {
+   "en": ": We’re finally back together.",
+   "zh": ""
+  },
+  {
+   "en": ": Even if you don’t really remember me.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh! By the way, hi!",
+   "zh": ""
+  },
+  {
+   "en": ": I’m Noriko and I’m pretty sure I just got kicked out of my last class, so I’ll be in here with you guys from now on.",
+   "zh": ""
+  },
+  {
+   "en": ": My interests include dismantling the patriarchy and eating so much ice cream in one sitting that I puke my brains out.",
+   "zh": ""
+  },
+  {
+   "en": ": And if you ever hear screams or weird voices or just...really loud noise in general coming from my room, that’s just my music.",
+   "zh": ""
+  },
+  {
+   "en": ": I promise I am not a serial killer and I’ve only been arrested like two times.",
+   "zh": ""
+  },
+  {
+   "en": ": What the fuck, I like her too.",
+   "zh": ""
+  },
+  {
+   "en": ": Green haired girl, hang out with me and the pink one sometime.",
+   "zh": ""
+  },
+  {
+   "en": ": Oh, dear. That sounds absolutely lovely but I’m afraid I must decline.",
+   "zh": ""
+  },
+  {
+   "en": "Noriko takes a seat in the back of the class after a few minutes and Wakana informs me that she’s filing for an “emergency transfer” effective immediately.",
+   "zh": ""
+  },
+  {
+   "en": "It seems that I’ll be taking care of Noriko from now on as well.",
+   "zh": ""
+  },
+  {
+   "en": "And as excited as I am to have yet another girl so willing to fawn all over me-",
+   "zh": ""
+  },
+  {
+   "en": "I can’t stop thinking about Maya’s outburst and all of the negative connotations and implications it carries with it.",
+   "zh": ""
+  },
+  {
+   "en": "Ami tried to go home as well after that, but I convinced her to stay and reassured her that I really have no idea what Noriko was talking about.",
+   "zh": ""
+  },
+  {
+   "en": "She seemed a lot more nervous than I’ve ever seen her before.",
+   "zh": ""
+  },
+  {
+   "en": "Ayane, on the other hand, remained calm and composed, restoring order to the room in any way she could think of.",
+   "zh": ""
+  },
+  {
+   "en": "No one bothered saying a word to Noriko other than Kirin.",
+   "zh": ""
+  },
+  {
+   "en": "Proclaiming your love for me in front of everyone is probably not the best way to introduce yourself to this classroom.",
+   "zh": ""
+  },
+  {
+   "en": "I’m sure she’ll pay the price for that in the future.",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  },
+  {
+   "en": "When[school] ends, I search for Maya.",
+   "zh": ""
+  },
+  {
+   "en": "I do not find her.",
+   "zh": ""
+  },
+  {
+   "en": "The day ends.",
+   "zh": ""
+  },
+  {
+   "en": "Surprise! Noriko’s affection for you is already [noriko_love]!",
+   "zh": ""
+  },
+  {
+   "en": ".........",
+   "zh": ""
+  },
+  {
+   "en": "......",
+   "zh": ""
+  },
+  {
+   "en": "...",
+   "zh": ""
+  }
+ ]
+}
