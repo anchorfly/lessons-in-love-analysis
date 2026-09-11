@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LIL 事件导航 · 三语框架演示</title>
+<style>
+  :root{--bg:#16181d;--panel:#1d2026;--line:#2a2e36;--fg:#e6e6e6;--muted:#9aa0aa;--acc:#5b8def}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,"Segoe UI","Microsoft YaHei",sans-serif;font-size:15px}
+  header{position:sticky;top:0;background:var(--panel);border-bottom:1px solid var(--line);padding:10px 16px;display:flex;align-items:center;gap:14px;z-index:9}
+  header h1{font-size:16px;margin:0;font-weight:600}
+  .langsw{margin-left:auto;display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .langsw button{background:transparent;border:0;color:var(--muted);padding:6px 14px;cursor:pointer;font-size:13px}
+  .langsw button.on{background:var(--acc);color:#fff}
+  .wrap{max-width:860px;margin:0 auto;padding:20px 16px}
+  .crumbs{color:var(--muted);font-size:13px;margin-bottom:10px}
+  .crumbs a{color:var(--acc);cursor:pointer}
+  h2.evttl{font-size:20px;margin:6px 0 2px}
+  .evttl-zh{color:var(--fg);font-size:15px;font-weight:400;margin-bottom:10px}
+  .nav{display:flex;justify-content:space-between;margin:14px 0}
+  .navbtn{color:var(--acc);cursor:pointer;font-size:13px;padding:6px 10px;border:1px solid var(--line);border-radius:8px}
+  .navbtn:hover{background:var(--panel)}
+
+  /* ===== 正文行：逐句对照槽位 ===== */
+  .content{background:#0e0f12;border:1px solid var(--line);border-radius:10px;padding:16px;font-size:15px;line-height:1.6}
+  .ln{display:block;margin:2px 0}
+  .ln .en{white-space:pre-wrap;word-break:break-word}
+  .ln .zh{white-space:pre-wrap;word-break:break-word}
+  /* 旁白行（无说话人）：英文斜体灰，中文完全跟随（同样斜体同色）*/
+  .ln.narr .en,
+  .ln.narr .zh{color:var(--muted);font-style:italic}
+  /* 说话人名 */
+  .ln .spk{font-weight:600;color:var(--acc)}
+  .ln .spk::after{content:"："}
+  [data-lang="en"] .ln .spk::after{content:": "}
+
+  /* ---- 三模式切换 ---- */
+  [data-lang="zh"] .ln .en{display:none}     /* 中文：只显中文 */
+  [data-lang="en"] .ln .zh{display:none}     /* 英文：只显英文 */
+  [data-lang="bi"] .ln .en{display:block}    /* 对照：英文上 */
+  [data-lang="bi"] .ln .zh{display:block;margin:1px 0 8px}  /* 对照：中文下 */
+  /* 未翻译的句子（zh 为空）在对照/中文模式下回退显示英文 */
+  [data-lang="zh"] .ln.no-zh .en{display:block}
+  [data-lang="bi"] .ln.no-zh .zh{display:none}
+
+  .note{margin:18px 0;padding:12px 14px;border:1px dashed var(--line);border-radius:8px;color:var(--muted);font-size:13px}
+</style>
+</head>
+<body data-lang="zh">
+<header>
+  <h1 id="h-title">事件导航</h1>
+  <div class="langsw" role="group" aria-label="language">
+    <button data-l="zh" class="on" onclick="setLang('zh')">中文</button>
+    <button data-l="en" onclick="setLang('en')">English</button>
+    <button data-l="bi" onclick="setLang('bi')">对照</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="crumbs"><a id="c-home">首页</a> / <span id="c-cat">附加内容</span></div>
+  <h2 class="evttl">start</h2>
+  <div class="evttl-zh" id="ev-zh">开幕 · Sekai 的独白</div>
+
+  <div class="nav">
+    <span class="navbtn" id="nv-prev">← 上一个</span>
+    <span class="navbtn" id="nv-next">下一个 →</span>
+  </div>
+
+  <div class="content" id="content"><!-- 正文逐句注入 --></div>
+
+  <div class="note" id="demo-note"></div>
+</div>
+
+<script>
+/* ============ 数据：每句一个槽位 {spk?, en, zh} ============
+   spk = 说话人（可空=旁白）；en=英文原句（对齐锚点）；zh=中文（空串=待翻）*/
+const LINES = [
+  {spk:"", en:"There are several things in life I have accepted that I will never understand.",
+   zh:"人生里有几件事，我已经接受了自己永远不会懂。"},
+  {spk:"", en:"The first of which has been explained to me many times-",
+   zh:"第一件，已经有人跟我解释过很多遍了——"},
+  {spk:"", en:"It’s the way floating dust particles manage to shimmer and glow when hit at the correct angle by light.",
+   zh:"就是飘浮的尘埃，被光以某个刚好的角度打中时，会闪烁、会发亮。"},
+  {spk:"", en:"How something invisible to the naked eye can be made visible by pure electromagnetic radiation...or something like that.",
+   zh:"肉眼看不见的东西，怎么会凭一束电磁辐射就变得可见……大概就是这么回事吧。"},
+  {spk:"", en:"I’ve retained the information. I’d be foolish not to after how many times I have heard it.",
+   zh:"这些话我都记住了。听了那么多遍还不记住，那我可就太傻了。"},
+  {spk:"", en:"But I will never understand.",
+   zh:"但我永远不会懂。"},
+  {spk:"", en:"The second thing is the romanticization of death.",
+   zh:"第二件事，是人们对死亡的浪漫化。"},
+  {spk:"", en:"The third thing is you.",
+   zh:"第三件事，是你。"},
+  {spk:"", en:"You’re a curious one...do you know that?",
+   zh:"你是个很奇怪的人……你自己知道吗？"},
+  {spk:"", en:"I want you to be just as confused as me, you know?",
+   zh:"我希望你也跟我一样困惑，知道吗？"},
+  {spk:"", en:"It’s lonely here.",
+   zh:"这里很孤单。"},
+  {spk:"", en:"It’s lonely having no one to talk to...no one to submerge myself in uncertainties with.",
+   zh:"没有人可以说话、没有人可以陪我一起沉溺在不确定里……这种孤单，很难受。"}
+];
+
+/* ============ UI 文案表（演示用一小撮） ============ */
+const UI = {
+  "事件导航":   {zh:"事件导航", en:"Event Navigator"},
+  "首页":       {zh:"首页",     en:"Home"},
+  "附加内容":   {zh:"附加内容", en:"Extras"},
+  "上一个":     {zh:"上一个",   en:"Previous"},
+  "下一个":     {zh:"下一个",   en:"Next"},
+  "对照":       {zh:"对照",     en:"Bilingual"}
+};
+function ui(key){
+  const lang=document.body.dataset.lang;
+  const e=UI[key]; if(!e) return key;
+  return lang==="en" ? e.en : e.zh;   /* 对照模式下 UI 仍用中文（正文才是对照主体）*/
+}
+
+/* ============ 渲染正文（构建期产物，运行时不再解析） ============ */
+function renderContent(){
+  const box=document.getElementById("content");
+  let h="";
+  for(const L of LINES){
+    const hasZh = L.zh && L.zh.trim().length>0;
+    const cls = "ln" + (L.spk?"":" narr") + (hasZh?"":" no-zh");
+    h += '<span class="'+cls+'">'
+       +   '<span class="en">'
+       +     (L.spk? '<span class="spk">'+esc(L.spk)+'</span>' : '')
+       +     esc(L.en)
+       +   '</span>'
+       +   '<span class="zh">'+esc(L.zh||"")+'</span>'
+       + '</span>';
+  }
+  box.innerHTML=h;
+}
+function esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+
+/* ============ 三模式切换 ============ */
+function setLang(l){
+  document.body.dataset.lang=l;
+  document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on",b.dataset.l===l));
+  localStorage.setItem("lil_lang",l);          /* 记住选择 */
+  applyUi();
+}
+function applyUi(){
+  document.getElementById("h-title").textContent=ui("事件导航");
+  document.getElementById("c-home").textContent=ui("首页");
+  document.getElementById("c-cat").textContent=ui("附加内容");
+  document.getElementById("nv-prev").textContent="← "+ui("上一个");
+  document.getElementById("nv-next").textContent=ui("下一个")+" →";
+  /* 中文副标题只在 zh/对照模式显示 */
+  const lang=document.body.dataset.lang;
+  document.getElementById("ev-zh").style.display = (lang==="en")?"none":"block";
+}
+
+/* 初始化：读记忆的语言，默认中文 */
+(function(){
+  const saved=localStorage.getItem("lil_lang")||"zh";
+  document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on",b.dataset.l===saved));
+  document.body.dataset.lang=saved;
+  renderContent();
+  applyUi();
+  document.getElementById("demo-note").textContent=
+    "这是三语框架演示：用 start 事件的真实 Sekai 独白做了逐句对照槽位。点右上角「中文 / English / 对照」切换。"+
+    "「中文」只显译文、「English」只显原文、「对照」逐句上下对照。选择会被记住（localStorage）。";
+})();
+</script>
+</body>
+</html>
