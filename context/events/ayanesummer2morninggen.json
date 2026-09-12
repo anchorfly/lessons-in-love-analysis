@@ -1,62 +1,113 @@
 {
- "label": "ayanesummer2morninggen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Ayane in an attempt to invite her out for breakfast, but am immediately met with the insistence that she come over to cook breakfast for me instead.",
-   "zh": ""
-  },
-  {
-   "en": "The gesture is fine and all, but seeing as there is already someone who lives here and cooks breakfast for me pretty much every single morning, the novelty of home cooked meals is beginning to wear thin.",
-   "zh": ""
-  },
-  {
-   "en": "Not to mention that I purposely did not eat the breakfast prepared for me this morning specifically because of that.",
-   "zh": ""
-  },
-  {
-   "en": "But hey, if it makes Ayane happy, that’s fine.",
-   "zh": ""
-  },
-  {
-   "en": "I’m sure the sudden understanding of how the world is on an infinite loop must be weighing down on her in some way, so she deserves every win she can get right now-",
-   "zh": ""
-  },
-  {
-   "en": "And I will gladly stomach yet another home cooked meal to support that.",
-   "zh": ""
-  },
-  {
-   "en": "Or at least that’s how I thought I’d feel before she made me something healthy in an effort to “Save my cholesterol levels from exploding.”",
-   "zh": ""
-  },
-  {
-   "en": "It is at this moment that I understand she is only here to torment me and that her insistence of personally cooking for me is just one part of a very detailed plan to adjust my diet.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, she denies this accusation and forces me to eat her food. Which, while certainly good, is not what I wanted.",
-   "zh": ""
-  },
-  {
-   "en": "And I will never forgive her for this.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane’s affection has increased to [ayane_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "ayanesummer2morninggen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayanesummer2morninggen:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayanesummer2morninggen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayanesummer2morninggen.webp",
+      "alt": "ayanesummer2morninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Ayane in an attempt to invite her out for breakfast, but am immediately met with the insistence that she come over to cook breakfast for me instead.",
+      "zh": ""
+    },
+    {
+      "en": "The gesture is fine and all, but seeing as there is already someone who lives here and cooks breakfast for me pretty much every single morning, the novelty of home cooked meals is beginning to wear thin.",
+      "zh": ""
+    },
+    {
+      "en": "Not to mention that I purposely did not eat the breakfast prepared for me this morning specifically because of that.",
+      "zh": ""
+    },
+    {
+      "en": "But hey, if it makes Ayane happy, that’s fine.",
+      "zh": ""
+    },
+    {
+      "en": "I’m sure the sudden understanding of how the world is on an infinite loop must be weighing down on her in some way, so she deserves every win she can get right now-",
+      "zh": ""
+    },
+    {
+      "en": "And I will gladly stomach yet another home cooked meal to support that.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Or at least that’s how I thought I’d feel before she made me something healthy in an effort to “Save my cholesterol levels from exploding.”",
+      "zh": ""
+    },
+    {
+      "en": "It is at this moment that I understand she is only here to torment me and that her insistence of personally cooking for me is just one part of a very detailed plan to adjust my diet.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, she denies this accusation and forces me to eat her food. Which, while certainly good, is not what I wanted.",
+      "zh": ""
+    },
+    {
+      "en": "And I will never forgive her for this.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane’s affection has increased to [ayane_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

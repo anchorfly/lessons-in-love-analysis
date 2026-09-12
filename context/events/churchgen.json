@@ -1,66 +1,140 @@
 {
- "label": "churchgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I make my way through the late night smog of the urban district and wind up inside one of the worst places in Kumon-mi.",
-   "zh": ""
-  },
-  {
-   "en": "Yasu greets me with outstretched arms, as if wanting to embrace me.",
-   "zh": ""
-  },
-  {
-   "en": "But the second I move closer to her, she jumps back and begins to laugh maniacally.",
-   "zh": ""
-  },
-  {
-   "en": "Apparently, she does not feel the presence or the warmth of her god tonight, so physical contact is strictly forbidden.",
-   "zh": ""
-  },
-  {
-   "en": "I'm not really sure what I was expecting, to be totally honest. But I'm not really all that fond of hugging anyway.",
-   "zh": ""
-  },
-  {
-   "en": "If the two of us are going to touch, I'd prefer it to be as loveless and passionately violent as possible.",
-   "zh": ""
-  },
-  {
-   "en": "There is no place for God god in my relationship with her, despite what she both wants and believes.",
-   "zh": ""
-  },
-  {
-   "en": "But still, I continue to sate her appetite to be heard and swallow each and every faithful lie she spits out at me.",
-   "zh": ""
-  },
-  {
-   "en": "I'm a little upset that this includes hugging, but I still feel kind of weird about hugging Yasu anyway...so I guess it's okay.",
-   "zh": ""
-  },
-  {
-   "en": "Praise be.",
-   "zh": ""
-  },
-  {
-   "en": "I go home.",
-   "zh": ""
-  },
-  {
-   "en": "Yasu's affection has increased to [yasu_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "churchgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label churchgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene yasuchurchgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasuchurchgen.webp",
+      "alt": "yasuchurchgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way through the late night smog of the urban district and wind up inside one of the worst places in Kumon-mi.",
+      "zh": ""
+    },
+    {
+      "en": "Yasu greets me with outstretched arms, as if wanting to embrace me.",
+      "zh": ""
+    },
+    {
+      "en": "But the second I move closer to her, she jumps back and begins to laugh maniacally.",
+      "zh": ""
+    },
+    {
+      "en": "Apparently, she does not feel the presence or the warmth of her god tonight, so physical contact is strictly forbidden.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "I'm not really sure what I was expecting, to be totally honest. But I'm not really all that fond of hugging anyway.",
+      "zh": ""
+    },
+    {
+      "en": "If the two of us are going to touch, I'd prefer it to be as loveless and passionately violent as possible.",
+      "zh": ""
+    },
+    {
+      "en": "There is no place for God god in my relationship with her, despite what she both wants and believes.",
+      "zh": ""
+    },
+    {
+      "en": "But still, I continue to sate her appetite to be heard and swallow each and every faithful lie she spits out at me.",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I'm a little upset that this includes hugging, but I still feel kind of weird about hugging Yasu anyway...so I guess it's okay.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Praise be.",
+      "zh": ""
+    },
+    {
+      "en": "I go home.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yasu_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yasu's affection has increased to [yasu_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

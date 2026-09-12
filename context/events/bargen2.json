@@ -1,66 +1,129 @@
 {
- "label": "bargen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I walk for quite a while in the snow and wind up at the bar with Sana.",
-   "zh": ""
-  },
-  {
-   "en": "She's in a much better mood than usual, but still displays a sense of uneasiness about my health when she realizes that I'll just be walking back after this.",
-   "zh": ""
-  },
-  {
-   "en": "This is the part where most other girls I know would offer to walk with me or even let me stay over but-",
-   "zh": ""
-  },
-  {
-   "en": "Well, Sana doesn't do either of those things.",
-   "zh": ""
-  },
-  {
-   "en": "She just cracks me open a bottle of the same beer I always buy and spends the next hour or so whispering back about whatever topics I bring up.",
-   "zh": ""
-  },
-  {
-   "en": "But even if she's just as quiet and slightly-detached as she always is, it's an enjoyable night.",
-   "zh": ""
-  },
-  {
-   "en": "I just wish she'd show a little more initiative in sparking conversation rather than just going along with whatever I say.",
-   "zh": ""
-  },
-  {
-   "en": "I stay until closing and then offer to walk Sana back to the dorm since she never personally brought up the prospect of us leaving together.",
-   "zh": ""
-  },
-  {
-   "en": "She gets embarrassed and ultimately refuses, to which I oblige.",
-   "zh": ""
-  },
-  {
-   "en": "I obviously don't want her to walk back alone, especially on a night as cold as this, but there's not much I can do about it at this point.",
-   "zh": ""
-  },
-  {
-   "en": "Let's just hope she isn't carried off by the wind and thrown into some nearby body of water to develop hypothermia and die.",
-   "zh": ""
-  },
-  {
-   "en": "Sana's affection has increased to [sana_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "bargen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label bargen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene sananightgen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sananightgen2.webp",
+      "alt": "sananightgen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I walk for quite a while in the snow and wind up at the bar with Sana.",
+      "zh": ""
+    },
+    {
+      "en": "She's in a much better mood than usual, but still displays a sense of uneasiness about my health when she realizes that I'll just be walking back after this.",
+      "zh": ""
+    },
+    {
+      "en": "This is the part where most other girls I know would offer to walk with me or even let me stay over but-",
+      "zh": ""
+    },
+    {
+      "en": "Well, Sana doesn't do either of those things.",
+      "zh": ""
+    },
+    {
+      "en": "She just cracks me open a bottle of the same beer I always buy and spends the next hour or so whispering back about whatever topics I bring up.",
+      "zh": ""
+    },
+    {
+      "en": "But even if she's just as quiet and slightly-detached as she always is, it's an enjoyable night.",
+      "zh": ""
+    },
+    {
+      "en": "I just wish she'd show a little more initiative in sparking conversation rather than just going along with whatever I say.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I stay until closing and then offer to walk Sana back to the dorm since she never personally brought up the prospect of us leaving together.",
+      "zh": ""
+    },
+    {
+      "en": "She gets embarrassed and ultimately refuses, to which I oblige.",
+      "zh": ""
+    },
+    {
+      "en": "I obviously don't want her to walk back alone, especially on a night as cold as this, but there's not much I can do about it at this point.",
+      "zh": ""
+    },
+    {
+      "en": "Let's just hope she isn't carried off by the wind and thrown into some nearby body of water to develop hypothermia and die.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sana_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana's affection has increased to [sana_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

@@ -1,66 +1,117 @@
 {
- "label": "makinoongen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Maki and I make plans to meet for lunch at the cafe and she manages to go a full ten minutes before making her first sex joke of the day.",
-   "zh": ""
-  },
-  {
-   "en": "I'm really proud of her. I don't think she's ever lasted that long before.",
-   "zh": ""
-  },
-  {
-   "en": "If I were Maki, I would have added a that's what she said to the end of that last sentence, but I am a civilized adult with a thing they call restraint.",
-   "zh": ""
-  },
-  {
-   "en": "Just kidding, I make the joke anyway and her eyes light up, prompting the two of us to spiral into an endless tirade of crude humor that culminates in Haruka coming over to scold the two of us.",
-   "zh": ""
-  },
-  {
-   "en": "Having just gotten in trouble, we go back to being well-behaved [[boring] people and finish our respective lunches, making plans to do this again soon.",
-   "zh": ""
-  },
-  {
-   "en": "I find it surprising how easy it is to get along with Maki despite the uptight and diligent nature of her daughter.",
-   "zh": ""
-  },
-  {
-   "en": "That's not me saying I don't like Makoto or anything, I just can't stop thinking of how different the two of them are.",
-   "zh": ""
-  },
-  {
-   "en": "Maki feels like someone I've known for a long time, which is obviously odd given just how briefly we've known one another.",
-   "zh": ""
-  },
-  {
-   "en": "Either way, the two of us wind up going our separate ways.",
-   "zh": ""
-  },
-  {
-   "en": "Maki to her shop- and me to...",
-   "zh": ""
-  },
-  {
-   "en": "Well, me to anywhere.",
-   "zh": ""
-  },
-  {
-   "en": "Maki's affection has increased to [maki_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "makinoongen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label makinoongen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene makinoongen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makinoongen2.webp",
+      "alt": "makinoongen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maki and I make plans to meet for lunch at the cafe and she manages to go a full ten minutes before making her first sex joke of the day.",
+      "zh": ""
+    },
+    {
+      "en": "I'm really proud of her. I don't think she's ever lasted that long before.",
+      "zh": ""
+    },
+    {
+      "en": "If I were Maki, I would have added a that's what she said to the end of that last sentence, but I am a civilized adult with a thing they call restraint.",
+      "zh": ""
+    },
+    {
+      "en": "Just kidding, I make the joke anyway and her eyes light up, prompting the two of us to spiral into an endless tirade of crude humor that culminates in Haruka coming over to scold the two of us.",
+      "zh": ""
+    },
+    {
+      "en": "Having just gotten in trouble, we go back to being well-behaved [[boring] people and finish our respective lunches, making plans to do this again soon.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I find it surprising how easy it is to get along with Maki despite the uptight and diligent nature of her daughter.",
+      "zh": ""
+    },
+    {
+      "en": "That's not me saying I don't like Makoto or anything, I just can't stop thinking of how different the two of them are.",
+      "zh": ""
+    },
+    {
+      "en": "Maki feels like someone I've known for a long time, which is obviously odd given just how briefly we've known one another.",
+      "zh": ""
+    },
+    {
+      "en": "Either way, the two of us wind up going our separate ways.",
+      "zh": ""
+    },
+    {
+      "en": "Maki to her shop- and me to...",
+      "zh": ""
+    },
+    {
+      "en": "Well, me to anywhere.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maki_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maki's affection has increased to [maki_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

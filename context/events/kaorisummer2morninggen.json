@@ -1,78 +1,143 @@
 {
- "label": "kaorisummer2morninggen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I wind up getting talked into coming to the diner after calling Kaori and finding out that they’re having some sort of special today.",
-   "zh": ""
-  },
-  {
-   "en": "I am informed upon arrival that I am special because I am Kaori’s friend and that is what she was actually referring to over the phone.",
-   "zh": ""
-  },
-  {
-   "en": "Both flattered and thankful that I am not being added to the menu, I figure that I might as well stick around and hang out with her in between her light-speed trips to the kitchen and back to help other customers.",
-   "zh": ""
-  },
-  {
-   "en": "On her eighth trip back, I finally decide what I want to eat. Well, kind of.",
-   "zh": ""
-  },
-  {
-   "en": "What I decide is that, in lieu of an actual special that doesn’t fuck teenagers, I want Kaori to make me something herself.",
-   "zh": ""
-  },
-  {
-   "en": "She advises me that that is not how a kitchen staff works and that she is not allowed to use the cooking equipment, but then I respond with how the customer is always right and so she is forced to oblige.",
-   "zh": ""
-  },
-  {
-   "en": "Feeling determined to make me something truly special and prove to her boss that she is ready to cook, Kaori declares that she will make me the most special thing I have ever eaten before.",
-   "zh": ""
-  },
-  {
-   "en": "She uses a lot more words to say that, but fifty percent of them were irrelevant, so I decided to leave them out for your sake.",
-   "zh": ""
-  },
-  {
-   "en": "She disappears into the kitchen once again, this time for much longer than the several seconds it normally takes for her to reemerge, but what she has in her hands when she does is not special at all.",
-   "zh": ""
-  },
-  {
-   "en": "It’s a peanut butter and jelly sandwich with a side of raw broccoli.",
-   "zh": ""
-  },
-  {
-   "en": ": Consume the tiny trees, Friend! They will help you walk longer distances!",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "I ask for a to-go box and decide to just...eat this later.",
-   "zh": ""
-  },
-  {
-   "en": "Kaori’s affection has increased to [kaori_love]!",
-   "zh": ""
-  },
-  {
-   "en": "You have obtained a peanut butter and jelly sandwich and broccoli!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "kaorisummer2morninggen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kaorisummer2morninggen:",
+      "zh": ""
+    },
+    {
+      "en": "scene kaorisummer2morninggen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/kaorisummer2morninggen.webp",
+      "alt": "kaorisummer2morninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wind up getting talked into coming to the diner after calling Kaori and finding out that they’re having some sort of special today.",
+      "zh": ""
+    },
+    {
+      "en": "I am informed upon arrival that I am special because I am Kaori’s friend and that is what she was actually referring to over the phone.",
+      "zh": ""
+    },
+    {
+      "en": "Both flattered and thankful that I am not being added to the menu, I figure that I might as well stick around and hang out with her in between her light-speed trips to the kitchen and back to help other customers.",
+      "zh": ""
+    },
+    {
+      "en": "On her eighth trip back, I finally decide what I want to eat. Well, kind of.",
+      "zh": ""
+    },
+    {
+      "en": "What I decide is that, in lieu of an actual special that doesn’t fuck teenagers, I want Kaori to make me something herself.",
+      "zh": ""
+    },
+    {
+      "en": "She advises me that that is not how a kitchen staff works and that she is not allowed to use the cooking equipment, but then I respond with how the customer is always right and so she is forced to oblige.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Feeling determined to make me something truly special and prove to her boss that she is ready to cook, Kaori declares that she will make me the most special thing I have ever eaten before.",
+      "zh": ""
+    },
+    {
+      "en": "She uses a lot more words to say that, but fifty percent of them were irrelevant, so I decided to leave them out for your sake.",
+      "zh": ""
+    },
+    {
+      "en": "She disappears into the kitchen once again, this time for much longer than the several seconds it normally takes for her to reemerge, but what she has in her hands when she does is not special at all.",
+      "zh": ""
+    },
+    {
+      "en": "It’s a peanut butter and jelly sandwich with a side of raw broccoli.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Consume the tiny trees, Friend! They will help you walk longer distances!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I ask for a to-go box and decide to just...eat this later.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ kaori_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ pbj += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kaori’s affection has increased to [kaori_love]!",
+      "zh": ""
+    },
+    {
+      "en": "You have obtained a peanut butter and jelly sandwich and broccoli!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

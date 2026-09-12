@@ -1,58 +1,109 @@
 {
- "label": "tsuneyosummer2archerygen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I head over to the archery range to find Tsuneyo practicing her form without the use of any actual arrows as she is afraid she may accidentally shoot a bird in transit.",
-   "zh": ""
-  },
-  {
-   "en": "Why she is worried about this when countless fowls have died at her hand, I do not know. But this is Tsuneyo we’re talking about, so I’m not going to ask any questions.",
-   "zh": ""
-  },
-  {
-   "en": "Especially because I feel like she wouldn’t hesitate to shoot me, transit or not.",
-   "zh": ""
-  },
-  {
-   "en": "We talk a little bit about how she’s enjoying this club and how it's her first experience with anything like it since kendo.",
-   "zh": ""
-  },
-  {
-   "en": "Apparently, the only contact she had with other girls during her kendo career was during competitions, so this is still a lot different and, to her, much more fun.",
-   "zh": ""
-  },
-  {
-   "en": "I question exactly how she became so good at kendo without practicing against people her age but, as expected, she tells me it was all her father and that he is the one who trained her to be all she is today.",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo hands me her bow and asks me if I’d like to try taking a shot but, seeing as there are still no arrows to be found, I just...hold it and pull the string back a little bit.",
-   "zh": ""
-  },
-  {
-   "en": "It’s a satisfying feeling- one that’s hard to describe or compare to anything else. But what strikes me most is how heavy it feels and how she’s able to do this with no effort at all.",
-   "zh": ""
-  },
-  {
-   "en": "I’m sure there’s a lot more to it than just strength alone but, if she’s anywhere as good at this as she was at her last sport, I’m excited to see more out of her one day.",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "tsuneyosummer2archerygen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label tsuneyosummer2archerygen:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyosummer2archerygen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyosummer2archerygen.webp",
+      "alt": "tsuneyosummer2archerygen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head over to the archery range to find Tsuneyo practicing her form without the use of any actual arrows as she is afraid she may accidentally shoot a bird in transit.",
+      "zh": ""
+    },
+    {
+      "en": "Why she is worried about this when countless fowls have died at her hand, I do not know. But this is Tsuneyo we’re talking about, so I’m not going to ask any questions.",
+      "zh": ""
+    },
+    {
+      "en": "Especially because I feel like she wouldn’t hesitate to shoot me, transit or not.",
+      "zh": ""
+    },
+    {
+      "en": "We talk a little bit about how she’s enjoying this club and how it's her first experience with anything like it since kendo.",
+      "zh": ""
+    },
+    {
+      "en": "Apparently, the only contact she had with other girls during her kendo career was during competitions, so this is still a lot different and, to her, much more fun.",
+      "zh": ""
+    },
+    {
+      "en": "I question exactly how she became so good at kendo without practicing against people her age but, as expected, she tells me it was all her father and that he is the one who trained her to be all she is today.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo hands me her bow and asks me if I’d like to try taking a shot but, seeing as there are still no arrows to be found, I just...hold it and pull the string back a little bit.",
+      "zh": ""
+    },
+    {
+      "en": "It’s a satisfying feeling- one that’s hard to describe or compare to anything else. But what strikes me most is how heavy it feels and how she’s able to do this with no effort at all.",
+      "zh": ""
+    },
+    {
+      "en": "I’m sure there’s a lot more to it than just strength alone but, if she’s anywhere as good at this as she was at her last sport, I’m excited to see more out of her one day.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ tsuneyo_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

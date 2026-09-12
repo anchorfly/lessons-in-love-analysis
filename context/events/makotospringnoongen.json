@@ -1,62 +1,113 @@
 {
- "label": "makotospringnoongen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call up Makoto and the two of us make plans to meet up in the park for a little while before she has to head back home for work.",
-   "zh": ""
-  },
-  {
-   "en": "When I get there, she greets me with a plastic bag full of assorted soft drinks that the two of us proceed to consume while hanging around the fountain.",
-   "zh": ""
-  },
-  {
-   "en": "At one point, she pulls a coin from her pocket and tosses it into the water. But when I ask her what she wished for, she just shrugs.",
-   "zh": ""
-  },
-  {
-   "en": "She says there isn't anything she wants. Other than for me to stop torturing her, that is. But if that was possible, I would have done it by now.",
-   "zh": ""
-  },
-  {
-   "en": "This compulsive behavior of mine to make her life a living hell no longer mirrors the inverse of my feelings for her. I am no child kicking sand into the eyes of another.",
-   "zh": ""
-  },
-  {
-   "en": "I am a man who has habitual rough sex with a girl who could go on to do great things if she could only focus on the outside world rather than what I elect to fill her with.",
-   "zh": ""
-  },
-  {
-   "en": "But perhaps it's for the best that she doesn't.",
-   "zh": ""
-  },
-  {
-   "en": "Perhaps her reluctance to omit me from her daily thought pattern helps make me human- if one could even call me that.",
-   "zh": ""
-  },
-  {
-   "en": "I feel like she would. But I also feel like she'd be lying.",
-   "zh": ""
-  },
-  {
-   "en": "And even more than that, I feel as if she may be losing touch with what exactly that means.",
-   "zh": ""
-  },
-  {
-   "en": "Makoto’s affection has increased to [makoto_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "makotospringnoongen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label makotospringnoongen:",
+      "zh": ""
+    },
+    {
+      "en": "scene makotospringnoongen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotospringnoongen.webp",
+      "alt": "makotospringnoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call up Makoto and the two of us make plans to meet up in the park for a little while before she has to head back home for work.",
+      "zh": ""
+    },
+    {
+      "en": "When I get there, she greets me with a plastic bag full of assorted soft drinks that the two of us proceed to consume while hanging around the fountain.",
+      "zh": ""
+    },
+    {
+      "en": "At one point, she pulls a coin from her pocket and tosses it into the water. But when I ask her what she wished for, she just shrugs.",
+      "zh": ""
+    },
+    {
+      "en": "She says there isn't anything she wants. Other than for me to stop torturing her, that is. But if that was possible, I would have done it by now.",
+      "zh": ""
+    },
+    {
+      "en": "This compulsive behavior of mine to make her life a living hell no longer mirrors the inverse of my feelings for her. I am no child kicking sand into the eyes of another.",
+      "zh": ""
+    },
+    {
+      "en": "I am a man who has habitual rough sex with a girl who could go on to do great things if she could only focus on the outside world rather than what I elect to fill her with.",
+      "zh": ""
+    },
+    {
+      "en": "But perhaps it's for the best that she doesn't.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Perhaps her reluctance to omit me from her daily thought pattern helps make me human- if one could even call me that.",
+      "zh": ""
+    },
+    {
+      "en": "I feel like she would. But I also feel like she'd be lying.",
+      "zh": ""
+    },
+    {
+      "en": "And even more than that, I feel as if she may be losing touch with what exactly that means.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ makoto_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto’s affection has increased to [makoto_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump nightch4",
+      "zh": ""
+    }
+  ]
 }

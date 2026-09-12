@@ -1,614 +1,1434 @@
 {
- "label": "day139",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I sit alone in my office and wait for the day to come to an end, just as I always do after I finish “teaching,” if that’s what we’re still calling it.",
-   "zh": ""
-  },
-  {
-   "en": "The only difference is that, this time, I actually have an appointment.",
-   "zh": ""
-  },
-  {
-   "en": "Or at least...I thought I did?",
-   "zh": ""
-  },
-  {
-   "en": "Right before I made my way to the office, Chika ran over and grabbed one of the sleeves of my shirt to ask me if I was doing counseling stuff today.",
-   "zh": ""
-  },
-  {
-   "en": "Having no reason to lie to her (And perhaps wanting her company), I of course told her yes.",
-   "zh": ""
-  },
-  {
-   "en": "But I’ve been in here for around an hour already and I’m beginning to lose hope.",
-   "zh": ""
-  },
-  {
-   "en": "Woe is me.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei, are you still here?",
-   "zh": ""
-  },
-  {
-   "en": ": Sorry I took mega-long and stuff. I had to go give something to Yumi and she was just hanging out at some park for whatever reason.",
-   "zh": ""
-  },
-  {
-   "en": "Oh, cool. Woe isn’t me. Chika is here after all.",
-   "zh": ""
-  },
-  {
-   "en": "I wonder what the reason for the visit is, though?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m still here. You can come in.",
-   "zh": ""
-  },
-  {
-   "en": ": Kay~ Pardon the intrusion.",
-   "zh": ""
-  },
-  {
-   "en": ": Ooooh nice place you got here!",
-   "zh": ""
-  },
-  {
-   "en": "Chika enters the room and quickly scans the hallway for some indiscernible reason.",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "And then she locks the door?",
-   "zh": ""
-  },
-  {
-   "en": ": Heya.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey. What’s up? And why did you lock the door?",
-   "zh": ""
-  },
-  {
-   "en": ": Hm? Lock the door? I guess I just did it out of instinct.",
-   "zh": ""
-  },
-  {
-   "en": ": But the door to your dorm room is never-",
-   "zh": ""
-  },
-  {
-   "en": ": This place is like, super fancy for a counseling room, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m kinda jealous you get to hang out somewhere like this on a daily basis.",
-   "zh": ""
-  },
-  {
-   "en": ": There’s no reason to be jealous. I’m normally just alone anyway.",
-   "zh": ""
-  },
-  {
-   "en": ": Wait, really? What’s even the point of you being the guidance counselor then?",
-   "zh": ""
-  },
-  {
-   "en": ": I guess for rare occasions like this where someone needs help or something.",
-   "zh": ""
-  },
-  {
-   "en": ": Hm? Who needs help?",
-   "zh": ""
-  },
-  {
-   "en": ": I assumed you did since you asked to see me after class.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, nope! I just wanted to be alone with you for a little while and figured reserving a spot was the best way to get that done.",
-   "zh": ""
-  },
-  {
-   "en": ": You really like me enough to reserve a spot with me under the guise of having personal problems or issues or whatever it is counselors help with?",
-   "zh": ""
-  },
-  {
-   "en": ": Idunno. I guess I do if I showed up, right?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "It’s slightly embarrassing when she’s so nonchalant about it...But I guess it makes sense.",
-   "zh": ""
-  },
-  {
-   "en": "Chika and I have had a pretty natural progression to our relationship thus far, so it’s not like I’m going to complain about being alone with her.",
-   "zh": ""
-  },
-  {
-   "en": ": So like...is there really nothing to do in here? You don’t have a TV or anything like that?",
-   "zh": ""
-  },
-  {
-   "en": ": Well, not like it really matters to me, but I’m guessing there’s nothing to do in here since it’s also the room where detentions take place.",
-   "zh": ""
-  },
-  {
-   "en": ": Ah, yeah. I think Yumi said something about that once. How you kinda just make her stand there and stare at her or whatever.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m sure that was just an exaggeration, though. And whatever it was that landed her in here, I’m sure she deserved it.",
-   "zh": ""
-  },
-  {
-   "en": ": Most likely, yeah.",
-   "zh": ""
-  },
-  {
-   "en": "That’s...kind of odd, though. I’ve only seen Yumi in here a couple times throughout the year and it’s never been for more than a few minutes.",
-   "zh": ""
-  },
-  {
-   "en": "And I certainly don’t recall just making her stand there and staring at her.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey...Come to think of it, wasn’t I supposed to have detention a while ago?",
-   "zh": ""
-  },
-  {
-   "en": ": You? Why would someone like you ever have detention?",
-   "zh": ""
-  },
-  {
-   "en": ": You know...cause I'm like...a bad girl and stuff.",
-   "zh": ""
-  },
-  {
-   "en": ": You're actually one of the most well-behaved girls in class when you cut out all of the time you spend on your phone.",
-   "zh": ""
-  },
-  {
-   "en": ": Come on...Just go along with it, jerk.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, if that's what you want...",
-   "zh": ""
-  },
-  {
-   "en": ": Well like, I’m sure it wasn’t real detention or anything, but we kinda joked about it in the dressing room that one time and-",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know. I guess I was kinda hoping you’d actually follow through with it...or whatever.",
-   "zh": ""
-  },
-  {
-   "en": "Now that she mentions it, I do vaguely remember saying something like that in the dressing room.",
-   "zh": ""
-  },
-  {
-   "en": "If I had known she’d been looking forward to it, though, I would have made this happen a long, long time ago.",
-   "zh": ""
-  },
-  {
-   "en": ": Why don't we have your detention right now, then?",
-   "zh": ""
-  },
-  {
-   "en": ": Right now?",
-   "zh": ""
-  },
-  {
-   "en": ": Sure. You’re not in the office much to begin with, and I’d say you’re pretty overdue at this point. Wouldn’t you agree?",
-   "zh": ""
-  },
-  {
-   "en": ": I suppose I am. And as the oldest member of our class, I have to set a good example and accept my punishment.",
-   "zh": ""
-  },
-  {
-   "en": ": In fact, I’ll let you double my punishment as a special offer for today and today only!",
-   "zh": ""
-  },
-  {
-   "en": ": I can’t tell if you’re trying to be seductive or trying to sell me something.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, that sounded a lot sexier in my head. I don’t know where the sales pitch came from.",
-   "zh": ""
-  },
-  {
-   "en": ": Too much mall stuff, I guess.",
-   "zh": ""
-  },
-  {
-   "en": ": I guess so. It’s nice that you were trying to be sexy, though. Thanks for that.",
-   "zh": ""
-  },
-  {
-   "en": ": Wait, hold on a sec. You thanking me makes me feel totally weird. Like you’re just shrugging off my flirting.",
-   "zh": ""
-  },
-  {
-   "en": ": Do my words not affect you anymore now that we’ve-",
-   "zh": ""
-  },
-  {
-   "en": ": Chika.",
-   "zh": ""
-  },
-  {
-   "en": ": What?!",
-   "zh": ""
-  },
-  {
-   "en": ": You’re in detention. No talking.",
-   "zh": ""
-  },
-  {
-   "en": ": Wait, it’s a real detention?! This whole time I thought it was a euphemism for other stuff!",
-   "zh": ""
-  },
-  {
-   "en": ": Chika...",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei!",
-   "zh": ""
-  },
-  {
-   "en": "I point to the couch behind her and she looks back and forth between it and me, trying to wrap her head around what’s going on.",
-   "zh": ""
-  },
-  {
-   "en": "Of course I’m not planning on actually making her stay quiet while we’re in here. I just think it might be fun pushing her buttons a bit.",
-   "zh": ""
-  },
-  {
-   "en": "Especially after she fell so easily for the whole “You’re a pervert” thing when I fingered her for the first time.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Hmph!",
-   "zh": ""
-  },
-  {
-   "en": "Only two minutes have passed, but Chika has not broken eye contact with me the entire time.",
-   "zh": ""
-  },
-  {
-   "en": ": What did you think detention entailed exactly?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know, but it sure as heck wasn’t actual detention.",
-   "zh": ""
-  },
-  {
-   "en": ": Chika, take a second to think about what you just said.",
-   "zh": ""
-  },
-  {
-   "en": ": No. How about you take a second to think about your actions?",
-   "zh": ""
-  },
-  {
-   "en": ": How the heck are you gonna get all close to a girl in a dressing room and be like “See me after class” or whatever and not expect her to think things are gonna happen.",
-   "zh": ""
-  },
-  {
-   "en": ": So you want things to happen?",
-   "zh": ""
-  },
-  {
-   "en": ": Of course I want things to happen.",
-   "zh": ""
-  },
-  {
-   "en": ": I like you and it’s not fair that I’m the only one who ever gets to have any fun.",
-   "zh": ""
-  },
-  {
-   "en": ": Also I’m pretty sure your penis is huge from the one time I touched it and not knowing that for a fact is driving me insane.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh and also, I’m not perverted. And you’re being a jerk.",
-   "zh": ""
-  },
-  {
-   "en": ": Is this a Chika Chosokabe temper tantrum? I have to say, I thought you were a little more mature than this.",
-   "zh": ""
-  },
-  {
-   "en": ": A temper tantrum? Sure. If that’s what you want to call it. But to me it just seems like you’re afraid of doing something with a student in your office.",
-   "zh": ""
-  },
-  {
-   "en": ": I can assure you that is most definitely not the case.",
-   "zh": ""
-  },
-  {
-   "en": ": Then what is the case, Sensei? Do you want me to beg?",
-   "zh": ""
-  },
-  {
-   "en": ": On the contrary. I just think it’s fun to mess around with you.",
-   "zh": ""
-  },
-  {
-   "en": ": I was actually just about to sit down before you started scowling at me.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...Oh.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, now I certainly feel dumb.",
-   "zh": ""
-  },
-  {
-   "en": ": But I guess...I am a little relieved that you're not bored of me yet.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ll never get bored of you if you keep turning red like that. You are normally pretty mature, but you have quite the cute side sometimes, Chika.",
-   "zh": ""
-  },
-  {
-   "en": ": Thanks...but, umm, now that you’re being forward about it, I kinda have no idea what to do.",
-   "zh": ""
-  },
-  {
-   "en": ": What do you mean?",
-   "zh": ""
-  },
-  {
-   "en": ": I mean I’m clearly not as much of a seductress as I thought I would be. And now you’re the one seducing me instead.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not seducing you, I’m just being honest.",
-   "zh": ""
-  },
-  {
-   "en": ": Honest?",
-   "zh": ""
-  },
-  {
-   "en": "I take a seat next to Chika on the couch and rest my arm behind her. She immediately moves in closer despite currently being a bit more timid than she normally is.",
-   "zh": ""
-  },
-  {
-   "en": "Her face turns a darker shade of red as she looks into my eyes.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m being honest when I say you’re cute. And that I won’t get bored of you.",
-   "zh": ""
-  },
-  {
-   "en": ": Good. You better not. Because I wouldn’t have let you touch me if I thought you were just gonna bail on me once you found someone else.",
-   "zh": ""
-  },
-  {
-   "en": ": Someone like me bailing on someone like you isn’t exactly something that happens every day. That won’t happen.",
-   "zh": ""
-  },
-  {
-   "en": ": I might not be the smartest guy out there, but I’m not an idiot.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s right...",
-   "zh": ""
-  },
-  {
-   "en": ": You’d be the biggest idiot in the whole world.",
-   "zh": ""
-  },
-  {
-   "en": ": A huge idiot.",
-   "zh": ""
-  },
-  {
-   "en": ": A massive idiot...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Understanding where this is going, I elect to do what any sane man would do in my position and stay silent, waiting for her to inevitably make her move.",
-   "zh": ""
-  },
-  {
-   "en": ": Senseiiii~",
-   "zh": ""
-  },
-  {
-   "en": ": Yes?",
-   "zh": ""
-  },
-  {
-   "en": ": Can I...take it out? Please?",
-   "zh": ""
-  },
-  {
-   "en": ": I wanna see it.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not opposed.",
-   "zh": ""
-  },
-  {
-   "en": ": Really? Cause the one time I tried, you pushed me down and took my finger-virginity.",
-   "zh": ""
-  },
-  {
-   "en": ": Finger-virginity isn’t a thing, Chika.",
-   "zh": ""
-  },
-  {
-   "en": ": Shut up, yes it is. Now show me your penis.",
-   "zh": ""
-  },
-  {
-   "en": ": Someone is certainly assertive today.",
-   "zh": ""
-  },
-  {
-   "en": ": Yes. And that someone is about to take your pants off, so please bear with me.",
-   "zh": ""
-  },
-  {
-   "en": "Chika lays down beside me on the couch and unzips my pants, sliding them down shortly after.",
-   "zh": ""
-  },
-  {
-   "en": "Well, she tries to slide them down, at least. She can only reach one side, so I have to assist her.",
-   "zh": ""
-  },
-  {
-   "en": "And then...",
-   "zh": ""
-  },
-  {
-   "en": ": HOLY FUCK!",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, I was more or less expecting that reaction.",
-   "zh": ""
-  },
-  {
-   "en": ": DUDE!",
-   "zh": ""
-  },
-  {
-   "en": ": That will be inside of you one day.",
-   "zh": ""
-  },
-  {
-   "en": ": Me?! How?! That’s literally impossible!",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know. We’ll figure something out.",
-   "zh": ""
-  },
-  {
-   "en": ": Uhhhh yeah, I don’t know about that.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m pretty sure I’d actually die.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ll just give you handjobs or something for the rest of eternity.",
-   "zh": ""
-  },
-  {
-   "en": ": You’ll cave. I can feel it.",
-   "zh": ""
-  },
-  {
-   "en": ": Jesus Christ it’s bigger than my little sister.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, it’s not that big...",
-   "zh": ""
-  },
-  {
-   "en": ": How does my hand feel?",
-   "zh": ""
-  },
-  {
-   "en": ": Extremely soft. And warm.",
-   "zh": ""
-  },
-  {
-   "en": ": Thanks. I use moisturizer.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s...nice.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, the really expensive kind. Yumi stole it from some flea market and gave it to me as a birthday present.",
-   "zh": ""
-  },
-  {
-   "en": ": Is this your idea of dirty-talk? Because it’s definitely a strange strategy.",
-   "zh": ""
-  },
-  {
-   "en": ": What? Talking about my hands doesn’t turn you on?",
-   "zh": ""
-  },
-  {
-   "en": ": I...don’t think so.",
-   "zh": ""
-  },
-  {
-   "en": ": Then what would turn you on, Sensei?",
-   "zh": ""
-  },
-  {
-   "en": ": Well, for one...not calling me Sensei anymore would help.",
-   "zh": ""
-  },
-  {
-   "en": ": Wait, really? Then...what would you like me to call you instead?",
-   "zh": ""
-  },
-  {
-   "en": ": How about...",
-   "zh": ""
-  }
- ]
+  "label": "day139",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day139:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikafirstlust1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust1.webp",
+      "alt": "chikafirstlust1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I sit alone in my office and wait for the day to come to an end, just as I always do after I finish “teaching,” if that’s what we’re still calling it.",
+      "zh": ""
+    },
+    {
+      "en": "The only difference is that, this time, I actually have an appointment.",
+      "zh": ""
+    },
+    {
+      "en": "Or at least...I thought I did?",
+      "zh": ""
+    },
+    {
+      "en": "Right before I made my way to the office, Chika ran over and grabbed one of the sleeves of my shirt to ask me if I was doing counseling stuff today.",
+      "zh": ""
+    },
+    {
+      "en": "Having no reason to lie to her (And perhaps wanting her company), I of course told her yes.",
+      "zh": ""
+    },
+    {
+      "en": "But I’ve been in here for around an hour already and I’m beginning to lose hope.",
+      "zh": ""
+    },
+    {
+      "en": "Woe is me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei, are you still here?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Sorry I took mega-long and stuff. I had to go give something to Yumi and she was just hanging out at some park for whatever reason.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Oh, cool. Woe isn’t me. Chika is here after all.",
+      "zh": ""
+    },
+    {
+      "en": "I wonder what the reason for the visit is, though?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m still here. You can come in.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Kay~ Pardon the intrusion.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ooooh nice place you got here!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika enters the room and quickly scans the hallway for some indiscernible reason.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "And then she locks the door?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust2.webp",
+      "alt": "chikafirstlust2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heya.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Hey. What’s up? And why did you lock the door?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hm? Lock the door? I guess I just did it out of instinct.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": But the door to your dorm room is never-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust3.webp",
+      "alt": "chikafirstlust3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": This place is like, super fancy for a counseling room, Sensei.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’m kinda jealous you get to hang out somewhere like this on a daily basis.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": There’s no reason to be jealous. I’m normally just alone anyway.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust4.webp",
+      "alt": "chikafirstlust4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait, really? What’s even the point of you being the guidance counselor then?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I guess for rare occasions like this where someone needs help or something.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hm? Who needs help?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I assumed you did since you asked to see me after class.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust2.webp",
+      "alt": "chikafirstlust2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, nope! I just wanted to be alone with you for a little while and figured reserving a spot was the best way to get that done.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You really like me enough to reserve a spot with me under the guise of having personal problems or issues or whatever it is counselors help with?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust3.webp",
+      "alt": "chikafirstlust3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Idunno. I guess I do if I showed up, right?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It’s slightly embarrassing when she’s so nonchalant about it...But I guess it makes sense.",
+      "zh": ""
+    },
+    {
+      "en": "Chika and I have had a pretty natural progression to our relationship thus far, so it’s not like I’m going to complain about being alone with her.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust2.webp",
+      "alt": "chikafirstlust2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So like...is there really nothing to do in here? You don’t have a TV or anything like that?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Well, not like it really matters to me, but I’m guessing there’s nothing to do in here since it’s also the room where detentions take place.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust4.webp",
+      "alt": "chikafirstlust4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah, yeah. I think Yumi said something about that once. How you kinda just make her stand there and stare at her or whatever.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust5.webp",
+      "alt": "chikafirstlust5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m sure that was just an exaggeration, though. And whatever it was that landed her in here, I’m sure she deserved it.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Most likely, yeah.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "That’s...kind of odd, though. I’ve only seen Yumi in here a couple times throughout the year and it’s never been for more than a few minutes.",
+      "zh": ""
+    },
+    {
+      "en": "And I certainly don’t recall just making her stand there and staring at her.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust6.webp",
+      "alt": "chikafirstlust6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey...Come to think of it, wasn’t I supposed to have detention a while ago?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You? Why would someone like you ever have detention?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust7.webp",
+      "alt": "chikafirstlust7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chikadetention == False:",
+      "zh": ""
+    },
+    {
+      "en": ": You know...cause I'm like...a bad girl and stuff.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You're actually one of the most well-behaved girls in class when you cut out all of the time you spend on your phone.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Come on...Just go along with it, jerk.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Well, if that's what you want...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": Well like, I’m sure it wasn’t real detention or anything, but we kinda joked about it in the dressing room that one time and-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t know. I guess I was kinda hoping you’d actually follow through with it...or whatever.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Now that she mentions it, I do vaguely remember saying something like that in the dressing room.",
+      "zh": ""
+    },
+    {
+      "en": "If I had known she’d been looking forward to it, though, I would have made this happen a long, long time ago.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why don't we have your detention right now, then?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust6.webp",
+      "alt": "chikafirstlust6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Right now?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Sure. You’re not in the office much to begin with, and I’d say you’re pretty overdue at this point. Wouldn’t you agree?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust8.webp",
+      "alt": "chikafirstlust8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I suppose I am. And as the oldest member of our class, I have to set a good example and accept my punishment.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": In fact, I’ll let you double my punishment as a special offer for today and today only!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I can’t tell if you’re trying to be seductive or trying to sell me something.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust9.webp",
+      "alt": "chikafirstlust9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah, that sounded a lot sexier in my head. I don’t know where the sales pitch came from.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Too much mall stuff, I guess.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I guess so. It’s nice that you were trying to be sexy, though. Thanks for that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust10.webp",
+      "alt": "chikafirstlust10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait, hold on a sec. You thanking me makes me feel totally weird. Like you’re just shrugging off my flirting.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Do my words not affect you anymore now that we’ve-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": What?!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You’re in detention. No talking.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Wait, it’s a real detention?! This whole time I thought it was a euphemism for other stuff!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Chika...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump chikafirstlustx",
+      "zh": ""
+    },
+    {
+      "en": "label chikafirstlustx:",
+      "zh": ""
+    },
+    {
+      "en": "I point to the couch behind her and she looks back and forth between it and me, trying to wrap her head around what’s going on.",
+      "zh": ""
+    },
+    {
+      "en": "Of course I’m not planning on actually making her stay quiet while we’re in here. I just think it might be fun pushing her buttons a bit.",
+      "zh": ""
+    },
+    {
+      "en": "Especially after she fell so easily for the whole “You’re a pervert” thing when I fingered her for the first time.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust11.webp",
+      "alt": "chikafirstlust11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmph!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Only two minutes have passed, but Chika has not broken eye contact with me the entire time.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What did you think detention entailed exactly?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t know, but it sure as heck wasn’t actual detention.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Chika, take a second to think about what you just said.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust12.webp",
+      "alt": "chikafirstlust12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No. How about you take a second to think about your actions?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": How the heck are you gonna get all close to a girl in a dressing room and be like “See me after class” or whatever and not expect her to think things are gonna happen.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": So you want things to happen?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Of course I want things to happen.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust13.webp",
+      "alt": "chikafirstlust13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I like you and it’s not fair that I’m the only one who ever gets to have any fun.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust12.webp",
+      "alt": "chikafirstlust12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Also I’m pretty sure your penis is huge from the one time I touched it and not knowing that for a fact is driving me insane.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Oh and also, I’m not perverted. And you’re being a jerk.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Is this a Chika Chosokabe temper tantrum? I have to say, I thought you were a little more mature than this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust14.webp",
+      "alt": "chikafirstlust14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": A temper tantrum? Sure. If that’s what you want to call it. But to me it just seems like you’re afraid of doing something with a student in your office.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I can assure you that is most definitely not the case.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Then what is the case, Sensei? Do you want me to beg?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": On the contrary. I just think it’s fun to mess around with you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I was actually just about to sit down before you started scowling at me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust15.webp",
+      "alt": "chikafirstlust15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhh...Oh.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Well, now I certainly feel dumb.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust16.webp",
+      "alt": "chikafirstlust16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But I guess...I am a little relieved that you're not bored of me yet.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’ll never get bored of you if you keep turning red like that. You are normally pretty mature, but you have quite the cute side sometimes, Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust17.webp",
+      "alt": "chikafirstlust17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Thanks...but, umm, now that you’re being forward about it, I kinda have no idea what to do.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": What do you mean?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I mean I’m clearly not as much of a seductress as I thought I would be. And now you’re the one seducing me instead.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’m not seducing you, I’m just being honest.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikafirstlust18.webp",
+      "alt": "chikafirstlust18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Honest?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I take a seat next to Chika on the couch and rest my arm behind her. She immediately moves in closer despite currently being a bit more timid than she normally is.",
+      "zh": ""
+    },
+    {
+      "en": "Her face turns a darker shade of red as she looks into my eyes.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m being honest when I say you’re cute. And that I won’t get bored of you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Good. You better not. Because I wouldn’t have let you touch me if I thought you were just gonna bail on me once you found someone else.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Someone like me bailing on someone like you isn’t exactly something that happens every day. That won’t happen.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I might not be the smartest guy out there, but I’m not an idiot.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That’s right...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/subscribestar/chikafirstlust19.webp",
+      "alt": "chikafirstlust19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’d be the biggest idiot in the whole world.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": A huge idiot.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": A massive idiot...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Understanding where this is going, I elect to do what any sane man would do in my position and stay silent, waiting for her to inevitably make her move.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Senseiiii~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Yes?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Can I...take it out? Please?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I wanna see it.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’m not opposed.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Really? Cause the one time I tried, you pushed me down and took my finger-virginity.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Finger-virginity isn’t a thing, Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Shut up, yes it is. Now show me your penis.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Someone is certainly assertive today.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yes. And that someone is about to take your pants off, so please bear with me.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika lays down beside me on the couch and unzips my pants, sliding them down shortly after.",
+      "zh": ""
+    },
+    {
+      "en": "Well, she tries to slide them down, at least. She can only reach one side, so I have to assist her.",
+      "zh": ""
+    },
+    {
+      "en": "And then...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/subscribestar/chikafirstlust20.webp",
+      "alt": "chikafirstlust20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": HOLY FUCK!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah, I was more or less expecting that reaction.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": DUDE!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": That will be inside of you one day.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/subscribestar/chikafirstlust21.webp",
+      "alt": "chikafirstlust21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Me?! How?! That’s literally impossible!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t know. We’ll figure something out.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/subscribestar/chikafirstlust22.webp",
+      "alt": "chikafirstlust22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhhhh yeah, I don’t know about that.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’m pretty sure I’d actually die.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’ll just give you handjobs or something for the rest of eternity.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You’ll cave. I can feel it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Jesus Christ it’s bigger than my little sister.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Okay, it’s not that big...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/subscribestar/chikafirstlust23.webp",
+      "alt": "chikafirstlust23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How does my hand feel?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Extremely soft. And warm.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Thanks. I use moisturizer.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": That’s...nice.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah, the really expensive kind. Yumi stole it from some flea market and gave it to me as a birthday present.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Is this your idea of dirty-talk? Because it’s definitely a strange strategy.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/subscribestar/chikafirstlust24.webp",
+      "alt": "chikafirstlust24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What? Talking about my hands doesn’t turn you on?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I...don’t think so.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Then what would turn you on, Sensei?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Well, for one...not calling me Sensei anymore would help.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikafirstlust25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/subscribestar/chikafirstlust25.webp",
+      "alt": "chikafirstlust25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait, really? Then...what would you like me to call you instead?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": How about...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    }
+  ]
 }

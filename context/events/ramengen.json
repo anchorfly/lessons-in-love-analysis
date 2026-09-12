@@ -1,70 +1,145 @@
 {
- "label": "ramengen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I head to Tojo Ramen to grab a quick bite to eat and chat with Tsuneyo.",
-   "zh": ""
-  },
-  {
-   "en": "Under most circumstances, I'd avoid going all the way across town just for food.",
-   "zh": ""
-  },
-  {
-   "en": "But something about this place just keeps pulling me back.",
-   "zh": ""
-  },
-  {
-   "en": "I'm not sure if it's the broth or...the strange conversations to be had with the self-proclaimed 'Samurai of Flavor,' but I really do enjoy my time here.",
-   "zh": ""
-  },
-  {
-   "en": "I just wish it wasn't so far away.",
-   "zh": ""
-  },
-  {
-   "en": "I stay for another thirty minutes or so after finishing my meal and Tsuneyo tells me more stories about her childhood.",
-   "zh": ""
-  },
-  {
-   "en": "I'd like to say that they're normal or wholesome stories, but the fact is that everything she tells me is rather weird...",
-   "zh": ""
-  },
-  {
-   "en": "I chalk it up to her just being born strange and decide to head home after sliding some money across the table, leaving a generous tip behind.",
-   "zh": ""
-  },
-  {
-   "en": ": I can't accept this. It is not culturally acceptable.",
-   "zh": ""
-  },
-  {
-   "en": ": Just take my fucking money, Tsuneyo.",
-   "zh": ""
-  },
-  {
-   "en": ": Ah-",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo reluctantly nods in appreciation and parts with an expectedly formal goodbye...",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "ramengen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ramengen:",
+      "zh": ""
+    },
+    {
+      "en": "scene firsttsuneyoramen1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/firsttsuneyoramen1.webp",
+      "alt": "firsttsuneyoramen1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head to Tojo Ramen to grab a quick bite to eat and chat with Tsuneyo.",
+      "zh": ""
+    },
+    {
+      "en": "Under most circumstances, I'd avoid going all the way across town just for food.",
+      "zh": ""
+    },
+    {
+      "en": "But something about this place just keeps pulling me back.",
+      "zh": ""
+    },
+    {
+      "en": "I'm not sure if it's the broth or...the strange conversations to be had with the self-proclaimed 'Samurai of Flavor,' but I really do enjoy my time here.",
+      "zh": ""
+    },
+    {
+      "en": "I just wish it wasn't so far away.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I stay for another thirty minutes or so after finishing my meal and Tsuneyo tells me more stories about her childhood.",
+      "zh": ""
+    },
+    {
+      "en": "I'd like to say that they're normal or wholesome stories, but the fact is that everything she tells me is rather weird...",
+      "zh": ""
+    },
+    {
+      "en": "I chalk it up to her just being born strange and decide to head home after sliding some money across the table, leaving a generous tip behind.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I can't accept this. It is not culturally acceptable.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Just take my fucking money, Tsuneyo.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Ah-",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo reluctantly nods in appreciation and parts with an expectedly formal goodbye...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ tsuneyo_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

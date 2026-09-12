@@ -1,46 +1,138 @@
 {
- "label": "iohallgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Hey, Sensei. What are you up to?",
-   "zh": ""
-  },
-  {
-   "en": "I spend the night in the hallway with Io.",
-   "zh": ""
-  },
-  {
-   "en": "It isn't a particularly exciting time, but it's a time nonetheless.",
-   "zh": ""
-  },
-  {
-   "en": "We talk more about potential non-college plans for her and I'm, once again, surprised by how much she seems to know about post-[high_school] life.",
-   "zh": ""
-  },
-  {
-   "en": "Eventually, it gets late and I decide to head back.",
-   "zh": ""
-  },
-  {
-   "en": "Io has some stuff she wants to do tonight anyway, so we mutually part ways and I quickly find myself on the way back home...",
-   "zh": ""
-  },
-  {
-   "en": "Io's affection has increased to [io_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "iohallgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label iohallgen:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene iosummer2hallgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iosummer2hallgen.webp",
+      "alt": "iosummer2hallgen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene iohall10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iohall10.webp",
+      "alt": "iohall10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, Sensei. What are you up to?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I spend the night in the hallway with Io.",
+      "zh": ""
+    },
+    {
+      "en": "It isn't a particularly exciting time, but it's a time nonetheless.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "We talk more about potential non-college plans for her and I'm, once again, surprised by how much she seems to know about post-[high_school] life.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Eventually, it gets late and I decide to head back.",
+      "zh": ""
+    },
+    {
+      "en": "Io has some stuff she wants to do tonight anyway, so we mutually part ways and I quickly find myself on the way back home...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ io_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Io's affection has increased to [io_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

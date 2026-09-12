@@ -1,62 +1,125 @@
 {
- "label": "utaspringnightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I meet up with Uta after she gets out of work.",
-   "zh": ""
-  },
-  {
-   "en": "It's late now. And it's gotten cold.",
-   "zh": ""
-  },
-  {
-   "en": "I feel tempted to wrap my arm around her to keep her warm, and I know that's what she wants, but I abstain because I know where it would lead.",
-   "zh": ""
-  },
-  {
-   "en": "My inhibitions frequently get the better of me most nights now. And I often find myself thinking things like “fuck it” or “who cares?” much more than I used to.",
-   "zh": ""
-  },
-  {
-   "en": "But...",
-   "zh": ""
-  },
-  {
-   "en": "There are moments where that's not the case. And almost all of those moments are as silent as this one.",
-   "zh": ""
-  },
-  {
-   "en": "Uta has become rather protective of me, but she clings to my side like a cyst in total contradiction of this.",
-   "zh": ""
-  },
-  {
-   "en": "You see, she doesn't understand that she's making things worse by simply being here. That the temptation is increasing and my walls are caving in on her.",
-   "zh": ""
-  },
-  {
-   "en": "Soon, she too will be consumed.",
-   "zh": ""
-  },
-  {
-   "en": "And that's why I let her stay cold.",
-   "zh": ""
-  },
-  {
-   "en": "Uta’s affection has increased to [uta_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "utaspringnightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label utaspringnightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene utaspringnightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaspringnightgen.webp",
+      "alt": "utaspringnightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I meet up with Uta after she gets out of work.",
+      "zh": ""
+    },
+    {
+      "en": "It's late now. And it's gotten cold.",
+      "zh": ""
+    },
+    {
+      "en": "I feel tempted to wrap my arm around her to keep her warm, and I know that's what she wants, but I abstain because I know where it would lead.",
+      "zh": ""
+    },
+    {
+      "en": "My inhibitions frequently get the better of me most nights now. And I often find myself thinking things like “fuck it” or “who cares?” much more than I used to.",
+      "zh": ""
+    },
+    {
+      "en": "But...",
+      "zh": ""
+    },
+    {
+      "en": "There are moments where that's not the case. And almost all of those moments are as silent as this one.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta has become rather protective of me, but she clings to my side like a cyst in total contradiction of this.",
+      "zh": ""
+    },
+    {
+      "en": "You see, she doesn't understand that she's making things worse by simply being here. That the temptation is increasing and my walls are caving in on her.",
+      "zh": ""
+    },
+    {
+      "en": "Soon, she too will be consumed.",
+      "zh": ""
+    },
+    {
+      "en": "And that's why I let her stay cold.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ uta_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta’s affection has increased to [uta_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

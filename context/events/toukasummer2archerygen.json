@@ -1,62 +1,113 @@
 {
- "label": "toukasummer2archerygen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I make my way to the archery range to find Touka wandering around the grounds and...observing the architecture or something.",
-   "zh": ""
-  },
-  {
-   "en": "To be honest, she looks a little lost. Though, that could just be me having a hard time linking her ojousama persona to sports, even with her constant insistence that she’s very athletic.",
-   "zh": ""
-  },
-  {
-   "en": "I guess if there was going to be a sport that would fit her, though, this would be it. There’s a certain level of elegance when it comes to archery that, whether or not I can believe it, Touka possesses.",
-   "zh": ""
-  },
-  {
-   "en": "Or...would possess if she would stop wandering around and talking about the craftsmanship of every single wooden structure she encounters.",
-   "zh": ""
-  },
-  {
-   "en": "As it turns out, Touka has the same level of appreciation for history that her mother does, and she spends the rest of the morning lecturing me about the origins of kyudo and what early examples of it looked like.",
-   "zh": ""
-  },
-  {
-   "en": "It also turns out that her skills in the art are not as polished as the rest of the girls in the club as of yet, but that she’s working hard to improve and doesn’t plan on giving this up.",
-   "zh": ""
-  },
-  {
-   "en": "I admire how headstrong she is and how, even when it comes to things other than kyudo, she never seems to stray from her goals.",
-   "zh": ""
-  },
-  {
-   "en": "Before I leave, we take a quick walk around the archery range and she invites me over to her home sometime in the future to see the one her dad built for her.",
-   "zh": ""
-  },
-  {
-   "en": "But, knowing that there’s nothing more to the invitation than providing her with another opportunity to give me a history lesson, I don’t accept right away and ask her to let me sleep on it instead.",
-   "zh": ""
-  },
-  {
-   "en": "In the end, I leave without making any plans and Touka goes back to wandering around.",
-   "zh": ""
-  },
-  {
-   "en": "Touka’s affection has increased to [touka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "toukasummer2archerygen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label toukasummer2archerygen:",
+      "zh": ""
+    },
+    {
+      "en": "scene toukasummer2archerygen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukasummer2archerygen.webp",
+      "alt": "toukasummer2archerygen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way to the archery range to find Touka wandering around the grounds and...observing the architecture or something.",
+      "zh": ""
+    },
+    {
+      "en": "To be honest, she looks a little lost. Though, that could just be me having a hard time linking her ojousama persona to sports, even with her constant insistence that she’s very athletic.",
+      "zh": ""
+    },
+    {
+      "en": "I guess if there was going to be a sport that would fit her, though, this would be it. There’s a certain level of elegance when it comes to archery that, whether or not I can believe it, Touka possesses.",
+      "zh": ""
+    },
+    {
+      "en": "Or...would possess if she would stop wandering around and talking about the craftsmanship of every single wooden structure she encounters.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "As it turns out, Touka has the same level of appreciation for history that her mother does, and she spends the rest of the morning lecturing me about the origins of kyudo and what early examples of it looked like.",
+      "zh": ""
+    },
+    {
+      "en": "It also turns out that her skills in the art are not as polished as the rest of the girls in the club as of yet, but that she’s working hard to improve and doesn’t plan on giving this up.",
+      "zh": ""
+    },
+    {
+      "en": "I admire how headstrong she is and how, even when it comes to things other than kyudo, she never seems to stray from her goals.",
+      "zh": ""
+    },
+    {
+      "en": "Before I leave, we take a quick walk around the archery range and she invites me over to her home sometime in the future to see the one her dad built for her.",
+      "zh": ""
+    },
+    {
+      "en": "But, knowing that there’s nothing more to the invitation than providing her with another opportunity to give me a history lesson, I don’t accept right away and ask her to let me sleep on it instead.",
+      "zh": ""
+    },
+    {
+      "en": "In the end, I leave without making any plans and Touka goes back to wandering around.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka’s affection has increased to [touka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

@@ -1,66 +1,117 @@
 {
- "label": "norikosummer2morninggen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call up Noriko first thing in the morning and allow her to talk me into accompanying her to some record store so she can force me to listen to music I don’t like.",
-   "zh": ""
-  },
-  {
-   "en": "It’s not the most exciting of plans I have made, but it gives us the opportunity to spend the morning together, and we don’t get to do that very often.",
-   "zh": ""
-  },
-  {
-   "en": "Thankfully, the shop she wants to visit isn’t too far away, so the two of us meet up near my house and take a short bus ride over to a shopping plaza she used to visit with her sister all the time.",
-   "zh": ""
-  },
-  {
-   "en": "Unfortunately, Niki doesn’t have time for things like that anymore. So the responsibility falls on me as the older brother slash guy she masturbates to to carry the torch and come in her place.",
-   "zh": ""
-  },
-  {
-   "en": "And while I might have poked fun at the type of music she’s interested in just seconds ago, I will admit that it is a little fun to watch her get excited about things.",
-   "zh": ""
-  },
-  {
-   "en": "Even if those things cause my ears a great deal of both distress and pain.",
-   "zh": ""
-  },
-  {
-   "en": "We’re only in the record store for about forty-five minutes or so, so we wind up heading over a nearby brunch place to cap off the morning afterward.",
-   "zh": ""
-  },
-  {
-   "en": "Noriko orders a bunch of weird sounding vegetarian food and I just get french toast because I don’t want to hear her talk about how animal cruelty is wrong.",
-   "zh": ""
-  },
-  {
-   "en": "Surprisingly enough, the opposite happens when she tells me that I don’t have to worry about appeasing her and that I’m free to eat whatever I want.",
-   "zh": ""
-  },
-  {
-   "en": "And so when the waitress returns, I order a side of bacon as well and the morning ends with me getting at least one thing for myself.",
-   "zh": ""
-  },
-  {
-   "en": "Two, counting Noriko. But I’ve apparently already had her for years without even knowing it.",
-   "zh": ""
-  },
-  {
-   "en": "Noriko’s affection has increased to [noriko_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "norikosummer2morninggen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label norikosummer2morninggen:",
+      "zh": ""
+    },
+    {
+      "en": "scene norikosummer2morninggen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/norikosummer2morninggen.webp",
+      "alt": "norikosummer2morninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call up Noriko first thing in the morning and allow her to talk me into accompanying her to some record store so she can force me to listen to music I don’t like.",
+      "zh": ""
+    },
+    {
+      "en": "It’s not the most exciting of plans I have made, but it gives us the opportunity to spend the morning together, and we don’t get to do that very often.",
+      "zh": ""
+    },
+    {
+      "en": "Thankfully, the shop she wants to visit isn’t too far away, so the two of us meet up near my house and take a short bus ride over to a shopping plaza she used to visit with her sister all the time.",
+      "zh": ""
+    },
+    {
+      "en": "Unfortunately, Niki doesn’t have time for things like that anymore. So the responsibility falls on me as the older brother slash guy she masturbates to to carry the torch and come in her place.",
+      "zh": ""
+    },
+    {
+      "en": "And while I might have poked fun at the type of music she’s interested in just seconds ago, I will admit that it is a little fun to watch her get excited about things.",
+      "zh": ""
+    },
+    {
+      "en": "Even if those things cause my ears a great deal of both distress and pain.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We’re only in the record store for about forty-five minutes or so, so we wind up heading over a nearby brunch place to cap off the morning afterward.",
+      "zh": ""
+    },
+    {
+      "en": "Noriko orders a bunch of weird sounding vegetarian food and I just get french toast because I don’t want to hear her talk about how animal cruelty is wrong.",
+      "zh": ""
+    },
+    {
+      "en": "Surprisingly enough, the opposite happens when she tells me that I don’t have to worry about appeasing her and that I’m free to eat whatever I want.",
+      "zh": ""
+    },
+    {
+      "en": "And so when the waitress returns, I order a side of bacon as well and the morning ends with me getting at least one thing for myself.",
+      "zh": ""
+    },
+    {
+      "en": "Two, counting Noriko. But I’ve apparently already had her for years without even knowing it.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ noriko_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Noriko’s affection has increased to [noriko_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

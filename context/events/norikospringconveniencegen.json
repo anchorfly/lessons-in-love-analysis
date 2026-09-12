@@ -1,62 +1,125 @@
 {
- "label": "norikospringconveniencegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I venture into the worst part of town to hang out with a girl who's way too good for me and find her eating dinner in the dining section of the convenience store.",
-   "zh": ""
-  },
-  {
-   "en": "I question whether or not it's okay for her to do this seeing as she's the only person who's ever working, but then I remember just how infrequently people come in here and stop caring.",
-   "zh": ""
-  },
-  {
-   "en": "After all, if I can go my entire life without working, I shouldn't fault Noriko for following my footsteps just because she knows better.",
-   "zh": ""
-  },
-  {
-   "en": "She makes room for me at the table and I pull up a chair so I can drown my infinite numbness in the ecstasy my sheer existence provides her.",
-   "zh": ""
-  },
-  {
-   "en": "And while she likely spends the next two hours waiting for me to make out with her, I spend the next two hours looking at her as a sister.",
-   "zh": ""
-  },
-  {
-   "en": "I imagine that's just a side effect of having viewed her that way in what I can only imagine as the better half of my life at this point.",
-   "zh": ""
-  },
-  {
-   "en": "Though, it's likely that's not the case at all as this is apparently my second seemingly permanent bout of childish sorrow.",
-   "zh": ""
-  },
-  {
-   "en": "But that's just the thing. It's only seemingly permanent. And what better way to question permanence than by expelling my energy on the rival of the one I lost?",
-   "zh": ""
-  },
-  {
-   "en": "I hope she's looking down on or up at me from wherever she is or isn't and that the jealousy this would cause her forces her back into existence.",
-   "zh": ""
-  },
-  {
-   "en": "But of course it doesn't. And the girl who's too good for me continues to be tainted by my presence up to the moment I go home to one I deserve.",
-   "zh": ""
-  },
-  {
-   "en": "Noriko’s affection has increased to [noriko_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "norikospringconveniencegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label norikospringconveniencegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene norikospringconveniencegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/norikospringconveniencegen.webp",
+      "alt": "norikospringconveniencegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I venture into the worst part of town to hang out with a girl who's way too good for me and find her eating dinner in the dining section of the convenience store.",
+      "zh": ""
+    },
+    {
+      "en": "I question whether or not it's okay for her to do this seeing as she's the only person who's ever working, but then I remember just how infrequently people come in here and stop caring.",
+      "zh": ""
+    },
+    {
+      "en": "After all, if I can go my entire life without working, I shouldn't fault Noriko for following my footsteps just because she knows better.",
+      "zh": ""
+    },
+    {
+      "en": "She makes room for me at the table and I pull up a chair so I can drown my infinite numbness in the ecstasy my sheer existence provides her.",
+      "zh": ""
+    },
+    {
+      "en": "And while she likely spends the next two hours waiting for me to make out with her, I spend the next two hours looking at her as a sister.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I imagine that's just a side effect of having viewed her that way in what I can only imagine as the better half of my life at this point.",
+      "zh": ""
+    },
+    {
+      "en": "Though, it's likely that's not the case at all as this is apparently my second seemingly permanent bout of childish sorrow.",
+      "zh": ""
+    },
+    {
+      "en": "But that's just the thing. It's only seemingly permanent. And what better way to question permanence than by expelling my energy on the rival of the one I lost?",
+      "zh": ""
+    },
+    {
+      "en": "I hope she's looking down on or up at me from wherever she is or isn't and that the jealousy this would cause her forces her back into existence.",
+      "zh": ""
+    },
+    {
+      "en": "But of course it doesn't. And the girl who's too good for me continues to be tainted by my presence up to the moment I go home to one I deserve.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ noriko_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Noriko’s affection has increased to [noriko_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

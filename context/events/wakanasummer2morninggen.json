@@ -1,78 +1,129 @@
 {
- "label": "wakanasummer2morninggen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call up Wakana to find that she’s spending the morning in her office to grade papers and keep her plants company.",
-   "zh": ""
-  },
-  {
-   "en": "Why plants need company, I don’t know. But I decide to join her anyway seeing as I have nothing else to do and feel the need to be reminded of how miserable and pointless life is every few minutes.",
-   "zh": ""
-  },
-  {
-   "en": "Wakana does not disappoint in that regard, bashing me over the head with her catchphrase immediately upon my arrival before asking me to do all of her work for her so she can take a nap.",
-   "zh": ""
-  },
-  {
-   "en": "I’m surprised that she’s even okay with the prospect of taking a nap in the same room as me, but...I guess there’s a lot about our dynamic that I’m being constantly surprised about.",
-   "zh": ""
-  },
-  {
-   "en": "Anyway, surprise or not, I refuse Wakana’s task as I can’t even be bothered with grading my own papers, let alone hers.",
-   "zh": ""
-  },
-  {
-   "en": "She goes back to watering her plants with a sigh and mentions that she’ll just grade everything from home later on tonight.",
-   "zh": ""
-  },
-  {
-   "en": "This, of course, calls into question why she even bothered coming here in the first place if she was just going to shrug it off since...I don’t think plants need to be watered every day.",
-   "zh": ""
-  },
-  {
-   "en": "I’m no botanist, though. So I may very well be completely off the mark with that.",
-   "zh": ""
-  },
-  {
-   "en": "Wakana finishes up providing [[potentially] needed water for her foliage friends and collapses onto the couch seconds later before, you guessed it, once again complaining about how painful it is to be alive.",
-   "zh": ""
-  },
-  {
-   "en": "I join her in an attempt to complain as well only to be berated and told that I don’t understand, which is fair since my life is pretty great.",
-   "zh": ""
-  },
-  {
-   "en": "But, without knowing too much about Wakana, hers seems like it’s not that bad either.",
-   "zh": ""
-  },
-  {
-   "en": "I guess you can never really know for sure, though.",
-   "zh": ""
-  },
-  {
-   "en": "Minutes later, I am told to get lost so Wakana can go tend to something- whatever that means.",
-   "zh": ""
-  },
-  {
-   "en": "I oblige and, before I know it, I’m back outside of the school and looking for something to do.",
-   "zh": ""
-  },
-  {
-   "en": "Wakana’s affection has increased to [wakana_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "wakanasummer2morninggen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label wakanasummer2morninggen:",
+      "zh": ""
+    },
+    {
+      "en": "scene wakanasummer2morninggen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/wakanasummer2morninggen.webp",
+      "alt": "wakanasummer2morninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call up Wakana to find that she’s spending the morning in her office to grade papers and keep her plants company.",
+      "zh": ""
+    },
+    {
+      "en": "Why plants need company, I don’t know. But I decide to join her anyway seeing as I have nothing else to do and feel the need to be reminded of how miserable and pointless life is every few minutes.",
+      "zh": ""
+    },
+    {
+      "en": "Wakana does not disappoint in that regard, bashing me over the head with her catchphrase immediately upon my arrival before asking me to do all of her work for her so she can take a nap.",
+      "zh": ""
+    },
+    {
+      "en": "I’m surprised that she’s even okay with the prospect of taking a nap in the same room as me, but...I guess there’s a lot about our dynamic that I’m being constantly surprised about.",
+      "zh": ""
+    },
+    {
+      "en": "Anyway, surprise or not, I refuse Wakana’s task as I can’t even be bothered with grading my own papers, let alone hers.",
+      "zh": ""
+    },
+    {
+      "en": "She goes back to watering her plants with a sigh and mentions that she’ll just grade everything from home later on tonight.",
+      "zh": ""
+    },
+    {
+      "en": "This, of course, calls into question why she even bothered coming here in the first place if she was just going to shrug it off since...I don’t think plants need to be watered every day.",
+      "zh": ""
+    },
+    {
+      "en": "I’m no botanist, though. So I may very well be completely off the mark with that.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Wakana finishes up providing [[potentially] needed water for her foliage friends and collapses onto the couch seconds later before, you guessed it, once again complaining about how painful it is to be alive.",
+      "zh": ""
+    },
+    {
+      "en": "I join her in an attempt to complain as well only to be berated and told that I don’t understand, which is fair since my life is pretty great.",
+      "zh": ""
+    },
+    {
+      "en": "But, without knowing too much about Wakana, hers seems like it’s not that bad either.",
+      "zh": ""
+    },
+    {
+      "en": "I guess you can never really know for sure, though.",
+      "zh": ""
+    },
+    {
+      "en": "Minutes later, I am told to get lost so Wakana can go tend to something- whatever that means.",
+      "zh": ""
+    },
+    {
+      "en": "I oblige and, before I know it, I’m back outside of the school and looking for something to do.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ wakana_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Wakana’s affection has increased to [wakana_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

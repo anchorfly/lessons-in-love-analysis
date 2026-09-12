@@ -1,70 +1,133 @@
 {
- "label": "makisummer2porngen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I make my way over to the porn shop to find Maki restocking the shelves after some woman came in and purchased nearly her entire inventory of giant rubber penises.",
-   "zh": ""
-  },
-  {
-   "en": "It was probably Sara. That seems like something she would do.",
-   "zh": ""
-  },
-  {
-   "en": "Maki quickly misunderstands my presence in her store as a call to be lectured about the history of sex toys and their evolution over the past hundreds of years- a thing I don’t really care about knowing.",
-   "zh": ""
-  },
-  {
-   "en": "But it is her immense education on the topic that helps me realize where her daughter gets her diligence from.",
-   "zh": ""
-  },
-  {
-   "en": "The only thing is that Makoto’s diligence extends to things beyond sex toys and Maki has now been discussing them for a good fifteen minutes without showing any signs of stopping.",
-   "zh": ""
-  },
-  {
-   "en": "I take it upon myself to remind her that my interest in dildos is very limited, which she misinterprets as a desire to learn more about the history of male sex toys.",
-   "zh": ""
-  },
-  {
-   "en": "I must wait another fifteen minutes for her to stop talking about those until I finally have an opportunity to tell her that I’m just here to hang out and don’t want to be educated.",
-   "zh": ""
-  },
-  {
-   "en": "She’s visibly upset by this but understands and ultimately decides to put down the oversized dildo she’d been waving around for the entire conversation and take her place behind the counter instead.",
-   "zh": ""
-  },
-  {
-   "en": "The rest of the night proceeds with limited mention of penises (Or as limited as that can be with Maki) while the two of us talk more about her background and how she got to where she is today.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, that comes to a screeching halt once she asks about mine.",
-   "zh": ""
-  },
-  {
-   "en": "Two whole hours manage to pass by without either of us noticing and eventually the time comes for me to head back home and inform my niece that I was not murdered.",
-   "zh": ""
-  },
-  {
-   "en": "Maki escorts me to the door and locks up shop in turn, but not before giving me one final (Albeit very brief) history lesson on the origin of the rubber vagina.",
-   "zh": ""
-  },
-  {
-   "en": "Maki’s affection has increased to [maki_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "makisummer2porngen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label makisummer2porngen:",
+      "zh": ""
+    },
+    {
+      "en": "scene makisummer2porngen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makisummer2porngen.webp",
+      "alt": "makisummer2porngen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way over to the porn shop to find Maki restocking the shelves after some woman came in and purchased nearly her entire inventory of giant rubber penises.",
+      "zh": ""
+    },
+    {
+      "en": "It was probably Sara. That seems like something she would do.",
+      "zh": ""
+    },
+    {
+      "en": "Maki quickly misunderstands my presence in her store as a call to be lectured about the history of sex toys and their evolution over the past hundreds of years- a thing I don’t really care about knowing.",
+      "zh": ""
+    },
+    {
+      "en": "But it is her immense education on the topic that helps me realize where her daughter gets her diligence from.",
+      "zh": ""
+    },
+    {
+      "en": "The only thing is that Makoto’s diligence extends to things beyond sex toys and Maki has now been discussing them for a good fifteen minutes without showing any signs of stopping.",
+      "zh": ""
+    },
+    {
+      "en": "I take it upon myself to remind her that my interest in dildos is very limited, which she misinterprets as a desire to learn more about the history of male sex toys.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I must wait another fifteen minutes for her to stop talking about those until I finally have an opportunity to tell her that I’m just here to hang out and don’t want to be educated.",
+      "zh": ""
+    },
+    {
+      "en": "She’s visibly upset by this but understands and ultimately decides to put down the oversized dildo she’d been waving around for the entire conversation and take her place behind the counter instead.",
+      "zh": ""
+    },
+    {
+      "en": "The rest of the night proceeds with limited mention of penises (Or as limited as that can be with Maki) while the two of us talk more about her background and how she got to where she is today.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, that comes to a screeching halt once she asks about mine.",
+      "zh": ""
+    },
+    {
+      "en": "Two whole hours manage to pass by without either of us noticing and eventually the time comes for me to head back home and inform my niece that I was not murdered.",
+      "zh": ""
+    },
+    {
+      "en": "Maki escorts me to the door and locks up shop in turn, but not before giving me one final (Albeit very brief) history lesson on the origin of the rubber vagina.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maki_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maki’s affection has increased to [maki_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

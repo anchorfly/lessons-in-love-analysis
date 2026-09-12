@@ -1,70 +1,133 @@
 {
- "label": "sanaspringbargen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "When I first started coming here, I wasn't really sure what I was doing apart from the scattered yet frequent desires to fuck a small girl who has had trouble speaking.",
-   "zh": ""
-  },
-  {
-   "en": "Now, I know exactly why I take up residence on the very stool I speak to you from. I am here to forget.",
-   "zh": ""
-  },
-  {
-   "en": "It's not a unique reason by any means. In fact, I imagine it's the same reason this girl and her mother remain so dedicated to the business despite its shortcomings.",
-   "zh": ""
-  },
-  {
-   "en": "All of us lost someone. But it's that lingering carrot-on-a-stick that maybe mine will come back that makes things even worse.",
-   "zh": ""
-  },
-  {
-   "en": "This bar and this girl are welcome distractions. The music is soothing, the atmosphere is comforting, and the alcohol is numbing.",
-   "zh": ""
-  },
-  {
-   "en": "And it's even better that it's served up by someone who needs wants me.",
-   "zh": ""
-  },
-  {
-   "en": "I used to wonder what type of person this girl would become, but I seldom imagined what I could turn her into.",
-   "zh": ""
-  },
-  {
-   "en": "Now, that's the first thing I think of when I look into her eyes.",
-   "zh": ""
-  },
-  {
-   "en": "She lets me see both of them now- like she wants me to take in more of her so that she can, in turn, fill herself with me.",
-   "zh": ""
-  },
-  {
-   "en": "I want to know the way her brain moves.",
-   "zh": ""
-  },
-  {
-   "en": "I want to know the way her blood flows.",
-   "zh": ""
-  },
-  {
-   "en": "I want to stain the sheets in her bedroom.",
-   "zh": ""
-  },
-  {
-   "en": "Sana’s affection has increased to [sana_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "sanaspringbargen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sanaspringbargen:",
+      "zh": ""
+    },
+    {
+      "en": "scene sanaspringbargen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sanaspringbargen.webp",
+      "alt": "sanaspringbargen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "When I first started coming here, I wasn't really sure what I was doing apart from the scattered yet frequent desires to fuck a small girl who has had trouble speaking.",
+      "zh": ""
+    },
+    {
+      "en": "Now, I know exactly why I take up residence on the very stool I speak to you from. I am here to forget.",
+      "zh": ""
+    },
+    {
+      "en": "It's not a unique reason by any means. In fact, I imagine it's the same reason this girl and her mother remain so dedicated to the business despite its shortcomings.",
+      "zh": ""
+    },
+    {
+      "en": "All of us lost someone. But it's that lingering carrot-on-a-stick that maybe mine will come back that makes things even worse.",
+      "zh": ""
+    },
+    {
+      "en": "This bar and this girl are welcome distractions. The music is soothing, the atmosphere is comforting, and the alcohol is numbing.",
+      "zh": ""
+    },
+    {
+      "en": "And it's even better that it's served up by someone who needs wants me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I used to wonder what type of person this girl would become, but I seldom imagined what I could turn her into.",
+      "zh": ""
+    },
+    {
+      "en": "Now, that's the first thing I think of when I look into her eyes.",
+      "zh": ""
+    },
+    {
+      "en": "She lets me see both of them now- like she wants me to take in more of her so that she can, in turn, fill herself with me.",
+      "zh": ""
+    },
+    {
+      "en": "I want to know the way her brain moves.",
+      "zh": ""
+    },
+    {
+      "en": "I want to know the way her blood flows.",
+      "zh": ""
+    },
+    {
+      "en": "I want to stain the sheets in her bedroom.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sana_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana’s affection has increased to [sana_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

@@ -1,678 +1,1188 @@
 {
- "label": "day102",
- "title_zh": "",
- "lines": [
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Let me tell you a story.",
-   "zh": ""
-  },
-  {
-   "en": "A long time ago, before you and I existed, there was a great, big ball of light floating through the universe.",
-   "zh": ""
-  },
-  {
-   "en": "Let’s call him Nozomu.",
-   "zh": ""
-  },
-  {
-   "en": "Will you be able to remember that?",
-   "zh": ""
-  },
-  {
-   "en": "Well, not like it matters even if you don’t.",
-   "zh": ""
-  },
-  {
-   "en": "But let me get on with the story.",
-   "zh": ""
-  },
-  {
-   "en": "Nozomu drifted from place to place in search of anyone or anything.",
-   "zh": ""
-  },
-  {
-   "en": "But he found nothing.",
-   "zh": ""
-  },
-  {
-   "en": "He was a lonely ball of light.",
-   "zh": ""
-  },
-  {
-   "en": "In fact, he couldn’t even see his own aura since there were no structures for the light to bounce off of.",
-   "zh": ""
-  },
-  {
-   "en": "But anyway-",
-   "zh": ""
-  },
-  {
-   "en": "One day, Nozomu learned how to open his mouth.",
-   "zh": ""
-  },
-  {
-   "en": "He practiced speaking in the only way he could-",
-   "zh": ""
-  },
-  {
-   "en": "He would scream.",
-   "zh": ""
-  },
-  {
-   "en": "He’d scream so loud that, if anyone did exist, they’d likely tear their ears off in protest.",
-   "zh": ""
-  },
-  {
-   "en": "Kind of like that one guy, umm...",
-   "zh": ""
-  },
-  {
-   "en": "What was his name again?",
-   "zh": ""
-  },
-  {
-   "en": "Van Gogh",
-   "zh": ""
-  },
-  {
-   "en": "Right! Van Gogh! That was the guy.",
-   "zh": ""
-  },
-  {
-   "en": "Picasso",
-   "zh": ""
-  },
-  {
-   "en": "Hmm...No, that’s not it. I think it was some other guy. Try again.",
-   "zh": ""
-  },
-  {
-   "en": "Dali",
-   "zh": ""
-  },
-  {
-   "en": "Hmm...No. It’s not Dali. Maybe someone else?",
-   "zh": ""
-  },
-  {
-   "en": "Well anyway, in the midst of his screaming, Nozomu learned he had a secret power.",
-   "zh": ""
-  },
-  {
-   "en": "This power, which is still coveted by many to this day, would let him create objects out of thin air.",
-   "zh": ""
-  },
-  {
-   "en": "And so, logically, his first invention was a fleshlight.",
-   "zh": ""
-  },
-  {
-   "en": "Nozomu would fuck the fleshy object with his giant light-penis from dusk 'til dawn until he had no energy left in his body.",
-   "zh": ""
-  },
-  {
-   "en": "But one day, after fucking the fleshlight for the 6,425,873,826th time, he had a thought.",
-   "zh": ""
-  },
-  {
-   "en": "It was a wonderful thought.",
-   "zh": ""
-  },
-  {
-   "en": "He thought-",
-   "zh": ""
-  },
-  {
-   "en": "What if someone else existed?",
-   "zh": ""
-  },
-  {
-   "en": "And that’s when you and I were born.",
-   "zh": ""
-  },
-  {
-   "en": "Well, not right then, but some time after.",
-   "zh": ""
-  },
-  {
-   "en": "In fact, billions and billions of people were born between then and now.",
-   "zh": ""
-  },
-  {
-   "en": "Nozomu used his secret power to create humans, so he could fuck them instead of the fleshlight.",
-   "zh": ""
-  },
-  {
-   "en": "That’s when the humans learned that they could also fuck each other.",
-   "zh": ""
-  },
-  {
-   "en": "And so, in this new world where everyone fucked everyone else, some rules needed to be put in place.",
-   "zh": ""
-  },
-  {
-   "en": "And that’s when Nozomu stepped in once again.",
-   "zh": ""
-  },
-  {
-   "en": "So, in his strange light-voice he shouted to all of his children-",
-   "zh": ""
-  },
-  {
-   "en": "Thou shalt not fuck each other anymore!",
-   "zh": ""
-  },
-  {
-   "en": "But language wasn’t invented yet, so no one understood him.",
-   "zh": ""
-  },
-  {
-   "en": "So Nozomu created language- and people understood him this time.",
-   "zh": ""
-  },
-  {
-   "en": "But they didn’t want to listen.",
-   "zh": ""
-  },
-  {
-   "en": "So they started making their own languages and writing their own rules of who it was okay to fuck and when.",
-   "zh": ""
-  },
-  {
-   "en": "But why didn’t those people listen to Nozomu? Especially after he gifted them with the ability of free thought and lust?",
-   "zh": ""
-  },
-  {
-   "en": "Well, that’s because all creatures are inherently curious.",
-   "zh": ""
-  },
-  {
-   "en": "And that goes for you and I as well, of course.",
-   "zh": ""
-  },
-  {
-   "en": "For example, when was it you first learned to touch yourself?",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "The good old days, right? When we were still trying to make sense of everything.",
-   "zh": ""
-  },
-  {
-   "en": "But now we’re getting older. And it feels like we’re approaching death so quickly that we may not even live to see our children's seventh birthday.",
-   "zh": ""
-  },
-  {
-   "en": "Life is a horrible thing.",
-   "zh": ""
-  },
-  {
-   "en": "And we owe it all to Nozomu.",
-   "zh": ""
-  },
-  {
-   "en": "Because, you see, that horny light creature is actually who we call God now.",
-   "zh": ""
-  },
-  {
-   "en": "And the only reason we’re here today is because God got bored of fucking the same fleshlight over and over again.",
-   "zh": ""
-  },
-  {
-   "en": "It’s a true story. Ask your history professor.",
-   "zh": ""
-  },
-  {
-   "en": "So, now that you know the origin of the universe, you’re free to believe pretty much whatever you want.",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "What’s that?",
-   "zh": ""
-  },
-  {
-   "en": "You’re tired of staring at this black screen?",
-   "zh": ""
-  },
-  {
-   "en": "Well, don’t blame me.",
-   "zh": ""
-  },
-  {
-   "en": "Blame the light that abandoned all of us.",
-   "zh": ""
-  },
-  {
-   "en": "God is dead.",
-   "zh": ""
-  },
-  {
-   "en": "And he will never be back.",
-   "zh": ""
-  },
-  {
-   "en": "So it is up to you and I to write a new world.",
-   "zh": ""
-  },
-  {
-   "en": "A beautiful world.",
-   "zh": ""
-  },
-  {
-   "en": "A world where our thoughts never reach the point of no return-",
-   "zh": ""
-  },
-  {
-   "en": "Where death isn’t an idea that crosses our minds each time we see a childhood memento.",
-   "zh": ""
-  },
-  {
-   "en": "A world where we know that we’ll live to see our childrens’ seventh birthdays.",
-   "zh": ""
-  },
-  {
-   "en": "A world with just us.",
-   "zh": ""
-  },
-  {
-   "en": "Come.",
-   "zh": ""
-  },
-  {
-   "en": "Rewrite it all with me.",
-   "zh": ""
-  },
-  {
-   "en": "We will fix this world together.",
-   "zh": ""
-  },
-  {
-   "en": "Just you and me.",
-   "zh": ""
-  },
-  {
-   "en": "The way it’s always been.",
-   "zh": ""
-  },
-  {
-   "en": "The way it always will be.",
-   "zh": ""
-  },
-  {
-   "en": "I love you so much.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Mh...",
-   "zh": ""
-  },
-  {
-   "en": "I feel the sun beat down on my chest as it bleeds through the blinds in my room.",
-   "zh": ""
-  },
-  {
-   "en": "The world comes into view once again.",
-   "zh": ""
-  },
-  {
-   "en": "Go somewhere",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go?",
-   "zh": ""
-  },
-  {
-   "en": "Koi Cafe",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the cafe.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go now?",
-   "zh": ""
-  },
-  {
-   "en": "Library",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the library.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go now?",
-   "zh": ""
-  },
-  {
-   "en": "Soccer field",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the soccer field.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go now?",
-   "zh": ""
-  },
-  {
-   "en": "Ami's Room",
-   "zh": ""
-  },
-  {
-   "en": "I walk into Ami's room.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go now?",
-   "zh": ""
-  },
-  {
-   "en": "School",
-   "zh": ""
-  },
-  {
-   "en": "Call someone",
-   "zh": ""
-  },
-  {
-   "en": "The world is broken.",
-   "zh": ""
-  },
-  {
-   "en": "Go somewhere",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go?",
-   "zh": ""
-  },
-  {
-   "en": "Streets",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the city streets.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go now?",
-   "zh": ""
-  },
-  {
-   "en": "Shopping Mall",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the shopping mall.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go now?",
-   "zh": ""
-  },
-  {
-   "en": "Shrine",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the shrine.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "I decide to pray.",
-   "zh": ""
-  },
-  {
-   "en": "Your affection with GOD has increased to [god_love]!",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go now?",
-   "zh": ""
-  },
-  {
-   "en": "Dojo",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the dojo.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go now?",
-   "zh": ""
-  },
-  {
-   "en": "Call someone",
-   "zh": ""
-  },
-  {
-   "en": "The world is broken.",
-   "zh": ""
-  },
-  {
-   "en": "Go somewhere",
-   "zh": ""
-  },
-  {
-   "en": "Where should I go?",
-   "zh": ""
-  },
-  {
-   "en": "Bar",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the bar.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "I guess I'll go home.",
-   "zh": ""
-  },
-  {
-   "en": "Porn Shop",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the pornshop.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "I guess I'll go home.",
-   "zh": ""
-  },
-  {
-   "en": "School Dorms",
-   "zh": ""
-  },
-  {
-   "en": "I arrive at the dorms.",
-   "zh": ""
-  },
-  {
-   "en": "No one is there.",
-   "zh": ""
-  },
-  {
-   "en": "Time passes.",
-   "zh": ""
-  },
-  {
-   "en": "I guess I'll go home.",
-   "zh": ""
-  },
-  {
-   "en": "Call someone",
-   "zh": ""
-  },
-  {
-   "en": "The world is broken.",
-   "zh": ""
-  },
-  {
-   "en": ": I open the door and immediately collapse onto the bed.",
-   "zh": ""
-  },
-  {
-   "en": ": Being around [teenager]s is exhausting Today was certainly an eventful day.",
-   "zh": ""
-  },
-  {
-   "en": ": Time to go to sleep.",
-   "zh": ""
-  },
-  {
-   "en": "The darkness overtakes me.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "ERROR ADVANCING TO MONDAY",
-   "zh": ""
-  },
-  {
-   "en": "ERROR ADVANCING TO TUESDAY",
-   "zh": ""
-  },
-  {
-   "en": "ERROR ADVANCING TO WEDNESDAY",
-   "zh": ""
-  },
-  {
-   "en": "ERROR ADVANCING TO THURSDAY",
-   "zh": ""
-  },
-  {
-   "en": "ERROR ADVANCING TO FRIDAY",
-   "zh": ""
-  },
-  {
-   "en": "ERROR ADVANCING TO SUNDAY",
-   "zh": ""
-  }
- ]
+  "label": "day102",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day102:",
+      "zh": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Let me tell you a story.",
+      "zh": ""
+    },
+    {
+      "en": "A long time ago, before you and I existed, there was a great, big ball of light floating through the universe.",
+      "zh": ""
+    },
+    {
+      "en": "Let’s call him Nozomu.",
+      "zh": ""
+    },
+    {
+      "en": "Will you be able to remember that?",
+      "zh": ""
+    },
+    {
+      "en": "Well, not like it matters even if you don’t.",
+      "zh": ""
+    },
+    {
+      "en": "But let me get on with the story.",
+      "zh": ""
+    },
+    {
+      "en": "Nozomu drifted from place to place in search of anyone or anything.",
+      "zh": ""
+    },
+    {
+      "en": "But he found nothing.",
+      "zh": ""
+    },
+    {
+      "en": "He was a lonely ball of light.",
+      "zh": ""
+    },
+    {
+      "en": "In fact, he couldn’t even see his own aura since there were no structures for the light to bounce off of.",
+      "zh": ""
+    },
+    {
+      "en": "But anyway-",
+      "zh": ""
+    },
+    {
+      "en": "One day, Nozomu learned how to open his mouth.",
+      "zh": ""
+    },
+    {
+      "en": "He practiced speaking in the only way he could-",
+      "zh": ""
+    },
+    {
+      "en": "He would scream.",
+      "zh": ""
+    },
+    {
+      "en": "He’d scream so loud that, if anyone did exist, they’d likely tear their ears off in protest.",
+      "zh": ""
+    },
+    {
+      "en": "Kind of like that one guy, umm...",
+      "zh": ""
+    },
+    {
+      "en": "What was his name again?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label chooseyourartist:",
+      "zh": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Van Gogh",
+      "zh": ""
+    },
+    {
+      "en": "Right! Van Gogh! That was the guy.",
+      "zh": ""
+    },
+    {
+      "en": "jump correctartist",
+      "zh": ""
+    },
+    {
+      "en": "Picasso",
+      "zh": ""
+    },
+    {
+      "en": "Hmm...No, that’s not it. I think it was some other guy. Try again.",
+      "zh": ""
+    },
+    {
+      "en": "jump chooseyourartist",
+      "zh": ""
+    },
+    {
+      "en": "Dali",
+      "zh": ""
+    },
+    {
+      "en": "Hmm...No. It’s not Dali. Maybe someone else?",
+      "zh": ""
+    },
+    {
+      "en": "jump chooseyourartist",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label correctartist:",
+      "zh": ""
+    },
+    {
+      "en": "Well anyway, in the midst of his screaming, Nozomu learned he had a secret power.",
+      "zh": ""
+    },
+    {
+      "en": "This power, which is still coveted by many to this day, would let him create objects out of thin air.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And so, logically, his first invention was a fleshlight.",
+      "zh": ""
+    },
+    {
+      "en": "Nozomu would fuck the fleshy object with his giant light-penis from dusk 'til dawn until he had no energy left in his body.",
+      "zh": ""
+    },
+    {
+      "en": "But one day, after fucking the fleshlight for the 6,425,873,826th time, he had a thought.",
+      "zh": ""
+    },
+    {
+      "en": "It was a wonderful thought.",
+      "zh": ""
+    },
+    {
+      "en": "He thought-",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "What if someone else existed?",
+      "zh": ""
+    },
+    {
+      "en": "And that’s when you and I were born.",
+      "zh": ""
+    },
+    {
+      "en": "Well, not right then, but some time after.",
+      "zh": ""
+    },
+    {
+      "en": "In fact, billions and billions of people were born between then and now.",
+      "zh": ""
+    },
+    {
+      "en": "Nozomu used his secret power to create humans, so he could fuck them instead of the fleshlight.",
+      "zh": ""
+    },
+    {
+      "en": "That’s when the humans learned that they could also fuck each other.",
+      "zh": ""
+    },
+    {
+      "en": "And so, in this new world where everyone fucked everyone else, some rules needed to be put in place.",
+      "zh": ""
+    },
+    {
+      "en": "And that’s when Nozomu stepped in once again.",
+      "zh": ""
+    },
+    {
+      "en": "So, in his strange light-voice he shouted to all of his children-",
+      "zh": ""
+    },
+    {
+      "en": "Thou shalt not fuck each other anymore!",
+      "zh": ""
+    },
+    {
+      "en": "But language wasn’t invented yet, so no one understood him.",
+      "zh": ""
+    },
+    {
+      "en": "So Nozomu created language- and people understood him this time.",
+      "zh": ""
+    },
+    {
+      "en": "But they didn’t want to listen.",
+      "zh": ""
+    },
+    {
+      "en": "So they started making their own languages and writing their own rules of who it was okay to fuck and when.",
+      "zh": ""
+    },
+    {
+      "en": "But why didn’t those people listen to Nozomu? Especially after he gifted them with the ability of free thought and lust?",
+      "zh": ""
+    },
+    {
+      "en": "Well, that’s because all creatures are inherently curious.",
+      "zh": ""
+    },
+    {
+      "en": "And that goes for you and I as well, of course.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "For example, when was it you first learned to touch yourself?",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "The good old days, right? When we were still trying to make sense of everything.",
+      "zh": ""
+    },
+    {
+      "en": "But now we’re getting older. And it feels like we’re approaching death so quickly that we may not even live to see our children's seventh birthday.",
+      "zh": ""
+    },
+    {
+      "en": "Life is a horrible thing.",
+      "zh": ""
+    },
+    {
+      "en": "And we owe it all to Nozomu.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Because, you see, that horny light creature is actually who we call God now.",
+      "zh": ""
+    },
+    {
+      "en": "And the only reason we’re here today is because God got bored of fucking the same fleshlight over and over again.",
+      "zh": ""
+    },
+    {
+      "en": "It’s a true story. Ask your history professor.",
+      "zh": ""
+    },
+    {
+      "en": "So, now that you know the origin of the universe, you’re free to believe pretty much whatever you want.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "What’s that?",
+      "zh": ""
+    },
+    {
+      "en": "You’re tired of staring at this black screen?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Well, don’t blame me.",
+      "zh": ""
+    },
+    {
+      "en": "Blame the light that abandoned all of us.",
+      "zh": ""
+    },
+    {
+      "en": "God is dead.",
+      "zh": ""
+    },
+    {
+      "en": "And he will never be back.",
+      "zh": ""
+    },
+    {
+      "en": "So it is up to you and I to write a new world.",
+      "zh": ""
+    },
+    {
+      "en": "A beautiful world.",
+      "zh": ""
+    },
+    {
+      "en": "A world where our thoughts never reach the point of no return-",
+      "zh": ""
+    },
+    {
+      "en": "Where death isn’t an idea that crosses our minds each time we see a childhood memento.",
+      "zh": ""
+    },
+    {
+      "en": "A world where we know that we’ll live to see our childrens’ seventh birthdays.",
+      "zh": ""
+    },
+    {
+      "en": "A world with just us.",
+      "zh": ""
+    },
+    {
+      "en": "Come.",
+      "zh": ""
+    },
+    {
+      "en": "Rewrite it all with me.",
+      "zh": ""
+    },
+    {
+      "en": "We will fix this world together.",
+      "zh": ""
+    },
+    {
+      "en": "Just you and me.",
+      "zh": ""
+    },
+    {
+      "en": "The way it’s always been.",
+      "zh": ""
+    },
+    {
+      "en": "The way it always will be.",
+      "zh": ""
+    },
+    {
+      "en": "I love you so much.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label mayadreamhj:",
+      "zh": ""
+    },
+    {
+      "en": ": Mh...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I feel the sun beat down on my chest as it bleeds through the blinds in my room.",
+      "zh": ""
+    },
+    {
+      "en": "The world comes into view once again.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump mayayayx",
+      "zh": ""
+    },
+    {
+      "en": "label happyloop1:",
+      "zh": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Go somewhere",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go?",
+      "zh": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Koi Cafe",
+      "zh": ""
+    },
+    {
+      "en": "scene cafe_day",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/cafe_day.png",
+      "alt": "cafe_day"
+    },
+    {
+      "en": "I arrive at the cafe.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go now?",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop2",
+      "zh": ""
+    },
+    {
+      "en": "Library",
+      "zh": ""
+    },
+    {
+      "en": "scene library",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/library.png",
+      "alt": "library"
+    },
+    {
+      "en": "I arrive at the library.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go now?",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop2",
+      "zh": ""
+    },
+    {
+      "en": "Soccer field",
+      "zh": ""
+    },
+    {
+      "en": "if connecttrack == False and soccer10 == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump everythingisconnected",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene soccerfield",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/soccerfield.png",
+      "alt": "soccerfield"
+    },
+    {
+      "en": "I arrive at the soccer field.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go now?",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop2",
+      "zh": ""
+    },
+    {
+      "en": "Ami's Room",
+      "zh": ""
+    },
+    {
+      "en": "scene amiroom_day",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/amiroom_day.png",
+      "alt": "amiroom_day"
+    },
+    {
+      "en": "I walk into Ami's room.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go now?",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop2",
+      "zh": ""
+    },
+    {
+      "en": "School",
+      "zh": ""
+    },
+    {
+      "en": "jump day103",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Call someone",
+      "zh": ""
+    },
+    {
+      "en": "The world is broken.",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label happyloop2:",
+      "zh": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Go somewhere",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go?",
+      "zh": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Streets",
+      "zh": ""
+    },
+    {
+      "en": "scene citystreets",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/citystreets.png",
+      "alt": "citystreets"
+    },
+    {
+      "en": "I arrive at the city streets.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go now?",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop3",
+      "zh": ""
+    },
+    {
+      "en": "Shopping Mall",
+      "zh": ""
+    },
+    {
+      "en": "scene mall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/Mall1.png",
+      "alt": "mall1"
+    },
+    {
+      "en": "I arrive at the shopping mall.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go now?",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop3",
+      "zh": ""
+    },
+    {
+      "en": "Shrine",
+      "zh": ""
+    },
+    {
+      "en": "scene shrine_noon",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/shrine_noon.png",
+      "alt": "shrine_noon"
+    },
+    {
+      "en": "I arrive at the shrine.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "I decide to pray.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ god_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Your affection with GOD has increased to [god_love]!",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go now?",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop3",
+      "zh": ""
+    },
+    {
+      "en": "Dojo",
+      "zh": ""
+    },
+    {
+      "en": "scene dojo",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/Dojo.png",
+      "alt": "dojo"
+    },
+    {
+      "en": "I arrive at the dojo.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go now?",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop3",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Call someone",
+      "zh": ""
+    },
+    {
+      "en": "The world is broken.",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label happyloop3:",
+      "zh": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Go somewhere",
+      "zh": ""
+    },
+    {
+      "en": "Where should I go?",
+      "zh": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Bar",
+      "zh": ""
+    },
+    {
+      "en": "scene barnight",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/barnight.png",
+      "alt": "barnight"
+    },
+    {
+      "en": "I arrive at the bar.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "I guess I'll go home.",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop4",
+      "zh": ""
+    },
+    {
+      "en": "Porn Shop",
+      "zh": ""
+    },
+    {
+      "en": "scene pornshop",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/pornshop.png",
+      "alt": "pornshop"
+    },
+    {
+      "en": "I arrive at the pornshop.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "I guess I'll go home.",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop4",
+      "zh": ""
+    },
+    {
+      "en": "School Dorms",
+      "zh": ""
+    },
+    {
+      "en": "scene dorm",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/dorm.webp",
+      "alt": "dorm"
+    },
+    {
+      "en": "I arrive at the dorms.",
+      "zh": ""
+    },
+    {
+      "en": "No one is there.",
+      "zh": ""
+    },
+    {
+      "en": "Time passes.",
+      "zh": ""
+    },
+    {
+      "en": "I guess I'll go home.",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop4",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Call someone",
+      "zh": ""
+    },
+    {
+      "en": "The world is broken.",
+      "zh": ""
+    },
+    {
+      "en": "jump happyloop3",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label happyloop4:",
+      "zh": ""
+    },
+    {
+      "en": "scene bedroom_night",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/bedroom_night.png",
+      "alt": "bedroom_night"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I open the door and immediately collapse onto the bed.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Being around [teenager]s is exhausting Today was certainly an eventful day.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Time to go to sleep.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The darkness overtakes me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label ladvancetomon:",
+      "zh": ""
+    },
+    {
+      "en": "$ totaldays += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day -= 6",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "ERROR ADVANCING TO MONDAY",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label ladvancetotues:",
+      "zh": ""
+    },
+    {
+      "en": "$ totaldays += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day += 1",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "ERROR ADVANCING TO TUESDAY",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label ladvancetowed:",
+      "zh": ""
+    },
+    {
+      "en": "$ totaldays += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day += 1",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "ERROR ADVANCING TO WEDNESDAY",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label ladvancetothurs:",
+      "zh": ""
+    },
+    {
+      "en": "$ totaldays += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day += 1",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "ERROR ADVANCING TO THURSDAY",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label ladvancetofri:",
+      "zh": ""
+    },
+    {
+      "en": "$ totaldays += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day += 1",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "ERROR ADVANCING TO FRIDAY",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label ladvancetosat:",
+      "zh": ""
+    },
+    {
+      "en": "$ totaldays += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day += 1",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump anotherhappyday",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label ladvancetosun:",
+      "zh": ""
+    },
+    {
+      "en": "$ totaldays += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day += 1",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "ERROR ADVANCING TO SUNDAY",
+      "zh": ""
+    }
+  ]
 }

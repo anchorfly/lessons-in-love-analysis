@@ -1,58 +1,109 @@
 {
- "label": "rinspringcafegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I head over to the cafe to do the same thing I always do in gulping down whatever is placed in front of me. Just now I'm subconsciously hoping it's laced with cyanide.",
-   "zh": ""
-  },
-  {
-   "en": "It won't be, of course. Rin still likes me for reasons beyond my comprehension.",
-   "zh": ""
-  },
-  {
-   "en": "But if I had to take a guess as to why, it's probably because I'm the only other flesh golem in all of Kumon-mi who likes girls as much as she does.",
-   "zh": ""
-  },
-  {
-   "en": "And if it weren't for these cancerous feelings that make me want to prevent her from becoming as jaded and lost as I am, I'd probably serve as her guide in that area of impractical love.",
-   "zh": ""
-  },
-  {
-   "en": "I’m glad that she's single again. And I'm glad that she's been learning to gradually move on as of late.",
-   "zh": ""
-  },
-  {
-   "en": "But I can’t help but wish she'd be smart enough to leave me out of it.",
-   "zh": ""
-  },
-  {
-   "en": "A flood of customers all decide to caffeinate at the same time and I seize the opportunity to leave before I get wrapped up in any of it.",
-   "zh": ""
-  },
-  {
-   "en": "Rin notices me leaving and stops what she’s doing to say goodbye.",
-   "zh": ""
-  },
-  {
-   "en": "I pretend I don't hear her and walk back out of the cafe and into the street without checking for cars.",
-   "zh": ""
-  },
-  {
-   "en": "Rin’s affection has increased to [rin_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "rinspringcafegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label rinspringcafegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene rinspringcafegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/rinspringcafegen.webp",
+      "alt": "rinspringcafegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head over to the cafe to do the same thing I always do in gulping down whatever is placed in front of me. Just now I'm subconsciously hoping it's laced with cyanide.",
+      "zh": ""
+    },
+    {
+      "en": "It won't be, of course. Rin still likes me for reasons beyond my comprehension.",
+      "zh": ""
+    },
+    {
+      "en": "But if I had to take a guess as to why, it's probably because I'm the only other flesh golem in all of Kumon-mi who likes girls as much as she does.",
+      "zh": ""
+    },
+    {
+      "en": "And if it weren't for these cancerous feelings that make me want to prevent her from becoming as jaded and lost as I am, I'd probably serve as her guide in that area of impractical love.",
+      "zh": ""
+    },
+    {
+      "en": "I’m glad that she's single again. And I'm glad that she's been learning to gradually move on as of late.",
+      "zh": ""
+    },
+    {
+      "en": "But I can’t help but wish she'd be smart enough to leave me out of it.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A flood of customers all decide to caffeinate at the same time and I seize the opportunity to leave before I get wrapped up in any of it.",
+      "zh": ""
+    },
+    {
+      "en": "Rin notices me leaving and stops what she’s doing to say goodbye.",
+      "zh": ""
+    },
+    {
+      "en": "I pretend I don't hear her and walk back out of the cafe and into the street without checking for cars.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ rin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Rin’s affection has increased to [rin_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump noonch4",
+      "zh": ""
+    }
+  ]
 }

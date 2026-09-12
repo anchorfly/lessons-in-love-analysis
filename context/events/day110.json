@@ -1,786 +1,1592 @@
 {
- "label": "day110",
- "title_zh": "",
- "lines": [
-  {
-   "en": "There are several things in life I have accepted that I will never understand.",
-   "zh": ""
-  },
-  {
-   "en": "The first, the last, and the most damning of all of them is the fact that we have two lives- not just one.",
-   "zh": ""
-  },
-  {
-   "en": "The first life is what comes prior to adulthood- and how that extremely brief period of time is somehow more important than everything that comes after it.",
-   "zh": ""
-  },
-  {
-   "en": "So, why is it that smaller of two lives is the one that, for the most part, determines how the second life plays out?",
-   "zh": ""
-  },
-  {
-   "en": "Why do we allow ourselves to be manipulated by the people and things that surround us so frequently in the beginning, yet never at all after finally experiencing it?",
-   "zh": ""
-  },
-  {
-   "en": "The first life is the one we idealize- where that manipulation is something we wrap around ourselves like a scarf to protect us from the cold which, in this case, is all that we're unfamiliar with.",
-   "zh": ""
-  },
-  {
-   "en": "But it isn't until the second life where we discover that we like the cold and discard the scarf entirely, only to regret the decision thereafter because the feel of the fabric was comforting.",
-   "zh": ""
-  },
-  {
-   "en": "By the second life, we have become so resistant to manipulation that we no longer allow others to change us and, instead, are forced into a state of being where we must manipulate ourselves.",
-   "zh": ""
-  },
-  {
-   "en": "For if we didn't, we'd be stuck perpetually remembering our first lives.",
-   "zh": ""
-  },
-  {
-   "en": "We'd be stuck wishing to trade away the longer portion for another set of firsts and the opportunity to soften our skin.",
-   "zh": ""
-  },
-  {
-   "en": "Resistance is only a strength when we want it to be.",
-   "zh": ""
-  },
-  {
-   "en": "The rest of the time, it is a reminder that half of our humanity faded away the second we grew up.",
-   "zh": ""
-  },
-  {
-   "en": "So...what is left to do now?",
-   "zh": ""
-  },
-  {
-   "en": "What is left to do knowing that we can't go back and that we must fall into place and only look back on the happier days as a means of coping?",
-   "zh": ""
-  },
-  {
-   "en": "The answer to that is simple, for it's the same for everyone.",
-   "zh": ""
-  },
-  {
-   "en": "You find a job.",
-   "zh": ""
-  },
-  {
-   "en": "You find a partner (Preferably one who swallows.)",
-   "zh": ""
-  },
-  {
-   "en": "You start a family.",
-   "zh": ""
-  },
-  {
-   "en": "You die.",
-   "zh": ""
-  },
-  {
-   "en": "The worst part of all of that, though, is that you wind up having to train yourself for that final step for the entirety of your second life.",
-   "zh": ""
-  },
-  {
-   "en": "There are no firsts left at this point anymore-",
-   "zh": ""
-  },
-  {
-   "en": "Just a series of events that you’re forced to assign meaning to so you won’t be as terrified when you're dying alone in a hospital bed somewhere.",
-   "zh": ""
-  },
-  {
-   "en": "Praise be.",
-   "zh": ""
-  },
-  {
-   "en": "Praise the God god who wanted us to live these tragic, hopeless lives.",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "A song plays in the back of my head.",
-   "zh": ""
-  },
-  {
-   "en": "It’s a song that reminds me of cursed birds and familiar sins.",
-   "zh": ""
-  },
-  {
-   "en": "But it’s a song filled with hope.",
-   "zh": ""
-  },
-  {
-   "en": "A song of death and a song of life.",
-   "zh": ""
-  },
-  {
-   "en": "One song for everyone.",
-   "zh": ""
-  },
-  {
-   "en": "A final melody as the darkness closes in.",
-   "zh": ""
-  },
-  {
-   "en": ": [amimaster], are you awake in there?",
-   "zh": ""
-  },
-  {
-   "en": ": Huh?",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, uhh...",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah.",
-   "zh": ""
-  },
-  {
-   "en": ": Sorry about that.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Morning!",
-   "zh": ""
-  },
-  {
-   "en": ": Good morning.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey...good morning. I didn’t sleep late, did I?",
-   "zh": ""
-  },
-  {
-   "en": ": Not really, but I felt like you probably would have if I didn't come wake you up.",
-   "zh": ""
-  },
-  {
-   "en": ": You feeling okay? You look a little out of it.",
-   "zh": ""
-  },
-  {
-   "en": ": I can make you coffee if-",
-   "zh": ""
-  },
-  {
-   "en": ": I'm fine. Just...feeling a little zoned out, I guess.",
-   "zh": ""
-  },
-  {
-   "en": ": Zoned out? You’re not getting sick, are you?",
-   "zh": ""
-  },
-  {
-   "en": ": Should we maybe stay home today?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t think it’s anything that serious. Probably just a...lack of sleep or something.",
-   "zh": ""
-  },
-  {
-   "en": ": Huh. Didn't you say the same thing this morning, Maya?",
-   "zh": ""
-  },
-  {
-   "en": ": That sounds possible. But, then again, I believe that any amount of sleep less than twelve hours is a lack and I seldom actually get that much.",
-   "zh": ""
-  },
-  {
-   "en": ": That sounds like a medical issue or something. You should get that checked out.",
-   "zh": ""
-  },
-  {
-   "en": ": Complaining about being tired in the morning is normal human nature. And I refuse to get help for simply being human.",
-   "zh": ""
-  },
-  {
-   "en": ": Just say you're fine next time...jeez.",
-   "zh": ""
-  },
-  {
-   "en": ": Come to think of it, what is Maya doing here so early anyway? She doesn’t normally meet us at the house.",
-   "zh": ""
-  },
-  {
-   "en": ": Have you given up on asking me things directly? You need to go through Ami now?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t think I’ve ever had a positive experience when it comes to communicating with you before lunch time, so yes. I am going to go through Ami.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s understandable. But to add to that, I haven’t ever had a good experience talking to you in general.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, come on. There's had to be at least one.",
-   "zh": ""
-  },
-  {
-   "en": ": Not that I can think of.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Ami’s eyes bounce back and forth between Maya and me.",
-   "zh": ""
-  },
-  {
-   "en": "I can’t blame her for not knowing how to deal with the dynamic between the two of us, especially this early in the morning.",
-   "zh": ""
-  },
-  {
-   "en": "Hell, I don’t even understand the dynamic between us right now and we kind of...saw the end of the world together?",
-   "zh": ""
-  },
-  {
-   "en": "Still not quite sure what happened there, but I’m glad it’s over.",
-   "zh": ""
-  },
-  {
-   "en": ": Did something happen between you two?",
-   "zh": ""
-  },
-  {
-   "en": ": Hm? What?",
-   "zh": ""
-  },
-  {
-   "en": ": You guys just seem...a little different somehow. Like, I can still feel the hate, but now it’s more like a comfortable hate rather than an...uncomfortable hate.",
-   "zh": ""
-  },
-  {
-   "en": ": Does that make sense?",
-   "zh": ""
-  },
-  {
-   "en": ": No.",
-   "zh": ""
-  },
-  {
-   "en": ": I have literally no idea what that is supposed to mean.",
-   "zh": ""
-  },
-  {
-   "en": ": Maya reset the world for me.",
-   "zh": ""
-  },
-  {
-   "en": ": Ah...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": What the heck is that supposed to mean?",
-   "zh": ""
-  },
-  {
-   "en": ": Hah...",
-   "zh": ""
-  },
-  {
-   "en": "Yeah, that’s pretty much the reaction I was expecting.",
-   "zh": ""
-  },
-  {
-   "en": "It was pretty easy to tell that Ami had no idea what happened the second everything restarted.",
-   "zh": ""
-  },
-  {
-   "en": "Granted, it took me around half an hour to realize it as well...and I knew it was coming.",
-   "zh": ""
-  },
-  {
-   "en": ": How does somebody reset the world, exactly?",
-   "zh": ""
-  },
-  {
-   "en": ": No clue. Ask her, she knows.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey, wait a sec! You two didn’t start playing some new online game without me, did you?!",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Do you really think I have time for games?",
-   "zh": ""
-  },
-  {
-   "en": ": Yes! You never do anything!",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, better question- do you really think I would use all of my free time on games and not...other stuff?",
-   "zh": ""
-  },
-  {
-   "en": ": I don't know! Maybe!",
-   "zh": ""
-  },
-  {
-   "en": ": There’s obviously no game, Ami. You should know by now to take everything this person says with a grain of salt.",
-   "zh": ""
-  },
-  {
-   "en": ": Person? Really? Have I been downgraded and stripped of my gender overnight?",
-   "zh": ""
-  },
-  {
-   "en": ": Besides, if I were to start playing a new game, you would be the first to know.",
-   "zh": ""
-  },
-  {
-   "en": ": And now you’re ignoring me. See, this is exactly why I don't talk to you before lunch.",
-   "zh": ""
-  },
-  {
-   "en": ": I guess that makes sense...Ayane is no fun to play with since she always has all the best stuff.",
-   "zh": ""
-  },
-  {
-   "en": ": Is Ayane really that good at video games?",
-   "zh": ""
-  },
-  {
-   "en": "I try desperately to insert myself back into the conversation and force both Maya and Ami to remember that I am here.",
-   "zh": ""
-  },
-  {
-   "en": ": Not really. She just has unrestricted credit card access and uses her dad's money to roll on every banner and make the two of us feel insignificant.",
-   "zh": ""
-  },
-  {
-   "en": ": Ahh, yes...banners. I understand exactly what you mean by that.",
-   "zh": ""
-  },
-  {
-   "en": ": All you have to understand is that you could easily fix this problem by giving me-",
-   "zh": ""
-  },
-  {
-   "en": ": No.",
-   "zh": ""
-  },
-  {
-   "en": ": By giving me access to-",
-   "zh": ""
-  },
-  {
-   "en": ": No.",
-   "zh": ""
-  },
-  {
-   "en": ": By-",
-   "zh": ""
-  },
-  {
-   "en": ": No.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Anyway, I’m not really sure what's going on with you two, but I’m definitely gonna be keeping my eye out from now on...or at least until you clear yourselves of suspicion.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ll be damned if anyone steals my [uncle] away, especially my best friend.",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...Yeah, I wouldn’t really worry about that if I were you.",
-   "zh": ""
-  },
-  {
-   "en": ": Getting close to your [uncle] is at the very bottom of my list of ‘things I want to do’ right alongside being crucified and/or submerged in acid.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, I think it’s a little unfair to compare me to things like that.",
-   "zh": ""
-  },
-  {
-   "en": ": You're right. That would be too rude to acid.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "You know...just when I thought Maya and I were about to get closer, she starts saying things like that.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay...so maybe there isn’t anything going on with you two after all.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m just gonna chalk all of this up to lack of sleep on both sides. Sound good?",
-   "zh": ""
-  },
-  {
-   "en": ": Yes. Wonderful.",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t even care anymore.",
-   "zh": ""
-  },
-  {
-   "en": ": Great! Thankfully, I got enough sleep to make up for both of you, so you can just let me do all the talking on the way to...",
-   "zh": ""
-  },
-  {
-   "en": ": ...school.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Right. We’re supposed to be going to[school].",
-   "zh": ""
-  },
-  {
-   "en": "Whoops.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei...what should we do? I don't want Makoto to kill us for being late.",
-   "zh": ""
-  },
-  {
-   "en": ": Don't worry. I think the three of us can take her if we coordinate well enough.",
-   "zh": ""
-  },
-  {
-   "en": ": Is it too late to call out? Can we just...do that and stay here?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m fine with being late.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei is the one who handles the attendance sheets, so...",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, I think we’ll be fine. We can just come up with an excuse or something if Makoto asks us.",
-   "zh": ""
-  },
-  {
-   "en": ": Well...what kind of excuse? Because it would have to be a believable one for Makoto to fall for it.",
-   "zh": ""
-  },
-  {
-   "en": ": I don't know. Maybe that the house caught on fire because you messed up cooking or something?",
-   "zh": ""
-  },
-  {
-   "en": ": That's not believable at all! That’s just mean! I'd never do something like that!",
-   "zh": ""
-  },
-  {
-   "en": ": You lit the science room on fire a while ago, didn't you? I think a house fire would be pretty easy to believe.",
-   "zh": ""
-  },
-  {
-   "en": ": Why do you remember that?!",
-   "zh": ""
-  },
-  {
-   "en": ": That was a very bad day for me.",
-   "zh": ""
-  },
-  {
-   "en": ": Have I ever mentioned how intimidating Yumi is?",
-   "zh": ""
-  },
-  {
-   "en": ": At least you didn’t almost kill the entire class, Maya! Imagine how I feel!",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, are we going to just stand here in the living room for the rest of the day, or are we actually going to go to[school]?",
-   "zh": ""
-  },
-  {
-   "en": ": Ugh...fine. I accept my fate.",
-   "zh": ""
-  },
-  {
-   "en": ": But know now that I would never light this house on fire because I care too much about it.",
-   "zh": ""
-  },
-  {
-   "en": ": Please apply that same level of care to school so that we may continue living. Thank you.",
-   "zh": ""
-  },
-  {
-   "en": ": Are you ready to go as well, Maya? Or are you just...going to stay here?",
-   "zh": ""
-  },
-  {
-   "en": ": Please don’t say my name. It sounds disgusting when you do it.",
-   "zh": ""
-  },
-  {
-   "en": ": Then...what am I supposed to call you?",
-   "zh": ""
-  },
-  {
-   "en": ": Nothing.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Are you coming to school or not?",
-   "zh": ""
-  },
-  {
-   "en": ": Do I actually have a choice? Or is that a rhetorical question?",
-   "zh": ""
-  },
-  {
-   "en": ": Because I very much would prefer to stay here in the air conditioning.",
-   "zh": ""
-  },
-  {
-   "en": ": Just come to school, Maya...we can hang out in the air conditioning later.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Hah...This is it...The day I’m finally killed by the student council president.",
-   "zh": ""
-  },
-  {
-   "en": ": It has been a pleasure knowing you, Ami.",
-   "zh": ""
-  },
-  {
-   "en": ": I always knew something like this would be the end of me...I just didn’t realize it would be so soon.",
-   "zh": ""
-  },
-  {
-   "en": ": What a strangely specific prediction for your demise.",
-   "zh": ""
-  },
-  {
-   "en": ": Fare thee well, beloved [uncle]. Do not forget me if you live to see tomorrow...",
-   "zh": ""
-  },
-  {
-   "en": "Ami disappears into the classroom, leaving Maya and me alone in the hall.",
-   "zh": ""
-  },
-  {
-   "en": ": Well then, I guess I’ll-",
-   "zh": ""
-  },
-  {
-   "en": ": Hold up one second, Maya.",
-   "zh": ""
-  },
-  {
-   "en": ": Funny. I believe I told you to stop calling me that.",
-   "zh": ""
-  },
-  {
-   "en": ": You did, but this is important.",
-   "zh": ""
-  },
-  {
-   "en": ": Are we just going to ignore everything that happened the other day?",
-   "zh": ""
-  },
-  {
-   "en": ": What do you mean?",
-   "zh": ""
-  },
-  {
-   "en": ": The thing on the roof? The end of the world?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Maya pauses for a long time and scans the hallway to make sure that no one is around- not that I think anyone would believe her even if they were.",
-   "zh": ""
-  },
-  {
-   "en": ": Yes.",
-   "zh": ""
-  },
-  {
-   "en": ": We are going to ignore that.",
-   "zh": ""
-  },
-  {
-   "en": ": Please continue on with your daily life as if nothing has changed.",
-   "zh": ""
-  },
-  {
-   "en": ": Though, I would appreciate it if you’d make it to the roof much quicker in the future.",
-   "zh": ""
-  },
-  {
-   "en": ": It took you quite a while the last time.",
-   "zh": ""
-  },
-  {
-   "en": ": Though, I suppose it doesn’t matter at the end of the day.",
-   "zh": ""
-  },
-  {
-   "en": ": It's not as if I'm expecting to ever see you there again or anything.",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...",
-   "zh": ""
-  },
-  {
-   "en": ": Okay then?...",
-   "zh": ""
-  },
-  {
-   "en": ": If that's all, I’m going to go sit at my desk now.",
-   "zh": ""
-  },
-  {
-   "en": ": The bell for second period is about to ring and I, too, do not want to be killed today.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Maybe...Maya just doesn’t want to talk about it during[school] hours?",
-   "zh": ""
-  },
-  {
-   "en": "It’s not like that topic is something the two of us can avoid forever, though, is it?",
-   "zh": ""
-  },
-  {
-   "en": "I have so many questions...things I couldn’t think of when the two of us met under the stars.",
-   "zh": ""
-  },
-  {
-   "en": "But, perhaps, the biggest question of all-",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Is if Makoto is going to let me live through the day to find all of those answers.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day110",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day110:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "There are several things in life I have accepted that I will never understand.",
+      "zh": ""
+    },
+    {
+      "en": "The first, the last, and the most damning of all of them is the fact that we have two lives- not just one.",
+      "zh": ""
+    },
+    {
+      "en": "The first life is what comes prior to adulthood- and how that extremely brief period of time is somehow more important than everything that comes after it.",
+      "zh": ""
+    },
+    {
+      "en": "So, why is it that smaller of two lives is the one that, for the most part, determines how the second life plays out?",
+      "zh": ""
+    },
+    {
+      "en": "Why do we allow ourselves to be manipulated by the people and things that surround us so frequently in the beginning, yet never at all after finally experiencing it?",
+      "zh": ""
+    },
+    {
+      "en": "The first life is the one we idealize- where that manipulation is something we wrap around ourselves like a scarf to protect us from the cold which, in this case, is all that we're unfamiliar with.",
+      "zh": ""
+    },
+    {
+      "en": "But it isn't until the second life where we discover that we like the cold and discard the scarf entirely, only to regret the decision thereafter because the feel of the fabric was comforting.",
+      "zh": ""
+    },
+    {
+      "en": "By the second life, we have become so resistant to manipulation that we no longer allow others to change us and, instead, are forced into a state of being where we must manipulate ourselves.",
+      "zh": ""
+    },
+    {
+      "en": "For if we didn't, we'd be stuck perpetually remembering our first lives.",
+      "zh": ""
+    },
+    {
+      "en": "We'd be stuck wishing to trade away the longer portion for another set of firsts and the opportunity to soften our skin.",
+      "zh": ""
+    },
+    {
+      "en": "Resistance is only a strength when we want it to be.",
+      "zh": ""
+    },
+    {
+      "en": "The rest of the time, it is a reminder that half of our humanity faded away the second we grew up.",
+      "zh": ""
+    },
+    {
+      "en": "So...what is left to do now?",
+      "zh": ""
+    },
+    {
+      "en": "What is left to do knowing that we can't go back and that we must fall into place and only look back on the happier days as a means of coping?",
+      "zh": ""
+    },
+    {
+      "en": "The answer to that is simple, for it's the same for everyone.",
+      "zh": ""
+    },
+    {
+      "en": "You find a job.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "You find a partner (Preferably one who swallows.)",
+      "zh": ""
+    },
+    {
+      "en": "You start a family.",
+      "zh": ""
+    },
+    {
+      "en": "You die.",
+      "zh": ""
+    },
+    {
+      "en": "The worst part of all of that, though, is that you wind up having to train yourself for that final step for the entirety of your second life.",
+      "zh": ""
+    },
+    {
+      "en": "There are no firsts left at this point anymore-",
+      "zh": ""
+    },
+    {
+      "en": "Just a series of events that you’re forced to assign meaning to so you won’t be as terrified when you're dying alone in a hospital bed somewhere.",
+      "zh": ""
+    },
+    {
+      "en": "Praise be.",
+      "zh": ""
+    },
+    {
+      "en": "Praise the God god who wanted us to live these tragic, hopeless lives.",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "A song plays in the back of my head.",
+      "zh": ""
+    },
+    {
+      "en": "It’s a song that reminds me of cursed birds and familiar sins.",
+      "zh": ""
+    },
+    {
+      "en": "But it’s a song filled with hope.",
+      "zh": ""
+    },
+    {
+      "en": "A song of death and a song of life.",
+      "zh": ""
+    },
+    {
+      "en": "One song for everyone.",
+      "zh": ""
+    },
+    {
+      "en": "A final melody as the darkness closes in.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene bedroom_day",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": [amimaster], are you awake in there?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Huh?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Oh, uhh...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Sorry about that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living1.webp",
+      "alt": "living1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Morning!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Good morning.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Hey...good morning. I didn’t sleep late, did I?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Not really, but I felt like you probably would have if I didn't come wake you up.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": You feeling okay? You look a little out of it.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I can make you coffee if-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I'm fine. Just...feeling a little zoned out, I guess.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living2.webp",
+      "alt": "living2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Zoned out? You’re not getting sick, are you?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Should we maybe stay home today?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t think it’s anything that serious. Probably just a...lack of sleep or something.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living3.webp",
+      "alt": "living3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh. Didn't you say the same thing this morning, Maya?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": That sounds possible. But, then again, I believe that any amount of sleep less than twelve hours is a lack and I seldom actually get that much.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": That sounds like a medical issue or something. You should get that checked out.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Complaining about being tired in the morning is normal human nature. And I refuse to get help for simply being human.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living4.webp",
+      "alt": "living4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Just say you're fine next time...jeez.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Come to think of it, what is Maya doing here so early anyway? She doesn’t normally meet us at the house.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living5.webp",
+      "alt": "living5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Have you given up on asking me things directly? You need to go through Ami now?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t think I’ve ever had a positive experience when it comes to communicating with you before lunch time, so yes. I am going to go through Ami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That’s understandable. But to add to that, I haven’t ever had a good experience talking to you in general.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Oh, come on. There's had to be at least one.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Not that I can think of.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living6.webp",
+      "alt": "living6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami’s eyes bounce back and forth between Maya and me.",
+      "zh": ""
+    },
+    {
+      "en": "I can’t blame her for not knowing how to deal with the dynamic between the two of us, especially this early in the morning.",
+      "zh": ""
+    },
+    {
+      "en": "Hell, I don’t even understand the dynamic between us right now and we kind of...saw the end of the world together?",
+      "zh": ""
+    },
+    {
+      "en": "Still not quite sure what happened there, but I’m glad it’s over.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living5.webp",
+      "alt": "living5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Did something happen between you two?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living7.webp",
+      "alt": "living7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hm? What?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": You guys just seem...a little different somehow. Like, I can still feel the hate, but now it’s more like a comfortable hate rather than an...uncomfortable hate.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Does that make sense?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": No.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": I have literally no idea what that is supposed to mean.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Maya reset the world for me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living8.webp",
+      "alt": "living8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living9.webp",
+      "alt": "living9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What the heck is that supposed to mean?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Hah...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yeah, that’s pretty much the reaction I was expecting.",
+      "zh": ""
+    },
+    {
+      "en": "It was pretty easy to tell that Ami had no idea what happened the second everything restarted.",
+      "zh": ""
+    },
+    {
+      "en": "Granted, it took me around half an hour to realize it as well...and I knew it was coming.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How does somebody reset the world, exactly?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": No clue. Ask her, she knows.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living10.webp",
+      "alt": "living10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, wait a sec! You two didn’t start playing some new online game without me, did you?!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Do you really think I have time for games?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yes! You never do anything!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Okay, better question- do you really think I would use all of my free time on games and not...other stuff?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I don't know! Maybe!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living11.webp",
+      "alt": "living11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": There’s obviously no game, Ami. You should know by now to take everything this person says with a grain of salt.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Person? Really? Have I been downgraded and stripped of my gender overnight?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Besides, if I were to start playing a new game, you would be the first to know.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": And now you’re ignoring me. See, this is exactly why I don't talk to you before lunch.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I guess that makes sense...Ayane is no fun to play with since she always has all the best stuff.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Is Ayane really that good at video games?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I try desperately to insert myself back into the conversation and force both Maya and Ami to remember that I am here.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living12.webp",
+      "alt": "living12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Not really. She just has unrestricted credit card access and uses her dad's money to roll on every banner and make the two of us feel insignificant.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Ahh, yes...banners. I understand exactly what you mean by that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living13.webp",
+      "alt": "living13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": All you have to understand is that you could easily fix this problem by giving me-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": No.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": By giving me access to-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": No.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": By-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": No.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living14.webp",
+      "alt": "living14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Anyway, I’m not really sure what's going on with you two, but I’m definitely gonna be keeping my eye out from now on...or at least until you clear yourselves of suspicion.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I’ll be damned if anyone steals my [uncle] away, especially my best friend.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living15.webp",
+      "alt": "living15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhh...Yeah, I wouldn’t really worry about that if I were you.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Getting close to your [uncle] is at the very bottom of my list of ‘things I want to do’ right alongside being crucified and/or submerged in acid.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Okay, I think it’s a little unfair to compare me to things like that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living16.webp",
+      "alt": "living16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You're right. That would be too rude to acid.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "You know...just when I thought Maya and I were about to get closer, she starts saying things like that.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay...so maybe there isn’t anything going on with you two after all.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I’m just gonna chalk all of this up to lack of sleep on both sides. Sound good?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Yes. Wonderful.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t even care anymore.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living1.webp",
+      "alt": "living1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Great! Thankfully, I got enough sleep to make up for both of you, so you can just let me do all the talking on the way to...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...school.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Right. We’re supposed to be going to[school].",
+      "zh": ""
+    },
+    {
+      "en": "Whoops.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living17.webp",
+      "alt": "living17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei...what should we do? I don't want Makoto to kill us for being late.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Don't worry. I think the three of us can take her if we coordinate well enough.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Is it too late to call out? Can we just...do that and stay here?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I’m fine with being late.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei is the one who handles the attendance sheets, so...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah, I think we’ll be fine. We can just come up with an excuse or something if Makoto asks us.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Well...what kind of excuse? Because it would have to be a believable one for Makoto to fall for it.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I don't know. Maybe that the house caught on fire because you messed up cooking or something?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living18.webp",
+      "alt": "living18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That's not believable at all! That’s just mean! I'd never do something like that!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": You lit the science room on fire a while ago, didn't you? I think a house fire would be pretty easy to believe.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Why do you remember that?!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": That was a very bad day for me.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Have I ever mentioned how intimidating Yumi is?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living19.webp",
+      "alt": "living19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": At least you didn’t almost kill the entire class, Maya! Imagine how I feel!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Okay, are we going to just stand here in the living room for the rest of the day, or are we actually going to go to[school]?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living20.webp",
+      "alt": "living20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh...fine. I accept my fate.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": But know now that I would never light this house on fire because I care too much about it.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Please apply that same level of care to school so that we may continue living. Thank you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Are you ready to go as well, Maya? Or are you just...going to stay here?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living21.webp",
+      "alt": "living21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Please don’t say my name. It sounds disgusting when you do it.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Then...what am I supposed to call you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Nothing.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Are you coming to school or not?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Do I actually have a choice? Or is that a rhetorical question?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Because I very much would prefer to stay here in the air conditioning.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Just come to school, Maya...we can hang out in the air conditioning later.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living22.webp",
+      "alt": "living22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...This is it...The day I’m finally killed by the student council president.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": It has been a pleasure knowing you, Ami.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": I always knew something like this would be the end of me...I just didn’t realize it would be so soon.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": What a strangely specific prediction for your demise.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Fare thee well, beloved [uncle]. Do not forget me if you live to see tomorrow...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami disappears into the classroom, leaving Maya and me alone in the hall.",
+      "zh": ""
+    },
+    {
+      "en": ": Well then, I guess I’ll-",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Hold up one second, Maya.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living23.webp",
+      "alt": "living23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Funny. I believe I told you to stop calling me that.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": You did, but this is important.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Are we just going to ignore everything that happened the other day?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": What do you mean?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": The thing on the roof? The end of the world?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living24.webp",
+      "alt": "living24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maya pauses for a long time and scans the hallway to make sure that no one is around- not that I think anyone would believe her even if they were.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": We are going to ignore that.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Please continue on with your daily life as if nothing has changed.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Though, I would appreciate it if you’d make it to the roof much quicker in the future.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": It took you quite a while the last time.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Though, I suppose it doesn’t matter at the end of the day.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": It's not as if I'm expecting to ever see you there again or anything.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": Uhh...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Okay then?...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene living23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/living23.webp",
+      "alt": "living23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": If that's all, I’m going to go sit at my desk now.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": The bell for second period is about to ring and I, too, do not want to be killed today.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maybe...Maya just doesn’t want to talk about it during[school] hours?",
+      "zh": ""
+    },
+    {
+      "en": "It’s not like that topic is something the two of us can avoid forever, though, is it?",
+      "zh": ""
+    },
+    {
+      "en": "I have so many questions...things I couldn’t think of when the two of us met under the stars.",
+      "zh": ""
+    },
+    {
+      "en": "But, perhaps, the biggest question of all-",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "Is if Makoto is going to let me live through the day to find all of those answers.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day110 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

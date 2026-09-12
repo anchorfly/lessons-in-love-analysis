@@ -2,79 +2,790 @@
   "label": "amifirsthall",
   "title_zh": "不速之客",
   "lines": [
-    { "en": ": Ugh! How come I always end up on stupid bathroom duty?! Wasn't that my job last week too?!", "zh": ": 啊——！为什么每次倒霉值日都是厕所？！上周不也是我吗？！" },
-    { "en": ": Hey Ami. Am I interrupting something?", "zh": ": 嗨，Ami。打扰到你了？" },
-    { "en": ": Huh? Sensei?", "zh": ": 咦？Sensei？" },
-    { "en": ": When did you get here?", "zh": ": 你什么时候来的？" },
-    { "en": ": Just now. But if you have chores to do, I can just hang out with someone else instead.", "zh": ": 刚到。不过你要是有活要干，我可以去找别人玩。" },
-    { "en": ": I would sooner abandon all of my chores for the rest of eternity than let you spend your time with anyone else.", "zh": ": 我宁愿后半辈子啥活都不干，也不让你去陪别人。" },
-    { "en": ": Okay. That's not super controlling or anything.", "zh": ": 行吧。这也还不算特别有控制欲就是了。" },
-    { "en": ": Of course it's not controlling, we're related. If you asked me to never talk to anyone else, I'd do it in a heartbeat.", "zh": ": 这才不叫控制欲，我们可是亲戚。你要我从此不跟别人说话，我立马照办。" },
-    { "en": ": That's...not really something to smile about, Ami. That's actually really depressing.", "zh": ": 这……可不是什么值得笑的事，Ami。这其实相当让人抑郁。" },
-    { "en": ": What's depressing is how you walked all the way through this hallway without shouting my name due to your uncontainable excitement to see me.", "zh": ": 让人抑郁的是，你走完整条走廊，居然没有因为见到我而激动得大喊我的名字。" },
-    { "en": ": I see you literally every morning.", "zh": ": 我每天早上都见你好吧。" },
-    { "en": ": And yet you still need more.", "zh": ": 结果你还嫌不够。" },
-    { "en": ": So, what are you really doing here? Did I forget something at home?", "zh": ": 说吧，你到底来干嘛？我把什么东西落家里了？" },
-    { "en": ": I wouldn't know if you did. I came here straight from school.", "zh": ": 落没落我可不知道。我是从学校直接过来的。" },
-    { "en": ": You did? That's weird.", "zh": ": 这样啊？真怪。" },
-    { "en": ": Why is that weird?", "zh": ": 哪里怪了？" },
-    { "en": ": Because even if you had to stay late for counseling stuff, it's pretty late to be showing up here. School ended hours ago.", "zh": ": 因为就算你为了辅导的事留得晚，现在来这也太迟了。放学都好几个小时了。" },
-    { "en": ": You haven't been sneaking around and doing anything you can't tell me about, have you?", "zh": ": 你没有背着我偷偷摸摸、干些不能告诉我的事吧？" },
-    { "en": ": It's not like I would tell you if I was. What I do with my free time is kind of up to me, isn't it?", "zh": ": 就算有，我也不会告诉你啊。我的空闲时间怎么用，该由我做主吧？" },
-    { "en": ": Nope!", "zh": ": 不行！" },
-    { "en": "Is there somewhere I can go to trade in my niece for a different one?", "zh": "有没有什么地方可以把我这侄女换一个的？" },
-    { "en": ": I guess I can let you off the hook for tonight, though, since I already have plans.", "zh": ": 不过今晚就放过你吧，反正我已经有安排了。" },
-    { "en": ": And no, I'm not talking about chores. The bathroom is stupid and it can die for all I care.", "zh": ": 别误会，说的不是值日。厕所蠢透了，它爱怎么死去，关我屁事。" },
-    { "en": ": What do these plans of yours entail? And can I tag along?", "zh": ": 你这安排都有些什么？我能跟着去吗？" },
-    { "en": ": Me and Maya were going to go eat pizza and do karaoke or something like that.", "zh": ": 我和 Maya 打算去吃披萨，然后唱唱 K 什么的。" },
-    { "en": ": I'd invite you along, but...she kind of already made a no-Sensei rule, so...I'm not sure if I can make that happen.", "zh": ": 本来想叫上你的，但是……她好像已经立了「不许带 Sensei」的规矩，所以……我大概没办法把你弄进来。" },
-    { "en": ": That's fair. If I were a teenage girl, I probably wouldn't invite me either.", "zh": ": 也合理。我要是个女高中生，估计也不会邀请我自己。" },
-    { "en": ": Maybe you can come next time?", "zh": ": 下次也许能带你去？" },
-    { "en": ": I'm not really sure what the problem is since me and Ayane are normally the only ones who sing anyway. Maya just hangs out on the bench and eats the whole time.", "zh": ": 我也不知道有什么问题，反正平时唱歌的就我和 Ayane 两个，Maya 整场都窝在长椅上吃个不停。" },
-    { "en": ": You need to stop saying me and blank. It's getting on my nerves.", "zh": ": 你能不能别再说「me and 什么什么」了。听得我脑仁疼。" },
-    { "en": ": Please save your grammar lessons for when we're in school, Sensei.", "zh": ": 语法课请留到学校再上，Sensei。" },
-    { "en": ": I can't. I use that time to sleep.", "zh": ": 那可不行。那个时间我用来睡觉。" },
-    { "en": ": Then I guess I'll just have to talk this way forever!", "zh": ": 那我以后就偏要一直这么说话！" },
-    { "en": ": That aside, how are you liking the dorms so far? This place seems like it has basically everything you could ever need.", "zh": ": 先不说这个，宿舍住得还习惯吗？这地方看起来基本上什么都不缺。" },
-    { "en": ": Almost everything.", "zh": ": 几乎什么都不缺。" },
-    { "en": ": But I really like it here. It makes me feel like I'm in college.", "zh": ": 不过我是真的很喜欢这里。有种住在大学的感觉。" },
-    { "en": ": I obviously don't hang out here as much as the girls without other housing options, but all of the time I do spend here is super fun!", "zh": ": 我肯定不像那些没有别的住处的女生待得那么多，但我在这的每一段时光都超开心！" },
-    { "en": ": Wait, there are girls without other housing options? What do you mean by that?", "zh": ": 等等，还有女生没别的地方住？什么意思？" },
-    { "en": ": You're not implying that some of the girls in our class are homeless, are you?", "zh": ": 你不会是想说，我们班有的女生无家可归吧？" },
-    { "en": ": Homeless probably isn't the right word...but there are definitely a few girls who wouldn't technically have anywhere else to go if the dorms just...blew up or something.", "zh": ": 无家可归这词可能不太准确……但确实有几个女生，要是宿舍哪天……炸了什么的，严格来讲她们就没有别的地方可去了。" },
-    { "en": ": Take Maya for example. She doesn’t have any family in Kumon-mi, so she’d probably be forced to come stay with us if something like that were to happen.", "zh": ": 拿 Maya 来说。她在 Kumon-mi 一个亲人都没有，真出了那种事，恐怕就只能搬来跟我们住了。" },
-    { "en": ": What is she doing living here if her family isn’t anywhere nearby?", "zh": ": 她家人都不在附近，她怎么住到这儿来的？" },
-    { "en": ": No clue. She just sorta showed up one day and we’ve been best friends ever since.", "zh": ": 不知道。反正某天她就这么出现了，然后我们就成了最好的朋友。" },
-    { "en": ": I don't think we have to worry about a dorm explosion, though. I'm pretty sure nothing like that has ever happened before.", "zh": ": 不过宿舍爆炸这种事倒不用操心。我很确定这种事从没发生过。" },
-    { "en": ": Well...at least not here. But hey, I don't know everything.", "zh": ": 嗯……至少这里没有。不过嘛，我也不是什么都懂。" },
-    { "en": ": Huh...", "zh": ": 咦……" },
-    { "en": ": Well, alright then.", "zh": ": 好吧，那就这样。" },
-    { "en": ": Okay. I’m ready to go.", "zh": ": 好，我准备好了。" },
-    { "en": ": Hey, Maya. Nice to see you.", "zh": ": 嗨，Maya。见到你真好。" },
-    { "en": ": Yes, hello.", "zh": ": 是，你好。" },
-    { "en": ": He isn’t coming, is he?", "zh": ": 他不来，对吧？" },
-    { "en": ": He’s not...I already told him about your no-Sensei rule.", "zh": ": 不来……我已经跟他说过你的「不许带 Sensei」规矩了。" },
-    { "en": ": I can't say I don't understand it.", "zh": ": 我不能说我不理解。" },
-    { "en": ": Please stop talking to me.", "zh": ": 请别跟我说话。" },
-    { "en": ": Well...I guess this means our time is up, huh?", "zh": ": 嗯……看来我该撤了，是吧？" },
-    { "en": ": Seems that way, Ami. Don't let Maya poison your mind about how horrible I am while I'm not around to stop her.", "zh": ": 看起来是，Ami。我不在的时候，别让 Maya 给你洗脑，说我多么可怕。" },
-    { "en": ": I can assure you that it does not take poison for someone to understand just how deplorable you are.", "zh": ": 我可以向你保证，要认清你有多可悲，根本不需要谁下毒。" },
-    { "en": ": Have fun at karaoke, you two. I'll be looking forward to any videos I'm sent with Maya singing.", "zh": ": 唱 K 玩得开心，你们俩。我很期待有人给我发 Maya 唱歌的视频。" },
-    { "en": ": And I am looking forward to the sound your phone will make when I snatch it out of your hands and toss it off of a bridge.", "zh": ": 我也很期待你的手机被我从你手里抢走、再从桥上扔下去时发出的声音。" },
-    { "en": ": Don't worry, Sensei. I won't let her do that.", "zh": ": 放心，Sensei。我不会让她得逞的。" },
-    { "en": ": I'll talk to you later, okay?", "zh": ": 晚点再聊，好吗？" },
-    { "en": ": Sounds good. Goodnight, Ami.", "zh": ": 好的。晚安，Ami。" },
-    { "en": ": Goodnight, Sensei.", "zh": ": 晚安，Sensei。" },
-    { "en": ": Goodnight, M-", "zh": ": 晚安，M——" },
-    { "en": ": No.", "zh": ": 不用。" },
-    { "en": "Ami and Maya disappear down the hall and I'm suddenly left with nothing to do but head home.", "zh": "Ami 和 Maya 的身影消失在走廊尽头，我忽然无事可做，只剩下回家一条路。" },
-    { "en": "When I get outside, I realize that a great deal of time has passed since school ended...which is strange, since I don't remember leaving much later than normal.", "zh": "走到外头我才发现，放学后已经过了很久……这就怪了，我不记得自己比平时晚走多少。" },
-    { "en": "I guess it's easy to lose track of time when your mind is elsewhere, though.", "zh": "不过，人在心不在焉的时候，大概很容易忘了时间吧。" },
-    { "en": "Regardless, I accept the night and begin yet another walk across town in the sweltering heat.", "zh": "无论如何，我认下了这个夜晚，再次冒着闷热的暑气，踏上横穿小镇的路。" },
-    { "en": "Here's hoping that Ami's night winds up being a little more exciting than mine.", "zh": "但愿 Ami 的夜晚，会比我的精彩那么一点点。" },
-    { "en": "Ami’s affection has increased to [ami_love]!", "zh": "Ami 的好感度提升到了 [ami_love]！" },
-    { "en": ".........", "zh": "........." },
-    { "en": "......", "zh": "......" },
-    { "en": "...", "zh": "..." }
+    {
+      "en": ""
+    },
+    {
+      "en": "label amifirsthall:",
+      "zh": ""
+    },
+    {
+      "en": "scene amihall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall1.webp",
+      "alt": "amihall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh! How come I always end up on stupid bathroom duty?! Wasn't that my job last week too?!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 啊——！为什么每次倒霉值日都是厕所？！上周不也是我吗？！"
+    },
+    {
+      "en": ": Hey Ami. Am I interrupting something?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗨，Ami。打扰到你了？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall2.webp",
+      "alt": "amihall2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh? Sensei?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 咦？Sensei？"
+    },
+    {
+      "en": ": When did you get here?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你什么时候来的？"
+    },
+    {
+      "en": ": Just now. But if you have chores to do, I can just hang out with someone else instead.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 刚到。不过你要是有活要干，我可以去找别人玩。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall3.webp",
+      "alt": "amihall3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I would sooner abandon all of my chores for the rest of eternity than let you spend your time with anyone else.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我宁愿后半辈子啥活都不干，也不让你去陪别人。"
+    },
+    {
+      "en": ": Okay. That's not super controlling or anything.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 行吧。这也还不算特别有控制欲就是了。"
+    },
+    {
+      "en": ": Of course it's not controlling, we're related. If you asked me to never talk to anyone else, I'd do it in a heartbeat.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 这才不叫控制欲，我们可是亲戚。你要我从此不跟别人说话，我立马照办。"
+    },
+    {
+      "en": ": That's...not really something to smile about, Ami. That's actually really depressing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这……可不是什么值得笑的事，Ami。这其实相当让人抑郁。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall4.webp",
+      "alt": "amihall4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What's depressing is how you walked all the way through this hallway without shouting my name due to your uncontainable excitement to see me.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 让人抑郁的是，你走完整条走廊，居然没有因为见到我而激动得大喊我的名字。"
+    },
+    {
+      "en": ": I see you literally every morning.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我每天早上都见你好吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall4r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall4r.webp",
+      "alt": "amihall4r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And yet you still need more.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 结果你还嫌不够。"
+    },
+    {
+      "en": ": So, what are you really doing here? Did I forget something at home?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 说吧，你到底来干嘛？我把什么东西落家里了？"
+    },
+    {
+      "en": ": I wouldn't know if you did. I came here straight from school.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 落没落我可不知道。我是从学校直接过来的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall4.webp",
+      "alt": "amihall4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You did? That's weird.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 这样啊？真怪。"
+    },
+    {
+      "en": ": Why is that weird?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哪里怪了？"
+    },
+    {
+      "en": ": Because even if you had to stay late for counseling stuff, it's pretty late to be showing up here. School ended hours ago.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 因为就算你为了辅导的事留得晚，现在来这也太迟了。放学都好几个小时了。"
+    },
+    {
+      "en": ": You haven't been sneaking around and doing anything you can't tell me about, have you?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你没有背着我偷偷摸摸、干些不能告诉我的事吧？"
+    },
+    {
+      "en": ": It's not like I would tell you if I was. What I do with my free time is kind of up to me, isn't it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就算有，我也不会告诉你啊。我的空闲时间怎么用，该由我做主吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall3.webp",
+      "alt": "amihall3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nope!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不行！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Is there somewhere I can go to trade in my niece for a different one?",
+      "zh": "有没有什么地方可以把我这侄女换一个的？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall4r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall4r.webp",
+      "alt": "amihall4r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I guess I can let you off the hook for tonight, though, since I already have plans.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不过今晚就放过你吧，反正我已经有安排了。"
+    },
+    {
+      "en": ": And no, I'm not talking about chores. The bathroom is stupid and it can die for all I care.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 别误会，说的不是值日。厕所蠢透了，它爱怎么死去，关我屁事。"
+    },
+    {
+      "en": ": What do these plans of yours entail? And can I tag along?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你这安排都有些什么？我能跟着去吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall5.webp",
+      "alt": "amihall5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Me and Maya were going to go eat pizza and do karaoke or something like that.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我和 Maya 打算去吃披萨，然后唱唱 K 什么的。"
+    },
+    {
+      "en": ": I'd invite you along, but...she kind of already made a no-Sensei rule, so...I'm not sure if I can make that happen.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 本来想叫上你的，但是……她好像已经立了「不许带 Sensei」的规矩，所以……我大概没办法把你弄进来。"
+    },
+    {
+      "en": ": That's fair. If I were a teenage girl, I probably wouldn't invite me either.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 也合理。我要是个女高中生，估计也不会邀请我自己。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall6.webp",
+      "alt": "amihall6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Maybe you can come next time?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 下次也许能带你去？"
+    },
+    {
+      "en": ": I'm not really sure what the problem is since me and Ayane are normally the only ones who sing anyway. Maya just hangs out on the bench and eats the whole time.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我也不知道有什么问题，反正平时唱歌的就我和 Ayane 两个，Maya 整场都窝在长椅上吃个不停。"
+    },
+    {
+      "en": ": You need to stop saying me and blank. It's getting on my nerves.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你能不能别再说「me and 什么什么」了。听得我脑仁疼。"
+    },
+    {
+      "en": ": Please save your grammar lessons for when we're in school, Sensei.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 语法课请留到学校再上，Sensei。"
+    },
+    {
+      "en": ": I can't. I use that time to sleep.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那可不行。那个时间我用来睡觉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall3.webp",
+      "alt": "amihall3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Then I guess I'll just have to talk this way forever!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 那我以后就偏要一直这么说话！"
+    },
+    {
+      "en": ": That aside, how are you liking the dorms so far? This place seems like it has basically everything you could ever need.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 先不说这个，宿舍住得还习惯吗？这地方看起来基本上什么都不缺。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall7.webp",
+      "alt": "amihall7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Almost everything.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 几乎什么都不缺。"
+    },
+    {
+      "en": ": But I really like it here. It makes me feel like I'm in college.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不过我是真的很喜欢这里。有种住在大学的感觉。"
+    },
+    {
+      "en": ": I obviously don't hang out here as much as the girls without other housing options, but all of the time I do spend here is super fun!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我肯定不像那些没有别的住处的女生待得那么多，但我在这的每一段时光都超开心！"
+    },
+    {
+      "en": ": Wait, there are girls without other housing options? What do you mean by that?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 等等，还有女生没别的地方住？什么意思？"
+    },
+    {
+      "en": ": You're not implying that some of the girls in our class are homeless, are you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你不会是想说，我们班有的女生无家可归吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall5.webp",
+      "alt": "amihall5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Homeless probably isn't the right word...but there are definitely a few girls who wouldn't technically have anywhere else to go if the dorms just...blew up or something.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 无家可归这词可能不太准确……但确实有几个女生，要是宿舍哪天……炸了什么的，严格来讲她们就没有别的地方可去了。"
+    },
+    {
+      "en": ": Take Maya for example. She doesn’t have any family in Kumon-mi, so she’d probably be forced to come stay with us if something like that were to happen.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 拿 Maya 来说。她在 Kumon-mi 一个亲人都没有，真出了那种事，恐怕就只能搬来跟我们住了。"
+    },
+    {
+      "en": ": What is she doing living here if her family isn’t anywhere nearby?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她家人都不在附近，她怎么住到这儿来的？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall4r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall4r.webp",
+      "alt": "amihall4r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No clue. She just sorta showed up one day and we’ve been best friends ever since.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不知道。反正某天她就这么出现了，然后我们就成了最好的朋友。"
+    },
+    {
+      "en": ": I don't think we have to worry about a dorm explosion, though. I'm pretty sure nothing like that has ever happened before.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不过宿舍爆炸这种事倒不用操心。我很确定这种事从没发生过。"
+    },
+    {
+      "en": ": Well...at least not here. But hey, I don't know everything.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯……至少这里没有。不过嘛，我也不是什么都懂。"
+    },
+    {
+      "en": ": Huh...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 咦……"
+    },
+    {
+      "en": ": Well, alright then.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧，那就这样。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall8.webp",
+      "alt": "amihall8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay. I’m ready to go.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 好，我准备好了。"
+    },
+    {
+      "en": ": Hey, Maya. Nice to see you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗨，Maya。见到你真好。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall9.webp",
+      "alt": "amihall9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes, hello.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 是，你好。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall8.webp",
+      "alt": "amihall8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": He isn’t coming, is he?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 他不来，对吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall10.webp",
+      "alt": "amihall10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": He’s not...I already told him about your no-Sensei rule.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不来……我已经跟他说过你的「不许带 Sensei」规矩了。"
+    },
+    {
+      "en": ": I can't say I don't understand it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不能说我不理解。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall11.webp",
+      "alt": "amihall11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Please stop talking to me.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 请别跟我说话。"
+    },
+    {
+      "en": ": Well...I guess this means our time is up, huh?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯……看来我该撤了，是吧？"
+    },
+    {
+      "en": ": Seems that way, Ami. Don't let Maya poison your mind about how horrible I am while I'm not around to stop her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 看起来是，Ami。我不在的时候，别让 Maya 给你洗脑，说我多么可怕。"
+    },
+    {
+      "en": ": I can assure you that it does not take poison for someone to understand just how deplorable you are.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我可以向你保证，要认清你有多可悲，根本不需要谁下毒。"
+    },
+    {
+      "en": ": Have fun at karaoke, you two. I'll be looking forward to any videos I'm sent with Maya singing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 唱 K 玩得开心，你们俩。我很期待有人给我发 Maya 唱歌的视频。"
+    },
+    {
+      "en": ": And I am looking forward to the sound your phone will make when I snatch it out of your hands and toss it off of a bridge.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我也很期待你的手机被我从你手里抢走、再从桥上扔下去时发出的声音。"
+    },
+    {
+      "en": ": Don't worry, Sensei. I won't let her do that.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 放心，Sensei。我不会让她得逞的。"
+    },
+    {
+      "en": ": I'll talk to you later, okay?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 晚点再聊，好吗？"
+    },
+    {
+      "en": ": Sounds good. Goodnight, Ami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好的。晚安，Ami。"
+    },
+    {
+      "en": ": Goodnight, Sensei.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 晚安，Sensei。"
+    },
+    {
+      "en": ": Goodnight, M-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 晚安，M——"
+    },
+    {
+      "en": ": No.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 不用。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amihall0",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amihall0.webp",
+      "alt": "amihall0"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami and Maya disappear down the hall and I'm suddenly left with nothing to do but head home.",
+      "zh": "Ami 和 Maya 的身影消失在走廊尽头，我忽然无事可做，只剩下回家一条路。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "When I get outside, I realize that a great deal of time has passed since school ended...which is strange, since I don't remember leaving much later than normal.",
+      "zh": "走到外头我才发现，放学后已经过了很久……这就怪了，我不记得自己比平时晚走多少。"
+    },
+    {
+      "en": "I guess it's easy to lose track of time when your mind is elsewhere, though.",
+      "zh": "不过，人在心不在焉的时候，大概很容易忘了时间吧。"
+    },
+    {
+      "en": "Regardless, I accept the night and begin yet another walk across town in the sweltering heat.",
+      "zh": "无论如何，我认下了这个夜晚，再次冒着闷热的暑气，踏上横穿小镇的路。"
+    },
+    {
+      "en": "Here's hoping that Ami's night winds up being a little more exciting than mine.",
+      "zh": "但愿 Ami 的夜晚，会比我的精彩那么一点点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ amifirsthall = True",
+      "zh": ""
+    },
+    {
+      "en": "$ ami_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami’s affection has increased to [ami_love]!",
+      "zh": "Ami 的好感度提升到了 [ami_love]！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
   ]
 }

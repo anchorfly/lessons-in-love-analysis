@@ -1,66 +1,128 @@
 {
- "label": "ayanemorninggen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Ayane shows up at the diner a few minutes after I do and greets me with a huge hug.",
-   "zh": ""
-  },
-  {
-   "en": "It attracts the attention of a few other customers, but I think most of them just chalk it up to our relationship being familial in nature.",
-   "zh": ""
-  },
-  {
-   "en": "I doubt anyone would expect a guy my age to be having a romantic meeting with someone like Ayane this early in the morning in front of so many people.",
-   "zh": ""
-  },
-  {
-   "en": "But, I mean...I guess this is sort of a romantic meeting in a sense.",
-   "zh": ""
-  },
-  {
-   "en": "Sure. We're on opposite ends of the table and Ayane is just going on about a dream she had, but it feels like the connection between us is stronger than ever before.",
-   "zh": ""
-  },
-  {
-   "en": "It's strange how just doing normal things together can manage to bring people so close.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane says goodbye to me with a hug just as strong as the one she gave me when she arrived.",
-   "zh": ""
-  },
-  {
-   "en": "She presses her face against my chest and closes her eyes, smiling like a girl bidding goodbye to her father on his way to work.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, that daughterly illusion doesn't last long.",
-   "zh": ""
-  },
-  {
-   "en": "It's broken when she whispers into my ear to come see her at night soon before kissing me on the cheek and skipping away.",
-   "zh": ""
-  },
-  {
-   "en": "It's broken when she whispers into my ear to come organize bones with her at night.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane's affection has increased to [ayane_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "ayanemorninggen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayanemorninggen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayanemorninggen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayanemorninggen2.webp",
+      "alt": "ayanemorninggen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane shows up at the diner a few minutes after I do and greets me with a huge hug.",
+      "zh": ""
+    },
+    {
+      "en": "It attracts the attention of a few other customers, but I think most of them just chalk it up to our relationship being familial in nature.",
+      "zh": ""
+    },
+    {
+      "en": "I doubt anyone would expect a guy my age to be having a romantic meeting with someone like Ayane this early in the morning in front of so many people.",
+      "zh": ""
+    },
+    {
+      "en": "But, I mean...I guess this is sort of a romantic meeting in a sense.",
+      "zh": ""
+    },
+    {
+      "en": "Sure. We're on opposite ends of the table and Ayane is just going on about a dream she had, but it feels like the connection between us is stronger than ever before.",
+      "zh": ""
+    },
+    {
+      "en": "It's strange how just doing normal things together can manage to bring people so close.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane says goodbye to me with a hug just as strong as the one she gave me when she arrived.",
+      "zh": ""
+    },
+    {
+      "en": "She presses her face against my chest and closes her eyes, smiling like a girl bidding goodbye to her father on his way to work.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, that daughterly illusion doesn't last long.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "It's broken when she whispers into my ear to come see her at night soon before kissing me on the cheek and skipping away.",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "It's broken when she whispers into my ear to come organize bones with her at night.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane's affection has increased to [ayane_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

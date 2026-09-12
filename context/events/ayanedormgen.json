@@ -1,30 +1,142 @@
 {
- "label": "ayanedormgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Come in!",
-   "zh": ""
-  },
-  {
-   "en": "Ayane and I spend the night hanging out in her dorm.",
-   "zh": ""
-  },
-  {
-   "en": "To be honest, there's no way I'm ready to start seriously talking about the future right now.",
-   "zh": ""
-  },
-  {
-   "en": "But she looks so happy whenever she does that it would be borderline painful to stop her...",
-   "zh": ""
-  },
-  {
-   "en": "Ayane's affection has increased to [ayane_love]!",
-   "zh": ""
-  }
- ]
+  "label": "ayanedormgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayanedormgen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come in!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "scene ayanedormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayanedormgen.webp",
+      "alt": "ayanedormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane and I spend the night hanging out in her dorm.",
+      "zh": ""
+    },
+    {
+      "en": "\"She proceeds to tell me all about the 'master plan' she's made for our lives together and I decide to",
+      "zh": ""
+    },
+    {
+      "en": "go along with it for the sake of conversation.\"",
+      "zh": ""
+    },
+    {
+      "en": "To be honest, there's no way I'm ready to start seriously talking about the future right now.",
+      "zh": ""
+    },
+    {
+      "en": "But she looks so happy whenever she does that it would be borderline painful to stop her...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane's affection has increased to [ayane_love]!",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

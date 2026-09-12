@@ -1,62 +1,154 @@
 {
- "label": "yasuhallgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Hey, Yasu. What are you up to tonight?",
-   "zh": ""
-  },
-  {
-   "en": ": Basking in the warmth of the second dorm floor, absorbing the vibrations that crawl up the sides of the building and-",
-   "zh": ""
-  },
-  {
-   "en": ": That's nice. Do you want to hang out for a little while?",
-   "zh": ""
-  },
-  {
-   "en": ": Do you have a moment to hear about our lord and savior?",
-   "zh": ""
-  },
-  {
-   "en": ": I have a moment to hear about other things. Not really that, though.",
-   "zh": ""
-  },
-  {
-   "en": ": How sad. What better night than tonight to be saved?",
-   "zh": ""
-  },
-  {
-   "en": "I do not wind up being saved, but I do wind up killing time with Yasu in the hall.",
-   "zh": ""
-  },
-  {
-   "en": "Or, I'm sorry- Time winds up moving onto the second plane of existence because death is not real.",
-   "zh": ""
-  },
-  {
-   "en": "Regardless, the two of us make idle chit chat that scares Kirin back into her room and, before long, Yasu and I part ways.",
-   "zh": ""
-  },
-  {
-   "en": "I head home just as confused as I always am after talking to her.",
-   "zh": ""
-  },
-  {
-   "en": "Yasu's affection has increased to [yasu_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "yasuhallgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label yasuhallgen:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene yasusummer2hallgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasusummer2hallgen.webp",
+      "alt": "yasusummer2hallgen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene yasuhall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasuhall1.webp",
+      "alt": "yasuhall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, Yasu. What are you up to tonight?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Basking in the warmth of the second dorm floor, absorbing the vibrations that crawl up the sides of the building and-",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ""
+    },
+    {
+      "en": ": That's nice. Do you want to hang out for a little while?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Do you have a moment to hear about our lord and savior?",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ""
+    },
+    {
+      "en": ": I have a moment to hear about other things. Not really that, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": How sad. What better night than tonight to be saved?",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I do not wind up being saved, but I do wind up killing time with Yasu in the hall.",
+      "zh": ""
+    },
+    {
+      "en": "Or, I'm sorry- Time winds up moving onto the second plane of existence because death is not real.",
+      "zh": ""
+    },
+    {
+      "en": "Regardless, the two of us make idle chit chat that scares Kirin back into her room and, before long, Yasu and I part ways.",
+      "zh": ""
+    },
+    {
+      "en": "I head home just as confused as I always am after talking to her.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yasu_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yasu's affection has increased to [yasu_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

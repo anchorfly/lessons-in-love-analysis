@@ -1,66 +1,180 @@
 {
- "label": "otohahallgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Yo!",
-   "zh": ""
-  },
-  {
-   "en": ": What brings you over here, Sensei?",
-   "zh": ""
-  },
-  {
-   "en": "I decide to hang out with bother Otoha in the hall for a little while in an effort to quell some of my boredom.",
-   "zh": ""
-  },
-  {
-   "en": "She obliges and humors me, constantly feeling the need to remind me that she is both way out of my league and way out of my age group.",
-   "zh": ""
-  },
-  {
-   "en": "Or both of those things.",
-   "zh": ""
-  },
-  {
-   "en": "In fact, yeah. Definitely both of those things.",
-   "zh": ""
-  },
-  {
-   "en": "She obliges and humors me, constantly feeling the need to remind me of her conservatorship and how large her parents are becoming.",
-   "zh": ""
-  },
-  {
-   "en": "But that doesn't change how we seem to enjoy talking to one another, even if we're talking through these two giant barriers positioned between us.",
-   "zh": ""
-  },
-  {
-   "en": "We don't hang around for long, as Otoha is supposed to be meeting up with Nodoka tonight, but we do make plans to hang out again soon.",
-   "zh": ""
-  },
-  {
-   "en": "Even if making plans in this case means something more like...her agreeing to open the door if I randomly show up again.",
-   "zh": ""
-  },
-  {
-   "en": "But hey, you take what you can get.",
-   "zh": ""
-  },
-  {
-   "en": "Otoha's affection has increased to [otoha_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "otohahallgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label otohahallgen:",
+      "zh": ""
+    },
+    {
+      "en": "if otohaspecial15p2 == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene otohasummer2hallgenhair",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohasummer2hallgenhair.webp",
+      "alt": "otohasummer2hallgenhair"
+    },
+    {
+      "en": "elif chapthreeactive == True and otohaspecial15p2 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene otohasummer2hallgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohasummer2hallgen.webp",
+      "alt": "otohasummer2hallgen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene otohahall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohahall1.webp",
+      "alt": "otohahall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yo!",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": What brings you over here, Sensei?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to hang out with bother Otoha in the hall for a little while in an effort to quell some of my boredom.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "She obliges and humors me, constantly feeling the need to remind me that she is both way out of my league and way out of my age group.",
+      "zh": ""
+    },
+    {
+      "en": "Or both of those things.",
+      "zh": ""
+    },
+    {
+      "en": "In fact, yeah. Definitely both of those things.",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "She obliges and humors me, constantly feeling the need to remind me of her conservatorship and how large her parents are becoming.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But that doesn't change how we seem to enjoy talking to one another, even if we're talking through these two giant barriers positioned between us.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We don't hang around for long, as Otoha is supposed to be meeting up with Nodoka tonight, but we do make plans to hang out again soon.",
+      "zh": ""
+    },
+    {
+      "en": "Even if making plans in this case means something more like...her agreeing to open the door if I randomly show up again.",
+      "zh": ""
+    },
+    {
+      "en": "But hey, you take what you can get.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ otoha_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Otoha's affection has increased to [otoha_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

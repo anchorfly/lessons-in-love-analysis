@@ -1,86 +1,149 @@
 {
- "label": "sanasummer2bargen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I somehow find myself returning to the least popular spot in all of Kumon-mi which, coincidentally, also happens to be the business with the single worst name in all of Kumon-mi.",
-   "zh": ""
-  },
-  {
-   "en": "Despite that, though, I am quite fond of the family who runs it and elect to spend the night with the younger of the two of them.",
-   "zh": ""
-  },
-  {
-   "en": "Sana’s come a long way in what, at least to her is a remarkably short amount of time.",
-   "zh": ""
-  },
-  {
-   "en": "For me, it’s probably close to around a...year at this point? Maybe a year and half? I’m not really sure. But, as is customary, it makes me question the passage of time and its effect on those it changes.",
-   "zh": ""
-  },
-  {
-   "en": "It makes me question just what type of person this girl will become.",
-   "zh": ""
-  },
-  {
-   "en": "Whether or not she’ll be anything like her mother.",
-   "zh": ""
-  },
-  {
-   "en": "Whether or not it would be good for her if she did.",
-   "zh": ""
-  },
-  {
-   "en": "But the thing I find myself questioning the most-",
-   "zh": ""
-  },
-  {
-   "en": "Is exactly what I am to her.",
-   "zh": ""
-  },
-  {
-   "en": "Sana is one of the few girls I find myself questioning rather often at this point.",
-   "zh": ""
-  },
-  {
-   "en": "I don’t know how much of it has to do with the things she’s gone through or...the people she surrounds herself with-",
-   "zh": ""
-  },
-  {
-   "en": "But what I do know is that I want it to change.",
-   "zh": ""
-  },
-  {
-   "en": "I want to know the way her brain moves.",
-   "zh": ""
-  },
-  {
-   "en": "I want to know the way her blood flows.",
-   "zh": ""
-  },
-  {
-   "en": "I want to know her.",
-   "zh": ""
-  },
-  {
-   "en": "And I will never know that if I can not get her to open up and let me crawl in.",
-   "zh": ""
-  },
-  {
-   "en": "Sana’s affection has increased to [sana_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "sanasummer2bargen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sanasummer2bargen:",
+      "zh": ""
+    },
+    {
+      "en": "scene sanasummer2bargen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sanasummer2bargen.webp",
+      "alt": "sanasummer2bargen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I somehow find myself returning to the least popular spot in all of Kumon-mi which, coincidentally, also happens to be the business with the single worst name in all of Kumon-mi.",
+      "zh": ""
+    },
+    {
+      "en": "Despite that, though, I am quite fond of the family who runs it and elect to spend the night with the younger of the two of them.",
+      "zh": ""
+    },
+    {
+      "en": "Sana’s come a long way in what, at least to her is a remarkably short amount of time.",
+      "zh": ""
+    },
+    {
+      "en": "For me, it’s probably close to around a...year at this point? Maybe a year and half? I’m not really sure. But, as is customary, it makes me question the passage of time and its effect on those it changes.",
+      "zh": ""
+    },
+    {
+      "en": "It makes me question just what type of person this girl will become.",
+      "zh": ""
+    },
+    {
+      "en": "Whether or not she’ll be anything like her mother.",
+      "zh": ""
+    },
+    {
+      "en": "Whether or not it would be good for her if she did.",
+      "zh": ""
+    },
+    {
+      "en": "But the thing I find myself questioning the most-",
+      "zh": ""
+    },
+    {
+      "en": "Is exactly what I am to her.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana is one of the few girls I find myself questioning rather often at this point.",
+      "zh": ""
+    },
+    {
+      "en": "I don’t know how much of it has to do with the things she’s gone through or...the people she surrounds herself with-",
+      "zh": ""
+    },
+    {
+      "en": "But what I do know is that I want it to change.",
+      "zh": ""
+    },
+    {
+      "en": "I want to know the way her brain moves.",
+      "zh": ""
+    },
+    {
+      "en": "I want to know the way her blood flows.",
+      "zh": ""
+    },
+    {
+      "en": "I want to know her.",
+      "zh": ""
+    },
+    {
+      "en": "And I will never know that if I can not get her to open up and let me crawl in.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sana_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana’s affection has increased to [sana_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

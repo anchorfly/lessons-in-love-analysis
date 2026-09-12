@@ -1,118 +1,217 @@
 {
- "label": "norikoafternoongen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Noriko's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": Hiya! What's going on, Sensei?",
-   "zh": ""
-  },
-  {
-   "en": ": Hey. Are you free right now by any chance?",
-   "zh": ""
-  },
-  {
-   "en": ": I'm always free for you! Do you want to meet up?",
-   "zh": ""
-  },
-  {
-   "en": ": The sun's actually starting to come out so I kind of wanted to go for a walk or something.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, that works for me.",
-   "zh": ""
-  },
-  {
-   "en": ": Is there anywhere in particular you wanted to meet at?",
-   "zh": ""
-  },
-  {
-   "en": ": Uhhhh sure! Give me a few minutes and I'll send you an address.",
-   "zh": ""
-  },
-  {
-   "en": ": Sounds good. See you soon.",
-   "zh": ""
-  },
-  {
-   "en": ": Yup! Bye, Sensei!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Just like Noriko said it would, the sun rains down upon Kumon-mi and actually makes it pretty warm out for the first time in a while.",
-   "zh": ""
-  },
-  {
-   "en": "In fact, the only other place where I've felt this warm since summer has been at the shrine, so this is a pretty pleasant surprise.",
-   "zh": ""
-  },
-  {
-   "en": "We walk around for a bit, hitting up several convenience stores in search of vegetarian sushi, which is apparently a thing that exists for some reason.",
-   "zh": ""
-  },
-  {
-   "en": "I question Noriko about how she's able to live like that, and she informs me that it's not as hard as I'd expect it to be.",
-   "zh": ""
-  },
-  {
-   "en": "I expect it to be the hardest thing in the world, though, so that doesn't really say much.",
-   "zh": ""
-  },
-  {
-   "en": "Regardless, I respect how she's trying to make a difference. Even if I don't exactly think the difference will be large enough for anyone or anything other than her organs to feel.",
-   "zh": ""
-  },
-  {
-   "en": "The sun eventually leaves us.",
-   "zh": ""
-  },
-  {
-   "en": "Winter returns.",
-   "zh": ""
-  },
-  {
-   "en": "Not having anything else to do and wanting to escape the encroaching cold, we head our separate ways and make plans to meet up again soon.",
-   "zh": ""
-  },
-  {
-   "en": "Noriko's affection has increased to [noriko_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "norikoafternoongen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label norikoafternoongen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Noriko's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hiya! What's going on, Sensei?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Hey. Are you free right now by any chance?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I'm always free for you! Do you want to meet up?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": The sun's actually starting to come out so I kind of wanted to go for a walk or something.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah, that works for me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Is there anywhere in particular you wanted to meet at?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Uhhhh sure! Give me a few minutes and I'll send you an address.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Sounds good. See you soon.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yup! Bye, Sensei!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene norikogenafternoon",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/norikogenafternoon.webp",
+      "alt": "norikogenafternoon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Just like Noriko said it would, the sun rains down upon Kumon-mi and actually makes it pretty warm out for the first time in a while.",
+      "zh": ""
+    },
+    {
+      "en": "In fact, the only other place where I've felt this warm since summer has been at the shrine, so this is a pretty pleasant surprise.",
+      "zh": ""
+    },
+    {
+      "en": "We walk around for a bit, hitting up several convenience stores in search of vegetarian sushi, which is apparently a thing that exists for some reason.",
+      "zh": ""
+    },
+    {
+      "en": "I question Noriko about how she's able to live like that, and she informs me that it's not as hard as I'd expect it to be.",
+      "zh": ""
+    },
+    {
+      "en": "I expect it to be the hardest thing in the world, though, so that doesn't really say much.",
+      "zh": ""
+    },
+    {
+      "en": "Regardless, I respect how she's trying to make a difference. Even if I don't exactly think the difference will be large enough for anyone or anything other than her organs to feel.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The sun eventually leaves us.",
+      "zh": ""
+    },
+    {
+      "en": "Winter returns.",
+      "zh": ""
+    },
+    {
+      "en": "Not having anything else to do and wanting to escape the encroaching cold, we head our separate ways and make plans to meet up again soon.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ noriko_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Noriko's affection has increased to [noriko_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

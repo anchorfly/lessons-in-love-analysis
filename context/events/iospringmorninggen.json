@@ -1,50 +1,101 @@
 {
- "label": "iospringmorninggen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Io as she's on her way over to the bathhouse and the two of us make plans to meet near the convenience store over there.",
-   "zh": ""
-  },
-  {
-   "en": "She offers to buy me breakfast as there's a sale on meatbuns, but I refuse due to a lack of appetite. This, of course, leads to her eating four of them on her own.",
-   "zh": ""
-  },
-  {
-   "en": "I'm concerned for a moment that she might have some sort of degenerative disease if she's still so thin despite eating things like this for breakfast every morning.",
-   "zh": ""
-  },
-  {
-   "en": "But then I remember she's on roughly ten thousand medications that I'm sure take some sort of toll on her weight.",
-   "zh": ""
-  },
-  {
-   "en": "And then I remember someone else who also used to eat like that.",
-   "zh": ""
-  },
-  {
-   "en": "I don't want to, but I do.",
-   "zh": ""
-  },
-  {
-   "en": "So I black the rest of the morning out to protect myself.",
-   "zh": ""
-  },
-  {
-   "en": "Io’s affection has increased to [io_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "iospringmorninggen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label iospringmorninggen:",
+      "zh": ""
+    },
+    {
+      "en": "scene iospringmorninggen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iospringmorninggen.webp",
+      "alt": "iospringmorninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Io as she's on her way over to the bathhouse and the two of us make plans to meet near the convenience store over there.",
+      "zh": ""
+    },
+    {
+      "en": "She offers to buy me breakfast as there's a sale on meatbuns, but I refuse due to a lack of appetite. This, of course, leads to her eating four of them on her own.",
+      "zh": ""
+    },
+    {
+      "en": "I'm concerned for a moment that she might have some sort of degenerative disease if she's still so thin despite eating things like this for breakfast every morning.",
+      "zh": ""
+    },
+    {
+      "en": "But then I remember she's on roughly ten thousand medications that I'm sure take some sort of toll on her weight.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And then I remember someone else who also used to eat like that.",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to, but I do.",
+      "zh": ""
+    },
+    {
+      "en": "So I black the rest of the morning out to protect myself.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ io_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Io’s affection has increased to [io_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump noonch4",
+      "zh": ""
+    }
+  ]
 }

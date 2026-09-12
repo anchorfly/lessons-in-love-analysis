@@ -1,542 +1,1129 @@
 {
- "label": "amilust60",
- "title_zh": "照顾者",
- "lines": [
-  {
-   "en": ": Hi! Sorry I disappeared for so long, Sensei. A few of the girls decided to show up unannounced and I had to make sure they weren’t here to hurt you.",
-   "zh": ": 嗨!抱歉我消失了这么久,Sensei。有几个女孩不请自来,我得确认她们不是来伤害你的。"
-  },
-  {
-   "en": ": But, on the bright side, Niki and Noriko dropped by as well! And they left you a bunch of presents on the dining room table!",
-   "zh": ": 不过往好处想,Niki 和 Noriko 也顺路来了!她们在餐桌上给你留了一堆礼物!"
-  },
-  {
-   "en": ": I had to go through them to make sure there wasn’t anything dangerous inside, but I re-wrapped them pretty perfectly if I do say so myself. And I can help you open them later once we’re done with your checkup.",
-   "zh": ": 我必须逐一检查,确保里面没藏危险品,不过我重新包得相当完美——容我自夸一句。等你体检完,我还能陪你一起拆。"
-  },
-  {
-   "en": ": Oh! And since you haven’t been able to visit the maid cafe in so long, I decided to make you my famous omurice! Complete with my own brand of flavor beam that I can guarantee you is better than Uta’s!",
-   "zh": ": 哦!还有,你这么久没去女仆咖啡厅了,所以我决定给你做我的招牌蛋包饭!配上我的独家风味光线,我保证比 Uta 的强!"
-  },
-  {
-   "en": ": Don’t worry, though! I’m sure you’ll be strong enough to leave the house and go visit there soon if you keep improving at the rate you have been!",
-   "zh": ": 不过别担心!只要你保持现在的康复速度,你很快就会有力气出门去店里了!"
-  },
-  {
-   "en": ": Not that there’s any reason you’d want to leave, though. Right, Sensei?",
-   "zh": ": 当然,你也没有任何理由想出去。对吧,Sensei?"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Exactly!",
-   "zh": ": 没错!"
-  },
-  {
-   "en": ": Things are so simple and easy when it’s just the two of us! I’m really happy you think the same way as me!",
-   "zh": ": 只有我们俩的时候,一切都那么简单省心!你跟我想法一致,我真的很开心!"
-  },
-  {
-   "en": ": Because, between the way everyone keeps trying to harass me to get inside your room and the fact that they all think I’m not doing this for your sake, I’ve been starting to feel a little depressed lately.",
-   "zh": ": 因为一头是大家轮流骚扰我、非要闯进你的房间,另一头是他们全都觉得我不是为你好——我最近都有点抑郁了。"
-  },
-  {
-   "en": ": You don’t have to worry about me, though. I’m not letting it get in the way of your care. And I’ll continue doing everything I can to make sure you stay 100%% healthy, okay?",
-   "zh": ": 不过你不用担心我。我不会让它影响你的护理。我会继续竭尽全力,保证你的健康维持 100%%,好吗?"
-  },
-  {
-   "en": ": Now, show me how you say “Aaaaah!”",
-   "zh": ": 来,让我看看你怎么喊「啊啊——」!"
-  },
-  {
-   "en": ": Here comes the airplane, Sensei!",
-   "zh": ": 小飞机来咯,Sensei!"
-  },
-  {
-   "en": ": Ah! Oh no! It looks like some of the ketchup spilled on your chest! Ami to the rescue!",
-   "zh": ": 啊!哎呀!好像有番茄酱洒到你胸口了!Ami 来救场!"
-  },
-  {
-   "en": ": Ahm...mn...",
-   "zh": ": 啊嗯……嗯……"
-  },
-  {
-   "en": ": Mmm! That was delicious!",
-   "zh": ": 嗯!真好吃!"
-  },
-  {
-   "en": ": I think some of your flavor might have gotten mixed in with it on accident. Do you mind if I have a little more? I put so much love into this dish that I’m feeling a little lethargic all of a sudden! Hahah!",
-   "zh": ": 我觉得,你的味道好像不小心混进去了。介意我再尝一口吗?我往这道菜里倾注了太多爱,突然有点腿软!哈哈!"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Oh yeah?...",
-   "zh": ": 哦是吗?……"
-  },
-  {
-   "en": ": Then I guess I’ll just have to wait until after dinner to get a second taste...",
-   "zh": ": 那我只好等晚饭以后,再来讨第二口了……"
-  },
-  {
-   "en": "Ami’s affection has increased to [ami_love]!",
-   "zh": "Ami 的好感度提升到了 [ami_love]!"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Of course, you silly goose! Everything I do is for your own good! It’s just an added benefit that it’s been so enjoyable for the two of us.",
-   "zh": ": 当然了,你这个傻鹅!我做的一切都是为了你好!只不过我们俩都乐在其中,算是额外福利。"
-  },
-  {
-   "en": ": You’ve gotta make sure you eat the entire omelet though, got it? Broccoli too, mister. Don’t think for a second that I haven’t been keeping track of your fiber intake!",
-   "zh": ": 但你必须把整个蛋包饭吃完,记住了?西兰花也要吃,先生。别以为我没在记录你的纤维摄入!"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Really? Now?",
-   "zh": ": 认真的吗?现在?"
-  },
-  {
-   "en": ": But Sensei, your food will get cold. And I heard on TV that microwaves cause cancer, so I wouldn’t recommend reheating it and I’d probably just have to make your dinner all over again.",
-   "zh": ": 可是 Sensei,你的饭会凉的。而且电视上说微波炉致癌,所以我不建议你加热,那我大概只好重新做一顿晚餐。"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Hmm...if that really is the case...then I guess it can’t be helped.",
-   "zh": ": 嗯……如果事情真的这样……那也只好如此了。"
-  },
-  {
-   "en": ": But this is the last time I give you your check-up before you eat dinner, okay? No exceptions!",
-   "zh": ": 但这是最后一次了——以后体检一律放在晚饭之后,好吗?没有例外!"
-  },
-  {
-   "en": "Ami Arakawa places the omelet on the shelf next to the EnviroKids Organic Gorilla Munch Cereal before sanitizing her hands and climbing onto the bed beside her uncle.",
-   "zh": "Ami Arakawa 把蛋包饭放到架子上——旁边是 EnviroKids 有机大猩猩麦圈——然后给双手消毒,爬上她叔叔身边的床。"
-  },
-  {
-   "en": "He was a kind uncle. And it was unfortunate that he had come down with such a serious illness out of nowhere.",
-   "zh": "他本来是一位善良的叔叔。无缘无故染上如此重的病,实在不幸。"
-  },
-  {
-   "en": "But there was no illness too serious for Ami Arakawa. And she was determined to exorcise her uncle’s demons before they ever got the best of him.",
-   "zh": "但没有任何病重到能难倒 Ami Arakawa。她下定决心,要赶在那些恶魔压垮叔叔之前,把它们统统驱除。"
-  },
-  {
-   "en": "She’d been making excellent progress so far. This was evidenced by the amount of semen she was able to extract from him on a daily basis.",
-   "zh": "到目前为止,她的进展非常出色。证据就是她每天能从他体内提取的量。"
-  },
-  {
-   "en": "Not extracting this semen would result in her uncle’s penis exploding — a tragedy that would likely result in his death. And so she was doing both him and the world a favor by routinely milking him.",
-   "zh": "不把这些提取出来,她叔叔的 penis 就会爆炸——那将是一场悲剧,多半会导致他的死亡。所以她定期为他挤奶,既帮了他,也帮了全世界。"
-  },
-  {
-   "en": "It was a lot of work. Especially since her hands were so small and his phallus was so large. But again, there was nothing Ami Arakawa couldn’t handle.",
-   "zh": "这是个大工程。尤其她的手那么小,而他的肉柱那么大。但再说一遍,没有 Ami Arakawa 搞不定的事。"
-  },
-  {
-   "en": "And so she curled her fingers around his member, tugging gently while gazing into his eyes, glazed over from the illness.",
-   "zh": "于是她用手指环住他的肉柱,轻轻撸动,凝视着他的双眼——那双因疾病而失去神采的眼睛。"
-  },
-  {
-   "en": "The air conditioner hummed in the background, still left on from the season that had just passed, making his nipples hard and leaving goosebumps all over his body.",
-   "zh": "空调在背景里嗡嗡作响,上一个季节忘了关;凉气让他的乳尖挺立,让他浑身起满鸡皮疙瘩。"
-  },
-  {
-   "en": "Ami Arakawa was cold too. But she was not about to let her weakness show when it was pivotal for her to remain calm and composed during the milking process.",
-   "zh": "Ami Arakawa 也冷。但她绝不能露出软弱——在挤奶过程中保持冷静与沉着,至关重要。"
-  },
-  {
-   "en": "The slightest hiccup could result in his penis becoming soft, which would disrupt her healing practices and leave the demons trapped inside of her uncle to further corrupt him.",
-   "zh": "最轻微的差错都可能让他的 penis 软下去,那会打断她的治疗流程,把恶魔困在叔叔体内继续腐蚀他。"
-  },
-  {
-   "en": "This would be bad for many reasons, but the most important of all of them would be that it could result in his death.",
-   "zh": "这会带来很多坏处,而其中最要紧的一条,是可能导致他的死亡。"
-  },
-  {
-   "en": "Having already lost the rest of her family, this was not something Ami Arakawa wanted to happen. It would be the worst possible outcome.",
-   "zh": "她已经失去了其他所有家人,这种事 Ami Arakawa 绝不容许发生。那将是最坏的结局。"
-  },
-  {
-   "en": "She steels her gaze, piercing further through the gloss in her uncle’s diseased eyes, and hones in on the shine in his pupils.",
-   "zh": "她稳住目光,穿透叔叔病眼中的浑浊,聚焦在他瞳孔深处那一点光亮上。"
-  },
-  {
-   "en": "Within them, she sees a future with a swollen belly and a creature taking residence in her uterus. His creature. And it would grow and grow until she was able to puke it out of her beautiful vagina.",
-   "zh": "在瞳孔里,她看见一个未来:隆起的腹部,一个栖居于她子宫里的小生命。他的生命。它会长啊长,直到她把它从美丽的阴道里呕吐出来为止。"
-  },
-  {
-   "en": "It was so beautiful. It was a perfect vagina. It was the envy of Kumon-mi.",
-   "zh": "那真美。那是一个完美的阴道。整个 Kumon-mi 都会嫉妒。"
-  },
-  {
-   "en": "And only he and his preconceived creature were allowed to feast their eyes upon it.",
-   "zh": "而只有他和他所预想的那个小生命,被允许大饱眼福。"
-  },
-  {
-   "en": ": Does that feel good, [amimaster]?",
-   "zh": ": 舒服吗,[amimaster]?"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": All day? Really?",
-   "zh": ": 一整天?真的?"
-  },
-  {
-   "en": ": Then I’m sorry I kept you waiting just now. But you can go ahead and blame it on everybody else if it keeps me brighter in those pretty doe-eyes of yours.",
-   "zh": ": 那刚才让你久等了,对不起。不过你尽管把账算在别人头上——只要那能让你漂亮的小鹿眼里,我看起来更亮一点。"
-  },
-  {
-   "en": ": Is there anything in particular you want me doing to help you cum today? Any costume or role you want me to play? A certain speed or sensation you’re thirsting for?",
-   "zh": ": 今天你有没有特别想让我做什么来帮你去?想让我穿什么戏服、演什么角色?渴求某种速度还是某种感觉?"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": But I don’t have anything I want to do. I’m happy enough just getting to spend time with you.",
-   "zh": ": 可我没有什么想做的。光是能陪着你,我就已经足够幸福。"
-  },
-  {
-   "en": ": Just being allowed to pleasure you like this is more than I ever thought I’d get. And I thought of that a lot, you know. Since long before you ever wanted to touch me.",
-   "zh": ": 光是被允许这样取悦你,就已经超出我曾经的全部想象。这种事我想过很多次,你知道吗。远在你想碰我之前。"
-  },
-  {
-   "en": ": Or maybe you always did want to touch me. But you were just holding yourself back because I was too little...or because you just felt like you should have been “looking out for me” instead.",
-   "zh": ": 又或者,你其实一直想碰我。只是一直克制着——因为我那时太小……或者因为你觉得,你「应该」照顾我。"
-  },
-  {
-   "en": ": You were so silly back then, [amimaster]. And you’re silly now too. But “looking out for me?” That’s just crazy talk.",
-   "zh": ": 你那时候真傻,[amimaster]。现在也傻。但「照顾我」?那纯属天方夜谭。"
-  },
-  {
-   "en": ": I’m way stronger than you give me credit for. And the mere idea of needing somebody to look after me makes me chuckle. It’s me who is the caretaker. It’s me who lives to serve.",
-   "zh": ": 我远比你以为的坚强。光是「需要有人照顾」这个念头,就够我笑出声。我才是照顾者。我才是为侍奉而活的那个。"
-  },
-  {
-   "en": ": All you need to do is lay there and let me do what I was born to do, okay? I’ll jerk those demons out of you in no time at all.",
-   "zh": ": 你只需要躺着,让我做我生来就该做的事,好吗?我三两下就能把那些恶魔从你体内撸出来。"
-  },
-  {
-   "en": "And so Ami Arakawa proceeded to milk her uncle, stopping every several minutes to dry his drool with her sleeve.",
-   "zh": "于是 Ami Arakawa 开始为她的叔叔挤奶,每隔几分钟便停下来,用衣袖擦去他的口水。"
-  },
-  {
-   "en": "It was a kind gesture — both the milking and the drying of the drool. And it was further evidence to reestablish the fact that she was perfect for this role.",
-   "zh": "这是善举——挤奶是,擦口水也是。这进一步证明了她就是那个完美胜任此职的人。"
-  },
-  {
-   "en": "She really was “The Caretaker.” And anyone else who laid claim to the title only did so because they did not understand her worth.",
-   "zh": "她真的是「照顾者」。任何觊觎这个头衔的人,只是因为不明白她的价值。"
-  },
-  {
-   "en": "These good deeds of hers, hidden behind closed doors, would only be witnessed through the eyes of her uncle and the gods that watched over the Wishing Well.",
-   "zh": "她的这些善举,藏在门后,只有她叔叔的眼睛、和俯瞰许愿井的诸神得以见证。"
-  },
-  {
-   "en": "Throughout the course of this story, you have decided who some of those gods are. But you have made those decisions based on what you believe you know rather than what is actually true.",
-   "zh": "在这个故事的进程里,其中一些神是谁,由你决定。但你的决定,基于你自以为知道的事,而非真正属实的事。"
-  },
-  {
-   "en": "In a place far from here, the Xoanon plucks a body from the water, drying it off with a towel made of sheepskin, before scribbling something down in a notebook.",
-   "zh": "在远离此地的地方,Xoanon 从水中捞起一具身体,用一张羊皮毛巾擦干,然后在笔记本上写下几笔。"
-  },
-  {
-   "en": "It writes the following-",
-   "zh": "它写下了这样的话——"
-  },
-  {
-   "en": "“Blessed be those who live to protect. Who live selflessly, helplessly, and full of regret.”",
-   "zh": ": 「赐福于那些为守护而活的人。他们无私地、无助地、满怀悔恨地活着。」"
-  },
-  {
-   "en": "“What is it they long for? Why can’t they forget?”",
-   "zh": ": 「他们渴求的是什么?为什么忘不掉?」"
-  },
-  {
-   "en": "Then it puts its pen down and awaits the next reset.",
-   "zh": "然后它放下笔,等待下一次重置。"
-  },
-  {
-   "en": ": You’re getting close, [amimaster]. I can feel it throbbing in my hand.",
-   "zh": ": 你快到了,[amimaster]。我能感觉到它在我手里跳动。"
-  },
-  {
-   "en": ": Do you want me to slow down a little so you can savor the moment some more? Or should I work harder and help you finish up so you can eat?",
-   "zh": ": 要我放慢一点,让你多回味一会儿?还是我加把劲帮你收尾,好让你去吃饭?"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Nuh-uh. Edging isn’t good for your health. And while it may help you exercise your penis so you can last longer in bed, it does evil things to your mind. And your mind is what I love the most about you!",
-   "zh": ": 才不行。忍着不释放对身体不好。虽然它或许能锻炼你的 penis、让你在床上更持久,但它对你的脑子做坏事。而你的脑子,是我最爱你的地方!"
-  },
-  {
-   "en": ": It really just comes down to what type of orgasm feels best for you, [amimaster]. Do you want a slow, sensual one? Or do you want a fast, aggressive one? Just tell me and I’ll make it happen.",
-   "zh": ": 说到底,就看你想要哪种高潮,[amimaster]。慢慢来的、缠绵的那种?还是快的、猛烈的?告诉我,我照办。"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Really? You’ll let me choose again?",
-   "zh": ": 真的吗?又让我选?"
-  },
-  {
-   "en": ": What did I do to deserve such kindness today?",
-   "zh": ": 我何德何能,今天受到这般优待?"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Aww! That’s so sweet of you, [amimaster]! Thank you so much for recognizing how hard I’ve been working these last few weeks.",
-   "zh": ": 哇!你太贴心了,[amimaster]!谢谢你认可我这几个星期的辛苦!"
-  },
-  {
-   "en": ": And don’t worry about “Christmas being ruined” because I can promise you it’s not. Just knowing we can celebrate it together is the best gift I could ever-",
-   "zh": ": 还有,别担心「圣诞节会被毁掉」,我向你保证不会。光是知道我们能一起庆祝,就已经是我能想到最好的礼物——"
-  },
-  {
-   "en": ": e",
-   "zh": ": e"
-  },
-  {
-   "en": ": Ah! You’re about to cum, aren’t you?",
-   "zh": ": 啊!你要去了,对不对?"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": That’s okay, [amimaster]. Just hold it in for one more second while I get the jar.",
-   "zh": ": 没关系,[amimaster]。再憋一秒,我去拿罐子。"
-  },
-  {
-   "en": "Ami Arakawa dashes to the shelf she previously placed her famous omurice on and begins to frantically search for the second object she entered the room with.",
-   "zh": "Ami Arakawa 冲向放着她招牌蛋包饭的架子,开始疯狂翻找她进屋时带来的第二件物品。"
-  },
-  {
-   "en": "It was a mason jar. But it wasn’t just any mason jar. It was a special mason jar.",
-   "zh": "那是一个梅森罐。但它不只是普通的梅森罐。它是一个特别的梅森罐。"
-  },
-  {
-   "en": "You see, Ami Arakawa had been collecting her uncle’s semen in jars just like this one since he was hospitalized on the night of November 1st.",
-   "zh": "事情是这样的:自 11 月 1 日夜里叔叔入院以来,Ami Arakawa 一直用这样的罐子收集他的精液。"
-  },
-  {
-   "en": "This was the third jar. There were two more, half-full or half-empty, inside the freezer and beside the carrots.",
-   "zh": "这是第三个罐子。还有两个,半满或者半空,在冷冻柜里,放在胡萝卜旁边。"
-  },
-  {
-   "en": "She was saving them for a special occasion and had the intent to use their contents for various purposes ranging from baking to recreation on days where she didn’t have much going on.",
-   "zh": "她把它们留着等一个特别的场合,并打算在闲来无事的某天,把这些内容物用于烘焙乃至消遣等各种用途。"
-  },
-  {
-   "en": "There were several more important reasons to keep such a specific item in her freezer, but Ami Arakawa has requested that they not be included in dialogue constructed by “AUTO-PILOT.”",
-   "zh": "在冷冻柜里保存这种特定物品,还有几个更重要的理由——但 Ami Arakawa 要求,不要把它们写进由「AUTO-PILOT」构建的对话里。"
-  },
-  {
-   "en": "She gripped her uncle’s penis harder than before, aiming it at the upper section of the glass as she was amused by the way his semen looked when it shot out and made contact with it.",
-   "zh": "她把叔叔的 penis 攥得更紧,对准玻璃罐的上半部分——因为他的精液射出、砸上玻璃的样子,让她觉得很有趣。"
-  },
-  {
-   "en": "The way it dripped down to the lower section always made her giggle, but it was less because of the visual aspect and more because it elicited a sense of satisfaction over a job well done.",
-   "zh": "它一路往下淌到罐底的样子,总能让她咯咯笑;不过与其说是画面好笑,不如说是那份「工作圆满完成」的满足感。"
-  },
-  {
-   "en": "These jars, in addition to their more practical uses, served as trophies. And she hoped to collect so many that she’d have to either eat those frozen carrots or let them thaw and rot out on the kitchen counter.",
-   "zh": "这些罐子除了更实际的用途,还兼任奖杯。她希望收集到那么多——多到她要么得把那些冻胡萝卜吃掉,要么让它们在厨房台面上解冻、烂掉。"
-  },
-  {
-   "en": "Her butt swayed in front of her uncle’s face, but she knew better than to expect his tongue to exit his mouth and make contact with her in any form.",
-   "zh": "她的臀部在叔叔脸前来回摇晃,但她心里有数:别指望他的舌头会从嘴里出来、以任何形式碰到她。"
-  },
-  {
-   "en": "Regardless, such a desire did not matter.",
-   "zh": "无论如何,那种欲望无关紧要。"
-  },
-  {
-   "en": "Ami Arakawa was the caretaker — and she was here to perfectly perform her role in the grand scheme of the universe.",
-   "zh": "Ami Arakawa 是照顾者——而她在这里,是要在宇宙的宏伟蓝图中,完美地履行她的职责。"
-  },
-  {
-   "en": "She was here to milk her family.",
-   "zh": "她在这里,是要为她的家人挤奶。"
-  },
-  {
-   "en": ": Come on, [amimaster]. Let it all out.",
-   "zh": ": 来吧,[amimaster]。全部释放出来。"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": I know the jar is cold, I’m sorry. You’re just so big that it’s hard to keep everything straight without having you brush up against it every once in a while.",
-   "zh": ": 我知道罐子是凉的,对不起。你实在太大了,不偶尔蹭一蹭罐口,我很难把一切拿稳。"
-  },
-  {
-   "en": ": I’d get a bigger jar, but I’m not sure if I’d be able to fit it inside the-",
-   "zh": ": 我倒是想换个大点的罐子,但我不确定它还能不能塞进——"
-  },
-  {
-   "en": ": Ah! There you go!",
-   "zh": ": 啊!这就对了!"
-  },
-  {
-   "en": ": Good boy, [amimaster]! You let out a whole lot today!",
-   "zh": ": 乖孩子,[amimaster]!今天释放了好多好多!"
-  },
-  {
-   "en": ": Maybe I’ll have to start milking you even more often if your body is producing this much? How does that sound? Good?",
-   "zh": ": 要是你的产量都这么高,我是不是该更频繁地给你挤奶?听起来怎么样?好吗?"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Good!",
-   "zh": ": 好!"
-  },
-  {
-   "en": ": I’ll go put this on ice so it doesn’t go bad and I’ll be right back to clean you up, okay?",
-   "zh": ": 我去把这个冰起来免得变质,马上回来给你清理,好吗?"
-  },
-  {
-   "en": ": Then, after that, I’ll remake your dinner and we can take a bath and watch Christmas movies! Yay!",
-   "zh": ": 然后,完事之后,我重做你的晚饭,我们去泡澡、看圣诞电影!耶!"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": I love you too, [amimaster]! Be back soon!",
-   "zh": ": 我也爱你,[amimaster]!马上回来!"
-  },
-  {
-   "en": "Ami Arakawa leaves the room.",
-   "zh": "Ami Arakawa 离开了房间。"
-  },
-  {
-   "en": "The music stops.",
-   "zh": "音乐停了。"
-  },
-  {
-   "en": "And her uncle, Akira, remains on the bed having just been milked to completion.",
-   "zh": "而她的叔叔 Akira,仍躺在床上,刚刚被挤到一滴不剩。"
-  },
-  {
-   "en": "His phallus twitches as his nipples harden once more from the cool air of the forgotten machine in the corner of the room.",
-   "zh": "他的肉柱抽搐着,乳头因为房间角落那台被遗忘的机器的凉气,再度挺立。"
-  },
-  {
-   "en": "The door of the freezer is opened.",
-   "zh": "冷冻柜的门被打开。"
-  },
-  {
-   "en": "The carrots are left out to thaw.",
-   "zh": "胡萝卜被留在那里解冻。"
-  },
-  {
-   "en": "Ami’s lust has increased to [ami_lust]!",
-   "zh": "Ami 的欲望提升到了 [ami_lust]!"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  }
- ]
+  "label": "amilust60",
+  "title_zh": "照顾者",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amilust60intro:",
+      "zh": ""
+    },
+    {
+      "en": "scene anothercollector1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector1.webp",
+      "alt": "anothercollector1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hi! Sorry I disappeared for so long, Sensei. A few of the girls decided to show up unannounced and I had to make sure they weren’t here to hurt you.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗨!抱歉我消失了这么久,Sensei。有几个女孩不请自来,我得确认她们不是来伤害你的。"
+    },
+    {
+      "en": ": But, on the bright side, Niki and Noriko dropped by as well! And they left you a bunch of presents on the dining room table!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不过往好处想,Niki 和 Noriko 也顺路来了!她们在餐桌上给你留了一堆礼物!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector2.webp",
+      "alt": "anothercollector2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I had to go through them to make sure there wasn’t anything dangerous inside, but I re-wrapped them pretty perfectly if I do say so myself. And I can help you open them later once we’re done with your checkup.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我必须逐一检查,确保里面没藏危险品,不过我重新包得相当完美——容我自夸一句。等你体检完,我还能陪你一起拆。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector3.webp",
+      "alt": "anothercollector3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh! And since you haven’t been able to visit the maid cafe in so long, I decided to make you my famous omurice! Complete with my own brand of flavor beam that I can guarantee you is better than Uta’s!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哦!还有,你这么久没去女仆咖啡厅了,所以我决定给你做我的招牌蛋包饭!配上我的独家风味光线,我保证比 Uta 的强!"
+    },
+    {
+      "en": ": Don’t worry, though! I’m sure you’ll be strong enough to leave the house and go visit there soon if you keep improving at the rate you have been!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不过别担心!只要你保持现在的康复速度,你很快就会有力气出门去店里了!"
+    },
+    {
+      "en": ": Not that there’s any reason you’d want to leave, though. Right, Sensei?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 当然,你也没有任何理由想出去。对吧,Sensei?"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector4.webp",
+      "alt": "anothercollector4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Exactly!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 没错!"
+    },
+    {
+      "en": ": Things are so simple and easy when it’s just the two of us! I’m really happy you think the same way as me!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 只有我们俩的时候,一切都那么简单省心!你跟我想法一致,我真的很开心!"
+    },
+    {
+      "en": ": Because, between the way everyone keeps trying to harass me to get inside your room and the fact that they all think I’m not doing this for your sake, I’ve been starting to feel a little depressed lately.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 因为一头是大家轮流骚扰我、非要闯进你的房间,另一头是他们全都觉得我不是为你好——我最近都有点抑郁了。"
+    },
+    {
+      "en": ": You don’t have to worry about me, though. I’m not letting it get in the way of your care. And I’ll continue doing everything I can to make sure you stay 100%% healthy, okay?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不过你不用担心我。我不会让它影响你的护理。我会继续竭尽全力,保证你的健康维持 100%%,好吗?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if ami_lust >= 60:",
+      "zh": ""
+    },
+    {
+      "en": "jump amilust60",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Now, show me how you say “Aaaaah!”",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 来,让我看看你怎么喊「啊啊——」!"
+    },
+    {
+      "en": ": Here comes the airplane, Sensei!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 小飞机来咯,Sensei!"
+    },
+    {
+      "en": ": Ah! Oh no! It looks like some of the ketchup spilled on your chest! Ami to the rescue!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 啊!哎呀!好像有番茄酱洒到你胸口了!Ami 来救场!"
+    },
+    {
+      "en": ": Ahm...mn...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 啊嗯……嗯……"
+    },
+    {
+      "en": ": Mmm! That was delicious!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯!真好吃!"
+    },
+    {
+      "en": ": I think some of your flavor might have gotten mixed in with it on accident. Do you mind if I have a little more? I put so much love into this dish that I’m feeling a little lethargic all of a sudden! Hahah!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我觉得,你的味道好像不小心混进去了。介意我再尝一口吗?我往这道菜里倾注了太多爱,突然有点腿软!哈哈!"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Oh yeah?...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哦是吗?……"
+    },
+    {
+      "en": ": Then I guess I’ll just have to wait until after dinner to get a second taste...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 那我只好等晚饭以后,再来讨第二口了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ami_love += 10",
+      "zh": ""
+    },
+    {
+      "en": "$ amilust60skip = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami’s affection has increased to [ami_love]!",
+      "zh": "Ami 的好感度提升到了 [ami_love]!"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump springtime6",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label amilust60:",
+      "zh": ""
+    },
+    {
+      "en": "scene anothercollector4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector4.webp",
+      "alt": "anothercollector4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector5.webp",
+      "alt": "anothercollector5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course, you silly goose! Everything I do is for your own good! It’s just an added benefit that it’s been so enjoyable for the two of us.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 当然了,你这个傻鹅!我做的一切都是为了你好!只不过我们俩都乐在其中,算是额外福利。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector6.webp",
+      "alt": "anothercollector6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’ve gotta make sure you eat the entire omelet though, got it? Broccoli too, mister. Don’t think for a second that I haven’t been keeping track of your fiber intake!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 但你必须把整个蛋包饭吃完,记住了?西兰花也要吃,先生。别以为我没在记录你的纤维摄入!"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector7.webp",
+      "alt": "anothercollector7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Really? Now?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 认真的吗?现在?"
+    },
+    {
+      "en": ": But Sensei, your food will get cold. And I heard on TV that microwaves cause cancer, so I wouldn’t recommend reheating it and I’d probably just have to make your dinner all over again.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 可是 Sensei,你的饭会凉的。而且电视上说微波炉致癌,所以我不建议你加热,那我大概只好重新做一顿晚餐。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector8.webp",
+      "alt": "anothercollector8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmm...if that really is the case...then I guess it can’t be helped.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯……如果事情真的这样……那也只好如此了。"
+    },
+    {
+      "en": ": But this is the last time I give you your check-up before you eat dinner, okay? No exceptions!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 但这是最后一次了——以后体检一律放在晚饭之后,好吗?没有例外!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami Arakawa places the omelet on the shelf next to the EnviroKids Organic Gorilla Munch Cereal before sanitizing her hands and climbing onto the bed beside her uncle.",
+      "zh": "Ami Arakawa 把蛋包饭放到架子上——旁边是 EnviroKids 有机大猩猩麦圈——然后给双手消毒,爬上她叔叔身边的床。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector9.webp",
+      "alt": "anothercollector9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "He was a kind uncle. And it was unfortunate that he had come down with such a serious illness out of nowhere.",
+      "zh": "他本来是一位善良的叔叔。无缘无故染上如此重的病,实在不幸。"
+    },
+    {
+      "en": "But there was no illness too serious for Ami Arakawa. And she was determined to exorcise her uncle’s demons before they ever got the best of him.",
+      "zh": "但没有任何病重到能难倒 Ami Arakawa。她下定决心,要赶在那些恶魔压垮叔叔之前,把它们统统驱除。"
+    },
+    {
+      "en": "She’d been making excellent progress so far. This was evidenced by the amount of semen she was able to extract from him on a daily basis.",
+      "zh": "到目前为止,她的进展非常出色。证据就是她每天能从他体内提取的量。"
+    },
+    {
+      "en": "Not extracting this semen would result in her uncle’s penis exploding — a tragedy that would likely result in his death. And so she was doing both him and the world a favor by routinely milking him.",
+      "zh": "不把这些提取出来,她叔叔的 penis 就会爆炸——那将是一场悲剧,多半会导致他的死亡。所以她定期为他挤奶,既帮了他,也帮了全世界。"
+    },
+    {
+      "en": "It was a lot of work. Especially since her hands were so small and his phallus was so large. But again, there was nothing Ami Arakawa couldn’t handle.",
+      "zh": "这是个大工程。尤其她的手那么小,而他的肉柱那么大。但再说一遍,没有 Ami Arakawa 搞不定的事。"
+    },
+    {
+      "en": "And so she curled her fingers around his member, tugging gently while gazing into his eyes, glazed over from the illness.",
+      "zh": "于是她用手指环住他的肉柱,轻轻撸动,凝视着他的双眼——那双因疾病而失去神采的眼睛。"
+    },
+    {
+      "en": "The air conditioner hummed in the background, still left on from the season that had just passed, making his nipples hard and leaving goosebumps all over his body.",
+      "zh": "空调在背景里嗡嗡作响,上一个季节忘了关;凉气让他的乳尖挺立,让他浑身起满鸡皮疙瘩。"
+    },
+    {
+      "en": "Ami Arakawa was cold too. But she was not about to let her weakness show when it was pivotal for her to remain calm and composed during the milking process.",
+      "zh": "Ami Arakawa 也冷。但她绝不能露出软弱——在挤奶过程中保持冷静与沉着,至关重要。"
+    },
+    {
+      "en": "The slightest hiccup could result in his penis becoming soft, which would disrupt her healing practices and leave the demons trapped inside of her uncle to further corrupt him.",
+      "zh": "最轻微的差错都可能让他的 penis 软下去,那会打断她的治疗流程,把恶魔困在叔叔体内继续腐蚀他。"
+    },
+    {
+      "en": "This would be bad for many reasons, but the most important of all of them would be that it could result in his death.",
+      "zh": "这会带来很多坏处,而其中最要紧的一条,是可能导致他的死亡。"
+    },
+    {
+      "en": "Having already lost the rest of her family, this was not something Ami Arakawa wanted to happen. It would be the worst possible outcome.",
+      "zh": "她已经失去了其他所有家人,这种事 Ami Arakawa 绝不容许发生。那将是最坏的结局。"
+    },
+    {
+      "en": "She steels her gaze, piercing further through the gloss in her uncle’s diseased eyes, and hones in on the shine in his pupils.",
+      "zh": "她稳住目光,穿透叔叔病眼中的浑浊,聚焦在他瞳孔深处那一点光亮上。"
+    },
+    {
+      "en": "Within them, she sees a future with a swollen belly and a creature taking residence in her uterus. His creature. And it would grow and grow until she was able to puke it out of her beautiful vagina.",
+      "zh": "在瞳孔里,她看见一个未来:隆起的腹部,一个栖居于她子宫里的小生命。他的生命。它会长啊长,直到她把它从美丽的阴道里呕吐出来为止。"
+    },
+    {
+      "en": "It was so beautiful. It was a perfect vagina. It was the envy of Kumon-mi.",
+      "zh": "那真美。那是一个完美的阴道。整个 Kumon-mi 都会嫉妒。"
+    },
+    {
+      "en": "And only he and his preconceived creature were allowed to feast their eyes upon it.",
+      "zh": "而只有他和他所预想的那个小生命,被允许大饱眼福。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Does that feel good, [amimaster]?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 舒服吗,[amimaster]?"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": All day? Really?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 一整天?真的?"
+    },
+    {
+      "en": ": Then I’m sorry I kept you waiting just now. But you can go ahead and blame it on everybody else if it keeps me brighter in those pretty doe-eyes of yours.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 那刚才让你久等了,对不起。不过你尽管把账算在别人头上——只要那能让你漂亮的小鹿眼里,我看起来更亮一点。"
+    },
+    {
+      "en": ": Is there anything in particular you want me doing to help you cum today? Any costume or role you want me to play? A certain speed or sensation you’re thirsting for?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 今天你有没有特别想让我做什么来帮你去?想让我穿什么戏服、演什么角色?渴求某种速度还是某种感觉?"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": But I don’t have anything I want to do. I’m happy enough just getting to spend time with you.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 可我没有什么想做的。光是能陪着你,我就已经足够幸福。"
+    },
+    {
+      "en": ": Just being allowed to pleasure you like this is more than I ever thought I’d get. And I thought of that a lot, you know. Since long before you ever wanted to touch me.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 光是被允许这样取悦你,就已经超出我曾经的全部想象。这种事我想过很多次,你知道吗。远在你想碰我之前。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector10.webp",
+      "alt": "anothercollector10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Or maybe you always did want to touch me. But you were just holding yourself back because I was too little...or because you just felt like you should have been “looking out for me” instead.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 又或者,你其实一直想碰我。只是一直克制着——因为我那时太小……或者因为你觉得,你「应该」照顾我。"
+    },
+    {
+      "en": ": You were so silly back then, [amimaster]. And you’re silly now too. But “looking out for me?” That’s just crazy talk.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你那时候真傻,[amimaster]。现在也傻。但「照顾我」?那纯属天方夜谭。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector11.webp",
+      "alt": "anothercollector11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m way stronger than you give me credit for. And the mere idea of needing somebody to look after me makes me chuckle. It’s me who is the caretaker. It’s me who lives to serve.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我远比你以为的坚强。光是「需要有人照顾」这个念头,就够我笑出声。我才是照顾者。我才是为侍奉而活的那个。"
+    },
+    {
+      "en": ": All you need to do is lay there and let me do what I was born to do, okay? I’ll jerk those demons out of you in no time at all.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你只需要躺着,让我做我生来就该做的事,好吗?我三两下就能把那些恶魔从你体内撸出来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector12.webp",
+      "alt": "anothercollector12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And so Ami Arakawa proceeded to milk her uncle, stopping every several minutes to dry his drool with her sleeve.",
+      "zh": "于是 Ami Arakawa 开始为她的叔叔挤奶,每隔几分钟便停下来,用衣袖擦去他的口水。"
+    },
+    {
+      "en": "It was a kind gesture — both the milking and the drying of the drool. And it was further evidence to reestablish the fact that she was perfect for this role.",
+      "zh": "这是善举——挤奶是,擦口水也是。这进一步证明了她就是那个完美胜任此职的人。"
+    },
+    {
+      "en": "She really was “The Caretaker.” And anyone else who laid claim to the title only did so because they did not understand her worth.",
+      "zh": "她真的是「照顾者」。任何觊觎这个头衔的人,只是因为不明白她的价值。"
+    },
+    {
+      "en": "These good deeds of hers, hidden behind closed doors, would only be witnessed through the eyes of her uncle and the gods that watched over the Wishing Well.",
+      "zh": "她的这些善举,藏在门后,只有她叔叔的眼睛、和俯瞰许愿井的诸神得以见证。"
+    },
+    {
+      "en": "Throughout the course of this story, you have decided who some of those gods are. But you have made those decisions based on what you believe you know rather than what is actually true.",
+      "zh": "在这个故事的进程里,其中一些神是谁,由你决定。但你的决定,基于你自以为知道的事,而非真正属实的事。"
+    },
+    {
+      "en": "In a place far from here, the Xoanon plucks a body from the water, drying it off with a towel made of sheepskin, before scribbling something down in a notebook.",
+      "zh": "在远离此地的地方,Xoanon 从水中捞起一具身体,用一张羊皮毛巾擦干,然后在笔记本上写下几笔。"
+    },
+    {
+      "en": "It writes the following-",
+      "zh": "它写下了这样的话——"
+    },
+    {
+      "en": "“Blessed be those who live to protect. Who live selflessly, helplessly, and full of regret.”",
+      "zh": ": 「赐福于那些为守护而活的人。他们无私地、无助地、满怀悔恨地活着。」"
+    },
+    {
+      "en": "“What is it they long for? Why can’t they forget?”",
+      "zh": ": 「他们渴求的是什么?为什么忘不掉?」"
+    },
+    {
+      "en": "Then it puts its pen down and awaits the next reset.",
+      "zh": "然后它放下笔,等待下一次重置。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re getting close, [amimaster]. I can feel it throbbing in my hand.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你快到了,[amimaster]。我能感觉到它在我手里跳动。"
+    },
+    {
+      "en": ": Do you want me to slow down a little so you can savor the moment some more? Or should I work harder and help you finish up so you can eat?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 要我放慢一点,让你多回味一会儿?还是我加把劲帮你收尾,好让你去吃饭?"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector13.webp",
+      "alt": "anothercollector13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nuh-uh. Edging isn’t good for your health. And while it may help you exercise your penis so you can last longer in bed, it does evil things to your mind. And your mind is what I love the most about you!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 才不行。忍着不释放对身体不好。虽然它或许能锻炼你的 penis、让你在床上更持久,但它对你的脑子做坏事。而你的脑子,是我最爱你的地方!"
+    },
+    {
+      "en": ": It really just comes down to what type of orgasm feels best for you, [amimaster]. Do you want a slow, sensual one? Or do you want a fast, aggressive one? Just tell me and I’ll make it happen.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 说到底,就看你想要哪种高潮,[amimaster]。慢慢来的、缠绵的那种?还是快的、猛烈的?告诉我,我照办。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Really? You’ll let me choose again?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 真的吗?又让我选?"
+    },
+    {
+      "en": ": What did I do to deserve such kindness today?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我何德何能,今天受到这般优待?"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector14.webp",
+      "alt": "anothercollector14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Aww! That’s so sweet of you, [amimaster]! Thank you so much for recognizing how hard I’ve been working these last few weeks.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哇!你太贴心了,[amimaster]!谢谢你认可我这几个星期的辛苦!"
+    },
+    {
+      "en": ": And don’t worry about “Christmas being ruined” because I can promise you it’s not. Just knowing we can celebrate it together is the best gift I could ever-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 还有,别担心「圣诞节会被毁掉」,我向你保证不会。光是知道我们能一起庆祝,就已经是我能想到最好的礼物——"
+    },
+    {
+      "en": ": e",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": e"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector15.webp",
+      "alt": "anothercollector15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah! You’re about to cum, aren’t you?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 啊!你要去了,对不对?"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": That’s okay, [amimaster]. Just hold it in for one more second while I get the jar.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 没关系,[amimaster]。再憋一秒,我去拿罐子。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami Arakawa dashes to the shelf she previously placed her famous omurice on and begins to frantically search for the second object she entered the room with.",
+      "zh": "Ami Arakawa 冲向放着她招牌蛋包饭的架子,开始疯狂翻找她进屋时带来的第二件物品。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector16.webp",
+      "alt": "anothercollector16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It was a mason jar. But it wasn’t just any mason jar. It was a special mason jar.",
+      "zh": "那是一个梅森罐。但它不只是普通的梅森罐。它是一个特别的梅森罐。"
+    },
+    {
+      "en": "You see, Ami Arakawa had been collecting her uncle’s semen in jars just like this one since he was hospitalized on the night of November 1st.",
+      "zh": "事情是这样的:自 11 月 1 日夜里叔叔入院以来,Ami Arakawa 一直用这样的罐子收集他的精液。"
+    },
+    {
+      "en": "This was the third jar. There were two more, half-full or half-empty, inside the freezer and beside the carrots.",
+      "zh": "这是第三个罐子。还有两个,半满或者半空,在冷冻柜里,放在胡萝卜旁边。"
+    },
+    {
+      "en": "She was saving them for a special occasion and had the intent to use their contents for various purposes ranging from baking to recreation on days where she didn’t have much going on.",
+      "zh": "她把它们留着等一个特别的场合,并打算在闲来无事的某天,把这些内容物用于烘焙乃至消遣等各种用途。"
+    },
+    {
+      "en": "There were several more important reasons to keep such a specific item in her freezer, but Ami Arakawa has requested that they not be included in dialogue constructed by “AUTO-PILOT.”",
+      "zh": "在冷冻柜里保存这种特定物品,还有几个更重要的理由——但 Ami Arakawa 要求,不要把它们写进由「AUTO-PILOT」构建的对话里。"
+    },
+    {
+      "en": "She gripped her uncle’s penis harder than before, aiming it at the upper section of the glass as she was amused by the way his semen looked when it shot out and made contact with it.",
+      "zh": "她把叔叔的 penis 攥得更紧,对准玻璃罐的上半部分——因为他的精液射出、砸上玻璃的样子,让她觉得很有趣。"
+    },
+    {
+      "en": "The way it dripped down to the lower section always made her giggle, but it was less because of the visual aspect and more because it elicited a sense of satisfaction over a job well done.",
+      "zh": "它一路往下淌到罐底的样子,总能让她咯咯笑;不过与其说是画面好笑,不如说是那份「工作圆满完成」的满足感。"
+    },
+    {
+      "en": "These jars, in addition to their more practical uses, served as trophies. And she hoped to collect so many that she’d have to either eat those frozen carrots or let them thaw and rot out on the kitchen counter.",
+      "zh": "这些罐子除了更实际的用途,还兼任奖杯。她希望收集到那么多——多到她要么得把那些冻胡萝卜吃掉,要么让它们在厨房台面上解冻、烂掉。"
+    },
+    {
+      "en": "Her butt swayed in front of her uncle’s face, but she knew better than to expect his tongue to exit his mouth and make contact with her in any form.",
+      "zh": "她的臀部在叔叔脸前来回摇晃,但她心里有数:别指望他的舌头会从嘴里出来、以任何形式碰到她。"
+    },
+    {
+      "en": "Regardless, such a desire did not matter.",
+      "zh": "无论如何,那种欲望无关紧要。"
+    },
+    {
+      "en": "Ami Arakawa was the caretaker — and she was here to perfectly perform her role in the grand scheme of the universe.",
+      "zh": "Ami Arakawa 是照顾者——而她在这里,是要在宇宙的宏伟蓝图中,完美地履行她的职责。"
+    },
+    {
+      "en": "She was here to milk her family.",
+      "zh": "她在这里,是要为她的家人挤奶。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come on, [amimaster]. Let it all out.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 来吧,[amimaster]。全部释放出来。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": I know the jar is cold, I’m sorry. You’re just so big that it’s hard to keep everything straight without having you brush up against it every once in a while.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我知道罐子是凉的,对不起。你实在太大了,不偶尔蹭一蹭罐口,我很难把一切拿稳。"
+    },
+    {
+      "en": ": I’d get a bigger jar, but I’m not sure if I’d be able to fit it inside the-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我倒是想换个大点的罐子,但我不确定它还能不能塞进——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector17.webp",
+      "alt": "anothercollector17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah! There you go!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 啊!这就对了!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene anothercollector18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/anothercollector18.webp",
+      "alt": "anothercollector18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Good boy, [amimaster]! You let out a whole lot today!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 乖孩子,[amimaster]!今天释放了好多好多!"
+    },
+    {
+      "en": ": Maybe I’ll have to start milking you even more often if your body is producing this much? How does that sound? Good?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 要是你的产量都这么高,我是不是该更频繁地给你挤奶?听起来怎么样?好吗?"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Good!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 好!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’ll go put this on ice so it doesn’t go bad and I’ll be right back to clean you up, okay?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我去把这个冰起来免得变质,马上回来给你清理,好吗?"
+    },
+    {
+      "en": ": Then, after that, I’ll remake your dinner and we can take a bath and watch Christmas movies! Yay!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 然后,完事之后,我重做你的晚饭,我们去泡澡、看圣诞电影!耶!"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": I love you too, [amimaster]! Be back soon!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我也爱你,[amimaster]!马上回来!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami Arakawa leaves the room.",
+      "zh": "Ami Arakawa 离开了房间。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The music stops.",
+      "zh": "音乐停了。"
+    },
+    {
+      "en": "And her uncle, Akira, remains on the bed having just been milked to completion.",
+      "zh": "而她的叔叔 Akira,仍躺在床上,刚刚被挤到一滴不剩。"
+    },
+    {
+      "en": "His phallus twitches as his nipples harden once more from the cool air of the forgotten machine in the corner of the room.",
+      "zh": "他的肉柱抽搐着,乳头因为房间角落那台被遗忘的机器的凉气,再度挺立。"
+    },
+    {
+      "en": "The door of the freezer is opened.",
+      "zh": "冷冻柜的门被打开。"
+    },
+    {
+      "en": "The carrots are left out to thaw.",
+      "zh": "胡萝卜被留在那里解冻。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ amilust60 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ ami_lust += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami’s lust has increased to [ami_lust]!",
+      "zh": "Ami 的欲望提升到了 [ami_lust]!"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump springtime6",
+      "zh": ""
+    }
+  ]
 }

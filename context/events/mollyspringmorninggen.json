@@ -1,62 +1,113 @@
 {
- "label": "mollyspringmorninggen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Molly early in the morning, expecting her to not pick up so I can say “at least I tried” and then give myself an excuse to sulk for the rest of the day.",
-   "zh": ""
-  },
-  {
-   "en": "Unfortunately, she does answer. And now I'm here on a park bench beside her, once again not understanding anything and wishing I called someone else instead.",
-   "zh": ""
-  },
-  {
-   "en": "Which isn't to say I dislike her. That's not true at all. I've gotten weirdly close to Molly over my time here. But I also know it won't ever go anywhere.",
-   "zh": ""
-  },
-  {
-   "en": "She and I aren't “compatible.” Just look at us. The best we can do for one another is soak up each other's fleeting lust so it doesn't ooze out of our bodies and drown the city.",
-   "zh": ""
-  },
-  {
-   "en": "But you know- maybe drowning the city would be good.",
-   "zh": ""
-  },
-  {
-   "en": "It often feels like I'm underwater anyway. Like I'm trying to move, but my body's so weighed down that it won't cooperate.",
-   "zh": ""
-  },
-  {
-   "en": "I wonder how often everyone feels that way. And I wonder if any of those feelings would change if we had gills.",
-   "zh": ""
-  },
-  {
-   "en": "I think about fish being all fish-like. I stop thinking about Molly.",
-   "zh": ""
-  },
-  {
-   "en": "But she doesn't stop thinking about me.",
-   "zh": ""
-  },
-  {
-   "en": "I can tell because I can still hear her from a hundred feet below sea level.",
-   "zh": ""
-  },
-  {
-   "en": "Molly’s affection has increased to [molly_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "mollyspringmorninggen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mollyspringmorninggen:",
+      "zh": ""
+    },
+    {
+      "en": "scene mollyspringmorninggen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/mollyspringmorninggen.webp",
+      "alt": "mollyspringmorninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Molly early in the morning, expecting her to not pick up so I can say “at least I tried” and then give myself an excuse to sulk for the rest of the day.",
+      "zh": ""
+    },
+    {
+      "en": "Unfortunately, she does answer. And now I'm here on a park bench beside her, once again not understanding anything and wishing I called someone else instead.",
+      "zh": ""
+    },
+    {
+      "en": "Which isn't to say I dislike her. That's not true at all. I've gotten weirdly close to Molly over my time here. But I also know it won't ever go anywhere.",
+      "zh": ""
+    },
+    {
+      "en": "She and I aren't “compatible.” Just look at us. The best we can do for one another is soak up each other's fleeting lust so it doesn't ooze out of our bodies and drown the city.",
+      "zh": ""
+    },
+    {
+      "en": "But you know- maybe drowning the city would be good.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It often feels like I'm underwater anyway. Like I'm trying to move, but my body's so weighed down that it won't cooperate.",
+      "zh": ""
+    },
+    {
+      "en": "I wonder how often everyone feels that way. And I wonder if any of those feelings would change if we had gills.",
+      "zh": ""
+    },
+    {
+      "en": "I think about fish being all fish-like. I stop thinking about Molly.",
+      "zh": ""
+    },
+    {
+      "en": "But she doesn't stop thinking about me.",
+      "zh": ""
+    },
+    {
+      "en": "I can tell because I can still hear her from a hundred feet below sea level.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ molly_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Molly’s affection has increased to [molly_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump noonch4",
+      "zh": ""
+    }
+  ]
 }

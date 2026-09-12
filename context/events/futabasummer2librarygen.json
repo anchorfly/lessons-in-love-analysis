@@ -1,70 +1,121 @@
 {
- "label": "futabasummer2librarygen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I head over to the library to see what Futaba is doing and, hold onto the edge of your seat for this, she’s reading.",
-   "zh": ""
-  },
-  {
-   "en": "Or was reading.",
-   "zh": ""
-  },
-  {
-   "en": "Her attention immediately switches to me as I’m more interesting than any sort of book she could possibly pick up, and likely packed with significantly more secrets as well.",
-   "zh": ""
-  },
-  {
-   "en": "Unfortunately for her (And even less fortunately for me), those secrets are pressed so far into the back of my mind that it would take the world’s most seasoned psychological spelunker to uncover them.",
-   "zh": ""
-  },
-  {
-   "en": "Seeing as Futaba is not at all qualified for that job, the two of us make idle chit chat about things that will not cause my mind to melt into a puddle of Jell-O.",
-   "zh": ""
-  },
-  {
-   "en": "I wind up asking her about how her journey as a writer is going, but it seems she hasn’t had much time to write at all as of late.",
-   "zh": ""
-  },
-  {
-   "en": "I can’t tell if that’s the truth or just some sort of excuse she’s coming up with to avoid disappointing me, but it’s not as if I’d be majorly disappointed to begin with.",
-   "zh": ""
-  },
-  {
-   "en": "The whole reason I pushed her so hard down that path in the beginning was to help give her an outlet to express herself and distract her from the depressing and untrue thoughts that plagued her mind.",
-   "zh": ""
-  },
-  {
-   "en": "But she has several different avenues to express herself now, and an even larger roster of people willing to listen.",
-   "zh": ""
-  },
-  {
-   "en": "She doesn’t need to write anymore.",
-   "zh": ""
-  },
-  {
-   "en": "She doesn’t need me anymore.",
-   "zh": ""
-  },
-  {
-   "en": "I leave the library before my mind moves any further away from her.",
-   "zh": ""
-  },
-  {
-   "en": "Futaba’s affection has increased to [futaba_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "futabasummer2librarygen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label futabasummer2librarygen:",
+      "zh": ""
+    },
+    {
+      "en": "scene futabasummer2librarygen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/futabasummer2librarygen.webp",
+      "alt": "futabasummer2librarygen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head over to the library to see what Futaba is doing and, hold onto the edge of your seat for this, she’s reading.",
+      "zh": ""
+    },
+    {
+      "en": "Or was reading.",
+      "zh": ""
+    },
+    {
+      "en": "Her attention immediately switches to me as I’m more interesting than any sort of book she could possibly pick up, and likely packed with significantly more secrets as well.",
+      "zh": ""
+    },
+    {
+      "en": "Unfortunately for her (And even less fortunately for me), those secrets are pressed so far into the back of my mind that it would take the world’s most seasoned psychological spelunker to uncover them.",
+      "zh": ""
+    },
+    {
+      "en": "Seeing as Futaba is not at all qualified for that job, the two of us make idle chit chat about things that will not cause my mind to melt into a puddle of Jell-O.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wind up asking her about how her journey as a writer is going, but it seems she hasn’t had much time to write at all as of late.",
+      "zh": ""
+    },
+    {
+      "en": "I can’t tell if that’s the truth or just some sort of excuse she’s coming up with to avoid disappointing me, but it’s not as if I’d be majorly disappointed to begin with.",
+      "zh": ""
+    },
+    {
+      "en": "The whole reason I pushed her so hard down that path in the beginning was to help give her an outlet to express herself and distract her from the depressing and untrue thoughts that plagued her mind.",
+      "zh": ""
+    },
+    {
+      "en": "But she has several different avenues to express herself now, and an even larger roster of people willing to listen.",
+      "zh": ""
+    },
+    {
+      "en": "She doesn’t need to write anymore.",
+      "zh": ""
+    },
+    {
+      "en": "She doesn’t need me anymore.",
+      "zh": ""
+    },
+    {
+      "en": "I leave the library before my mind moves any further away from her.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ futaba_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba’s affection has increased to [futaba_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

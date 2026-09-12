@@ -1,58 +1,109 @@
 {
- "label": "kaorimorninggen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I show up at the diner to see how Kaori's doing and she immediately asks her manager to go on break.",
-   "zh": ""
-  },
-  {
-   "en": "It wasn't my intention to show up here and disrupt the business but, well, I guess it is what it is now since Kaori clocks out and sits down at the table with me.",
-   "zh": ""
-  },
-  {
-   "en": "She offers to give me her One free human meal of the day as thanks for coming to say hello to her but I turn it down as the poor girl needs to eat as well.",
-   "zh": ""
-  },
-  {
-   "en": "And I don't mean poor in the literal sense.",
-   "zh": ""
-  },
-  {
-   "en": "In fact, Kaori works so often at so many places that I feel like she should probably be loaded.",
-   "zh": ""
-  },
-  {
-   "en": "Maybe the fact she needs to keep working so much is a...testament to how bad she is with money?",
-   "zh": ""
-  },
-  {
-   "en": "Either way, the two of us spend the next half hour trying to converse but failing miserably.",
-   "zh": ""
-  },
-  {
-   "en": "But despite her constant need to make things more difficult than they really are, she does show the desire to improve- and that alone is admirable.",
-   "zh": ""
-  },
-  {
-   "en": "I just wish it wasn't so taxing talking to her for extended periods of time.",
-   "zh": ""
-  },
-  {
-   "en": "Kaori's affection has increased to [kaori_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "kaorimorninggen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kaorimorninggen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene kaorimorninggen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/kaorimorninggen2.webp",
+      "alt": "kaorimorninggen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I show up at the diner to see how Kaori's doing and she immediately asks her manager to go on break.",
+      "zh": ""
+    },
+    {
+      "en": "It wasn't my intention to show up here and disrupt the business but, well, I guess it is what it is now since Kaori clocks out and sits down at the table with me.",
+      "zh": ""
+    },
+    {
+      "en": "She offers to give me her One free human meal of the day as thanks for coming to say hello to her but I turn it down as the poor girl needs to eat as well.",
+      "zh": ""
+    },
+    {
+      "en": "And I don't mean poor in the literal sense.",
+      "zh": ""
+    },
+    {
+      "en": "In fact, Kaori works so often at so many places that I feel like she should probably be loaded.",
+      "zh": ""
+    },
+    {
+      "en": "Maybe the fact she needs to keep working so much is a...testament to how bad she is with money?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Either way, the two of us spend the next half hour trying to converse but failing miserably.",
+      "zh": ""
+    },
+    {
+      "en": "But despite her constant need to make things more difficult than they really are, she does show the desire to improve- and that alone is admirable.",
+      "zh": ""
+    },
+    {
+      "en": "I just wish it wasn't so taxing talking to her for extended periods of time.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ kaori_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kaori's affection has increased to [kaori_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

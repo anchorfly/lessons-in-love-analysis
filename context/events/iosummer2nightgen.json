@@ -1,70 +1,133 @@
 {
- "label": "iosummer2nightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I give Io a call right as she’s about to leave work and the two of us make plans to meet up at the bathhouse and walk around the city for a little while before she heads back to the dorms.",
-   "zh": ""
-  },
-  {
-   "en": "I let her lead the way seeing as she appears to know this area like the back of her hand, but this ultimately gives her the opportunity to wander into every single store that’s still open and buy food from all of them.",
-   "zh": ""
-  },
-  {
-   "en": "Why she can’t just decide on one, I have no idea. But it seems like this isn’t the first time something like this has happened as most shopkeepers seem to recognize her right away.",
-   "zh": ""
-  },
-  {
-   "en": "I’m not sure if it’s because she works right around the corner or because there aren’t many green-haired girls with twintails running around Kumon-mi, but I find it a little surprising nonetheless.",
-   "zh": ""
-  },
-  {
-   "en": "Not because she’s recognized, though...but because even though every single shopkeeper is female, Io doesn’t seem averse to any.",
-   "zh": ""
-  },
-  {
-   "en": "It gets me to thinking that maybe the problem isn’t someone’s sex at all...and that specific genitalia just...gives certain people a disadvantage when it comes to her or something.",
-   "zh": ""
-  },
-  {
-   "en": "Honestly, I have no clue. Io’s very vocal about who she is, but not at all vocal about why she’s like that or what may have happened to make her that way.",
-   "zh": ""
-  },
-  {
-   "en": "I guess she’s just the type that needs to warm up to people...and I guess she has a harder time warming up to people that give off certain auras.",
-   "zh": ""
-  },
-  {
-   "en": "Not that I believe in “auras” or anything. I’ve just heard of animals that can identify a human’s sex by their scent alone.",
-   "zh": ""
-  },
-  {
-   "en": "Maybe Io is just an animal?",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Maybe Io just likes my scent?",
-   "zh": ""
-  },
-  {
-   "en": "Io’s affection has increased to [io_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "iosummer2nightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label iosummer2nightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene iosummer2nightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iosummer2nightgen.webp",
+      "alt": "iosummer2nightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give Io a call right as she’s about to leave work and the two of us make plans to meet up at the bathhouse and walk around the city for a little while before she heads back to the dorms.",
+      "zh": ""
+    },
+    {
+      "en": "I let her lead the way seeing as she appears to know this area like the back of her hand, but this ultimately gives her the opportunity to wander into every single store that’s still open and buy food from all of them.",
+      "zh": ""
+    },
+    {
+      "en": "Why she can’t just decide on one, I have no idea. But it seems like this isn’t the first time something like this has happened as most shopkeepers seem to recognize her right away.",
+      "zh": ""
+    },
+    {
+      "en": "I’m not sure if it’s because she works right around the corner or because there aren’t many green-haired girls with twintails running around Kumon-mi, but I find it a little surprising nonetheless.",
+      "zh": ""
+    },
+    {
+      "en": "Not because she’s recognized, though...but because even though every single shopkeeper is female, Io doesn’t seem averse to any.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It gets me to thinking that maybe the problem isn’t someone’s sex at all...and that specific genitalia just...gives certain people a disadvantage when it comes to her or something.",
+      "zh": ""
+    },
+    {
+      "en": "Honestly, I have no clue. Io’s very vocal about who she is, but not at all vocal about why she’s like that or what may have happened to make her that way.",
+      "zh": ""
+    },
+    {
+      "en": "I guess she’s just the type that needs to warm up to people...and I guess she has a harder time warming up to people that give off certain auras.",
+      "zh": ""
+    },
+    {
+      "en": "Not that I believe in “auras” or anything. I’ve just heard of animals that can identify a human’s sex by their scent alone.",
+      "zh": ""
+    },
+    {
+      "en": "Maybe Io is just an animal?",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "Maybe Io just likes my scent?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ io_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Io’s affection has increased to [io_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

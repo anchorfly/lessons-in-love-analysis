@@ -1,58 +1,109 @@
 {
- "label": "wakanaspringnoongen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I don't come to school much anymore. I'm too vulnerable when I'm here and, more often than not, all it does is evoke bad memories. But I made an exception today.",
-   "zh": ""
-  },
-  {
-   "en": "After calling Wakana and finding out that she's alone in her office, I swallowed my pride and decided to join her there and keep her company while she grades papers.",
-   "zh": ""
-  },
-  {
-   "en": "She doesn't demand that I help her this time, as she'd always done in the past. Instead, she makes small talk with me and tells me to help myself to one of the many poetry collections on her shelves.",
-   "zh": ""
-  },
-  {
-   "en": "I try not to read anymore unless I absolutely have to as that, too, evokes bad memories.",
-   "zh": ""
-  },
-  {
-   "en": "But when the vast majority of my memories are bad to begin with, I have to learn to accept that, sometimes, wading through them is inevitable.",
-   "zh": ""
-  },
-  {
-   "en": "As such, I grab a book off of her shelf and begin to flip through it.",
-   "zh": ""
-  },
-  {
-   "en": "Never mind.",
-   "zh": ""
-  },
-  {
-   "en": "I'm going home.",
-   "zh": ""
-  },
-  {
-   "en": "I picked up the wrong book.",
-   "zh": ""
-  },
-  {
-   "en": "Wakana’s affection has increased to [wakana_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "wakanaspringnoongen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label wakanaspringnoongen:",
+      "zh": ""
+    },
+    {
+      "en": "scene wakanaspringnoongen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/wakanaspringnoongen.webp",
+      "alt": "wakanaspringnoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I don't come to school much anymore. I'm too vulnerable when I'm here and, more often than not, all it does is evoke bad memories. But I made an exception today.",
+      "zh": ""
+    },
+    {
+      "en": "After calling Wakana and finding out that she's alone in her office, I swallowed my pride and decided to join her there and keep her company while she grades papers.",
+      "zh": ""
+    },
+    {
+      "en": "She doesn't demand that I help her this time, as she'd always done in the past. Instead, she makes small talk with me and tells me to help myself to one of the many poetry collections on her shelves.",
+      "zh": ""
+    },
+    {
+      "en": "I try not to read anymore unless I absolutely have to as that, too, evokes bad memories.",
+      "zh": ""
+    },
+    {
+      "en": "But when the vast majority of my memories are bad to begin with, I have to learn to accept that, sometimes, wading through them is inevitable.",
+      "zh": ""
+    },
+    {
+      "en": "As such, I grab a book off of her shelf and begin to flip through it.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Never mind.",
+      "zh": ""
+    },
+    {
+      "en": "I'm going home.",
+      "zh": ""
+    },
+    {
+      "en": "I picked up the wrong book.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ wakana_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Wakana’s affection has increased to [wakana_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump nightch4",
+      "zh": ""
+    }
+  ]
 }

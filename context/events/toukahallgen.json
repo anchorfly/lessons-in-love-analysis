@@ -1,54 +1,144 @@
 {
- "label": "toukahallgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Good evening, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Please make no sudden movements or I will call the police.",
-   "zh": ""
-  },
-  {
-   "en": ": What kind of person do you think I am?",
-   "zh": ""
-  },
-  {
-   "en": ": The worst kind. But I will still allow you to talk to me as there is a witness in the hall.",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...please leave me out of this.",
-   "zh": ""
-  },
-  {
-   "en": "I spend some time in the hall with Touka, trying to convince her that I am not the scum of the earth.",
-   "zh": ""
-  },
-  {
-   "en": "It does not work and I go home without making any sort of substantial impact on her life.",
-   "zh": ""
-  },
-  {
-   "en": "But at least her affection goes up.",
-   "zh": ""
-  },
-  {
-   "en": "Touka's affection has increased to [touka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "toukahallgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label toukahallgen:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene toukasummer2hallgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukasummer2hallgen.webp",
+      "alt": "toukasummer2hallgen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene toukahall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukahall1.webp",
+      "alt": "toukahall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Good evening, Sensei.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Please make no sudden movements or I will call the police.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": What kind of person do you think I am?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": The worst kind. But I will still allow you to talk to me as there is a witness in the hall.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Uhh...please leave me out of this.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I spend some time in the hall with Touka, trying to convince her that I am not the scum of the earth.",
+      "zh": ""
+    },
+    {
+      "en": "It does not work and I go home without making any sort of substantial impact on her life.",
+      "zh": ""
+    },
+    {
+      "en": "But at least her affection goes up.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka's affection has increased to [touka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

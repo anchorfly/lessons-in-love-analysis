@@ -1,66 +1,117 @@
 {
- "label": "harukasummer2cafegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I drop by the cafe to hang out with Haruka but, when I arrive, she’s surprised to see that I approach her instead of her much younger and much more lesbian employee.",
-   "zh": ""
-  },
-  {
-   "en": "Regardless, she happily accepts the company as she’s been wanting to vent to someone about “adult problems” all week and none of her part-timers really understand them.",
-   "zh": ""
-  },
-  {
-   "en": "To be honest, I don’t really understand them either since the vast majority involve cafe operations and I have never attempted either running or opening a cafe at any point in my life.",
-   "zh": ""
-  },
-  {
-   "en": "Probably.",
-   "zh": ""
-  },
-  {
-   "en": "I guess there’s a slight chance that I did something like that in the past, but seeing as I am now thinking about it and remaining entirely sentient, it’s probably safe to assume that never happened.",
-   "zh": ""
-  },
-  {
-   "en": "I think Haruka catches onto my lack of knowledge about cafes as she takes a seat on the couch and begins asking me about how my life has been lately.",
-   "zh": ""
-  },
-  {
-   "en": "I tell her about how I’m caught in a timeloop with two of my niece’s closest friends and that the secret to the universe might involve me impregnating teenagers.",
-   "zh": ""
-  },
-  {
-   "en": "She nods and tells me she knows what it’s like (She doesn’t), and that she’d lend me a hand if there was any way for her to help without being personally impregnated.",
-   "zh": ""
-  },
-  {
-   "en": "I shrug off her assistance and move onto other topics as I didn’t really expect her to go along with this one anyway but, honestly, I’m glad she did.",
-   "zh": ""
-  },
-  {
-   "en": "I might not be of any help when it comes to hearing her issues out, but being able to talk about mine to someone who will go along with them rather than ask questions is always a welcome experience.",
-   "zh": ""
-  },
-  {
-   "en": "Especially when the person I am talking to sneakily unlatches the top button of her shirt every time I walk into the store.",
-   "zh": ""
-  },
-  {
-   "en": "Haruka’s affection has increased to [haruka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "harukasummer2cafegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label harukasummer2cafegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene harukasummer2cafegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/harukasummer2cafegen.webp",
+      "alt": "harukasummer2cafegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I drop by the cafe to hang out with Haruka but, when I arrive, she’s surprised to see that I approach her instead of her much younger and much more lesbian employee.",
+      "zh": ""
+    },
+    {
+      "en": "Regardless, she happily accepts the company as she’s been wanting to vent to someone about “adult problems” all week and none of her part-timers really understand them.",
+      "zh": ""
+    },
+    {
+      "en": "To be honest, I don’t really understand them either since the vast majority involve cafe operations and I have never attempted either running or opening a cafe at any point in my life.",
+      "zh": ""
+    },
+    {
+      "en": "Probably.",
+      "zh": ""
+    },
+    {
+      "en": "I guess there’s a slight chance that I did something like that in the past, but seeing as I am now thinking about it and remaining entirely sentient, it’s probably safe to assume that never happened.",
+      "zh": ""
+    },
+    {
+      "en": "I think Haruka catches onto my lack of knowledge about cafes as she takes a seat on the couch and begins asking me about how my life has been lately.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tell her about how I’m caught in a timeloop with two of my niece’s closest friends and that the secret to the universe might involve me impregnating teenagers.",
+      "zh": ""
+    },
+    {
+      "en": "She nods and tells me she knows what it’s like (She doesn’t), and that she’d lend me a hand if there was any way for her to help without being personally impregnated.",
+      "zh": ""
+    },
+    {
+      "en": "I shrug off her assistance and move onto other topics as I didn’t really expect her to go along with this one anyway but, honestly, I’m glad she did.",
+      "zh": ""
+    },
+    {
+      "en": "I might not be of any help when it comes to hearing her issues out, but being able to talk about mine to someone who will go along with them rather than ask questions is always a welcome experience.",
+      "zh": ""
+    },
+    {
+      "en": "Especially when the person I am talking to sneakily unlatches the top button of her shirt every time I walk into the store.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ haruka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Haruka’s affection has increased to [haruka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

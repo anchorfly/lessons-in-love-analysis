@@ -1,114 +1,243 @@
 {
- "label": "chikainvitegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Chika's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": Hihi~",
-   "zh": ""
-  },
-  {
-   "en": ": What's going on, [chikamaster]?",
-   "zh": ""
-  },
-  {
-   "en": ": Trying to get me to come over?",
-   "zh": ""
-  },
-  {
-   "en": ": Wow. It's almost like you read my mind.",
-   "zh": ""
-  },
-  {
-   "en": ": Nahh. I was actually just about to text you to see if you wanted to hang out anyway sooo...yeah.",
-   "zh": ""
-  },
-  {
-   "en": ": I'll get dressed and head on over.",
-   "zh": ""
-  },
-  {
-   "en": ": Better yet, don't get dressed at all. Just head over now.",
-   "zh": ""
-  },
-  {
-   "en": ": Nice try, loser~",
-   "zh": ""
-  },
-  {
-   "en": ": I'll see you soon.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Heya!",
-   "zh": ""
-  },
-  {
-   "en": ": So, what's going on tonight?",
-   "zh": ""
-  },
-  {
-   "en": ": We're all alone, so we can do whatever we want~",
-   "zh": ""
-  },
-  {
-   "en": "How should I spend my time with Chika?",
-   "zh": ""
-  },
-  {
-   "en": "Hang Out (Raise Affection)",
-   "zh": ""
-  },
-  {
-   "en": "Almost-Fellatio (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Handjob (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Missionary Sex (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Almost-Hug (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Actually Hug (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Hug Hard (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Headpat",
-   "zh": ""
-  }
- ]
+  "label": "chikainvitegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikainvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Chika's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hihi~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": What's going on, [chikamaster]?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Trying to get me to come over?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Wow. It's almost like you read my mind.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Nahh. I was actually just about to text you to see if you wanted to hang out anyway sooo...yeah.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I'll get dressed and head on over.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Better yet, don't get dressed at all. Just head over now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Nice try, loser~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I'll see you soon.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if halloweenfive17 == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikainvitehub2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikainvitehub2.webp",
+      "alt": "chikainvitehub2"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikainvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikainvitehub.webp",
+      "alt": "chikainvitehub"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heya!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": So, what's going on tonight?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": We're all alone, so we can do whatever we want~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Chika?",
+      "zh": ""
+    },
+    {
+      "en": "menu chikainvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": ""
+    },
+    {
+      "en": "jump chikainviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Almost-Fellatio (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump chikainvitelicking",
+      "zh": ""
+    },
+    {
+      "en": "Handjob (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump chikainvitehandjob",
+      "zh": ""
+    },
+    {
+      "en": "Missionary Sex (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump chikainvitemissionary",
+      "zh": ""
+    },
+    {
+      "en": "Almost-Hug (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump chikainvitelicking",
+      "zh": ""
+    },
+    {
+      "en": "Actually Hug (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump chikainvitehandjob",
+      "zh": ""
+    },
+    {
+      "en": "Hug Hard (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump chikainvitemissionary",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": ""
+    },
+    {
+      "en": "jump chikaheadpat",
+      "zh": ""
+    }
+  ]
 }

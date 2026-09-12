@@ -1,102 +1,221 @@
 {
- "label": "amiinvitegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Ami's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": Hey, [amimaster]! I was just thinking about you.",
-   "zh": ""
-  },
-  {
-   "en": ": You're literally always thinking about me, though.",
-   "zh": ""
-  },
-  {
-   "en": ": I see no problem with this.",
-   "zh": ""
-  },
-  {
-   "en": ": What's up?",
-   "zh": ""
-  },
-  {
-   "en": ": Gonna invite me to my own house again?",
-   "zh": ""
-  },
-  {
-   "en": ": Yes. Would you like to come hang out at the place you are inside of right now?",
-   "zh": ""
-  },
-  {
-   "en": ": I was gonna go hang out with Maya, but I can stay here as long as you're coming home~",
-   "zh": ""
-  },
-  {
-   "en": ": In that case, I'll be there shortly.",
-   "zh": ""
-  },
-  {
-   "en": ": Yay!",
-   "zh": ""
-  },
-  {
-   "en": ": I'll see you soon, [amimaster]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": So, what did you want to do today?",
-   "zh": ""
-  },
-  {
-   "en": "How should I spend my time with Ami?",
-   "zh": ""
-  },
-  {
-   "en": "Hang Out (Raise Affection)",
-   "zh": ""
-  },
-  {
-   "en": "Thighjob (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Reverse Cowgirl (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Hug (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Hold Hands (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Headpat",
-   "zh": ""
-  }
- ]
+  "label": "amiinvitegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amiinvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Ami's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, [amimaster]! I was just thinking about you.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": You're literally always thinking about me, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I see no problem with this.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": What's up?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Gonna invite me to my own house again?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Yes. Would you like to come hang out at the place you are inside of right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I was gonna go hang out with Maya, but I can stay here as long as you're coming home~",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": In that case, I'll be there shortly.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yay!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I'll see you soon, [amimaster]!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if halloweenfive17 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene amiinvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amiinvitehub.webp",
+      "alt": "amiinvitehub"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene amiinvitehub2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amiinvitehub2.webp",
+      "alt": "amiinvitehub2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, what did you want to do today?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Ami?",
+      "zh": ""
+    },
+    {
+      "en": "menu amiinvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": ""
+    },
+    {
+      "en": "jump amiinviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Thighjob (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump amiinvitethighjob",
+      "zh": ""
+    },
+    {
+      "en": "Reverse Cowgirl (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump amiinvitereverse",
+      "zh": ""
+    },
+    {
+      "en": "Hug (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump amiinvitethighjob",
+      "zh": ""
+    },
+    {
+      "en": "Hold Hands (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump amiinvitereverse",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": ""
+    },
+    {
+      "en": "jump amiheadpat",
+      "zh": ""
+    }
+  ]
 }

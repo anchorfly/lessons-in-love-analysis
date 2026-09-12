@@ -1,858 +1,1586 @@
 {
- "label": "day216",
- "title_zh": "",
- "lines": [
-  {
-   "en": "School has ended for the day so I’m currently on a mission to find Makoto.",
-   "zh": ""
-  },
-  {
-   "en": "She left class the second the bell rang and kept her head down for the entire day, so I never really got a good opportunity to pull her to the side and talk about whatever it is that’s bothering her.",
-   "zh": ""
-  },
-  {
-   "en": "Now, some people might hear that and think, “Why not wake her up or shake her shoulder or something? If she needs help, you shouldn’t wait on it.”",
-   "zh": ""
-  },
-  {
-   "en": "But those people are wrong.",
-   "zh": ""
-  },
-  {
-   "en": "The worst thing you can do for someone going through hardships is forcibly insert yourself into them.",
-   "zh": ""
-  },
-  {
-   "en": "The hardships, I mean. Not the person.",
-   "zh": ""
-  },
-  {
-   "en": "Forcibly inserting yourself into any person is kind of rude to do.",
-   "zh": ""
-  },
-  {
-   "en": "Either way, if I am ever asleep, let me sleep.",
-   "zh": ""
-  },
-  {
-   "en": "And if you are going to wake me up, do it sexually.",
-   "zh": ""
-  },
-  {
-   "en": "Do not tear me from my rest to make me talk about things I do not want to talk about.",
-   "zh": ""
-  },
-  {
-   "en": "It will only make things worse.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, Sensei. What are you doing just walking around the halls?",
-   "zh": ""
-  },
-  {
-   "en": ": You’re not lost, are you? You look lost.",
-   "zh": ""
-  },
-  {
-   "en": ": Of course Sensei isn’t lost, Ami. He knows these halls just as well as he knows my body.",
-   "zh": ""
-  },
-  {
-   "en": "I actually think I know Ayane’s body a little better, to be honest.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei, please tell Ayane you have no intentions of learning about her stupid body.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s not stupid. It’s a temple. A temple for Sensei to defile and-",
-   "zh": ""
-  },
-  {
-   "en": ": Have either of you two seen Makoto?",
-   "zh": ""
-  },
-  {
-   "en": ": Unfortunately, yes. But what do you want with her?",
-   "zh": ""
-  },
-  {
-   "en": ": There’s something I need to talk to her about. That’s why I’m acting all suspicious and wandering around the halls right now.",
-   "zh": ""
-  },
-  {
-   "en": ": Come to think of it, she has seemed pretty out of sorts the last few days.",
-   "zh": ""
-  },
-  {
-   "en": ": She left class almost immediately instead of coming over and talking to you.",
-   "zh": ""
-  },
-  {
-   "en": ": And yes, I keep track of her because, even if she’s bossy at times, she has nice legs and looks good without her glasses on.",
-   "zh": ""
-  },
-  {
-   "en": ": I disagree and think she looks like a...stupid person who only wants to hook up with my [uncle].",
-   "zh": ""
-  },
-  {
-   "en": ": Hate to break it to you guys but this is kind of important, so if you could leave your feelings about Makoto out of this and just tell me where she is, it would be great.",
-   "zh": ""
-  },
-  {
-   "en": ": Wow. You actually seem kind of serious.",
-   "zh": ""
-  },
-  {
-   "en": ": If she’d be anywhere, it would probably be downstairs at her locker.",
-   "zh": ""
-  },
-  {
-   "en": ": I think Miku said something about her staying in bed a lot the last few days, but I don’t care about her so I kinda didn’t think anything of it until now.",
-   "zh": ""
-  },
-  {
-   "en": ": Do you want us to come with you? Or maybe just me, at least?",
-   "zh": ""
-  },
-  {
-   "en": ": I might be able to get through to her better than you can since I’m also a [teenage]girl head over heels in love with-",
-   "zh": ""
-  },
-  {
-   "en": ": Uh-oh! Better head downstairs quick if you want to catch her, Sensei. Ayane will only slow you down.",
-   "zh": ""
-  },
-  {
-   "en": ": Maybe! But that’s just because the amount of love I carry with me is heavier than Mt. Fuji.",
-   "zh": ""
-  },
-  {
-   "en": "I nod to Ami and Ayane and quickly head downstairs to see if I can catch Makoto before she leaves.",
-   "zh": ""
-  },
-  {
-   "en": "Normally, I would have at least said goodbye or something, but the chances are that if Makoto gets back to the dorm before I see her, she won’t open it for me even if I come visit.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "I find Makoto amidst a crowd of other students, fumbling to open her locker with shaky hands.",
-   "zh": ""
-  },
-  {
-   "en": "No one is paying much attention to her, so I, too, begin to drown them all out.",
-   "zh": ""
-  },
-  {
-   "en": "Before long, the two of us are engulfed in silence.",
-   "zh": ""
-  },
-  {
-   "en": "I watch her fail to pull it open three times before deciding to speak out.",
-   "zh": ""
-  },
-  {
-   "en": ": Makoto.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh. Hello, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Is there something I can do for you?",
-   "zh": ""
-  },
-  {
-   "en": ": Do you need any help opening your locker? You seem to be having a little trouble.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not having any trouble at all.",
-   "zh": ""
-  },
-  {
-   "en": ": I always fail a few times before managing to open this stubborn thing.",
-   "zh": ""
-  },
-  {
-   "en": ": The door just gets stuck whenever it wants to.",
-   "zh": ""
-  },
-  {
-   "en": ": Damn thing doesn’t even care about how busy some of us are.",
-   "zh": ""
-  },
-  {
-   "en": ": And what are you busy with, exactly?",
-   "zh": ""
-  },
-  {
-   "en": ": Do you have somewhere to be?",
-   "zh": ""
-  },
-  {
-   "en": ": I have a date with my bed.",
-   "zh": ""
-  },
-  {
-   "en": ": And then before I know it, it will be tomorrow.",
-   "zh": ""
-  },
-  {
-   "en": ": Then I’ll go home and have another date with my bed.",
-   "zh": ""
-  },
-  {
-   "en": ": And then tomorrow will come again.",
-   "zh": ""
-  },
-  {
-   "en": ": And then another day will pass by.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ll sleep more on the weekends.",
-   "zh": ""
-  },
-  {
-   "en": ": And more tomorrows will come.",
-   "zh": ""
-  },
-  {
-   "en": ": Then I’ll come to[school].",
-   "zh": ""
-  },
-  {
-   "en": ": Then go back home and have another date with my bed.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s all a cycle.",
-   "zh": ""
-  },
-  {
-   "en": ": I just can’t get the head start I want until I can get my shoes out of this...fucking...locker.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Makoto tries pulling it open again but her fingers slip off.",
-   "zh": ""
-  },
-  {
-   "en": "She almost falls and I go to catch her, but she regains her balance before we come into contact with one another.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh?",
-   "zh": ""
-  },
-  {
-   "en": ": Oh what?",
-   "zh": ""
-  },
-  {
-   "en": ": You tried to catch me.",
-   "zh": ""
-  },
-  {
-   "en": ": How polite of you.",
-   "zh": ""
-  },
-  {
-   "en": ": Of course I did. You falling down and getting hurt would be an inconvenience for me.",
-   "zh": ""
-  },
-  {
-   "en": ": Would it?",
-   "zh": ""
-  },
-  {
-   "en": ": That’s nice to know.",
-   "zh": ""
-  },
-  {
-   "en": "I take a step closer to her.",
-   "zh": ""
-  },
-  {
-   "en": "She does not move.",
-   "zh": ""
-  },
-  {
-   "en": "She just continues trying to pull her locker open.",
-   "zh": ""
-  },
-  {
-   "en": "The poor girl probably hasn’t even unlocked it yet.",
-   "zh": ""
-  },
-  {
-   "en": "She’s just standing here in a daze waiting for things to fall into her hands rather than doing anything to make them happen.",
-   "zh": ""
-  },
-  {
-   "en": "She’d probably walk home barefoot before remembering she just needs to use a key.",
-   "zh": ""
-  },
-  {
-   "en": "Then she’d probably fall asleep in the bathroom of the dorm, forgetting she needs a key to unlock the door to her room as well.",
-   "zh": ""
-  },
-  {
-   "en": "Keys are always so hard to use when your hands are shaking.",
-   "zh": ""
-  },
-  {
-   "en": "And it’s even harder to remember you need to use them in the first place, it seems.",
-   "zh": ""
-  },
-  {
-   "en": ": Why don’t the two of us go talk somewhere?",
-   "zh": ""
-  },
-  {
-   "en": ": Talk about what?",
-   "zh": ""
-  },
-  {
-   "en": ": Is there something you want to say to me?",
-   "zh": ""
-  },
-  {
-   "en": ": There is.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, what is it?",
-   "zh": ""
-  },
-  {
-   "en": ": What do you want to talk about?",
-   "zh": ""
-  },
-  {
-   "en": ": You turned down my blowjob the other day, so I doubt it’s anything sexual.",
-   "zh": ""
-  },
-  {
-   "en": "I turn around to see if anyone else wandering through the hall caught what she said, but it doesn’t look that way.",
-   "zh": ""
-  },
-  {
-   "en": "No one reacts.",
-   "zh": ""
-  },
-  {
-   "en": "They all just keep moving as if they’re cogs in some sort of machine.",
-   "zh": ""
-  },
-  {
-   "en": "And I am an engineer, attempting to make one cog start working again.",
-   "zh": ""
-  },
-  {
-   "en": ": I want to talk to you about what’s going on.",
-   "zh": ""
-  },
-  {
-   "en": ": Does that mean you know what’s going on?",
-   "zh": ""
-  },
-  {
-   "en": ": No. It’s more of me wanting to know.",
-   "zh": ""
-  },
-  {
-   "en": ": You’ve been acting strange the last few days.",
-   "zh": ""
-  },
-  {
-   "en": ": And you’ve been acting strange the last few months but I’ve never tried to change you back, have I?",
-   "zh": ""
-  },
-  {
-   "en": ": Even when you started coming to my job and saying all those super perverted things to me, I just let it happen.",
-   "zh": ""
-  },
-  {
-   "en": ": No, you actually showed a fair bit of resistance.",
-   "zh": ""
-  },
-  {
-   "en": ": Ooooooooooooooooooooh, right. Right. But then you kept pushing anyway.",
-   "zh": ""
-  },
-  {
-   "en": ": And I was happy to oblige because I was curious about how far things would go.",
-   "zh": ""
-  },
-  {
-   "en": ": And now our relationship is stronger than ever~",
-   "zh": ""
-  },
-  {
-   "en": ": Right, Sensei?",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...right.",
-   "zh": ""
-  },
-  {
-   "en": ": So what? You feel indebted to me or something?",
-   "zh": ""
-  },
-  {
-   "en": ": Or are you just worried that I’m acting strangely because you’re afraid you broke me?",
-   "zh": ""
-  },
-  {
-   "en": ": If that’s what it is, I can promise you’re not the one who broke me at all.",
-   "zh": ""
-  },
-  {
-   "en": ": And before you go jumping any guns, let me just say that I’m perfectly aware that I’m the one who broke myself.",
-   "zh": ""
-  },
-  {
-   "en": ": Either me or God god.",
-   "zh": ""
-  },
-  {
-   "en": ": But there is no god! There can’t be!",
-   "zh": ""
-  },
-  {
-   "en": ": No god would let that happen!",
-   "zh": ""
-  },
-  {
-   "en": "Without thinking, I push Makoto up against her locker and wrap my hands around her wrists.",
-   "zh": ""
-  },
-  {
-   "en": "She stops shaking entirely and peers directly into my eyes.",
-   "zh": ""
-  },
-  {
-   "en": "No-",
-   "zh": ""
-  },
-  {
-   "en": "She peers through my eyes.",
-   "zh": ""
-  },
-  {
-   "en": "I don’t even know what she’s looking at.",
-   "zh": ""
-  },
-  {
-   "en": ": Right here?",
-   "zh": ""
-  },
-  {
-   "en": ": I guess if you want to, we can. Not like I care anymore.",
-   "zh": ""
-  },
-  {
-   "en": ": I didn't even put on underwear today. How crazy is that?",
-   "zh": ""
-  },
-  {
-   "en": ": You’re kinda hurting my wrists though, so could you maybe ease up a bit?",
-   "zh": ""
-  },
-  {
-   "en": ": What is going on?",
-   "zh": ""
-  },
-  {
-   "en": ": You tell me. You’re the one who got all aggressive in the middle of the hallway when I was just trying to open my locker.",
-   "zh": ""
-  },
-  {
-   "en": ": Before that, why are you acting like this? Why bring up something as nonsensical as god when I’m trying to actually talk to you?",
-   "zh": ""
-  },
-  {
-   "en": ": Slip of the tongue?",
-   "zh": ""
-  },
-  {
-   "en": "I begin to hear whispers of people around us, looking on in shock.",
-   "zh": ""
-  },
-  {
-   "en": ": Uh-oh.",
-   "zh": ""
-  },
-  {
-   "en": ": Looks like people might start spreading rumors if you don’t make some space between us, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Not like I mind, but I don’t think that would be good for your career.",
-   "zh": ""
-  },
-  {
-   "en": ": And just think about what Ami would say if she were to come down the stairs and see us pressed up against the lockers like this.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "I let go of Makoto’s wrists and she quickly regains the little composure she had prior to me showing up here.",
-   "zh": ""
-  },
-  {
-   "en": ": Boo...",
-   "zh": ""
-  },
-  {
-   "en": ": I thought something wonderful was about to happen.",
-   "zh": ""
-  },
-  {
-   "en": ": Let’s go to the roof. We’re drawing too much attention here.",
-   "zh": ""
-  },
-  {
-   "en": ": No thanks. I don’t like the roof anymore.",
-   "zh": ""
-  },
-  {
-   "en": ": What happened to it being your “happy place?”",
-   "zh": ""
-  },
-  {
-   "en": ": There are no happy places, Sensei. Just places where it’s slightly harder to be touched by the dark.",
-   "zh": ""
-  },
-  {
-   "en": ": Unfortunately for me, the last time we were up there, I was touched a lot.",
-   "zh": ""
-  },
-  {
-   "en": ": I felt the dark all over me.",
-   "zh": ""
-  },
-  {
-   "en": ": I felt its hands crawl up my thighs and slip into my pants.",
-   "zh": ""
-  },
-  {
-   "en": ": I felt them split me open between my legs and explore my insides.",
-   "zh": ""
-  },
-  {
-   "en": ": And then poof. Goodbye, old Makoto.",
-   "zh": ""
-  },
-  {
-   "en": ": Goodbye, everything.",
-   "zh": ""
-  },
-  {
-   "en": ": But hello, new world.",
-   "zh": ""
-  },
-  {
-   "en": ": A brand new place where everything is just how I want it to be...",
-   "zh": ""
-  },
-  {
-   "en": ": Absolutely-",
-   "zh": ""
-  },
-  {
-   "en": ": Fucking-",
-   "zh": ""
-  },
-  {
-   "en": ": Horrible.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "The students who had since gathered around us begin to disperse as we move further and further apart both physically and mentally.",
-   "zh": ""
-  },
-  {
-   "en": "This isn’t the Makoto I know.",
-   "zh": ""
-  },
-  {
-   "en": "And I have a hard time believing that this is the person she is underneath the layers she puts on to make herself more...professional or responsible or whatever it is she normally goes for.",
-   "zh": ""
-  },
-  {
-   "en": "This version of her is like all of her flaws were turned up to max.",
-   "zh": ""
-  },
-  {
-   "en": "They’ve taken over everything.",
-   "zh": ""
-  },
-  {
-   "en": "Was she really so tired that she allowed this to happen?",
-   "zh": ""
-  },
-  {
-   "en": ": When we walked home together, that night on the roof, what was going through your head?",
-   "zh": ""
-  },
-  {
-   "en": ": You were silent the whole way back.",
-   "zh": ""
-  },
-  {
-   "en": ": So were you.",
-   "zh": ""
-  },
-  {
-   "en": ": We were silent together.",
-   "zh": ""
-  },
-  {
-   "en": ": I can’t remember what was going through my head.",
-   "zh": ""
-  },
-  {
-   "en": ": Perhaps a little of everything? Perhaps nothing at all?",
-   "zh": ""
-  },
-  {
-   "en": ": Can you please at least say something that makes sense?",
-   "zh": ""
-  },
-  {
-   "en": ": I can try, but what makes sense to me might not make any sense to you at all.",
-   "zh": ""
-  },
-  {
-   "en": ": If I were to tell you what really happened, you’d think I’m even crazier than you probably think I am right now.",
-   "zh": ""
-  },
-  {
-   "en": ": So I will just sleep.",
-   "zh": ""
-  },
-  {
-   "en": ": And then I will wake up tomorrow.",
-   "zh": ""
-  },
-  {
-   "en": ": And then I will sleep.",
-   "zh": ""
-  },
-  {
-   "en": ": And then wake up again.",
-   "zh": ""
-  },
-  {
-   "en": ": And you’ll do the same.",
-   "zh": ""
-  },
-  {
-   "en": ": The same seven days.",
-   "zh": ""
-  },
-  {
-   "en": ": Over-",
-   "zh": ""
-  },
-  {
-   "en": ": And over-",
-   "zh": ""
-  },
-  {
-   "en": ": And over-",
-   "zh": ""
-  },
-  {
-   "en": ": And over-",
-   "zh": ""
-  },
-  {
-   "en": ": Until everything melts down and reforms into one disturbing mass of flesh, complete with twelve smiles.",
-   "zh": ""
-  },
-  {
-   "en": ": One for each girl in class that you [masturbate] to while all alone in bed at night.",
-   "zh": ""
-  },
-  {
-   "en": "I can’t get through to her.",
-   "zh": ""
-  },
-  {
-   "en": "It was pointless even trying.",
-   "zh": ""
-  },
-  {
-   "en": "But how am I going to explain this to Miku?",
-   "zh": ""
-  },
-  {
-   "en": "And how is Maki going to take it knowing that her daughter might never snap out of this?",
-   "zh": ""
-  },
-  {
-   "en": "What will happen to Makoto’s future?",
-   "zh": ""
-  },
-  {
-   "en": ": Don’t you think I’m better this way, [makotomaster]?",
-   "zh": ""
-  },
-  {
-   "en": ": I won’t yell at you for anything anymore. You can do whatever you want to me.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ll still help you with all of your paperwork and stuff, but don’t expect me to stay up late studying anymore.",
-   "zh": ""
-  },
-  {
-   "en": ": And don’t expect me to stick around after class either. It’s all too bothersome now.",
-   "zh": ""
-  },
-  {
-   "en": ": I just want to sleep.",
-   "zh": ""
-  },
-  {
-   "en": ": Good things only come when I’m asleep.",
-   "zh": ""
-  },
-  {
-   "en": ": The only problem is that none of them are real.",
-   "zh": ""
-  },
-  {
-   "en": ": But then again-",
-   "zh": ""
-  },
-  {
-   "en": "Nothing is real.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": So, are we done here? Or are you going to drag me up to the roof by force?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not going to drag you anywhere. I just don’t want to see you like this.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s nice. I only had to snap for you to finally show me an ounce of compassion.",
-   "zh": ""
-  },
-  {
-   "en": ": If I knew that’s all it would take, I would have jumped earlier.",
-   "zh": ""
-  },
-  {
-   "en": ": Jumped?",
-   "zh": ""
-  },
-  {
-   "en": ": Heheh~ Oops! Said too much!",
-   "zh": ""
-  },
-  {
-   "en": ": I’m fine. Really.",
-   "zh": ""
-  },
-  {
-   "en": ": Just, not really.",
-   "zh": ""
-  },
-  {
-   "en": ": But that doesn’t matter.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": See you in class tomorrow!",
-   "zh": ""
-  },
-  {
-   "en": "Makoto leaves without ever opening her locker.",
-   "zh": ""
-  },
-  {
-   "en": "She walks home in her indoor shoes.",
-   "zh": ""
-  },
-  {
-   "en": "And then she goes to sleep.",
-   "zh": ""
-  },
-  {
-   "en": "Makoto.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day216",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day216:",
+      "zh": ""
+    },
+    {
+      "en": "scene hall_noon",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/hall_noon.png",
+      "alt": "hall_noon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "School has ended for the day so I’m currently on a mission to find Makoto.",
+      "zh": ""
+    },
+    {
+      "en": "She left class the second the bell rang and kept her head down for the entire day, so I never really got a good opportunity to pull her to the side and talk about whatever it is that’s bothering her.",
+      "zh": ""
+    },
+    {
+      "en": "Now, some people might hear that and think, “Why not wake her up or shake her shoulder or something? If she needs help, you shouldn’t wait on it.”",
+      "zh": ""
+    },
+    {
+      "en": "But those people are wrong.",
+      "zh": ""
+    },
+    {
+      "en": "The worst thing you can do for someone going through hardships is forcibly insert yourself into them.",
+      "zh": ""
+    },
+    {
+      "en": "The hardships, I mean. Not the person.",
+      "zh": ""
+    },
+    {
+      "en": "Forcibly inserting yourself into any person is kind of rude to do.",
+      "zh": ""
+    },
+    {
+      "en": "Either way, if I am ever asleep, let me sleep.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And if you are going to wake me up, do it sexually.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Do not tear me from my rest to make me talk about things I do not want to talk about.",
+      "zh": ""
+    },
+    {
+      "en": "It will only make things worse.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene happyplacesredux1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/happyplacesredux1.webp",
+      "alt": "happyplacesredux1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, Sensei. What are you doing just walking around the halls?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": You’re not lost, are you? You look lost.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course Sensei isn’t lost, Ami. He knows these halls just as well as he knows my body.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I actually think I know Ayane’s body a little better, to be honest.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei, please tell Ayane you have no intentions of learning about her stupid body.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": It’s not stupid. It’s a temple. A temple for Sensei to defile and-",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Have either of you two seen Makoto?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene happyplacesredux2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/happyplacesredux2.webp",
+      "alt": "happyplacesredux2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Unfortunately, yes. But what do you want with her?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": There’s something I need to talk to her about. That’s why I’m acting all suspicious and wandering around the halls right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene happyplacesredux3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/happyplacesredux3.webp",
+      "alt": "happyplacesredux3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come to think of it, she has seemed pretty out of sorts the last few days.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": She left class almost immediately instead of coming over and talking to you.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": And yes, I keep track of her because, even if she’s bossy at times, she has nice legs and looks good without her glasses on.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I disagree and think she looks like a...stupid person who only wants to hook up with my [uncle].",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Hate to break it to you guys but this is kind of important, so if you could leave your feelings about Makoto out of this and just tell me where she is, it would be great.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene happyplacesredux4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/happyplacesredux4.webp",
+      "alt": "happyplacesredux4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wow. You actually seem kind of serious.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": If she’d be anywhere, it would probably be downstairs at her locker.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I think Miku said something about her staying in bed a lot the last few days, but I don’t care about her so I kinda didn’t think anything of it until now.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Do you want us to come with you? Or maybe just me, at least?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I might be able to get through to her better than you can since I’m also a [teenage]girl head over heels in love with-",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene happyplacesredux5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/happyplacesredux5.webp",
+      "alt": "happyplacesredux5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uh-oh! Better head downstairs quick if you want to catch her, Sensei. Ayane will only slow you down.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Maybe! But that’s just because the amount of love I carry with me is heavier than Mt. Fuji.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I nod to Ami and Ayane and quickly head downstairs to see if I can catch Makoto before she leaves.",
+      "zh": ""
+    },
+    {
+      "en": "Normally, I would have at least said goodbye or something, but the chances are that if Makoto gets back to the dorm before I see her, she won’t open it for me even if I come visit.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker1.webp",
+      "alt": "makotolocker1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I find Makoto amidst a crowd of other students, fumbling to open her locker with shaky hands.",
+      "zh": ""
+    },
+    {
+      "en": "No one is paying much attention to her, so I, too, begin to drown them all out.",
+      "zh": ""
+    },
+    {
+      "en": "Before long, the two of us are engulfed in silence.",
+      "zh": ""
+    },
+    {
+      "en": "I watch her fail to pull it open three times before deciding to speak out.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Makoto.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker2.webp",
+      "alt": "makotolocker2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh. Hello, Sensei.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Is there something I can do for you?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Do you need any help opening your locker? You seem to be having a little trouble.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker3.webp",
+      "alt": "makotolocker3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m not having any trouble at all.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I always fail a few times before managing to open this stubborn thing.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": The door just gets stuck whenever it wants to.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Damn thing doesn’t even care about how busy some of us are.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And what are you busy with, exactly?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Do you have somewhere to be?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I have a date with my bed.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And then before I know it, it will be tomorrow.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Then I’ll go home and have another date with my bed.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And then tomorrow will come again.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And then another day will pass by.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I’ll sleep more on the weekends.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And more tomorrows will come.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Then I’ll come to[school].",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Then go back home and have another date with my bed.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": It’s all a cycle.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I just can’t get the head start I want until I can get my shoes out of this...fucking...locker.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto tries pulling it open again but her fingers slip off.",
+      "zh": ""
+    },
+    {
+      "en": "She almost falls and I go to catch her, but she regains her balance before we come into contact with one another.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker4.webp",
+      "alt": "makotolocker4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Oh what?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You tried to catch me.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": How polite of you.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Of course I did. You falling down and getting hurt would be an inconvenience for me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Would it?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": That’s nice to know.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I take a step closer to her.",
+      "zh": ""
+    },
+    {
+      "en": "She does not move.",
+      "zh": ""
+    },
+    {
+      "en": "She just continues trying to pull her locker open.",
+      "zh": ""
+    },
+    {
+      "en": "The poor girl probably hasn’t even unlocked it yet.",
+      "zh": ""
+    },
+    {
+      "en": "She’s just standing here in a daze waiting for things to fall into her hands rather than doing anything to make them happen.",
+      "zh": ""
+    },
+    {
+      "en": "She’d probably walk home barefoot before remembering she just needs to use a key.",
+      "zh": ""
+    },
+    {
+      "en": "Then she’d probably fall asleep in the bathroom of the dorm, forgetting she needs a key to unlock the door to her room as well.",
+      "zh": ""
+    },
+    {
+      "en": "Keys are always so hard to use when your hands are shaking.",
+      "zh": ""
+    },
+    {
+      "en": "And it’s even harder to remember you need to use them in the first place, it seems.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why don’t the two of us go talk somewhere?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Talk about what?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Is there something you want to say to me?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": There is.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker5.webp",
+      "alt": "makotolocker5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, what is it?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": What do you want to talk about?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You turned down my blowjob the other day, so I doubt it’s anything sexual.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": "I turn around to see if anyone else wandering through the hall caught what she said, but it doesn’t look that way.",
+      "zh": ""
+    },
+    {
+      "en": "No one reacts.",
+      "zh": ""
+    },
+    {
+      "en": "They all just keep moving as if they’re cogs in some sort of machine.",
+      "zh": ""
+    },
+    {
+      "en": "And I am an engineer, attempting to make one cog start working again.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I want to talk to you about what’s going on.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Does that mean you know what’s going on?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": No. It’s more of me wanting to know.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You’ve been acting strange the last few days.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": And you’ve been acting strange the last few months but I’ve never tried to change you back, have I?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Even when you started coming to my job and saying all those super perverted things to me, I just let it happen.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": No, you actually showed a fair bit of resistance.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Ooooooooooooooooooooh, right. Right. But then you kept pushing anyway.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And I was happy to oblige because I was curious about how far things would go.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And now our relationship is stronger than ever~",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Right, Sensei?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhh...right.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": So what? You feel indebted to me or something?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Or are you just worried that I’m acting strangely because you’re afraid you broke me?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker6.webp",
+      "alt": "makotolocker6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": If that’s what it is, I can promise you’re not the one who broke me at all.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And before you go jumping any guns, let me just say that I’m perfectly aware that I’m the one who broke myself.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Either me or God god.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker7.webp",
+      "alt": "makotolocker7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But there is no god! There can’t be!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": No god would let that happen!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker8.webp",
+      "alt": "makotolocker8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Without thinking, I push Makoto up against her locker and wrap my hands around her wrists.",
+      "zh": ""
+    },
+    {
+      "en": "She stops shaking entirely and peers directly into my eyes.",
+      "zh": ""
+    },
+    {
+      "en": "No-",
+      "zh": ""
+    },
+    {
+      "en": "She peers through my eyes.",
+      "zh": ""
+    },
+    {
+      "en": "I don’t even know what she’s looking at.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Right here?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I guess if you want to, we can. Not like I care anymore.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I didn't even put on underwear today. How crazy is that?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": You’re kinda hurting my wrists though, so could you maybe ease up a bit?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": What is going on?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You tell me. You’re the one who got all aggressive in the middle of the hallway when I was just trying to open my locker.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Before that, why are you acting like this? Why bring up something as nonsensical as god when I’m trying to actually talk to you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Slip of the tongue?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I begin to hear whispers of people around us, looking on in shock.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker9.webp",
+      "alt": "makotolocker9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uh-oh.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Looks like people might start spreading rumors if you don’t make some space between us, Sensei.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Not like I mind, but I don’t think that would be good for your career.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And just think about what Ami would say if she were to come down the stairs and see us pressed up against the lockers like this.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I let go of Makoto’s wrists and she quickly regains the little composure she had prior to me showing up here.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker10.webp",
+      "alt": "makotolocker10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Boo...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I thought something wonderful was about to happen.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Let’s go to the roof. We’re drawing too much attention here.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": No thanks. I don’t like the roof anymore.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": What happened to it being your “happy place?”",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": There are no happy places, Sensei. Just places where it’s slightly harder to be touched by the dark.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Unfortunately for me, the last time we were up there, I was touched a lot.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I felt the dark all over me.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I felt its hands crawl up my thighs and slip into my pants.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I felt them split me open between my legs and explore my insides.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And then poof. Goodbye, old Makoto.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Goodbye, everything.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": But hello, new world.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": A brand new place where everything is just how I want it to be...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Absolutely-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Fucking-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Horrible.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The students who had since gathered around us begin to disperse as we move further and further apart both physically and mentally.",
+      "zh": ""
+    },
+    {
+      "en": "This isn’t the Makoto I know.",
+      "zh": ""
+    },
+    {
+      "en": "And I have a hard time believing that this is the person she is underneath the layers she puts on to make herself more...professional or responsible or whatever it is she normally goes for.",
+      "zh": ""
+    },
+    {
+      "en": "This version of her is like all of her flaws were turned up to max.",
+      "zh": ""
+    },
+    {
+      "en": "They’ve taken over everything.",
+      "zh": ""
+    },
+    {
+      "en": "Was she really so tired that she allowed this to happen?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": When we walked home together, that night on the roof, what was going through your head?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You were silent the whole way back.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": So were you.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": We were silent together.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I can’t remember what was going through my head.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Perhaps a little of everything? Perhaps nothing at all?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Can you please at least say something that makes sense?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I can try, but what makes sense to me might not make any sense to you at all.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": If I were to tell you what really happened, you’d think I’m even crazier than you probably think I am right now.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": So I will just sleep.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And then I will wake up tomorrow.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And then I will sleep.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And then wake up again.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And you’ll do the same.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": The same seven days.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Over-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And over-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And over-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And over-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Until everything melts down and reforms into one disturbing mass of flesh, complete with twelve smiles.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": One for each girl in class that you [masturbate] to while all alone in bed at night.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I can’t get through to her.",
+      "zh": ""
+    },
+    {
+      "en": "It was pointless even trying.",
+      "zh": ""
+    },
+    {
+      "en": "But how am I going to explain this to Miku?",
+      "zh": ""
+    },
+    {
+      "en": "And how is Maki going to take it knowing that her daughter might never snap out of this?",
+      "zh": ""
+    },
+    {
+      "en": "What will happen to Makoto’s future?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker11.webp",
+      "alt": "makotolocker11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Don’t you think I’m better this way, [makotomaster]?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I won’t yell at you for anything anymore. You can do whatever you want to me.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I’ll still help you with all of your paperwork and stuff, but don’t expect me to stay up late studying anymore.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": And don’t expect me to stick around after class either. It’s all too bothersome now.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I just want to sleep.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Good things only come when I’m asleep.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": The only problem is that none of them are real.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": But then again-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Nothing is real.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker12.webp",
+      "alt": "makotolocker12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, are we done here? Or are you going to drag me up to the roof by force?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I’m not going to drag you anywhere. I just don’t want to see you like this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That’s nice. I only had to snap for you to finally show me an ounce of compassion.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": If I knew that’s all it would take, I would have jumped earlier.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Jumped?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Heheh~ Oops! Said too much!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I’m fine. Really.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Just, not really.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": But that doesn’t matter.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": See you in class tomorrow!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotolocker13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotolocker13.webp",
+      "alt": "makotolocker13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto leaves without ever opening her locker.",
+      "zh": ""
+    },
+    {
+      "en": "She walks home in her indoor shoes.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And then she goes to sleep.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day216 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

@@ -1,70 +1,133 @@
 {
- "label": "harukasummer2nightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I give Haruka a call and wind up catching a bus ride over to her neighborhood so the two of us can get dinner at some hole-in-the-wall Chinese restaurant she frequents.",
-   "zh": ""
-  },
-  {
-   "en": "I ask her about how long she’s been coming here and she goes silent for a moment, not quite knowing how to respond. Which, in itself, is more of a response than I bargained for in the first place.",
-   "zh": ""
-  },
-  {
-   "en": "I’m sure I’m not the first person to take a seat beside her in there.",
-   "zh": ""
-  },
-  {
-   "en": "I’m sure I’m not the first person to comment on the sun-bleached menus stuck to the storefront windows and how it looks like the place hasn’t been cleaned in years.",
-   "zh": ""
-  },
-  {
-   "en": "But I’m sure I’m the first person who’s done any of those things ever since her husband left.",
-   "zh": ""
-  },
-  {
-   "en": "She knows that. And she knows I know that- which is why she takes it upon herself to come out and assure me that I am not just a replacement.",
-   "zh": ""
-  },
-  {
-   "en": "That I am not just someone to block the wind from the rotating fan beside the table we ate at.",
-   "zh": ""
-  },
-  {
-   "en": "Haruka disappears into the bathroom for ten minutes and comes back with her eyes slightly swollen and red.",
-   "zh": ""
-  },
-  {
-   "en": "She pays the cashier before I have time to comment on them and urges me outside, hoping that the darkness is enough to hide her misery when we all know it’s not.",
-   "zh": ""
-  },
-  {
-   "en": "I ignore it, though. That’s just the type of person I am.",
-   "zh": ""
-  },
-  {
-   "en": "For if she wants to pretend to be happy, I will too.",
-   "zh": ""
-  },
-  {
-   "en": "And I will accompany her into any hole in any wall that she’s afraid to enter alone.",
-   "zh": ""
-  },
-  {
-   "en": "Haruka’s affection has increased to [haruka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "harukasummer2nightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label harukasummer2nightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene harukasummer2nightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/harukasummer2nightgen.webp",
+      "alt": "harukasummer2nightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give Haruka a call and wind up catching a bus ride over to her neighborhood so the two of us can get dinner at some hole-in-the-wall Chinese restaurant she frequents.",
+      "zh": ""
+    },
+    {
+      "en": "I ask her about how long she’s been coming here and she goes silent for a moment, not quite knowing how to respond. Which, in itself, is more of a response than I bargained for in the first place.",
+      "zh": ""
+    },
+    {
+      "en": "I’m sure I’m not the first person to take a seat beside her in there.",
+      "zh": ""
+    },
+    {
+      "en": "I’m sure I’m not the first person to comment on the sun-bleached menus stuck to the storefront windows and how it looks like the place hasn’t been cleaned in years.",
+      "zh": ""
+    },
+    {
+      "en": "But I’m sure I’m the first person who’s done any of those things ever since her husband left.",
+      "zh": ""
+    },
+    {
+      "en": "She knows that. And she knows I know that- which is why she takes it upon herself to come out and assure me that I am not just a replacement.",
+      "zh": ""
+    },
+    {
+      "en": "That I am not just someone to block the wind from the rotating fan beside the table we ate at.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Haruka disappears into the bathroom for ten minutes and comes back with her eyes slightly swollen and red.",
+      "zh": ""
+    },
+    {
+      "en": "She pays the cashier before I have time to comment on them and urges me outside, hoping that the darkness is enough to hide her misery when we all know it’s not.",
+      "zh": ""
+    },
+    {
+      "en": "I ignore it, though. That’s just the type of person I am.",
+      "zh": ""
+    },
+    {
+      "en": "For if she wants to pretend to be happy, I will too.",
+      "zh": ""
+    },
+    {
+      "en": "And I will accompany her into any hole in any wall that she’s afraid to enter alone.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ haruka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Haruka’s affection has increased to [haruka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

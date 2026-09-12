@@ -1,486 +1,1010 @@
 {
- "label": "day121",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I’m wandering the halls of the[school] during lunchtime, trying to figure out what I want to do today.",
-   "zh": ""
-  },
-  {
-   "en": "I realized just a few minutes ago that I’d forgotten my wallet at home, and considering that this[school] is pure evil and does not offer free lunch to the staff-",
-   "zh": ""
-  },
-  {
-   "en": "I am left with no other option but to either starve or mooch off of my students.",
-   "zh": ""
-  },
-  {
-   "en": "The thing is, the cafeteria isn’t exactly a prime mooching spot since other staff members are in there, so I have to figure out a way around that.",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "I am suddenly overcome by a strong urge to try my luck on the rooftop.",
-   "zh": ""
-  },
-  {
-   "en": "I don’t know much about anime, but one of the few things I do remember is that important characters always seem to be on the roof for some reason.",
-   "zh": ""
-  },
-  {
-   "en": "I just hope that the door is unlocked since I still lack a key...",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "I step out into the air only to be immediately assaulted by a level of humidity that makes this seem less like a roof and more like a sauna.",
-   "zh": ""
-  },
-  {
-   "en": "At least the door was unlocked, though.",
-   "zh": ""
-  },
-  {
-   "en": "I’m not really sure why, but I will gladly accept this convenient chain of events and chalk it up to a gift from God.",
-   "zh": ""
-  },
-  {
-   "en": "Now, to find someone who can give me food.",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "A diligent girl wraps her fingers around the chainlink before her, staring out at a city she isn’t allowed to leave.",
-   "zh": ""
-  },
-  {
-   "en": "But despite the inability to ever go somewhere bigger, at least at this point in time, she understands this town has everything others could offer and more.",
-   "zh": ""
-  },
-  {
-   "en": "And so she stands here, in this place of quiet contemplation that others would view as a refuge, and wonders-",
-   "zh": ""
-  },
-  {
-   "en": "Why try so hard if I can never escape?",
-   "zh": ""
-  },
-  {
-   "en": ": Makoto.",
-   "zh": ""
-  },
-  {
-   "en": ": Ah, what?! Sensei?!",
-   "zh": ""
-  },
-  {
-   "en": ": What are you doing up here?",
-   "zh": ""
-  },
-  {
-   "en": ": Give me food.",
-   "zh": ""
-  },
-  {
-   "en": ": I beg your pardon?",
-   "zh": ""
-  },
-  {
-   "en": ": You’re breaking at least fifteen different[school] rules by being on the roof during lunch. I will accept food in exchange for my silence.",
-   "zh": ""
-  },
-  {
-   "en": ": I am not...and I don’t even have any food.",
-   "zh": ""
-  },
-  {
-   "en": ": If you don’t have any food, what’s your explanation for being on the roof right now?",
-   "zh": ""
-  },
-  {
-   "en": ": This place is reserved for delinquents and rendezvous between [young]anime-couples.",
-   "zh": ""
-  },
-  {
-   "en": ": Just so you’re aware, the student council has access to the roof as well.",
-   "zh": ""
-  },
-  {
-   "en": ": Yes, it may be for the sole purpose of monitoring whether or not other students are spending time up here, but that is beside the point!",
-   "zh": ""
-  },
-  {
-   "en": ": What are you doing here, Sensei? I believe that is a much better question.",
-   "zh": ""
-  },
-  {
-   "en": ": Is it really, though? I feel like someone like me is more prone to visiting places like this than your archetype.",
-   "zh": ""
-  },
-  {
-   "en": ": Well...that may be true. But even someone like me feels the need to escape every now and then.",
-   "zh": ""
-  },
-  {
-   "en": ": Well...if you’re ever looking for even more of an escape, I wouldn’t mind helping you-",
-   "zh": ""
-  },
-  {
-   "en": ": Don’t you dare even think about saying what you’re about to say, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": I will climb over this fence right now.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, right. I forgot that escape rooms make you claustrophobic. My mistake.",
-   "zh": ""
-  },
-  {
-   "en": "I take a moment to look at the fence.",
-   "zh": ""
-  },
-  {
-   "en": "There’s no way she can climb that high.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s a big fence, Makoto. Do you think you’re physically capable of scaling it?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not sure, but I swear on Einstein’s grave that I will find out if you continue to push me.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, fine. I’m sorry.",
-   "zh": ""
-  },
-  {
-   "en": ": Just to get back to that escape thing, though, is it really necessary for you to come to a place like the[school] roof?",
-   "zh": ""
-  },
-  {
-   "en": ": Couldn’t you just hang out in the library or something?",
-   "zh": ""
-  },
-  {
-   "en": "Makoto takes a moment to look back over the horizon and sighs to herself.",
-   "zh": ""
-  },
-  {
-   "en": "It’s not a heavy sigh or anything like that. If anything, it’s more like the sound someone makes when they’re giving up on something.",
-   "zh": ""
-  },
-  {
-   "en": ": I guess I could. The library is certainly more fitting for someone like me, isn’t it?",
-   "zh": ""
-  },
-  {
-   "en": ": After all, what could I possibly gain from coming somewhere like this?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not an artist or a writer or anything like that. There’s no ‘inspiration’ that I can leech from a pretty view.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s just a different view of the same things I see when I’m walking down the street each day.",
-   "zh": ""
-  },
-  {
-   "en": ": Nothing more, nothing less...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Why are you here, though, Sensei?",
-   "zh": ""
-  },
-  {
-   "en": ": Didn’t I already tell you? I’m looking for food.",
-   "zh": ""
-  },
-  {
-   "en": ": And so...you came to the roof? I’m not quite following your reasoning.",
-   "zh": ""
-  },
-  {
-   "en": ": Well I forgot my wallet at home and just felt strangely compelled to come here for some reason instead.",
-   "zh": ""
-  },
-  {
-   "en": ": Compelled by what?",
-   "zh": ""
-  },
-  {
-   "en": ": Uh...",
-   "zh": ""
-  },
-  {
-   "en": ": Hunger?",
-   "zh": ""
-  },
-  {
-   "en": ": Hmm...",
-   "zh": ""
-  },
-  {
-   "en": ": While it’s true that extreme hunger can often lead to irrational behavior, I can’t imagine that simply going a day without lunch would drive you to that point.",
-   "zh": ""
-  },
-  {
-   "en": ": Perhaps it was something else that brought you here?",
-   "zh": ""
-  },
-  {
-   "en": ": Maybe a hidden urge to throw yourself from the top of a building?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Excuse me?",
-   "zh": ""
-  },
-  {
-   "en": ": Hm?",
-   "zh": ""
-  },
-  {
-   "en": ": Did I say something strange?",
-   "zh": ""
-  },
-  {
-   "en": ": It’s not uncommon for people to have thoughts like that. It’s not as if it’s revealing your true intentions or anything of the sort.",
-   "zh": ""
-  },
-  {
-   "en": ": But then again, Japan has one of the highest suicide rates in the entire world, so the likelihood of you following through would be marginally higher in some respects.",
-   "zh": ""
-  },
-  {
-   "en": "I’m...",
-   "zh": ""
-  },
-  {
-   "en": "What?",
-   "zh": ""
-  },
-  {
-   "en": "What the fuck is she talking about?",
-   "zh": ""
-  },
-  {
-   "en": ": Sorry for asking this all of a sudden but, are you okay?",
-   "zh": ""
-  },
-  {
-   "en": ": Of course. Why do you ask?",
-   "zh": ""
-  },
-  {
-   "en": ": It’s not like you to randomly go off on depressing tangents like this.",
-   "zh": ""
-  },
-  {
-   "en": ": Is it truly depressing if it’s based on logic and reason rather than emotion?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m simply giving you the breakdown of my thought process. I didn’t intend to evoke any darker feelings.",
-   "zh": ""
-  },
-  {
-   "en": ": I mean...I guess if you say so...",
-   "zh": ""
-  },
-  {
-   "en": ": Apologies if any of that made you feel weird, though. I’ll try to be a bit more candid in the future.",
-   "zh": ""
-  },
-  {
-   "en": ": No need to apologize, just felt compelled to ask if you were doing alright after hearing that. That’s all.",
-   "zh": ""
-  },
-  {
-   "en": ": Well then, yes. I’m totally fine. And thank you for caring enough to ask.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s strange, though. It seems as if you’ve felt compelled to do several things today.",
-   "zh": ""
-  },
-  {
-   "en": ": First the roof, now this...Perhaps I should be the one checking on you instead?",
-   "zh": ""
-  },
-  {
-   "en": ": Your mind hasn’t been taken over by someone else, has it? Hahaha~",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Of course not. I don’t think things like that are even possible.",
-   "zh": ""
-  },
-  {
-   "en": ": Neither do I, of course. I was just trying to make a joke after dragging the mood down so much.",
-   "zh": ""
-  },
-  {
-   "en": ": Besides, if something like that were possible, I’m sure I’d be the first to notice.",
-   "zh": ""
-  },
-  {
-   "en": ": You and I spend so much time together that there’s no way something as big as that could just slip by me.",
-   "zh": ""
-  },
-  {
-   "en": "I...wouldn’t be so sure of that if I were you, Makoto.",
-   "zh": ""
-  },
-  {
-   "en": "In fact, it seems like the first person to notice was actually the one I’m least close with. How’s that for irony?",
-   "zh": ""
-  },
-  {
-   "en": ": Sorry in advance for getting sappy, but I wonder where I would be right now if the two of us never met?",
-   "zh": ""
-  },
-  {
-   "en": ": Sure, we’ve barely known each other for a year, but it feels like much longer.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ve learned so much from you, even if you’ve sort of given up on the whole teaching thing.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey, I haven’t given up. I’m just trying out new methods.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, whatever you’re doing, it seems to be working.",
-   "zh": ""
-  },
-  {
-   "en": ": Everyone’s grades are up and the last set of standardized tests were lifelong highs for almost everyone involved.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m going to take some of the credit for that if you don’t mind, though. I’ve been doing my fair share as well.",
-   "zh": ""
-  },
-  {
-   "en": ": Hell, you can take all of the credit if you want. Like you said, I barely even do anything.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m kind of just moral support at this point while all of you figure out how to do stuff on your own.",
-   "zh": ""
-  },
-  {
-   "en": ": Hahah~ Well moral support is always important too, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Plus, there are always other things you can do to help us other than just explaining chemistry and things of the sort.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s great. This might be a shocker to you, but chemistry is definitely not one of my strong points.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh? And what are your strong points, Sensei?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Sex education.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Okay. I think it’s about time to head back downstairs.",
-   "zh": ""
-  },
-  {
-   "en": "And so the two of us head back downstairs.",
-   "zh": ""
-  },
-  {
-   "en": "Makoto locks the door behind us, ensuring that I won't be able to come up here again without getting a key from either her or Yumi.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, she’s blissfully unaware that Yumi even has a key at the moment, so I just need to make sure she doesn’t find out if I ever want to come up here again...",
-   "zh": ""
-  },
-  {
-   "en": "Makoto’s affection has increased to [makoto_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day121",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day121:",
+      "zh": ""
+    },
+    {
+      "en": "scene hall_day",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/hall_day.png",
+      "alt": "hall_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I’m wandering the halls of the[school] during lunchtime, trying to figure out what I want to do today.",
+      "zh": ""
+    },
+    {
+      "en": "I realized just a few minutes ago that I’d forgotten my wallet at home, and considering that this[school] is pure evil and does not offer free lunch to the staff-",
+      "zh": ""
+    },
+    {
+      "en": "I am left with no other option but to either starve or mooch off of my students.",
+      "zh": ""
+    },
+    {
+      "en": "The thing is, the cafeteria isn’t exactly a prime mooching spot since other staff members are in there, so I have to figure out a way around that.",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "I am suddenly overcome by a strong urge to try my luck on the rooftop.",
+      "zh": ""
+    },
+    {
+      "en": "I don’t know much about anime, but one of the few things I do remember is that important characters always seem to be on the roof for some reason.",
+      "zh": ""
+    },
+    {
+      "en": "I just hope that the door is unlocked since I still lack a key...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene roofnoon",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/roofnoon.png",
+      "alt": "roofnoon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I step out into the air only to be immediately assaulted by a level of humidity that makes this seem less like a roof and more like a sauna.",
+      "zh": ""
+    },
+    {
+      "en": "At least the door was unlocked, though.",
+      "zh": ""
+    },
+    {
+      "en": "I’m not really sure why, but I will gladly accept this convenient chain of events and chalk it up to a gift from God.",
+      "zh": ""
+    },
+    {
+      "en": "Now, to find someone who can give me food.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof1.webp",
+      "alt": "makotoroof1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A diligent girl wraps her fingers around the chainlink before her, staring out at a city she isn’t allowed to leave.",
+      "zh": ""
+    },
+    {
+      "en": "But despite the inability to ever go somewhere bigger, at least at this point in time, she understands this town has everything others could offer and more.",
+      "zh": ""
+    },
+    {
+      "en": "And so she stands here, in this place of quiet contemplation that others would view as a refuge, and wonders-",
+      "zh": ""
+    },
+    {
+      "en": "Why try so hard if I can never escape?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Makoto.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof2.webp",
+      "alt": "makotoroof2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah, what?! Sensei?!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": What are you doing up here?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Give me food.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof3.webp",
+      "alt": "makotoroof3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I beg your pardon?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": You’re breaking at least fifteen different[school] rules by being on the roof during lunch. I will accept food in exchange for my silence.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I am not...and I don’t even have any food.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": If you don’t have any food, what’s your explanation for being on the roof right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": This place is reserved for delinquents and rendezvous between [young]anime-couples.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof4.webp",
+      "alt": "makotoroof4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Just so you’re aware, the student council has access to the roof as well.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Yes, it may be for the sole purpose of monitoring whether or not other students are spending time up here, but that is beside the point!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": What are you doing here, Sensei? I believe that is a much better question.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Is it really, though? I feel like someone like me is more prone to visiting places like this than your archetype.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof5.webp",
+      "alt": "makotoroof5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well...that may be true. But even someone like me feels the need to escape every now and then.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Well...if you’re ever looking for even more of an escape, I wouldn’t mind helping you-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof8.webp",
+      "alt": "makotoroof8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Don’t you dare even think about saying what you’re about to say, Sensei.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I will climb over this fence right now.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Oh, right. I forgot that escape rooms make you claustrophobic. My mistake.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I take a moment to look at the fence.",
+      "zh": ""
+    },
+    {
+      "en": "There’s no way she can climb that high.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s a big fence, Makoto. Do you think you’re physically capable of scaling it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I’m not sure, but I swear on Einstein’s grave that I will find out if you continue to push me.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Okay, fine. I’m sorry.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Just to get back to that escape thing, though, is it really necessary for you to come to a place like the[school] roof?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Couldn’t you just hang out in the library or something?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof1.webp",
+      "alt": "makotoroof1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto takes a moment to look back over the horizon and sighs to herself.",
+      "zh": ""
+    },
+    {
+      "en": "It’s not a heavy sigh or anything like that. If anything, it’s more like the sound someone makes when they’re giving up on something.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I guess I could. The library is certainly more fitting for someone like me, isn’t it?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": After all, what could I possibly gain from coming somewhere like this?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I’m not an artist or a writer or anything like that. There’s no ‘inspiration’ that I can leech from a pretty view.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": It’s just a different view of the same things I see when I’m walking down the street each day.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Nothing more, nothing less...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof9.webp",
+      "alt": "makotoroof9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why are you here, though, Sensei?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Didn’t I already tell you? I’m looking for food.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": And so...you came to the roof? I’m not quite following your reasoning.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Well I forgot my wallet at home and just felt strangely compelled to come here for some reason instead.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Compelled by what?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Uh...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hunger?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": While it’s true that extreme hunger can often lead to irrational behavior, I can’t imagine that simply going a day without lunch would drive you to that point.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Perhaps it was something else that brought you here?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Maybe a hidden urge to throw yourself from the top of a building?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Excuse me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hm?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Did I say something strange?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": It’s not uncommon for people to have thoughts like that. It’s not as if it’s revealing your true intentions or anything of the sort.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": But then again, Japan has one of the highest suicide rates in the entire world, so the likelihood of you following through would be marginally higher in some respects.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I’m...",
+      "zh": ""
+    },
+    {
+      "en": "What?",
+      "zh": ""
+    },
+    {
+      "en": "What the fuck is she talking about?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sorry for asking this all of a sudden but, are you okay?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof10.webp",
+      "alt": "makotoroof10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course. Why do you ask?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": It’s not like you to randomly go off on depressing tangents like this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Is it truly depressing if it’s based on logic and reason rather than emotion?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I’m simply giving you the breakdown of my thought process. I didn’t intend to evoke any darker feelings.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I mean...I guess if you say so...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof11.webp",
+      "alt": "makotoroof11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Apologies if any of that made you feel weird, though. I’ll try to be a bit more candid in the future.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": No need to apologize, just felt compelled to ask if you were doing alright after hearing that. That’s all.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Well then, yes. I’m totally fine. And thank you for caring enough to ask.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": It’s strange, though. It seems as if you’ve felt compelled to do several things today.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": First the roof, now this...Perhaps I should be the one checking on you instead?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof12.webp",
+      "alt": "makotoroof12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Your mind hasn’t been taken over by someone else, has it? Hahaha~",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course not. I don’t think things like that are even possible.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof11.webp",
+      "alt": "makotoroof11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Neither do I, of course. I was just trying to make a joke after dragging the mood down so much.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Besides, if something like that were possible, I’m sure I’d be the first to notice.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": You and I spend so much time together that there’s no way something as big as that could just slip by me.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I...wouldn’t be so sure of that if I were you, Makoto.",
+      "zh": ""
+    },
+    {
+      "en": "In fact, it seems like the first person to notice was actually the one I’m least close with. How’s that for irony?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof13.webp",
+      "alt": "makotoroof13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sorry in advance for getting sappy, but I wonder where I would be right now if the two of us never met?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Sure, we’ve barely known each other for a year, but it feels like much longer.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I’ve learned so much from you, even if you’ve sort of given up on the whole teaching thing.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Hey, I haven’t given up. I’m just trying out new methods.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Well, whatever you’re doing, it seems to be working.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Everyone’s grades are up and the last set of standardized tests were lifelong highs for almost everyone involved.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof14.webp",
+      "alt": "makotoroof14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m going to take some of the credit for that if you don’t mind, though. I’ve been doing my fair share as well.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Hell, you can take all of the credit if you want. Like you said, I barely even do anything.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I’m kind of just moral support at this point while all of you figure out how to do stuff on your own.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hahah~ Well moral support is always important too, Sensei.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Plus, there are always other things you can do to help us other than just explaining chemistry and things of the sort.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": That’s great. This might be a shocker to you, but chemistry is definitely not one of my strong points.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Oh? And what are your strong points, Sensei?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sex education.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoroof15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoroof15.webp",
+      "alt": "makotoroof15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Okay. I think it’s about time to head back downstairs.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And so the two of us head back downstairs.",
+      "zh": ""
+    },
+    {
+      "en": "Makoto locks the door behind us, ensuring that I won't be able to come up here again without getting a key from either her or Yumi.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, she’s blissfully unaware that Yumi even has a key at the moment, so I just need to make sure she doesn’t find out if I ever want to come up here again...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day121 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ makoto_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto’s affection has increased to [makoto_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

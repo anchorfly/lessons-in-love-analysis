@@ -1,486 +1,1227 @@
 {
- "label": "day77",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": ...and that’s how you find slope-intercept form. Any questions?",
-   "zh": ""
-  },
-  {
-   "en": ": Umm...could you please repeat...all of that?",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei, I have no idea what else I’m supposed to do. She’s just not retaining any information.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s just because you keep using big words and weird terms like ‘slope intercept form.’ Who the heck even knows what that is?!",
-   "zh": ""
-  },
-  {
-   "en": ": Everyone! Or at least we’re supposed to!",
-   "zh": ""
-  },
-  {
-   "en": ": Ahhhh! Why can’t all of our tests just be about how to be a good caretaker?!",
-   "zh": ""
-  },
-  {
-   "en": ": If you can’t even figure out slope intercept form, there’s no way you’re a good caretaker.",
-   "zh": ""
-  },
-  {
-   "en": ": Those two things have absolutely nothing in common!",
-   "zh": ""
-  },
-  {
-   "en": ": And besides, I’m a much better caretaker than you’ll ever be, Makoto!",
-   "zh": ""
-  },
-  {
-   "en": ": Take that back!",
-   "zh": ""
-  },
-  {
-   "en": ": No!",
-   "zh": ""
-  },
-  {
-   "en": ": Yes!",
-   "zh": ""
-  },
-  {
-   "en": ": No!",
-   "zh": ""
-  },
-  {
-   "en": "So-",
-   "zh": ""
-  },
-  {
-   "en": "I bet you’re probably wondering how I ended up in this position.",
-   "zh": ""
-  },
-  {
-   "en": "And, to be honest, I am too.",
-   "zh": ""
-  },
-  {
-   "en": "It all started with Ami coming up to me in class and asking for help with algebra.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, Ami wanted me around as well, so...",
-   "zh": ""
-  },
-  {
-   "en": "Here we are. ‘Learning’ things.",
-   "zh": ""
-  },
-  {
-   "en": ": You two really don’t get along, do you?",
-   "zh": ""
-  },
-  {
-   "en": ": Makoto is just jealous because you spend more time with me than her.",
-   "zh": ""
-  },
-  {
-   "en": ": I-I am not! I’m just trying to help you so you don’t get held back!",
-   "zh": ""
-  },
-  {
-   "en": ": See? She’s yelling at me to try and impress you but you’re not impressed at all, are you Sensei?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m...wait...what’s going on, exactly?",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei! Tell her to focus or she’s never going to get into a good[school] and become a doctor.",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t wanna be a doctor! I wanna be a housewife!",
-   "zh": ""
-  },
-  {
-   "en": ": Who in their right mind would marry someone who doesn’t even know slope intercept form?!",
-   "zh": ""
-  },
-  {
-   "en": ": None of your business!",
-   "zh": ""
-  },
-  {
-   "en": ": I bet Sensei doesn’t even know the formula for that!",
-   "zh": ""
-  },
-  {
-   "en": "Please don’t drag me into this.",
-   "zh": ""
-  },
-  {
-   "en": ": Preposterous! Of course he does!",
-   "zh": ""
-  },
-  {
-   "en": ": No way! He doesn’t like boring stuff like that!",
-   "zh": ""
-  },
-  {
-   "en": ": It’s not boring just because it’s educational!",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei! What is the formula for slope intercept form?!",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...",
-   "zh": ""
-  },
-  {
-   "en": "m = bx + y",
-   "zh": ""
-  },
-  {
-   "en": ": Definitely ‘m = bx + y.’",
-   "zh": ""
-  },
-  {
-   "en": ": Tch-!",
-   "zh": ""
-  },
-  {
-   "en": ": Teehee~ Told you he doesn’t know!",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei isn’t interested in that kind of stuff!",
-   "zh": ""
-  },
-  {
-   "en": ": That’s simply not true! Of course he’s interested in that kind of stuff. He just had...a momentary memory lapse.",
-   "zh": ""
-  },
-  {
-   "en": ": Things like that happen.",
-   "zh": ""
-  },
-  {
-   "en": ": Whatever you say, Makoto~",
-   "zh": ""
-  },
-  {
-   "en": "y = mx + b",
-   "zh": ""
-  },
-  {
-   "en": ": Easy. ‘y = mx + b.’",
-   "zh": ""
-  },
-  {
-   "en": ": Ah-!",
-   "zh": ""
-  },
-  {
-   "en": ": I expected nothing less from you, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Why do you know the answer to that?!",
-   "zh": ""
-  },
-  {
-   "en": ": Hey, I might not be the best at showing it...or applying it...but I’m actually pretty smart.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m offended you’d think otherwise, Ami.",
-   "zh": ""
-  },
-  {
-   "en": ": If it’s any consolation, I’ve never judged you at all. I think you’re brilliant and wonderful and the best man I’ve ever met.",
-   "zh": ""
-  },
-  {
-   "en": ": Who are you calling a smartypants glasses-wearer?!",
-   "zh": ""
-  },
-  {
-   "en": ": The one who is a smartypants and is also wearing glasses!",
-   "zh": ""
-  },
-  {
-   "en": "x = by + m",
-   "zh": ""
-  },
-  {
-   "en": ": Definitely ‘x = by + m.’",
-   "zh": ""
-  },
-  {
-   "en": ": Tch-!",
-   "zh": ""
-  },
-  {
-   "en": ": Teehee~ Told you he doesn’t know!",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei isn’t interested in that kind of stuff!",
-   "zh": ""
-  },
-  {
-   "en": ": That’s simply not true! Of course he’s interested in that kind of stuff. He just had...a momentary memory lapse.",
-   "zh": ""
-  },
-  {
-   "en": ": Things like that happen.",
-   "zh": ""
-  },
-  {
-   "en": ": Whatever you say, Makoto~",
-   "zh": ""
-  },
-  {
-   "en": ": Listen, you two. It doesn’t matter whether or not I know this formula. What matters is that both of you do.",
-   "zh": ""
-  },
-  {
-   "en": ": I’d hate to see something as simple as this hold either of you back.",
-   "zh": ""
-  },
-  {
-   "en": "And I’d also hate to get in trouble for having some of my students fail the standardized test.",
-   "zh": ""
-  },
-  {
-   "en": "Thank god that Makoto is able to tutor everyone on things that I can’t remember or never learned in the first place.",
-   "zh": ""
-  },
-  {
-   "en": ": Well said, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": I mean, obviously you don’t have to worry about me. But those words are very wise when applied to everyone else.",
-   "zh": ""
-  },
-  {
-   "en": ": Can't you just study with me instead, Sensei? Makoto is a mean teacher.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m sorry, Ami...I just get frustrated whenever it seems like someone isn’t paying attention.",
-   "zh": ""
-  },
-  {
-   "en": ": So...you’re not gonna be a big meanie anymore?",
-   "zh": ""
-  },
-  {
-   "en": ": I...will do my best to not be a ‘big meanie...’",
-   "zh": ""
-  },
-  {
-   "en": ": ...Fine. I guess I can try a little harder, too.",
-   "zh": ""
-  },
-  {
-   "en": ": So, can we finally move on with things?",
-   "zh": ""
-  },
-  {
-   "en": ": Can you do one more thing for me, first?",
-   "zh": ""
-  },
-  {
-   "en": ": Of course. What do you need?",
-   "zh": ""
-  },
-  {
-   "en": ": Can you admit that Sensei likes cute girls like me more than he likes nerdy ones like you?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Hey, don’t look at me. I can’t control her.",
-   "zh": ""
-  },
-  {
-   "en": ": She’s your [niece]. Can’t you at least tell her to focus?",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...I can try?",
-   "zh": ""
-  },
-  {
-   "en": ": Ami, focus.",
-   "zh": ""
-  },
-  {
-   "en": ": Yes, Sensei!~",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Hah...how about we just take a break instead?",
-   "zh": ""
-  },
-  {
-   "en": ": That works for me! I was getting tired of all the slopey stuff anyway.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s slope int- ahh, forget it. Let’s just talk about something the two of us have in common instead.",
-   "zh": ""
-  },
-  {
-   "en": ": Sure! Did you have anything in mind? The two of us have never really talked about stuff we have in common before.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s true. I don’t think I know much about you at all, Ami.",
-   "zh": ""
-  },
-  {
-   "en": ": How about you tell me your top three interests and I’ll see if any of mine match up?",
-   "zh": ""
-  },
-  {
-   "en": ": Hmm...my top three interests...Okay. So, in no particular order-",
-   "zh": ""
-  },
-  {
-   "en": ": Cats, rabbits, and Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Your...[uncle] is in your top three interests?",
-   "zh": ""
-  },
-  {
-   "en": ": Of course. I love him and he loves me.",
-   "zh": ""
-  },
-  {
-   "en": ": Isn’t that a little...uhh...",
-   "zh": ""
-  },
-  {
-   "en": ": Hm? A little what?",
-   "zh": ""
-  },
-  {
-   "en": ": ...Nothing.",
-   "zh": ""
-  },
-  {
-   "en": ": What are your top three, Makoto? Do we have any of the same stuff?",
-   "zh": ""
-  },
-  {
-   "en": ": Uhhh...well it’s kind of embarrassing to say this in front of him, but...",
-   "zh": ""
-  },
-  {
-   "en": ": I guess Sensei would be in my top three interests as well.",
-   "zh": ""
-  },
-  {
-   "en": ": Of course, it’s just because of how much of a role model he’s been for me in terms of teaching and...",
-   "zh": ""
-  },
-  {
-   "en": ": Umm...yeah.",
-   "zh": ""
-  },
-  {
-   "en": ": So...I guess we could talk about that if you want.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Ami?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m keeping an eye on you, Makoto...",
-   "zh": ""
-  },
-  {
-   "en": ": What? Did I...do something wrong?...",
-   "zh": ""
-  },
-  {
-   "en": "In the end, Ami never learned how slope intercept form works.",
-   "zh": ""
-  },
-  {
-   "en": "She wound up memorizing the formula, though, so hopefully she can just...figure it out come test-day.",
-   "zh": ""
-  },
-  {
-   "en": "As for the relationship between these two-",
-   "zh": ""
-  },
-  {
-   "en": "Well...I’m starting to think it’s just destined to not ever work out...",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day77",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day77:",
+      "zh": ""
+    },
+    {
+      "en": "scene amimak1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak1.webp",
+      "alt": "amimak1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...and that’s how you find slope-intercept form. Any questions?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Umm...could you please repeat...all of that?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak2.webp",
+      "alt": "amimak2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei, I have no idea what else I’m supposed to do. She’s just not retaining any information.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak3.webp",
+      "alt": "amimak3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s just because you keep using big words and weird terms like ‘slope intercept form.’ Who the heck even knows what that is?!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak4.webp",
+      "alt": "amimak4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Everyone! Or at least we’re supposed to!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": "mak \"The next mandatory test is based almost entirely around this and, if you can’t even remember what it’s",
+      "zh": ""
+    },
+    {
+      "en": "called, there is no way you’re going to pass.\"",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak5.webp",
+      "alt": "amimak5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahhhh! Why can’t all of our tests just be about how to be a good caretaker?!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": If you can’t even figure out slope intercept form, there’s no way you’re a good caretaker.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak4.webp",
+      "alt": "amimak4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Those two things have absolutely nothing in common!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": And besides, I’m a much better caretaker than you’ll ever be, Makoto!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Take that back!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": No!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Yes!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": No!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "So-",
+      "zh": ""
+    },
+    {
+      "en": "I bet you’re probably wondering how I ended up in this position.",
+      "zh": ""
+    },
+    {
+      "en": "And, to be honest, I am too.",
+      "zh": ""
+    },
+    {
+      "en": "It all started with Ami coming up to me in class and asking for help with algebra.",
+      "zh": ""
+    },
+    {
+      "en": "\"I guess a boring thing like that must have caused Makoto’s geek-radar",
+      "zh": ""
+    },
+    {
+      "en": "to go off because she immediately jumped up and volunteered to help coach Ami on the subject.\"",
+      "zh": ""
+    },
+    {
+      "en": "Of course, Ami wanted me around as well, so...",
+      "zh": ""
+    },
+    {
+      "en": "Here we are. ‘Learning’ things.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You two really don’t get along, do you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak6.webp",
+      "alt": "amimak6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Makoto is just jealous because you spend more time with me than her.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak7.webp",
+      "alt": "amimak7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I-I am not! I’m just trying to help you so you don’t get held back!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": See? She’s yelling at me to try and impress you but you’re not impressed at all, are you Sensei?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I’m...wait...what’s going on, exactly?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak8.webp",
+      "alt": "amimak8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! Tell her to focus or she’s never going to get into a good[school] and become a doctor.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": "scene amimak9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak9.webp",
+      "alt": "amimak9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t wanna be a doctor! I wanna be a housewife!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak10.webp",
+      "alt": "amimak10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Who in their right mind would marry someone who doesn’t even know slope intercept form?!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": None of your business!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I bet Sensei doesn’t even know the formula for that!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Please don’t drag me into this.",
+      "zh": ""
+    },
+    {
+      "en": ": Preposterous! Of course he does!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": No way! He doesn’t like boring stuff like that!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": It’s not boring just because it’s educational!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak11.webp",
+      "alt": "amimak11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! What is the formula for slope intercept form?!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Uhh...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "m = bx + y",
+      "zh": ""
+    },
+    {
+      "en": ": Definitely ‘m = bx + y.’",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak12.webp",
+      "alt": "amimak12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Tch-!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Teehee~ Told you he doesn’t know!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei isn’t interested in that kind of stuff!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": That’s simply not true! Of course he’s interested in that kind of stuff. He just had...a momentary memory lapse.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Things like that happen.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Whatever you say, Makoto~",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "y = mx + b",
+      "zh": ""
+    },
+    {
+      "en": ": Easy. ‘y = mx + b.’",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak13.webp",
+      "alt": "amimak13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah-!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I expected nothing less from you, Sensei.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Why do you know the answer to that?!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Hey, I might not be the best at showing it...or applying it...but I’m actually pretty smart.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I’m offended you’d think otherwise, Ami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": If it’s any consolation, I’ve never judged you at all. I think you’re brilliant and wonderful and the best man I’ve ever met.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak14.webp",
+      "alt": "amimak14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "a \"Hey! You watch it! I’m supposed to be the primary love interest",
+      "zh": ""
+    },
+    {
+      "en": "and I’m not gonna let some smartypants glasses-wearer get in the way of that!\"",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak10.webp",
+      "alt": "amimak10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Who are you calling a smartypants glasses-wearer?!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": The one who is a smartypants and is also wearing glasses!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"The two of them continue shouting at each other for another several minutes",
+      "zh": ""
+    },
+    {
+      "en": "before I finally decide to step in...\"",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "x = by + m",
+      "zh": ""
+    },
+    {
+      "en": ": Definitely ‘x = by + m.’",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak12.webp",
+      "alt": "amimak12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Tch-!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Teehee~ Told you he doesn’t know!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei isn’t interested in that kind of stuff!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": That’s simply not true! Of course he’s interested in that kind of stuff. He just had...a momentary memory lapse.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Things like that happen.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Whatever you say, Makoto~",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak15.webp",
+      "alt": "amimak15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Listen, you two. It doesn’t matter whether or not I know this formula. What matters is that both of you do.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I’d hate to see something as simple as this hold either of you back.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And I’d also hate to get in trouble for having some of my students fail the standardized test.",
+      "zh": ""
+    },
+    {
+      "en": "Thank god that Makoto is able to tutor everyone on things that I can’t remember or never learned in the first place.",
+      "zh": ""
+    },
+    {
+      "en": ": Well said, Sensei.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I mean, obviously you don’t have to worry about me. But those words are very wise when applied to everyone else.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak16.webp",
+      "alt": "amimak16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Can't you just study with me instead, Sensei? Makoto is a mean teacher.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak17.webp",
+      "alt": "amimak17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m sorry, Ami...I just get frustrated whenever it seems like someone isn’t paying attention.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": So...you’re not gonna be a big meanie anymore?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I...will do my best to not be a ‘big meanie...’",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...Fine. I guess I can try a little harder, too.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": So, can we finally move on with things?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Can you do one more thing for me, first?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Of course. What do you need?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Can you admit that Sensei likes cute girls like me more than he likes nerdy ones like you?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak18.webp",
+      "alt": "amimak18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Hey, don’t look at me. I can’t control her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": She’s your [niece]. Can’t you at least tell her to focus?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Uhh...I can try?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Ami, focus.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak19.webp",
+      "alt": "amimak19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes, Sensei!~",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak20.webp",
+      "alt": "amimak20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...how about we just take a break instead?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": "mak \"We’ve been at this for an hour and haven’t really gotten anywhere, so maybe",
+      "zh": ""
+    },
+    {
+      "en": "talking about something else for a little while might help?\"",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak21.webp",
+      "alt": "amimak21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That works for me! I was getting tired of all the slopey stuff anyway.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": It’s slope int- ahh, forget it. Let’s just talk about something the two of us have in common instead.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Sure! Did you have anything in mind? The two of us have never really talked about stuff we have in common before.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": That’s true. I don’t think I know much about you at all, Ami.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": How about you tell me your top three interests and I’ll see if any of mine match up?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak22.webp",
+      "alt": "amimak22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmm...my top three interests...Okay. So, in no particular order-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Cats, rabbits, and Sensei.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak23.webp",
+      "alt": "amimak23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Your...[uncle] is in your top three interests?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course. I love him and he loves me.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Isn’t that a little...uhh...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Hm? A little what?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...Nothing.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": What are your top three, Makoto? Do we have any of the same stuff?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak24.webp",
+      "alt": "amimak24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhhh...well it’s kind of embarrassing to say this in front of him, but...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I guess Sensei would be in my top three interests as well.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Of course, it’s just because of how much of a role model he’s been for me in terms of teaching and...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": Umm...yeah.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak21.webp",
+      "alt": "amimak21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So...I guess we could talk about that if you want.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amimak25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amimak25.webp",
+      "alt": "amimak25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Ami?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ": I’m keeping an eye on you, Makoto...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": What? Did I...do something wrong?...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "In the end, Ami never learned how slope intercept form works.",
+      "zh": ""
+    },
+    {
+      "en": "She wound up memorizing the formula, though, so hopefully she can just...figure it out come test-day.",
+      "zh": ""
+    },
+    {
+      "en": "As for the relationship between these two-",
+      "zh": ""
+    },
+    {
+      "en": "Well...I’m starting to think it’s just destined to not ever work out...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day77 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

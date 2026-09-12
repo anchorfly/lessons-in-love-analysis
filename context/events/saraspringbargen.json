@@ -1,70 +1,133 @@
 {
- "label": "saraspringbargen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I'm finally starting to understand just how effective Sara's methods are when it comes to dealing with grief.",
-   "zh": ""
-  },
-  {
-   "en": "Because, while drinking won't ever make the things I don't want to think about go away, it does confuse me after I spend enough time doing it.",
-   "zh": ""
-  },
-  {
-   "en": "And hey, I'll take what I can get at this point. Especially when I'm getting it from someone who would probably let me fuck her daughter if I asked her nicely.",
-   "zh": ""
-  },
-  {
-   "en": "Not like I'd need to, though. Both Sakakibaras want me as the centerpiece of their world, and it's making me question just how dark those worlds must be if I can somehow light them up.",
-   "zh": ""
-  },
-  {
-   "en": "There's a point during the night where Sara stares at me for an extended period of time.",
-   "zh": ""
-  },
-  {
-   "en": "I can tell she wants to say something. But she never does.",
-   "zh": ""
-  },
-  {
-   "en": "She just smiles and walks away, grabbing me another beer out of the cooler before taking a break to tend to a few other customers.",
-   "zh": ""
-  },
-  {
-   "en": "I observe her while she does this. And I confirm that I'm the only person she smiles like that for.",
-   "zh": ""
-  },
-  {
-   "en": "But strangely enough, in complete contrast to the way things used to be, it's not a smile I want to protect. It's one I want to decimate.",
-   "zh": ""
-  },
-  {
-   "en": "Because I know that destroying the happiness she's able to get from me now will let her smile for someone else one day.",
-   "zh": ""
-  },
-  {
-   "en": "But I am selfish.",
-   "zh": ""
-  },
-  {
-   "en": "So I drink. And I wind up confusing myself.",
-   "zh": ""
-  },
-  {
-   "en": "Sara’s affection has increased to [sara_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "saraspringbargen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label saraspringbargen:",
+      "zh": ""
+    },
+    {
+      "en": "scene saraspringbargen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/saraspringbargen.webp",
+      "alt": "saraspringbargen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I'm finally starting to understand just how effective Sara's methods are when it comes to dealing with grief.",
+      "zh": ""
+    },
+    {
+      "en": "Because, while drinking won't ever make the things I don't want to think about go away, it does confuse me after I spend enough time doing it.",
+      "zh": ""
+    },
+    {
+      "en": "And hey, I'll take what I can get at this point. Especially when I'm getting it from someone who would probably let me fuck her daughter if I asked her nicely.",
+      "zh": ""
+    },
+    {
+      "en": "Not like I'd need to, though. Both Sakakibaras want me as the centerpiece of their world, and it's making me question just how dark those worlds must be if I can somehow light them up.",
+      "zh": ""
+    },
+    {
+      "en": "There's a point during the night where Sara stares at me for an extended period of time.",
+      "zh": ""
+    },
+    {
+      "en": "I can tell she wants to say something. But she never does.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She just smiles and walks away, grabbing me another beer out of the cooler before taking a break to tend to a few other customers.",
+      "zh": ""
+    },
+    {
+      "en": "I observe her while she does this. And I confirm that I'm the only person she smiles like that for.",
+      "zh": ""
+    },
+    {
+      "en": "But strangely enough, in complete contrast to the way things used to be, it's not a smile I want to protect. It's one I want to decimate.",
+      "zh": ""
+    },
+    {
+      "en": "Because I know that destroying the happiness she's able to get from me now will let her smile for someone else one day.",
+      "zh": ""
+    },
+    {
+      "en": "But I am selfish.",
+      "zh": ""
+    },
+    {
+      "en": "So I drink. And I wind up confusing myself.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sara_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sara’s affection has increased to [sara_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

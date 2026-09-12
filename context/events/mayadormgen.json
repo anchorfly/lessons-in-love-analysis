@@ -1,62 +1,175 @@
 {
- "label": "mayadormgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Hey, Maya. Are you around right now?",
-   "zh": ""
-  },
-  {
-   "en": ": Why are you here? Please leave.",
-   "zh": ""
-  },
-  {
-   "en": ": What's that? You want me to come in?",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Why do you do things like this?",
-   "zh": ""
-  },
-  {
-   "en": "Maya begrudgingly hangs out in her room with me as she 'doesn't have enough energy to leave.'",
-   "zh": ""
-  },
-  {
-   "en": "Of course, she spends most of this time either ignoring me or trying to educate me about the universe.",
-   "zh": ""
-  },
-  {
-   "en": "I'm unable to follow any of it, but I'm at least glad that she isn't calling the police.",
-   "zh": ""
-  },
-  {
-   "en": "It has become a personal goal to have Maya accept me, and I feel like moments like this will get us there one step at a time...",
-   "zh": ""
-  },
-  {
-   "en": "...But as soon as I finish thinking that, she kicks me out of the room and I am forced to walk back home alone...",
-   "zh": ""
-  },
-  {
-   "en": "Maya's affection has increased to [maya_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "mayadormgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mayadormgen:",
+      "zh": ""
+    },
+    {
+      "en": ": Hey, Maya. Are you around right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Why are you here? Please leave.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ": What's that? You want me to come in?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene mayadormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/mayadormgen.webp",
+      "alt": "mayadormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why do you do things like this?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maya begrudgingly hangs out in her room with me as she 'doesn't have enough energy to leave.'",
+      "zh": ""
+    },
+    {
+      "en": "Of course, she spends most of this time either ignoring me or trying to educate me about the universe.",
+      "zh": ""
+    },
+    {
+      "en": "I'm unable to follow any of it, but I'm at least glad that she isn't calling the police.",
+      "zh": ""
+    },
+    {
+      "en": "It has become a personal goal to have Maya accept me, and I feel like moments like this will get us there one step at a time...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...But as soon as I finish thinking that, she kicks me out of the room and I am forced to walk back home alone...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maya_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maya's affection has increased to [maya_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

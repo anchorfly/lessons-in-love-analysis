@@ -1,74 +1,125 @@
 {
- "label": "chinaminoongen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I show up at the Chosokabe house sometime in the afternoon to find Chinami decked out in her winter gear.",
-   "zh": ""
-  },
-  {
-   "en": "I ask her if she plans on going anywhere and she reminds me that she isn't allowed to leave the house or she'll have her phone taken away.",
-   "zh": ""
-  },
-  {
-   "en": "As it turns out, she just wanted to wear her winter clothes so she could pretend she was going outside and building a snowman.",
-   "zh": ""
-  },
-  {
-   "en": "This tragic happening sparks a struggle within me about whether I want to risk her life for her happiness and...",
-   "zh": ""
-  },
-  {
-   "en": "Well, I decide to not risk killing anyone today.",
-   "zh": ""
-  },
-  {
-   "en": "Besides, I'm pretty sure I'd be in a lot of trouble as well if Chika found out that I even considered bringing her outdoors in this weather.",
-   "zh": ""
-  },
-  {
-   "en": "Chinami comes up with the brilliant idea to play pretend-snowman with me- which basically involves me standing straight up and...",
-   "zh": ""
-  },
-  {
-   "en": "Well, pretending to be a snowman.",
-   "zh": ""
-  },
-  {
-   "en": "It's a horrible game.",
-   "zh": ""
-  },
-  {
-   "en": "She walks in circles around me for half an hour, patting me up and down as if I were actually made of snow-",
-   "zh": ""
-  },
-  {
-   "en": "And I can't help but think about turning this into a horror movie and coming to life to chase her around the house.",
-   "zh": ""
-  },
-  {
-   "en": "But that, too, sounds like way too much trouble.",
-   "zh": ""
-  },
-  {
-   "en": "So I just let her keep going until she wants to take a nap and then leave the house in search of something else to do.",
-   "zh": ""
-  },
-  {
-   "en": "Chinami's affection has increased to [chinami_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "chinaminoongen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chinaminoongen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene chinaminoongen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chinaminoongen2.webp",
+      "alt": "chinaminoongen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I show up at the Chosokabe house sometime in the afternoon to find Chinami decked out in her winter gear.",
+      "zh": ""
+    },
+    {
+      "en": "I ask her if she plans on going anywhere and she reminds me that she isn't allowed to leave the house or she'll have her phone taken away.",
+      "zh": ""
+    },
+    {
+      "en": "As it turns out, she just wanted to wear her winter clothes so she could pretend she was going outside and building a snowman.",
+      "zh": ""
+    },
+    {
+      "en": "This tragic happening sparks a struggle within me about whether I want to risk her life for her happiness and...",
+      "zh": ""
+    },
+    {
+      "en": "Well, I decide to not risk killing anyone today.",
+      "zh": ""
+    },
+    {
+      "en": "Besides, I'm pretty sure I'd be in a lot of trouble as well if Chika found out that I even considered bringing her outdoors in this weather.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami comes up with the brilliant idea to play pretend-snowman with me- which basically involves me standing straight up and...",
+      "zh": ""
+    },
+    {
+      "en": "Well, pretending to be a snowman.",
+      "zh": ""
+    },
+    {
+      "en": "It's a horrible game.",
+      "zh": ""
+    },
+    {
+      "en": "She walks in circles around me for half an hour, patting me up and down as if I were actually made of snow-",
+      "zh": ""
+    },
+    {
+      "en": "And I can't help but think about turning this into a horror movie and coming to life to chase her around the house.",
+      "zh": ""
+    },
+    {
+      "en": "But that, too, sounds like way too much trouble.",
+      "zh": ""
+    },
+    {
+      "en": "So I just let her keep going until she wants to take a nap and then leave the house in search of something else to do.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chinami_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami's affection has increased to [chinami_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

@@ -1,66 +1,129 @@
 {
- "label": "mayanightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I give Maya a call and ask her to come over to my secret apartment so the two of us can not have sex with each other.",
-   "zh": ""
-  },
-  {
-   "en": "Boring, I know. But given that she actually cares about me and doesn't want my brain to melt, this is really all we can do.",
-   "zh": ""
-  },
-  {
-   "en": "Am I willing to risk that for what I have come to personally refer to as “The forbidden vagina?” Probably. But alas, I remain unwillingly abstinent in the face of greater peril.",
-   "zh": ""
-  },
-  {
-   "en": "Incessant innuendo aside, this is fine. It's good that we can be together now without the constant bickering and references to how disgusting I am.",
-   "zh": ""
-  },
-  {
-   "en": "Which isn't to say we are together without those things. They still happen.",
-   "zh": ""
-  },
-  {
-   "en": "But they don't have to.",
-   "zh": ""
-  },
-  {
-   "en": "And they only do because that's what “normal” is for us.",
-   "zh": ""
-  },
-  {
-   "en": "We spend the night out on the balcony, looking up at the stars and the moon.",
-   "zh": ""
-  },
-  {
-   "en": "And every time I try to touch her, my hand is slapped away.",
-   "zh": ""
-  },
-  {
-   "en": "It stings, but not due to the sensation.",
-   "zh": ""
-  },
-  {
-   "en": "It stings because she's the one thing I want that I'm not allowed to have.",
-   "zh": ""
-  },
-  {
-   "en": "Maya's affection has increased to [maya_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "mayanightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mayanightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene mayanightcallgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/mayanightcallgen.webp",
+      "alt": "mayanightcallgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give Maya a call and ask her to come over to my secret apartment so the two of us can not have sex with each other.",
+      "zh": ""
+    },
+    {
+      "en": "Boring, I know. But given that she actually cares about me and doesn't want my brain to melt, this is really all we can do.",
+      "zh": ""
+    },
+    {
+      "en": "Am I willing to risk that for what I have come to personally refer to as “The forbidden vagina?” Probably. But alas, I remain unwillingly abstinent in the face of greater peril.",
+      "zh": ""
+    },
+    {
+      "en": "Incessant innuendo aside, this is fine. It's good that we can be together now without the constant bickering and references to how disgusting I am.",
+      "zh": ""
+    },
+    {
+      "en": "Which isn't to say we are together without those things. They still happen.",
+      "zh": ""
+    },
+    {
+      "en": "But they don't have to.",
+      "zh": ""
+    },
+    {
+      "en": "And they only do because that's what “normal” is for us.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We spend the night out on the balcony, looking up at the stars and the moon.",
+      "zh": ""
+    },
+    {
+      "en": "And every time I try to touch her, my hand is slapped away.",
+      "zh": ""
+    },
+    {
+      "en": "It stings, but not due to the sensation.",
+      "zh": ""
+    },
+    {
+      "en": "It stings because she's the one thing I want that I'm not allowed to have.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maya_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maya's affection has increased to [maya_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

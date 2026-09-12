@@ -1,62 +1,117 @@
 {
- "label": "karinsoccergen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I show up at the gym for morning soccer practice to find Karin setting up some traffic cones to help the girls run drills.",
-   "zh": ""
-  },
-  {
-   "en": "Seeing as I'm here a bit earlier than normal and Karin has practically finished what she was doing already, the two of us get to talking for a little while.",
-   "zh": ""
-  },
-  {
-   "en": "Well, trying to talk at least.",
-   "zh": ""
-  },
-  {
-   "en": "It's mostly just me saying things to her and her awkwardly fumbling to find responses that won't make her sound like she's terrified of males.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, this doesn't work and within a matter of seconds, she is blushing furiously and struggling to even speak coherent words.",
-   "zh": ""
-  },
-  {
-   "en": "But, since I am so thoughtful and considerate, I do not point out her mistakes.",
-   "zh": ""
-  },
-  {
-   "en": "Instead, I just laugh silently to myself and think about how cute she is.",
-   "zh": ""
-  },
-  {
-   "en": "And how excited I am to ultimately force her out of that shell of hers.",
-   "zh": ""
-  },
-  {
-   "en": "I decide to get a move on once practice starts because I am a horrible excuse for a coach and an even worse excuse for a human.",
-   "zh": ""
-  },
-  {
-   "en": "But I got to talk to a beautiful girl with amazing thighs, so it was all worth it at the end of the day.",
-   "zh": ""
-  },
-  {
-   "en": "Karin's affection has increased to [karin_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "karinsoccergen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label karinsoccergen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene karinsoccergen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/karinsoccergen2.webp",
+      "alt": "karinsoccergen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I show up at the gym for morning soccer practice to find Karin setting up some traffic cones to help the girls run drills.",
+      "zh": ""
+    },
+    {
+      "en": "Seeing as I'm here a bit earlier than normal and Karin has practically finished what she was doing already, the two of us get to talking for a little while.",
+      "zh": ""
+    },
+    {
+      "en": "Well, trying to talk at least.",
+      "zh": ""
+    },
+    {
+      "en": "It's mostly just me saying things to her and her awkwardly fumbling to find responses that won't make her sound like she's terrified of males.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, this doesn't work and within a matter of seconds, she is blushing furiously and struggling to even speak coherent words.",
+      "zh": ""
+    },
+    {
+      "en": "But, since I am so thoughtful and considerate, I do not point out her mistakes.",
+      "zh": ""
+    },
+    {
+      "en": "Instead, I just laugh silently to myself and think about how cute she is.",
+      "zh": ""
+    },
+    {
+      "en": "And how excited I am to ultimately force her out of that shell of hers.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "I decide to get a move on once practice starts because I am a horrible excuse for a coach and an even worse excuse for a human.",
+      "zh": ""
+    },
+    {
+      "en": "But I got to talk to a beautiful girl with amazing thighs, so it was all worth it at the end of the day.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ karin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Karin's affection has increased to [karin_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

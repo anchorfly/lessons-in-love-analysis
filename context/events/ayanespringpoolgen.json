@@ -1,66 +1,117 @@
 {
- "label": "ayanespringpoolgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I bump into Ayane when I make my way over to the pool.",
-   "zh": ""
-  },
-  {
-   "en": "I guess I use the term bump lightly though, as I was kind of hoping she'd be here.",
-   "zh": ""
-  },
-  {
-   "en": "Talking to anyone else nowadays just feels like I'm forcing myself most of the time.",
-   "zh": ""
-  },
-  {
-   "en": "Things aren't perfect with Ayane and me. They haven't been since that night on the roof. But she's closer to understanding than anyone else what I'm going through.",
-   "zh": ""
-  },
-  {
-   "en": "And the reason for that's simple. It's because she's going through it as well. And the fact that she's able to smile in spite of that makes her ten times stronger than I am.",
-   "zh": ""
-  },
-  {
-   "en": "I wish I could match her pace and her color and all of the things that make her who she is.",
-   "zh": ""
-  },
-  {
-   "en": "But a quick glance at the water and the rippled reflection of a broken man staring back at me tells me it's impossible.",
-   "zh": ""
-  },
-  {
-   "en": "And I decide against plaguing her smile with one that would be little more than avian mimicry.",
-   "zh": ""
-  },
-  {
-   "en": "She gets back into the water and speaks to me from there.",
-   "zh": ""
-  },
-  {
-   "en": "When she goes under, she closes her eyes.",
-   "zh": ""
-  },
-  {
-   "en": "And I think something like that might feel okay if I can hold it until the light is gone.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane’s affection has increased to [ayane_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "ayanespringpoolgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayanespringpoolgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayanespringpoolgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayanespringpoolgen.webp",
+      "alt": "ayanespringpoolgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I bump into Ayane when I make my way over to the pool.",
+      "zh": ""
+    },
+    {
+      "en": "I guess I use the term bump lightly though, as I was kind of hoping she'd be here.",
+      "zh": ""
+    },
+    {
+      "en": "Talking to anyone else nowadays just feels like I'm forcing myself most of the time.",
+      "zh": ""
+    },
+    {
+      "en": "Things aren't perfect with Ayane and me. They haven't been since that night on the roof. But she's closer to understanding than anyone else what I'm going through.",
+      "zh": ""
+    },
+    {
+      "en": "And the reason for that's simple. It's because she's going through it as well. And the fact that she's able to smile in spite of that makes her ten times stronger than I am.",
+      "zh": ""
+    },
+    {
+      "en": "I wish I could match her pace and her color and all of the things that make her who she is.",
+      "zh": ""
+    },
+    {
+      "en": "But a quick glance at the water and the rippled reflection of a broken man staring back at me tells me it's impossible.",
+      "zh": ""
+    },
+    {
+      "en": "And I decide against plaguing her smile with one that would be little more than avian mimicry.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She gets back into the water and speaks to me from there.",
+      "zh": ""
+    },
+    {
+      "en": "When she goes under, she closes her eyes.",
+      "zh": ""
+    },
+    {
+      "en": "And I think something like that might feel okay if I can hold it until the light is gone.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane’s affection has increased to [ayane_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump nightch4",
+      "zh": ""
+    }
+  ]
 }

@@ -1,74 +1,148 @@
 {
- "label": "chikasummer2nightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I make my way over to Chika’s apartment to spend the night with her while Yumi and Chinami sit in the living room reading manga together.",
-   "zh": ""
-  },
-  {
-   "en": "Neither of them pay any attention to me (Likely because a certain someone asked them not to), so I’m free to spend a wholesome night out on the balcony with my fake girlfriend while she longingly gazes up at the sky.",
-   "zh": ""
-  },
-  {
-   "en": "I make my way over to Chika’s apartment to spend the night with her while Chinami sits in the living room watching TV.",
-   "zh": ""
-  },
-  {
-   "en": "She doesn't pay any attention to us, so I'm free to spend a wholesome night out on the balcony with my fake girlfriend while she longingly gazes up at the sky.",
-   "zh": ""
-  },
-  {
-   "en": "It feels a little odd spending time together when I know that we’re being secretly spectated at all times, but I guess that sort of family dynamic is exactly what Chika wants in the first place.",
-   "zh": ""
-  },
-  {
-   "en": "She’s not the type to mind the ones close to her knowing her feelings.",
-   "zh": ""
-  },
-  {
-   "en": "She’s the exact opposite of me.",
-   "zh": ""
-  },
-  {
-   "en": "But as long as she keeps those feelings away from everyone else...I think that’s okay.",
-   "zh": ""
-  },
-  {
-   "en": "We don’t need to be the same to want each other. We can just...do it.",
-   "zh": ""
-  },
-  {
-   "en": "And if and when things self-destruct, less people will get caught in the blast.",
-   "zh": ""
-  },
-  {
-   "en": "We’ll crawl away with some skin still left on our bones and pick ourselves up as if nothing ever happened.",
-   "zh": ""
-  },
-  {
-   "en": "But for now, we’ll remain like this- two bodies on a balcony under a sky full of stars.",
-   "zh": ""
-  },
-  {
-   "en": "We head back inside and I leave when they all fall asleep.",
-   "zh": ""
-  },
-  {
-   "en": "Chika’s affection has increased to [chika_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "chikasummer2nightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikasummer2nightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikasummer2nightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikasummer2nightgen.webp",
+      "alt": "chikasummer2nightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if yumiblock == False:",
+      "zh": ""
+    },
+    {
+      "en": "I make my way over to Chika’s apartment to spend the night with her while Yumi and Chinami sit in the living room reading manga together.",
+      "zh": ""
+    },
+    {
+      "en": "Neither of them pay any attention to me (Likely because a certain someone asked them not to), so I’m free to spend a wholesome night out on the balcony with my fake girlfriend while she longingly gazes up at the sky.",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I make my way over to Chika’s apartment to spend the night with her while Chinami sits in the living room watching TV.",
+      "zh": ""
+    },
+    {
+      "en": "She doesn't pay any attention to us, so I'm free to spend a wholesome night out on the balcony with my fake girlfriend while she longingly gazes up at the sky.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It feels a little odd spending time together when I know that we’re being secretly spectated at all times, but I guess that sort of family dynamic is exactly what Chika wants in the first place.",
+      "zh": ""
+    },
+    {
+      "en": "She’s not the type to mind the ones close to her knowing her feelings.",
+      "zh": ""
+    },
+    {
+      "en": "She’s the exact opposite of me.",
+      "zh": ""
+    },
+    {
+      "en": "But as long as she keeps those feelings away from everyone else...I think that’s okay.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We don’t need to be the same to want each other. We can just...do it.",
+      "zh": ""
+    },
+    {
+      "en": "And if and when things self-destruct, less people will get caught in the blast.",
+      "zh": ""
+    },
+    {
+      "en": "We’ll crawl away with some skin still left on our bones and pick ourselves up as if nothing ever happened.",
+      "zh": ""
+    },
+    {
+      "en": "But for now, we’ll remain like this- two bodies on a balcony under a sky full of stars.",
+      "zh": ""
+    },
+    {
+      "en": "We head back inside and I leave when they all fall asleep.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika’s affection has increased to [chika_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

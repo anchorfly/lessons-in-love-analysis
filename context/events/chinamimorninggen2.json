@@ -1,70 +1,121 @@
 {
- "label": "chinamimorninggen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I wind up talking to Chika in the morning and asking her if she needs any help watching Chinami today.",
-   "zh": ""
-  },
-  {
-   "en": "Instead of acting suspicious or confused, she thanks me graciously and commends me for always looking out for her.",
-   "zh": ""
-  },
-  {
-   "en": "When I get to the house, Chika has already left for work and Chinami is just waking up.",
-   "zh": ""
-  },
-  {
-   "en": "She spends the next five minutes standing still in the kitchen and rubbing her eyes before she even realizes that I'm there.",
-   "zh": ""
-  },
-  {
-   "en": "Once she does, though, she smiles and says good morning to me, even offering to make me a bowl of cereal because she is a fucking angel.",
-   "zh": ""
-  },
-  {
-   "en": "But, in this house, angels must not work. So I make her a bowl of cereal as she sits at the kitchen table watching some television show on her phone.",
-   "zh": ""
-  },
-  {
-   "en": "After the two of us eat breakfast, I stick around a little while longer until she's no longer in sleepy-mode and decide it's about time to get on with the rest of my day.",
-   "zh": ""
-  },
-  {
-   "en": "Just as always, Chinami happily says goodbye to me and reminds me that she would like a little sister one day.",
-   "zh": ""
-  },
-  {
-   "en": "I do not respond to her because the idea of giving Chinami a sister sounds way too troublesome for pretty much everyone involved.",
-   "zh": ""
-  },
-  {
-   "en": "You're going to have to wait, Chinami.",
-   "zh": ""
-  },
-  {
-   "en": "Probably a very long time, too.",
-   "zh": ""
-  },
-  {
-   "en": "A very long time.",
-   "zh": ""
-  },
-  {
-   "en": "Chinami's affection has increased to [chinami_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "chinamimorninggen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chinamimorninggen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene chinamimorninggen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chinamimorninggen2.webp",
+      "alt": "chinamimorninggen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wind up talking to Chika in the morning and asking her if she needs any help watching Chinami today.",
+      "zh": ""
+    },
+    {
+      "en": "Instead of acting suspicious or confused, she thanks me graciously and commends me for always looking out for her.",
+      "zh": ""
+    },
+    {
+      "en": "When I get to the house, Chika has already left for work and Chinami is just waking up.",
+      "zh": ""
+    },
+    {
+      "en": "She spends the next five minutes standing still in the kitchen and rubbing her eyes before she even realizes that I'm there.",
+      "zh": ""
+    },
+    {
+      "en": "Once she does, though, she smiles and says good morning to me, even offering to make me a bowl of cereal because she is a fucking angel.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But, in this house, angels must not work. So I make her a bowl of cereal as she sits at the kitchen table watching some television show on her phone.",
+      "zh": ""
+    },
+    {
+      "en": "After the two of us eat breakfast, I stick around a little while longer until she's no longer in sleepy-mode and decide it's about time to get on with the rest of my day.",
+      "zh": ""
+    },
+    {
+      "en": "Just as always, Chinami happily says goodbye to me and reminds me that she would like a little sister one day.",
+      "zh": ""
+    },
+    {
+      "en": "I do not respond to her because the idea of giving Chinami a sister sounds way too troublesome for pretty much everyone involved.",
+      "zh": ""
+    },
+    {
+      "en": "You're going to have to wait, Chinami.",
+      "zh": ""
+    },
+    {
+      "en": "Probably a very long time, too.",
+      "zh": ""
+    },
+    {
+      "en": "A very long time.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chinami_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami's affection has increased to [chinami_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

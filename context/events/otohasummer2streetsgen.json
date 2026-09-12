@@ -1,66 +1,137 @@
 {
- "label": "otohasummer2streetsgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I make my way over to the park to see what Otoha’s up to and, as always, she’s busy busking and causing any woman who passes by to immediately fall in love with her.",
-   "zh": ""
-  },
-  {
-   "en": "I think to myself for a moment about which direction my life would head in if I were to take up an instrument and spend my days trying to impress women.",
-   "zh": ""
-  },
-  {
-   "en": "But then I remember that I’m able to impress them without any notable skills at all, so I discard the idea and make my way over to the bench and wait for Otoha to finish playing.",
-   "zh": ""
-  },
-  {
-   "en": "Once the last of her spectators disperse, she packs her guitar up and signals to me that I am cool enough to approach her.",
-   "zh": ""
-  },
-  {
-   "en": "I thank her for taking time out of her busy schedule to spend on a nobody like me and then proceed to tease her about more things along those lines because she hates it and making her mad is fun.",
-   "zh": ""
-  },
-  {
-   "en": "We do several laps around the park before heading over to the cafe to kill the rest of the morning there.",
-   "zh": ""
-  },
-  {
-   "en": "Or, at least that’s the reasoning we verbalize. In all actuality, Otoha probably just wants to hang out with Rin and I am becoming a nuisance.",
-   "zh": ""
-  },
-  {
-   "en": "But hey, I’m fine with being a nuisance as long as I can be one around attractive girls, so I decide against pushing her buttons in this regard as it will soon prove beneficial to me.",
-   "zh": ""
-  },
-  {
-   "en": "When we finally make it to Koi Cafe, I’m pleasantly surprised to find that I am not immediately converted into a third wheel and that I am actually able to stay involved in conversations.",
-   "zh": ""
-  },
-  {
-   "en": "Unfortunately, that doesn’t really do much for the subconscious feeling that I’m interrupting something by being here.",
-   "zh": ""
-  },
-  {
-   "en": "So after hanging around for a short while longer, I grab a coffee to-go and take my leave.",
-   "zh": ""
-  },
-  {
-   "en": "Otoha’s affection has increased to [otoha_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "otohasummer2streetsgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label otohasummer2streetsgen:",
+      "zh": ""
+    },
+    {
+      "en": "if otohaspecial15p2 == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene otohasummer2streetsgenhair",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohasummer2streetsgenhair.webp",
+      "alt": "otohasummer2streetsgenhair"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene otohasummer2streetsgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohasummer2streetsgen.webp",
+      "alt": "otohasummer2streetsgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way over to the park to see what Otoha’s up to and, as always, she’s busy busking and causing any woman who passes by to immediately fall in love with her.",
+      "zh": ""
+    },
+    {
+      "en": "I think to myself for a moment about which direction my life would head in if I were to take up an instrument and spend my days trying to impress women.",
+      "zh": ""
+    },
+    {
+      "en": "But then I remember that I’m able to impress them without any notable skills at all, so I discard the idea and make my way over to the bench and wait for Otoha to finish playing.",
+      "zh": ""
+    },
+    {
+      "en": "Once the last of her spectators disperse, she packs her guitar up and signals to me that I am cool enough to approach her.",
+      "zh": ""
+    },
+    {
+      "en": "I thank her for taking time out of her busy schedule to spend on a nobody like me and then proceed to tease her about more things along those lines because she hates it and making her mad is fun.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We do several laps around the park before heading over to the cafe to kill the rest of the morning there.",
+      "zh": ""
+    },
+    {
+      "en": "Or, at least that’s the reasoning we verbalize. In all actuality, Otoha probably just wants to hang out with Rin and I am becoming a nuisance.",
+      "zh": ""
+    },
+    {
+      "en": "But hey, I’m fine with being a nuisance as long as I can be one around attractive girls, so I decide against pushing her buttons in this regard as it will soon prove beneficial to me.",
+      "zh": ""
+    },
+    {
+      "en": "When we finally make it to Koi Cafe, I’m pleasantly surprised to find that I am not immediately converted into a third wheel and that I am actually able to stay involved in conversations.",
+      "zh": ""
+    },
+    {
+      "en": "Unfortunately, that doesn’t really do much for the subconscious feeling that I’m interrupting something by being here.",
+      "zh": ""
+    },
+    {
+      "en": "So after hanging around for a short while longer, I grab a coffee to-go and take my leave.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ otoha_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Otoha’s affection has increased to [otoha_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

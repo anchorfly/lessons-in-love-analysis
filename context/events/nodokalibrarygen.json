@@ -1,62 +1,113 @@
 {
- "label": "nodokalibrarygen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I decide to spend my afternoon at the library, listening to Nodoka rant on and on about poets and playwrights who have been dead for very long amounts of time.",
-   "zh": ""
-  },
-  {
-   "en": "But despite my apparent days of loving things like this being long in the past, I don't ever find myself getting bored.",
-   "zh": ""
-  },
-  {
-   "en": "She speaks in a way that manages to captivate a side of me that has long since passed, and I can't help but internally thank her for being able to do that.",
-   "zh": ""
-  },
-  {
-   "en": "I'd love to thank her on an actual person-to-person basis, but thanking people is tiring. Especially when you can't fully understand what you're thanking them for.",
-   "zh": ""
-  },
-  {
-   "en": "What I mean to say is that I manage to enjoy my time in a sun-soaked wooden room with a girl who smells like fresh coffee.",
-   "zh": ""
-  },
-  {
-   "en": "I lose myself in the moment and close my eyes.",
-   "zh": ""
-  },
-  {
-   "en": "I think Nodoka closes hers as well, since our conversation abruptly halts and we spend the next ten minutes sitting in silence.",
-   "zh": ""
-  },
-  {
-   "en": "I can only remain this despondent for so long, however, so I decide to reclaim my consciousness and head out after saying goodbye.",
-   "zh": ""
-  },
-  {
-   "en": "She says goodbye as well.",
-   "zh": ""
-  },
-  {
-   "en": "Right before diving headfirst into more words from someone who can no longer speak.",
-   "zh": ""
-  },
-  {
-   "en": "Nodoka's affection has increased to [nodoka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "nodokalibrarygen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label nodokalibrarygen:",
+      "zh": ""
+    },
+    {
+      "en": "scene nodokalibrarygen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/nodokalibrarygen.webp",
+      "alt": "nodokalibrarygen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to spend my afternoon at the library, listening to Nodoka rant on and on about poets and playwrights who have been dead for very long amounts of time.",
+      "zh": ""
+    },
+    {
+      "en": "But despite my apparent days of loving things like this being long in the past, I don't ever find myself getting bored.",
+      "zh": ""
+    },
+    {
+      "en": "She speaks in a way that manages to captivate a side of me that has long since passed, and I can't help but internally thank her for being able to do that.",
+      "zh": ""
+    },
+    {
+      "en": "I'd love to thank her on an actual person-to-person basis, but thanking people is tiring. Especially when you can't fully understand what you're thanking them for.",
+      "zh": ""
+    },
+    {
+      "en": "What I mean to say is that I manage to enjoy my time in a sun-soaked wooden room with a girl who smells like fresh coffee.",
+      "zh": ""
+    },
+    {
+      "en": "I lose myself in the moment and close my eyes.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I think Nodoka closes hers as well, since our conversation abruptly halts and we spend the next ten minutes sitting in silence.",
+      "zh": ""
+    },
+    {
+      "en": "I can only remain this despondent for so long, however, so I decide to reclaim my consciousness and head out after saying goodbye.",
+      "zh": ""
+    },
+    {
+      "en": "She says goodbye as well.",
+      "zh": ""
+    },
+    {
+      "en": "Right before diving headfirst into more words from someone who can no longer speak.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ nodoka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Nodoka's affection has increased to [nodoka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

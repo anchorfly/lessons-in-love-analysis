@@ -1,106 +1,199 @@
 {
- "label": "kaoriinvitegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Kaori's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": Friend!",
-   "zh": ""
-  },
-  {
-   "en": ": Other friend.",
-   "zh": ""
-  },
-  {
-   "en": ": Who is Other Friend?",
-   "zh": ""
-  },
-  {
-   "en": ": I figured you were.",
-   "zh": ""
-  },
-  {
-   "en": ": No, I am Kaori.",
-   "zh": ""
-  },
-  {
-   "en": ": I meant it less as a name and more as a title.",
-   "zh": ""
-  },
-  {
-   "en": ": That is bad, Friend. You should use someone's name when you are speaking to them.",
-   "zh": ""
-  },
-  {
-   "en": ": Do you think my actual name is Friend?",
-   "zh": ""
-  },
-  {
-   "en": ": Yes. Is it not?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": No, it is. Do you want to come over?",
-   "zh": ""
-  },
-  {
-   "en": ": Yes! I want to come everywhere! I will see you soon!",
-   "zh": ""
-  },
-  {
-   "en": ": ...Right.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "The moment I step back into my room, she is already there.",
-   "zh": ""
-  },
-  {
-   "en": "How should I spend my time with Kaori?",
-   "zh": ""
-  },
-  {
-   "en": "Hang Out (Raise Affection)",
-   "zh": ""
-  },
-  {
-   "en": "Doggystyle Sex (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Headpat",
-   "zh": ""
-  }
- ]
+  "label": "kaoriinvitegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kaoriinvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Kaori's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Friend!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Other friend.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Who is Other Friend?",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I figured you were.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": No, I am Kaori.",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I meant it less as a name and more as a title.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That is bad, Friend. You should use someone's name when you are speaking to them.",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Do you think my actual name is Friend?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yes. Is it not?",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": No, it is. Do you want to come over?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yes! I want to come everywhere! I will see you soon!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...Right.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene kaoriinvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/kaoriinvitehub.webp",
+      "alt": "kaoriinvitehub"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The moment I step back into my room, she is already there.",
+      "zh": ""
+    },
+    {
+      "en": "How should I spend my time with Kaori?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu kaoriinvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": ""
+    },
+    {
+      "en": "jump kaoriinviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Doggystyle Sex (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump kaoriinvitedoggy",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": ""
+    },
+    {
+      "en": "jump kaoriheadpat",
+      "zh": ""
+    }
+  ]
 }

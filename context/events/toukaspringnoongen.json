@@ -1,74 +1,125 @@
 {
- "label": "toukaspringnoongen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Touka to find that she's busy this afternoon as she has important rich-girl business to tend to at the Tsukioka Manor.",
-   "zh": ""
-  },
-  {
-   "en": "And while I'm more than happy (for lack of a better word) to just hang up when I hear that, she invites me over to wander around one of their many gardens with her. So I agree.",
-   "zh": ""
-  },
-  {
-   "en": "She sends a car to pick me up and, after another uncomfortable ride, I pull up at the manor and am escorted in by her attendants.",
-   "zh": ""
-  },
-  {
-   "en": "The first thing I think when I see her is how infrequently she wears that fancy dress now. And I applaud her for how she's managed to sort of...blend in with all of us commoners in a sense.",
-   "zh": ""
-  },
-  {
-   "en": "She'll never be one of us, though.",
-   "zh": ""
-  },
-  {
-   "en": "She's even more of an outlier than I am- and I would break her immediately if she exposed her weaknesses to me.",
-   "zh": ""
-  },
-  {
-   "en": "It would not be intentional, of course. I'd never jump a fence just to trample a flower garden.",
-   "zh": ""
-  },
-  {
-   "en": "But if that fence does not exist, there's a high likelihood of me being too absentminded to care at all. And she'd be ruined in the process.",
-   "zh": ""
-  },
-  {
-   "en": "Spring is the season for flowers. And the pungent scent of sakura from an everblooming tree hunts me from what I can only imagine is a mile away.",
-   "zh": ""
-  },
-  {
-   "en": "It makes me want to jump a fence.",
-   "zh": ""
-  },
-  {
-   "en": "It makes me want to blame her.",
-   "zh": ""
-  },
-  {
-   "en": "It makes me want to hurt her.",
-   "zh": ""
-  },
-  {
-   "en": "So I leave.",
-   "zh": ""
-  },
-  {
-   "en": "Touka’s affection has increased to [touka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "toukaspringnoongen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label toukaspringnoongen:",
+      "zh": ""
+    },
+    {
+      "en": "scene toukaspringnoongen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukaspringnoongen.webp",
+      "alt": "toukaspringnoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Touka to find that she's busy this afternoon as she has important rich-girl business to tend to at the Tsukioka Manor.",
+      "zh": ""
+    },
+    {
+      "en": "And while I'm more than happy (for lack of a better word) to just hang up when I hear that, she invites me over to wander around one of their many gardens with her. So I agree.",
+      "zh": ""
+    },
+    {
+      "en": "She sends a car to pick me up and, after another uncomfortable ride, I pull up at the manor and am escorted in by her attendants.",
+      "zh": ""
+    },
+    {
+      "en": "The first thing I think when I see her is how infrequently she wears that fancy dress now. And I applaud her for how she's managed to sort of...blend in with all of us commoners in a sense.",
+      "zh": ""
+    },
+    {
+      "en": "She'll never be one of us, though.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She's even more of an outlier than I am- and I would break her immediately if she exposed her weaknesses to me.",
+      "zh": ""
+    },
+    {
+      "en": "It would not be intentional, of course. I'd never jump a fence just to trample a flower garden.",
+      "zh": ""
+    },
+    {
+      "en": "But if that fence does not exist, there's a high likelihood of me being too absentminded to care at all. And she'd be ruined in the process.",
+      "zh": ""
+    },
+    {
+      "en": "Spring is the season for flowers. And the pungent scent of sakura from an everblooming tree hunts me from what I can only imagine is a mile away.",
+      "zh": ""
+    },
+    {
+      "en": "It makes me want to jump a fence.",
+      "zh": ""
+    },
+    {
+      "en": "It makes me want to blame her.",
+      "zh": ""
+    },
+    {
+      "en": "It makes me want to hurt her.",
+      "zh": ""
+    },
+    {
+      "en": "So I leave.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka’s affection has increased to [touka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump nightch4",
+      "zh": ""
+    }
+  ]
 }

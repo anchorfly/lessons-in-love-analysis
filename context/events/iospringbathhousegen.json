@@ -1,82 +1,144 @@
 {
- "label": "iospringbathhousegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I head to the bathhouse to spend some time with Io and, instead, get coerced into taking off all of my clothes.",
-   "zh": ""
-  },
-  {
-   "en": "And while the temptation to pull her into the water with me threatens to derail this monologue, I've already told both myself and her that I would be better than this.",
-   "zh": ""
-  },
-  {
-   "en": "At least for Io...Because I know where Io comes from. And I know that forcing anyone to do anything isn't as justifiable as I may want it to be.",
-   "zh": ""
-  },
-  {
-   "en": "With so many chips already present in her porcelain skin, I could shatter her with one touch.",
-   "zh": ""
-  },
-  {
-   "en": "So my hands remain at my sides while my mind drowns in the gutter.",
-   "zh": ""
-  },
-  {
-   "en": "It's a compromise I'm willing to make.",
-   "zh": ""
-  },
-  {
-   "en": "I hope to one day be able to coerce her into taking hers off as well. But she's broken in a way dissimilar to me, so I'm not sure how long that will take.",
-   "zh": ""
-  },
-  {
-   "en": "I suppose that, if worse comes to worst, I can always assist her. She's no stranger to overmedicating, of course.",
-   "zh": ""
-  },
-  {
-   "en": "And out of all the medicinal cocktails out there, I'm sure there's bound to be one that will heighten her libido.",
-   "zh": ""
-  },
-  {
-   "en": "If there is, she probably knows it. But something about the way her eyes move when I talk about sex tells me she'd rather just be unconscious instead.",
-   "zh": ""
-  },
-  {
-   "en": "Sometimes, I feel the same.",
-   "zh": ""
-  },
-  {
-   "en": "I close my eyes and begin to doze off as Io starts explaining the rules of baseball to me. But what I discover is not rest.",
-   "zh": ""
-  },
-  {
-   "en": "It's that baseball has a lot of fucking rules and most of them don't make any sense.",
-   "zh": ""
-  },
-  {
-   "en": "Eventually, I manage to drown out her voice with unfinished dreams of a life in which she's in here with me.",
-   "zh": ""
-  },
-  {
-   "en": "And I finally reach nirvana when I dream of a life in which I'm in her.",
-   "zh": ""
-  },
-  {
-   "en": "Io’s affection has increased to [io_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "iospringbathhousegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label iospringbathhousegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene iospringbathhousegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iospringbathhousegen.webp",
+      "alt": "iospringbathhousegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head to the bathhouse to spend some time with Io and, instead, get coerced into taking off all of my clothes.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if iosex == False and iospring2 == True:",
+      "zh": ""
+    },
+    {
+      "en": "And while the temptation to pull her into the water with me threatens to derail this monologue, I've already told both myself and her that I would be better than this.",
+      "zh": ""
+    },
+    {
+      "en": "At least for Io...Because I know where Io comes from. And I know that forcing anyone to do anything isn't as justifiable as I may want it to be.",
+      "zh": ""
+    },
+    {
+      "en": "With so many chips already present in her porcelain skin, I could shatter her with one touch.",
+      "zh": ""
+    },
+    {
+      "en": "So my hands remain at my sides while my mind drowns in the gutter.",
+      "zh": ""
+    },
+    {
+      "en": "It's a compromise I'm willing to make.",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I hope to one day be able to coerce her into taking hers off as well. But she's broken in a way dissimilar to me, so I'm not sure how long that will take.",
+      "zh": ""
+    },
+    {
+      "en": "I suppose that, if worse comes to worst, I can always assist her. She's no stranger to overmedicating, of course.",
+      "zh": ""
+    },
+    {
+      "en": "And out of all the medicinal cocktails out there, I'm sure there's bound to be one that will heighten her libido.",
+      "zh": ""
+    },
+    {
+      "en": "If there is, she probably knows it. But something about the way her eyes move when I talk about sex tells me she'd rather just be unconscious instead.",
+      "zh": ""
+    },
+    {
+      "en": "Sometimes, I feel the same.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I close my eyes and begin to doze off as Io starts explaining the rules of baseball to me. But what I discover is not rest.",
+      "zh": ""
+    },
+    {
+      "en": "It's that baseball has a lot of fucking rules and most of them don't make any sense.",
+      "zh": ""
+    },
+    {
+      "en": "Eventually, I manage to drown out her voice with unfinished dreams of a life in which she's in here with me.",
+      "zh": ""
+    },
+    {
+      "en": "And I finally reach nirvana when I dream of a life in which I'm in her.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ io_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Io’s affection has increased to [io_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump nightch4",
+      "zh": ""
+    }
+  ]
 }

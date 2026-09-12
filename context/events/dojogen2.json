@@ -1,74 +1,146 @@
 {
- "label": "dojogen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I wind up in the dojo and spend the afternoon watching Ayane spar with various other...karate people. Or whatever they're called.",
-   "zh": ""
-  },
-  {
-   "en": "It's become pretty evident by now that I have no real intention of improving my ability, but Ayane has seemed more determined than ever lately.",
-   "zh": ""
-  },
-  {
-   "en": "I worry that she might be drifting out of her seemingly endless honeymoon-phase with me but, in some way, this feels like a little more than that.",
-   "zh": ""
-  },
-  {
-   "en": "It's like she's becoming so comfortable with the bond between us that just being around me is enough to validate her feelings.",
-   "zh": ""
-  },
-  {
-   "en": "It's cute. So cute that I can't help cheering her on as she tries to take down her sparring partners.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane wins every single match she takes place in and, riding a high of confidence, challenges the karate instructor NO ONE. OSAKO IS NOT HERE RIGHT NOW. AYANE FIGHTS ALONE.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, she is then promptly annihilated and spends the next ten minutes convincing me to give her a massage.",
-   "zh": ""
-  },
-  {
-   "en": "I agree but, the second I attempt to do so, the instructor NO ONE asks us to either focus up or leave.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane wins every single match she takes place in and, riding a high of confidence, challenges the karate instructor.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, she is then promptly annihilated and spends the next ten minutes convincing me to give her a massage.",
-   "zh": ""
-  },
-  {
-   "en": "I agree but, the second I attempt to do so, the instructor asks us to either focus up or leave.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane focuses up.",
-   "zh": ""
-  },
-  {
-   "en": "I leave.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane's affection has increased to [ayane_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "dojogen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label dojogen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayanenoongen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayanenoongen2.webp",
+      "alt": "ayanenoongen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wind up in the dojo and spend the afternoon watching Ayane spar with various other...karate people. Or whatever they're called.",
+      "zh": ""
+    },
+    {
+      "en": "It's become pretty evident by now that I have no real intention of improving my ability, but Ayane has seemed more determined than ever lately.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "I worry that she might be drifting out of her seemingly endless honeymoon-phase with me but, in some way, this feels like a little more than that.",
+      "zh": ""
+    },
+    {
+      "en": "It's like she's becoming so comfortable with the bond between us that just being around me is enough to validate her feelings.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It's cute. So cute that I can't help cheering her on as she tries to take down her sparring partners.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if secondbeach18 == True and christmastwo20 == False:",
+      "zh": ""
+    },
+    {
+      "en": "Ayane wins every single match she takes place in and, riding a high of confidence, challenges the karate instructor NO ONE. OSAKO IS NOT HERE RIGHT NOW. AYANE FIGHTS ALONE.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, she is then promptly annihilated and spends the next ten minutes convincing me to give her a massage.",
+      "zh": ""
+    },
+    {
+      "en": "I agree but, the second I attempt to do so, the instructor NO ONE asks us to either focus up or leave.",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "Ayane wins every single match she takes place in and, riding a high of confidence, challenges the karate instructor.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, she is then promptly annihilated and spends the next ten minutes convincing me to give her a massage.",
+      "zh": ""
+    },
+    {
+      "en": "I agree but, the second I attempt to do so, the instructor asks us to either focus up or leave.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane focuses up.",
+      "zh": ""
+    },
+    {
+      "en": "I leave.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane's affection has increased to [ayane_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

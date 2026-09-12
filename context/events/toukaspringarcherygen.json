@@ -1,62 +1,113 @@
 {
- "label": "toukaspringarcherygen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Touka's been steadily getting better at archery, which is great because it means she's one step closer to being able to put me out of my misery in one shot instead of four.",
-   "zh": ""
-  },
-  {
-   "en": "I didn't come here to complain, though. That's what literally every other location is for. And if I'm going to go out of my way to visit the school on a day off, I should try to be positive.",
-   "zh": ""
-  },
-  {
-   "en": "My mind navigates away from the cruel and hurtful things and hones in on the way Touka makes me feel instead. But in an unexpected turn of events, that winds up being even crueler.",
-   "zh": ""
-  },
-  {
-   "en": "As comedically good and...intimately matriarchal as she is, there's something about her presence that confuses me. And now, I'm always confused whenever she's around.",
-   "zh": ""
-  },
-  {
-   "en": "I wonder how she interprets this, as I know she's smart enough to realize the changes in my behavior. But I can never bring myself to ask.",
-   "zh": ""
-  },
-  {
-   "en": "She smiles at me. And for a moment, there's a bout of silence laced with what I want to be understanding so I never need to open my mouth again.",
-   "zh": ""
-  },
-  {
-   "en": "But all the things that I have learned tell me it's admiration instead, and I pray to the clouds above our heads that I am wrong this time.",
-   "zh": ""
-  },
-  {
-   "en": "The silence is killed off when she evades my oddly comfortable unease like a rabbit dodging predators, and I breathe a sigh of relief in knowing I won't have to face this past this morning.",
-   "zh": ""
-  },
-  {
-   "en": "I just have to face her.",
-   "zh": ""
-  },
-  {
-   "en": "And that's both the easiest and the hardest thing at the same exact time.",
-   "zh": ""
-  },
-  {
-   "en": "Touka’s affection has increased to [touka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "toukaspringarcherygen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label toukaspringarcherygen:",
+      "zh": ""
+    },
+    {
+      "en": "scene toukaspringarcherygen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukaspringarcherygen.webp",
+      "alt": "toukaspringarcherygen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka's been steadily getting better at archery, which is great because it means she's one step closer to being able to put me out of my misery in one shot instead of four.",
+      "zh": ""
+    },
+    {
+      "en": "I didn't come here to complain, though. That's what literally every other location is for. And if I'm going to go out of my way to visit the school on a day off, I should try to be positive.",
+      "zh": ""
+    },
+    {
+      "en": "My mind navigates away from the cruel and hurtful things and hones in on the way Touka makes me feel instead. But in an unexpected turn of events, that winds up being even crueler.",
+      "zh": ""
+    },
+    {
+      "en": "As comedically good and...intimately matriarchal as she is, there's something about her presence that confuses me. And now, I'm always confused whenever she's around.",
+      "zh": ""
+    },
+    {
+      "en": "I wonder how she interprets this, as I know she's smart enough to realize the changes in my behavior. But I can never bring myself to ask.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She smiles at me. And for a moment, there's a bout of silence laced with what I want to be understanding so I never need to open my mouth again.",
+      "zh": ""
+    },
+    {
+      "en": "But all the things that I have learned tell me it's admiration instead, and I pray to the clouds above our heads that I am wrong this time.",
+      "zh": ""
+    },
+    {
+      "en": "The silence is killed off when she evades my oddly comfortable unease like a rabbit dodging predators, and I breathe a sigh of relief in knowing I won't have to face this past this morning.",
+      "zh": ""
+    },
+    {
+      "en": "I just have to face her.",
+      "zh": ""
+    },
+    {
+      "en": "And that's both the easiest and the hardest thing at the same exact time.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka’s affection has increased to [touka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump noonch4",
+      "zh": ""
+    }
+  ]
 }

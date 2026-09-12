@@ -1,70 +1,121 @@
 {
- "label": "harukaspringcafegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I drop by the cafe to hang out with Haruka but, when I arrive, she’s surprised to see that I approach her instead of her much younger and much more lesbian employee.",
-   "zh": ""
-  },
-  {
-   "en": "I can't blame her, though. Especially when I know she probably wants to fuck her even more than I do. But I draw no attention to this as that would be rude.",
-   "zh": ""
-  },
-  {
-   "en": "Instead, I listen to the two of them argue about some inventory-related issues that I can't be bothered to care about when my mind is already flooded with sex and squalor.",
-   "zh": ""
-  },
-  {
-   "en": "Eventually, I'm able to order a drink. Hooray. And I spend the next few minutes mandatorily involving myself in Haruka's affairs while Rin makes it.",
-   "zh": ""
-  },
-  {
-   "en": "She asks me if I'll be taking it for here or to go. And I instinctively say “here” but I immediately regret it as I take a seat at a nearby table.",
-   "zh": ""
-  },
-  {
-   "en": "You see, I've never felt comfortable in crowds. I don't like being the center of attention and I'm always worried that someone is going to talk to me.",
-   "zh": ""
-  },
-  {
-   "en": "Which means I must be a masochist as I keep throwing myself headfirst into situations where that's bound to happen.",
-   "zh": ""
-  },
-  {
-   "en": "And today, it does.",
-   "zh": ""
-  },
-  {
-   "en": "Someone asks me for the time. But I don't know the time. It's just now. So I tell them it's now and they get mad.",
-   "zh": ""
-  },
-  {
-   "en": "Haruka comes to drop off my drink, but brings the actual answer to the person's question along with her.",
-   "zh": ""
-  },
-  {
-   "en": "She scolds me for messing with her customers. But what she doesn't know is I'm being more genuine now than ever before.",
-   "zh": ""
-  },
-  {
-   "en": "I'm scared of eye contact.",
-   "zh": ""
-  },
-  {
-   "en": "Haruka’s affection has increased to [haruka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "harukaspringcafegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label harukaspringcafegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene harukaspringcafegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/harukaspringcafegen.webp",
+      "alt": "harukaspringcafegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I drop by the cafe to hang out with Haruka but, when I arrive, she’s surprised to see that I approach her instead of her much younger and much more lesbian employee.",
+      "zh": ""
+    },
+    {
+      "en": "I can't blame her, though. Especially when I know she probably wants to fuck her even more than I do. But I draw no attention to this as that would be rude.",
+      "zh": ""
+    },
+    {
+      "en": "Instead, I listen to the two of them argue about some inventory-related issues that I can't be bothered to care about when my mind is already flooded with sex and squalor.",
+      "zh": ""
+    },
+    {
+      "en": "Eventually, I'm able to order a drink. Hooray. And I spend the next few minutes mandatorily involving myself in Haruka's affairs while Rin makes it.",
+      "zh": ""
+    },
+    {
+      "en": "She asks me if I'll be taking it for here or to go. And I instinctively say “here” but I immediately regret it as I take a seat at a nearby table.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "You see, I've never felt comfortable in crowds. I don't like being the center of attention and I'm always worried that someone is going to talk to me.",
+      "zh": ""
+    },
+    {
+      "en": "Which means I must be a masochist as I keep throwing myself headfirst into situations where that's bound to happen.",
+      "zh": ""
+    },
+    {
+      "en": "And today, it does.",
+      "zh": ""
+    },
+    {
+      "en": "Someone asks me for the time. But I don't know the time. It's just now. So I tell them it's now and they get mad.",
+      "zh": ""
+    },
+    {
+      "en": "Haruka comes to drop off my drink, but brings the actual answer to the person's question along with her.",
+      "zh": ""
+    },
+    {
+      "en": "She scolds me for messing with her customers. But what she doesn't know is I'm being more genuine now than ever before.",
+      "zh": ""
+    },
+    {
+      "en": "I'm scared of eye contact.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ haruka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Haruka’s affection has increased to [haruka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump noonch4",
+      "zh": ""
+    }
+  ]
 }

@@ -1,98 +1,195 @@
 {
- "label": "sarainvitegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Sara's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": Helloooo?",
-   "zh": ""
-  },
-  {
-   "en": ": Hey. Are you free right now?",
-   "zh": ""
-  },
-  {
-   "en": ": Sure am! Want me to come over?",
-   "zh": ""
-  },
-  {
-   "en": ": If you'd be so inclined.",
-   "zh": ""
-  },
-  {
-   "en": ": Heheh~",
-   "zh": ""
-  },
-  {
-   "en": ": Give me a few minutes to get ready and I'll head over.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Heya~",
-   "zh": ""
-  },
-  {
-   "en": ": Is it weird if I tell you I was thinking about you all day?...",
-   "zh": ""
-  },
-  {
-   "en": ": I'm up for anything, you know?",
-   "zh": ""
-  },
-  {
-   "en": ": Is there anything you want to do tonight?",
-   "zh": ""
-  },
-  {
-   "en": "How should I spend my time with Sara?",
-   "zh": ""
-  },
-  {
-   "en": "Hang Out (Raise Affection)",
-   "zh": ""
-  },
-  {
-   "en": "Doggystyle Sex (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Missionary Sex (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Hug Sana's Mom (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Hug Her And Try To Make Her Pop (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Headpat",
-   "zh": ""
-  }
- ]
+  "label": "sarainvitegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sarainvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Sara's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Helloooo?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ""
+    },
+    {
+      "en": ": Hey. Are you free right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Sure am! Want me to come over?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ""
+    },
+    {
+      "en": ": If you'd be so inclined.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Heheh~",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ""
+    },
+    {
+      "en": ": Give me a few minutes to get ready and I'll head over.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sarainvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sarainvitehub.webp",
+      "alt": "sarainvitehub"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heya~",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ""
+    },
+    {
+      "en": ": Is it weird if I tell you I was thinking about you all day?...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ""
+    },
+    {
+      "en": ": I'm up for anything, you know?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ""
+    },
+    {
+      "en": ": Is there anything you want to do tonight?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Sara?",
+      "zh": ""
+    },
+    {
+      "en": "menu sarainvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": ""
+    },
+    {
+      "en": "jump sarainviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Doggystyle Sex (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump sarainvitedoggy",
+      "zh": ""
+    },
+    {
+      "en": "Missionary Sex (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump sarainvitemissionary",
+      "zh": ""
+    },
+    {
+      "en": "Hug Sana's Mom (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump sarainvitedoggy",
+      "zh": ""
+    },
+    {
+      "en": "Hug Her And Try To Make Her Pop (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump sarainvitemissionary",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": ""
+    },
+    {
+      "en": "jump saraheadpat",
+      "zh": ""
+    }
+  ]
 }

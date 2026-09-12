@@ -1,78 +1,155 @@
 {
- "label": "rikadivegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I make my way over to the dive bar and decide to spend most of the night conversing with Rika since Wakana and Imani are always too mean to me.",
-   "zh": ""
-  },
-  {
-   "en": "Thankfully, I'm pretty sure that Rika's brain is incapable of feeling whatever advanced emotions are required to make a person act maliciously, so things flow pretty naturally.",
-   "zh": ""
-  },
-  {
-   "en": "And by naturally I mean that I receive a much-needed ego boost in the form of her thinking I am actually an effective teacher.",
-   "zh": ""
-  },
-  {
-   "en": "And while I'm sure that will change given that she's suddenly working in the same building as the rest of us, I can revel in her skewed perception for now-",
-   "zh": ""
-  },
-  {
-   "en": "Because it's only a matter of time until she finds out who I really am.",
-   "zh": ""
-  },
-  {
-   "en": "As the night carries on, I allow my other coworkers to join in on my fun and exciting conversation with an apparent ex-activist under the pretense of them telling me how great I am.",
-   "zh": ""
-  },
-  {
-   "en": "They take this far too literally and there are very few sentences throughout the rest of my time in the bar that are not padded with some sort of fake compliment.",
-   "zh": ""
-  },
-  {
-   "en": "But of course Rika, still incapable of ever catching onto anything, keeps talking to me the same exact way she always does.",
-   "zh": ""
-  },
-  {
-   "en": "And I feel comfortable, the same way I always do.",
-   "zh": ""
-  },
-  {
-   "en": "I'm hesitant to say it's her age or accompanying wisdom that manages to make me feel this way given that she both looks and acts at least twenty years younger-",
-   "zh": ""
-  },
-  {
-   "en": "But there's something about her that just works for me.",
-   "zh": ""
-  },
-  {
-   "en": "And I'm glad I finally met her.",
-   "zh": ""
-  },
-  {
-   "en": "Imani's affection has increased by 1!",
-   "zh": ""
-  },
-  {
-   "en": "Wakana's affection has increased by 1!",
-   "zh": ""
-  },
-  {
-   "en": "Rika's affection has increased by 3!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "rikadivegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label rikadivegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene rikadivegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/rikadivegen.webp",
+      "alt": "rikadivegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way over to the dive bar and decide to spend most of the night conversing with Rika since Wakana and Imani are always too mean to me.",
+      "zh": ""
+    },
+    {
+      "en": "Thankfully, I'm pretty sure that Rika's brain is incapable of feeling whatever advanced emotions are required to make a person act maliciously, so things flow pretty naturally.",
+      "zh": ""
+    },
+    {
+      "en": "And by naturally I mean that I receive a much-needed ego boost in the form of her thinking I am actually an effective teacher.",
+      "zh": ""
+    },
+    {
+      "en": "And while I'm sure that will change given that she's suddenly working in the same building as the rest of us, I can revel in her skewed perception for now-",
+      "zh": ""
+    },
+    {
+      "en": "Because it's only a matter of time until she finds out who I really am.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "As the night carries on, I allow my other coworkers to join in on my fun and exciting conversation with an apparent ex-activist under the pretense of them telling me how great I am.",
+      "zh": ""
+    },
+    {
+      "en": "They take this far too literally and there are very few sentences throughout the rest of my time in the bar that are not padded with some sort of fake compliment.",
+      "zh": ""
+    },
+    {
+      "en": "But of course Rika, still incapable of ever catching onto anything, keeps talking to me the same exact way she always does.",
+      "zh": ""
+    },
+    {
+      "en": "And I feel comfortable, the same way I always do.",
+      "zh": ""
+    },
+    {
+      "en": "I'm hesitant to say it's her age or accompanying wisdom that manages to make me feel this way given that she both looks and acts at least twenty years younger-",
+      "zh": ""
+    },
+    {
+      "en": "But there's something about her that just works for me.",
+      "zh": ""
+    },
+    {
+      "en": "And I'm glad I finally met her.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ wakana_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ imani_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ rika_love += 3",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Imani's affection has increased by 1!",
+      "zh": ""
+    },
+    {
+      "en": "Wakana's affection has increased by 1!",
+      "zh": ""
+    },
+    {
+      "en": "Rika's affection has increased by 3!",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

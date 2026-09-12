@@ -1,70 +1,121 @@
 {
- "label": "makisummer2morninggen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I give Maki a call and the two of us make plans to meet up at the cafe for breakfast.",
-   "zh": ""
-  },
-  {
-   "en": "I guess she must consider it a special occasion or something as, when I get there, she’s not in her usual “casual pajama” look that she is somehow always okay with wearing out in public.",
-   "zh": ""
-  },
-  {
-   "en": "But hey, maybe those days are gone forever as she turns over a new leaf and joins the world of working adults who wear normal clothes when they’re not at home.",
-   "zh": ""
-  },
-  {
-   "en": "I suppose that she and I may have different definitions of “working adults” though seeing as her line of work involves a much greater deal of semen than mine.",
-   "zh": ""
-  },
-  {
-   "en": "Sometimes.",
-   "zh": ""
-  },
-  {
-   "en": "Either way, the two of us grab some coffee and take a seat in the back of the room to talk about sex or something away from the prying ears of Haruka as she is dramatically deprived of it.",
-   "zh": ""
-  },
-  {
-   "en": "Upon sitting down, Maki becomes unusually sentimental and thanks me for both spending time with her and “taking care” of her daughter on a daily basis.",
-   "zh": ""
-  },
-  {
-   "en": "I breathe a sigh of relief in knowing that she doesn’t quite understand exactly how I am taking care of her daughter.",
-   "zh": ""
-  },
-  {
-   "en": "But in terms of spending time with Maki, I don’t really understand why I need to be thanked at all. I’m the one who called her. It’s not as if someone is paying me to do this or anything.",
-   "zh": ""
-  },
-  {
-   "en": "The fact of the matter is that when you look past the waterfall of euphemisms that creates the bulk of her personality, she really is just a normal girl who wants and tries to relate in her own sort of way.",
-   "zh": ""
-  },
-  {
-   "en": "The only problem is that she’s likely grown accustomed to her way pushing others back. But I’m not one of those people.",
-   "zh": ""
-  },
-  {
-   "en": "So I thank her in return for spending time with me- another person who just can’t seem to relate.",
-   "zh": ""
-  },
-  {
-   "en": "Maki’s affection has increased to [maki_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "makisummer2morninggen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label makisummer2morninggen:",
+      "zh": ""
+    },
+    {
+      "en": "scene makisummer2morninggen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makisummer2morninggen.webp",
+      "alt": "makisummer2morninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give Maki a call and the two of us make plans to meet up at the cafe for breakfast.",
+      "zh": ""
+    },
+    {
+      "en": "I guess she must consider it a special occasion or something as, when I get there, she’s not in her usual “casual pajama” look that she is somehow always okay with wearing out in public.",
+      "zh": ""
+    },
+    {
+      "en": "But hey, maybe those days are gone forever as she turns over a new leaf and joins the world of working adults who wear normal clothes when they’re not at home.",
+      "zh": ""
+    },
+    {
+      "en": "I suppose that she and I may have different definitions of “working adults” though seeing as her line of work involves a much greater deal of semen than mine.",
+      "zh": ""
+    },
+    {
+      "en": "Sometimes.",
+      "zh": ""
+    },
+    {
+      "en": "Either way, the two of us grab some coffee and take a seat in the back of the room to talk about sex or something away from the prying ears of Haruka as she is dramatically deprived of it.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Upon sitting down, Maki becomes unusually sentimental and thanks me for both spending time with her and “taking care” of her daughter on a daily basis.",
+      "zh": ""
+    },
+    {
+      "en": "I breathe a sigh of relief in knowing that she doesn’t quite understand exactly how I am taking care of her daughter.",
+      "zh": ""
+    },
+    {
+      "en": "But in terms of spending time with Maki, I don’t really understand why I need to be thanked at all. I’m the one who called her. It’s not as if someone is paying me to do this or anything.",
+      "zh": ""
+    },
+    {
+      "en": "The fact of the matter is that when you look past the waterfall of euphemisms that creates the bulk of her personality, she really is just a normal girl who wants and tries to relate in her own sort of way.",
+      "zh": ""
+    },
+    {
+      "en": "The only problem is that she’s likely grown accustomed to her way pushing others back. But I’m not one of those people.",
+      "zh": ""
+    },
+    {
+      "en": "So I thank her in return for spending time with me- another person who just can’t seem to relate.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maki_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maki’s affection has increased to [maki_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

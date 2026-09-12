@@ -1,58 +1,153 @@
 {
- "label": "mollydormgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Enter, mortal!",
-   "zh": ""
-  },
-  {
-   "en": "I decide to spend the night hanging out with Molly in her dorm.",
-   "zh": ""
-  },
-  {
-   "en": "She spends the entirety of our time together trying to convince me to get into some video game that she likes and will not allow me to change the topic no matter how hard I try.",
-   "zh": ""
-  },
-  {
-   "en": "Normally, I'm fine with girls taking the lead in conversations so I don't need to divulge any information about myself-",
-   "zh": ""
-  },
-  {
-   "en": "But I'd at least prefer to understand what it is that my partner is talking about.",
-   "zh": ""
-  },
-  {
-   "en": "Regardless, I pretend to be interested because it makes Molly happy. And even if she's exhausting to be around, her mischievous smile always seems to strike energy back into me.",
-   "zh": ""
-  },
-  {
-   "en": "Eventually, it begins to get late and I decide to head home before Tsuneyo gets back from the ramen shop.",
-   "zh": ""
-  },
-  {
-   "en": "Molly awkwardly lunges forward as if she wants to hug me but then backs off and gives me a military-style salute instead.",
-   "zh": ""
-  },
-  {
-   "en": "What a strange girl...",
-   "zh": ""
-  },
-  {
-   "en": "Molly's affection has increased to [molly_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "mollydormgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mollydormgen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Enter, mortal!",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene mollydormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/mollydormgen.webp",
+      "alt": "mollydormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to spend the night hanging out with Molly in her dorm.",
+      "zh": ""
+    },
+    {
+      "en": "She spends the entirety of our time together trying to convince me to get into some video game that she likes and will not allow me to change the topic no matter how hard I try.",
+      "zh": ""
+    },
+    {
+      "en": "Normally, I'm fine with girls taking the lead in conversations so I don't need to divulge any information about myself-",
+      "zh": ""
+    },
+    {
+      "en": "But I'd at least prefer to understand what it is that my partner is talking about.",
+      "zh": ""
+    },
+    {
+      "en": "Regardless, I pretend to be interested because it makes Molly happy. And even if she's exhausting to be around, her mischievous smile always seems to strike energy back into me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Eventually, it begins to get late and I decide to head home before Tsuneyo gets back from the ramen shop.",
+      "zh": ""
+    },
+    {
+      "en": "Molly awkwardly lunges forward as if she wants to hug me but then backs off and gives me a military-style salute instead.",
+      "zh": ""
+    },
+    {
+      "en": "What a strange girl...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ molly_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Molly's affection has increased to [molly_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

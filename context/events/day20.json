@@ -1,462 +1,1066 @@
 {
- "label": "day20",
- "title_zh": "",
- "lines": [
-  {
-   "en": "It’s another average day in the classroom.",
-   "zh": ""
-  },
-  {
-   "en": "Or at least average by my standards. I'm sure the other classes are actually studying right now.",
-   "zh": ""
-  },
-  {
-   "en": "But ever since I took over and decided to just let the girls study on their own time, things have more or less just...been like this.",
-   "zh": ""
-  },
-  {
-   "en": "Even Makoto seems to be settling into this new routine. So apart from Yumi, who still only shows up once in a while, it appears that everybody seems to be enjoying themselves.",
-   "zh": ""
-  },
-  {
-   "en": "The great part is that it doesn't seem classes are ever monitored here. So as long as I can submit everyone's grades on time, I should be able to dodge suspicion entirely.",
-   "zh": ""
-  },
-  {
-   "en": "All that's left to do now is...figure out how to submit everyone's grades.",
-   "zh": ""
-  },
-  {
-   "en": "I sigh to myself and lean back in my chair, already excited for the day to come to an end so I can get out of here and actually do something fun with my time.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "It is at that moment when I realize that all I have to do in order to make that happen is go to sleep.",
-   "zh": ""
-  },
-  {
-   "en": "And so that is precisely what I will do.",
-   "zh": ""
-  },
-  {
-   "en": "Goodnight, everyone.",
-   "zh": ""
-  },
-  {
-   "en": "Please don't cause any trouble while I am gone. And, in the event that I wake up without my memories, please ask Ami to once again escort me home.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Several minutes later...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Hey!",
-   "zh": ""
-  },
-  {
-   "en": ": Ahh! Hand!",
-   "zh": ""
-  },
-  {
-   "en": ": Something going on outside? You’ve been staring at the window for like ten minutes now.",
-   "zh": ""
-  },
-  {
-   "en": ": Uhhhh...air! That's where all the air is! And the...uhh...birds!",
-   "zh": ""
-  },
-  {
-   "en": ": Anyway, good talk! Thank you!",
-   "zh": ""
-  },
-  {
-   "en": ": Did I scare you or something? I wasn't trying to sneak up on you like that.",
-   "zh": ""
-  },
-  {
-   "en": ": Huh? What? No? Scared? I've never been scared of anything in my life. Not even once.",
-   "zh": ""
-  },
-  {
-   "en": ": Do, umm...do you need something?",
-   "zh": ""
-  },
-  {
-   "en": ": Nah...",
-   "zh": ""
-  },
-  {
-   "en": ": Just thought I'd come say hi since you seemed all lonely and stuff.",
-   "zh": ""
-  },
-  {
-   "en": ": I can leave if I'm bothering you, though. I put up with Yumi on a daily basis, so I know pretty well how much some people need their alone time or whatever.",
-   "zh": ""
-  },
-  {
-   "en": ": I am never washing this cardigan again.",
-   "zh": ""
-  },
-  {
-   "en": ": Hm? You say something just now?",
-   "zh": ""
-  },
-  {
-   "en": ": Nope! Nothing at all! Just...thinking about...things. And stuff.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, speaking of things and stuff, I was actually thinking about you this morning.",
-   "zh": ""
-  },
-  {
-   "en": ": You...of me?....Thinking? With brain?",
-   "zh": ""
-  },
-  {
-   "en": ": Chika think of Rin with brain, yes.",
-   "zh": ""
-  },
-  {
-   "en": ": Why brain think?! Why?!",
-   "zh": ""
-  },
-  {
-   "en": ": Surely your...free time is better spent on...being pretty. And...smelling nice.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, stop! We've known each other for how many years now? I'm allowed to think of you if I want to, dummy.",
-   "zh": ""
-  },
-  {
-   "en": ": Relax, Rin. You fell asleep in class and this is all just a dream. But still, try not to say anything awkward.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh my god. You are like, totally hilarious.",
-   "zh": ""
-  },
-  {
-   "en": ": So...umm...why were you thinking of me, exactly? If that's...a thing I'm allowed to ask about.",
-   "zh": ""
-  },
-  {
-   "en": ": I just heard this band on my Discover Weekly this morning and they seemed like something you'd be into.",
-   "zh": ""
-  },
-  {
-   "en": ": I think I remember you having one of their shirts back in middle school and everything.",
-   "zh": ""
-  },
-  {
-   "en": ": You don't think it's weird, do you? That I remember that and stuff.",
-   "zh": ""
-  },
-  {
-   "en": ": No...No, that's not weird at all! I'm actually really flattered!",
-   "zh": ""
-  },
-  {
-   "en": ": I...remember stuff about you from back then as well, so...",
-   "zh": ""
-  },
-  {
-   "en": ": Do you? Like what?",
-   "zh": ""
-  },
-  {
-   "en": ": Like...umm...that one week where you came to school with green hair because your hair didn't bleach correctly...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": That's what you remember most about me?! Why does your biggest middle school memory of me have to be one of the most embarrassing weeks of my life?!",
-   "zh": ""
-  },
-  {
-   "en": ": I didn't think it was bad or anything! I actually thought you...kind of pulled it off.",
-   "zh": ""
-  },
-  {
-   "en": ": But...you also pull off, like...literally everything, so...",
-   "zh": ""
-  },
-  {
-   "en": ": God...that feels like, so long ago now. It's crazy to think it's only been a couple of years.",
-   "zh": ""
-  },
-  {
-   "en": ": How come we never hung out?",
-   "zh": ""
-  },
-  {
-   "en": ": Because...you're popular and awesome and everyone likes you. And I'm just Rin.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, I think Rin is pretty great. And I'm not that popular. The only reason I have so many followers is because I keep up with trends and stuff. It's really no big deal.",
-   "zh": ""
-  },
-  {
-   "en": ": Speaking of that, though, how do you like having the corner desk? It's probably really easy to hide your phone, right?",
-   "zh": ""
-  },
-  {
-   "en": ": It is, yeah...",
-   "zh": ""
-  },
-  {
-   "en": ": Not like we really have to hide it anymore, though, with Sensei still in the throes of his midlife crisis.",
-   "zh": ""
-  },
-  {
-   "en": ": You really think that's what it is? Maybe he's just been kinda cool this whole time and we've just...never realized it.",
-   "zh": ""
-  },
-  {
-   "en": ": Well...whatever it is, it's definitely an improvement.",
-   "zh": ""
-  },
-  {
-   "en": ": He’s like...a totally different person lately.",
-   "zh": ""
-  },
-  {
-   "en": ": He's even been coming to the cafe lately and letting me try out new drinks on him.",
-   "zh": ""
-  },
-  {
-   "en": ": It just...came out of nowhere.",
-   "zh": ""
-  },
-  {
-   "en": ": Right?",
-   "zh": ""
-  },
-  {
-   "en": ": He’s like...a totally different person lately.",
-   "zh": ""
-  },
-  {
-   "en": ": This might sound kinda weird, but he even came into my room the other day. I wasn't expecting that at all.",
-   "zh": ""
-  },
-  {
-   "en": ": What? You let him into your room? But, like...what if he tried to...you know.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei? No way. It wasn't like that at all.",
-   "zh": ""
-  },
-  {
-   "en": ": You sure? What if he's got a crush on you or something?",
-   "zh": ""
-  },
-  {
-   "en": ": Not a chance. He's...way older than us. He was probably just...really bored or something.",
-   "zh": ""
-  },
-  {
-   "en": ": Older guys are into teenagers all the time, Rin. I don't think it's impossible, you know?",
-   "zh": ""
-  },
-  {
-   "en": ": I told you, it's not like that. Besides, I'm like, last on the list of people who would be his type. I think.",
-   "zh": ""
-  },
-  {
-   "en": ": I actually don't really know. But there's no way he has a crush on me.",
-   "zh": ""
-  },
-  {
-   "en": ": Whatever you say...",
-   "zh": ""
-  },
-  {
-   "en": ": I do get what you mean by the whole different person lately thing, though.",
-   "zh": ""
-  },
-  {
-   "en": ": He’s like...a totally different person lately.",
-   "zh": ""
-  },
-  {
-   "en": ": Right?",
-   "zh": ""
-  },
-  {
-   "en": ": It's like...not just him either. It feels like the entire class has been different for the last couple weeks.",
-   "zh": ""
-  },
-  {
-   "en": ": It barely even feels like school anymore.",
-   "zh": ""
-  },
-  {
-   "en": ": What, do you like...miss learning all of a sudden or something?",
-   "zh": ""
-  },
-  {
-   "en": ": I always thought you hated studying.",
-   "zh": ""
-  },
-  {
-   "en": ": I don't hate it! It's just boring.",
-   "zh": ""
-  },
-  {
-   "en": ": I wonder if something happened to him. People don't just change like that overnight, do they?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m sure he’s fine. If anything was going on with him, I'm sure I'd hear about it from Ami anyway.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, let me know if you do hear anything, since I'm just as curious about all this as you are.",
-   "zh": ""
-  },
-  {
-   "en": ": Also, hang out with me some time. If you're free, I mean.",
-   "zh": ""
-  },
-  {
-   "en": ": H...Hang out?! You and me?! Together?! In the same place?!",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah! It’ll be fun. Just come get me after class sometime. We’ll go shopping or get dinner or something.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Is that...cool with you? Or should we just stay as like, school friends or something?",
-   "zh": ""
-  },
-  {
-   "en": ": I'm sorry, I just...I wasn't expecting you to actually want to be around me.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, I'll let you sleep on it. But, like I said, just come get me after school if you ever want to do something.",
-   "zh": ""
-  },
-  {
-   "en": ": As long as I don't have anything else going on, I'd be happy to chill with you.",
-   "zh": ""
-  },
-  {
-   "en": ": I should probs be heading back to my seat now, though. Need to do at least some studying if I want to pass, you know?",
-   "zh": ""
-  },
-  {
-   "en": ": But I'll see you around, Rin. It was nice chatting with you.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah...",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah it was...really nice...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Futaba...was I hallucinating just now? Or did that really just happen?",
-   "zh": ""
-  },
-  {
-   "en": ": Heheh...it really happened, Rin.",
-   "zh": ""
-  },
-  {
-   "en": ": I see...",
-   "zh": ""
-  },
-  {
-   "en": ": How do you feel?",
-   "zh": ""
-  },
-  {
-   "en": ": Dizzy. Very dizzy.",
-   "zh": ""
-  },
-  {
-   "en": ": I am going to sleep now. But if I start making weird noises or talking or something, please hit me.",
-   "zh": ""
-  },
-  {
-   "en": ": I will hit you with the biggest book I have...",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day20",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day20:",
+      "zh": ""
+    },
+    {
+      "en": "scene daytwenty1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty1.webp",
+      "alt": "daytwenty1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It’s another average day in the classroom.",
+      "zh": ""
+    },
+    {
+      "en": "Or at least average by my standards. I'm sure the other classes are actually studying right now.",
+      "zh": ""
+    },
+    {
+      "en": "But ever since I took over and decided to just let the girls study on their own time, things have more or less just...been like this.",
+      "zh": ""
+    },
+    {
+      "en": "Even Makoto seems to be settling into this new routine. So apart from Yumi, who still only shows up once in a while, it appears that everybody seems to be enjoying themselves.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The great part is that it doesn't seem classes are ever monitored here. So as long as I can submit everyone's grades on time, I should be able to dodge suspicion entirely.",
+      "zh": ""
+    },
+    {
+      "en": "All that's left to do now is...figure out how to submit everyone's grades.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I sigh to myself and lean back in my chair, already excited for the day to come to an end so I can get out of here and actually do something fun with my time.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It is at that moment when I realize that all I have to do in order to make that happen is go to sleep.",
+      "zh": ""
+    },
+    {
+      "en": "And so that is precisely what I will do.",
+      "zh": ""
+    },
+    {
+      "en": "Goodnight, everyone.",
+      "zh": ""
+    },
+    {
+      "en": "Please don't cause any trouble while I am gone. And, in the event that I wake up without my memories, please ask Ami to once again escort me home.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "Several minutes later...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty2.webp",
+      "alt": "daytwenty2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty3.webp",
+      "alt": "daytwenty3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Ahh! Hand!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Something going on outside? You’ve been staring at the window for like ten minutes now.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Uhhhh...air! That's where all the air is! And the...uhh...birds!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Anyway, good talk! Thank you!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty4.webp",
+      "alt": "daytwenty4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Did I scare you or something? I wasn't trying to sneak up on you like that.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Huh? What? No? Scared? I've never been scared of anything in my life. Not even once.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Do, umm...do you need something?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty5.webp",
+      "alt": "daytwenty5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nah...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Just thought I'd come say hi since you seemed all lonely and stuff.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I can leave if I'm bothering you, though. I put up with Yumi on a daily basis, so I know pretty well how much some people need their alone time or whatever.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I am never washing this cardigan again.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty5r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty5r.webp",
+      "alt": "daytwenty5r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hm? You say something just now?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Nope! Nothing at all! Just...thinking about...things. And stuff.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty6.webp",
+      "alt": "daytwenty6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, speaking of things and stuff, I was actually thinking about you this morning.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You...of me?....Thinking? With brain?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Chika think of Rin with brain, yes.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Why brain think?! Why?!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Surely your...free time is better spent on...being pretty. And...smelling nice.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty6r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty6r.webp",
+      "alt": "daytwenty6r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, stop! We've known each other for how many years now? I'm allowed to think of you if I want to, dummy.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Relax, Rin. You fell asleep in class and this is all just a dream. But still, try not to say anything awkward.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Oh my god. You are like, totally hilarious.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty6r2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty6r2.webp",
+      "alt": "daytwenty6r2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So...umm...why were you thinking of me, exactly? If that's...a thing I'm allowed to ask about.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I just heard this band on my Discover Weekly this morning and they seemed like something you'd be into.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I think I remember you having one of their shirts back in middle school and everything.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You don't think it's weird, do you? That I remember that and stuff.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": No...No, that's not weird at all! I'm actually really flattered!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I...remember stuff about you from back then as well, so...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Do you? Like what?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Like...umm...that one week where you came to school with green hair because your hair didn't bleach correctly...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty6r3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty6r3.webp",
+      "alt": "daytwenty6r3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That's what you remember most about me?! Why does your biggest middle school memory of me have to be one of the most embarrassing weeks of my life?!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I didn't think it was bad or anything! I actually thought you...kind of pulled it off.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": But...you also pull off, like...literally everything, so...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty7.webp",
+      "alt": "daytwenty7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": God...that feels like, so long ago now. It's crazy to think it's only been a couple of years.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": How come we never hung out?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Because...you're popular and awesome and everyone likes you. And I'm just Rin.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty9.webp",
+      "alt": "daytwenty9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, I think Rin is pretty great. And I'm not that popular. The only reason I have so many followers is because I keep up with trends and stuff. It's really no big deal.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Speaking of that, though, how do you like having the corner desk? It's probably really easy to hide your phone, right?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": It is, yeah...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Not like we really have to hide it anymore, though, with Sensei still in the throes of his midlife crisis.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": You really think that's what it is? Maybe he's just been kinda cool this whole time and we've just...never realized it.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Well...whatever it is, it's definitely an improvement.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty10.webp",
+      "alt": "daytwenty10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if rin_love > 4 and rinfirstvisit == False:",
+      "zh": ""
+    },
+    {
+      "en": ": He’s like...a totally different person lately.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": He's even been coming to the cafe lately and letting me try out new drinks on him.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": It just...came out of nowhere.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Right?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": "jump restofrin",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if rin_love > 4 and rinfirstvisit == True:",
+      "zh": ""
+    },
+    {
+      "en": ": He’s like...a totally different person lately.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": This might sound kinda weird, but he even came into my room the other day. I wasn't expecting that at all.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty10r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty10r.webp",
+      "alt": "daytwenty10r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What? You let him into your room? But, like...what if he tried to...you know.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty5r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty5r.webp",
+      "alt": "daytwenty5r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei? No way. It wasn't like that at all.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": You sure? What if he's got a crush on you or something?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Not a chance. He's...way older than us. He was probably just...really bored or something.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Older guys are into teenagers all the time, Rin. I don't think it's impossible, you know?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I told you, it's not like that. Besides, I'm like, last on the list of people who would be his type. I think.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I actually don't really know. But there's no way he has a crush on me.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty10.webp",
+      "alt": "daytwenty10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Whatever you say...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I do get what you mean by the whole different person lately thing, though.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": "jump restofrin",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": He’s like...a totally different person lately.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Right?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": "jump restofrin",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label restofrin:",
+      "zh": ""
+    },
+    {
+      "en": ": It's like...not just him either. It feels like the entire class has been different for the last couple weeks.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": It barely even feels like school anymore.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty10r2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty10r2.webp",
+      "alt": "daytwenty10r2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What, do you like...miss learning all of a sudden or something?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I always thought you hated studying.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I don't hate it! It's just boring.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty10.webp",
+      "alt": "daytwenty10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I wonder if something happened to him. People don't just change like that overnight, do they?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’m sure he’s fine. If anything was going on with him, I'm sure I'd hear about it from Ami anyway.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty11.webp",
+      "alt": "daytwenty11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, let me know if you do hear anything, since I'm just as curious about all this as you are.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Also, hang out with me some time. If you're free, I mean.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty11r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty11r.webp",
+      "alt": "daytwenty11r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": H...Hang out?! You and me?! Together?! In the same place?!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah! It’ll be fun. Just come get me after class sometime. We’ll go shopping or get dinner or something.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Is that...cool with you? Or should we just stay as like, school friends or something?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I'm sorry, I just...I wasn't expecting you to actually want to be around me.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Well, I'll let you sleep on it. But, like I said, just come get me after school if you ever want to do something.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": As long as I don't have anything else going on, I'd be happy to chill with you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I should probs be heading back to my seat now, though. Need to do at least some studying if I want to pass, you know?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": But I'll see you around, Rin. It was nice chatting with you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah it was...really nice...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene daytwenty12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/daytwenty12.webp",
+      "alt": "daytwenty12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Futaba...was I hallucinating just now? Or did that really just happen?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Heheh...it really happened, Rin.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": I see...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": How do you feel?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Dizzy. Very dizzy.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I am going to sleep now. But if I start making weird noises or talking or something, please hit me.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I will hit you with the biggest book I have...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day20 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

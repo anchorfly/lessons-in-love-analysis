@@ -1,78 +1,160 @@
 {
- "label": "ayanespringnightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is at the house tonight and doesn’t take kindly to the idea of Ayane getting “Sensei time” without her.",
-   "zh": ""
-  },
-  {
-   "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is...",
-   "zh": ""
-  },
-  {
-   "en": "Yeah.",
-   "zh": ""
-  },
-  {
-   "en": "Instead of making plans to do anything, though, we wind up talking outside of the dorm building for what feels like an eternity, but is really only an hour or two.",
-   "zh": ""
-  },
-  {
-   "en": "There's been a lot of that with us lately. A lot of conversations that don't amount to anything but feel like they need to happen so we can maintain some sort of status quo.",
-   "zh": ""
-  },
-  {
-   "en": "We retreat to a bench and I ask her to tell me about her day, which she does. And she spares no detail at that. But none of the information really sticks.",
-   "zh": ""
-  },
-  {
-   "en": "It's funny, actually. I feel like I used to be so good at listening, even if it wasn't in the way people wanted me to.",
-   "zh": ""
-  },
-  {
-   "en": "But now, it's like I can barely even remember when I got out of bed in the morning.",
-   "zh": ""
-  },
-  {
-   "en": "It's like all of my effort goes to thinking of the next time I'll be able to get some sleep instead.",
-   "zh": ""
-  },
-  {
-   "en": "And whether or not I'll see her there when I do.",
-   "zh": ""
-  },
-  {
-   "en": "We retreat to a nearby park bench and Ayane beats me to the punch by falling asleep on my shoulder.",
-   "zh": ""
-  },
-  {
-   "en": "As I look down at her, there's a fleeting thought that she reminds of someone else- but I'm not quite sure who.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "I just know that they're important.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane’s affection has increased to [ayane_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "ayanespringnightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayanespringnightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayanespringnightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayanespringnightgen.webp",
+      "alt": "ayanespringnightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if amiblock == False:",
+      "zh": ""
+    },
+    {
+      "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is at the house tonight and doesn’t take kindly to the idea of Ayane getting “Sensei time” without her.",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is...",
+      "zh": ""
+    },
+    {
+      "en": "Yeah.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Instead of making plans to do anything, though, we wind up talking outside of the dorm building for what feels like an eternity, but is really only an hour or two.",
+      "zh": ""
+    },
+    {
+      "en": "There's been a lot of that with us lately. A lot of conversations that don't amount to anything but feel like they need to happen so we can maintain some sort of status quo.",
+      "zh": ""
+    },
+    {
+      "en": "We retreat to a bench and I ask her to tell me about her day, which she does. And she spares no detail at that. But none of the information really sticks.",
+      "zh": ""
+    },
+    {
+      "en": "It's funny, actually. I feel like I used to be so good at listening, even if it wasn't in the way people wanted me to.",
+      "zh": ""
+    },
+    {
+      "en": "But now, it's like I can barely even remember when I got out of bed in the morning.",
+      "zh": ""
+    },
+    {
+      "en": "It's like all of my effort goes to thinking of the next time I'll be able to get some sleep instead.",
+      "zh": ""
+    },
+    {
+      "en": "And whether or not I'll see her there when I do.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We retreat to a nearby park bench and Ayane beats me to the punch by falling asleep on my shoulder.",
+      "zh": ""
+    },
+    {
+      "en": "As I look down at her, there's a fleeting thought that she reminds of someone else- but I'm not quite sure who.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I just know that they're important.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane’s affection has increased to [ayane_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

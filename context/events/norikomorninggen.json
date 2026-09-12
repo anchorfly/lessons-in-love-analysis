@@ -1,138 +1,242 @@
 {
- "label": "norikomorninggen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Noriko's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": Good morning, Sensei!",
-   "zh": ""
-  },
-  {
-   "en": ": Hey. Good morning.",
-   "zh": ""
-  },
-  {
-   "en": ": Are you doing anything right now?",
-   "zh": ""
-  },
-  {
-   "en": ": Just laying in bed. Thinking about you~",
-   "zh": ""
-  },
-  {
-   "en": ": How about instead of just thinking, we go out to breakfast?",
-   "zh": ""
-  },
-  {
-   "en": ": Ah! Breakfast date!",
-   "zh": ""
-  },
-  {
-   "en": ": I'd love to. Just let me get dressed.",
-   "zh": ""
-  },
-  {
-   "en": ": Where did you want to go?",
-   "zh": ""
-  },
-  {
-   "en": ": I'll send you the address in a second.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay! I'll see you soon, then!",
-   "zh": ""
-  },
-  {
-   "en": "I hang up the phone, send Noriko a quick message, and then start heading over to the diner.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Despite living further away from the place than I do, Noriko somehow manages to make it there first.",
-   "zh": ""
-  },
-  {
-   "en": "I question how this is possible and she proceeds to talk about the wonders of modern transportation and how ridesharing is the way of the future.",
-   "zh": ""
-  },
-  {
-   "en": "I grow tired of the lecture and remind her that we are here to eat and, as if on cue, she pulls out a box of doughnuts from seemingly nowhere, opening it up and offering me one.",
-   "zh": ""
-  },
-  {
-   "en": "Apparently, she did not only get here early, but purchased food before I even had the chance to pay for anything.",
-   "zh": ""
-  },
-  {
-   "en": "I'm not complaining since this saves me money, but I do feel a little bad that she's going out of her way like this.",
-   "zh": ""
-  },
-  {
-   "en": "I eat a few doughnuts and drink some coffee while listening to Noriko reminisce about the old days.",
-   "zh": ""
-  },
-  {
-   "en": "The days that were monumental in her life but have already been torn down in that of my own.",
-   "zh": ""
-  },
-  {
-   "en": "It's kind of unfortunate how, even with the way time flows here, there's no way to really go backwards.",
-   "zh": ""
-  },
-  {
-   "en": "I honestly do wish I could have experienced all of the stories Noriko tells me.",
-   "zh": ""
-  },
-  {
-   "en": "And I guess it's not impossible that I did.",
-   "zh": ""
-  },
-  {
-   "en": "But, if that's true-",
-   "zh": ""
-  },
-  {
-   "en": "I'd really appreciate it if those memories would return.",
-   "zh": ""
-  },
-  {
-   "en": "Noriko's affection has increased to [noriko_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "norikomorninggen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label norikomorninggen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Noriko's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Good morning, Sensei!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Hey. Good morning.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Are you doing anything right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Just laying in bed. Thinking about you~",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": How about instead of just thinking, we go out to breakfast?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Ah! Breakfast date!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": I'd love to. Just let me get dressed.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Where did you want to go?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": I'll send you the address in a second.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Okay! I'll see you soon, then!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I hang up the phone, send Noriko a quick message, and then start heading over to the diner.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene norikogenmorning",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/norikogenmorning.webp",
+      "alt": "norikogenmorning"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Despite living further away from the place than I do, Noriko somehow manages to make it there first.",
+      "zh": ""
+    },
+    {
+      "en": "I question how this is possible and she proceeds to talk about the wonders of modern transportation and how ridesharing is the way of the future.",
+      "zh": ""
+    },
+    {
+      "en": "I grow tired of the lecture and remind her that we are here to eat and, as if on cue, she pulls out a box of doughnuts from seemingly nowhere, opening it up and offering me one.",
+      "zh": ""
+    },
+    {
+      "en": "Apparently, she did not only get here early, but purchased food before I even had the chance to pay for anything.",
+      "zh": ""
+    },
+    {
+      "en": "I'm not complaining since this saves me money, but I do feel a little bad that she's going out of her way like this.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I eat a few doughnuts and drink some coffee while listening to Noriko reminisce about the old days.",
+      "zh": ""
+    },
+    {
+      "en": "The days that were monumental in her life but have already been torn down in that of my own.",
+      "zh": ""
+    },
+    {
+      "en": "It's kind of unfortunate how, even with the way time flows here, there's no way to really go backwards.",
+      "zh": ""
+    },
+    {
+      "en": "I honestly do wish I could have experienced all of the stories Noriko tells me.",
+      "zh": ""
+    },
+    {
+      "en": "And I guess it's not impossible that I did.",
+      "zh": ""
+    },
+    {
+      "en": "But, if that's true-",
+      "zh": ""
+    },
+    {
+      "en": "I'd really appreciate it if those memories would return.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ noriko_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Noriko's affection has increased to [noriko_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

@@ -1,50 +1,113 @@
 {
- "label": "tsuneyospringramengen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I make my way over to Tojo Ramen with a specific menu item in mind, but neglect to order it once I arrive there. But I can't tell you why until I figure out something to tell myself first.",
-   "zh": ""
-  },
-  {
-   "en": "I've been thinking a lot about ramen lately- the kind you make in cups. Not the kind served to you in half-cracked bowls by mechanical hands.",
-   "zh": ""
-  },
-  {
-   "en": "There is a leak in my water cup. Tsuneyo replaces it with a mason jar and demands that I fend for myself, but she knows nothing of the things I have gone through.",
-   "zh": ""
-  },
-  {
-   "en": "The power stays on throughout the night, which is good because I am afraid of the dark now.",
-   "zh": ""
-  },
-  {
-   "en": "I'm afraid of almost everything.",
-   "zh": ""
-  },
-  {
-   "en": "I've been thinking a lot about ramen lately.",
-   "zh": ""
-  },
-  {
-   "en": "I've been thinking of what's upstairs.",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "tsuneyospringramengen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label tsuneyospringramengen:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyospringramengen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyospringramengen.webp",
+      "alt": "tsuneyospringramengen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way over to Tojo Ramen with a specific menu item in mind, but neglect to order it once I arrive there. But I can't tell you why until I figure out something to tell myself first.",
+      "zh": ""
+    },
+    {
+      "en": "I've been thinking a lot about ramen lately- the kind you make in cups. Not the kind served to you in half-cracked bowls by mechanical hands.",
+      "zh": ""
+    },
+    {
+      "en": "There is a leak in my water cup. Tsuneyo replaces it with a mason jar and demands that I fend for myself, but she knows nothing of the things I have gone through.",
+      "zh": ""
+    },
+    {
+      "en": "The power stays on throughout the night, which is good because I am afraid of the dark now.",
+      "zh": ""
+    },
+    {
+      "en": "I'm afraid of almost everything.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I've been thinking a lot about ramen lately.",
+      "zh": ""
+    },
+    {
+      "en": "I've been thinking of what's upstairs.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ tsuneyo_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

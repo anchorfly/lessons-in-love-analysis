@@ -1,66 +1,117 @@
 {
- "label": "kirinnoongen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Kirin immediately invites me over after I give her a call to see what she's up to.",
-   "zh": ""
-  },
-  {
-   "en": "I don't find out until I get there that she bailed on going to some get-together with the soccer team to see me...and I can't tell exactly how that makes me feel right off the bat.",
-   "zh": ""
-  },
-  {
-   "en": "On one hand, a cute girl wants to spend time with me and prioritized me over a bunch of people she's known for much longer. Awesome.",
-   "zh": ""
-  },
-  {
-   "en": "But, on the other hand, it confuses me a bit as to why she's so readily let those people down in exchange for something she didn't even know was happening until half an hour ago.",
-   "zh": ""
-  },
-  {
-   "en": "The two of us aren't exactly close.",
-   "zh": ""
-  },
-  {
-   "en": "Sure, I like being around her, but virtually everything she does confuses the fuck out of me.",
-   "zh": ""
-  },
-  {
-   "en": "And it's not like she's the kind of person who will tell me what it all means either so I guess I'll just...",
-   "zh": ""
-  },
-  {
-   "en": "Keep waiting to see what happens.",
-   "zh": ""
-  },
-  {
-   "en": "The two of us spend the afternoon on her couch.",
-   "zh": ""
-  },
-  {
-   "en": "We start off on different sides, but she slowly moves her way over to me and rests her head on my shoulder.",
-   "zh": ""
-  },
-  {
-   "en": "It's not often that she does cute things like that, so I take in the moment and hope that whatever caused her to do it today was more than just being bored or whatever she always says.",
-   "zh": ""
-  },
-  {
-   "en": "Kirin's affection has increased to [kirin_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "kirinnoongen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kirinnoongen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene kirinnoongen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/kirinnoongen2.webp",
+      "alt": "kirinnoongen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kirin immediately invites me over after I give her a call to see what she's up to.",
+      "zh": ""
+    },
+    {
+      "en": "I don't find out until I get there that she bailed on going to some get-together with the soccer team to see me...and I can't tell exactly how that makes me feel right off the bat.",
+      "zh": ""
+    },
+    {
+      "en": "On one hand, a cute girl wants to spend time with me and prioritized me over a bunch of people she's known for much longer. Awesome.",
+      "zh": ""
+    },
+    {
+      "en": "But, on the other hand, it confuses me a bit as to why she's so readily let those people down in exchange for something she didn't even know was happening until half an hour ago.",
+      "zh": ""
+    },
+    {
+      "en": "The two of us aren't exactly close.",
+      "zh": ""
+    },
+    {
+      "en": "Sure, I like being around her, but virtually everything she does confuses the fuck out of me.",
+      "zh": ""
+    },
+    {
+      "en": "And it's not like she's the kind of person who will tell me what it all means either so I guess I'll just...",
+      "zh": ""
+    },
+    {
+      "en": "Keep waiting to see what happens.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The two of us spend the afternoon on her couch.",
+      "zh": ""
+    },
+    {
+      "en": "We start off on different sides, but she slowly moves her way over to me and rests her head on my shoulder.",
+      "zh": ""
+    },
+    {
+      "en": "It's not often that she does cute things like that, so I take in the moment and hope that whatever caused her to do it today was more than just being bored or whatever she always says.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ kirin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kirin's affection has increased to [kirin_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

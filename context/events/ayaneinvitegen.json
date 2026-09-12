@@ -1,98 +1,195 @@
 {
- "label": "ayaneinvitegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Ayane's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": I love you!",
-   "zh": ""
-  },
-  {
-   "en": ": Please at least greet me first, Ayane.",
-   "zh": ""
-  },
-  {
-   "en": ": Hi, Sensei! I love you!",
-   "zh": ""
-  },
-  {
-   "en": ": That's better.",
-   "zh": ""
-  },
-  {
-   "en": ": What are you up to right now?",
-   "zh": ""
-  },
-  {
-   "en": ": Sana and I are watching a movie. Do you want to come over and watch it with us?",
-   "zh": ""
-  },
-  {
-   "en": ": I was actually wondering if you'd want to come over to my place instead.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, of course! I will come over and help fix your oven right away, Sensei!",
-   "zh": ""
-  },
-  {
-   "en": "Is that really the best cover story she could come up with?",
-   "zh": ""
-  },
-  {
-   "en": ": See you soon, Ayane.",
-   "zh": ""
-  },
-  {
-   "en": ": Byeeee! I love you!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": So, now that your oven is fixed, what do you wanna do?",
-   "zh": ""
-  },
-  {
-   "en": "How should I spend my time with Ayane?",
-   "zh": ""
-  },
-  {
-   "en": "Hang Out (Raise Affection)",
-   "zh": ""
-  },
-  {
-   "en": "Laying Doggy Style (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Grinding (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Headpat",
-   "zh": ""
-  }
- ]
+  "label": "ayaneinvitegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayaneinvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Ayane's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I love you!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Please at least greet me first, Ayane.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hi, Sensei! I love you!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": That's better.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": What are you up to right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Sana and I are watching a movie. Do you want to come over and watch it with us?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I was actually wondering if you'd want to come over to my place instead.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Oh, of course! I will come over and help fix your oven right away, Sensei!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Is that really the best cover story she could come up with?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": See you soon, Ayane.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Byeeee! I love you!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayaneinvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayaneinvitehub.webp",
+      "alt": "ayaneinvitehub"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, now that your oven is fixed, what do you wanna do?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Ayane?",
+      "zh": ""
+    },
+    {
+      "en": "menu ayaneinvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": ""
+    },
+    {
+      "en": "jump ayaneinviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Laying Doggy Style (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump ayanedoggylay",
+      "zh": ""
+    },
+    {
+      "en": "Grinding (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump ayanegrindanim",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": ""
+    },
+    {
+      "en": "jump ayaneheadpat",
+      "zh": ""
+    }
+  ]
 }

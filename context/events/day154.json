@@ -1,606 +1,1345 @@
 {
- "label": "day154",
- "title_zh": "",
- "lines": [
-  {
-   "en": "It’s day-two of helping my new students move into their dorms and, today, I’m accompanied by none other than Miku and Futaba.",
-   "zh": ""
-  },
-  {
-   "en": "And when I say “I’m accompanied,” it’s really closer to me accompanying them.",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo didn’t actually invite me to help, I just heard about it in class and decided to show up unannounced.",
-   "zh": ""
-  },
-  {
-   "en": "But hey, virtually every visit I’ve had to the dorms has been unannounced so far. Might as well not do anything to break the streak.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey. What are you two up to?",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, hey Sensei! I didn’t know you were comin’ today!",
-   "zh": ""
-  },
-  {
-   "en": ": Neither did I, to be honest. Just sort of happened.",
-   "zh": ""
-  },
-  {
-   "en": ": Are you here to help Tsuneyo move as well?",
-   "zh": ""
-  },
-  {
-   "en": ": You know it. Anything I can do to help.",
-   "zh": ""
-  },
-  {
-   "en": ": Does sitting around drinking water really constitute helping, though? It doesn’t seem like you’re doing much.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey! Watch it! We did plenty of stuff before you got here!",
-   "zh": ""
-  },
-  {
-   "en": ": God forbid we take a second to drink some water. Jeez, kids these days!",
-   "zh": ""
-  },
-  {
-   "en": ": Please forgive her tone, Sensei...Miku’s actually worked really hard today.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s heckin’ right, I have. And so has Futaba! We’ve carried like a bajillion different boxes and like, 90%% of ‘em have been clothes!",
-   "zh": ""
-  },
-  {
-   "en": ": I’ve...done my best. I can’t exactly carry as much as Miku.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, but that’s probs just cause those big ole’ honkers keep gettin’ in the way.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s not...entirely incorrect. I wish you’d be a little less abrasive, though.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei! Translation request! The heck does ‘abrasive’ mean?",
-   "zh": ""
-  },
-  {
-   "en": ": It means Futaba wants you to be a little less candid when you talk about her chest.",
-   "zh": ""
-  },
-  {
-   "en": ": Oooooh. I see, I see.",
-   "zh": ""
-  },
-  {
-   "en": ": The heck does ‘candid’ mean?",
-   "zh": ""
-  },
-  {
-   "en": ": It means that you shouldn’t make fun of Futaba’s boobs.",
-   "zh": ""
-  },
-  {
-   "en": ": I ain’t makin’ fun of em! I’d kill for those puppies! I’m not even wearin’ a friggin bra right now.",
-   "zh": ""
-  },
-  {
-   "en": ": And I’d kill to be able to do that...",
-   "zh": ""
-  },
-  {
-   "en": "Ahh, I’ve reached the point of my life where my students are no longer concerned with talking about their chests in front of me.",
-   "zh": ""
-  },
-  {
-   "en": "Hard work really does pay off.",
-   "zh": ""
-  },
-  {
-   "en": ": Sorry, you two. But as much as I’d like to stay and talk about boobs with you, would you mind telling me where Tsuneyo is?",
-   "zh": ""
-  },
-  {
-   "en": ": I feel like I’m obligated to at least try to help her tonight.",
-   "zh": ""
-  },
-  {
-   "en": "That and I’d also like her to be a part of this conversation as well. I haven’t seen much of Tsuneyo, but I definitely think her body is rather...developed for her age.",
-   "zh": ""
-  },
-  {
-   "en": ": Hm? You blind, Sensei? She’s right behind ya.",
-   "zh": ""
-  },
-  {
-   "en": ": Wait, really?",
-   "zh": ""
-  },
-  {
-   "en": "I turn around and-",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Hi, Tsuneyo.",
-   "zh": ""
-  },
-  {
-   "en": ": Ah-",
-   "zh": ""
-  },
-  {
-   "en": ": Do you need help with those boxes?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m fine.",
-   "zh": ""
-  },
-  {
-   "en": ": I have to carry much heavier things at the restaurant.",
-   "zh": ""
-  },
-  {
-   "en": ": Yes, but I’m sure you can normally see when you carry those things.",
-   "zh": ""
-  },
-  {
-   "en": ": That is a good point.",
-   "zh": ""
-  },
-  {
-   "en": ": So can I take a box then?",
-   "zh": ""
-  },
-  {
-   "en": ": Sure.",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo’s expressionless face pops into my vision as I take a box full of her clothes from the top of the stack.",
-   "zh": ""
-  },
-  {
-   "en": ": Hello.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey.",
-   "zh": ""
-  },
-  {
-   "en": ": Come here often?",
-   "zh": ""
-  },
-  {
-   "en": ": Are you hitting on me right now?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t think so.",
-   "zh": ""
-  },
-  {
-   "en": ": Really? Because it sounds a lot like you’re hitting on me.",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t even know what that means.",
-   "zh": ""
-  },
-  {
-   "en": ": That aside, how are you feeling about the move? Have you gotten used to Molly yet?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo looks off to the side instead of answering my question.",
-   "zh": ""
-  },
-  {
-   "en": "I assume this means she-",
-   "zh": ""
-  },
-  {
-   "en": ": Is that a bird?",
-   "zh": ""
-  },
-  {
-   "en": ": What?",
-   "zh": ""
-  },
-  {
-   "en": ": Is that thing really still there? I figured it would have left by now.",
-   "zh": ""
-  },
-  {
-   "en": ": We should give it a name.",
-   "zh": ""
-  },
-  {
-   "en": ": You want to name a bird that’s probably going to fly away in a day or two?",
-   "zh": ""
-  },
-  {
-   "en": ": You don’t?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": No, I kind of do as well.",
-   "zh": ""
-  },
-  {
-   "en": ": Let’s name him Noodles.",
-   "zh": ""
-  },
-  {
-   "en": ": You need interests besides noodles, Tsuneyo.",
-   "zh": ""
-  },
-  {
-   "en": ": Fuck you.",
-   "zh": ""
-  },
-  {
-   "en": "WOAH.",
-   "zh": ""
-  },
-  {
-   "en": "Where the hell did that come from?",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...did I do something to offend you?",
-   "zh": ""
-  },
-  {
-   "en": ": The only thing that offends me is when someone only eats half of their dinner.",
-   "zh": ""
-  },
-  {
-   "en": ": You haven’t eaten dinner. You are fine.",
-   "zh": ""
-  },
-  {
-   "en": ": Then why did you curse at me?",
-   "zh": ""
-  },
-  {
-   "en": ": Curse? What does that mean?",
-   "zh": ""
-  },
-  {
-   "en": ": You said “Fuck you” just now. The word “fuck” is a curse.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh no. What have I done?",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo suddenly drops her boxes on the floor in front of her. A loud thud rings out and likely echoes throughout the first dorm floor.",
-   "zh": ""
-  },
-  {
-   "en": ": Tsuneyo, your computer was in one of those boxes...",
-   "zh": ""
-  },
-  {
-   "en": ": Are you going to die?",
-   "zh": ""
-  },
-  {
-   "en": ": What? Why would I die?",
-   "zh": ""
-  },
-  {
-   "en": ": The curse.",
-   "zh": ""
-  },
-  {
-   "en": ": ...It’s not that kind of curse.",
-   "zh": ""
-  },
-  {
-   "en": ": So...you will live?",
-   "zh": ""
-  },
-  {
-   "en": ": I will very much live.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ve been bestowed with too much power...",
-   "zh": ""
-  },
-  {
-   "en": ": I have absolutely no idea what you’re talking about.",
-   "zh": ""
-  },
-  {
-   "en": ": That curse was taught to me by the Emerald Guardian.",
-   "zh": ""
-  },
-  {
-   "en": ": Tsuneyo, it’s not that kind of curse.",
-   "zh": ""
-  },
-  {
-   "en": ": Even if it is a weak curse, I shouldn’t have placed it on you.",
-   "zh": ""
-  },
-  {
-   "en": ": I am sorry. You may eat for free at my family’s shop whenever you like for the rest of your life.",
-   "zh": ""
-  },
-  {
-   "en": ": No, that’s fine. I’ll still pay.",
-   "zh": ""
-  },
-  {
-   "en": ": No.",
-   "zh": ""
-  },
-  {
-   "en": ": Yes...",
-   "zh": ""
-  },
-  {
-   "en": ": No.",
-   "zh": ""
-  },
-  {
-   "en": ": Tsuneyo.",
-   "zh": ""
-  },
-  {
-   "en": ": Ah-",
-   "zh": ""
-  },
-  {
-   "en": ": Ay! The heck are you two doin’ over there? And why’d ramen-girl drop her computer on the ground?",
-   "zh": ""
-  },
-  {
-   "en": ": You gotta be careful with loud noises like that! You never know who might freak out and get scared from ‘em.",
-   "zh": ""
-  },
-  {
-   "en": "I turn around to find an uncharacteristically angry looking Miku, though I imagine I know why.",
-   "zh": ""
-  },
-  {
-   "en": "The only time I’ve ever seen her lose her composure was after that ball hit the storage room that one time.",
-   "zh": ""
-  },
-  {
-   "en": "I guess I should be glad that she didn’t have another reaction like that now.",
-   "zh": ""
-  },
-  {
-   "en": "I was lucky enough that Karin was around last time. I have no idea how I’d be able to handle something like that alone.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m very sorry for the disturbance. I had no idea a computer could make that kind of noise.",
-   "zh": ""
-  },
-  {
-   "en": "It’s not like it’s supposed to...",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not mad at you. I’m mad at him.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Wait, me? What did I do?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know her enough to get mad at her yet. I gotta take it out on somebody.",
-   "zh": ""
-  },
-  {
-   "en": ": Drop and give me twenty, mister.",
-   "zh": ""
-  },
-  {
-   "en": ": I am absolutely not going to do that.",
-   "zh": ""
-  },
-  {
-   "en": ": Fine! Futaba! Drop and give me twenty!",
-   "zh": ""
-  },
-  {
-   "en": ": What?! Twenty sounds like a lot...I don’t even know if I could do that many...",
-   "zh": ""
-  },
-  {
-   "en": ": I will accept this punishment...It is the least I can do.",
-   "zh": ""
-  },
-  {
-   "en": ": Hm? Hey, wait a sec Tsuneyo. You don’t have to-",
-   "zh": ""
-  },
-  {
-   "en": ": And now she’s doing it.",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo quickly drops to the floor and begins to do push-ups.",
-   "zh": ""
-  },
-  {
-   "en": "She’s surprisingly quick too...",
-   "zh": ""
-  },
-  {
-   "en": "I wonder if she works out often?",
-   "zh": ""
-  },
-  {
-   "en": ": You need to watch what you say around her, Miku. I don’t think Tsuneyo is...all there just yet.",
-   "zh": ""
-  },
-  {
-   "en": ": She’s...really good at those...",
-   "zh": ""
-  },
-  {
-   "en": ": Well how the heck was I supposed to know? No one’s ever actually listened to me when I’ve said that before! Not even the girls on the team!",
-   "zh": ""
-  },
-  {
-   "en": ": From what she’s told me, she’s been pretty sheltered most of her life, so I’d imagine there are some other cues she’d miss out on as well.",
-   "zh": ""
-  },
-  {
-   "en": ": ...Twenty.",
-   "zh": ""
-  },
-  {
-   "en": ": The curse has been lifted.",
-   "zh": ""
-  },
-  {
-   "en": ": Curse?...",
-   "zh": ""
-  },
-  {
-   "en": ": The curse I placed on Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Molly taught her the F word.",
-   "zh": ""
-  },
-  {
-   "en": ": The F word? You mean...fuck?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Dear God...not again...",
-   "zh": ""
-  },
-  {
-   "en": ": What have I done?",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo drops to the floor and, once again, attempts to break the curse...",
-   "zh": ""
-  },
-  {
-   "en": ": One...two...three-",
-   "zh": ""
-  },
-  {
-   "en": ": Jeez. You weren’t wrong about that whole pickin’ up on cues thing.",
-   "zh": ""
-  },
-  {
-   "en": ": This one...is definitely my fault...",
-   "zh": ""
-  },
-  {
-   "en": "Today’s move-in operation ended on a significantly less successful note than the last one.",
-   "zh": ""
-  },
-  {
-   "en": "But even with that being said, it seemed like Tsuneyo and the others were able to get most of the work done before I even showed up.",
-   "zh": ""
-  },
-  {
-   "en": "And while I’m not exactly sure what became of the computer she dropped on the ground, I do know that pretty much everything else she owned made it into her room undamaged.",
-   "zh": ""
-  },
-  {
-   "en": "It’s a shame I haven’t gotten to see the inside of the dorm yet, but I imagine I’ll be able to soon enough...",
-   "zh": ""
-  },
-  {
-   "en": "I just need to spend a little more time with her and Molly.",
-   "zh": ""
-  },
-  {
-   "en": "Congratulations! Molly and Tsuneyo are officially part of the class!",
-   "zh": ""
-  },
-  {
-   "en": "Both of them can now be visited at night at either of their workplaces or their dorm room!",
-   "zh": ""
-  },
-  {
-   "en": "Spend enough time with them and eventually they’ll be cool with performing sex acts on you!",
-   "zh": ""
-  },
-  {
-   "en": "Praise be!",
-   "zh": ""
-  },
-  {
-   "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day154",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day154:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyomoves1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves1.webp",
+      "alt": "tsuneyomoves1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It’s day-two of helping my new students move into their dorms and, today, I’m accompanied by none other than Miku and Futaba.",
+      "zh": ""
+    },
+    {
+      "en": "And when I say “I’m accompanied,” it’s really closer to me accompanying them.",
+      "zh": ""
+    },
+    {
+      "en": "Tsuneyo didn’t actually invite me to help, I just heard about it in class and decided to show up unannounced.",
+      "zh": ""
+    },
+    {
+      "en": "But hey, virtually every visit I’ve had to the dorms has been unannounced so far. Might as well not do anything to break the streak.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey. What are you two up to?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves2.webp",
+      "alt": "tsuneyomoves2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, hey Sensei! I didn’t know you were comin’ today!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": Neither did I, to be honest. Just sort of happened.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Are you here to help Tsuneyo move as well?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": You know it. Anything I can do to help.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Does sitting around drinking water really constitute helping, though? It doesn’t seem like you’re doing much.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves3.webp",
+      "alt": "tsuneyomoves3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! Watch it! We did plenty of stuff before you got here!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": God forbid we take a second to drink some water. Jeez, kids these days!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": Please forgive her tone, Sensei...Miku’s actually worked really hard today.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": That’s heckin’ right, I have. And so has Futaba! We’ve carried like a bajillion different boxes and like, 90%% of ‘em have been clothes!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": I’ve...done my best. I can’t exactly carry as much as Miku.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves4.webp",
+      "alt": "tsuneyomoves4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah, but that’s probs just cause those big ole’ honkers keep gettin’ in the way.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": That’s not...entirely incorrect. I wish you’d be a little less abrasive, though.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves5.webp",
+      "alt": "tsuneyomoves5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! Translation request! The heck does ‘abrasive’ mean?",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": It means Futaba wants you to be a little less candid when you talk about her chest.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Oooooh. I see, I see.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": The heck does ‘candid’ mean?",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": It means that you shouldn’t make fun of Futaba’s boobs.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves6.webp",
+      "alt": "tsuneyomoves6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I ain’t makin’ fun of em! I’d kill for those puppies! I’m not even wearin’ a friggin bra right now.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": And I’d kill to be able to do that...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ahh, I’ve reached the point of my life where my students are no longer concerned with talking about their chests in front of me.",
+      "zh": ""
+    },
+    {
+      "en": "Hard work really does pay off.",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyomoves7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves7.webp",
+      "alt": "tsuneyomoves7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sorry, you two. But as much as I’d like to stay and talk about boobs with you, would you mind telling me where Tsuneyo is?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I feel like I’m obligated to at least try to help her tonight.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "That and I’d also like her to be a part of this conversation as well. I haven’t seen much of Tsuneyo, but I definitely think her body is rather...developed for her age.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hm? You blind, Sensei? She’s right behind ya.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": Wait, really?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I turn around and-",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves8.webp",
+      "alt": "tsuneyomoves8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Hi, Tsuneyo.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Ah-",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Do you need help with those boxes?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I’m fine.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": I have to carry much heavier things at the restaurant.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Yes, but I’m sure you can normally see when you carry those things.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That is a good point.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": So can I take a box then?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Sure.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves9.webp",
+      "alt": "tsuneyomoves9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo’s expressionless face pops into my vision as I take a box full of her clothes from the top of the stack.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hello.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Hey.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Come here often?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Are you hitting on me right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t think so.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Really? Because it sounds a lot like you’re hitting on me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t even know what that means.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": That aside, how are you feeling about the move? Have you gotten used to Molly yet?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves10.webp",
+      "alt": "tsuneyomoves10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo looks off to the side instead of answering my question.",
+      "zh": ""
+    },
+    {
+      "en": "I assume this means she-",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is that a bird?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": What?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves11.webp",
+      "alt": "tsuneyomoves11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is that thing really still there? I figured it would have left by now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves10.webp",
+      "alt": "tsuneyomoves10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": We should give it a name.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": You want to name a bird that’s probably going to fly away in a day or two?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You don’t?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": No, I kind of do as well.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Let’s name him Noodles.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": You need interests besides noodles, Tsuneyo.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves12.webp",
+      "alt": "tsuneyomoves12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Fuck you.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "WOAH.",
+      "zh": ""
+    },
+    {
+      "en": "Where the hell did that come from?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhh...did I do something to offend you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": The only thing that offends me is when someone only eats half of their dinner.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": You haven’t eaten dinner. You are fine.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Then why did you curse at me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves13.webp",
+      "alt": "tsuneyomoves13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Curse? What does that mean?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": You said “Fuck you” just now. The word “fuck” is a curse.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves14.webp",
+      "alt": "tsuneyomoves14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh no. What have I done?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo suddenly drops her boxes on the floor in front of her. A loud thud rings out and likely echoes throughout the first dorm floor.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Tsuneyo, your computer was in one of those boxes...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Are you going to die?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": What? Why would I die?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": The curse.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": ...It’s not that kind of curse.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves15.webp",
+      "alt": "tsuneyomoves15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So...you will live?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": I will very much live.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves16.webp",
+      "alt": "tsuneyomoves16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’ve been bestowed with too much power...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": I have absolutely no idea what you’re talking about.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves17.webp",
+      "alt": "tsuneyomoves17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That curse was taught to me by the Emerald Guardian.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Tsuneyo, it’s not that kind of curse.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Even if it is a weak curse, I shouldn’t have placed it on you.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": I am sorry. You may eat for free at my family’s shop whenever you like for the rest of your life.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": No, that’s fine. I’ll still pay.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": No.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Yes...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": No.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Tsuneyo.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves18.webp",
+      "alt": "tsuneyomoves18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah-",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Ay! The heck are you two doin’ over there? And why’d ramen-girl drop her computer on the ground?",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": You gotta be careful with loud noises like that! You never know who might freak out and get scared from ‘em.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves19.webp",
+      "alt": "tsuneyomoves19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I turn around to find an uncharacteristically angry looking Miku, though I imagine I know why.",
+      "zh": ""
+    },
+    {
+      "en": "The only time I’ve ever seen her lose her composure was after that ball hit the storage room that one time.",
+      "zh": ""
+    },
+    {
+      "en": "I guess I should be glad that she didn’t have another reaction like that now.",
+      "zh": ""
+    },
+    {
+      "en": "I was lucky enough that Karin was around last time. I have no idea how I’d be able to handle something like that alone.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves20.webp",
+      "alt": "tsuneyomoves20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m very sorry for the disturbance. I had no idea a computer could make that kind of noise.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It’s not like it’s supposed to...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m not mad at you. I’m mad at him.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Wait, me? What did I do?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t know her enough to get mad at her yet. I gotta take it out on somebody.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": Drop and give me twenty, mister.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": I am absolutely not going to do that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves21.webp",
+      "alt": "tsuneyomoves21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Fine! Futaba! Drop and give me twenty!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": What?! Twenty sounds like a lot...I don’t even know if I could do that many...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves22.webp",
+      "alt": "tsuneyomoves22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I will accept this punishment...It is the least I can do.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Hm? Hey, wait a sec Tsuneyo. You don’t have to-",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves23.webp",
+      "alt": "tsuneyomoves23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And now she’s doing it.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo quickly drops to the floor and begins to do push-ups.",
+      "zh": ""
+    },
+    {
+      "en": "She’s surprisingly quick too...",
+      "zh": ""
+    },
+    {
+      "en": "I wonder if she works out often?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You need to watch what you say around her, Miku. I don’t think Tsuneyo is...all there just yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": She’s...really good at those...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Well how the heck was I supposed to know? No one’s ever actually listened to me when I’ve said that before! Not even the girls on the team!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": From what she’s told me, she’s been pretty sheltered most of her life, so I’d imagine there are some other cues she’d miss out on as well.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...Twenty.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves24.webp",
+      "alt": "tsuneyomoves24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The curse has been lifted.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Curse?...",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": The curse I placed on Sensei.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Molly taught her the F word.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves25.webp",
+      "alt": "tsuneyomoves25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The F word? You mean...fuck?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves26.webp",
+      "alt": "tsuneyomoves26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Dear God...not again...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": What have I done?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyomoves27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyomoves27.webp",
+      "alt": "tsuneyomoves27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo drops to the floor and, once again, attempts to break the curse...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": One...two...three-",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": Jeez. You weren’t wrong about that whole pickin’ up on cues thing.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": This one...is definitely my fault...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Today’s move-in operation ended on a significantly less successful note than the last one.",
+      "zh": ""
+    },
+    {
+      "en": "But even with that being said, it seemed like Tsuneyo and the others were able to get most of the work done before I even showed up.",
+      "zh": ""
+    },
+    {
+      "en": "And while I’m not exactly sure what became of the computer she dropped on the ground, I do know that pretty much everything else she owned made it into her room undamaged.",
+      "zh": ""
+    },
+    {
+      "en": "It’s a shame I haven’t gotten to see the inside of the dorm yet, but I imagine I’ll be able to soon enough...",
+      "zh": ""
+    },
+    {
+      "en": "I just need to spend a little more time with her and Molly.",
+      "zh": ""
+    },
+    {
+      "en": "Congratulations! Molly and Tsuneyo are officially part of the class!",
+      "zh": ""
+    },
+    {
+      "en": "Both of them can now be visited at night at either of their workplaces or their dorm room!",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Spend enough time with them and eventually they’ll be cool with performing sex acts on you!",
+      "zh": ""
+    },
+    {
+      "en": "Praise be!",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ tsuneyo_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day154 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

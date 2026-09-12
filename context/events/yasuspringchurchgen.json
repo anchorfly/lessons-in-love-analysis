@@ -1,70 +1,133 @@
 {
- "label": "yasuspringchurchgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "There are living shadows beneath New Hope Cathedral.",
-   "zh": ""
-  },
-  {
-   "en": "It is said they walk with extra limbs, assisted by metal rods jutting out of their joints- with white lights at their tips that blink every nine seconds.",
-   "zh": ""
-  },
-  {
-   "en": "Like the spinning of this rock called Earth, they carry on in perpetuity- illuminating the basement where the rabbits die, but never long enough to bring them back to life.",
-   "zh": ""
-  },
-  {
-   "en": "I watch and listen as Yasu reads passages from her bible. And while all of them are vague and left up to the reader's interpretation, I am unable to interpret anything.",
-   "zh": ""
-  },
-  {
-   "en": "I watch the way her fingers move- those tiny, spiderlike appendages jutting out of her hand like metal rods in the knees of shadows, and I begin to feel aroused.",
-   "zh": ""
-  },
-  {
-   "en": "There is so much happening beneath our skin that I can't help but fall in love with the idea of swimming through her veins and chewing on her muscle mass.",
-   "zh": ""
-  },
-  {
-   "en": "There are living shadows beneath New Hope Cathedral.",
-   "zh": ""
-  },
-  {
-   "en": "Three of them visit me on my way to the basement.",
-   "zh": ""
-  },
-  {
-   "en": "They carry my body back up the stairs and tell me I'll be interrupting his sleep.",
-   "zh": ""
-  },
-  {
-   "en": "I ask them when he will wake up, and then they fade away.",
-   "zh": ""
-  },
-  {
-   "en": "There are living shadows beneath New Hope Cathedral.",
-   "zh": ""
-  },
-  {
-   "en": "Yasu Yasui has seen them.",
-   "zh": ""
-  },
-  {
-   "en": "Yasu’s affection has increased to [yasu_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "yasuspringchurchgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label yasuspringchurchgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene yasuspringchurchgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasuspringchurchgen.webp",
+      "alt": "yasuspringchurchgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "There are living shadows beneath New Hope Cathedral.",
+      "zh": ""
+    },
+    {
+      "en": "It is said they walk with extra limbs, assisted by metal rods jutting out of their joints- with white lights at their tips that blink every nine seconds.",
+      "zh": ""
+    },
+    {
+      "en": "Like the spinning of this rock called Earth, they carry on in perpetuity- illuminating the basement where the rabbits die, but never long enough to bring them back to life.",
+      "zh": ""
+    },
+    {
+      "en": "I watch and listen as Yasu reads passages from her bible. And while all of them are vague and left up to the reader's interpretation, I am unable to interpret anything.",
+      "zh": ""
+    },
+    {
+      "en": "I watch the way her fingers move- those tiny, spiderlike appendages jutting out of her hand like metal rods in the knees of shadows, and I begin to feel aroused.",
+      "zh": ""
+    },
+    {
+      "en": "There is so much happening beneath our skin that I can't help but fall in love with the idea of swimming through her veins and chewing on her muscle mass.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "There are living shadows beneath New Hope Cathedral.",
+      "zh": ""
+    },
+    {
+      "en": "Three of them visit me on my way to the basement.",
+      "zh": ""
+    },
+    {
+      "en": "They carry my body back up the stairs and tell me I'll be interrupting his sleep.",
+      "zh": ""
+    },
+    {
+      "en": "I ask them when he will wake up, and then they fade away.",
+      "zh": ""
+    },
+    {
+      "en": "There are living shadows beneath New Hope Cathedral.",
+      "zh": ""
+    },
+    {
+      "en": "Yasu Yasui has seen them.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yasu_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yasu’s affection has increased to [yasu_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

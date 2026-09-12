@@ -1,58 +1,121 @@
 {
- "label": "yumisummer2nightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Yumi, for reasons beyond my comprehension, answers my call and agrees to meet up with me in the old district for an hour or two.",
-   "zh": ""
-  },
-  {
-   "en": "Considering that I’ll be with her for about the same amount of time as my walk to actually get there, I don’t see it as a solid investment of time, but it’s not like I have anything else going on tonight.",
-   "zh": ""
-  },
-  {
-   "en": "Once I arrive, the two of us do laps around the neighborhood surrounding Chika’s house, being careful to not actually pass Chika’s house, as Yumi remains adamant about remaining hidden.",
-   "zh": ""
-  },
-  {
-   "en": "And even though I can’t imagine anything happening tonight, or that half of us even want anything to happen, it’s interesting to me just how important this temporary privacy is to her.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, I can only imagine how bad it would be for everyone involved if Chika were to find out her best friend was seeing her “boyfriend” behind her back, platonic or not.",
-   "zh": ""
-  },
-  {
-   "en": "And of course I know there’s likely a little more behind Yumi’s reasoning than this alone.",
-   "zh": ""
-  },
-  {
-   "en": "But I will push that reasoning aside for now, as in this moment, my greatest concern is the same as the one belonging to the girl I came here to see.",
-   "zh": ""
-  },
-  {
-   "en": "The one who does not yet rely on me.",
-   "zh": ""
-  },
-  {
-   "en": "The one who wants to.",
-   "zh": ""
-  },
-  {
-   "en": "Yumi’s affection has increased to [yumi_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "yumisummer2nightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label yumisummer2nightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene yumisummer2nightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yumisummer2nightgen.webp",
+      "alt": "yumisummer2nightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yumi, for reasons beyond my comprehension, answers my call and agrees to meet up with me in the old district for an hour or two.",
+      "zh": ""
+    },
+    {
+      "en": "Considering that I’ll be with her for about the same amount of time as my walk to actually get there, I don’t see it as a solid investment of time, but it’s not like I have anything else going on tonight.",
+      "zh": ""
+    },
+    {
+      "en": "Once I arrive, the two of us do laps around the neighborhood surrounding Chika’s house, being careful to not actually pass Chika’s house, as Yumi remains adamant about remaining hidden.",
+      "zh": ""
+    },
+    {
+      "en": "And even though I can’t imagine anything happening tonight, or that half of us even want anything to happen, it’s interesting to me just how important this temporary privacy is to her.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Of course, I can only imagine how bad it would be for everyone involved if Chika were to find out her best friend was seeing her “boyfriend” behind her back, platonic or not.",
+      "zh": ""
+    },
+    {
+      "en": "And of course I know there’s likely a little more behind Yumi’s reasoning than this alone.",
+      "zh": ""
+    },
+    {
+      "en": "But I will push that reasoning aside for now, as in this moment, my greatest concern is the same as the one belonging to the girl I came here to see.",
+      "zh": ""
+    },
+    {
+      "en": "The one who does not yet rely on me.",
+      "zh": ""
+    },
+    {
+      "en": "The one who wants to.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yumi_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yumi’s affection has increased to [yumi_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

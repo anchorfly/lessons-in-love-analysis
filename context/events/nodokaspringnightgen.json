@@ -1,70 +1,133 @@
 {
- "label": "nodokaspringnightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Nodoka and wind up getting roped into visiting a nearby night market with her.",
-   "zh": ""
-  },
-  {
-   "en": "Or at least she pretends it's nearby. In all actuality, I'm forced to join her on the subway as we travel twenty minutes away to an area I'm not familiar with.",
-   "zh": ""
-  },
-  {
-   "en": "Sometimes, it feels like this town is alive. Like it's growing. This is one of those times.",
-   "zh": ""
-  },
-  {
-   "en": "The market is heavily populated, and I keep feeling as if I'm being watched. Nodoka says I'm not, but I know she feels it too. I can tell by the way she smiles.",
-   "zh": ""
-  },
-  {
-   "en": "Thankfully, the paranoia is eventually numbed by the thought that she could pass as my daughter. Unthankfully, this leads to even darker thoughts.",
-   "zh": ""
-  },
-  {
-   "en": "I find myself wondering how my life would be if she took the place of Ami.",
-   "zh": ""
-  },
-  {
-   "en": "I wonder how different things would be if I was relentlessly and incestuously pursued by someone so much smarter and more intentionally sinister than I am.",
-   "zh": ""
-  },
-  {
-   "en": "For some reason, I'm inclined to believe I never would have started teaching at all. And I'm not just saying that because I'm demoralized by knowing I'd never be able to teach her.",
-   "zh": ""
-  },
-  {
-   "en": "I just mean that I feel like I'd be doing something else. And instead of my desires and dreams being supported, they'd have been fabricated instead.",
-   "zh": ""
-  },
-  {
-   "en": "I think that might be nice. And as Nodoka browses through a dusty selection of old novels, I think about fully surrendering myself to her.",
-   "zh": ""
-  },
-  {
-   "en": "It's a fleeting thought, though.",
-   "zh": ""
-  },
-  {
-   "en": "And it's replaced by an unwanted mix of fear and comfort the second she looks my way again.",
-   "zh": ""
-  },
-  {
-   "en": "Nodoka’s affection has increased to [nodoka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "nodokaspringnightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label nodokaspringnightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene nodokaspringnightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/nodokaspringnightgen.webp",
+      "alt": "nodokaspringnightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Nodoka and wind up getting roped into visiting a nearby night market with her.",
+      "zh": ""
+    },
+    {
+      "en": "Or at least she pretends it's nearby. In all actuality, I'm forced to join her on the subway as we travel twenty minutes away to an area I'm not familiar with.",
+      "zh": ""
+    },
+    {
+      "en": "Sometimes, it feels like this town is alive. Like it's growing. This is one of those times.",
+      "zh": ""
+    },
+    {
+      "en": "The market is heavily populated, and I keep feeling as if I'm being watched. Nodoka says I'm not, but I know she feels it too. I can tell by the way she smiles.",
+      "zh": ""
+    },
+    {
+      "en": "Thankfully, the paranoia is eventually numbed by the thought that she could pass as my daughter. Unthankfully, this leads to even darker thoughts.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I find myself wondering how my life would be if she took the place of Ami.",
+      "zh": ""
+    },
+    {
+      "en": "I wonder how different things would be if I was relentlessly and incestuously pursued by someone so much smarter and more intentionally sinister than I am.",
+      "zh": ""
+    },
+    {
+      "en": "For some reason, I'm inclined to believe I never would have started teaching at all. And I'm not just saying that because I'm demoralized by knowing I'd never be able to teach her.",
+      "zh": ""
+    },
+    {
+      "en": "I just mean that I feel like I'd be doing something else. And instead of my desires and dreams being supported, they'd have been fabricated instead.",
+      "zh": ""
+    },
+    {
+      "en": "I think that might be nice. And as Nodoka browses through a dusty selection of old novels, I think about fully surrendering myself to her.",
+      "zh": ""
+    },
+    {
+      "en": "It's a fleeting thought, though.",
+      "zh": ""
+    },
+    {
+      "en": "And it's replaced by an unwanted mix of fear and comfort the second she looks my way again.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ nodoka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Nodoka’s affection has increased to [nodoka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

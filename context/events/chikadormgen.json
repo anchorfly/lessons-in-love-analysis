@@ -1,42 +1,147 @@
 {
- "label": "chikadormgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Come in!",
-   "zh": ""
-  },
-  {
-   "en": "Chika and I spend our free time hanging out in her room.",
-   "zh": ""
-  },
-  {
-   "en": "It gets late pretty quickly and the two of us decide that it would be best if I head back before Yumi gets home.",
-   "zh": ""
-  },
-  {
-   "en": "I can't help but feel a bit upset that we didn't get to spend more time together...",
-   "zh": ""
-  },
-  {
-   "en": "Chika's affection has increased to [chika_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "chikadormgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikadormgen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ": Come in!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chikadormgen.webp",
+      "alt": "chikadormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika and I spend our free time hanging out in her room.",
+      "zh": ""
+    },
+    {
+      "en": "\"We watch a few TV shows and I listen to her ramble on about how she's tired of working at the mall and",
+      "zh": ""
+    },
+    {
+      "en": "wants to start a business or something.\"",
+      "zh": ""
+    },
+    {
+      "en": "\"But in order to start a business, you need money. And Chika seems to be using the money she earns on",
+      "zh": ""
+    },
+    {
+      "en": "something else.\"",
+      "zh": ""
+    },
+    {
+      "en": "It gets late pretty quickly and the two of us decide that it would be best if I head back before Yumi gets home.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I can't help but feel a bit upset that we didn't get to spend more time together...",
+      "zh": ""
+    },
+    {
+      "en": "Chika's affection has increased to [chika_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

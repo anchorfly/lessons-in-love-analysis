@@ -1,1506 +1,3542 @@
 {
- "label": "day79",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Ahh, Friday...the best true weekday of the-",
-   "zh": ""
-  },
-  {
-   "en": "Well...week.",
-   "zh": ""
-  },
-  {
-   "en": "With over 48 hours on the clock starting right now to do whatever I want, I begin to wonder exactly what the best use of my time would be.",
-   "zh": ""
-  },
-  {
-   "en": "But as I make my way down the street, slightly exhausted from another eventful day as a professional educator, I spot several familiar faces...",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, hey! What are you doing over here?",
-   "zh": ""
-  },
-  {
-   "en": ": I mean...I'm on my way back from school...which is what I assumed two out of three of you would also be up to. So why are you already dressed in your casual clothes?",
-   "zh": ""
-  },
-  {
-   "en": ": The last bell only rang like...half an hour ago.",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami doesn’t go to[school] so she can do whatever she wants!",
-   "zh": ""
-  },
-  {
-   "en": ": Good for you, Chinami.",
-   "zh": ""
-  },
-  {
-   "en": "I gaze at Chika, slightly confused by both the clothing situation as well as why she’s allowing her sister out in public given her whole immunodeficiency thing.",
-   "zh": ""
-  },
-  {
-   "en": ": Don't look at me like that, Sensei. I know what you're thinking.",
-   "zh": ""
-  },
-  {
-   "en": ": The reason I'm not still in my uniform is...I actually left a couple hours early so I'd have time to meet up with Yumi and Chinami.",
-   "zh": ""
-  },
-  {
-   "en": ": You were asleep when I left so you probably just...didn't notice.",
-   "zh": ""
-  },
-  {
-   "en": ": Do you guys have plans to go somewhere?",
-   "zh": ""
-  },
-  {
-   "en": ": That’s right. We have plans. So how about you do us a favor and-",
-   "zh": ""
-  },
-  {
-   "en": ": Hey! No being mean! Chinami doesn't want to be friends with mean people!",
-   "zh": ""
-  },
-  {
-   "en": ": What? I'm not being mean. I just-",
-   "zh": ""
-  },
-  {
-   "en": ": Leave big sis Chika’s boyfriend alone or he won’t come say hi to Chinami anymore!",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami...I told you he isn’t my boyfriend. He’s mine and Yumi’s teacher.",
-   "zh": ""
-  },
-  {
-   "en": ": Yumi goes to[school]? Chinami had no idea.",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami, for the last time, please start saying “I” instead of “Chinami.”",
-   "zh": ""
-  },
-  {
-   "en": ": But “I” isn’t Chinami’s name. “Chinami” is.",
-   "zh": ""
-  },
-  {
-   "en": ": Of course I go to friggin' school, Chinami...Just...not as much as everyone else.",
-   "zh": ""
-  },
-  {
-   "en": ": You’re, uhh...probably having a hard time following this, aren’t you?",
-   "zh": ""
-  },
-  {
-   "en": ": It's less that I'm having a hard time following and more that you three are just an...interesting group.",
-   "zh": ""
-  },
-  {
-   "en": ": It seems like even Yumi is trying her best to behave around Chinami. I haven’t heard her curse at me once so far.",
-   "zh": ""
-  },
-  {
-   "en": ": You’re lucky there’s a kid around. Even I ain't messed up enough to be a negative influence on someone like her.",
-   "zh": ""
-  },
-  {
-   "en": ": Yumi is Chinami’s second big sister! She visits all the time and brings me candy and other fun things!",
-   "zh": ""
-  },
-  {
-   "en": ": Is that so?...",
-   "zh": ""
-  },
-  {
-   "en": ": What? Why do you look so surprised?!",
-   "zh": ""
-  },
-  {
-   "en": ": To get back on track, the three of us made plans to go to the beach today.",
-   "zh": ""
-  },
-  {
-   "en": ": The beach? Isn’t it a little late for that? The sun's going to be setting any minute.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s exactly why we need to go now. If we went any earlier, there would be too many people and it wouldn’t be safe for Chinami.",
-   "zh": ""
-  },
-  {
-   "en": ": The beach will be dead in, like...thirty minutes. So this is really the only time we can go.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s right. So you should probably start heading back home to your-",
-   "zh": ""
-  },
-  {
-   "en": ": Come with us!",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami?",
-   "zh": ""
-  },
-  {
-   "en": ": Wait, hold on a second. He can’t come, he’s a-",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami wants to show him her new bathing suit!",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami...I’m sure Sensei is super busy and-",
-   "zh": ""
-  },
-  {
-   "en": ": I’ll come.",
-   "zh": ""
-  },
-  {
-   "en": ": Huh? Wait, really?",
-   "zh": ""
-  },
-  {
-   "en": ": Sure. I didn’t have much planned for the rest of the day anyway.",
-   "zh": ""
-  },
-  {
-   "en": "Plus, who would I be to deny the sight of two and a half adorable girls wearing swimsuits? This opportunity doesn't present itself every day.",
-   "zh": ""
-  },
-  {
-   "en": "I didn’t even realize Kumon-mi had a beach until a few minutes ago.",
-   "zh": ""
-  },
-  {
-   "en": "So not only am I going to be gifted with a rare and wonderful sight, I’m also going to find out more about the surrounding area.",
-   "zh": ""
-  },
-  {
-   "en": "This is basically a scientific research trip. And as the teacher for the majority of these girls, I’d be foolish not to go.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh hell no! Not a chance! No way am I going to wear a bathing suit in front of this creep!",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami will!",
-   "zh": ""
-  },
-  {
-   "en": ": Are you really sure, Sensei? I don't want you feeling like a chaperone or whatever.",
-   "zh": ""
-  },
-  {
-   "en": ": It's fine if it's for scientific research, right?",
-   "zh": ""
-  },
-  {
-   "en": ": Scientific research my ass! You just want to perv out on us!",
-   "zh": ""
-  },
-  {
-   "en": ": So what? You look hot as hell in your bathing suit, Yumi. What do you have to lose?",
-   "zh": ""
-  },
-  {
-   "en": ": Are you seriously okay with this guy having his eyes all over you?!",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, kind of.",
-   "zh": ""
-  },
-  {
-   "en": ": What?! The hell is going on with you lately?!",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei...if you're really sure you have the time, two of us would love to have you.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah. And the third one is currently thinking about whether or not she should swim out into the ocean to never be seen again...",
-   "zh": ""
-  },
-  {
-   "en": "The bus shows up several minutes later and, like Chika predicted, there’s barely anyone on it.",
-   "zh": ""
-  },
-  {
-   "en": "As it turns out, the beach is only about fifteen minutes away.",
-   "zh": ""
-  },
-  {
-   "en": "I have no idea how I didn’t know this until now, but that’s definitely interesting.",
-   "zh": ""
-  },
-  {
-   "en": "It seems that Kumon-mi has pretty much everything that anyone could ever want in it...",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": So, Sensei...Are you excited to see Yumi and me in our swimsuits? Is your heart pounding?",
-   "zh": ""
-  },
-  {
-   "en": ": You seem pretty eager to show yourself off, Chika. If I didn't know any better, I might think you're trying to seduce me right now.",
-   "zh": ""
-  },
-  {
-   "en": ": Seduce you? Me? Of course not. I just want to spend some quality time with my teacher, my best friend, and my sister. What's seductive about that?",
-   "zh": ""
-  },
-  {
-   "en": ": Nothing when you put it that way, no. But that smug grin and concern for my heart rate is telling another story.",
-   "zh": ""
-  },
-  {
-   "en": ": Uh...the two of us are gonna go get changed, so make sure Stalky McGee over there doesn’t follow us in.",
-   "zh": ""
-  },
-  {
-   "en": ": What kind of immature nickname is that?",
-   "zh": ""
-  },
-  {
-   "en": ": Does this mean big-sis will be Chika McGee once they get married?",
-   "zh": ""
-  },
-  {
-   "en": ": Please hurry up. I don't want to deal with this on my own.",
-   "zh": ""
-  },
-  {
-   "en": ": Sounds good, Yumi. I'll be right in.",
-   "zh": ""
-  },
-  {
-   "en": ": Sucks you didn’t have time to go home and grab your bathing suit. Was looking forward to seeing my teacher shirtless.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m sure there will be plenty more opportunities to see me shirtless. I wouldn’t worry too much.",
-   "zh": ""
-  },
-  {
-   "en": ": Heheh...oh yeah?",
-   "zh": ""
-  },
-  {
-   "en": ": Lucky for you, you’ll get your first opportunity to see me like that in just a few minutes.",
-   "zh": ""
-  },
-  {
-   "en": ": Hope I don't...disappoint...",
-   "zh": ""
-  },
-  {
-   "en": "And just like that, Chika disappears into the women’s restroom.",
-   "zh": ""
-  },
-  {
-   "en": "I can hear Chinami’s giggling bouncing off of the tiled walls and finding its way back onto the beach...as if gently reminding me that the act of following them here is much more perverse than it seems.",
-   "zh": ""
-  },
-  {
-   "en": "I move closer to the water and look out toward the horizon.",
-   "zh": ""
-  },
-  {
-   "en": "Sure, it's getting a little late in the day, but it’s still surprising seeing a beach empty- especially since there are still mats and chairs laid out.",
-   "zh": ""
-  },
-  {
-   "en": "I'm not sure what kind of person just...leaves all of their stuff lying around a place like this, but I guess it doesn't make any sort of difference to me.",
-   "zh": ""
-  },
-  {
-   "en": "I’m just here to hang out with cute girls and get some ‘research’ done.",
-   "zh": ""
-  },
-  {
-   "en": "I close my eyes and listen to the sounds of the girls' voices blend in with the wind and the water, hoping that they don't wind up taking too long in there...",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Hey~",
-   "zh": ""
-  },
-  {
-   "en": ": Did you miss me?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Jesus Christ.",
-   "zh": ""
-  },
-  {
-   "en": ": Wow.",
-   "zh": ""
-  },
-  {
-   "en": ": You like?",
-   "zh": ""
-  },
-  {
-   "en": ": We just started selling these at the mall and I kinda needed to buy one since my old swimsuit is way too small for me now. I look hot, right?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m kind of at a loss for words, to be honest. Well, at least words that wouldn't land me on some sort of list.",
-   "zh": ""
-  },
-  {
-   "en": ": I won't tell if you don't~",
-   "zh": ""
-  },
-  {
-   "en": ": I'm gonna go lay out and try to tan for a bit before all of the sun is gone, but feel free to come by and spend some more time with me if you like.",
-   "zh": ""
-  },
-  {
-   "en": "Chika suddenly walks off and begins to lay out a towel and, in case you were wondering, she looks equally as attractive from behind.",
-   "zh": ""
-  },
-  {
-   "en": "Another minute or so passes by before I hear the second set of footsteps closing in on me from behind.",
-   "zh": ""
-  },
-  {
-   "en": "They’re a bit more aggressive than the first ones- almost like someone is angrily kicking their way through the sand.",
-   "zh": ""
-  },
-  {
-   "en": "That in mind, I’m assuming these footsteps belong to...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Where did Chika go?",
-   "zh": ""
-  },
-  {
-   "en": ": Chika? Who's that again?",
-   "zh": ""
-  },
-  {
-   "en": ": Don’t play dumb with me, asshole. You know exactly who Chika is.",
-   "zh": ""
-  },
-  {
-   "en": ": Sorry. I was just so distracted by your beauty that I momentarily forgot anyone else in the world existed.",
-   "zh": ""
-  },
-  {
-   "en": ": You...fucking pervert!",
-   "zh": ""
-  },
-  {
-   "en": ": I specifically kept my shirt on so I wouldn’t have to listen to shit like that!",
-   "zh": ""
-  },
-  {
-   "en": ": Just tell me where the fuck Chika went! I need to know where she wants me to put her stupid fucking bag!",
-   "zh": ""
-  },
-  {
-   "en": ": Chika? Who’s that?",
-   "zh": ""
-  },
-  {
-   "en": ": FUCK IT! I’LL FIND HER MYSELF!",
-   "zh": ""
-  },
-  {
-   "en": "And just like that, Yumi vanishes as well...which only leaves one more girl...",
-   "zh": ""
-  },
-  {
-   "en": "I begin to trace lines in the sand with my shoe as I wait for Chinami to come out of the restroom.",
-   "zh": ""
-  },
-  {
-   "en": "I’m honestly a little surprised the other two let her stay in there by herself.",
-   "zh": ""
-  },
-  {
-   "en": "I mean, it’s not like she’s [young]enough to need constant supervision, but it still seems to me like Chika and Yumi are used to coddling her.",
-   "zh": ""
-  },
-  {
-   "en": "Oh well. I’ll just be the nice guy and wait for her to-",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami is here now!",
-   "zh": ""
-  },
-  {
-   "en": ": What? Where?",
-   "zh": ""
-  },
-  {
-   "en": ": Behind you!",
-   "zh": ""
-  },
-  {
-   "en": ": If Chinami was an assassin, you would be in big, big trouble right now!",
-   "zh": ""
-  },
-  {
-   "en": ": I don't know. I think I could take you.",
-   "zh": ""
-  },
-  {
-   "en": ": That's just what Chinami wants you to think.",
-   "zh": ""
-  },
-  {
-   "en": ": Now call her cute and tell her that her swimsuit is the best one here!",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami is cute.",
-   "zh": ""
-  },
-  {
-   "en": "But after seeing the last two swimsuits, I can not, in good faith, declare Chinami the winner of this battle.",
-   "zh": ""
-  },
-  {
-   "en": ": Yay!~",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami picked this one out for herself! Isn’t her taste super cool?",
-   "zh": ""
-  },
-  {
-   "en": ": You are definitely your sister's...sister.",
-   "zh": ""
-  },
-  {
-   "en": ": That is how sisters work, so yes!",
-   "zh": ""
-  },
-  {
-   "en": ": Big sis Chika says Chinami isn't big enough to wear a bikini yet, but I promise to show you once I am, okay?",
-   "zh": ""
-  },
-  {
-   "en": ": Sure, but...please don't rush. I think you're fine the way you are.",
-   "zh": ""
-  },
-  {
-   "en": "Just like the other two, Chinami wanders off and starts doing her own thing.",
-   "zh": ""
-  },
-  {
-   "en": "I can’t imagine being able to fairly split my time between all three of the girls since the sun is already beginning to set...",
-   "zh": ""
-  },
-  {
-   "en": "So I think I’m going to have to choose one and just focus on them, unfortunately...",
-   "zh": ""
-  },
-  {
-   "en": "I wonder who that should be though?...",
-   "zh": ""
-  },
-  {
-   "en": "Spend time with Chika",
-   "zh": ""
-  },
-  {
-   "en": "I slowly walk up to Chika from behind, trying my best to keep my presence unrecognized.",
-   "zh": ""
-  },
-  {
-   "en": "Part of me wants to just stare at her until she realizes I’m here but-",
-   "zh": ""
-  },
-  {
-   "en": "Actually, that’s exactly what I’m going to do.",
-   "zh": ""
-  },
-  {
-   "en": "She looks too good from this angle to not take advantage of the opportunity.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Enjoying the view?",
-   "zh": ""
-  },
-  {
-   "en": ": I'm not sure if I'm meant to assume that you're talking about the ocean or...something else.",
-   "zh": ""
-  },
-  {
-   "en": ": We both know you're not paying any attention to the ocean...",
-   "zh": ""
-  },
-  {
-   "en": "I step to the front of Chika and take a seat on her towel as well.",
-   "zh": ""
-  },
-  {
-   "en": ": It appears I have been caught red handed.",
-   "zh": ""
-  },
-  {
-   "en": ": Am I not cute enough from the front for you?",
-   "zh": ""
-  },
-  {
-   "en": ": Of course you are. I just don't get many opportunities to look at you from that other angle.",
-   "zh": ""
-  },
-  {
-   "en": ": Well forgive me for not creating more opportunities for you to stare at my ass.",
-   "zh": ""
-  },
-  {
-   "en": ": It's fine. Just do your best to create more in the future and everything will turn out okay.",
-   "zh": ""
-  },
-  {
-   "en": ": Aww, how sweet of you.",
-   "zh": ""
-  },
-  {
-   "en": ": I feel like you're supposed to be sarcastic right now, but that smile seems genuine so I can’t really tell if you are or not.",
-   "zh": ""
-  },
-  {
-   "en": ": I guess I'm being a little sarcastic...but I also understand that boys will be boys and that if there is an ass, you're probably going to stare at it.",
-   "zh": ""
-  },
-  {
-   "en": ": Right. And you know all about boys, don’t you?",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, well now you're just being rude.",
-   "zh": ""
-  },
-  {
-   "en": ": I might not be the most experienced when it comes to dating, but it’s not like I don’t understand boys or whatever.",
-   "zh": ""
-  },
-  {
-   "en": ": You’d be surprised at how many articles I’ve read on how to appeal to them and...you know. That sort of thing.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh yeah? Trying to capture someone’s heart?",
-   "zh": ""
-  },
-  {
-   "en": ": Maybe~",
-   "zh": ""
-  },
-  {
-   "en": ": But how about you, Sensei? I know we’ve talked about it before...but has anyone been catching your eye lately?",
-   "zh": ""
-  },
-  {
-   "en": ": Well...I chose you today, didn’t I?",
-   "zh": ""
-  },
-  {
-   "en": ": You did...but my competition was my little sister and a girl who constantly tells you she wants to rip your penis off.",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know if this is a victory I can take pride in.",
-   "zh": ""
-  },
-  {
-   "en": ": You should. In all honesty, I probably would have picked you before anyone else anyway.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh come on...you don't mean that.",
-   "zh": ""
-  },
-  {
-   "en": ": After seeing you from that...previous angle, I think it would be kind of hard to choose anyone else.",
-   "zh": ""
-  },
-  {
-   "en": ": At least not until I calm down.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Mm...",
-   "zh": ""
-  },
-  {
-   "en": "Uh-oh.",
-   "zh": ""
-  },
-  {
-   "en": ": I was hoping for a more romantic answer, you know.",
-   "zh": ""
-  },
-  {
-   "en": ": You’re lucky I let you stare that long in the first place, Sensei. And even more lucky that I haven't tossed our little lingerie modeling plan out of the window to punish you.",
-   "zh": ""
-  },
-  {
-   "en": ": Anything but that. It’s all I have left to look forward to in life.",
-   "zh": ""
-  },
-  {
-   "en": ": Aww, really? You poor thing.",
-   "zh": ""
-  },
-  {
-   "en": ": I guess you’re just going to have to be a good boy and remain patient, then. And keep hanging out with me, of course.",
-   "zh": ""
-  },
-  {
-   "en": ": Also if you wanted to buy me flowers or...do other romantic things, that would be cool too.",
-   "zh": ""
-  },
-  {
-   "en": ": And who knows? If you're lucky, maybe I’ll even give you a little something in return?",
-   "zh": ""
-  },
-  {
-   "en": ": Does that mean what I think it means?",
-   "zh": ""
-  },
-  {
-   "en": ": I wonder...",
-   "zh": ""
-  },
-  {
-   "en": "Chika and I bask in the sun for another thirty minutes or so before Yumi starts complaining about wanting to go home.",
-   "zh": ""
-  },
-  {
-   "en": "It seems like a bit of a waste to only come to the beach for around an hour, but I guess with the current Chinami situation, that’s really all we can do.",
-   "zh": ""
-  },
-  {
-   "en": "Besides, it’s not like it was a far drive.",
-   "zh": ""
-  },
-  {
-   "en": "And I got to spend some time with Chika because of it, so I’m not complaining at all.",
-   "zh": ""
-  },
-  {
-   "en": "In fact, all things considered, today was a pretty good day...",
-   "zh": ""
-  },
-  {
-   "en": "Chika’s affection has increased to [chika_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Spend time with Yumi",
-   "zh": ""
-  },
-  {
-   "en": "I manage to find Yumi slouched up against the wall of a nearby restroom after wandering around looking for her for several minutes.",
-   "zh": ""
-  },
-  {
-   "en": "The only thing is, she’s fallen asleep...which means that she may very well misunderstand the situation if she wakes up right now.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Mm...",
-   "zh": ""
-  },
-  {
-   "en": "Oh no. How could this have happened?",
-   "zh": ""
-  },
-  {
-   "en": ": ...Mm?",
-   "zh": ""
-  },
-  {
-   "en": ": Hey. Did you have a nice nap?",
-   "zh": ""
-  },
-  {
-   "en": ": W-W-W-W-What the fuck do you want?! And why are you just standing there like a creep?!",
-   "zh": ""
-  },
-  {
-   "en": ": You didn’t try to touch me while I was sleeping did you?! Because I swear to God I’ll fucking murder you!",
-   "zh": ""
-  },
-  {
-   "en": ": Calm down...I didn’t touch you. I just wanted to see what you were up to.",
-   "zh": ""
-  },
-  {
-   "en": ": Bullshit! Like you’d try and talk to me while Chika’s right over there!",
-   "zh": ""
-  },
-  {
-   "en": ": Nope...came straight for you. I’m actually surprised at how quickly you fell asleep.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, well...I don’t fuckin' like the heat.",
-   "zh": ""
-  },
-  {
-   "en": ": Then why don’t you take your shirt off?",
-   "zh": ""
-  },
-  {
-   "en": ": I don't know! Why don't you fucking kill yourself?!",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, come on. Am I really bad enough for you to wish death upon?",
-   "zh": ""
-  },
-  {
-   "en": ": Fuck yes you are!",
-   "zh": ""
-  },
-  {
-   "en": "I move to sit down next to Yumi and-",
-   "zh": ""
-  },
-  {
-   "en": ": Why do you suddenly think you're allowed to sit next to me?!",
-   "zh": ""
-  },
-  {
-   "en": "And that happens.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s a public beach, I can sit wherever I want.",
-   "zh": ""
-  },
-  {
-   "en": ": Bullshit! This is the only spot with any shade! I need to be here or I’ll fucking die!",
-   "zh": ""
-  },
-  {
-   "en": ": Then I guess you’ll just have to put up with me.",
-   "zh": ""
-  },
-  {
-   "en": ": You some kinda masochist or something? Do you get off on girls being mean to you?",
-   "zh": ""
-  },
-  {
-   "en": ": Maybe a little bit. Aren’t you the same, though?",
-   "zh": ""
-  },
-  {
-   "en": ": Huh? What? The fuck you talking about?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know if you’ve realized this, but you tend to blush a lot whenever the two of us are arguing.",
-   "zh": ""
-  },
-  {
-   "en": ": I...I do not!",
-   "zh": ""
-  },
-  {
-   "en": ": You’re doing it right now.",
-   "zh": ""
-  },
-  {
-   "en": ": The only reason I’m turning red is because being around you makes my blood boil!",
-   "zh": ""
-  },
-  {
-   "en": ": It makes me want to...I don't know! Fucking kill somebody!",
-   "zh": ""
-  },
-  {
-   "en": ": Really?",
-   "zh": ""
-  },
-  {
-   "en": ": Yes, really!",
-   "zh": ""
-  },
-  {
-   "en": ": Now, get the hell away from me before I actually do something about it!",
-   "zh": ""
-  },
-  {
-   "en": ": Hmm...",
-   "zh": ""
-  },
-  {
-   "en": "Ignoring her demand, I lean up against the wall Yumi is slouched against, bringing the two of us mere inches apart.",
-   "zh": ""
-  },
-  {
-   "en": "At least at first. Yumi instinctively slides away the second my back touches the wall.",
-   "zh": ""
-  },
-  {
-   "en": ": You look cute when you’re about to kill someone, have I ever told you that?",
-   "zh": ""
-  },
-  {
-   "en": ": What?! No! Who the fuck says something like that?!",
-   "zh": ""
-  },
-  {
-   "en": ": Do you not like being called cute or something?",
-   "zh": ""
-  },
-  {
-   "en": ": Not by you of all fucking people!",
-   "zh": ""
-  },
-  {
-   "en": ": So it would be fine if someone else called you cute?",
-   "zh": ""
-  },
-  {
-   "en": ": No! None of it would be fine! It’s just worse hearing it from someone constantly imagining me with my clothes off!",
-   "zh": ""
-  },
-  {
-   "en": ": I mean...I don't do it constantly...",
-   "zh": ""
-  },
-  {
-   "en": ": THIS IS EXACTLY WHY I DIDN’T WANT YOU FUCKING COMING HERE TODAY!",
-   "zh": ""
-  },
-  {
-   "en": ": I’M JUST GOING TO GO FUCKING DIE IN THE SUN! ANYTHING IS BETTER THAN THIS SHIT!",
-   "zh": ""
-  },
-  {
-   "en": ": Wait...stay a little longer.",
-   "zh": ""
-  },
-  {
-   "en": "I call out to Yumi as she’s pushing herself off the ground.",
-   "zh": ""
-  },
-  {
-   "en": "She stops moving, but I’m sure it’s more of a reflex than her actually wanting to stay.",
-   "zh": ""
-  },
-  {
-   "en": ": What?...And this better be good.",
-   "zh": ""
-  },
-  {
-   "en": ": Can I tell you one thing without you getting mad at me and calling me a pervert or an asshole or something?",
-   "zh": ""
-  },
-  {
-   "en": ": Probably not, but just fucking say it so I can leave.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, well-",
-   "zh": ""
-  },
-  {
-   "en": ": I really do think you're cute, Yumi. I'm not just lying to get your shirt off.",
-   "zh": ""
-  },
-  {
-   "en": ": FUCK YOU! I’M LEAVING FOR REAL THIS TIME!",
-   "zh": ""
-  },
-  {
-   "en": "Yumi springs off of the ground and angrily marches over to where Chika is sunbathing.",
-   "zh": ""
-  },
-  {
-   "en": "She complains about wanting to go home and, after a bit of prodding, manages to convince her.",
-   "zh": ""
-  },
-  {
-   "en": "It gets dark several minutes later, so Yumi’s desire to leave wasn’t completely unfounded.",
-   "zh": ""
-  },
-  {
-   "en": "But, despite her storming off on me and spending yet another 50%% of her dialogue on insults, I feel like the two of us managed to become slightly closer.",
-   "zh": ""
-  },
-  {
-   "en": "Yumi’s affection has increased to [yumi_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Spend time with Chinami",
-   "zh": ""
-  },
-  {
-   "en": "Not knowing how to choose between Yumi and Chika, I decide to play it neutral by spending time with Chinami.",
-   "zh": ""
-  },
-  {
-   "en": "Is this the appropriate thing for a man my age to be doing? Absolutely not. But it’s not like I have any ill intentions in doing so.",
-   "zh": ""
-  },
-  {
-   "en": "At least...not yet.",
-   "zh": ""
-  },
-  {
-   "en": "I like to tell myself that I haven't fallen far enough to consider something like that, but...",
-   "zh": ""
-  },
-  {
-   "en": "Sometimes, you don't realize how deep you've fallen until you start trying to climb your way back up.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey, Chinami. What are you up to?",
-   "zh": ""
-  },
-  {
-   "en": ": Playing in the sand!",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami doesn’t know how to swim, so she likes to just watch the water and look for seashells.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s...nice. Have you found any yet?",
-   "zh": ""
-  },
-  {
-   "en": ": Nope! I found three hermit crabs, though. Wanna know what I named them?",
-   "zh": ""
-  },
-  {
-   "en": ": Sure.",
-   "zh": ""
-  },
-  {
-   "en": ": Hermit Crab 1, Hermit Crab 2, and Hermit Crab 3.",
-   "zh": ""
-  },
-  {
-   "en": ": Were those really the most interesting names you could come up with?",
-   "zh": ""
-  },
-  {
-   "en": ": Are they not good?...",
-   "zh": ""
-  },
-  {
-   "en": ": Well, uhh...Actually, they’re fine. They’re...very creative.",
-   "zh": ""
-  },
-  {
-   "en": "I guess I probably shouldn't be pointing out the flaws in a child's minimalist approach to naming sea creatures.",
-   "zh": ""
-  },
-  {
-   "en": ": Umm...",
-   "zh": ""
-  },
-  {
-   "en": ": Can Chinami ask you a question?",
-   "zh": ""
-  },
-  {
-   "en": ": Hm? Sure. What’s up?",
-   "zh": ""
-  },
-  {
-   "en": ": Why are you spending time with Chinami instead of her big sisters?",
-   "zh": ""
-  },
-  {
-   "en": ": I don't know. I just...am.",
-   "zh": ""
-  },
-  {
-   "en": ": Does this mean you like little girls?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "I'm not sure what expression crosses my face when Chinami says that, but I'm almost certain it's not a good one.",
-   "zh": ""
-  },
-  {
-   "en": "I’m sure she doesn’t mean anything by it, but the wrong answer here could...have some pretty hefty repercussions if she tells anyone else about it.",
-   "zh": ""
-  },
-  {
-   "en": "As such, I quickly glance over to make sure Chika or Yumi aren’t listening in and getting the wrong idea.",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami...you shouldn’t say things like that.",
-   "zh": ""
-  },
-  {
-   "en": ": How come? Is liking little girls bad?",
-   "zh": ""
-  },
-  {
-   "en": ": In this context, probably.",
-   "zh": ""
-  },
-  {
-   "en": ": In fact, there are very few contexts in which that would not be bad.",
-   "zh": ""
-  },
-  {
-   "en": ": What is a context?",
-   "zh": ""
-  },
-  {
-   "en": ": Context is like...a particular situation. But yeah, don't ask people that anymore.",
-   "zh": ""
-  },
-  {
-   "en": ": Hmm...Chinami doesn't really get it. But you’re an adult, so Chinami has to listen to you.",
-   "zh": ""
-  },
-  {
-   "en": ": Exactly. Good girl, Chinami. Always listen to adults unless they tell you to do something weird.",
-   "zh": ""
-  },
-  {
-   "en": ": Big sis told me about people who try to lure girls like me into big, white vans and sell them on the black market. Is that what you're talking about right now?",
-   "zh": ""
-  },
-  {
-   "en": ": Did...Chika really tell you something like that?",
-   "zh": ""
-  },
-  {
-   "en": "Chinami shakes her head and continues digging her fingers into the sand.",
-   "zh": ""
-  },
-  {
-   "en": ": Big-sis Yumi did. She’s worried that somebody might take me someday, so she’s training me in self-defense and teaching me about all sorts of bad people.",
-   "zh": ""
-  },
-  {
-   "en": ": Has...she said anything about me?",
-   "zh": ""
-  },
-  {
-   "en": ": Mhm. That’s when she first told me the van thing.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": She said you might try to steal me away and be really mean to me, but you seem nice!",
-   "zh": ""
-  },
-  {
-   "en": ": So Chinami has decided it’s okay to get in your van!",
-   "zh": ""
-  },
-  {
-   "en": ": Uh...",
-   "zh": ""
-  },
-  {
-   "en": ": What's wrong? Did Chinami make a bad decision?",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, well...let me preface this by saying to please never get in anyone's van.",
-   "zh": ""
-  },
-  {
-   "en": ": Not even yours?",
-   "zh": ""
-  },
-  {
-   "en": ": Definitely not mine.",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t even own a van, Chinami. Nor do I think it would be safe for me to buy one given what you just told me.",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami is confused again. If you don’t want a van, you don’t have to get one.",
-   "zh": ""
-  },
-  {
-   "en": ": That's what the bus is for. And the bus is fun!",
-   "zh": ""
-  },
-  {
-   "en": ": The seats are really big and squishy and Chinami doesn’t need to wear a seatbelt.",
-   "zh": ""
-  },
-  {
-   "en": ": Chinami always needs to wear a seatbelt.",
-   "zh": ""
-  },
-  {
-   "en": ": She does?",
-   "zh": ""
-  },
-  {
-   "en": ": Absolutely. And make sure you tell Chika and Yumi about that so they know I’m not trying to corrupt you.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay! Chinami wants you and big sis to get married, so she’ll do whatever you tell her to do!",
-   "zh": ""
-  },
-  {
-   "en": ": Please stop saying things that can be so easily misunderstood...",
-   "zh": ""
-  },
-  {
-   "en": "Chinami and I talk for a little while longer before Chika stops sunbathing and comes to hang out with us.",
-   "zh": ""
-  },
-  {
-   "en": "Apparently, she felt bad that I had become a self-appointed babysitter all of a sudden...",
-   "zh": ""
-  },
-  {
-   "en": "And so the three of us built sandcastles until Yumi decided that she had had enough of the beach and wanted to go home for the day.",
-   "zh": ""
-  },
-  {
-   "en": "All in all, I had a surprisingly good time...even if a good portion of it was spent talking to a girl probably a third of my age...",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "qzɟlǝz dɹʞlʎ",
-   "zh": ""
-  },
-  {
-   "en": ": Uhhhhhhh..................",
-   "zh": ""
-  },
-  {
-   "en": "Girl appear before me. Don't know her.",
-   "zh": ""
-  },
-  {
-   "en": "Gotta ask question.",
-   "zh": ""
-  },
-  {
-   "en": ": ?????????????",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": So...",
-   "zh": ""
-  },
-  {
-   "en": ": Umm...",
-   "zh": ""
-  },
-  {
-   "en": ": Shit. What am I supposed to do about this?",
-   "zh": ""
-  },
-  {
-   "en": ": ????????????????????",
-   "zh": ""
-  },
-  {
-   "en": "Question gets more question mark because more confuse.",
-   "zh": ""
-  },
-  {
-   "en": ": You, uhhh...feeling okay there, buddy?",
-   "zh": ""
-  },
-  {
-   "en": ": Wanna take a seat? Maybe help yourself to a nice hot bowl of ramen?",
-   "zh": ""
-  },
-  {
-   "en": ": Getting some more carbs in your system might help give you the energy you need to get back to the real event or...or something.",
-   "zh": ""
-  },
-  {
-   "en": ": RRRRRRRRRRRRRRRRRRRAMENNNNNNNNNNNNNNNNNNNNN",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, yeah! Ramen!",
-   "zh": ""
-  },
-  {
-   "en": ": I've gotta say, you showing up here unannounced like this is, uhh...",
-   "zh": ""
-  },
-  {
-   "en": ": Well, let's just say I'm not sure if I'm supposed to be impressed or worried or terrified or...I don't know.",
-   "zh": ""
-  },
-  {
-   "en": ": Throw some other adjectives out there for me.",
-   "zh": ""
-  },
-  {
-   "en": ": Horny!",
-   "zh": ""
-  },
-  {
-   "en": "Say favorite adjective because good word and want sex girl.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, uhh...no thanks. Definitely not what I was looking for.",
-   "zh": ""
-  },
-  {
-   "en": ": But, uhh....oh! I know!",
-   "zh": ""
-  },
-  {
-   "en": ": This just means that we can get to know each other a little better!",
-   "zh": ""
-  },
-  {
-   "en": ": Or...wait. No it doesn't since you're probably not going to remember any of this anyway.",
-   "zh": ""
-  },
-  {
-   "en": ": And on top of that, I'm not even supposed to be here either...",
-   "zh": ""
-  },
-  {
-   "en": ": See, this is exactly why I've been pushing for a dedicated cafeteria for so long. This same thing happened to Shiori like, not even a month ago.",
-   "zh": ""
-  },
-  {
-   "en": ": GIVE RAYMOND NOODLES",
-   "zh": ""
-  },
-  {
-   "en": ": Ramen! Ramen noodles. Got it? Say it with me. Ra-",
-   "zh": ""
-  },
-  {
-   "en": ": RAYMOND NOODLE",
-   "zh": ""
-  },
-  {
-   "en": ": God I hate Fridays.",
-   "zh": ""
-  },
-  {
-   "en": "I start pound table anger because girl noodle want sex give",
-   "zh": ""
-  },
-  {
-   "en": "Where other girl",
-   "zh": ""
-  },
-  {
-   "en": "Was beach a minute ago and now not beach but still beach",
-   "zh": ""
-  },
-  {
-   "en": "Ughhhhh",
-   "zh": ""
-  },
-  {
-   "en": ": Okay...uhh...shit.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, so...I'm only supposed to do this when I really have to and I've got no idea if this constitutes one of those times or not...so...let's just hope it works, I guess?",
-   "zh": ""
-  },
-  {
-   "en": ": Can you...uhh...close your eyes for me? Just for a second.",
-   "zh": ""
-  },
-  {
-   "en": ": Good b- wait. Nope. Didn't mean to say that.",
-   "zh": ""
-  },
-  {
-   "en": ": Anyway! Uhh...spin around!",
-   "zh": ""
-  },
-  {
-   "en": ": Jump up and down!",
-   "zh": ""
-  },
-  {
-   "en": ": Shout the name of your favorite pizza topping!",
-   "zh": ""
-  },
-  {
-   "en": ": Pepperon-",
-   "zh": ""
-  },
-  {
-   "en": "I had a good day at the beach with Chika, Yumi, and Chinami.",
-   "zh": ""
-  },
-  {
-   "en": "Now, it is time for bed.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day79",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day79:",
+      "zh": ""
+    },
+    {
+      "en": "scene street_noon",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/street_noon.png",
+      "alt": "street_noon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ahh, Friday...the best true weekday of the-",
+      "zh": ""
+    },
+    {
+      "en": "Well...week.",
+      "zh": ""
+    },
+    {
+      "en": "With over 48 hours on the clock starting right now to do whatever I want, I begin to wonder exactly what the best use of my time would be.",
+      "zh": ""
+    },
+    {
+      "en": "But as I make my way down the street, slightly exhausted from another eventful day as a professional educator, I spot several familiar faces...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday1.webp",
+      "alt": "beachday1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, hey! What are you doing over here?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I mean...I'm on my way back from school...which is what I assumed two out of three of you would also be up to. So why are you already dressed in your casual clothes?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": The last bell only rang like...half an hour ago.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday2.webp",
+      "alt": "beachday2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami doesn’t go to[school] so she can do whatever she wants!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Good for you, Chinami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I gaze at Chika, slightly confused by both the clothing situation as well as why she’s allowing her sister out in public given her whole immunodeficiency thing.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Don't look at me like that, Sensei. I know what you're thinking.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday3.webp",
+      "alt": "beachday3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The reason I'm not still in my uniform is...I actually left a couple hours early so I'd have time to meet up with Yumi and Chinami.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You were asleep when I left so you probably just...didn't notice.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Do you guys have plans to go somewhere?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That’s right. We have plans. So how about you do us a favor and-",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday4.webp",
+      "alt": "beachday4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! No being mean! Chinami doesn't want to be friends with mean people!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": What? I'm not being mean. I just-",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Leave big sis Chika’s boyfriend alone or he won’t come say hi to Chinami anymore!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday5.webp",
+      "alt": "beachday5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami...I told you he isn’t my boyfriend. He’s mine and Yumi’s teacher.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Yumi goes to[school]? Chinami had no idea.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Chinami, for the last time, please start saying “I” instead of “Chinami.”",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": But “I” isn’t Chinami’s name. “Chinami” is.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Of course I go to friggin' school, Chinami...Just...not as much as everyone else.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday7.webp",
+      "alt": "beachday7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re, uhh...probably having a hard time following this, aren’t you?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": It's less that I'm having a hard time following and more that you three are just an...interesting group.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": It seems like even Yumi is trying her best to behave around Chinami. I haven’t heard her curse at me once so far.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday8.webp",
+      "alt": "beachday8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re lucky there’s a kid around. Even I ain't messed up enough to be a negative influence on someone like her.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Yumi is Chinami’s second big sister! She visits all the time and brings me candy and other fun things!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Is that so?...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": What? Why do you look so surprised?!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": To get back on track, the three of us made plans to go to the beach today.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": The beach? Isn’t it a little late for that? The sun's going to be setting any minute.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That’s exactly why we need to go now. If we went any earlier, there would be too many people and it wouldn’t be safe for Chinami.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": The beach will be dead in, like...thirty minutes. So this is really the only time we can go.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": That’s right. So you should probably start heading back home to your-",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday10.webp",
+      "alt": "beachday10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come with us!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Chinami?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Wait, hold on a second. He can’t come, he’s a-",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Chinami wants to show him her new bathing suit!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Chinami...I’m sure Sensei is super busy and-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’ll come.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday11.webp",
+      "alt": "beachday11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh? Wait, really?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Sure. I didn’t have much planned for the rest of the day anyway.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Plus, who would I be to deny the sight of two and a half adorable girls wearing swimsuits? This opportunity doesn't present itself every day.",
+      "zh": ""
+    },
+    {
+      "en": "I didn’t even realize Kumon-mi had a beach until a few minutes ago.",
+      "zh": ""
+    },
+    {
+      "en": "So not only am I going to be gifted with a rare and wonderful sight, I’m also going to find out more about the surrounding area.",
+      "zh": ""
+    },
+    {
+      "en": "This is basically a scientific research trip. And as the teacher for the majority of these girls, I’d be foolish not to go.",
+      "zh": ""
+    },
+    {
+      "en": ": Oh hell no! Not a chance! No way am I going to wear a bathing suit in front of this creep!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami will!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Are you really sure, Sensei? I don't want you feeling like a chaperone or whatever.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": It's fine if it's for scientific research, right?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Scientific research my ass! You just want to perv out on us!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday12.webp",
+      "alt": "beachday12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So what? You look hot as hell in your bathing suit, Yumi. What do you have to lose?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Are you seriously okay with this guy having his eyes all over you?!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah, kind of.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": What?! The hell is going on with you lately?!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday13.webp",
+      "alt": "beachday13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei...if you're really sure you have the time, two of us would love to have you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah. And the third one is currently thinking about whether or not she should swim out into the ocean to never be seen again...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The bus shows up several minutes later and, like Chika predicted, there’s barely anyone on it.",
+      "zh": ""
+    },
+    {
+      "en": "As it turns out, the beach is only about fifteen minutes away.",
+      "zh": ""
+    },
+    {
+      "en": "I have no idea how I didn’t know this until now, but that’s definitely interesting.",
+      "zh": ""
+    },
+    {
+      "en": "It seems that Kumon-mi has pretty much everything that anyone could ever want in it...",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday14.webp",
+      "alt": "beachday14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, Sensei...Are you excited to see Yumi and me in our swimsuits? Is your heart pounding?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You seem pretty eager to show yourself off, Chika. If I didn't know any better, I might think you're trying to seduce me right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Seduce you? Me? Of course not. I just want to spend some quality time with my teacher, my best friend, and my sister. What's seductive about that?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Nothing when you put it that way, no. But that smug grin and concern for my heart rate is telling another story.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": "scene beachday15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday15.webp",
+      "alt": "beachday15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uh...the two of us are gonna go get changed, so make sure Stalky McGee over there doesn’t follow us in.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": What kind of immature nickname is that?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Does this mean big-sis will be Chika McGee once they get married?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Please hurry up. I don't want to deal with this on my own.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Sounds good, Yumi. I'll be right in.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday16.webp",
+      "alt": "beachday16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sucks you didn’t have time to go home and grab your bathing suit. Was looking forward to seeing my teacher shirtless.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’m sure there will be plenty more opportunities to see me shirtless. I wouldn’t worry too much.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Heheh...oh yeah?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Lucky for you, you’ll get your first opportunity to see me like that in just a few minutes.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Hope I don't...disappoint...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday18.webp",
+      "alt": "beachday18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And just like that, Chika disappears into the women’s restroom.",
+      "zh": ""
+    },
+    {
+      "en": "I can hear Chinami’s giggling bouncing off of the tiled walls and finding its way back onto the beach...as if gently reminding me that the act of following them here is much more perverse than it seems.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday19.webp",
+      "alt": "beachday19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I move closer to the water and look out toward the horizon.",
+      "zh": ""
+    },
+    {
+      "en": "Sure, it's getting a little late in the day, but it’s still surprising seeing a beach empty- especially since there are still mats and chairs laid out.",
+      "zh": ""
+    },
+    {
+      "en": "I'm not sure what kind of person just...leaves all of their stuff lying around a place like this, but I guess it doesn't make any sort of difference to me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I’m just here to hang out with cute girls and get some ‘research’ done.",
+      "zh": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I close my eyes and listen to the sounds of the girls' voices blend in with the wind and the water, hoping that they don't wind up taking too long in there...",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday20.webp",
+      "alt": "beachday20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Did you miss me?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Jesus Christ.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wow.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You like?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday21.webp",
+      "alt": "beachday21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": We just started selling these at the mall and I kinda needed to buy one since my old swimsuit is way too small for me now. I look hot, right?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’m kind of at a loss for words, to be honest. Well, at least words that wouldn't land me on some sort of list.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I won't tell if you don't~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I'm gonna go lay out and try to tan for a bit before all of the sun is gone, but feel free to come by and spend some more time with me if you like.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday19.webp",
+      "alt": "beachday19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika suddenly walks off and begins to lay out a towel and, in case you were wondering, she looks equally as attractive from behind.",
+      "zh": ""
+    },
+    {
+      "en": "Another minute or so passes by before I hear the second set of footsteps closing in on me from behind.",
+      "zh": ""
+    },
+    {
+      "en": "They’re a bit more aggressive than the first ones- almost like someone is angrily kicking their way through the sand.",
+      "zh": ""
+    },
+    {
+      "en": "That in mind, I’m assuming these footsteps belong to...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday23.webp",
+      "alt": "beachday23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Where did Chika go?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Chika? Who's that again?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday24.webp",
+      "alt": "beachday24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Don’t play dumb with me, asshole. You know exactly who Chika is.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Sorry. I was just so distracted by your beauty that I momentarily forgot anyone else in the world existed.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday25.webp",
+      "alt": "beachday25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You...fucking pervert!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I specifically kept my shirt on so I wouldn’t have to listen to shit like that!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Just tell me where the fuck Chika went! I need to know where she wants me to put her stupid fucking bag!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Chika? Who’s that?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday26.webp",
+      "alt": "beachday26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": FUCK IT! I’LL FIND HER MYSELF!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday19.webp",
+      "alt": "beachday19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And just like that, Yumi vanishes as well...which only leaves one more girl...",
+      "zh": ""
+    },
+    {
+      "en": "I begin to trace lines in the sand with my shoe as I wait for Chinami to come out of the restroom.",
+      "zh": ""
+    },
+    {
+      "en": "I’m honestly a little surprised the other two let her stay in there by herself.",
+      "zh": ""
+    },
+    {
+      "en": "I mean, it’s not like she’s [young]enough to need constant supervision, but it still seems to me like Chika and Yumi are used to coddling her.",
+      "zh": ""
+    },
+    {
+      "en": "Oh well. I’ll just be the nice guy and wait for her to-",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami is here now!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": What? Where?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Behind you!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday28",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday28.webp",
+      "alt": "beachday28"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": If Chinami was an assassin, you would be in big, big trouble right now!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": I don't know. I think I could take you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That's just what Chinami wants you to think.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Now call her cute and tell her that her swimsuit is the best one here!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Chinami is cute.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But after seeing the last two swimsuits, I can not, in good faith, declare Chinami the winner of this battle.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday29",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday29.webp",
+      "alt": "beachday29"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yay!~",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Chinami picked this one out for herself! Isn’t her taste super cool?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": You are definitely your sister's...sister.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That is how sisters work, so yes!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday29r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday29r.webp",
+      "alt": "beachday29r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Big sis Chika says Chinami isn't big enough to wear a bikini yet, but I promise to show you once I am, okay?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Sure, but...please don't rush. I think you're fine the way you are.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene noonsky",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/noonsky.png",
+      "alt": "noonsky"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Just like the other two, Chinami wanders off and starts doing her own thing.",
+      "zh": ""
+    },
+    {
+      "en": "I can’t imagine being able to fairly split my time between all three of the girls since the sun is already beginning to set...",
+      "zh": ""
+    },
+    {
+      "en": "So I think I’m going to have to choose one and just focus on them, unfortunately...",
+      "zh": ""
+    },
+    {
+      "en": "I wonder who that should be though?...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Spend time with Chika",
+      "zh": ""
+    },
+    {
+      "en": "scene beachday30",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday30.webp",
+      "alt": "beachday30"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I slowly walk up to Chika from behind, trying my best to keep my presence unrecognized.",
+      "zh": ""
+    },
+    {
+      "en": "Part of me wants to just stare at her until she realizes I’m here but-",
+      "zh": ""
+    },
+    {
+      "en": "Actually, that’s exactly what I’m going to do.",
+      "zh": ""
+    },
+    {
+      "en": "She looks too good from this angle to not take advantage of the opportunity.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Enjoying the view?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I'm not sure if I'm meant to assume that you're talking about the ocean or...something else.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": We both know you're not paying any attention to the ocean...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday31.webp",
+      "alt": "beachday31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I step to the front of Chika and take a seat on her towel as well.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It appears I have been caught red handed.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Am I not cute enough from the front for you?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Of course you are. I just don't get many opportunities to look at you from that other angle.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday32.webp",
+      "alt": "beachday32"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well forgive me for not creating more opportunities for you to stare at my ass.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": It's fine. Just do your best to create more in the future and everything will turn out okay.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday33",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday33.webp",
+      "alt": "beachday33"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Aww, how sweet of you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I feel like you're supposed to be sarcastic right now, but that smile seems genuine so I can’t really tell if you are or not.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I guess I'm being a little sarcastic...but I also understand that boys will be boys and that if there is an ass, you're probably going to stare at it.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Right. And you know all about boys, don’t you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday31.webp",
+      "alt": "beachday31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, well now you're just being rude.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I might not be the most experienced when it comes to dating, but it’s not like I don’t understand boys or whatever.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You’d be surprised at how many articles I’ve read on how to appeal to them and...you know. That sort of thing.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Oh yeah? Trying to capture someone’s heart?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday34",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday34.webp",
+      "alt": "beachday34"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Maybe~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": But how about you, Sensei? I know we’ve talked about it before...but has anyone been catching your eye lately?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Well...I chose you today, didn’t I?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday31.webp",
+      "alt": "beachday31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You did...but my competition was my little sister and a girl who constantly tells you she wants to rip your penis off.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t know if this is a victory I can take pride in.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You should. In all honesty, I probably would have picked you before anyone else anyway.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday35",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday35.webp",
+      "alt": "beachday35"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh come on...you don't mean that.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": After seeing you from that...previous angle, I think it would be kind of hard to choose anyone else.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": At least not until I calm down.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday36",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday36.webp",
+      "alt": "beachday36"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uh-oh.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I was hoping for a more romantic answer, you know.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You’re lucky I let you stare that long in the first place, Sensei. And even more lucky that I haven't tossed our little lingerie modeling plan out of the window to punish you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Anything but that. It’s all I have left to look forward to in life.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday32.webp",
+      "alt": "beachday32"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Aww, really? You poor thing.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I guess you’re just going to have to be a good boy and remain patient, then. And keep hanging out with me, of course.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Also if you wanted to buy me flowers or...do other romantic things, that would be cool too.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": And who knows? If you're lucky, maybe I’ll even give you a little something in return?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Does that mean what I think it means?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I wonder...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika and I bask in the sun for another thirty minutes or so before Yumi starts complaining about wanting to go home.",
+      "zh": ""
+    },
+    {
+      "en": "It seems like a bit of a waste to only come to the beach for around an hour, but I guess with the current Chinami situation, that’s really all we can do.",
+      "zh": ""
+    },
+    {
+      "en": "Besides, it’s not like it was a far drive.",
+      "zh": ""
+    },
+    {
+      "en": "And I got to spend some time with Chika because of it, so I’m not complaining at all.",
+      "zh": ""
+    },
+    {
+      "en": "In fact, all things considered, today was a pretty good day...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day79 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika’s affection has increased to [chika_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Spend time with Yumi",
+      "zh": ""
+    },
+    {
+      "en": "scene beachday37",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday37.webp",
+      "alt": "beachday37"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I manage to find Yumi slouched up against the wall of a nearby restroom after wandering around looking for her for several minutes.",
+      "zh": ""
+    },
+    {
+      "en": "The only thing is, she’s fallen asleep...which means that she may very well misunderstand the situation if she wakes up right now.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday38",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday38.webp",
+      "alt": "beachday38"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Oh no. How could this have happened?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday39",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday39.webp",
+      "alt": "beachday39"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...Mm?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Hey. Did you have a nice nap?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday40",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday40.webp",
+      "alt": "beachday40"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": W-W-W-W-What the fuck do you want?! And why are you just standing there like a creep?!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": You didn’t try to touch me while I was sleeping did you?! Because I swear to God I’ll fucking murder you!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Calm down...I didn’t touch you. I just wanted to see what you were up to.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Bullshit! Like you’d try and talk to me while Chika’s right over there!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Nope...came straight for you. I’m actually surprised at how quickly you fell asleep.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday41",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday41.webp",
+      "alt": "beachday41"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah, well...I don’t fuckin' like the heat.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Then why don’t you take your shirt off?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday40",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday40.webp",
+      "alt": "beachday40"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don't know! Why don't you fucking kill yourself?!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Oh, come on. Am I really bad enough for you to wish death upon?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Fuck yes you are!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I move to sit down next to Yumi and-",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday42",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday42.webp",
+      "alt": "beachday42"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why do you suddenly think you're allowed to sit next to me?!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And that happens.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It’s a public beach, I can sit wherever I want.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Bullshit! This is the only spot with any shade! I need to be here or I’ll fucking die!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Then I guess you’ll just have to put up with me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday43",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday43.webp",
+      "alt": "beachday43"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You some kinda masochist or something? Do you get off on girls being mean to you?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Maybe a little bit. Aren’t you the same, though?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday44",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday44.webp",
+      "alt": "beachday44"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh? What? The fuck you talking about?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t know if you’ve realized this, but you tend to blush a lot whenever the two of us are arguing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday45",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday45.webp",
+      "alt": "beachday45"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I...I do not!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": You’re doing it right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": The only reason I’m turning red is because being around you makes my blood boil!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": It makes me want to...I don't know! Fucking kill somebody!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Really?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yes, really!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Now, get the hell away from me before I actually do something about it!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ignoring her demand, I lean up against the wall Yumi is slouched against, bringing the two of us mere inches apart.",
+      "zh": ""
+    },
+    {
+      "en": "At least at first. Yumi instinctively slides away the second my back touches the wall.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You look cute when you’re about to kill someone, have I ever told you that?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": What?! No! Who the fuck says something like that?!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Do you not like being called cute or something?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Not by you of all fucking people!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": So it would be fine if someone else called you cute?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No! None of it would be fine! It’s just worse hearing it from someone constantly imagining me with my clothes off!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I mean...I don't do it constantly...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": "scene beachday46",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday46.webp",
+      "alt": "beachday46"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": THIS IS EXACTLY WHY I DIDN’T WANT YOU FUCKING COMING HERE TODAY!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I’M JUST GOING TO GO FUCKING DIE IN THE SUN! ANYTHING IS BETTER THAN THIS SHIT!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Wait...stay a little longer.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call out to Yumi as she’s pushing herself off the ground.",
+      "zh": ""
+    },
+    {
+      "en": "She stops moving, but I’m sure it’s more of a reflex than her actually wanting to stay.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday47",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday47.webp",
+      "alt": "beachday47"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What?...And this better be good.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Can I tell you one thing without you getting mad at me and calling me a pervert or an asshole or something?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Probably not, but just fucking say it so I can leave.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Okay, well-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I really do think you're cute, Yumi. I'm not just lying to get your shirt off.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday46",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday46.webp",
+      "alt": "beachday46"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": FUCK YOU! I’M LEAVING FOR REAL THIS TIME!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yumi springs off of the ground and angrily marches over to where Chika is sunbathing.",
+      "zh": ""
+    },
+    {
+      "en": "She complains about wanting to go home and, after a bit of prodding, manages to convince her.",
+      "zh": ""
+    },
+    {
+      "en": "It gets dark several minutes later, so Yumi’s desire to leave wasn’t completely unfounded.",
+      "zh": ""
+    },
+    {
+      "en": "But, despite her storming off on me and spending yet another 50%% of her dialogue on insults, I feel like the two of us managed to become slightly closer.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day79 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ yumi_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yumi’s affection has increased to [yumi_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Spend time with Chinami",
+      "zh": ""
+    },
+    {
+      "en": "scene beachday49",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday49.webp",
+      "alt": "beachday49"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Not knowing how to choose between Yumi and Chika, I decide to play it neutral by spending time with Chinami.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Is this the appropriate thing for a man my age to be doing? Absolutely not. But it’s not like I have any ill intentions in doing so.",
+      "zh": ""
+    },
+    {
+      "en": "At least...not yet.",
+      "zh": ""
+    },
+    {
+      "en": "I like to tell myself that I haven't fallen far enough to consider something like that, but...",
+      "zh": ""
+    },
+    {
+      "en": "Sometimes, you don't realize how deep you've fallen until you start trying to climb your way back up.",
+      "zh": ""
+    },
+    {
+      "en": ": Hey, Chinami. What are you up to?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Playing in the sand!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Chinami doesn’t know how to swim, so she likes to just watch the water and look for seashells.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": That’s...nice. Have you found any yet?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Nope! I found three hermit crabs, though. Wanna know what I named them?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Sure.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hermit Crab 1, Hermit Crab 2, and Hermit Crab 3.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Were those really the most interesting names you could come up with?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday50",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday50.webp",
+      "alt": "beachday50"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are they not good?...",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Well, uhh...Actually, they’re fine. They’re...very creative.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I guess I probably shouldn't be pointing out the flaws in a child's minimalist approach to naming sea creatures.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday51",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday51.webp",
+      "alt": "beachday51"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Umm...",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Can Chinami ask you a question?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Hm? Sure. What’s up?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Why are you spending time with Chinami instead of her big sisters?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": I don't know. I just...am.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Does this mean you like little girls?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I'm not sure what expression crosses my face when Chinami says that, but I'm almost certain it's not a good one.",
+      "zh": ""
+    },
+    {
+      "en": "I’m sure she doesn’t mean anything by it, but the wrong answer here could...have some pretty hefty repercussions if she tells anyone else about it.",
+      "zh": ""
+    },
+    {
+      "en": "As such, I quickly glance over to make sure Chika or Yumi aren’t listening in and getting the wrong idea.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami...you shouldn’t say things like that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday52",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday52.webp",
+      "alt": "beachday52"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How come? Is liking little girls bad?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": In this context, probably.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": In fact, there are very few contexts in which that would not be bad.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": What is a context?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Context is like...a particular situation. But yeah, don't ask people that anymore.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday53",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday53.webp",
+      "alt": "beachday53"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmm...Chinami doesn't really get it. But you’re an adult, so Chinami has to listen to you.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Exactly. Good girl, Chinami. Always listen to adults unless they tell you to do something weird.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Big sis told me about people who try to lure girls like me into big, white vans and sell them on the black market. Is that what you're talking about right now?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Did...Chika really tell you something like that?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami shakes her head and continues digging her fingers into the sand.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday52",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday52.webp",
+      "alt": "beachday52"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Big-sis Yumi did. She’s worried that somebody might take me someday, so she’s training me in self-defense and teaching me about all sorts of bad people.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Has...she said anything about me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Mhm. That’s when she first told me the van thing.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": She said you might try to steal me away and be really mean to me, but you seem nice!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday49",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday49.webp",
+      "alt": "beachday49"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So Chinami has decided it’s okay to get in your van!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Uh...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": What's wrong? Did Chinami make a bad decision?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Okay, well...let me preface this by saying to please never get in anyone's van.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Not even yours?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Definitely not mine.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t even own a van, Chinami. Nor do I think it would be safe for me to buy one given what you just told me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday53",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday53.webp",
+      "alt": "beachday53"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami is confused again. If you don’t want a van, you don’t have to get one.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": That's what the bus is for. And the bus is fun!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday49",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday49.webp",
+      "alt": "beachday49"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The seats are really big and squishy and Chinami doesn’t need to wear a seatbelt.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Chinami always needs to wear a seatbelt.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": She does?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Absolutely. And make sure you tell Chika and Yumi about that so they know I’m not trying to corrupt you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Okay! Chinami wants you and big sis to get married, so she’ll do whatever you tell her to do!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ""
+    },
+    {
+      "en": ": Please stop saying things that can be so easily misunderstood...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami and I talk for a little while longer before Chika stops sunbathing and comes to hang out with us.",
+      "zh": ""
+    },
+    {
+      "en": "Apparently, she felt bad that I had become a self-appointed babysitter all of a sudden...",
+      "zh": ""
+    },
+    {
+      "en": "And so the three of us built sandcastles until Yumi decided that she had had enough of the beach and wanted to go home for the day.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "All in all, I had a surprisingly good time...even if a good portion of it was spent talking to a girl probably a third of my age...",
+      "zh": ""
+    },
+    {
+      "en": "$ day79 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "qzɟlǝz dɹʞlʎ",
+      "zh": ""
+    },
+    {
+      "en": "scene beachday31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday31.webp",
+      "alt": "beachday31"
+    },
+    {
+      "en": "scene newroom15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newroom15.webp",
+      "alt": "newroom15"
+    },
+    {
+      "en": "scene connect",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/connect.png",
+      "alt": "connect"
+    },
+    {
+      "en": "scene beachday45",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday45.webp",
+      "alt": "beachday45"
+    },
+    {
+      "en": "scene newroom15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newroom15.webp",
+      "alt": "newroom15"
+    },
+    {
+      "en": "scene connect",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/connect.png",
+      "alt": "connect"
+    },
+    {
+      "en": "scene beachday49",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday49.webp",
+      "alt": "beachday49"
+    },
+    {
+      "en": "scene newroom15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newroom15.webp",
+      "alt": "newroom15"
+    },
+    {
+      "en": "scene connect",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/connect.png",
+      "alt": "connect"
+    },
+    {
+      "en": "scene xbeachdayx1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx1.webp",
+      "alt": "xbeachdayx1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhhhhhhh..................",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Girl appear before me. Don't know her.",
+      "zh": ""
+    },
+    {
+      "en": "Gotta ask question.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ?????????????",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": So...",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Umm...",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene xbeachdayx2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx2.webp",
+      "alt": "xbeachdayx2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Shit. What am I supposed to do about this?",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": ????????????????????",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Question gets more question mark because more confuse.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene xbeachdayx3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx3.webp",
+      "alt": "xbeachdayx3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You, uhhh...feeling okay there, buddy?",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Wanna take a seat? Maybe help yourself to a nice hot bowl of ramen?",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Getting some more carbs in your system might help give you the energy you need to get back to the real event or...or something.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": RRRRRRRRRRRRRRRRRRRAMENNNNNNNNNNNNNNNNNNNNN",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah, yeah! Ramen!",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": I've gotta say, you showing up here unannounced like this is, uhh...",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Well, let's just say I'm not sure if I'm supposed to be impressed or worried or terrified or...I don't know.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Throw some other adjectives out there for me.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Horny!",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Say favorite adjective because good word and want sex girl.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene xbeachdayx4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx4.webp",
+      "alt": "xbeachdayx4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah, uhh...no thanks. Definitely not what I was looking for.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene xbeachdayx5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx5.webp",
+      "alt": "xbeachdayx5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But, uhh....oh! I know!",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": This just means that we can get to know each other a little better!",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene xbeachdayx2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx2.webp",
+      "alt": "xbeachdayx2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Or...wait. No it doesn't since you're probably not going to remember any of this anyway.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": And on top of that, I'm not even supposed to be here either...",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": See, this is exactly why I've been pushing for a dedicated cafeteria for so long. This same thing happened to Shiori like, not even a month ago.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": GIVE RAYMOND NOODLES",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene xbeachdayx5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx5.webp",
+      "alt": "xbeachdayx5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ramen! Ramen noodles. Got it? Say it with me. Ra-",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": RAYMOND NOODLE",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene xbeachdayx6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx6.webp",
+      "alt": "xbeachdayx6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": God I hate Fridays.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I start pound table anger because girl noodle want sex give",
+      "zh": ""
+    },
+    {
+      "en": "Where other girl",
+      "zh": ""
+    },
+    {
+      "en": "Was beach a minute ago and now not beach but still beach",
+      "zh": ""
+    },
+    {
+      "en": "Ughhhhh",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene xbeachdayx7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/xbeachdayx7.webp",
+      "alt": "xbeachdayx7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay...uhh...shit.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah, so...I'm only supposed to do this when I really have to and I've got no idea if this constitutes one of those times or not...so...let's just hope it works, I guess?",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Can you...uhh...close your eyes for me? Just for a second.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Good b- wait. Nope. Didn't mean to say that.",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Anyway! Uhh...spin around!",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Jump up and down!",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Shout the name of your favorite pizza topping!",
+      "spk": "???",
+      "spkColor": "#e6e6e6",
+      "zh": ""
+    },
+    {
+      "en": ": Pepperon-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachday31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday31.webp",
+      "alt": "beachday31"
+    },
+    {
+      "en": "scene newroom15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newroom15.webp",
+      "alt": "newroom15"
+    },
+    {
+      "en": "scene connect",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/connect.png",
+      "alt": "connect"
+    },
+    {
+      "en": "scene beachday45",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday45.webp",
+      "alt": "beachday45"
+    },
+    {
+      "en": "scene newroom15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newroom15.webp",
+      "alt": "newroom15"
+    },
+    {
+      "en": "scene connect",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/connect.png",
+      "alt": "connect"
+    },
+    {
+      "en": "scene beachday49",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachday49.webp",
+      "alt": "beachday49"
+    },
+    {
+      "en": "scene newroom15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newroom15.webp",
+      "alt": "newroom15"
+    },
+    {
+      "en": "scene connect",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/connect.png",
+      "alt": "connect"
+    },
+    {
+      "en": "scene bedroom_night",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/bedroom_night.png",
+      "alt": "bedroom_night"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I had a good day at the beach with Chika, Yumi, and Chinami.",
+      "zh": ""
+    },
+    {
+      "en": "Now, it is time for bed.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day79 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump advancetosat",
+      "zh": ""
+    }
+  ]
 }

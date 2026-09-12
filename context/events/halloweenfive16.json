@@ -1,102 +1,200 @@
 {
- "label": "halloweenfive16",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Gosh darn it. Where am I this time?",
-   "zh": ""
-  },
-  {
-   "en": "Greetings, Akira Arakawa. And welcome to the Oceanic Branch Office Waiting Room. It is here where you will await your appointment.",
-   "zh": ""
-  },
-  {
-   "en": ": What appointment? I don’t remember making an appointment. The last thing I remember is NOTHING AT ALL.",
-   "zh": ""
-  },
-  {
-   "en": ": Woah, weird. I’m pretty sure I just went through something seriously traumatic. And now it’s already gone?",
-   "zh": ""
-  },
-  {
-   "en": "It isn’t uncommon for UNVALUABLE MEMORIES to be cleansed from our members and prospective members upon arrival at the waiting room.",
-   "zh": ""
-  },
-  {
-   "en": "It’s important to keep our facilities clean and free of viruses so that all of our guests have a relaxing time waiting for their recoordination.",
-   "zh": ""
-  },
-  {
-   "en": "And thanks to new technology from the Shiawase Group, we were able to spray away your impurities without any resistance at all.",
-   "zh": ""
-  },
-  {
-   "en": "Don’t worry, though! Your unpleasant memories should come right back the moment your appointment concludes.",
-   "zh": ""
-  },
-  {
-   "en": ": No, it’s okay. You can keep them.",
-   "zh": ""
-  },
-  {
-   "en": "Unfortunately, we are unable to fit any additional dark-matter into our Box of Unpleasant Memories.",
-   "zh": ""
-  },
-  {
-   "en": ": Ugh. Fine. So what am I supposed to do then? Gather keys? Defeat enemies? Fill out magazine sweepstakes?",
-   "zh": ""
-  },
-  {
-   "en": "This is a waiting room. You are supposed to wait.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s it?",
-   "zh": ""
-  },
-  {
-   "en": "That’s it! Then, once your number is called, you’ll report to Robbie Receptionson to confirm your identity.",
-   "zh": ""
-  },
-  {
-   "en": "As soon as the check-in process is complete, you will be taken to your coordinator’s office and begin the interview process.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay. What’s my number?",
-   "zh": ""
-  },
-  {
-   "en": "Please feel free to speak to any of the other guests or help yourself to some refreshments if you find yourself with an excess amount of time.",
-   "zh": ""
-  },
-  {
-   "en": ": Sure. But what’s my number?",
-   "zh": ""
-  },
-  {
-   "en": "Additionally, the waiting room is currently doubling as a YMCA. Membership is not included in your recoordination appointment. Using the pool without a YMCA membership is prohibited.",
-   "zh": ""
-  },
-  {
-   "en": ": Please just tell me my number.",
-   "zh": ""
-  },
-  {
-   "en": "Good luck, Akira Arakawa! May your wait be as pleasant as it is dry.",
-   "zh": ""
-  },
-  {
-   "en": ": Ugh. These silly bureaucratic facilities never function properly. How am I supposed to wait for my number to be called if I don’t even know what my number is?",
-   "zh": ""
-  },
-  {
-   "en": ": Oh well...I guess I’ll just have to hope they call out my name as well. But in the meantime, I suppose I should get acquainted with everyone.",
-   "zh": ""
-  },
-  {
-   "en": ": It sounds like I might be here for a while.",
-   "zh": ""
-  }
- ]
+  "label": "halloweenfive16",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label halloweenfive16:",
+      "zh": ""
+    },
+    {
+      "en": "scene poolparty1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/poolparty1.webp",
+      "alt": "poolparty1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Gosh darn it. Where am I this time?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Greetings, Akira Arakawa. And welcome to the Oceanic Branch Office Waiting Room. It is here where you will await your appointment.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What appointment? I don’t remember making an appointment. The last thing I remember is NOTHING AT ALL.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Woah, weird. I’m pretty sure I just went through something seriously traumatic. And now it’s already gone?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It isn’t uncommon for UNVALUABLE MEMORIES to be cleansed from our members and prospective members upon arrival at the waiting room.",
+      "zh": ""
+    },
+    {
+      "en": "It’s important to keep our facilities clean and free of viruses so that all of our guests have a relaxing time waiting for their recoordination.",
+      "zh": ""
+    },
+    {
+      "en": "And thanks to new technology from the Shiawase Group, we were able to spray away your impurities without any resistance at all.",
+      "zh": ""
+    },
+    {
+      "en": "Don’t worry, though! Your unpleasant memories should come right back the moment your appointment concludes.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No, it’s okay. You can keep them.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Unfortunately, we are unable to fit any additional dark-matter into our Box of Unpleasant Memories.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh. Fine. So what am I supposed to do then? Gather keys? Defeat enemies? Fill out magazine sweepstakes?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "This is a waiting room. You are supposed to wait.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "That’s it! Then, once your number is called, you’ll report to Robbie Receptionson to confirm your identity.",
+      "zh": ""
+    },
+    {
+      "en": "As soon as the check-in process is complete, you will be taken to your coordinator’s office and begin the interview process.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay. What’s my number?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Please feel free to speak to any of the other guests or help yourself to some refreshments if you find yourself with an excess amount of time.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sure. But what’s my number?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Additionally, the waiting room is currently doubling as a YMCA. Membership is not included in your recoordination appointment. Using the pool without a YMCA membership is prohibited.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Please just tell me my number.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Good luck, Akira Arakawa! May your wait be as pleasant as it is dry.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh. These silly bureaucratic facilities never function properly. How am I supposed to wait for my number to be called if I don’t even know what my number is?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Oh well...I guess I’ll just have to hope they call out my name as well. But in the meantime, I suppose I should get acquainted with everyone.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": It sounds like I might be here for a while.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump poolroomhub",
+      "zh": ""
+    }
+  ]
 }

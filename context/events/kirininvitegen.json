@@ -1,122 +1,229 @@
 {
- "label": "kirininvitegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Kirin's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": Hihi~",
-   "zh": ""
-  },
-  {
-   "en": ": How's it going, [kirinmaster]?",
-   "zh": ""
-  },
-  {
-   "en": ": Hey. Are you free right now?",
-   "zh": ""
-  },
-  {
-   "en": ": Mmm...depends. How much do you miss me?",
-   "zh": ""
-  },
-  {
-   "en": ": The...normal amount?",
-   "zh": ""
-  },
-  {
-   "en": ": You're gonna have to give me a little more than that if you want to see me right now.",
-   "zh": ""
-  },
-  {
-   "en": ": I'm on my way to meet up with people.",
-   "zh": ""
-  },
-  {
-   "en": ": Fine. I miss you more than the normal amount.",
-   "zh": ""
-  },
-  {
-   "en": ": ...You're really bad at this.",
-   "zh": ""
-  },
-  {
-   "en": ": But yeah, I can be free I guess.",
-   "zh": ""
-  },
-  {
-   "en": ": Is this an invite to your place?",
-   "zh": ""
-  },
-  {
-   "en": ": It is. I'm heading there now.",
-   "zh": ""
-  },
-  {
-   "en": ": Kay~ Need me to bring anything?",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah, ask your sister if she wants to-",
-   "zh": ""
-  },
-  {
-   "en": ": Hanging up now~",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Why, hello there~",
-   "zh": ""
-  },
-  {
-   "en": ": What can I do for you today, [kirinmaster]?",
-   "zh": ""
-  },
-  {
-   "en": "How should I spend my time with Kirin?",
-   "zh": ""
-  },
-  {
-   "en": "Hang Out (Raise Affection)",
-   "zh": ""
-  },
-  {
-   "en": "Cowgirl (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Blowjob (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Lying Doggystyle (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Headpat",
-   "zh": ""
-  }
- ]
+  "label": "kirininvitegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kirininvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Kirin's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hihi~",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": How's it going, [kirinmaster]?",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": Hey. Are you free right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Mmm...depends. How much do you miss me?",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": The...normal amount?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You're gonna have to give me a little more than that if you want to see me right now.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": I'm on my way to meet up with people.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": Fine. I miss you more than the normal amount.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": ...You're really bad at this.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": But yeah, I can be free I guess.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": Is this an invite to your place?",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": It is. I'm heading there now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Kay~ Need me to bring anything?",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah, ask your sister if she wants to-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hanging up now~",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene kirininvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/kirininvitehub.webp",
+      "alt": "kirininvitehub"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why, hello there~",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": What can I do for you today, [kirinmaster]?",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Kirin?",
+      "zh": ""
+    },
+    {
+      "en": "menu kirininvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": ""
+    },
+    {
+      "en": "jump kirininviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Cowgirl (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump kirininvitecow",
+      "zh": ""
+    },
+    {
+      "en": "Blowjob (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump kirinbj",
+      "zh": ""
+    },
+    {
+      "en": "Lying Doggystyle (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump kirinlay",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": ""
+    },
+    {
+      "en": "jump kirinheadpat",
+      "zh": ""
+    }
+  ]
 }

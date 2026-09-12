@@ -1,78 +1,187 @@
 {
- "label": "toukadormgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Come in!",
-   "zh": ""
-  },
-  {
-   "en": "I decide to spend the night hanging out in the dorm with Touka.",
-   "zh": ""
-  },
-  {
-   "en": "Despite the place being light years beneath her standards, she doesn't particularly seem to hate things here.",
-   "zh": ""
-  },
-  {
-   "en": "Granted, she spends most of her time either alone or on video calls with different instructors to make up for my inadequacy as a teacher-",
-   "zh": ""
-  },
-  {
-   "en": "But she hasn't asked for a transfer or gotten me fired yet, so that is a clear plus.",
-   "zh": ""
-  },
-  {
-   "en": "Eventually, she moves on to talking about her family's business and I can't help but begin to lose interest.",
-   "zh": ""
-  },
-  {
-   "en": "Her cuteness may get her far in life, and her great wealth may get her even further-",
-   "zh": ""
-  },
-  {
-   "en": "But it will not get her to the point where she can talk about boring stuff without risking my interest.",
-   "zh": ""
-  },
-  {
-   "en": "And, obviously, I need to be the center of her affinities because this is a world made for me.",
-   "zh": ""
-  },
-  {
-   "en": "I convince Touka to leave her family and become my sex slave. She obliges and, within moments, we are naked.",
-   "zh": ""
-  },
-  {
-   "en": "I convince Touka to leave her family and open up an Arby's with me.",
-   "zh": ""
-  },
-  {
-   "en": "Just kidding.",
-   "zh": ""
-  },
-  {
-   "en": "I never convince her to do any of that and, instead, decide to just head home.",
-   "zh": ""
-  },
-  {
-   "en": "But at least the two of us managed to get a little closer.",
-   "zh": ""
-  },
-  {
-   "en": "Touka's affection has increased to [touka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "toukadormgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label toukadormgen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come in!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukadormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukadormgen.webp",
+      "alt": "toukadormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to spend the night hanging out in the dorm with Touka.",
+      "zh": ""
+    },
+    {
+      "en": "Despite the place being light years beneath her standards, she doesn't particularly seem to hate things here.",
+      "zh": ""
+    },
+    {
+      "en": "Granted, she spends most of her time either alone or on video calls with different instructors to make up for my inadequacy as a teacher-",
+      "zh": ""
+    },
+    {
+      "en": "But she hasn't asked for a transfer or gotten me fired yet, so that is a clear plus.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Eventually, she moves on to talking about her family's business and I can't help but begin to lose interest.",
+      "zh": ""
+    },
+    {
+      "en": "Her cuteness may get her far in life, and her great wealth may get her even further-",
+      "zh": ""
+    },
+    {
+      "en": "But it will not get her to the point where she can talk about boring stuff without risking my interest.",
+      "zh": ""
+    },
+    {
+      "en": "And, obviously, I need to be the center of her affinities because this is a world made for me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "I convince Touka to leave her family and become my sex slave. She obliges and, within moments, we are naked.",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I convince Touka to leave her family and open up an Arby's with me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Just kidding.",
+      "zh": ""
+    },
+    {
+      "en": "I never convince her to do any of that and, instead, decide to just head home.",
+      "zh": ""
+    },
+    {
+      "en": "But at least the two of us managed to get a little closer.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka's affection has increased to [touka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

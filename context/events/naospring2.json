@@ -1,746 +1,1937 @@
 {
- "label": "naospring2",
- "title_zh": "奇迹",
- "lines": [
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ": !...",
-   "zh": ": !..."
-  },
-  {
-   "en": ": One second! Babe, are you expecting a package or something?",
-   "zh": ": 等一下!宝贝,你在等包裹之类的吗?"
-  },
-  {
-   "en": ": This is one of the very few occasions in which I am not.",
-   "zh": ": 这可是极少数我没在等的场合之一。"
-  },
-  {
-   "en": ": Then who the hell is knocking on the door? Should I go answer it?",
-   "zh": ": 那到底是谁在敲门?要我去应吗?"
-  },
-  {
-   "en": ": We’re millennials. We don’t answer the door. You’re being reckless again.",
-   "zh": ": 我们是千禧一代。我们不开门应客。你又莽起来了。"
-  },
-  {
-   "en": ": !!!!!!!!!!!!!!!!!!!!!!",
-   "zh": ": !!!!!!!!!!!!!!!!!!!!!!"
-  },
-  {
-   "en": ": O...On the way now!",
-   "zh": ": 马……马上就去!"
-  },
-  {
-   "en": ": You’re going to be murdered and I am not prepared to deal with that.",
-   "zh": ": 你会被谋杀的,而我没准备好处理那种事。"
-  },
-  {
-   "en": ": Oh, Nao-chan. It’s just you. And you...apparently need help?",
-   "zh": ": 哦,Nao 酱。是你啊。而你……似乎需要帮忙?"
-  },
-  {
-   "en": ": !!!!!!!!!",
-   "zh": ": !!!!!!!!"
-  },
-  {
-   "en": ": With...what exactly?",
-   "zh": ": 具体……帮什么?"
-  },
-  {
-   "en": ": !!!!!!!!...",
-   "zh": ": !!!!!!!!..."
-  },
-  {
-   "en": ": ...........",
-   "zh": ": ..........."
-  },
-  {
-   "en": ": Please wait here while I call the cops.",
-   "zh": ": 请在这里等一下,我打个电话叫警察。"
-  },
-  {
-   "en": ": !!!! !!!!!! !!! !!!!!!!!!!!!!!!!",
-   "zh": ": !!!! !!!!!! !!! !!!!!!!!!!!!!!!!"
-  },
-  {
-   "en": ": Kaori needs alone time? With another human being? Really?",
-   "zh": ": Kaori 需要独处时间?和另一个人类?真的假的?"
-  },
-  {
-   "en": ": !!!!!!!!",
-   "zh": ": !!!!!!!!"
-  },
-  {
-   "en": ": Then, uhh...sure? We’re kind of watching TV right now. Will it...be long? Boys are quick, right? And...it is a boy, right?",
-   "zh": ": 那,呃……行吧?我们正看着电视呢。会……很久吗?男生都很快的,对吧?还有……那是个男生,对吧?"
-  },
-  {
-   "en": ": ................?",
-   "zh": ": ................?"
-  },
-  {
-   "en": ": Yeah, I probably shouldn’t be asking you anyway.",
-   "zh": ": 也是,我大概本来就不该问你。"
-  },
-  {
-   "en": ": Do you want, like...tea or something? What do you drink?",
-   "zh": ": 你要不要,那个……茶什么的?你喝什么?"
-  },
-  {
-   "en": ": !!!!",
-   "zh": ": !!!!"
-  },
-  {
-   "en": ": Nothing? Got it.",
-   "zh": ": 不喝?明白。"
-  },
-  {
-   "en": ": !!!!!!!!!!!!!!!!!!!!",
-   "zh": ": !!!!!!!!!!!!!!!!!!!!"
-  },
-  {
-   "en": ": Just write it down! You have a notebook!",
-   "zh": ": 写下来就行!你有笔记本啊!"
-  },
-  {
-   "en": ": Wakana, I’m back. And I have a child now.",
-   "zh": ": Wakana,我回来了。而且我现在有一个孩子了。"
-  },
-  {
-   "en": ": !.....",
-   "zh": ": !....."
-  },
-  {
-   "en": ": Okay. I have tried to be supportive, Osako. But this journey of self-discovery has gone too far. Take it back immediately.",
-   "zh": ": 好了。Osako,我一直尽量支持你。但这场自我发现之旅已经过头了。立刻把它退回去。"
-  },
-  {
-   "en": ": I don’t think I can.",
-   "zh": ": 我觉得退不了。"
-  },
-  {
-   "en": ": Damn it. You went to a kill-shelter, didn’t you?",
-   "zh": ": 该死。你去了扑杀型收容所,对吧?"
-  },
-  {
-   "en": ": Do you really not recognize Nao-chan? Kaori’s...daughter thing? She’s lived next to us for, like...years now.",
-   "zh": ": 你真认不出 Nao 酱?Kaori 的……女儿什么来着?她住在我们隔壁,都……好几年了。"
-  },
-  {
-   "en": ": What reason would I have to ever look at a child? What is it doing here? And why does the neighbor possess one when she is younger than us?",
-   "zh": ": 我有什么理由去看一个孩子?它在这里干什么?还有,邻居比我们还年轻,为什么会持有一个孩子?"
-  },
-  {
-   "en": ": I don’t-",
-   "zh": ": 我不——"
-  },
-  {
-   "en": ": Also, my parents can never find out about this or they’ll go back to pestering me for a grandchild.",
-   "zh": ": 还有,这件事绝对不能让我父母知道,不然他们又会开始催我要个外孙了。"
-  },
-  {
-   "en": ": ........",
-   "zh": ": ........"
-  },
-  {
-   "en": ": Hah...Nao’s just going to hang out here for a little bit while Kaori has some “alone time” with her boyfriend.",
-   "zh": ": 哈……Kaori 和她男友度过一些「独处时光」的时候,Nao 就在这儿待一会儿。"
-  },
-  {
-   "en": ": I’m sorry, I think I may have misheard. I could have sworn you mentioned just now that Kaori has a boyfriend.",
-   "zh": ": 抱歉,我可能听岔了。我刚才分明听到你说,Kaori 有男朋友。"
-  },
-  {
-   "en": ": You’re absolutely positive it was a boy, Nao-chan?",
-   "zh": ": 你百分之百确定那是个男生吗,Nao 酱?"
-  },
-  {
-   "en": ": !!!",
-   "zh": ": !!!"
-  },
-  {
-   "en": ": Yeah, she seems pretty confident. And seeing as her opening note was “sex,” I think it’s safe to assume that there’s some stuff going on over there right now.",
-   "zh": ": 嗯,她看起来相当确定。而且鉴于她开场写的是「性」,我猜可以放心假设,那边现在正在进行一些活动。"
-  },
-  {
-   "en": ": How noticeable do you think it would be if we were to drill a small hole in the wall?",
-   "zh": ": 你觉得,如果我们在墙上钻个小洞,会有多显眼?"
-  },
-  {
-   "en": ": ?!?!?!",
-   "zh": ": ?!?!?!"
-  },
-  {
-   "en": ": I think that would be a major invasion of their privacy. But also I think that they probably wouldn’t notice and I am just as curious as you.",
-   "zh": ": 我觉得那将是对他们隐私的重大侵犯。不过我也觉得他们多半不会发现,而且我和你一样好奇。"
-  },
-  {
-   "en": ": Do we own a drill?",
-   "zh": ": 我们家有电钻吗?"
-  },
-  {
-   "en": ": Yes, but I think using it in the way you’re suggesting might void our lease.",
-   "zh": ": 有,但我认为,按你建议的方式用它,可能会让我们的租约作废。"
-  },
-  {
-   "en": ": ..........",
-   "zh": ": .........."
-  },
-  {
-   "en": ": ..............",
-   "zh": ": .............."
-  },
-  {
-   "en": ": Oh, you don’t have to worry. I wouldn’t actually let that happen. Wakana and I are just sort of...mutually fascinated by Kaori’s existence.",
-   "zh": ": 哦,你不用担心。我不会真让那种事发生的。Wakana 和我只是对 Kaori 的存在……互相着迷而已。"
-  },
-  {
-   "en": ": She hasn’t ever really brought anyone home before. At least...not to our knowledge. But if she’s found somebody, I’m sure we can both say we’re happy for her.",
-   "zh": ": 她以前从没真正带谁回过家。至少……就我们所知没有。但既然她找到了某人,我相信我们俩都可以说,为她高兴。"
-  },
-  {
-   "en": ": Not if our fantasy threesome is suddenly off the table. I will never forgive whatever man she dragged in there if that is the case.",
-   "zh": ": 那可不一定,如果我们幻想中的三人行突然黄了的话。真是那样的话,无论她拖进去的是什么男人,我都永远不会原谅。"
-  },
-  {
-   "en": ": Wow. You really are just horrible around kids, aren’t you?",
-   "zh": ": 哇。你在小孩身边可真是一塌糊涂,不是吗?"
-  },
-  {
-   "en": ": They confuse me and make me uncomfortable and I wish they’d all just go away.",
-   "zh": ": 他们让我困惑、让我不自在,我真希望他们全都消失。"
-  },
-  {
-   "en": ": You’re a teacher, babe.",
-   "zh": ": 你可是个老师啊,宝贝。"
-  },
-  {
-   "en": ": And chronically depressed. Do you believe that to be a coincidence, Osako?",
-   "zh": ": 而且长期抑郁。你觉得那是巧合吗,Osako?"
-  },
-  {
-   "en": ": What’s this guy even like, Nao-chan? How long have they known each other? Where’d they meet? Is it serious?",
-   "zh": ": 那家伙到底什么样,Nao 酱?他们认识多久了?在哪儿认识的?是认真的吗?"
-  },
-  {
-   "en": ": Why, this is more gossiping than you did all throughout college. Are you actually good with children?",
-   "zh": ": 哎呀,这可比你整个大学期间八卦的总量还多。你其实很会应付小孩?"
-  },
-  {
-   "en": ": In limited doses, I guess. You already know I don’t actually want one, though.",
-   "zh": ": 有限剂量的话,大概是。不过你早知道,我并不是真的想要一个。"
-  },
-  {
-   "en": ": Well, that is great news as we lack the proper hardware to create one and you would have to be the one to carry it as I would break.",
-   "zh": ": 嗯,那真是好消息,因为我们缺少制造一个孩子的合适硬件,而且必须由你来怀,因为我会碎掉。"
-  },
-  {
-   "en": ": !!!...",
-   "zh": ": !!!..."
-  },
-  {
-   "en": ": Aww...that’s really cute. Babe, she says this guy and Kaori found her together. Which makes him kind of like-",
-   "zh": ": 哎呀……真可爱。宝贝,她说这个男人和 Kaori 是一起发现她的。这让他有点像——"
-  },
-  {
-   "en": ": Wait. What do you mean “found” you?",
-   "zh": ": 等等。「发现」你是什么意思?"
-  },
-  {
-   "en": ": Kind of like what? If you’re going to read her notes, at least read them in their entirety. I can’t see from over here. My eyes hurt.",
-   "zh": ": 有点像什么?你要念她的笔记,至少念完整。我在这边看不见。我眼睛疼。"
-  },
-  {
-   "en": ": She says he’s like her dad. But again, that they “found” her. So this isn’t really an adoption type situation and-",
-   "zh": ": 她说,他像她的爸爸。但又说,是他们「发现」了她。所以这其实不算收养那种情况,而且——"
-  },
-  {
-   "en": ": !!!!!!!!!",
-   "zh": ": !!!!!!!!"
-  },
-  {
-   "en": ": ................",
-   "zh": ": ................"
-  },
-  {
-   "en": ": What’s she saying now? My eyes have not magically recovered and I still cannot see.",
-   "zh": ": 她现在在写什么?我的眼睛并没有奇迹康复,我还是看不见。"
-  },
-  {
-   "en": ": Nothing. She’s just scribbling now.",
-   "zh": ": 没写什么。她现在只是在乱涂。"
-  },
-  {
-   "en": ": ?...",
-   "zh": ": ?..."
-  },
-  {
-   "en": ": ?!?!?!?!",
-   "zh": ": ?!?!?!?!"
-  },
-  {
-   "en": ": .........",
-   "zh": ": ........."
-  },
-  {
-   "en": ": Why do I feel like things are about to get even worse?",
-   "zh": ": 为什么我觉得事情即将变得更糟?"
-  },
-  {
-   "en": ": You’re the one who invited her in. Now we have to babysit and we can’t finish the Food that Built America. I hope you’re happy with yourself, Osako. You have finally crossed the line.",
-   "zh": ": 是你把她请进来的。现在我们得看孩子,还没法把《缔造美国的食物》看完。希望你对自己满意,Osako。你终于越线了。"
-  },
-  {
-   "en": ": !........",
-   "zh": ": !........"
-  },
-  {
-   "en": ": This is not really how I expected this conversation to go when you asked to come inside.",
-   "zh": ": 你请求进屋的时候,我没想到这场对话会往这个方向发展。"
-  },
-  {
-   "en": ": !!!",
-   "zh": ": !!!"
-  },
-  {
-   "en": ": Also, I don’t recall ever telling you I’m a lesbian. So I’m not really sure how you-",
-   "zh": ": 还有,我不记得曾告诉过你我是蕾丝边。所以我不太明白你怎么——"
-  },
-  {
-   "en": ": ........",
-   "zh": ": ........"
-  },
-  {
-   "en": ": !!!!!!!!!!!!!",
-   "zh": ": !!!!!!!!!!!!!"
-  },
-  {
-   "en": ": ..................",
-   "zh": ": .................."
-  },
-  {
-   "en": ": Oh, thank god! It’s the door again!",
-   "zh": ": 哦,谢天谢地!又是门!"
-  },
-  {
-   "en": ": You. Child. Why don’t you speak? It disturbs me.",
-   "zh": ": 你。小孩。你为什么不说话?这让我不安。"
-  },
-  {
-   "en": ": !......",
-   "zh": ": !......"
-  },
-  {
-   "en": ": She’s mute, Wakana! She literally can’t!",
-   "zh": ": 她不会说话,Wakana!她是字面意义上不能!"
-  },
-  {
-   "en": ": I see. Then you are automatically my favorite child by default. And I will allow you to stay so long as you will not interrupt my Netflix binge. Do you understand?",
-   "zh": ": 原来如此。那你默认自动成为我最喜欢的孩子。只要你不打断我刷 Netflix,你就可以留下。明白吗?"
-  },
-  {
-   "en": ": !...",
-   "zh": ": !..."
-  },
-  {
-   "en": ": Do you know how to make tea? What are you capable of exactly?",
-   "zh": ": 你会泡茶吗?你到底都会些什么?"
-  },
-  {
-   "en": ": !!!!....!!!!!!!!....!!!!!!!!!!!...",
-   "zh": ": !!!!....!!!!!!!!....!!!!!!!!!!!..."
-  },
-  {
-   "en": ": I have no idea what you’re trying to say, but I will take chamomile. Thank you.",
-   "zh": ": 我完全不知道你想说什么,但我要洋甘菊茶。谢谢。"
-  },
-  {
-   "en": ": Akira? What are you doing here so late? We’re kind of in the middle of something right now.",
-   "zh": ": Akira?这么晚你来干什么?我们正有点忙不开身。"
-  },
-  {
-   "en": ": Sorry for interrupting. I was just wondering if a small girl with a notebook dropped by because, if so, I am here to reclaim her.",
-   "zh": ": 抱歉打扰。我只是想问问,有没有一个小个子、带笔记本的女孩来过——如果有,我是来领回她的。"
-  },
-  {
-   "en": ": Wait, you’re the guy?! The one Kaori’s seeing?! The one Nao-chan thinks is her dad?!",
-   "zh": ": 等等,你就是那个人?!Kaori 正在交往的?!Nao 酱以为是她爸的?!"
-  },
-  {
-   "en": ": She thinks I’m what? This is news to me.",
-   "zh": ": 她以为我是什么?这对我来说是新闻。"
-  },
-  {
-   "en": ": Great! Then I’ll keep everything else she said a secret as well! What the fuck are you doing sleeping with Kaori, though?!",
-   "zh": ": 太好了!那她说的其他事我也一并保密!不过你他妈在和 Kaori 睡是怎么回事?!"
-  },
-  {
-   "en": ": Why do you seem so shocked by this? I’m sleeping with everyone.",
-   "zh": ": 你怎么一副震惊的样子?我和所有人都在睡。"
-  },
-  {
-   "en": ": Yeah, but Kaori is an adult!",
-   "zh": ": 是,可 Kaori 是成年人!"
-  },
-  {
-   "en": ": So is Imani and I have slept with her in the same room as you. Besides, I’ve known Kaori longer than any of you guys. The shocking part is how long it took for this to happen.",
-   "zh": ": Imani 也是成年人,我还当着你的面和她睡过。再说了,我认识 Kaori 比你们谁都久。真正令人震惊的,是这件事花了多久才发生。"
-  },
-  {
-   "en": ": Is it weird? Like...doing it with her? It’s gotta be weird, right?",
-   "zh": ": 怪吗?就是说……和她做?肯定很怪吧,对吧?"
-  },
-  {
-   "en": ": Very weird. But also really hot. She’s a very unique lay that I plan on experiencing many more times.",
-   "zh": ": 非常怪。但也真的很辣。她是非常独特的床伴,我打算多体验很多次。"
-  },
-  {
-   "en": ": Fuck. Now I’ll be getting your sloppy seconds if the fantasy threesome ever happens.",
-   "zh": ": 靠。要是幻想中的三人行真发生,我就得吃你的残羹剩饭了。"
-  },
-  {
-   "en": ": I don’t know what that is, but I’d like to hear everything you are willing to tell me about it right now.",
-   "zh": ": 我不知道那是什么,但你现在愿意告诉我的部分,我全想听。"
-  },
-  {
-   "en": ": No! Now, you’re going to get that girl out of my house! Because this is the first time I’ve ever had an extended “conversation” with her and she’s totally creeping me the hell out!",
-   "zh": ": 不!现在,你把那女孩从我家带走!因为这是我头一回和她进行一场持续的「对话」,而她把我吓得魂飞魄散!"
-  },
-  {
-   "en": ": Oh no. Did you meet Amber as well? Tell me you didn’t agree to the hair cocoon. I won’t be able to text you anymore.",
-   "zh": ": 哦不。你也见到 Amber 了?告诉我你没答应那个发茧。那样我就没法再给你发短信了。"
-  },
-  {
-   "en": ": Akira, what the hell are you even talking about?!",
-   "zh": ": Akira,你到底在说什么鬼?!"
-  },
-  {
-   "en": ": I really wish I knew. She’s still in there then?",
-   "zh": ": 我真希望我知道。那她还在里面?"
-  },
-  {
-   "en": ": Yes. But I need you to promise me that you aren’t going to molest her even if she really really wants you to.",
-   "zh": ": 在。但我要你向我保证,就算她真的、真的想要,你也不会去侵犯她。"
-  },
-  {
-   "en": ": What? Do you seriously think I’d-",
-   "zh": ": 什么?你真觉得我会——"
-  },
-  {
-   "en": ": Yes.",
-   "zh": ": 会。"
-  },
-  {
-   "en": ": Even if she’s-",
-   "zh": ": 就算她——"
-  },
-  {
-   "en": ": Yes.",
-   "zh": ": 会。"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Fine, I promise.",
-   "zh": ": 行,我保证。"
-  },
-  {
-   "en": ": Good boy. I’ll go get her now.",
-   "zh": ": 乖孩子。我现在去带她。"
-  },
-  {
-   "en": ": Call me that again and I’ll have to have sex with you. It won’t just be a forbidden fantasy anymore.",
-   "zh": ": 你再那么叫我一次,我就不得不和你做了。那可就不只是禁忌幻想了。"
-  },
-  {
-   "en": ": You lay a finger on me and I will break every bone in your body. Nao-chan! Time to go! Your “dad” is here to- why are you going through our cabinets?",
-   "zh": ": 你敢碰我一根手指,我就打断你全身的骨头。Nao 酱!该走了!你的「爸爸」来接——你怎么在翻我们的橱柜?"
-  },
-  {
-   "en": ": !!!!",
-   "zh": ": !!!!"
-  },
-  {
-   "en": ": She’s making me tea. And if you force her to leave right now, you will need to take over. I can not get off this couch for the next twelve hours or I will die.",
-   "zh": ": 她在给我泡茶。你现在要是逼她走,你就得接班。接下来十二个小时我都起不了这张沙发,不然我会死。"
-  },
-  {
-   "en": ": Hah. Fine. Go. Shoo. I will make tea. And be less weird when you get home!",
-   "zh": ": 哈。行。走吧。去去。茶我来泡。还有,你回家以后少怪一点!"
-  },
-  {
-   "en": ": :( !!!!!!!!!!",
-   "zh": ": :( !!!!!!!"
-  },
-  {
-   "en": ": !......",
-   "zh": ": !......"
-  },
-  {
-   "en": "I take Nao back to the apartment and sit down in front of her while Kaori takes a shower to clean off the residue of her lessons.",
-   "zh": "我带 Nao 回公寓,在她面前坐下,而 Kaori 去洗澡,冲掉她那堂课的残余。"
-  },
-  {
-   "en": "But what I’m currently unsure of is whether or not I should talk to her about what transpired in here or just...ignore it.",
-   "zh": "但我眼下不确定的是,该不该和她谈谈这里发生过的事,还是……置之不理。"
-  },
-  {
-   "en": "Because ignoring it would be the right thing to do when you...factor out how the actual right thing to do would be to just...never do anything in the first place.",
-   "zh": "因为,要是把「真正正确的事是一开始就什么都不做」这个因素排除在外,置之不理就是正确的选择。"
-  },
-  {
-   "en": "But that ship has sailed and this girl has now watched me engage in a sex act with her mother. So if I am her father, it is only right that I set the record straight sooner rather than later.",
-   "zh": "但那条船已经驶远,这个女孩刚刚亲眼目睹了我和她母亲进行性行为。所以,如果我是她父亲,那么尽快把事实澄清,才是正理。"
-  },
-  {
-   "en": ": Did you really call me your dad?",
-   "zh": ": 你真的叫我爸爸了?"
-  },
-  {
-   "en": "But of course I ask her that instead because my other daughter is currently MIA and I am desperately seeking validation. God, I hate myself.",
-   "zh": "但当然,我问的是这个,因为我另一个女儿目前下落不明,而我正拼命寻求肯定。天,我恨我自己。"
-  },
-  {
-   "en": ": ........",
-   "zh": ": ........"
-  },
-  {
-   "en": ": And, while you’re writing — if the answer is yes, then why? I barely ever see you. And I certainly don’t treat you like my daughter. I’m not even convinced you’re actually human yet.",
-   "zh": ": 还有,趁你写字的时候——如果答案是肯定的,那是为什么?我几乎见不到你。我也肯定没把你当女儿对待。我甚至还没被说服你是个人类。"
-  },
-  {
-   "en": ": ........",
-   "zh": ": ........"
-  },
-  {
-   "en": ": !...",
-   "zh": ": !..."
-  },
-  {
-   "en": ": Did it really, though? Because all I did was follow Kaori around while she stared at some weird map thing with your logo on it.",
-   "zh": ": 真的是那样吗?因为我所做的一切,就是跟着 Kaori 到处走,而她盯着某个印着你标志的奇怪地图看。"
-  },
-  {
-   "en": ": If there’s a reason specifically that I happened to be there when that happened, what is it? Because I sure as hell don’t know.",
-   "zh": ": 如果那件事发生时我恰好在场,有专门的理由,那是什么?因为我他妈完全不知道。"
-  },
-  {
-   "en": ": !...... !!! !!!!!!!!..... !",
-   "zh": ": !...... !!! !!!!!!!!..... !"
-  },
-  {
-   "en": ": With all due respect, that’s just wishful thinking on your end. You can’t really learn things here because every time you do, it comes on the back of a thousand more questions.",
-   "zh": ": 恕我直言,那只是你一厢情愿。你在这里其实学不到东西,因为每当你学到一点,随之而来的是一千个新问题。"
-  },
-  {
-   "en": ": Like, say we get teleported into some other pocket dimension and some other god decides to throw a bunch of bullshit at us, what’ll we walk away with?",
-   "zh": ": 比如,假如我们被传送进另一个口袋次元,另一个神明决定朝我们扔一堆狗屁,我们能带走什么?"
-  },
-  {
-   "en": ": Because that literally just happened and neither one of us has any clue what’s going on. Right?",
-   "zh": ": 因为那字面意义上刚刚发生,而我们俩没有一个知道发生了什么。对吧?"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": !!!!!!!!!",
-   "zh": ": !!!!!!!!"
-  },
-  {
-   "en": ": Well, you and I have different definitions of fun then because things like that are always happening to me. And chances are you just got sucked in on my coattails.",
-   "zh": ": 那,你和我对「有趣」的定义不同,因为那种事总发生在我身上。而你八成是被我顺带吸进去的。"
-  },
-  {
-   "en": ": !!!!!!!",
-   "zh": ": !!!!!!!"
-  },
-  {
-   "en": ": Help with what? Because just figuring out what you are doesn’t really do anything for me in the end. I have much bigger problems I need to get to the bottom of. And you-",
-   "zh": ": 帮什么忙?因为到最后,光是弄清你是什么,对我并没有实际帮助。我还有大得多的问题需要查明。而你——"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Hah...",
-   "zh": ": 哈……"
-  },
-  {
-   "en": ": And you might be special. But unless you hold the keys to the universe-",
-   "zh": ": 而你也许很特别。但除非你握着宇宙的钥匙——"
-  },
-  {
-   "en": ": !!!!!!!!!",
-   "zh": ": !!!!!!!!"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": !....",
-   "zh": ": !...."
-  },
-  {
-   "en": ": What do you...mean by “the world is broken?”",
-   "zh": ": 你说「世界坏掉了」……是什么意思?"
-  },
-  {
-   "en": ": -_-",
-   "zh": ": -_-"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ....................!",
-   "zh": ": ....................!"
-  },
-  {
-   "en": ": Remember...what?",
-   "zh": ": 记得……什么?"
-  },
-  {
-   "en": ": ?...",
-   "zh": ": ?..."
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ???????????",
-   "zh": ": ???????????"
-  },
-  {
-   "en": ": No, Nao...",
-   "zh": ": 不,Nao……"
-  },
-  {
-   "en": ": There is no “real” god...just a bunch of silly ideas that different people want us to believe in.",
-   "zh": ": 没有什么「真正的」神……只是一堆不同的人想让我们相信的蠢念头。"
-  },
-  {
-   "en": ": ?...",
-   "zh": ": ?..."
-  },
-  {
-   "en": ": If you want to know why we’re here, I can’t tell you. And I can’t tell you how to get out either since we’ll all end up right back here in the end.",
-   "zh": ": 如果你想知道我们为什么会在这里,我没法告诉你。我也没法告诉你怎么出去,因为到最后,我们全都会回到这里。"
-  },
-  {
-   "en": ": So you’re right when you say the world is broken. I’m just not sure if you understand exactly what that means.",
-   "zh": ": 所以你说世界坏掉了,是对的。我只是不确定,你是否真的明白那意味着什么。"
-  },
-  {
-   "en": ": But then again, neither do I. And I likely never will without the help of some miracle.",
-   "zh": ": 不过话说回来,我也不明白。而如果没有任何奇迹相助,我多半永远不会明白。"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": "It seems like she hesitates what she scribbles down this time — like she’s unsure if me giving up means I’ve stopped thinking entirely.",
-   "zh": "这一次,她落笔时似乎犹豫了——像是不确定,我的放弃是否意味着我已经彻底停止了思考。"
-  },
-  {
-   "en": "I haven’t though. Because when she turns the notebook back around, she’s written exactly what I’ve been expecting.",
-   "zh": "但我没有。因为当她把笔记本转回来时,上面写的,正是我一直在等的那句话。"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ?...",
-   "zh": ": ?..."
-  },
-  {
-   "en": ": Yeah...maybe you will.",
-   "zh": ": 嗯……也许你会的。"
-  },
-  {
-   "en": "The two of us sit in silence for a few minutes before Nao switches the TV to some show about American food and just...ignores the weight of the world and how it crushes me.",
-   "zh": "我们俩沉默地坐了几分钟,然后 Nao 把电视调到一个关于美国食物的节目,就那么……无视着世界的重量,以及它如何把我压垮。"
-  },
-  {
-   "en": "I feel a bit like Giles Corey.",
-   "zh": "我感觉有点像 Giles Corey。"
-  },
-  {
-   "en": "I’m reminded of the worm.",
-   "zh": "我想起了那条虫。"
-  },
-  {
-   "en": "Kaori’s affection has increased to [kaori_love]!",
-   "zh": "Kaori 的好感度提升到了 [kaori_love]!"
-  },
-  {
-   "en": "Kaori’s lust has increased to [kaori_lust]!",
-   "zh": "Kaori 的欲望提升到了 [kaori_lust]!"
-  },
-  {
-   "en": "Nao-chan’s affection has increased to [nao_love]!",
-   "zh": "Nao 酱的好感度提升到了 [nao_love]!"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  }
- ]
+  "label": "naospring2",
+  "title_zh": "奇迹",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label naospring2:",
+      "zh": ""
+    },
+    {
+      "en": "scene naovisitsosako1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako1.webp",
+      "alt": "naovisitsosako1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako2.webp",
+      "alt": "naovisitsosako2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !..."
+    },
+    {
+      "en": ": One second! Babe, are you expecting a package or something?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 等一下!宝贝,你在等包裹之类的吗?"
+    },
+    {
+      "en": ": This is one of the very few occasions in which I am not.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 这可是极少数我没在等的场合之一。"
+    },
+    {
+      "en": ": Then who the hell is knocking on the door? Should I go answer it?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 那到底是谁在敲门?要我去应吗?"
+    },
+    {
+      "en": ": We’re millennials. We don’t answer the door. You’re being reckless again.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 我们是千禧一代。我们不开门应客。你又莽起来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako3.webp",
+      "alt": "naovisitsosako3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!!!!!!!!!!!!!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "en": ": O...On the way now!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 马……马上就去!"
+    },
+    {
+      "en": ": You’re going to be murdered and I am not prepared to deal with that.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 你会被谋杀的,而我没准备好处理那种事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako4.webp",
+      "alt": "naovisitsosako4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, Nao-chan. It’s just you. And you...apparently need help?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 哦,Nao 酱。是你啊。而你……似乎需要帮忙?"
+    },
+    {
+      "en": ": !!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!"
+    },
+    {
+      "en": ": With...what exactly?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 具体……帮什么?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako5.webp",
+      "alt": "naovisitsosako5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!!!!!!...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!..."
+    },
+    {
+      "en": ": ...........",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": ..........."
+    },
+    {
+      "en": ": Please wait here while I call the cops.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 请在这里等一下,我打个电话叫警察。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako6.webp",
+      "alt": "naovisitsosako6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!! !!!!!! !!! !!!!!!!!!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!! !!!!!! !!! !!!!!!!!!!!!!!!!"
+    },
+    {
+      "en": ": Kaori needs alone time? With another human being? Really?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": Kaori 需要独处时间?和另一个人类?真的假的?"
+    },
+    {
+      "en": ": !!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!"
+    },
+    {
+      "en": ": Then, uhh...sure? We’re kind of watching TV right now. Will it...be long? Boys are quick, right? And...it is a boy, right?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 那,呃……行吧?我们正看着电视呢。会……很久吗?男生都很快的,对吧?还有……那是个男生,对吧?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako7.webp",
+      "alt": "naovisitsosako7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ................?",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ................?"
+    },
+    {
+      "en": ": Yeah, I probably shouldn’t be asking you anyway.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 也是,我大概本来就不该问你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you want, like...tea or something? What do you drink?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 你要不要,那个……茶什么的?你喝什么?"
+    },
+    {
+      "en": ": !!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!"
+    },
+    {
+      "en": ": Nothing? Got it.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 不喝?明白。"
+    },
+    {
+      "en": ": !!!!!!!!!!!!!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "en": ": Just write it down! You have a notebook!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 写下来就行!你有笔记本啊!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako8.webp",
+      "alt": "naovisitsosako8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wakana, I’m back. And I have a child now.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": Wakana,我回来了。而且我现在有一个孩子了。"
+    },
+    {
+      "en": ": !.....",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !....."
+    },
+    {
+      "en": ": Okay. I have tried to be supportive, Osako. But this journey of self-discovery has gone too far. Take it back immediately.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 好了。Osako,我一直尽量支持你。但这场自我发现之旅已经过头了。立刻把它退回去。"
+    },
+    {
+      "en": ": I don’t think I can.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 我觉得退不了。"
+    },
+    {
+      "en": ": Damn it. You went to a kill-shelter, didn’t you?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 该死。你去了扑杀型收容所,对吧?"
+    },
+    {
+      "en": ": Do you really not recognize Nao-chan? Kaori’s...daughter thing? She’s lived next to us for, like...years now.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 你真认不出 Nao 酱?Kaori 的……女儿什么来着?她住在我们隔壁,都……好几年了。"
+    },
+    {
+      "en": ": What reason would I have to ever look at a child? What is it doing here? And why does the neighbor possess one when she is younger than us?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 我有什么理由去看一个孩子?它在这里干什么?还有,邻居比我们还年轻,为什么会持有一个孩子?"
+    },
+    {
+      "en": ": I don’t-",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 我不——"
+    },
+    {
+      "en": ": Also, my parents can never find out about this or they’ll go back to pestering me for a grandchild.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 还有,这件事绝对不能让我父母知道,不然他们又会开始催我要个外孙了。"
+    },
+    {
+      "en": ": ........",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ........"
+    },
+    {
+      "en": ": Hah...Nao’s just going to hang out here for a little bit while Kaori has some “alone time” with her boyfriend.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 哈……Kaori 和她男友度过一些「独处时光」的时候,Nao 就在这儿待一会儿。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako9.webp",
+      "alt": "naovisitsosako9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m sorry, I think I may have misheard. I could have sworn you mentioned just now that Kaori has a boyfriend.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 抱歉,我可能听岔了。我刚才分明听到你说,Kaori 有男朋友。"
+    },
+    {
+      "en": ": You’re absolutely positive it was a boy, Nao-chan?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 你百分之百确定那是个男生吗,Nao 酱?"
+    },
+    {
+      "en": ": !!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!"
+    },
+    {
+      "en": ": Yeah, she seems pretty confident. And seeing as her opening note was “sex,” I think it’s safe to assume that there’s some stuff going on over there right now.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 嗯,她看起来相当确定。而且鉴于她开场写的是「性」,我猜可以放心假设,那边现在正在进行一些活动。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako10.webp",
+      "alt": "naovisitsosako10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How noticeable do you think it would be if we were to drill a small hole in the wall?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 你觉得,如果我们在墙上钻个小洞,会有多显眼?"
+    },
+    {
+      "en": ": ?!?!?!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ?!?!?!"
+    },
+    {
+      "en": ": I think that would be a major invasion of their privacy. But also I think that they probably wouldn’t notice and I am just as curious as you.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 我觉得那将是对他们隐私的重大侵犯。不过我也觉得他们多半不会发现,而且我和你一样好奇。"
+    },
+    {
+      "en": ": Do we own a drill?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 我们家有电钻吗?"
+    },
+    {
+      "en": ": Yes, but I think using it in the way you’re suggesting might void our lease.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 有,但我认为,按你建议的方式用它,可能会让我们的租约作废。"
+    },
+    {
+      "en": ": ..........",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": .........."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako11.webp",
+      "alt": "naovisitsosako11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ..............",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": .............."
+    },
+    {
+      "en": ": Oh, you don’t have to worry. I wouldn’t actually let that happen. Wakana and I are just sort of...mutually fascinated by Kaori’s existence.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 哦,你不用担心。我不会真让那种事发生的。Wakana 和我只是对 Kaori 的存在……互相着迷而已。"
+    },
+    {
+      "en": ": She hasn’t ever really brought anyone home before. At least...not to our knowledge. But if she’s found somebody, I’m sure we can both say we’re happy for her.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 她以前从没真正带谁回过家。至少……就我们所知没有。但既然她找到了某人,我相信我们俩都可以说,为她高兴。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako12.webp",
+      "alt": "naovisitsosako12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Not if our fantasy threesome is suddenly off the table. I will never forgive whatever man she dragged in there if that is the case.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 那可不一定,如果我们幻想中的三人行突然黄了的话。真是那样的话,无论她拖进去的是什么男人,我都永远不会原谅。"
+    },
+    {
+      "en": ": Wow. You really are just horrible around kids, aren’t you?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 哇。你在小孩身边可真是一塌糊涂,不是吗?"
+    },
+    {
+      "en": ": They confuse me and make me uncomfortable and I wish they’d all just go away.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 他们让我困惑、让我不自在,我真希望他们全都消失。"
+    },
+    {
+      "en": ": You’re a teacher, babe.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 你可是个老师啊,宝贝。"
+    },
+    {
+      "en": ": And chronically depressed. Do you believe that to be a coincidence, Osako?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 而且长期抑郁。你觉得那是巧合吗,Osako?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako13.webp",
+      "alt": "naovisitsosako13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s this guy even like, Nao-chan? How long have they known each other? Where’d they meet? Is it serious?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 那家伙到底什么样,Nao 酱?他们认识多久了?在哪儿认识的?是认真的吗?"
+    },
+    {
+      "en": ": Why, this is more gossiping than you did all throughout college. Are you actually good with children?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 哎呀,这可比你整个大学期间八卦的总量还多。你其实很会应付小孩?"
+    },
+    {
+      "en": ": In limited doses, I guess. You already know I don’t actually want one, though.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 有限剂量的话,大概是。不过你早知道,我并不是真的想要一个。"
+    },
+    {
+      "en": ": Well, that is great news as we lack the proper hardware to create one and you would have to be the one to carry it as I would break.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 嗯,那真是好消息,因为我们缺少制造一个孩子的合适硬件,而且必须由你来怀,因为我会碎掉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako14.webp",
+      "alt": "naovisitsosako14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!..."
+    },
+    {
+      "en": ": Aww...that’s really cute. Babe, she says this guy and Kaori found her together. Which makes him kind of like-",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 哎呀……真可爱。宝贝,她说这个男人和 Kaori 是一起发现她的。这让他有点像——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako15.webp",
+      "alt": "naovisitsosako15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait. What do you mean “found” you?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 等等。「发现」你是什么意思?"
+    },
+    {
+      "en": ": Kind of like what? If you’re going to read her notes, at least read them in their entirety. I can’t see from over here. My eyes hurt.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 有点像什么?你要念她的笔记,至少念完整。我在这边看不见。我眼睛疼。"
+    },
+    {
+      "en": ": She says he’s like her dad. But again, that they “found” her. So this isn’t really an adoption type situation and-",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 她说,他像她的爸爸。但又说,是他们「发现」了她。所以这其实不算收养那种情况,而且——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako16.webp",
+      "alt": "naovisitsosako16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!"
+    },
+    {
+      "en": ": ................",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": ................"
+    },
+    {
+      "en": ": What’s she saying now? My eyes have not magically recovered and I still cannot see.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 她现在在写什么?我的眼睛并没有奇迹康复,我还是看不见。"
+    },
+    {
+      "en": ": Nothing. She’s just scribbling now.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 没写什么。她现在只是在乱涂。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako17.webp",
+      "alt": "naovisitsosako17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ?...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ?..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako18.webp",
+      "alt": "naovisitsosako18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ?!?!?!?!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ?!?!?!?!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako19.webp",
+      "alt": "naovisitsosako19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": .........",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ........."
+    },
+    {
+      "en": ": Why do I feel like things are about to get even worse?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 为什么我觉得事情即将变得更糟?"
+    },
+    {
+      "en": ": You’re the one who invited her in. Now we have to babysit and we can’t finish the Food that Built America. I hope you’re happy with yourself, Osako. You have finally crossed the line.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 是你把她请进来的。现在我们得看孩子,还没法把《缔造美国的食物》看完。希望你对自己满意,Osako。你终于越线了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako20.webp",
+      "alt": "naovisitsosako20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !........",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !........"
+    },
+    {
+      "en": ": This is not really how I expected this conversation to go when you asked to come inside.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 你请求进屋的时候,我没想到这场对话会往这个方向发展。"
+    },
+    {
+      "en": ": !!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!"
+    },
+    {
+      "en": ": Also, I don’t recall ever telling you I’m a lesbian. So I’m not really sure how you-",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 还有,我不记得曾告诉过你我是蕾丝边。所以我不太明白你怎么——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako19.webp",
+      "alt": "naovisitsosako19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ........",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ........"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako21.webp",
+      "alt": "naovisitsosako21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!!!!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!!!!!!"
+    },
+    {
+      "en": ": ..................",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": .................."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako22.webp",
+      "alt": "naovisitsosako22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, thank god! It’s the door again!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 哦,谢天谢地!又是门!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako23.webp",
+      "alt": "naovisitsosako23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You. Child. Why don’t you speak? It disturbs me.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 你。小孩。你为什么不说话?这让我不安。"
+    },
+    {
+      "en": ": !......",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !......"
+    },
+    {
+      "en": ": She’s mute, Wakana! She literally can’t!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 她不会说话,Wakana!她是字面意义上不能!"
+    },
+    {
+      "en": ": I see. Then you are automatically my favorite child by default. And I will allow you to stay so long as you will not interrupt my Netflix binge. Do you understand?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 原来如此。那你默认自动成为我最喜欢的孩子。只要你不打断我刷 Netflix,你就可以留下。明白吗?"
+    },
+    {
+      "en": ": !...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !..."
+    },
+    {
+      "en": ": Do you know how to make tea? What are you capable of exactly?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 你会泡茶吗?你到底都会些什么?"
+    },
+    {
+      "en": ": !!!!....!!!!!!!!....!!!!!!!!!!!...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!....!!!!!!!!....!!!!!!!!!!!..."
+    },
+    {
+      "en": ": I have no idea what you’re trying to say, but I will take chamomile. Thank you.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 我完全不知道你想说什么,但我要洋甘菊茶。谢谢。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako24.webp",
+      "alt": "naovisitsosako24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Akira? What are you doing here so late? We’re kind of in the middle of something right now.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": Akira?这么晚你来干什么?我们正有点忙不开身。"
+    },
+    {
+      "en": ": Sorry for interrupting. I was just wondering if a small girl with a notebook dropped by because, if so, I am here to reclaim her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 抱歉打扰。我只是想问问,有没有一个小个子、带笔记本的女孩来过——如果有,我是来领回她的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako25.webp",
+      "alt": "naovisitsosako25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait, you’re the guy?! The one Kaori’s seeing?! The one Nao-chan thinks is her dad?!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 等等,你就是那个人?!Kaori 正在交往的?!Nao 酱以为是她爸的?!"
+    },
+    {
+      "en": ": She thinks I’m what? This is news to me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她以为我是什么?这对我来说是新闻。"
+    },
+    {
+      "en": ": Great! Then I’ll keep everything else she said a secret as well! What the fuck are you doing sleeping with Kaori, though?!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 太好了!那她说的其他事我也一并保密!不过你他妈在和 Kaori 睡是怎么回事?!"
+    },
+    {
+      "en": ": Why do you seem so shocked by this? I’m sleeping with everyone.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你怎么一副震惊的样子?我和所有人都在睡。"
+    },
+    {
+      "en": ": Yeah, but Kaori is an adult!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 是,可 Kaori 是成年人!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako26.webp",
+      "alt": "naovisitsosako26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So is Imani and I have slept with her in the same room as you. Besides, I’ve known Kaori longer than any of you guys. The shocking part is how long it took for this to happen.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Imani 也是成年人,我还当着你的面和她睡过。再说了,我认识 Kaori 比你们谁都久。真正令人震惊的,是这件事花了多久才发生。"
+    },
+    {
+      "en": ": Is it weird? Like...doing it with her? It’s gotta be weird, right?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 怪吗?就是说……和她做?肯定很怪吧,对吧?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako27.webp",
+      "alt": "naovisitsosako27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Very weird. But also really hot. She’s a very unique lay that I plan on experiencing many more times.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 非常怪。但也真的很辣。她是非常独特的床伴,我打算多体验很多次。"
+    },
+    {
+      "en": ": Fuck. Now I’ll be getting your sloppy seconds if the fantasy threesome ever happens.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 靠。要是幻想中的三人行真发生,我就得吃你的残羹剩饭了。"
+    },
+    {
+      "en": ": I don’t know what that is, but I’d like to hear everything you are willing to tell me about it right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不知道那是什么,但你现在愿意告诉我的部分,我全想听。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako28",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako28.webp",
+      "alt": "naovisitsosako28"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No! Now, you’re going to get that girl out of my house! Because this is the first time I’ve ever had an extended “conversation” with her and she’s totally creeping me the hell out!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 不!现在,你把那女孩从我家带走!因为这是我头一回和她进行一场持续的「对话」,而她把我吓得魂飞魄散!"
+    },
+    {
+      "en": ": Oh no. Did you meet Amber as well? Tell me you didn’t agree to the hair cocoon. I won’t be able to text you anymore.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哦不。你也见到 Amber 了?告诉我你没答应那个发茧。那样我就没法再给你发短信了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako29",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako29.webp",
+      "alt": "naovisitsosako29"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Akira, what the hell are you even talking about?!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": Akira,你到底在说什么鬼?!"
+    },
+    {
+      "en": ": I really wish I knew. She’s still in there then?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我真希望我知道。那她还在里面?"
+    },
+    {
+      "en": ": Yes. But I need you to promise me that you aren’t going to molest her even if she really really wants you to.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 在。但我要你向我保证,就算她真的、真的想要,你也不会去侵犯她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako30",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako30.webp",
+      "alt": "naovisitsosako30"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What? Do you seriously think I’d-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 什么?你真觉得我会——"
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 会。"
+    },
+    {
+      "en": ": Even if she’s-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就算她——"
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 会。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako31.webp",
+      "alt": "naovisitsosako31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Fine, I promise.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 行,我保证。"
+    },
+    {
+      "en": ": Good boy. I’ll go get her now.",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 乖孩子。我现在去带她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Call me that again and I’ll have to have sex with you. It won’t just be a forbidden fantasy anymore.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你再那么叫我一次,我就不得不和你做了。那可就不只是禁忌幻想了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You lay a finger on me and I will break every bone in your body. Nao-chan! Time to go! Your “dad” is here to- why are you going through our cabinets?",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 你敢碰我一根手指,我就打断你全身的骨头。Nao 酱!该走了!你的「爸爸」来接——你怎么在翻我们的橱柜?"
+    },
+    {
+      "en": ": !!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!"
+    },
+    {
+      "en": ": She’s making me tea. And if you force her to leave right now, you will need to take over. I can not get off this couch for the next twelve hours or I will die.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 她在给我泡茶。你现在要是逼她走,你就得接班。接下来十二个小时我都起不了这张沙发,不然我会死。"
+    },
+    {
+      "en": ": Hah. Fine. Go. Shoo. I will make tea. And be less weird when you get home!",
+      "spk": "Osako",
+      "spkColor": "#9A6BA1",
+      "zh": ": 哈。行。走吧。去去。茶我来泡。还有,你回家以后少怪一点!"
+    },
+    {
+      "en": ": :( !!!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": :( !!!!!!!"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako32.webp",
+      "alt": "naovisitsosako32"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !......",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I take Nao back to the apartment and sit down in front of her while Kaori takes a shower to clean off the residue of her lessons.",
+      "zh": "我带 Nao 回公寓,在她面前坐下,而 Kaori 去洗澡,冲掉她那堂课的残余。"
+    },
+    {
+      "en": "But what I’m currently unsure of is whether or not I should talk to her about what transpired in here or just...ignore it.",
+      "zh": "但我眼下不确定的是,该不该和她谈谈这里发生过的事,还是……置之不理。"
+    },
+    {
+      "en": "Because ignoring it would be the right thing to do when you...factor out how the actual right thing to do would be to just...never do anything in the first place.",
+      "zh": "因为,要是把「真正正确的事是一开始就什么都不做」这个因素排除在外,置之不理就是正确的选择。"
+    },
+    {
+      "en": "But that ship has sailed and this girl has now watched me engage in a sex act with her mother. So if I am her father, it is only right that I set the record straight sooner rather than later.",
+      "zh": "但那条船已经驶远,这个女孩刚刚亲眼目睹了我和她母亲进行性行为。所以,如果我是她父亲,那么尽快把事实澄清,才是正理。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Did you really call me your dad?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你真的叫我爸爸了?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But of course I ask her that instead because my other daughter is currently MIA and I am desperately seeking validation. God, I hate myself.",
+      "zh": "但当然,我问的是这个,因为我另一个女儿目前下落不明,而我正拼命寻求肯定。天,我恨我自己。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako33",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako33.webp",
+      "alt": "naovisitsosako33"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ........",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ........"
+    },
+    {
+      "en": ": And, while you’re writing — if the answer is yes, then why? I barely ever see you. And I certainly don’t treat you like my daughter. I’m not even convinced you’re actually human yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 还有,趁你写字的时候——如果答案是肯定的,那是为什么?我几乎见不到你。我也肯定没把你当女儿对待。我甚至还没被说服你是个人类。"
+    },
+    {
+      "en": ": ........",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ........"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako34",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako34.webp",
+      "alt": "naovisitsosako34"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !..."
+    },
+    {
+      "en": ": Did it really, though? Because all I did was follow Kaori around while she stared at some weird map thing with your logo on it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 真的是那样吗?因为我所做的一切,就是跟着 Kaori 到处走,而她盯着某个印着你标志的奇怪地图看。"
+    },
+    {
+      "en": ": If there’s a reason specifically that I happened to be there when that happened, what is it? Because I sure as hell don’t know.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果那件事发生时我恰好在场,有专门的理由,那是什么?因为我他妈完全不知道。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako35",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako35.webp",
+      "alt": "naovisitsosako35"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !...... !!! !!!!!!!!..... !",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !...... !!! !!!!!!!!..... !"
+    },
+    {
+      "en": ": With all due respect, that’s just wishful thinking on your end. You can’t really learn things here because every time you do, it comes on the back of a thousand more questions.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 恕我直言,那只是你一厢情愿。你在这里其实学不到东西,因为每当你学到一点,随之而来的是一千个新问题。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako36",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako36.webp",
+      "alt": "naovisitsosako36"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Like, say we get teleported into some other pocket dimension and some other god decides to throw a bunch of bullshit at us, what’ll we walk away with?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 比如,假如我们被传送进另一个口袋次元,另一个神明决定朝我们扔一堆狗屁,我们能带走什么?"
+    },
+    {
+      "en": ": Because that literally just happened and neither one of us has any clue what’s going on. Right?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 因为那字面意义上刚刚发生,而我们俩没有一个知道发生了什么。对吧?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako37",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako37.webp",
+      "alt": "naovisitsosako37"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako38",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako38.webp",
+      "alt": "naovisitsosako38"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako39",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako39.webp",
+      "alt": "naovisitsosako39"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!"
+    },
+    {
+      "en": ": Well, you and I have different definitions of fun then because things like that are always happening to me. And chances are you just got sucked in on my coattails.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那,你和我对「有趣」的定义不同,因为那种事总发生在我身上。而你八成是被我顺带吸进去的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako40",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako40.webp",
+      "alt": "naovisitsosako40"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!"
+    },
+    {
+      "en": ": Help with what? Because just figuring out what you are doesn’t really do anything for me in the end. I have much bigger problems I need to get to the bottom of. And you-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 帮什么忙?因为到最后,光是弄清你是什么,对我并没有实际帮助。我还有大得多的问题需要查明。而你——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako41",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako41.webp",
+      "alt": "naovisitsosako41"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Hah...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哈……"
+    },
+    {
+      "en": ": And you might be special. But unless you hold the keys to the universe-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 而你也许很特别。但除非你握着宇宙的钥匙——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako42",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako42.webp",
+      "alt": "naovisitsosako42"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !!!!!!!!!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !!!!!!!!"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako43",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako43.webp",
+      "alt": "naovisitsosako43"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": !....",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": !...."
+    },
+    {
+      "en": ": What do you...mean by “the world is broken?”",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你说「世界坏掉了」……是什么意思?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako44",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako44.webp",
+      "alt": "naovisitsosako44"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": -_-",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": -_-"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ....................!",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ....................!"
+    },
+    {
+      "en": ": Remember...what?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 记得……什么?"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako45",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako45.webp",
+      "alt": "naovisitsosako45"
+    },
+    {
+      "en": "scene naovisitsosako46",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako46.webp",
+      "alt": "naovisitsosako46"
+    },
+    {
+      "en": "scene naovisitsosako47",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako47.webp",
+      "alt": "naovisitsosako47"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ?...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ?..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ???????????",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ???????????"
+    },
+    {
+      "en": ": No, Nao...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不,Nao……"
+    },
+    {
+      "en": ": There is no “real” god...just a bunch of silly ideas that different people want us to believe in.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 没有什么「真正的」神……只是一堆不同的人想让我们相信的蠢念头。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako48",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako48.webp",
+      "alt": "naovisitsosako48"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ?...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ?..."
+    },
+    {
+      "en": ": If you want to know why we’re here, I can’t tell you. And I can’t tell you how to get out either since we’ll all end up right back here in the end.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果你想知道我们为什么会在这里,我没法告诉你。我也没法告诉你怎么出去,因为到最后,我们全都会回到这里。"
+    },
+    {
+      "en": ": So you’re right when you say the world is broken. I’m just not sure if you understand exactly what that means.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 所以你说世界坏掉了,是对的。我只是不确定,你是否真的明白那意味着什么。"
+    },
+    {
+      "en": ": But then again, neither do I. And I likely never will without the help of some miracle.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不过话说回来,我也不明白。而如果没有任何奇迹相助,我多半永远不会明白。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako49",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako49.webp",
+      "alt": "naovisitsosako49"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It seems like she hesitates what she scribbles down this time — like she’s unsure if me giving up means I’ve stopped thinking entirely.",
+      "zh": "这一次,她落笔时似乎犹豫了——像是不确定,我的放弃是否意味着我已经彻底停止了思考。"
+    },
+    {
+      "en": "I haven’t though. Because when she turns the notebook back around, she’s written exactly what I’ve been expecting.",
+      "zh": "但我没有。因为当她把笔记本转回来时,上面写的,正是我一直在等的那句话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene naovisitsosako50",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/naovisitsosako50.webp",
+      "alt": "naovisitsosako50"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ?...",
+      "spk": "Nao",
+      "spkColor": "#EB7369",
+      "zh": ": ?..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah...maybe you will.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……也许你会的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The two of us sit in silence for a few minutes before Nao switches the TV to some show about American food and just...ignores the weight of the world and how it crushes me.",
+      "zh": "我们俩沉默地坐了几分钟,然后 Nao 把电视调到一个关于美国食物的节目,就那么……无视着世界的重量,以及它如何把我压垮。"
+    },
+    {
+      "en": "I feel a bit like Giles Corey.",
+      "zh": "我感觉有点像 Giles Corey。"
+    },
+    {
+      "en": "I’m reminded of the worm.",
+      "zh": "我想起了那条虫。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ naospring2 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ nao_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kaori’s affection has increased to [kaori_love]!",
+      "zh": "Kaori 的好感度提升到了 [kaori_love]!"
+    },
+    {
+      "en": "Kaori’s lust has increased to [kaori_lust]!",
+      "zh": "Kaori 的欲望提升到了 [kaori_lust]!"
+    },
+    {
+      "en": "Nao-chan’s affection has increased to [nao_love]!",
+      "zh": "Nao 酱的好感度提升到了 [nao_love]!"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

@@ -583,23 +583,46 @@ function fetchEvent(label){
    对话行(有spk): .l > .s[颜色] + .d   （同原版）
    旁白行(无spk): .c                  （同原版）
    中文行 = 英文行的镜像，保证视觉 100% 一致 */
+/* 渲染完整克隆的行序列（100% 还原原版 DOM 结构）：
+   图片行 {img} / 对话行 {spk,en,zh} / 旁白代码行 {en,zh} / 空行 {en:""}
+   中文行 = 英文行镜像（图片除外，图片中英共用） */
 function renderLines(lines){
   let h = "";
   for(const L of lines){
+    // 图片行：中英共用，不参与切换
+    if(L.img){
+      h += '<img class="scene-img" loading="lazy" src="'+_esc(L.img)+'" alt="'+_esc(L.alt||"")+'">';
+      continue;
+    }
     const en = L.en || "";
     const zh = L.zh || "";
-    const spk = L.spk || "";
-    const col = L.spkColor || "";
-    if(!en && !zh) continue;
+    // 空行：原版是 <div class="c">&nbsp;</div>
+    if(!en && !zh){
+      h += '<div class="c">&nbsp;</div>';
+      continue;
+    }
     const hasZh = zh.trim().length > 0;
     const nozh = hasZh ? "" : " no-zh";
-    if(spk){
-      // 对话行：原版 .l 结构（说话人带颜色）
-      const spkHtml = '<span class="s"'+(col?' style="color:'+col+'"':'')+'>'+_esc(spk)+'</span>';
+    // scene-cap 场景说明行（不参与三语切换，中英共用——英文是 scene 指令）
+    if(L.cap){
+      h += '<div class="scene-cap">'+_esc(en)+'</div>';
+      continue;
+    }
+    if(L.spk){
+      // 对话行：原版 .l > .s[颜色] + .d
+      const col = L.spkColor || "";
+      const spkHtml = '<span class="s"'+(col?' style="color:'+col+'"':'')+'>'+_esc(L.spk)+'</span>';
       h += '<div class="l en-l'+nozh+'">'+spkHtml+'<span class="d">'+_esc(en)+'</span></div>';
       h += '<div class="l zh-l'+nozh+'">'+spkHtml+'<span class="d">'+_esc(zh)+'</span></div>';
+    } else if(L.opt){
+      // 选项行：原版 .opt
+      h += '<div class="opt en-l'+nozh+'">'+_esc(en)+'</div>';
+      h += '<div class="opt zh-l'+nozh+'">'+_esc(zh)+'</div>';
+    } else if(!hasZh && /^(label\s|scene\s|jump\s|call\s|show\s|play\s|stop\s|if\s|\$|menu|pause|return|with\s|hide\s)/.test(en.trim())){
+      // 代码/指令行（无中文翻译价值）：中英共用，只显示一次
+      h += '<div class="c">'+_esc(en)+'</div>';
     } else {
-      // 旁白行：原版 .c 结构
+      // 旁白叙述行：原版 .c，中英对照
       h += '<div class="c en-l'+nozh+'">'+_esc(en)+'</div>';
       h += '<div class="c zh-l'+nozh+'">'+_esc(zh)+'</div>';
     }

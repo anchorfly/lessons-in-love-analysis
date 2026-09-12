@@ -1,702 +1,1584 @@
 {
- "label": "day72",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Gym class has ended for the day and I’m staying after with Ami to help clean the place up.",
-   "zh": ""
-  },
-  {
-   "en": "Normally, this would be the part where all of the girls run off to the showers, but a certain incident today has prompted me to select at least one person to clean brain matter off of the floor.",
-   "zh": ""
-  },
-  {
-   "en": "And what better person to collect brain matter than my niece?",
-   "zh": ""
-  },
-  {
-   "en": "Now, I'm sure you're looking for an explanation...and I will give you one. But whether you decide to believe it or not is up to you.",
-   "zh": ""
-  },
-  {
-   "en": "While dropping by the gym to get something out of the storage room, one of the[school]’s janitors was pelted in the head by a dodgeball.",
-   "zh": ""
-  },
-  {
-   "en": "Normally, a grown man would be able to shrug something like this off and just get on with his day after a minute or two.",
-   "zh": ""
-  },
-  {
-   "en": "However-",
-   "zh": ""
-  },
-  {
-   "en": "This particular dodgeball had been moving at the speed of a major league player’s fastball.",
-   "zh": ""
-  },
-  {
-   "en": "And while I'd like to say the janitor died on impact, he writhed in pain for a full five minutes or so before going silent.",
-   "zh": ""
-  },
-  {
-   "en": "There was blood everywhere.",
-   "zh": ""
-  },
-  {
-   "en": "And of course I had to be the one to clean it up on account of us now being down one janitor.",
-   "zh": ""
-  },
-  {
-   "en": ": It's crazy that this isn't even the first time something like this has happened, huh?",
-   "zh": ""
-  },
-  {
-   "en": ": It's not?",
-   "zh": ""
-  },
-  {
-   "en": ": No. This is like the third janitor Ayane has accidentally killed this year.",
-   "zh": ""
-  },
-  {
-   "en": ": How does she have that much arm strength? And why hasn't she been put in jail yet?",
-   "zh": ""
-  },
-  {
-   "en": ": I don't know. She's rich, so that probably has something to do with it.",
-   "zh": ""
-  },
-  {
-   "en": ": Fair enough.",
-   "zh": ""
-  },
-  {
-   "en": ": So, where should I be putting all of these mats?",
-   "zh": ""
-  },
-  {
-   "en": ": The storage room. Just try not to pay any attention to any stains on the floor.",
-   "zh": ""
-  },
-  {
-   "en": ": Um...okay?",
-   "zh": ""
-  },
-  {
-   "en": ": The storage room is fine. Just make sure you don’t leave any of them out again. The staff got pissed off that we didn’t do a great job last time.",
-   "zh": ""
-  },
-  {
-   "en": ": Mhm! I’ll make sure to get everything this time. Don’t you worry, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Before you go, though- there's something I've been meaning to ask you.",
-   "zh": ""
-  },
-  {
-   "en": ": There is? What is it?",
-   "zh": ""
-  },
-  {
-   "en": ": Well...it's less of a question and more of a demand.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei, if you want a hug that badly, all you have to do is ask.",
-   "zh": ""
-  },
-  {
-   "en": ": I don't need a hug, I need you to do me a favor.",
-   "zh": ""
-  },
-  {
-   "en": ": Hugs can be favors too, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Ami, I don't want a hug.",
-   "zh": ""
-  },
-  {
-   "en": ": I think you do, but sure. Go on with your non-hug related favor.",
-   "zh": ""
-  },
-  {
-   "en": ": It's about the cooking competition thing with Ayane.",
-   "zh": ""
-  },
-  {
-   "en": ": You mean about how I’m going to beat her so badly that she’ll stop cooking for the rest of her life?",
-   "zh": ""
-  },
-  {
-   "en": ": Well, no. But I admire the confidence.",
-   "zh": ""
-  },
-  {
-   "en": ": Of course I’m confident. I know everything you like. I’ve trained my whole life for this.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not gonna lose just cause Ayane wants to raise an army of children with you.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s great. But what I'm referring to is the imbalance in terms of judges.",
-   "zh": ""
-  },
-  {
-   "en": ": But...you're the only judge, aren't you?",
-   "zh": ""
-  },
-  {
-   "en": ": No. Sana is coming as well and she'll be serving as a secondary judge.",
-   "zh": ""
-  },
-  {
-   "en": ": What? Since when? Why hasn't anyone told me about this?",
-   "zh": ""
-  },
-  {
-   "en": ": I may have...forgotten to mention it. But it's happening.",
-   "zh": ""
-  },
-  {
-   "en": ": Won’t she be biased, though? Her and Ayane are really close.",
-   "zh": ""
-  },
-  {
-   "en": ": Right. But I’m biased toward you since I eat your food literally every day.",
-   "zh": ""
-  },
-  {
-   "en": ": So...what should we do?",
-   "zh": ""
-  },
-  {
-   "en": ": Obviously, we need to call in a third judge.",
-   "zh": ""
-  },
-  {
-   "en": ": A third judge...",
-   "zh": ""
-  },
-  {
-   "en": ": Well, umm...I guess I could see if Maya wants to come over?",
-   "zh": ""
-  },
-  {
-   "en": ": Great. That’s exactly who I had in mind.",
-   "zh": ""
-  },
-  {
-   "en": ": Is that why you don't want to hug me? Because your mind is fully consumed by Maya?",
-   "zh": ""
-  },
-  {
-   "en": ": If I say yes, will you still make me dinner every night?",
-   "zh": ""
-  },
-  {
-   "en": ": I will. But I can't guarantee there won't be poison in it.",
-   "zh": ""
-  },
-  {
-   "en": ": Harsh.",
-   "zh": ""
-  },
-  {
-   "en": ": So, is the favor complete? Can I go back to cleaning now?",
-   "zh": ""
-  },
-  {
-   "en": ": Yes, you may proceed. And thanks for being so understanding, Ami.",
-   "zh": ""
-  },
-  {
-   "en": ": Any time. I'll wind up winning no matter how many judges we have, so I'm not worried at all.",
-   "zh": ""
-  },
-  {
-   "en": ": Don't feel pressured to wait up for me if I take too long, Sensei! I've gotta shower after this anyway.",
-   "zh": ""
-  },
-  {
-   "en": "Ami runs off and images of the forbidden territory known as the girls' shower room consumes my mind and prevents me from cleaning at all for the rest of the period.",
-   "zh": ""
-  },
-  {
-   "en": "As I sit with my hands still caked in the dried blood of a custodial worker, I think of a land where breasts roam free.",
-   "zh": ""
-  },
-  {
-   "en": "A land where no harm befalls anyone...",
-   "zh": ""
-  },
-  {
-   "en": "The closest thing to Heaven this earth can offer.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "And I am stuck out here...",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "Meanwhile...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Um...",
-   "zh": ""
-  },
-  {
-   "en": ": Do...",
-   "zh": ""
-  },
-  {
-   "en": ": Do you...need something, Yumi?...",
-   "zh": ""
-  },
-  {
-   "en": ": Sorry, lardass. Shower’s got a weight limit. I'm sure you understand.",
-   "zh": ""
-  },
-  {
-   "en": ": Think you’re gonna have to wait here until everyone else is done. Don't want the floors collapsing and all that shit.",
-   "zh": ""
-  },
-  {
-   "en": ": Do we...have to do this in here?...",
-   "zh": ""
-  },
-  {
-   "en": ": If I did something to offend you, I'm sorry...I just...really want to take a shower and-",
-   "zh": ""
-  },
-  {
-   "en": ": You really think I'd be offended by something you did? Who the fuck do you think you are?",
-   "zh": ""
-  },
-  {
-   "en": ": No, better question- who the fuck do you think I am? You ain't shit to me.",
-   "zh": ""
-  },
-  {
-   "en": ": So tell me fatass, why would I ever be offended by something you say? Go on. Tell me to my face.",
-   "zh": ""
-  },
-  {
-   "en": ": I don't have anything to tell you at all! I really do just want to take a shower!",
-   "zh": ""
-  },
-  {
-   "en": ": Already told you, there's a limit to how much this floor can take. Gonna have to wait your turn.",
-   "zh": ""
-  },
-  {
-   "en": ": Can you please just let me pass? I...won't even look at you if that will make you happy...",
-   "zh": ""
-  },
-  {
-   "en": ": You sayin' you normally look at me, you fucking dyke? And here I was thinking your roommate was the only muffdiver we had in our class.",
-   "zh": ""
-  },
-  {
-   "en": ": Yumi...please!",
-   "zh": ""
-  },
-  {
-   "en": ": You wanna pass? Fine. I guess I can look the other way.",
-   "zh": ""
-  },
-  {
-   "en": ": I've got a condition, though.",
-   "zh": ""
-  },
-  {
-   "en": ": A...condition?...",
-   "zh": ""
-  },
-  {
-   "en": ": W-What do you want?...",
-   "zh": ""
-  },
-  {
-   "en": ": My wallet is in my bag, so...",
-   "zh": ""
-  },
-  {
-   "en": ": Wallet?...",
-   "zh": ""
-  },
-  {
-   "en": ": You saying I'm fuckin' poor, lardass? You think you're better than me?",
-   "zh": ""
-  },
-  {
-   "en": ": No, I just-",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t need your fucking money, got it? That ain't what I'm askin' for.",
-   "zh": ""
-  },
-  {
-   "en": ": Then...",
-   "zh": ""
-  },
-  {
-   "en": ": Then what are you-",
-   "zh": ""
-  },
-  {
-   "en": ": You’re gonna have to hand over the towel.",
-   "zh": ""
-  },
-  {
-   "en": ": But...this is the only one I-",
-   "zh": ""
-  },
-  {
-   "en": ": Wow, I offer you a deal as simple as that and you've gotta fucking think about it?",
-   "zh": ""
-  },
-  {
-   "en": ": What's the problem? You embarrassed about walkin' across the room naked? We're all girls, ain't we? We've all seen each other's tits before.",
-   "zh": ""
-  },
-  {
-   "en": ": To be fair, though, yours ain't exactly easy to miss.",
-   "zh": ""
-  },
-  {
-   "en": ": I just...normally keep mine on until I'm in the room...",
-   "zh": ""
-  },
-  {
-   "en": ": How come? You self-conscious about all those rolls? Some people are into that shit, you know? Is it really that big of a deal?",
-   "zh": ""
-  },
-  {
-   "en": ": Why do you even need my towel?...You already have one...",
-   "zh": ""
-  },
-  {
-   "en": ": I do. Just this one’s kinda damp from dryin’ myself off.",
-   "zh": ""
-  },
-  {
-   "en": ": Shovin' it back into my locker like this will just make it all mildewy and shit.",
-   "zh": ""
-  },
-  {
-   "en": ": You understand, right?",
-   "zh": ""
-  },
-  {
-   "en": ": Cause if you don't, I've got no problem just taking it from you by force and gettin' the fuck out here. Ain't like you'd do anything about it, right?",
-   "zh": ""
-  },
-  {
-   "en": ": Yumi...",
-   "zh": ""
-  },
-  {
-   "en": ": Hey, freedom for a towel seems like a reasonable trade to me. Not sure what the issue is.",
-   "zh": ""
-  },
-  {
-   "en": ": Can’t you just...ask someone else?...",
-   "zh": ""
-  },
-  {
-   "en": ": I'm sure...someone must have a spare...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": The fuck did you just say to me?",
-   "zh": ""
-  },
-  {
-   "en": ": I...",
-   "zh": ""
-  },
-  {
-   "en": ": Um...",
-   "zh": ""
-  },
-  {
-   "en": ": Yumi? What’s going on out there?",
-   "zh": ""
-  },
-  {
-   "en": ": If I find out you're picking on fucking Futaba again, I swear to God!",
-   "zh": ""
-  },
-  {
-   "en": ": Just havin' a chat, Chika. A nice, friendly chat.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Towel. Now.",
-   "zh": ""
-  },
-  {
-   "en": ": I...I...",
-   "zh": ""
-  },
-  {
-   "en": ": Is mine okay?",
-   "zh": ""
-  },
-  {
-   "en": ": Huh?...Is your what okay? The fuck's goin' on here?",
-   "zh": ""
-  },
-  {
-   "en": ": You said you needed a towel, right? I don’t mind lending you mine.",
-   "zh": ""
-  },
-  {
-   "en": ": This one's actually brand new, so you won’t need to worry about the mildewy issue or...whatever it was you said you were worried about.",
-   "zh": ""
-  },
-  {
-   "en": ": You...",
-   "zh": ""
-  },
-  {
-   "en": ": You think it’s okay to just fuckin’ listen in on other people’s conversations?",
-   "zh": ""
-  },
-  {
-   "en": ": It’s not my fault that the acoustics in this room are so good. It's not exactly like I was trying to listen in.",
-   "zh": ""
-  },
-  {
-   "en": ": You just...naturally talk loudly, I guess. And this sounded like a pretty big deal based on how mad you were a few seconds ago.",
-   "zh": ""
-  },
-  {
-   "en": ": Ayane...you don’t have to...",
-   "zh": ""
-  },
-  {
-   "en": ": Are you going to take it or not, Yumi?",
-   "zh": ""
-  },
-  {
-   "en": ": Also, why are you even standing around if you’ve already showered?",
-   "zh": ""
-  },
-  {
-   "en": ": Taking in the sights or something? I didn't realize you were into girls.",
-   "zh": ""
-  },
-  {
-   "en": ": What the fuck are you talking about, Blondie?! The hell would give you that idea?!",
-   "zh": ""
-  },
-  {
-   "en": ": I just figured that if you’ve already showered and didn’t want to leave that there's a chance you might want to fuck girls or something.",
-   "zh": ""
-  },
-  {
-   "en": ": Which is totally fine! I think girls are cute too.",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t think I'd ever do it with one...but hey! More power to you if that's your thing!",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t wanna do it with anybody!",
-   "zh": ""
-  },
-  {
-   "en": ": Really? Not even Sensei?",
-   "zh": ""
-  },
-  {
-   "en": ": Especially not fucking Sensei!",
-   "zh": ""
-  },
-  {
-   "en": ": Yumi, seriously! What are you getting so heated over out there?",
-   "zh": ""
-  },
-  {
-   "en": ": I'll ask again...are you going take it? Or not?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": I ain't a fuckin' lesbo, got it?",
-   "zh": ""
-  },
-  {
-   "en": ": Got it.",
-   "zh": ""
-  },
-  {
-   "en": ": Hah...",
-   "zh": ""
-  },
-  {
-   "en": ": Wow...",
-   "zh": ""
-  },
-  {
-   "en": ": And here I was thinking I might actually get to use my karate for once.",
-   "zh": ""
-  },
-  {
-   "en": ": You okay, Futaba?",
-   "zh": ""
-  },
-  {
-   "en": ": Um...uhh...",
-   "zh": ""
-  },
-  {
-   "en": ": How...did you do that?",
-   "zh": ""
-  },
-  {
-   "en": ": What do you mean?",
-   "zh": ""
-  },
-  {
-   "en": ": How did you...stand up to her so easily?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know. I just did. I saw her being mean, so I decided to help.",
-   "zh": ""
-  },
-  {
-   "en": ": I...don’t really know what to say...",
-   "zh": ""
-  },
-  {
-   "en": ": Well, you can thank me if you’d like! But you really don't have to since I would have done that either way.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh my god! I-I’m so sorry! I totally forgot to say that! Thank you so much!",
-   "zh": ""
-  },
-  {
-   "en": ": It's fine, it's fine!",
-   "zh": ""
-  },
-  {
-   "en": ": Just punch her in the face next time, though. I think you’d be able to take her. She seems like more bark than bite, if you catch my drift.",
-   "zh": ""
-  },
-  {
-   "en": ": I...don’t really think I’m much of a fighter...",
-   "zh": ""
-  },
-  {
-   "en": ": And...I also don’t want to start any problems, so...",
-   "zh": ""
-  },
-  {
-   "en": ": Hmm...Well, that’s okay too. Just try to be a little more confident, okay?",
-   "zh": ""
-  },
-  {
-   "en": ": I'm pretty sure Yumi only picks on you because you never stand up for yourself.",
-   "zh": ""
-  },
-  {
-   "en": ": I don't want to tell you how to live your life, but...try not to let her walk all over you. Got it?",
-   "zh": ""
-  },
-  {
-   "en": ": You don't deserve that.",
-   "zh": ""
-  },
-  {
-   "en": ": Umm...yeah....I...I’ll try...",
-   "zh": ""
-  },
-  {
-   "en": ": Thanks again, Ayane...I’m...really glad you stood up for me...",
-   "zh": ""
-  },
-  {
-   "en": ": Any time! That’s what I’m here for.",
-   "zh": ""
-  },
-  {
-   "en": ": Now, if you'll please excuse me, I have to go find another towel!",
-   "zh": ""
-  },
-  {
-   "en": ": That was...actually my last one.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day72",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day72:",
+      "zh": ""
+    },
+    {
+      "en": "scene weightlimitredux1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux1.webp",
+      "alt": "weightlimitredux1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Gym class has ended for the day and I’m staying after with Ami to help clean the place up.",
+      "zh": ""
+    },
+    {
+      "en": "Normally, this would be the part where all of the girls run off to the showers, but a certain incident today has prompted me to select at least one person to clean brain matter off of the floor.",
+      "zh": ""
+    },
+    {
+      "en": "And what better person to collect brain matter than my niece?",
+      "zh": ""
+    },
+    {
+      "en": "Now, I'm sure you're looking for an explanation...and I will give you one. But whether you decide to believe it or not is up to you.",
+      "zh": ""
+    },
+    {
+      "en": "While dropping by the gym to get something out of the storage room, one of the[school]’s janitors was pelted in the head by a dodgeball.",
+      "zh": ""
+    },
+    {
+      "en": "Normally, a grown man would be able to shrug something like this off and just get on with his day after a minute or two.",
+      "zh": ""
+    },
+    {
+      "en": "However-",
+      "zh": ""
+    },
+    {
+      "en": "This particular dodgeball had been moving at the speed of a major league player’s fastball.",
+      "zh": ""
+    },
+    {
+      "en": "And while I'd like to say the janitor died on impact, he writhed in pain for a full five minutes or so before going silent.",
+      "zh": ""
+    },
+    {
+      "en": "There was blood everywhere.",
+      "zh": ""
+    },
+    {
+      "en": "And of course I had to be the one to clean it up on account of us now being down one janitor.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux2.webp",
+      "alt": "weightlimitredux2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It's crazy that this isn't even the first time something like this has happened, huh?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": It's not?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": No. This is like the third janitor Ayane has accidentally killed this year.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": How does she have that much arm strength? And why hasn't she been put in jail yet?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I don't know. She's rich, so that probably has something to do with it.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Fair enough.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux3.webp",
+      "alt": "weightlimitredux3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, where should I be putting all of these mats?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day68 == True:",
+      "zh": ""
+    },
+    {
+      "en": ": The storage room. Just try not to pay any attention to any stains on the floor.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...okay?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": The storage room is fine. Just make sure you don’t leave any of them out again. The staff got pissed off that we didn’t do a great job last time.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Mhm! I’ll make sure to get everything this time. Don’t you worry, Sensei.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Before you go, though- there's something I've been meaning to ask you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux4.webp",
+      "alt": "weightlimitredux4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": There is? What is it?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Well...it's less of a question and more of a demand.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei, if you want a hug that badly, all you have to do is ask.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I don't need a hug, I need you to do me a favor.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Hugs can be favors too, Sensei.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Ami, I don't want a hug.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I think you do, but sure. Go on with your non-hug related favor.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": It's about the cooking competition thing with Ayane.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You mean about how I’m going to beat her so badly that she’ll stop cooking for the rest of her life?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Well, no. But I admire the confidence.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Of course I’m confident. I know everything you like. I’ve trained my whole life for this.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m not gonna lose just cause Ayane wants to raise an army of children with you.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": That’s great. But what I'm referring to is the imbalance in terms of judges.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": But...you're the only judge, aren't you?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": No. Sana is coming as well and she'll be serving as a secondary judge.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux5.webp",
+      "alt": "weightlimitredux5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What? Since when? Why hasn't anyone told me about this?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": I may have...forgotten to mention it. But it's happening.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Won’t she be biased, though? Her and Ayane are really close.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Right. But I’m biased toward you since I eat your food literally every day.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux6.webp",
+      "alt": "weightlimitredux6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So...what should we do?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Obviously, we need to call in a third judge.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux7.webp",
+      "alt": "weightlimitredux7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": A third judge...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Well, umm...I guess I could see if Maya wants to come over?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Great. That’s exactly who I had in mind.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux8.webp",
+      "alt": "weightlimitredux8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is that why you don't want to hug me? Because your mind is fully consumed by Maya?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": If I say yes, will you still make me dinner every night?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I will. But I can't guarantee there won't be poison in it.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Harsh.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": So, is the favor complete? Can I go back to cleaning now?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Yes, you may proceed. And thanks for being so understanding, Ami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux9.webp",
+      "alt": "weightlimitredux9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Any time. I'll wind up winning no matter how many judges we have, so I'm not worried at all.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Don't feel pressured to wait up for me if I take too long, Sensei! I've gotta shower after this anyway.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene weightlimitredux1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/weightlimitredux1.webp",
+      "alt": "weightlimitredux1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami runs off and images of the forbidden territory known as the girls' shower room consumes my mind and prevents me from cleaning at all for the rest of the period.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "As I sit with my hands still caked in the dried blood of a custodial worker, I think of a land where breasts roam free.",
+      "zh": ""
+    },
+    {
+      "en": "A land where no harm befalls anyone...",
+      "zh": ""
+    },
+    {
+      "en": "The closest thing to Heaven this earth can offer.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And I am stuck out here...",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "Meanwhile...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump showersx",
+      "zh": ""
+    },
+    {
+      "en": "label showersx:",
+      "zh": ""
+    },
+    {
+      "en": "scene showers1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers1.webp",
+      "alt": "showers1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Um...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Do...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Do you...need something, Yumi?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers2.webp",
+      "alt": "showers2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sorry, lardass. Shower’s got a weight limit. I'm sure you understand.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Think you’re gonna have to wait here until everyone else is done. Don't want the floors collapsing and all that shit.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers3.webp",
+      "alt": "showers3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do we...have to do this in here?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": If I did something to offend you, I'm sorry...I just...really want to take a shower and-",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers4.webp",
+      "alt": "showers4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You really think I'd be offended by something you did? Who the fuck do you think you are?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": No, better question- who the fuck do you think I am? You ain't shit to me.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": So tell me fatass, why would I ever be offended by something you say? Go on. Tell me to my face.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers5.webp",
+      "alt": "showers5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don't have anything to tell you at all! I really do just want to take a shower!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Already told you, there's a limit to how much this floor can take. Gonna have to wait your turn.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Can you please just let me pass? I...won't even look at you if that will make you happy...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": You sayin' you normally look at me, you fucking dyke? And here I was thinking your roommate was the only muffdiver we had in our class.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Yumi...please!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers6.webp",
+      "alt": "showers6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You wanna pass? Fine. I guess I can look the other way.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I've got a condition, though.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": A...condition?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": W-What do you want?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": My wallet is in my bag, so...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers7.webp",
+      "alt": "showers7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wallet?...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": You saying I'm fuckin' poor, lardass? You think you're better than me?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": No, I just-",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t need your fucking money, got it? That ain't what I'm askin' for.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers8.webp",
+      "alt": "showers8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Then...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Then what are you-",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers9.webp",
+      "alt": "showers9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re gonna have to hand over the towel.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": But...this is the only one I-",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Wow, I offer you a deal as simple as that and you've gotta fucking think about it?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": What's the problem? You embarrassed about walkin' across the room naked? We're all girls, ain't we? We've all seen each other's tits before.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": To be fair, though, yours ain't exactly easy to miss.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I just...normally keep mine on until I'm in the room...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": How come? You self-conscious about all those rolls? Some people are into that shit, you know? Is it really that big of a deal?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers10.webp",
+      "alt": "showers10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why do you even need my towel?...You already have one...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": I do. Just this one’s kinda damp from dryin’ myself off.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Shovin' it back into my locker like this will just make it all mildewy and shit.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": You understand, right?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Cause if you don't, I've got no problem just taking it from you by force and gettin' the fuck out here. Ain't like you'd do anything about it, right?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Yumi...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Hey, freedom for a towel seems like a reasonable trade to me. Not sure what the issue is.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers11.webp",
+      "alt": "showers11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Can’t you just...ask someone else?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": I'm sure...someone must have a spare...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers12.webp",
+      "alt": "showers12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The fuck did you just say to me?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Um...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Yumi? What’s going on out there?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": If I find out you're picking on fucking Futaba again, I swear to God!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Just havin' a chat, Chika. A nice, friendly chat.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Towel. Now.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I...I...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers13.webp",
+      "alt": "showers13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is mine okay?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Huh?...Is your what okay? The fuck's goin' on here?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": You said you needed a towel, right? I don’t mind lending you mine.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": This one's actually brand new, so you won’t need to worry about the mildewy issue or...whatever it was you said you were worried about.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers14.webp",
+      "alt": "showers14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": You think it’s okay to just fuckin’ listen in on other people’s conversations?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": It’s not my fault that the acoustics in this room are so good. It's not exactly like I was trying to listen in.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": You just...naturally talk loudly, I guess. And this sounded like a pretty big deal based on how mad you were a few seconds ago.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Ayane...you don’t have to...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Are you going to take it or not, Yumi?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Also, why are you even standing around if you’ve already showered?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Taking in the sights or something? I didn't realize you were into girls.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers15.webp",
+      "alt": "showers15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What the fuck are you talking about, Blondie?! The hell would give you that idea?!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": I just figured that if you’ve already showered and didn’t want to leave that there's a chance you might want to fuck girls or something.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Which is totally fine! I think girls are cute too.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t think I'd ever do it with one...but hey! More power to you if that's your thing!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t wanna do it with anybody!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Really? Not even Sensei?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Especially not fucking Sensei!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Yumi, seriously! What are you getting so heated over out there?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I'll ask again...are you going take it? Or not?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers16.webp",
+      "alt": "showers16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I ain't a fuckin' lesbo, got it?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ""
+    },
+    {
+      "en": ": Got it.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers17.webp",
+      "alt": "showers17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Wow...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": And here I was thinking I might actually get to use my karate for once.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers18.webp",
+      "alt": "showers18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You okay, Futaba?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Um...uhh...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": How...did you do that?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": What do you mean?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": How did you...stand up to her so easily?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t know. I just did. I saw her being mean, so I decided to help.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers19.webp",
+      "alt": "showers19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I...don’t really know what to say...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Well, you can thank me if you’d like! But you really don't have to since I would have done that either way.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers20.webp",
+      "alt": "showers20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh my god! I-I’m so sorry! I totally forgot to say that! Thank you so much!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": It's fine, it's fine!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Just punch her in the face next time, though. I think you’d be able to take her. She seems like more bark than bite, if you catch my drift.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers19.webp",
+      "alt": "showers19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I...don’t really think I’m much of a fighter...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": And...I also don’t want to start any problems, so...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Hmm...Well, that’s okay too. Just try to be a little more confident, okay?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I'm pretty sure Yumi only picks on you because you never stand up for yourself.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I don't want to tell you how to live your life, but...try not to let her walk all over you. Got it?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": You don't deserve that.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers21.webp",
+      "alt": "showers21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Umm...yeah....I...I’ll try...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Thanks again, Ayane...I’m...really glad you stood up for me...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ""
+    },
+    {
+      "en": ": Any time! That’s what I’m here for.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Now, if you'll please excuse me, I have to go find another towel!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene showers22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/showers22.webp",
+      "alt": "showers22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That was...actually my last one.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day72 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

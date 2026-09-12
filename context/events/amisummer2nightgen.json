@@ -1,70 +1,133 @@
 {
- "label": "amisummer2nightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Ami to find out that she’s just lounging around at home, so I decide to call it an early night and join her there.",
-   "zh": ""
-  },
-  {
-   "en": "I’m forced asked to stop at the convenience store for what she describes as “a disgusting amount of ice cream” but get confused once I arrive as there is no amount of ice cream that I would find disgusting.",
-   "zh": ""
-  },
-  {
-   "en": "As such, I pick up as much as I’m willing to carry and make it back home to a fresh plate of dinner that I devour almost instantaneously.",
-   "zh": ""
-  },
-  {
-   "en": "Dinner is succeeded by a trip to Ami’s bedroom where the two of us sit on her couch as she shows me what I would describe as “a disgusting amount of cat videos.”",
-   "zh": ""
-  },
-  {
-   "en": "This goes on for almost one hour before I toss her phone across the room and drag her back out into the living room so we can watch a movie.",
-   "zh": ""
-  },
-  {
-   "en": "Preferably one without cats.",
-   "zh": ""
-  },
-  {
-   "en": "I put on the first thing I find on Netflix and try to get myself absorbed in it, but fail spectacularly as whatever I chose in my anti-feline stupor is somehow even worse.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, Ami seems to like whatever it is because that is just how my night is going to go, I guess.",
-   "zh": ""
-  },
-  {
-   "en": "Thankfully, she doesn’t mind me talking throughout the entire thing and the two of us discuss scattered topics like her work and how she’s starting to hate the heat a little less.",
-   "zh": ""
-  },
-  {
-   "en": "I have no idea how given that this summer has been so hot that even our air conditioner is struggling to keep up with it, but I guess she’s free to like whatever she wants.",
-   "zh": ""
-  },
-  {
-   "en": "We fall asleep together on the couch and I wake up about an hour later to find that the TV has already turned off.",
-   "zh": ""
-  },
-  {
-   "en": "Not wanting to carry her, I grab a blanket off of Ami’s bed and toss it over her before heading back to my room and allowing myself to fall asleep on something more comfortable.",
-   "zh": ""
-  },
-  {
-   "en": "Ami’s affection has increased to [ami_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "amisummer2nightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amisummer2nightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene amisummer2nightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amisummer2nightgen.webp",
+      "alt": "amisummer2nightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Ami to find out that she’s just lounging around at home, so I decide to call it an early night and join her there.",
+      "zh": ""
+    },
+    {
+      "en": "I’m forced asked to stop at the convenience store for what she describes as “a disgusting amount of ice cream” but get confused once I arrive as there is no amount of ice cream that I would find disgusting.",
+      "zh": ""
+    },
+    {
+      "en": "As such, I pick up as much as I’m willing to carry and make it back home to a fresh plate of dinner that I devour almost instantaneously.",
+      "zh": ""
+    },
+    {
+      "en": "Dinner is succeeded by a trip to Ami’s bedroom where the two of us sit on her couch as she shows me what I would describe as “a disgusting amount of cat videos.”",
+      "zh": ""
+    },
+    {
+      "en": "This goes on for almost one hour before I toss her phone across the room and drag her back out into the living room so we can watch a movie.",
+      "zh": ""
+    },
+    {
+      "en": "Preferably one without cats.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I put on the first thing I find on Netflix and try to get myself absorbed in it, but fail spectacularly as whatever I chose in my anti-feline stupor is somehow even worse.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, Ami seems to like whatever it is because that is just how my night is going to go, I guess.",
+      "zh": ""
+    },
+    {
+      "en": "Thankfully, she doesn’t mind me talking throughout the entire thing and the two of us discuss scattered topics like her work and how she’s starting to hate the heat a little less.",
+      "zh": ""
+    },
+    {
+      "en": "I have no idea how given that this summer has been so hot that even our air conditioner is struggling to keep up with it, but I guess she’s free to like whatever she wants.",
+      "zh": ""
+    },
+    {
+      "en": "We fall asleep together on the couch and I wake up about an hour later to find that the TV has already turned off.",
+      "zh": ""
+    },
+    {
+      "en": "Not wanting to carry her, I grab a blanket off of Ami’s bed and toss it over her before heading back to my room and allowing myself to fall asleep on something more comfortable.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ami_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami’s affection has increased to [ami_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

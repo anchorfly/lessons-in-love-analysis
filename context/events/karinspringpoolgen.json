@@ -1,66 +1,117 @@
 {
- "label": "karinspringpoolgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I make my way over to the pool because it might be the only opportunity I ever get to see Karin wet.",
-   "zh": ""
-  },
-  {
-   "en": "Unfortunately, it seems like today won't be the day for that either as she feels weird about swimming so long as I'm present.",
-   "zh": ""
-  },
-  {
-   "en": "As such, the two of us retreat to a bench where she tells me all about the wholesome things she's been doing as a whole, while peppering in comments about how I should return to school.",
-   "zh": ""
-  },
-  {
-   "en": "I'm not sure what she would gain from that even if I did given that she's never been a student of mine. But I humor her regardless because it's easier than telling the truth.",
-   "zh": ""
-  },
-  {
-   "en": "And I'm not about to sit here and explain to a girl that probably doesn't even know what a penis looks like that I fucked one of her underclassmen out of existence.",
-   "zh": ""
-  },
-  {
-   "en": "It would have been nice if I was the one to have disappeared instead. But hey, maybe that's how it will turn out if I ever truly fall for someone else.",
-   "zh": ""
-  },
-  {
-   "en": "Imagine that person winds up being Karin. Imagine what sort of toll would be taken on her mind if she lost her virginity only to find herself alone and quivering on some cold rooftop.",
-   "zh": ""
-  },
-  {
-   "en": "I bet she'd never want to have sex again.",
-   "zh": ""
-  },
-  {
-   "en": "Sometimes, I feel like I don't either.",
-   "zh": ""
-  },
-  {
-   "en": "But I tell myself I'm wrong so I can keep coming to places like this- where I can convince myself it isn't over yet.",
-   "zh": ""
-  },
-  {
-   "en": "But I know that, deep down, it is.",
-   "zh": ""
-  },
-  {
-   "en": "Karin’s affection has increased to [karin_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "karinspringpoolgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label karinspringpoolgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene karinspringpoolgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/karinspringpoolgen.webp",
+      "alt": "karinspringpoolgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way over to the pool because it might be the only opportunity I ever get to see Karin wet.",
+      "zh": ""
+    },
+    {
+      "en": "Unfortunately, it seems like today won't be the day for that either as she feels weird about swimming so long as I'm present.",
+      "zh": ""
+    },
+    {
+      "en": "As such, the two of us retreat to a bench where she tells me all about the wholesome things she's been doing as a whole, while peppering in comments about how I should return to school.",
+      "zh": ""
+    },
+    {
+      "en": "I'm not sure what she would gain from that even if I did given that she's never been a student of mine. But I humor her regardless because it's easier than telling the truth.",
+      "zh": ""
+    },
+    {
+      "en": "And I'm not about to sit here and explain to a girl that probably doesn't even know what a penis looks like that I fucked one of her underclassmen out of existence.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It would have been nice if I was the one to have disappeared instead. But hey, maybe that's how it will turn out if I ever truly fall for someone else.",
+      "zh": ""
+    },
+    {
+      "en": "Imagine that person winds up being Karin. Imagine what sort of toll would be taken on her mind if she lost her virginity only to find herself alone and quivering on some cold rooftop.",
+      "zh": ""
+    },
+    {
+      "en": "I bet she'd never want to have sex again.",
+      "zh": ""
+    },
+    {
+      "en": "Sometimes, I feel like I don't either.",
+      "zh": ""
+    },
+    {
+      "en": "But I tell myself I'm wrong so I can keep coming to places like this- where I can convince myself it isn't over yet.",
+      "zh": ""
+    },
+    {
+      "en": "But I know that, deep down, it is.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ karin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Karin’s affection has increased to [karin_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump nightch4",
+      "zh": ""
+    }
+  ]
 }

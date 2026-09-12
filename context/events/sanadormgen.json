@@ -1,38 +1,142 @@
 {
- "label": "sanadormgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Umm...You can come in...",
-   "zh": ""
-  },
-  {
-   "en": "Sana and I spend the night hanging out in her dorm.",
-   "zh": ""
-  },
-  {
-   "en": "She seems a little more comfortable in here than she does in the bar.",
-   "zh": ""
-  },
-  {
-   "en": "The two of us wind up browsing through a bunch of indie games she has on her Xbox to kill some time with.",
-   "zh": ""
-  },
-  {
-   "en": "She eventually decides to load up a multiplayer one and proceeds to mop the floor with me in it.",
-   "zh": ""
-  },
-  {
-   "en": "I don't mind losing, though, as long as it means she's having a good time...",
-   "zh": ""
-  },
-  {
-   "en": "Sana's affection has increased to [sana_love]!",
-   "zh": ""
-  }
- ]
+  "label": "sanadormgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sanadormgen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Umm...You can come in...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "scene sanadormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sanadormgen.webp",
+      "alt": "sanadormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana and I spend the night hanging out in her dorm.",
+      "zh": ""
+    },
+    {
+      "en": "She seems a little more comfortable in here than she does in the bar.",
+      "zh": ""
+    },
+    {
+      "en": "The two of us wind up browsing through a bunch of indie games she has on her Xbox to kill some time with.",
+      "zh": ""
+    },
+    {
+      "en": "She eventually decides to load up a multiplayer one and proceeds to mop the floor with me in it.",
+      "zh": ""
+    },
+    {
+      "en": "I don't mind losing, though, as long as it means she's having a good time...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sana_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana's affection has increased to [sana_love]!",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

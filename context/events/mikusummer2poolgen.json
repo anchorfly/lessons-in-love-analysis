@@ -1,66 +1,117 @@
 {
- "label": "mikusummer2poolgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I head over to the school, finally free from my duty as the coach of the soccer team- a position I was forced into by the very girl I am here to see right now.",
-   "zh": ""
-  },
-  {
-   "en": "But, and I’m sorry to Miku for thinking this, I kind of prefer things this way.",
-   "zh": ""
-  },
-  {
-   "en": "Sure, there are fewer girls around seeing as the swim club has barely enough members to stay afloat (Pun not intended)-",
-   "zh": ""
-  },
-  {
-   "en": "But there are more girls I know here, which greatly increases my chances of ultimately getting to sleep with them in their school swimsuit.",
-   "zh": ""
-  },
-  {
-   "en": "Regardless of my inability to keep my mind out of the gutter after seeing Miku’s surprisingly toned yet alluringly slender body, I’m happy she was able to fit in here as quickly as she did.",
-   "zh": ""
-  },
-  {
-   "en": "I’m sure it was difficult giving up the one thing she really loved doing, but athletes will be athletes no matter what sport they’re thrown into.",
-   "zh": ""
-  },
-  {
-   "en": "And as long as it involves intense physical activity and an overabundance of energy, I’m sure Miku will be fine.",
-   "zh": ""
-  },
-  {
-   "en": "In thinking that, my mind quickly falls back into the gutter and I wind up staring at Miku for long enough to disturb her.",
-   "zh": ""
-  },
-  {
-   "en": "But that’s fine, because instead of asking me to stop looking at her, she just blushes and looks away, pretending to not notice.",
-   "zh": ""
-  },
-  {
-   "en": "It may have taken several cycles of the world to get here, but I’m glad we’ve reached a point where she is well aware of the way I look at her.",
-   "zh": ""
-  },
-  {
-   "en": "But I’m even gladder that we’ve reached a point where I can capitalize on that.",
-   "zh": ""
-  },
-  {
-   "en": "Miku’s affection has increased to [miku_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "mikusummer2poolgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mikusummer2poolgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene mikusummer2poolgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/mikusummer2poolgen.webp",
+      "alt": "mikusummer2poolgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head over to the school, finally free from my duty as the coach of the soccer team- a position I was forced into by the very girl I am here to see right now.",
+      "zh": ""
+    },
+    {
+      "en": "But, and I’m sorry to Miku for thinking this, I kind of prefer things this way.",
+      "zh": ""
+    },
+    {
+      "en": "Sure, there are fewer girls around seeing as the swim club has barely enough members to stay afloat (Pun not intended)-",
+      "zh": ""
+    },
+    {
+      "en": "But there are more girls I know here, which greatly increases my chances of ultimately getting to sleep with them in their school swimsuit.",
+      "zh": ""
+    },
+    {
+      "en": "Regardless of my inability to keep my mind out of the gutter after seeing Miku’s surprisingly toned yet alluringly slender body, I’m happy she was able to fit in here as quickly as she did.",
+      "zh": ""
+    },
+    {
+      "en": "I’m sure it was difficult giving up the one thing she really loved doing, but athletes will be athletes no matter what sport they’re thrown into.",
+      "zh": ""
+    },
+    {
+      "en": "And as long as it involves intense physical activity and an overabundance of energy, I’m sure Miku will be fine.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "In thinking that, my mind quickly falls back into the gutter and I wind up staring at Miku for long enough to disturb her.",
+      "zh": ""
+    },
+    {
+      "en": "But that’s fine, because instead of asking me to stop looking at her, she just blushes and looks away, pretending to not notice.",
+      "zh": ""
+    },
+    {
+      "en": "It may have taken several cycles of the world to get here, but I’m glad we’ve reached a point where she is well aware of the way I look at her.",
+      "zh": ""
+    },
+    {
+      "en": "But I’m even gladder that we’ve reached a point where I can capitalize on that.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ miku_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Miku’s affection has increased to [miku_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

@@ -1,74 +1,133 @@
 {
- "label": "chinamisummer2noongen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Chinami and am immediately yelled at for disturbing her in the middle of what she calls a “very important business meeting.”",
-   "zh": ""
-  },
-  {
-   "en": "I find out soon after that her “meeting” was just a Facetime conversation with Touka’s extremely bratty little sister about a whole bunch of animals they plan on distributing in the coming quarter.",
-   "zh": ""
-  },
-  {
-   "en": "And while I think it’s nice that Chinami suddenly has a friend, I do wish she had one that was a little better of an influence.",
-   "zh": ""
-  },
-  {
-   "en": "Which probably means nothing from me seeing as I am an adult male who is now en route to her house in the middle of the day, but still.",
-   "zh": ""
-  },
-  {
-   "en": "When I arrive, Chinami is busy playing games on her phone and will only speak to me in between rounds of pig-slaughter.",
-   "zh": ""
-  },
-  {
-   "en": "I spend the rest of the time questioning my life and the decisions that may have led me here.",
-   "zh": ""
-  },
-  {
-   "en": "Chinami stops playing games after her phone suddenly dies and, as I help her look around for her charger, I’m glad that she’s getting so much use out of it.",
-   "zh": ""
-  },
-  {
-   "en": "I can only imagine how boring it is having to spend day after day in one room.",
-   "zh": ""
-  },
-  {
-   "en": "Maybe that’s why I’m coming here?",
-   "zh": ""
-  },
-  {
-   "en": "Maybe it’s something as simple as me feeling bad for her because she’s unable to go out and live a normal life.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "I decide that’s exactly what it is.",
-   "zh": ""
-  },
-  {
-   "en": "The only alternative would be much worse.",
-   "zh": ""
-  },
-  {
-   "en": "Chinami’s affection has increased to [chinami_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "chinamisummer2noongen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chinamisummer2noongen:",
+      "zh": ""
+    },
+    {
+      "en": "scene chinamisummer2noongen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/chinamisummer2noongen.webp",
+      "alt": "chinamisummer2noongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Chinami and am immediately yelled at for disturbing her in the middle of what she calls a “very important business meeting.”",
+      "zh": ""
+    },
+    {
+      "en": "I find out soon after that her “meeting” was just a Facetime conversation with Touka’s extremely bratty little sister about a whole bunch of animals they plan on distributing in the coming quarter.",
+      "zh": ""
+    },
+    {
+      "en": "And while I think it’s nice that Chinami suddenly has a friend, I do wish she had one that was a little better of an influence.",
+      "zh": ""
+    },
+    {
+      "en": "Which probably means nothing from me seeing as I am an adult male who is now en route to her house in the middle of the day, but still.",
+      "zh": ""
+    },
+    {
+      "en": "When I arrive, Chinami is busy playing games on her phone and will only speak to me in between rounds of pig-slaughter.",
+      "zh": ""
+    },
+    {
+      "en": "I spend the rest of the time questioning my life and the decisions that may have led me here.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami stops playing games after her phone suddenly dies and, as I help her look around for her charger, I’m glad that she’s getting so much use out of it.",
+      "zh": ""
+    },
+    {
+      "en": "I can only imagine how boring it is having to spend day after day in one room.",
+      "zh": ""
+    },
+    {
+      "en": "Maybe that’s why I’m coming here?",
+      "zh": ""
+    },
+    {
+      "en": "Maybe it’s something as simple as me feeling bad for her because she’s unable to go out and live a normal life.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide that’s exactly what it is.",
+      "zh": ""
+    },
+    {
+      "en": "The only alternative would be much worse.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chinami_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami’s affection has increased to [chinami_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

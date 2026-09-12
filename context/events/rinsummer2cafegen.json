@@ -1,82 +1,147 @@
 {
- "label": "rinsummer2cafegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I head over to the cafe to drink a random combination of syrups and espresso and hang out with a girl who would rather sleep with another girl than me.",
-   "zh": ""
-  },
-  {
-   "en": "Why I have decided to be so unabashedly confrontational about that via inner monologue, I don’t know. Especially since I, too, would rather sleep with a girl than myself.",
-   "zh": ""
-  },
-  {
-   "en": "But I digress.",
-   "zh": ""
-  },
-  {
-   "en": "The morning proceeds normally and Rin fills me in on all of the latest happenings of her life that I may have missed over the last 24 hours.",
-   "zh": ""
-  },
-  {
-   "en": "As you may have guessed, all of them involve either Otoha or music. Or both of those things.",
-   "zh": ""
-  },
-  {
-   "en": "And while I’m happy that she’s getting to dive face first into the things she loves as of late, I can’t help but wish there was some piece of me in there.",
-   "zh": ""
-  },
-  {
-   "en": "I understand why there’s not, though.",
-   "zh": ""
-  },
-  {
-   "en": "And at this point, I honestly doubt there ever will be.",
-   "zh": ""
-  },
-  {
-   "en": "It doesn’t have to be a big piece. Even a sliver would be fine.",
-   "zh": ""
-  },
-  {
-   "en": "I just feel like we’re moving backwards all of a sudden.",
-   "zh": ""
-  },
-  {
-   "en": "And the idea of that hits me harder than it should.",
-   "zh": ""
-  },
-  {
-   "en": "A flood of customers all decide to caffeinate at the same time and I seize the opportunity to bail out before I get wrapped up in the mess.",
-   "zh": ""
-  },
-  {
-   "en": "Rin notices me leaving and stops what she’s doing to say goodbye, causing the customer she’s currently helping to get pissed off-",
-   "zh": ""
-  },
-  {
-   "en": "But allowing me to leave the building knowing I haven’t been completely forgotten yet.",
-   "zh": ""
-  },
-  {
-   "en": "And that the thought of me may just cross her mind while her tongue is in her girlfriend’s mouth.",
-   "zh": ""
-  },
-  {
-   "en": "Rin’s affection has increased to [rin_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "rinsummer2cafegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label rinsummer2cafegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene rinsummer2cafegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/rinsummer2cafegen.webp",
+      "alt": "rinsummer2cafegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head over to the cafe to drink a random combination of syrups and espresso and hang out with a girl who would rather sleep with another girl than me.",
+      "zh": ""
+    },
+    {
+      "en": "Why I have decided to be so unabashedly confrontational about that via inner monologue, I don’t know. Especially since I, too, would rather sleep with a girl than myself.",
+      "zh": ""
+    },
+    {
+      "en": "But I digress.",
+      "zh": ""
+    },
+    {
+      "en": "The morning proceeds normally and Rin fills me in on all of the latest happenings of her life that I may have missed over the last 24 hours.",
+      "zh": ""
+    },
+    {
+      "en": "As you may have guessed, all of them involve either Otoha or music. Or both of those things.",
+      "zh": ""
+    },
+    {
+      "en": "And while I’m happy that she’s getting to dive face first into the things she loves as of late, I can’t help but wish there was some piece of me in there.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if rinbetrayed == True:",
+      "zh": ""
+    },
+    {
+      "en": "I understand why there’s not, though.",
+      "zh": ""
+    },
+    {
+      "en": "And at this point, I honestly doubt there ever will be.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "It doesn’t have to be a big piece. Even a sliver would be fine.",
+      "zh": ""
+    },
+    {
+      "en": "I just feel like we’re moving backwards all of a sudden.",
+      "zh": ""
+    },
+    {
+      "en": "And the idea of that hits me harder than it should.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A flood of customers all decide to caffeinate at the same time and I seize the opportunity to bail out before I get wrapped up in the mess.",
+      "zh": ""
+    },
+    {
+      "en": "Rin notices me leaving and stops what she’s doing to say goodbye, causing the customer she’s currently helping to get pissed off-",
+      "zh": ""
+    },
+    {
+      "en": "But allowing me to leave the building knowing I haven’t been completely forgotten yet.",
+      "zh": ""
+    },
+    {
+      "en": "And that the thought of me may just cross her mind while her tongue is in her girlfriend’s mouth.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ rin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Rin’s affection has increased to [rin_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

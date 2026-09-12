@@ -1,574 +1,1261 @@
 {
- "label": "day302",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Several days have passed since Touka transferred into class and, it might come as a shock to hear this, but they haven’t gone very well.",
-   "zh": ""
-  },
-  {
-   "en": "I figured that if I was able to get Makoto to give up on her education, I’d certainly be able to get someone like Touka to do it as well.",
-   "zh": ""
-  },
-  {
-   "en": "Granted, Makoto hasn’t really given up on her education and has instead just forced herself into perpetual solo study mode-",
-   "zh": ""
-  },
-  {
-   "en": "But still, I figured a taste of freedom would probably be good for someone like Touka, who’s never really experienced that before.",
-   "zh": ""
-  },
-  {
-   "en": "And yet here I am, leaning back in my office chair and waiting for a knock on my door to signal what I imagine is going to be a rather annoying meeting with her and her mother.",
-   "zh": ""
-  },
-  {
-   "en": "Any second now, the princess will bust through these doors with a pout on her face and demand that I be relieved of my duties or something along those lines.",
-   "zh": ""
-  },
-  {
-   "en": "I mean, in her defense, she’s probably right. But no one else is complaining, so I am clearly at an advantage here.",
-   "zh": ""
-  },
-  {
-   "en": "Probably.",
-   "zh": ""
-  },
-  {
-   "en": "Hopefully.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Well, at least it’s been fun.",
-   "zh": ""
-  },
-  {
-   "en": ": Come in.",
-   "zh": ""
-  },
-  {
-   "en": ": Hmph!",
-   "zh": ""
-  },
-  {
-   "en": ": Sincerest apologies for keeping you so late.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s fine. I didn’t really have anything else to do anyway.",
-   "zh": ""
-  },
-  {
-   "en": ": But, just out of curiosity, is she going to stand there and pout for the entire meeting?",
-   "zh": ""
-  },
-  {
-   "en": ": I’d like to know in advance if I can get away with saying anything I want.",
-   "zh": ""
-  },
-  {
-   "en": ": Of course not!",
-   "zh": ""
-  },
-  {
-   "en": ": I will be participating in the meeting! It was my decision to hold it, after all!",
-   "zh": ""
-  },
-  {
-   "en": ": Which, surprisingly enough, you actually showed up for.",
-   "zh": ""
-  },
-  {
-   "en": ": I certainly did.",
-   "zh": ""
-  },
-  {
-   "en": ": Though, mostly out of curiosity as to why exactly you called for it and why your mother needs to be involved.",
-   "zh": ""
-  },
-  {
-   "en": ": Please forgive her. Touka doesn’t typically take it upon herself to resolve her own issues, so this is actually a step in the right direction.",
-   "zh": ""
-  },
-  {
-   "en": ": Granted, she hasn’t exactly...run into many issues. So this is entirely new for all of us.",
-   "zh": ""
-  },
-  {
-   "en": ": I have been here for almost a full week now...and I feel no different than I did when I first arrived.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, what exactly did you think was going to happen in just one week?",
-   "zh": ""
-  },
-  {
-   "en": ": Something? Anything?",
-   "zh": ""
-  },
-  {
-   "en": ": Every day has been a complete free for all without any direction or schedule and, yes, it is possible that I may just be too “sheltered” to know how commoners study-",
-   "zh": ""
-  },
-  {
-   "en": ": Touka.",
-   "zh": ""
-  },
-  {
-   "en": ": Apologies. How the lower middle class studies.",
-   "zh": ""
-  },
-  {
-   "en": "I actually think I prefer commoner to that.",
-   "zh": ""
-  },
-  {
-   "en": ": But I just have a hard time understanding why your methods are the way they are...and how exactly I’m supposed to make use of my time.",
-   "zh": ""
-  },
-  {
-   "en": ": Just talk to the other girls and have fun. Or ask the girl with the glasses to help you.",
-   "zh": ""
-  },
-  {
-   "en": ": But there are three girls who wear glasses in our classroom and one of them seems significantly less smart than the others.",
-   "zh": ""
-  },
-  {
-   "en": ": Then just...choose the one that looks like a student council president. The other two are weird.",
-   "zh": ""
-  },
-  {
-   "en": ": And sorry. I’m still getting used to the sudden increase in glasses.",
-   "zh": ""
-  },
-  {
-   "en": ": Why can’t you just teach me?",
-   "zh": ""
-  },
-  {
-   "en": ": I had my secretary run a background check on you and confirmed that you have an extensive history in literature, and yet you haven't even attempted to showcase that.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m so confused.",
-   "zh": ""
-  },
-  {
-   "en": ": First, why do you have a secretary? You’re a [teenage]girl.",
-   "zh": ""
-  },
-  {
-   "en": ": At what age do most commoner girls get their secretaries?",
-   "zh": ""
-  },
-  {
-   "en": ": To be quite honest, I thought we were starting Touka rather late. Tsukasa already has one as well.",
-   "zh": ""
-  },
-  {
-   "en": ": Well it makes sense for Tsukasa because she is a 5,000 year old wizard.",
-   "zh": ""
-  },
-  {
-   "en": ": If I didn’t have a secretary, who would answer the phone for me?",
-   "zh": ""
-  },
-  {
-   "en": ": Just answer it yourself.",
-   "zh": ""
-  },
-  {
-   "en": ": Can I do that?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t see why not. I’ve been answering mine for quite some time now.",
-   "zh": ""
-  },
-  {
-   "en": ": Great. So now that we’ve fired your secretary, let me ask why you took it upon yourself to run a background check on me.",
-   "zh": ""
-  },
-  {
-   "en": ": Because you make me mad! And I wanted to confirm that you are not just a man posing as a teacher!",
-   "zh": ""
-  },
-  {
-   "en": ": You know, up until recently, I probably would have shrugged and looked away in response to that.",
-   "zh": ""
-  },
-  {
-   "en": ": But now, I can safely tell you that I am maybe probably almost certain that I’m a real teacher, kind of.",
-   "zh": ""
-  },
-  {
-   "en": ": Can we really not find anyone else to take care of me? I can’t even follow a casual conversation with this man.",
-   "zh": ""
-  },
-  {
-   "en": ": You just have to stop placing yourself so highly above him, dear.",
-   "zh": ""
-  },
-  {
-   "en": ": He would not have been hired here if it weren’t for his ability. And he’s responsible for two of the smartest girls in the entire city.",
-   "zh": ""
-  },
-  {
-   "en": ": I understand that. But it could very well be that those two are just naturally gifted and he conveniently wound up with them in his classroom.",
-   "zh": ""
-  },
-  {
-   "en": "Bingo.",
-   "zh": ""
-  },
-  {
-   "en": ": Or...perhaps it’s just time to do things a little differently?",
-   "zh": ""
-  },
-  {
-   "en": ": Differently how?",
-   "zh": ""
-  },
-  {
-   "en": ": Well...if you’re going to be taking over the family business, don’t you think it would be good for you to at least understand the mindset of the common man?",
-   "zh": ""
-  },
-  {
-   "en": ": Or, at the very least...express yourself like the common people, but think like a wise man.",
-   "zh": ""
-  },
-  {
-   "en": ": Excuse me, Sensei. But if you’re so smart, how about you tell us who my mother was quoting just-",
-   "zh": ""
-  },
-  {
-   "en": ": Aristotle.",
-   "zh": ""
-  },
-  {
-   "en": ": Wha-",
-   "zh": ""
-  },
-  {
-   "en": ": How did you know that?!",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "How did I know that?",
-   "zh": ""
-  },
-  {
-   "en": ": See, dear? He clearly knows what he’s doing. His methods are just a little unusual.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s even worse because it means he is intentionally toying with me rather than subconsciously doing it like everyone else does!",
-   "zh": ""
-  },
-  {
-   "en": ": This man is a bully! I demand he be removed from the premises at once!",
-   "zh": ""
-  },
-  {
-   "en": ": No one is removing anyone, dear...",
-   "zh": ""
-  },
-  {
-   "en": ": You’re going to be the good girl I know you are and do everything this man tells you to do from now on.",
-   "zh": ""
-  },
-  {
-   "en": "Those are extremely dangerous words and I can not wait to exploit them.",
-   "zh": ""
-  },
-  {
-   "en": ": But...Mother! He makes me feel insignificant and weak! I’m the heiress of the Tsukioka family. I can’t afford to be-",
-   "zh": ""
-  },
-  {
-   "en": ": Laaaaame.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": You’re not insignificant and you’re not weak. I know it and you know it. But you have to prove that in the outside world.",
-   "zh": ""
-  },
-  {
-   "en": ": She’s right.",
-   "zh": ""
-  },
-  {
-   "en": ": Like I was saying the day you transferred in, you’re no better than any of the other girls.",
-   "zh": ""
-  },
-  {
-   "en": ": You’re not going to get any special treatment in my class. But you are going to get the opportunity to be a normal girl for once.",
-   "zh": ""
-  },
-  {
-   "en": ": I believed you the first time you said that, but I’m already beginning to have my doubts after hearing it several more times.",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t feel normal at all. The classroom is...loud.",
-   "zh": ""
-  },
-  {
-   "en": ": And I also think one of the girls carries a weapon.",
-   "zh": ""
-  },
-  {
-   "en": ": A few of them do, but that’s not important.",
-   "zh": ""
-  },
-  {
-   "en": ": Is the lower middle class truly that horrifying?",
-   "zh": ""
-  },
-  {
-   "en": ": It can be. But it can also be kind of freeing if you can look past the slow creep of debt and all of the other depressing stuff we'll have to deal with in our lifetimes.",
-   "zh": ""
-  },
-  {
-   "en": ": Thankfully, that’s not something that will ever befall you. So you’re free to just have fun.",
-   "zh": ""
-  },
-  {
-   "en": ": But...how do I do that?",
-   "zh": ""
-  },
-  {
-   "en": ": Well, I mentioned it to Tsubasa when we first talked about you transferring in, but why not try moving into the dorms?",
-   "zh": ""
-  },
-  {
-   "en": ": There's only one room open right now, but-",
-   "zh": ""
-  },
-  {
-   "en": ": Apologies. The what?",
-   "zh": ""
-  },
-  {
-   "en": ": They’re like little apartments for girls attending[school] together. I learned about them the other day.",
-   "zh": ""
-  },
-  {
-   "en": ": They sound quite delightful, actually. But I understand if you wouldn’t want to live there just yet.",
-   "zh": ""
-  },
-  {
-   "en": ": These...dorms...",
-   "zh": ""
-  },
-  {
-   "en": ": Do...all of the girls in our class live together under one roof?",
-   "zh": ""
-  },
-  {
-   "en": ": Yup. They certainly do.",
-   "zh": ""
-  },
-  {
-   "en": "This is normally the part where I’d tell her that I basically live there as well, but I’m probably better off concealing that until I can get Touka to like me a little bit more.",
-   "zh": ""
-  },
-  {
-   "en": "Or at least until she’s already decided to move in and it’s too late to pull out.",
-   "zh": ""
-  },
-  {
-   "en": "Hah. Pull out.",
-   "zh": ""
-  },
-  {
-   "en": ": Um...Mother?",
-   "zh": ""
-  },
-  {
-   "en": ": Wait...Touka, are you actually interested in living somewhere like that?",
-   "zh": ""
-  },
-  {
-   "en": ": Well...the house you and Father bought me is truly lovely. Really, it is...",
-   "zh": ""
-  },
-  {
-   "en": ": But if I’m to really understand the lives and the minds of the laymen...perhaps it would be beneficial to throw myself directly into the fire?",
-   "zh": ""
-  },
-  {
-   "en": ": Touka...my little girl...you’re growing up so quickly...",
-   "zh": ""
-  },
-  {
-   "en": ": Mother?! Why are you crying?!",
-   "zh": ""
-  },
-  {
-   "en": ": I’m just...so proud of you...",
-   "zh": ""
-  },
-  {
-   "en": ": Stop that! You’re going to make me cry as well!",
-   "zh": ""
-  },
-  {
-   "en": ": No crying in my office, please. Feel free to go out in the hall and come back once you’re done, though.",
-   "zh": ""
-  },
-  {
-   "en": ": Of course...I’m sorry.",
-   "zh": ""
-  },
-  {
-   "en": ": How...Or, rather...",
-   "zh": ""
-  },
-  {
-   "en": ": As my teacher, and please be honest with me...Do you think living in a place like that would be good for me?",
-   "zh": ""
-  },
-  {
-   "en": ": I mean, I don’t think it would be bad. But only you can really know what’s good for you.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m just some guy who gets to watch you fumble your way through life and extend a hand to help you up if it’s not too much of an inconvenience for me to do so.",
-   "zh": ""
-  },
-  {
-   "en": ": You’re extremely informal and cynical for a man in the educational field, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": I truly do hope you know what you’re doing for all of our sakes and not just my own.",
-   "zh": ""
-  },
-  {
-   "en": ": Maybe I do. Maybe I don’t. There’s really only one way to find out.",
-   "zh": ""
-  },
-  {
-   "en": ": If I were you, I’d probably jump at the chance to live in the dorms. And to do all sorts of other “commoner activities” as well.",
-   "zh": ""
-  },
-  {
-   "en": ": Yes! Commoner activities!",
-   "zh": ""
-  },
-  {
-   "en": ": Like...eating fast food! And shopping for discount shoes with the friends that I do not yet have!",
-   "zh": ""
-  },
-  {
-   "en": ": Sure. Those are definitely two things that exist.",
-   "zh": ""
-  },
-  {
-   "en": ": Just...be careful not to eat too much of that fast food, dear. It can have horrible effects on your body over time.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, I’m so excited!",
-   "zh": ""
-  },
-  {
-   "en": ": But, like I was saying before, there’s only one room left on the second floor. And you’ll be the only person living there until the final student transfers in.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s fine.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m rather used to being alone anyway.",
-   "zh": ""
-  },
-  {
-   "en": ": So you agree to do exactly as this man says until you graduate from [high_school]?",
-   "zh": ""
-  },
-  {
-   "en": "Thank you again to Tsubasa for wording that in a completely wholesome way that I will definitely not misinterpret and relive the next time my pants come off.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Fine. I agree.",
-   "zh": ""
-  },
-  {
-   "en": ": Though, let it be known that this is the very last chance.",
-   "zh": ""
-  },
-  {
-   "en": ": And that the next moment I feel as if you are purposely teasing or ridiculing me, I’m having you fired.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, well then just have me fired now because there is no way I’m not teasing you again in the future.",
-   "zh": ""
-  },
-  {
-   "en": ": Again?! How dare you! And in a moment of great seriousness as well! Have you no shame?!",
-   "zh": ""
-  },
-  {
-   "en": "Touka spends the next several minutes yelling at me before her mother has to drag her out of the room for whatever rich person lesson she has today.",
-   "zh": ""
-  },
-  {
-   "en": "Probably squash or something. That’s a rich person game, right?",
-   "zh": ""
-  },
-  {
-   "en": "Either way, the Tsukiokas do not have me fired tonight as Touka ultimately apologizes for yet another one of her many overreactions over the brief course of time I’ve known her.",
-   "zh": ""
-  },
-  {
-   "en": "And while I can’t guarantee that her transition into the dorms will be easy, I can at least hope that it won’t be as rough as the one that brought her into the class...",
-   "zh": ""
-  },
-  {
-   "en": "Touka’s affection has increased to [touka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day302",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day302:",
+      "zh": ""
+    },
+    {
+      "en": "scene toukatsubasameeting1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting1.webp",
+      "alt": "toukatsubasameeting1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Several days have passed since Touka transferred into class and, it might come as a shock to hear this, but they haven’t gone very well.",
+      "zh": ""
+    },
+    {
+      "en": "I figured that if I was able to get Makoto to give up on her education, I’d certainly be able to get someone like Touka to do it as well.",
+      "zh": ""
+    },
+    {
+      "en": "Granted, Makoto hasn’t really given up on her education and has instead just forced herself into perpetual solo study mode-",
+      "zh": ""
+    },
+    {
+      "en": "But still, I figured a taste of freedom would probably be good for someone like Touka, who’s never really experienced that before.",
+      "zh": ""
+    },
+    {
+      "en": "And yet here I am, leaning back in my office chair and waiting for a knock on my door to signal what I imagine is going to be a rather annoying meeting with her and her mother.",
+      "zh": ""
+    },
+    {
+      "en": "Any second now, the princess will bust through these doors with a pout on her face and demand that I be relieved of my duties or something along those lines.",
+      "zh": ""
+    },
+    {
+      "en": "I mean, in her defense, she’s probably right. But no one else is complaining, so I am clearly at an advantage here.",
+      "zh": ""
+    },
+    {
+      "en": "Probably.",
+      "zh": ""
+    },
+    {
+      "en": "Hopefully.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Well, at least it’s been fun.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come in.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting2.webp",
+      "alt": "toukatsubasameeting2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmph!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Sincerest apologies for keeping you so late.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": It’s fine. I didn’t really have anything else to do anyway.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": But, just out of curiosity, is she going to stand there and pout for the entire meeting?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I’d like to know in advance if I can get away with saying anything I want.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting3.webp",
+      "alt": "toukatsubasameeting3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course not!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I will be participating in the meeting! It was my decision to hold it, after all!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Which, surprisingly enough, you actually showed up for.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I certainly did.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Though, mostly out of curiosity as to why exactly you called for it and why your mother needs to be involved.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Please forgive her. Touka doesn’t typically take it upon herself to resolve her own issues, so this is actually a step in the right direction.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Granted, she hasn’t exactly...run into many issues. So this is entirely new for all of us.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting4.webp",
+      "alt": "toukatsubasameeting4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I have been here for almost a full week now...and I feel no different than I did when I first arrived.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Well, what exactly did you think was going to happen in just one week?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Something? Anything?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Every day has been a complete free for all without any direction or schedule and, yes, it is possible that I may just be too “sheltered” to know how commoners study-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Touka.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Apologies. How the lower middle class studies.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I actually think I prefer commoner to that.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But I just have a hard time understanding why your methods are the way they are...and how exactly I’m supposed to make use of my time.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Just talk to the other girls and have fun. Or ask the girl with the glasses to help you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": But there are three girls who wear glasses in our classroom and one of them seems significantly less smart than the others.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Then just...choose the one that looks like a student council president. The other two are weird.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": And sorry. I’m still getting used to the sudden increase in glasses.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting5.webp",
+      "alt": "toukatsubasameeting5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why can’t you just teach me?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I had my secretary run a background check on you and confirmed that you have an extensive history in literature, and yet you haven't even attempted to showcase that.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I’m so confused.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": First, why do you have a secretary? You’re a [teenage]girl.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting6.webp",
+      "alt": "toukatsubasameeting6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": At what age do most commoner girls get their secretaries?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": To be quite honest, I thought we were starting Touka rather late. Tsukasa already has one as well.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Well it makes sense for Tsukasa because she is a 5,000 year old wizard.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": If I didn’t have a secretary, who would answer the phone for me?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Just answer it yourself.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting7.webp",
+      "alt": "toukatsubasameeting7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Can I do that?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t see why not. I’ve been answering mine for quite some time now.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Great. So now that we’ve fired your secretary, let me ask why you took it upon yourself to run a background check on me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting8.webp",
+      "alt": "toukatsubasameeting8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Because you make me mad! And I wanted to confirm that you are not just a man posing as a teacher!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": You know, up until recently, I probably would have shrugged and looked away in response to that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": But now, I can safely tell you that I am maybe probably almost certain that I’m a real teacher, kind of.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting9.webp",
+      "alt": "toukatsubasameeting9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Can we really not find anyone else to take care of me? I can’t even follow a casual conversation with this man.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": You just have to stop placing yourself so highly above him, dear.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": He would not have been hired here if it weren’t for his ability. And he’s responsible for two of the smartest girls in the entire city.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": I understand that. But it could very well be that those two are just naturally gifted and he conveniently wound up with them in his classroom.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Bingo.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Or...perhaps it’s just time to do things a little differently?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Differently how?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Well...if you’re going to be taking over the family business, don’t you think it would be good for you to at least understand the mindset of the common man?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Or, at the very least...express yourself like the common people, but think like a wise man.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting10.webp",
+      "alt": "toukatsubasameeting10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Excuse me, Sensei. But if you’re so smart, how about you tell us who my mother was quoting just-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Aristotle.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting11.webp",
+      "alt": "toukatsubasameeting11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wha-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": How did you know that?!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "How did I know that?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": See, dear? He clearly knows what he’s doing. His methods are just a little unusual.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": That’s even worse because it means he is intentionally toying with me rather than subconsciously doing it like everyone else does!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting12.webp",
+      "alt": "toukatsubasameeting12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": This man is a bully! I demand he be removed from the premises at once!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": No one is removing anyone, dear...",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": You’re going to be the good girl I know you are and do everything this man tells you to do from now on.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Those are extremely dangerous words and I can not wait to exploit them.",
+      "zh": ""
+    },
+    {
+      "en": "scene toukatsubasameeting13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting13.webp",
+      "alt": "toukatsubasameeting13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But...Mother! He makes me feel insignificant and weak! I’m the heiress of the Tsukioka family. I can’t afford to be-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Laaaaame.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting14.webp",
+      "alt": "toukatsubasameeting14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": You’re not insignificant and you’re not weak. I know it and you know it. But you have to prove that in the outside world.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": She’s right.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Like I was saying the day you transferred in, you’re no better than any of the other girls.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You’re not going to get any special treatment in my class. But you are going to get the opportunity to be a normal girl for once.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting15.webp",
+      "alt": "toukatsubasameeting15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I believed you the first time you said that, but I’m already beginning to have my doubts after hearing it several more times.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t feel normal at all. The classroom is...loud.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": And I also think one of the girls carries a weapon.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": A few of them do, but that’s not important.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting16.webp",
+      "alt": "toukatsubasameeting16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is the lower middle class truly that horrifying?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": It can be. But it can also be kind of freeing if you can look past the slow creep of debt and all of the other depressing stuff we'll have to deal with in our lifetimes.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Thankfully, that’s not something that will ever befall you. So you’re free to just have fun.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": But...how do I do that?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Well, I mentioned it to Tsubasa when we first talked about you transferring in, but why not try moving into the dorms?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": There's only one room open right now, but-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting17.webp",
+      "alt": "toukatsubasameeting17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Apologies. The what?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": They’re like little apartments for girls attending[school] together. I learned about them the other day.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": They sound quite delightful, actually. But I understand if you wouldn’t want to live there just yet.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": These...dorms...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Do...all of the girls in our class live together under one roof?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Yup. They certainly do.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "This is normally the part where I’d tell her that I basically live there as well, but I’m probably better off concealing that until I can get Touka to like me a little bit more.",
+      "zh": ""
+    },
+    {
+      "en": "Or at least until she’s already decided to move in and it’s too late to pull out.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Hah. Pull out.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting18.webp",
+      "alt": "toukatsubasameeting18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...Mother?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Wait...Touka, are you actually interested in living somewhere like that?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Well...the house you and Father bought me is truly lovely. Really, it is...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": But if I’m to really understand the lives and the minds of the laymen...perhaps it would be beneficial to throw myself directly into the fire?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting19.webp",
+      "alt": "toukatsubasameeting19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Touka...my little girl...you’re growing up so quickly...",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Mother?! Why are you crying?!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I’m just...so proud of you...",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Stop that! You’re going to make me cry as well!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": No crying in my office, please. Feel free to go out in the hall and come back once you’re done, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting20.webp",
+      "alt": "toukatsubasameeting20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course...I’m sorry.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": How...Or, rather...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": As my teacher, and please be honest with me...Do you think living in a place like that would be good for me?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I mean, I don’t think it would be bad. But only you can really know what’s good for you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I’m just some guy who gets to watch you fumble your way through life and extend a hand to help you up if it’s not too much of an inconvenience for me to do so.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting21.webp",
+      "alt": "toukatsubasameeting21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re extremely informal and cynical for a man in the educational field, Sensei.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I truly do hope you know what you’re doing for all of our sakes and not just my own.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Maybe I do. Maybe I don’t. There’s really only one way to find out.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": If I were you, I’d probably jump at the chance to live in the dorms. And to do all sorts of other “commoner activities” as well.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting22.webp",
+      "alt": "toukatsubasameeting22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes! Commoner activities!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Like...eating fast food! And shopping for discount shoes with the friends that I do not yet have!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Sure. Those are definitely two things that exist.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Just...be careful not to eat too much of that fast food, dear. It can have horrible effects on your body over time.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": Oh, I’m so excited!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": But, like I was saying before, there’s only one room left on the second floor. And you’ll be the only person living there until the final student transfers in.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting23.webp",
+      "alt": "toukatsubasameeting23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s fine.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": I’m rather used to being alone anyway.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": So you agree to do exactly as this man says until you graduate from [high_school]?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Thank you again to Tsubasa for wording that in a completely wholesome way that I will definitely not misinterpret and relive the next time my pants come off.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting24.webp",
+      "alt": "toukatsubasameeting24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Fine. I agree.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Though, let it be known that this is the very last chance.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": And that the next moment I feel as if you are purposely teasing or ridiculing me, I’m having you fired.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ": Oh, well then just have me fired now because there is no way I’m not teasing you again in the future.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene toukatsubasameeting25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/toukatsubasameeting25.webp",
+      "alt": "toukatsubasameeting25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Again?! How dare you! And in a moment of great seriousness as well! Have you no shame?!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka spends the next several minutes yelling at me before her mother has to drag her out of the room for whatever rich person lesson she has today.",
+      "zh": ""
+    },
+    {
+      "en": "Probably squash or something. That’s a rich person game, right?",
+      "zh": ""
+    },
+    {
+      "en": "Either way, the Tsukiokas do not have me fired tonight as Touka ultimately apologizes for yet another one of her many overreactions over the brief course of time I’ve known her.",
+      "zh": ""
+    },
+    {
+      "en": "And while I can’t guarantee that her transition into the dorms will be easy, I can at least hope that it won’t be as rough as the one that brought her into the class...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day302 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka’s affection has increased to [touka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

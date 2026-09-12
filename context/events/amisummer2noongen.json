@@ -1,74 +1,125 @@
 {
- "label": "amisummer2noongen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I give Ami a call and, feeling generous today, decide to take her to the mall so she can complain about how I never buy her anything and get too close to me in public.",
-   "zh": ""
-  },
-  {
-   "en": "In hindsight, I was probably just bored- as I can not envision any version of myself generous enough to endure such niecely activities.",
-   "zh": ""
-  },
-  {
-   "en": "The two of us move from store to store, but it’s more like I’m being dragged from store to store than anything else.",
-   "zh": ""
-  },
-  {
-   "en": "I think all of the maid cafe money must be going to Ami’s head as she winds up picking up at least one item from basically every business we step into.",
-   "zh": ""
-  },
-  {
-   "en": "Well, every business beside Chika’s...which she still made a conscious effort to go into, likely to rub the fact that the two of us were hanging out in Chika’s face.",
-   "zh": ""
-  },
-  {
-   "en": "Thankfully (And surprisingly), Chika trusts me enough to believe that there’s nothing more to this and locks herself into the preconceived notion that Ami is just...very clingy.",
-   "zh": ""
-  },
-  {
-   "en": "Which, to be fair, she is.",
-   "zh": ""
-  },
-  {
-   "en": "But her feelings are obviously much greater than that.",
-   "zh": ""
-  },
-  {
-   "en": "If they weren’t, she wouldn’t keep insisting to every employee in every store that I need to accompany her into the dressing room- a thing that not a single person has bought so far.",
-   "zh": ""
-  },
-  {
-   "en": "It’s gotten to the point where I just walk away whenever she says that now.",
-   "zh": ""
-  },
-  {
-   "en": "Eventually, we run out of stores to shop from and dressing rooms to not enter and have to leave the mall before Ami spends the remainder of her paycheck on pointless accessories.",
-   "zh": ""
-  },
-  {
-   "en": "And, even though it’s a little annoying, the two of us grow a little closer in the process.",
-   "zh": ""
-  },
-  {
-   "en": "But, it is at that moment that I begin to wonder just how much closer we can possibly get.",
-   "zh": ""
-  },
-  {
-   "en": "Ami’s affection has increased to [ami_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "amisummer2noongen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amisummer2noongen:",
+      "zh": ""
+    },
+    {
+      "en": "scene amisummer2noongen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amisummer2noongen.webp",
+      "alt": "amisummer2noongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give Ami a call and, feeling generous today, decide to take her to the mall so she can complain about how I never buy her anything and get too close to me in public.",
+      "zh": ""
+    },
+    {
+      "en": "In hindsight, I was probably just bored- as I can not envision any version of myself generous enough to endure such niecely activities.",
+      "zh": ""
+    },
+    {
+      "en": "The two of us move from store to store, but it’s more like I’m being dragged from store to store than anything else.",
+      "zh": ""
+    },
+    {
+      "en": "I think all of the maid cafe money must be going to Ami’s head as she winds up picking up at least one item from basically every business we step into.",
+      "zh": ""
+    },
+    {
+      "en": "Well, every business beside Chika’s...which she still made a conscious effort to go into, likely to rub the fact that the two of us were hanging out in Chika’s face.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Thankfully (And surprisingly), Chika trusts me enough to believe that there’s nothing more to this and locks herself into the preconceived notion that Ami is just...very clingy.",
+      "zh": ""
+    },
+    {
+      "en": "Which, to be fair, she is.",
+      "zh": ""
+    },
+    {
+      "en": "But her feelings are obviously much greater than that.",
+      "zh": ""
+    },
+    {
+      "en": "If they weren’t, she wouldn’t keep insisting to every employee in every store that I need to accompany her into the dressing room- a thing that not a single person has bought so far.",
+      "zh": ""
+    },
+    {
+      "en": "It’s gotten to the point where I just walk away whenever she says that now.",
+      "zh": ""
+    },
+    {
+      "en": "Eventually, we run out of stores to shop from and dressing rooms to not enter and have to leave the mall before Ami spends the remainder of her paycheck on pointless accessories.",
+      "zh": ""
+    },
+    {
+      "en": "And, even though it’s a little annoying, the two of us grow a little closer in the process.",
+      "zh": ""
+    },
+    {
+      "en": "But, it is at that moment that I begin to wonder just how much closer we can possibly get.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ami_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami’s affection has increased to [ami_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

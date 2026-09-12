@@ -1,78 +1,159 @@
 {
- "label": "mollyinvitegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Molly's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": Greetings, Sir! To what or whom do I owe the pleasure?",
-   "zh": ""
-  },
-  {
-   "en": ": To me. But you owe it in person and this phone call is me asking you to come do that.",
-   "zh": ""
-  },
-  {
-   "en": ": You want me to come do you?",
-   "zh": ""
-  },
-  {
-   "en": ": Or just come over. Whichever is easier.",
-   "zh": ""
-  },
-  {
-   "en": ": It's difficult to do anyone if you can not physically touch them, Sir. Technology has advanced quite a bit, but-",
-   "zh": ""
-  },
-  {
-   "en": ": Are you coming or not?",
-   "zh": ""
-  },
-  {
-   "en": ": Aye aye! I'm on my way!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Tell me, Supreme Overlord...what does fate have in store for us today?",
-   "zh": ""
-  },
-  {
-   "en": "How should I spend my time with Molly?",
-   "zh": ""
-  },
-  {
-   "en": "Hang Out (Raise Affection)",
-   "zh": ""
-  },
-  {
-   "en": "Cunnilingus (Raise Lust)",
-   "zh": ""
-  },
-  {
-   "en": "Headpat",
-   "zh": ""
-  }
- ]
+  "label": "mollyinvitegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mollyinvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Molly's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Greetings, Sir! To what or whom do I owe the pleasure?",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ""
+    },
+    {
+      "en": ": To me. But you owe it in person and this phone call is me asking you to come do that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": You want me to come do you?",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ""
+    },
+    {
+      "en": ": Or just come over. Whichever is easier.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": It's difficult to do anyone if you can not physically touch them, Sir. Technology has advanced quite a bit, but-",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ""
+    },
+    {
+      "en": ": Are you coming or not?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Aye aye! I'm on my way!",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene mollyinvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/mollyinvitehub.webp",
+      "alt": "mollyinvitehub"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Tell me, Supreme Overlord...what does fate have in store for us today?",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Molly?",
+      "zh": ""
+    },
+    {
+      "en": "menu mollyinvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": ""
+    },
+    {
+      "en": "jump mollyinviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Cunnilingus (Raise Lust)",
+      "zh": ""
+    },
+    {
+      "en": "jump mollyinvitecun",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": ""
+    },
+    {
+      "en": "jump mollyheadpat",
+      "zh": ""
+    }
+  ]
 }

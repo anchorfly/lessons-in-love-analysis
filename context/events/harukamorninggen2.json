@@ -1,62 +1,113 @@
 {
- "label": "harukamorninggen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I decide to start my day with a trip to the cafe and find Haruka sitting on the couch near the window, going over some paperwork.",
-   "zh": ""
-  },
-  {
-   "en": "She flags me over and asks if I want anything before leaving to go get me a cup of black coffee.",
-   "zh": ""
-  },
-  {
-   "en": "And considering that she's able to procure one while Rin is working, she really demonstrates her power first thing in the morning and I can't help but be impressed.",
-   "zh": ""
-  },
-  {
-   "en": "As it turns out, Haruka is exceptional when it comes to giving people what they actually order.",
-   "zh": ""
-  },
-  {
-   "en": "That is no small feat based on my experience with Koi Cafe, so I'm really starting to think she actually cares about me.",
-   "zh": ""
-  },
-  {
-   "en": "We spend the morning chatting and not paying much attention to things happening around the cafe.",
-   "zh": ""
-  },
-  {
-   "en": "It's a slow day, so none of her employees seem to mind and, instead, they just let us go on uninterrupted- talking about nothing and sitting a little closer together than we probably should.",
-   "zh": ""
-  },
-  {
-   "en": "Not all good things last forever, though.",
-   "zh": ""
-  },
-  {
-   "en": "Even though it's slow, it doesn't change the fact that Haruka needs to take inventory so, reluctantly, she ends our little get together and forces me back into the street.",
-   "zh": ""
-  },
-  {
-   "en": "Well, realistically, she doesn't force me anywhere. But it's clear that I've already overstayed my welcome and that I should probably be on my way...",
-   "zh": ""
-  },
-  {
-   "en": "Haruka's affection has increased to [haruka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "harukamorninggen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label harukamorninggen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene harukamorninggen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/harukamorninggen2.webp",
+      "alt": "harukamorninggen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to start my day with a trip to the cafe and find Haruka sitting on the couch near the window, going over some paperwork.",
+      "zh": ""
+    },
+    {
+      "en": "She flags me over and asks if I want anything before leaving to go get me a cup of black coffee.",
+      "zh": ""
+    },
+    {
+      "en": "And considering that she's able to procure one while Rin is working, she really demonstrates her power first thing in the morning and I can't help but be impressed.",
+      "zh": ""
+    },
+    {
+      "en": "As it turns out, Haruka is exceptional when it comes to giving people what they actually order.",
+      "zh": ""
+    },
+    {
+      "en": "That is no small feat based on my experience with Koi Cafe, so I'm really starting to think she actually cares about me.",
+      "zh": ""
+    },
+    {
+      "en": "We spend the morning chatting and not paying much attention to things happening around the cafe.",
+      "zh": ""
+    },
+    {
+      "en": "It's a slow day, so none of her employees seem to mind and, instead, they just let us go on uninterrupted- talking about nothing and sitting a little closer together than we probably should.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Not all good things last forever, though.",
+      "zh": ""
+    },
+    {
+      "en": "Even though it's slow, it doesn't change the fact that Haruka needs to take inventory so, reluctantly, she ends our little get together and forces me back into the street.",
+      "zh": ""
+    },
+    {
+      "en": "Well, realistically, she doesn't force me anywhere. But it's clear that I've already overstayed my welcome and that I should probably be on my way...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ haruka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Haruka's affection has increased to [haruka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
 }

@@ -1,66 +1,129 @@
 {
- "label": "nikisummer2nightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Niki a little bit later than normal to find that she’s holed up in some fancy hotel in the urban district.",
-   "zh": ""
-  },
-  {
-   "en": "Her mild inebriation at the time of my calling somehow converts into full on drunkenness by the time I get there and the two of us spend the night relaxing on the bed and talking about life.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, being that the two of us are on a mattress and my libido is ten times greater than that of an average male, I attempt to turn our conversation into something more.",
-   "zh": ""
-  },
-  {
-   "en": "Unfortunately, Niki becomes an even bigger bitch when she is intoxicated and spends the rest of the night teasing me and blocking me from making any sort of move.",
-   "zh": ""
-  },
-  {
-   "en": "I continue to press on in hopes of changing that and eventually come extremely close, only to have her pass out minutes later.",
-   "zh": ""
-  },
-  {
-   "en": "While my mission to hook up with an idol may have failed tonight, I am sure there will be many victories to come in the foreseeable future.",
-   "zh": ""
-  },
-  {
-   "en": "I’m just not sure if any of them will come while Niki is under the influence.",
-   "zh": ""
-  },
-  {
-   "en": "I guess that’s kind of a good thing, though, as it makes my moral compass appear a lot stronger than it actually is- and prevents her from doing something she may potentially regret.",
-   "zh": ""
-  },
-  {
-   "en": "Not that I think she’d regret anything happening between the two of us when tons of things have already happened.",
-   "zh": ""
-  },
-  {
-   "en": "What I think she’d regret is not remembering it.",
-   "zh": ""
-  },
-  {
-   "en": "Either way, seeing as she is now unconscious and I have nothing else to do, I take it upon myself to summon a ride back home and hope silently along the way that my next trip to a hotel will have a happy ending.",
-   "zh": ""
-  },
-  {
-   "en": "Niki’s affection has increased to [niki_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "nikisummer2nightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label nikisummer2nightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene nikisummer2nightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/nikisummer2nightgen.webp",
+      "alt": "nikisummer2nightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Niki a little bit later than normal to find that she’s holed up in some fancy hotel in the urban district.",
+      "zh": ""
+    },
+    {
+      "en": "Her mild inebriation at the time of my calling somehow converts into full on drunkenness by the time I get there and the two of us spend the night relaxing on the bed and talking about life.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, being that the two of us are on a mattress and my libido is ten times greater than that of an average male, I attempt to turn our conversation into something more.",
+      "zh": ""
+    },
+    {
+      "en": "Unfortunately, Niki becomes an even bigger bitch when she is intoxicated and spends the rest of the night teasing me and blocking me from making any sort of move.",
+      "zh": ""
+    },
+    {
+      "en": "I continue to press on in hopes of changing that and eventually come extremely close, only to have her pass out minutes later.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "While my mission to hook up with an idol may have failed tonight, I am sure there will be many victories to come in the foreseeable future.",
+      "zh": ""
+    },
+    {
+      "en": "I’m just not sure if any of them will come while Niki is under the influence.",
+      "zh": ""
+    },
+    {
+      "en": "I guess that’s kind of a good thing, though, as it makes my moral compass appear a lot stronger than it actually is- and prevents her from doing something she may potentially regret.",
+      "zh": ""
+    },
+    {
+      "en": "Not that I think she’d regret anything happening between the two of us when tons of things have already happened.",
+      "zh": ""
+    },
+    {
+      "en": "What I think she’d regret is not remembering it.",
+      "zh": ""
+    },
+    {
+      "en": "Either way, seeing as she is now unconscious and I have nothing else to do, I take it upon myself to summon a ride back home and hope silently along the way that my next trip to a hotel will have a happy ending.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ niki_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Niki’s affection has increased to [niki_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

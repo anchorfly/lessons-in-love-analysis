@@ -1,62 +1,113 @@
 {
- "label": "nodokaspringlibrarygen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I find Nodoka in the library because I want to find Nodoka in the library. But also because that's where she elects to spend most of her time.",
-   "zh": ""
-  },
-  {
-   "en": "She accepts me with open arms, and quite literally at that as she stretches them out and beseeches me to cry into her bosom so she can absorb my pain.",
-   "zh": ""
-  },
-  {
-   "en": "I want to think that it's because she wants me to feel better, but I know that it's because it's the only chance she'll ever have to actually feel.",
-   "zh": ""
-  },
-  {
-   "en": "I would do it if I could. Cry. But such a thing is a lot easier when I'm alone in the dark and not surrounded by textbooks and fliers for school events.",
-   "zh": ""
-  },
-  {
-   "en": "As such, she never gets to experience hurt for the first time. And I never get to experience the seductive manipulation of a girl who could rule the world if she'd only apply herself.",
-   "zh": ""
-  },
-  {
-   "en": "I say that, but she does apply herself. She just applies it to the wrong things.",
-   "zh": ""
-  },
-  {
-   "en": "She tells me about research she's been doing lately. About how she thinks the world is broken. But I don't have the heart to tell her she's right.",
-   "zh": ""
-  },
-  {
-   "en": "Beneath the table, I place my hand on her thigh and slide up her skirt. She does not react. And it makes me question whether or not she's immune to physical sensations as well.",
-   "zh": ""
-  },
-  {
-   "en": "But given how depressing and unfortunate that truth would be, I decide instead that she's content with being my many-stringed puppet. Where I can play with her as much as I want, but never correctly.",
-   "zh": ""
-  },
-  {
-   "en": "She's just a little too hard to manipulate. And more often than not, it feels as if she's the one playing with me.",
-   "zh": ""
-  },
-  {
-   "en": "Nodoka’s affection has increased to [nodoka_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "nodokaspringlibrarygen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label nodokaspringlibrarygen:",
+      "zh": ""
+    },
+    {
+      "en": "scene nodokaspringlibrarygen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/nodokaspringlibrarygen.webp",
+      "alt": "nodokaspringlibrarygen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I find Nodoka in the library because I want to find Nodoka in the library. But also because that's where she elects to spend most of her time.",
+      "zh": ""
+    },
+    {
+      "en": "She accepts me with open arms, and quite literally at that as she stretches them out and beseeches me to cry into her bosom so she can absorb my pain.",
+      "zh": ""
+    },
+    {
+      "en": "I want to think that it's because she wants me to feel better, but I know that it's because it's the only chance she'll ever have to actually feel.",
+      "zh": ""
+    },
+    {
+      "en": "I would do it if I could. Cry. But such a thing is a lot easier when I'm alone in the dark and not surrounded by textbooks and fliers for school events.",
+      "zh": ""
+    },
+    {
+      "en": "As such, she never gets to experience hurt for the first time. And I never get to experience the seductive manipulation of a girl who could rule the world if she'd only apply herself.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I say that, but she does apply herself. She just applies it to the wrong things.",
+      "zh": ""
+    },
+    {
+      "en": "She tells me about research she's been doing lately. About how she thinks the world is broken. But I don't have the heart to tell her she's right.",
+      "zh": ""
+    },
+    {
+      "en": "Beneath the table, I place my hand on her thigh and slide up her skirt. She does not react. And it makes me question whether or not she's immune to physical sensations as well.",
+      "zh": ""
+    },
+    {
+      "en": "But given how depressing and unfortunate that truth would be, I decide instead that she's content with being my many-stringed puppet. Where I can play with her as much as I want, but never correctly.",
+      "zh": ""
+    },
+    {
+      "en": "She's just a little too hard to manipulate. And more often than not, it feels as if she's the one playing with me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ nodoka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Nodoka’s affection has increased to [nodoka_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump nightch4",
+      "zh": ""
+    }
+  ]
 }

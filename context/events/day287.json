@@ -1,782 +1,1790 @@
 {
- "label": "day287",
- "title_zh": "",
- "lines": [
-  {
-   "en": "With the transfer process once again out of the way, today marks the first day of the rest of Otoha’s life.",
-   "zh": ""
-  },
-  {
-   "en": "I decide to end my train of thought there to leave things on a positive note as I’m sure the rest of her life will be filled with turmoil and anguish.",
-   "zh": ""
-  },
-  {
-   "en": "Such is the life of all of us.",
-   "zh": ""
-  },
-  {
-   "en": "But I guess the fact that I’ve already embellished on why I cut myself off sort of defeats the purpose of cutting myself off in the first place.",
-   "zh": ""
-  },
-  {
-   "en": "Whoops.",
-   "zh": ""
-  },
-  {
-   "en": "But hey, at least now she has the entire[school] year (And every subsequent one for the foreseeable future) to keep doing the things she wants to do.",
-   "zh": ""
-  },
-  {
-   "en": "And her being around is sure to make Rin feel a little better as well.",
-   "zh": ""
-  },
-  {
-   "en": "At least for now.",
-   "zh": ""
-  },
-  {
-   "en": "She doesn’t have the best track record with romance, so there’s always a chance things could go sour at a moment’s notice.",
-   "zh": ""
-  },
-  {
-   "en": "Such is the art of never knowing.",
-   "zh": ""
-  },
-  {
-   "en": ": Are you excited to never learn anything again for the rest of your life?",
-   "zh": ""
-  },
-  {
-   "en": ": I...highly doubt we’ll be in this class for the rest of our lives, Rin.",
-   "zh": ""
-  },
-  {
-   "en": "Ha.",
-   "zh": ""
-  },
-  {
-   "en": ": I do want to say thanks again for totally-not-stalking me with Nodoka the other day, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": If it wasn’t for you guys, I’d probably be spending the morning reading through some boring textbook in my bedroom while my mom makes tea.",
-   "zh": ""
-  },
-  {
-   "en": ": Well the bedroom and the tea parts don’t sound bad. Textbooks are definitely not my thing, though.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei, be careful! If you say anything bad about textbooks, Makoto will storm out of the classroom and lecture you about it for the rest of the day.",
-   "zh": ""
-  },
-  {
-   "en": ": Thanks, Rin. I can always count on you to watch my back.",
-   "zh": ""
-  },
-  {
-   "en": ": Of course. That’s what homies are for, right?",
-   "zh": ""
-  },
-  {
-   "en": ": It’s good knowing that you two are exactly the same inside of[school] as you are outside of it.",
-   "zh": ""
-  },
-  {
-   "en": ": What's that supposed to mean?",
-   "zh": ""
-  },
-  {
-   "en": ": Not anything weird. I’m already getting used to this guy being overly friendly with [teenager]s.",
-   "zh": ""
-  },
-  {
-   "en": ": I feel like those sentences contradicted each other.",
-   "zh": ""
-  },
-  {
-   "en": ": Nah. I just mean it’s cool that you’re not really focused on putting up a front or anything like that.",
-   "zh": ""
-  },
-  {
-   "en": ": Like that whole “Serious guy on the inside, not serious guy on the outside” kind of thing.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m pretty sure me revealing that you’ll be getting straight A’s in perpetuity should have said all you needed to know about how I am “on the inside.”",
-   "zh": ""
-  },
-  {
-   "en": ": That part’s still setting in. But yeah, definitely awesome.",
-   "zh": ""
-  },
-  {
-   "en": ": And don’t worry. The things he makes you do to keep your grades up are only scary the first few times.",
-   "zh": ""
-  },
-  {
-   "en": ": After that, it’s kind of exciting~",
-   "zh": ""
-  },
-  {
-   "en": ": What...sort of things are you talking about?",
-   "zh": ""
-  },
-  {
-   "en": ": Don’t listen to Rin. I don’t expect anything in return for your grades.",
-   "zh": ""
-  },
-  {
-   "en": ": Though I won’t exactly reject any “donations” you’d be willing to give in exchange for them.",
-   "zh": ""
-  },
-  {
-   "en": ": Hey! Only I’m allowed to suggest stuff like that! It sounds serious when you do it!",
-   "zh": ""
-  },
-  {
-   "en": ": I’m...good.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ll just...take the grades for nothing since you already promised that was the deal.",
-   "zh": ""
-  },
-  {
-   "en": ": Fair enough.",
-   "zh": ""
-  },
-  {
-   "en": ": Are you settled into the dorms yet or is that happening later?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m still with my parents for now, but I’ll be moving in with Nodoka by the end of the week.",
-   "zh": ""
-  },
-  {
-   "en": ": It wasn’t as hard to convince them to let me stay outside of the house as soon as I promised I’d be getting straight A’s from now on.",
-   "zh": ""
-  },
-  {
-   "en": ": Ah, so you decided not to switch with Futaba and live with Rin after all?",
-   "zh": ""
-  },
-  {
-   "en": ": That was an option?!",
-   "zh": ""
-  },
-  {
-   "en": ": I would literally die!",
-   "zh": ""
-  },
-  {
-   "en": ": Platonically, of course! Definitely not because I’m so attracted to her that I would never sleep again!",
-   "zh": ""
-  },
-  {
-   "en": ": Another great save, Rin.",
-   "zh": ""
-  },
-  {
-   "en": ": My nose isn’t bleeding again, is it?",
-   "zh": ""
-  },
-  {
-   "en": ": That happened last week and I really hope it’s not going to be a recurring thing from now on.",
-   "zh": ""
-  },
-  {
-   "en": ": Hahah...hah...",
-   "zh": ""
-  },
-  {
-   "en": ": I just figured it would make more sense to room with Nodoka since, like...I’ve known her longer and...we’re both new here and stuff.",
-   "zh": ""
-  },
-  {
-   "en": "That makes total sense. I’m sure Rin has absolutely nothing to do with that decision at all.",
-   "zh": ""
-  },
-  {
-   "en": ": That’s fine! I completely understand!",
-   "zh": ""
-  },
-  {
-   "en": ": Besides, you’re going to be right upstairs anyway. So I’m sure we’ll still be hanging out all the time and stuff.",
-   "zh": ""
-  },
-  {
-   "en": ": If you’re not busy, of course. I get that you spend a lot of time practicing and...practice is...yeah.",
-   "zh": ""
-  },
-  {
-   "en": ": You get it.",
-   "zh": ""
-  },
-  {
-   "en": ": I get it.",
-   "zh": ""
-  },
-  {
-   "en": ": Actually, Nodoka and I will probably need some help moving stuff into our room soon if you and Futaba want to give us a hand?",
-   "zh": ""
-  },
-  {
-   "en": ": You can have more than a hand! You can have my entire body!",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": I said that out loud, didn’t I?",
-   "zh": ""
-  },
-  {
-   "en": ": Yup...",
-   "zh": ""
-  },
-  {
-   "en": ": Just a hand is fine for now, Rin.",
-   "zh": ""
-  },
-  {
-   "en": ": Got it!",
-   "zh": ""
-  },
-  {
-   "en": ": I’m gonna go inside the classroom and die now. Later, Otoha!",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...see you in a couple minutes, Rin.",
-   "zh": ""
-  },
-  {
-   "en": ": I would once again like to apologize on her behalf.",
-   "zh": ""
-  },
-  {
-   "en": ": She’s just very excited to have you here.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah...she seems to get excited pretty easily, huh?",
-   "zh": ""
-  },
-  {
-   "en": ": Lately, yeah. She goes through her rough patches, though.",
-   "zh": ""
-  },
-  {
-   "en": ": She’s told me something like that before. There’s nothing we can do to prevent it, though, right?",
-   "zh": ""
-  },
-  {
-   "en": ": Like, it just kind of happens?",
-   "zh": ""
-  },
-  {
-   "en": ": Probably best to just play it by ear.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m admittedly not great at dealing with things like that. So if you’re also ever going to get all depressed, please give me the proper notice so I don’t make things worse.",
-   "zh": ""
-  },
-  {
-   "en": ": I’ll do my best.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m normally pretty good at handling stuff like that on my own, though.",
-   "zh": ""
-  },
-  {
-   "en": ": So don’t feel the need to worry about me even though you’re like...my new teacher slash guidance counselor or whatever.",
-   "zh": ""
-  },
-  {
-   "en": ": Huh? Otoha?",
-   "zh": ""
-  },
-  {
-   "en": ": What are you doing here?",
-   "zh": ""
-  },
-  {
-   "en": ": Oh snap, Io! Are you in this class too?",
-   "zh": ""
-  },
-  {
-   "en": ": Yup.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei is awesome. I’m sure you’ll like it here.",
-   "zh": ""
-  },
-  {
-   "en": ": I take it you two are friends?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know if I’d say “friends.” Acquaintances is probably a better term.",
-   "zh": ""
-  },
-  {
-   "en": ": We had a few classes together in our last[school] and Otoha is one of the few people I don’t hate for simply existing.",
-   "zh": ""
-  },
-  {
-   "en": ": Hooray for me.",
-   "zh": ""
-  },
-  {
-   "en": ": I guess your “girls are evil” stance isn’t as strong as I thought it was.",
-   "zh": ""
-  },
-  {
-   "en": ": Otoha is like, barely even a girl.",
-   "zh": ""
-  },
-  {
-   "en": ": What?",
-   "zh": ""
-  },
-  {
-   "en": ": She was actually super popular with girls in our last[school]. Like, I’m pretty sure more girls have confessed to her than boys.",
-   "zh": ""
-  },
-  {
-   "en": ": I like her. Good pick, Sensei.",
-   "zh": ""
-  },
-  {
-   "en": ": Thanks, Io. Though it was more like Nodoka picked her than me.",
-   "zh": ""
-  },
-  {
-   "en": ": Either way, nice.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m gonna go sit down and not talk to anyone for the rest of the day now. But it was cool catching up.",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah. See you in class...",
-   "zh": ""
-  },
-  {
-   "en": ": Hah...",
-   "zh": ""
-  },
-  {
-   "en": ": If it’s any consolation, I definitely view you as a girl.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s weird cause like, that’s not even the first time I’ve heard that.",
-   "zh": ""
-  },
-  {
-   "en": ": Like...do I come off as boyish to you?",
-   "zh": ""
-  },
-  {
-   "en": ": Not so much boyish, but...maybe just really cool?",
-   "zh": ""
-  },
-  {
-   "en": ": Girls tend to like people they look up to, don’t they?",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t know. I’ve never really liked anyone before.",
-   "zh": ""
-  },
-  {
-   "en": ": How? You’re in [high_school].",
-   "zh": ""
-  },
-  {
-   "en": ": Well yeah, but it’s not like I’ve ever had time for a relationship or anything.",
-   "zh": ""
-  },
-  {
-   "en": ": And even if I did, there’s no way my parents would approve of something like that.",
-   "zh": ""
-  },
-  {
-   "en": ": Well, luckily for you, your parents aren’t in charge of you anymore. And I hereby grant you permission to date anyone you want.",
-   "zh": ""
-  },
-  {
-   "en": ": Thanks. Try not to be too loud though because Nodoka will hear it and start bugging me again.",
-   "zh": ""
-  },
-  {
-   "en": ": I thought you'd be more worried about Rin hearing it.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh! Would you look at the time? Better go introduce myself to the class before the bell rings!",
-   "zh": ""
-  },
-  {
-   "en": ": Good talk, Sensei!",
-   "zh": ""
-  },
-  {
-   "en": ": Make sure you email my report card to my mom!",
-   "zh": ""
-  },
-  {
-   "en": "Otoha quickly slides into the classroom, not bothering to hold the door open for me, before taking her place in the front of the room.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Ah! The Herald of the Adolescents has the improper armor set equipped!",
-   "zh": ""
-  },
-  {
-   "en": ": Kendo Princess, my defensives are on cooldown! Cast pain suppression!",
-   "zh": ""
-  },
-  {
-   "en": ": Let your pain be suppressed, bro.",
-   "zh": ""
-  },
-  {
-   "en": ": If Wakana can wear a gothic lolita dress to[school], I can go a few days without my blazer on.",
-   "zh": ""
-  },
-  {
-   "en": ": Now pay attention to the obviously female student in the front of the class.",
-   "zh": ""
-  },
-  {
-   "en": ": Uh...hey, everyone. I’m the obviously female Otoha Okakura.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m friends with a few of you already but...for those of you that don’t know me, I’m a musician and a songwriter.",
-   "zh": ""
-  },
-  {
-   "en": ": I’m not great at introductions, so...that’s kind of all I’ve got.",
-   "zh": ""
-  },
-  {
-   "en": ": But if anybody has any questions for some reason, I’d be happy to answer them.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh my god oh my god oh my god oh my god oh my god oh my god oh my god oh my god.",
-   "zh": ""
-  },
-  {
-   "en": ": Is she...a friend of yours, Rin?",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah. I’ve been trying to get her to transfer in since Christmas. Isn’t she the coolest?",
-   "zh": ""
-  },
-  {
-   "en": ": She looks...really pretty...",
-   "zh": ""
-  },
-  {
-   "en": ": I didn’t know that...we were allowed to wear pants to[school]...",
-   "zh": ""
-  },
-  {
-   "en": ": I kind of...want to try that...",
-   "zh": ""
-  },
-  {
-   "en": ": Really? Do you not like skirts, Sana?",
-   "zh": ""
-  },
-  {
-   "en": ": I like dresses, but...skirts make me feel a little exposed...",
-   "zh": ""
-  },
-  {
-   "en": ": But your legs are so nice and smooth and pale and cute.",
-   "zh": ""
-  },
-  {
-   "en": ": Probably. I wouldn’t know because I definitely don’t stare at them while you’re not looking sometimes.",
-   "zh": ""
-  },
-  {
-   "en": ": Well...um...thank you...",
-   "zh": ""
-  },
-  {
-   "en": ": But...maybe I’ll...try something else out soon?...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": It’s like everyone from my old[school] is slowly taking over this one. I love it.",
-   "zh": ""
-  },
-  {
-   "en": ": Could this give Noriko Nakayama the push she needs to make a run for class president?! Could the scale be tipped in her favor?!",
-   "zh": ""
-  },
-  {
-   "en": ": Find out next week in...Untitled [kumon_mi_high] Drama Show!",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, um...Noriko, right?",
-   "zh": ""
-  },
-  {
-   "en": ": Noriko! Right!",
-   "zh": ""
-  },
-  {
-   "en": ": What’s up, Chika?",
-   "zh": ""
-  },
-  {
-   "en": ": I’ve been wondering...and it’s probably a stupid question, but like-",
-   "zh": ""
-  },
-  {
-   "en": ": You’re not...related to...Niki in any way, are you?",
-   "zh": ""
-  },
-  {
-   "en": ": I am! She’s my older sister. Are you a fan of hers?",
-   "zh": ""
-  },
-  {
-   "en": ": Get out.",
-   "zh": ""
-  },
-  {
-   "en": ": But the bell hasn't rung yet.",
-   "zh": ""
-  },
-  {
-   "en": ": There’s no way...",
-   "zh": ""
-  },
-  {
-   "en": ": You’re not messing with me, are you?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m like...a huuuuuuge fan!",
-   "zh": ""
-  },
-  {
-   "en": ": I have posters of her all over my room!",
-   "zh": ""
-  },
-  {
-   "en": ": Really? I’ll have to let her know! She’d be really happy to hear that.",
-   "zh": ""
-  },
-  {
-   "en": ": I could probably introduce you, you know. The new girl at the front of the class right now has already met her a bunch of times.",
-   "zh": ""
-  },
-  {
-   "en": ": Please! Yes! Would she...",
-   "zh": ""
-  },
-  {
-   "en": ": Um, my little sister likes her a lot too. Would it be weird to like...ask her if she could sign something for us?",
-   "zh": ""
-  },
-  {
-   "en": ": Not at all. I’ll ask her the next time I see her.",
-   "zh": ""
-  },
-  {
-   "en": ": Ohhhhh my god...",
-   "zh": ""
-  },
-  {
-   "en": ": This like...completely changes how much I hated you for saying all that stuff about Sensei when you transferred in.",
-   "zh": ""
-  },
-  {
-   "en": ": Heck yeah! Famous sister comes in handy once again!",
-   "zh": ""
-  },
-  {
-   "en": ": Oooookay...Well, it looks like no one has any questions, so-",
-   "zh": ""
-  },
-  {
-   "en": ": Excuse me, Miss. I have a question.",
-   "zh": ""
-  },
-  {
-   "en": ": Nodoka? What’s up?",
-   "zh": ""
-  },
-  {
-   "en": ": It appears that you’ve yet to accept my Facebook invitation regarding the once in a lifetime opportunity I suggested in the park the other day.",
-   "zh": ""
-  },
-  {
-   "en": "Did she actually make a real invitation for that?",
-   "zh": ""
-  },
-  {
-   "en": "I have to say, I appreciate how far she’s willing to take a joke.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei and I can only prolong this for so many days, so if you’re uninterested, please click the “reject” button as soon as possible so I can-",
-   "zh": ""
-  },
-  {
-   "en": ": Does anyone have actual questions or is that all?",
-   "zh": ""
-  },
-  {
-   "en": ": I have one!",
-   "zh": ""
-  },
-  {
-   "en": ": Well, I guess it’s not exactly a question but more of just a statement.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh, yeah. Sure. What’s up?",
-   "zh": ""
-  },
-  {
-   "en": ": And sorry but...what’s your name?",
-   "zh": ""
-  },
-  {
-   "en": ": Kirin Kanda.",
-   "zh": ""
-  },
-  {
-   "en": ": Like I said, it’s not really a question.",
-   "zh": ""
-  },
-  {
-   "en": ": I just wanted to say that you’re super hot.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh.",
-   "zh": ""
-  },
-  {
-   "en": ": Uhh...well, thanks.",
-   "zh": ""
-  },
-  {
-   "en": ": Any time! Feel free to come hang out with Noriko and me if you’re ever bored.",
-   "zh": ""
-  },
-  {
-   "en": ": I support this! We can get the band back together!",
-   "zh": ""
-  },
-  {
-   "en": ": I will...keep that in mind.",
-   "zh": ""
-  },
-  {
-   "en": ": And so the battle begins...",
-   "zh": ""
-  },
-  {
-   "en": ": Battle?...",
-   "zh": ""
-  },
-  {
-   "en": ": No...not battle.",
-   "zh": ""
-  },
-  {
-   "en": ": War...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Rin...you’re scaring me...",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, well I can see that this isn’t going anywhere. So I just want to say thanks to everyone for accepting me and that...",
-   "zh": ""
-  },
-  {
-   "en": ": I hope we can all get along and stuff.",
-   "zh": ""
-  },
-  {
-   "en": ": And I would like to thank you for having the only proper introduction that we will ever receive.",
-   "zh": ""
-  },
-  {
-   "en": ": Even if there are several of the girls in class who are now either openly or unopenly expressing a desire to hook up with you.",
-   "zh": ""
-  },
-  {
-   "en": ": Hah...",
-   "zh": ""
-  },
-  {
-   "en": ": It’s going to be another long year, isn't it?...",
-   "zh": ""
-  },
-  {
-   "en": "Otoha’s affection has increased to [otoha_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day287",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day287:",
+      "zh": ""
+    },
+    {
+      "en": "scene otohafirstday1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday1.webp",
+      "alt": "otohafirstday1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "With the transfer process once again out of the way, today marks the first day of the rest of Otoha’s life.",
+      "zh": ""
+    },
+    {
+      "en": "I decide to end my train of thought there to leave things on a positive note as I’m sure the rest of her life will be filled with turmoil and anguish.",
+      "zh": ""
+    },
+    {
+      "en": "Such is the life of all of us.",
+      "zh": ""
+    },
+    {
+      "en": "But I guess the fact that I’ve already embellished on why I cut myself off sort of defeats the purpose of cutting myself off in the first place.",
+      "zh": ""
+    },
+    {
+      "en": "Whoops.",
+      "zh": ""
+    },
+    {
+      "en": "But hey, at least now she has the entire[school] year (And every subsequent one for the foreseeable future) to keep doing the things she wants to do.",
+      "zh": ""
+    },
+    {
+      "en": "And her being around is sure to make Rin feel a little better as well.",
+      "zh": ""
+    },
+    {
+      "en": "At least for now.",
+      "zh": ""
+    },
+    {
+      "en": "She doesn’t have the best track record with romance, so there’s always a chance things could go sour at a moment’s notice.",
+      "zh": ""
+    },
+    {
+      "en": "Such is the art of never knowing.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are you excited to never learn anything again for the rest of your life?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I...highly doubt we’ll be in this class for the rest of our lives, Rin.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ha.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday2.webp",
+      "alt": "otohafirstday2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I do want to say thanks again for totally-not-stalking me with Nodoka the other day, Sensei.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": If it wasn’t for you guys, I’d probably be spending the morning reading through some boring textbook in my bedroom while my mom makes tea.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Well the bedroom and the tea parts don’t sound bad. Textbooks are definitely not my thing, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday3.webp",
+      "alt": "otohafirstday3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei, be careful! If you say anything bad about textbooks, Makoto will storm out of the classroom and lecture you about it for the rest of the day.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Thanks, Rin. I can always count on you to watch my back.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday4.webp",
+      "alt": "otohafirstday4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course. That’s what homies are for, right?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": It’s good knowing that you two are exactly the same inside of[school] as you are outside of it.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday5.webp",
+      "alt": "otohafirstday5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What's that supposed to mean?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Not anything weird. I’m already getting used to this guy being overly friendly with [teenager]s.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I feel like those sentences contradicted each other.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday6.webp",
+      "alt": "otohafirstday6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nah. I just mean it’s cool that you’re not really focused on putting up a front or anything like that.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Like that whole “Serious guy on the inside, not serious guy on the outside” kind of thing.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I’m pretty sure me revealing that you’ll be getting straight A’s in perpetuity should have said all you needed to know about how I am “on the inside.”",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": That part’s still setting in. But yeah, definitely awesome.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday7.webp",
+      "alt": "otohafirstday7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And don’t worry. The things he makes you do to keep your grades up are only scary the first few times.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": After that, it’s kind of exciting~",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": What...sort of things are you talking about?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": "scene otohafirstday8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday8.webp",
+      "alt": "otohafirstday8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Don’t listen to Rin. I don’t expect anything in return for your grades.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Though I won’t exactly reject any “donations” you’d be willing to give in exchange for them.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": "scene otohafirstday9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday9.webp",
+      "alt": "otohafirstday9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! Only I’m allowed to suggest stuff like that! It sounds serious when you do it!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I’m...good.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I’ll just...take the grades for nothing since you already promised that was the deal.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Fair enough.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Are you settled into the dorms yet or is that happening later?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday10.webp",
+      "alt": "otohafirstday10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m still with my parents for now, but I’ll be moving in with Nodoka by the end of the week.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": It wasn’t as hard to convince them to let me stay outside of the house as soon as I promised I’d be getting straight A’s from now on.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Ah, so you decided not to switch with Futaba and live with Rin after all?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday11.webp",
+      "alt": "otohafirstday11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That was an option?!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I would literally die!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Platonically, of course! Definitely not because I’m so attracted to her that I would never sleep again!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Another great save, Rin.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": My nose isn’t bleeding again, is it?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": That happened last week and I really hope it’s not going to be a recurring thing from now on.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Hahah...hah...",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I just figured it would make more sense to room with Nodoka since, like...I’ve known her longer and...we’re both new here and stuff.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "That makes total sense. I’m sure Rin has absolutely nothing to do with that decision at all.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday12.webp",
+      "alt": "otohafirstday12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s fine! I completely understand!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Besides, you’re going to be right upstairs anyway. So I’m sure we’ll still be hanging out all the time and stuff.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": If you’re not busy, of course. I get that you spend a lot of time practicing and...practice is...yeah.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": You get it.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I get it.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Actually, Nodoka and I will probably need some help moving stuff into our room soon if you and Futaba want to give us a hand?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday13.webp",
+      "alt": "otohafirstday13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You can have more than a hand! You can have my entire body!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I said that out loud, didn’t I?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Yup...",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Just a hand is fine for now, Rin.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Got it!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I’m gonna go inside the classroom and die now. Later, Otoha!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Uhh...see you in a couple minutes, Rin.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday14.webp",
+      "alt": "otohafirstday14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I would once again like to apologize on her behalf.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": She’s just very excited to have you here.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah...she seems to get excited pretty easily, huh?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Lately, yeah. She goes through her rough patches, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday15.webp",
+      "alt": "otohafirstday15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": She’s told me something like that before. There’s nothing we can do to prevent it, though, right?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Like, it just kind of happens?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Probably best to just play it by ear.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I’m admittedly not great at dealing with things like that. So if you’re also ever going to get all depressed, please give me the proper notice so I don’t make things worse.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday16.webp",
+      "alt": "otohafirstday16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’ll do my best.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I’m normally pretty good at handling stuff like that on my own, though.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": So don’t feel the need to worry about me even though you’re like...my new teacher slash guidance counselor or whatever.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday17.webp",
+      "alt": "otohafirstday17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh? Otoha?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": What are you doing here?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": Oh snap, Io! Are you in this class too?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday18.webp",
+      "alt": "otohafirstday18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yup.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei is awesome. I’m sure you’ll like it here.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": I take it you two are friends?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday19.webp",
+      "alt": "otohafirstday19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t know if I’d say “friends.” Acquaintances is probably a better term.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": We had a few classes together in our last[school] and Otoha is one of the few people I don’t hate for simply existing.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": Hooray for me.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I guess your “girls are evil” stance isn’t as strong as I thought it was.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Otoha is like, barely even a girl.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday20.webp",
+      "alt": "otohafirstday20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": She was actually super popular with girls in our last[school]. Like, I’m pretty sure more girls have confessed to her than boys.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": I like her. Good pick, Sensei.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": Thanks, Io. Though it was more like Nodoka picked her than me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Either way, nice.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday21.webp",
+      "alt": "otohafirstday21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m gonna go sit down and not talk to anyone for the rest of the day now. But it was cool catching up.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah. See you in class...",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday22.webp",
+      "alt": "otohafirstday22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": If it’s any consolation, I definitely view you as a girl.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday23.webp",
+      "alt": "otohafirstday23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It’s weird cause like, that’s not even the first time I’ve heard that.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Like...do I come off as boyish to you?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Not so much boyish, but...maybe just really cool?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Girls tend to like people they look up to, don’t they?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I don’t know. I’ve never really liked anyone before.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": How? You’re in [high_school].",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Well yeah, but it’s not like I’ve ever had time for a relationship or anything.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": And even if I did, there’s no way my parents would approve of something like that.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, luckily for you, your parents aren’t in charge of you anymore. And I hereby grant you permission to date anyone you want.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Thanks. Try not to be too loud though because Nodoka will hear it and start bugging me again.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I thought you'd be more worried about Rin hearing it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": "scene otohafirstday24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday24.webp",
+      "alt": "otohafirstday24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh! Would you look at the time? Better go introduce myself to the class before the bell rings!",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Good talk, Sensei!",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Make sure you email my report card to my mom!",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Otoha quickly slides into the classroom, not bothering to hold the door open for me, before taking her place in the front of the room.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday25.webp",
+      "alt": "otohafirstday25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah! The Herald of the Adolescents has the improper armor set equipped!",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ""
+    },
+    {
+      "en": ": Kendo Princess, my defensives are on cooldown! Cast pain suppression!",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ""
+    },
+    {
+      "en": ": Let your pain be suppressed, bro.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ""
+    },
+    {
+      "en": ": If Wakana can wear a gothic lolita dress to[school], I can go a few days without my blazer on.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Now pay attention to the obviously female student in the front of the class.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Uh...hey, everyone. I’m the obviously female Otoha Okakura.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I’m friends with a few of you already but...for those of you that don’t know me, I’m a musician and a songwriter.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I’m not great at introductions, so...that’s kind of all I’ve got.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": But if anybody has any questions for some reason, I’d be happy to answer them.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday26.webp",
+      "alt": "otohafirstday26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh my god oh my god oh my god oh my god oh my god oh my god oh my god oh my god.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Is she...a friend of yours, Rin?",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah. I’ve been trying to get her to transfer in since Christmas. Isn’t she the coolest?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday27.webp",
+      "alt": "otohafirstday27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": She looks...really pretty...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": I didn’t know that...we were allowed to wear pants to[school]...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": I kind of...want to try that...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday28",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday28.webp",
+      "alt": "otohafirstday28"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Really? Do you not like skirts, Sana?",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": I like dresses, but...skirts make me feel a little exposed...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": But your legs are so nice and smooth and pale and cute.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Probably. I wouldn’t know because I definitely don’t stare at them while you’re not looking sometimes.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Well...um...thank you...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": But...maybe I’ll...try something else out soon?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday29",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday29.webp",
+      "alt": "otohafirstday29"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": It’s like everyone from my old[school] is slowly taking over this one. I love it.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Could this give Noriko Nakayama the push she needs to make a run for class president?! Could the scale be tipped in her favor?!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Find out next week in...Untitled [kumon_mi_high] Drama Show!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday30",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday30.webp",
+      "alt": "otohafirstday30"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, um...Noriko, right?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Noriko! Right!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": What’s up, Chika?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": I’ve been wondering...and it’s probably a stupid question, but like-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You’re not...related to...Niki in any way, are you?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I am! She’s my older sister. Are you a fan of hers?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday31.webp",
+      "alt": "otohafirstday31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Get out.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": But the bell hasn't rung yet.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": There’s no way...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": You’re not messing with me, are you?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I’m like...a huuuuuuge fan!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": I have posters of her all over my room!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Really? I’ll have to let her know! She’d be really happy to hear that.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": I could probably introduce you, you know. The new girl at the front of the class right now has already met her a bunch of times.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Please! Yes! Would she...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Um, my little sister likes her a lot too. Would it be weird to like...ask her if she could sign something for us?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": Not at all. I’ll ask her the next time I see her.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Ohhhhh my god...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ": This like...completely changes how much I hated you for saying all that stuff about Sensei when you transferred in.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday32.webp",
+      "alt": "otohafirstday32"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heck yeah! Famous sister comes in handy once again!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday25.webp",
+      "alt": "otohafirstday25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oooookay...Well, it looks like no one has any questions, so-",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Excuse me, Miss. I have a question.",
+      "spk": "Nodoka",
+      "spkColor": "#AF89A2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday33",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday33.webp",
+      "alt": "otohafirstday33"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nodoka? What’s up?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It appears that you’ve yet to accept my Facebook invitation regarding the once in a lifetime opportunity I suggested in the park the other day.",
+      "spk": "Nodoka",
+      "spkColor": "#AF89A2",
+      "zh": ""
+    },
+    {
+      "en": "Did she actually make a real invitation for that?",
+      "zh": ""
+    },
+    {
+      "en": "I have to say, I appreciate how far she’s willing to take a joke.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei and I can only prolong this for so many days, so if you’re uninterested, please click the “reject” button as soon as possible so I can-",
+      "spk": "Nodoka",
+      "spkColor": "#AF89A2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday34",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday34.webp",
+      "alt": "otohafirstday34"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Does anyone have actual questions or is that all?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I have one!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": Well, I guess it’s not exactly a question but more of just a statement.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday35",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday35.webp",
+      "alt": "otohafirstday35"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, yeah. Sure. What’s up?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": And sorry but...what’s your name?",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday36",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday36.webp",
+      "alt": "otohafirstday36"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Kirin Kanda.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": Like I said, it’s not really a question.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": I just wanted to say that you’re super hot.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": Oh.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Uhh...well, thanks.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": Any time! Feel free to come hang out with Noriko and me if you’re ever bored.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ""
+    },
+    {
+      "en": ": I support this! We can get the band back together!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": I will...keep that in mind.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday37",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday37.webp",
+      "alt": "otohafirstday37"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And so the battle begins...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": Battle?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": No...not battle.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": War...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": Rin...you’re scaring me...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday38",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday38.webp",
+      "alt": "otohafirstday38"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, well I can see that this isn’t going anywhere. So I just want to say thanks to everyone for accepting me and that...",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": I hope we can all get along and stuff.",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": And I would like to thank you for having the only proper introduction that we will ever receive.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Even if there are several of the girls in class who are now either openly or unopenly expressing a desire to hook up with you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene otohafirstday39",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/otohafirstday39.webp",
+      "alt": "otohafirstday39"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ": It’s going to be another long year, isn't it?...",
+      "spk": "Otoha",
+      "spkColor": "#FF569D",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ otoha_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day287 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Otoha’s affection has increased to [otoha_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

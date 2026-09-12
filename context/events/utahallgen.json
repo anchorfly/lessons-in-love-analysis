@@ -1,58 +1,145 @@
 {
- "label": "utahallgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": ": Heya! I'm guessing you're here to see me, Sensei?",
-   "zh": ""
-  },
-  {
-   "en": ": Just can't stay away, can ya?",
-   "zh": ""
-  },
-  {
-   "en": "I spend the night hanging out with Uta in the hall.",
-   "zh": ""
-  },
-  {
-   "en": "We take a walk around the dorm to kill time and find that there are a number of empty floors directly above us.",
-   "zh": ""
-  },
-  {
-   "en": "I wonder why they stuffed my entire class in here but didn't bother filling up any of the other rooms?",
-   "zh": ""
-  },
-  {
-   "en": "Uta seems to find it strange as well, but we shrug it off and then walk back to her floor together.",
-   "zh": ""
-  },
-  {
-   "en": "The night ends anticlimactically as Uta decides to head back into her room a little ahead of schedule.",
-   "zh": ""
-  },
-  {
-   "en": "She offers to let me join but it seems like her and Io are just going to be watching some TV series they're into.",
-   "zh": ""
-  },
-  {
-   "en": "Figuring they could use a little alone time, I reject the offer and decide to just visit her again another night...",
-   "zh": ""
-  },
-  {
-   "en": "Uta's affection has increased to [uta_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "utahallgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label utahallgen:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene utasummer2hallgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utasummer2hallgen.webp",
+      "alt": "utasummer2hallgen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene utahall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utahall1.webp",
+      "alt": "utahall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heya! I'm guessing you're here to see me, Sensei?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ""
+    },
+    {
+      "en": ": Just can't stay away, can ya?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I spend the night hanging out with Uta in the hall.",
+      "zh": ""
+    },
+    {
+      "en": "We take a walk around the dorm to kill time and find that there are a number of empty floors directly above us.",
+      "zh": ""
+    },
+    {
+      "en": "I wonder why they stuffed my entire class in here but didn't bother filling up any of the other rooms?",
+      "zh": ""
+    },
+    {
+      "en": "Uta seems to find it strange as well, but we shrug it off and then walk back to her floor together.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The night ends anticlimactically as Uta decides to head back into her room a little ahead of schedule.",
+      "zh": ""
+    },
+    {
+      "en": "She offers to let me join but it seems like her and Io are just going to be watching some TV series they're into.",
+      "zh": ""
+    },
+    {
+      "en": "Figuring they could use a little alone time, I reject the offer and decide to just visit her again another night...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ uta_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta's affection has increased to [uta_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

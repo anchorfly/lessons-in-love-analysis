@@ -1,74 +1,142 @@
 {
- "label": "yukispringnoongen",
- "title_zh": "yukispringnoongen",
- "lines": [
-  {
-   "en": "After calling Yuki, I wind up getting talked into visiting her at her apartment so she doesn't have to venture elsewhere just to head off to work later.",
-   "zh": "给 Yuki 打过电话后,我被她说动,去她的公寓找她——省得她为了之后上班,专门往外跑一趟。"
-  },
-  {
-   "en": "And while I'm not too keen on the idea of exerting any sort of energy either now that everything hurts all the time, I go to her regardless because it's either that or just standing here.",
-   "zh": "虽然如今一切都无时无刻不在疼痛,我也不太想耗费任何力气,但我还是去了她那里——因为除此之外,就只剩站在原地。"
-  },
-  {
-   "en": "When I make it to her part of town, I'm reminded of how good I have it to own a piece of real estate in what most would call a nicer area.",
-   "zh": "到了她那一片,我想起自己能在大多数人眼中的好地段拥有一处房产,运气有多好。"
-  },
-  {
-   "en": "But it's strange to me that this feels more like a home than that does.",
-   "zh": "可奇怪的是,这里给我的「家」的感觉,比那里更浓。"
-  },
-  {
-   "en": "Perhaps it's just because of what's happening there right now. Or what has happened in the past.",
-   "zh": "也许是因为那边此刻正在发生的事。或者过去发生过的事。"
-  },
-  {
-   "en": "But whatever it is, I'm glad to be here.",
-   "zh": "但无论是什么,我很高兴来到这里。"
-  },
-  {
-   "en": "As glad as I can be, of course. Which still isn't that great, all things considered.",
-   "zh": "是我力所能及的高兴,当然。综合考量,这也算不上多高兴。"
-  },
-  {
-   "en": "But Yuki manages to alleviate some of that pain by making fun of me and poking at my inadequacies in a way that would be sure to make me smile if my facial muscles hadn't all rotted by now.",
-   "zh": "但 Yuki 成功消解了那份痛——她取笑我,戳我的短处,那方式本该把我逗笑,可惜我的面部肌肉早已全部烂掉。"
-  },
-  {
-   "en": "I do the same and poke fun at her while joining her on the couch.",
-   "zh": "我也以其人之道还治其身,一边坐上她旁边的沙发,一边取笑她。"
-  },
-  {
-   "en": "I can smell smoke lingering on her breath each time I try to move closer just to immediately remember decisions I've made in the past and second guess myself.",
-   "zh": "每次我试图凑近一点,都能闻到她呼吸间残留的烟味,随即想起自己过去做过的决定,重新怀疑起自己。"
-  },
-  {
-   "en": "I wonder what would happen if I knew how to say no to myself. I wonder if she'd let me.",
-   "zh": "我不知道,如果我学会了对自己说「不」,会发生什么。我不知道她会不会允许。"
-  },
-  {
-   "en": "...",
-   "zh": "……"
-  },
-  {
-   "en": "I wonder what I'm doing here.",
-   "zh": "我不知道我在这里干什么。"
-  },
-  {
-   "en": "Yuki’s affection has increased to [yuki_love]!",
-   "zh": "Yuki 的好感度提升到了 [yuki_love]!"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  }
- ]
+  "label": "yukispringnoongen",
+  "title_zh": "yukispringnoongen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label yukispringnoongen:",
+      "zh": ""
+    },
+    {
+      "en": "if dormwarssix12 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene yukispringnoongen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yukispringnoongen.webp",
+      "alt": "yukispringnoongen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene yukispringnoongen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yukispringnoongen2.webp",
+      "alt": "yukispringnoongen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "After calling Yuki, I wind up getting talked into visiting her at her apartment so she doesn't have to venture elsewhere just to head off to work later.",
+      "zh": "给 Yuki 打过电话后,我被她说动,去她的公寓找她——省得她为了之后上班,专门往外跑一趟。"
+    },
+    {
+      "en": "And while I'm not too keen on the idea of exerting any sort of energy either now that everything hurts all the time, I go to her regardless because it's either that or just standing here.",
+      "zh": "虽然如今一切都无时无刻不在疼痛,我也不太想耗费任何力气,但我还是去了她那里——因为除此之外,就只剩站在原地。"
+    },
+    {
+      "en": "When I make it to her part of town, I'm reminded of how good I have it to own a piece of real estate in what most would call a nicer area.",
+      "zh": "到了她那一片,我想起自己能在大多数人眼中的好地段拥有一处房产,运气有多好。"
+    },
+    {
+      "en": "But it's strange to me that this feels more like a home than that does.",
+      "zh": "可奇怪的是,这里给我的「家」的感觉,比那里更浓。"
+    },
+    {
+      "en": "Perhaps it's just because of what's happening there right now. Or what has happened in the past.",
+      "zh": "也许是因为那边此刻正在发生的事。或者过去发生过的事。"
+    },
+    {
+      "en": "But whatever it is, I'm glad to be here.",
+      "zh": "但无论是什么,我很高兴来到这里。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "As glad as I can be, of course. Which still isn't that great, all things considered.",
+      "zh": "是我力所能及的高兴,当然。综合考量,这也算不上多高兴。"
+    },
+    {
+      "en": "But Yuki manages to alleviate some of that pain by making fun of me and poking at my inadequacies in a way that would be sure to make me smile if my facial muscles hadn't all rotted by now.",
+      "zh": "但 Yuki 成功消解了那份痛——她取笑我,戳我的短处,那方式本该把我逗笑,可惜我的面部肌肉早已全部烂掉。"
+    },
+    {
+      "en": "I do the same and poke fun at her while joining her on the couch.",
+      "zh": "我也以其人之道还治其身,一边坐上她旁边的沙发,一边取笑她。"
+    },
+    {
+      "en": "I can smell smoke lingering on her breath each time I try to move closer just to immediately remember decisions I've made in the past and second guess myself.",
+      "zh": "每次我试图凑近一点,都能闻到她呼吸间残留的烟味,随即想起自己过去做过的决定,重新怀疑起自己。"
+    },
+    {
+      "en": "I wonder what would happen if I knew how to say no to myself. I wonder if she'd let me.",
+      "zh": "我不知道,如果我学会了对自己说「不」,会发生什么。我不知道她会不会允许。"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "I wonder what I'm doing here.",
+      "zh": "我不知道我在这里干什么。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yuki_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yuki’s affection has increased to [yuki_love]!",
+      "zh": "Yuki 的好感度提升到了 [yuki_love]!"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump nightch4",
+      "zh": ""
+    }
+  ]
 }

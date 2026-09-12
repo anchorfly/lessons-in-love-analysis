@@ -1,78 +1,129 @@
 {
- "label": "sarasummer2noongen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I call Sara and the two of us make plans to meet at her bar and go for a walk around the neighborhood before her shift begins.",
-   "zh": ""
-  },
-  {
-   "en": "What I didn’t realize at the time of making these plans is that “a walk around the neighborhood” was more like being dragged around it while she points out various locations she has fond memories of.",
-   "zh": ""
-  },
-  {
-   "en": "I wonder if I’d be like that as well if I could properly recollect my past and where I come from.",
-   "zh": ""
-  },
-  {
-   "en": "In fact, I wish I could. Because even if Sara is refusing to let go of my arm and constantly pulling me in a new direction every two minutes, it seems like she’s having a good time.",
-   "zh": ""
-  },
-  {
-   "en": "She points to an aqueduct where she broke her leg once and talks about how, in that moment, she believed she was going to die.",
-   "zh": ""
-  },
-  {
-   "en": "She tells me all sorts of personal stories, lacing them with grim connotations that sound more like jokes thanks to the way she speaks-",
-   "zh": ""
-  },
-  {
-   "en": "And I never pull away my arm, so she’ll still have something to hang on to when she can’t laugh anymore.",
-   "zh": ""
-  },
-  {
-   "en": "She takes me down to the aqueduct and almost slips in the process.",
-   "zh": ""
-  },
-  {
-   "en": "I catch her and pull her back to me before she repeats the past and it causes the two of us to fall into the dirt.",
-   "zh": ""
-  },
-  {
-   "en": "She lands on top of me like it’s some sort of scene in a romantic comedy.",
-   "zh": ""
-  },
-  {
-   "en": "But instead of using the opportunity to either kiss me or blush and apologize for being so clumsy, she just stares into my eyes in silence.",
-   "zh": ""
-  },
-  {
-   "en": "For a moment, I think I see something in them.",
-   "zh": ""
-  },
-  {
-   "en": "But when a bug crawls across her arm and she gets startled out of her trance, whatever it was disappears.",
-   "zh": ""
-  },
-  {
-   "en": "And I walk her home without any idea of whether or not I’ll ever see it again.",
-   "zh": ""
-  },
-  {
-   "en": "Sara’s affection has increased to [sara_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "sarasummer2noongen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sarasummer2noongen:",
+      "zh": ""
+    },
+    {
+      "en": "scene sarasummer2noongen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sarasummer2noongen.webp",
+      "alt": "sarasummer2noongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Sara and the two of us make plans to meet at her bar and go for a walk around the neighborhood before her shift begins.",
+      "zh": ""
+    },
+    {
+      "en": "What I didn’t realize at the time of making these plans is that “a walk around the neighborhood” was more like being dragged around it while she points out various locations she has fond memories of.",
+      "zh": ""
+    },
+    {
+      "en": "I wonder if I’d be like that as well if I could properly recollect my past and where I come from.",
+      "zh": ""
+    },
+    {
+      "en": "In fact, I wish I could. Because even if Sara is refusing to let go of my arm and constantly pulling me in a new direction every two minutes, it seems like she’s having a good time.",
+      "zh": ""
+    },
+    {
+      "en": "She points to an aqueduct where she broke her leg once and talks about how, in that moment, she believed she was going to die.",
+      "zh": ""
+    },
+    {
+      "en": "She tells me all sorts of personal stories, lacing them with grim connotations that sound more like jokes thanks to the way she speaks-",
+      "zh": ""
+    },
+    {
+      "en": "And I never pull away my arm, so she’ll still have something to hang on to when she can’t laugh anymore.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She takes me down to the aqueduct and almost slips in the process.",
+      "zh": ""
+    },
+    {
+      "en": "I catch her and pull her back to me before she repeats the past and it causes the two of us to fall into the dirt.",
+      "zh": ""
+    },
+    {
+      "en": "She lands on top of me like it’s some sort of scene in a romantic comedy.",
+      "zh": ""
+    },
+    {
+      "en": "But instead of using the opportunity to either kiss me or blush and apologize for being so clumsy, she just stares into my eyes in silence.",
+      "zh": ""
+    },
+    {
+      "en": "For a moment, I think I see something in them.",
+      "zh": ""
+    },
+    {
+      "en": "But when a bug crawls across her arm and she gets startled out of her trance, whatever it was disappears.",
+      "zh": ""
+    },
+    {
+      "en": "And I walk her home without any idea of whether or not I’ll ever see it again.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sara_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sara’s affection has increased to [sara_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

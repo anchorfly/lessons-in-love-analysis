@@ -1,66 +1,117 @@
 {
- "label": "karinnoongen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "Karin and I meet up at our usual park but she decides against running today due to all of the ice on the ground.",
-   "zh": ""
-  },
-  {
-   "en": "She talks about how she normally signs up for a gym membership in the winter for this exact reason, but then begins to panic once I ask what gym she goes to.",
-   "zh": ""
-  },
-  {
-   "en": "I guess she's embarrassed about being seen there, but she exercises in front of me all the time so I'm not really sure what her deal is.",
-   "zh": ""
-  },
-  {
-   "en": "Regardless, we spend the afternoon under a gazebo- hiding behind its pillars each time the wind blows.",
-   "zh": ""
-  },
-  {
-   "en": "She does this thing where she holds on to her ponytail every time a large gust comes around and, despite it being a little pointless in my view, it's definitely cute.",
-   "zh": ""
-  },
-  {
-   "en": "But she's become sort of synonymous with cute behavior at this point, so that shouldn't really come as any surprise.",
-   "zh": ""
-  },
-  {
-   "en": "Slowly but surely, I can feel Karin becoming a little more comfortable with me.",
-   "zh": ""
-  },
-  {
-   "en": "Don't get me wrong, she's still nowhere near the level of going out on dates or anything like that, but-",
-   "zh": ""
-  },
-  {
-   "en": "Well, let's just say that it's very easy to tell she likes being around me.",
-   "zh": ""
-  },
-  {
-   "en": "Why she likes that, I have no idea. But it doesn't change the fact that she does.",
-   "zh": ""
-  },
-  {
-   "en": "So I will continue being the horrible cynic I am as it has yet to negatively impact the growing bond between the two of us.",
-   "zh": ""
-  },
-  {
-   "en": "Karin's affection has increased to [karin_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "karinnoongen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label karinnoongen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene karinnoongen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/karinnoongen2.webp",
+      "alt": "karinnoongen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Karin and I meet up at our usual park but she decides against running today due to all of the ice on the ground.",
+      "zh": ""
+    },
+    {
+      "en": "She talks about how she normally signs up for a gym membership in the winter for this exact reason, but then begins to panic once I ask what gym she goes to.",
+      "zh": ""
+    },
+    {
+      "en": "I guess she's embarrassed about being seen there, but she exercises in front of me all the time so I'm not really sure what her deal is.",
+      "zh": ""
+    },
+    {
+      "en": "Regardless, we spend the afternoon under a gazebo- hiding behind its pillars each time the wind blows.",
+      "zh": ""
+    },
+    {
+      "en": "She does this thing where she holds on to her ponytail every time a large gust comes around and, despite it being a little pointless in my view, it's definitely cute.",
+      "zh": ""
+    },
+    {
+      "en": "But she's become sort of synonymous with cute behavior at this point, so that shouldn't really come as any surprise.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Slowly but surely, I can feel Karin becoming a little more comfortable with me.",
+      "zh": ""
+    },
+    {
+      "en": "Don't get me wrong, she's still nowhere near the level of going out on dates or anything like that, but-",
+      "zh": ""
+    },
+    {
+      "en": "Well, let's just say that it's very easy to tell she likes being around me.",
+      "zh": ""
+    },
+    {
+      "en": "Why she likes that, I have no idea. But it doesn't change the fact that she does.",
+      "zh": ""
+    },
+    {
+      "en": "So I will continue being the horrible cynic I am as it has yet to negatively impact the growing bond between the two of us.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ karin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Karin's affection has increased to [karin_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

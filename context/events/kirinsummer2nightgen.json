@@ -1,62 +1,125 @@
 {
- "label": "kirinsummer2nightgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I give Kirin a call, but instead of me coming to meet up with her like things usually go, she takes it upon herself to come visit me instead.",
-   "zh": ""
-  },
-  {
-   "en": "I try to stop this considering that a certain redhead also lives in this neighborhood and the idea of her seeing Kirin and me together is relatively alarming, but it does no good as she arrives less than 30 minutes later.",
-   "zh": ""
-  },
-  {
-   "en": "What’s even worse is that she winds up directly outside of my door in complete disregard of all of the warnings I gave her beforehand.",
-   "zh": ""
-  },
-  {
-   "en": "Thankfully, Ami is in the bath at the time of her arrival, so I’m able to slip outside without being noticed as I take Kirin somewhere more private in an unfortunately platonic way.",
-   "zh": ""
-  },
-  {
-   "en": "I’m sure she did all of this on purpose, and I’m sure that she was hoping Ami would catch her as it would be one more piece of drama she could feed off of to make herself feel good.",
-   "zh": ""
-  },
-  {
-   "en": "Or at least attempt to make herself feel good, but regret it in secret while she cries herself to sleep the following night.",
-   "zh": ""
-  },
-  {
-   "en": "No one cries at all tonight, though, as nothing horrible happens.",
-   "zh": ""
-  },
-  {
-   "en": "We just take a mostly silent walk through the streets of my neighborhood, clinging to the shadows like they’re handrails, and pretending that we don’t see the world through shit-colored glasses.",
-   "zh": ""
-  },
-  {
-   "en": "It’s actually quite nice.",
-   "zh": ""
-  },
-  {
-   "en": "But then it ends, and she goes home and cries herself to sleep anyway.",
-   "zh": ""
-  },
-  {
-   "en": "Kirin’s affection has increased to [kirin_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "kirinsummer2nightgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kirinsummer2nightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene kirinsummer2nightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/kirinsummer2nightgen.webp",
+      "alt": "kirinsummer2nightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give Kirin a call, but instead of me coming to meet up with her like things usually go, she takes it upon herself to come visit me instead.",
+      "zh": ""
+    },
+    {
+      "en": "I try to stop this considering that a certain redhead also lives in this neighborhood and the idea of her seeing Kirin and me together is relatively alarming, but it does no good as she arrives less than 30 minutes later.",
+      "zh": ""
+    },
+    {
+      "en": "What’s even worse is that she winds up directly outside of my door in complete disregard of all of the warnings I gave her beforehand.",
+      "zh": ""
+    },
+    {
+      "en": "Thankfully, Ami is in the bath at the time of her arrival, so I’m able to slip outside without being noticed as I take Kirin somewhere more private in an unfortunately platonic way.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I’m sure she did all of this on purpose, and I’m sure that she was hoping Ami would catch her as it would be one more piece of drama she could feed off of to make herself feel good.",
+      "zh": ""
+    },
+    {
+      "en": "Or at least attempt to make herself feel good, but regret it in secret while she cries herself to sleep the following night.",
+      "zh": ""
+    },
+    {
+      "en": "No one cries at all tonight, though, as nothing horrible happens.",
+      "zh": ""
+    },
+    {
+      "en": "We just take a mostly silent walk through the streets of my neighborhood, clinging to the shadows like they’re handrails, and pretending that we don’t see the world through shit-colored glasses.",
+      "zh": ""
+    },
+    {
+      "en": "It’s actually quite nice.",
+      "zh": ""
+    },
+    {
+      "en": "But then it ends, and she goes home and cries herself to sleep anyway.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ kirin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kirin’s affection has increased to [kirin_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

@@ -1,74 +1,125 @@
 {
- "label": "mayasummer2shrinegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I bear the heat just long enough to ascend the stairs to the shrine and find Maya all alone in the shade from the temple, fixing her ponytail and pretending not to notice me.",
-   "zh": ""
-  },
-  {
-   "en": "I think about shooting her some snide remark about how she should be hiding or something along those lines, but decide against it and just take my place beside her in the shade.",
-   "zh": ""
-  },
-  {
-   "en": "My silence must get to her as she breaks character and speaks before I’m able to.",
-   "zh": ""
-  },
-  {
-   "en": "What she says doesn’t matter, but it’s the fact that she says anything that makes me realize how far we’ve come despite the absence of changes in our physical relationship.",
-   "zh": ""
-  },
-  {
-   "en": "Of course that’s how it would work with her, though.",
-   "zh": ""
-  },
-  {
-   "en": "Even though I’ve come to understand just what sorts of feelings she’s kept locked away all this time, I understand even more just how stubborn she is.",
-   "zh": ""
-  },
-  {
-   "en": "And all things considered, I’m the same way.",
-   "zh": ""
-  },
-  {
-   "en": "That’s why I’m still able to bear the heat and ascend the stairs.",
-   "zh": ""
-  },
-  {
-   "en": "The sun chases away the shade and we wind up having to relocate to prevent ourselves from getting sunburnt.",
-   "zh": ""
-  },
-  {
-   "en": "It is at this time, however, that Maya suggests I relocate to somewhere completely different as she is “tired of my presence.”",
-   "zh": ""
-  },
-  {
-   "en": "Not feeling the need or desire to fight back this time, I oblige and immediately turn around to leave.",
-   "zh": ""
-  },
-  {
-   "en": "My actions shock her for the second time today as I’m able to hear a slight gasp escape her lips, but she does not chase after me.",
-   "zh": ""
-  },
-  {
-   "en": "She’s just too stubborn to do so.",
-   "zh": ""
-  },
-  {
-   "en": "Maya’s affection has increased to [maya_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "mayasummer2shrinegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mayasummer2shrinegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene mayasummer2shrinegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/mayasummer2shrinegen.webp",
+      "alt": "mayasummer2shrinegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I bear the heat just long enough to ascend the stairs to the shrine and find Maya all alone in the shade from the temple, fixing her ponytail and pretending not to notice me.",
+      "zh": ""
+    },
+    {
+      "en": "I think about shooting her some snide remark about how she should be hiding or something along those lines, but decide against it and just take my place beside her in the shade.",
+      "zh": ""
+    },
+    {
+      "en": "My silence must get to her as she breaks character and speaks before I’m able to.",
+      "zh": ""
+    },
+    {
+      "en": "What she says doesn’t matter, but it’s the fact that she says anything that makes me realize how far we’ve come despite the absence of changes in our physical relationship.",
+      "zh": ""
+    },
+    {
+      "en": "Of course that’s how it would work with her, though.",
+      "zh": ""
+    },
+    {
+      "en": "Even though I’ve come to understand just what sorts of feelings she’s kept locked away all this time, I understand even more just how stubborn she is.",
+      "zh": ""
+    },
+    {
+      "en": "And all things considered, I’m the same way.",
+      "zh": ""
+    },
+    {
+      "en": "That’s why I’m still able to bear the heat and ascend the stairs.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The sun chases away the shade and we wind up having to relocate to prevent ourselves from getting sunburnt.",
+      "zh": ""
+    },
+    {
+      "en": "It is at this time, however, that Maya suggests I relocate to somewhere completely different as she is “tired of my presence.”",
+      "zh": ""
+    },
+    {
+      "en": "Not feeling the need or desire to fight back this time, I oblige and immediately turn around to leave.",
+      "zh": ""
+    },
+    {
+      "en": "My actions shock her for the second time today as I’m able to hear a slight gasp escape her lips, but she does not chase after me.",
+      "zh": ""
+    },
+    {
+      "en": "She’s just too stubborn to do so.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maya_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maya’s affection has increased to [maya_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
 }

@@ -1,82 +1,166 @@
 {
- "label": "norikoinvitegen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I tap on Noriko's name in my phone and wait for her to answer.",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": ": [norikomaster]!",
-   "zh": ""
-  },
-  {
-   "en": ": Hey, what are you up to right now?",
-   "zh": ""
-  },
-  {
-   "en": ": Not much. Just hanging out in your room and waiting for you to come home.",
-   "zh": ""
-  },
-  {
-   "en": ": What?",
-   "zh": ""
-  },
-  {
-   "en": ": Yeah.",
-   "zh": ""
-  },
-  {
-   "en": ": But what if I brought home another girl?",
-   "zh": ""
-  },
-  {
-   "en": ": I'm game if you are.",
-   "zh": ""
-  },
-  {
-   "en": ": Stay right there.",
-   "zh": ""
-  },
-  {
-   "en": ": Are you bringing another girl?",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Aww...looks like it'll have to be just us again. Oh, how terribly upset this makes me.",
-   "zh": ""
-  },
-  {
-   "en": "How should I spend my time with Noriko?",
-   "zh": ""
-  },
-  {
-   "en": "Hang Out (Raise Affection)",
-   "zh": ""
-  },
-  {
-   "en": "Headpat",
-   "zh": ""
-  }
- ]
+  "label": "norikoinvitegen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label norikoinvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Noriko's name in my phone and wait for her to answer.",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": [norikomaster]!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Hey, what are you up to right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Not much. Just hanging out in your room and waiting for you to come home.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": What?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Yeah.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": But what if I brought home another girl?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I'm game if you are.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ": Stay right there.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Are you bringing another girl?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene norikoinvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/norikoinvitehub.webp",
+      "alt": "norikoinvitehub"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Aww...looks like it'll have to be just us again. Oh, how terribly upset this makes me.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Noriko?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu norikoinvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": ""
+    },
+    {
+      "en": "jump norikoinviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": ""
+    },
+    {
+      "en": "jump norikoheadpat",
+      "zh": ""
+    }
+  ]
 }

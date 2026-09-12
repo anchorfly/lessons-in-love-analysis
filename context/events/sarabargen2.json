@@ -1,58 +1,128 @@
 {
- "label": "sarabargen2",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I weather the cold to come spend time with my favorite alcoholic.",
-   "zh": ""
-  },
-  {
-   "en": "I don't know many alcoholics. In fact, I think Sara might be the only one, but I'm pretty sure she'd still be my favorite either way.",
-   "zh": ""
-  },
-  {
-   "en": "Why? Because she flirts with me and gives me discounts on alcohol.",
-   "zh": ""
-  },
-  {
-   "en": "Mix that with the fact that she is incredibly attractive and that there are no other males around and you have the recipe for a perfect bartender.",
-   "zh": ""
-  },
-  {
-   "en": "The night proceeds with the two of us becoming mutually inebriated and, before long, Sara is unable to hold herself up any longer.",
-   "zh": ""
-  },
-  {
-   "en": "I decide to be a good man and close the bar for her, carrying her upstairs and putting her to bed.",
-   "zh": ""
-  },
-  {
-   "en": "She tries to get me to stay but, despite great temptation, I decide that she's too drunk for even me- which is saying quite a lot.",
-   "zh": ""
-  },
-  {
-   "en": "I am not a man of ethics by any means, but I do not trust my ability to form an erection for a girl who can no longer even form proper sentences.",
-   "zh": ""
-  },
-  {
-   "en": "Sara passes out the second I reject her and, not having anything else to do, I finally start heading home...",
-   "zh": ""
-  },
-  {
-   "en": "Sara's affection has increased to [sara_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "sarabargen2",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sarabargen2:",
+      "zh": ""
+    },
+    {
+      "en": "scene sarabargen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sarabargen2.webp",
+      "alt": "sarabargen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I weather the cold to come spend time with my favorite alcoholic.",
+      "zh": ""
+    },
+    {
+      "en": "I don't know many alcoholics. In fact, I think Sara might be the only one, but I'm pretty sure she'd still be my favorite either way.",
+      "zh": ""
+    },
+    {
+      "en": "Why? Because she flirts with me and gives me discounts on alcohol.",
+      "zh": ""
+    },
+    {
+      "en": "Mix that with the fact that she is incredibly attractive and that there are no other males around and you have the recipe for a perfect bartender.",
+      "zh": ""
+    },
+    {
+      "en": "The night proceeds with the two of us becoming mutually inebriated and, before long, Sara is unable to hold herself up any longer.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to be a good man and close the bar for her, carrying her upstairs and putting her to bed.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "She tries to get me to stay but, despite great temptation, I decide that she's too drunk for even me- which is saying quite a lot.",
+      "zh": ""
+    },
+    {
+      "en": "I am not a man of ethics by any means, but I do not trust my ability to form an erection for a girl who can no longer even form proper sentences.",
+      "zh": ""
+    },
+    {
+      "en": "Sara passes out the second I reject her and, not having anything else to do, I finally start heading home...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sara_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sara's affection has increased to [sara_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }

@@ -1,738 +1,1559 @@
 {
- "label": "day16",
- "title_zh": "",
- "lines": [
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": ": Okay, Sana! Just like we practiced! Are you ready to do this?",
-   "zh": ""
-  },
-  {
-   "en": ": Umm...not really...",
-   "zh": ""
-  },
-  {
-   "en": ": Well, too bad! Because everything you have done in life so far has led up to this very moment!",
-   "zh": ""
-  },
-  {
-   "en": ": This might be the only chance you ever get to show everyone that you have the potential to be an Oscar winning actress!",
-   "zh": ""
-  },
-  {
-   "en": ": But...I don't even want to be an actress...",
-   "zh": ""
-  },
-  {
-   "en": ": What? But I think you'd be so great at it. All of our practices so far have gone really well.",
-   "zh": ""
-  },
-  {
-   "en": ": Ayane...I don’t really know if this is a good idea...",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei is smart, so...he'll probably see right through this...",
-   "zh": ""
-  },
-  {
-   "en": ": That's exactly why we've gotta sell it. But with how flawlessly our three practices have been, I doubt that will be an issue.",
-   "zh": ""
-  },
-  {
-   "en": ": Is three...really enough? Maybe we should...practice a little more before...actually trying this...",
-   "zh": ""
-  },
-  {
-   "en": ": Sana, I need you to understand something for me.",
-   "zh": ""
-  },
-  {
-   "en": ": If I have to wait even one more day to get closer to Sensei, I am going to literally blow myself up and take the entire school with me.",
-   "zh": ""
-  },
-  {
-   "en": ": Please don't...my Switch is in there...",
-   "zh": ""
-  },
-  {
-   "en": ": Sana, we can do this. Just act natural.",
-   "zh": ""
-  },
-  {
-   "en": ": That's a lot easier said than done...",
-   "zh": ""
-  },
-  {
-   "en": ": It’ll be fine! Don’t worry about it.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay...I blew the whistle, so...I don't know. Go play sports or something.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh God. This is it. This is it. How do I look?",
-   "zh": ""
-  },
-  {
-   "en": ": Um...normal?...",
-   "zh": ""
-  },
-  {
-   "en": ": But I'm normally pretty, right? Sana, answer me. We're running out of-",
-   "zh": ""
-  },
-  {
-   "en": ": AYANE HAS FALLEN! THIS IS A TRULY TRAGIC EVENT!",
-   "zh": ""
-  },
-  {
-   "en": ": What?! Oh God! I wasn't ready!",
-   "zh": ""
-  },
-  {
-   "en": ": IS ANYONE HERE STRONG ENOUGH TO CARRY A YOUNG GIRL TO THE NURSE'S OFFICE?!",
-   "zh": ""
-  },
-  {
-   "en": ": I think I can probably-",
-   "zh": ""
-  },
-  {
-   "en": ": IS ANYONE ELSE HERE STRONG ENOUGH TO CARRY A YOUNG GIRL TO THE NURSE'S OFFICE?!",
-   "zh": ""
-  },
-  {
-   "en": ": I am dying! Could this be the end for me?! But I am still so young!",
-   "zh": ""
-  },
-  {
-   "en": ": I MAY NEVER WALK AGAIN!",
-   "zh": ""
-  },
-  {
-   "en": ": Sana, no! That one was my line!",
-   "zh": ""
-  },
-  {
-   "en": ": AYANE MAY NEVER WALK AGAIN!",
-   "zh": ""
-  },
-  {
-   "en": ": I may never walk again!",
-   "zh": ""
-  },
-  {
-   "en": ": What’s going on? What happened?",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei?...Is that you?...",
-   "zh": ""
-  },
-  {
-   "en": ": Your voice sounds so...distant...",
-   "zh": ""
-  },
-  {
-   "en": ": THE LIGHT IS FADING FROM HER EYES!",
-   "zh": ""
-  },
-  {
-   "en": ": Okay Sana, I’m going to need you to step aside for a moment.",
-   "zh": ""
-  },
-  {
-   "en": ": What happened? I feel like I looked away from you for one second.",
-   "zh": ""
-  },
-  {
-   "en": ": As flattered as I am to know that you are always watching me, I really don't know...",
-   "zh": ""
-  },
-  {
-   "en": ": It is as if one moment I was talking about the decline of our current economy with Sana...and the next...",
-   "zh": ""
-  },
-  {
-   "en": ": The next thing I know...I can’t feel my legs...",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei...am I going to die?",
-   "zh": ""
-  },
-  {
-   "en": ": Maybe? I have no idea.",
-   "zh": ""
-  },
-  {
-   "en": ": Can you...prevent me from dying?",
-   "zh": ""
-  },
-  {
-   "en": ": I can carry you to the nurse’s office. That is what you two were yelling about, isn't it?",
-   "zh": ""
-  },
-  {
-   "en": ": And you're always listening as well...",
-   "zh": ""
-  },
-  {
-   "en": ": I knew I could count on you, Sensei...",
-   "zh": ""
-  },
-  {
-   "en": "Knowing full well that something suspicious is going on, I lift Ayane off of the ground and bring her body close to my chest in a princess carry.",
-   "zh": ""
-  },
-  {
-   "en": "That does not stop a certain someone from carrying on the performance, however.",
-   "zh": ""
-  },
-  {
-   "en": ": AYANE! WHY?! YOU WERE SO YOUNG AND HAD SO MUCH LEFT TO DO!",
-   "zh": ""
-  },
-  {
-   "en": ": I CAN ONLY HOPE THERE IS ENOUGH ROOM IN HEAVEN FOR ONE MORE ANGEL!",
-   "zh": ""
-  },
-  {
-   "en": ": Sana is-",
-   "zh": ""
-  },
-  {
-   "en": ": Don't pay any attention to Sana. I am the one in need of medical assistance.",
-   "zh": ""
-  },
-  {
-   "en": ": Right...",
-   "zh": ""
-  },
-  {
-   "en": ": I'm sorry for being so heavy, Sensei...making you work this hard during gym class is something I will never be able to live down.",
-   "zh": ""
-  },
-  {
-   "en": ": You’re like 80 pounds.",
-   "zh": ""
-  },
-  {
-   "en": ": Then that's 80 whole pounds worth of inconvenience for you...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei...what will I do if I can never walk again?",
-   "zh": ""
-  },
-  {
-   "en": ": Will you carry me everywhere for the rest of your life?",
-   "zh": ""
-  },
-  {
-   "en": ": Absolutely not.",
-   "zh": ""
-  },
-  {
-   "en": ": I could push you around in a wheelchair from time to time, though.",
-   "zh": ""
-  },
-  {
-   "en": ": I will take what I can get...",
-   "zh": ""
-  },
-  {
-   "en": "I carry Ayane into the nurse’s office, expecting to find...you know, a nurse...but no one is there at all.",
-   "zh": ""
-  },
-  {
-   "en": "Which quickly makes it even more apparent that this was all some coordinated effort to get the two of us alone in here.",
-   "zh": ""
-  },
-  {
-   "en": "And while having Ayane pull a stunt like that doesn’t surprise me, the cooperation of Sana does.",
-   "zh": ""
-  },
-  {
-   "en": "Granted, calling Sana’s overacting “cooperation” might be a little generous, but it’s strange considering that she’d comply with a demand that very clearly...looks wrong.",
-   "zh": ""
-  },
-  {
-   "en": "I’m sure some of the other girls are thinking the same thing right about now. And I’m sure that’s something I should be worrying about.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "But I have a hard time worrying about anything at all while I’m so distracted by the intense gaze coming from the girl I’m carrying and her soft skin, still warm from soaking up the sun.",
-   "zh": ""
-  },
-  {
-   "en": "When I bring her to the back of the nurse’s office and close the curtain around us, the facade fades and she returns to her normal self.",
-   "zh": ""
-  },
-  {
-   "en": "Or perhaps her normal self never went into hiding at all.",
-   "zh": ""
-  },
-  {
-   "en": "Perhaps Ayane’s normal self is pulling theatrical stunts to create small windows of opportunity for the two of us to climb through.",
-   "zh": ""
-  },
-  {
-   "en": "Perhaps she likes me so much that she’s willing to risk the way she appears to her classmates just so that I can whisk her away and lay her down on some presumably unfamiliar bed.",
-   "zh": ""
-  },
-  {
-   "en": "Perhaps that’s exactly what I like about her.",
-   "zh": ""
-  },
-  {
-   "en": "It’s hard to tell.",
-   "zh": ""
-  },
-  {
-   "en": "Because even if I can make lofty assumptions about the type of person she truly is and how every aspect of her somehow revolves around me-",
-   "zh": ""
-  },
-  {
-   "en": "I know that the true center of gravity that she and all of the others are revolving around is somewhere far away from here.",
-   "zh": ""
-  },
-  {
-   "en": "And that they’re all just aimlessly drifting around at this point.",
-   "zh": ""
-  },
-  {
-   "en": "But that will not stop me from attempting to lasso her into my gravitational pull.",
-   "zh": ""
-  },
-  {
-   "en": "And that will not stop me from imagining the horrible things I’m imagining right now.",
-   "zh": ""
-  },
-  {
-   "en": ": You didn’t buy that at all, did you?",
-   "zh": ""
-  },
-  {
-   "en": ": I knew what was going on from the start.",
-   "zh": ""
-  },
-  {
-   "en": ": Guess Sana’s Oscar is out of the question after all.",
-   "zh": ""
-  },
-  {
-   "en": ": What else did you expect when you cast the silent recluse in such a dramatic role?",
-   "zh": ""
-  },
-  {
-   "en": ": I couldn’t think of anyone else who would have helped me do what I was trying to do. It had to be Sana.",
-   "zh": ""
-  },
-  {
-   "en": ": Because she’s...okay with your incessant pursuit of me?",
-   "zh": ""
-  },
-  {
-   "en": ": I think it’s closer to that she doesn’t really understand right now.",
-   "zh": ""
-  },
-  {
-   "en": ": She obviously knows I like you. Everybody knows that much. But I don’t think Sana’s ready to acknowledge how you feel just yet.",
-   "zh": ""
-  },
-  {
-   "en": ": Are you saying you know how I feel?",
-   "zh": ""
-  },
-  {
-   "en": ": I’m saying that you walked right past a bed that wasn’t curtained off so you could bring me in here.",
-   "zh": ""
-  },
-  {
-   "en": ": I just figured you’d want medical assistance in private.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei...can I ask you something?",
-   "zh": ""
-  },
-  {
-   "en": ": Sure. Just ask quietly since we don’t know if anyone is listening in right now.",
-   "zh": ""
-  },
-  {
-   "en": ": It’s only a matter of time until they start asking similar questions, but sure. I’ll stay quiet.",
-   "zh": ""
-  },
-  {
-   "en": ": What do you want to know, Ayane? It’s not often you let down the bubbly, eccentric persona to act all...serious like this.",
-   "zh": ""
-  },
-  {
-   "en": ": I know. Having you hold me for so long made me want to start saying things that will get you to hold me again. So I’m sorry for just forcing this on you out of the blue.",
-   "zh": ""
-  },
-  {
-   "en": ": The initial intention and the whole point of this stunt was to create an opportunity where I could kiss you.",
-   "zh": ""
-  },
-  {
-   "en": ": And I’m still probably going to do that.",
-   "zh": ""
-  },
-  {
-   "en": ": Oh?",
-   "zh": ""
-  },
-  {
-   "en": ": But what I want to ask before I do that is...",
-   "zh": ""
-  },
-  {
-   "en": ": When did you start seeing me as a girl and not just a “girl?”",
-   "zh": ""
-  },
-  {
-   "en": ": I’m sorry, what?",
-   "zh": ""
-  },
-  {
-   "en": ": I know you don’t need that explained to you. The Sensei I love is smarter than that.",
-   "zh": ""
-  },
-  {
-   "en": ": You should probably clarify anyway as this could spiral out of control if I somehow misinterpret the situation and say the wrong thing.",
-   "zh": ""
-  },
-  {
-   "en": ": Fine...Fine. Okay.",
-   "zh": ""
-  },
-  {
-   "en": ": What I’m asking is...",
-   "zh": ""
-  },
-  {
-   "en": ": Wait, do you want me to word it in just the...super blunt way? Or the way where I kind of tiptoe around what I’m trying to say, but still heavily imply it?",
-   "zh": ""
-  },
-  {
-   "en": ": Just be blunt. It’ll save both of us some time.",
-   "zh": ""
-  },
-  {
-   "en": ": Okay.",
-   "zh": ""
-  },
-  {
-   "en": ": Then, when did you start thinking about me, like...sexually? Not just as Ami’s friend who hangs out at your house all the time.",
-   "zh": ""
-  },
-  {
-   "en": ": Was it after the bathroom incident? Before that? I just want to know when.",
-   "zh": ""
-  },
-  {
-   "en": ": Because I have been watching the way you look at me closely for years...and it wasn’t until recently that those looks started...you know, looking like they...look now.",
-   "zh": ""
-  },
-  {
-   "en": ": Am I allowed to counter that question with another question?",
-   "zh": ""
-  },
-  {
-   "en": ": Is it the same question as mine?",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Heheh...of course it is.",
-   "zh": ""
-  },
-  {
-   "en": ": Unfortunately, I don’t really know when that started happening on my end. It was probably just a...natural development since I didn’t know where else to aim my hormones.",
-   "zh": ""
-  },
-  {
-   "en": ": The bathroom incident definitely made it worse, though. I didn’t even sleep that night, did you know that?",
-   "zh": ""
-  },
-  {
-   "en": ": I didn’t. Nor would I have expected it after you literally ran away.",
-   "zh": ""
-  },
-  {
-   "en": ": Can you blame me?! Not only was that thing the size of my torso, but I told everybody I’d be back in a couple minutes!",
-   "zh": ""
-  },
-  {
-   "en": ": There’s also a huge difference between fantasizing about things and actually doing them.",
-   "zh": ""
-  },
-  {
-   "en": ": And I think if I’m acting weird and not like normal Ayane right now, it’s because that is finally starting to set in.",
-   "zh": ""
-  },
-  {
-   "en": ": Seeing the way you look at me change as I grow up is, like...tricking my brain into thinking that a relationship like that is actually possible.",
-   "zh": ""
-  },
-  {
-   "en": ": All this time, I’ve been saying all of that stuff about being in love with you in a joking manner because, frankly, the thought of anything ever coming from it was just a joke to me.",
-   "zh": ""
-  },
-  {
-   "en": ": Not in the sense that I didn’t want it, but in the sense that it just seemed impossible.",
-   "zh": ""
-  },
-  {
-   "en": ": But now?",
-   "zh": ""
-  },
-  {
-   "en": ": Now, any time I say any of that stuff, it’s not really a joke at all. It’s a wish. And it’s a wish that seems more and more possible every time we’re alone together like this.",
-   "zh": ""
-  },
-  {
-   "en": ": Now, at the risk of me saying anything else embarrassing, can you please tell me when your...thoughts on me started changing?",
-   "zh": ""
-  },
-  {
-   "en": ": And if they haven’t and I’m just an idiot, can you rip the bandage off while we’re in here?",
-   "zh": ""
-  },
-  {
-   "en": ": Because at least there’s disinfectant everywhere and I can...prevent this wound from getting infected or something.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": "Sure, let me just respond to a question I don’t have an answer for.",
-   "zh": ""
-  },
-  {
-   "en": "There is no one moment where the way I look at Ayane has changed from my perspective.",
-   "zh": ""
-  },
-  {
-   "en": "I have always viewed her in the light she assumes I’m viewing her in. And it’s not at all dissimilar from the one that lights up everyone else as well.",
-   "zh": ""
-  },
-  {
-   "en": "I have no reason to view her as “Ami’s friend” because, to me, she has always been the beautiful girl I see before me.",
-   "zh": ""
-  },
-  {
-   "en": "Of course, I can’t tell her that either. Because not only would it dispel my illusion as a vulture gorging himself on the scraps of relationships left behind by another animal-",
-   "zh": ""
-  },
-  {
-   "en": "But it would damage her.",
-   "zh": ""
-  },
-  {
-   "en": "And I don’t want to risk this beauty being damaged in any form.",
-   "zh": ""
-  },
-  {
-   "en": "So, much like escorting her into a private section of the nurse’s office instead of keeping her out in the open-",
-   "zh": ""
-  },
-  {
-   "en": "I will take the safe route.",
-   "zh": ""
-  },
-  {
-   "en": "And any bandages we have on ourselves will stay right where they are.",
-   "zh": ""
-  },
-  {
-   "en": ": I don’t really know either, Ayane.",
-   "zh": ""
-  },
-  {
-   "en": ": It just...kind of happened...",
-   "zh": ""
-  },
-  {
-   "en": ": I see...",
-   "zh": ""
-  },
-  {
-   "en": ": I guess we’re not all that different then.",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "zh": ""
-  },
-  {
-   "en": ": Welp, I guess that means there’s only one thing left to do.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane brings herself closer  and I can feel the weight of years worth of unrequited feelings slipping into my nostrils and suffocating me with the invisible mass of a love I don’t deserve.",
-   "zh": ""
-  },
-  {
-   "en": "Of a love I wouldn’t call love in the first place.",
-   "zh": ""
-  },
-  {
-   "en": "This is nothing more than hormonal lust consuming her like it’s the physical manifestation of a parasitic fungus trying to take control of her entirely.",
-   "zh": ""
-  },
-  {
-   "en": "Is she strong enough to fight it off?",
-   "zh": ""
-  },
-  {
-   "en": ": You have no idea how long I’ve wanted to do this.",
-   "zh": ""
-  },
-  {
-   "en": "Or has life simply become so worthless to her that she’d rather surrender herself entirely to the promise of someone or something acting out in her stead?",
-   "zh": ""
-  },
-  {
-   "en": ": You’re right.",
-   "zh": ""
-  },
-  {
-   "en": ": I really don’t.",
-   "zh": ""
-  },
-  {
-   "en": "Our lips meet and spores spread throughout her trembling body.",
-   "zh": ""
-  },
-  {
-   "en": "We remain stuck like that for somewhere between thirty seconds and two minutes.",
-   "zh": ""
-  },
-  {
-   "en": "I lose track of time as I must focus everything I have on not killing the host body before the fungus does.",
-   "zh": ""
-  },
-  {
-   "en": "If she does this to herself, it won’t be my fault.",
-   "zh": ""
-  },
-  {
-   "en": "Which is why I do not run once her lips part.",
-   "zh": ""
-  },
-  {
-   "en": "Which is why my hands travel without obstacle to the mounds on the front and the back of her growing body.",
-   "zh": ""
-  },
-  {
-   "en": ": Hello? Is anyone in here?",
-   "zh": ""
-  },
-  {
-   "en": "Which is why I do not stop even when our existence is threatened.",
-   "zh": ""
-  },
-  {
-   "en": "The worst that can happen is that we’re crushed underfoot. And if that were to occur, we’d simply wind up as something else after an indeterminate amount of time.",
-   "zh": ""
-  },
-  {
-   "en": "I can tell she’s still growing.",
-   "zh": ""
-  },
-  {
-   "en": "I can tell there are still more spores to spread.",
-   "zh": ""
-  },
-  {
-   "en": ": Sensei?...",
-   "zh": ""
-  },
-  {
-   "en": ": Ayane?...",
-   "zh": ""
-  },
-  {
-   "en": ": Anybody?...",
-   "zh": ""
-  },
-  {
-   "en": "We remain behind the curtain with our tongues entangled until a girl who would break if she caught us disappears.",
-   "zh": ""
-  },
-  {
-   "en": "The thing is, Ami could have opened up that curtain at any moment.",
-   "zh": ""
-  },
-  {
-   "en": "But she didn’t.",
-   "zh": ""
-  },
-  {
-   "en": "I don’t know if she’s just that absentminded...or if she was afraid of what she would find.",
-   "zh": ""
-  },
-  {
-   "en": "But we live to see another day.",
-   "zh": ""
-  },
-  {
-   "en": "I can’t guarantee it will be a brighter one-",
-   "zh": ""
-  },
-  {
-   "en": "But we will see it nonetheless.",
-   "zh": ""
-  },
-  {
-   "en": "Ayane's affection has increased to [ayane_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "day16",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day16:",
+      "zh": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"Time: 11:30 AM \\n",
+      "zh": ""
+    },
+    {
+      "en": "Location: Soccer Field \\n",
+      "zh": ""
+    },
+    {
+      "en": "Mission: Operation Fallen Angel\"",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen1.webp",
+      "alt": "newfallen1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, Sana! Just like we practiced! Are you ready to do this?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Umm...not really...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": Well, too bad! Because everything you have done in life so far has led up to this very moment!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": This might be the only chance you ever get to show everyone that you have the potential to be an Oscar winning actress!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen2.webp",
+      "alt": "newfallen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But...I don't even want to be an actress...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": What? But I think you'd be so great at it. All of our practices so far have gone really well.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Ayane...I don’t really know if this is a good idea...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei is smart, so...he'll probably see right through this...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen3.webp",
+      "alt": "newfallen3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That's exactly why we've gotta sell it. But with how flawlessly our three practices have been, I doubt that will be an issue.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Is three...really enough? Maybe we should...practice a little more before...actually trying this...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": Sana, I need you to understand something for me.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": If I have to wait even one more day to get closer to Sensei, I am going to literally blow myself up and take the entire school with me.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Please don't...my Switch is in there...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": Sana, we can do this. Just act natural.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen4.webp",
+      "alt": "newfallen4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That's a lot easier said than done...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": It’ll be fine! Don’t worry about it.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen5.webp",
+      "alt": "newfallen5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay...I blew the whistle, so...I don't know. Go play sports or something.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Oh God. This is it. This is it. How do I look?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Um...normal?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": But I'm normally pretty, right? Sana, answer me. We're running out of-",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen6.webp",
+      "alt": "newfallen6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AYANE HAS FALLEN! THIS IS A TRULY TRAGIC EVENT!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": What?! Oh God! I wasn't ready!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": IS ANYONE HERE STRONG ENOUGH TO CARRY A YOUNG GIRL TO THE NURSE'S OFFICE?!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": I think I can probably-",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ""
+    },
+    {
+      "en": ": IS ANYONE ELSE HERE STRONG ENOUGH TO CARRY A YOUNG GIRL TO THE NURSE'S OFFICE?!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen7.webp",
+      "alt": "newfallen7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I am dying! Could this be the end for me?! But I am still so young!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I MAY NEVER WALK AGAIN!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen8.webp",
+      "alt": "newfallen8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sana, no! That one was my line!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": AYANE MAY NEVER WALK AGAIN!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen7.webp",
+      "alt": "newfallen7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I may never walk again!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": What’s going on? What happened?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen9.webp",
+      "alt": "newfallen9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei?...Is that you?...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Your voice sounds so...distant...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen6.webp",
+      "alt": "newfallen6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": THE LIGHT IS FADING FROM HER EYES!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": Okay Sana, I’m going to need you to step aside for a moment.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen9.webp",
+      "alt": "newfallen9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What happened? I feel like I looked away from you for one second.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": As flattered as I am to know that you are always watching me, I really don't know...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": It is as if one moment I was talking about the decline of our current economy with Sana...and the next...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": The next thing I know...I can’t feel my legs...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei...am I going to die?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Maybe? I have no idea.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Can you...prevent me from dying?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I can carry you to the nurse’s office. That is what you two were yelling about, isn't it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": And you're always listening as well...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I knew I could count on you, Sensei...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Knowing full well that something suspicious is going on, I lift Ayane off of the ground and bring her body close to my chest in a princess carry.",
+      "zh": ""
+    },
+    {
+      "en": "That does not stop a certain someone from carrying on the performance, however.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen10.webp",
+      "alt": "newfallen10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AYANE! WHY?! YOU WERE SO YOUNG AND HAD SO MUCH LEFT TO DO!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": I CAN ONLY HOPE THERE IS ENOUGH ROOM IN HEAVEN FOR ONE MORE ANGEL!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ""
+    },
+    {
+      "en": ": Sana is-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Don't pay any attention to Sana. I am the one in need of medical assistance.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Right...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I'm sorry for being so heavy, Sensei...making you work this hard during gym class is something I will never be able to live down.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": You’re like 80 pounds.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen11.webp",
+      "alt": "newfallen11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Then that's 80 whole pounds worth of inconvenience for you...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei...what will I do if I can never walk again?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Will you carry me everywhere for the rest of your life?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Absolutely not.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I could push you around in a wheelchair from time to time, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I will take what I can get...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I carry Ayane into the nurse’s office, expecting to find...you know, a nurse...but no one is there at all.",
+      "zh": ""
+    },
+    {
+      "en": "Which quickly makes it even more apparent that this was all some coordinated effort to get the two of us alone in here.",
+      "zh": ""
+    },
+    {
+      "en": "And while having Ayane pull a stunt like that doesn’t surprise me, the cooperation of Sana does.",
+      "zh": ""
+    },
+    {
+      "en": "Granted, calling Sana’s overacting “cooperation” might be a little generous, but it’s strange considering that she’d comply with a demand that very clearly...looks wrong.",
+      "zh": ""
+    },
+    {
+      "en": "I’m sure some of the other girls are thinking the same thing right about now. And I’m sure that’s something I should be worrying about.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But I have a hard time worrying about anything at all while I’m so distracted by the intense gaze coming from the girl I’m carrying and her soft skin, still warm from soaking up the sun.",
+      "zh": ""
+    },
+    {
+      "en": "When I bring her to the back of the nurse’s office and close the curtain around us, the facade fades and she returns to her normal self.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen12.webp",
+      "alt": "newfallen12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Or perhaps her normal self never went into hiding at all.",
+      "zh": ""
+    },
+    {
+      "en": "Perhaps Ayane’s normal self is pulling theatrical stunts to create small windows of opportunity for the two of us to climb through.",
+      "zh": ""
+    },
+    {
+      "en": "Perhaps she likes me so much that she’s willing to risk the way she appears to her classmates just so that I can whisk her away and lay her down on some presumably unfamiliar bed.",
+      "zh": ""
+    },
+    {
+      "en": "Perhaps that’s exactly what I like about her.",
+      "zh": ""
+    },
+    {
+      "en": "It’s hard to tell.",
+      "zh": ""
+    },
+    {
+      "en": "Because even if I can make lofty assumptions about the type of person she truly is and how every aspect of her somehow revolves around me-",
+      "zh": ""
+    },
+    {
+      "en": "I know that the true center of gravity that she and all of the others are revolving around is somewhere far away from here.",
+      "zh": ""
+    },
+    {
+      "en": "And that they’re all just aimlessly drifting around at this point.",
+      "zh": ""
+    },
+    {
+      "en": "But that will not stop me from attempting to lasso her into my gravitational pull.",
+      "zh": ""
+    },
+    {
+      "en": "And that will not stop me from imagining the horrible things I’m imagining right now.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You didn’t buy that at all, did you?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I knew what was going on from the start.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Guess Sana’s Oscar is out of the question after all.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": What else did you expect when you cast the silent recluse in such a dramatic role?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I couldn’t think of anyone else who would have helped me do what I was trying to do. It had to be Sana.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Because she’s...okay with your incessant pursuit of me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I think it’s closer to that she doesn’t really understand right now.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": She obviously knows I like you. Everybody knows that much. But I don’t think Sana’s ready to acknowledge how you feel just yet.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Are you saying you know how I feel?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen13.webp",
+      "alt": "newfallen13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m saying that you walked right past a bed that wasn’t curtained off so you could bring me in here.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I just figured you’d want medical assistance in private.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Sensei...can I ask you something?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Sure. Just ask quietly since we don’t know if anyone is listening in right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": It’s only a matter of time until they start asking similar questions, but sure. I’ll stay quiet.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": What do you want to know, Ayane? It’s not often you let down the bubbly, eccentric persona to act all...serious like this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen14.webp",
+      "alt": "newfallen14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I know. Having you hold me for so long made me want to start saying things that will get you to hold me again. So I’m sorry for just forcing this on you out of the blue.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": The initial intention and the whole point of this stunt was to create an opportunity where I could kiss you.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": And I’m still probably going to do that.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Oh?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen15.webp",
+      "alt": "newfallen15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But what I want to ask before I do that is...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": When did you start seeing me as a girl and not just a “girl?”",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I’m sorry, what?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I know you don’t need that explained to you. The Sensei I love is smarter than that.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": You should probably clarify anyway as this could spiral out of control if I somehow misinterpret the situation and say the wrong thing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen16.webp",
+      "alt": "newfallen16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Fine...Fine. Okay.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": What I’m asking is...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen17.webp",
+      "alt": "newfallen17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait, do you want me to word it in just the...super blunt way? Or the way where I kind of tiptoe around what I’m trying to say, but still heavily imply it?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Just be blunt. It’ll save both of us some time.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Okay.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Then, when did you start thinking about me, like...sexually? Not just as Ami’s friend who hangs out at your house all the time.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Was it after the bathroom incident? Before that? I just want to know when.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Because I have been watching the way you look at me closely for years...and it wasn’t until recently that those looks started...you know, looking like they...look now.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Am I allowed to counter that question with another question?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Is it the same question as mine?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen18.webp",
+      "alt": "newfallen18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heheh...of course it is.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Unfortunately, I don’t really know when that started happening on my end. It was probably just a...natural development since I didn’t know where else to aim my hormones.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen17.webp",
+      "alt": "newfallen17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The bathroom incident definitely made it worse, though. I didn’t even sleep that night, did you know that?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I didn’t. Nor would I have expected it after you literally ran away.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen19.webp",
+      "alt": "newfallen19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Can you blame me?! Not only was that thing the size of my torso, but I told everybody I’d be back in a couple minutes!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen20.webp",
+      "alt": "newfallen20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": There’s also a huge difference between fantasizing about things and actually doing them.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": And I think if I’m acting weird and not like normal Ayane right now, it’s because that is finally starting to set in.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Seeing the way you look at me change as I grow up is, like...tricking my brain into thinking that a relationship like that is actually possible.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": All this time, I’ve been saying all of that stuff about being in love with you in a joking manner because, frankly, the thought of anything ever coming from it was just a joke to me.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Not in the sense that I didn’t want it, but in the sense that it just seemed impossible.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen21.webp",
+      "alt": "newfallen21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But now?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Now, any time I say any of that stuff, it’s not really a joke at all. It’s a wish. And it’s a wish that seems more and more possible every time we’re alone together like this.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Now, at the risk of me saying anything else embarrassing, can you please tell me when your...thoughts on me started changing?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": And if they haven’t and I’m just an idiot, can you rip the bandage off while we’re in here?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": Because at least there’s disinfectant everywhere and I can...prevent this wound from getting infected or something.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sure, let me just respond to a question I don’t have an answer for.",
+      "zh": ""
+    },
+    {
+      "en": "There is no one moment where the way I look at Ayane has changed from my perspective.",
+      "zh": ""
+    },
+    {
+      "en": "I have always viewed her in the light she assumes I’m viewing her in. And it’s not at all dissimilar from the one that lights up everyone else as well.",
+      "zh": ""
+    },
+    {
+      "en": "I have no reason to view her as “Ami’s friend” because, to me, she has always been the beautiful girl I see before me.",
+      "zh": ""
+    },
+    {
+      "en": "Of course, I can’t tell her that either. Because not only would it dispel my illusion as a vulture gorging himself on the scraps of relationships left behind by another animal-",
+      "zh": ""
+    },
+    {
+      "en": "But it would damage her.",
+      "zh": ""
+    },
+    {
+      "en": "And I don’t want to risk this beauty being damaged in any form.",
+      "zh": ""
+    },
+    {
+      "en": "So, much like escorting her into a private section of the nurse’s office instead of keeping her out in the open-",
+      "zh": ""
+    },
+    {
+      "en": "I will take the safe route.",
+      "zh": ""
+    },
+    {
+      "en": "And any bandages we have on ourselves will stay right where they are.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t really know either, Ayane.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": It just...kind of happened...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen22.webp",
+      "alt": "newfallen22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I see...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": I guess we’re not all that different then.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": Welp, I guess that means there’s only one thing left to do.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen23.webp",
+      "alt": "newfallen23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane brings herself closer  and I can feel the weight of years worth of unrequited feelings slipping into my nostrils and suffocating me with the invisible mass of a love I don’t deserve.",
+      "zh": ""
+    },
+    {
+      "en": "Of a love I wouldn’t call love in the first place.",
+      "zh": ""
+    },
+    {
+      "en": "This is nothing more than hormonal lust consuming her like it’s the physical manifestation of a parasitic fungus trying to take control of her entirely.",
+      "zh": ""
+    },
+    {
+      "en": "Is she strong enough to fight it off?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You have no idea how long I’ve wanted to do this.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Or has life simply become so worthless to her that she’d rather surrender herself entirely to the promise of someone or something acting out in her stead?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re right.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ": I really don’t.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen24.webp",
+      "alt": "newfallen24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Our lips meet and spores spread throughout her trembling body.",
+      "zh": ""
+    },
+    {
+      "en": "We remain stuck like that for somewhere between thirty seconds and two minutes.",
+      "zh": ""
+    },
+    {
+      "en": "I lose track of time as I must focus everything I have on not killing the host body before the fungus does.",
+      "zh": ""
+    },
+    {
+      "en": "If she does this to herself, it won’t be my fault.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene newfallen25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/newfallen25.webp",
+      "alt": "newfallen25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Which is why I do not run once her lips part.",
+      "zh": ""
+    },
+    {
+      "en": "Which is why my hands travel without obstacle to the mounds on the front and the back of her growing body.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hello? Is anyone in here?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Which is why I do not stop even when our existence is threatened.",
+      "zh": ""
+    },
+    {
+      "en": "The worst that can happen is that we’re crushed underfoot. And if that were to occur, we’d simply wind up as something else after an indeterminate amount of time.",
+      "zh": ""
+    },
+    {
+      "en": "I can tell she’s still growing.",
+      "zh": ""
+    },
+    {
+      "en": "I can tell there are still more spores to spread.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei?...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Ayane?...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ": Anybody?...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We remain behind the curtain with our tongues entangled until a girl who would break if she caught us disappears.",
+      "zh": ""
+    },
+    {
+      "en": "The thing is, Ami could have opened up that curtain at any moment.",
+      "zh": ""
+    },
+    {
+      "en": "But she didn’t.",
+      "zh": ""
+    },
+    {
+      "en": "I don’t know if she’s just that absentminded...or if she was afraid of what she would find.",
+      "zh": ""
+    },
+    {
+      "en": "But we live to see another day.",
+      "zh": ""
+    },
+    {
+      "en": "I can’t guarantee it will be a brighter one-",
+      "zh": ""
+    },
+    {
+      "en": "But we will see it nonetheless.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ day16 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane's affection has increased to [ayane_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

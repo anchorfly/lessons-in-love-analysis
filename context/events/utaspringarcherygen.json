@@ -1,62 +1,113 @@
 {
- "label": "utaspringarcherygen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I find Uta at the archery range first thing in the morning and she wastes no time in subtly reminding me that this is one of the two things she's exceptional at.",
-   "zh": ""
-  },
-  {
-   "en": "I don't think that's saying much though as the other thing really just involves conning people into giving her money based on fake affection.",
-   "zh": ""
-  },
-  {
-   "en": "Her affection for me is real, though. It's unwarranted, sure. But it's real. And even though it shouldn't be, I accept it. Just as I accept everyone else's.",
-   "zh": ""
-  },
-  {
-   "en": "You see, there's no point in denying anyone's love for me anymore. Because even if I can't return it, I can still benefit from it. And with Uta, there's one thing I've always wanted.",
-   "zh": ""
-  },
-  {
-   "en": "I should be thankful she gets so easily attached.",
-   "zh": ""
-  },
-  {
-   "en": "I should be thankful she thinks of me when she's in bed at night and not one of her classmates. I should be thankful I beat all of them out.",
-   "zh": ""
-  },
-  {
-   "en": "And I should be thankful that she can remove her eyes from the target long enough to wink at me before letting her arrow fly.",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  },
-  {
-   "en": "So why am I not?",
-   "zh": ""
-  },
-  {
-   "en": "Why do I want to hold her?",
-   "zh": ""
-  },
-  {
-   "en": "Uta’s affection has increased to [uta_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "utaspringarcherygen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label utaspringarcherygen:",
+      "zh": ""
+    },
+    {
+      "en": "scene utaspringarcherygen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaspringarcherygen.webp",
+      "alt": "utaspringarcherygen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I find Uta at the archery range first thing in the morning and she wastes no time in subtly reminding me that this is one of the two things she's exceptional at.",
+      "zh": ""
+    },
+    {
+      "en": "I don't think that's saying much though as the other thing really just involves conning people into giving her money based on fake affection.",
+      "zh": ""
+    },
+    {
+      "en": "Her affection for me is real, though. It's unwarranted, sure. But it's real. And even though it shouldn't be, I accept it. Just as I accept everyone else's.",
+      "zh": ""
+    },
+    {
+      "en": "You see, there's no point in denying anyone's love for me anymore. Because even if I can't return it, I can still benefit from it. And with Uta, there's one thing I've always wanted.",
+      "zh": ""
+    },
+    {
+      "en": "I should be thankful she gets so easily attached.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I should be thankful she thinks of me when she's in bed at night and not one of her classmates. I should be thankful I beat all of them out.",
+      "zh": ""
+    },
+    {
+      "en": "And I should be thankful that she can remove her eyes from the target long enough to wink at me before letting her arrow fly.",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": "So why am I not?",
+      "zh": ""
+    },
+    {
+      "en": "Why do I want to hold her?",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ uta_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta’s affection has increased to [uta_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump noonch4",
+      "zh": ""
+    }
+  ]
 }

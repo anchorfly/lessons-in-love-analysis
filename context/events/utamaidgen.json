@@ -1,78 +1,141 @@
 {
- "label": "utamaidgen",
- "title_zh": "",
- "lines": [
-  {
-   "en": "I decide to spend the night at the maid cafe and lose most of my savings to the bundle of joy in front of me.",
-   "zh": ""
-  },
-  {
-   "en": "Uta pulls out all the stops and easily coerces me into believing that I am the only man in the world who has ever mattered to her.",
-   "zh": ""
-  },
-  {
-   "en": "It is all a lie. I am being used.",
-   "zh": ""
-  },
-  {
-   "en": "And yet, I am unable to fight off any of it.",
-   "zh": ""
-  },
-  {
-   "en": "I don't want to fight off any of it.",
-   "zh": ""
-  },
-  {
-   "en": "The darkness swallows me.",
-   "zh": ""
-  },
-  {
-   "en": "All I know is Uta. All I can see is Uta.",
-   "zh": ""
-  },
-  {
-   "en": "All there will ever be is Uta.",
-   "zh": ""
-  },
-  {
-   "en": "She truly is a monster...and this place is Hell.",
-   "zh": ""
-  },
-  {
-   "en": "After I come to terms with my meaningless existence and the perpetual struggle against all things cute, our conversation returns to normal.",
-   "zh": ""
-  },
-  {
-   "en": "It's a mostly dead night inside of the cafe, so the two of us are able to spend a good amount of time together.",
-   "zh": ""
-  },
-  {
-   "en": "Apparently, an added benefit to being friends with Uta is the ability to bypass the hourly charges here.",
-   "zh": ""
-  },
-  {
-   "en": "So, somehow or another, I manage to not wind up penniless when it finally comes time for me to leave.",
-   "zh": ""
-  },
-  {
-   "en": "Ami is going to be so proud of me.",
-   "zh": ""
-  },
-  {
-   "en": "Uta's affection has increased to [uta_love]!",
-   "zh": ""
-  },
-  {
-   "en": ".........",
-   "zh": ""
-  },
-  {
-   "en": "......",
-   "zh": ""
-  },
-  {
-   "en": "...",
-   "zh": ""
-  }
- ]
+  "label": "utamaidgen",
+  "title_zh": "",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label utamaidgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene utamaidgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utamaidgen.webp",
+      "alt": "utamaidgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to spend the night at the maid cafe and lose most of my savings to the bundle of joy in front of me.",
+      "zh": ""
+    },
+    {
+      "en": "Uta pulls out all the stops and easily coerces me into believing that I am the only man in the world who has ever mattered to her.",
+      "zh": ""
+    },
+    {
+      "en": "It is all a lie. I am being used.",
+      "zh": ""
+    },
+    {
+      "en": "And yet, I am unable to fight off any of it.",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to fight off any of it.",
+      "zh": ""
+    },
+    {
+      "en": "The darkness swallows me.",
+      "zh": ""
+    },
+    {
+      "en": "All I know is Uta. All I can see is Uta.",
+      "zh": ""
+    },
+    {
+      "en": "All there will ever be is Uta.",
+      "zh": ""
+    },
+    {
+      "en": "She truly is a monster...and this place is Hell.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "After I come to terms with my meaningless existence and the perpetual struggle against all things cute, our conversation returns to normal.",
+      "zh": ""
+    },
+    {
+      "en": "It's a mostly dead night inside of the cafe, so the two of us are able to spend a good amount of time together.",
+      "zh": ""
+    },
+    {
+      "en": "Apparently, an added benefit to being friends with Uta is the ability to bypass the hourly charges here.",
+      "zh": ""
+    },
+    {
+      "en": "So, somehow or another, I manage to not wind up penniless when it finally comes time for me to leave.",
+      "zh": ""
+    },
+    {
+      "en": "Ami is going to be so proud of me.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ uta_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta's affection has increased to [uta_love]!",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": ""
+    },
+    {
+      "en": "......",
+      "zh": ""
+    },
+    {
+      "en": "...",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
 }
