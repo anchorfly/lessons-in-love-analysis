@@ -88,7 +88,7 @@
   [data-lang="zh"] .content .en-l.no-zh{display:block}
   [data-lang="zh"] .content .l.en-l.no-zh{display:flex}
   [data-lang="bi"] .content .zh-l.no-zh{display:none}
-  .content .loading{color:var(--muted);font-style:italic}
+  .content .loading{color:var(--muted);font-style:italic;opacity:.55}
 </style>
 </head>
 <body>
@@ -571,13 +571,61 @@ function setLang(l){
 function _esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
 
 /* 拉取某事件的对照 JSON（带缓存） */
+const _evReady = {};   // label -> [回调]，数据就绪后触发（用于无缝渲染）
+function _fetchJson(url, tries){
+  return fetch(url).then(r => {
+    if(!r.ok) throw {status:r.status};           // HTTP 错误（404 等）：不重试
+    return r.json();
+  }).catch(e => {
+    /* 网络层错误（ERR_INSUFFICIENT_RESOURCES / Failed to fetch）：无 status，重试 */
+    if(e && e.status) throw e;                    // 真·HTTP 错误，直接抛
+    if((tries||0) < 5){
+      return new Promise(res => setTimeout(res, 300 * Math.pow(2, tries||0)))
+        .then(() => _fetchJson(url, (tries||0) + 1));
+    }
+    throw e;
+  });
+}
 function fetchEvent(label){
   if(_evCache[label]) return _evCache[label];
-  _evCache[label] = fetch(EVENTS_BASE + "/" + encodeURIComponent(label) + ".json")
-    .then(r => { if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
-    .catch(e => ({label:label, title_zh:"", lines:[], _err:String(e)}));
+  _evCache[label] = _fetchJson(EVENTS_BASE + "/" + encodeURIComponent(label) + ".json", 0)
+    .then(d => {
+      const cbs = _evReady[label] || []; delete _evReady[label];
+      cbs.forEach(f => { try{ f(d); }catch(e){} });
+      return d;
+    })
+    .catch(e => ({label:label, title_zh:"", lines:[], _err:String(e && e.status ? "HTTP "+e.status : e)}));
   return _evCache[label];
 }
+
+/* ===== 智能预取 + 空闲全量预载（不影响交互） ===== */
+const _ric = window.requestIdleCallback || function(cb){ return setTimeout(function(){ cb({timeRemaining:function(){return 8;}}); }, 200); };
+const _allLabels = [];   // 全部事件 label（懒初始化）
+let _preloadIdx = 0, _preloadStarted = false;
+function _collectLabels(){
+  if(_allLabels.length) return;
+  for(const c of DATA) for(const it of (c.items||[])) if(it.hasContent) _allLabels.push(it.label);
+}
+/* 严格串行预载：一个拉完（微任务 settle）再拉下一个，全局只有 1 个在飞，
+   彻底杜绝并发洪峰打爆浏览器连接上限（ERR_INSUFFICIENT_RESOURCES） */
+function _preloadStep(){
+  if(_preloadIdx >= _allLabels.length) return;   // 全部拉完
+  const label = _allLabels[_preloadIdx++];
+  fetchEvent(label).then(() => { _ric(_preloadStep); });
+}
+function _startPreload(){
+  if(_preloadStarted) return; _preloadStarted = true;
+  _collectLabels();
+  _ric(_preloadStep);
+}
+/* 预取当前事件的邻居（prev/next 全局链），下次翻页秒开 */
+function _prefetchNeighbors(it){
+  if(!it) return;
+  if(it.prev && it.prev.title) fetchEvent(it.prev.title);
+  if(it.next && it.next.title) fetchEvent(it.next.title);
+}
+if(document.readyState === "complete") setTimeout(_startPreload, 800);
+else window.addEventListener("load", function(){ setTimeout(_startPreload, 800); });
 
 /* 把 lines 渲染成与原版一致的 DOM 结构：
    对话行(有spk): .l > .s[颜色] + .d   （同原版）
@@ -630,33 +678,64 @@ function renderLines(lines){
   return h || '<span class="loading">（无正文数据）</span>';
 }
 
+/* 分段渲染：大事件分批插入 DOM，首帧先出，避免整页卡住 */
+function renderLinesChunked(lines, contentBox){
+  const CHUNK = 300;
+  const total = lines.length;
+  if(total <= CHUNK){ contentBox.innerHTML = renderLines(lines); return; }
+  contentBox.innerHTML = "";
+  let pos = 0;
+  function step(){
+    if(!contentBox.isConnected) return;   // 已离开该事件，停止
+    const part = lines.slice(pos, pos + CHUNK);
+    pos += CHUNK;
+    contentBox.insertAdjacentHTML("beforeend", renderLines(part));
+    if(pos < total) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
+
 /* 包装 openEvent：正文改为按需 fetch 渲染 */
 const _openEvent_orig = openEvent;
 openEvent = function(i, idx, rel){
   const c = DATA[i], it = c.items[idx];
   if(it && it.hasContent){
-    // 先渲染骨架（不含正文）
-    const savedContent = it.content;   // 已无 content，只是占位
-    it.content = '<span class="loading">加载中…</span>';
-    _openEvent_orig(i, idx, rel);
-    it.content = savedContent;
-    // 再 fetch 填充
-    const contentBox = document.querySelector(".content");
-    fetchEvent(it.label).then(d => {
-      if(contentBox){
-        contentBox.innerHTML = renderLines(d.lines || []);
-        // 标题副行：对照/中文模式下显示中文标题
-        if(d.title_zh){
-          const meta = document.querySelector(".meta");
-          if(meta && !meta.querySelector(".ttl-zh")){
-            const lang = document.body.dataset.lang;
-            if(lang !== "en"){
-              meta.insertAdjacentHTML("beforeend", ' &nbsp;<span class="ttl-zh" style="color:var(--muted)">'+_esc(d.title_zh)+'</span>');
-            }
-          }
-        }
+    const label = it.label;
+    /* 渲染标题副行（中文标题） */
+    function renderMetaZh(d){
+      if(!d.title_zh) return;
+      const meta = document.querySelector(".meta");
+      if(meta && !meta.querySelector(".ttl-zh") && document.body.dataset.lang !== "en"){
+        meta.insertAdjacentHTML("beforeend", ' &nbsp;<span class="ttl-zh" style="color:var(--muted)">'+_esc(d.title_zh)+'</span>');
       }
-    });
+    }
+    if(_evCache[label]){
+      /* 已缓存：无缝渲染，完全不出现「加载中」 */
+      _openEvent_orig(i, idx, rel);
+      const contentBox = document.querySelector(".content");
+      Promise.resolve(_evCache[label]).then(d => {
+        if(contentBox && contentBox.isConnected){
+          renderLinesChunked(d.lines || [], contentBox);
+          renderMetaZh(d);
+        }
+      });
+    } else {
+      /* 未缓存：先出骨架+加载提示，数据就绪后填充 */
+      const savedContent = it.content;
+      it.content = '<span class="loading">加载中…</span>';
+      _openEvent_orig(i, idx, rel);
+      it.content = savedContent;
+      const contentBox = document.querySelector(".content");
+      (_evReady[label] = _evReady[label] || []).push(function(d){
+        if(contentBox && contentBox.isConnected){
+          renderLinesChunked(d.lines || [], contentBox);
+          renderMetaZh(d);
+        }
+      });
+      fetchEvent(label);
+    }
+    /* 空闲时预取前后邻居 */
+    _ric(function(){ _prefetchNeighbors(it); });
   } else {
     _openEvent_orig(i, idx, rel);
   }
