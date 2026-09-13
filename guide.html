@@ -597,17 +597,35 @@ function _collectLabels(){
   if(_allLabels.length) return;
   for(const c of DATA) for(const it of (c.items||[])) if(it.hasContent) _allLabels.push(it.label);
 }
-/* 严格串行预载：一个拉完（微任务 settle）再拉下一个，全局只有 1 个在飞，
-   彻底杜绝并发洪峰打爆浏览器连接上限（ERR_INSUFFICIENT_RESOURCES） */
-function _preloadStep(){
-  if(_preloadIdx >= _allLabels.length) return;   // 全部拉完
-  const label = _allLabels[_preloadIdx++];
-  fetchEvent(label).then(() => { _ric(_preloadStep); });
+/* 有限并发预载：恒定 12 个在飞，完成一个补一个。
+   12 远低于 Chrome 单主机 ~200 连接上限，不挤占图片/其它资源，不触发限流。 */
+const _PRELOAD_CONCURRENCY = 12;
+let _preloadActive = 0;
+function _preloadPump(){
+  while(_preloadActive < _PRELOAD_CONCURRENCY && _preloadIdx < _allLabels.length){
+    const label = _allLabels[_preloadIdx++];
+    _preloadActive++;
+    fetchEvent(label).then(() => { _preloadActive--; _ric(_preloadPump); });
+  }
 }
+/* 首页图片（分类头像 .cicon）全部加载完成后，才启动 JSON 预载——
+   保证首屏图片优先占用连接，不被预载挤到后面 */
 function _startPreload(){
   if(_preloadStarted) return; _preloadStarted = true;
   _collectLabels();
-  _ric(_preloadStep);
+  _afterHomeImages(() => _ric(_preloadPump));
+}
+function _afterHomeImages(cb){
+  const icons = Array.from(document.querySelectorAll("img.cicon"));
+  if(!icons.length){ cb(); return; }
+  let done = 0, fired = false;
+  const finish = () => { if(!fired){ fired = true; cb(); } };
+  const tick  = () => { if(++done >= icons.length) finish(); };
+  icons.forEach(im => {
+    if(im.complete) tick();
+    else { im.addEventListener("load", tick, {once:true}); im.addEventListener("error", tick, {once:true}); }
+  });
+  setTimeout(finish, 4000);   // 兜底：个别图片异常也不阻塞预载
 }
 /* 预取当前事件的邻居（prev/next 全局链），下次翻页秒开 */
 function _prefetchNeighbors(it){
