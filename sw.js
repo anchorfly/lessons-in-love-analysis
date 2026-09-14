@@ -10,8 +10,10 @@
  *       v1 用 SWR（先吐旧白底→每回闪）、v2 用 network-first（每回等地等网络→每回闪）都仍闪；
  *       v3 改 cache-first 但仍闪一次（v3 激活删旧缓存→头几次点击缓存空→现拉网络）。
  *       故 v4 在【安装阶段即预缓存深色 guide.html】，v4 接管后首次点开即命中、零白闪。
+ *   - v5：guide.html 补 `color-scheme:dark`（浏览器起手就用深色画布，治跨页跳转白闪）；
+ *       并 bump 缓存版本以重新预缓存「带 color-scheme 的新版 HTML」。
  */
-const CACHE = 'lil-nav-v4';
+const CACHE = 'lil-nav-v5';
 const PRECACHE_HTML = ['guide.html', 'guide_i18n.html'];
 const IMG_RE = /\.(?:webp|png|jpe?g|gif|avif|svg|bmp|ico)(?:[?#]|$)/i;
 const EVENT_RE = /\/context\/events\/[^?#]+\.json(?:[?#]|$)/i;
