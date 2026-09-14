@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" style="background:#16181d">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#16181d">
 <title>LIL 事件导航</title>
 <!-- Google Analytics (gtag.js)：仅部署到 GitHub Pages 时统计，数据私有（仅账号持有者可查看） -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-26H942Y9CE"></script>
@@ -13,7 +14,7 @@
   gtag('config', 'G-26H942Y9CE');
 </script>
 <style>
-  :root{ --bg:#16181d; --panel:#1d2027; --panel2:#23262f; --text:#e6e6e6; --muted:#9aa0aa; --accent:#5b8def; --warn:#e06464; --line:#2c303a; }
+  :root{ --bg:#16181d; --panel:#1d2027; --panel2:#23262f; --text:#e6e6e6; --muted:#9aa0aa; --accent:#5b8def; --warn:#e06464; --line:#2c303a; background:var(--bg); color:var(--text); }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.5}
   header{position:sticky;top:0;z-index:10;background:rgba(22,24,29,.95);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:8px 18px}
@@ -752,6 +753,11 @@ openEvent = function(i, idx, rel){
 
 /* 初始化语言：固定英文（中文翻译中，暂不提供切换） */
 document.body.dataset.lang = "en";
+</script>
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(function(){});
+}
 </script>
 </body>
 </html>
