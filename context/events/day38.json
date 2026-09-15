@@ -1,1380 +1,1380 @@
 {
-  "label": "day38",
-  "title_zh": "公园漫步",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label day38:",
-      "zh": ""
-    },
-    {
-      "en": "scene newwalk1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk1.webp",
-      "alt": "newwalk1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I decide to stop by the park on my way home in hope of bumping into a mysterious and flirty transfer student, but wind up bumping into Makoto instead.",
-      "zh": "我决定在回家路上顺道去趟公园，指望着能撞见一位神秘又爱撩人的转学生，结果却撞见了 Makoto。"
-    },
-    {
-      "en": "And all before I even had the chance to get my mandatory afternoon inner monologue started...",
-      "zh": "而且这一切还发生在我都还没来得及开始每天下午例行的内心独白之前……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Huh?...Sensei? What are you doing here?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 咦？……老师？你在这儿干什么？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "As you can see, she is just as surprised as I am.",
-      "zh": "如你所见，她跟我一样惊讶。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I was about to ask you the same question. You interrupted my fated meeting with a mysterious transfer student.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我正想问你同样的问题。你打断了我命中注定的转学生邂逅。"
-    },
-    {
-      "en": ": But...we don’t have any transfer students. I just checked the register yesterday.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 可是……我们根本没有转学生啊。我昨天才查过名册。"
-    },
-    {
-      "en": ": Why? Are you really so obsessed with school that you need to read over a list of all your classmates just to stay occupied?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 为什么查？你真的对学校着迷到需要靠翻一遍全班名单来打发时间吗？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk2.webp",
-      "alt": "newwalk2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No...I was just curious about whether or not you've been correctly marking down everyone's absences. Which you haven't.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 不是……我只是好奇你有没有把每个人的缺勤如实记下来。而你根本没记。"
-    },
-    {
-      "en": ": You really need more friends.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你真的需要多交几个朋友。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk3.webp",
-      "alt": "newwalk3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I have a perfectly adequate amount of friends, thank you very much!",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我的朋友数量完全够用，谢谢！"
-    },
-    {
-      "en": ": Now, what's all this about a mysterious transfer student?! What do you know that I don't?!",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 那么，神秘转学生是怎么回事？！你有什么是我不知道的？！"
-    },
-    {
-      "en": ": There is no actual transfer student. I was just daydreaming about the chances of running into a cute girl.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 根本没有什么转学生。我只是在做白日梦，幻想着能偶遇一个可爱的女孩。"
-    },
-    {
-      "en": ": Thankfully, I appear to have encountered one that I don't even need to bother going through introductions with.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 幸好，我似乎还真遇上了一个，连自我介绍都省了。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk4.webp",
-      "alt": "newwalk4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Ah...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 啊……"
-    },
-    {
-      "en": ": D...d...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 可……可……"
-    },
-    {
-      "en": ": D...?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 可……？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk5.webp",
-      "alt": "newwalk5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": D...Don't just go from insulting me to complimenting me that quickly! It makes it hard to think!",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 可……可别这么快就从损我变成夸我啊！我脑子会转不过来的！"
-    },
-    {
-      "en": ": Anyway, I’m really just here to kill some time. But what about you? I figured you'd have work today.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 总之，我来这儿纯粹是为了打发时间。你呢？我以为你今天要上班。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk6.webp",
-      "alt": "newwalk6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I do have work today, we’re just not open yet.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我今天的确要上班，只是还没开门而已。"
-    },
-    {
-      "en": ": We've tried opening earlier in the past, but we have been historically dead during regular business hours, so it's really not worth the effort.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我们以前试过早点开门，但正常营业时间里客人一向少得可怜，所以实在不值得费那个劲。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That makes sense. Sunsets are nice and whatnot, but looking at them doesn't really make you want to masturbate.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 有道理。夕阳是很美之类的，可看着夕阳并不会让人想撸。"
-    },
-    {
-      "en": "scene newwalk7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk7.webp",
-      "alt": "newwalk7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Why must you ruin every conversation almost immediately?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 你为什么非要在几乎每一句话刚开头的时候就把天聊死？"
-    },
-    {
-      "en": ": Because if I didn't, you'd probably keep talking about porn shop data or something. And that just sounds boring.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 因为如果我不这么做，你大概会继续讲什么成人用品店的数据之类的。那听起来就很无聊。"
-    },
-    {
-      "en": ": Well, forgive me for taking an interest in statistics. Would it make you happier if I spent more of my time actively consuming the material we sell?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 哎呀，对不起，我对统计数字感兴趣真是抱歉。要是我把时间都花在亲身消费我们卖的东西上，你会更开心吗？"
-    },
-    {
-      "en": ": It-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 那——"
-    },
-    {
-      "en": ": Please don't actually answer that question.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 请别真的回答那个问题。"
-    },
-    {
-      "en": ": Damn it.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 可恶。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk8.webp",
-      "alt": "newwalk8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh, umm...While I'm already on the topic of asking for forgiveness...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 啊，嗯……既然都已经开口道歉了……"
-    },
-    {
-      "en": ": I'd like to apologize for my outburst in the classroom the other day.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我想为那天在教室里的失态向你道歉。"
-    },
-    {
-      "en": ": I realize that it was completely out of character for me to...even consider that you'd be willing to spend your free time outside of school with me, so...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我也知道，我居然会……觉得你愿意在课余时间陪我，这完全不像我，所以……"
-    },
-    {
-      "en": ": I won’t hold it against you if you want to just...forget everything I said or pretend it never happened.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 如果你想把我说的全都忘掉，或者当它没发生过，我也不会怪你。"
-    },
-    {
-      "en": ": Why would I do that? In fact, doesn't the fact that I'm talking to you right now kind of prove that I do want to spend time with you outside of school?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我为什么要那么做？再说了，我现在正跟你说话，这不就恰恰证明我确实想在放学后跟你待在一起吗？"
-    },
-    {
-      "en": ": Not if it's...based entirely on coincidence and not something we proactively planned on doing.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 如果这完全……只是巧合，而不是我们事先主动约好的，那就不算。"
-    },
-    {
-      "en": ": Well, if you don't have anything else to do, how about we proactively plan to hang out until you have to leave for work?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 那么，如果你也没有别的事，我们干脆主动约好，一起待到你该去上班为止？"
-    },
-    {
-      "en": ": Unless you were on your way to study right now or something. Which you probably were because you are Makoto and that is what you do.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 除非你现在正要去学习之类的。你多半是吧，因为你是 Makoto，你就是干这个的。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk9.webp",
-      "alt": "newwalk9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I'll actually have you know that I have banned myself from studying today.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我可得告诉你，我今天已经禁止自己学习了。"
-    },
-    {
-      "en": ": Instead, I've been trying to enjoy myself by taking a relaxing walk in the park.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 取而代之，我一直在试着在公园里悠闲地散步来享受生活。"
-    },
-    {
-      "en": ": It’s actually kind of nice. The weather here has been perfect lately, hasn't it?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 其实还挺舒服的。最近这里的天气一直很好，不是吗？"
-    },
-    {
-      "en": ": I can't even remember the last time it rained.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我甚至都记不清上次下雨是什么时候了。"
-    },
-    {
-      "en": ": Wait...yeah. Why hasn't it rained yet?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 等等……对啊。怎么一直没下雨？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I know month-long periods without rain aren't impossible, but it's been bright and sunny every single day since I woke up here.",
-      "zh": "我知道一整月不下雨也不是不可能，但自从我在这儿醒来，每一天都是阳光明媚。"
-    },
-    {
-      "en": "That...has to lead to some sort of environmental problems eventually, doesn't it?",
-      "zh": "这……迟早会引发某种环境问题吧？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Who knows? Perhaps we're just in the early stages of a drought?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 谁知道呢？也许我们正处在干旱的早期阶段？"
-    },
-    {
-      "en": ": For now, though...would you...you know...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 不过现在嘛……你愿不愿意……那个……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk10.webp",
-      "alt": "newwalk10"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Actually...nevermind. It's a lot more embarrassing asking out loud than I thought it would be?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 算了……还是算了。说出口比我预想的要难为情得多。"
-    },
-    {
-      "en": ": Really? Even after I suggested doing exactly what you were about to suggest like two minutes ago?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 真的吗？哪怕我两分钟前才刚提出你正要说的那件事？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newwalk11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newwalk11.webp",
-      "alt": "newwalk11"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": So...So you do want to go for a walk with me! Well...thank you very much for asking, Sensei! I would love to!",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 那……那么说，你真的想跟我一起散步！那……非常感谢你的邀请，老师！我很乐意！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "You know, with how much Makoto obviously likes me, I figured she'd be getting flustered a lot more frequently than she actually does.",
-      "zh": "按 Makoto 明显那么喜欢我的程度，我本以为她会比现在更容易脸红心跳。"
-    },
-    {
-      "en": "Granted, she's still near the top of the chart when it comes to that incredibly specific demographic-",
-      "zh": "诚然，在这个极其特定的人群里，她仍然稳居前列——"
-    },
-    {
-      "en": "But the fact that she's able to keep herself composed at all is sort of a testament to how...composed and diligent she is as a person.",
-      "zh": "但她多少还能保持镇定，这本身就说明了她这个人有多……沉稳和认真。"
-    },
-    {
-      "en": "It's those traits of hers that make the points in time where she does get flustered all the more appealing, though.",
-      "zh": "也正因为如此，她偶尔慌乱的那些瞬间才格外迷人。"
-    },
-    {
-      "en": "I know I give her shit about how much time she spends studying and, honestly, I can't imagine ever stopping that with how fun it's been so far.",
-      "zh": "我知道我老拿她花太多时间学习这件事开涮，而且说实话，光是有趣这一点，我就想象不出自己有一天会停下。"
-    },
-    {
-      "en": "But-",
-      "zh": "但是——"
-    },
-    {
-      "en": "I do think she's interesting.",
-      "zh": "我确实觉得她很有意思。"
-    },
-    {
-      "en": "And not just because I am going to have sex with her one day.",
-      "zh": "而且不只是因为我有朝一日要跟她上床。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark1.webp",
-      "alt": "makpark1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Heheh...this feels kind of weird, doesn't it?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 嘿嘿……感觉有点怪怪的，不是吗？"
-    },
-    {
-      "en": ": You think so? It feels pretty normal to me.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你这么觉得？我觉得挺正常的。"
-    },
-    {
-      "en": ": But...this isn't like the hall at school. You and I have never actually spent time together like this before.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 可是……这跟在学校走廊上不一样。你和我从来没有像这样真正单独相处过。"
-    },
-    {
-      "en": ": Also...there's the whole issue of you being a teacher...and me being a student...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 还有……就是你是老师……我是学生……这件事。"
-    },
-    {
-      "en": ": And we're walking around a public park, no less. Anyone who sees us likely thinks this is some sort of...date.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 而且我们还在公园里走来走去。任何人看见我们，多半都会觉得这是某种……约会。"
-    },
-    {
-      "en": ": It's like something straight out of a shoujo manga- a genre of book I absolutely do not read.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 简直像少女漫画里的场景——一种我绝对不会看的书。"
-    },
-    {
-      "en": ": What is-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 什么是——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark1r",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark1r.webp",
-      "alt": "makpark1r"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Uh-oh! Looks like it's time for a weebnote!",
-      "spk": "Molly",
-      "spkColor": "#4FCB80",
-      "zh": ": 哎呀！看来是时候来一段宅知识小课堂了！"
-    },
-    {
-      "en": ": Shoujo manga is a genre of comics aimed at young girls that typically focuses on blossoming romances between two unlikely candidates!",
-      "spk": "Molly",
-      "spkColor": "#4FCB80",
-      "zh": ": 少女漫画是一种面向年轻女孩的漫画类型，通常聚焦于两个不太可能走到一起的人之间萌芽的恋情！"
-    },
-    {
-      "en": ": I'm sure that doesn't sound familiar at all, does it?",
-      "spk": "Molly",
-      "spkColor": "#4FCB80",
-      "zh": ": 我敢说这听起来一点也不耳熟，对吧？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark1r2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark1r2.webp",
-      "alt": "makpark1r2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Did you hear something just now?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 你刚才有听到什么声音吗？"
-    },
-    {
-      "en": ": Me? No.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我？没有。"
-    },
-    {
-      "en": ": Anyway, I can’t say I’m all that familiar with shoujo manga. Though, I do feel slightly more informed about it all of a sudden...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 总之，我对少女漫画算不上多熟悉。不过，我突然觉得对它了解了一点……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark2.webp",
-      "alt": "makpark2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": So, do you come to this park often, Sensei?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 那么，老师，你常来这个公园吗？"
-    },
-    {
-      "en": ": I have to say, I didn’t peg you as the type to enjoy public spaces like this.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我得说，我没看出你是会喜欢这种公共场所的类型。"
-    },
-    {
-      "en": ": This is actually the first time I’ve been here. I didn't even know this place existed.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 其实我是第一次来这儿。我甚至都不知道有这个地方。"
-    },
-    {
-      "en": ": It actually didn't until just a short while ago.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 它其实是不久前才有的。"
-    },
-    {
-      "en": ": One of my favorite things about Kumon-mi is how it's always changing. It's like...every time you wake up, there's something a little different going on.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我最喜欢 Kumon-mi 的一点就是它一直在变。就像……每次你一觉醒来，都会有点不一样的东西在发生。"
-    },
-    {
-      "en": ": We didn’t even have the cafe until recently. Now, it’s one of the most popular spots in town.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 连那家咖啡馆都是最近才有的。现在它已经是镇上最受欢迎的去处之一了。"
-    },
-    {
-      "en": ": Is that somewhere you go often?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你常去那儿吗？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark3.webp",
-      "alt": "makpark3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No more than the average person, I suppose.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 大概跟普通人差不多吧。"
-    },
-    {
-      "en": ": It seems like it would be a nice place to study if only it was a little quieter. Unfortunately, I don't think I'd be able to focus with how busy it always seems to be.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 要是能再安静点，那里会是个学习的好地方。可惜，它看起来总是那么热闹，我觉得自己集中不了注意力。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark2.webp",
-      "alt": "makpark2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I do like coffee, though. The pot I keep in my room is actually one of the first things I bought with my own money.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 不过我确实喜欢咖啡。我房间里那把咖啡壶，其实是我用自己赚的钱最早买下的东西之一。"
-    },
-    {
-      "en": ": Just try to keep it away from Miku if possible. I don’t want to imagine how hard she'd be to keep up with while hopped up on caffeine.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 尽量让它离 Miku 远点就好。我可不想想象她摄入咖啡因之后有多难对付。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark4.webp",
-      "alt": "makpark4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh, you don’t have to worry about that. Miku actually hates coffee.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 哦，这个你不用担心。Miku 其实讨厌咖啡。"
-    },
-    {
-      "en": ": She needs to put almost eight tablespoons of sugar in one cup to even drink it. It's that you should be worried about, Sensei.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 她得往一杯里加差不多八大勺糖才喝得下去。老师，你该担心的是那个才对。"
-    },
-    {
-      "en": ": That sounds somehow even more terrifying...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 听起来不知怎么更可怕了……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark5.webp",
-      "alt": "makpark5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": She’s doing her best...but I agree that she can be a bit hard to keep up with on occasion.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 她已经很努力了……不过我同意，她偶尔确实有点让人跟不上。"
-    },
-    {
-      "en": ": I just wish she'd focus a little more on her studies so I don’t have to move onto the next grade without her.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我只是希望她能多花点心思在学习上，这样我就不用一个人升到下一个年级去了。"
-    },
-    {
-      "en": ": I could...maybe invite her over to my place for private tutoring? That doesn't sound creepy, does it?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我……也许可以请她来我家做一对一辅导？听起来不猥琐吧？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark5r",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark5r.webp",
-      "alt": "makpark5r"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Wait...you offer private tutoring sessions at your house?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 等等……你在自己家里开一对一辅导？"
-    },
-    {
-      "en": ": Doesn’t that go against section 9C of the student handbook?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 这不违反学生手册第 9C 条吗？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I could have sworn that students weren’t allowed to enter the residence of a teacher without express permission from the principal.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我明明记得，未经校长明确许可，学生是不准进入教师住所的。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "What kind of[school] actually puts a rule as specific as that in their student handbook?",
-      "zh": "什么样的[school]会把这么具体的一条写进学生手册啊？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I...am an exception to that rule.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我……是那条规则的例外。"
-    },
-    {
-      "en": ": Do you...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 你……"
-    },
-    {
-      "en": ": Do you mind if I ask why?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 你介意我问一下为什么吗？"
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": ……"
-    },
-    {
-      "en": ": I do, actually.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 介意，我确实介意。"
-    },
-    {
-      "en": "scene makpark5r2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark5r2.webp",
-      "alt": "makpark5r2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Well...umm...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 那……嗯……"
-    },
-    {
-      "en": ": If that's the case...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 既然如此……"
-    },
-    {
-      "en": ": Would you maybe...mind if I came over for a private session one day?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 你……会不会介意我哪天也过去，来一次一对一辅导？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "You know, I expected Makoto to care a little more about my blatant shattering of section 9C...but I guess the idea of being alone with me combined with learning managed to outweigh that.",
-      "zh": "我本来以为 Makoto 会对我公然违反第 9C 条更在意一点……但看来「跟我独处」加上「学习」这两件事加起来，压过了那一点。"
-    },
-    {
-      "en": "There's no way she believes that I'm an exception to the rule, so I guess that even she's okay with breaking a few of them if she's able to get something she wants out of it.",
-      "zh": "她不可能真相信我是那条规则的例外，所以我觉得，只要能换来她想要的东西，就连她也乐意破上几条规矩。"
-    },
-    {
-      "en": "Of course, that will not stop me from teasing her about this because that sounds fun.",
-      "zh": "当然，这不妨碍我拿这事来逗她，因为听起来很有意思。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I don't think so, Makoto. You don't really seem to need tutoring. My time is better spent on other girls.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我看不行，Makoto。你看起来并不怎么需要辅导。我的时间花在其他女孩身上更有价值。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark6.webp",
-      "alt": "makpark6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Wha-",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 什——"
-    },
-    {
-      "en": ": Just because I'm at the top of the class doesn't mean that I don't struggle with certain things too!",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 就算我是全班第一，也不代表我就没有不擅长的地方啊！"
-    },
-    {
-      "en": ": I need tutoring just as much as the next girl, Sensei!",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我跟其他女生一样需要辅导，老师！"
-    },
-    {
-      "en": ": Do you? Or do you just want to be alone in my house with me?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 是吗？还是说你只是想跟我单独待在我家里？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark7.webp",
-      "alt": "makpark7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Well...umm...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 那……嗯……"
-    },
-    {
-      "en": ": I suppose that's...just a thing that would have to happen for the...purpose of furthering my education.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我觉得那……只是为了……促进我的学业，而不得不发生的事情。"
-    },
-    {
-      "en": ": Or something.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 大概吧。"
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": ……"
-    },
-    {
-      "en": ": You just want another massage, don't you?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你就是想要再来一次按摩吧？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark8.webp",
-      "alt": "makpark8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No! I don't want another massage!",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 不是！我才不想再来一次按摩！"
-    },
-    {
-      "en": ": I don't know if I believe you.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我不知道该不该信你。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark8r",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark8r.webp",
-      "alt": "makpark8r"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I just...need to learn everything I can since I also want to be a teacher some day.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我只是……想尽可能多学点东西，因为我也想有一天当上老师。"
-    },
-    {
-      "en": ": And...I feel like if I’m ever going to get to where I want to be in order to do that...I probably need to learn from the best.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 而且……我觉得，如果我想要走到能实现那个目标的位置……我大概得向最优秀的人学习。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Was the person in this body before me really that great of a teacher?...",
-      "zh": "在我之前占据这具身体的那个人，真的是那么厉害的老师吗？……"
-    },
-    {
-      "en": "Just what the Hell did he do to get Makoto to think so highly of him?",
-      "zh": "他到底做了什么，让 Makoto 对他评价这么高？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": If that's all it is, you can come over whenever you want.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 如果只是这样，你随时都可以来。"
-    },
-    {
-      "en": ": I’ll have to make sure I warn Ami ahead of time, though. I don’t think she’d take too kindly to a girl showing up unannounced, student or not.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 不过我得提前跟 Ami 打个招呼。我觉得她不会太乐意看到有女生不打招呼就找上门来，学生也不例外。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark5r2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark5r2.webp",
-      "alt": "makpark5r2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Hahah...yeah.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 哈哈哈……是啊。"
-    },
-    {
-      "en": ": She...really loves you, doesn’t she?",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 她……真的很爱你，不是吗？"
-    },
-    {
-      "en": ": I am her uncle after all.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我毕竟是她叔叔嘛。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Kind of.",
-      "zh": "算是吧。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Agreed...I have my issues with Ami, but...you two make a good pair.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 我同意……虽然我跟 Ami 有些过节，但……你们两个挺般配的。"
-    },
-    {
-      "en": ": I'd almost feel a little guilty for intruding because of that.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 因为这层关系，我甚至会有点愧疚于插足其中。"
-    },
-    {
-      "en": ": Almost?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 甚至？"
-    },
-    {
-      "en": ": Well...",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 嗯……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark8r2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark8r2.webp",
-      "alt": "makpark8r2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Let's just say my thirst for knowledge vastly outweighs how I feel about her.",
-      "spk": "Makoto",
-      "spkColor": "#5D84FF",
-      "zh": ": 只能说，我对知识的渴望远远压过了我对她的在意。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Makoto and I walk around for a little while longer before the time comes for us to part ways.",
-      "zh": "Makoto 和我又逛了一会儿，随后到了该分别的时候。"
-    },
-    {
-      "en": "I mention coming over to her family's shop tonight and she begs me not to because that is what she always does when I suggest such a thing.",
-      "zh": "我提起今晚要去她家的店，她便求我别去——每次我这么提议，她都是这副反应。"
-    },
-    {
-      "en": "All in all, nothing really changes.",
-      "zh": "总而言之，什么都没变。"
-    },
-    {
-      "en": "The time we spend outside of school isn't all that different from the time we spend in it.",
-      "zh": "我们在校外的相处，跟在校内并没有多大不同。"
-    },
-    {
-      "en": "Sure, there's a tinge of additional suggestiveness sprinkled onto different portions of our conversations...but it's all entirely normal apart from that.",
-      "zh": "诚然，我们对话的某些片段里多掺了一点点暧昧……但除此之外一切都再正常不过。"
-    },
-    {
-      "en": "Maybe that's a good thing, though?",
-      "zh": "不过，这也许是件好事？"
-    },
-    {
-      "en": "Maybe the relaxing life that Makoto wants doesn't require the wide open world? Maybe she can find comfort in the same building she spends every Monday through Friday in?",
-      "zh": "也许 Makoto 想要的悠闲生活，并不需要广阔的天地？也许她能在那栋她周一到周五都待着的楼里找到慰藉？"
-    },
-    {
-      "en": "Or maybe a life of comfort just isn't possible for her at all if even this is not enough to turn her into someone else.",
-      "zh": "又或者，如果连这样都不足以让她变成另一个人，那么安逸的生活对她而言根本就不可能存在。"
-    },
-    {
-      "en": "I believe she's fine the way she is, albeit slightly flawed...But we're all flawed in our own ways and that alone doesn't make us worth giving up on.",
-      "zh": "我觉得她现在这样就很好，尽管有点瑕疵……但我们每个人都有自己的缺陷，光凭这一点并不足以让我们被放弃。"
-    },
-    {
-      "en": "She says goodbye to me with a smile on her face- and if it weren't for the glow of the sun illuminating her true feelings, I'd likely believe it.",
-      "zh": "她带着微笑跟我道别——如果不是阳光照亮了她的真实情绪，我大概会相信那个微笑。"
-    },
-    {
-      "en": "Unfortunately for both of us, it's much easier to see in the light.",
-      "zh": "可惜对我们两个人来说，在光线下看得太清楚了。"
-    },
-    {
-      "en": "And so I know that smile is no smile at all.",
-      "zh": "所以我知道，那根本不是什么微笑。"
-    },
-    {
-      "en": "But-",
-      "zh": "但是——"
-    },
-    {
-      "en": "It's still beautiful in its own backwards way.",
-      "zh": "它以一种扭曲的方式，依然很美。"
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene makpark9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/makpark9.webp",
-      "alt": "makpark9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": "..."
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": "..."
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": "..."
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": "..."
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ day38 = True",
-      "zh": ""
-    },
-    {
-      "en": "$ makoto_love += 1",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Makoto's affection has increased to [makoto_love]!",
-      "zh": "Makoto 的好感度提升到了 [makoto_love]！"
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump saturdaynight",
-      "zh": ""
-    }
-  ]
+ "label": "day38",
+ "title_zh": "公园漫步",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label day38:",
+   "zh": ""
+  },
+  {
+   "en": "scene newwalk1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk1.webp",
+   "alt": "newwalk1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I decide to stop by the park on my way home in hope of bumping into a mysterious and flirty transfer student, but wind up bumping into Makoto instead.",
+   "zh": "我决定在回家路上顺道去趟公园，指望着能撞见一位神秘又爱撩人的转学生，结果却撞见了 Makoto。"
+  },
+  {
+   "en": "And all before I even had the chance to get my mandatory afternoon inner monologue started...",
+   "zh": "而且这一切还发生在我都还没来得及开始每天下午例行的内心独白之前……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Huh?...Sensei? What are you doing here?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 咦？……老师？你在这儿干什么？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "As you can see, she is just as surprised as I am.",
+   "zh": "如你所见，她跟我一样惊讶。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I was about to ask you the same question. You interrupted my fated meeting with a mysterious transfer student.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我正想问你同样的问题。你打断了我命中注定的转学生邂逅。"
+  },
+  {
+   "en": ": But...we don’t have any transfer students. I just checked the register yesterday.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 可是……我们根本没有转学生啊。我昨天才查过名册。"
+  },
+  {
+   "en": ": Why? Are you really so obsessed with school that you need to read over a list of all your classmates just to stay occupied?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 为什么查？你真的对学校着迷到需要靠翻一遍全班名单来打发时间吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk2.webp",
+   "alt": "newwalk2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No...I was just curious about whether or not you've been correctly marking down everyone's absences. Which you haven't.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 不是……我只是好奇你有没有把每个人的缺勤如实记下来。而你根本没记。"
+  },
+  {
+   "en": ": You really need more friends.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你真的需要多交几个朋友。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk3.webp",
+   "alt": "newwalk3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I have a perfectly adequate amount of friends, thank you very much!",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我的朋友数量完全够用，谢谢！"
+  },
+  {
+   "en": ": Now, what's all this about a mysterious transfer student?! What do you know that I don't?!",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 那么，神秘转学生是怎么回事？！你有什么是我不知道的？！"
+  },
+  {
+   "en": ": There is no actual transfer student. I was just daydreaming about the chances of running into a cute girl.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 根本没有什么转学生。我只是在做白日梦，幻想着能偶遇一个可爱的女孩。"
+  },
+  {
+   "en": ": Thankfully, I appear to have encountered one that I don't even need to bother going through introductions with.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 幸好，我似乎还真遇上了一个，连自我介绍都省了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk4.webp",
+   "alt": "newwalk4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Ah...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 啊……"
+  },
+  {
+   "en": ": D...d...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 可……可……"
+  },
+  {
+   "en": ": D...?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 可……？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk5.webp",
+   "alt": "newwalk5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": D...Don't just go from insulting me to complimenting me that quickly! It makes it hard to think!",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 可……可别这么快就从损我变成夸我啊！我脑子会转不过来的！"
+  },
+  {
+   "en": ": Anyway, I’m really just here to kill some time. But what about you? I figured you'd have work today.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 总之，我来这儿纯粹是为了打发时间。你呢？我以为你今天要上班。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk6.webp",
+   "alt": "newwalk6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I do have work today, we’re just not open yet.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我今天的确要上班，只是还没开门而已。"
+  },
+  {
+   "en": ": We've tried opening earlier in the past, but we have been historically dead during regular business hours, so it's really not worth the effort.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我们以前试过早点开门，但正常营业时间里客人一向少得可怜，所以实在不值得费那个劲。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That makes sense. Sunsets are nice and whatnot, but looking at them doesn't really make you want to masturbate.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 有道理。夕阳是很美之类的，可看着夕阳并不会让人想撸。"
+  },
+  {
+   "en": "scene newwalk7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk7.webp",
+   "alt": "newwalk7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Why must you ruin every conversation almost immediately?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 你为什么非要在几乎每一句话刚开头的时候就把天聊死？"
+  },
+  {
+   "en": ": Because if I didn't, you'd probably keep talking about porn shop data or something. And that just sounds boring.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 因为如果我不这么做，你大概会继续讲什么成人用品店的数据之类的。那听起来就很无聊。"
+  },
+  {
+   "en": ": Well, forgive me for taking an interest in statistics. Would it make you happier if I spent more of my time actively consuming the material we sell?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 哎呀，对不起，我对统计数字感兴趣真是抱歉。要是我把时间都花在亲身消费我们卖的东西上，你会更开心吗？"
+  },
+  {
+   "en": ": It-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那——"
+  },
+  {
+   "en": ": Please don't actually answer that question.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 请别真的回答那个问题。"
+  },
+  {
+   "en": ": Damn it.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 可恶。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk8.webp",
+   "alt": "newwalk8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh, umm...While I'm already on the topic of asking for forgiveness...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 啊，嗯……既然都已经开口道歉了……"
+  },
+  {
+   "en": ": I'd like to apologize for my outburst in the classroom the other day.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我想为那天在教室里的失态向你道歉。"
+  },
+  {
+   "en": ": I realize that it was completely out of character for me to...even consider that you'd be willing to spend your free time outside of school with me, so...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我也知道，我居然会……觉得你愿意在课余时间陪我，这完全不像我，所以……"
+  },
+  {
+   "en": ": I won’t hold it against you if you want to just...forget everything I said or pretend it never happened.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 如果你想把我说的全都忘掉，或者当它没发生过，我也不会怪你。"
+  },
+  {
+   "en": ": Why would I do that? In fact, doesn't the fact that I'm talking to you right now kind of prove that I do want to spend time with you outside of school?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我为什么要那么做？再说了，我现在正跟你说话，这不就恰恰证明我确实想在放学后跟你待在一起吗？"
+  },
+  {
+   "en": ": Not if it's...based entirely on coincidence and not something we proactively planned on doing.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 如果这完全……只是巧合，而不是我们事先主动约好的，那就不算。"
+  },
+  {
+   "en": ": Well, if you don't have anything else to do, how about we proactively plan to hang out until you have to leave for work?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那么，如果你也没有别的事，我们干脆主动约好，一起待到你该去上班为止？"
+  },
+  {
+   "en": ": Unless you were on your way to study right now or something. Which you probably were because you are Makoto and that is what you do.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 除非你现在正要去学习之类的。你多半是吧，因为你是 Makoto，你就是干这个的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk9.webp",
+   "alt": "newwalk9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I'll actually have you know that I have banned myself from studying today.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我可得告诉你，我今天已经禁止自己学习了。"
+  },
+  {
+   "en": ": Instead, I've been trying to enjoy myself by taking a relaxing walk in the park.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 取而代之，我一直在试着在公园里悠闲地散步来享受生活。"
+  },
+  {
+   "en": ": It’s actually kind of nice. The weather here has been perfect lately, hasn't it?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 其实还挺舒服的。最近这里的天气一直很好，不是吗？"
+  },
+  {
+   "en": ": I can't even remember the last time it rained.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我甚至都记不清上次下雨是什么时候了。"
+  },
+  {
+   "en": ": Wait...yeah. Why hasn't it rained yet?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 等等……对啊。怎么一直没下雨？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I know month-long periods without rain aren't impossible, but it's been bright and sunny every single day since I woke up here.",
+   "zh": "我知道一整月不下雨也不是不可能，但自从我在这儿醒来，每一天都是阳光明媚。"
+  },
+  {
+   "en": "That...has to lead to some sort of environmental problems eventually, doesn't it?",
+   "zh": "这……迟早会引发某种环境问题吧？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Who knows? Perhaps we're just in the early stages of a drought?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 谁知道呢？也许我们正处在干旱的早期阶段？"
+  },
+  {
+   "en": ": For now, though...would you...you know...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 不过现在嘛……你愿不愿意……那个……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk10.webp",
+   "alt": "newwalk10"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Actually...nevermind. It's a lot more embarrassing asking out loud than I thought it would be?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 算了……还是算了。说出口比我预想的要难为情得多。"
+  },
+  {
+   "en": ": Really? Even after I suggested doing exactly what you were about to suggest like two minutes ago?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 真的吗？哪怕我两分钟前才刚提出你正要说的那件事？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newwalk11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newwalk11.webp",
+   "alt": "newwalk11"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": So...So you do want to go for a walk with me! Well...thank you very much for asking, Sensei! I would love to!",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 那……那么说，你真的想跟我一起散步！那……非常感谢你的邀请，老师！我很乐意！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "You know, with how much Makoto obviously likes me, I figured she'd be getting flustered a lot more frequently than she actually does.",
+   "zh": "按 Makoto 明显那么喜欢我的程度，我本以为她会比现在更容易脸红心跳。"
+  },
+  {
+   "en": "Granted, she's still near the top of the chart when it comes to that incredibly specific demographic-",
+   "zh": "诚然，在这个极其特定的人群里，她仍然稳居前列——"
+  },
+  {
+   "en": "But the fact that she's able to keep herself composed at all is sort of a testament to how...composed and diligent she is as a person.",
+   "zh": "但她多少还能保持镇定，这本身就说明了她这个人有多……沉稳和认真。"
+  },
+  {
+   "en": "It's those traits of hers that make the points in time where she does get flustered all the more appealing, though.",
+   "zh": "也正因为如此，她偶尔慌乱的那些瞬间才格外迷人。"
+  },
+  {
+   "en": "I know I give her shit about how much time she spends studying and, honestly, I can't imagine ever stopping that with how fun it's been so far.",
+   "zh": "我知道我老拿她花太多时间学习这件事开涮，而且说实话，光是有趣这一点，我就想象不出自己有一天会停下。"
+  },
+  {
+   "en": "But-",
+   "zh": "但是——"
+  },
+  {
+   "en": "I do think she's interesting.",
+   "zh": "我确实觉得她很有意思。"
+  },
+  {
+   "en": "And not just because I am going to have sex with her one day.",
+   "zh": "而且不只是因为我有朝一日要跟她上床。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark1.webp",
+   "alt": "makpark1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Heheh...this feels kind of weird, doesn't it?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 嘿嘿……感觉有点怪怪的，不是吗？"
+  },
+  {
+   "en": ": You think so? It feels pretty normal to me.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你这么觉得？我觉得挺正常的。"
+  },
+  {
+   "en": ": But...this isn't like the hall at school. You and I have never actually spent time together like this before.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 可是……这跟在学校走廊上不一样。你和我从来没有像这样真正单独相处过。"
+  },
+  {
+   "en": ": Also...there's the whole issue of you being a teacher...and me being a student...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 还有……就是你是老师……我是学生……这件事。"
+  },
+  {
+   "en": ": And we're walking around a public park, no less. Anyone who sees us likely thinks this is some sort of...date.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 而且我们还在公园里走来走去。任何人看见我们，多半都会觉得这是某种……约会。"
+  },
+  {
+   "en": ": It's like something straight out of a shoujo manga- a genre of book I absolutely do not read.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 简直像少女漫画里的场景——一种我绝对不会看的书。"
+  },
+  {
+   "en": ": What is-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 什么是——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark1r",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark1r.webp",
+   "alt": "makpark1r"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Uh-oh! Looks like it's time for a weebnote!",
+   "spk": "Molly",
+   "spkColor": "#4FCB80",
+   "zh": ": 哎呀！看来是时候来一段宅知识小课堂了！"
+  },
+  {
+   "en": ": Shoujo manga is a genre of comics aimed at young girls that typically focuses on blossoming romances between two unlikely candidates!",
+   "spk": "Molly",
+   "spkColor": "#4FCB80",
+   "zh": ": 少女漫画是一种面向年轻女孩的漫画类型，通常聚焦于两个不太可能走到一起的人之间萌芽的恋情！"
+  },
+  {
+   "en": ": I'm sure that doesn't sound familiar at all, does it?",
+   "spk": "Molly",
+   "spkColor": "#4FCB80",
+   "zh": ": 我敢说这听起来一点也不耳熟，对吧？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark1r2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark1r2.webp",
+   "alt": "makpark1r2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Did you hear something just now?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 你刚才有听到什么声音吗？"
+  },
+  {
+   "en": ": Me? No.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我？没有。"
+  },
+  {
+   "en": ": Anyway, I can’t say I’m all that familiar with shoujo manga. Though, I do feel slightly more informed about it all of a sudden...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 总之，我对少女漫画算不上多熟悉。不过，我突然觉得对它了解了一点……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark2.webp",
+   "alt": "makpark2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": So, do you come to this park often, Sensei?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 那么，老师，你常来这个公园吗？"
+  },
+  {
+   "en": ": I have to say, I didn’t peg you as the type to enjoy public spaces like this.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我得说，我没看出你是会喜欢这种公共场所的类型。"
+  },
+  {
+   "en": ": This is actually the first time I’ve been here. I didn't even know this place existed.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 其实我是第一次来这儿。我甚至都不知道有这个地方。"
+  },
+  {
+   "en": ": It actually didn't until just a short while ago.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 它其实是不久前才有的。"
+  },
+  {
+   "en": ": One of my favorite things about Kumon-mi is how it's always changing. It's like...every time you wake up, there's something a little different going on.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我最喜欢 Kumon-mi 的一点就是它一直在变。就像……每次你一觉醒来，都会有点不一样的东西在发生。"
+  },
+  {
+   "en": ": We didn’t even have the cafe until recently. Now, it’s one of the most popular spots in town.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 连那家咖啡馆都是最近才有的。现在它已经是镇上最受欢迎的去处之一了。"
+  },
+  {
+   "en": ": Is that somewhere you go often?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你常去那儿吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark3.webp",
+   "alt": "makpark3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No more than the average person, I suppose.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 大概跟普通人差不多吧。"
+  },
+  {
+   "en": ": It seems like it would be a nice place to study if only it was a little quieter. Unfortunately, I don't think I'd be able to focus with how busy it always seems to be.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 要是能再安静点，那里会是个学习的好地方。可惜，它看起来总是那么热闹，我觉得自己集中不了注意力。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark2.webp",
+   "alt": "makpark2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I do like coffee, though. The pot I keep in my room is actually one of the first things I bought with my own money.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 不过我确实喜欢咖啡。我房间里那把咖啡壶，其实是我用自己赚的钱最早买下的东西之一。"
+  },
+  {
+   "en": ": Just try to keep it away from Miku if possible. I don’t want to imagine how hard she'd be to keep up with while hopped up on caffeine.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 尽量让它离 Miku 远点就好。我可不想想象她摄入咖啡因之后有多难对付。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark4.webp",
+   "alt": "makpark4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh, you don’t have to worry about that. Miku actually hates coffee.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 哦，这个你不用担心。Miku 其实讨厌咖啡。"
+  },
+  {
+   "en": ": She needs to put almost eight tablespoons of sugar in one cup to even drink it. It's that you should be worried about, Sensei.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 她得往一杯里加差不多八大勺糖才喝得下去。老师，你该担心的是那个才对。"
+  },
+  {
+   "en": ": That sounds somehow even more terrifying...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 听起来不知怎么更可怕了……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark5.webp",
+   "alt": "makpark5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": She’s doing her best...but I agree that she can be a bit hard to keep up with on occasion.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 她已经很努力了……不过我同意，她偶尔确实有点让人跟不上。"
+  },
+  {
+   "en": ": I just wish she'd focus a little more on her studies so I don’t have to move onto the next grade without her.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我只是希望她能多花点心思在学习上，这样我就不用一个人升到下一个年级去了。"
+  },
+  {
+   "en": ": I could...maybe invite her over to my place for private tutoring? That doesn't sound creepy, does it?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我……也许可以请她来我家做一对一辅导？听起来不猥琐吧？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark5r",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark5r.webp",
+   "alt": "makpark5r"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Wait...you offer private tutoring sessions at your house?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 等等……你在自己家里开一对一辅导？"
+  },
+  {
+   "en": ": Doesn’t that go against section 9C of the student handbook?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 这不违反学生手册第 9C 条吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I could have sworn that students weren’t allowed to enter the residence of a teacher without express permission from the principal.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我明明记得，未经校长明确许可，学生是不准进入教师住所的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "What kind of[school] actually puts a rule as specific as that in their student handbook?",
+   "zh": "什么样的[school]会把这么具体的一条写进学生手册啊？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I...am an exception to that rule.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我……是那条规则的例外。"
+  },
+  {
+   "en": ": Do you...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 你……"
+  },
+  {
+   "en": ": Do you mind if I ask why?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 你介意我问一下为什么吗？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": ……"
+  },
+  {
+   "en": ": I do, actually.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 介意，我确实介意。"
+  },
+  {
+   "en": "scene makpark5r2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark5r2.webp",
+   "alt": "makpark5r2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Well...umm...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 那……嗯……"
+  },
+  {
+   "en": ": If that's the case...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 既然如此……"
+  },
+  {
+   "en": ": Would you maybe...mind if I came over for a private session one day?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 你……会不会介意我哪天也过去，来一次一对一辅导？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "You know, I expected Makoto to care a little more about my blatant shattering of section 9C...but I guess the idea of being alone with me combined with learning managed to outweigh that.",
+   "zh": "我本来以为 Makoto 会对我公然违反第 9C 条更在意一点……但看来「跟我独处」加上「学习」这两件事加起来，压过了那一点。"
+  },
+  {
+   "en": "There's no way she believes that I'm an exception to the rule, so I guess that even she's okay with breaking a few of them if she's able to get something she wants out of it.",
+   "zh": "她不可能真相信我是那条规则的例外，所以我觉得，只要能换来她想要的东西，就连她也乐意破上几条规矩。"
+  },
+  {
+   "en": "Of course, that will not stop me from teasing her about this because that sounds fun.",
+   "zh": "当然，这不妨碍我拿这事来逗她，因为听起来很有意思。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I don't think so, Makoto. You don't really seem to need tutoring. My time is better spent on other girls.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我看不行，Makoto。你看起来并不怎么需要辅导。我的时间花在其他女孩身上更有价值。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark6.webp",
+   "alt": "makpark6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Wha-",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 什——"
+  },
+  {
+   "en": ": Just because I'm at the top of the class doesn't mean that I don't struggle with certain things too!",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 就算我是全班第一，也不代表我就没有不擅长的地方啊！"
+  },
+  {
+   "en": ": I need tutoring just as much as the next girl, Sensei!",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我跟其他女生一样需要辅导，老师！"
+  },
+  {
+   "en": ": Do you? Or do you just want to be alone in my house with me?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 是吗？还是说你只是想跟我单独待在我家里？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark7.webp",
+   "alt": "makpark7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Well...umm...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 那……嗯……"
+  },
+  {
+   "en": ": I suppose that's...just a thing that would have to happen for the...purpose of furthering my education.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我觉得那……只是为了……促进我的学业，而不得不发生的事情。"
+  },
+  {
+   "en": ": Or something.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 大概吧。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": ……"
+  },
+  {
+   "en": ": You just want another massage, don't you?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你就是想要再来一次按摩吧？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark8.webp",
+   "alt": "makpark8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No! I don't want another massage!",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 不是！我才不想再来一次按摩！"
+  },
+  {
+   "en": ": I don't know if I believe you.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我不知道该不该信你。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark8r",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark8r.webp",
+   "alt": "makpark8r"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I just...need to learn everything I can since I also want to be a teacher some day.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我只是……想尽可能多学点东西，因为我也想有一天当上老师。"
+  },
+  {
+   "en": ": And...I feel like if I’m ever going to get to where I want to be in order to do that...I probably need to learn from the best.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 而且……我觉得，如果我想要走到能实现那个目标的位置……我大概得向最优秀的人学习。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Was the person in this body before me really that great of a teacher?...",
+   "zh": "在我之前占据这具身体的那个人，真的是那么厉害的老师吗？……"
+  },
+  {
+   "en": "Just what the Hell did he do to get Makoto to think so highly of him?",
+   "zh": "他到底做了什么，让 Makoto 对他评价这么高？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": If that's all it is, you can come over whenever you want.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 如果只是这样，你随时都可以来。"
+  },
+  {
+   "en": ": I’ll have to make sure I warn Ami ahead of time, though. I don’t think she’d take too kindly to a girl showing up unannounced, student or not.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不过我得提前跟 Ami 打个招呼。我觉得她不会太乐意看到有女生不打招呼就找上门来，学生也不例外。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark5r2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark5r2.webp",
+   "alt": "makpark5r2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Hahah...yeah.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 哈哈哈……是啊。"
+  },
+  {
+   "en": ": She...really loves you, doesn’t she?",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 她……真的很爱你，不是吗？"
+  },
+  {
+   "en": ": I am her uncle after all.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我毕竟是她叔叔嘛。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Kind of.",
+   "zh": "算是吧。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Agreed...I have my issues with Ami, but...you two make a good pair.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 我同意……虽然我跟 Ami 有些过节，但……你们两个挺般配的。"
+  },
+  {
+   "en": ": I'd almost feel a little guilty for intruding because of that.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 因为这层关系，我甚至会有点愧疚于插足其中。"
+  },
+  {
+   "en": ": Almost?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 甚至？"
+  },
+  {
+   "en": ": Well...",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 嗯……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark8r2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark8r2.webp",
+   "alt": "makpark8r2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Let's just say my thirst for knowledge vastly outweighs how I feel about her.",
+   "spk": "Makoto",
+   "spkColor": "#5D84FF",
+   "zh": ": 只能说，我对知识的渴望远远压过了我对她的在意。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Makoto and I walk around for a little while longer before the time comes for us to part ways.",
+   "zh": "Makoto 和我又逛了一会儿，随后到了该分别的时候。"
+  },
+  {
+   "en": "I mention coming over to her family's shop tonight and she begs me not to because that is what she always does when I suggest such a thing.",
+   "zh": "我提起今晚要去她家的店，她便求我别去——每次我这么提议，她都是这副反应。"
+  },
+  {
+   "en": "All in all, nothing really changes.",
+   "zh": "总而言之，什么都没变。"
+  },
+  {
+   "en": "The time we spend outside of school isn't all that different from the time we spend in it.",
+   "zh": "我们在校外的相处，跟在校内并没有多大不同。"
+  },
+  {
+   "en": "Sure, there's a tinge of additional suggestiveness sprinkled onto different portions of our conversations...but it's all entirely normal apart from that.",
+   "zh": "诚然，我们对话的某些片段里多掺了一点点暧昧……但除此之外一切都再正常不过。"
+  },
+  {
+   "en": "Maybe that's a good thing, though?",
+   "zh": "不过，这也许是件好事？"
+  },
+  {
+   "en": "Maybe the relaxing life that Makoto wants doesn't require the wide open world? Maybe she can find comfort in the same building she spends every Monday through Friday in?",
+   "zh": "也许 Makoto 想要的悠闲生活，并不需要广阔的天地？也许她能在那栋她周一到周五都待着的楼里找到慰藉？"
+  },
+  {
+   "en": "Or maybe a life of comfort just isn't possible for her at all if even this is not enough to turn her into someone else.",
+   "zh": "又或者，如果连这样都不足以让她变成另一个人，那么安逸的生活对她而言根本就不可能存在。"
+  },
+  {
+   "en": "I believe she's fine the way she is, albeit slightly flawed...But we're all flawed in our own ways and that alone doesn't make us worth giving up on.",
+   "zh": "我觉得她现在这样就很好，尽管有点瑕疵……但我们每个人都有自己的缺陷，光凭这一点并不足以让我们被放弃。"
+  },
+  {
+   "en": "She says goodbye to me with a smile on her face- and if it weren't for the glow of the sun illuminating her true feelings, I'd likely believe it.",
+   "zh": "她带着微笑跟我道别——如果不是阳光照亮了她的真实情绪，我大概会相信那个微笑。"
+  },
+  {
+   "en": "Unfortunately for both of us, it's much easier to see in the light.",
+   "zh": "可惜对我们两个人来说，在光线下看得太清楚了。"
+  },
+  {
+   "en": "And so I know that smile is no smile at all.",
+   "zh": "所以我知道，那根本不是什么微笑。"
+  },
+  {
+   "en": "But-",
+   "zh": "但是——"
+  },
+  {
+   "en": "It's still beautiful in its own backwards way.",
+   "zh": "它以一种扭曲的方式，依然很美。"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene makpark9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/makpark9.webp",
+   "alt": "makpark9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": "..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": "..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": "..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": "..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ day38 = True",
+   "zh": ""
+  },
+  {
+   "en": "$ makoto_love += 1",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Makoto's affection has increased to [makoto_love]!",
+   "zh": "Makoto 的好感度提升到了 [makoto_love]！"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump saturdaynight",
+   "zh": ""
+  }
+ ]
 }

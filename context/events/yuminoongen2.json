@@ -1,128 +1,128 @@
 {
-  "label": "yuminoongen2",
-  "title_zh": "",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label yuminoongen2:",
-      "zh": ""
-    },
-    {
-      "en": "scene yuminoongen2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yuminoongen2.webp",
-      "alt": "yuminoongen2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I manage to find Yumi standing on top of her favorite bridge (And also the only bridge I can think of off the top of my head.)",
-      "zh": ""
-    },
-    {
-      "en": "It's not really a safe place for a girl her age, or anyone for that matter, to be standing while it's snowing in the event of a tragic slip over the rails into traffic but-",
-      "zh": ""
-    },
-    {
-      "en": "Well, there's not much traffic at all today. So that's good, at least.",
-      "zh": ""
-    },
-    {
-      "en": "Things really seem to slow down in the winter.",
-      "zh": ""
-    },
-    {
-      "en": "Yumi and I go back and forth atop the snowy overpass until my hands turn red and swell up from the cold.",
-      "zh": ""
-    },
-    {
-      "en": "Of course, she does not offer to hold them and warm them up.",
-      "zh": ""
-    },
-    {
-      "en": "But I do feel my heart begin to thaw out when she offers to chop my arms off and shove them down my throat.",
-      "zh": ""
-    },
-    {
-      "en": "What a lovely girl she is.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Yumi gets fed up when I allow her insults to bounce off of me and decides to head back to the dorm in a fit of protest.",
-      "zh": ""
-    },
-    {
-      "en": "I note this down as a victory in my book because I inadvertently got her off of a dangerous overpass.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if bonus == True:",
-      "zh": ""
-    },
-    {
-      "en": "But all I have to show for it is some frostbite and a flaccid penis.",
-      "zh": ""
-    },
-    {
-      "en": "What a bummer.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ yumi_love += 1",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Yumi's affection has increased to [yumi_love]!",
-      "zh": ""
-    },
-    {
-      "en": ".........",
-      "zh": ""
-    },
-    {
-      "en": "......",
-      "zh": ""
-    },
-    {
-      "en": "...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump saturdaynight",
-      "zh": ""
-    }
-  ]
+ "label": "yuminoongen2",
+ "title_zh": "冻僵的手",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label yuminoongen2:",
+   "zh": ""
+  },
+  {
+   "en": "scene yuminoongen2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yuminoongen2.webp",
+   "alt": "yuminoongen2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I manage to find Yumi standing on top of her favorite bridge (And also the only bridge I can think of off the top of my head.)",
+   "zh": "我总算找到了 Yumi——她正站在她最爱的那座天桥上（也是我一时能想到的唯一一座天桥。）"
+  },
+  {
+   "en": "It's not really a safe place for a girl her age, or anyone for that matter, to be standing while it's snowing in the event of a tragic slip over the rails into traffic but-",
+   "zh": "下着雪的时候，一个她这个年纪的女孩——或者说任何人——站在那儿都不太安全，万一不幸从栏杆上滑下去、掉进车流里——"
+  },
+  {
+   "en": "Well, there's not much traffic at all today. So that's good, at least.",
+   "zh": "不过今天车流量小得可怜。所以至少这点还算不错。"
+  },
+  {
+   "en": "Things really seem to slow down in the winter.",
+   "zh": "冬天一到，一切似乎都慢了下来。"
+  },
+  {
+   "en": "Yumi and I go back and forth atop the snowy overpass until my hands turn red and swell up from the cold.",
+   "zh": "Yumi 和我在这座积雪的天桥上来回走着，直到我的双手被冻得红肿发胀。"
+  },
+  {
+   "en": "Of course, she does not offer to hold them and warm them up.",
+   "zh": "当然，她没有提出要帮我握着手暖一暖。"
+  },
+  {
+   "en": "But I do feel my heart begin to thaw out when she offers to chop my arms off and shove them down my throat.",
+   "zh": "但当她提出要把我的胳膊砍下来、塞进我的喉咙里时，我确实感觉到自己的心开始融化了。"
+  },
+  {
+   "en": "What a lovely girl she is.",
+   "zh": "多可爱的女孩啊。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Yumi gets fed up when I allow her insults to bounce off of me and decides to head back to the dorm in a fit of protest.",
+   "zh": "Yumi 见我的辱骂全被弹开，受够了，一气之下决定回宿舍以示抗议。"
+  },
+  {
+   "en": "I note this down as a victory in my book because I inadvertently got her off of a dangerous overpass.",
+   "zh": "我在心里把这记作一场胜利，因为我无意间让她离开了那座危险的天桥。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if bonus == True:",
+   "zh": ""
+  },
+  {
+   "en": "But all I have to show for it is some frostbite and a flaccid penis.",
+   "zh": "可我为此得到的全部回报，只有一点冻伤和一根软趴趴的阴茎。"
+  },
+  {
+   "en": "What a bummer.",
+   "zh": "真扫兴。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ yumi_love += 1",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Yumi's affection has increased to [yumi_love]!",
+   "zh": "Yumi 的好感度提升到了 [yumi_love]!"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump saturdaynight",
+   "zh": ""
+  }
+ ]
 }

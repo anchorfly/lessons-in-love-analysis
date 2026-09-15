@@ -1,990 +1,990 @@
 {
-  "label": "day36",
-  "title_zh": "值日",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label day36:",
-      "zh": ""
-    },
-    {
-      "en": "scene threesix1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix1.webp",
-      "alt": "threesix1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "School is over for the day and, in place of my typical counseling hours, I have been summoned to the staff room to...",
-      "zh": "今天的课结束了，而我没去做惯常的心理咨询，反倒被叫到了教职工办公室……"
-    },
-    {
-      "en": "I don't know, actually.",
-      "zh": "其实要干什么，我也不知道。"
-    },
-    {
-      "en": "I was definitely asked to do something, but...I didn't really understand what was being asked. So I'm kind of just hoping it's nothing important and that no one notices.",
-      "zh": "我确实被要求做某件事，但……我没太听懂到底要我做什么。所以我现在基本就是在赌这不是什么要紧事，也没人会注意到。"
-    },
-    {
-      "en": "That's pretty much no different from what I always do, though.",
-      "zh": "不过这跟我平时干的事也没什么两样。"
-    },
-    {
-      "en": "I've been here for a little over a month and I still haven’t gotten the hang of the more...clerical side of things.",
-      "zh": "我来这里一个多月了，还是没摸清那些……偏事务性的门道。"
-    },
-    {
-      "en": "And it's not like I can ask for help either when this is something everyone just assumes I know already.",
-      "zh": "而且这种事人人都默认我早就懂了，我也开不了口求助。"
-    },
-    {
-      "en": "But hey, at least my students seem to like me. And I'm a lot more interested in appealing to them than anyone my age.",
-      "zh": "不过嘛，至少我的学生们似乎挺喜欢我。比起讨好同龄人，我对讨好她们可有兴趣多了。"
-    },
-    {
-      "en": "Disgusting, yes. I know.",
-      "zh": "很恶心，对吧。我知道。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Sensei! We need help!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 老师！我们需要帮助！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix2.webp",
-      "alt": "threesix2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Miku and Sana suddenly appear before me. How they knew I was here? I have no idea.",
-      "zh": "Miku 和 Sana 突然出现在我面前。她们是怎么知道我在这儿的？我毫无头绪。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Okay...And what do you need help with? I'm not counseling today.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 好……那你们需要什么帮助？我今天不做咨询。"
-    },
-    {
-      "en": ": I am very bad at cleaning!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 我打扫卫生特别不行！"
-    },
-    {
-      "en": ": I'm going to need a little more than that, Miku.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你得说得更具体点，Miku。"
-    },
-    {
-      "en": ": Fine, jeez!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 行吧，真是的！"
-    },
-    {
-      "en": ": Sana and I are on cleaning duty today, but neither of us have any idea where any of the cleaning stuff is!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 今天轮到我和 Sana 值日，可我们俩完全不知道打扫用具放在哪儿！"
-    },
-    {
-      "en": ": Or...at least I think Sana doesn't have any idea.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 或者……至少我觉得 Sana 是不知道。"
-    },
-    {
-      "en": ": Honestly, I haven't been able to hear anything she's said since she's so quiet and stuff and I feel weird about askin' her to talk louder.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 老实说，她说话太轻了，我基本听不清她在说什么，而且我又不好意思叫她大声点。"
-    },
-    {
-      "en": ": Well, you certainly don't feel weird about admitting that to me right in front of her.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 嗯，可你就好意思当着她的面把这话直接跟我说出来。"
-    },
-    {
-      "en": ": My brain doesn't work the way most brains do, okay?!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 我的脑回路跟一般人不一样，行了吧？！"
-    },
-    {
-      "en": ": I...really don’t know where anything is either...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 我……也真的什么都不知道……"
-    },
-    {
-      "en": ": And...umm...I'll try to talk a little...louder...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 还有……嗯……我会试着……说大声一点的……"
-    },
-    {
-      "en": ": Okay, so we've identified the problem. But what exactly do you want me to do about it?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 好，问题找到了。但你们具体想让我做什么？"
-    },
-    {
-      "en": ": Anything! Just help!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 什么都行！帮帮我们！"
-    },
-    {
-      "en": ": I don't know where any of that stuff is either, though.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 可我也不知道那些东西在哪儿啊。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "In fact, I barely know where anything in this[school] is and I’ve been here for over a month now.",
-      "zh": "事实上，我对这所[school]里的东西几乎一无所知，而我都已经在这里待了一个多月了。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix3.webp",
-      "alt": "threesix3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What?! So we're doomed?!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 什么？！那我们完蛋了？！"
-    },
-    {
-      "en": ": Yeah, I guess so.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 是啊，大概是吧。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix4.webp",
-      "alt": "threesix4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": AHHHH!! I’M NEVER GONNA MAKE IT TO SOCCER PRACTICE AT THIS RATE!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 啊啊啊！！照这样下去我永远赶不上足球训练了！"
-    },
-    {
-      "en": ": I...ummm...tried telling you earlier but...I can try to do it on my own if...it will help you show up on time...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 我……嗯……刚才就想跟你说的，可是……如果……能让你准时到场的话，我可以试着自己做……"
-    },
-    {
-      "en": ": I just...have to find everything first...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 我只是……得先把东西都找齐……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix6.webp",
-      "alt": "threesix6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Ugh...thanks, Sana. But I ain't gonna make you do somethin' like that. I'd rather just miss practice at that rate.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 唉……谢了，Sana。但我可不会让你去做那种事。那样的话我宁可旷训。"
-    },
-    {
-      "en": ": Besides, Makoto says I’ve gotta start learnin’ responsibility and stuff and that cleanin' is a big part of that.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 再说了，Makoto 说我得开始学着负责任什么的，而打扫卫生就是其中很重要的一部分。"
-    },
-    {
-      "en": ": I just didn't expect it to be so much of a puzzle.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 我只是没想到会像解谜游戏一样。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "To be fair, it's not really supposed to be...",
-      "zh": "说句公道话，这本来也不该是……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix7.webp",
-      "alt": "threesix7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I've just gotta face it, I guess...There’s no hope for me in this world...",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 我想我只能面对现实了……这世上已经没有我的容身之处了……"
-    },
-    {
-      "en": ": I’m going to have to join the space war...",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 我得去参加太空战争了……"
-    },
-    {
-      "en": ": No one’s joining the space war, Miku. Everything will be okay.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 没人要去参加太空战争，Miku。一切都会好起来的。"
-    },
-    {
-      "en": ": Why don’t you and Sana just...go look for an actual teacher or something?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你和 Sana 干脆……去找个真正的老师什么的？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix8.webp",
-      "alt": "threesix8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Actual teacher?...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 真正的老师？……"
-    },
-    {
-      "en": ": Are you not...a real teacher, Sensei?...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 老师你……不是真正的老师吗？……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Correct, Sana. I'm just some guy who was reincarnated into the body of a teacher and is now using that as a tool to get closer to you and everyone else.",
-      "zh": "没错，Sana。我只是个转生进了老师身体里的人，现在正把这副身体当成接近你和其他所有人的工具。"
-    },
-    {
-      "en": ": I just meant...find someone who actually knows where stuff is.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我的意思是……去找个真正知道东西放在哪儿的人。"
-    },
-    {
-      "en": ": What about the teacher in the class next to ours? Miss...Watabe or something?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我们隔壁班那个老师怎么样？那个……Watabe 还是什么来着的？"
-    },
-    {
-      "en": ": That’s a name I'm pretty sure I’ve heard mentioned before. She might know where stuff is.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我确实记得听过这个名字。她也许知道东西在哪儿。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix9.webp",
-      "alt": "threesix9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No way, Sensei...That teacher gives me the creeps.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 别啊，老师……那个老师让我起鸡皮疙瘩。"
-    },
-    {
-      "en": ": And her room always smells like...candles or something.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 而且她房间里总是有一股……蜡烛之类的味道。"
-    },
-    {
-      "en": ": You know, I'm really starting to think we should just let Sana field this on her own.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 说真的，我开始觉得干脆让 Sana 一个人搞定这事就行了。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix10.webp",
-      "alt": "threesix10"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That's fine...I can just text my mom and tell her I'll be late for work...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 没关系的……我可以给我妈发短信，告诉她我上班会晚点到……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Is it really okay to be scheduling cleaning duty for people who almost always have something to do after school?",
-      "zh": "给那些放学后几乎总有事要做的人安排值日，真的合适吗？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Okay, whatever. I'll come look for a janitor's closet with you two. But only because I really don't remember what I was supposed to be doing in here.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 好吧，随便了。我陪你们俩去找清洁工具间。不过只是因为我实在想不起来我在这儿本来要干什么。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene threesix11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/threesix11.webp",
-      "alt": "threesix11"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Heck yeah! That’s the Sensei I know and love! I knew you’d come in clutch for your old pal, Miku!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 太棒了！这才是我认识并喜爱的老师！我就知道你会在关键时刻拉你老朋友 Miku 一把！"
-    },
-    {
-      "en": ": Just...don't expect me to do any actual cleaning once we track the supplies down. I draw the line there.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 只是……等找到工具之后别指望我真去打扫。那条线我就划在这儿。"
-    },
-    {
-      "en": ": Deal! Now, let's hurry the heck up and get this show on the road before the rest of the team tracks me down and breaks my kneecaps for bein' late!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 成交！那咱们赶紧的，趁队友还没找过来因为迟到打断我的膝盖骨，把这事儿搞定！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newcleaning1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newcleaning1.webp",
-      "alt": "newcleaning1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Thanks again, Sensei! As a special reward, I’ll let you sit front row at our next soccer game!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 再次感谢，老师！作为特别奖励，我允许你下次比赛坐前排！"
-    },
-    {
-      "en": ": I was unaware that I wasn’t already allowed to do that.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我还不知道原来我是不被允许坐前排的。"
-    },
-    {
-      "en": ": And...umm...I'll save you a...front row seat at the bar...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 还有……嗯……我会在吧台给你留一个……前排的座位……"
-    },
-    {
-      "en": ": You have one row of seats.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你那儿就一排座位吧。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newcleaning2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newcleaning2.webp",
-      "alt": "newcleaning2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh, come on Sana! You can do better than that! Give the man somethin' he really wants!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 哎呀，Sana，加把劲啊！你能做得更好！给人家点真正想要的东西！"
-    },
-    {
-      "en": ": But...I don't really know what...Sensei would want...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 可是……我不知道……老师会想要什么……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Good.",
-      "zh": "很好。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": At least try usin' your outside voice if you're not gonna be forkin' over a decent reward! School's over! We don't gotta be quiet anymore! We're free!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 既然不肯拿出像样的奖励，那至少试试用你的「室外音量」说话吧！放学了！我们不用再小声说话了！我们自由了！"
-    },
-    {
-      "en": ": I...don't think I have an...outside voice...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 我……不觉得自己有……「室外音量」……"
-    },
-    {
-      "en": ": That's not true. I heard your outside voice loud and clear during your little act with Ayane during gym a while ago.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 这话不对。前阵子体育课上你和 Ayane 演那出戏的时候，你的「室外音量」我听得清清楚楚。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newcleaning3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newcleaning3.webp",
-      "alt": "newcleaning3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That...was for a mission...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 那……是为了任务……"
-    },
-    {
-      "en": ": It was a...special exception...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 那是……特例……"
-    },
-    {
-      "en": ": You went on a mission and didn’t even call your lifelong friend, Miku?!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 你去执行任务居然都没叫上你一辈子的好朋友 Miku？！"
-    },
-    {
-      "en": ": Am I not good enough for you anymore?! Is that how things are gonna be, Sana?!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 我已经不够格了吗？！Sana，事情已经变成这样了吗？！"
-    },
-    {
-      "en": ": Lifelong? You two have known each other that long?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 一辈子？你们认识那么久了？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newcleaning4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newcleaning4.webp",
-      "alt": "newcleaning4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You know it! Sana and I go all the way back to first grade! And, if you combine both of us, we've probably grown a whole foot since then!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 那当然！我和 Sana 从一年级就认识了！而且，要是把我俩加起来，这些年来我们大概长高了整整一英尺！"
-    },
-    {
-      "en": ": That is...really not that much.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 那……真的不多啊。"
-    },
-    {
-      "en": ": Well, we can't all be ten foot tall monsters like you, Sensei.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 哎呀，我们又不能都像老师你这种十英尺高的怪物。"
-    },
-    {
-      "en": ": Sana and I were actually the two shortest girls throughout our entire school careers before high school came and Maya took my spot as the #2.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 在高中之前，我和 Sana 一直都是全校最矮的两个女生，后来 Maya 来了，抢走了我的第二名。"
-    },
-    {
-      "en": ": Is she really shorter than you?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 她真的比你矮？"
-    },
-    {
-      "en": ": Yeah, but she acts tall so nobody ever notices.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 是啊，但她装得很高，所以没人发现。"
-    },
-    {
-      "en": ": But apart from her, nothing else has really changed! We're still the same girls we've always been!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 除了她以外，别的都没怎么变！我们还是从前的我们！"
-    },
-    {
-      "en": ": I...don't know if I'd...really say that we were friends, though...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 不过……我不知道我们能不能……真的算朋友……"
-    },
-    {
-      "en": ": We...only talked a couple times...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 我们……只说过几次话……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newcleaning5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newcleaning5.webp",
-      "alt": "newcleaning5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Yeah, but that’s just cause we hung out with different people! I was always with my soccer team back then and you were...",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 是啦，但那只是因为我们跟不同的人混！那时候我总跟足球队的人在一起，而你……"
-    },
-    {
-      "en": ": You were...uhh...",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 你是……呃……"
-    },
-    {
-      "en": ": Huh. Who did you hang out with back then, Sana? I remember there bein' somebody, but I can't put my finger on-",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 咦。Sana，你那时候跟谁混来着？我记得是有个人的，但我一时想不起——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newcleaning6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newcleaning6.webp",
-      "alt": "newcleaning6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh...umm...look...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 啊……嗯……那个……"
-    },
-    {
-      "en": ": Could...that be the...janitor's closet?...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 那会不会是……清洁工具间？……"
-    },
-    {
-      "en": ": What?! Was it seriously right there this whole time! But we walked past that like four times on our own!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 什么？！它一直就在那儿吗！可我们自己都从那儿路过四次了！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "The three of us come to a stop at the end of the hallway in front of a room that is clearly labeled as the custodial closet-",
-      "zh": "我们三个在走廊尽头停了下来，面前那间屋子清清楚楚地标着「清洁工具间」——"
-    },
-    {
-      "en": "But the even more convenient part is that it's already cracked open so I don't have to break the news of not having a key to them.",
-      "zh": "但更省事的是门本来就开着条缝，这样我就不用向她们坦白我没有钥匙了。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Come on, Sana! You can tell me more about your friends back then while we're cleanin' the chalkboard.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 走吧，Sana！我们擦黑板的时候，你可以再跟我讲讲你那时候的朋友。"
-    },
-    {
-      "en": ": Can we...maybe talk about...umm...anything else?...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 我们……能不能……聊聊别的？……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene newcleaning7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/newcleaning7.webp",
-      "alt": "newcleaning7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Sensei! Thanks again for your help today!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 老师！今天再次谢谢你的帮忙！"
-    },
-    {
-      "en": ": I know you mentioned not wantin' to actually help with the cleanin' part, but if you change your mind-",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 我知道你说过不想真的动手打扫，但如果你改变主意——"
-    },
-    {
-      "en": ": Nope. I’m good. Thanks, though.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 不。我不用了。不过谢谢。"
-    },
-    {
-      "en": ": You sure? Might give ya a good chance to write dirty words on the board since we're just gonna erase the whole thing anyway.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 你确定？反正最后整块黑板都要擦掉，这可是你在黑板上写脏话的大好机会。"
-    },
-    {
-      "en": ": Still good. Not cleaning. But thanks.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 还是算了。不打扫。不过谢谢。"
-    },
-    {
-      "en": ": Well, hey! You know where we'll be if ya want some more of us! And you know where I'll be afterward if ya want some more of me!",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 嘿，那又怎样！想再找我们，你知道我们在哪儿；事后想再找我，你也知道我在哪儿！"
-    },
-    {
-      "en": ": Carefree suggestions like that are going to get you in trouble one day, Miku.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你这种没心没肺的提议，总有一天会让你惹上麻烦的，Miku。"
-    },
-    {
-      "en": ": Probably! But Makoto makes me carry pepper spray around, so I'll be okay.",
-      "spk": "Miku",
-      "spkColor": "#FF8112",
-      "zh": ": 大概吧！不过 Makoto 让我随身带着辣椒喷雾，所以没事的。"
-    },
-    {
-      "en": ": Th...Thank you...Sensei...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 谢……谢谢你……老师……"
-    },
-    {
-      "en": ": You can...umm...come visit me again if...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 你可以……嗯……再来看我，如果……"
-    },
-    {
-      "en": ": Uhh...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 呃……"
-    },
-    {
-      "en": ": You...want alcohol...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": 你……想要酒……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Sana",
-      "spkColor": "#00E77F",
-      "zh": ": ……"
-    },
-    {
-      "en": ": Thank you, Sana. That's very considerate of you.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 谢谢你，Sana。你想得真周到。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "The two of them disappear into the closet and I can instantly hear a mountain of supplies toppling to the ground as one of them manages to destroy the room in record time.",
-      "zh": "她们俩钻进了工具间，我立刻就听见一大堆用具哗啦啦倒地的声音——其中一个以创纪录的速度把房间给毁了。"
-    },
-    {
-      "en": "I doubt I'd be wrong in assuming it's Miku.",
-      "zh": "我觉得猜是 Miku 应该不会错。"
-    },
-    {
-      "en": "Either way, not wanting to get involved any further, I return to the office and...",
-      "zh": "不管怎样，我不想再掺和下去，于是回到办公室，然后……"
-    },
-    {
-      "en": "Try to remember whatever it is I'm supposed to be doing in there.",
-      "zh": "努力回忆我到底该在这儿干什么来着。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ day36 = True",
-      "zh": ""
-    },
-    {
-      "en": "$ miku_love += 1",
-      "zh": ""
-    },
-    {
-      "en": "$ sana_love += 1",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Miku's affection has increased to [miku_love]!",
-      "zh": "Miku 的好感度提升到了 [miku_love]！"
-    },
-    {
-      "en": "Sana's affection has increased to [sana_love]!",
-      "zh": "Sana 的好感度提升到了 [sana_love]！"
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump afterschoolevent",
-      "zh": ""
-    }
-  ]
+ "label": "day36",
+ "title_zh": "值日",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label day36:",
+   "zh": ""
+  },
+  {
+   "en": "scene threesix1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix1.webp",
+   "alt": "threesix1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "School is over for the day and, in place of my typical counseling hours, I have been summoned to the staff room to...",
+   "zh": "今天的课结束了，而我没去做惯常的心理咨询，反倒被叫到了教职工办公室……"
+  },
+  {
+   "en": "I don't know, actually.",
+   "zh": "其实要干什么，我也不知道。"
+  },
+  {
+   "en": "I was definitely asked to do something, but...I didn't really understand what was being asked. So I'm kind of just hoping it's nothing important and that no one notices.",
+   "zh": "我确实被要求做某件事，但……我没太听懂到底要我做什么。所以我现在基本就是在赌这不是什么要紧事，也没人会注意到。"
+  },
+  {
+   "en": "That's pretty much no different from what I always do, though.",
+   "zh": "不过这跟我平时干的事也没什么两样。"
+  },
+  {
+   "en": "I've been here for a little over a month and I still haven’t gotten the hang of the more...clerical side of things.",
+   "zh": "我来这里一个多月了，还是没摸清那些……偏事务性的门道。"
+  },
+  {
+   "en": "And it's not like I can ask for help either when this is something everyone just assumes I know already.",
+   "zh": "而且这种事人人都默认我早就懂了，我也开不了口求助。"
+  },
+  {
+   "en": "But hey, at least my students seem to like me. And I'm a lot more interested in appealing to them than anyone my age.",
+   "zh": "不过嘛，至少我的学生们似乎挺喜欢我。比起讨好同龄人，我对讨好她们可有兴趣多了。"
+  },
+  {
+   "en": "Disgusting, yes. I know.",
+   "zh": "很恶心，对吧。我知道。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Sensei! We need help!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 老师！我们需要帮助！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix2.webp",
+   "alt": "threesix2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Miku and Sana suddenly appear before me. How they knew I was here? I have no idea.",
+   "zh": "Miku 和 Sana 突然出现在我面前。她们是怎么知道我在这儿的？我毫无头绪。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Okay...And what do you need help with? I'm not counseling today.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 好……那你们需要什么帮助？我今天不做咨询。"
+  },
+  {
+   "en": ": I am very bad at cleaning!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 我打扫卫生特别不行！"
+  },
+  {
+   "en": ": I'm going to need a little more than that, Miku.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你得说得更具体点，Miku。"
+  },
+  {
+   "en": ": Fine, jeez!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 行吧，真是的！"
+  },
+  {
+   "en": ": Sana and I are on cleaning duty today, but neither of us have any idea where any of the cleaning stuff is!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 今天轮到我和 Sana 值日，可我们俩完全不知道打扫用具放在哪儿！"
+  },
+  {
+   "en": ": Or...at least I think Sana doesn't have any idea.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 或者……至少我觉得 Sana 是不知道。"
+  },
+  {
+   "en": ": Honestly, I haven't been able to hear anything she's said since she's so quiet and stuff and I feel weird about askin' her to talk louder.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 老实说，她说话太轻了，我基本听不清她在说什么，而且我又不好意思叫她大声点。"
+  },
+  {
+   "en": ": Well, you certainly don't feel weird about admitting that to me right in front of her.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗯，可你就好意思当着她的面把这话直接跟我说出来。"
+  },
+  {
+   "en": ": My brain doesn't work the way most brains do, okay?!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 我的脑回路跟一般人不一样，行了吧？！"
+  },
+  {
+   "en": ": I...really don’t know where anything is either...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 我……也真的什么都不知道……"
+  },
+  {
+   "en": ": And...umm...I'll try to talk a little...louder...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 还有……嗯……我会试着……说大声一点的……"
+  },
+  {
+   "en": ": Okay, so we've identified the problem. But what exactly do you want me to do about it?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 好，问题找到了。但你们具体想让我做什么？"
+  },
+  {
+   "en": ": Anything! Just help!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 什么都行！帮帮我们！"
+  },
+  {
+   "en": ": I don't know where any of that stuff is either, though.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 可我也不知道那些东西在哪儿啊。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "In fact, I barely know where anything in this[school] is and I’ve been here for over a month now.",
+   "zh": "事实上，我对这所[school]里的东西几乎一无所知，而我都已经在这里待了一个多月了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix3.webp",
+   "alt": "threesix3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What?! So we're doomed?!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 什么？！那我们完蛋了？！"
+  },
+  {
+   "en": ": Yeah, I guess so.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 是啊，大概是吧。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix4.webp",
+   "alt": "threesix4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": AHHHH!! I’M NEVER GONNA MAKE IT TO SOCCER PRACTICE AT THIS RATE!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 啊啊啊！！照这样下去我永远赶不上足球训练了！"
+  },
+  {
+   "en": ": I...ummm...tried telling you earlier but...I can try to do it on my own if...it will help you show up on time...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 我……嗯……刚才就想跟你说的，可是……如果……能让你准时到场的话，我可以试着自己做……"
+  },
+  {
+   "en": ": I just...have to find everything first...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 我只是……得先把东西都找齐……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix6.webp",
+   "alt": "threesix6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Ugh...thanks, Sana. But I ain't gonna make you do somethin' like that. I'd rather just miss practice at that rate.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 唉……谢了，Sana。但我可不会让你去做那种事。那样的话我宁可旷训。"
+  },
+  {
+   "en": ": Besides, Makoto says I’ve gotta start learnin’ responsibility and stuff and that cleanin' is a big part of that.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 再说了，Makoto 说我得开始学着负责任什么的，而打扫卫生就是其中很重要的一部分。"
+  },
+  {
+   "en": ": I just didn't expect it to be so much of a puzzle.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 我只是没想到会像解谜游戏一样。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "To be fair, it's not really supposed to be...",
+   "zh": "说句公道话，这本来也不该是……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix7.webp",
+   "alt": "threesix7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I've just gotta face it, I guess...There’s no hope for me in this world...",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 我想我只能面对现实了……这世上已经没有我的容身之处了……"
+  },
+  {
+   "en": ": I’m going to have to join the space war...",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 我得去参加太空战争了……"
+  },
+  {
+   "en": ": No one’s joining the space war, Miku. Everything will be okay.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 没人要去参加太空战争，Miku。一切都会好起来的。"
+  },
+  {
+   "en": ": Why don’t you and Sana just...go look for an actual teacher or something?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你和 Sana 干脆……去找个真正的老师什么的？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix8.webp",
+   "alt": "threesix8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Actual teacher?...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 真正的老师？……"
+  },
+  {
+   "en": ": Are you not...a real teacher, Sensei?...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 老师你……不是真正的老师吗？……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Correct, Sana. I'm just some guy who was reincarnated into the body of a teacher and is now using that as a tool to get closer to you and everyone else.",
+   "zh": "没错，Sana。我只是个转生进了老师身体里的人，现在正把这副身体当成接近你和其他所有人的工具。"
+  },
+  {
+   "en": ": I just meant...find someone who actually knows where stuff is.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我的意思是……去找个真正知道东西放在哪儿的人。"
+  },
+  {
+   "en": ": What about the teacher in the class next to ours? Miss...Watabe or something?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我们隔壁班那个老师怎么样？那个……Watabe 还是什么来着的？"
+  },
+  {
+   "en": ": That’s a name I'm pretty sure I’ve heard mentioned before. She might know where stuff is.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我确实记得听过这个名字。她也许知道东西在哪儿。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix9.webp",
+   "alt": "threesix9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No way, Sensei...That teacher gives me the creeps.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 别啊，老师……那个老师让我起鸡皮疙瘩。"
+  },
+  {
+   "en": ": And her room always smells like...candles or something.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 而且她房间里总是有一股……蜡烛之类的味道。"
+  },
+  {
+   "en": ": You know, I'm really starting to think we should just let Sana field this on her own.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 说真的，我开始觉得干脆让 Sana 一个人搞定这事就行了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix10.webp",
+   "alt": "threesix10"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That's fine...I can just text my mom and tell her I'll be late for work...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 没关系的……我可以给我妈发短信，告诉她我上班会晚点到……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Is it really okay to be scheduling cleaning duty for people who almost always have something to do after school?",
+   "zh": "给那些放学后几乎总有事要做的人安排值日，真的合适吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Okay, whatever. I'll come look for a janitor's closet with you two. But only because I really don't remember what I was supposed to be doing in here.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 好吧，随便了。我陪你们俩去找清洁工具间。不过只是因为我实在想不起来我在这儿本来要干什么。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene threesix11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/threesix11.webp",
+   "alt": "threesix11"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Heck yeah! That’s the Sensei I know and love! I knew you’d come in clutch for your old pal, Miku!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 太棒了！这才是我认识并喜爱的老师！我就知道你会在关键时刻拉你老朋友 Miku 一把！"
+  },
+  {
+   "en": ": Just...don't expect me to do any actual cleaning once we track the supplies down. I draw the line there.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 只是……等找到工具之后别指望我真去打扫。那条线我就划在这儿。"
+  },
+  {
+   "en": ": Deal! Now, let's hurry the heck up and get this show on the road before the rest of the team tracks me down and breaks my kneecaps for bein' late!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 成交！那咱们赶紧的，趁队友还没找过来因为迟到打断我的膝盖骨，把这事儿搞定！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newcleaning1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newcleaning1.webp",
+   "alt": "newcleaning1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Thanks again, Sensei! As a special reward, I’ll let you sit front row at our next soccer game!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 再次感谢，老师！作为特别奖励，我允许你下次比赛坐前排！"
+  },
+  {
+   "en": ": I was unaware that I wasn’t already allowed to do that.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我还不知道原来我是不被允许坐前排的。"
+  },
+  {
+   "en": ": And...umm...I'll save you a...front row seat at the bar...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 还有……嗯……我会在吧台给你留一个……前排的座位……"
+  },
+  {
+   "en": ": You have one row of seats.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你那儿就一排座位吧。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newcleaning2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newcleaning2.webp",
+   "alt": "newcleaning2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh, come on Sana! You can do better than that! Give the man somethin' he really wants!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 哎呀，Sana，加把劲啊！你能做得更好！给人家点真正想要的东西！"
+  },
+  {
+   "en": ": But...I don't really know what...Sensei would want...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 可是……我不知道……老师会想要什么……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Good.",
+   "zh": "很好。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": At least try usin' your outside voice if you're not gonna be forkin' over a decent reward! School's over! We don't gotta be quiet anymore! We're free!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 既然不肯拿出像样的奖励，那至少试试用你的「室外音量」说话吧！放学了！我们不用再小声说话了！我们自由了！"
+  },
+  {
+   "en": ": I...don't think I have an...outside voice...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 我……不觉得自己有……「室外音量」……"
+  },
+  {
+   "en": ": That's not true. I heard your outside voice loud and clear during your little act with Ayane during gym a while ago.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 这话不对。前阵子体育课上你和 Ayane 演那出戏的时候，你的「室外音量」我听得清清楚楚。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newcleaning3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newcleaning3.webp",
+   "alt": "newcleaning3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That...was for a mission...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 那……是为了任务……"
+  },
+  {
+   "en": ": It was a...special exception...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 那是……特例……"
+  },
+  {
+   "en": ": You went on a mission and didn’t even call your lifelong friend, Miku?!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 你去执行任务居然都没叫上你一辈子的好朋友 Miku？！"
+  },
+  {
+   "en": ": Am I not good enough for you anymore?! Is that how things are gonna be, Sana?!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 我已经不够格了吗？！Sana，事情已经变成这样了吗？！"
+  },
+  {
+   "en": ": Lifelong? You two have known each other that long?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 一辈子？你们认识那么久了？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newcleaning4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newcleaning4.webp",
+   "alt": "newcleaning4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You know it! Sana and I go all the way back to first grade! And, if you combine both of us, we've probably grown a whole foot since then!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 那当然！我和 Sana 从一年级就认识了！而且，要是把我俩加起来，这些年来我们大概长高了整整一英尺！"
+  },
+  {
+   "en": ": That is...really not that much.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那……真的不多啊。"
+  },
+  {
+   "en": ": Well, we can't all be ten foot tall monsters like you, Sensei.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 哎呀，我们又不能都像老师你这种十英尺高的怪物。"
+  },
+  {
+   "en": ": Sana and I were actually the two shortest girls throughout our entire school careers before high school came and Maya took my spot as the #2.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 在高中之前，我和 Sana 一直都是全校最矮的两个女生，后来 Maya 来了，抢走了我的第二名。"
+  },
+  {
+   "en": ": Is she really shorter than you?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 她真的比你矮？"
+  },
+  {
+   "en": ": Yeah, but she acts tall so nobody ever notices.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 是啊，但她装得很高，所以没人发现。"
+  },
+  {
+   "en": ": But apart from her, nothing else has really changed! We're still the same girls we've always been!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 除了她以外，别的都没怎么变！我们还是从前的我们！"
+  },
+  {
+   "en": ": I...don't know if I'd...really say that we were friends, though...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 不过……我不知道我们能不能……真的算朋友……"
+  },
+  {
+   "en": ": We...only talked a couple times...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 我们……只说过几次话……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newcleaning5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newcleaning5.webp",
+   "alt": "newcleaning5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Yeah, but that’s just cause we hung out with different people! I was always with my soccer team back then and you were...",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 是啦，但那只是因为我们跟不同的人混！那时候我总跟足球队的人在一起，而你……"
+  },
+  {
+   "en": ": You were...uhh...",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 你是……呃……"
+  },
+  {
+   "en": ": Huh. Who did you hang out with back then, Sana? I remember there bein' somebody, but I can't put my finger on-",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 咦。Sana，你那时候跟谁混来着？我记得是有个人的，但我一时想不起——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newcleaning6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newcleaning6.webp",
+   "alt": "newcleaning6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh...umm...look...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 啊……嗯……那个……"
+  },
+  {
+   "en": ": Could...that be the...janitor's closet?...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 那会不会是……清洁工具间？……"
+  },
+  {
+   "en": ": What?! Was it seriously right there this whole time! But we walked past that like four times on our own!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 什么？！它一直就在那儿吗！可我们自己都从那儿路过四次了！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "The three of us come to a stop at the end of the hallway in front of a room that is clearly labeled as the custodial closet-",
+   "zh": "我们三个在走廊尽头停了下来，面前那间屋子清清楚楚地标着「清洁工具间」——"
+  },
+  {
+   "en": "But the even more convenient part is that it's already cracked open so I don't have to break the news of not having a key to them.",
+   "zh": "但更省事的是门本来就开着条缝，这样我就不用向她们坦白我没有钥匙了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Come on, Sana! You can tell me more about your friends back then while we're cleanin' the chalkboard.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 走吧，Sana！我们擦黑板的时候，你可以再跟我讲讲你那时候的朋友。"
+  },
+  {
+   "en": ": Can we...maybe talk about...umm...anything else?...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 我们……能不能……聊聊别的？……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene newcleaning7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/newcleaning7.webp",
+   "alt": "newcleaning7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Sensei! Thanks again for your help today!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 老师！今天再次谢谢你的帮忙！"
+  },
+  {
+   "en": ": I know you mentioned not wantin' to actually help with the cleanin' part, but if you change your mind-",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 我知道你说过不想真的动手打扫，但如果你改变主意——"
+  },
+  {
+   "en": ": Nope. I’m good. Thanks, though.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不。我不用了。不过谢谢。"
+  },
+  {
+   "en": ": You sure? Might give ya a good chance to write dirty words on the board since we're just gonna erase the whole thing anyway.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 你确定？反正最后整块黑板都要擦掉，这可是你在黑板上写脏话的大好机会。"
+  },
+  {
+   "en": ": Still good. Not cleaning. But thanks.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 还是算了。不打扫。不过谢谢。"
+  },
+  {
+   "en": ": Well, hey! You know where we'll be if ya want some more of us! And you know where I'll be afterward if ya want some more of me!",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 嘿，那又怎样！想再找我们，你知道我们在哪儿；事后想再找我，你也知道我在哪儿！"
+  },
+  {
+   "en": ": Carefree suggestions like that are going to get you in trouble one day, Miku.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你这种没心没肺的提议，总有一天会让你惹上麻烦的，Miku。"
+  },
+  {
+   "en": ": Probably! But Makoto makes me carry pepper spray around, so I'll be okay.",
+   "spk": "Miku",
+   "spkColor": "#FF8112",
+   "zh": ": 大概吧！不过 Makoto 让我随身带着辣椒喷雾，所以没事的。"
+  },
+  {
+   "en": ": Th...Thank you...Sensei...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 谢……谢谢你……老师……"
+  },
+  {
+   "en": ": You can...umm...come visit me again if...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 你可以……嗯……再来看我，如果……"
+  },
+  {
+   "en": ": Uhh...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 呃……"
+  },
+  {
+   "en": ": You...want alcohol...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": 你……想要酒……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sana",
+   "spkColor": "#00E77F",
+   "zh": ": ……"
+  },
+  {
+   "en": ": Thank you, Sana. That's very considerate of you.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 谢谢你，Sana。你想得真周到。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "The two of them disappear into the closet and I can instantly hear a mountain of supplies toppling to the ground as one of them manages to destroy the room in record time.",
+   "zh": "她们俩钻进了工具间，我立刻就听见一大堆用具哗啦啦倒地的声音——其中一个以创纪录的速度把房间给毁了。"
+  },
+  {
+   "en": "I doubt I'd be wrong in assuming it's Miku.",
+   "zh": "我觉得猜是 Miku 应该不会错。"
+  },
+  {
+   "en": "Either way, not wanting to get involved any further, I return to the office and...",
+   "zh": "不管怎样，我不想再掺和下去，于是回到办公室，然后……"
+  },
+  {
+   "en": "Try to remember whatever it is I'm supposed to be doing in there.",
+   "zh": "努力回忆我到底该在这儿干什么来着。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ day36 = True",
+   "zh": ""
+  },
+  {
+   "en": "$ miku_love += 1",
+   "zh": ""
+  },
+  {
+   "en": "$ sana_love += 1",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Miku's affection has increased to [miku_love]!",
+   "zh": "Miku 的好感度提升到了 [miku_love]！"
+  },
+  {
+   "en": "Sana's affection has increased to [sana_love]!",
+   "zh": "Sana 的好感度提升到了 [sana_love]！"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump afterschoolevent",
+   "zh": ""
+  }
+ ]
 }

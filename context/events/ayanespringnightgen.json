@@ -1,160 +1,160 @@
 {
-  "label": "ayanespringnightgen",
-  "title_zh": "长椅",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label ayanespringnightgen:",
-      "zh": ""
-    },
-    {
-      "en": "scene ayanespringnightgen",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/ayanespringnightgen.webp",
-      "alt": "ayanespringnightgen"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if amiblock == False:",
-      "zh": ""
-    },
-    {
-      "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is at the house tonight and doesn’t take kindly to the idea of Ayane getting “Sensei time” without her.",
-      "zh": "我给 Ayane 打电话，最后跑到宿舍去找她——因为 Ami 今晚在家，而她不太乐意 Ayane 在没有她的情况下独占「老师时间」。"
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is...",
-      "zh": "我给 Ayane 打电话，最后跑到宿舍去找她，因为 Ami……"
-    },
-    {
-      "en": "Yeah.",
-      "zh": "是啊。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Instead of making plans to do anything, though, we wind up talking outside of the dorm building for what feels like an eternity, but is really only an hour or two.",
-      "zh": "不过我们没计划做任何事，只是在宿舍楼外面聊了像永恒那么久——其实也就一两个小时。"
-    },
-    {
-      "en": "There's been a lot of that with us lately. A lot of conversations that don't amount to anything but feel like they need to happen so we can maintain some sort of status quo.",
-      "zh": "最近我俩这样的时候很多。很多对话什么也没聊出结果，却觉得非发生不可，好维持某种现状。"
-    },
-    {
-      "en": "We retreat to a bench and I ask her to tell me about her day, which she does. And she spares no detail at that. But none of the information really sticks.",
-      "zh": "我们挪到一张长椅上，我让她讲讲今天过得怎么样，她就讲了。而且一点细节都不放过。可那些信息我一条也没记住。"
-    },
-    {
-      "en": "It's funny, actually. I feel like I used to be so good at listening, even if it wasn't in the way people wanted me to.",
-      "zh": "其实挺好笑的。我觉得我从前很会听人说话——哪怕听的方式不是人家想要的那种。"
-    },
-    {
-      "en": "But now, it's like I can barely even remember when I got out of bed in the morning.",
-      "zh": "可现在，我连自己早上几点起的床都快记不清了。"
-    },
-    {
-      "en": "It's like all of my effort goes to thinking of the next time I'll be able to get some sleep instead.",
-      "zh": "好像我所有的力气都花在想「下一次能睡上一觉是什么时候」上面。"
-    },
-    {
-      "en": "And whether or not I'll see her there when I do.",
-      "zh": "以及到时候我会不会在那儿见到她。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "We retreat to a nearby park bench and Ayane beats me to the punch by falling asleep on my shoulder.",
-      "zh": "我们挪到附近公园的长椅上，Ayane 抢先一步，靠在我肩上睡着了。"
-    },
-    {
-      "en": "As I look down at her, there's a fleeting thought that she reminds of someone else- but I'm not quite sure who.",
-      "zh": "我低头看她，一闪念觉得她像另一个人——可我不太确定是谁。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I just know that they're important.",
-      "zh": "我只知道他们很重要。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ ayane_love += 1",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Ayane’s affection has increased to [ayane_love]!",
-      "zh": "Ayane 的好感度提升到了 [ayane_love]！"
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if day >= 6:",
-      "zh": ""
-    },
-    {
-      "en": "jump endofsatch4",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": "jump endofweekdaych4",
-      "zh": ""
-    }
-  ]
+ "label": "ayanespringnightgen",
+ "title_zh": "长椅",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label ayanespringnightgen:",
+   "zh": ""
+  },
+  {
+   "en": "scene ayanespringnightgen",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/ayanespringnightgen.webp",
+   "alt": "ayanespringnightgen"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if amiblock == False:",
+   "zh": ""
+  },
+  {
+   "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is at the house tonight and doesn’t take kindly to the idea of Ayane getting “Sensei time” without her.",
+   "zh": "我给 Ayane 打电话，最后跑到宿舍去找她——因为 Ami 今晚在家，而她不太乐意 Ayane 在没有她的情况下独占「老师时间」。"
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is...",
+   "zh": "我给 Ayane 打电话，最后跑到宿舍去找她，因为 Ami……"
+  },
+  {
+   "en": "Yeah.",
+   "zh": "是啊。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Instead of making plans to do anything, though, we wind up talking outside of the dorm building for what feels like an eternity, but is really only an hour or two.",
+   "zh": "不过我们没计划做任何事，只是在宿舍楼外面聊了像永恒那么久——其实也就一两个小时。"
+  },
+  {
+   "en": "There's been a lot of that with us lately. A lot of conversations that don't amount to anything but feel like they need to happen so we can maintain some sort of status quo.",
+   "zh": "最近我俩这样的时候很多。很多对话什么也没聊出结果，却觉得非发生不可，好维持某种现状。"
+  },
+  {
+   "en": "We retreat to a bench and I ask her to tell me about her day, which she does. And she spares no detail at that. But none of the information really sticks.",
+   "zh": "我们挪到一张长椅上，我让她讲讲今天过得怎么样，她就讲了。而且一点细节都不放过。可那些信息我一条也没记住。"
+  },
+  {
+   "en": "It's funny, actually. I feel like I used to be so good at listening, even if it wasn't in the way people wanted me to.",
+   "zh": "其实挺好笑的。我觉得我从前很会听人说话——哪怕听的方式不是人家想要的那种。"
+  },
+  {
+   "en": "But now, it's like I can barely even remember when I got out of bed in the morning.",
+   "zh": "可现在，我连自己早上几点起的床都快记不清了。"
+  },
+  {
+   "en": "It's like all of my effort goes to thinking of the next time I'll be able to get some sleep instead.",
+   "zh": "好像我所有的力气都花在想「下一次能睡上一觉是什么时候」上面。"
+  },
+  {
+   "en": "And whether or not I'll see her there when I do.",
+   "zh": "以及到时候我会不会在那儿见到她。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "We retreat to a nearby park bench and Ayane beats me to the punch by falling asleep on my shoulder.",
+   "zh": "我们挪到附近公园的长椅上，Ayane 抢先一步，靠在我肩上睡着了。"
+  },
+  {
+   "en": "As I look down at her, there's a fleeting thought that she reminds of someone else- but I'm not quite sure who.",
+   "zh": "我低头看她，一闪念觉得她像另一个人——可我不太确定是谁。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I just know that they're important.",
+   "zh": "我只知道他们很重要。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ ayane_love += 1",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Ayane’s affection has increased to [ayane_love]!",
+   "zh": "Ayane 的好感度提升到了 [ayane_love]！"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if day >= 6:",
+   "zh": ""
+  },
+  {
+   "en": "jump endofsatch4",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": "jump endofweekdaych4",
+   "zh": ""
+  }
+ ]
 }

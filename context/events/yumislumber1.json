@@ -1,1382 +1,1382 @@
 {
-  "label": "yumislumber1",
-  "title_zh": "",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label yumislumber1:",
-      "zh": ""
-    },
-    {
-      "en": "if tsuneyoslumber3 == False:",
-      "zh": ""
-    },
-    {
-      "en": "scene mayanebench30",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/mayanebench30.webp",
-      "alt": "mayanebench30"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I tap on Yumi’s name in “my” phone and wait for her to answer.",
-      "zh": ""
-    },
-    {
-      "en": ".........",
-      "zh": ""
-    },
-    {
-      "en": "......",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Uhh...hello?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Hey.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Who the fuck is this?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Your teacher. I’m calling you from my new secret phone number.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Um...congrats?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": The fuck you want? Why you callin’ me?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Maybe I just miss you?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": And maybe I’ve gotta find someone willin’ to give me one of those lobotomy things so I can forget I ever heard that. Later.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Wait. On a serious note, are you busy right now?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Yeah.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": With what? You’re unemployed and don’t have a house.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": And you’re a fucking douche nozzle! I’m hanging up now!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Stop whatever it is you’re doing. We need to meet up and continue our conversation from the beach. It’s important and...apparently time-sensitive.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": That was a hilarious pun that you won't understand. But hopefully, you will soon.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Can't. Chinami's got a fever. You want me to leave her alone so I can come talk to you about my random ass memory issues?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Chinami’s sick?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Yeah. And I’m stuck at your girlfriend’s house watchin’ her until the mall closes and Chika comes back home.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Great. I’ll meet you there.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": The fuck you will! Were you not payin’ attention when I told you Chinami’s sick?! She needs rest!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Is that Chinami’s papa?! The new one, not the one who abandoned her!",
-      "spk": "Chinami",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": No! It’s the fucking...bank.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Did Chinami’s recent deposit clear?",
-      "spk": "Chinami",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": I’ll see you soon, Yumi.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Don’t you fucking-",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if tsuneyoslumber3 == False:",
-      "zh": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I hang up the phone and begin to make my way over to the second half of town.",
-      "zh": ""
-    },
-    {
-      "en": "Thankfully, I am no longer completely bewildered in terms of my location and am able to make it to the bus stop without any issues at all.",
-      "zh": ""
-    },
-    {
-      "en": "And while I’d normally just bite the bullet and walk there, I’m admittedly a little worried about Chinami and would like to make sure I see her at least one more time before she dies.",
-      "zh": ""
-    },
-    {
-      "en": "I kid, of course. Kind of.",
-      "zh": ""
-    },
-    {
-      "en": "I don’t know.",
-      "zh": ""
-    },
-    {
-      "en": "Maybe Maki’s morbid sense of humor has just rubbed off on me after all the time I spent with her during Makoto's tragic arc.",
-      "zh": ""
-    },
-    {
-      "en": "Regardless, I double check the bus schedule on my new backup phone and take a seat on the bench, waiting patiently for it to arrive and carry me toward my current goal.",
-      "zh": ""
-    },
-    {
-      "en": "Here’s hoping Yumi likes sleepovers.",
-      "zh": ""
-    },
-    {
-      "en": ".........",
-      "zh": ""
-    },
-    {
-      "en": "......",
-      "zh": ""
-    },
-    {
-      "en": "...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain1.webp",
-      "alt": "yumicurtain1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Hey, I’m here.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Yeah, I can see that! The Hell do you think you are, just walkin’ into somebody else’s house?!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": In my defense, it’s not like you didn’t know I was coming.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": That doesn’t make it okay! Go back out there and knock or ring the bell like a normal person!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": But if I do that, you’ll lock me out.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain2.webp",
-      "alt": "yumicurtain2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Tch. Was hopin’ that would work.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": On the bright side, I’m glad to have made it before visiting hours ended. How’s the patient?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain3.webp",
-      "alt": "yumicurtain3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Chinami, how are you?!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Chinami is fine! Hi, Papa!",
-      "spk": "Chinami",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": Where did you get such a huge privacy curtain? That’s like, straight out of a hospital.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain4.webp",
-      "alt": "yumicurtain4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Probably because it is straight out of a hospital. Shit’s been here longer than I have.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Pretty sure they’ve had it ever since Chinami was born on account of her whole immune thingy.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Chinami used to spend a lot of time behind her safety curtain, but now she only has to use it some- ack!..keh...",
-      "spk": "Chinami",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain5.webp",
-      "alt": "yumicurtain5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Hey! Go back to sleep! You know you ain’t gonna get any better if you get all excited and sh...and crap.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": That really isn’t much better, Yumi.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Chinami is fine! She just swallowed a bug!",
-      "spk": "Chinami",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain6.webp",
-      "alt": "yumicurtain6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Just ignore her. She’ll go back to sleep if we don’t pay any attention.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Is keeping her here okay? Wouldn’t it be better to take her to a hospital or something?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain7.webp",
-      "alt": "yumicurtain7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": With what money? Tsukasa ain’t paid me yet and you know damn well how much Chika’s got.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I’m sure the Tsukiokas wouldn’t mind fronting the bill if it meant keeping Chinami healthy.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": It’s fine. Shit like this ain’t all that uncommon. Just a normal cold or somethin’. I’ve been givin’ her medicine and her fever’s already started to break and whatnot.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Good. It’s not every day I get to see you being responsible. I like this side of you, Yumi.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Only side of you I like is the...one outside of this apartment.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Good one.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Suck my left nut. Why are you even here? What do you want?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I told you on the phone, didn’t I? We need to resume our conversation from the beach.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain8.webp",
-      "alt": "yumicurtain8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Probably better off just startin’ from the beginning. Shit confused me so much I can barely even remember what it is we were talkin’ about.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Somethin’ with the last two months, right?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Right. Did you try talking to anyone else about that after I ran off last night?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Only person I have to talk to is Chika and it seemed like everything was pretty fuckin’ normal from her point of view. Meanin’ it’s probably only me who-",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain9.webp",
-      "alt": "yumicurtain9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Wait! You didn’t give me your fuckin' memory disease, did you?!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Yay! Chinami won’t be alone in the safety curtain! She’ll make room for big sis Yumi right now!",
-      "spk": "Chinami",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": I didn’t give you a disease, Yumi.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Aww, rats...",
-      "spk": "Chinami",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": But just because you’re not terminally ill doesn’t mean this is something we can ignore.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Well...I guess technically we could ignore it and it wouldn’t make much of a difference to you. But it would be a big help for me and a couple other people if you could at least listen for a little while.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain10.webp",
-      "alt": "yumicurtain10"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Okay. So you want me to take time out of my life so that your life can get better or some shit...while I don’t benefit at all. Am I hearin’ that right?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": More or less.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Gotcha.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Welp, you know where the door is.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Yumi, come on. Just hear me out.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain11.webp",
-      "alt": "yumicurtain11"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Ahhhhh, fine! But the second this gets too friggin’ weird I’m calling Gary!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Great. Thank you — wait, who’s Gary?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ".........",
-      "zh": ""
-    },
-    {
-      "en": "......",
-      "zh": ""
-    },
-    {
-      "en": "...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain12.webp",
-      "alt": "yumicurtain12"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I help myself to a pot of coffee left out on the kitchen table and quickly come to understand that this was definitely not made anytime within the last six hours.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You gonna microwave that shit or just pretend it’s drinkable?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I made this bed and I now have to lie in it. But that is beside the point.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Mhm. And the point is?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": How do you feel about sleepovers?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain13.webp",
-      "alt": "yumicurtain13"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Why do you exist?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Actually, it’s funny you should ask because that’s a big part of why I’m here today.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": It’s like every single thing you say makes shit ten times more confusing.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Then I’ll fulfill your greatest wish and shut up while you do your best to recollect the last two months of your life.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain14.webp",
-      "alt": "yumicurtain14"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Looks like we’re both gonna shut the fuck up, then. Cause that’s exactly what I was tryin’ to do ever since you pointed shit out and I’ve got nothin’.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": If you know what’s goin’ on with me, fucking spill it. Because all the shit I keep hearin’ about the space between Halloween and Christmas is makin’ my head spin.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Didn’t think much of it at first, but I straight up can’t even picture any of it when I try to. It’s like all that time was just fuckin’...ripped outta my mind or somethin’.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": That what it’s like for you too? You know, with all your memory shit.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain15",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain15.webp",
-      "alt": "yumicurtain15"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": More or less. Just it’s a lot more than two months for me and I also, occasionally, do things like black out and force myself on teenage girls.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Those “blackouts” have somethin’ to do with it too? That shit ain’t gonna start happenin’ to me next, is it?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I have no idea. And I’m probably not even the right person to lead a conversation like this since I have very little understanding of how anything works.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": But you’re an outlier right now...so I do know that the logical course of action would be trying to figure out why.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": The fuck is an “outlier?”",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Something that skews what’s meant to be an average.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": For example, if we calculated the mean age of everyone in class, I would be the outlier since I’m way older than all of you and would force that mean upward.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain16",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain16.webp",
-      "alt": "yumicurtain16"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Good. So you do understand that. Now think long and hard about why that makes you such a fucking creep.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I have plenty of time to think about how horrible of a person I am. But, for reasons I am mostly incapable of explaining, you might not have equal time to do the same when it comes to this.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain17",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain17.webp",
-      "alt": "yumicurtain17"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Huh? I ain’t gonna, like...die or some shit, am I?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Nothing that serious, no.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Then what? My memories just gonna, like...come back or something?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": They might.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I ain’t seein’ what the big deal is, then.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Would you see the “big deal” if I told you those two months may have never even happened in the first place? And that everyone’s memories of it were just false?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Uhh...no. But I would call you a fucking lunatic.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": If everybody’s got memories of those months and it's just you and me who don’t, wouldn’t we be the ones...in the wrong or whatever?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": This is less about who is wrong and who is right and more about why we’re in the position we’re in.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Isn’t it strange knowing there could be something different about you, Yumi?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain18",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain18.webp",
-      "alt": "yumicurtain18"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Not...really.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I’ve been different my whole fuckin’ life, man. And I’ve been hearin’ all about it since the first time I knocked somebody’s lights out in daycare.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Might’ve wound up a better person if somebody looked after me now and then, but I’m well adjusted to not fitting in already.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": This is different, though. This is-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": No shit it’s different. This is like, some...borderline supernatural shit.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": But if you’ve got no idea why this is happenin’ and everybody else is just gonna be weird if we try and talk about it, the Hell’s the point in even trying in the first place?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Can’t say I’d feel the same way if I lost as much time and memory as you, but it’s just two months. And those two months weren’t really all that bad from what I understand.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Wound up back in school, didn’t I? That’s gotta be a plus, right?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Is that what you wanted, though? I thought you were planning on dropping out?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I don’t know. Last I remember, I was still trying to figure shit out.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I’m surprised you’re okay with the universe just deciding things for you, then.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain19",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain19.webp",
-      "alt": "yumicurtain19"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Nobody decided shit for me. The only person who chooses what I’m gonna do is myself.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Then what will you do if this happens again?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": What will you do if there’s another huge leap in time that just sets you on autopilot until you’re eventually spat back out into the world?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fuck if I know. But as long as I’m not blackin’ out and doin’ shit like-",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Maybe that is what happened in those two months.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Maybe both of us blacked out and things just...didn’t go as poorly as they could have.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": We were together, weren’t we? It’s possible.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": One second, everything was normal. Or at least as normal as it could have been with me admitting all of that stuff about masturbating to you and whatnot-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain20",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain20.webp",
-      "alt": "yumicurtain20"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Stop bringing that up!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": And the next second, two months of our lives were gone.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": If you’re okay with that happening again, fine. Disregard everything I’m saying and just keep living life the way you always do.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain21",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain21.webp",
-      "alt": "yumicurtain21"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": But if you want to take some control back into your own hands...and don’t want to have any more time taken away from you...why not try and figure this out with me?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": The fuck you bein’ all serious for? It’s makin’ me uncomfortable.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": 'Sides, the Hell can we do about this in the first place? You might be smart or whatever, but you ain’t a doctor.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": No, I’m not. Nor am I whatever type of scientist handles time travel or...even a teacher most of the time.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": But I’m someone who won’t think you’re insane when you want to talk about things you don’t particularly understand.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I don’t know if I can help you, per se...but I might be able to help you feel a little less alone.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Which is why I need you to sleep at my house.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain22",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain22.webp",
-      "alt": "yumicurtain22"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Of fucking course that’s what it all comes down to. No idea why I let you just keep talkin’ me into a fuckin’ corner for so long.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Hell of a charade, I’ll give ya that much. But if you’re really gonna try and win me over or whatever-",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Sensei? What are you doing here?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain23",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain23.webp",
-      "alt": "yumicurtain23"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": B-Better question...what are you doing here? I thought you had work?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I was able to get somebody to cover for me. Did you invite Sensei over?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Course not. Dude just fuckin’ waltzed in as if he owned the place.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain24",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain24.webp",
-      "alt": "yumicurtain24"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": So...you’re not having an affair?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Obviously not! No!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene yumicurtain25",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumicurtain25.webp",
-      "alt": "yumicurtain25"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Great! Then it should be totally fine if I do this!",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Do what? What are-",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ yumislumber1 = True",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump yumislumber2",
-      "zh": ""
-    }
-  ]
+ "label": "yumislumber1",
+ "title_zh": "空白的两个月",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label yumislumber1:",
+   "zh": ""
+  },
+  {
+   "en": "if tsuneyoslumber3 == False:",
+   "zh": ""
+  },
+  {
+   "en": "scene mayanebench30",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/mayanebench30.webp",
+   "alt": "mayanebench30"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I tap on Yumi’s name in “my” phone and wait for her to answer.",
+   "zh": "我在「我的」手机里点了 Yumi 的名字，等她接。"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Uhh...hello?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 呃……喂？"
+  },
+  {
+   "en": ": Hey.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嘿。"
+  },
+  {
+   "en": ": Who the fuck is this?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你他妈是谁？"
+  },
+  {
+   "en": ": Your teacher. I’m calling you from my new secret phone number.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你的老师。我用我新的秘密号码给你打的。"
+  },
+  {
+   "en": ": Um...congrats?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 呃……恭喜？"
+  },
+  {
+   "en": ": The fuck you want? Why you callin’ me?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你想干嘛？打给我做什么？"
+  },
+  {
+   "en": ": Maybe I just miss you?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 也许我只是想你了？"
+  },
+  {
+   "en": ": And maybe I’ve gotta find someone willin’ to give me one of those lobotomy things so I can forget I ever heard that. Later.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 也许我还得找个人给我做个脑叶切除什么的，好让我忘掉刚才听到的。挂了。"
+  },
+  {
+   "en": ": Wait. On a serious note, are you busy right now?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 等等。说正经的，你现在忙吗？"
+  },
+  {
+   "en": ": Yeah.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 忙。"
+  },
+  {
+   "en": ": With what? You’re unemployed and don’t have a house.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 忙什么？你又没工作又没房子。"
+  },
+  {
+   "en": ": And you’re a fucking douche nozzle! I’m hanging up now!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 而你这个他妈的混蛋玩意儿！我现在就挂！"
+  },
+  {
+   "en": ": Stop whatever it is you’re doing. We need to meet up and continue our conversation from the beach. It’s important and...apparently time-sensitive.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不管你在干什么，先停下。我们得见一面，继续海滩上那次没谈完的话。这事很重要，而且……显然是有时限的。"
+  },
+  {
+   "en": ": That was a hilarious pun that you won't understand. But hopefully, you will soon.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 这是个你听不懂的绝妙双关。不过希望你能很快就懂。"
+  },
+  {
+   "en": ": Can't. Chinami's got a fever. You want me to leave her alone so I can come talk to you about my random ass memory issues?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不行。Chinami 发烧了。你想让我丢下她，跑来跟你聊我那破记性问题？"
+  },
+  {
+   "en": ": Chinami’s sick?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Chinami 病了？"
+  },
+  {
+   "en": ": Yeah. And I’m stuck at your girlfriend’s house watchin’ her until the mall closes and Chika comes back home.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 对。我被困在你女朋友家里看着她，要等到商场关门、Chika 回来。"
+  },
+  {
+   "en": ": Great. I’ll meet you there.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 很好。我去那儿找你。"
+  },
+  {
+   "en": ": The fuck you will! Were you not payin’ attention when I told you Chinami’s sick?! She needs rest!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你去个屁！我刚说 Chinami 病了你没听见吗？！她需要休息！"
+  },
+  {
+   "en": ": Is that Chinami’s papa?! The new one, not the one who abandoned her!",
+   "spk": "Chinami",
+   "spkColor": "#FF9999",
+   "zh": ": 是 Chinami 的爸爸吗？！是新的那个，不是抛弃她的那个！"
+  },
+  {
+   "en": ": No! It’s the fucking...bank.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不是！是那个该死的……银行。"
+  },
+  {
+   "en": ": Did Chinami’s recent deposit clear?",
+   "spk": "Chinami",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 最近的存款到账了吗？"
+  },
+  {
+   "en": ": I’ll see you soon, Yumi.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 待会儿见，Yumi。"
+  },
+  {
+   "en": ": Don’t you fucking-",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你他妈别——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if tsuneyoslumber3 == False:",
+   "zh": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I hang up the phone and begin to make my way over to the second half of town.",
+   "zh": "我挂了电话，动身前往镇子的另一半。"
+  },
+  {
+   "en": "Thankfully, I am no longer completely bewildered in terms of my location and am able to make it to the bus stop without any issues at all.",
+   "zh": "幸好我不再对自己的位置一头雾水，顺利地走到了公交站，中途没出任何岔子。"
+  },
+  {
+   "en": "And while I’d normally just bite the bullet and walk there, I’m admittedly a little worried about Chinami and would like to make sure I see her at least one more time before she dies.",
+   "zh": "虽然平时我会咬咬牙直接走过去，但说实话我有点担心 Chinami，想在她死之前至少再见她一面。"
+  },
+  {
+   "en": "I kid, of course. Kind of.",
+   "zh": "当然是开玩笑。算是吧。"
+  },
+  {
+   "en": "I don’t know.",
+   "zh": "我不知道。"
+  },
+  {
+   "en": "Maybe Maki’s morbid sense of humor has just rubbed off on me after all the time I spent with her during Makoto's tragic arc.",
+   "zh": "也许是在 Makoto 那段悲剧剧情里跟 Maki 待久了，被她那套病态幽默传染了。"
+  },
+  {
+   "en": "Regardless, I double check the bus schedule on my new backup phone and take a seat on the bench, waiting patiently for it to arrive and carry me toward my current goal.",
+   "zh": "不管怎样，我在新的备用手机上又核对了一遍公交时刻表，然后在长椅上坐下，耐心地等车来，把我带向当下的目标。"
+  },
+  {
+   "en": "Here’s hoping Yumi likes sleepovers.",
+   "zh": "但愿 Yumi 喜欢在外过夜。"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain1.webp",
+   "alt": "yumicurtain1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Hey, I’m here.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嘿，我到了。"
+  },
+  {
+   "en": ": Yeah, I can see that! The Hell do you think you are, just walkin’ into somebody else’s house?!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 是啊，我看得见！你他妈以为自己是谁，随随便便就走进别人家里？！"
+  },
+  {
+   "en": ": In my defense, it’s not like you didn’t know I was coming.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 为我辩护一句，你又不是不知道我要来。"
+  },
+  {
+   "en": ": That doesn’t make it okay! Go back out there and knock or ring the bell like a normal person!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 那也不能就这么算了！滚出去，像个正常人一样敲门或者按门铃！"
+  },
+  {
+   "en": ": But if I do that, you’ll lock me out.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 可我要那么做，你会把我锁在外面。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain2.webp",
+   "alt": "yumicurtain2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Tch. Was hopin’ that would work.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 啧。我本来还指望这招管用呢。"
+  },
+  {
+   "en": ": On the bright side, I’m glad to have made it before visiting hours ended. How’s the patient?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 往好处想，我很高兴在探视时间结束前赶到了。病人怎么样？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain3.webp",
+   "alt": "yumicurtain3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Chinami, how are you?!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": Chinami，你怎么样？！"
+  },
+  {
+   "en": ": Chinami is fine! Hi, Papa!",
+   "spk": "Chinami",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 很好！你好，爸爸！"
+  },
+  {
+   "en": ": Where did you get such a huge privacy curtain? That’s like, straight out of a hospital.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你们从哪儿弄来这么大一幅隔帘？简直像直接从医院搬来的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain4.webp",
+   "alt": "yumicurtain4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Probably because it is straight out of a hospital. Shit’s been here longer than I have.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 大概因为它本来就是从医院搬来的。这玩意儿在这儿的时间比我还长。"
+  },
+  {
+   "en": ": Pretty sure they’ve had it ever since Chinami was born on account of her whole immune thingy.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我敢说打从 Chinami 出生起就有了，因为她那个免疫系统的问题。"
+  },
+  {
+   "en": ": Chinami used to spend a lot of time behind her safety curtain, but now she only has to use it some- ack!..keh...",
+   "spk": "Chinami",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 以前要长时间待在她的安全帘后面，不过现在只有时候才需要用——咳！……咳……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain5.webp",
+   "alt": "yumicurtain5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Hey! Go back to sleep! You know you ain’t gonna get any better if you get all excited and sh...and crap.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 喂！继续睡！你自己知道，一激动就好不了，还会……还会拉什么的。"
+  },
+  {
+   "en": ": That really isn’t much better, Yumi.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 这也没好到哪儿去啊，Yumi。"
+  },
+  {
+   "en": ": Chinami is fine! She just swallowed a bug!",
+   "spk": "Chinami",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 没事！她只是吞了只虫子！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain6.webp",
+   "alt": "yumicurtain6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Just ignore her. She’ll go back to sleep if we don’t pay any attention.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 别理她。我们不理她，她就会睡回去的。"
+  },
+  {
+   "en": ": Is keeping her here okay? Wouldn’t it be better to take her to a hospital or something?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 让她待在这儿没问题吗？带她去医院什么的不是更好？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain7.webp",
+   "alt": "yumicurtain7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": With what money? Tsukasa ain’t paid me yet and you know damn well how much Chika’s got.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 拿什么钱？Tsukasa 还没付我工钱，Chika 有多少你他妈清楚得很。"
+  },
+  {
+   "en": ": I’m sure the Tsukiokas wouldn’t mind fronting the bill if it meant keeping Chinami healthy.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我相信月冈家肯定不介意先垫付这笔钱，只要能让 Chinami 健健康康的。"
+  },
+  {
+   "en": ": It’s fine. Shit like this ain’t all that uncommon. Just a normal cold or somethin’. I’ve been givin’ her medicine and her fever’s already started to break and whatnot.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 没事的。这种事不算稀奇。就是普通感冒什么的。我一直在给她喂药，烧已经开始退了什么的。"
+  },
+  {
+   "en": ": Good. It’s not every day I get to see you being responsible. I like this side of you, Yumi.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 很好。能看到你这么有责任心可不多见。我喜欢你这一面，Yumi。"
+  },
+  {
+   "en": ": Only side of you I like is the...one outside of this apartment.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我喜欢的你的那一面……是在这间公寓外面的那面。"
+  },
+  {
+   "en": ": Good one.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 说得好。"
+  },
+  {
+   "en": ": Suck my left nut. Why are you even here? What do you want?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 舔我的左蛋。你到底来干嘛？你想怎样？"
+  },
+  {
+   "en": ": I told you on the phone, didn’t I? We need to resume our conversation from the beach.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我在电话里说了吧？我们得接着海滩那次的话继续谈。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain8.webp",
+   "alt": "yumicurtain8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Probably better off just startin’ from the beginning. Shit confused me so much I can barely even remember what it is we were talkin’ about.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 大概还是从头讲比较好。那事把我搞懵了，我几乎都想不起来我们当时在聊什么。"
+  },
+  {
+   "en": ": Somethin’ with the last two months, right?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 是跟过去两个月有关的事，对吧？"
+  },
+  {
+   "en": ": Right. Did you try talking to anyone else about that after I ran off last night?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 对。昨晚我跑掉之后，你有跟别人聊过这事吗？"
+  },
+  {
+   "en": ": Only person I have to talk to is Chika and it seemed like everything was pretty fuckin’ normal from her point of view. Meanin’ it’s probably only me who-",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我能说话的人只有 Chika，而在她看来一切都很正常。意思就是说大概只有我——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain9.webp",
+   "alt": "yumicurtain9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Wait! You didn’t give me your fuckin' memory disease, did you?!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 等等！你该不会把你的记忆病传染给我了吧？！"
+  },
+  {
+   "en": ": Yay! Chinami won’t be alone in the safety curtain! She’ll make room for big sis Yumi right now!",
+   "spk": "Chinami",
+   "spkColor": "#FF9999",
+   "zh": ": 耶！Chinami 在安全帘里就不会孤单了！她现在就给 Yumi 姐姐腾位置！"
+  },
+  {
+   "en": ": I didn’t give you a disease, Yumi.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我没有把病传染给你，Yumi。"
+  },
+  {
+   "en": ": Aww, rats...",
+   "spk": "Chinami",
+   "spkColor": "#FF9999",
+   "zh": ": 啊，糟糕……"
+  },
+  {
+   "en": ": But just because you’re not terminally ill doesn’t mean this is something we can ignore.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不过，你没得绝症，不代表这件事我们可以不管。"
+  },
+  {
+   "en": ": Well...I guess technically we could ignore it and it wouldn’t make much of a difference to you. But it would be a big help for me and a couple other people if you could at least listen for a little while.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗯……严格来说我们确实可以不管，对你也没什么两样。但如果你肯听我说一会儿，对我和另外几个人会是很大的帮助。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain10.webp",
+   "alt": "yumicurtain10"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Okay. So you want me to take time out of my life so that your life can get better or some shit...while I don’t benefit at all. Am I hearin’ that right?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 行。所以你是想让我抽出我的人生时间，好让你的生活变得更好什么的……而我一点好处都没有。我理解得对吗？"
+  },
+  {
+   "en": ": More or less.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 差不多。"
+  },
+  {
+   "en": ": Gotcha.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 明白了。"
+  },
+  {
+   "en": ": Welp, you know where the door is.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 那好吧，门在哪儿你知道。"
+  },
+  {
+   "en": ": Yumi, come on. Just hear me out.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Yumi，拜托。听我说完。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain11.webp",
+   "alt": "yumicurtain11"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Ahhhhh, fine! But the second this gets too friggin’ weird I’m calling Gary!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 啊啊啊啊，行吧！但这事一变得太他妈奇怪，我就叫 Gary！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Great. Thank you — wait, who’s Gary?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 太好了。谢谢——等等，Gary 是谁？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain12.webp",
+   "alt": "yumicurtain12"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I help myself to a pot of coffee left out on the kitchen table and quickly come to understand that this was definitely not made anytime within the last six hours.",
+   "zh": "我给自己倒了厨房桌上放着的一壶咖啡，很快就明白这绝对不是过去六个小时内煮的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You gonna microwave that shit or just pretend it’s drinkable?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你是打算把那玩意儿微波一下，还是假装它还能喝？"
+  },
+  {
+   "en": ": I made this bed and I now have to lie in it. But that is beside the point.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 自作自受，我认了。不过这不是重点。"
+  },
+  {
+   "en": ": Mhm. And the point is?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 嗯哼。那重点是什么？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": "..."
+  },
+  {
+   "en": ": How do you feel about sleepovers?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你对在外过夜这事怎么看？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain13.webp",
+   "alt": "yumicurtain13"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Why do you exist?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你为什么还活着？"
+  },
+  {
+   "en": ": Actually, it’s funny you should ask because that’s a big part of why I’m here today.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 说起来挺巧的，你这么问正好——这正是我今天来这儿的一个重要原因。"
+  },
+  {
+   "en": ": It’s like every single thing you say makes shit ten times more confusing.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你说的每一句话都让事情变得更混乱十倍。"
+  },
+  {
+   "en": ": Then I’ll fulfill your greatest wish and shut up while you do your best to recollect the last two months of your life.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那我就满足你最大的愿望，闭嘴，让你好好回忆一下过去两个月的人生。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain14.webp",
+   "alt": "yumicurtain14"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Looks like we’re both gonna shut the fuck up, then. Cause that’s exactly what I was tryin’ to do ever since you pointed shit out and I’ve got nothin’.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 那看来我们俩都得闭嘴了。因为从你点破那事之后，我一直在试着回忆，可什么都没想起来。"
+  },
+  {
+   "en": ": If you know what’s goin’ on with me, fucking spill it. Because all the shit I keep hearin’ about the space between Halloween and Christmas is makin’ my head spin.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你要是知道我身上发生了什么，就他妈说出来。因为我老是听到关于万圣节到圣诞节之间那段空白的各种说法，搞得我头都晕了。"
+  },
+  {
+   "en": ": Didn’t think much of it at first, but I straight up can’t even picture any of it when I try to. It’s like all that time was just fuckin’...ripped outta my mind or somethin’.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 一开始我没当回事，可现在我真的连一点画面都想不起来。就好像那段时间被他妈的……从我的脑子里挖掉了一样。"
+  },
+  {
+   "en": ": That what it’s like for you too? You know, with all your memory shit.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你也是这种感觉吗？就你那堆记性问题。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain15",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain15.webp",
+   "alt": "yumicurtain15"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": More or less. Just it’s a lot more than two months for me and I also, occasionally, do things like black out and force myself on teenage girls.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 差不多。只不过对我来说不止两个月，而且我偶尔还会昏过去，对未成年少女动手动脚。"
+  },
+  {
+   "en": ": Those “blackouts” have somethin’ to do with it too? That shit ain’t gonna start happenin’ to me next, is it?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 那些「断片」也跟这有关？那玩意儿接下来不会也找上我吧？"
+  },
+  {
+   "en": ": I have no idea. And I’m probably not even the right person to lead a conversation like this since I have very little understanding of how anything works.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我不知道。而且我大概也不是主导这种对话的合适人选，因为我自己对这一切的运作方式也几乎一无所知。"
+  },
+  {
+   "en": ": But you’re an outlier right now...so I do know that the logical course of action would be trying to figure out why.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 但你现在是个异常值……所以我知道，合乎逻辑的做法是试着弄清楚原因。"
+  },
+  {
+   "en": ": The fuck is an “outlier?”",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 「异常值」是什么鬼？"
+  },
+  {
+   "en": ": Something that skews what’s meant to be an average.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 就是会把平均值拉偏的东西。"
+  },
+  {
+   "en": ": For example, if we calculated the mean age of everyone in class, I would be the outlier since I’m way older than all of you and would force that mean upward.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 比如说，如果我们算全班人的平均年龄，我就是那个异常值，因为我比你们所有人都大得多，会把平均值往上拉。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain16",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain16.webp",
+   "alt": "yumicurtain16"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Good. So you do understand that. Now think long and hard about why that makes you such a fucking creep.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 很好。这么说你是明白的。那就好好想想，为什么这让你变成了一个这么恶心的变态。"
+  },
+  {
+   "en": ": I have plenty of time to think about how horrible of a person I am. But, for reasons I am mostly incapable of explaining, you might not have equal time to do the same when it comes to this.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我有的是时间反省自己有多烂。但出于一些我基本解释不清的原因，在这件事上，你未必有同样多的时间。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain17",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain17.webp",
+   "alt": "yumicurtain17"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Huh? I ain’t gonna, like...die or some shit, am I?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 哈？我不会……要死了什么的吧？"
+  },
+  {
+   "en": ": Nothing that serious, no.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 没那么严重，不会。"
+  },
+  {
+   "en": ": Then what? My memories just gonna, like...come back or something?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 那是什么？我的记忆会……自己回来什么的？"
+  },
+  {
+   "en": ": They might.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 有这个可能。"
+  },
+  {
+   "en": ": I ain’t seein’ what the big deal is, then.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 那我看不出有什么大不了的。"
+  },
+  {
+   "en": ": Would you see the “big deal” if I told you those two months may have never even happened in the first place? And that everyone’s memories of it were just false?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 如果我告诉你，那两个月可能根本就没发生过，所有人对它的记忆都是假的，你会觉得「大不了」吗？"
+  },
+  {
+   "en": ": Uhh...no. But I would call you a fucking lunatic.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 呃……不。但我会说你是他妈的疯子。"
+  },
+  {
+   "en": ": If everybody’s got memories of those months and it's just you and me who don’t, wouldn’t we be the ones...in the wrong or whatever?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 如果所有人都有那几个月的记忆，就只有你我没有，那出问题的不应该是我们俩吗？"
+  },
+  {
+   "en": ": This is less about who is wrong and who is right and more about why we’re in the position we’re in.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 这与其说是谁对谁错的问题，不如说是我们为什么会处在这样的处境里。"
+  },
+  {
+   "en": ": Isn’t it strange knowing there could be something different about you, Yumi?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 知道自己身上可能有什么不一样的地方，你不觉得奇怪吗，Yumi？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain18",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain18.webp",
+   "alt": "yumicurtain18"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Not...really.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不……怎么觉得。"
+  },
+  {
+   "en": ": I’ve been different my whole fuckin’ life, man. And I’ve been hearin’ all about it since the first time I knocked somebody’s lights out in daycare.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我这辈子他妈一直都跟别人不一样，老兄。打从我在托儿所第一次把人打晕开始，这种话我就听够了。"
+  },
+  {
+   "en": ": Might’ve wound up a better person if somebody looked after me now and then, but I’m well adjusted to not fitting in already.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 要是有人偶尔照顾过我，我也许能变成更好的人，不过我已经很习惯格格不入了。"
+  },
+  {
+   "en": ": This is different, though. This is-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 可这次不一样。这次是——"
+  },
+  {
+   "en": ": No shit it’s different. This is like, some...borderline supernatural shit.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 当然不一样，这还用说。这简直就是……某种超自然的东西。"
+  },
+  {
+   "en": ": But if you’ve got no idea why this is happenin’ and everybody else is just gonna be weird if we try and talk about it, the Hell’s the point in even trying in the first place?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 可你要是根本不知道为什么会这样，而别人听我们谈论这事也只会觉得奇怪，那一开始费那个劲干嘛？"
+  },
+  {
+   "en": ": Can’t say I’d feel the same way if I lost as much time and memory as you, but it’s just two months. And those two months weren’t really all that bad from what I understand.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我要是像你一样丢了那么多时间和记忆，我可说不出这种话。但我就两个月而已。而且据我所知，那两个月也不算太糟。"
+  },
+  {
+   "en": ": Wound up back in school, didn’t I? That’s gotta be a plus, right?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我最后不是回学校了吗？这总算是件好事吧？"
+  },
+  {
+   "en": ": Is that what you wanted, though? I thought you were planning on dropping out?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 可那是你想要的吗？我记得你本来打算退学的？"
+  },
+  {
+   "en": ": I...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我……"
+  },
+  {
+   "en": ": I don’t know. Last I remember, I was still trying to figure shit out.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我不知道。我最后记得的，是我还在想办法弄明白。"
+  },
+  {
+   "en": ": I’m surprised you’re okay with the universe just deciding things for you, then.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那我倒是挺意外，你居然能接受让老天替你做决定。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain19",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain19.webp",
+   "alt": "yumicurtain19"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Nobody decided shit for me. The only person who chooses what I’m gonna do is myself.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 没人替我决定任何事。决定我要做什么的只有我自己。"
+  },
+  {
+   "en": ": Then what will you do if this happens again?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那如果这种事再次发生，你会怎么办？"
+  },
+  {
+   "en": ": What will you do if there’s another huge leap in time that just sets you on autopilot until you’re eventually spat back out into the world?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 如果时间再次大幅跳跃，让你进入自动驾驶状态，直到某天被吐回这个世界，你会怎么办？"
+  },
+  {
+   "en": ": Fuck if I know. But as long as I’m not blackin’ out and doin’ shit like-",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 鬼知道。但只要我不会昏过去干出那种——"
+  },
+  {
+   "en": ": Maybe that is what happened in those two months.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 也许那两个月里发生的就是这种事。"
+  },
+  {
+   "en": ": Maybe both of us blacked out and things just...didn’t go as poorly as they could have.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 也许我们俩都昏过去了，事情只是……没有变得更糟而已。"
+  },
+  {
+   "en": ": We were together, weren’t we? It’s possible.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我们当时在一起，不是吗？有这个可能。"
+  },
+  {
+   "en": ": One second, everything was normal. Or at least as normal as it could have been with me admitting all of that stuff about masturbating to you and whatnot-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 前一秒一切还很正常。或者说，在我向你坦白那些自慰之类的事之后，能有多正常就有多正常——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain20",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain20.webp",
+   "alt": "yumicurtain20"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Stop bringing that up!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 别再提那件事了！"
+  },
+  {
+   "en": ": And the next second, two months of our lives were gone.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 下一秒，我们人生中的两个月就没了。"
+  },
+  {
+   "en": ": If you’re okay with that happening again, fine. Disregard everything I’m saying and just keep living life the way you always do.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 如果你能接受这种事再发生一次，那行。把我说的全当耳旁风，继续照你一直以来的方式活下去。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain21",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain21.webp",
+   "alt": "yumicurtain21"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": But if you want to take some control back into your own hands...and don’t want to have any more time taken away from you...why not try and figure this out with me?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 但如果你想把控制权重新握在自己手里……不想再被夺走时间……为什么不跟我一起试着弄清楚呢？"
+  },
+  {
+   "en": ": The fuck you bein’ all serious for? It’s makin’ me uncomfortable.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你他妈干嘛这么正经？让我很不舒服。"
+  },
+  {
+   "en": ": 'Sides, the Hell can we do about this in the first place? You might be smart or whatever, but you ain’t a doctor.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 再说，这事儿我们又能怎么样？你也许聪明什么的，但你又不是医生。"
+  },
+  {
+   "en": ": No, I’m not. Nor am I whatever type of scientist handles time travel or...even a teacher most of the time.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 对，我不是。我也不是研究时间旅行的那类科学家，甚至大多数时候连老师都算不上。"
+  },
+  {
+   "en": ": But I’m someone who won’t think you’re insane when you want to talk about things you don’t particularly understand.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 但当你想谈论自己弄不明白的事情时，我不会觉得你疯了。"
+  },
+  {
+   "en": ": I don’t know if I can help you, per se...but I might be able to help you feel a little less alone.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我不确定自己能不能真的帮到你……但我也许能让你感觉不那么孤单。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": "..."
+  },
+  {
+   "en": ": Which is why I need you to sleep at my house.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 所以我需要你去我家睡一晚。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain22",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain22.webp",
+   "alt": "yumicurtain22"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Of fucking course that’s what it all comes down to. No idea why I let you just keep talkin’ me into a fuckin’ corner for so long.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 他妈的果然绕到这上面来了。我真不知道自己为什么让你一路把我堵进死角这么久。"
+  },
+  {
+   "en": ": Hell of a charade, I’ll give ya that much. But if you’re really gonna try and win me over or whatever-",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 这场戏演得真够绝的，这点我承认。但如果你真想把我追到手什么的——"
+  },
+  {
+   "en": ": Sensei? What are you doing here?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 老师？你在这儿干什么？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain23",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain23.webp",
+   "alt": "yumicurtain23"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": B-Better question...what are you doing here? I thought you had work?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 更、更好的问题是……你在这儿干什么？你不是要上班吗？"
+  },
+  {
+   "en": ": I was able to get somebody to cover for me. Did you invite Sensei over?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 我找人替班了。是你叫老师来的吗？"
+  },
+  {
+   "en": ": Course not. Dude just fuckin’ waltzed in as if he owned the place.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 当然不是。这家伙就这么大摇大摆地走进来，好像这是他家似的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain24",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain24.webp",
+   "alt": "yumicurtain24"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": So...you’re not having an affair?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 那么……你们没有在偷情？"
+  },
+  {
+   "en": ": Obviously not! No!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 当然没有！没有！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene yumicurtain25",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumicurtain25.webp",
+   "alt": "yumicurtain25"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Great! Then it should be totally fine if I do this!",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 太好了！那我这么做应该完全没问题吧！"
+  },
+  {
+   "en": ": Do what? What are-",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 做什么？你这是——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ yumislumber1 = True",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump yumislumber2",
+   "zh": ""
+  }
+ ]
 }

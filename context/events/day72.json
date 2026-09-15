@@ -1,1584 +1,1584 @@
 {
-  "label": "day72",
-  "title_zh": "体重限制",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label day72:",
-      "zh": ""
-    },
-    {
-      "en": "scene weightlimitredux1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux1.webp",
-      "alt": "weightlimitredux1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Gym class has ended for the day and I’m staying after with Ami to help clean the place up.",
-      "zh": "今天的体育课结束了，我留下来帮 Ami 收拾场地。"
-    },
-    {
-      "en": "Normally, this would be the part where all of the girls run off to the showers, but a certain incident today has prompted me to select at least one person to clean brain matter off of the floor.",
-      "zh": "正常情况下，这时候所有女生都该跑去洗澡了，但今天的一起事故，促使我至少要挑出一个人来清理地板上的脑浆。"
-    },
-    {
-      "en": "And what better person to collect brain matter than my niece?",
-      "zh": "而还有什么人比我的[niece]更适合收集脑浆呢？"
-    },
-    {
-      "en": "Now, I'm sure you're looking for an explanation...and I will give you one. But whether you decide to believe it or not is up to you.",
-      "zh": "好了，我知道你在等一个解释……我会给你一个。不过信不信由你。"
-    },
-    {
-      "en": "While dropping by the gym to get something out of the storage room, one of the[school]’s janitors was pelted in the head by a dodgeball.",
-      "zh": "我去体育馆储藏室拿东西的时候，[school]的一名清洁工被一颗躲避球砸中了脑袋。"
-    },
-    {
-      "en": "Normally, a grown man would be able to shrug something like this off and just get on with his day after a minute or two.",
-      "zh": "正常情况下，一个成年男人对这种事耸耸肩就过去了，一两分钟后照常过日子。"
-    },
-    {
-      "en": "However-",
-      "zh": "然而——"
-    },
-    {
-      "en": "This particular dodgeball had been moving at the speed of a major league player’s fastball.",
-      "zh": "这颗躲避球的速度，堪比大联盟投手的快速球。"
-    },
-    {
-      "en": "And while I'd like to say the janitor died on impact, he writhed in pain for a full five minutes or so before going silent.",
-      "zh": "虽然我很想说那名清洁工当场就死了，但他在地上痛苦地扭动了整整五分钟左右，才终于没了声息。"
-    },
-    {
-      "en": "There was blood everywhere.",
-      "zh": "到处都是血。"
-    },
-    {
-      "en": "And of course I had to be the one to clean it up on account of us now being down one janitor.",
-      "zh": "而因为现在我们少了一名清洁工，我当然就成了那个清理现场的人。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux2.webp",
-      "alt": "weightlimitredux2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": It's crazy that this isn't even the first time something like this has happened, huh?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 这甚至都不是第一次发生这种事了，真够疯的，对吧？"
-    },
-    {
-      "en": ": It's not?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 不是第一次？"
-    },
-    {
-      "en": ": No. This is like the third janitor Ayane has accidentally killed this year.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 不是。这已经是 Ayane 今年不小心杀掉的第三个清洁工了。"
-    },
-    {
-      "en": ": How does she have that much arm strength? And why hasn't she been put in jail yet?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 她哪来那么大的臂力？还有她怎么到现在还没进监狱？"
-    },
-    {
-      "en": ": I don't know. She's rich, so that probably has something to do with it.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 我不知道。她很有钱，大概跟这个脱不了关系。"
-    },
-    {
-      "en": ": Fair enough.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 说得也是。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux3.webp",
-      "alt": "weightlimitredux3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": So, where should I be putting all of these mats?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 那么，这些垫子我该放到哪儿？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if day68 == True:",
-      "zh": ""
-    },
-    {
-      "en": ": The storage room. Just try not to pay any attention to any stains on the floor.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 储藏室。只是尽量别去注意地板上的任何污渍。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Um...okay?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 嗯……好吧？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": The storage room is fine. Just make sure you don’t leave any of them out again. The staff got pissed off that we didn’t do a great job last time.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 储藏室就行。记得别再把任何一个落在外面。上次我们没干好，教职工气坏了。"
-    },
-    {
-      "en": ": Mhm! I’ll make sure to get everything this time. Don’t you worry, Sensei.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 嗯嗯！这次我保证全都收好。别担心啦，老师。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Before you go, though- there's something I've been meaning to ask you.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 不过你走之前——有件事我一直想问你。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux4.webp",
-      "alt": "weightlimitredux4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": There is? What is it?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 有吗？是什么？"
-    },
-    {
-      "en": ": Well...it's less of a question and more of a demand.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 嗯……与其说是问题，不如说是个请求。"
-    },
-    {
-      "en": ": Sensei, if you want a hug that badly, all you have to do is ask.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 老师，你要是这么想要抱抱，只要开口就行啊。"
-    },
-    {
-      "en": ": I don't need a hug, I need you to do me a favor.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我不要抱抱，我要你帮我个忙。"
-    },
-    {
-      "en": ": Hugs can be favors too, Sensei.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 抱抱也可以是帮忙啊，老师。"
-    },
-    {
-      "en": ": Ami, I don't want a hug.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": Ami，我不想要抱抱。"
-    },
-    {
-      "en": ": I think you do, but sure. Go on with your non-hug related favor.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 我觉得你想要，不过行吧。请继续说你那个跟抱抱无关的忙。"
-    },
-    {
-      "en": ": It's about the cooking competition thing with Ayane.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 是关于跟 Ayane 的厨艺比赛的事。"
-    },
-    {
-      "en": ": You mean about how I’m going to beat her so badly that she’ll stop cooking for the rest of her life?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 你是说，我要怎么把她打得落花流水，让她这辈子再也不下厨？"
-    },
-    {
-      "en": ": Well, no. But I admire the confidence.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 嗯，不是。不过我很欣赏这份自信。"
-    },
-    {
-      "en": ": Of course I’m confident. I know everything you like. I’ve trained my whole life for this.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 我当然有自信。你喜欢什么我全知道。我为此训练了一辈子。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I’m not gonna lose just cause Ayane wants to raise an army of children with you.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 我才不会因为 Ayane 想跟你生一支军队的孩子就输掉。"
-    },
-    {
-      "en": ": That’s great. But what I'm referring to is the imbalance in terms of judges.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 很好。不过我想说的是评委人数上的不平衡。"
-    },
-    {
-      "en": ": But...you're the only judge, aren't you?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 可是……你不是唯一的评委吗？"
-    },
-    {
-      "en": ": No. Sana is coming as well and she'll be serving as a secondary judge.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 不是。Sana 也会来，她会担任第二评委。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux5.webp",
-      "alt": "weightlimitredux5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What? Since when? Why hasn't anyone told me about this?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 什么？什么时候的事？为什么没人告诉过我？"
-    },
-    {
-      "en": ": I may have...forgotten to mention it. But it's happening.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我大概……忘了提。但事情就是这么定了。"
-    },
-    {
-      "en": ": Won’t she be biased, though? Her and Ayane are really close.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 不过她不会偏心吗？她和 Ayane 关系那么好。"
-    },
-    {
-      "en": ": Right. But I’m biased toward you since I eat your food literally every day.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 对。可我偏心你啊，因为我几乎每天都吃你做的饭。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux6.webp",
-      "alt": "weightlimitredux6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": So...what should we do?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 那么……我们该怎么办？"
-    },
-    {
-      "en": ": Obviously, we need to call in a third judge.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 显然，我们需要请第三位评委。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux7.webp",
-      "alt": "weightlimitredux7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": A third judge...",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 第三位评委……"
-    },
-    {
-      "en": ": Well, umm...I guess I could see if Maya wants to come over?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 嗯，那个……要不我去问问 Maya 愿不愿意来？"
-    },
-    {
-      "en": ": Great. That’s exactly who I had in mind.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 太好了。我想的正是她。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux8.webp",
-      "alt": "weightlimitredux8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Is that why you don't want to hug me? Because your mind is fully consumed by Maya?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 你不想抱我，就是因为你的脑子已经被 Maya 占满了吗？"
-    },
-    {
-      "en": ": If I say yes, will you still make me dinner every night?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 如果我说是，你还会每天给我做晚饭吗？"
-    },
-    {
-      "en": ": I will. But I can't guarantee there won't be poison in it.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 会。但我不能保证里面没毒。"
-    },
-    {
-      "en": ": Harsh.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 真狠。"
-    },
-    {
-      "en": ": So, is the favor complete? Can I go back to cleaning now?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 那么，忙帮完了吗？我可以回去打扫了吗？"
-    },
-    {
-      "en": ": Yes, you may proceed. And thanks for being so understanding, Ami.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 可以，你继续吧。谢谢你这么通情达理，Ami。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux9.webp",
-      "alt": "weightlimitredux9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Any time. I'll wind up winning no matter how many judges we have, so I'm not worried at all.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 随时乐意。反正不管有几个评委，最后赢的都是我，所以我一点都不担心。"
-    },
-    {
-      "en": ": Don't feel pressured to wait up for me if I take too long, Sensei! I've gotta shower after this anyway.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 老师，要是我花太久，你不用硬等着！反正之后我还得去洗澡。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene weightlimitredux1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/weightlimitredux1.webp",
-      "alt": "weightlimitredux1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Ami runs off and images of the forbidden territory known as the girls' shower room consumes my mind and prevents me from cleaning at all for the rest of the period.",
-      "zh": "Ami 跑开了，而那片被称为女生淋浴间的禁地画面占据了我的大脑，让我剩下的时间根本一点也打扫不动。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "As I sit with my hands still caked in the dried blood of a custodial worker, I think of a land where breasts roam free.",
-      "zh": "我坐在那里，双手还结着一名清洁工干涸的血，脑子里想着一片乳房自由徜徉的土地。"
-    },
-    {
-      "en": "A land where no harm befalls anyone...",
-      "zh": "一片不会有人受到伤害的土地……"
-    },
-    {
-      "en": "The closest thing to Heaven this earth can offer.",
-      "zh": "这片大地上最接近天堂的地方。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "And I am stuck out here...",
-      "zh": "而我被卡在外面……"
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": "Meanwhile...",
-      "zh": "与此同时……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump showersx",
-      "zh": ""
-    },
-    {
-      "en": "label showersx:",
-      "zh": ""
-    },
-    {
-      "en": "scene showers1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers1.webp",
-      "alt": "showers1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": ……"
-    },
-    {
-      "en": ": Um...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 嗯……"
-    },
-    {
-      "en": ": Do...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 那个……"
-    },
-    {
-      "en": ": Do you...need something, Yumi?...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": Yumi，你……有什么事吗？……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers2.webp",
-      "alt": "showers2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Sorry, lardass. Shower’s got a weight limit. I'm sure you understand.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 抱歉啊，肥猪。淋浴间有体重限制。我想你懂的。"
-    },
-    {
-      "en": ": Think you’re gonna have to wait here until everyone else is done. Don't want the floors collapsing and all that shit.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你得在这儿等到其他人都洗完。可不想地板塌了什么的。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers3.webp",
-      "alt": "showers3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Do we...have to do this in here?...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我们……非得在这儿说这个吗？……"
-    },
-    {
-      "en": ": If I did something to offend you, I'm sorry...I just...really want to take a shower and-",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 如果我做了什么冒犯你的事，我很抱歉……我只是……真的很想洗个澡，然后——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers4.webp",
-      "alt": "showers4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You really think I'd be offended by something you did? Who the fuck do you think you are?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你真以为你做什么能冒犯到我？你他妈以为自己是谁？"
-    },
-    {
-      "en": ": No, better question- who the fuck do you think I am? You ain't shit to me.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 不，换个更好的问题——你他妈以为我是谁？你在我眼里连个屁都不是。"
-    },
-    {
-      "en": ": So tell me fatass, why would I ever be offended by something you say? Go on. Tell me to my face.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 所以告诉我，肥婆，我为什么会因为你说的什么话而觉得被冒犯？来啊。当面说给我听。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers5.webp",
-      "alt": "showers5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I don't have anything to tell you at all! I really do just want to take a shower!",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我根本没什么要跟你说的！我真的只是想洗个澡！"
-    },
-    {
-      "en": ": Already told you, there's a limit to how much this floor can take. Gonna have to wait your turn.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 说过了，这地板能承受的重量有限。你得排队等着。"
-    },
-    {
-      "en": ": Can you please just let me pass? I...won't even look at you if that will make you happy...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 你能不能让我过去？我……只要你高兴，我连看都不看你一眼……"
-    },
-    {
-      "en": ": You sayin' you normally look at me, you fucking dyke? And here I was thinking your roommate was the only muffdiver we had in our class.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你是在说你平时会看我喽，你个死同性恋？我还以为我们班上的舔阴狂只有你室友一个呢。"
-    },
-    {
-      "en": ": Yumi...please!",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": Yumi……求你了！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers6.webp",
-      "alt": "showers6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You wanna pass? Fine. I guess I can look the other way.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你想过去？行。我想我可以把头转过去。"
-    },
-    {
-      "en": ": I've got a condition, though.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 不过我有个条件。"
-    },
-    {
-      "en": ": A...condition?...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 条……条件？……"
-    },
-    {
-      "en": ": W-What do you want?...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 你、你想要什么？……"
-    },
-    {
-      "en": ": My wallet is in my bag, so...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我的钱包在包里，所以……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers7.webp",
-      "alt": "showers7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Wallet?...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 钱包？……"
-    },
-    {
-      "en": ": You saying I'm fuckin' poor, lardass? You think you're better than me?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你是在说我他妈穷吗，肥猪？你觉得自己比我高贵？"
-    },
-    {
-      "en": ": No, I just-",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 不，我只是——"
-    },
-    {
-      "en": ": I don’t need your fucking money, got it? That ain't what I'm askin' for.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 我用不着你他妈的钱，懂吗？我要的不是那个。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers8.webp",
-      "alt": "showers8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Then...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 那……"
-    },
-    {
-      "en": ": Then what are you-",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 那你要的是什么——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers9.webp",
-      "alt": "showers9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You’re gonna have to hand over the towel.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你得把毛巾交出来。"
-    },
-    {
-      "en": ": But...this is the only one I-",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 可是……这是我唯一的一条——"
-    },
-    {
-      "en": ": Wow, I offer you a deal as simple as that and you've gotta fucking think about it?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 哇，我给了你这么简单的一个交易，你还得他妈想半天？"
-    },
-    {
-      "en": ": What's the problem? You embarrassed about walkin' across the room naked? We're all girls, ain't we? We've all seen each other's tits before.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 有什么问题？你不好意思光着身子穿过房间？我们不都是女生吗？谁的奶子没被别人看过。"
-    },
-    {
-      "en": ": To be fair, though, yours ain't exactly easy to miss.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 不过说句公道话，你的确实在很难被忽略。"
-    },
-    {
-      "en": ": I just...normally keep mine on until I'm in the room...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我只是……平时都穿着，直到进了里面才脱……"
-    },
-    {
-      "en": ": How come? You self-conscious about all those rolls? Some people are into that shit, you know? Is it really that big of a deal?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 为什么？你对自己那一圈圈的肉感到自卑？有人就好这口，你知道吗？这有什么大不了的？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers10.webp",
-      "alt": "showers10"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Why do you even need my towel?...You already have one...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 你到底为什么需要我的毛巾？……你自己不是有一条吗……"
-    },
-    {
-      "en": ": I do. Just this one’s kinda damp from dryin’ myself off.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 我有。只是这条擦完身子有点湿。"
-    },
-    {
-      "en": ": Shovin' it back into my locker like this will just make it all mildewy and shit.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 就这么塞回柜子里，会发霉什么的。"
-    },
-    {
-      "en": ": You understand, right?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你明白的，对吧？"
-    },
-    {
-      "en": ": Cause if you don't, I've got no problem just taking it from you by force and gettin' the fuck out here. Ain't like you'd do anything about it, right?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 因为你要是不明白，我也不介意直接动手从你身上抢过来，然后滚出去。反正你也不敢怎么样，对吧？"
-    },
-    {
-      "en": ": Yumi...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": Yumi……"
-    },
-    {
-      "en": ": Hey, freedom for a towel seems like a reasonable trade to me. Not sure what the issue is.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 嘿，用一条毛巾换自由，在我看来是很合理的交易。不知道有什么问题。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers11.webp",
-      "alt": "showers11"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Can’t you just...ask someone else?...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 你就不能……去问别人吗？……"
-    },
-    {
-      "en": ": I'm sure...someone must have a spare...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我敢肯定……总有人有多余的……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": ……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": ……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers12.webp",
-      "alt": "showers12"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": The fuck did you just say to me?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你他妈刚才跟我说什么？"
-    },
-    {
-      "en": ": I...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我……"
-    },
-    {
-      "en": ": Um...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 嗯……"
-    },
-    {
-      "en": ": Yumi? What’s going on out there?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ": Yumi？外面出什么事了？"
-    },
-    {
-      "en": ": If I find out you're picking on fucking Futaba again, I swear to God!",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ": 要是让我发现你又在欺负 Futaba，我对天发誓！"
-    },
-    {
-      "en": ": Just havin' a chat, Chika. A nice, friendly chat.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 只是聊两句而已，Chika。友好又亲切的聊天。"
-    },
-    {
-      "en": ": ...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": ……"
-    },
-    {
-      "en": ": Towel. Now.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 毛巾。现在。"
-    },
-    {
-      "en": ": I...I...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我……我……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers13.webp",
-      "alt": "showers13"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Is mine okay?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 我的可以吗？"
-    },
-    {
-      "en": ": Huh?...Is your what okay? The fuck's goin' on here?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 哈？……我的什么可以？这他妈是怎么回事？"
-    },
-    {
-      "en": ": You said you needed a towel, right? I don’t mind lending you mine.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 你说你需要一条毛巾，对吧？我不介意把我的借给你。"
-    },
-    {
-      "en": ": This one's actually brand new, so you won’t need to worry about the mildewy issue or...whatever it was you said you were worried about.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 这条其实是全新的，所以你不用担心发霉的问题，或者……你刚才说担心的是什么来着。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers14.webp",
-      "alt": "showers14"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你……"
-    },
-    {
-      "en": ": You think it’s okay to just fuckin’ listen in on other people’s conversations?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你觉得偷听别人说话是件他妈无所谓的事？"
-    },
-    {
-      "en": ": It’s not my fault that the acoustics in this room are so good. It's not exactly like I was trying to listen in.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 这房间的隔音这么好，可不是我的错。我又不是故意要听的。"
-    },
-    {
-      "en": ": You just...naturally talk loudly, I guess. And this sounded like a pretty big deal based on how mad you were a few seconds ago.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 只是……你说话天生就大声，我想。而且听你几秒钟前那么火大，这听起来像是个挺大的事儿。"
-    },
-    {
-      "en": ": Ayane...you don’t have to...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": Ayane……你不必……"
-    },
-    {
-      "en": ": Are you going to take it or not, Yumi?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 你到底要不要，Yumi？"
-    },
-    {
-      "en": ": Also, why are you even standing around if you’ve already showered?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 还有，你都洗完了还在这儿站着干什么？"
-    },
-    {
-      "en": ": Taking in the sights or something? I didn't realize you were into girls.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 观赏风景什么的？我没想到你好这口。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers15",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers15.webp",
-      "alt": "showers15"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What the fuck are you talking about, Blondie?! The hell would give you that idea?!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 你他妈在说什么，金毛丫头？！你从哪儿得出那种结论的？！"
-    },
-    {
-      "en": ": I just figured that if you’ve already showered and didn’t want to leave that there's a chance you might want to fuck girls or something.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 我只是觉得，既然你已经洗完了却不想走，那就有可能你是想跟女生做点什么之类的。"
-    },
-    {
-      "en": ": Which is totally fine! I think girls are cute too.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 那完全没问题！我也觉得女生很可爱。"
-    },
-    {
-      "en": ": I don’t think I'd ever do it with one...but hey! More power to you if that's your thing!",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 我不觉得自己会跟女生做……不过嘿！如果那是你的爱好，我挺你！"
-    },
-    {
-      "en": ": I don’t wanna do it with anybody!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 我他妈谁都不想跟谁做！"
-    },
-    {
-      "en": ": Really? Not even Sensei?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 真的吗？连老师也不想？"
-    },
-    {
-      "en": ": Especially not fucking Sensei!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 尤其不想跟他妈的老师！"
-    },
-    {
-      "en": ": Yumi, seriously! What are you getting so heated over out there?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ": Yumi，说真的！你到底在外面因为什么火成这样？"
-    },
-    {
-      "en": ": I'll ask again...are you going take it? Or not?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 我再问一次……你到底要不要？要不要？"
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": ……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": ……"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers16",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers16.webp",
-      "alt": "showers16"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": ……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": ……"
-    },
-    {
-      "en": ": I ain't a fuckin' lesbo, got it?",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ": 我才不是他妈的女同，懂吗？"
-    },
-    {
-      "en": ": Got it.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 懂了。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers17",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers17.webp",
-      "alt": "showers17"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Hah...",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 哈……"
-    },
-    {
-      "en": ": Wow...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 哇……"
-    },
-    {
-      "en": ": And here I was thinking I might actually get to use my karate for once.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 我还以为我这次终于有机会用上我的空手道了呢。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers18",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers18.webp",
-      "alt": "showers18"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You okay, Futaba?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 你没事吧，Futaba？"
-    },
-    {
-      "en": ": Um...uhh...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 嗯……呃……"
-    },
-    {
-      "en": ": How...did you do that?",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 你……是怎么做到的？"
-    },
-    {
-      "en": ": What do you mean?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 你什么意思？"
-    },
-    {
-      "en": ": How did you...stand up to her so easily?",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 你是怎么……那么轻易就顶撞她的？"
-    },
-    {
-      "en": ": I don’t know. I just did. I saw her being mean, so I decided to help.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 我不知道。我就是做了。我看到她在欺负人，就决定帮忙。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers19",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers19.webp",
-      "alt": "showers19"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I...don’t really know what to say...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我……真不知道该说什么……"
-    },
-    {
-      "en": ": Well, you can thank me if you’d like! But you really don't have to since I would have done that either way.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 嗯，你想谢我可以谢！不过你真的不必，因为我无论如何都会那么做。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers20",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers20.webp",
-      "alt": "showers20"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh my god! I-I’m so sorry! I totally forgot to say that! Thank you so much!",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 天哪！我、我太抱歉了！我完全忘了说了！真的太谢谢你了！"
-    },
-    {
-      "en": ": It's fine, it's fine!",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 没事，没事！"
-    },
-    {
-      "en": ": Just punch her in the face next time, though. I think you’d be able to take her. She seems like more bark than bite, if you catch my drift.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 不过下次直接揍她脸。我觉得你能打得过她。她看起来叫得凶、咬不动，你懂我意思吧。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers19",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers19.webp",
-      "alt": "showers19"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I...don’t really think I’m much of a fighter...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 我……不觉得自己是块打架的料……"
-    },
-    {
-      "en": ": And...I also don’t want to start any problems, so...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 而且……我也不想惹麻烦，所以……"
-    },
-    {
-      "en": ": Hmm...Well, that’s okay too. Just try to be a little more confident, okay?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 嗯……那也没关系。只是试着自信一点，好吗？"
-    },
-    {
-      "en": ": I'm pretty sure Yumi only picks on you because you never stand up for yourself.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 我敢肯定 Yumi 之所以挑你欺负，就是因为你从来不为自己出头。"
-    },
-    {
-      "en": ": I don't want to tell you how to live your life, but...try not to let her walk all over you. Got it?",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 我不想教你怎么做人，但是……尽量别让她这么骑在你头上。懂吗？"
-    },
-    {
-      "en": ": You don't deserve that.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 你不该被这样对待。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers21",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers21.webp",
-      "alt": "showers21"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Umm...yeah....I...I’ll try...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 嗯……好……我……我尽量……"
-    },
-    {
-      "en": ": Thanks again, Ayane...I’m...really glad you stood up for me...",
-      "spk": "Futaba",
-      "spkColor": "#E73CFF",
-      "zh": ": 再次谢谢你，Ayane……我……真的很高兴你为我出头……"
-    },
-    {
-      "en": ": Any time! That’s what I’m here for.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 随时乐意！我就是为此而存在的。"
-    },
-    {
-      "en": ": Now, if you'll please excuse me, I have to go find another towel!",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 那么，失陪了，我得去找另一条毛巾！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene showers22",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/showers22.webp",
-      "alt": "showers22"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That was...actually my last one.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ": 那……其实是我最后一条了。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ day72 = True",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump afterschoolevent",
-      "zh": ""
-    }
-  ]
+ "label": "day72",
+ "title_zh": "体重限制",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label day72:",
+   "zh": ""
+  },
+  {
+   "en": "scene weightlimitredux1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux1.webp",
+   "alt": "weightlimitredux1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Gym class has ended for the day and I’m staying after with Ami to help clean the place up.",
+   "zh": "今天的体育课结束了，我留下来帮 Ami 收拾场地。"
+  },
+  {
+   "en": "Normally, this would be the part where all of the girls run off to the showers, but a certain incident today has prompted me to select at least one person to clean brain matter off of the floor.",
+   "zh": "正常情况下，这时候所有女生都该跑去洗澡了，但今天的一起事故，促使我至少要挑出一个人来清理地板上的脑浆。"
+  },
+  {
+   "en": "And what better person to collect brain matter than my niece?",
+   "zh": "而还有什么人比我的[niece]更适合收集脑浆呢？"
+  },
+  {
+   "en": "Now, I'm sure you're looking for an explanation...and I will give you one. But whether you decide to believe it or not is up to you.",
+   "zh": "好了，我知道你在等一个解释……我会给你一个。不过信不信由你。"
+  },
+  {
+   "en": "While dropping by the gym to get something out of the storage room, one of the[school]’s janitors was pelted in the head by a dodgeball.",
+   "zh": "我去体育馆储藏室拿东西的时候，[school]的一名清洁工被一颗躲避球砸中了脑袋。"
+  },
+  {
+   "en": "Normally, a grown man would be able to shrug something like this off and just get on with his day after a minute or two.",
+   "zh": "正常情况下，一个成年男人对这种事耸耸肩就过去了，一两分钟后照常过日子。"
+  },
+  {
+   "en": "However-",
+   "zh": "然而——"
+  },
+  {
+   "en": "This particular dodgeball had been moving at the speed of a major league player’s fastball.",
+   "zh": "这颗躲避球的速度，堪比大联盟投手的快速球。"
+  },
+  {
+   "en": "And while I'd like to say the janitor died on impact, he writhed in pain for a full five minutes or so before going silent.",
+   "zh": "虽然我很想说那名清洁工当场就死了，但他在地上痛苦地扭动了整整五分钟左右，才终于没了声息。"
+  },
+  {
+   "en": "There was blood everywhere.",
+   "zh": "到处都是血。"
+  },
+  {
+   "en": "And of course I had to be the one to clean it up on account of us now being down one janitor.",
+   "zh": "而因为现在我们少了一名清洁工，我当然就成了那个清理现场的人。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux2.webp",
+   "alt": "weightlimitredux2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": It's crazy that this isn't even the first time something like this has happened, huh?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 这甚至都不是第一次发生这种事了，真够疯的，对吧？"
+  },
+  {
+   "en": ": It's not?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不是第一次？"
+  },
+  {
+   "en": ": No. This is like the third janitor Ayane has accidentally killed this year.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 不是。这已经是 Ayane 今年不小心杀掉的第三个清洁工了。"
+  },
+  {
+   "en": ": How does she have that much arm strength? And why hasn't she been put in jail yet?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 她哪来那么大的臂力？还有她怎么到现在还没进监狱？"
+  },
+  {
+   "en": ": I don't know. She's rich, so that probably has something to do with it.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 我不知道。她很有钱，大概跟这个脱不了关系。"
+  },
+  {
+   "en": ": Fair enough.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 说得也是。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux3.webp",
+   "alt": "weightlimitredux3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": So, where should I be putting all of these mats?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 那么，这些垫子我该放到哪儿？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if day68 == True:",
+   "zh": ""
+  },
+  {
+   "en": ": The storage room. Just try not to pay any attention to any stains on the floor.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 储藏室。只是尽量别去注意地板上的任何污渍。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Um...okay?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 嗯……好吧？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": The storage room is fine. Just make sure you don’t leave any of them out again. The staff got pissed off that we didn’t do a great job last time.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 储藏室就行。记得别再把任何一个落在外面。上次我们没干好，教职工气坏了。"
+  },
+  {
+   "en": ": Mhm! I’ll make sure to get everything this time. Don’t you worry, Sensei.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 嗯嗯！这次我保证全都收好。别担心啦，老师。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Before you go, though- there's something I've been meaning to ask you.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不过你走之前——有件事我一直想问你。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux4.webp",
+   "alt": "weightlimitredux4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": There is? What is it?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 有吗？是什么？"
+  },
+  {
+   "en": ": Well...it's less of a question and more of a demand.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗯……与其说是问题，不如说是个请求。"
+  },
+  {
+   "en": ": Sensei, if you want a hug that badly, all you have to do is ask.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 老师，你要是这么想要抱抱，只要开口就行啊。"
+  },
+  {
+   "en": ": I don't need a hug, I need you to do me a favor.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我不要抱抱，我要你帮我个忙。"
+  },
+  {
+   "en": ": Hugs can be favors too, Sensei.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 抱抱也可以是帮忙啊，老师。"
+  },
+  {
+   "en": ": Ami, I don't want a hug.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Ami，我不想要抱抱。"
+  },
+  {
+   "en": ": I think you do, but sure. Go on with your non-hug related favor.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 我觉得你想要，不过行吧。请继续说你那个跟抱抱无关的忙。"
+  },
+  {
+   "en": ": It's about the cooking competition thing with Ayane.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 是关于跟 Ayane 的厨艺比赛的事。"
+  },
+  {
+   "en": ": You mean about how I’m going to beat her so badly that she’ll stop cooking for the rest of her life?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 你是说，我要怎么把她打得落花流水，让她这辈子再也不下厨？"
+  },
+  {
+   "en": ": Well, no. But I admire the confidence.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗯，不是。不过我很欣赏这份自信。"
+  },
+  {
+   "en": ": Of course I’m confident. I know everything you like. I’ve trained my whole life for this.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 我当然有自信。你喜欢什么我全知道。我为此训练了一辈子。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I’m not gonna lose just cause Ayane wants to raise an army of children with you.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 我才不会因为 Ayane 想跟你生一支军队的孩子就输掉。"
+  },
+  {
+   "en": ": That’s great. But what I'm referring to is the imbalance in terms of judges.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 很好。不过我想说的是评委人数上的不平衡。"
+  },
+  {
+   "en": ": But...you're the only judge, aren't you?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 可是……你不是唯一的评委吗？"
+  },
+  {
+   "en": ": No. Sana is coming as well and she'll be serving as a secondary judge.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不是。Sana 也会来，她会担任第二评委。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux5.webp",
+   "alt": "weightlimitredux5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What? Since when? Why hasn't anyone told me about this?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 什么？什么时候的事？为什么没人告诉过我？"
+  },
+  {
+   "en": ": I may have...forgotten to mention it. But it's happening.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我大概……忘了提。但事情就是这么定了。"
+  },
+  {
+   "en": ": Won’t she be biased, though? Her and Ayane are really close.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 不过她不会偏心吗？她和 Ayane 关系那么好。"
+  },
+  {
+   "en": ": Right. But I’m biased toward you since I eat your food literally every day.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 对。可我偏心你啊，因为我几乎每天都吃你做的饭。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux6.webp",
+   "alt": "weightlimitredux6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": So...what should we do?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 那么……我们该怎么办？"
+  },
+  {
+   "en": ": Obviously, we need to call in a third judge.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 显然，我们需要请第三位评委。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux7.webp",
+   "alt": "weightlimitredux7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": A third judge...",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 第三位评委……"
+  },
+  {
+   "en": ": Well, umm...I guess I could see if Maya wants to come over?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 嗯，那个……要不我去问问 Maya 愿不愿意来？"
+  },
+  {
+   "en": ": Great. That’s exactly who I had in mind.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 太好了。我想的正是她。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux8.webp",
+   "alt": "weightlimitredux8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Is that why you don't want to hug me? Because your mind is fully consumed by Maya?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 你不想抱我，就是因为你的脑子已经被 Maya 占满了吗？"
+  },
+  {
+   "en": ": If I say yes, will you still make me dinner every night?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 如果我说是，你还会每天给我做晚饭吗？"
+  },
+  {
+   "en": ": I will. But I can't guarantee there won't be poison in it.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 会。但我不能保证里面没毒。"
+  },
+  {
+   "en": ": Harsh.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 真狠。"
+  },
+  {
+   "en": ": So, is the favor complete? Can I go back to cleaning now?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 那么，忙帮完了吗？我可以回去打扫了吗？"
+  },
+  {
+   "en": ": Yes, you may proceed. And thanks for being so understanding, Ami.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 可以，你继续吧。谢谢你这么通情达理，Ami。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux9.webp",
+   "alt": "weightlimitredux9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Any time. I'll wind up winning no matter how many judges we have, so I'm not worried at all.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 随时乐意。反正不管有几个评委，最后赢的都是我，所以我一点都不担心。"
+  },
+  {
+   "en": ": Don't feel pressured to wait up for me if I take too long, Sensei! I've gotta shower after this anyway.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 老师，要是我花太久，你不用硬等着！反正之后我还得去洗澡。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene weightlimitredux1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/weightlimitredux1.webp",
+   "alt": "weightlimitredux1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Ami runs off and images of the forbidden territory known as the girls' shower room consumes my mind and prevents me from cleaning at all for the rest of the period.",
+   "zh": "Ami 跑开了，而那片被称为女生淋浴间的禁地画面占据了我的大脑，让我剩下的时间根本一点也打扫不动。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "As I sit with my hands still caked in the dried blood of a custodial worker, I think of a land where breasts roam free.",
+   "zh": "我坐在那里，双手还结着一名清洁工干涸的血，脑子里想着一片乳房自由徜徉的土地。"
+  },
+  {
+   "en": "A land where no harm befalls anyone...",
+   "zh": "一片不会有人受到伤害的土地……"
+  },
+  {
+   "en": "The closest thing to Heaven this earth can offer.",
+   "zh": "这片大地上最接近天堂的地方。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "And I am stuck out here...",
+   "zh": "而我被卡在外面……"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": "Meanwhile...",
+   "zh": "与此同时……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump showersx",
+   "zh": ""
+  },
+  {
+   "en": "label showersx:",
+   "zh": ""
+  },
+  {
+   "en": "scene showers1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers1.webp",
+   "alt": "showers1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": ...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": ……"
+  },
+  {
+   "en": ": Um...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 嗯……"
+  },
+  {
+   "en": ": Do...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 那个……"
+  },
+  {
+   "en": ": Do you...need something, Yumi?...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": Yumi，你……有什么事吗？……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers2.webp",
+   "alt": "showers2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Sorry, lardass. Shower’s got a weight limit. I'm sure you understand.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 抱歉啊，肥猪。淋浴间有体重限制。我想你懂的。"
+  },
+  {
+   "en": ": Think you’re gonna have to wait here until everyone else is done. Don't want the floors collapsing and all that shit.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你得在这儿等到其他人都洗完。可不想地板塌了什么的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers3.webp",
+   "alt": "showers3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Do we...have to do this in here?...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我们……非得在这儿说这个吗？……"
+  },
+  {
+   "en": ": If I did something to offend you, I'm sorry...I just...really want to take a shower and-",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 如果我做了什么冒犯你的事，我很抱歉……我只是……真的很想洗个澡，然后——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers4.webp",
+   "alt": "showers4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You really think I'd be offended by something you did? Who the fuck do you think you are?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你真以为你做什么能冒犯到我？你他妈以为自己是谁？"
+  },
+  {
+   "en": ": No, better question- who the fuck do you think I am? You ain't shit to me.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不，换个更好的问题——你他妈以为我是谁？你在我眼里连个屁都不是。"
+  },
+  {
+   "en": ": So tell me fatass, why would I ever be offended by something you say? Go on. Tell me to my face.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 所以告诉我，肥婆，我为什么会因为你说的什么话而觉得被冒犯？来啊。当面说给我听。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers5.webp",
+   "alt": "showers5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I don't have anything to tell you at all! I really do just want to take a shower!",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我根本没什么要跟你说的！我真的只是想洗个澡！"
+  },
+  {
+   "en": ": Already told you, there's a limit to how much this floor can take. Gonna have to wait your turn.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 说过了，这地板能承受的重量有限。你得排队等着。"
+  },
+  {
+   "en": ": Can you please just let me pass? I...won't even look at you if that will make you happy...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 你能不能让我过去？我……只要你高兴，我连看都不看你一眼……"
+  },
+  {
+   "en": ": You sayin' you normally look at me, you fucking dyke? And here I was thinking your roommate was the only muffdiver we had in our class.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你是在说你平时会看我喽，你个死同性恋？我还以为我们班上的舔阴狂只有你室友一个呢。"
+  },
+  {
+   "en": ": Yumi...please!",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": Yumi……求你了！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers6.webp",
+   "alt": "showers6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You wanna pass? Fine. I guess I can look the other way.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你想过去？行。我想我可以把头转过去。"
+  },
+  {
+   "en": ": I've got a condition, though.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不过我有个条件。"
+  },
+  {
+   "en": ": A...condition?...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 条……条件？……"
+  },
+  {
+   "en": ": W-What do you want?...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 你、你想要什么？……"
+  },
+  {
+   "en": ": My wallet is in my bag, so...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我的钱包在包里，所以……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers7.webp",
+   "alt": "showers7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Wallet?...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 钱包？……"
+  },
+  {
+   "en": ": You saying I'm fuckin' poor, lardass? You think you're better than me?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你是在说我他妈穷吗，肥猪？你觉得自己比我高贵？"
+  },
+  {
+   "en": ": No, I just-",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 不，我只是——"
+  },
+  {
+   "en": ": I don’t need your fucking money, got it? That ain't what I'm askin' for.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我用不着你他妈的钱，懂吗？我要的不是那个。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers8.webp",
+   "alt": "showers8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Then...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 那……"
+  },
+  {
+   "en": ": Then what are you-",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 那你要的是什么——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers9.webp",
+   "alt": "showers9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You’re gonna have to hand over the towel.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你得把毛巾交出来。"
+  },
+  {
+   "en": ": But...this is the only one I-",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 可是……这是我唯一的一条——"
+  },
+  {
+   "en": ": Wow, I offer you a deal as simple as that and you've gotta fucking think about it?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 哇，我给了你这么简单的一个交易，你还得他妈想半天？"
+  },
+  {
+   "en": ": What's the problem? You embarrassed about walkin' across the room naked? We're all girls, ain't we? We've all seen each other's tits before.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 有什么问题？你不好意思光着身子穿过房间？我们不都是女生吗？谁的奶子没被别人看过。"
+  },
+  {
+   "en": ": To be fair, though, yours ain't exactly easy to miss.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不过说句公道话，你的确实在很难被忽略。"
+  },
+  {
+   "en": ": I just...normally keep mine on until I'm in the room...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我只是……平时都穿着，直到进了里面才脱……"
+  },
+  {
+   "en": ": How come? You self-conscious about all those rolls? Some people are into that shit, you know? Is it really that big of a deal?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 为什么？你对自己那一圈圈的肉感到自卑？有人就好这口，你知道吗？这有什么大不了的？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers10.webp",
+   "alt": "showers10"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Why do you even need my towel?...You already have one...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 你到底为什么需要我的毛巾？……你自己不是有一条吗……"
+  },
+  {
+   "en": ": I do. Just this one’s kinda damp from dryin’ myself off.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我有。只是这条擦完身子有点湿。"
+  },
+  {
+   "en": ": Shovin' it back into my locker like this will just make it all mildewy and shit.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 就这么塞回柜子里，会发霉什么的。"
+  },
+  {
+   "en": ": You understand, right?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你明白的，对吧？"
+  },
+  {
+   "en": ": Cause if you don't, I've got no problem just taking it from you by force and gettin' the fuck out here. Ain't like you'd do anything about it, right?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 因为你要是不明白，我也不介意直接动手从你身上抢过来，然后滚出去。反正你也不敢怎么样，对吧？"
+  },
+  {
+   "en": ": Yumi...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": Yumi……"
+  },
+  {
+   "en": ": Hey, freedom for a towel seems like a reasonable trade to me. Not sure what the issue is.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 嘿，用一条毛巾换自由，在我看来是很合理的交易。不知道有什么问题。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers11.webp",
+   "alt": "showers11"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Can’t you just...ask someone else?...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 你就不能……去问别人吗？……"
+  },
+  {
+   "en": ": I'm sure...someone must have a spare...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我敢肯定……总有人有多余的……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": ……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": ……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers12.webp",
+   "alt": "showers12"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": The fuck did you just say to me?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你他妈刚才跟我说什么？"
+  },
+  {
+   "en": ": I...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我……"
+  },
+  {
+   "en": ": Um...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 嗯……"
+  },
+  {
+   "en": ": Yumi? What’s going on out there?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": Yumi？外面出什么事了？"
+  },
+  {
+   "en": ": If I find out you're picking on fucking Futaba again, I swear to God!",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 要是让我发现你又在欺负 Futaba，我对天发誓！"
+  },
+  {
+   "en": ": Just havin' a chat, Chika. A nice, friendly chat.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 只是聊两句而已，Chika。友好又亲切的聊天。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": ……"
+  },
+  {
+   "en": ": Towel. Now.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 毛巾。现在。"
+  },
+  {
+   "en": ": I...I...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我……我……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers13.webp",
+   "alt": "showers13"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Is mine okay?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我的可以吗？"
+  },
+  {
+   "en": ": Huh?...Is your what okay? The fuck's goin' on here?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 哈？……我的什么可以？这他妈是怎么回事？"
+  },
+  {
+   "en": ": You said you needed a towel, right? I don’t mind lending you mine.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 你说你需要一条毛巾，对吧？我不介意把我的借给你。"
+  },
+  {
+   "en": ": This one's actually brand new, so you won’t need to worry about the mildewy issue or...whatever it was you said you were worried about.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 这条其实是全新的，所以你不用担心发霉的问题，或者……你刚才说担心的是什么来着。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers14.webp",
+   "alt": "showers14"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你……"
+  },
+  {
+   "en": ": You think it’s okay to just fuckin’ listen in on other people’s conversations?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你觉得偷听别人说话是件他妈无所谓的事？"
+  },
+  {
+   "en": ": It’s not my fault that the acoustics in this room are so good. It's not exactly like I was trying to listen in.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 这房间的隔音这么好，可不是我的错。我又不是故意要听的。"
+  },
+  {
+   "en": ": You just...naturally talk loudly, I guess. And this sounded like a pretty big deal based on how mad you were a few seconds ago.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 只是……你说话天生就大声，我想。而且听你几秒钟前那么火大，这听起来像是个挺大的事儿。"
+  },
+  {
+   "en": ": Ayane...you don’t have to...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": Ayane……你不必……"
+  },
+  {
+   "en": ": Are you going to take it or not, Yumi?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 你到底要不要，Yumi？"
+  },
+  {
+   "en": ": Also, why are you even standing around if you’ve already showered?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 还有，你都洗完了还在这儿站着干什么？"
+  },
+  {
+   "en": ": Taking in the sights or something? I didn't realize you were into girls.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 观赏风景什么的？我没想到你好这口。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers15",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers15.webp",
+   "alt": "showers15"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What the fuck are you talking about, Blondie?! The hell would give you that idea?!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 你他妈在说什么，金毛丫头？！你从哪儿得出那种结论的？！"
+  },
+  {
+   "en": ": I just figured that if you’ve already showered and didn’t want to leave that there's a chance you might want to fuck girls or something.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我只是觉得，既然你已经洗完了却不想走，那就有可能你是想跟女生做点什么之类的。"
+  },
+  {
+   "en": ": Which is totally fine! I think girls are cute too.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 那完全没问题！我也觉得女生很可爱。"
+  },
+  {
+   "en": ": I don’t think I'd ever do it with one...but hey! More power to you if that's your thing!",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我不觉得自己会跟女生做……不过嘿！如果那是你的爱好，我挺你！"
+  },
+  {
+   "en": ": I don’t wanna do it with anybody!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我他妈谁都不想跟谁做！"
+  },
+  {
+   "en": ": Really? Not even Sensei?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 真的吗？连老师也不想？"
+  },
+  {
+   "en": ": Especially not fucking Sensei!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 尤其不想跟他妈的老师！"
+  },
+  {
+   "en": ": Yumi, seriously! What are you getting so heated over out there?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": Yumi，说真的！你到底在外面因为什么火成这样？"
+  },
+  {
+   "en": ": I'll ask again...are you going take it? Or not?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我再问一次……你到底要不要？要不要？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": ……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": ……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers16",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers16.webp",
+   "alt": "showers16"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": ...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": ……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": ……"
+  },
+  {
+   "en": ": I ain't a fuckin' lesbo, got it?",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我才不是他妈的女同，懂吗？"
+  },
+  {
+   "en": ": Got it.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 懂了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers17",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers17.webp",
+   "alt": "showers17"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Hah...",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 哈……"
+  },
+  {
+   "en": ": Wow...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 哇……"
+  },
+  {
+   "en": ": And here I was thinking I might actually get to use my karate for once.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我还以为我这次终于有机会用上我的空手道了呢。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers18",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers18.webp",
+   "alt": "showers18"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You okay, Futaba?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 你没事吧，Futaba？"
+  },
+  {
+   "en": ": Um...uhh...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 嗯……呃……"
+  },
+  {
+   "en": ": How...did you do that?",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 你……是怎么做到的？"
+  },
+  {
+   "en": ": What do you mean?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 你什么意思？"
+  },
+  {
+   "en": ": How did you...stand up to her so easily?",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 你是怎么……那么轻易就顶撞她的？"
+  },
+  {
+   "en": ": I don’t know. I just did. I saw her being mean, so I decided to help.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我不知道。我就是做了。我看到她在欺负人，就决定帮忙。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers19",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers19.webp",
+   "alt": "showers19"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I...don’t really know what to say...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我……真不知道该说什么……"
+  },
+  {
+   "en": ": Well, you can thank me if you’d like! But you really don't have to since I would have done that either way.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 嗯，你想谢我可以谢！不过你真的不必，因为我无论如何都会那么做。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers20",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers20.webp",
+   "alt": "showers20"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh my god! I-I’m so sorry! I totally forgot to say that! Thank you so much!",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 天哪！我、我太抱歉了！我完全忘了说了！真的太谢谢你了！"
+  },
+  {
+   "en": ": It's fine, it's fine!",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 没事，没事！"
+  },
+  {
+   "en": ": Just punch her in the face next time, though. I think you’d be able to take her. She seems like more bark than bite, if you catch my drift.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 不过下次直接揍她脸。我觉得你能打得过她。她看起来叫得凶、咬不动，你懂我意思吧。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers19",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers19.webp",
+   "alt": "showers19"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I...don’t really think I’m much of a fighter...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 我……不觉得自己是块打架的料……"
+  },
+  {
+   "en": ": And...I also don’t want to start any problems, so...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 而且……我也不想惹麻烦，所以……"
+  },
+  {
+   "en": ": Hmm...Well, that’s okay too. Just try to be a little more confident, okay?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 嗯……那也没关系。只是试着自信一点，好吗？"
+  },
+  {
+   "en": ": I'm pretty sure Yumi only picks on you because you never stand up for yourself.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我敢肯定 Yumi 之所以挑你欺负，就是因为你从来不为自己出头。"
+  },
+  {
+   "en": ": I don't want to tell you how to live your life, but...try not to let her walk all over you. Got it?",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我不想教你怎么做人，但是……尽量别让她这么骑在你头上。懂吗？"
+  },
+  {
+   "en": ": You don't deserve that.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 你不该被这样对待。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers21",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers21.webp",
+   "alt": "showers21"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Umm...yeah....I...I’ll try...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 嗯……好……我……我尽量……"
+  },
+  {
+   "en": ": Thanks again, Ayane...I’m...really glad you stood up for me...",
+   "spk": "Futaba",
+   "spkColor": "#E73CFF",
+   "zh": ": 再次谢谢你，Ayane……我……真的很高兴你为我出头……"
+  },
+  {
+   "en": ": Any time! That’s what I’m here for.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 随时乐意！我就是为此而存在的。"
+  },
+  {
+   "en": ": Now, if you'll please excuse me, I have to go find another towel!",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 那么，失陪了，我得去找另一条毛巾！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene showers22",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/showers22.webp",
+   "alt": "showers22"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That was...actually my last one.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 那……其实是我最后一条了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ day72 = True",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump afterschoolevent",
+   "zh": ""
+  }
+ ]
 }

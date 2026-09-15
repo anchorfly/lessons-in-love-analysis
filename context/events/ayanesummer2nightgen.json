@@ -1,141 +1,141 @@
 {
-  "label": "ayanesummer2nightgen",
-  "title_zh": "装睡",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label ayanesummer2nightgen:",
-      "zh": ""
-    },
-    {
-      "en": "scene ayanesummer2nightgen",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/ayanesummer2nightgen.webp",
-      "alt": "ayanesummer2nightgen"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is at the house tonight and doesn’t take kindly to the idea of Ayane getting “Sensei time” without her.",
-      "zh": "我给 Ayane 打电话，最后跑到宿舍去找她——因为 Ami 今晚在家，而她不太乐意 Ayane 在没有她的情况下独占「老师时间」。"
-    },
-    {
-      "en": "Instead of making plans to do anything, though, we wind up talking outside of the dorm building for what feels like an eternity, but is really only an hour or two.",
-      "zh": "不过我们没计划做任何事，只是在宿舍楼外面聊了像永恒那么久——其实也就一两个小时。"
-    },
-    {
-      "en": "Among the topics discussed are: how much she loves me, her new role as an official swim club member, how much she loves me, something about getting Sana to eat better-",
-      "zh": "聊到的话题包括：她有多爱我、她作为游泳社正式成员的新身份、她有多爱我、一些关于让 Sana 吃得好一点的事——"
-    },
-    {
-      "en": "And, most importantly, how much she loves me.",
-      "zh": "而最重要的，是她有多爱我。"
-    },
-    {
-      "en": "Needless to say, despite talking for what is but isn’t an eternity, I’m unable to really contribute much.",
-      "zh": "不用说，尽管聊了「是又不是」那么久，我基本没能贡献什么。"
-    },
-    {
-      "en": "But I guess all she really asks for in the first place is someone to be there and listen.",
-      "zh": "不过我想，她从一开始就只是需要有个人在旁边听着。"
-    },
-    {
-      "en": "And, believe it or not, I’m good at that.",
-      "zh": "而且，信不信由你，我挺擅长这个的。"
-    },
-    {
-      "en": "I just don’t always listen the way people want me to.",
-      "zh": "我只是不总按人家想要的方式去听。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "We retreat to a nearby park bench and Ayane falls asleep on my shoulder.",
-      "zh": "我们挪到附近公园的长椅上，Ayane 靠在我肩上睡着了。"
-    },
-    {
-      "en": "Waiting for her to wake up does no good, so I’m forced to carry her back upstairs and bring her to bed.",
-      "zh": "等她醒来没用，所以我只好把她背回楼上，抱到床上。"
-    },
-    {
-      "en": "I realize halfway to her room that she’s either been faking it the whole time or woke up somewhere along the way, but I don’t say anything about it.",
-      "zh": "走到半路我才意识到，她要么一直都在装睡，要么半道上醒了——但我什么都没说。"
-    },
-    {
-      "en": "Even now, with nothing to listen to, I still find myself struggling when it comes to talking.",
-      "zh": "即便现在没什么可听的了，我说话这件事本身还是让我费劲。"
-    },
-    {
-      "en": "Thankfully, she says nothing. Even as I lay her down and pull her blanket over her.",
-      "zh": "幸好她什么也没说。哪怕在我把她放下、替她盖好被子的时候。"
-    },
-    {
-      "en": "I leave as if I was never here at all and return home as if I had never left.",
-      "zh": "我就像从未来过一样离开，又像从未离开过一样回家。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ ayane_love += 1",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Ayane’s affection has increased to [ayane_love]!",
-      "zh": "Ayane 的好感度提升到了 [ayane_love]！"
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if day >= 6:",
-      "zh": ""
-    },
-    {
-      "en": "jump endofsat",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": "jump endofweekday",
-      "zh": ""
-    }
-  ]
+ "label": "ayanesummer2nightgen",
+ "title_zh": "装睡",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label ayanesummer2nightgen:",
+   "zh": ""
+  },
+  {
+   "en": "scene ayanesummer2nightgen",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/ayanesummer2nightgen.webp",
+   "alt": "ayanesummer2nightgen"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I call Ayane and wind up heading over to the dorms to hang out with her since Ami is at the house tonight and doesn’t take kindly to the idea of Ayane getting “Sensei time” without her.",
+   "zh": "我给 Ayane 打电话，最后跑到宿舍去找她——因为 Ami 今晚在家，而她不太乐意 Ayane 在没有她的情况下独占「老师时间」。"
+  },
+  {
+   "en": "Instead of making plans to do anything, though, we wind up talking outside of the dorm building for what feels like an eternity, but is really only an hour or two.",
+   "zh": "不过我们没计划做任何事，只是在宿舍楼外面聊了像永恒那么久——其实也就一两个小时。"
+  },
+  {
+   "en": "Among the topics discussed are: how much she loves me, her new role as an official swim club member, how much she loves me, something about getting Sana to eat better-",
+   "zh": "聊到的话题包括：她有多爱我、她作为游泳社正式成员的新身份、她有多爱我、一些关于让 Sana 吃得好一点的事——"
+  },
+  {
+   "en": "And, most importantly, how much she loves me.",
+   "zh": "而最重要的，是她有多爱我。"
+  },
+  {
+   "en": "Needless to say, despite talking for what is but isn’t an eternity, I’m unable to really contribute much.",
+   "zh": "不用说，尽管聊了「是又不是」那么久，我基本没能贡献什么。"
+  },
+  {
+   "en": "But I guess all she really asks for in the first place is someone to be there and listen.",
+   "zh": "不过我想，她从一开始就只是需要有个人在旁边听着。"
+  },
+  {
+   "en": "And, believe it or not, I’m good at that.",
+   "zh": "而且，信不信由你，我挺擅长这个的。"
+  },
+  {
+   "en": "I just don’t always listen the way people want me to.",
+   "zh": "我只是不总按人家想要的方式去听。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "We retreat to a nearby park bench and Ayane falls asleep on my shoulder.",
+   "zh": "我们挪到附近公园的长椅上，Ayane 靠在我肩上睡着了。"
+  },
+  {
+   "en": "Waiting for her to wake up does no good, so I’m forced to carry her back upstairs and bring her to bed.",
+   "zh": "等她醒来没用，所以我只好把她背回楼上，抱到床上。"
+  },
+  {
+   "en": "I realize halfway to her room that she’s either been faking it the whole time or woke up somewhere along the way, but I don’t say anything about it.",
+   "zh": "走到半路我才意识到，她要么一直都在装睡，要么半道上醒了——但我什么都没说。"
+  },
+  {
+   "en": "Even now, with nothing to listen to, I still find myself struggling when it comes to talking.",
+   "zh": "即便现在没什么可听的了，我说话这件事本身还是让我费劲。"
+  },
+  {
+   "en": "Thankfully, she says nothing. Even as I lay her down and pull her blanket over her.",
+   "zh": "幸好她什么也没说。哪怕在我把她放下、替她盖好被子的时候。"
+  },
+  {
+   "en": "I leave as if I was never here at all and return home as if I had never left.",
+   "zh": "我就像从未来过一样离开，又像从未离开过一样回家。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ ayane_love += 1",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Ayane’s affection has increased to [ayane_love]!",
+   "zh": "Ayane 的好感度提升到了 [ayane_love]！"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if day >= 6:",
+   "zh": ""
+  },
+  {
+   "en": "jump endofsat",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": "jump endofweekday",
+   "zh": ""
+  }
+ ]
 }

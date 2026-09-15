@@ -216,13 +216,13 @@ function renderItem(g, i, catName){
   let cat = catName ? '<span class="cat">'+esc(catName)+'</span>' : '';
   let cls = (g.missed && !g.missedTitles.length) ? 'item miss' : 'item';
   return '<div class="'+cls+'" onclick="openEvent('+i+','+g.index+')">'
-    + '<span class="t">'+dispTitle(g)+'</span>'+badge+cat+hint+'</div>';
+    + '<span class="t" data-lab="'+escA(g.label)+'">'+dispTitle(g)+'</span>'+badge+cat+hint+'</div>';
 }
 // 通用场景(*gen)条目：显示对应角色名；第三层走「组内闭环」(rel=2)，只在 220 条内部翻页
 function renderGenItem(g, i){
   let char = g.char ? '<span class="cat">'+esc(g.char)+'</span>' : '';
   return '<div class="item" onclick="openEvent('+i+','+g.index+',2)">'
-    + '<span class="t">'+dispTitle(g)+'</span>'+char+'</div>';
+    + '<span class="t" data-lab="'+escA(g.label)+'">'+dispTitle(g)+'</span>'+char+'</div>';
 }
 function openCat(i){
   const c = DATA[i];
@@ -254,7 +254,7 @@ function openCat(i){
 }
 function renderSmsItem(sms, i, k){
   return '<div class="item" onclick="openSms('+i+','+k+')">'
-    + '<span class="t">'+dispTitle(sms)+'</span></div>';
+    + '<span class="t" data-lab="'+escA(sms.label)+'">'+dispTitle(sms)+'</span></div>';
 }
 // 短信第三层：图片 + 对话（内容与事件同款标注，但不进入全局 prev/next 链）
 // 支持三语：sms.content 为英文骨架；若 context/events/{label}.json 存在则优先用其三语 lines 渲染
@@ -284,7 +284,7 @@ function openSms(i, k){
 function renderRelItem(e){
   let badge = e.missed ? '<span class="badge">⚠ 错过</span>' : '';
   return '<div class="item'+(e.missed?' miss':'')+'" onclick="openEvent('+e.ci+','+e.idx+',1)">'
-    + '<span class="t">'+dispTitle(e)+'</span>'+badge
+    + '<span class="t" data-lab="'+escA(e.label)+'">'+dispTitle(e)+'</span>'+badge
     + '<span class="relcat">'+esc(e.cat)+'</span></div>';
 }
 function openRelease(){
@@ -311,7 +311,7 @@ function renderVerItem(e){
     ? '<span class="hint"><span class="p">错过时显示「</span><b>'
       + esc(titles.join(' / ')) + '</b><span class="p">」</span></span>' : '';
   return '<div class="item'+(e.missed && !hasAlt ? ' miss':'')+'" onclick="openEvent('+e.ci+','+e.idx+',3)">'
-    + '<span class="t">'+dispTitle(e)+'</span>'+badge+hint
+    + '<span class="t" data-lab="'+escA(e.label)+'">'+dispTitle(e)+'</span>'+badge+hint
     + '<span class="relcat">'+esc(e.cat)+'</span></div>';
 }
 function verCard(version, sub, onclick){
@@ -365,14 +365,14 @@ function openEvent(i,idx,rel){
     nav = '<div class="evnav">';
     if(cur.prev){
       const p = cur.prev;
-      nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+',1)" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
+      nav += '<span class="navbtn" data-lab="'+escA(p.label)+'" onclick="openEvent('+p.ci+','+p.idx+',1)" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
     } else {
       nav += '<span class="navbtn disabled" title="已是本组第一个事件">← 上一个</span>';
     }
     nav += tag;
     if(cur.next){
       const n = cur.next;
-      nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+',1)" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
+      nav += '<span class="navbtn" data-lab="'+escA(n.label)+'" onclick="openEvent('+n.ci+','+n.idx+',1)" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
     } else {
       nav += '<span class="navbtn disabled" title="已是本组最后一个事件">下一个 →</span>';
     }
@@ -383,14 +383,14 @@ function openEvent(i,idx,rel){
     nav = '<div class="evnav">';
     if(it.prev){
       const p = it.prev;
-      nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+',2)" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
+      nav += '<span class="navbtn" data-lab="'+escA(p.label)+'" onclick="openEvent('+p.ci+','+p.idx+',2)" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
     } else {
       nav += '<span class="navbtn disabled" title="已是本组第一个">← 上一个</span>';
     }
     nav += tag;
     if(it.next){
       const n = it.next;
-      nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+',2)" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
+      nav += '<span class="navbtn" data-lab="'+escA(n.label)+'" onclick="openEvent('+n.ci+','+n.idx+',2)" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
     } else {
       nav += '<span class="navbtn disabled" title="已是本组最后一个">下一个 →</span>';
     }
@@ -403,13 +403,13 @@ function openEvent(i,idx,rel){
       nav = '<div class="evnav">';
       if(cur.prev){
         const p = cur.prev;
-        nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+')" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
+        nav += '<span class="navbtn" data-lab="'+escA(p.label)+'" onclick="openEvent('+p.ci+','+p.idx+')" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
       } else {
         nav += '<span class="navbtn disabled" title="无上一个事件">← 上一个</span>';
       }
       if(cur.next){
         const n = cur.next;
-        nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+')" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
+        nav += '<span class="navbtn" data-lab="'+escA(n.label)+'" onclick="openEvent('+n.ci+','+n.idx+')" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
       } else {
         nav += '<span class="navbtn disabled" title="无下一个事件">下一个 →</span>';
       }
@@ -422,7 +422,7 @@ function openEvent(i,idx,rel){
     ? '<span class="back" onclick="openRelease()">← 返回 '+esc(RELEASE.version)+' 版本更新事件</span>'
     : '<span class="back" onclick="openCat('+i+')">← 返回 '+esc(c.name)+'</span>';
   h += nav;
-  h += '<div class="meta"><b>'+dispTitle(it)+'</b>'
+  h += '<div class="meta"><b data-lab="'+escA(it.label)+'">'+dispTitle(it)+'</b>'
      + (it.missed?' &nbsp;<span class="badge">⚠ 可错过事件</span>':'')
      + ' &nbsp;·&nbsp; <code>'+esc(it.label)+'</code></div>';
   h += '<div class="content">'+it.content+'</div>';
@@ -585,7 +585,8 @@ function setLang(l){
   document.body.dataset.lang = l;
   localStorage.setItem("lil_lang", l);
   document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on", b.dataset.l===l));
-  if(_curView) _curView();   // 语言切换 → 重绘当前视图，标题随 LANG 切换
+  /* 不重渲染：正文显隐由 [data-lang] CSS 控制，标题就地刷新 → 滚动位置/阅读位置保持不变 */
+  refreshTitles();
 }
 function _esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
 
@@ -618,6 +619,36 @@ function titleMatches(g, q){
   return (zh ? zh.includes(q) : en.includes(q)) || alt.some(t=>t.includes(q));
 }
 
+/* label -> 事件对象 查找表（懒构建），供就地刷新标题用 */
+let _LABEL2ITEM = null;
+function _itemByLabel(label){
+  if(!_LABEL2ITEM){
+    _LABEL2ITEM = {};
+    DATA.forEach(c => (c.items||[]).forEach(it => { if(!_LABEL2ITEM[it.label]) _LABEL2ITEM[it.label] = it; }));
+    if(RELEASE && RELEASE.items) RELEASE.items.forEach(e => { if(!_LABEL2ITEM[e.label]) _LABEL2ITEM[e.label] = e; });
+    if(VERSIONS) VERSIONS.forEach(v => (v.items||[]).forEach(e => { if(!_LABEL2ITEM[e.label]) _LABEL2ITEM[e.label] = e; }));
+  }
+  return _LABEL2ITEM[label] || null;
+}
+/* 语言切换时就地刷新所有带 data-lab 的标题文字（列表项/meta标题/导航按钮），
+   不重渲染 DOM → 滚动位置、正文显隐（CSS 控制）完全不动，停在原位置。 */
+function refreshTitles(){
+  document.querySelectorAll('[data-lab]').forEach(el => {
+    const it = _itemByLabel(el.dataset.lab);
+    if(!it) return;
+    const isNav = el.classList && el.classList.contains('navbtn');
+    if(isNav){
+      // 导航按钮：重建文本（上一个/下一个 前缀 + 标题 + 箭头），并同步 title 提示
+      const isNext = /→\s*$/.test(el.textContent) || el.textContent.indexOf('下一个')===0;
+      const txt = dispTitleText(it);
+      el.textContent = (isNext ? '下一个：' : '← 上一个：') + txt + (isNext ? ' →' : '');
+      el.setAttribute('title', txt);
+    } else {
+      el.innerHTML = dispTitle(it);
+    }
+  });
+}
+
 /* 拉取某事件的对照 JSON（带缓存） */
 const _evReady = {};   // label -> [回调]，数据就绪后触发（用于无缝渲染）
 function _fetchJson(url, tries){
@@ -645,6 +676,32 @@ function fetchEvent(label){
     })
     .catch(e => ({label:label, title_zh:"", lines:[], _err:String(e && e.status ? "HTTP "+e.status : e)}));
   return _evCache[label];
+}
+
+/* ===== 译文缓存精准同步（替代 SW bump；移植自 guide.html v8 设计）=====
+ * 开机拉全量版本清单 evtver.json（no-store 直连最新），与本地 lastSeen 比对，
+ * 只删除「哈希对不上 / 已被移除」的事件 SW 缓存条目；没改的永久秒出。
+ * 缓存有界（一份/事件）、不涨不漏。图片缓存(lil-img)永不碰。
+ * 注意：缓存名 'lil-evt-v6' 必须与 sw.js 的 CACHE_EVT 保持一致。 */
+const _EVT_VER_KEY = "lil_evt_lastseen";
+function _syncEvtCache(){
+  if(!('caches' in window)) return;
+  fetch(EVENTS_BASE + "/evtver.json", {cache:'no-store'}).then(r => {
+    if(!r.ok) throw 0;
+    return r.json();
+  }).then(ver => {
+    let seen;
+    try { seen = JSON.parse(localStorage.getItem(_EVT_VER_KEY) || "{}"); } catch(e){ seen = {}; }
+    const dirty = [];
+    for(const id in ver)  if(seen[id] !== ver[id]) dirty.push(id);  // 译文变了 → 该条目失效
+    for(const id in seen) if(!(id in ver))        dirty.push(id);  // 事件被删 → 清残留
+    if(!dirty.length){ localStorage.setItem(_EVT_VER_KEY, JSON.stringify(ver)); return; }
+    caches.open('lil-evt-v6').then(c => {
+      Promise.all(dirty.map(id =>
+        c.delete(EVENTS_BASE + "/" + encodeURIComponent(id) + ".json").catch(function(){})
+      )).then(function(){ localStorage.setItem(_EVT_VER_KEY, JSON.stringify(ver)); }).catch(function(){});
+    }).catch(function(){});
+  }).catch(function(){});
 }
 
 /* ===== 智能预取 + 空闲全量预载（不影响交互） ===== */
@@ -698,8 +755,9 @@ function _prefetchNeighbors(it){
   if(it.prev && it.prev.title) fetchEvent(it.prev.title);
   if(it.next && it.next.title) fetchEvent(it.next.title);
 }
-if(document.readyState === "complete") setTimeout(_startPreload, 800);
-else window.addEventListener("load", function(){ setTimeout(_startPreload, 800); });
+function _boot(){ _syncEvtCache(); setTimeout(_startPreload, 800); }
+if(document.readyState === "complete") _boot();
+else window.addEventListener("load", _boot);
 
 /* 把 lines 渲染成与原版一致的 DOM 结构：
    对话行(有spk): .l > .s[颜色] + .d   （同原版）
@@ -772,7 +830,7 @@ function renderLinesChunked(lines, contentBox){
 /* 包装 openEvent：正文改为按需 fetch 渲染；标题随 LANG 切换（dispTitle） */
 const _openEvent_orig = openEvent;
 openEvent = function(i, idx, rel){
-  _curView = function(){ _openEvent_orig(i, idx, rel); };
+  _curView = function(){ openEvent(i, idx, rel); };   // 语言切换重开事件须走包装版（重新 fetch 填正文），否则正文 undefined
   const c = DATA[i], it = c.items[idx];
   if(it && it.hasContent){
     const label = it.label;

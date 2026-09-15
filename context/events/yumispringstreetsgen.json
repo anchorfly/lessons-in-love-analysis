@@ -1,114 +1,114 @@
 {
-  "label": "yumispringstreetsgen",
-  "title_zh": "",
-  "lines": [
-    {
-      "en": "label yumispringstreetsgen:",
-      "zh": ""
-    },
-    {
-      "en": "scene yumispringstreetsgen",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/yumispringstreetsgen.webp",
-      "alt": "yumispringstreetsgen"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Like clockwork, I wind up bumping into Yumi after just a few minutes of wandering the streets.",
-      "zh": ""
-    },
-    {
-      "en": "And while I’d like to say that I think it’s good that she isn’t intentionally trying to avoid me anymore, I can not. For the second she sees me approaching, she gets up to walk away.",
-      "zh": ""
-    },
-    {
-      "en": "Somehow or another, though, I wind up convincing her to stick around and the two of us proceed to make scattered pointless conversation that, to anyone else, would make it seem like we dislike each other.",
-      "zh": ""
-    },
-    {
-      "en": "And I think we might.",
-      "zh": ""
-    },
-    {
-      "en": "But I also think that's what keeps bringing us together since it makes it easier to forget about the things we hate about ourselves.",
-      "zh": ""
-    },
-    {
-      "en": "The truth is that things might stay this way forever. That we not only might never come to rely on each other, but that we might never even want to see one another.",
-      "zh": ""
-    },
-    {
-      "en": "Maybe that's enough. Maybe it's not. I don't know.",
-      "zh": ""
-    },
-    {
-      "en": "But what I do know is that if she keeps getting caught in the webs spun by my half-hearted pleas for her to stay, she'll be too exhausted to try and wiggle herself out soon enough.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "All I have to do is wait until I can devour her.",
-      "zh": ""
-    },
-    {
-      "en": "Or, better yet-",
-      "zh": ""
-    },
-    {
-      "en": "Wait for her to want me to.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ yumi_love += 1",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Yumi’s affection has increased to [yumi_love]!",
-      "zh": ""
-    },
-    {
-      "en": ".........",
-      "zh": ""
-    },
-    {
-      "en": "......",
-      "zh": ""
-    },
-    {
-      "en": "...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump nightch4",
-      "zh": ""
-    }
-  ]
+ "label": "yumispringstreetsgen",
+ "title_zh": "困在网里",
+ "lines": [
+  {
+   "en": "label yumispringstreetsgen:",
+   "zh": ""
+  },
+  {
+   "en": "scene yumispringstreetsgen",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/yumispringstreetsgen.webp",
+   "alt": "yumispringstreetsgen"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Like clockwork, I wind up bumping into Yumi after just a few minutes of wandering the streets.",
+   "zh": "像上了发条一样，我在街上晃了没几分钟就撞见了 Yumi。"
+  },
+  {
+   "en": "And while I’d like to say that I think it’s good that she isn’t intentionally trying to avoid me anymore, I can not. For the second she sees me approaching, she gets up to walk away.",
+   "zh": "虽然我很想说，我觉得她不再刻意躲我这件事挺好的，但我说不出口。因为她一看见我靠近，就起身要走。"
+  },
+  {
+   "en": "Somehow or another, though, I wind up convincing her to stick around and the two of us proceed to make scattered pointless conversation that, to anyone else, would make it seem like we dislike each other.",
+   "zh": "可不知怎么的，我还是说服她留了下来，我们俩开始东一句西一句地聊些毫无意义的废话——在旁人看来，我们大概像是互相讨厌。"
+  },
+  {
+   "en": "And I think we might.",
+   "zh": "而且我觉得我们可能真的互相讨厌。"
+  },
+  {
+   "en": "But I also think that's what keeps bringing us together since it makes it easier to forget about the things we hate about ourselves.",
+   "zh": "但我也觉得，正是这一点让我们一次次凑到一起，因为这样更容易忘掉我们讨厌自己的那些东西。"
+  },
+  {
+   "en": "The truth is that things might stay this way forever. That we not only might never come to rely on each other, but that we might never even want to see one another.",
+   "zh": "真相是，事情也许会永远这样下去。我们不仅可能永远不会依赖彼此，甚至可能永远都不想见到对方。"
+  },
+  {
+   "en": "Maybe that's enough. Maybe it's not. I don't know.",
+   "zh": "也许这样就够了。也许不够。我不知道。"
+  },
+  {
+   "en": "But what I do know is that if she keeps getting caught in the webs spun by my half-hearted pleas for her to stay, she'll be too exhausted to try and wiggle herself out soon enough.",
+   "zh": "但我知道的是，如果她一直陷在我那些半心半意的挽留所织出的网里，她很快就会累得没力气再挣扎出去了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "All I have to do is wait until I can devour her.",
+   "zh": "我要做的，就是等——等到我把她吞下去的那一天。"
+  },
+  {
+   "en": "Or, better yet-",
+   "zh": "或者更好的是——"
+  },
+  {
+   "en": "Wait for her to want me to.",
+   "zh": "等她想要我这么做。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ yumi_love += 1",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Yumi’s affection has increased to [yumi_love]!",
+   "zh": "Yumi 的好感度提升到了 [yumi_love]!"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump nightch4",
+   "zh": ""
+  }
+ ]
 }
