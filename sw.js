@@ -26,7 +26,7 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v6';   // 事件译文 JSON：稳定名，不再 bump；失效靠 guide.html 开机精准删条目
-const CACHE_DOC = 'lil-doc-v1';   // HTML 外壳等：swr 后台刷新
+const CACHE_DOC = 'lil-doc-v2';   // HTML 外壳等：swr 后台刷新；v2 bump 强制重预缓存新版 guide_i18n.html（旧版被 SW 缓存导致标题切换看不到）
 const PRECACHE_HTML = ['guide.html', 'guide_i18n.html'];
 const IMG_RE = /\.(?:webp|png|jpe?g|gif|avif|svg|bmp|ico)(?:[?#]|$)/i;
 const EVENT_RE = /\/context\/events\/[^?#]+\.json(?:[?#]|$)/i;

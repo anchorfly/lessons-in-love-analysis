@@ -216,13 +216,13 @@ function renderItem(g, i, catName){
   let cat = catName ? '<span class="cat">'+esc(catName)+'</span>' : '';
   let cls = (g.missed && !g.missedTitles.length) ? 'item miss' : 'item';
   return '<div class="'+cls+'" onclick="openEvent('+i+','+g.index+')">'
-    + '<span class="t">'+esc(g.title)+'</span>'+badge+cat+hint+'</div>';
+    + '<span class="t">'+dispTitle(g)+'</span>'+badge+cat+hint+'</div>';
 }
 // 通用场景(*gen)条目：显示对应角色名；第三层走「组内闭环」(rel=2)，只在 220 条内部翻页
 function renderGenItem(g, i){
   let char = g.char ? '<span class="cat">'+esc(g.char)+'</span>' : '';
   return '<div class="item" onclick="openEvent('+i+','+g.index+',2)">'
-    + '<span class="t">'+esc(g.title)+'</span>'+char+'</div>';
+    + '<span class="t">'+dispTitle(g)+'</span>'+char+'</div>';
 }
 function openCat(i){
   const c = DATA[i];
@@ -254,15 +254,15 @@ function openCat(i){
 }
 function renderSmsItem(sms, i, k){
   return '<div class="item" onclick="openSms('+i+','+k+')">'
-    + '<span class="t">'+esc(sms.title)+'</span></div>';
+    + '<span class="t">'+dispTitle(sms)+'</span></div>';
 }
 // 短信第三层：图片 + 对话（内容与事件同款标注，但不进入全局 prev/next 链）
 // 支持三语：sms.content 为英文骨架；若 context/events/{label}.json 存在则优先用其三语 lines 渲染
 function openSms(i, k){
   const c = DATA[i], sms = c.sms[k];
-  setCrumbs([{label:c.name, onClick:'openCat('+i+')'},{label:sms.title}]);
+  setCrumbs([{label:c.name, onClick:'openCat('+i+')'},{label:dispTitleText(sms)}]);
   let h = '<span class="back" onclick="openCat('+i+')">← 返回 '+esc(c.name)+'</span>';
-  h += '<div class="meta"><b>'+esc(sms.title)+'</b>'
+  h += '<div class="meta"><b>'+dispTitle(sms)+'</b>'
      + ' &nbsp;·&nbsp; <code>'+esc(sms.label)+'</code> &nbsp;·&nbsp; 短信</div>';
   h += '<div class="content">'+sms.content+'</div>';
   main.innerHTML = h;
@@ -273,12 +273,8 @@ function openSms(i, k){
     if(!contentBox || !contentBox.isConnected) return;
     if(d && d.lines && d.lines.length){
       renderLinesChunked(d.lines, contentBox);
-      if(d.title_zh){
-        const meta = main.querySelector('.meta');
-        if(meta && !meta.querySelector('.ttl-zh') && document.body.dataset.lang !== 'en'){
-          meta.insertAdjacentHTML('beforeend', ' &nbsp;<span class="ttl-zh" style="color:var(--muted)">'+_esc(d.title_zh)+'</span>');
-        }
-      }
+      const meta = main.querySelector('.meta');
+      if(meta){ const b = meta.querySelector('b'); if(b) b.innerHTML = dispTitle(sms); }
     }
   };
   if(_evCache[label]) Promise.resolve(_evCache[label]).then(fill);
@@ -288,7 +284,7 @@ function openSms(i, k){
 function renderRelItem(e){
   let badge = e.missed ? '<span class="badge">⚠ 错过</span>' : '';
   return '<div class="item'+(e.missed?' miss':'')+'" onclick="openEvent('+e.ci+','+e.idx+',1)">'
-    + '<span class="t">'+esc(e.title)+'</span>'+badge
+    + '<span class="t">'+dispTitle(e)+'</span>'+badge
     + '<span class="relcat">'+esc(e.cat)+'</span></div>';
 }
 function openRelease(){
@@ -315,7 +311,7 @@ function renderVerItem(e){
     ? '<span class="hint"><span class="p">错过时显示「</span><b>'
       + esc(titles.join(' / ')) + '</b><span class="p">」</span></span>' : '';
   return '<div class="item'+(e.missed && !hasAlt ? ' miss':'')+'" onclick="openEvent('+e.ci+','+e.idx+',3)">'
-    + '<span class="t">'+esc(e.title)+'</span>'+badge+hint
+    + '<span class="t">'+dispTitle(e)+'</span>'+badge+hint
     + '<span class="relcat">'+esc(e.cat)+'</span></div>';
 }
 function verCard(version, sub, onclick){
@@ -355,11 +351,11 @@ function openEvent(i,idx,rel){
   if(inVer){
     const v = VERSIONS[curVer];
     setCrumbs([{label:'历史版本事件', onClick:'openVersions()'},
-               {label:v.version, onClick:'openVersion('+curVer+')'},{label:it.title}]);
+               {label:v.version, onClick:'openVersion('+curVer+')'},{label:dispTitleText(it)}]);
   } else if(inRel){
-    setCrumbs([{label:RELEASE.version+' 版本更新事件', onClick:'openRelease()'},{label:it.title}]);
+    setCrumbs([{label:RELEASE.version+' 版本更新事件', onClick:'openRelease()'},{label:dispTitleText(it)}]);
   } else {
-    setCrumbs([{label:c.name, onClick:'openCat('+i+')'},{label:it.title}]);
+    setCrumbs([{label:c.name, onClick:'openCat('+i+')'},{label:dispTitleText(it)}]);
   }
   let nav = '';
   if(inRel){
@@ -369,14 +365,14 @@ function openEvent(i,idx,rel){
     nav = '<div class="evnav">';
     if(cur.prev){
       const p = cur.prev;
-      nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+',1)" title="'+escA(p.title)+'">← 上一个：'+esc(p.title)+'</span>';
+      nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+',1)" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
     } else {
       nav += '<span class="navbtn disabled" title="已是本组第一个事件">← 上一个</span>';
     }
     nav += tag;
     if(cur.next){
       const n = cur.next;
-      nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+',1)" title="'+escA(n.title)+'">下一个：'+esc(n.title)+' →</span>';
+      nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+',1)" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
     } else {
       nav += '<span class="navbtn disabled" title="已是本组最后一个事件">下一个 →</span>';
     }
@@ -387,14 +383,14 @@ function openEvent(i,idx,rel){
     nav = '<div class="evnav">';
     if(it.prev){
       const p = it.prev;
-      nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+',2)" title="'+escA(p.title)+'">← 上一个：'+esc(p.title)+'</span>';
+      nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+',2)" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
     } else {
       nav += '<span class="navbtn disabled" title="已是本组第一个">← 上一个</span>';
     }
     nav += tag;
     if(it.next){
       const n = it.next;
-      nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+',2)" title="'+escA(n.title)+'">下一个：'+esc(n.title)+' →</span>';
+      nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+',2)" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
     } else {
       nav += '<span class="navbtn disabled" title="已是本组最后一个">下一个 →</span>';
     }
@@ -407,13 +403,13 @@ function openEvent(i,idx,rel){
       nav = '<div class="evnav">';
       if(cur.prev){
         const p = cur.prev;
-        nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+')" title="'+escA(p.title)+'">← 上一个：'+esc(p.title)+'</span>';
+        nav += '<span class="navbtn" onclick="openEvent('+p.ci+','+p.idx+')" title="'+escA(dispTitleText(p))+'">← 上一个：'+esc(dispTitleText(p))+'</span>';
       } else {
         nav += '<span class="navbtn disabled" title="无上一个事件">← 上一个</span>';
       }
       if(cur.next){
         const n = cur.next;
-        nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+')" title="'+escA(n.title)+'">下一个：'+esc(n.title)+' →</span>';
+        nav += '<span class="navbtn" onclick="openEvent('+n.ci+','+n.idx+')" title="'+escA(dispTitleText(n))+'">下一个：'+esc(dispTitleText(n))+' →</span>';
       } else {
         nav += '<span class="navbtn disabled" title="无下一个事件">下一个 →</span>';
       }
@@ -426,7 +422,7 @@ function openEvent(i,idx,rel){
     ? '<span class="back" onclick="openRelease()">← 返回 '+esc(RELEASE.version)+' 版本更新事件</span>'
     : '<span class="back" onclick="openCat('+i+')">← 返回 '+esc(c.name)+'</span>';
   h += nav;
-  h += '<div class="meta"><b>'+esc(it.title)+'</b>'
+  h += '<div class="meta"><b>'+dispTitle(it)+'</b>'
      + (it.missed?' &nbsp;<span class="badge">⚠ 可错过事件</span>':'')
      + ' &nbsp;·&nbsp; <code>'+esc(it.label)+'</code></div>';
   h += '<div class="content">'+it.content+'</div>';
@@ -441,7 +437,7 @@ function runSearch(q, mode){
   DATA.forEach((c,ci)=>{
     groupItems(c.items).forEach(g=>{
       let hit = mode==='title'
-        ? (g.title.toLowerCase().includes(q) || g.missedTitles.some(t=>t.toLowerCase().includes(q)))
+        ? titleMatches(g,q)
         : g.label.toLowerCase().includes(q);
       if(hit) res.push({ci,c,g});
     });
@@ -581,14 +577,46 @@ goHome();
 const EVENTS_BASE = "context/events";
 let LANG = localStorage.getItem("lil_lang") || "zh";
 const _evCache = {};   // label -> Promise<json>
+var ZH_TITLE = {};     // label -> 中文标题（fetchEvent 解析后填充；无译文则留空，回退英文）
+let _curView = function(){ goHome(); };   // 当前视图重绘闭包，供语言切换时刷新标题
 
 function setLang(l){
   LANG = l;
   document.body.dataset.lang = l;
   localStorage.setItem("lil_lang", l);
   document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on", b.dataset.l===l));
+  if(_curView) _curView();   // 语言切换 → 重绘当前视图，标题随 LANG 切换
 }
 function _esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+
+/* 事件标题按 LANG 切换：zh→中文(无译文回退英文) / en→英文 / bi→中文为主+英文副行 */
+function dispTitle(item){
+  const en = (item && item.title) || "";
+  const zh = (item && item.label) ? (ZH_TITLE[item.label] || "") : "";
+  if(LANG === 'en') return _esc(en);
+  if(LANG === 'bi'){
+    const main = zh || en;
+    const sec = (zh && zh !== en) ? ' <span class="ttl-en" style="color:var(--muted);font-weight:normal">'+_esc(en)+'</span>' : '';
+    return _esc(main) + sec;
+  }
+  return _esc(zh || en);
+}
+function dispTitleText(item){
+  const en = (item && item.title) || "";
+  const zh = (item && item.label) ? (ZH_TITLE[item.label] || "") : "";
+  if(LANG === 'en') return en;
+  if(LANG === 'bi') return (zh || en) + ((zh && zh !== en) ? ' ('+en+')' : '');
+  return zh || en;
+}
+/* 双语搜索：当前语言下「事件标题」是否命中查询 q（en/bi 含英文；zh 含中文，无译文则英文可搜；missedTitles 始终参与） */
+function titleMatches(g, q){
+  const en = (g.title||"").toLowerCase();
+  const zh = (g.label ? (ZH_TITLE[g.label]||"") : "").toLowerCase();
+  const alt = (g.missedTitles||[]).map(t=>t.toLowerCase());
+  if(LANG === 'en') return en.includes(q) || alt.some(t=>t.includes(q));
+  if(LANG === 'bi') return en.includes(q) || zh.includes(q) || alt.some(t=>t.includes(q));
+  return (zh ? zh.includes(q) : en.includes(q)) || alt.some(t=>t.includes(q));
+}
 
 /* 拉取某事件的对照 JSON（带缓存） */
 const _evReady = {};   // label -> [回调]，数据就绪后触发（用于无缝渲染）
@@ -610,6 +638,7 @@ function fetchEvent(label){
   if(_evCache[label]) return _evCache[label];
   _evCache[label] = _fetchJson(EVENTS_BASE + "/" + encodeURIComponent(label) + ".json", 0)
     .then(d => {
+      ZH_TITLE[label] = (d && d.title_zh) ? d.title_zh : "";
       const cbs = _evReady[label] || []; delete _evReady[label];
       cbs.forEach(f => { try{ f(d); }catch(e){} });
       return d;
@@ -621,7 +650,7 @@ function fetchEvent(label){
 /* ===== 智能预取 + 空闲全量预载（不影响交互） ===== */
 const _ric = window.requestIdleCallback || function(cb){ return setTimeout(function(){ cb({timeRemaining:function(){return 8;}}); }, 200); };
 const _allLabels = [];   // 全部事件 label（懒初始化）
-let _preloadIdx = 0, _preloadStarted = false;
+let _preloadIdx = 0, _preloadStarted = false, _preloadDone = false;
 function _collectLabels(){
   if(_allLabels.length) return;
   for(const c of DATA) for(const it of (c.items||[])) if(it.hasContent) _allLabels.push(it.label);
@@ -634,7 +663,14 @@ function _preloadPump(){
   while(_preloadActive < _PRELOAD_CONCURRENCY && _preloadIdx < _allLabels.length){
     const label = _allLabels[_preloadIdx++];
     _preloadActive++;
-    fetchEvent(label).then(() => { _preloadActive--; _ric(_preloadPump); });
+    fetchEvent(label).then(() => {
+      _preloadActive--;
+      if(_preloadIdx >= _allLabels.length && _preloadActive === 0 && !_preloadDone){
+        _preloadDone = true;
+        _curView && _curView();   // 全量预载完成 → 用最新 ZH_TITLE 重绘当前视图标题
+      }
+      _ric(_preloadPump);
+    });
   }
 }
 /* 首页图片（分类头像 .cicon）全部加载完成后，才启动 JSON 预载——
@@ -733,29 +769,19 @@ function renderLinesChunked(lines, contentBox){
   requestAnimationFrame(step);
 }
 
-/* 包装 openEvent：正文改为按需 fetch 渲染 */
+/* 包装 openEvent：正文改为按需 fetch 渲染；标题随 LANG 切换（dispTitle） */
 const _openEvent_orig = openEvent;
 openEvent = function(i, idx, rel){
+  _curView = function(){ _openEvent_orig(i, idx, rel); };
   const c = DATA[i], it = c.items[idx];
   if(it && it.hasContent){
     const label = it.label;
-    /* 渲染标题副行（中文标题） */
-    function renderMetaZh(d){
-      if(!d.title_zh) return;
-      const meta = document.querySelector(".meta");
-      if(meta && !meta.querySelector(".ttl-zh") && document.body.dataset.lang !== "en"){
-        meta.insertAdjacentHTML("beforeend", ' &nbsp;<span class="ttl-zh" style="color:var(--muted)">'+_esc(d.title_zh)+'</span>');
-      }
-    }
     if(_evCache[label]){
       /* 已缓存：无缝渲染，完全不出现「加载中」 */
       _openEvent_orig(i, idx, rel);
       const contentBox = document.querySelector(".content");
       Promise.resolve(_evCache[label]).then(d => {
-        if(contentBox && contentBox.isConnected){
-          renderLinesChunked(d.lines || [], contentBox);
-          renderMetaZh(d);
-        }
+        if(contentBox && contentBox.isConnected) renderLinesChunked(d.lines || [], contentBox);
       });
     } else {
       /* 未缓存：先出骨架+加载提示，数据就绪后填充 */
@@ -765,10 +791,7 @@ openEvent = function(i, idx, rel){
       it.content = savedContent;
       const contentBox = document.querySelector(".content");
       (_evReady[label] = _evReady[label] || []).push(function(d){
-        if(contentBox && contentBox.isConnected){
-          renderLinesChunked(d.lines || [], contentBox);
-          renderMetaZh(d);
-        }
+        if(contentBox && contentBox.isConnected) renderLinesChunked(d.lines || [], contentBox);
       });
       fetchEvent(label);
     }
@@ -778,6 +801,18 @@ openEvent = function(i, idx, rel){
     _openEvent_orig(i, idx, rel);
   }
 };
+
+/* 记录当前视图（含参数），供语言切换时重绘标题（标题随 LANG 切换）。
+   注意：openEvent 已在上方包装并设置 _curView；此处补其余导航入口。 */
+(function(){
+  const _oc = openCat;       openCat = function(i){ _curView = function(){ _oc(i); }; _oc(i); };
+  const _or = openRelease;   openRelease = function(){ _curView = function(){ _or(); }; _or(); };
+  const _ovs = openVersions; openVersions = function(){ _curView = function(){ _ovs(); }; _ovs(); };
+  const _ov = openVersion;   openVersion = function(k){ _curView = function(){ _ov(k); }; _ov(k); };
+  const _os = openSms;       openSms = function(i,k){ _curView = function(){ _os(i,k); }; _os(i,k); };
+  const _rs = runSearch;     runSearch = function(q,m){ _curView = function(){ _rs(q,m); }; _rs(q,m); };
+  const _gh = goHome;        goHome = function(){ _curView = function(){ _gh(); }; _gh(); };
+})();
 
 /* 初始化语言 */
 (function(){
