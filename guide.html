@@ -635,8 +635,33 @@ function _prefetchNeighbors(it){
   if(it.prev && it.prev.title) fetchEvent(it.prev.title);
   if(it.next && it.next.title) fetchEvent(it.next.title);
 }
-if(document.readyState === "complete") setTimeout(_startPreload, 800);
-else window.addEventListener("load", function(){ setTimeout(_startPreload, 800); });
+/* ===== 译文缓存精准同步（替代 SW bump）=====
+ * 开机拉全量版本清单 evtver.json（no-store 直连最新），与本地 lastSeen 比对，
+ * 只删除「哈希对不上 / 已被移除」的事件 SW 缓存条目；没改的永久秒出。
+ * 缓存有界（一份/事件）、不涨不漏。图片缓存(lil-img)永不碰。
+ * 注意：缓存名 'lil-evt-v6' 必须与 sw.js 的 CACHE_EVT 保持一致。 */
+const _EVT_VER_KEY = "lil_evt_lastseen";
+function _syncEvtCache(){
+  if(!('caches' in window)) return;
+  fetch(EVENTS_BASE + "/evtver.json", {cache:'no-store'}).then(r => {
+    if(!r.ok) throw 0;
+    return r.json();
+  }).then(ver => {
+    let seen;
+    try { seen = JSON.parse(localStorage.getItem(_EVT_VER_KEY) || "{}"); } catch(e){ seen = {}; }
+    const dirty = [];
+    for(const id in ver)  if(seen[id] !== ver[id]) dirty.push(id);  // 译文变了 → 该条目失效
+    for(const id in seen) if(!(id in ver))        dirty.push(id);  // 事件被删 → 清残留
+    if(!dirty.length){ localStorage.setItem(_EVT_VER_KEY, JSON.stringify(ver)); return; }
+    caches.open('lil-evt-v6').then(c => {
+      Promise.all(dirty.map(id =>
+        c.delete(EVENTS_BASE + "/" + encodeURIComponent(id) + ".json").catch(function(){})
+      )).then(function(){ localStorage.setItem(_EVT_VER_KEY, JSON.stringify(ver)); }).catch(function(){});
+    }).catch(function(){});
+  }).catch(function(){});
+}
+if(document.readyState === "complete") { _syncEvtCache(); setTimeout(_startPreload, 800); }
+else window.addEventListener("load", function(){ _syncEvtCache(); setTimeout(_startPreload, 800); });
 
 /* 把 lines 渲染成与原版一致的 DOM 结构：
    对话行(有spk): .l > .s[颜色] + .d   （同原版）
