@@ -759,6 +759,18 @@ document.body.dataset.lang = "en";
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js').catch(function(){});
 }
+// 请求持久化存储：授权后 Chrome 不会在磁盘压力下自动清掉 Cache Storage 里的 4.76GB 图片
+// （否则图片缓存会"一会儿"就被浏览器驱逐，表现为每次重下）
+if (navigator.storage && navigator.storage.persist) {
+  navigator.storage.persist().then(function(ok){
+    if (ok) { console.log('[LIL] 已获持久化存储：图片缓存不会被自动清理'); }
+    else if (navigator.storage.estimate) {
+      navigator.storage.estimate().then(function(e){
+        console.log('[LIL] 存储未持久化（用户未授权），已用', (e.usage/1048576|0), 'MB / 配额', (e.quota/1048576|0), 'MB —— 图片可能被浏览器清理');
+      }).catch(function(){});
+    }
+  }).catch(function(){});
+}
 </script>
 </body>
 </html>
