@@ -1,6 +1,6 @@
 {
   "label": "chikaonsen1",
-  "title_zh": "温泉",
+  "title_zh": "小小的奇迹",
   "lines": [
     {
       "en": ""
@@ -71,10 +71,10 @@
       "zh": ": 真的吗？你周末不是都要上班吗？"
     },
     {
-      "en": ": Yup! But I had a feeling that today was gonna be that day, you know?",
+      "en": ": Yup! But I had a feeling that today was gonna be {i}that{/i} day, you know?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 对啊！不过我有种预感今天会是那个日子，你懂吧？"
+      "zh": ": 对啊！不过我有种预感今天会是{i}那个{/i}日子，你懂吧？"
     },
     {
       "en": ": ...Your period?",
@@ -108,12 +108,12 @@
       "en": ""
     },
     {
-      "en": "Saying “Yes” will trigger a four part event that will last until Sunday morning.",
-      "zh": "选「是」将触发一个四段式事件，一直持续到周日早上。"
+      "en": "{i}Saying “Yes” will trigger a four part event that will last until Sunday morning.{/i}",
+      "zh": "{i}选「是」将触发一个四段式事件，一直持续到周日早上。{/i}"
     },
     {
-      "en": "Are you absolutely sure you’re ready to go?",
-      "zh": "你确定准备好出发了吗？"
+      "en": "{i}Are you absolutely sure you’re ready to go?{/i}",
+      "zh": "{i}你确定准备好出发了吗？{/i}"
     },
     {
       "en": ""
@@ -498,10 +498,10 @@
       "en": ""
     },
     {
-      "en": ": What if I wanted this to be a completely wholesome weekend without any of those extra-curricular activities you’ve started having me do?",
+      "en": ": What if I wanted this to be a completely wholesome weekend without any of those {i}extra-curricular{/i} activities you’ve started having me do?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 要是我想过一个完全纯洁的周末，不搞你最近让我做的那些课外活动呢？"
+      "zh": ": 要是我想过一个完全纯洁的周末，不搞你最近让我做的那些{i}课外{/i}活动呢？"
     },
     {
       "en": ": I’d say that you should probably put on normal clothes because it is hard to not get excited right now.",
@@ -510,10 +510,10 @@
       "zh": ": 那我会说你最好换回普通衣服，因为你现在这个样子很难不激动。"
     },
     {
-      "en": ": Just don’t get too excited or someone’s bound to notice.",
+      "en": ": Just don’t get {i}too{/i} excited or someone’s bound to notice.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 别激动过头就行，不然肯定会被人注意到的。"
+      "zh": ": 别激动{i}过头{/i}就行，不然肯定会被人注意到的。"
     },
     {
       "en": "scene firstonsen4",
@@ -685,10 +685,10 @@
       "zh": ": 哦？"
     },
     {
-      "en": ": So I didn’t just hear you talking about being a wizard again?",
+      "en": ": So I {i}didn’t{/i} just hear you talking about being a wizard again?",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ": 那我刚才没听到你又在说自己是法师？"
+      "zh": ": 那我刚才{i}没{/i}听到你又在说自己是法师？"
     },
     {
       "en": ": Whatever do you mean, Mother? Why would I ever say something as silly as that?",
@@ -769,10 +769,10 @@
       "zh": ": 我叫 Tsubasa。我想你已经从我女儿那儿听过我们的姓氏了。"
     },
     {
-      "en": ": We do own this building, but we’re not here very often.",
+      "en": ": We {i}do{/i} own this building, but we’re not here very often.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 这栋楼确实是我们的，但我们不常来。"
+      "zh": ": 这栋楼{i}确实{/i}是我们的，但我们不常来。"
     },
     {
       "en": ": We just happen to be on a little retreat right now as my husband renovates our own hot spring.",
@@ -949,10 +949,10 @@
       "en": ""
     },
     {
-      "en": ": I’m not laughing at them, Tsukasa dear. I’m laughing because Sensei said something funny.",
+      "en": ": I’m not laughing {i}at{/i} them, Tsukasa dear. I’m laughing because Sensei said something funny.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 我没在嘲笑他们，Tsukasa 亲爱的。我笑是因为 Sensei 说了句好笑的话。"
+      "zh": ": 我没在{i}嘲笑{/i}他们，Tsukasa 亲爱的。我笑是因为 Sensei 说了句好笑的话。"
     },
     {
       "en": ": Now, come with me and leave these two alone. I’m sure they didn’t come all the way here to converse with a little girl and an old woman.",
@@ -982,10 +982,10 @@
       "en": ""
     },
     {
-      "en": ": Apologies, again. I meant older than your...tastes, given the lovely [young_girl] you’ve shown up with.",
+      "en": ": Apologies, again. I meant {i}older{/i} than your...tastes, given the lovely [young_girl] you’ve shown up with.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 再次抱歉。我是说，比起你带来的这位可爱的[年轻女孩]，我比你……的口味要年长一些。"
+      "zh": ": 再次抱歉。我是说，比起你带来的这位可爱的[年轻女孩]，我比你……的口味要{i}年长{/i}一些。"
     },
     {
       "en": ": Now, please do excuse us.",
@@ -1055,10 +1055,10 @@
       "zh": ": 那真是……呃……有意思。"
     },
     {
-      "en": ": Do you think she knows we’re like...here together?",
+      "en": ": Do you think she knows we’re like...here {i}together?{/i}",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 你觉得她知不知道我们是……一起来的？"
+      "zh": ": 你觉得她知不知道我们是……{i}一起{/i}来的？"
     },
     {
       "en": ": I’m fairly sure that much was obvious.",
@@ -1073,10 +1073,10 @@
       "zh": ": 我更惊讶的是她对一切那么坦然。"
     },
     {
-      "en": ": Heheh...maybe we just look that good as a couple?",
+      "en": ": Heheh...maybe we just look {i}that{/i} good as a couple?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 嘿嘿……也许是我们俩看起来就是那么登对？"
+      "zh": ": 嘿嘿……也许是我们俩看起来就是{i}那么{/i}登对？"
     },
     {
       "en": ": Yeah.",
@@ -1311,10 +1311,10 @@
       "zh": ": 鬼才知道。这是你的旅行。"
     },
     {
-      "en": ": Not like there’s much to do here other than like...relax or bathe.",
+      "en": ": Not like there’s much {i}to{/i} do here other than like...relax or bathe.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 反正这儿除了……放松或者泡澡，也没什么可做的。"
+      "zh": ": 反正这儿除了……放松或者泡澡，也没什么{i}可做的{/i}。"
     },
     {
       "en": ""
@@ -1532,10 +1532,10 @@
       "en": ""
     },
     {
-      "en": ": I would have preferred you being in a yukata for it since I do think that would be really hot...",
+      "en": ": I would have preferred you being in a yukata for it since I {i}do{/i} think that would be really hot...",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 我本来是更希望你穿浴衣的，因为我觉得那样会很性感……"
+      "zh": ": 我本来{i}是{/i}更希望你穿浴衣的，因为我觉得那样会很性感……"
     },
     {
       "en": ": But I wanna do it either way.",
@@ -1728,10 +1728,10 @@
       "zh": ": 而且——"
     },
     {
-      "en": ": I really...fucking want it...",
+      "en": ": I {i}really{/i}...fucking want it...",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 我真的……特别想要……"
+      "zh": ": 我{i}真的{/i}……特别想要……"
     },
     {
       "en": ""
@@ -1855,10 +1855,10 @@
       "zh": ": 毕竟这才是温泉的意义所在。"
     },
     {
-      "en": ": And the bus was kinda hot on the way here, so a bath does sound refreshing.",
+      "en": ": And the bus was kinda hot on the way here, so a bath {i}does{/i} sound refreshing.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 而且来的路上公交挺热的，泡个澡听着挺解乏。"
+      "zh": ": 而且来的路上公交挺热的，泡个澡听着{i}挺{/i}解乏。"
     },
     {
       "en": ": Cool. Let’s go have sex in the bath.",
@@ -1933,10 +1933,10 @@
       "zh": ": 我只是需要几分钟做好心理准备。"
     },
     {
-      "en": ": Like yeah, I’m really fucking horny right now, but I didn’t think this was gonna happen like, right away.",
+      "en": ": Like yeah, I’m really fucking horny right now, but I didn’t think this was gonna happen like, {i}right away{/i}.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 我是说，我现在是真的特别想要，但我没想到这事会这么……立刻发生。"
+      "zh": ": 我是说，我现在是真的特别想要，但我没想到这事会这么……{i}立刻{/i}发生。"
     },
     {
       "en": ": You literally started this.",
@@ -2107,8 +2107,8 @@
       "zh": "但我理解。"
     },
     {
-      "en": "This is still a big moment for her after all.",
-      "zh": "毕竟这对她来说还是个重要时刻。"
+      "en": "This {i}is{/i} still a big moment for her after all.",
+      "zh": "毕竟这对她来说还{i}是{/i}个重要时刻。"
     },
     {
       "en": "She probably just wants to savor it.",
@@ -2151,8 +2151,8 @@
       "en": ""
     },
     {
-      "en": "Chika’s affection has increased to [chika_love]!",
-      "zh": "Chika 的好感度提升到了 [chika_love]！"
+      "en": "{i}Chika’s affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]！{/i}"
     },
     {
       "en": ".........",
@@ -2170,8 +2170,8 @@
       "en": ""
     },
     {
-      "en": "Ten minutes later...",
-      "zh": "十分钟后……"
+      "en": "{i}Ten minutes later...{/i}",
+      "zh": "{i}十分钟后……{/i}"
     }
   ]
 }

@@ -26,8 +26,8 @@
       "zh": "我敲了敲 Chika 的门，等了一会儿，然后把耳朵贴上去。"
     },
     {
-      "en": "I can’t hear anything from inside the room and it’s not like her to just not answer so I guess...maybe she’s out?",
-      "zh": "房间里一点动静都没有，她又不是那种会不吭声的人，所以我想……也许她出去了？"
+      "en": "I can’t hear anything from inside the room and it’s not like her to just {i}not{/i} answer so I guess...maybe she’s out?",
+      "zh": "房间里一点动静都没有，她又不是那种会{i}不{/i}吭声的人，所以我想……也许她出去了？"
     },
     {
       "en": "That makes sense. I mean, she seems popular enough to be doing all kinds of-",
@@ -105,10 +105,10 @@
       "zh": ": 嗯……"
     },
     {
-      "en": ": Hmmm what?",
+      "en": ": {i}Hmmm{/i} what?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 嗯什么？"
+      "zh": ": {i}嗯{/i}什么？"
     },
     {
       "en": ": Nothing. It's just that...well, I can’t hang out here right now.",
@@ -117,10 +117,10 @@
       "zh": ": 没什么。只是……呃，我现在没法在这儿待着。"
     },
     {
-      "en": ": However...if you want to go on a little field trip, we could spend some time together. It would just require a little extra leg work.",
+      "en": ": {i}However...{/i}if you want to go on a little field trip, we could spend some time together. It would just require a little extra leg work.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 不过……要是你愿意跟我走一趟，我们还能一起待会儿。就是要多走点路。"
+      "zh": ": {i}不过……{/i}要是你愿意跟我走一趟，我们还能一起待会儿。就是要多走点路。"
     },
     {
       "en": ": Well, like I said, it's not like I have anything else going on right now.",
@@ -233,10 +233,10 @@
       "zh": ": 不睡！去别的地方住。"
     },
     {
-      "en": ": Somewhere I was thinking would remain a secret a little while longer, but...oh well. I'm fine with you knowing.",
+      "en": ": Somewhere I was {i}thinking{/i} would remain a secret a little while longer, but...oh well. I'm fine with you knowing.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 本来想让那地方再保密一阵子的，但……算了。让你知道也没关系。"
+      "zh": ": 本来{i}想{/i}让那地方再保密一阵子的，但……算了。让你知道也没关系。"
     },
     {
       "en": ""
@@ -479,10 +479,10 @@
       "en": ""
     },
     {
-      "en": ": Why would she be asleep right now? The sun hasn't even finished setting yet.",
+      "en": ": Why would {i}she{/i} be asleep right now? The sun hasn't even finished setting yet.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 她这会儿为什么会睡着？太阳都还没完全落下去呢。"
+      "zh": ": {i}她{/i}这会儿为什么会睡着？太阳都还没完全落下去呢。"
     },
     {
       "en": ""
@@ -707,10 +707,10 @@
       "zh": ": 什么意思？"
     },
     {
-      "en": ": She’s just got...really bad asthma and could have an attack if she over-exerts herself.",
+      "en": ": She’s just got...{i}really{/i} bad asthma and could have an attack if she over-exerts herself.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 她就是……哮喘很严重，要是太用力的话可能会发作。"
+      "zh": ": 她就是……哮喘{i}很{/i}严重，要是太用力的话可能会发作。"
     },
     {
       "en": ": And like, I obviously know how to handle that and everything, but it can get really scary for both of us and...I’m sure you wouldn’t really want to be around for that...",
@@ -731,10 +731,10 @@
       "zh": ": 还有，呃，既然都说到这儿了，我想我也该提一下，她的免疫系统也有点……弱。"
     },
     {
-      "en": ": So if you even think you might be sick, you should probably, like...just wait outside and let me figure something out.",
+      "en": ": So if you even {i}think{/i} you might be sick, you should probably, like...just wait outside and let me figure something out.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 所以你要是哪怕觉得自己可能生病了，最好就……在外面等着，让我想办法。"
+      "zh": ": 所以你要是哪怕{i}觉得{/i}自己可能生病了，最好就……在外面等着，让我想办法。"
     },
     {
       "en": ": I obviously won’t make you wait out there for the rest of the day, but-",
@@ -842,16 +842,16 @@
       "en": ""
     },
     {
-      "en": ": Remember, don’t do anything that might rile her up.",
+      "en": ": {i}Remember, don’t do anything that might rile her up.{/i}",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 记住，别做任何可能让她激动的事。"
+      "zh": ": {i}记住，别做任何可能让她激动的事。{/i}"
     },
     {
-      "en": ": How exciting of a person do you think I am, exactly?",
+      "en": ": {i}How exciting of a person do you think I am, exactly?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你到底觉得我是个多让人兴奋的人啊？"
+      "zh": ": {i}你到底觉得我是个多让人兴奋的人啊？{/i}"
     },
     {
       "en": ""
@@ -927,22 +927,22 @@
       "en": ""
     },
     {
-      "en": ": Who is he?",
+      "en": ": {i}Who is he?{/i}",
       "spk": "An Angel",
       "spkColor": "#FF9999",
-      "zh": ": 他是谁？"
+      "zh": ": {i}他是谁？{/i}"
     },
     {
-      "en": ": Why were you two whispering?",
+      "en": ": {i}Why were you two whispering?{/i}",
       "spk": "An Angel",
       "spkColor": "#FF9999",
-      "zh": ": 你们俩为什么在说悄悄话？"
+      "zh": ": {i}你们俩为什么在说悄悄话？{/i}"
     },
     {
-      "en": ": Does Chinami need to whisper, too?",
+      "en": ": {i}Does Chinami need to whisper, too?{/i}",
       "spk": "An Angel",
       "spkColor": "#FF9999",
-      "zh": ": Chinami 也要小声说话吗？"
+      "zh": ": {i}Chinami 也要小声说话吗？{/i}"
     },
     {
       "en": ": It’s okay, Chinami. You don’t have to whisper. I was just telling him a secret.",
@@ -951,10 +951,10 @@
       "zh": ": 没关系的，Chinami。你不用小声。我刚才只是在跟他说个秘密。"
     },
     {
-      "en": ": A secret about what? Can you tell me next?",
+      "en": ": {i}A secret about what? Can you tell me next?{/i}",
       "spk": "Chinami",
       "spkColor": "#FF9999",
-      "zh": ": 关于什么的秘密？下一个能告诉我吗？"
+      "zh": ": {i}关于什么的秘密？下一个能告诉我吗？{/i}"
     },
     {
       "en": ": It wouldn’t be a secret anymore if I told you.",
@@ -1019,10 +1019,10 @@
       "zh": ": 法师那段请忽略。她对谁都这么说。"
     },
     {
-      "en": ": What’s your name?",
+      "en": ": What’s {i}your{/i} name?",
       "spk": "Chinami",
       "spkColor": "#FF9999",
-      "zh": ": 你叫什么名字？"
+      "zh": ": {i}你{/i}叫什么名字？"
     },
     {
       "en": ": Chinami, this is my teacher. So you need to be good and make sure you don't do anything to get me in trouble, okay?",
@@ -1085,10 +1085,10 @@
       "zh": ": 你也可以当 Chinami 的老师吗？她整天都很无聊，还要读好多好多的书！"
     },
     {
-      "en": ": No, Chinami. He’s my teacher. You’re gonna have to keep putting up with Yumi and me until you’re ready to go to[school].",
+      "en": ": No, Chinami. He’s {i}my{/i} teacher. You’re gonna have to keep putting up with Yumi and me until you’re ready to go to[school].",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 不行，Chinami。他是我的老师。在你能去[上学]之前，你还得继续忍耐 Yumi 和我。"
+      "zh": ": 不行，Chinami。他是{i}我的{/i}老师。在你能去[上学]之前，你还得继续忍耐 Yumi 和我。"
     },
     {
       "en": ": But Chinami has no idea when that will be. She wants to learn now!",
@@ -1165,8 +1165,8 @@
       "zh": "她出现之后我好像一句话都没说过，我自己都说不清为什么。"
     },
     {
-      "en": "Is this really the secret that Chika’s been so desperately keeping from everyone?",
-      "zh": "这就是 Chika 一直拼命对所有人隐瞒的秘密吗？"
+      "en": "Is {i}this{/i} really the secret that Chika’s been so desperately keeping from everyone?",
+      "zh": "{i}这{/i}就是 Chika 一直拼命对所有人隐瞒的秘密吗？"
     },
     {
       "en": "I don't understand.",
@@ -1407,10 +1407,10 @@
       "en": ""
     },
     {
-      "en": ": Sniff...Sniff...You...think so?",
+      "en": ": {i}Sniff...Sniff...{/i}You...think so?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 吸……吸……你……这么觉得？"
+      "zh": ": {i}吸……吸……{/i}你……这么觉得？"
     },
     {
       "en": ": Chinami thinks so too! She wants to look just like Mommy when she’s older.",
@@ -1425,10 +1425,10 @@
       "zh": ": 然后她要嫁给一位王子，住进城堡里！"
     },
     {
-      "en": ": They...sniff...don’t build castles anymore, Chinami...",
+      "en": ": They...{i}sniff...{/i}don’t build castles anymore, Chinami...",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 现在……吸……已经不建城堡了，Chinami……"
+      "zh": ": 现在……{i}吸……{/i}已经不建城堡了，Chinami……"
     },
     {
       "en": ": Then Chinami will have her prince build her one!",
@@ -1452,10 +1452,10 @@
       "en": ""
     },
     {
-      "en": ": Just like you’ll build a castle for Chinami’s big sister.",
+      "en": ": Just like {i}you’ll{/i} build a castle for Chinami’s big sister.",
       "spk": "Chinami",
       "spkColor": "#FF9999",
-      "zh": ": 就像你会给 Chinami 的姐姐建一座城堡一样。"
+      "zh": ": 就像{i}你{/i}会给 Chinami 的姐姐建一座城堡一样。"
     },
     {
       "en": ": I...uhh...don’t...really need a castle, Sensei...",
@@ -1503,7 +1503,7 @@
       "zh": "我相信总有一天会有人为她建一座城堡。"
     },
     {
-      "en": "And if they don’t, I will.",
+      "en": "And if {i}they{/i} don’t, I will.",
       "zh": "如果没有，那我来建。"
     },
     {
@@ -1599,10 +1599,10 @@
       "en": ""
     },
     {
-      "en": ": Chinami tends to make, umm...very strong first impressions...so I'm sorry if this was a little too much.",
+      "en": ": Chinami tends to make, umm...{i}very strong{/i} first impressions...so I'm sorry if this was a little too much.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": Chinami 给别人留下的第一印象，呃……往往特别强烈……要是有点太过了，我很抱歉。"
+      "zh": ": Chinami 给别人留下的第一印象，呃……往往{i}特别强烈{/i}……要是有点太过了，我很抱歉。"
     },
     {
       "en": ": Do I get bonus points for not riling her up?",
@@ -1678,8 +1678,8 @@
       "zh": "那之后我没再久留。"
     },
     {
-      "en": "As it turns out, tonight is Chinami's homework night, so me being around would just serve as a distraction.",
-      "zh": "原来今晚是 Chinami 写作业的时间，我待在这儿只会让她分心。"
+      "en": "As it turns out, tonight is Chinami's {i}homework night{/i}, so me being around would just serve as a distraction.",
+      "zh": "原来今晚是 Chinami {i}写作业的时间{/i}，我待在这儿只会让她分心。"
     },
     {
       "en": "I feel a little weird knowing that I, a professional teacher, am now viewed as a distraction when it comes to education, but I guess I understand.",
@@ -1694,8 +1694,8 @@
       "zh": "她的免疫系统太弱，没法跟同龄的孩子一样去[上学]。"
     },
     {
-      "en": "And without enough money for treatment, if there even is treatment, all she can really do is keep trying her best and hope to one day grow stronger...",
-      "zh": "又没钱治病——如果有得治的话——她能做的就只有继续努力，盼着有朝一日能强壮起来……"
+      "en": "And without enough money for treatment, if there even {i}is{/i} treatment, all she can really do is keep trying her best and hope to one day grow stronger...",
+      "zh": "又没钱治病——如果{i}有得治{/i}的话——她能做的就只有继续努力，盼着有朝一日能强壮起来……"
     },
     {
       "en": "...",
@@ -1724,8 +1724,8 @@
       "en": ""
     },
     {
-      "en": "Chika’s affection has increased to [chika_love]!",
-      "zh": "Chika 的好感度提升到了 [chika_love]！"
+      "en": "{i}Chika’s affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]！{/i}"
     },
     {
       "en": ".........",

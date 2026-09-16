@@ -1,0 +1,1531 @@
+{
+  "label": "fmkx",
+  "title_zh": "那个 FMK 场景",
+  "lines": [
+    {
+      "en": "label fmkx:",
+      "zh": ""
+    },
+    {
+      "en": ": Fuck one, marry one, kill one: Me, Noriko, Chika.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 睡一个，娶一个，杀一个：我、Noriko、Chika。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene32.webp",
+      "alt": "thatonefmkscene32"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": As much as I like that game, it seems like it could be kind of dangerous if two of the options are literally here for it.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 虽然我很喜欢那个游戏，但如果其中两个选项就活生生坐在这儿，好像有点危险。"
+    },
+    {
+      "en": ": {i}I{/i} think it sounds fun.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": {i}我{/i}觉得听起来挺好玩的。"
+    },
+    {
+      "en": ": Plus! It would be a way to exonerate Sensei if he really {i}isn’t{/i} fucking Chika.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 而且！如果 Sensei 真的{i}没{/i}在和 Chika 上床，这也是个还他清白的方法。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": "..."
+    },
+    {
+      "en": ": Come on. It shouldn’t be a hard decision, should it?",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 来吧。这应该不是什么难做的决定吧？"
+    },
+    {
+      "en": ": Make your choice, Sensei.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 做出你的选择吧，Sensei。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "\"Fuck Kirin, Marry Noriko, Kill Chika\":",
+      "zh": "“睡 Kirin，娶 Noriko，杀 Chika”:"
+    },
+    {
+      "en": "$ chikakill = True",
+      "zh": ""
+    },
+    {
+      "en": "$ norikomarry = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’d fuck you, marry Noriko, and kill Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会睡你，娶 Noriko，杀掉 Chika。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene33",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene33.webp",
+      "alt": "thatonefmkscene33"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I’m sorry, Chika. But I can’t kill off one of the girls who are literally sitting in front of me.",
+      "zh": "抱歉了，Chika。但我不能把活生生坐在我面前的女孩之一给「杀」掉。"
+    },
+    {
+      "en": "Besides, you’re not even here to hear this...so I doubt it will ever reach you in the first place.",
+      "zh": "再说，你又不在这儿听……所以我怀疑这话一开始就传不到你耳朵里。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’d...marry me?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你会……娶我？"
+    },
+    {
+      "en": ": After fucking me, of course.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 当然是在睡了我之后。"
+    },
+    {
+      "en": ": Yes, but marrying me means that Sensei would never get tired of fucking me and that you’d only be a temporary solution meant to hold him over.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 是啊，但娶我就意味着 Sensei 永远不会厌倦跟我上床，而你只是个让他先凑合一下的临时方案。"
+    },
+    {
+      "en": ": Fun.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 有意思。"
+    },
+    {
+      "en": ": Hey, you wanted me to answer the question and I answered it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嘿，是你让我回答的，我就回答了。"
+    },
+    {
+      "en": ": Now, at the risk of killing any more of the class, let’s try talking about something else.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好了，冒着再干掉一名同学的风险，我们还是试着聊点别的吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene34",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene34.webp",
+      "alt": "thatonefmkscene34"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Marrying...Sensei...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 嫁给……Sensei……"
+    },
+    {
+      "en": ": Hey, maybe if we’re lucky, Noriko will let you keep fucking me after the two of you get hitched.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 嘿，如果运气好的话，等你们俩结了婚，Noriko 说不定还会让你继续睡我呢。"
+    },
+    {
+      "en": ": That’d be neat.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 那可真不错。"
+    },
+    {
+      "en": ": Yes, Kirin. That would certainly be {i}neat.{/i}",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是啊，Kirin。那当然很{i}不错{/i}。"
+    },
+    {
+      "en": ": I need to go lay down.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我得去躺一会儿。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": "stop music fadeout 10.0",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Bye, Noriko!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 拜拜，Noriko！"
+    },
+    {
+      "en": ": Don't hate me if I fuck your future husband next to the fire!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 要是我在火堆旁边睡了你未来的丈夫，你可别恨我啊！"
+    },
+    {
+      "en": ": I won't! But I'd prefer if you didn't do that!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 不会的！但我还是希望你别那么做！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Noriko heads back inside and, suddenly, Kirin and I are alone behind the convenience store.",
+      "zh": "Noriko 转身回到店里，突然之间，便利店后面就只剩下 Kirin 和我两个人了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ convenience25 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ kirin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ noriko_love += 5",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
+    },
+    {
+      "en": "{i}Kirin’s affection has increased to [kirin_love]!{/i}",
+      "zh": "{i}Kirin 的好感度提升到了 [kirin_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump kirinspecial25",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"Fuck Kirin, Marry Chika, Kill Noriko\":",
+      "zh": "“睡 Kirin，娶 Chika，杀 Noriko”:"
+    },
+    {
+      "en": "$ chikamarry = True",
+      "zh": ""
+    },
+    {
+      "en": "$ norikokill = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’d fuck you, Marry Chika, and kill Noriko.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会睡你，娶 Chika，杀掉 Noriko。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene35",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene35.webp",
+      "alt": "thatonefmkscene35"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’d...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你会……"
+    },
+    {
+      "en": ": What?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 什么？"
+    },
+    {
+      "en": ": Are you fucking kidding me?",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 你他妈在跟我开玩笑吧？"
+    },
+    {
+      "en": ": ...What?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……什么？"
+    },
+    {
+      "en": ": You asked me to answer and-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是你让我回答的，而且——"
+    },
+    {
+      "en": ": You’re just messing with me, right?...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你只是在耍我，对吧？……"
+    },
+    {
+      "en": ": You’d never...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你才不会……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene36",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene36.webp",
+      "alt": "thatonefmkscene36"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course he’s just messing with you.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 他当然只是在耍你啦。"
+    },
+    {
+      "en": ": We planned this from the beginning just to see how you’d react.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 我们从一开始就计划好了，就是想看看你什么反应。"
+    },
+    {
+      "en": ": It was a bad joke and none of it was real.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 这是个烂玩笑，没有一句是真的。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": "..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": "..."
+    },
+    {
+      "en": ": I think I’m done hanging out for the night...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我想今晚我逛够了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": "stop music fadeout 10.0",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Noriko, wait!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": Noriko，等等！"
+    },
+    {
+      "en": ": I don’t feel good. I’m gonna head home.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我不太舒服。我要回家了。"
+    },
+    {
+      "en": ": Goodnight, you two.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 晚安，你们俩。"
+    },
+    {
+      "en": ": Noriko!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": Noriko！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ convenience25 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump kirinspecial25",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"Fuck Noriko, Marry Kirin, Kill Chika\":",
+      "zh": "“睡 Noriko，娶 Kirin，杀 Chika”:"
+    },
+    {
+      "en": "$ kirinmarry = True",
+      "zh": ""
+    },
+    {
+      "en": "$ chikakill = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’d fuck Noriko, kill Chika, and marry you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会睡 Noriko，杀掉 Chika，然后娶你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene37",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene37.webp",
+      "alt": "thatonefmkscene37"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhh...what?",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 呃……什么？"
+    },
+    {
+      "en": ": Really? I could have sworn Kirin and I would have been flipped if we both survived.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 真的假的？我敢发誓，如果我们俩都活着，Kirin 和我肯定会对调。"
+    },
+    {
+      "en": ": Y-Yeah! What the fuck are you doing? You were supposed to do it the other way around!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 就——是啊！你他妈在干什么？你应该反过来选才对！"
+    },
+    {
+      "en": ": I’m not wife material!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 我不是当老婆的料！"
+    },
+    {
+      "en": ": I disagree.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不同意。"
+    },
+    {
+      "en": ": Sure, you’re toxic and...a horrible person. But so am I, so I think it might actually wind up working out.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 没错，你很毒……而且是个糟糕的人。但我也一样，所以我觉得搞不好还真挺合适的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene38",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene38.webp",
+      "alt": "thatonefmkscene38"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It absolutely would not! That would never ever ever ever ever work out! Ever ever ever ever!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 绝对不可能！这绝对、绝对、绝对、绝对、绝对不会有好结果的！永远永远永远永远不会！"
+    },
+    {
+      "en": ": ...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": "..."
+    },
+    {
+      "en": ": At the end of the day, {i}you’re{/i} the one who asked me to pick.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说到底，是{i}你{/i}让我选的。"
+    },
+    {
+      "en": ": If you can’t handle my choice-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果你承受不了我的选择——"
+    },
+    {
+      "en": ": Of course I can’t handle your choice! It was wrong! Marry Noriko and fuck me! That would be better!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 我当然承受不了你的选择！选错了！娶 Noriko 然后睡我！那样才对！"
+    },
+    {
+      "en": ": Maybe we can move somewhere polygamy is accepted and Sensei can marry both of us.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 也许我们可以搬到一个允许一夫多妻的地方，让 Sensei 把我们俩都娶了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene39",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene39.webp",
+      "alt": "thatonefmkscene39"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t want to fucking get married! I want to be the sex friend!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 我他妈才不要结婚！我要当炮友！"
+    },
+    {
+      "en": ": Congratulations on your engagement, Kirin.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 恭喜你订婚了，Kirin。"
+    },
+    {
+      "en": ": Shut up! It’s just a stupid hypothetical situation! It’s not real!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 闭嘴！这只是个愚蠢的假设！又不是真的！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene40",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene40.webp",
+      "alt": "thatonefmkscene40"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": "stop music fadeout 10.0",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei, I’m going to go back inside and open the store back up.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": Sensei，我要回店里重新开门营业了。"
+    },
+    {
+      "en": ": Feel free to keep hanging out with Kirin, but remember that there is someone who actually {i}would{/i} want to marry you just a few steps away.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你尽管继续和 Kirin 待着，但别忘了，就在几步之外，有一个人是{i}真的{/i}想嫁给你的。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ convenience25 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ kirin_love += 5",
+      "zh": ""
+    },
+    {
+      "en": "$ noriko_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
+    },
+    {
+      "en": "{i}Kirin's affection has increased to [kirin_love]!{/i}",
+      "zh": "{i}Kirin 的好感度提升到了 [kirin_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump kirinspecial25",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"Fuck Noriko, Marry Chika, Kill Kirin\":",
+      "zh": "“睡 Noriko，娶 Chika，杀 Kirin”:"
+    },
+    {
+      "en": "$ chikamarry = True",
+      "zh": ""
+    },
+    {
+      "en": "$ kirinkill = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’d fuck Noriko, marry Chika, and kill you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会睡 Noriko，娶 Chika，然后杀掉你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene41",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene41.webp",
+      "alt": "thatonefmkscene41"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’d just...fuck me and marry Chika instead? Why?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你就……睡了我，然后娶 Chika？为什么？"
+    },
+    {
+      "en": ": What does she have that I don’t?...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 她有什么是我没有的？……"
+    },
+    {
+      "en": ": And how can you just get rid of Kirin like that?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 还有你怎么能这么随随便便就把 Kirin 给除掉？"
+    },
+    {
+      "en": ": Well, the way I look at it is this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，我是这么看的。"
+    },
+    {
+      "en": ": You and Chika could have gone either way. You’re both attractive and would make excellent wife material if I actually ever wanted to get married.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你和 Chika 选哪个都说得过去。你们俩都很有魅力，如果我真想结婚的话，都是绝佳的老婆人选。"
+    },
+    {
+      "en": ": I’ve already had sex with Kirin. Therefore, I wouldn’t need to do it {i}again.{/i} And if given the opportunity to try something different, I’d-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我已经和 Kirin 上过床了。所以我就不需要{i}再{/i}来一次了。如果有机会换个口味，我会——"
+    },
+    {
+      "en": ": Just stop.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 别说了。"
+    },
+    {
+      "en": ": No, listen. I-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不，听我说。我——"
+    },
+    {
+      "en": ": Just...",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 就……"
+    },
+    {
+      "en": ": Just stop.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 别说了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kirin disappears down the alleyway and leaves Noriko and I alone, both unsure of whether or not we should chase after her.",
+      "zh": "Kirin 消失在小巷尽头，留下 Noriko 和我两人，都不确定该不该追上去。"
+    },
+    {
+      "en": "Given the fact that it’s Kirin, though, I’m sure she’ll get over it soon enough.",
+      "zh": "不过考虑到那是 Kirin，我敢肯定她很快就会过去的。"
+    },
+    {
+      "en": "I mean...what did she expect?",
+      "zh": "我是说……她还能指望什么？"
+    },
+    {
+      "en": "When you treat not only yourself but everyone around you like garbage, you can’t expect to just cruise by without ever hearing anything hurtful.",
+      "zh": "当你不仅把自己、还把身边所有人都当成垃圾一样对待时，就别指望能一路顺风顺水、永远听不到伤人的话。"
+    },
+    {
+      "en": "It’s her own fault that I chose the way I did. And it’s her own fault that I even {i}had{/i} to choose in the first place.",
+      "zh": "我那么选是她自己的错。而我从一开始就{i}被迫{/i}要做选择，也是她自己的错。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": We should probably...go back inside now...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我们大概该……回店里去了……"
+    },
+    {
+      "en": ": ...Yeah.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……嗯。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "stop music fadeout 7.0",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ convenience25 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ kirinspecial25skip = True",
+      "zh": ""
+    },
+    {
+      "en": "$ noriko_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"Fuck Chika, Marry Noriko, Kill Kirin\":",
+      "zh": "“睡 Chika，娶 Noriko，杀 Kirin”:"
+    },
+    {
+      "en": "$ norikomarry = True",
+      "zh": ""
+    },
+    {
+      "en": "$ kirinkill = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’d fuck Chika, marry Noriko, and kill you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会睡 Chika，娶 Noriko，然后杀掉你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene42",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene42.webp",
+      "alt": "thatonefmkscene42"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’d marry me?! Really?!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你会娶我？！真的？！"
+    },
+    {
+      "en": ": I was really worried for a second because I thought you might’ve picked Chika as wife material over me, but...oh my God!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我刚才真的担心了一下，因为我怕你会选 Chika 当老婆而不是我，但……我的天啊！"
+    },
+    {
+      "en": ": I’m so happy! Way happier than I should be from some stupid game!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我太开心了！比一个蠢游戏应该带来的还要开心得多！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene43",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene43.webp",
+      "alt": "thatonefmkscene43"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, I’m happy you-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，我很高兴你——"
+    },
+    {
+      "en": ": Wait, Kirin! Don’t leave! He obviously didn’t mean that!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 等等，Kirin！别走！他显然不是那个意思！"
+    },
+    {
+      "en": ": It’s fine.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 没事。"
+    },
+    {
+      "en": ": I’m just going to go for a walk.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 我出去走走。"
+    },
+    {
+      "en": ": I’ll see you back at the dorm, Noriko.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 回宿舍见，Noriko。"
+    },
+    {
+      "en": ": Congratulations on your engagement.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 恭喜你们订婚。"
+    },
+    {
+      "en": ": Kirin! Come on!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": Kirin！别这样！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kirin disappears down the alley and leaves Noriko and I alone, both unsure of whether or not we should chase after her.",
+      "zh": "Kirin 消失在小巷尽头，留下 Noriko 和我两人，都不确定该不该追上去。"
+    },
+    {
+      "en": "Given the fact that it’s Kirin, though, I’m sure she’ll get over it soon enough.",
+      "zh": "不过考虑到那是 Kirin，我敢肯定她很快就会过去的。"
+    },
+    {
+      "en": "I mean...what did she expect?",
+      "zh": "我是说……她还能指望什么？"
+    },
+    {
+      "en": "When you treat not only yourself but everyone around you like garbage, you can’t expect to just cruise by without ever hearing anything hurtful.",
+      "zh": "当你不仅把自己、还把身边所有人都当成垃圾一样对待时，就别指望能一路顺风顺水、永远听不到伤人的话。"
+    },
+    {
+      "en": "It’s her own fault that I chose the way I did. And it’s her own fault that I even {i}had{/i} to choose in the first place.",
+      "zh": "我那么选是她自己的错。而我从一开始就{i}被迫{/i}要做选择，也是她自己的错。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": We should probably...go back inside now...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我们大概该……回店里去了……"
+    },
+    {
+      "en": ": ...Yeah.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……嗯。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "stop music fadeout 7.0",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ convenience25 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ kirinspecial25skip = True",
+      "zh": ""
+    },
+    {
+      "en": "$ noriko_love += 5",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"Fuck Chika, Marry Kirin, Kill Noriko\":",
+      "zh": "“睡 Chika，娶 Kirin，杀 Noriko”:"
+    },
+    {
+      "en": "$ kirinmarry = True",
+      "zh": ""
+    },
+    {
+      "en": "$ norikokill = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’d fuck Chika, marry you, and kill Noriko.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会睡 Chika，娶你，然后杀掉 Noriko。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene44",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene44.webp",
+      "alt": "thatonefmkscene44"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’d...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你会……"
+    },
+    {
+      "en": ": What?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 什么？"
+    },
+    {
+      "en": ": Are you fucking kidding me?! What kind of ass backwards choice is that?!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 你他妈在开玩笑吧？！这算什么倒行逆施的选择？！"
+    },
+    {
+      "en": ": What’s wrong? You asked me to answer and-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 怎么了？是你让我回答的，而且——"
+    },
+    {
+      "en": ": You’re just messing with me, right?...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你只是在耍我，对吧？……"
+    },
+    {
+      "en": ": You’d never...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你才不会……"
+    },
+    {
+      "en": ": M-Me too! Why am I the one getting fucking married all of a sudden?! I never asked for this!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 我——我也是！怎么突然就他妈变成我要结婚了？！我可从没要求过！"
+    },
+    {
+      "en": ": Kirin, you’re toxic and...a horrible person. But so am I, so I think it might actually wind up working out.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Kirin，你很毒……而且是个糟糕的人。但我也一样，所以我觉得搞不好还真挺合适的。"
+    },
+    {
+      "en": ": It absolutely would not! That would never ever ever ever ever work out! Ever ever ever ever!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 绝对不可能！这绝对、绝对、绝对、绝对、绝对不会有好结果的！永远永远永远永远不会！"
+    },
+    {
+      "en": ": ...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": "..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene45",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene45.webp",
+      "alt": "thatonefmkscene45"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": N-Noriko! Come on! It’s only a game!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": N——Noriko！别这样！这只是个游戏而已！"
+    },
+    {
+      "en": ": Sensei just chose the most ridiculous answer on purpose to fuck with us! There’s no way he’d ever kill you! Just like there’s no way he’d ever marry {i}me{/i}!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": Sensei 只是故意选了最离谱的答案来耍我们！他绝对不可能杀你！就像他绝对不可能娶{i}我{/i}一样！"
+    },
+    {
+      "en": ": Did you...bring a handkerchief with you by any chance?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你……身上有没有带手帕？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene thatonefmkscene46",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/thatonefmkscene46.webp",
+      "alt": "thatonefmkscene46"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Look what you fucking did! You made Noriko cry! And you made {i}me{/i} throw up in my mouth!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 看看你他妈干了什么好事！你把 Noriko 弄哭了！还把{i}我{/i}都恶心吐了！"
+    },
+    {
+      "en": ": Is marrying me really such a horrible future?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嫁给我真的是那么可怕的未来吗？"
+    },
+    {
+      "en": ": That’s not the point!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 重点不是这个！"
+    },
+    {
+      "en": ": The point is you’re supposed to {i}not{/i} kill Noriko! And {i}not{/i} marry me! Those are the worst things you could pick!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 重点是你应该{i}别{/i}杀 Noriko！也{i}别{/i}娶我！那是最烂的两个选项！"
+    },
+    {
+      "en": ": Hey, you’re the one who asked me to choose. I’m just doing what I was told.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嘿，是你让我选的。我只是照你说的做而已。"
+    },
+    {
+      "en": ": I’m...going to go back inside now...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我……要回店里去了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": "stop music fadeout 10.0",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Noriko, wait!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": Noriko，等等！"
+    },
+    {
+      "en": ": Actually, on second thought, I don’t really feel good. I’m just gonna head home...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 不过再想想，我确实不太舒服。我还是直接回家吧……"
+    },
+    {
+      "en": ": Goodnight, you two.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 晚安，你们俩。"
+    },
+    {
+      "en": ": Noriko! Hold up!",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": Noriko！等一下！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ kirin_love += 5",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ convenience25 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump kirinspecial25",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

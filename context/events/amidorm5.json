@@ -1,6 +1,6 @@
 {
   "label": "amidorm5",
-  "title_zh": "第二个家",
+  "title_zh": "家外之家",
   "lines": [
     {
       "en": ""
@@ -206,10 +206,10 @@
       "zh": ": Sensei！你可算来了！等你来看我的房间，我简直等了一个世纪！"
     },
     {
-      "en": ": I’ve been doing a ton of decorating lately. I even went down to the library and made Futaba print out a bunch of pictures for me.",
+      "en": ": I’ve been doing a {i}ton{/i} of decorating lately. I even went down to the library and made Futaba print out a bunch of pictures for me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我最近布置了好久。我还跑到图书馆，让 Futaba 帮我打印了一大堆图片。"
+      "zh": ": 我最近布置了{i}好久{/i}。我还跑到图书馆，让 Futaba 帮我打印了一大堆图片。"
     },
     {
       "en": ": Isn't it super awesome in here? Doesn't it make you want to move in with us?!",
@@ -251,10 +251,10 @@
       "zh": ": 超级重，我们差点死掉。"
     },
     {
-      "en": ": Correction: I almost died. You didn't even touch the couch.",
+      "en": ": Correction: {i}I{/i} almost died. You didn't even touch the couch.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 更正：差点死掉的是我。你连沙发的边都没碰。"
+      "zh": ": 更正：差点死掉的是{i}我{/i}。你连沙发的边都没碰。"
     },
     {
       "en": ""
@@ -323,10 +323,10 @@
       "en": ""
     },
     {
-      "en": ": I tried! But then Maya got all Maya on me and said that she'd never talk to me again if I tried getting you to help as well!",
+      "en": ": I tried! But then Maya got all {i}Maya{/i} on me and said that she'd never talk to me again if I tried getting you to help as well!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我试了！但 Maya 突然 Maya 附体，说我要是敢叫你来帮忙，她就再也不理我！"
+      "zh": ": 我试了！但 Maya 突然 {i}Maya{/i} 附体，说我要是敢叫你来帮忙，她就再也不理我！"
     },
     {
       "en": ": That seems like a pretty dramatic repercussion for asking someone stronger than you to help you carry something.",
@@ -574,8 +574,8 @@
       "en": ""
     },
     {
-      "en": "Not like I know how convenient it was before Ami showed up, but that's a different story.",
-      "zh": "虽然我也不知道 Ami 出现之前的日子有多舒坦，但那是另一码事了。"
+      "en": "Not like I know how convenient it was {i}before{/i} Ami showed up, but that's a different story.",
+      "zh": "虽然我也不知道 Ami 出现{i}之前{/i}的日子有多舒坦，但那是另一码事了。"
     },
     {
       "en": ""
@@ -587,10 +587,10 @@
       "zh": ": 我很高兴，Sensei。这就是我全部的奢求了。"
     },
     {
-      "en": ": That said, if you ever need help with anything around your dorm like, you know...lifting a couch, please just let me know.",
+      "en": ": That said, if you ever need help with anything around your dorm like, you know...{i}lifting a couch,{/i} please just let me know.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 话说回来，要是你在宿舍有什么需要帮忙的，比如说……抬沙发之类的，尽管开口。"
+      "zh": ": 话说回来，要是你在宿舍有什么需要帮忙的，比如说……{i}抬沙发{/i}之类的，尽管开口。"
     },
     {
       "en": ": If you wind up hurting yourself doing something like that, it will inconvenience me as well. So please be careful.",
@@ -633,10 +633,10 @@
       "en": ""
     },
     {
-      "en": ": You wanna take a closer look at my stuff, though?! It’s all really cool and is only kinda like my room at home.",
+      "en": ": You wanna take a closer look at my stuff, though?! It’s all really cool and is only {i}kinda{/i} like my room at home.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你想不想仔细看看我的东西？！全都超酷，只有一点点像我在家的房间。"
+      "zh": ": 你想不想仔细看看我的东西？！全都超酷，只有{i}一点点{/i}像我在家的房间。"
     },
     {
       "en": ": So there are no anime posters or brightly colored manga or stuffed animals?",
@@ -712,8 +712,8 @@
       "zh": "她的白板上抄着一句 Emily Dickinson 的诗，这可相当出人意料，毕竟她是 Ami，而且——"
     },
     {
-      "en": "Well, I can't imagine Ami reading anything that doesn't involve romance or...magical girls or something.",
-      "zh": "好吧，我实在无法想象 Ami 会读任何不涉及恋爱、或者……魔法少女之类的东西。"
+      "en": "Well, I can't imagine Ami reading {i}anything{/i} that doesn't involve romance or...magical girls or something.",
+      "zh": "好吧，我实在无法想象 Ami 会读{i}任何{/i}不涉及恋爱、或者……魔法少女之类的东西。"
     },
     {
       "en": "Suffice it to say, everything looks pretty close to how I imagined it would be.",
@@ -761,10 +761,10 @@
       "zh": ": 拜托告诉我很酷。"
     },
     {
-      "en": ": It’s cool, Ami. Don’t worry.",
+      "en": ": It’s {i}cool,{/i} Ami. Don’t worry.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 很酷，Ami。别担心。"
+      "zh": ": {i}很酷{/i}，Ami。别担心。"
     },
     {
       "en": ": You have, uhh...a lot more manga than I expected, though.",
@@ -794,10 +794,10 @@
       "zh": ": 那个……我觉得……你忘了你给我买过多少，说不定还是件好事？"
     },
     {
-      "en": ": Which isn't to say that I haven't bought any for myself, but...most of it is from you.",
+      "en": ": Which isn't to say that {i}I{/i} haven't bought any for myself, but...most of it is from you.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 不是说我自己一本都没买过，但是……大部分都是你买的。"
+      "zh": ": 不是说{i}我{/i}自己一本都没买过，但是……大部分都是你买的。"
     },
     {
       "en": ": But like, the entire bottom row next to the Sailor Moon poster is all stuff I’ve bought with my own money! So you should...be pretty impressed about that!",
@@ -905,10 +905,10 @@
       "zh": ": 你知道这句话说出来通常只会让人更担心吧？"
     },
     {
-      "en": ": Maybe I...want you to worry about me then?",
+      "en": ": Maybe I...{i}want{/i} you to worry about me then?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 那，说不定我……就是想让你担心呢？"
+      "zh": ": 那，说不定我……就是{i}想{/i}让你担心呢？"
     },
     {
       "en": ": Nah. You're old enough to make your own decisions. Probably.",
@@ -950,10 +950,10 @@
       "zh": ": 那么……我要是在路边捡到一只流浪猫，想带回家跟我们一起住，可以吗？"
     },
     {
-      "en": ": Well, no. Because that impacts me directly since it is my house. But if you want to take it here, feel free.",
+      "en": ": Well, no. Because that impacts me directly since it is {i}my{/i} house. But if you want to take it here, feel free.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 呃，不行。因为那会直接影响到我，房子是我的。但你要想养在这，请便。"
+      "zh": ": 呃，不行。因为那会直接影响到我，房子是{i}我的{/i}。但你要想养在这，请便。"
     },
     {
       "en": ": Not that I imagine the dorms allow you to keep pets, but yeah.",
@@ -1050,10 +1050,10 @@
       "zh": ": 你要是让我养，我保证帮忙照顾它，好吗？"
     },
     {
-      "en": ": Help? You wouldn't be handling all of its care?",
+      "en": ": {i}Help?{/i} You wouldn't be handling {i}all{/i} of its care?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 「帮忙」？难道不是全部由你来照顾？"
+      "zh": ": 「{i}帮忙{/i}」？难道不是{i}全部{/i}由你来照顾？"
     },
     {
       "en": ""
@@ -1077,16 +1077,16 @@
       "zh": ": 全部？不行。我还要上学。我不在的时候它出事了怎么办？"
     },
     {
-      "en": ": Ami, I am your teacher. I literally walk with you to school.",
+      "en": ": Ami, I am your teacher. I literally walk {i}with{/i} you to school.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Ami，我就是你的老师。上学我可是每天跟你一起走。"
+      "zh": ": Ami，我就是你的老师。上学我可是每天{i}跟{/i}你一起走。"
     },
     {
-      "en": ": That's true. But with how much you've been slacking off lately, do you really have to even come anymore?",
+      "en": ": That's true. But with how much you've been slacking off lately, do you really {i}have{/i} to even come anymore?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 也是。但你最近翘成那样，你真的还有必要来吗？"
+      "zh": ": 也是。但你最近翘成那样，你真的{i}还有必要{/i}来吗？"
     },
     {
       "en": ": You know, that's a fair response. Good job.",
@@ -1149,10 +1149,10 @@
       "zh": ": 我不恨你。我只是觉得，你有时候忘了我的工作有多难做。"
     },
     {
-      "en": ": And even if you are responsible for your age, you're still not at my level yet. You have a little while to go before I let you get some sort of pet.",
+      "en": ": And even if you {i}are{/i} responsible for your age, you're still not at my level yet. You have a little while to go before I let you get some sort of pet.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 而且就算以你的年纪算得上懂事，你还差我一截。再等一阵子，我才让你养点什么。"
+      "zh": ": 而且就算以你的年纪{i}算得上{/i}懂事，你还差我一截。再等一阵子，我才让你养点什么。"
     },
     {
       "en": ""
@@ -1211,8 +1211,8 @@
       "zh": "留下来帮她们复习的念头在我脑中闪过一瞬，但认真一想，我甚至不确定自己帮得上什么忙。"
     },
     {
-      "en": "It's been a long time since I've brushed up on all things academic and I have no idea if what little knowledge I do still possess is even relevant anymore.",
-      "zh": "距离我上次温习课业知识已经过去太久，连我脑子里仅剩的那点存货还过不过时都不知道。"
+      "en": "It's been a long time since I've brushed up on all things academic and I have no idea if what little knowledge I {i}do{/i} still possess is even relevant anymore.",
+      "zh": "距离我上次温习课业知识已经过去太久，连我脑子里{i}仅剩的那点{/i}存货还过不过时都不知道。"
     },
     {
       "en": "As such, I leave the two of them behind and set out toward home, hoping that my decision doesn't cause the two of them to flunk out of school and ruin their lives.",
@@ -1234,12 +1234,12 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]！"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]！{/i}"
     },
     {
-      "en": "You can now spend time with her in her dorm room!",
-      "zh": "现在你可以去她的宿舍房间陪她了！"
+      "en": "{i}You can now spend time with her in her dorm room!{/i}",
+      "zh": "{i}现在你可以去她的宿舍房间陪她了！{/i}"
     },
     {
       "en": ".........",

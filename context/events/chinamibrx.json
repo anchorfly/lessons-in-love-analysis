@@ -1,0 +1,938 @@
+{
+  "label": "chinamibrx",
+  "title_zh": "门缝",
+  "lines": [
+    {
+      "en": "label chinamibrx:",
+      "zh": ""
+    },
+    {
+      "en": ": I would...sure hope so.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我……当然希望如此。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with fade",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Papa!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 爸爸！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/controversialscene1.webp",
+      "alt": "controversialscene1"
+    },
+    {
+      "en": "with fade",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nope.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不了。"
+    },
+    {
+      "en": ": What? What’s wrong?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 什么？怎么了？"
+    },
+    {
+      "en": ": What do you mean what’s wrong? You said it was safe to come in.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 什么叫怎么了？你不是说进来没事吗。"
+    },
+    {
+      "en": ": Hm? Cause of Chinami? She’s just a kid, it’s no big deal. ",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯？因为 Chinami？她还是个孩子，没什么大不了的。"
+    },
+    {
+      "en": ": It’s not like I’m giving Yumi a bath in here.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我又不是在这儿给 Yumi 洗澡。"
+    },
+    {
+      "en": ": That’s exactly {i}why{/i} it’s a problem. I would have stayed inside without a question if Yumi was in there.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这{i}正是{/i}问题所在。要是 Yumi 在里面，我肯定毫不犹豫地待着。"
+    },
+    {
+      "en": ": Hey. Watch it.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 喂。你说话注意点。"
+    },
+    {
+      "en": ": Why won’t Papa come inside? Is he afraid of the bath?",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 爸爸为什么不进来？他是怕浴缸吗？"
+    },
+    {
+      "en": ": I guess he just hates you, Chinami.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我猜他就是讨厌你，Chinami。"
+    },
+    {
+      "en": ": I don’t-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不是——"
+    },
+    {
+      "en": ": Papa, why?!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 爸爸，为什么？！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Am I really the weird one for thinking the right thing to do is wait out here?",
+      "zh": "我觉得在外面等着才是对的，难道我真是那个怪人？"
+    },
+    {
+      "en": "I get that Chika’s comfortable enough with me that she doesn’t feel threatened about me being around...that. ",
+      "zh": "我知道 Chika 跟我够亲近，不介意我在……那个……旁边。"
+    },
+    {
+      "en": "But why would I even go in there if I can just talk to them through the gap in the door?",
+      "zh": "可我既然能隔着门缝跟她们说话，干嘛非进去不可？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Stop being so sketchy and come in already. I’ve just gotta get the soap out of her hair. ",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 别鬼鬼祟祟的，快进来。我只需要把她头发里的泡沫冲掉。"
+    },
+    {
+      "en": ": Chinami misses you! And you should want to spend time with her because no one knows how much time she has left!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": Chinami 想你！而且你应该多陪陪她，因为谁也不知道她还能活多久！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "play sound \"water1.mp3\"",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami! Stop saying that! I mean it!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Chinami！别再说那个了！我说真的！"
+    },
+    {
+      "en": ": Yes, big Sister...",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 好的，姐姐……"
+    },
+    {
+      "en": ": Do it again and I’m taking your phone away. That’s not funny.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 再说一次我就没收你手机。那一点都不好笑。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "What...should I do here?",
+      "zh": "我……该怎么办？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "\"Wait outside\":",
+      "zh": "\"在外面等\":"
+    },
+    {
+      "en": ": If you’re almost done, I’ll just wait out here.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你们要是快洗完了，我就在外面等。"
+    },
+    {
+      "en": ": There’s really no need for me to be in there right now anyway.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 反正我现在也没必要非在里面。"
+    },
+    {
+      "en": ": Not sure why you’re being so weird about this, but okay. Do whatever makes you comfortable, I guess.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 搞不懂你干嘛这么别扭，不过行吧。你觉得怎么舒服就怎么来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I avert my gaze as I make my way into the combined living room and bedroom, collapsing onto the same worn down mattress these sisters so often fall asleep on together.",
+      "zh": "我移开视线，走进那间客厅兼卧室，瘫倒在这对姐妹常一起睡的那张破旧床垫上。"
+    },
+    {
+      "en": "And as I wait for the two of them to finish in the bathroom, I’m stricken by the unhealthy thought that I now want to buy them a new bed in addition to their phones.",
+      "zh": "一边等她们俩洗完澡，我一边冒出一个不健康的念头：除了手机，我现在还想给她们买张新床。"
+    },
+    {
+      "en": "Maybe this is just one more way I can trick myself into thinking I’m somehow a positive influence on their lives...but maybe it’s more than that?",
+      "zh": "也许这只是我骗自己「我对她们的人生多少是个正面影响」的又一种方式……但也许不止如此？"
+    },
+    {
+      "en": "Maybe I {i}do{/i} actually want to help them? Or...give them better lives or something.",
+      "zh": "也许我{i}是{/i}真想帮她们？或者……让她们过上好日子之类的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Or maybe that’s just me imagining a single trace of light in a world I believe to be devoid of it.",
+      "zh": "又或者，那只是我在一个我认为毫无光亮的世界里，凭空想象出的一丝光。"
+    },
+    {
+      "en": "You can’t give someone a better life by just handing them things they’d have trouble obtaining on their own. ",
+      "zh": "你不能光靠把别人自己难得的东西塞给他们，就让人过上好日子。"
+    },
+    {
+      "en": "Sure, it would make things a little better for them in the moment, but what comes after that?",
+      "zh": "是，那样眼下是能让他们好过点，可那之后呢？"
+    },
+    {
+      "en": "Chika’s already starting to depend on me a little too much.",
+      "zh": "Chika 已经开始有点太依赖我了。"
+    },
+    {
+      "en": "But I guess it would be hard {i}not{/i} to depend on me when I’m the first person in a long time that’s actually felt depend{i}able{/i}.",
+      "zh": "不过也难怪——我是这么久以来第一个让她觉得{i}靠得住{/i}的人。"
+    },
+    {
+      "en": "It’s sad.",
+      "zh": "挺可悲的。"
+    },
+    {
+      "en": "I thought she was smarter than this.",
+      "zh": "我原以为她比这聪明。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump restofchinamibr",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"Go in. This is normal.\":",
+      "zh": "\"进去吧。这很正常。\":"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika’s right.",
+      "zh": "Chika 说得对。"
+    },
+    {
+      "en": "This would only be a big deal if I turned it into one.",
+      "zh": "这事只有我把它当回事，才算回事。"
+    },
+    {
+      "en": "And treating Chinami like she’s a normal girl instead of what she really is would be the number one way to do that.",
+      "zh": "而把 Chinami 当成普通女孩、而不是她「真正的身份」来对待，正是把它当回事的头号做法。"
+    },
+    {
+      "en": "In fact, Chika would probably be more suspicious {i}if{/i} I stayed outside.",
+      "zh": "其实，我{i}要是{/i}待在外面，Chika 反而会更起疑。"
+    },
+    {
+      "en": "That’s right.",
+      "zh": "没错。"
+    },
+    {
+      "en": "This is normal.",
+      "zh": "这很正常。"
+    },
+    {
+      "en": "{i}I{/i} am normal.",
+      "zh": "{i}我{/i}很正常。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": "$ sawchinami = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hooray! Papa doesn’t hate Chinami after all!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 万岁！爸爸原来不讨厌 Chinami！"
+    },
+    {
+      "en": ": You good?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你还好吧？"
+    },
+    {
+      "en": ": Yeah. I just thought Chinami would feel uncomfortable having a boy in here. That’s all.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯。我只是觉得 Chinami 会不习惯屋里有个男生。仅此而已。"
+    },
+    {
+      "en": ": Chinami doesn’t know why that would change anything. She likes Papa and wants him to {i}always{/i} be around.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": Chinami 不懂那有什么关系。她喜欢爸爸，想让他{i}一直{/i}在身边。"
+    },
+    {
+      "en": ": And {i}Chika{/i} didn’t realize this was going to be a point of contention.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 而且 {i}Chika{/i} 也没想到这居然会成个问题。"
+    },
+    {
+      "en": ": Well, {i}Sensei{/i} thinks it’s time to talk about something else before this gets even weirder.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 行吧，{i}Sensei{/i} 觉得在事情变得更怪之前，该聊点别的了。"
+    },
+    {
+      "en": ": Chinami is pleased with how everyone is speaking now. She feels like she is starting a trend.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": Chinami 对大家现在的说话方式很满意。她觉得自己带动了一股潮流。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}Chinami{/i} should learn to wash her own hair instead of making her big sister do it all the time.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": {i}Chinami{/i} 该学着自己洗头，别老让姐姐洗。"
+    },
+    {
+      "en": ": And she should also take off her ribbon when she’s in the bath.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 而且洗澡的时候也该把发带摘了。"
+    },
+    {
+      "en": ": But if Chinami takes off her ribbon, Chinami will deflate! It is what keeps all of the air inside of her! And where she stores her magic!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 可 Chinami 要是摘了发带，Chinami 会漏气的！那是把气全锁在里面的东西！也是她存魔法的地方！"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Just like I thought.",
+      "zh": "果然跟我想的一样。"
+    },
+    {
+      "en": "This is all completely normal.",
+      "zh": "这一切完全正常。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Papa, help! Chinami wants you to wash her hair instead! Big sis Chika is being too rough!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 爸爸，救命！Chinami 想让你帮她洗头！Chika 姐姐洗得太用力了！"
+    },
+    {
+      "en": ": I’m good right here, thanks.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我在这儿挺好，谢了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Want me to wash {i}your{/i} hair next, Sensei? Tub’s already full. Might as well get as much out of the water as we can.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 要不要我接着帮{i}你{/i}洗，Sensei？浴缸水都放满了，不如多利用利用。"
+    },
+    {
+      "en": ": Again, I’m good right here. I think that tub might be a little too small for me anyway.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 再说一遍，我在这儿挺好。反正那浴缸对我可能也太小了点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Suit yourself! Don’t come crying to me when you run up your water bill, though.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 随你！不过等你水费账单爆了，可别来哭着找我。"
+    },
+    {
+      "en": ": The water bill is a mostly negligible cost once you aren’t confined to working a minimum wage retail job anymore.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 一旦你不再被最低工资的零售工作绑死，水费基本可以忽略不计。"
+    },
+    {
+      "en": ": Oh yeah? Wanna help {i}me{/i} go look for a new one, then? You know, since you’re already helping Yumi and whatnot.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦是吗？那要不要帮{i}我{/i}找份新的？反正你已经在帮 Yumi 了嘛。"
+    },
+    {
+      "en": ": Big sis Yumi will never get a job. She’s too misunderstood.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": Yumi 姐姐永远找不到工作的。她太不被人理解了。"
+    },
+    {
+      "en": ": You’d certainly be easier to find one for.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你可比她好找工作多了。"
+    },
+    {
+      "en": ": I think you should be fine where you are until you’re out of school, though. If you can’t find a new job after that, {i}then{/i} I’ll help you go hunting.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不过我觉得你毕业前先干着现在这个就行。之后要是找不到新的，我{i}再{/i}帮你一起找。"
+    },
+    {
+      "en": ": Yumi’s just getting {i}all{/i} the special treatment then, huh? Job hunting {i}and{/i} bath company.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那 Yumi 就是{i}独享{/i}特殊待遇喽？帮找工作，{i}还{/i}陪洗澡。"
+    },
+    {
+      "en": ": Hey, I never would have offered to watch her if you didn’t bring the idea up.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 喂，要不是你先提出来，我才不会说要看着她。"
+    },
+    {
+      "en": ": Well, I’ll be sure to relay it to her the next time she goes to wash her hair.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 行，下次她去洗头，我一定替你转达。"
+    },
+    {
+      "en": ": Please don’t. She hates me enough as is. The last thing I need is her knowing that I’m getting myself involved in conversations like this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 千万别。她已经够讨厌我了。我可不想再让她知道我掺和进这种对话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami thinks big sis Yumi likes you a lot and that she just doesn’t know how to express it!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": Chinami 觉得 Yumi 姐姐其实很喜欢你，只是她不知道怎么表达！"
+    },
+    {
+      "en": ": She always says she never had a mom or a dad, so Chinami thinks that she never learned how to be nice.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 她老说自己没有爸爸妈妈，所以 Chinami 觉得她从没学过怎么待人友善。"
+    },
+    {
+      "en": ": If somebody teaches big sis Yumi to be nice, Chinami thinks she’ll start saying less mean things to you.",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 要是有人教 Yumi 姐姐友善一点，Chinami 觉得她就不会老对你说难听的话了。"
+    },
+    {
+      "en": ": Why don’t {i}you{/i} teach her to be nice, Chinami?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那{i}你{/i}干嘛不教她友善点，Chinami？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chinami tries! But big sis Yumi has already tried to kill her once!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": Chinami 有试啊！可 Yumi 姐姐已经想杀过她一次了！"
+    },
+    {
+      "en": ": Is this about the peanuts?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是为了花生那事？"
+    },
+    {
+      "en": ": It’s about the peanuts.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 就是为了花生。"
+    },
+    {
+      "en": ": Nowhere is safe for Chinami! This is a dog eat dog world, and Chinami {i}is{/i} a dog sometimes!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": Chinami 到哪儿都不安全！这是个狗咬狗的世界，而 Chinami {i}有{/i}时候也是条狗！"
+    },
+    {
+      "en": ": Yeah, yeah. How about we just {i}both{/i} try to teach Yumi how to be nice, then?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 行行行。那要不{i}咱俩{/i}一起教 Yumi 怎么友善点？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Just not {i}too{/i} nice. Because then {i}Papa{/i} might think twice about coming over here to see {i}me{/i}.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 就是别{i}太{/i}友善。不然{i}爸爸{/i}可能会重新考虑要不要来看{i}我{/i}。"
+    },
+    {
+      "en": ": Hey, I’m here for Chinami. You’re just a bonus.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 喂，我是来看 Chinami 的。你只是附带的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uh-huh. Right. So you just dialed my number by mistake this morning?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯哼。是吗。那你今早是「不小心」拨错我的号？"
+    },
+    {
+      "en": ": Your numbers are right next to each other in my phone. I probably just tapped the wrong one.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你俩的号码在我手机里挨着。我大概就是点错了。"
+    },
+    {
+      "en": ": Be careful, big sister! It looks like you might really have to worry after all!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": 小心点，姐姐！看来你说不定真得担心一下了！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! Shh! I told you not to talk about that! I wasn’t “worrying” about anything! I was just...thinking!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 喂！嘘！我不是叫你别提那个吗！我才没「担心」什么！我只是……在想！"
+    },
+    {
+      "en": ": Chinami can’t be stopped! And she can’t help if Papa likes her more than her big sister!",
+      "spk": "Chinami",
+      "spkColor": "#FF9999",
+      "zh": ": Chinami 停不下来！而且要是爸爸喜欢她胜过姐姐，那也不是她的错！"
+    },
+    {
+      "en": ": Worrying?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 担心？"
+    },
+    {
+      "en": ": About what we talked about at the mall?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 担心我们在商场聊的那件事？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene controversialscene13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...could you give the two of us a minute, Sensei? I’d like to remind my sister about certain things I don’t want her saying around you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那个……你能给我俩一分钟吗，Sensei？我想提醒我妹妹，有些话我不想让她当你面说。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Please?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 拜托了？"
+    },
+    {
+      "en": ": Sure. Though, it is a little weird to be kicked out of this room when you practically begged me to come inside.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 行。不过你刚才几乎是求我进来，现在又把我赶出这屋，是有点怪。"
+    },
+    {
+      "en": ": I wouldn’t say I {i}begged{/i}...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我才没有{i}求{/i}你……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I would.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会这么说。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Especially since it helps me justify how long I just hung around my fake girlfriend’s naked sister for.",
+      "zh": "尤其因为这能帮我合理化：我刚才在我「假女友」的裸体妹妹身边耗了那么久。"
+    },
+    {
+      "en": "As I leave the room, though, I realize that I {i}was{/i} just making a big deal over nothing-",
+      "zh": "不过走出房间时，我意识到自己刚才{i}是{/i}小题大做了——"
+    },
+    {
+      "en": "And that just seeing someone without their clothes on isn’t enough for me to {i}want{/i} them.",
+      "zh": "而且，光是看到一个人没穿衣服，并不足以让我{i}想{/i}要她。"
+    },
+    {
+      "en": "I’m not used to that.",
+      "zh": "我不习惯这样。"
+    },
+    {
+      "en": "I’m not used to feeling like I’m in complete control over how I feel because, frankly, most of the time, I’m not.",
+      "zh": "我不习惯觉得自己能完全掌控自己的感受，因为坦白说，大多数时候我做不到。"
+    },
+    {
+      "en": "I’m glad that today I was, though.",
+      "zh": "不过我很高兴，今天我做到了。"
+    },
+    {
+      "en": "And I hope that, at least for a while longer-",
+      "zh": "而且我希望，至少再过一阵子——"
+    },
+    {
+      "en": "I will continue to be.",
+      "zh": "我能一直做到。"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "I make my way into the combined living room and bedroom, collapsing onto the same worn down mattress the Chosokabe sisters so often fall asleep on together.",
+      "zh": "我走进那间客厅兼卧室，瘫倒在长宗我部姐妹常一起睡的那张破旧床垫上。"
+    },
+    {
+      "en": "And as I wait for the two of them to finish in the bathroom, I’m stricken by the unhealthy thought that I now want to buy them a new bed in addition to their phones.",
+      "zh": "一边等她们俩洗完澡，我一边冒出一个不健康的念头：除了手机，我现在还想给她们买张新床。"
+    },
+    {
+      "en": "Maybe this is just one more way I can trick myself into thinking I’m somehow a positive influence on their lives...but maybe it’s more than that?",
+      "zh": "也许这只是我骗自己「我对她们的人生多少是个正面影响」的又一种方式……但也许不止如此？"
+    },
+    {
+      "en": "Maybe I {i}do{/i} actually want to help them? Or...give them better lives or something.",
+      "zh": "也许我{i}是{/i}真想帮她们？或者……让她们过上好日子之类的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Or maybe that’s just me imagining a single trace of light in a world I believe to be devoid of it.",
+      "zh": "又或者，那只是我在一个我认为毫无光亮的世界里，凭空想象出的一丝光。"
+    },
+    {
+      "en": "You can’t give someone a better life by just handing them things they’d have trouble obtaining on their own.",
+      "zh": "你不能光靠把别人自己难得的东西塞给他们，就让人过上好日子。"
+    },
+    {
+      "en": "Sure, it would make things a little better for them in the moment, but what comes after that?",
+      "zh": "是，那样眼下是能让他们好过点，可那之后呢？"
+    },
+    {
+      "en": "Chika’s already starting to depend on me a little too much.",
+      "zh": "Chika 已经开始有点太依赖我了。"
+    },
+    {
+      "en": "But I guess it would be hard {i}not{/i} to be when I’m the first person in a long time that’s actually felt depend{i}able{/i}.",
+      "zh": "不过也难怪——我是这么久以来第一个让她觉得{i}靠得住{/i}的人。"
+    },
+    {
+      "en": "It’s sad.",
+      "zh": "挺可悲的。"
+    },
+    {
+      "en": "I always thought she was smarter than this.",
+      "zh": "我一直以为她比这聪明。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump restofchinamibr",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

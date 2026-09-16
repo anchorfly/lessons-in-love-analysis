@@ -1,6 +1,6 @@
 {
   "label": "bar5",
-  "title_zh": "",
+  "title_zh": "最低限度",
   "lines": [
     {
       "en": ""
@@ -23,23 +23,23 @@
     },
     {
       "en": "I walk into the bar to find absolutely no one- a small but noticeable change from last time.",
-      "zh": ""
+      "zh": "我走进酒吧，发现里面一个人也没有——跟上一次相比，这是个不大但挺明显的变化。"
     },
     {
       "en": "I'm not really sure if this can be chalked up purely to me showing up late, either, considering Sana's already informed me of the struggling state of this business-",
-      "zh": ""
+      "zh": "我也不太确定这能不能纯粹归结为我来晚了，毕竟 Sana 早就跟我说过这生意有多艰难——"
     },
     {
       "en": "But maybe it's even worse off than I thought?",
-      "zh": ""
+      "zh": "不过也许情况比我想的还要糟？"
     },
     {
-      "en": "At the bare minimum, there should be at least one customer half-passed out behind the counter, silently drinking to him- or, sorry, herself.",
-      "zh": ""
+      "en": "At the bare minimum, there should be at least one customer half-passed out behind the counter, silently drinking to him- or, sorry, {i}her{/i}self.",
+      "zh": "最起码，也该有一个顾客醉倒在吧台后面，默不作声地对着他——或者，抱歉，对着{i}她{/i}自己喝吧。"
     },
     {
       "en": "I'm still not fully used to the idea of there not really being any men around here yet, I guess.",
-      "zh": ""
+      "zh": "我想我还是没太习惯“这一带其实没什么男人”这件事。"
     },
     {
       "en": ""
@@ -60,19 +60,19 @@
       "en": ": Umm...Hi, Sensei...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 嗯……你好，老师……"
     },
     {
       "en": ": Hey, Sana. Where is everybody?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗨，Sana。大家都去哪儿了？"
     },
     {
-      "en": ": This...is everybody...",
+      "en": ": This...{i}is{/i} everybody...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 这就{i}是{/i}……所有人了……"
     },
     {
       "en": ""
@@ -85,7 +85,7 @@
       "en": ": Weekdays...aren’t really that busy for us...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 工作日……我们这儿真的不怎么忙……"
     },
     {
       "en": "else:",
@@ -95,7 +95,7 @@
       "en": ": Weekends...aren’t really that busy for us...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 周末……也真的不怎么忙……"
     },
     {
       "en": ""
@@ -104,13 +104,13 @@
       "en": ": Yeah...I can see that.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是啊……我看得出来。"
     },
     {
       "en": ": Would you mind if I took a seat? I’ve been walking for a while and I’m pretty exhausted.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 介意我坐一会儿吗？我走了挺久的路，累坏了。"
     },
     {
       "en": ""
@@ -131,13 +131,13 @@
       "en": ": O-Oh! Right! I’m...so sorry...I shouldn't have stopped you as soon as you walked in...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 啊、啊！对！我……真的很抱歉……你一进门我就不该拦着你的……"
     },
     {
       "en": ": It’s fine. You were probably just so excited to see another human lifeform in here that you couldn't help but approach me as soon as the door opened.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 没关系。你大概是看到这里终于出现了另一个活人，太激动了，门一开就忍不住凑过来。"
     },
     {
       "en": ""
@@ -158,19 +158,19 @@
       "en": ": What's...really sad is that...you're probably not wrong...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 可悲的是……你说的……大概没错……"
     },
     {
       "en": ": Is it...okay if I sit next to you, though?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 不过……我可以坐在你旁边吗？……"
     },
     {
       "en": ": What if another customer shows up, though?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那要是有别的客人来了怎么办？"
     },
     {
       "en": ""
@@ -191,25 +191,25 @@
       "en": ": I...don’t really think we have to worry about that...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我……觉得我们不用操心这个……"
     },
     {
       "en": ": I was...probably just going to close down soon anyway, so...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我……大概反正也准备要打烊了，所以……"
     },
     {
       "en": ": Then, sure. I don’t mind at all.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那当然可以。我一点也不介意。"
     },
     {
-      "en": ": It might be a good time to start your lessons anyway.",
+      "en": ": It might be a good time to start your {i}lessons{/i} anyway.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 反正现在开始{i}上课{/i}也挺合适的。"
     },
     {
       "en": ""
@@ -230,26 +230,26 @@
       "en": ": As...good a time as any, I guess...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 反正……什么时候都一样吧，我想……"
     },
     {
       "en": ""
     },
     {
       "en": "Sana leads me over to the bar and politely pulls out a stool for me despite it being larger than her and probably weighing twice as much.",
-      "zh": ""
+      "zh": "Sana 领着我走到吧台前，礼貌地替我拉开一张凳子——尽管那张凳子比她还大，重量大概还是她两倍。"
     },
     {
       "en": "She may not have much faith in the business, but at least she's attentive when it comes to customers.",
-      "zh": ""
+      "zh": "她可能对这生意没什么信心，但至少在招待客人这件事上很上心。"
     },
     {
       "en": "Or at least me.",
-      "zh": ""
+      "zh": "至少对我是这样。"
     },
     {
       "en": "To be fair, though, there haven’t been many opportunities to see how she acts around others.",
-      "zh": ""
+      "zh": "不过说句公道话，也没什么机会看到她怎么跟别人相处。"
     },
     {
       "en": ""
@@ -270,32 +270,32 @@
       "en": ": ...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
     },
     {
       "en": "I kick off the lesson by remaining completely silent and just observing how Sana acts around me.",
-      "zh": ""
+      "zh": "我以彻底的沉默开了课，只是观察 Sana 在我面前是什么反应。"
     },
     {
       "en": "And, if she had the confidence in herself to even look my way, she'd be made immediately aware of how creepy and unacceptable this method is.",
-      "zh": ""
+      "zh": "而如果她有哪怕一点点自信肯抬眼看我，她立刻就会发现这招有多变态、多不像话。"
     },
     {
       "en": "Unfortunately for her, her inability to make eye contact has already resulted in her missing out on a valuable lesson.",
-      "zh": ""
+      "zh": "可惜对她来说，她没法跟人对视这件事，已经让她白白错过了一堂宝贵的课。"
     },
     {
-      "en": "Here's hoping she's at least tried practicing in some way during my absence.",
-      "zh": ""
+      "en": "Here's hoping she's at least {i}tried{/i} practicing in some way during my absence.",
+      "zh": "只希望我不在的这段时间里，她至少{i}试着{/i}练过。"
     },
     {
       "en": ""
@@ -304,7 +304,7 @@
       "en": ": So, any progress on your end lately? Have you been able to hold any conversations with anyone you're not directly related to?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那么，你最近有什么进展吗？有没有跟任何一个跟你没有直接血缘关系的人说过话？"
     },
     {
       "en": ""
@@ -325,28 +325,28 @@
       "en": ": Well...there's Ayane too, but...other than that...not really...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 嗯……还有 Ayane 吧，不过……除此之外……基本没有……"
     },
     {
       "en": ": I’ve been trying...but...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我一直在努力……可是……"
     },
     {
       "en": ""
     },
     {
       "en": "Sana drifts off, as if she's expecting me to fill in the blanks of her inadequacies.",
-      "zh": ""
+      "zh": "Sana 的声音渐渐低了下去，像是期待我来替她把那些说不出口的不足补完。"
     },
     {
       "en": "Which, to be fair, I probably could. But me doing the legwork isn't going to help her in any way.",
-      "zh": ""
+      "zh": "说句公道话，我大概确实补得上。可我来替她包办，对她一点帮助都没有。"
     },
     {
       "en": "If she's going to improve herself, she first needs to confront her problems head on.",
-      "zh": ""
+      "zh": "她要是想提升自己，首先得正面面对自己的问题。"
     },
     {
       "en": ""
@@ -355,25 +355,25 @@
       "en": ": But what?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 可是什么？"
     },
     {
       "en": ": It’s just...kind of hard without anyone to talk to...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 只是……没人可以说话的话……有点难……"
     },
     {
       "en": ": I guess that's fair.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我想也是。"
     },
     {
       "en": ": Maybe try practicing in the mirror or something? Isn't that what actors do when they're first starting out?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要不试试对着镜子练？演员刚入行的时候不都这么干吗？"
     },
     {
       "en": ""
@@ -394,13 +394,13 @@
       "en": ": Does that...actually work?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 那……真的有用吗？……"
     },
     {
       "en": ": Maybe. I've never tried. Just...pretend you’re someone else and try to strike up a conversation while...playing both sides?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 也许吧。我没试过。就是……假装你是另一个人，然后试着搭话，同时……演两个人的角色？"
     },
     {
       "en": ""
@@ -421,50 +421,50 @@
       "en": ": That sounds...way too complicated...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 那听起来……太复杂了……"
     },
     {
       "en": ": Plus...I don’t really like mirrors...so...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 而且……我不太喜欢镜子……所以……"
     },
     {
       "en": ": Why not?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 为什么？"
     },
     {
       "en": ": It's...kind of personal, so...if you don't mind...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 这……有点私人，所以……如果你不介意的话……"
     },
     {
       "en": ": Don't worry about it, then. We can just keep going like this.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那就别在意了。我们就这样继续吧。"
     },
     {
       "en": ""
     },
     {
       "en": "I can't blame Sana for not wanting to just freely divulge personal information to me now that we're talking somewhat regularly.",
-      "zh": ""
+      "zh": "如今我们算是聊得比较频繁了，Sana 不愿随口就把私事告诉我，这也怪不得她。"
     },
     {
       "en": "No one should trust anyone until they're given a reason to- and I am no exception to that.",
-      "zh": ""
+      "zh": "在没有理由之前，谁都不该信任谁——我也不例外。"
     },
     {
       "en": "Sana needs time to grow.",
-      "zh": ""
+      "zh": "Sana 需要时间成长。"
     },
     {
       "en": "Mentally, at least. Because, to be quite honest, I hope she stays her current size forever.",
-      "zh": ""
+      "zh": "至少是心理上的。因为说句老实话，我真希望她永远保持现在这个尺寸。"
     },
     {
       "en": ""
@@ -473,7 +473,7 @@
       "en": ": Here's an idea, Sana. How about we try a little roleplay?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Sana，我有个主意。我们不如来点角色扮演？"
     },
     {
       "en": ""
@@ -494,19 +494,19 @@
       "en": ": Roleplay?...You mean like...a game?",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 角色扮演？……你是说……像做游戏那样？"
     },
     {
       "en": ": Sure. You can call it a game if you want. Just pretend I’m a customer and-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 对。你想叫它游戏也行。就假装我是客人，然后——"
     },
     {
-      "en": ": Well, actually, I am a customer. But I’m sure you know where I’m going with this.",
+      "en": ": Well, actually, I {i}am{/i} a customer. But I’m sure you know where I’m going with this.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 其实我本来{i}就是{/i}客人。不过我想你知道我要说什么。"
     },
     {
       "en": ""
@@ -527,13 +527,13 @@
       "en": ": Uh...yeah...if...if it's just a game...I can...probably do it...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 呃……好……如果……如果只是游戏的话……我……应该做得到……"
     },
     {
       "en": ": Just to mix things up, though, I’m going to try and be difficult. Got it?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不过为了增加难度，我打算故意刁难你一下。懂吗？"
     },
     {
       "en": ""
@@ -554,13 +554,13 @@
       "en": ": Difficult? How so?",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 刁难？怎么个刁难？"
     },
     {
       "en": ": I mean that I’m going to give you problems that might arise at the bar and you’re going to need to figure out what to do about them.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我的意思是，我会给你出一些酒吧里可能会发生的问题，你得想办法处理。"
     },
     {
       "en": ""
@@ -581,25 +581,25 @@
       "en": ": You’re not...going to break anything...are you?",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 你……不会打碎什么东西……吧？"
     },
     {
       "en": ": Because...it comes out of my paycheck if you do...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 因为……打碎的话要从我工资里扣……"
     },
     {
       "en": ": First off, no. Second, do you really have to pay for things that break on your shift here?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 第一，不会。第二，你在这儿上班时打碎的东西，真的得你自己赔吗？"
     },
     {
       "en": ": Well...no...But I’d...feel really bad if I didn’t...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 嗯……不用……可是……我要是不赔的话……会觉得很过意不去……"
     },
     {
       "en": ""
@@ -620,28 +620,28 @@
       "en": ": Not having customers means my mom doesn't have much money, and...I wouldn't want her to pay for all of that out of pocket...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 没有客人就说明我妈妈没什么钱，而且……我不想让她自己掏腰包承担那些……"
     },
     {
       "en": ": So...if I can help by...paying for a few broken glasses...I don't really mind...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 所以……如果我能帮上忙……赔几个碎杯子的话……我真的不介意……"
     },
     {
       "en": ""
     },
     {
       "en": "I guess this means I can assume Sana’s dad isn’t in the picture either.",
-      "zh": ""
+      "zh": "看来我可以断定，Sana 的爸爸也不在身边了。"
     },
     {
       "en": "Is it really just Sana and her mom trying to keep this place afloat on their own? No wonder why they're going under.",
-      "zh": ""
+      "zh": "真的只有 Sana 和她妈妈两个人在硬撑着这家店吗？难怪她们撑不下去了。"
     },
     {
       "en": "There's only so much two people can do- especially when it comes to maintaining a place like this.",
-      "zh": ""
+      "zh": "两个人能做的事终归有限——尤其还是维持这样一个地方。"
     },
     {
       "en": ""
@@ -650,13 +650,13 @@
       "en": ": Okay. Well, I promise to not break anything. I’ll just act kind of rude toward you or something.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好吧。我保证不打碎任何东西。我就表现得……有点粗鲁之类的。"
     },
     {
       "en": ": Will you be able to handle that?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你应付得来吗？"
     },
     {
       "en": ""
@@ -677,49 +677,49 @@
       "en": ": Well...can you tell me how rude you’re going to be?",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 嗯……你能先告诉我你要有多粗鲁吗？"
     },
     {
       "en": ": Nope.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不能。"
     },
     {
       "en": ": ...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": But-",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 可是——"
     },
     {
       "en": ": Sana, hurry up and get behind the bar. This is a trial by fire.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Sana，快点站到吧台后面去。这叫实战演练。"
     },
     {
       "en": ": But...our extinguisher is...really old and...I don't know if it still works...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 可是……我们的灭火器……很旧了，而且……我不知道还能不能用……"
     },
     {
       "en": ": I'm going to ignore that extreme safety hazard for now and say it again. Get behind the bar.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我先无视这个重大安全隐患，再说一遍。站到吧台后面去。"
     },
     {
       "en": ": Okay, but...I can already tell...I'm going to fail whatever this is...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 好的，可是……我已经能预感到了……不管这是什么，我都会搞砸的……"
     },
     {
       "en": ""
@@ -738,11 +738,11 @@
     },
     {
       "en": "Sana gets out of her seat and nervously rounds the corner into the bar area...",
-      "zh": ""
+      "zh": "Sana 从座位上站起来，紧张地绕过转角走进了吧台区……"
     },
     {
       "en": "She closes her eyes and takes a deep breath, though I'm not sure how much benefit it will have since I don't intend to pull any punches with this.",
-      "zh": ""
+      "zh": "她闭上眼睛深吸了一口气，不过我不确定这能有多大用，因为我根本不打算手下留情。"
     },
     {
       "en": ""
@@ -763,13 +763,13 @@
       "en": ": Umm...Hello, sir...What can I-",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 嗯……您好，先生……请问您要——"
     },
     {
       "en": ": Yeah, whatever. Give me a beer and a plate of spaghetti.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 行了行了。给我来杯啤酒，再来一盘意面。"
     },
     {
       "en": ""
@@ -790,19 +790,19 @@
       "en": ": A plate of...spaghetti?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 一盘……意面？……"
     },
     {
       "en": ": Did I stutter? Or are you just really fucking bad at your job?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我口吃了吗？还是说你的工作干得实在太他妈烂了？"
     },
     {
       "en": ": Well...I don't think so...but...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 嗯……我觉得没有……可是……"
     },
     {
       "en": ""
@@ -823,26 +823,26 @@
       "en": ": Listen kid, I’m in a hurry. So if you don’t have my spaghetti in five minutes, I’m gonna have to-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 听着，小鬼，我赶时间。要是五分钟内我的意面还没上来，我就得——"
     },
     {
       "en": ": Wait, Sana, are you crying? We literally just started.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 等等，Sana，你哭了？我们才刚开始啊。"
     },
     {
       "en": ": W...w...we...d...don’t...have any...s...sp...spaghetti...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我……我……我……我……我们……没……没有……意……意……意面……"
     },
     {
       "en": ""
     },
     {
       "en": "This is even worse than I thought.",
-      "zh": ""
+      "zh": "这比我想的还要糟。"
     },
     {
       "en": ""
@@ -851,7 +851,7 @@
       "en": ": Sana, if this is too hard-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Sana，要是这太难了——"
     },
     {
       "en": ""
@@ -872,7 +872,7 @@
       "en": ": I’LLGOGETYOURBEER!!!",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我这就去给您拿啤酒！！！"
     },
     {
       "en": ""
@@ -891,15 +891,15 @@
     },
     {
       "en": "\"Sana sprints over to the opposite side of the bar and trips over one of the mats on the",
-      "zh": ""
+      "zh": "“Sana 冲向吧台另一侧，被地上的一张地垫绊了一跤，"
     },
     {
       "en": "ground, knocking a few things off the counter.\"",
-      "zh": ""
+      "zh": "把台面上的几样东西撞了下来。“"
     },
     {
       "en": "She scrambles to pick them all up and quickly pulls the first bottle she sees out of the cooler.",
-      "zh": ""
+      "zh": "她手忙脚乱地把东西全捡起来，又赶紧从冷藏柜里抽出第一眼看到的那瓶酒。"
     },
     {
       "en": ""
@@ -920,7 +920,7 @@
       "en": ": H...Here it is...your...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 给……给您……您的……"
     },
     {
       "en": ""
@@ -941,19 +941,19 @@
       "en": ": Your...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 您的……"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
@@ -974,13 +974,13 @@
       "en": ": Ah!",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 啊！"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
@@ -1001,7 +1001,7 @@
       "en": ": I’LLBERIGHTBACK!!!",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我马上就回来！！！"
     },
     {
       "en": ""
@@ -1020,7 +1020,7 @@
     },
     {
       "en": "This is hard to watch.",
-      "zh": ""
+      "zh": "这真是不忍直视。"
     },
     {
       "en": ""
@@ -1041,25 +1041,25 @@
       "en": ": ...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Don’t laugh at me...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 别笑我……"
     },
     {
       "en": ": I’m not laughing. In fact, I feel like I owe you an apology.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我没笑。事实上，我觉得我欠你一个道歉。"
     },
     {
       "en": ""
@@ -1080,25 +1080,25 @@
       "en": ": No...You don’t...I’m just not really used to...dealing with pressure...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 不……您不用……我只是不太习惯……应对压力……"
     },
     {
       "en": ": No one has ever asked for spaghetti before...I didn’t know how to handle it...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 从来没有人点过意面……我不知道该怎么处理……"
     },
     {
       "en": ": Well, if it makes you feel any better, I don't think a real customer will ever ask for spaghetti. Especially considering you don't have a menu.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好吧，要是这能让你好受一点的话，我觉得真正的客人是不会点意面的。尤其考虑到你们连菜单都没有。"
     },
     {
       "en": ": But, in the event that someone does, it’s always okay to just tell them that you don’t have any.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不过万一真有人点，你完全可以直说你们没有。"
     },
     {
       "en": ""
@@ -1119,85 +1119,85 @@
       "en": ": B...But when I tried that and you...said...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 可、可是我刚才那么说了，然后你就……"
     },
     {
       "en": ": What I said doesn't matter.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我说什么不重要。"
     },
     {
       "en": ": I’m sure you’ve heard that whole thing about how the customer is always correct, right?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你肯定听过那句“顾客永远是对的”吧？"
     },
     {
       "en": ": Y...Yes...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 嗯……是的……"
     },
     {
       "en": ": Well, that’s not true. In fact, the customer is pretty much always wrong.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那不是真的。事实上，顾客基本永远是错的。"
     },
     {
       "en": ": You know this place better than they do, so be assertive and tell me that you don’t have any spaghetti.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你比他们更了解这个地方，所以硬气一点，告诉我你们没有意面。"
     },
     {
       "en": ": ...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Like...Like right now?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 就……就现在吗？……"
     },
     {
       "en": ": Right now.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 就现在。"
     },
     {
       "en": ": ...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Deny me the spaghetti, Sana.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 拒绝给我意面，Sana。"
     },
     {
       "en": ": We...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我们……"
     },
     {
       "en": ": We don’t have any spaghetti...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我们没有意面……"
     },
     {
       "en": ": Perfect. That concludes our lesson for the day.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 完美。今天的课就上到这里。"
     },
     {
       "en": ""
@@ -1216,15 +1216,15 @@
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1245,19 +1245,19 @@
       "en": ": I’m...so confused...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我……好困惑……"
     },
     {
       "en": ": Was that...really supposed to help?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 那……真的有用吗？……"
     },
     {
       "en": ": It probably could have gone a little better on both of our ends. But don't be surprised if you wake up tomorrow and you're suddenly an expert at talking to people.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我们双方大概都本可以做得更好一点。不过要是你明天一觉醒来，突然变成了跟人聊天的专家，也别太惊讶。"
     },
     {
       "en": ""
@@ -1278,49 +1278,49 @@
       "en": ": Well...at least it was...a little fun?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 嗯……至少……有那么一点开心？……"
     },
     {
       "en": ": Are you still crying?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你还在哭吗？"
     },
     {
       "en": ": ...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Sana.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Sana。"
     },
     {
       "en": ": I’ll...try not to freak out next time! I promise!",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 我……下次会努力不慌的！我保证！"
     },
     {
       "en": ": And I will try not to make you cry. But, honestly, I'm not sure how much good that's going to do when all it took was spaghetti.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我也会努力不把你弄哭。不过说实话，光是一盘意面就够了，我不确定这能有多大用。"
     },
     {
       "en": ": It was...more the...context of the spaghetti that...made me cry...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ""
+      "zh": ": 让我哭的……与其说是意面……不如说是那个意面出现的情境……"
     },
     {
       "en": ": I'm sure it was, Sana.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我想是的，Sana。"
     },
     {
       "en": ""
@@ -1341,30 +1341,30 @@
       "en": ": I'm sure it was.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我想是的。"
     },
     {
       "en": ""
     },
     {
       "en": "Sana and I say our goodbyes and she walks me to the door so she can lock it behind me.",
-      "zh": ""
+      "zh": "Sana 和我道了别，她把我送到门口，好在我出去之后把门锁上。"
     },
     {
       "en": "Was today actually successful in teaching her anything?",
-      "zh": ""
+      "zh": "今天真的教会她什么了吗？"
     },
     {
       "en": "No.",
-      "zh": ""
+      "zh": "没有。"
     },
     {
       "en": "But, like she said-",
-      "zh": ""
+      "zh": "不过，就像她说的——"
     },
     {
       "en": "At least it was a little fun.",
-      "zh": ""
+      "zh": "至少还挺开心的。"
     },
     {
       "en": ""
@@ -1381,23 +1381,23 @@
       "en": ""
     },
     {
-      "en": "Sana’s affection has increased to [sana_love]!",
-      "zh": ""
+      "en": "{i}Sana’s affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]！{/i}"
     },
     {
       "en": ""
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""

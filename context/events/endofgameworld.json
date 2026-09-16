@@ -1,6 +1,6 @@
 {
   "label": "endofgameworld",
-  "title_zh": "",
+  "title_zh": "重新开始",
   "lines": [
     {
       "en": ""
@@ -25,7 +25,7 @@
       "en": ": The time has come for me to save my family. I will complete my journey and defeat the final boss of Sensei-Quest.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是时候去拯救我的家人了。我要走完这趟旅程，打败《Sensei 大冒险》的最终 boss。"
     },
     {
       "en": ""
@@ -42,8 +42,8 @@
       "en": ""
     },
     {
-      "en": "Sensei’s HP has increased to 50!",
-      "zh": ""
+      "en": "{i}Sensei’s HP has increased to 50!{/i}",
+      "zh": "{i}Sensei 的 HP 提升到了 50！{/i}"
     },
     {
       "en": ""
@@ -52,7 +52,7 @@
       "en": ": That would have been really helpful like four boss fights ago.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 这玩意儿要是早在四场 boss 战之前给我，那该多有用了。"
     },
     {
       "en": ""
@@ -70,12 +70,12 @@
       "en": ""
     },
     {
-      "en": "With a head full of hopes and dreams, our brave hero sets off toward Meowri’s house.",
-      "zh": ""
+      "en": "{i}With a head full of hopes and dreams, our brave hero sets off toward Meowri’s house.{/i}",
+      "zh": "{i}满怀着希望与梦想，我们勇敢的英雄出发前往 Meowri 的家。{/i}"
     },
     {
-      "en": "In the final version of the game, a forty-five minute cutscene depicting his journey will be shown here.",
-      "zh": ""
+      "en": "{i}In the final version of the game, a forty-five minute cutscene depicting his journey will be shown here.{/i}",
+      "zh": "{i}在游戏的最终版本中，这里会播放一段四十五分钟的过场动画来描绘他的旅程。{/i}"
     },
     {
       "en": ""
@@ -93,8 +93,8 @@
       "en": ""
     },
     {
-      "en": "For now, please accept this picture of a binturong.",
-      "zh": ""
+      "en": "{i}For now, please accept this picture of a binturong.{/i}",
+      "zh": "{i}现在，请先收下这张熊狸的照片。{/i}"
     },
     {
       "en": ""
@@ -103,7 +103,7 @@
       "en": ": What the hell is a binturong?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 熊狸到底是个什么鬼东西？"
     },
     {
       "en": ""
@@ -112,8 +112,8 @@
       "en": ""
     },
     {
-      "en": "SENSEIDEX: The binturong, also known as a bearcat, is a carnivorous mammal native to south and southeast Asia. Their status in the wild is currently assessed as “vulnerable.”",
-      "zh": ""
+      "en": "{i}SENSEIDEX: The binturong, also known as a bearcat, is a carnivorous mammal native to south and southeast Asia. Their status in the wild is currently assessed as “vulnerable.”{/i}",
+      "zh": "{i}SENSEIDEX：熊狸，又名「bearcat」，是一种原产于南亚和东南亚的食肉哺乳动物。其野生种群现状目前被评估为「易危」。{/i}"
     },
     {
       "en": ""
@@ -122,7 +122,7 @@
       "en": ": Since when do I have a Senseidex and why is the only entry in it an endangered animal?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我什么时候有了个 SENSEIDEX？而且为什么里面唯一的条目还是一种濒危动物？"
     },
     {
       "en": ""
@@ -131,8 +131,8 @@
       "en": ""
     },
     {
-      "en": "SENSEIDEX: Correction — the binturong is not “endangered.” It is currently “vulnerable,” as previously mentioned. Please pay attention, idiot.",
-      "zh": ""
+      "en": "{i}SENSEIDEX: Correction — the binturong is not “endangered.” It is currently “vulnerable,” as previously mentioned. Please pay attention, idiot.{/i}",
+      "zh": "{i}SENSEIDEX：更正——熊狸并非「濒危」。如前文所述，它目前的状态是「易危」。请注意听讲，笨蛋。{/i}"
     },
     {
       "en": ""
@@ -141,7 +141,7 @@
       "en": ": And why is it so rude?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 还有，它说话为什么这么冲？"
     },
     {
       "en": ""
@@ -159,12 +159,12 @@
       "en": ""
     },
     {
-      "en": "After the forty-five minute walk to Meowri’s house concludes, Sensei knocks on Meowri’s door and prepares himself to leave a survey detailing how he thinks the Shiawase Group can improve Sensei-Quest!",
-      "zh": ""
+      "en": "{i}After the forty-five minute walk to Meowri’s house concludes, Sensei knocks on Meowri’s door and prepares himself to leave a survey detailing how he thinks the Shiawase Group can improve Sensei-Quest!{/i}",
+      "zh": "{i}在长达四十五分钟的步行之后，Sensei 敲响了 Meowri 家的门，并做好了留下问卷调查的准备——问卷里详细写着他认为 Shiawase 集团该如何改进《Sensei 大冒险》！{/i}"
     },
     {
-      "en": "Please note that Sensei will receive 50 RAINBOW COINS for completing this survey!",
-      "zh": ""
+      "en": "{i}Please note that Sensei will receive 50 RAINBOW COINS for completing this survey!{/i}",
+      "zh": "{i}请注意，完成这份问卷后 Sensei 将获得 50 枚彩虹币！{/i}"
     },
     {
       "en": ""
@@ -173,14 +173,14 @@
       "en": ": But I’ve already passed the point of no return. What am I even supposed to do with those now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 可我已经走过不归路了。现在给我这些还有什么用？"
     },
     {
       "en": ""
     },
     {
-      "en": "You can use them in new game plus — where all encounters are ten times harder with mild variations.",
-      "zh": ""
+      "en": "{i}You can use them in new game plus — where all encounters are ten times harder with mild variations.{/i}",
+      "zh": "{i}你可以在二周目里使用——那里的所有遭遇战难度都会翻十倍，还会有细微的变化。{/i}"
     },
     {
       "en": ""
@@ -189,7 +189,7 @@
       "en": ": Oh god no.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哦，我的天，别啊。"
     },
     {
       "en": ""
@@ -199,15 +199,15 @@
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -225,8 +225,8 @@
       "en": ""
     },
     {
-      "en": "Sensei has arrived at Meowri’s House!",
-      "zh": ""
+      "en": "{i}Sensei has arrived at {b}Meowri’s House{/b}!{/i}",
+      "zh": "{i}Sensei 抵达了 Meowri 的家！{/i}"
     },
     {
       "en": ""
@@ -235,7 +235,7 @@
       "en": ": This is a McDonald’s.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 这是一家麦当劳。"
     },
     {
       "en": ""
@@ -256,31 +256,31 @@
       "en": ": Hello again, brave hero! Did you enjoy your journey?",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 又见面了，勇敢的英雄！你喜欢这趟旅程吗？"
     },
     {
       "en": ": No.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不喜欢。"
     },
     {
       "en": ": Really? Why not?",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 真的吗？为什么呢？"
     },
     {
-      "en": ": Probably because like 95%% of enemy attacks dealt the same amount of damage while my attacks needed to be made in an extremely specific order with no logic to it whatsoever.",
+      "en": ": Probably because like 95%% of enemy attacks dealt the same amount of damage while {i}my{/i} attacks needed to be made in an extremely specific order with no logic to it whatsoever.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 大概是因为差不多 95%% 的敌人攻击造成的伤害都一模一样，而{i}我的{/i}攻击却必须以极其特定的顺序打出，而且毫无逻辑可言。"
     },
     {
       "en": ": The boss health bars never moved, I could never see what my HP or PREMIUM CURRENCY levels were, there were only two vendors and three BGM tracks, and like all of the non-boss enemies were slimes.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": boss 的血条从来不动，我永远看不到自己的 HP 和高级货币余额，整款游戏只有两个商人、三首 BGM，而且几乎所有非 boss 敌人都是史莱姆。"
     },
     {
       "en": ""
@@ -292,7 +292,7 @@
       "en": ": Your feedback has been recorded!",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 您的反馈已记录！"
     },
     {
       "en": ""
@@ -304,19 +304,19 @@
       "en": ": Please accept these 50 RAINBOW COINS as thanks for playing Sensei-Quest!",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 请收下这 50 枚彩虹币，感谢您游玩《Sensei 大冒险》！"
     },
     {
       "en": ": I want all of my time back. No one told me I was going to have to beat an entire RPG just to get on with the Halloween update.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我想把花掉的时间全部要回来。没人告诉过我，为了推进万圣节更新，我还得先通关一整部 RPG。"
     },
     {
       "en": ": What’s that? You’re ready to beat the game? Why didn’t you just say so?!",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 什么？你已经准备好通关了？那你干嘛不早说嘛？！"
     },
     {
       "en": ""
@@ -325,8 +325,8 @@
       "en": ""
     },
     {
-      "en": "Meowri has removed the Four Orbs of Power from Sensei’s inventory!",
-      "zh": ""
+      "en": "{i}Meowri has removed the {b}Four Orbs of Power{/b} from Sensei’s inventory!{/i}",
+      "zh": "{i}Meowri 从 Sensei 的背包里取走了四颗力量宝珠！{/i}"
     },
     {
       "en": ""
@@ -335,55 +335,55 @@
       "en": ": Hey! I worked really hard for those!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 喂！那些可是我辛辛苦苦才拿到手的！"
     },
     {
       "en": ": You sure did! But in order to face the final boss, we need to take them to a special location that only I know about and perform a secret summoning ritual.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 确实是！但要面对最终 boss，我们得把它们带到只有我知道的一个特殊地点，举行一场秘密的召唤仪式。"
     },
     {
       "en": ": Can we not just summon the boss inside this McDonald’s? I’ve been surviving off of Greenis bits for weeks.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 就不能直接在这家麦当劳里把 boss 召唤出来吗？我已经连着好几个星期靠啃 Greenis 的碎肉活着了。"
     },
     {
       "en": ": You’ll be able to eat real food once you defeat the final boss!",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 等你打败最终 boss，就能吃上真正的食物了！"
     },
     {
       "en": ": And also, if you die, you have to start the whole game all over.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 还有，如果你死了，就得从头再玩一遍整款游戏。"
     },
     {
-      "en": ": I have to what?",
+      "en": ": I have to {i}what?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我得{i}怎么样？{/i}"
     },
     {
       "en": ": Yup! So be really careful to not make any mistakes!",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 没错！所以千万要小心，别犯任何错误！"
     },
     {
       "en": ": Or just save the game. That works too, I guess.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 或者你也可以存档。我猜那样也行吧。"
     },
     {
       "en": ": I’m never playing another Shiawase Group game for as long as I live.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我这辈子都不会再碰任何一款 Shiawase 集团的游戏了。"
     },
     {
       "en": ""
@@ -404,20 +404,20 @@
       "en": ": That just means you can play more Sensei-Quest!",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那不就意味着你可以玩更多《Sensei 大冒险》了嘛！"
     },
     {
       "en": ": Please, anything but that.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 求你了，什么都行，别是这个。"
     },
     {
       "en": ""
     },
     {
-      "en": "Meowri and Sensei exit Meowri’s house before Meowri transforms into a car!",
-      "zh": ""
+      "en": "{i}Meowri and Sensei exit Meowri’s house before Meowri transforms into a car!{/i}",
+      "zh": "{i}Meowri 和 Sensei 走出 Meowri 的家，紧接着 Meowri 就变成了一辆车！{/i}"
     },
     {
       "en": ""
@@ -426,24 +426,24 @@
       "en": ": ??????????",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ??????????"
     },
     {
       "en": ": Don’t ask questions! Just get in!",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 别问！快上车！"
     },
     {
       "en": ""
     },
     {
-      "en": "Sensei enters Meowri, but in a way that provides no sexual pleasure to him whatsoever!",
-      "zh": ""
+      "en": "{i}Sensei enters Meowri, but in a way that provides no sexual pleasure to him whatsoever!{/i}",
+      "zh": "{i}Sensei 进入了 Meowri 体内——不过是以一种完全没给他带来任何性快感的方式！{/i}"
     },
     {
-      "en": "He takes his place in the middle section of the backseat (which does not have a seatbelt) because he is very daring and brave and also kind of weird.",
-      "zh": ""
+      "en": "{i}He takes his place in the middle section of the backseat (which does not have a seatbelt) because he is very daring and brave and also kind of weird.{/i}",
+      "zh": "{i}他在后排中间的位置坐了下来（那个位置没有安全带），因为他非常大胆、非常勇敢，而且还有点奇怪。{/i}"
     },
     {
       "en": ""
@@ -452,7 +452,7 @@
       "en": ": I am a force to be reckoned with.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我是一股不容小觑的力量。"
     },
     {
       "en": ""
@@ -470,8 +470,8 @@
       "en": ""
     },
     {
-      "en": "But then Meowri is T-boned by another vehicle and Sensei takes 50 damage!",
-      "zh": ""
+      "en": "{i}But then Meowri is T-boned by another vehicle and Sensei takes 50 damage!{/i}",
+      "zh": "{i}然而 Meowri 随即被另一辆车从侧面撞上，Sensei 受到了 50 点伤害！{/i}"
     },
     {
       "en": ""
@@ -489,8 +489,8 @@
       "en": ""
     },
     {
-      "en": "Sensei has died!",
-      "zh": ""
+      "en": "{i}Sensei has died!{/i}",
+      "zh": "{i}Sensei 死了！{/i}"
     },
     {
       "en": ""
@@ -508,8 +508,8 @@
       "en": ""
     },
     {
-      "en": "Thanks for playing Sensei-Quest!",
-      "zh": ""
+      "en": "{i}Thanks for playing Sensei-Quest!{/i}",
+      "zh": "{i}感谢游玩《Sensei 大冒险》！{/i}"
     },
     {
       "en": ""
@@ -536,34 +536,34 @@
       "en": ""
     },
     {
-      "en": ": Just a little more...",
+      "en": ": {size=-15}Just a little more...{/size}",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": {size=-15}再坚持一下……{/size}"
     },
     {
-      "en": ": Aaaand...",
+      "en": ": {size=-13}Aaaand...{/size}",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": {size=-13}然——后……{/size}"
     },
     {
-      "en": ": Done!",
+      "en": ": {size=-11}Done!{/size}",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": {size=-11}好了！{/size}"
     },
     {
-      "en": ": Sensei! Are you still with me?",
+      "en": ": {size=-9}Sensei! Are you still with me?{/size}",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": {size=-9}Sensei！你还在吗？{/size}"
     },
     {
-      "en": ": Come on! Wake up!",
+      "en": ": {size=-7}Come on! Wake up!{/size}",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": {size=-7}快点！醒醒！{/size}"
     },
     {
       "en": ""
@@ -584,14 +584,14 @@
       "en": ": Mm...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯……"
     },
     {
       "en": ""
     },
     {
-      "en": "Sensei has revived!",
-      "zh": ""
+      "en": "{i}Sensei has revived!{/i}",
+      "zh": "{i}Sensei 复活了！{/i}"
     },
     {
       "en": ""
@@ -600,44 +600,44 @@
       "en": ": Meowri?...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Meowri？……"
     },
     {
       "en": ": What happened?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 发生什么事了？"
     },
     {
       "en": ": We were in a terrible accident! I had to rewrite the game’s ending just to bring you back.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我们遭遇了一场可怕的事故！为了把你带回来，我不得不重写了游戏的结局。"
     },
     {
       "en": ": How do you feel?",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你感觉怎么样？"
     },
     {
       "en": ": Like I just died.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 感觉就像我刚刚死了一样。"
     },
     {
-      "en": ": Well, you did just die. But you’re okay now! Or at least...you need to hurry up and get okay. The final boss will be appearing any second now.",
+      "en": ": Well, you {i}did{/i} just die. But you’re okay now! Or at least...you need to hurry up and {i}get{/i} okay. The final boss will be appearing any second now.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 呃，你刚刚{i}确实{/i}是死了。不过你现在没事了！或者说……你得赶紧{i}好起来{/i}。最终 boss 随时都可能出现。"
     },
     {
       "en": ""
     },
     {
-      "en": "Sensei gazes up at Meowri. A small sphere hovers and pulsates several inches above her hands, which are currently clasped together as if to receive the Eucharist.",
-      "zh": ""
+      "en": "{i}Sensei gazes up at Meowri. A small sphere hovers and pulsates several inches above her hands, which are currently clasped together as if to receive the Eucharist.{/i}",
+      "zh": "{i}Sensei 抬头望向 Meowri。一颗小球悬在她双手上方几英寸的地方，脉动起伏，而她的双手此刻正合十，像是要领受圣体一般。{/i}"
     },
     {
       "en": ""
@@ -646,48 +646,48 @@
       "en": ": What is that thing?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那是什么东西？"
     },
     {
       "en": ": A new beginning.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 一个崭新的开始。"
     },
     {
       "en": ""
     },
     {
-      "en": "It is at that moment that Sensei realizes what the sphere is — the Four Orbs of Power fused together into the Ancient Orb.",
-      "zh": ""
+      "en": "{i}It is at that moment that Sensei realizes what the sphere is — the {b}Four Orbs of Power{/b} fused together into the {b}Ancient Orb.{/b}{/i}",
+      "zh": "{i}就在那一刻，Sensei 意识到那颗球究竟是什么——{b}四颗力量宝珠{/b}融合而成的{b}远古宝珠。{/b}{/i}"
     },
     {
       "en": ""
     },
     {
-      "en": ": This is the final boss. This is what you must defeat if you ever want to see your family again.",
+      "en": ": {i}This{/i} is the final boss. {i}This{/i} is what you must defeat if you ever want to see your family again.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": {i}这{/i}就是最终 boss。{i}这{/i}就是你必须打败的东西，否则你再也见不到你的家人。"
     },
     {
-      "en": ": It’s what you must defeat if you ever want to see anything again.",
+      "en": ": It’s what you must defeat if you ever want to see {i}anything{/i} again.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 也是你必须打败的东西，否则你再也见不到{i}任何{/i}东西。"
     },
     {
       "en": ": There is a dark entity within each and every one of us — and this one is yours.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我们每个人体内都栖息着一个黑暗的实体——而这一颗，是属于你的那个。"
     },
     {
       "en": ""
     },
     {
-      "en": "The sphere begins to rapidly expand in size. Meowri takes a step back as it now hovers on its own, without what little assistance her hands provided before.",
-      "zh": ""
+      "en": "{i}The sphere begins to rapidly expand in size. Meowri takes a step back as it now hovers on its own, without what little assistance her hands provided before.{/i}",
+      "zh": "{i}球开始迅速膨胀。Meowri 后退一步，如今它已能自行悬浮，不再需要她双手先前的那点托扶。{/i}"
     },
     {
       "en": ""
@@ -696,13 +696,13 @@
       "en": ": Good luck, hero.",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 祝你好运，英雄。"
     },
     {
       "en": ": The final battle begins now!",
       "spk": "Meowri",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 最终决战，现在开始！"
     },
     {
       "en": ""
@@ -720,8 +720,8 @@
       "en": ""
     },
     {
-      "en": "The Orb appeared!",
-      "zh": ""
+      "en": "{i}The Orb appeared!",
+      "zh": "{i}宝珠出现了！{/i}"
     },
     {
       "en": ""
@@ -741,20 +741,20 @@
       "en": ": I can’t...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我做不到……"
     },
     {
       "en": ": I can’t do it...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我办不到……"
     },
     {
       "en": ""
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul, but there is no life left in him to drain.",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul, but there is no life left in him to drain.{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处，可他体内已经没有可供汲取的生命了。{/i}"
     },
     {
       "en": ""
@@ -772,36 +772,36 @@
       "en": ""
     },
     {
-      "en": "Sensei collapses to the ground, scared and confused.",
-      "zh": ""
+      "en": "{i}Sensei collapses to the ground, scared and confused.{/i}",
+      "zh": "{i}Sensei 瘫倒在地，恐惧又茫然。{/i}"
     },
     {
-      "en": "The Orb does not move. But as Sensei begins to fade away, he can faintly make out the sounds of whispers bleeding from the dark entity’s center.",
-      "zh": ""
+      "en": "{i}The Orb does not move. But as Sensei begins to fade away, he can faintly make out the sounds of whispers bleeding from the dark entity’s center.{/i}",
+      "zh": "{i}宝珠没有移动。但当 Sensei 开始消散时，他隐约能听见从那黑暗实体的中心渗出的低语。{/i}"
     },
     {
-      "en": "“Believe...in...God...”",
-      "zh": ""
+      "en": "{i}“Believe...in...God...”{/i}",
+      "zh": "{i}「相信……上帝……」{/i}"
     },
     {
-      "en": "But is that what the whispers are actually commanding? Or is that just what he expects to hear?",
-      "zh": ""
+      "en": "{i}But is that what the whispers are actually commanding? Or is that just what he expects to hear?{/i}",
+      "zh": "{i}可那低语命令的当真是这句话吗？还是说，那只是他自己期待听到的东西？{/i}"
     },
     {
-      "en": "In his final moments, he changes everything about himself.",
-      "zh": ""
+      "en": "{i}In his final moments, he changes everything about himself.{/i}",
+      "zh": "{i}在最后的时刻，他改变了自己的一切。{/i}"
     },
     {
-      "en": "He becomes a better man.",
-      "zh": ""
+      "en": "{i}He becomes a better man.{/i}",
+      "zh": "{i}他变成了一个更好的人。{/i}"
     },
     {
-      "en": "He finally learns what it is that makes the earth move.",
-      "zh": ""
+      "en": "{i}He finally learns what it is that makes the earth move.{/i}",
+      "zh": "{i}他终于明白了是什么让大地运转。{/i}"
     },
     {
-      "en": "But it is too late for belief alone to change anything.",
-      "zh": ""
+      "en": "{i}But it is too late for belief alone to change anything.{/i}",
+      "zh": "{i}但事到如今，光有信念已经改变不了任何事了。{/i}"
     },
     {
       "en": ""
@@ -819,8 +819,8 @@
       "en": ""
     },
     {
-      "en": "Sensei dies!",
-      "zh": ""
+      "en": "{i}Sensei dies!{/i}",
+      "zh": "{i}Sensei 死了！{/i}"
     },
     {
       "en": ""
@@ -852,7 +852,7 @@
     },
     {
       "en": "Attack",
-      "zh": ""
+      "zh": "攻击"
     },
     {
       "en": "menu:",
@@ -860,23 +860,23 @@
     },
     {
       "en": "Tackle",
-      "zh": ""
+      "zh": "冲撞"
     },
     {
-      "en": "Sensei used Tackle!",
-      "zh": ""
+      "en": "{i}Sensei used Tackle!{/i}",
+      "zh": "{i}Sensei 使用了冲撞！{/i}"
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -897,11 +897,11 @@
     },
     {
       "en": "Venom Spit",
-      "zh": ""
+      "zh": "毒液喷射"
     },
     {
-      "en": "Sensei used Venom Spit!",
-      "zh": ""
+      "en": "{i}Sensei used Venom Spit!{/i}",
+      "zh": "{i}Sensei 使用了毒液喷射！{/i}"
     },
     {
       "en": ""
@@ -911,16 +911,16 @@
       "zh": ""
     },
     {
-      "en": "His venom pierces The Orb’s outer shell.",
-      "zh": ""
+      "en": "{i}His venom pierces The Orb’s outer shell.{/i}",
+      "zh": "{i}他的毒液刺穿了宝珠的外壳。{/i}"
     },
     {
-      "en": "It is uncertain whether it had any effect...",
-      "zh": ""
+      "en": "{i}It is uncertain whether it had any effect...{/i}",
+      "zh": "{i}不确定有没有效果……{/i}"
     },
     {
-      "en": "The Orb gazes deep into Sensei’s soul!",
-      "zh": ""
+      "en": "{i}The Orb gazes deep into Sensei’s soul!{/i}",
+      "zh": "{i}宝珠凝视着 Sensei 的灵魂深处！{/i}"
     },
     {
       "en": ""
@@ -944,16 +944,16 @@
       "zh": ""
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -974,11 +974,11 @@
     },
     {
       "en": "Banana Blast",
-      "zh": ""
+      "zh": "香蕉爆击"
     },
     {
-      "en": "Sensei used Banana Blast!",
-      "zh": ""
+      "en": "{i}Sensei used Banana Blast!{/i}",
+      "zh": "{i}Sensei 使用了香蕉爆击！{/i}"
     },
     {
       "en": ""
@@ -988,12 +988,12 @@
       "zh": ""
     },
     {
-      "en": "The Orb inhales them, inheriting their color for a split second before reverting to its original form.",
-      "zh": ""
+      "en": "{i}The Orb inhales them, inheriting their color for a split second before reverting to its original form.{/i}",
+      "zh": "{i}宝珠把它们吸了进去，颜色在一瞬间染成了那片金黄，随后又恢复了原本的模样。{/i}"
     },
     {
-      "en": "The Orb gazes deep into Sensei’s soul!",
-      "zh": ""
+      "en": "{i}The Orb gazes deep into Sensei’s soul!{/i}",
+      "zh": "{i}宝珠凝视着 Sensei 的灵魂深处！{/i}"
     },
     {
       "en": ""
@@ -1017,16 +1017,16 @@
       "zh": ""
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1047,11 +1047,11 @@
     },
     {
       "en": "Bubble Beam",
-      "zh": ""
+      "zh": "泡沫光线"
     },
     {
-      "en": "Sensei used Bubble Beam!",
-      "zh": ""
+      "en": "{i}Sensei used Bubble Beam!{/i}",
+      "zh": "{i}Sensei 使用了泡沫光线！{/i}"
     },
     {
       "en": ""
@@ -1061,12 +1061,12 @@
       "zh": ""
     },
     {
-      "en": "The bubbles appear to distract The Orb!",
-      "zh": ""
+      "en": "{i}The bubbles appear to distract The Orb!{/i}",
+      "zh": "{i}泡泡似乎让宝珠分了神！{/i}"
     },
     {
-      "en": "The Orb hesitates!",
-      "zh": ""
+      "en": "{i}The Orb hesitates!{/i}",
+      "zh": "{i}宝珠犹豫了！{/i}"
     },
     {
       "en": ""
@@ -1090,16 +1090,16 @@
       "zh": ""
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1120,23 +1120,23 @@
     },
     {
       "en": "Sanitize",
-      "zh": ""
+      "zh": "消毒"
     },
     {
-      "en": "Sensei used Sanitize!",
-      "zh": ""
+      "en": "{i}Sensei used Sanitize!{/i}",
+      "zh": "{i}Sensei 使用了消毒！{/i}"
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1157,11 +1157,11 @@
     },
     {
       "en": "Fertilize",
-      "zh": ""
+      "zh": "施肥"
     },
     {
-      "en": "Sensei used Fertilize!",
-      "zh": ""
+      "en": "{i}Sensei used Fertilize!{/i}",
+      "zh": "{i}Sensei 使用了施肥！{/i}"
     },
     {
       "en": ""
@@ -1171,36 +1171,36 @@
       "zh": ""
     },
     {
-      "en": "It’s no use!",
-      "zh": ""
+      "en": "{i}It’s no use!{/i}",
+      "zh": "{i}没有用！{/i}"
     },
     {
-      "en": "The Orb expands in size!",
-      "zh": ""
+      "en": "{i}The Orb expands in size!{/i}",
+      "zh": "{i}宝珠变大了！{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 50 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 50 damage!{/i}",
+      "zh": "{i}Sensei 受到 50 点伤害！{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 100 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 100 damage!{/i}",
+      "zh": "{i}Sensei 受到 100 点伤害！{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 1000 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 1000 damage!{/i}",
+      "zh": "{i}Sensei 受到 1000 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1209,7 +1209,7 @@
       "en": ": Ack-!?!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 呃啊——！？！"
     },
     {
       "en": ""
@@ -1227,8 +1227,8 @@
       "en": ""
     },
     {
-      "en": "Sensei collapses to the ground! It’s hopeless!",
-      "zh": ""
+      "en": "{i}Sensei collapses to the ground! It’s hopeless!{/i}",
+      "zh": "{i}Sensei 瘫倒在地！已经无望了！{/i}"
     },
     {
       "en": ""
@@ -1237,7 +1237,7 @@
       "en": ": I can’t...do it...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我……办不到……"
     },
     {
       "en": ""
@@ -1246,26 +1246,26 @@
       "en": ""
     },
     {
-      "en": "The Orb moves closer!",
-      "zh": ""
+      "en": "{i}The Orb moves closer!{/i}",
+      "zh": "{i}宝珠逼近了！{/i}"
     },
     {
-      "en": "With every inch, Sensei can hear whispers bleeding out of The Orb’s core.",
-      "zh": ""
+      "en": "{i}With every inch, Sensei can hear whispers bleeding out of The Orb’s core.{/i}",
+      "zh": "{i}每靠近一寸，Sensei 都能听见从宝珠核心渗出的低语。{/i}"
     },
     {
-      "en": "Tendrils spring out of its invisible mouth and tear him limb from limb!",
-      "zh": ""
-    },
-    {
-      "en": ""
+      "en": "{i}Tendrils spring out of its invisible mouth and tear him limb from limb!{/i}",
+      "zh": "{i}触手从它那张看不见的嘴里弹射而出，把他撕成了碎片！{/i}"
     },
     {
       "en": ""
     },
     {
-      "en": "Sensei takes 2000 damage!",
-      "zh": ""
+      "en": ""
+    },
+    {
+      "en": "{i}Sensei takes 2000 damage!{/i}",
+      "zh": "{i}Sensei 受到 2000 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1274,7 +1274,7 @@
       "en": ": Stop! Please! I’ll leave you alone! I’ll be good! I’ll stay here forever!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 住手！求你了！我不打扰你了！我会乖乖的！我永远待在这儿！"
     },
     {
       "en": ""
@@ -1283,12 +1283,12 @@
       "en": ""
     },
     {
-      "en": "The Orb’s tendrils tear out Sensei’s tongue!",
-      "zh": ""
+      "en": "{i}The Orb’s tendrils tear out Sensei’s tongue!{/i}",
+      "zh": "{i}宝珠的触手撕掉了 Sensei 的舌头！{/i}"
     },
     {
-      "en": "ERROR: Sensei has taken more damage that the game engine allows. This action is invalid.",
-      "zh": ""
+      "en": "{i}ERROR: Sensei has taken more damage that the game engine allows. This action is invalid.{/i}",
+      "zh": "{i}错误：Sensei 受到的伤害超出了游戏引擎允许的上限。该操作无效。{/i}"
     },
     {
       "en": ""
@@ -1297,7 +1297,7 @@
       "en": ": ^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ^^^$@$@#@!@#!#$!$!@#!#!$!$!!!$!^^^^!@$!#"
     },
     {
       "en": ""
@@ -1306,22 +1306,12 @@
       "en": ""
     },
     {
-      "en": "The Orb begins to absorb his body!",
-      "zh": ""
+      "en": "{i}The Orb begins to absorb his body!{/i}",
+      "zh": "{i}宝珠开始吞噬他的身体！{/i}"
     },
     {
-      "en": "FATAL ERROR: HERO can not be detected. This action is invalid.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "The Orb begins to ç̵̙̮̹̜̟̖̟̫̯̮̣̓̿̅̓̀̀͝ô̶̢̗̠̻̗͚͈̲̮̳͖̯͑̚ͅͅņ̸̛̛̮̪̪̻͖̗̤̲̻̩̂̀̏̅̏́̇͆̔̌ş̵̢̩̞̭̖͎̹̪̘͖͚̞̻̌͂̽̐̎̈́̋̉̌͛͜ͅu̷̡̫̝̰̻͌̈́͜ṃ̴̢͈̹̊̾͗̔̚͝ȩ̵̣͓̱̬̮̭͍̼͍̞̺̠̘̋͛̃̾̀̆̀̍͘!",
-      "zh": ""
+      "en": "{i}FATAL ERROR: {b}HERO{/b} can not be detected. This action is invalid.{/i}",
+      "zh": "{i}致命错误：检测不到 HERO。该操作无效。{/i}"
     },
     {
       "en": ""
@@ -1330,8 +1320,18 @@
       "en": ""
     },
     {
-      "en": "FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR.",
-      "zh": ""
+      "en": "{i}The Orb begins to ç̵̙̮̹̜̟̖̟̫̯̮̣̓̿̅̓̀̀͝ô̶̢̗̠̻̗͚͈̲̮̳͖̯͑̚ͅͅņ̸̛̛̮̪̪̻͖̗̤̲̻̩̂̀̏̅̏́̇͆̔̌ş̵̢̩̞̭̖͎̹̪̘͖͚̞̻̌͂̽̐̎̈́̋̉̌͛͜ͅu̷̡̫̝̰̻͌̈́͜ṃ̴̢͈̹̊̾͗̔̚͝ȩ̵̣͓̱̬̮̭͍̼͍̞̺̠̘̋͛̃̾̀̆̀̍͘!{/i}",
+      "zh": "{i}宝珠开始（ç̵̙̮̹̜̟̖̟̫̯̮̣̓̿̅̓̀̀͝ô̶̢̗̠̻̗͚͈̲̮̳͖̯͑̚ͅͅņ̸̛̛̮̪̪̻͖̗̤̲̻̩̂̀̏̅̏́̇͆̔̌ş̵̢̩̞̭̖͎̹̪̘͖͚̞̻̌͂̽̐̎̈́̋̉̌͛͜ͅu̷̡̫̝̰̻͌̈́͜ṃ̴̢͈̹̊̾͗̔̚͝ȩ̵̣͓̱̬̮̭͍̼͍̞̺̠̘̋͛̃̾̀̆̀̍͘）他了！{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}{b}FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR. FATAL ERROR.{/b}{/i}",
+      "zh": "{i}{b}致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。致命错误。{/b}{/i}"
     },
     {
       "en": ""
@@ -1376,8 +1376,8 @@
       "en": ""
     },
     {
-      "en": "WARNING: Sensei-Quest is still in early access! Some features are not yet fully-",
-      "zh": ""
+      "en": "{i}WARNING: Sensei-Quest is still in early access! Some features are not yet fully-{/i}",
+      "zh": "{i}警告：《Sensei 大冒险》仍处于抢先体验阶段！部分功能尚未完——{/i}"
     },
     {
       "en": ""
@@ -1395,24 +1395,24 @@
       "en": ""
     },
     {
-      "en": "THE ORB WON’T STOP CONSUMING!",
-      "zh": ""
+      "en": "{i}{b}{size=+25}THE ORB WON’T STOP CONSUMING!{/b}{i}{/size}",
+      "zh": "{i}{b}{size=+25}宝珠不会停止吞噬！{/size}{/b}{/i}"
     },
     {
-      "en": "THE ORB WON’T STOP CONSUMING!",
-      "zh": ""
+      "en": "{i}{b}{size=+25}THE ORB WON’T STOP CONSUMING!{/b}{i}{/size}",
+      "zh": "{i}{b}{size=+25}宝珠不会停止吞噬！{/size}{/b}{/i}"
     },
     {
-      "en": "THE ORB WON’T STOP CONSUMING!",
-      "zh": ""
+      "en": "{i}{b}{size=+25}THE ORB WON’T STOP CONSUMING!{/b}{i}{/size}",
+      "zh": "{i}{b}{size=+25}宝珠不会停止吞噬！{/size}{/b}{/i}"
     },
     {
-      "en": "THE ORB WON’T STOP CONSUMING!",
-      "zh": ""
+      "en": "{i}{b}{size=+25}THE ORB WON’T STOP CONSUMING!{/b}{i}{/size}",
+      "zh": "{i}{b}{size=+25}宝珠不会停止吞噬！{/size}{/b}{/i}"
     },
     {
-      "en": "THE ORB WON’T STOP-",
-      "zh": ""
+      "en": "{i}{b}{size=+25}THE ORB WON’T STOP-{/b}{i}{/size}",
+      "zh": "{i}{b}{size=+25}宝珠不会停止——{/size}{/b}{/i}"
     },
     {
       "en": ""
@@ -1591,16 +1591,16 @@
       "zh": ""
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1621,23 +1621,23 @@
     },
     {
       "en": "Salt Spray",
-      "zh": ""
+      "zh": "盐雾"
     },
     {
-      "en": "Sensei used Salt Spray!",
-      "zh": ""
+      "en": "{i}Sensei used Salt Spray!{/i}",
+      "zh": "{i}Sensei 使用了盐雾！{/i}"
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1658,11 +1658,11 @@
     },
     {
       "en": "Fire Ball",
-      "zh": ""
+      "zh": "火焰球"
     },
     {
-      "en": "Sensei used Fire Ball!",
-      "zh": ""
+      "en": "{i}Sensei used Fire Ball!{/i}",
+      "zh": "{i}Sensei 使用了火焰球！{/i}"
     },
     {
       "en": ""
@@ -1672,12 +1672,12 @@
       "zh": ""
     },
     {
-      "en": "The Orb absorbs the flames! They have no effect!",
-      "zh": ""
+      "en": "{i}The Orb absorbs the flames! They have no effect!{/i}",
+      "zh": "{i}宝珠吸收了火焰！毫无效果！{/i}"
     },
     {
-      "en": "The Orb gazes deep into Sensei’s soul!",
-      "zh": ""
+      "en": "{i}The Orb gazes deep into Sensei’s soul!{/i}",
+      "zh": "{i}宝珠凝视着 Sensei 的灵魂深处！{/i}"
     },
     {
       "en": ""
@@ -1701,16 +1701,16 @@
       "zh": ""
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1731,23 +1731,23 @@
     },
     {
       "en": "Use...Massage Oil?",
-      "zh": ""
+      "zh": "使用……按摩油？"
     },
     {
-      "en": "Sensei used massage oil!",
-      "zh": ""
+      "en": "{i}Sensei used massage oil!{/i}",
+      "zh": "{i}Sensei 使用了按摩油！{/i}"
     },
     {
-      "en": "His blow is absorbed by the endless void before him.",
-      "zh": ""
+      "en": "{i}His blow is absorbed by the endless void before him.{/i}",
+      "zh": "{i}他的攻击被眼前那片无尽的虚空吸收了。{/i}"
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! It eats away at his mind!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! It eats away at his mind!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！它在啃食他的心智！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1768,11 +1768,11 @@
     },
     {
       "en": "Guard",
-      "zh": ""
+      "zh": "防御"
     },
     {
-      "en": "Sensei protects himself!",
-      "zh": ""
+      "en": "{i}Sensei protects himself!{/i}",
+      "zh": "{i}Sensei 保护了自己！{/i}"
     },
     {
       "en": ""
@@ -1782,12 +1782,12 @@
       "zh": ""
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！{/i}"
     },
     {
-      "en": "Sensei shuts out the noises!",
-      "zh": ""
+      "en": "{i}Sensei shuts out the noises!{/i}",
+      "zh": "{i}Sensei 屏蔽了那些声音！{/i}"
     },
     {
       "en": ""
@@ -1811,12 +1811,12 @@
       "zh": ""
     },
     {
-      "en": "The Orb peers deep into Sensei’s soul! He can’t defend!",
-      "zh": ""
+      "en": "{i}The Orb peers deep into Sensei’s soul! He can’t defend!{/i}",
+      "zh": "{i}宝珠窥视着 Sensei 的灵魂深处！他无法防御！{/i}"
     },
     {
-      "en": "Sensei takes 20 damage!",
-      "zh": ""
+      "en": "{i}Sensei takes 20 damage!{/i}",
+      "zh": "{i}Sensei 受到 20 点伤害！{/i}"
     },
     {
       "en": ""
@@ -1852,13 +1852,13 @@
       "en": ": ..................................................................",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": .................................................................."
     },
     {
       "en": ": Are you fucking kidding me?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你他妈是在跟我开玩笑吗？"
     },
     {
       "en": ""
@@ -1876,21 +1876,21 @@
       "en": ""
     },
     {
-      "en": ": ...and so I said to the cashier, “That’s no St. Bernard! That’s my AK47!” And Sana, I swear, you should have seen the look on her face!",
+      "en": ": ...and so I said to the cashier, “That’s no St. Bernard! That’s my AK47!” And Sana, I swear, you should have seen the {i}look{/i} on her face!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ……于是我就跟收银员说，「那可不是圣伯纳犬！那是我的 AK47！」Sana，我发誓，你真该看看她当时的{i}表情{/i}！"
     },
     {
       "en": ""
     },
     {
-      "en": "Welcome to the first ever special Halloween update in Lessons in Love!",
-      "zh": ""
+      "en": "{i}Welcome to the first ever special Halloween update in Lessons in Love!{/i}",
+      "zh": "{i}欢迎来到《Lessons in Love》首个特别万圣节更新！{/i}"
     },
     {
-      "en": "THIS IS WHERE YOU’RE MEANT TO BE.",
-      "zh": ""
+      "en": "{b}{size=+25}THIS IS WHERE YOU’RE MEANT TO BE.{/size}{/b}",
+      "zh": "{b}{size=+25}这里才是你命中注定该在的地方。{/size}{/b}"
     },
     {
       "en": ""
@@ -1899,13 +1899,13 @@
       "en": ": Um...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 呃……"
     },
     {
       "en": ": Sensei?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": Sensei？"
     },
     {
       "en": ""
@@ -1923,22 +1923,22 @@
       "en": ""
     },
     {
-      "en": ": Please tell me that...at least you came here with me...",
+      "en": ": Please tell me that...at least {i}you{/i} came here with me...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 求你告诉我……至少你是跟我一起{i}来{/i}到这儿的……"
     },
     {
       "en": ": ......................",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ......................"
     },
     {
       "en": ": Please?...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 求你了？……"
     },
     {
       "en": ""
@@ -1959,7 +1959,7 @@
       "en": ": ....................what?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ....................什么？"
     },
     {
       "en": ""
@@ -1980,19 +1980,19 @@
       "en": ": Come on! Tell a joke already! No one wants to see whatever this weird sketch is!",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 快点啊！讲个笑话吧！没人想看这种莫名其妙的短剧！"
     },
     {
       "en": ": Mind your manners, Misty. Lidearel is clearly new to this game. We must remain kind to her so long as the sprout still hangs above her head.",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ""
+      "zh": ": 注意你的礼貌，Misty。Lidearel 显然刚玩这个游戏。只要她头上还挂着那根新芽，我们就得对她友善。"
     },
     {
-      "en": ": Something...seems off.",
+      "en": ": Something...seems {i}off.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 有什么地方……{i}不太对劲。{/i}"
     },
     {
       "en": ""
@@ -2013,19 +2013,19 @@
       "en": ": What’s wrong, Ayane? You seemed so confident just a minute ago.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 怎么了，Ayane？你一分钟前还那么自信呢。"
     },
     {
       "en": ": Classic case of stage fright. Same thing happened to me the first time I played the Whisky.",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ""
+      "zh": ": 典型的怯场。我第一次在 Whisky 演出的时候也是这样。"
     },
     {
       "en": ": Just do it like you practiced. I can’t even remember how many times you made us sit through your rehearsal.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 就像你排练时那样做就行。我都数不清你逼我们看了多少遍你的彩排。"
     },
     {
       "en": ""
@@ -2046,7 +2046,7 @@
       "en": ": Maybe she just needs a little encouragement? Everybody! Let’s cheer for Ayane and give her the courage she needs to perform her routine!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 也许她只是需要一点鼓励？各位！我们一起来给 Ayane 加油，给她完成表演所需要的勇气吧！"
     },
     {
       "en": ""
@@ -2067,31 +2067,31 @@
       "en": ": A-ya-ne! A-ya-ne! A-ya-ne!",
       "spk": "Class",
       "spkColor": "#e6e6e6",
-      "zh": ""
+      "zh": ": A-ya-ne！A-ya-ne！A-ya-ne！"
     },
     {
       "en": ": ...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": I want to go home.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我想回家。"
     },
     {
       "en": ""
@@ -2109,28 +2109,28 @@
       "en": ""
     },
     {
-      "en": ": ...and so I said to the cashier, “That’s no St. Bernard! That’s my AK47!” And Sana, I swear, you should have seen the look on her face!",
+      "en": ": ...and so I said to the cashier, “That’s no St. Bernard! That’s my AK47!” And Sana, I swear, you should have seen the {i}look{/i} on her face!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ……于是我就跟收银员说，「那可不是圣伯纳犬！那是我的 AK47！」Sana，我发誓，你真该看看她当时的{i}表情{/i}！"
     },
     {
       "en": ": Something wrong, Maya? You seem super confused all of a sudden. You don’t think somebody spiked your drink, do you?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 怎么了，Maya？你突然看起来超级困惑。你该不会觉得有人在你的饮料里下了药吧？"
     },
     {
       "en": ": That’s weird, I...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 好奇怪，我……"
     },
     {
       "en": ": I could have sworn I was going as Haruhi this year...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我明明记得今年我要扮的是 Haruhi……"
     },
     {
       "en": ""
@@ -2151,31 +2151,31 @@
       "en": ": Haruhi? From that super old anime?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": Haruhi？那部超老的动画里的？"
     },
     {
       "en": ": It was a light novel first, but...that’s...not really the point.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 它原本是轻小说，不过……那……不是重点。"
     },
     {
-      "en": ": You sure you’re not just misremembering? The manga club decided that we were all going to be dress up as Genshin Impact characters this year. And you were, like, really adamant about going as Mona.",
+      "en": ": You sure you’re not just misremembering? The manga club decided that we were all going to be dress up as Genshin Impact characters this year. And you were, like, {i}really{/i} adamant about going as Mona.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 你确定不是自己记错了？漫画社早就定好了，今年我们所有人都要扮成《原神》的角色。而且你当时还{i}特别{/i}坚持要扮 Mona。"
     },
     {
       "en": ": I...was?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我……是吗？"
     },
     {
       "en": ": Yeah...are you sure everything’s okay? Do you want to go lie down or something? I can come with you.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 是啊……你确定你一切都好吗？要不要去躺一会儿什么的？我可以陪你。"
     },
     {
       "en": ""
@@ -2196,13 +2196,13 @@
       "en": ": No, I...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 不，我……"
     },
     {
       "en": ": I’ll be...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我会……"
     },
     {
       "en": ""
@@ -2223,19 +2223,19 @@
       "en": ": Actually...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 其实……"
     },
     {
       "en": ": Yeah...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 好吧……"
     },
     {
       "en": ": Let’s...go lie down for a minute.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我们……去躺一会儿吧。"
     },
     {
       "en": ""
@@ -2272,15 +2272,15 @@
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": "jump halloweenfive9",

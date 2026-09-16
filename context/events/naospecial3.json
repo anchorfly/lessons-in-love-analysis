@@ -1,6 +1,6 @@
 {
   "label": "naospecial3",
-  "title_zh": "永恒,直至",
+  "title_zh": "永恒，直至",
   "lines": [
     {
       "en": ""
@@ -57,8 +57,8 @@
       "zh": "因为我感觉,我们正被跟踪。"
     },
     {
-      "en": "And I can not figure out whether I want to shield this tiny creature with my own body or lift her up and offer her as a sacrifice to whatever unknown entity wants to crawl inside of me.",
-      "zh": "而我无法分清,我究竟想用自己的身体护住这个小生物,还是把她举起来,献祭给任何想爬进我体内的未知存在。"
+      "en": "And I can not figure out whether I want to shield this tiny creature with my {i}own{/i} body or lift her up and offer her as a sacrifice to whatever unknown entity wants to crawl inside of me.",
+      "zh": "而我无法分清,我究竟想用{i}自己{/i}的身体护住这个小生物,还是把她举起来,献祭给任何想爬进我体内的未知存在。"
     },
     {
       "en": "Please find peace in her instead — as she is far more pure than I will ever be.",
@@ -227,10 +227,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": Just out of curiosity, what happens if you try to speak?",
+      "en": ": Just out of curiosity, what happens if you {i}try{/i} to speak?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 纯粹好奇,你试着说话的话,会发生什么?"
+      "zh": ": 纯粹好奇,你{i}试着{/i}说话的话,会发生什么?"
     },
     {
       "en": ""
@@ -272,10 +272,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": At the very least, it’d be polite to try. Not being able to talk isn’t just an inconvenience to you, but everyone else as well. There are only so many signs you can hold up to convey how you’re feeling.",
+      "en": ": At the very least, it’d be polite to {i}try.{/i} Not being able to talk isn’t just an inconvenience to you, but everyone else as well. There are only so many signs you can hold up to convey how you’re feeling.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 至少,试一试也算礼貌。不能说话不只给你自己带来不便,也给其他人带来不便。你能举的牌子,也就那么多块。"
+      "zh": ": 至少,{i}试一试{/i}也算礼貌。不能说话不只给你自己带来不便,也给其他人带来不便。你能举的牌子,也就那么多块。"
     },
     {
       "en": ""
@@ -389,10 +389,10 @@
       "zh": ": !..."
     },
     {
-      "en": ": It would still be cool if you tried, though.",
+      "en": ": It would still be cool if you {i}tried,{/i} though.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不过,你若肯试,还是很酷的。"
+      "zh": ": 不过,你若肯{i}试{/i},还是很酷的。"
     },
     {
       "en": ""
@@ -437,10 +437,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": Do you...not want to speak?",
+      "en": ": Do you...not {i}want{/i} to speak?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你是……不想说话吗?"
+      "zh": ": 你是……不{i}想{/i}说话吗?"
     },
     {
       "en": ""
@@ -813,8 +813,8 @@
       "zh": "违背着更好的判断,我护送一个孩子前往小镇的后半程。"
     },
     {
-      "en": "It’s the last place I should be taking her and I am fully aware of that, but I cave into this bizarre craving for the thickest, most pungent air because it is what my lungs need.",
-      "zh": "那是我最不该带她去的地方,我也完全清楚。但我向这股奇异的渴望投降了——我渴望最浓烈、最刺鼻的空气,因为那正是我的肺需要的。"
+      "en": "It’s the last place I should be taking her and I am fully aware of that, but I cave into this bizarre craving for the thickest, most pungent air because it is what my lungs {i}need.{/i}",
+      "zh": "那是我最不该带她去的地方,我也完全清楚。但我向这股奇异的渴望投降了——我渴望最浓烈、最刺鼻的空气,因为那正是我的肺{i}需要{/i}的。"
     },
     {
       "en": "Exhausted and light-headed due to a day’s worth of untainted inhalation, the dreadmist of the Old District rescues me from feelings I struggle to properly convey to you.",
@@ -1211,22 +1211,22 @@
       "en": ""
     },
     {
-      "en": ": Not even sure if we can with how my Dorm Wars contest is gonna work...",
+      "en": ": Not even sure if we {i}can{/i} with how my Dorm Wars contest is gonna work...",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 照我那场宿舍大战比赛的赛制,连能不能分开都不确定……"
+      "zh": ": 照我那场宿舍大战比赛的赛制,连{i}能{/i}不能分开都不确定……"
     },
     {
-      "en": ": How is that going to work, by the way? Because I’m not sure I even understand.",
+      "en": ": How {i}is{/i} that going to work, by the way? Because I’m not sure I even understand.",
       "spk": "Sensei",
       "spkColor": "#969696",
       "zh": ": 顺便问一句,那要怎么进行?因为我都不确定自己看懂了没。"
     },
     {
-      "en": ": Neither are we, but...I think the goal is to just...get past your bodyguards and sort of “capture” you. Kind of like a capture the flag type thing, just...you’re the flag and we don’t need to take you back home.",
+      "en": ": Neither are we, but...I think the goal is to just...get past your {i}bodyguards{/i} and sort of “capture” you. Kind of like a capture the flag type thing, just...you’re the flag and we don’t need to take you back home.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我们也不确定,但……我觉得目标就是……突破你的保镖,然后把你「捕获」。有点像夺旗玩法,只是……你就是那面旗,而且我们不用把你扛回家。"
+      "zh": ": 我们也不确定,但……我觉得目标就是……突破你的{i}保镖{/i},然后把你「捕获」。有点像夺旗玩法,只是……你就是那面旗,而且我们不用把你扛回家。"
     },
     {
       "en": ": Only issue with that is if we don’t finish that competition early, we might get stuck watching you all weekend long. Which...might create some issues.",
@@ -1364,10 +1364,10 @@
       "zh": ": 不过我得说……身边没有你的日子,挺糟糕的。"
     },
     {
-      "en": ": Imagine how I feel...",
+      "en": ": Imagine how {i}I{/i} feel...",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 你想象一下我的感受……"
+      "zh": ": 你想象一下{i}我{/i}的感受……"
     },
     {
       "en": ": You’re the one keeping her distance. I’m ready to start hanging out with you again whenever you want.",
@@ -1394,10 +1394,10 @@
       "zh": ": 也许……宿舍大战之后吧。我只需要再多一点时间理清思绪什么的。而那场比赛,对我或许是好机会。"
     },
     {
-      "en": ": I really...wasn’t expecting you to show up tonight. It threw my game off hard.",
+      "en": ": I really...wasn’t expecting you to show up tonight. It threw my game off {i}hard.{/i}",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我真……没想到你今晚会出现。它把我的节奏彻底打乱了。"
+      "zh": ": 我真……没想到你今晚会出现。它把我的节奏{i}彻底{/i}打乱了。"
     },
     {
       "en": ": Well, I’ve been repeatedly throwing you off your game ever since you walked back into my life. So at least you’re starting to get used to it.",
@@ -1669,10 +1669,10 @@
       "zh": ": 我很期待见到他们。"
     },
     {
-      "en": ": Sensei, who is that really? And why do her eyes look like a cross between Ami’s and Maya’s?",
+      "en": ": Sensei, who is that {i}really?{/i} And why do her eyes look like a cross between Ami’s and Maya’s?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": Sensei,那孩子到底是谁?还有,她的眼睛怎么像 Ami 和 Maya 的混合?"
+      "zh": ": Sensei,那孩子{i}到底{/i}是谁?还有,她的眼睛怎么像 Ami 和 Maya 的混合?"
     },
     {
       "en": ": Because they are. And also, she’s a random girl I found in an alleyway with another friend of mine who went on to adopt her.",
@@ -1759,10 +1759,10 @@
       "zh": ": 顺便问一句,那要怎么进行?因为我不太确定自己真的搞懂了那场比赛的规则。"
     },
     {
-      "en": ": Neither are we, but...I think the goal is to just get past your bodyguards and sort of “capture” you. Kind of like a capture the flag type thing, just...you’re the flag and we don’t need to take you back home.",
+      "en": ": Neither are we, but...I think the goal is to just get past your {i}bodyguards{/i} and sort of “capture” you. Kind of like a capture the flag type thing, just...you’re the flag and we don’t need to take you back home.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我们也不确定,但……我觉得目标就是突破你的保镖,然后把你「捕获」。有点像夺旗玩法,只是……你就是那面旗,而且我们不用把你扛回家。"
+      "zh": ": 我们也不确定,但……我觉得目标就是突破你的{i}保镖{/i},然后把你「捕获」。有点像夺旗玩法,只是……你就是那面旗,而且我们不用把你扛回家。"
     },
     {
       "en": ": Only issue with that is if we don’t finish that competition early, we might get stuck watching you all weekend long. Which...might create some issues.",
@@ -1798,10 +1798,10 @@
       "zh": ": 对!你懂我!注定要追赶你到永远,而不是成为最好的 Noriko!"
     },
     {
-      "en": ": I’m fine with a worse Noriko. The best one might be a little too good and it would only make everyone else jealous.",
+      "en": ": I’m fine with a worse Noriko. The best one might be a little {i}too{/i} good and it would only make everyone else jealous.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 差一点的 Noriko 我也能接受。最好的那个 Noriko 或许太出色了,只会让其他人嫉妒。"
+      "zh": ": 差一点的 Noriko 我也能接受。最好的那个 Noriko 或许{i}太{/i}出色了,只会让其他人嫉妒。"
     },
     {
       "en": ": I’ll be sure to repeatedly tell myself that the next time I get stuck in a closet.",
@@ -2152,10 +2152,10 @@
       "zh": ": !!!!!!!!!!"
     },
     {
-      "en": ": There is no need to thank me. But I will accept a five star review on an Internet outlet of your choosing. It does help.",
+      "en": ": There is no need to thank me. But I will accept a five star review on an Internet outlet of your choosing. It {i}does{/i} help.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 不必谢我。不过,你可以任选一个网络平台,给我打五星好评。那确实有帮助。"
+      "zh": ": 不必谢我。不过,你可以任选一个网络平台,给我打五星好评。那{i}确实{/i}有帮助。"
     },
     {
       "en": ""
@@ -2206,10 +2206,10 @@
       "zh": ": 这话可不轻——毕竟 Chika 手上已经有一个要照顾的孩子了,对吧?"
     },
     {
-      "en": ": Yeah, but...when did you learn about Chinami?",
+      "en": ": Yeah, but...when did {i}you{/i} learn about Chinami?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 是啊,可是……你是什么时候知道 Chinami 的?"
+      "zh": ": 是啊,可是……{i}你{/i}是什么时候知道 Chinami 的?"
     },
     {
       "en": ": Long time ago. Chika mentioned something about her sister being really into Niki and I wound up getting her an autograph.",
@@ -2245,10 +2245,10 @@
       "zh": ": 我知道。又不是第一次有人对我来这套。当著名偶像的妹妹,这种事少不了。学会应对就好。"
     },
     {
-      "en": ": Isn’t Chika obsessed with you too, though? Does she, like...somehow not know about your history with Nee-san?",
+      "en": ": Isn’t Chika obsessed with you too, though? Does she, like...somehow {i}not{/i} know about your history with Nee-san?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 不过,Chika 不是也痴迷于你吗?难道她,那个……居然不知道你和 Nee-san 的过往?"
+      "zh": ": 不过,Chika 不是也痴迷于你吗?难道她,那个……居然{i}不{/i}知道你和 Nee-san 的过往?"
     },
     {
       "en": ": I tried to tell her once but she wasn’t even remotely close to believing me.",
@@ -2272,10 +2272,10 @@
       "en": ""
     },
     {
-      "en": ": Did you offer to call her? Niki loves when you call her just to show off to people, you know. It doesn’t piss her off at all and you should totally keep doing it.",
+      "en": ": Did you offer to call her? Niki {i}loves{/i} when you call her just to show off to people, you know. It doesn’t piss her off {i}at all{/i} and you should totally keep doing it.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 你提议过打电话给她吗?你知道,Niki 最喜欢你为了向人炫耀而打给她了。那完全不会惹恼她,你绝对应该继续。"
+      "zh": ": 你提议过打电话给她吗?你知道,Niki {i}最喜欢{/i}你为了向人炫耀而打给她了。那{i}完全{/i}不会惹恼她,你绝对应该继续。"
     },
     {
       "en": ": I know you’re being sarcastic, but I will continue to do it anyway because it’s funny.",
@@ -2305,10 +2305,10 @@
       "en": ""
     },
     {
-      "en": ": Wait, holding that thought. Your friend’s friend looks like she wants to show you her drawing.",
+      "en": ": Wait, holding that thought. Your {i}friend’s friend{/i} looks like she wants to show you her drawing.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 等等,先记着这个思路。你的朋友的朋友好像想给你看她的画。"
+      "zh": ": 等等,先记着这个思路。你的{i}朋友的朋友{/i}好像想给你看她的画。"
     },
     {
       "en": ": !!!!!!! !!!!!!!!!!!",
@@ -2726,10 +2726,10 @@
       "zh": ": 路上我给 Kaori 发了消息,她应该快回来了。不过她说你有一把钥匙,而且你独自待一小会儿没关系。"
     },
     {
-      "en": ": She also wanted me to ask if you could feed John, but I’m not going to do that because it might be dangerous for you to go anywhere near him at this point in his...growth.",
+      "en": ": She also wanted me to ask if you could feed John, but I’m not going to do that because it might be dangerous for you to go anywhere near him at this point in his...{i}growth.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 她还让我问一声,你能不能喂 John。但我不会开口,因为以它如今的……成长阶段,你靠近它任何地方都可能很危险。"
+      "zh": ": 她还让我问一声,你能不能喂 John。但我不会开口,因为以它如今的……{i}成长阶段{/i},你靠近它任何地方都可能很危险。"
     },
     {
       "en": ": ...!",
@@ -2828,10 +2828,10 @@
       "zh": ": 那个……"
     },
     {
-      "en": ": That drawing.",
+      "en": ": That {i}drawing.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那张画。"
+      "zh": ": 那张{i}画{/i}。"
     },
     {
       "en": ": ?...",
@@ -2840,10 +2840,10 @@
       "zh": ": ?..."
     },
     {
-      "en": ": What was that?",
+      "en": ": What {i}was{/i} that?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那是什么?"
+      "zh": ": 那{i}是{/i}什么?"
     },
     {
       "en": ": ?...",

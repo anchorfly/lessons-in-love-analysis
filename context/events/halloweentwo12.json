@@ -105,8 +105,8 @@
       "zh": "嗯……大部分时候吧。"
     },
     {
-      "en": "I don’t even know if Molly is alive at this point or not.",
-      "zh": "我甚至不知道 Molly 现在到底还活着没有。"
+      "en": "I don’t even know if Molly is {i}alive{/i} at this point or not.",
+      "zh": "我甚至不知道 Molly 现在到底还{i}活着{/i}没有。"
     },
     {
       "en": "Right. I should check to see if she’s alive.",
@@ -152,8 +152,8 @@
       "en": ""
     },
     {
-      "en": "MOLLY LEAVES THE ROOM",
-      "zh": "MOLLY 离开了房间"
+      "en": "{s}MOLLY LEAVES THE ROOM{/s}",
+      "zh": "{s}MOLLY 离开了房间{/s}"
     },
     {
       "en": "No. Molly doesn’t leave the room. Molly is here.",
@@ -399,8 +399,8 @@
       "zh": "她想要这个吗？"
     },
     {
-      "en": "Did I want this?",
-      "zh": "我想要这个吗？"
+      "en": "Did {i}I{/i} want this?",
+      "zh": "{i}我{/i}想要这个吗？"
     },
     {
       "en": "And if I did, why don’t I remember wanting it?",
@@ -592,10 +592,10 @@
       "zh": ": 发生……什么了？"
     },
     {
-      "en": ": I don’t know ...",
+      "en": ": {s}I don’t know{/s} ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我不知道……"
+      "zh": ": {s}我不知道{/s}……"
     },
     {
       "en": ": What is that...fluid on her?...",
@@ -604,10 +604,10 @@
       "zh": ": 她身上那些……液体是什么？……"
     },
     {
-      "en": ": I don’t know ...",
+      "en": ": {s}I don’t know{/s} ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我不知道……"
+      "zh": ": {s}我不知道{/s}……"
     },
     {
       "en": ""
@@ -643,10 +643,10 @@
       "zh": ": 是不是……你？……"
     },
     {
-      "en": ": I don’t know ...",
+      "en": ": {s}I don’t know{/s} ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我不知道……"
+      "zh": ": {s}我不知道{/s}……"
     },
     {
       "en": ""
@@ -1135,10 +1135,10 @@
       "zh": ": 这又是你的另一个玩笑吗？"
     },
     {
-      "en": ": No...I mean that you weren’t there when I said that.",
+      "en": ": No...I mean that you weren’t {i}there{/i} when I said that.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不……我是说，我说那话的时候你根本不在场。"
+      "zh": ": 不……我是说，我说那话的时候你根本不{i}在场{/i}。"
     },
     {
       "en": ": The only girls that should have heard that are the ones from the first floor.",
@@ -1177,10 +1177,10 @@
       "zh": ": 如果你不打算解释发生了什么，就立刻离开这里。"
     },
     {
-      "en": ": But if the Guardian awakens and tells me that you did anything unkind to her, I will flay the fat off of your body and use it to make soup broth.",
+      "en": ": But if the Guardian awakens and tells me that you did {i}anything{/i} unkind to her, I will flay the fat off of your body and use it to make soup broth.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 但如果守护者醒来后告诉我，你对她做了任何不友善的事，我会把你身上的肥肉一片片削下来，拿去熬汤底。"
+      "zh": ": 但如果守护者醒来后告诉我，你对她做了{i}任何{/i}不友善的事，我会把你身上的肥肉一片片削下来，拿去熬汤底。"
     },
     {
       "en": ": Do you understand that?",
@@ -1227,8 +1227,8 @@
       "zh": "当然，我本来就打算同意她的……我已经不只是想找条脱身的路了。"
     },
     {
-      "en": "But...I’m having a hard time finding the words for anything right now.",
-      "zh": "可是……我现在很难为任何事找到合适的词。"
+      "en": "But...I’m having a hard time finding the words for {i}anything{/i} right now.",
+      "zh": "可是……我现在很难为{i}任何事{/i}找到合适的词。"
     },
     {
       "en": "I still don’t...understand what happened.",
@@ -1288,10 +1288,10 @@
       "zh": ": 你再多沉默一秒，我就用我的胁差把你的双手钉在这间屋子的墙上。"
     },
     {
-      "en": ": If you truly do not wish to explain yourself, will you put your trust in the Emerald Guardian- the same way she trusted you before you made a mockery of her?",
+      "en": ": If you truly do not wish to explain yourself, will you put your trust in the Emerald Guardian- the same way she trusted {i}you{/i} before you made a mockery of her?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 如果你真的不想解释自己，你愿意把信任交给翡翠守护者吗——就像你把她当成笑柄之前，她信任你那样？"
+      "zh": ": 如果你真的不想解释{i}自己{/i}，你愿意把信任交给翡翠守护者吗——就像你把她当成笑柄之前，她信任你那样？"
     },
     {
       "en": ": Or will you admit your wrongdoings now and face the consequences for your actions?",
@@ -1339,10 +1339,10 @@
       "en": ""
     },
     {
-      "en": ": Do not apologize to me. I am not the one you wronged.",
+      "en": ": Do not apologize to {i}me.{/i} I am not the one you wronged.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 别跟我道歉。被你伤害的人不是我。"
+      "zh": ": 别跟我道歉。被你伤害的人不是{i}我。{/i}"
     },
     {
       "en": ": Leave this place at once.",
@@ -1531,10 +1531,10 @@
       "zh": ": 那就睡吧，我守着你。"
     },
     {
-      "en": ": *Sniff sniff*",
+      "en": ": {i}*Sniff sniff*{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": *抽鼻子**抽鼻子*"
+      "zh": ": {i}*抽鼻子**抽鼻子*{/i}"
     },
     {
       "en": ": Something...smells weird...",
@@ -1702,10 +1702,10 @@
       "zh": ": 呃……不……不记得……真的不记得……"
     },
     {
-      "en": ": But if anything...really bad happened, I...think I’d be able to feel it...",
+      "en": ": But if anything...{i}really{/i} bad happened, I...think I’d be able to feel it...",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 但如果真发生了什么……特别糟糕的事，我……想我该感觉得到……"
+      "zh": ": 但如果{i}真{/i}发生了什么……特别糟糕的事，我……想我该感觉得到……"
     },
     {
       "en": ": P...Probably?...",
@@ -2146,7 +2146,7 @@
       "en": ""
     },
     {
-      "en": ": I will respect your outlook. But I do not believe anything could possibly be your fault if you were not even conscious to be at fault for it.",
+      "en": ": I will respect your outlook. But I do not believe anything could possibly be your fault if you were not even conscious to be at fault {i}for{/i} it.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
       "zh": ": 我尊重你的看法。但我认为，如果你连意识都没有、根本谈不上犯错，那就绝不可能怪到你头上。"
@@ -2206,10 +2206,10 @@
       "zh": ": 我没看到你装扮上有任何裂口。你父亲会为你骄傲的。"
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 哈……"
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ": No’e wouldn’t, Kendo Princess.",

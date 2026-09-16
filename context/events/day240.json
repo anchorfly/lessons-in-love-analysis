@@ -1,1615 +1,1615 @@
 {
- "label": "day240",
- "title_zh": "Uta 的最后一战",
- "lines": [
-  {
-   "en": ""
-  },
-  {
-   "en": "label day240:",
-   "zh": ""
-  },
-  {
-   "en": "scene utaintro3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro3.webp",
-   "alt": "utaintro3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Okay, Uta. Any final questions before you introduce yourself to the rest of class?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好了，Uta。在向全班自我介绍之前，你还有最后什么问题吗？"
-  },
-  {
-   "en": ": Yes. What time is lunch? I’m starving.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 有。什么时候吃午饭？我饿死了。"
-  },
-  {
-   "en": ": School literally just started. Didn’t you eat breakfast?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 才刚开学啊。你没吃早饭吗？"
-  },
-  {
-   "en": ": I was so excited to meet everyone that I forgot breakfast was even a thing.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我太兴奋了，兴奋到完全忘了世界上还有早饭这回事。"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": I’m going to need you to tone it down a bit. You’re too happy for this time of day.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我需要你稍微收敛一点。这个点儿你太开心了。"
-  },
-  {
-   "en": ": No can do, Sensei. Oh, another question-",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 这我做不到，Sensei。哦，还有一个问题——"
-  },
-  {
-   "en": ": I still haven’t moved into my dorm yet. Do you have any idea when that’s going to happen?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我还没搬进宿舍呢。您知道大概什么时候能搬吗？"
-  },
-  {
-   "en": ": I’m trying to avoid sleeping in an alleyway tonight if at all possible.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 如果可以的话，我今晚尽量不想睡在巷子里。"
-  },
-  {
-   "en": ": During the summer it would be fine.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 夏天的话倒无所谓。"
-  },
-  {
-   "en": ": I used to go camping all the time when I lived in the country, but a girl my size would probably die if I slept out in the snow.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我以前住在乡下的时候经常去露营，但我这种体型的女孩要是睡在雪地里，大概会死。"
-  },
-  {
-   "en": ": Talk to Makoto about that.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 这件事你去找 Makoto。"
-  },
-  {
-   "en": ": Which one is Makoto?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": Makoto 是哪一个？"
-  },
-  {
-   "en": ": The one that looks like a student council president. You’ll know when you see her.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 就是看起来像学生会长的那个。你一见就知道。"
-  },
-  {
-   "en": ": Got it.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 明白了。"
-  },
-  {
-   "en": ": Anything else, then?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 还有别的吗？"
-  },
-  {
-   "en": ": Yeah. Are you and Maya really not boyfriend and girlfriend? Cause I’ve got an eye for that sort of thing and I can just feel the love.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 有。您和 Maya 真的不是男女朋友吗？因为我对这种事眼光很准，我能感觉到那股爱意。"
-  },
-  {
-   "en": ": I’m sure you’ll feel the same thing about my relationship with pretty much everyone in no time.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我相信你很快就会对我和几乎所有人的关系产生同样的感觉。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro2.webp",
-   "alt": "utaintro2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ah! So there is some back-scratching going on here!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 啊！所以这里真的有那种「互相挠背」的事啊！"
-  },
-  {
-   "en": ": I’ve gotta go call my parents and let them know the time has finally come for their little girl to become a woman!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我得去给爸妈打个电话，告诉他们他们的小女儿终于要变成女人了！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Can we get your intro out of the way first before you go and jeopardize my livelihood?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 能不能先把自我介绍搞定，再去砸我的饭碗？"
-  },
-  {
-   "en": "scene utaintro3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro3.webp",
-   "alt": "utaintro3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oh, right. That’s what we were doing.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 哦对。我们本来是在干这个。"
-  },
-  {
-   "en": ": Sorry, just having so much fun hanging out here in the hallway with you that I forgot I was even in[school] for a second.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 抱歉，跟您在走廊上待着太开心了，我有一瞬间都忘了自己是在[school]里。"
-  },
-  {
-   "en": ": So, if that’s everything-",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那么，如果没别的了——"
-  },
-  {
-   "en": ": Oh! One more thing!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 哦！还有一件事！"
-  },
-  {
-   "en": ": Another? How many questions can you possibly have?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 还有一个？你到底能有多少问题？"
-  },
-  {
-   "en": ": Do I look good in glasses?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我戴眼镜好看吗？"
-  },
-  {
-   "en": ": People always used to make fun of me because they made my eyes look huge or something and I don’t want everyone to think I’m some kinda bug-eyed Kansai freak.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 以前大家都笑话我，说戴上眼镜眼睛显得特别大什么的，我不想让所有人都觉得我是个从关西来的凸眼怪胎。"
-  },
-  {
-   "en": ": You look as adorable as ever.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你还是和以前一样可爱。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro4",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro4.webp",
-   "alt": "utaintro4"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": As ever? Did little old Uta-chan leave such a good impression on you that she’s been forever stapled into your brain as the ideal girl?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 和以前一样？难道小小的 Uta 给您留下的印象好到已经被永远钉在您脑子里，当成理想女孩了？"
-  },
-  {
-   "en": ": Or, better yet, the ideal woman?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 或者说，更准确点，理想的女人？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": But Sensei, it’s so soon. We barely even know each other. I’m not ready for such a big leap yet.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 可是 Sensei，这也太快了。我们才刚认识。我还没准备好跨出这么大一步呢。"
-  },
-  {
-   "en": ": You were about to call your parents and tell them you were going to become a woman just a minute ago.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你一分钟前还准备打电话告诉爸妈你要变成女人了。"
-  },
-  {
-   "en": "scene utaintro5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro5.webp",
-   "alt": "utaintro5"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You were gonna make me a woman in front of the whole class?! Sensei! That’s so lewd!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 您是要在全班面前把我变成女人吗？！Sensei！这太下流了！"
-  },
-  {
-   "en": ": Don’t get me wrong, I’m all about dating someone older and stronger and cooler than me, but in front of everyone else? That’s just too much!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 别误会，我也很想交个比我年长、比我强壮、比我酷的男朋友，但当着所有人的面？这太过了！"
-  },
-  {
-   "en": ": Keep your voice down, please...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 麻烦你小声点……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro6",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro6.webp",
-   "alt": "utaintro6"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": OH GOD HE’S ALREADY SICK OF ME! I CAME ON TOO STRONG AGAIN!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 天哪他已经烦死我了！我又一次表现得太急着贴上去啦！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": UTA USHIBORI’S DAYS AS A NORMAL HIGH SCHOOL MAID ARE OVER!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": UTA USHIBORI 当普通高中女仆的日子已经结束了！"
-  },
-  {
-   "en": ": I SHOULD HAVE STAYED IN NARA AND MARRIED A DEER!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我当初就该留在 NARA 嫁给一头鹿的！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Really?",
-   "spk": "Wakana",
-   "spkColor": "#FF00FF",
-   "zh": ": 真的吗？"
-  },
-  {
-   "en": ": Day-one of transfers and you've already lost control?",
-   "spk": "Wakana",
-   "spkColor": "#FF00FF",
-   "zh": ": 转学第一天，你就已经控制不住局面了？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Wakana pulls open her door and peeks her head out just far enough to slight me for being unable to control Uta.",
-   "zh": "Wakana 拉开门，只探出个脑袋，刚好够为「我管不住 Uta」这件事数落我两句。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Just be happy I got this one instead of you.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你就庆幸这个分给了我而不是你吧。"
-  },
-  {
-   "en": ": UTA USHIBORI ISN’T EVEN A GIRL ANYMORE! SHE’S JUST “THIS ONE!”",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": UTA USHIBORI 已经连女生都不算了！她只是「这个」！"
-  },
-  {
-   "en": ": Uta, please...Let’s just go inside and introduce you to everyone else.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Uta，拜托……我们先进去，把你介绍给其他人吧。"
-  },
-  {
-   "en": ": I HOPE THE STUDENTS ARE DEER!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我希望学生们都是鹿！"
-  },
-  {
-   "en": ": Please calm your miscreant down, Sensei...I’m trying to actually do my job over here.",
-   "spk": "Wakana",
-   "spkColor": "#FF00FF",
-   "zh": ": 请您管管您的问题儿童，Sensei……我这边的课还得上呢。"
-  },
-  {
-   "en": ": I’ve got it, Wakana...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我搞得定，Wakana……"
-  },
-  {
-   "en": ": Uta, they’re normal [high_school] girls just like you.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Uta，她们是和你一样的普通[high_school]女生。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro7.webp",
-   "alt": "utaintro7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Normal?...",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 普通？……"
-  },
-  {
-   "en": ": So...not deer?...",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 所以……不是鹿？……"
-  },
-  {
-   "en": ": Not deer.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不是鹿。"
-  },
-  {
-   "en": ": Hah...",
-   "spk": "Wakana",
-   "spkColor": "#FF00FF",
-   "zh": ": 哈……"
-  },
-  {
-   "en": ": I want to fucking die.",
-   "spk": "Wakana",
-   "spkColor": "#FF00FF",
-   "zh": ": 我他妈想死。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Wakana disappears back into her classroom and probably dumps a bunch of dead animals into a cauldron or something.",
-   "zh": "Wakana 缩回她的教室，大概去往坩埚里扔一堆动物尸体什么的了。"
-  },
-  {
-   "en": "She looks like the type who would do that.",
-   "zh": "她看着就像干得出这种事的人。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I wind up calming Uta down after another minute or two and she finally agrees to go meet everyone else.",
-   "zh": "又过了一两分钟，我总算把 Uta 安抚下来，她终于同意去见见其他人。"
-  },
-  {
-   "en": "She regains her composure rather quickly and skips into the classroom, stopping right at my desk and turning to face the class without even writing her name on the board.",
-   "zh": "她很快就恢复了镇定，蹦蹦跳跳地进了教室，在我的讲桌前站定，转过身面对全班，连名字都没往黑板上写。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro8",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro8.webp",
-   "alt": "utaintro8"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hm? Isn’t that the girl from the maid cafe?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 嗯？那不是女仆咖啡店的那个女生吗？"
-  },
-  {
-   "en": ": What’s she doing here?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 她在这儿干什么？"
-  },
-  {
-   "en": ": She must be...part of all the transfer students coming to our[school] instead now.",
-   "spk": "Futaba",
-   "spkColor": "#E73CFF",
-   "zh": ": 她一定是……现在改来我们[school]的转学生之一。"
-  },
-  {
-   "en": ": Holy heck, I think she’s even shorter than me!",
-   "spk": "Miku",
-   "spkColor": "#FF8112",
-   "zh": ": 我去，她好像比我还矮！"
-  },
-  {
-   "en": ": I’m not actually...tall...am I?",
-   "spk": "Miku",
-   "spkColor": "#FF8112",
-   "zh": ": 我其实……不算高……对吧？"
-  },
-  {
-   "en": ": Yeaaaaah I don’t think so, Miku. Sorry.",
-   "spk": "Rin",
-   "spkColor": "#FF00AE",
-   "zh": ": 呃——我可不这么觉得，Miku。抱歉。"
-  },
-  {
-   "en": ": Why do all of the girls our age have such nice legs?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 为什么和我们同龄的女生腿都那么好看？"
-  },
-  {
-   "en": ": I’ve been wondering that ever since I was little, Tsuneyo. I feel ya.",
-   "spk": "Rin",
-   "spkColor": "#FF00AE",
-   "zh": ": 我从小就在想这个问题了，Tsuneyo。我懂你。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro9",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro9.webp",
-   "alt": "utaintro9"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Do you also get the urge to touch them or am I just broken?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 您也会有想摸摸看的冲动吗，还是说只有我不正常？"
-  },
-  {
-   "en": ": If wanting to touch girls means you’re broken, I never want to be fixed.",
-   "spk": "Rin",
-   "spkColor": "#FF00AE",
-   "zh": ": 如果想摸女生就是不正常，那我永远都不想被治好。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro10.webp",
-   "alt": "utaintro10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Really? Another one? Our class is already fucking packed.",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 真的假的？又来一个？我们班已经他妈的够挤了。"
-  },
-  {
-   "en": ": Yumi, only like, half of the desks are occupied.",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": Yumi，其实只有一半左右的座位有人坐。"
-  },
-  {
-   "en": ": And why do you care in the first place? You never even come here.",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 而且你到底在乎什么？你根本就不来上课。"
-  },
-  {
-   "en": ": Still my fuckin’ classroom. Been wanting to come even less since Ireland and Noodles showed up.",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 那也是老子的教室。自从爱尔兰人和面条妹来了之后，我就更不想来了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro11.webp",
-   "alt": "utaintro11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sure you’re not just jealous that it’s going to get even harder for you to grab Sensei’s attention?",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 你该不会只是嫉妒吧？毕竟以后你想抢到 Sensei 的注意力就更难了。"
-  },
-  {
-   "en": ": The fuck are you talkin’ about? I’m like the only one not trying to do that shit.",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 你他妈在说什么？我大概是唯一一个不想搞那套的人。"
-  },
-  {
-   "en": ": Shouldn’t you be the one freaking out if that’s the case?",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 要真是这样，该抓狂的人不是你吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro12",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro12.webp",
-   "alt": "utaintro12"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I have no idea what you’re talking about~",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 我不知道你在说什么~"
-  },
-  {
-   "en": ": And even if I did, there’s no way Sensei would be into someone that tiny.",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 就算我知道，Sensei 也不可能喜欢那么小一只的。"
-  },
-  {
-   "en": ": He clearly likes more mature girls. Ones that can stand on their own two feet, if you know what I mean.",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 他明显更喜欢成熟的女生。那种能自立的，你懂我意思吧。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": More like ones that can lay on their back and take-",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 更像是能躺下承受的那种吧——"
-  },
-  {
-   "en": "scene utaintro13",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro13.webp",
-   "alt": "utaintro13"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Excuse me?",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 你说什么？"
-  },
-  {
-   "en": ": ...",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": ..."
-  },
-  {
-   "en": ": I didn’t say anythin’.",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 我什么都没说。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro14",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro14.webp",
-   "alt": "utaintro14"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hi everybody! My name’s Uta Ushibori and I just transferred in from Kumon-mi Academy after it sunk into the ground!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 大家好！我叫 Uta Ushibori，刚刚从 Kumon-mi Academy 转来，因为那所学校沉到地里去了！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Oh, so we’re [kumon_mi_high] and the other[school] was Kumon-mi Academy. That’s not confusing at all.",
-   "zh": "哦，所以我们是 [kumon_mi_high]，另一所[school]是 Kumon-mi Academy。这一点都不让人困惑呢。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I came here from Nara a couple years ago to take care of my grandpa.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我几年前从 Nara 来这儿，是为了照顾我爷爷。"
-  },
-  {
-   "en": ": Wait, really? I didn’t know that...",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 等等，真的吗？我都不知道……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro15",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro15.webp",
-   "alt": "utaintro15"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oh! Ami’s here! Hi, Ami!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 哦！Ami 也在！你好呀，Ami！"
-  },
-  {
-   "en": ": Hahaha...hey...",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 哈哈哈……你好啊……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro14",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro14.webp",
-   "alt": "utaintro14"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Anyway, my grandpa died last year and I obviously don’t have to take care of him anymore as a result.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 总之，我爷爷去年去世了，所以我显然不用再照顾他了。"
-  },
-  {
-   "en": ": But I obviously can’t go home either because they closed off Kumon-mi, so now I just spend my time working at a maid cafe and shopping!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 但我显然也回不了家，因为 Kumon-mi 被封了，所以我现在就是一边在女仆咖啡店打工，一边逛街！"
-  },
-  {
-   "en": ": Umm...what else...what else?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 呃……还有什么……还有什么？"
-  },
-  {
-   "en": ": Oh yeah! Being born in the country has kinda made it so I can like...share too much or be too...umm, what’s the word...intrusive at times?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 哦对了！因为在乡下长大，我有时候会……说得太多，或者太……呃，那个词怎么说……太没分寸？"
-  },
-  {
-   "en": ": For example, if I ever find out anyone likes anyone else, I’ll probs spill the beans accidentally. Please don’t hate me when that happens.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 比如说，我要是知道了谁喜欢谁，大概会不小心说漏嘴。到时候请别讨厌我。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro16",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro16.webp",
-   "alt": "utaintro16"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Um...Is that good enough for an intro? I’m running outta steam here.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 呃……这样当自我介绍够了吗？我快没劲儿了。"
-  },
-  {
-   "en": ": I’ve suddenly forgotten everything interesting about myself.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我突然想不起自己身上有什么有意思的地方了。"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Can you do the thing?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你能来一下那个吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro17",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro17.webp",
-   "alt": "utaintro17"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": The thing?...",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 那个？……"
-  },
-  {
-   "en": ": You mean the Uta-chan thing? The thing that makes boys’ and girls’ hearts melt out of their chest?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 您是说 Uta 的那个？那个能让男生女生的心从胸口化掉的？"
-  },
-  {
-   "en": ": Are you really sure it’s okay?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 您真的确定可以吗？"
-  },
-  {
-   "en": ": I don’t know if it will have the same impact without my uniform on.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我没穿制服的话，不知道效果还一不一样。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro18",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro18.webp",
-   "alt": "utaintro18"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": The thing? She doesn’t mean that thing, does she?...",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 那个？她该不会是指那个「那个」吧？……"
-  },
-  {
-   "en": ": What other thing could she possibly mean?",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 她还能是指别的什么？"
-  },
-  {
-   "en": ": Also, why’s she all chummy with Sensei?",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 还有，她为什么跟 Sensei 那么亲热？"
-  },
-  {
-   "en": ": I know he’s spent millions of Yen on her but she’s not even in maid-mode right now.",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 我知道他在她身上花了几百万日元，可她现在又没穿女仆装。"
-  },
-  {
-   "en": ": I’m much cuter than her outside of the cafe. Right, Maya?",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 在咖啡店外面，我比她可爱多了。对吧，Maya？"
-  },
-  {
-   "en": ": Right, Ami. You’re the cutest ever. No one can compete.",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 对，Ami。你是全世界最可爱的。没人比得上。"
-  },
-  {
-   "en": ": Thank you, Maya. I love you.",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 谢谢你，Maya。我爱你。"
-  },
-  {
-   "en": ": Uh-huh...",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 嗯哼……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro19",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro19.webp",
-   "alt": "utaintro19"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Well, uhh...I guess since the teacher asked me to do this, I can’t possibly say no.",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 那个，呃……既然是老师让我做的，我总不好拒绝吧。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro20",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro20.webp",
-   "alt": "utaintro20"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ahem...",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 咳咳……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I have to admit, I didn’t think she’d actually go for it in front of the entire class.",
-   "zh": "我得承认，我没想到她真会在全班面前来这一套。"
-  },
-  {
-   "en": "But the way I look at it, what Uta is about to do will either make or break her[school] life.",
-   "zh": "但在我看来，Uta 接下来要做的事，要么成就她的[school]生活，要么毁掉它。"
-  },
-  {
-   "en": "Let’s hope her power is strong enough to capture all of the girls' hearts the way it captured mine.",
-   "zh": "但愿她的力量足够强，能像俘获我一样俘获所有女生的心。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro21",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro21.webp",
-   "alt": "utaintro21"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": FLAVOR...BEEEEEAAAAAAAAAAM!!!!!!!!!!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 美味……光——波——！！！！！！！"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": ..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro22",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro22.webp",
-   "alt": "utaintro22"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": So much...power...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 好强的……力量……"
-  },
-  {
-   "en": ": I can feel the flavor from all the way over here!",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我在这么远的地方都能感觉到那股美味！"
-  },
-  {
-   "en": ": I don’t feel any different.",
-   "spk": "Futaba",
-   "spkColor": "#E73CFF",
-   "zh": ": 我没觉得有什么不同。"
-  },
-  {
-   "en": ": I feel...light-headed...",
-   "spk": "Rin",
-   "spkColor": "#FF00AE",
-   "zh": ": 我觉得……有点头晕……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro23",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro23.webp",
-   "alt": "utaintro23"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Makoto",
-   "spkColor": "#5D84FF",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Miku",
-   "spkColor": "#FF8112",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": ..."
-  },
-  {
-   "en": ": I am now delicious.",
-   "spk": "Makoto",
-   "spkColor": "#5D84FF",
-   "zh": ": 我现在变得很美味了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro24",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro24.webp",
-   "alt": "utaintro24"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oh...my...fucking...god...",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 哦……我……操……天哪……"
-  },
-  {
-   "en": ": Yumi, you should do that for Chinami’s scrambled eggs one day. She’d love it.",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": Yumi，你哪天也该给 Chinami 的炒蛋来一下。她肯定会喜欢的。"
-  },
-  {
-   "en": ": I’d rather fucking die.",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 我宁愿去死。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro25",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro25.webp",
-   "alt": "utaintro25"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": What’s this? A non-believer in our midst?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 这是怎么了？我们当中还有个不信的人？"
-  },
-  {
-   "en": ": Let me guess, you’re the class delinquent? The real tough one that nobody messes with?",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 让我猜猜，你就是班上的不良少女？那个没人敢惹的狠角色？"
-  },
-  {
-   "en": ": Guess so. What’s it to you, flavor-bitch?",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 算是吧。关你屁事，美味婊？"
-  },
-  {
-   "en": ": Come on, Yumi. That was just upsetting.",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 别这样，Yumi。这话也太伤人了。"
-  },
-  {
-   "en": ": Fuck off, Chika.",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 滚一边去，Chika。"
-  },
-  {
-   "en": ": Hmm...I see, I see. You do appear to be rather intimidating. But Uta Ushibori does not shy away from bullies!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 嗯……我懂了，我懂了。你看起来确实挺吓人的。但 Uta Ushibori 绝不会在恶霸面前退缩！"
-  },
-  {
-   "en": ": So what? You trying to fight or some shit? That what’s going on?",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 所以呢？你想打架还是怎么的？就这意思？"
-  },
-  {
-   "en": ": Yes! No! Sort of!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 是！不是！差不多吧！"
-  },
-  {
-   "en": ": I challenge you to an arm wrestling match! The loser needs to stop bullying everyone for the rest of eternity!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我要跟你比掰手腕！输的人从此以后永远不许再欺负任何人！"
-  },
-  {
-   "en": ": No more bad names! No more making fun of beams designed to warm hearts!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 不许再骂人！不许再嘲笑那种用来温暖人心的光波！"
-  },
-  {
-   "en": ": Uh-huh. And when I win, what do I get?",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 嗯哼。那我赢了有什么好处？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro26",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro26.webp",
-   "alt": "utaintro26"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I will never cast my spell in class again...",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我以后再也不在课上施法了……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Oh no. Anything but that.",
-   "zh": "哦不。千万别是那个。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Fine. I’m in. Let’s do this shit.",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 行。我奉陪。来吧。"
-  },
-  {
-   "en": ": Not gonna lie, I’m kinda rooting for Uta here.",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 说实话，我还挺想给 Uta 加油的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro27",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro27.webp",
-   "alt": "utaintro27"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": For once in my life, I am proud to say that I am not the center of attention.",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 这辈子难得有一次，我可以骄傲地说，我不是众人目光的焦点。"
-  },
-  {
-   "en": ": This is a huge victory for Molly MacCormack.",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 这对 Molly MacCormack 来说是一场巨大的胜利。"
-  },
-  {
-   "en": ": I wonder who’s going to win? I’d normally say Yumi but...Uta might have some kind of hidden country-girl strength or something?",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 我在想谁会赢？我本来会说 Yumi，但……Uta 说不定有什么隐藏的乡下怪力之类的？"
-  },
-  {
-   "en": ": Yes, yes. I, too, possess the hidden power of my ancestors.",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 没错，没错。我也拥有来自祖先的隐藏力量。"
-  },
-  {
-   "en": ": You sure you want to do this? I ain’t holdin’ anything back, FYI.",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 你确定要来？先说好，我可不会手下留情。"
-  },
-  {
-   "en": ": Of course. Like I said, Uta Ushibori doesn’t let bullies be bullies!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 当然。就像我说的，Uta Ushibori 绝不放任恶霸作恶！"
-  },
-  {
-   "en": ": Your days of crime are over...umm...ummm...",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 你作恶的日子到头了……呃……呃……"
-  },
-  {
-   "en": ": Yumi...",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": Yumi……"
-  },
-  {
-   "en": ": Your days of crime are over, Yumi!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 你作恶的日子到头了，Yumi！"
-  },
-  {
-   "en": ": Someone! Count us down!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 谁来个人！给我们倒数！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro28",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro28.webp",
-   "alt": "utaintro28"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oh! Uhh...",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 哦！呃……"
-  },
-  {
-   "en": ": Three...",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 三……"
-  },
-  {
-   "en": ": Two...",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 二……"
-  },
-  {
-   "en": ": One...",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 一……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro29",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro29.webp",
-   "alt": "utaintro29"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": GO!",
-   "spk": "Ami",
-   "spkColor": "#FF4DD2",
-   "zh": ": 开始！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro30",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro30.webp",
-   "alt": "utaintro30"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": AHHHHH!!! LET GO! LET GO! LET GO!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 啊啊啊啊！！！松手！松手！松手！"
-  },
-  {
-   "en": ": Alas...evil has triumphed once again...",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 唉……邪恶又一次得逞了……"
-  },
-  {
-   "en": ": So, you’re done with all that flavor beam shit now, right?",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 那么，你那套美味光波的破玩意儿到此为止了，对吧？"
-  },
-  {
-   "en": ": I WILL NOT...BE BULLIED!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 我绝不会……被欺负！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene utaintro31",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/utaintro31.webp",
-   "alt": "utaintro31"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hey! We had a fuckin’ deal!",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 喂！我们可是说好了的！"
-  },
-  {
-   "en": ": I won! So try that beam shit again and I’ll fuck up your other arm, too!",
-   "spk": "Yumi",
-   "spkColor": "#FF4949",
-   "zh": ": 我赢了！你再敢来那套光波，我就把你另一只手也废了！"
-  },
-  {
-   "en": ": Jesus, Yumi, let go! You’re going to break the poor girl’s wrist!",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 天哪，Yumi，松手！你要把这可怜女孩的手腕掰断了！"
-  },
-  {
-   "en": ": FINE! NO MORE FLAVOR BEAM IN CLASS!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 行吧！课上再也不用美味光波了！"
-  },
-  {
-   "en": ": BUT...LET IT BE KNOWN! I WAS ONLY DOING...AS I WAS TOLD!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 但是……请大家记住！我只是……奉命行事！"
-  },
-  {
-   "en": ": YOU HAVE NOT...SEEN THE LAST...OF UTA-CHAN!",
-   "spk": "Uta",
-   "spkColor": "#EF61BF",
-   "zh": ": 你们还没有……见到 UTA 的最后一面！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "The[school] day ended with me taking Uta to the nurse.",
-   "zh": "这一天的[school]生活结束时，是我把 Uta 送去了医务室。"
-  },
-  {
-   "en": "Thankfully, there was no break or fracture or anything like that. She just pulled a muscle from how suddenly Yumi pinned her arm down.",
-   "zh": "万幸没有骨折之类的伤，只是 Yumi 猛地把手压下去时拉伤了肌肉。"
-  },
-  {
-   "en": "I have to say, it was kind of depressing seeing her lose after how much she hyped herself up.",
-   "zh": "我得说，看她把自己捧得那么高最后却输了，还挺让人沮丧的。"
-  },
-  {
-   "en": "For a moment, it seemed like she had the potential to be the class hero.",
-   "zh": "有那么一瞬间，她看起来是有成为班级英雄的潜力的。"
-  },
-  {
-   "en": "Unfortunately, the days of the flavor beam are now gone.",
-   "zh": "遗憾的是，美味光波的时代就此终结。"
-  },
-  {
-   "en": "At least in[school], that is.",
-   "zh": "至少在[school]里是这样。"
-  },
-  {
-   "en": "I have every intention of abusing that hidden power of hers each and every time I go to the maid cafe.",
-   "zh": "至于每次去女仆咖啡店，我可是打算把她的隐藏力量用个够。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ day240 = True",
-   "zh": ""
-  },
-  {
-   "en": "$ uta_love += 1",
-   "zh": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Uta’s affection has increased to [uta_love]!",
-   "zh": "Uta 的好感度提升到了 [uta_love]！"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "jump afterschoolevent",
-   "zh": ""
-  }
- ]
+  "label": "day240",
+  "title_zh": "Uta 的最后一战",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day240:",
+      "zh": ""
+    },
+    {
+      "en": "scene utaintro3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro3.webp",
+      "alt": "utaintro3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, Uta. Any final questions before you introduce yourself to the rest of class?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好了，Uta。在向全班自我介绍之前，你还有最后什么问题吗？"
+    },
+    {
+      "en": ": Yes. What time is lunch? I’m starving.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 有。什么时候吃午饭？我饿死了。"
+    },
+    {
+      "en": ": School literally just started. Didn’t you eat breakfast?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 才刚开学啊。你没吃早饭吗？"
+    },
+    {
+      "en": ": I was so excited to meet everyone that I forgot breakfast was even a thing.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我太兴奋了，兴奋到完全忘了世界上还有早饭这回事。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": I’m going to need you to tone it down a bit. You’re too happy for this time of day.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我需要你稍微收敛一点。这个点儿你太开心了。"
+    },
+    {
+      "en": ": No can do, Sensei. Oh, another question-",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 这我做不到，Sensei。哦，还有一个问题——"
+    },
+    {
+      "en": ": I still haven’t moved into my dorm yet. Do you have any idea when that’s going to happen?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我还没搬进宿舍呢。您知道大概什么时候能搬吗？"
+    },
+    {
+      "en": ": I’m trying to avoid sleeping in an alleyway tonight if at all possible.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 如果可以的话，我今晚尽量不想睡在巷子里。"
+    },
+    {
+      "en": ": During the summer it would be fine.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 夏天的话倒无所谓。"
+    },
+    {
+      "en": ": I used to go camping all the time when I lived in the country, but a girl my size would probably die if I slept out in the snow.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我以前住在乡下的时候经常去露营，但我这种体型的女孩要是睡在雪地里，大概会死。"
+    },
+    {
+      "en": ": Talk to Makoto about that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这件事你去找 Makoto。"
+    },
+    {
+      "en": ": Which one is Makoto?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": Makoto 是哪一个？"
+    },
+    {
+      "en": ": The one that looks like a student council president. You’ll know when you see her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就是看起来像学生会长的那个。你一见就知道。"
+    },
+    {
+      "en": ": Got it.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 明白了。"
+    },
+    {
+      "en": ": Anything else, then?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 还有别的吗？"
+    },
+    {
+      "en": ": Yeah. Are you and Maya {i}really{/i} not boyfriend and girlfriend? Cause I’ve got an eye for that sort of thing and I can just {i}feel{/i} the love.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 有。您和 Maya {i}真的{/i}不是男女朋友吗？因为我对这种事眼光很准，我能{i}感觉{/i}到那股爱意。"
+    },
+    {
+      "en": ": I’m sure you’ll feel the same thing about my relationship with pretty much everyone in no time.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我相信你很快就会对我和几乎所有人的关系产生同样的感觉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro2.webp",
+      "alt": "utaintro2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah! So there {i}is{/i} some back-scratching going on here!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 啊！所以这里{i}真的{/i}有那种「互相挠背」的事啊！"
+    },
+    {
+      "en": ": I’ve gotta go call my parents and let them know the time has finally come for their little girl to become a woman!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我得去给爸妈打个电话，告诉他们他们的小女儿终于要变成女人了！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Can we get your intro out of the way first before you go and jeopardize my livelihood?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 能不能先把自我介绍搞定，再去砸我的饭碗？"
+    },
+    {
+      "en": "scene utaintro3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro3.webp",
+      "alt": "utaintro3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, right. That’s what we were doing.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 哦对。我们本来是在干这个。"
+    },
+    {
+      "en": ": Sorry, just having so much fun hanging out here in the hallway with you that I forgot I was even in[school] for a second.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 抱歉，跟您在走廊上待着太开心了，我有一瞬间都忘了自己是在[school]里。"
+    },
+    {
+      "en": ": So, if that’s everything-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那么，如果没别的了——"
+    },
+    {
+      "en": ": Oh! One more thing!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 哦！还有一件事！"
+    },
+    {
+      "en": ": Another? How many questions can you possibly have?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 还有一个？你到底能有多少问题？"
+    },
+    {
+      "en": ": Do I look good in glasses?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我戴眼镜好看吗？"
+    },
+    {
+      "en": ": People always used to make fun of me because they made my eyes look huge or something and I don’t want everyone to think I’m some kinda bug-eyed Kansai freak.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 以前大家都笑话我，说戴上眼镜眼睛显得特别大什么的，我不想让所有人都觉得我是个从关西来的凸眼怪胎。"
+    },
+    {
+      "en": ": You look as adorable as ever.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你还是和以前一样可爱。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro4.webp",
+      "alt": "utaintro4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": As ever? Did little old Uta-chan leave such a good impression on you that she’s been forever stapled into your brain as the ideal girl?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 和以前一样？难道小小的 Uta 给您留下的印象好到已经被永远钉在您脑子里，当成理想女孩了？"
+    },
+    {
+      "en": ": Or, better yet, the ideal woman?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 或者说，更准确点，理想的女人？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But Sensei, it’s so soon. We barely even know each other. I’m not ready for such a big leap yet.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 可是 Sensei，这也太快了。我们才刚认识。我还没准备好跨出这么大一步呢。"
+    },
+    {
+      "en": ": You were about to call your parents and tell them you were going to become a woman just a minute ago.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你一分钟前还准备打电话告诉爸妈你要变成女人了。"
+    },
+    {
+      "en": "scene utaintro5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro5.webp",
+      "alt": "utaintro5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You were gonna make me a woman in front of the whole class?! Sensei! That’s so lewd!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 您是要在全班面前把我变成女人吗？！Sensei！这太下流了！"
+    },
+    {
+      "en": ": Don’t get me wrong, I’m all about dating someone older and stronger and cooler than me, but {i}in front of everyone else{/i}? That’s just too much!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 别误会，我也很想交个比我年长、比我强壮、比我酷的男朋友，但{i}当着所有人的面{/i}？这太过了！"
+    },
+    {
+      "en": ": Keep your voice down, please...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 麻烦你小声点……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro6.webp",
+      "alt": "utaintro6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": OH GOD HE’S ALREADY SICK OF ME! I CAME ON TOO STRONG AGAIN!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 天哪他已经烦死我了！我又一次表现得太急着贴上去啦！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": UTA USHIBORI’S DAYS AS A NORMAL HIGH SCHOOL MAID ARE OVER!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": UTA USHIBORI 当普通高中女仆的日子已经结束了！"
+    },
+    {
+      "en": ": I SHOULD HAVE STAYED IN NARA AND MARRIED A DEER!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我当初就该留在 NARA 嫁给一头鹿的！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Really?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 真的吗？"
+    },
+    {
+      "en": ": Day-one of transfers and you've already lost control?",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 转学第一天，你就已经控制不住局面了？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Wakana pulls open her door and peeks her head out just far enough to slight me for being unable to control Uta.",
+      "zh": "Wakana 拉开门，只探出个脑袋，刚好够为「我管不住 Uta」这件事数落我两句。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Just be happy I got this one instead of you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你就庆幸这个分给了我而不是你吧。"
+    },
+    {
+      "en": ": UTA USHIBORI ISN’T EVEN A GIRL ANYMORE! SHE’S JUST “THIS ONE!”",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": UTA USHIBORI 已经连女生都不算了！她只是「这个」！"
+    },
+    {
+      "en": ": Uta, please...Let’s just go inside and introduce you to everyone else.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Uta，拜托……我们先进去，把你介绍给其他人吧。"
+    },
+    {
+      "en": ": I HOPE THE STUDENTS ARE DEER!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我希望学生们都是鹿！"
+    },
+    {
+      "en": ": Please calm your {i}miscreant{/i} down, {i}Sensei{/i}...I’m trying to actually do my job over here.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 请您管管您的{i}问题儿童{/i}，{i}Sensei{/i}……我这边的课还得上呢。"
+    },
+    {
+      "en": ": I’ve got it, Wakana...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我搞得定，Wakana……"
+    },
+    {
+      "en": ": Uta, they’re normal [high_school] girls just like you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Uta，她们是和你一样的普通[high_school]女生。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro7.webp",
+      "alt": "utaintro7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Normal?...",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 普通？……"
+    },
+    {
+      "en": ": So...not deer?...",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 所以……不是鹿？……"
+    },
+    {
+      "en": ": Not deer.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不是鹿。"
+    },
+    {
+      "en": ": Hah...",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 哈……"
+    },
+    {
+      "en": ": I want to fucking die.",
+      "spk": "Wakana",
+      "spkColor": "#FF00FF",
+      "zh": ": 我他妈想死。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Wakana disappears back into her classroom and probably dumps a bunch of dead animals into a cauldron or something.",
+      "zh": "Wakana 缩回她的教室，大概去往坩埚里扔一堆动物尸体什么的了。"
+    },
+    {
+      "en": "She looks like the type who would do that.",
+      "zh": "她看着就像干得出这种事的人。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wind up calming Uta down after another minute or two and she finally agrees to go meet everyone else.",
+      "zh": "又过了一两分钟，我总算把 Uta 安抚下来，她终于同意去见见其他人。"
+    },
+    {
+      "en": "She regains her composure rather quickly and skips into the classroom, stopping right at my desk and turning to face the class without even writing her name on the board.",
+      "zh": "她很快就恢复了镇定，蹦蹦跳跳地进了教室，在我的讲桌前站定，转过身面对全班，连名字都没往黑板上写。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro8.webp",
+      "alt": "utaintro8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hm? Isn’t that the girl from the maid cafe?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 嗯？那不是女仆咖啡店的那个女生吗？"
+    },
+    {
+      "en": ": What’s she doing here?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 她在这儿干什么？"
+    },
+    {
+      "en": ": She must be...part of all the transfer students coming to our[school] instead now.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 她一定是……现在改来我们[school]的转学生之一。"
+    },
+    {
+      "en": ": Holy heck, I think she’s even shorter than me!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 我去，她好像比我还矮！"
+    },
+    {
+      "en": ": I’m not actually...tall...am I?",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 我其实……不算高……对吧？"
+    },
+    {
+      "en": ": Yeaaaaah I don’t think so, Miku. Sorry.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ": 呃——我可不这么觉得，Miku。抱歉。"
+    },
+    {
+      "en": ": Why do all of the girls our age have such nice legs?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 为什么和我们同龄的女生腿都那么好看？"
+    },
+    {
+      "en": ": I’ve been wondering that ever since I was little, Tsuneyo. I feel ya.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ": 我从小就在想这个问题了，Tsuneyo。我懂你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro9.webp",
+      "alt": "utaintro9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you also get the urge to touch them or am I just broken?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 您也会有想摸摸看的冲动吗，还是说只有我不正常？"
+    },
+    {
+      "en": ": If wanting to touch girls means you’re broken, I never want to be fixed.",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ": 如果想摸女生就是不正常，那我永远都不想被治好。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro10.webp",
+      "alt": "utaintro10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Really? Another one? Our class is already fucking packed.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 真的假的？又来一个？我们班已经他妈的够挤了。"
+    },
+    {
+      "en": ": Yumi, only like, half of the desks are occupied.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Yumi，其实只有一半左右的座位有人坐。"
+    },
+    {
+      "en": ": And why do you care in the first place? You never even come here.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 而且你到底在乎什么？你根本就不来上课。"
+    },
+    {
+      "en": ": Still my fuckin’ classroom. Been wanting to come even less since Ireland and Noodles showed up.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 那也是老子的教室。自从爱尔兰人和面条妹来了之后，我就更不想来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro11.webp",
+      "alt": "utaintro11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sure you’re not just jealous that it’s going to get even harder for you to grab Sensei’s attention?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你该不会只是嫉妒吧？毕竟以后你想抢到 Sensei 的注意力就更难了。"
+    },
+    {
+      "en": ": The fuck are you talkin’ about? I’m like the only one {i}not{/i} trying to do that shit.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 你他妈在说什么？我大概是唯一一个{i}不{/i}想搞那套的人。"
+    },
+    {
+      "en": ": Shouldn’t {i}you{/i} be the one freaking out if that’s the case?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 要真是这样，该抓狂的人不是{i}你{/i}吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro12.webp",
+      "alt": "utaintro12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I have no idea what you’re talking about~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我不知道你在说什么~"
+    },
+    {
+      "en": ": And even if I did, there’s no way Sensei would be into someone that tiny.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 就算我知道，Sensei 也不可能喜欢那么小一只的。"
+    },
+    {
+      "en": ": He clearly likes more {i}mature{/i} girls. Ones that can stand on their own two feet, if you know what I mean.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 他明显更喜欢{i}成熟{/i}的女生。那种能自立的，你懂我意思吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": More like ones that can lay on their back and take-",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 更像是能躺下承受的那种吧——"
+    },
+    {
+      "en": "scene utaintro13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro13.webp",
+      "alt": "utaintro13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Excuse me?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你说什么？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": ..."
+    },
+    {
+      "en": ": I didn’t say anythin’.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 我什么都没说。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro14.webp",
+      "alt": "utaintro14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hi everybody! My name’s Uta Ushibori and I just transferred in from Kumon-mi Academy after it sunk into the ground!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 大家好！我叫 Uta Ushibori，刚刚从 Kumon-mi Academy 转来，因为那所学校沉到地里去了！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Oh, so we’re [kumon_mi_high] and the other[school] was Kumon-mi Academy. That’s not confusing at all.",
+      "zh": "哦，所以我们是 [kumon_mi_high]，另一所[school]是 Kumon-mi Academy。这一点都不让人困惑呢。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I came here from Nara a couple years ago to take care of my grandpa.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我几年前从 Nara 来这儿，是为了照顾我爷爷。"
+    },
+    {
+      "en": ": Wait, really? I didn’t know that...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 等等，真的吗？我都不知道……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro15.webp",
+      "alt": "utaintro15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh! Ami’s here! Hi, Ami!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 哦！Ami 也在！你好呀，Ami！"
+    },
+    {
+      "en": ": Hahaha...hey...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哈哈哈……你好啊……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro14.webp",
+      "alt": "utaintro14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Anyway, my grandpa died last year and I obviously don’t have to take care of him anymore as a result.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 总之，我爷爷去年去世了，所以我显然不用再照顾他了。"
+    },
+    {
+      "en": ": But I obviously can’t go home either because they closed off Kumon-mi, so now I just spend my time working at a maid cafe and shopping!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 但我显然也回不了家，因为 Kumon-mi 被封了，所以我现在就是一边在女仆咖啡店打工，一边逛街！"
+    },
+    {
+      "en": ": Umm...what else...what else?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 呃……还有什么……还有什么？"
+    },
+    {
+      "en": ": Oh yeah! Being born in the country has kinda made it so I can like...share too much or be too...umm, what’s the word...intrusive at times?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 哦对了！因为在乡下长大，我有时候会……说得太多，或者太……呃，那个词怎么说……太没分寸？"
+    },
+    {
+      "en": ": For example, if I ever find out anyone likes anyone else, I’ll probs spill the beans accidentally. Please don’t hate me when that happens.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 比如说，我要是知道了谁喜欢谁，大概会不小心说漏嘴。到时候请别讨厌我。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro16.webp",
+      "alt": "utaintro16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...Is that good enough for an intro? I’m running outta steam here.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 呃……这样当自我介绍够了吗？我快没劲儿了。"
+    },
+    {
+      "en": ": I’ve suddenly forgotten everything interesting about myself.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我突然想不起自己身上有什么有意思的地方了。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Can you do the thing?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你能来一下那个吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro17.webp",
+      "alt": "utaintro17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The thing?...",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 那个？……"
+    },
+    {
+      "en": ": You mean the Uta-chan thing? The thing that makes boys’ and girls’ hearts melt out of their chest?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 您是说 Uta 的那个？那个能让男生女生的心从胸口化掉的？"
+    },
+    {
+      "en": ": Are you really sure it’s okay?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 您真的确定可以吗？"
+    },
+    {
+      "en": ": I don’t know if it will have the same impact without my uniform on.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我没穿制服的话，不知道效果还一不一样。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro18.webp",
+      "alt": "utaintro18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The thing? She doesn’t mean {i}that{/i} thing, does she?...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 那个？她该不会是指那个{i}「那个」{/i}吧？……"
+    },
+    {
+      "en": ": What other {i}thing{/i} could she possibly mean?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 她还能是指别的{i}什么{/i}？"
+    },
+    {
+      "en": ": Also, why’s she all chummy with Sensei?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 还有，她为什么跟 Sensei 那么亲热？"
+    },
+    {
+      "en": ": I know he’s spent millions of Yen on her but she’s not even in maid-mode right now.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我知道他在她身上花了几百万日元，可她现在又没穿女仆装。"
+    },
+    {
+      "en": ": I’m much cuter than her outside of the cafe. Right, Maya?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 在咖啡店外面，我比她可爱多了。对吧，Maya？"
+    },
+    {
+      "en": ": Right, Ami. You’re the cutest ever. No one can compete.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 对，Ami。你是全世界最可爱的。没人比得上。"
+    },
+    {
+      "en": ": Thank you, Maya. I love you.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 谢谢你，Maya。我爱你。"
+    },
+    {
+      "en": ": Uh-huh...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 嗯哼……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro19.webp",
+      "alt": "utaintro19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, uhh...I guess since the teacher asked me to do this, I can’t possibly say no.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 那个，呃……既然是老师让我做的，我总不好拒绝吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro20.webp",
+      "alt": "utaintro20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}Ahem...{/i}",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": {i}咳咳……{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I have to admit, I didn’t think she’d actually go for it in front of the entire class.",
+      "zh": "我得承认，我没想到她真会在全班面前来这一套。"
+    },
+    {
+      "en": "But the way I look at it, what Uta is about to do will either make or break her[school] life.",
+      "zh": "但在我看来，Uta 接下来要做的事，要么成就她的[school]生活，要么毁掉它。"
+    },
+    {
+      "en": "Let’s hope her power is strong enough to capture all of the girls' hearts the way it captured mine.",
+      "zh": "但愿她的力量足够强，能像俘获我一样俘获所有女生的心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro21.webp",
+      "alt": "utaintro21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": FLAVOR...BEEEEEAAAAAAAAAAM!!!!!!!!!!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 美味……光——波——！！！！！！！"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro22.webp",
+      "alt": "utaintro22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So much...power...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 好强的……力量……"
+    },
+    {
+      "en": ": I can feel the flavor from all the way over here!",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我在这么远的地方都能感觉到那股美味！"
+    },
+    {
+      "en": ": I don’t feel any different.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我没觉得有什么不同。"
+    },
+    {
+      "en": ": I feel...light-headed...",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ": 我觉得……有点头晕……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro23.webp",
+      "alt": "utaintro23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": ..."
+    },
+    {
+      "en": ": I am now delicious.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我现在变得很美味了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro24.webp",
+      "alt": "utaintro24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh...my...fucking...god...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 哦……我……操……天哪……"
+    },
+    {
+      "en": ": Yumi, you should do that for Chinami’s scrambled eggs one day. She’d love it.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Yumi，你哪天也该给 Chinami 的炒蛋来一下。她肯定会喜欢的。"
+    },
+    {
+      "en": ": I’d rather fucking die.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 我宁愿去死。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro25.webp",
+      "alt": "utaintro25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s this? A non-believer in our midst?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 这是怎么了？我们当中还有个不信的人？"
+    },
+    {
+      "en": ": Let me guess, you’re the class delinquent? The real {i}tough{/i} one that nobody messes with?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 让我猜猜，你就是班上的不良少女？那个没人敢惹的{i}狠{/i}角色？"
+    },
+    {
+      "en": ": Guess so. What’s it to you, flavor-{i}bitch{/i}?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 算是吧。关你屁事，美味{i}婊{/i}？"
+    },
+    {
+      "en": ": Come on, Yumi. That was just upsetting.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 别这样，Yumi。这话也太伤人了。"
+    },
+    {
+      "en": ": Fuck off, Chika.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 滚一边去，Chika。"
+    },
+    {
+      "en": ": Hmm...I see, I see. You {i}do{/i} appear to be rather intimidating. But Uta Ushibori does not shy away from bullies!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 嗯……我懂了，我懂了。你看起来{i}确实{/i}挺吓人的。但 Uta Ushibori 绝不会在恶霸面前退缩！"
+    },
+    {
+      "en": ": So what? You trying to fight or some shit? That what’s going on?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 所以呢？你想打架还是怎么的？就这意思？"
+    },
+    {
+      "en": ": Yes! No! Sort of!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 是！不是！差不多吧！"
+    },
+    {
+      "en": ": I challenge you to an arm wrestling match! The loser needs to stop bullying everyone for the rest of eternity!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我要跟你比掰手腕！输的人从此以后永远不许再欺负任何人！"
+    },
+    {
+      "en": ": No more bad names! No more making fun of beams designed to warm hearts!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 不许再骂人！不许再嘲笑那种用来温暖人心的光波！"
+    },
+    {
+      "en": ": Uh-huh. And when I win, what do I get?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 嗯哼。那我赢了有什么好处？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro26.webp",
+      "alt": "utaintro26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I will never cast my spell in class again...",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我以后再也不在课上施法了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Oh no. Anything but that.",
+      "zh": "哦不。千万别是那个。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Fine. I’m in. Let’s do this shit.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 行。我奉陪。来吧。"
+    },
+    {
+      "en": ": Not gonna lie, I’m kinda rooting for Uta here.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 说实话，我还挺想给 Uta 加油的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro27.webp",
+      "alt": "utaintro27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": For once in my life, I am proud to say that I am not the center of attention.",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 这辈子难得有一次，我可以骄傲地说，我不是众人目光的焦点。"
+    },
+    {
+      "en": ": This is a huge victory for Molly MacCormack.",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 这对 Molly MacCormack 来说是一场巨大的胜利。"
+    },
+    {
+      "en": ": I wonder who’s going to win? I’d normally say Yumi but...Uta might have some kind of hidden country-girl strength or something?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我在想谁会赢？我本来会说 Yumi，但……Uta 说不定有什么隐藏的乡下怪力之类的？"
+    },
+    {
+      "en": ": Yes, yes. I, too, possess the hidden power of my ancestors.",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 没错，没错。我也拥有来自祖先的隐藏力量。"
+    },
+    {
+      "en": ": You sure you want to do this? I ain’t holdin’ anything back, FYI.",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 你确定要来？先说好，我可不会手下留情。"
+    },
+    {
+      "en": ": Of course. Like I said, Uta Ushibori doesn’t let bullies be bullies!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 当然。就像我说的，Uta Ushibori 绝不放任恶霸作恶！"
+    },
+    {
+      "en": ": Your days of crime are over...umm...ummm...",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 你作恶的日子到头了……呃……呃……"
+    },
+    {
+      "en": ": Yumi...",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": Yumi……"
+    },
+    {
+      "en": ": Your days of crime are over, Yumi!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 你作恶的日子到头了，Yumi！"
+    },
+    {
+      "en": ": Someone! Count us down!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 谁来个人！给我们倒数！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro28",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro28.webp",
+      "alt": "utaintro28"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh! Uhh...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哦！呃……"
+    },
+    {
+      "en": ": Three...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 三……"
+    },
+    {
+      "en": ": Two...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 二……"
+    },
+    {
+      "en": ": One...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 一……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro29",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro29.webp",
+      "alt": "utaintro29"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": GO!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 开始！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro30",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro30.webp",
+      "alt": "utaintro30"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AHHHHH!!! LET GO! LET GO! LET GO!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 啊啊啊啊！！！松手！松手！松手！"
+    },
+    {
+      "en": ": Alas...evil has triumphed once again...",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 唉……邪恶又一次得逞了……"
+    },
+    {
+      "en": ": So, you’re done with all that flavor beam shit now, right?",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 那么，你那套美味光波的破玩意儿到此为止了，对吧？"
+    },
+    {
+      "en": ": I WILL NOT...BE BULLIED!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我绝不会……被欺负！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utaintro31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/utaintro31.webp",
+      "alt": "utaintro31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! We had a fuckin’ deal!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 喂！我们可是说好了的！"
+    },
+    {
+      "en": ": I won! So try that beam shit again and I’ll fuck up your other arm, too!",
+      "spk": "Yumi",
+      "spkColor": "#FF4949",
+      "zh": ": 我赢了！你再敢来那套光波，我就把你另一只手也废了！"
+    },
+    {
+      "en": ": Jesus, Yumi, let go! You’re going to break the poor girl’s wrist!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 天哪，Yumi，松手！你要把这可怜女孩的手腕掰断了！"
+    },
+    {
+      "en": ": FINE! NO MORE FLAVOR BEAM IN CLASS!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 行吧！课上再也不用美味光波了！"
+    },
+    {
+      "en": ": BUT...LET IT BE KNOWN! I WAS ONLY DOING...AS I WAS TOLD!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 但是……请大家记住！我只是……奉命行事！"
+    },
+    {
+      "en": ": YOU HAVE NOT...SEEN THE LAST...OF UTA-CHAN!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 你们还没有……见到 UTA 的最后一面！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The[school] day ended with me taking Uta to the nurse.",
+      "zh": "这一天的[school]生活结束时，是我把 Uta 送去了医务室。"
+    },
+    {
+      "en": "Thankfully, there was no break or fracture or anything like that. She just pulled a muscle from how suddenly Yumi pinned her arm down.",
+      "zh": "万幸没有骨折之类的伤，只是 Yumi 猛地把手压下去时拉伤了肌肉。"
+    },
+    {
+      "en": "I have to say, it was kind of depressing seeing her lose after how much she hyped herself up.",
+      "zh": "我得说，看她把自己捧得那么高最后却输了，还挺让人沮丧的。"
+    },
+    {
+      "en": "For a moment, it seemed like she had the potential to be the class hero.",
+      "zh": "有那么一瞬间，她看起来是有成为班级英雄的潜力的。"
+    },
+    {
+      "en": "Unfortunately, the days of the flavor beam are now gone.",
+      "zh": "遗憾的是，美味光波的时代就此终结。"
+    },
+    {
+      "en": "At least in[school], that is.",
+      "zh": "至少在[school]里是这样。"
+    },
+    {
+      "en": "I have every intention of abusing that hidden power of hers each and every time I go to the maid cafe.",
+      "zh": "至于每次去女仆咖啡店，我可是打算把她的隐藏力量用个够。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day240 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ uta_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Uta’s affection has increased to [uta_love]!{/i}",
+      "zh": "{i}Uta 的好感度提升到了 [uta_love]！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

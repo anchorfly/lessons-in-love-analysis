@@ -78,8 +78,8 @@
       "zh": "一个都没有。"
     },
     {
-      "en": "Not even me.",
-      "zh": "连我也没有。"
+      "en": "{s}Not even me.{/s}",
+      "zh": "{s}连我也没有。{/s}"
     },
     {
       "en": ""
@@ -144,8 +144,8 @@
       "zh": "因为如果我不走，后果可远不止在一个我本来就差点过夜的地方过一夜而已。"
     },
     {
-      "en": "No. If I stay here, I risk losing myself- or whatever faint traces of me this body has managed to absorb during its brief vacation in an incorrect plane.",
-      "zh": "不。如果我留在这儿，我可能会失去我自己——或者说，失去这具身体在错误的位面里短暂度假期间所吸收到的、属于我的那点微薄痕迹。"
+      "en": "No. If I stay here, I risk losing myself- or whatever faint traces of {i}me{/i} this body has managed to absorb during its brief vacation in an incorrect plane.",
+      "zh": "不。如果我留在这儿，我可能会失去我自己——或者说，失去这具身体在错误的位面里短暂度假期间所吸收到的、属于{i}我{/i}的那点微薄痕迹。"
     },
     {
       "en": ""
@@ -202,8 +202,8 @@
       "zh": "我想站在一堆被用尽的少女头顶，知道哪怕我在山顶歇一口气，这堆人也会移动，又会形成新的峰顶。"
     },
     {
-      "en": "From the top to the bottom- transference of power we all can enjoy.",
-      "zh": "从上到下——一场我们都能享受的权力转移。"
+      "en": "From the top to the bottom- transference of power we {i}all{/i} can enjoy.",
+      "zh": "从上到下——一场我们{i}都{/i}能享受的权力转移。"
     },
     {
       "en": "How long until the mountain forms?",
@@ -242,8 +242,8 @@
       "zh": "我的双脚自作主张，带我走上一条平时看不见的路。"
     },
     {
-      "en": "I can't say when my body successfully managed to escape the confines of the school, but I am somehow feeling more confined now that I am on the outside.",
-      "zh": "我说不清自己的身体是什么时候成功逃出学校的，但奇怪的是，人到了外面，反而觉得更被束缚了。"
+      "en": "I can't say when my body successfully managed to escape the confines of the school, but I am somehow feeling {i}more{/i} confined now that I am on the outside.",
+      "zh": "我说不清自己的身体是什么时候成功逃出学校的，但奇怪的是，人到了外面，反而觉得{i}更{/i}被束缚了。"
     },
     {
       "en": "I can see a place where the sidewalk ends- and a glowing passageway of TV static beckoning me forward.",
@@ -278,8 +278,8 @@
       "zh": "我也能推倒任何我想推倒的墙，再造一扇新的。"
     },
     {
-      "en": "This place was built for you me.",
-      "zh": "这个地方是为你我而建的。"
+      "en": "This place was built for {s}you{/s} me.",
+      "zh": "这个地方是{s}为你{/s}我而建的。"
     },
     {
       "en": "I can do whatever I want with it.",
@@ -372,10 +372,10 @@
       "zh": ": 你真是个怪胎，老兄。"
     },
     {
-      "en": ": Well, what about you? What are you doing out here this late?",
+      "en": ": Well, what about you? What are {i}you{/i} doing out here this late?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那你呢？这么晚了你在这儿干什么？"
+      "zh": ": 那你呢？这么晚了{i}你{/i}在这儿干什么？"
     },
     {
       "en": ": Shouldn’t you be back at the dorms or something?",
@@ -417,10 +417,10 @@
       "zh": ": 你跟 Chika 吵架了还是怎么的？还是说你只是……又在叛逆了？"
     },
     {
-      "en": ": I did not get into a fight with Chika. And I can promise you I'm not fucking...being rebellious or whatever.",
+      "en": ": I did not {i}get into a fight with Chika.{/i} And I can promise you I'm not fucking...being rebellious or whatever.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 我没跟 Chika 吵架。而且我可以向你保证，我才没有他妈的……在叛逆什么的。"
+      "zh": ": 我{i}没跟 Chika 吵架{/i}。而且我可以向你保证，我才没有他妈的……在叛逆什么的。"
     },
     {
       "en": ": But it ain't like I expect you to fuckin' understand me either, so...ain't no point in talkin' about it.",
@@ -528,16 +528,16 @@
       "zh": ": 就上个月，你几乎他妈天天找我麻烦。"
     },
     {
-      "en": ": Shit, dude. You even tracked me down at the arcade a few times and made it so I can't even chill there anymore.",
+      "en": ": Shit, dude. You even tracked me down at the arcade a few times and made it so I can't even chill {i}there{/i} anymore.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 靠，老兄。你甚至还几次追到游戏厅来找我，搞得我现在连那儿都待不下去了。"
+      "zh": ": 靠，老兄。你甚至还几次追到游戏厅来找我，搞得我现在连{i}那儿{/i}都待不下去了。"
     },
     {
-      "en": ": Doin' annoying shit has never really been above your paygrade or whatever. I get that.",
+      "en": ": Doin' annoying shit has never really been {i}above your paygrade{/i} or whatever. I get that.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 干些烦人的事，一向都没超出你的「职权范围」什么的。这点我懂。"
+      "zh": ": 干些烦人的事，一向都没{i}超出你的「职权范围」{/i}什么的。这点我懂。"
     },
     {
       "en": ": But now?",
@@ -546,10 +546,10 @@
       "zh": ": 但现在呢？"
     },
     {
-      "en": ": Now it's like you're backin' down on even trying to change me with all this Oh, just be less of an asshole shit.",
+      "en": ": Now it's like you're backin' down on even trying to change me with all this {i}Oh, just be less of an asshole{/i} shit.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 现在你连试着改变我都放弃了，就只会说什么「别那么混蛋」之类的屁话。"
+      "zh": ": 现在你连试着改变我都放弃了，就只会说什么{i}「别那么混蛋」{/i}之类的屁话。"
     },
     {
       "en": ": The fuck is going on?",
@@ -675,10 +675,10 @@
       "zh": ": 反正大家都在做一样的事。"
     },
     {
-      "en": ": Ain't nobody who just gets what they're doing here. We're all just...trying to survive in our own ways and all that shit.",
+      "en": ": Ain't nobody who just {i}gets{/i} what they're doing here. We're all just...trying to survive in our own ways and all that shit.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 没有谁真的明白自己在这儿干什么。我们都只是……用自己的方式努力活下去之类的。"
+      "zh": ": 没有谁真的{i}明白{/i}自己在这儿干什么。我们都只是……用自己的方式努力活下去之类的。"
     },
     {
       "en": ": Not gonna carry on with that thought, though, since all you'll hear is just some fucking...chance to get to know me or whatever.",
@@ -741,10 +741,10 @@
       "en": ""
     },
     {
-      "en": ": I ain't vulnerable...And just because I'm showin' a slightly different side of myself doesn't mean I like you all of a sudden.",
+      "en": ": I ain't {i}vulnerable...{/i}And just because I'm showin' a slightly different side of myself doesn't mean I like you all of a sudden.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 我才不脆弱……而且我只是露出稍微不同的一面，不代表我就突然喜欢你了。"
+      "zh": ": 我才不{i}脆弱{/i}……而且我只是露出稍微不同的一面，不代表我就突然喜欢你了。"
     },
     {
       "en": ": I still think you’re a fucking creep who spends way too much time around [teenage]girls.",
@@ -771,10 +771,10 @@
       "zh": ": 大概吧。不过还是他妈挺怪的。而且不只是那种恶心的变态方式。"
     },
     {
-      "en": ": It's like...the way you look at us is really...off sometimes.",
+      "en": ": It's like...the way you look at us is really...{i}off{/i} sometimes.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 就好像……你看我们的眼神有时候真的很……不对劲。"
+      "zh": ": 就好像……你看我们的眼神有时候真的很……{i}不对劲{/i}。"
     },
     {
       "en": ": It’s almost kinda like you’re tryin' to remember something.",
@@ -855,10 +855,10 @@
       "zh": ": 我他妈才不在乎她们。"
     },
     {
-      "en": ": Do you give a shit about me?",
+      "en": ": Do you give a shit about {i}me?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那你在乎我吗？"
+      "zh": ": 那你在乎{i}我{/i}吗？"
     },
     {
       "en": ""
@@ -909,10 +909,10 @@
       "en": ""
     },
     {
-      "en": ": Fuck no. Futaba's gotta actually stand up for herself for once and stop lettin’ me walk all over her. She ain't earned the right to be terrified yet.",
+      "en": ": Fuck no. Futaba's gotta actually stand up for herself for once and stop lettin’ me walk all over her. She ain't earned the right to be {i}terrified{/i} yet.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 他妈不可能。Futaba 得真的为自己站出来一次，别再任由我骑在她头上。她还没资格害怕呢。"
+      "zh": ": 他妈不可能。Futaba 得真的为自己站出来一次，别再任由我骑在她头上。她还没资格{i}害怕{/i}呢。"
     },
     {
       "en": ": Standing up for yourself is easier said than done, you know. Some people just...can't really do that.",
@@ -1190,24 +1190,24 @@
       "zh": "而是因为她让我没有继续朝那道光走去。"
     },
     {
-      "en": "Congratulations!",
-      "zh": "恭喜！"
+      "en": "{s}Congratulations!{/s}",
+      "zh": "{s}恭喜！{/s}"
     },
     {
-      "en": "You have unlocked a special event with [[redacted]!",
-      "zh": "你已解锁与 [[redacted] 的特别事件！"
+      "en": "{s}You have unlocked a special event with {b}[[redacted]{/b}!{/i}",
+      "zh": "{s}你已解锁与 {b}[[redacted]{/b} 的特别事件！{/s}"
     },
     {
-      "en": "There is something buried underneath your feet.",
-      "zh": "你的脚下埋着什么东西。"
+      "en": "{s}There is something buried underneath your feet.{/s}",
+      "zh": "{s}你的脚下埋着什么东西。{/s}"
     },
     {
-      "en": "探してみませんか？",
-      "zh": "探してみませんか？"
+      "en": "{s}探してみませんか？{/s}",
+      "zh": "{s}探してみませんか？{/s}"
     },
     {
-      "en": "Yumi's affection has xxxxxxxxxxxxxxxxxxxx!",
-      "zh": "Yumi 的好感度已经 xxxxxxxxxxxxxxxxxxxx！"
+      "en": "{s}Yumi's affection has xxxxxxxxxxxxxxxxxxxx!{/s}",
+      "zh": "{s}Yumi 的好感度已经 xxxxxxxxxxxxxxxxxxxx！{/s}"
     },
     {
       "en": ""

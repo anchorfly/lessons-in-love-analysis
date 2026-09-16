@@ -87,8 +87,8 @@
       "zh": "现在我能看见了。光全都长进来了。可青春已逝，我被摊得太薄。"
     },
     {
-      "en": "And I keep seeing things that I know aren’t actually there but they feel like they’re there and I’ve begun to pull my hair out.",
-      "zh": "而我总看见那些我明知道并不存在的东西，可它们给人的感觉就在那儿，我已经开始一根根薅自己的头发了。"
+      "en": "And I keep seeing things that I know aren’t actually there but they {i}feel{/i} like they’re there and I’ve begun to pull my hair out.",
+      "zh": "而我总看见那些我明知道并不存在的东西，可它们给人的{i}感觉{/i}就在那儿，我已经开始一根根薅自己的头发了。"
     },
     {
       "en": "Cherry-scented soap and pine — a silly tune to pass the time.",
@@ -126,8 +126,8 @@
       "en": ""
     },
     {
-      "en": "Something approaches.",
-      "zh": "有什么东西正在靠近。"
+      "en": "{i}Something approaches.{/i}",
+      "zh": "{i}有什么东西正在靠近。{/i}"
     },
     {
       "en": ""
@@ -701,28 +701,28 @@
       "zh": ": ..."
     },
     {
-      "en": ": Are you gonna say anything? Or are you just going to stand there and act all fucking scared and useless?",
+      "en": ": Are you gonna say {i}anything?{/i} Or are you just going to stand there and act all fucking scared and useless?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你倒是说句话啊？还是说你就打算站在那儿，装出一副吓得要死又一无所用的样子？"
+      "zh": ": 你倒是说句{i}话{/i}啊？还是说你就打算站在那儿，装出一副吓得要死又一无所用的样子？"
     },
     {
-      "en": ": Because I was fine with that when it was temporary. But now that you’re apparently wandering around the fucking city again and have made no effort to contact me, I’m not sure what to think.",
+      "en": ": Because I was {i}fine{/i} with that when it was temporary. But now that you’re apparently wandering around the fucking city again and have made {i}no{/i} effort to contact me, I’m not sure {i}what{/i} to think.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 如果只是暂时的，我还受得了。可现在你显然又开始在这该死的城市里到处乱晃，却根本没想过联系我，我真不知道该怎么想了。"
+      "zh": ": 如果只是暂时的，我还{i}受得了{/i}。可现在你显然又开始在这该死的城市里到处乱晃，却{i}根本没{/i}想过联系我，我真不知道该{i}怎么想{/i}了。"
     },
     {
-      "en": ": In fact, I’m not sure what any of this is about in the first place because there’s nothing I can even think of that would mess you up as badly as you’ve apparently been messed up.",
+      "en": ": In fact, I’m not sure what any of this is about in the first place because there’s nothing I can even {i}think{/i} of that would mess you up as badly as you’ve apparently {i}been{/i} messed up.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 事实上，我连这一切到底是怎么回事都不清楚，因为我想不出有什么事能把一个人搞得像你这样惨。"
+      "zh": ": 事实上，我连这一切到底是怎么回事都不清楚，因为我{i}想{/i}不出有什么事能把一个人搞得像你这样惨。"
     },
     {
-      "en": ": So either talk to me like a fucking man or tell me to go fuck myself because I am not Noriko and I am not going to just deal with this bullshit for the rest of my life.",
+      "en": ": So either talk to me like a fucking {i}man{/i} or tell me to go fuck myself because I am {i}not{/i} Noriko and I am {i}not{/i} going to just deal with this bullshit for the rest of my life.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 所以，要么像个男人一样跟我说话，要么就叫我滚去操我自己——因为我不是 Noriko，我不会就这么一辈子忍这些破事。"
+      "zh": ": 所以，要么像个{i}男人{/i}一样跟我说话，要么就叫我滚去操我自己——因为我{i}不是{/i} Noriko，我{i}不会{/i}就这么一辈子忍这些破事。"
     },
     {
       "en": ""
@@ -740,10 +740,10 @@
       "en": ""
     },
     {
-      "en": ": And wipe that pathetic fucking look off of your face! I’m the one who should look like that! Not you!",
+      "en": ": And wipe that pathetic fucking look off of your face! {i}I’m{/i} the one who should look like that! Not you!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 还有，把你脸上那副可怜兮兮的蠢样收起来！该摆出那副表情的人是我！不是你！"
+      "zh": ": 还有，把你脸上那副可怜兮兮的蠢样收起来！该摆出那副表情的人是{i}我{/i}！不是你！"
     },
     {
       "en": ": What are you doing here?...",
@@ -752,16 +752,16 @@
       "zh": ": 你来这儿干什么？……"
     },
     {
-      "en": ": What am I doing here?! I work here! And you haven’t set foot here or anywhere else I go in months! It’s like you’re trying to avoid me! I’ve done literally nothing!",
+      "en": ": What am {i}I{/i} doing here?! I {i}work{/i} here! And you haven’t set {i}foot{/i} here or {i}anywhere{/i} else I go in months! It’s like you’re {i}trying{/i} to avoid me! I’ve done literally nothing!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我来这儿干什么？！我在这儿工作！而这几个月里，你既没踏进这儿一步，也没去过我去的任何地方！简直像是在故意躲我！我可什么都没做过！"
+      "zh": ": {i}我{/i}来这儿干什么？！我在这儿{i}工作{/i}！而这几个月里，你既没踏进这儿{i}一步{/i}，也没去过我去的{i}任何地方{/i}！简直像是在{i}故意{/i}躲我！我可什么都没做过！"
     },
     {
-      "en": ": And now fucking Ami thinks something is going on with us as well, so thanks for making that a thing I have to deal with! Appreciate it!",
+      "en": ": And now fucking {i}Ami{/i} thinks something is going on with us as well, so thanks for making that a thing I have to deal with! Appreciate it!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 现在连 Ami 都觉得我们俩之间有点什么了，所以谢谢你给我添了这么一件非处理不可的事！真是感激不尽！"
+      "zh": ": 现在连 {i}Ami{/i} 都觉得我们俩之间有点什么了，所以谢谢你给我添了这么一件非处理不可的事！真是感激不尽！"
     },
     {
       "en": ": You should be in school...",
@@ -776,10 +776,10 @@
       "zh": ": 我应该在——这附近是不是装了隐藏摄像头什么的？是不是有人要跳出来告诉我，这是什么喜剧特辑的一部分？"
     },
     {
-      "en": ": Because, if not, that is the stupidest fucking thing you could have said after ghosting me for months, Sensei! MONTHS!",
+      "en": ": Because, if not, that is the stupidest fucking thing you could have said after ghosting me for {i}months,{/i} Sensei! MONTHS!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 如果不是的话，那这绝对是你人间蒸发了好几个月之后能说出的最蠢的一句话，Sensei！好几个月！"
+      "zh": ": 如果不是的话，那这绝对是你人间蒸发了好几个月之后能说出的最蠢的一句话，Sensei！好{i}几个月{/i}！"
     },
     {
       "en": ""
@@ -797,16 +797,16 @@
       "en": ""
     },
     {
-      "en": ": Do you have any idea what’s been going through my head all this time?! Any?",
+      "en": ": Do you have {i}any{/i} idea what’s been going through my head all this time?! {i}Any?{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你知道这段时间我脑子里都在想些什么吗？！一点都不知道吗？"
+      "zh": ": 你知道这段时间我脑子里都在想些什么吗？！{i}一点{/i}都不知道吗？"
     },
     {
-      "en": ": Because, if you know me well enough- and I’m pretty fucking sure you do, you’d probably understand just how pissed off I’d have to be to come looking for you, right? Right?!",
+      "en": ": Because, if you know me well enough- and I’m {i}pretty{/i} fucking sure you do, you’d probably understand just how pissed off I’d have to be to come looking for you, right? Right?!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 因为如果你足够了解我——而我非常确定你了解——你就该明白，我得气成什么样才会跑来找你，对吧？对吧？！"
+      "zh": ": 因为如果你足够了解我——而我{i}非常{/i}确定你了解——你就该明白，我得气成什么样才会跑来找你，对吧？对吧？！"
     },
     {
       "en": ": ...",
@@ -830,10 +830,10 @@
       "en": ""
     },
     {
-      "en": ": Are you just bored of me now or something? Cause you sure picked a hell of a way to break that to me if that’s what’s going on here.",
+      "en": ": Are you just {i}bored{/i} of me now or something? Cause you sure picked a hell of a way to break that to me if that’s what’s going on here.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你就是对我腻了还是怎么的？要真是这么回事，你挑的告知方式可真是绝了。"
+      "zh": ": 你就是对我{i}腻{/i}了还是怎么的？要真是这么回事，你挑的告知方式可真是绝了。"
     },
     {
       "en": ": And if it’s not, which I highly doubt it is in the first place, you should probably get to talking. Because it’s not a good look to let a teenage girl fucking scream at you in public while you just stand there.",
@@ -842,16 +842,16 @@
       "zh": ": 如果不是——虽然我严重怀疑根本不是——你最好赶紧开口。因为让一个十几岁的女孩当街冲你大吼大叫，而你只是站着不动，这画面可不好看。"
     },
     {
-      "en": ": In fact, it’s not good for us to even be seen in public. Which is why I’ve done my job to a fucking T while you’ve done jack shit!",
+      "en": ": In fact, it’s not good for us to even be {i}seen{/i} in public. Which is why I’ve done {i}my{/i} job to a fucking {i}T{/i} while {i}you’ve{/i} done jack shit!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 事实上，我们连被人看见同框都不该。所以我他妈把该做的做得滴水不漏，而你屁都没干！"
+      "zh": ": 事实上，我们连{i}被人看见{/i}同框都不该。所以我他妈把{i}该做的{/i}做得{i}滴水不漏{/i}，而{i}你{/i}屁都没干！"
     },
     {
-      "en": ": How long were you going to make me wait?! Why were you making me wait?! And why won’t you fucking say anything?!",
+      "en": ": How long were you going to make me wait?! {i}Why{/i} were you making me wait?! And why won’t you fucking say anything?!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你打算让我等多久？！你为什么要让我等？！还有你为什么他妈一句话都不说？！"
+      "zh": ": 你打算让我等多久？！你{i}为什么{/i}要让我等？！还有你为什么他妈一句话都不说？！"
     },
     {
       "en": ": You’re not her...",
@@ -860,10 +860,10 @@
       "zh": ": 你不是她……"
     },
     {
-      "en": ": What do you mean I’m not “her?” And which “her” are you talking about in the first place since we agreed not to talk about either of them?",
+      "en": ": What do you mean I’m not “her?” And which “her” are you talking about in the first place since we agreed not to talk about {i}either{/i} of them?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你说我“不是她”是什么意思？再说我们明明说好了不提她们两个中的任何一个，你到底在说哪个“她”？"
+      "zh": ": 你说我“不是她”是什么意思？再说我们明明说好了不提她们两个中的{i}任何一个{/i}，你到底在说哪个“她”？"
     },
     {
       "en": ": You’re not Maya...",
@@ -932,10 +932,10 @@
       "zh": ": 没有摄像头。"
     },
     {
-      "en": ": Oh, there better be fucking cameras. Because you did not just call me a “meat puppet” in the middle of an argument about you straight up disappearing on me.",
+      "en": ": Oh, there better be fucking cameras. Because you did {i}not{/i} just call me a “meat puppet” in the middle of an argument about you straight up disappearing on me.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 哦，最好他妈有摄像头。因为你不可能真的在一场关于你直接人间蒸发的争吵里管我叫“肉身玩偶”。"
+      "zh": ": 哦，最好他妈有摄像头。因为你{i}不{/i}可能真的在一场关于你直接人间蒸发的争吵里管我叫“肉身玩偶”。"
     },
     {
       "en": ""
@@ -959,22 +959,22 @@
       "zh": ": 你想在我们做爱的时候这么叫我？行。可以。是有点怪，但也行。可现在？你是白痴吗？Ami 是不是在你昏迷的时候把你脑子挖掉了一块？搞什么鬼啊，Sensei？"
     },
     {
-      "en": ": As a matter of fact, what did you do to her in the first place? What happened to her hair? Why is she suddenly bed-ridden now?",
+      "en": ": As a matter of fact, what did you {i}do{/i} to her in the first place? What happened to her hair? Why is {i}she{/i} suddenly bed-ridden now?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 话说回来，你到底对她做了什么？她的头发怎么回事？为什么她突然就卧床不起了？"
+      "zh": ": 话说回来，你到底对她{i}做{/i}了什么？她的头发怎么回事？为什么{i}她{/i}突然就卧床不起了？"
     },
     {
-      "en": ": Is there some super secret Arakawa family disease that causes all of you to just stop living at the most tragic and dramatic times possible? Because if so, condolences. But also, maybe tell me that?",
+      "en": ": Is there some super secret Arakawa family disease that causes all of you to just stop living at the most tragic and dramatic times possible? Because if so, condolences. But also, maybe {i}tell me that?{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 是不是有什么 Arakawa 家的超级隐秘遗传病，会让你们所有人都在最悲惨、最戏剧性的时刻突然就不活了？如果是的话，节哀。不过，你是不是也该跟我说一声？"
+      "zh": ": 是不是有什么 Arakawa 家的超级隐秘遗传病，会让你们所有人都在最悲惨、最戏剧性的时刻突然就不活了？如果是的话，节哀。不过，你是不是{i}也该跟我说一声{/i}？"
     },
     {
-      "en": ": I shouldn’t see you right now...I don’t want to see you right now...",
+      "en": ": I shouldn’t see you right now...I don’t {i}want{/i} to see you right now...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我现在不该见你……我现在不想见你……"
+      "zh": ": 我现在不该见你……我现在不{i}想{/i}见你……"
     },
     {
       "en": ""
@@ -992,10 +992,10 @@
       "en": ""
     },
     {
-      "en": ": Well, then what the fuck is this?! Because you’re sure as hell not here to pray! So either you wanted to see me, or you’re looking for some other shrine maiden to fuck! Which is it?!",
+      "en": ": Well, then what the fuck is {i}this?!{/i} Because you’re sure as hell not here to {i}pray!{/i} So either you {i}wanted{/i} to see me, or you’re looking for some other shrine maiden to fuck! Which is it?!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 那这他妈算什么？！你绝对不是来祈祷的！所以要么你想见我，要么你在找别的巫女来操！到底是哪一种？！"
+      "zh": ": 那{i}这{/i}他妈算什么？！你绝对不是来{i}祈祷{/i}的！所以要么你{i}想{/i}见我，要么你在找别的巫女来操！到底是哪一种？！"
     },
     {
       "en": ": Neither...",
@@ -1025,10 +1025,10 @@
       "zh": ": 呃呃呃呃呃呃呃呃，不行。这个回答不接受。"
     },
     {
-      "en": ": It’s one or the other. Either you want to fuck me, or you want to fuck someone who isn’t as cute as me. Which would be dumb. And you’re smarter than that. Which means you are here for me.",
+      "en": ": It’s one or the other. Either you want to fuck {i}me,{/i} or you want to fuck someone who isn’t as {i}cute{/i} as me. Which would be dumb. And you’re smarter than that. Which means you are here for me.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 二选一。要么你想操我，要么你想操一个没我可爱的人。后者很蠢。而你没那么蠢。也就是说，你是为我来的。"
+      "zh": ": 二选一。要么你想操{i}我{/i}，要么你想操一个没我{i}可爱{/i}的人。后者很蠢。而你没那么蠢。也就是说，你是为我来的。"
     },
     {
       "en": ""
@@ -1064,10 +1064,10 @@
       "zh": ": 哦，你会的。然后，你要把我拖进小巷，跟我来一场暴力的、气冲冲的和好炮，当作赎罪。"
     },
     {
-      "en": ": And I work for god, so that means you have to listen to me or you're going to hell.",
+      "en": ": And I work for god, so that means you have to listen to me or you're going to {i}hell.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 而且我是替神工作的，所以你得听我的，不然你就得下地狱。"
+      "zh": ": 而且我是替神工作的，所以你得听我的，不然你就得下{i}地狱{/i}。"
     },
     {
       "en": ""
@@ -1181,16 +1181,16 @@
       "zh": ": 你能不能别缠着我？……"
     },
     {
-      "en": ": No! It’s been months! And we’ve been together for years! If you’re going to treat me like this, you have to at least explain yourself so I’m not stuck thinking! I hate thinking!",
+      "en": ": No! It’s been {i}months!{/i} And we’ve been together for {i}years!{/i} If you’re going to treat me like this, you have to at least explain yourself so I’m not stuck {i}thinking!{/i} I {i}hate{/i} thinking!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 不行！都好几个月了！而且我们在一起好几年了！你要这么对我，至少得给我个解释，别让我一个人在这儿瞎想！我讨厌动脑子！"
+      "zh": ": 不行！都好{i}几个月{/i}了！而且我们在一起好{i}几年{/i}了！你要这么对我，至少得给我个解释，别让我一个人在这儿{i}瞎想{/i}！我{i}讨厌{/i}动脑子！"
     },
     {
-      "en": ": There’s so much shit I’m confused about because you decided to go into hiding out of nowhere and leave me in the dark!",
+      "en": ": There’s so much shit I’m confused about because {i}you{/i} decided to go into hiding out of nowhere and leave me in the dark!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 有那么多事让我稀里糊涂的，就因为你突然人间蒸发，把我蒙在鼓里！"
+      "zh": ": 有那么多事让我稀里糊涂的，就因为{i}你{/i}突然人间蒸发，把我蒙在鼓里！"
     },
     {
       "en": ": Which, again, would have been totally cool if you gave me a fucking night-light or something instead of locking the door without even saying goodnight!",
@@ -1214,22 +1214,22 @@
       "en": ""
     },
     {
-      "en": ": This is not how we do things. We don’t fight.",
+      "en": ": This is {i}not{/i} how we do things. We don’t fight.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我们不是这么相处的。我们不吵架。"
+      "zh": ": 我们{i}不是{/i}这么相处的。我们不吵架。"
     },
     {
-      "en": ": We fuck and we cuddle and we kiss and we part. That’s how it’s always been. And that’s how it should be because that’s what we want.",
+      "en": ": We fuck and we cuddle and we kiss and we part. That’s how it’s always been. And that’s how it {i}should{/i} be because that’s what we {i}want.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我们做爱、拥抱、接吻，然后分开。一直都是这样。也应该一直这样，因为那就是我们想要的。"
+      "zh": ": 我们做爱、拥抱、接吻，然后分开。一直都是这样。也{i}应该{/i}一直这样，因为那就是我们{i}想要{/i}的。"
     },
     {
-      "en": ": So, yeah. This whole situation has left me pretty fucking agitated because I don’t understand why, all of a sudden, it’s like you’re fucking afraid of me. What did I do?",
+      "en": ": So, yeah. This whole situation has left me pretty fucking agitated because I don’t understand why, all of a sudden, it’s like you’re fucking {i}afraid{/i} of me. What did I do?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 所以，没错。这整件事把我搞得相当烦躁，因为我不明白为什么你突然就像他妈的怕我一样。我到底做了什么？"
+      "zh": ": 所以，没错。这整件事把我搞得相当烦躁，因为我不明白为什么你突然就像他妈的{i}怕{/i}我一样。我到底做了什么？"
     },
     {
       "en": ": Nothing.",
@@ -1298,10 +1298,10 @@
       "en": ""
     },
     {
-      "en": ": It’s not like I have fucking legs or anything!",
+      "en": ": {i}It’s not like I have fucking legs or anything!{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我又不是他妈没长腿！"
+      "zh": ": {i}我又不是他妈没长腿！{/i}"
     },
     {
       "en": ""
@@ -1349,8 +1349,8 @@
       "en": ""
     },
     {
-      "en": "Maya’s affection decreased to [maya_love]!",
-      "zh": "Maya 的好感度下降至 [maya_love]！"
+      "en": "{i}Maya’s affection decreased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度下降至 [maya_love]！{/i}"
     },
     {
       "en": ""
@@ -1380,8 +1380,8 @@
       "zh": "..."
     },
     {
-      "en": "Back at school...",
-      "zh": "回到学校……"
+      "en": "{i}Back at school...{/i}",
+      "zh": "{i}回到学校……{/i}"
     },
     {
       "en": ""

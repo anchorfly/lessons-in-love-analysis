@@ -1,1127 +1,1127 @@
 {
- "label": "day54",
- "title_zh": "Sakakibara 饮食法",
- "lines": [
-  {
-   "en": ""
-  },
-  {
-   "en": "label day54:",
-   "zh": ""
-  },
-  {
-   "en": "scene hall_day",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/BGs/hall_day.png",
-   "alt": "hall_day"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I exit the teachers’ lounge and make my way into the hall, avoiding eye contact with anyone I don’t know.",
-   "zh": "我走出教师休息室，来到走廊，避开所有我不认识的人的目光。"
-  },
-  {
-   "en": "Despite how ‘comfortable’ I’ve gotten around my class, I still feel slightly odd surrounded by students I haven’t met yet.",
-   "zh": "尽管我在自己班上已经「自在」了不少，但被还没见过的学生围着，还是让我有点别扭。"
-  },
-  {
-   "en": "I keep subconsciously thinking they’re going to realize I’m not actually a teacher and call the cops on me or something.",
-   "zh": "我总在潜意识里觉得，他们会发现我其实根本不是老师，然后报警什么的。"
-  },
-  {
-   "en": "Obviously, the likelihood of that happening is very slim. But the thought is still there and that alone is enough to cause a bit of unrest in this misguided head of mine.",
-   "zh": "显然，这种事发生的可能性非常小。但这个念头就摆在那儿，光是这一点，就足以让我这颗不靠谱的脑袋有点不安。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I round the corner and duck into the cafeteria to grab a quick bite to eat before the second half of the day begins.",
-   "zh": "我转过弯，钻进食堂，想在下午的课开始之前赶紧吃上一口。"
-  },
-  {
-   "en": "Not wanting to wait in line for hot food, I buy a few snacks out of a vending machine and begin to head back to class.",
-   "zh": "不想排队等热食，我从自动贩卖机买了几包零食，准备回教室。"
-  },
-  {
-   "en": "As is customary around here, though...I’m flagged down before I’m able to do that.",
-   "zh": "不过，按照这里的惯例……我还没走成，就被人拦下了。"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch1.webp",
-   "alt": "ayalunch1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sensei! Do you want to eat lunch with us today? Everybody else went out to eat in the courtyard, so it'll just be Sana and me.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 老师！今天要不要跟我们一起吃午饭？其他人都去院子里吃了，所以就只有我和 Sana。"
-  },
-  {
-   "en": ": What? Why didn't you two go with them?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 什么？你们两个怎么没跟她们一起去？"
-  },
-  {
-   "en": ": It's...too hot out there...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 外面……太热了……"
-  },
-  {
-   "en": ": I would...probably die...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 我大概……会死……"
-  },
-  {
-   "en": ": What Sana said. I don't want her death to be on my hands, so I've decided to take one for the team and eat in here instead.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": Sana 说得对。我可不想让她死在我手上，所以我决定为团队牺牲一下，在屋里吃。"
-  },
-  {
-   "en": ": I'm glad I did, though! Because this decision meant I got to see your face! And that your face will now join us for lunch!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 不过我很高兴我这么做了！因为这个决定让我见到了你的脸！而现在这张脸要跟我们一起吃午饭了！"
-  },
-  {
-   "en": ": I mean...I was planning on going back to the teacher’s lounge and eating in there.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我是说……我本来打算回教师休息室在里面吃的。"
-  },
-  {
-   "en": ": But?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 但是？"
-  },
-  {
-   "en": ": ...But I guess I can hang out here instead.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……但我想我也可以留在这儿。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch2.webp",
-   "alt": "ayalunch2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Woohoo!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 哇呼！"
-  },
-  {
-   "en": ": Umm...yay?...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 嗯……耶？……"
-  },
-  {
-   "en": ": Yay indeed, Sana. Yay indeed...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 确实是「耶」，Sana。确实是「耶」……"
-  },
-  {
-   "en": ": Are you...not that hungry, Sensei?...All you have on your tray are...snacks...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 老师……你不太饿吗？……你餐盘里只有……零食……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Sana takes a quick glance at the minor haul I was able to procure today before taking a sip of her ramune.",
-   "zh": "Sana 快速瞥了一眼我今天弄到手的那一小堆东西，然后喝了一口弹珠汽水。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch2r",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch2r.webp",
-   "alt": "ayalunch2r"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Uh-oh! Looks like it's weebnote time!",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 哎呀！看来是宅知识小课堂时间了！"
-  },
-  {
-   "en": ": What? Where did you come from?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 什么？你从哪儿冒出来的？"
-  },
-  {
-   "en": ": Weebnote: Ramune, otherwise known as Japanese soda, is actually quite different from its American counterpart!",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 宅知识：弹珠汽水，也就是日式汽水，跟它的美式同类其实很不一样！"
-  },
-  {
-   "en": ": One of the key differences is the focus on more fruity flavors, some of which are very unusual by Western standards.",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 其中一个关键区别在于它更偏重果味，有些口味按西方的标准来看相当奇特。"
-  },
-  {
-   "en": ": You also need to carbonate them yourself by punching a tiny ball into an equally tiny hole. It’s mildly sexual and majorly delicious!",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 你还得自己给它打气——把一颗小珠子打进一个同样小的洞里。这有点色情，但超级好喝！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch2r2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch2r2.webp",
-   "alt": "ayalunch2r2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": That's weird...I could have sworn I...heard someone just now...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 好奇怪……我明明……刚才好像听到有人说话……"
-  },
-  {
-   "en": ": Nope! I definitely didn't pay anyone to stand behind that board and shout out facts about Japanese culture to the void.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 没有！我绝对没有花钱雇人站在那块板子后面，对着空气大喊日本文化小知识。"
-  },
-  {
-   "en": ": My gacha addiction lives to fight another day!",
-   "spk": "Molly",
-   "spkColor": "#4FCB80",
-   "zh": ": 我的扭蛋瘾又能再战一天了！"
-  },
-  {
-   "en": ": ...Anyway, you don’t seem to have that much either, Sana. All I see is bread and rice.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……总之，Sana，你的看起来也不多啊。我只看到面包和米饭。"
-  },
-  {
-   "en": ": Are you on an all-carb diet or something?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你在进行纯碳水饮食之类的吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch3.webp",
-   "alt": "ayalunch3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Umm...no...I just...need the energy...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 嗯……不是……我只是……需要能量……"
-  },
-  {
-   "en": ": For what?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 用来干什么？"
-  },
-  {
-   "en": ": Umm...uhh...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 嗯……呃……"
-  },
-  {
-   "en": ": Living?...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 活着？……"
-  },
-  {
-   "en": ": Sana doesn’t eat a lot, but whenever she does it’s pretty much all carbs.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": Sana 吃得不多，但只要吃，基本全是碳水。"
-  },
-  {
-   "en": ": Or candy.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 或者糖。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch4",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch4.webp",
-   "alt": "ayalunch4"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I have a problem...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 我确实有问题……"
-  },
-  {
-   "en": ": I can see that. Your diet's even worse than mine.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我看得出来。你的饮食比我的还糟糕。"
-  },
-  {
-   "en": ": But, then again, I do have Ami making me breakfast and dinner pretty much every night and she forces me to eat vegetables.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不过话说回来，我几乎每天早晚都有 Ami 做饭给我吃，而她会逼我吃蔬菜。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch5.webp",
-   "alt": "ayalunch5"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sensei! Did you know I can cook too?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 老师！你知道我也会做饭吗？"
-  },
-  {
-   "en": ": Sana, tell Sensei how good of a cook I am.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": Sana，告诉老师我做饭有多好吃。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch6",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch6.webp",
-   "alt": "ayalunch6"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Well...um...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 嗯……那个……"
-  },
-  {
-   "en": ": Ayane has...definitely cooked for me before, but...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": Ayane 确实……给我做过饭，但是……"
-  },
-  {
-   "en": ": ...But what?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……但是什么？"
-  },
-  {
-   "en": ": Umm...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 嗯……"
-  },
-  {
-   "en": ": I’m...trying to think of the nicest way of saying it...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 我……在想怎么用最好听的方式说出来……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch7.webp",
-   "alt": "ayalunch7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Don’t mind her, Sensei. She’s just a little traumatized from having to eat broccoli one time.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 别理她，老师。她只是因为有一次被迫吃了西兰花，受了点心理创伤。"
-  },
-  {
-   "en": ": Food...shouldn’t look like a tree...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 食物……不该长得像棵树……"
-  },
-  {
-   "en": ": Sana's kind of got a point, Ayane. It really shouldn't.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Sana 说得有点道理，Ayane。确实不该。"
-  },
-  {
-   "en": ": In fact, I kind of like the idea behind the Sakakibara diet.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 事实上，我还挺喜欢 Sakakibara 饮食法这个理念的。"
-  },
-  {
-   "en": ": If it were possible, I’d probably survive purely off of garlic bread anyway.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 如果可以的话，我大概光靠蒜香面包就能活下去。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch8",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch8.webp",
-   "alt": "ayalunch8"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": What? Why garlic bread of all things?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 什么？为什么偏偏是蒜香面包？"
-  },
-  {
-   "en": ": Well...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯……"
-  },
-  {
-   "en": ": It’s got garlic...and bread...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 它有蒜……还有面包……"
-  },
-  {
-   "en": ": What more could you want out of a dish?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 一道菜你还能要求什么？"
-  },
-  {
-   "en": ": It...can also have cheese too...and cheese is good...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 还可以……加奶酪……奶酪也很好……"
-  },
-  {
-   "en": ": See? Sana understands.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 看吧？Sana 懂。"
-  },
-  {
-   "en": ": I...will also survive off of garlic bread...if Sensei is going to do it...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 如果老师要这么活……我也能靠蒜香面包活下去……"
-  },
-  {
-   "en": ": Well...what about pasta? That’s got garlic in it. And noodles are normally made out of bread or...wheat or something. Right?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 那……意面呢？那里面也有蒜。而且面条一般是用面包……或者小麦什么的做的。对吧？"
-  },
-  {
-   "en": ": Do you want to try some of mine? I’ve only had a little.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 你要不要尝尝我的？我才吃了一点。"
-  },
-  {
-   "en": ": No thanks. It's garlic bread only from now on and that's just not...bread enough.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不了，谢谢。从现在起只吃蒜香面包，而那个……面包味不够。"
-  },
-  {
-   "en": ": Neither am I but you don't see me complaining.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 我的面包味也不够，但你没听见我抱怨啊。"
-  },
-  {
-   "en": ": Ayane, please. There is a child present.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Ayane，拜托。有小孩在场。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch8r",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch8r.webp",
-   "alt": "ayalunch8r"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": No there's not! Ayane is only a little bit older than me!",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 才没有！Ayane 只比我大一点点！"
-  },
-  {
-   "en": ": I'm going to have to see your ID, Sana. I'm not sure if I buy that.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Sana，我得看看你的身份证。我不太确定我信不信。"
-  },
-  {
-   "en": ": I don't have an ID!",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 我没有身份证！"
-  },
-  {
-   "en": ": And why is that?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那是为什么？"
-  },
-  {
-   "en": ": Because I'm too y-",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 因为我太——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch8r2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch8r2.webp",
-   "alt": "ayalunch8r2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": B-Because I don't want one!",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 因……因为我不想要！"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……"
-  },
-  {
-   "en": ": I'm not a child!",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 我不是小孩！"
-  },
-  {
-   "en": ": If you're not a kid, can you explain the joke I just made to us?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 如果你不是小孩，能给我们解释一下我刚讲的那个笑话吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch8r3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch8r3.webp",
-   "alt": "ayalunch8r3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": No...I'm...taking a break from this conversation...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 不……我……要退出这段对话了……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch8r4",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch8r4.webp",
-   "alt": "ayalunch8r4"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Seriously, though. You should really try my cooking sometime, Sensei. I can promise you that I'm just as good as Ami is. Maybe even better!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 说真的，老师，你真该找个时间尝尝我的手艺。我可以保证，我做的一点都不比 Ami 差。说不定更好！"
-  },
-  {
-   "en": ": I...don't know about that, Ayane. Ami is my personal chef and is fully aware of my tastes. I have a hard time imagining how you'd be able to beat her.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 这个……我可不敢苟同，Ayane。Ami 是我的私人厨师，而且完全清楚我的口味。我很难想象你怎么能赢过她。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch8r5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch8r5.webp",
-   "alt": "ayalunch8r5"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ami definitely knows her way around the kitchen...that I will concede.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": Ami 确实很会下厨……这一点我承认。"
-  },
-  {
-   "en": ": But I know my way around your heart...",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 但我很清楚通往你心里的路……"
-  },
-  {
-   "en": ": Yeah, I still don't see how that would help you win in a cook-off.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 是啊，我依然看不出这能帮你在厨艺对决中取胜。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch8r6",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch8r6.webp",
-   "alt": "ayalunch8r6"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oh! A cook-off! That's a great idea, Sensei!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 哦！厨艺对决！这主意太棒了，老师！"
-  },
-  {
-   "en": ": It wasn't really an idea. Just...kind of a thing I happened to say.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那不算什么主意。只是……我碰巧说出口的一句话。"
-  },
-  {
-   "en": ": Well, now it's an idea! A competition between friends and rivals! Not just for your stomach...but for your heart!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 那它现在就是个主意了！一场朋友兼对手之间的比赛！不只为了你的胃……还为了你的心！"
-  },
-  {
-   "en": ": Is...Is Ami competing for your heart too, Sensei?...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 老师……Ami 也在争夺你的心吗？……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "More than you know, Sana....",
-   "zh": "比你知道的还要多，Sana……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You'll...have to ask her that question. I refuse to speak about her motives.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 这个……你得自己去问她。我拒绝谈论她的动机。"
-  },
-  {
-   "en": ": I...uhh...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 我……呃……"
-  },
-  {
-   "en": ": Oh...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 哦……"
-  },
-  {
-   "en": ": Do you think you'll be competing as well, Sana? I'd feel weird not letting you join in on this as well since you were here for the conception of it.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你觉得你也会参赛吗，Sana？你从一开始就见证了这事的诞生，不让你加入我会觉得过意不去。"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...Sana?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……Sana？"
-  },
-  {
-   "en": ": Sorry...I was just...trying to picture myself cooking and...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 抱歉……我只是在……想象自己做饭的样子，然后……"
-  },
-  {
-   "en": ": It was just...darkness...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 只有……一片黑暗……"
-  },
-  {
-   "en": ": Okay, so maybe Sana won't cook, then.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好吧，那 Sana 大概就不做饭了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch7.webp",
-   "alt": "ayalunch7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Either way, I swear I’ll have you try my food eventually, Sensei.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 不管怎样，我发誓总有一天会让你尝到我的手艺，老师。"
-  },
-  {
-   "en": ": I don’t even care if I have to force-feed it to you.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 就算得硬塞进你嘴里，我也不在乎。"
-  },
-  {
-   "en": ": Please don’t.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 求你别。"
-  },
-  {
-   "en": ": Actually, I think I’d prefer feeding you that way. It sounds like a nice bonding experience.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 其实，我觉得我更喜欢用那种方式喂你。听起来是很棒的增进感情体验。"
-  },
-  {
-   "en": ": No. It doesn't.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不。一点都不。"
-  },
-  {
-   "en": ": Anyway, it's settled. One day soon, Ayane Amamiya will be cooking a gourmet dinner for both Sensei and Sana. This time with no broccoli.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 总之，就这么定了。不久的将来，Ayane Amamiya 要为老师和 Sana 做一顿大餐。这次没有西兰花。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch10.webp",
-   "alt": "ayalunch10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Huh?...Why am I...suddenly a part of this?...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 哈？……我怎么……突然也卷进来了？……"
-  },
-  {
-   "en": ": You've been a part of it the whole time, silly.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 你从头到尾都是其中一员呀，傻瓜。"
-  },
-  {
-   "en": ": Where would this...even take place?...There's nowhere to cook at the dorm...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 那要……在哪儿做呢？……宿舍里没有能做饭的地方……"
-  },
-  {
-   "en": ": Sensei’s house, obviously.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 当然是在老师家。"
-  },
-  {
-   "en": ": Are you just inviting yourself over without talking to Ami first?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你这是不打招呼就自己邀请上门，都没先跟 Ami 说一声？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch11.webp",
-   "alt": "ayalunch11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Of course. I do that all the time. She won’t care.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 当然。我一直都这样。她不会介意的。"
-  },
-  {
-   "en": ": In fact, she’ll probably be happy so many people are over at once!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 事实上，她大概还会因为一下子来了这么多人而高兴呢！"
-  },
-  {
-   "en": ": Sensei’s...house?...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 老师的……家？……"
-  },
-  {
-   "en": ": Is there a problem, Sana?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 有什么问题吗，Sana？"
-  },
-  {
-   "en": ": No, just...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 没有，只是……"
-  },
-  {
-   "en": ": Is it...really okay?...For me to come over?",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 真的……可以吗？……我也能去？"
-  },
-  {
-   "en": ": Sure. I don't mind.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 当然。我不介意。"
-  },
-  {
-   "en": ": Just don't blame me if Ami tries to kill either one of you for soaking up some of her alone time with me.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 只是到时候 Ami 要是想杀了你们两个，因为你们抢走了一点她跟我独处的时间，可别怪我。"
-  },
-  {
-   "en": ": Don't worry, Sensei. Avoiding certain death in situations like that is one of my very many specialties.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 别担心，老师。在这种情况下避开必死的结局，正是我众多专长之一。"
-  },
-  {
-   "en": ": I...guess that's that then.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我……想那就这样吧。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene ayalunch12",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/ayalunch12.webp",
-   "alt": "ayalunch12"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": That is that, indeed!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 就是这样，没错！"
-  },
-  {
-   "en": ": The first annual ‘Ayane cooks for everyone including her future husband!’ event has been confirmed for...some time in the undetermined future!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 首届「Ayane 为包括未来丈夫在内的所有人下厨！」活动已确定在……未来某个未定的时间举办！"
-  },
-  {
-   "en": ": Umm...congratulations...on your engagement...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 嗯……恭喜……你们订婚……"
-  },
-  {
-   "en": ": I think...you'll make a good wife...",
-   "spk": "Sana",
-   "spkColor": "#00E77F",
-   "zh": ": 我觉得……你会是个好妻子……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "The rest of the lunch period goes by pretty much the same way.",
-   "zh": "午饭剩下的时间基本也是这么过去的。"
-  },
-  {
-   "en": "Ayane and Sana are an...interesting combination.",
-   "zh": "Ayane 和 Sana 是个……有趣的组合。"
-  },
-  {
-   "en": "I don’t think I’ll ever fully understand how the two of them wound up together, but...",
-   "zh": "我想我永远也不会完全明白她们两个怎么会凑到一起，不过……"
-  },
-  {
-   "en": "I'm kind of glad that they did.",
-   "zh": "我还挺庆幸她们凑到一起了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ day54 = True",
-   "zh": ""
-  },
-  {
-   "en": "$ ayane_love += 1",
-   "zh": ""
-  },
-  {
-   "en": "$ sana_love += 1",
-   "zh": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Ayane's affection has increased to [ayane_love]!",
-   "zh": "Ayane 的好感度提升到了 [ayane_love]！"
-  },
-  {
-   "en": "Sana's affection has increased to [sana_love]!",
-   "zh": "Sana 的好感度提升到了 [sana_love]！"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "jump afterschoolevent",
-   "zh": ""
-  }
- ]
+  "label": "day54",
+  "title_zh": "Sakakibara 饮食法",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day54:",
+      "zh": ""
+    },
+    {
+      "en": "scene hall_day",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/hall_day.png",
+      "alt": "hall_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I exit the teachers’ lounge and make my way into the hall, avoiding eye contact with anyone I don’t know.",
+      "zh": "我走出教师休息室，来到走廊，避开所有我不认识的人的目光。"
+    },
+    {
+      "en": "Despite how ‘comfortable’ I’ve gotten around my class, I still feel slightly odd surrounded by students I haven’t met yet.",
+      "zh": "尽管我在自己班上已经「自在」了不少，但被还没见过的学生围着，还是让我有点别扭。"
+    },
+    {
+      "en": "I keep subconsciously thinking they’re going to realize I’m not {i}actually{/i} a teacher and call the cops on me or something.",
+      "zh": "我总在潜意识里觉得，他们会发现我{i}其实{/i}根本不是老师，然后报警什么的。"
+    },
+    {
+      "en": "Obviously, the likelihood of that happening is very slim. But the thought is still there and that alone is enough to cause a bit of unrest in this misguided head of mine.",
+      "zh": "显然，这种事发生的可能性非常小。但这个念头就摆在那儿，光是这一点，就足以让我这颗不靠谱的脑袋有点不安。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I round the corner and duck into the cafeteria to grab a quick bite to eat before the second half of the day begins.",
+      "zh": "我转过弯，钻进食堂，想在下午的课开始之前赶紧吃上一口。"
+    },
+    {
+      "en": "Not wanting to wait in line for hot food, I buy a few snacks out of a vending machine and begin to head back to class.",
+      "zh": "不想排队等热食，我从自动贩卖机买了几包零食，准备回教室。"
+    },
+    {
+      "en": "As is customary around here, though...I’m flagged down before I’m able to do that.",
+      "zh": "不过，按照这里的惯例……我还没走成，就被人拦下了。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch1.webp",
+      "alt": "ayalunch1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! Do you want to eat lunch with us today? Everybody else went out to eat in the courtyard, so it'll just be Sana and me.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 老师！今天要不要跟我们一起吃午饭？其他人都去院子里吃了，所以就只有我和 Sana。"
+    },
+    {
+      "en": ": What? Why didn't you two go with them?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 什么？你们两个怎么没跟她们一起去？"
+    },
+    {
+      "en": ": It's...too hot out there...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 外面……太热了……"
+    },
+    {
+      "en": ": I would...probably die...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我大概……会死……"
+    },
+    {
+      "en": ": What Sana said. I don't want her death to be on my hands, so I've decided to take one for the team and eat in here instead.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": Sana 说得对。我可不想让她死在我手上，所以我决定为团队牺牲一下，在屋里吃。"
+    },
+    {
+      "en": ": I'm glad I did, though! Because this decision meant I got to see your face! And that your face will now join us for lunch!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 不过我很高兴我这么做了！因为这个决定让我见到了你的脸！而现在这张脸要跟我们一起吃午饭了！"
+    },
+    {
+      "en": ": I mean...I was planning on going back to the teacher’s lounge and eating in there.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我是说……我本来打算回教师休息室在里面吃的。"
+    },
+    {
+      "en": ": But?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 但是？"
+    },
+    {
+      "en": ": ...But I guess I can hang out here instead.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……但我想我也可以留在这儿。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch2.webp",
+      "alt": "ayalunch2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Woohoo!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 哇呼！"
+    },
+    {
+      "en": ": Umm...yay?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……耶？……"
+    },
+    {
+      "en": ": Yay indeed, Sana. Yay indeed...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 确实是「耶」，Sana。确实是「耶」……"
+    },
+    {
+      "en": ": Are you...not that hungry, Sensei?...All you have on your tray are...snacks...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 老师……你不太饿吗？……你餐盘里只有……零食……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana takes a quick glance at the minor haul I was able to procure today before taking a sip of her ramune.",
+      "zh": "Sana 快速瞥了一眼我今天弄到手的那一小堆东西，然后喝了一口弹珠汽水。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch2r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch2r.webp",
+      "alt": "ayalunch2r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uh-oh! Looks like it's weebnote time!",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 哎呀！看来是宅知识小课堂时间了！"
+    },
+    {
+      "en": ": What? Where did you come from?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 什么？你从哪儿冒出来的？"
+    },
+    {
+      "en": ": Weebnote: Ramune, otherwise known as Japanese soda, is actually quite different from its American counterpart!",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 宅知识：弹珠汽水，也就是日式汽水，跟它的美式同类其实很不一样！"
+    },
+    {
+      "en": ": One of the key differences is the focus on more fruity flavors, some of which are very unusual by Western standards.",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 其中一个关键区别在于它更偏重果味，有些口味按西方的标准来看相当奇特。"
+    },
+    {
+      "en": ": You also need to carbonate them yourself by punching a tiny ball into an equally tiny hole. It’s mildly sexual and majorly delicious!",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 你还得自己给它打气——把一颗小珠子打进一个同样小的洞里。这有点色情，但超级好喝！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch2r2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch2r2.webp",
+      "alt": "ayalunch2r2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That's weird...I could have sworn I...heard someone just now...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 好奇怪……我明明……刚才好像听到有人说话……"
+    },
+    {
+      "en": ": Nope! I definitely didn't pay anyone to stand behind that board and shout out facts about Japanese culture to the void.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 没有！我绝对没有花钱雇人站在那块板子后面，对着空气大喊日本文化小知识。"
+    },
+    {
+      "en": ": My gacha addiction lives to fight another day!",
+      "spk": "Molly",
+      "spkColor": "#4FCB80",
+      "zh": ": 我的扭蛋瘾又能再战一天了！"
+    },
+    {
+      "en": ": ...Anyway, you don’t seem to have that much either, Sana. All I see is bread and rice.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……总之，Sana，你的看起来也不多啊。我只看到面包和米饭。"
+    },
+    {
+      "en": ": Are you on an all-carb diet or something?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你在进行纯碳水饮食之类的吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch3.webp",
+      "alt": "ayalunch3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Umm...no...I just...need the energy...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……不是……我只是……需要能量……"
+    },
+    {
+      "en": ": For {i}what?{/i}",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 用来{i}干什么{/i}？"
+    },
+    {
+      "en": ": Umm...uhh...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……呃……"
+    },
+    {
+      "en": ": Living?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 活着？……"
+    },
+    {
+      "en": ": Sana doesn’t eat a lot, but whenever she does it’s pretty much all carbs.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": Sana 吃得不多，但只要吃，基本全是碳水。"
+    },
+    {
+      "en": ": Or candy.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 或者糖。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch4.webp",
+      "alt": "ayalunch4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I have a problem...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我确实有问题……"
+    },
+    {
+      "en": ": I can see that. Your diet's even worse than mine.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我看得出来。你的饮食比我的还糟糕。"
+    },
+    {
+      "en": ": But, then again, I do have Ami making me breakfast and dinner pretty much every night and she forces me to eat vegetables.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不过话说回来，我几乎每天早晚都有 Ami 做饭给我吃，而她会逼我吃蔬菜。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch5.webp",
+      "alt": "ayalunch5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! Did you know I can cook too?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 老师！你知道我也会做饭吗？"
+    },
+    {
+      "en": ": Sana, tell Sensei how good of a cook I am.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": Sana，告诉老师我做饭有多好吃。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch6.webp",
+      "alt": "ayalunch6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well...um...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……那个……"
+    },
+    {
+      "en": ": Ayane has...definitely cooked for me before, but...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": Ayane 确实……给我做过饭，但是……"
+    },
+    {
+      "en": ": ...But what?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……但是什么？"
+    },
+    {
+      "en": ": Umm...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ": I’m...trying to think of the nicest way of saying it...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我……在想怎么用最好听的方式说出来……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch7.webp",
+      "alt": "ayalunch7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Don’t mind her, Sensei. She’s just a little traumatized from having to eat broccoli one time.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 别理她，老师。她只是因为有一次被迫吃了西兰花，受了点心理创伤。"
+    },
+    {
+      "en": ": Food...shouldn’t look like a tree...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 食物……不该长得像棵树……"
+    },
+    {
+      "en": ": Sana's kind of got a point, Ayane. It really shouldn't.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Sana 说得有点道理，Ayane。确实不该。"
+    },
+    {
+      "en": ": In fact, I kind of like the idea behind the Sakakibara diet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 事实上，我还挺喜欢 Sakakibara 饮食法这个理念的。"
+    },
+    {
+      "en": ": If it were possible, I’d probably survive purely off of garlic bread anyway.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果可以的话，我大概光靠蒜香面包就能活下去。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch8.webp",
+      "alt": "ayalunch8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What? Why garlic bread of all things?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 什么？为什么偏偏是蒜香面包？"
+    },
+    {
+      "en": ": Well...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ": It’s got garlic...and bread...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 它有蒜……还有面包……"
+    },
+    {
+      "en": ": What more could you want out of a dish?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 一道菜你还能要求什么？"
+    },
+    {
+      "en": ": It...can also have cheese too...and cheese is good...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 还可以……加奶酪……奶酪也很好……"
+    },
+    {
+      "en": ": See? Sana understands.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 看吧？Sana 懂。"
+    },
+    {
+      "en": ": I...will also survive off of garlic bread...if Sensei is going to do it...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 如果老师要这么活……我也能靠蒜香面包活下去……"
+    },
+    {
+      "en": ": Well...what about pasta? That’s got garlic in it. And noodles are normally made out of bread or...wheat or something. Right?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 那……意面呢？那里面也有蒜。而且面条一般是用面包……或者小麦什么的做的。对吧？"
+    },
+    {
+      "en": ": Do you want to try some of mine? I’ve only had a little.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你要不要尝尝我的？我才吃了一点。"
+    },
+    {
+      "en": ": No thanks. It's garlic bread only from now on and that's just not...bread enough.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不了，谢谢。从现在起只吃蒜香面包，而那个……面包味不够。"
+    },
+    {
+      "en": ": Neither am I but you don't see {i}me{/i} complaining.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我的面包味也不够，但你没听见{i}我{/i}抱怨啊。"
+    },
+    {
+      "en": ": Ayane, please. There is a child present.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Ayane，拜托。有小孩在场。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch8r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch8r.webp",
+      "alt": "ayalunch8r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No there's not! Ayane is only a little bit older than me!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 才没有！Ayane 只比我大一点点！"
+    },
+    {
+      "en": ": I'm going to have to see your ID, Sana. I'm not sure if I buy that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Sana，我得看看你的身份证。我不太确定我信不信。"
+    },
+    {
+      "en": ": I don't have an ID!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我没有身份证！"
+    },
+    {
+      "en": ": And why is that?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那是为什么？"
+    },
+    {
+      "en": ": Because I'm too y-",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 因为我太——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch8r2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch8r2.webp",
+      "alt": "ayalunch8r2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": B-Because I don't want one!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 因……因为我不想要！"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": I'm not a child!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我不是小孩！"
+    },
+    {
+      "en": ": If you're not a kid, can you explain the joke I just made to us?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 如果你不是小孩，能给我们解释一下我刚讲的那个笑话吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch8r3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch8r3.webp",
+      "alt": "ayalunch8r3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No...I'm...taking a break from this conversation...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 不……我……要退出这段对话了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch8r4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch8r4.webp",
+      "alt": "ayalunch8r4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Seriously, though. You should really try {i}my{/i} cooking sometime, Sensei. I can promise you that I'm just as good as Ami is. Maybe even better!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 说真的，老师，你真该找个时间尝尝{i}我的{/i}手艺。我可以保证，我做的一点都不比 Ami 差。说不定更好！"
+    },
+    {
+      "en": ": I...don't know about that, Ayane. Ami is my personal chef and is fully aware of my tastes. I have a hard time imagining how you'd be able to beat her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这个……我可不敢苟同，Ayane。Ami 是我的私人厨师，而且完全清楚我的口味。我很难想象你怎么能赢过她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch8r5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch8r5.webp",
+      "alt": "ayalunch8r5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ami definitely knows her way around the kitchen...that I will concede.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": Ami 确实很会下厨……这一点我承认。"
+    },
+    {
+      "en": ": {i}But I know my way around your heart...{/i}",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": {i}但我很清楚通往你心里的路……{/i}"
+    },
+    {
+      "en": ": Yeah, I still don't see how that would help you win in a cook-off.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是啊，我依然看不出这能帮你在厨艺对决中取胜。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch8r6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch8r6.webp",
+      "alt": "ayalunch8r6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh! A cook-off! That's a great idea, Sensei!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 哦！厨艺对决！这主意太棒了，老师！"
+    },
+    {
+      "en": ": It wasn't really an idea. Just...kind of a thing I happened to say.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那不算什么主意。只是……我碰巧说出口的一句话。"
+    },
+    {
+      "en": ": Well, now it's an idea! A competition between friends and rivals! Not just for your stomach...but for your heart!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 那它现在就是个主意了！一场朋友兼对手之间的比赛！不只为了你的胃……还为了你的心！"
+    },
+    {
+      "en": ": Is...Is Ami competing for your heart too, Sensei?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 老师……Ami 也在争夺你的心吗？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "More than you know, Sana....",
+      "zh": "比你知道的还要多，Sana……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You'll...have to ask her that question. I refuse to speak about her motives.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这个……你得自己去问她。我拒绝谈论她的动机。"
+    },
+    {
+      "en": ": I...uhh...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我……呃……"
+    },
+    {
+      "en": ": Oh...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 哦……"
+    },
+    {
+      "en": ": Do you think you'll be competing as well, Sana? I'd feel weird not letting you join in on this as well since you were here for the conception of it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你觉得你也会参赛吗，Sana？你从一开始就见证了这事的诞生，不让你加入我会觉得过意不去。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...Sana?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……Sana？"
+    },
+    {
+      "en": ": Sorry...I was just...trying to picture myself cooking and...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 抱歉……我只是在……想象自己做饭的样子，然后……"
+    },
+    {
+      "en": ": It was just...darkness...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 只有……一片黑暗……"
+    },
+    {
+      "en": ": Okay, so maybe Sana {i}won't{/i} cook, then.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧，那 Sana 大概就{i}不{/i}做饭了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch7.webp",
+      "alt": "ayalunch7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Either way, I swear I’ll have you try my food eventually, Sensei.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 不管怎样，我发誓总有一天会让你尝到我的手艺，老师。"
+    },
+    {
+      "en": ": I don’t even care if I have to force-feed it to you.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 就算得硬塞进你嘴里，我也不在乎。"
+    },
+    {
+      "en": ": Please don’t.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 求你别。"
+    },
+    {
+      "en": ": Actually, I think I’d prefer feeding you that way. It sounds like a nice bonding experience.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 其实，我觉得我更喜欢用那种方式喂你。听起来是很棒的增进感情体验。"
+    },
+    {
+      "en": ": No. It doesn't.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不。一点都不。"
+    },
+    {
+      "en": ": Anyway, it's settled. One day soon, Ayane Amamiya will be cooking a gourmet dinner for both Sensei {i}and{/i} Sana. This time with no broccoli.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 总之，就这么定了。不久的将来，Ayane Amamiya 要为老师{i}和{/i} Sana 做一顿大餐。这次没有西兰花。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch10.webp",
+      "alt": "ayalunch10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh?...Why am I...suddenly a part of this?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 哈？……我怎么……突然也卷进来了？……"
+    },
+    {
+      "en": ": You've been a part of it the whole time, silly.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你从头到尾都是其中一员呀，傻瓜。"
+    },
+    {
+      "en": ": Where would this...even take place?...There's nowhere to cook at the dorm...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 那要……在哪儿做呢？……宿舍里没有能做饭的地方……"
+    },
+    {
+      "en": ": Sensei’s house, obviously.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 当然是在老师家。"
+    },
+    {
+      "en": ": Are you just inviting yourself over without talking to Ami first?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你这是不打招呼就自己邀请上门，都没先跟 Ami 说一声？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch11.webp",
+      "alt": "ayalunch11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course. I do that all the time. She won’t care.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 当然。我一直都这样。她不会介意的。"
+    },
+    {
+      "en": ": In fact, she’ll probably be happy so many people are over at once!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 事实上，她大概还会因为一下子来了这么多人而高兴呢！"
+    },
+    {
+      "en": ": Sensei’s...house?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 老师的……家？……"
+    },
+    {
+      "en": ": Is there a problem, Sana?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 有什么问题吗，Sana？"
+    },
+    {
+      "en": ": No, just...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 没有，只是……"
+    },
+    {
+      "en": ": Is it...really okay?...For me to come over?",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 真的……可以吗？……我也能去？"
+    },
+    {
+      "en": ": Sure. I don't mind.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。我不介意。"
+    },
+    {
+      "en": ": Just don't blame me if Ami tries to kill either one of you for soaking up some of her alone time with me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 只是到时候 Ami 要是想杀了你们两个，因为你们抢走了一点她跟我独处的时间，可别怪我。"
+    },
+    {
+      "en": ": Don't worry, Sensei. Avoiding certain death in situations like that is one of my very many specialties.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 别担心，老师。在这种情况下避开必死的结局，正是我众多专长之一。"
+    },
+    {
+      "en": ": I...guess that's that then.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我……想那就这样吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ayalunch12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/ayalunch12.webp",
+      "alt": "ayalunch12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That is that, indeed!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 就是这样，没错！"
+    },
+    {
+      "en": ": The first annual ‘Ayane cooks for everyone including her future husband!’ event has been confirmed for...some time in the undetermined future!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 首届「Ayane 为包括未来丈夫在内的所有人下厨！」活动已确定在……未来某个未定的时间举办！"
+    },
+    {
+      "en": ": Umm...congratulations...on your engagement...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……恭喜……你们订婚……"
+    },
+    {
+      "en": ": I think...you'll make a good wife...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我觉得……你会是个好妻子……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The rest of the lunch period goes by pretty much the same way.",
+      "zh": "午饭剩下的时间基本也是这么过去的。"
+    },
+    {
+      "en": "Ayane and Sana are an...interesting combination.",
+      "zh": "Ayane 和 Sana 是个……有趣的组合。"
+    },
+    {
+      "en": "I don’t think I’ll ever fully understand how the two of them wound up together, but...",
+      "zh": "我想我永远也不会完全明白她们两个怎么会凑到一起，不过……"
+    },
+    {
+      "en": "I'm kind of glad that they did.",
+      "zh": "我还挺庆幸她们凑到一起了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day54 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ sana_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ayane's affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]！{/i}"
+    },
+    {
+      "en": "{i}Sana's affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

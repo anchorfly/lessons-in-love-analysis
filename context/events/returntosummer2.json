@@ -1,6 +1,6 @@
 {
   "label": "returntosummer2",
-  "title_zh": "",
+  "title_zh": "奖品的一生",
   "lines": [
     {
       "en": ""
@@ -34,31 +34,31 @@
       "en": ": こんにちは！先生です！",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你好！我是老师！"
     },
     {
       "en": ": 今日はゲームをします。",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 今天我们要玩游戏。"
     },
     {
       "en": ": ARE YOU READY???",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 准备好了吗？？？"
     },
     {
       "en": ": では。。。",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那么……"
     },
     {
       "en": ": START!!!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 开始！！！"
     },
     {
       "en": ""
@@ -77,31 +77,31 @@
     },
     {
       "en": "THE RULES OF THE GAME ARE SIMPLE",
-      "zh": ""
+      "zh": "游戏规则很简单"
     },
     {
       "en": "FILL OUT MAGAZINE SWEEPSTAKES AND TRY TO WIN DIFFERENT PARTS OF A KEY",
-      "zh": ""
+      "zh": "填写杂志抽奖，试着赢取钥匙的不同部件"
     },
     {
       "en": "ONCE YOU HAVE WON ALL THE PARTS OF THE KEY, YOU WILL BE ABLE TO ASSEMBLE IT AND ESCAPE YOUR ROOM",
-      "zh": ""
+      "zh": "一旦集齐钥匙的所有部件，你就能把它组装起来，逃出你的房间"
     },
     {
       "en": "BUT BE CAREFUL!!!",
-      "zh": ""
+      "zh": "但要小心！！！"
     },
     {
       "en": "STAYING IN ONE PLACE FOR TOO LONG COULD CAUSE YOU TO GO INSANE!!!",
-      "zh": ""
+      "zh": "在同一个地方待太久，可能会让你发疯！！！"
     },
     {
       "en": "HAVE FUN AND ENJOY!!!",
-      "zh": ""
+      "zh": "玩得开心，好好享受！！！"
     },
     {
       "en": "WELCOME HOME",
-      "zh": ""
+      "zh": "欢迎回家"
     },
     {
       "en": ""
@@ -110,7 +110,7 @@
       "en": ": What do I want to do?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我想做什么？"
     },
     {
       "en": ""
@@ -121,7 +121,7 @@
     },
     {
       "en": "ESCAPE (For Real)",
-      "zh": ""
+      "zh": "逃出去（真的）"
     },
     {
       "en": "$ returntosummer2 = True",
@@ -136,7 +136,7 @@
     },
     {
       "en": "ESCAPE!!!",
-      "zh": ""
+      "zh": "逃出去！！！"
     },
     {
       "en": "jump resetfourescape",
@@ -144,7 +144,7 @@
     },
     {
       "en": "Use the cool rectangle machine",
-      "zh": ""
+      "zh": "用那个酷酷的长方形机器"
     },
     {
       "en": "jump resetfourrectangle",
@@ -152,7 +152,7 @@
     },
     {
       "en": "Thing on the wall",
-      "zh": ""
+      "zh": "墙上那个东西"
     },
     {
       "en": "jump resetfourthing",
@@ -160,7 +160,7 @@
     },
     {
       "en": "Watch the other rectangle",
-      "zh": ""
+      "zh": "看另一个长方形"
     },
     {
       "en": "jump resetfourtv",
@@ -168,7 +168,7 @@
     },
     {
       "en": "Host a dance party",
-      "zh": ""
+      "zh": "办一场舞会"
     },
     {
       "en": "jump resetfourdanceparty",
@@ -176,7 +176,7 @@
     },
     {
       "en": "Pet your friend",
-      "zh": ""
+      "zh": "摸摸你的朋友"
     },
     {
       "en": "jump resetfourmaggot",
@@ -184,7 +184,7 @@
     },
     {
       "en": "Use communication device",
-      "zh": ""
+      "zh": "使用通讯设备"
     },
     {
       "en": "jump resetfourphone",
@@ -192,7 +192,7 @@
     },
     {
       "en": "Masturbate ;D",
-      "zh": ""
+      "zh": "打飞机 ;D"
     },
     {
       "en": "jump resetfourmasturbate",
@@ -200,7 +200,7 @@
     },
     {
       "en": "Eat Something",
-      "zh": ""
+      "zh": "吃点东西"
     },
     {
       "en": "jump resetfoureat",
@@ -227,15 +227,15 @@
     },
     {
       "en": "I skip over to a bunch of magazines somebody placed all over my desk.",
-      "zh": ""
+      "zh": "我蹦到桌前，那儿摊着不知是谁放的一大堆杂志。"
     },
     {
       "en": "I feel compelled to scribble things inside of them.",
-      "zh": ""
+      "zh": "我忍不住想在上面乱写点什么。"
     },
     {
       "en": "What will I scribble today?",
-      "zh": ""
+      "zh": "今天我要写点什么呢？"
     },
     {
       "en": ""
@@ -246,7 +246,7 @@
     },
     {
       "en": "Book 1: Architects Weekly",
-      "zh": ""
+      "zh": "书 1：《建筑师周刊》"
     },
     {
       "en": "scene resetfour10",
@@ -262,27 +262,27 @@
     },
     {
       "en": "I skim through a magazine about architects and architect related stuff and find that the issue is focusing on large buildings in particular.",
-      "zh": ""
+      "zh": "我翻着一本讲建筑师和相关内容的杂志，发现这期特别聚焦大型建筑。"
     },
     {
       "en": "It goes over the mechanics and construction of them and even features images of gigantic skyscrapers with holes in the middle of them to help prevent the buildings from swaying in the wind.",
-      "zh": ""
+      "zh": "它讲解了它们的机械原理和建造方式，甚至还配了摩天大楼的图片——楼身中间开着洞，用来防止建筑在风中摇摆。"
     },
     {
       "en": "I am once again fascinated by the innovations in modern construction and- oh? What is this?!",
-      "zh": ""
+      "zh": "我再次为现代建筑的巧思着迷，然后——咦？这是什么？！"
     },
     {
       "en": "It looks like the magazine is holding a sweepstakes where readers can submit their answers for a chance to win a piece of a small key to my bedroom!",
-      "zh": ""
+      "zh": "看起来这本杂志正在举办抽奖，读者可以提交答案，赢取我卧室钥匙的一小块！"
     },
     {
       "en": "I can't imagine many people will enter this sweepstakes, so I'm pretty much guaranteed to win so long as I can answer the question.",
-      "zh": ""
+      "zh": "我猜没多少人会参加这个抽奖，所以只要我能答对问题，基本就稳赢了。"
     },
     {
       "en": "I fill out the form with all of my information and direct my attention to the question printed in the bottom right corner...",
-      "zh": ""
+      "zh": "我在表格上填好全部信息，把注意力转向印在右下角的问题……"
     },
     {
       "en": ""
@@ -318,23 +318,23 @@
     },
     {
       "en": "Someone slides a piece of a key underneath my bedroom door! I must have gotten the answer correct!",
-      "zh": ""
+      "zh": "有人从我的卧室门缝底下塞进来一小块钥匙！我一定是答对了！"
     },
     {
       "en": "I didn't even have to mail the form!",
-      "zh": ""
+      "zh": "我连表格都不用寄出去！"
     },
     {
       "en": "I am so very smart!",
-      "zh": ""
+      "zh": "我真是太聪明了！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -349,23 +349,23 @@
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -379,7 +379,7 @@
     },
     {
       "en": "Book 2: High Fashion Forecast",
-      "zh": ""
+      "zh": "书 2：《高级时装预报》"
     },
     {
       "en": "scene resetfour10",
@@ -395,34 +395,34 @@
     },
     {
       "en": "I pick up a fashion magazine to check out all of the latest trends and come across an article about different types of fabric and how to prepare for summer.",
-      "zh": ""
+      "zh": "我拿起一本时尚杂志，想看看最新的潮流，结果翻到一篇讲不同面料、以及怎么为夏天做准备的文章。"
     },
     {
-      "en": "The article doesn't really apply to me since I'm not going to wear anything this summer, but I decide to keep reading because of all of the pictures of pretty girls.",
-      "zh": ""
+      "en": "The article doesn't really apply to me since I'm not going to wear {i}anything{/i} this summer, but I decide to keep reading because of all of the pictures of pretty girls.",
+      "zh": "这篇文章其实跟我没什么关系，因为今年夏天我{i}什么都{/i}不打算穿，不过我还是决定继续看下去，因为里面全是漂亮女孩的照片。"
     },
     {
       "en": "It seems that a thing that wasn't in style is going to be in style again. Or at least that's what I think is being said.",
-      "zh": ""
+      "zh": "看起来，一样原本不时髦的东西又要重新流行起来了。至少我觉得它是这么说的。"
     },
     {
       "en": "Despite hanging around [teenager]s all the time, I'm still not entirely confident when it comes to some of the things they say.",
-      "zh": ""
+      "zh": "尽管我整天跟[teenager]混在一起，他们说的某些话我还是不太有把握。"
     },
     {
       "en": "If only Chika was here to help me. She knows all sorts of stuff about clothes.",
-      "zh": ""
+      "zh": "要是 Chika 在就好了，她能帮我。她懂各种各样的衣服知识。"
     },
     {
       "en": ""
     },
     {
       "en": "She is also very good at sex.",
-      "zh": ""
+      "zh": "她也很擅长做爱。"
     },
     {
       "en": "If only this was a sex magazine...",
-      "zh": ""
+      "zh": "要是这是本色情杂志就好了……"
     },
     {
       "en": ""
@@ -431,22 +431,22 @@
       "en": ": Oh. What's this?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哦。这是什么？"
     },
     {
       "en": ""
     },
     {
       "en": "It looks like the magazine is holding a sweepstakes where readers can submit their information for a chance to win a piece of a small key to my bedroom!",
-      "zh": ""
+      "zh": "看起来这本杂志正在举办抽奖，读者可以提交信息，赢取我卧室钥匙的一小块！"
     },
     {
       "en": "I have to win this! I need that key!",
-      "zh": ""
+      "zh": "我必须赢！我需要那把钥匙！"
     },
     {
       "en": "I fill out the form with all of my information and direct my attention to the question printed in the bottom right corner...",
-      "zh": ""
+      "zh": "我在表格上填好全部信息，把注意力转向印在右下角的问题……"
     },
     {
       "en": ""
@@ -482,23 +482,23 @@
     },
     {
       "en": "Someone slides a piece of a key underneath my bedroom door! The magazine must have liked my entry!",
-      "zh": ""
+      "zh": "有人从我的卧室门缝底下塞进来一小块钥匙！杂志一定是看中了我的投稿！"
     },
     {
       "en": "I didn't even have to mail the form!",
-      "zh": ""
+      "zh": "我连表格都不用寄出去！"
     },
     {
       "en": "I am so great!",
-      "zh": ""
+      "zh": "我太了不起了！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -513,23 +513,23 @@
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -543,7 +543,7 @@
     },
     {
       "en": "Book 3: God & You ~ Best Friends Forever",
-      "zh": ""
+      "zh": "书 3：《上帝与你 ~ 永远的好朋友》"
     },
     {
       "en": "scene resetfour10",
@@ -559,58 +559,58 @@
     },
     {
       "en": "I open up a book about Jesus Christ and all of his buddies and prepare myself to hear about their crazy antics out on the road.",
-      "zh": ""
+      "zh": "我打开一本讲耶稣基督和他那帮伙伴的书，准备好听他们在路上干的那些疯狂勾当。"
     },
     {
       "en": "The book tells a brief story about a ragtag band of bearded dudes riding around on camels and kissing each other all the time.",
-      "zh": ""
+      "zh": "这本书讲了一小段故事：一群衣衫褴褛、满脸胡子的人骑着骆驼到处跑，还整天互相亲吻。"
     },
     {
       "en": "I am very glad to hear that they were so open about their sexuality and understand now why roughly half of the girls in my class are bisexual.",
-      "zh": ""
+      "zh": "我很高兴得知他们对性取向如此坦诚，也终于明白为什么我班上差不多一半的女孩都是双性恋。"
     },
     {
       "en": ""
     },
     {
       "en": "If Jesus can fuck people of the same sex, everyone should be allowed to without being persecuted.",
-      "zh": ""
+      "zh": "既然耶稣都能跟同性上床，那每个人都应该被允许这么做，而不该被迫害。"
     },
     {
       "en": "Eventually, Jesus and his friends take a break from their traveling miracle circus for a day or two to play a rousing pickup game of baseball against a group of gentiles.",
-      "zh": ""
+      "zh": "后来，耶稣和他的朋友们从巡回行奇迹的马戏团里抽出一两天休息，跟一群外邦人来了一场激烈的临时棒球赛。"
     },
     {
       "en": "In stark contradiction to the words he preaches, Jesus goes unto them and says the following:",
-      "zh": ""
+      "zh": "与他宣扬的教义形成鲜明矛盾的是，耶稣走到他们面前，说了下面这句话："
     },
     {
-      "en": "Prepare to get fucked, gentiles.",
-      "zh": ""
+      "en": "{i}Prepare to get fucked, gentiles.{/i}",
+      "zh": "{i}准备被操吧，外邦人。{/i}"
     },
     {
       "en": "Jesus is a lot cooler than I remember, especially because he is wearing sunglasses in all of the illustrations in this book.",
-      "zh": ""
+      "zh": "耶稣比我记忆中酷多了，尤其是因为书里所有插画中他都戴着墨镜。"
     },
     {
       "en": "The rest of the story is basically about Jesus and the apostles creaming a bunch of unprepared children in an athletic contest and I turn to the final page feeling motivated and gleeful.",
-      "zh": ""
+      "zh": "故事剩下的部分基本上就是耶稣和门徒在一场体育比赛里把一群毫无准备的小孩子打得落花流水，我翻到最后一页时，心里既受鼓舞又欢欣雀跃。"
     },
     {
       "en": "After a brief epilogue where everyone goes to space, there is a blank form provided.",
-      "zh": ""
+      "zh": "在一段大家飞向太空的简短尾声之后，附上了一张空白表格。"
     },
     {
       "en": "It looks like the magazine is holding a sweepstakes where readers can submit their information for a chance to win a piece of a small key to my bedroom!",
-      "zh": ""
+      "zh": "看起来这本杂志正在举办抽奖，读者可以提交信息，赢取我卧室钥匙的一小块！"
     },
     {
       "en": "I have to win this! I need that key!",
-      "zh": ""
+      "zh": "我必须赢！我需要那把钥匙！"
     },
     {
       "en": "I fill out the form with all of my information and direct my attention to the question printed in the bottom right corner...",
-      "zh": ""
+      "zh": "我在表格上填好全部信息，把注意力转向印在右下角的问题……"
     },
     {
       "en": ""
@@ -646,23 +646,23 @@
     },
     {
       "en": "Someone slides a piece of a key underneath my bedroom door! The magazine must have liked my entry!",
-      "zh": ""
+      "zh": "有人从我的卧室门缝底下塞进来一小块钥匙！杂志一定是看中了我的投稿！"
     },
     {
       "en": "I didn't even have to mail the form!",
-      "zh": ""
+      "zh": "我连表格都不用寄出去！"
     },
     {
       "en": "I am so great!",
-      "zh": ""
+      "zh": "我太了不起了！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -677,23 +677,23 @@
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -707,7 +707,7 @@
     },
     {
       "en": "Book 4: Breathing Exercises",
-      "zh": ""
+      "zh": "书 4：《呼吸练习》"
     },
     {
       "en": "scene resetfour10",
@@ -720,59 +720,59 @@
     },
     {
       "en": "I open up a medical magazine advertising different types of breathing exercises on the cover.",
-      "zh": ""
+      "zh": "我打开一本医学杂志，封面上宣传着各种各样的呼吸练习。"
     },
     {
       "en": "Since I'm going to be trapped in this room for probably the rest of forever, I figure it will be nice to learn some to help calm me down when I need it.",
-      "zh": ""
+      "zh": "既然我大概要被永远困在这个房间里了，我想学点呼吸法，好在需要的时候让自己平静下来，应该不错。"
     },
     {
       "en": "Unfortunately, it looks like most of the pages are written in a different language.",
-      "zh": ""
+      "zh": "不幸的是，大部分页面似乎都是用别的语言写的。"
     },
     {
-      "en": "There is one section I can find in Japanese, but it must not be very good Japanese since I'm not really sure what it's asking.",
-      "zh": ""
+      "en": "There is one section I can find in Japanese, but it must not be very {i}good{/i} Japanese since I'm not really sure what it's asking.",
+      "zh": "有一节我能找到日语的，但那日语肯定不太{i}地道{/i}，因为我实在搞不懂它在问什么。"
     },
     {
       "en": "The article reads like this:",
-      "zh": ""
+      "zh": "那篇文章是这么写的："
     },
     {
-      "en": "To breathe! What is why you would do that? And how?",
-      "zh": ""
+      "en": "{i}To breathe! What is why you would do that? And how?{/i}",
+      "zh": "{i}呼吸！你为什么要这么做？又该怎么呼吸？{/i}"
     },
     {
-      "en": "The answer is simple. It is because you can. And because you will.",
-      "zh": ""
+      "en": "{i}The answer is simple. It is because you can. And because you will.{/i}",
+      "zh": "{i}答案很简单。因为你能。也因为你会。{/i}"
     },
     {
-      "en": "Follow this simple breath pattern and all will become easy. All will become good.",
-      "zh": ""
+      "en": "{i}Follow this simple breath pattern and all will become easy. All will become good.{/i}",
+      "zh": "{i}照着这个简单的呼吸节奏做，一切都会变得容易。一切都会变好。{/i}"
     },
     {
-      "en": "Your troubles, no more! Your breath, yes! How to do!",
-      "zh": ""
+      "en": "{i}Your troubles, no more! Your breath, yes! How to do!{/i}",
+      "zh": "{i}你的烦恼，不再有！你的呼吸，有！怎么做！{/i}"
     },
     {
-      "en": "God is real! God is good! He breathe!",
-      "zh": ""
+      "en": "{i}God is real! God is good! He breathe!{/i}",
+      "zh": "{i}上帝是真的！上帝是善的！他呼吸！{/i}"
     },
     {
       "en": "The middle of the page seems to be cut out, but I can make out what looks like a form on the next page.",
-      "zh": ""
+      "zh": "页面中间似乎被挖掉了，但我能辨认出下一页上像是一张表格。"
     },
     {
       "en": "It looks like the magazine is holding a sweepstakes where readers can submit their answers for a chance to win a piece of a small key to my bedroom!",
-      "zh": ""
+      "zh": "看起来这本杂志正在举办抽奖，读者可以提交答案，赢取我卧室钥匙的一小块！"
     },
     {
       "en": "I can't imagine many people will enter this sweepstakes, so I'm pretty much guaranteed to win so long as I can answer the question.",
-      "zh": ""
+      "zh": "我猜没多少人会参加这个抽奖，所以只要我能答对问题，基本就稳赢了。"
     },
     {
       "en": "I fill out the form with all of my information and direct my attention to the question printed in the bottom right corner...",
-      "zh": ""
+      "zh": "我在表格上填好全部信息，把注意力转向印在右下角的问题……"
     },
     {
       "en": ""
@@ -808,23 +808,23 @@
     },
     {
       "en": "Someone slides a piece of a key underneath my bedroom door! I must have gotten the answer correct!",
-      "zh": ""
+      "zh": "有人从我的卧室门缝底下塞进来一小块钥匙！我一定是答对了！"
     },
     {
       "en": "I didn't even have to mail the form!",
-      "zh": ""
+      "zh": "我连表格都不用寄出去！"
     },
     {
       "en": "I am so very smart!",
-      "zh": ""
+      "zh": "我真是太聪明了！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -839,23 +839,23 @@
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -869,7 +869,7 @@
     },
     {
       "en": "Book 5: Chef's Guide to Chef Stuff",
-      "zh": ""
+      "zh": "书 5：《大厨的厨艺指南》"
     },
     {
       "en": "scene resetfour10",
@@ -882,43 +882,43 @@
     },
     {
       "en": "I open up a magazine with a big cake on the front of it and hope that there is a cake inside.",
-      "zh": ""
+      "zh": "我打开一本杂志，封面上是个大蛋糕，心里盼着里面会有蛋糕。"
     },
     {
       "en": "There is not.",
-      "zh": ""
+      "zh": "里面没有。"
     },
     {
       "en": "I do manage to find an interesting article about chili, though!",
-      "zh": ""
+      "zh": "不过我倒是找到了一篇关于辣豆酱的有趣文章！"
     },
     {
       "en": "According to this magazine, chili is one of the most interesting and diverse types of foods you can make.",
-      "zh": ""
+      "zh": "按这本杂志的说法，辣豆酱是你能做的最有趣、最多样的食物之一。"
     },
     {
       "en": "There are all different kinds of chili, and everyone has their own secret ingredient they use to make it better.",
-      "zh": ""
+      "zh": "辣豆酱有各种各样的做法，每个人都有自己的秘制配料，让它变得更好吃。"
     },
     {
       "en": "Oh! And it looks like the magazine is holding a contest to see who can create the best chili recipe. The winner gets a piece of key to my bedroom!",
-      "zh": ""
+      "zh": "哦！而且看起来这本杂志正在举办比赛，看谁能创造出最好的辣豆酱食谱。获胜者可以得到一块我卧室的钥匙！"
     },
     {
       "en": "As someone with no experience cooking but who needs that key to survive, I think I can do this!",
-      "zh": ""
+      "zh": "作为一个毫无烹饪经验、却需要那把钥匙才能活下去的人，我觉得我能行！"
     },
     {
       "en": "I fill out the submission form with all of my information and begin to create my chili recipe.",
-      "zh": ""
+      "zh": "我在投稿表上填好全部信息，开始创作我的辣豆酱食谱。"
     },
     {
       "en": "I think I have all of the basic ingredients down.",
-      "zh": ""
+      "zh": "我想基本配料我都写齐了。"
     },
     {
       "en": "Now I just have to come up with a secret one...",
-      "zh": ""
+      "zh": "现在只需要想出一个秘密配料……"
     },
     {
       "en": ""
@@ -936,27 +936,27 @@
     },
     {
       "en": "One Whole Coconut",
-      "zh": ""
+      "zh": "一整颗椰子"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -967,27 +967,27 @@
     },
     {
       "en": "Chocolate",
-      "zh": ""
+      "zh": "巧克力"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -998,27 +998,27 @@
     },
     {
       "en": "Egg",
-      "zh": ""
+      "zh": "鸡蛋"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1029,27 +1029,27 @@
     },
     {
       "en": "Human Hair",
-      "zh": ""
+      "zh": "人的头发"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1060,27 +1060,27 @@
     },
     {
       "en": "Premium Beer",
-      "zh": ""
+      "zh": "高级啤酒"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1091,27 +1091,27 @@
     },
     {
       "en": "Popular Mexican Snack, Takis",
-      "zh": ""
+      "zh": "受欢迎的墨西哥零食，Takis"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1122,27 +1122,27 @@
     },
     {
       "en": "Soap",
-      "zh": ""
+      "zh": "肥皂"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1153,27 +1153,27 @@
     },
     {
       "en": "Magic Beans",
-      "zh": ""
+      "zh": "魔豆"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1184,27 +1184,27 @@
     },
     {
       "en": "Honeydew Melon",
-      "zh": ""
+      "zh": "哈密瓜"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1215,27 +1215,27 @@
     },
     {
       "en": "Sidewalk Chalk",
-      "zh": ""
+      "zh": "人行道粉笔"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1246,27 +1246,27 @@
     },
     {
       "en": "White Rice",
-      "zh": ""
+      "zh": "白米饭"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1277,27 +1277,27 @@
     },
     {
       "en": "Severed Finger",
-      "zh": ""
+      "zh": "断指"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1308,27 +1308,27 @@
     },
     {
       "en": "More Chili!",
-      "zh": ""
+      "zh": "更多辣豆酱！"
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1339,7 +1339,7 @@
     },
     {
       "en": "Coffee",
-      "zh": ""
+      "zh": "咖啡"
     },
     {
       "en": ""
@@ -1357,23 +1357,23 @@
     },
     {
       "en": "Someone slides a piece of a key underneath my bedroom door! I must have gotten the answer correct!",
-      "zh": ""
+      "zh": "有人从我的卧室门缝底下塞进来一小块钥匙！我一定是答对了！"
     },
     {
       "en": "I didn't even have to mail the form!",
-      "zh": ""
+      "zh": "我连表格都不用寄出去！"
     },
     {
       "en": "I am so very smart!",
-      "zh": ""
+      "zh": "我真是太聪明了！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1384,7 +1384,7 @@
     },
     {
       "en": "Book 6: Nature Walking",
-      "zh": ""
+      "zh": "书 6：《自然漫步》"
     },
     {
       "en": "scene resetfour10",
@@ -1397,43 +1397,43 @@
     },
     {
       "en": "I open up a magazine all about trees and the outside world.",
-      "zh": ""
+      "zh": "我打开一本全是树木和外面世界的杂志。"
     },
     {
       "en": "It looks like this particular volume focuses on the different types of wildlife you may encounter out in nature and how to deal with them.",
-      "zh": ""
+      "zh": "看起来这一期特别讲你在大自然里可能遇到的各种野生动物，以及该怎么应对它们。"
     },
     {
       "en": "I do not know much about animals, but I do know that I like reading and I like trees!",
-      "zh": ""
+      "zh": "我不太懂动物，但我知道自己喜欢阅读，也喜欢树！"
     },
     {
       "en": "I would probably like reading a little more if I did not have to spend every waking moment filling out magazine sweepstakes, but it is what it is.",
-      "zh": ""
+      "zh": "要不是我醒着的每一刻都在填杂志抽奖，我大概会更喜欢阅读，不过事已至此。"
     },
     {
       "en": "The magazine teaches me that there are two different ways to defeat a bear in the wild, and both of them involve not actually defeating the bear.",
-      "zh": ""
+      "zh": "杂志教我，在野外有两种打败熊的方法，而这两种都不涉及真的打败熊。"
     },
     {
       "en": "Option one is to die.",
-      "zh": ""
+      "zh": "选项一：去死。"
     },
     {
       "en": "Option two is to make yourself look big and scary, but I don't think there are many bears who would be intimidated by something like that.",
-      "zh": ""
+      "zh": "选项二：把自己弄得又大又吓人，不过我觉得没多少熊会被这种东西吓到。"
     },
     {
       "en": "What I learn is that if you see a bear, you basically die.",
-      "zh": ""
+      "zh": "我学到的是：如果你看见熊，你基本上就死了。"
     },
     {
       "en": "I read about a few more animals, but most of them sound nice and peaceful.",
-      "zh": ""
+      "zh": "我又读了几种动物，不过它们大多数听起来都很温和友善。"
     },
     {
       "en": "I wish this magazine had more information about trees, but I will probably have to wait until winter returns to learn more about them.",
-      "zh": ""
+      "zh": "我希望这本杂志能多讲点树，不过我大概得等冬天回来才能学到更多了。"
     },
     {
       "en": ""
@@ -1442,22 +1442,22 @@
       "en": ": Oh? What is this?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哦？这是什么？"
     },
     {
       "en": ""
     },
     {
       "en": "It looks like the magazine is holding a sweepstakes where readers can submit answers for a chance to win a piece of a small key to my bedroom!",
-      "zh": ""
+      "zh": "看起来这本杂志正在举办抽奖，读者可以提交答案，赢取我卧室钥匙的一小块！"
     },
     {
       "en": "I can't imagine many people will enter this sweepstakes, so I'm pretty much guaranteed to win so long as I can answer the question.",
-      "zh": ""
+      "zh": "我猜没多少人会参加这个抽奖，所以只要我能答对问题，基本就稳赢了。"
     },
     {
       "en": "I fill out the form with all of my information and direct my attention to the question printed in the bottom right corner...",
-      "zh": ""
+      "zh": "我在表格上填好全部信息，把注意力转向印在右下角的问题……"
     },
     {
       "en": ""
@@ -1493,23 +1493,23 @@
     },
     {
       "en": "Someone slides a piece of a key underneath my bedroom door! The magazine must have liked my entry!",
-      "zh": ""
+      "zh": "有人从我的卧室门缝底下塞进来一小块钥匙！杂志一定是看中了我的投稿！"
     },
     {
       "en": "I didn't even have to mail the form!",
-      "zh": ""
+      "zh": "我连表格都不用寄出去！"
     },
     {
       "en": "I am so great!",
-      "zh": ""
+      "zh": "我太了不起了！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1524,23 +1524,23 @@
     },
     {
       "en": "I write down my answer in the space provided and do a little dance for good luck.",
-      "zh": ""
+      "zh": "我在预留的空格里写下答案，又跳了小舞祈求好运。"
     },
     {
       "en": "I seal it up and slide it under my door so the mailman can break into my house and take it where it needs to go.",
-      "zh": ""
+      "zh": "我把信封好，从门缝塞出去，好让邮差闯进我家、把它送到该去的地方。"
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": "I put my pencil down and look at my desk.",
-      "zh": ""
+      "zh": "我放下铅笔，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1554,7 +1554,7 @@
     },
     {
       "en": "Book 7: The Book of Infinite Pages",
-      "zh": ""
+      "zh": "书 7：《无限之书》"
     },
     {
       "en": "scene resetfour10",
@@ -1567,19 +1567,19 @@
     },
     {
       "en": "I open up a book that never seems to end, but there is nothing on any page.",
-      "zh": ""
+      "zh": "我打开一本似乎永远翻不到头的书，可每一页上什么都没有。"
     },
     {
       "en": "This is a tremendous waste of paper.",
-      "zh": ""
+      "zh": "这真是巨大的纸张浪费。"
     },
     {
       "en": "I continue flipping the pages around for a few minutes, hoping to find something, but there's nothing here at all.",
-      "zh": ""
+      "zh": "我又翻了几分钟，希望能找到点什么，可这里什么都没有。"
     },
     {
       "en": "In a last ditch effort to uncover the book's secrets, I decide to choose one final page...",
-      "zh": ""
+      "zh": "作为揭开这本书秘密的最后挣扎，我决定再选最后一页……"
     },
     {
       "en": ""
@@ -1615,19 +1615,19 @@
     },
     {
       "en": "I find a piece of the key inside the book!",
-      "zh": ""
+      "zh": "我在书里找到了一块钥匙！"
     },
     {
       "en": "I am so lucky!",
-      "zh": ""
+      "zh": "我太幸运了！"
     },
     {
       "en": "I put the book down and look at my desk.",
-      "zh": ""
+      "zh": "我放下书，看着我的桌子。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1644,18 +1644,18 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
     },
     {
       "en": "There's nothing on that page either.",
-      "zh": ""
+      "zh": "那一页上也是空的。"
     },
     {
       "en": "This book is so stupid.",
-      "zh": ""
+      "zh": "这本书真蠢。"
     },
     {
       "en": ""
@@ -1669,7 +1669,7 @@
     },
     {
       "en": "Book 8: Things We Have Learned",
-      "zh": ""
+      "zh": "书 8：《我们学到的东西》"
     },
     {
       "en": "scene resetfour10",
@@ -1682,27 +1682,27 @@
     },
     {
       "en": "I open up what I expect to be a magazine, but is really just one giant sweepstakes form!",
-      "zh": ""
+      "zh": "我打开一本以为是杂志的东西，结果里面就只是一张巨大的抽奖表！"
     },
     {
       "en": "I'm happy that I don't have to go searching around for it, but I'm worried that the form might be harder than the others since it's so much larger.",
-      "zh": ""
+      "zh": "我很高兴不用到处去找它了，但我担心这张表因为比其他的大得多，所以也更难填。"
     },
     {
       "en": "What if I don't fill in the sections how they want me to? What if I run out of ink?",
-      "zh": ""
+      "zh": "万一我没按他们想要的方式填写各个部分怎么办？万一我的墨水用完了怎么办？"
     },
     {
       "en": "There are so many problems I could potentially encounter.",
-      "zh": ""
+      "zh": "我可能会遇到很多问题。"
     },
     {
       "en": "But I must be brave and fill out this form if I ever want to leave!",
-      "zh": ""
+      "zh": "但如果我还想离开这儿，我就必须勇敢地把这张表填完！"
     },
     {
       "en": "I pick up the pencil and prepare to defeat a magazine.",
-      "zh": ""
+      "zh": "我拿起铅笔，准备打败一本杂志。"
     },
     {
       "en": ""
@@ -1724,11 +1724,11 @@
     },
     {
       "en": "I am punished for entering the wrong answer by a loud noise that mysteriously assaults my ear drums.",
-      "zh": ""
+      "zh": "我因为填错答案受到了惩罚——一声巨响莫名地袭击了我的耳膜。"
     },
     {
       "en": "I get so scared that I decide to take a little break to collect myself.",
-      "zh": ""
+      "zh": "我吓得决定先休息一下，让自己缓一缓。"
     },
     {
       "en": "jump resetfourescapemenu",
@@ -1754,11 +1754,11 @@
     },
     {
       "en": "I am punished for entering the wrong answer by a loud noise that mysteriously assaults my ear drums.",
-      "zh": ""
+      "zh": "我因为填错答案受到了惩罚——一声巨响莫名地袭击了我的耳膜。"
     },
     {
       "en": "I get so scared that I decide to take a little break to collect myself.",
-      "zh": ""
+      "zh": "我吓得决定先休息一下，让自己缓一缓。"
     },
     {
       "en": "jump resetfourescapemenu",
@@ -1784,11 +1784,11 @@
     },
     {
       "en": "I am punished for entering the wrong answer by a loud noise that mysteriously assaults my ear drums.",
-      "zh": ""
+      "zh": "我因为填错答案受到了惩罚——一声巨响莫名地袭击了我的耳膜。"
     },
     {
       "en": "I get so scared that I decide to take a little break to collect myself.",
-      "zh": ""
+      "zh": "我吓得决定先休息一下，让自己缓一缓。"
     },
     {
       "en": "jump resetfourescapemenu",
@@ -1814,11 +1814,11 @@
     },
     {
       "en": "I am punished for entering the wrong answer by a loud noise that mysteriously assaults my ear drums.",
-      "zh": ""
+      "zh": "我因为填错答案受到了惩罚——一声巨响莫名地袭击了我的耳膜。"
     },
     {
       "en": "I get so scared that I decide to take a little break to collect myself.",
-      "zh": ""
+      "zh": "我吓得决定先休息一下，让自己缓一缓。"
     },
     {
       "en": "jump resetfourescapemenu",
@@ -1844,11 +1844,11 @@
     },
     {
       "en": "I am punished for entering the wrong answer by a loud noise that mysteriously assaults my ear drums.",
-      "zh": ""
+      "zh": "我因为填错答案受到了惩罚——一声巨响莫名地袭击了我的耳膜。"
     },
     {
       "en": "I get so scared that I decide to take a little break to collect myself.",
-      "zh": ""
+      "zh": "我吓得决定先休息一下，让自己缓一缓。"
     },
     {
       "en": "jump resetfourescapemenu",
@@ -1874,11 +1874,11 @@
     },
     {
       "en": "I am punished for entering the wrong answer by a loud noise that mysteriously assaults my ear drums.",
-      "zh": ""
+      "zh": "我因为填错答案受到了惩罚——一声巨响莫名地袭击了我的耳膜。"
     },
     {
       "en": "I get so scared that I decide to take a little break to collect myself.",
-      "zh": ""
+      "zh": "我吓得决定先休息一下，让自己缓一缓。"
     },
     {
       "en": "jump resetfourescapemenu",
@@ -1904,11 +1904,11 @@
     },
     {
       "en": "I am punished for entering the wrong answer by a loud noise that mysteriously assaults my ear drums.",
-      "zh": ""
+      "zh": "我因为填错答案受到了惩罚——一声巨响莫名地袭击了我的耳膜。"
     },
     {
       "en": "I get so scared that I decide to take a little break to collect myself.",
-      "zh": ""
+      "zh": "我吓得决定先休息一下，让自己缓一缓。"
     },
     {
       "en": "jump resetfourescapemenu",
@@ -1933,27 +1933,27 @@
     },
     {
       "en": "Someone slides a piece of a key underneath my bedroom door! The magazine must have liked my entry!",
-      "zh": ""
+      "zh": "有人从我的卧室门缝底下塞进来一小块钥匙！杂志一定是看中了我的投稿！"
     },
     {
       "en": "I didn't even have to mail the form!",
-      "zh": ""
+      "zh": "我连表格都不用寄出去！"
     },
     {
       "en": "I did it! I learned things!",
-      "zh": ""
+      "zh": "我做到了！我学到了东西！"
     },
     {
       "en": "I am so smart!",
-      "zh": ""
+      "zh": "我太聪明了！"
     },
     {
       "en": "I put down my pencil and look at the remaining books.",
-      "zh": ""
+      "zh": "我放下铅笔，看着剩下的书。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -1967,7 +1967,7 @@
     },
     {
       "en": "Book 9: The Lust Eater",
-      "zh": ""
+      "zh": "书 9：《食欲者》"
     },
     {
       "en": "scene resetfour10",
@@ -1980,19 +1980,19 @@
     },
     {
       "en": "I open up a book that stings my hands.",
-      "zh": ""
+      "zh": "我打开一本扎手的书。"
     },
     {
       "en": "It's so hot that I struggle to flip past even the first page and see what's written inside.",
-      "zh": ""
+      "zh": "它烫得我连第一页都很难翻过去，看看里面写了什么。"
     },
     {
       "en": "From out of the book crawls a worm that finds its way onto my hand.",
-      "zh": ""
+      "zh": "一条虫子从书里爬出来，爬到了我手上。"
     },
     {
       "en": "I don't know how long it's been inside, nor how it survived being pressed between the pages, but I take it as a sign that I must proceed.",
-      "zh": ""
+      "zh": "我不知道它在里面待了多久，也不知道它是怎么在被压在书页之间活下来的，但我把它当作一个信号：我必须继续。"
     },
     {
       "en": ""
@@ -2001,70 +2001,70 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
     },
     {
       "en": "There's nothing written inside, but I somehow understand everything the book has to say.",
-      "zh": ""
+      "zh": "里面什么都没写，但我莫名地理解了这本书想说的一切。"
     },
     {
       "en": "I feel the words being injected into my veins each time my skin makes contact with the half-rotted, stale paper holding everything together.",
-      "zh": ""
+      "zh": "每当我的皮肤碰到把这些东西黏在一起、半腐烂又发霉的纸，我都能感觉到那些话正被注射进我的血管。"
     },
     {
       "en": "I'm reminded of what holds me together.",
-      "zh": ""
+      "zh": "我想起了是什么把我黏合在一起。"
     },
     {
       "en": "I'm reminded of how I have abandoned it.",
-      "zh": ""
+      "zh": "我想起了我是如何抛弃了它的。"
     },
     {
       "en": "I'm reminded of why this book is here.",
-      "zh": ""
+      "zh": "我想起了这本书为什么在这里。"
     },
     {
       "en": "There is a blank form at the end of the book.",
-      "zh": ""
+      "zh": "书的末尾有一张空白表格。"
     },
     {
       "en": "I peel it from the page it's glued to and watch as words begin to appear.",
-      "zh": ""
+      "zh": "我把它从黏着的书页上撕下来，看着文字开始浮现。"
     },
     {
-      "en": "HERE, IN THIS MOST BEAUTIFUL END OF DAYS, I GIVE YOU THE PIECE YOU ARE LOOKING FOR",
-      "zh": ""
+      "en": "{i}HERE, IN THIS MOST BEAUTIFUL END OF DAYS, I GIVE YOU THE PIECE YOU ARE LOOKING FOR{/i}",
+      "zh": "{i}在这最美妙的末日里，我把你寻找的那一块交给你{/i}"
     },
     {
-      "en": "WE WILL HAVE MORE FUN TOGETHER THAN YOU CAN POSSIBLY IMAGINE",
-      "zh": ""
+      "en": "{i}WE WILL HAVE MORE FUN TOGETHER THAN YOU CAN POSSIBLY IMAGINE{/i}",
+      "zh": "{i}我们在一起会比你能想象的更快乐{/i}"
     },
     {
-      "en": "YOU ARE NOT LIKE THE OTHERS",
-      "zh": ""
+      "en": "{i}YOU ARE NOT LIKE THE OTHERS{/i}",
+      "zh": "{i}你和别人不一样{/i}"
     },
     {
-      "en": "YOUR EYES MEAN MORE THAN THEIRS.",
-      "zh": ""
+      "en": "{i}YOUR EYES MEAN MORE THAN THEIRS.{/i}",
+      "zh": "{i}你的眼睛比他们的更有意义。{/i}"
     },
     {
-      "en": "IF YOU WILL ALLOW ME TO SEE THROUGH THEM EVEN ONCE, I WILL GIVE YOU EVERYTHING YOU HAVE EVER WANTED",
-      "zh": ""
+      "en": "{i}IF YOU WILL ALLOW ME TO SEE THROUGH THEM EVEN ONCE, I WILL GIVE YOU EVERYTHING YOU HAVE EVER WANTED{/i}",
+      "zh": "{i}只要你允许我看穿它们哪怕一次，我就会给你你曾想要的一切{/i}"
     },
     {
-      "en": "I WILL GIVE YOU SO MUCH MORE THAN YOU HAVE NOW",
-      "zh": ""
+      "en": "{i}I WILL GIVE YOU SO MUCH MORE THAN YOU HAVE NOW{/i}",
+      "zh": "{i}我会给你比你现在拥有的多得多的东西{/i}"
     },
     {
-      "en": "I PROMISE YOU THIS AS THE THING WITH FEATHERS",
-      "zh": ""
+      "en": "{i}I PROMISE YOU THIS AS THE THING WITH FEATHERS{/i}",
+      "zh": "{i}我以那有羽毛之物向你保证{/i}"
     },
     {
-      "en": "I PROMISE AS THAT WHICH GIVES YOU HOPE",
-      "zh": ""
+      "en": "{i}I PROMISE AS THAT WHICH GIVES YOU HOPE{/i}",
+      "zh": "{i}我以那给予你希望之物起誓{/i}"
     },
     {
       "en": ""
@@ -2085,23 +2085,23 @@
     },
     {
       "en": "Liquid seeps out of the form and drips onto the floor.",
-      "zh": ""
+      "zh": "液体从表格里渗出来，滴到地板上。"
     },
     {
       "en": "When I look down to inspect it, I can see it forming into a piece of a key.",
-      "zh": ""
+      "zh": "我低头去看，发现它正在凝成一块钥匙。"
     },
     {
       "en": "I pick it up and, just like the book, it is hot to the touch.",
-      "zh": ""
+      "zh": "我把它捡起来，它和那本书一样，摸上去很烫。"
     },
     {
       "en": "It makes a home in my pocket regardless.",
-      "zh": ""
+      "zh": "尽管如此，它还是在我的口袋里安了家。"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -2115,7 +2115,7 @@
     },
     {
       "en": "Book 9: The Wire God",
-      "zh": ""
+      "zh": "书 9：《电线之神》"
     },
     {
       "en": "scene resetfour10",
@@ -2128,23 +2128,23 @@
     },
     {
       "en": "I open up a book that's cold to the touch.",
-      "zh": ""
+      "zh": "我打开一本摸上去冰凉的书。"
     },
     {
       "en": "My fingers freeze to the pages as I attempt to turn them.",
-      "zh": ""
+      "zh": "我想翻页，手指却冻在了书页上。"
     },
     {
       "en": "From out of the binding crawls a cockroach that finds its way onto my hand.",
-      "zh": ""
+      "zh": "一只蟑螂从书脊里爬出来，爬到了我手上。"
     },
     {
       "en": "It moves slow from the cold, but still manages to cling to life through sheer willpower and advantageous genes..",
-      "zh": ""
+      "zh": "它因为寒冷动作迟缓，却仍靠着纯粹的意志力和优良的基因死死抓住生命。"
     },
     {
       "en": "It somehow inspires me to push on.",
-      "zh": ""
+      "zh": "它莫名地激励我继续下去。"
     },
     {
       "en": ""
@@ -2153,50 +2153,50 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
     },
     {
       "en": "There's nothing written inside, but I somehow understand everything the book has to say.",
-      "zh": ""
+      "zh": "里面什么都没写，但我莫名地理解了这本书想说的一切。"
     },
     {
       "en": "I feel the words being injected into my veins each time my skin makes contact with the half-rotted, stale paper holding everything together.",
-      "zh": ""
+      "zh": "每当我的皮肤碰到把这些东西黏在一起、半腐烂又发霉的纸，我都能感觉到那些话正被注射进我的血管。"
     },
     {
       "en": "I'm reminded of what holds me together.",
-      "zh": ""
+      "zh": "我想起了是什么把我黏合在一起。"
     },
     {
       "en": "I'm reminded of how I have abandoned it.",
-      "zh": ""
+      "zh": "我想起了我是如何抛弃了它的。"
     },
     {
       "en": "I'm reminded of why this book is here.",
-      "zh": ""
+      "zh": "我想起了这本书为什么在这里。"
     },
     {
       "en": "There is a blank form at the end of the book.",
-      "zh": ""
+      "zh": "书的末尾有一张空白表格。"
     },
     {
       "en": "I peel it from the page it's glued to and watch as words begin to appear.",
-      "zh": ""
+      "zh": "我把它从黏着的书页上撕下来，看着文字开始浮现。"
     },
     {
       "en": "////////////////LOW INK LEVELS DETECTED",
-      "zh": ""
+      "zh": "////////////////检测到墨水量不足"
     },
     {
       "en": "////////////////PLEASE REPLACE BLACK INK IN ORDER TO CONTINUE",
-      "zh": ""
+      "zh": "////////////////请更换黑色墨水以继续"
     },
     {
       "en": "The words are faded, but it looks like I'm going to need ink in order to finish this sweepstakes...",
-      "zh": ""
+      "zh": "字迹很淡，但看起来我需要墨水才能完成这次抽奖……"
     },
     {
       "en": ""
@@ -2209,38 +2209,38 @@
       "en": ": Wait a second...maybe this will work?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 等等……也许这个能行？"
     },
     {
       "en": ""
     },
     {
       "en": "I focus all of my energy on attempting to locate all of the squids I ate earlier since they're probably not digested yet.",
-      "zh": ""
+      "zh": "我把全部精力集中在寻找之前吃下去的那些鱿鱼上，因为它们大概还没消化。"
     },
     {
       "en": "After a bit of intestinal navigation, I uncover them and begin to clench my gut in order to squeeze all of the ink out.",
-      "zh": ""
+      "zh": "经过一番肠道导航，我找到了它们，开始收紧肚子，把所有墨水都挤出来。"
     },
     {
       "en": "It bubbles up from my GI tract and works its way through my esophagus.",
-      "zh": ""
+      "zh": "它从我的胃肠道里冒出气泡，一路穿过食道。"
     },
     {
       "en": "I open up my mouth and let some of it dribble onto the sweepstakes page.",
-      "zh": ""
+      "zh": "我张开嘴，让一些墨水滴到抽奖表上。"
     },
     {
       "en": "Once it does, I can see words beginning to form again.",
-      "zh": ""
+      "zh": "一滴上去，我就看到文字又开始浮现了。"
     },
     {
       "en": "////////////////INK SUCCESSFULLY REPLACED",
-      "zh": ""
+      "zh": "////////////////墨水已成功更换"
     },
     {
       "en": "////////////////CONTINUING PRINT JOB",
-      "zh": ""
+      "zh": "////////////////继续打印任务"
     },
     {
       "en": ""
@@ -2249,7 +2249,7 @@
       "en": ": Print job?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 打印任务？"
     },
     {
       "en": ""
@@ -2269,33 +2269,33 @@
       "en": ""
     },
     {
-      "en": ": Wow!",
+      "en": ": {i}Wow!{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": {i}哇！{/i}"
     },
     {
       "en": ""
     },
     {
       "en": "The ink I regurgitated quickly begins taking the shape of a key fragment.",
-      "zh": ""
+      "zh": "我吐出来的墨水很快开始变成一块钥匙碎片的形状。"
     },
     {
       "en": "I pluck it off once it is done forming and shove it into my pocket.",
-      "zh": ""
+      "zh": "它成型后我一把摘下来，塞进口袋。"
     },
     {
       "en": "I'm so thankful that I ate all of those squids.",
-      "zh": ""
+      "zh": "我真庆幸自己吃了那么多鱿鱼。"
     },
     {
       "en": "Now I am one step closer to leaving my room!",
-      "zh": ""
+      "zh": "现在我又离离开这个房间近了一步！"
     },
     {
       "en": "What do I want to do now?",
-      "zh": ""
+      "zh": "现在我想做什么？"
     },
     {
       "en": ""
@@ -2310,7 +2310,7 @@
     },
     {
       "en": "But how the hell am I supposed to get ink if I can't leave?",
-      "zh": ""
+      "zh": "可要是我出不去，我到底该怎么搞到墨水？"
     },
     {
       "en": ""
@@ -2319,14 +2319,14 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
     },
     {
       "en": "Fuck it. I'll figure something else out for now.",
-      "zh": ""
+      "zh": "去他的。我先想别的办法。"
     },
     {
       "en": ""
@@ -2340,7 +2340,7 @@
     },
     {
       "en": "Book 9: The Dark",
-      "zh": ""
+      "zh": "书 9：《黑暗》"
     },
     {
       "en": "scene resetfour10",
@@ -2353,35 +2353,35 @@
     },
     {
       "en": "I open up a book that begins to crumble upon being touched.",
-      "zh": ""
+      "zh": "我打开一本刚一碰就开始碎裂的书。"
     },
     {
       "en": "It looks as if it's been haphazardly pieced together with different parts of other books and pages of all different sizes.",
-      "zh": ""
+      "zh": "它看起来像是把不同书的部分、以及各种尺寸的纸页胡乱拼凑起来的。"
     },
     {
       "en": "I need to be delicate while handling it. For if I don't, I'll lose all chances I have of ever making it out of here.",
-      "zh": ""
+      "zh": "我拿它时必须很小心。因为如果我不小心，我就永远没机会离开这儿了。"
     },
     {
       "en": "From out of the pages crawls a small spider that finds its way onto my hand.",
-      "zh": ""
+      "zh": "一只小蜘蛛从书页里爬出来，爬到了我手上。"
     },
     {
       "en": "I watch it sink its teeth in, but they're so small that I can barely feel them.",
-      "zh": ""
+      "zh": "我看着它把牙咬进去，可它们太小了，我几乎感觉不到。"
     },
     {
       "en": "My skin swells slightly.",
-      "zh": ""
+      "zh": "我的皮肤微微肿起。"
     },
     {
       "en": "I hope the spider had a good meal.",
-      "zh": ""
+      "zh": "希望那只蜘蛛吃得不错。"
     },
     {
       "en": "I watch it crawl away, across the books and under the desk before deciding to press on...",
-      "zh": ""
+      "zh": "我看着它爬走，越过书本、钻到桌子底下，然后决定继续……"
     },
     {
       "en": ""
@@ -2390,66 +2390,66 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
     },
     {
       "en": "There's nothing written inside, but I somehow understand everything the book has to say.",
-      "zh": ""
+      "zh": "里面什么都没写，但我莫名地理解了这本书想说的一切。"
     },
     {
       "en": "I feel the words being injected into my veins each time my skin makes contact with the half-rotted, stale paper holding everything together.",
-      "zh": ""
+      "zh": "每当我的皮肤碰到把这些东西黏在一起、半腐烂又发霉的纸，我都能感觉到那些话正被注射进我的血管。"
     },
     {
       "en": "I'm reminded of what holds me together.",
-      "zh": ""
+      "zh": "我想起了是什么把我黏合在一起。"
     },
     {
       "en": "I'm reminded of how I have abandoned it.",
-      "zh": ""
+      "zh": "我想起了我是如何抛弃了它的。"
     },
     {
       "en": "I'm reminded of why this book is here.",
-      "zh": ""
+      "zh": "我想起了这本书为什么在这里。"
     },
     {
       "en": "There is a blank form at the end of the book.",
-      "zh": ""
+      "zh": "书的末尾有一张空白表格。"
     },
     {
       "en": "I peel it from the page it's glued to and watch as words begin to appear.",
-      "zh": ""
+      "zh": "我把它从黏着的书页上撕下来，看着文字开始浮现。"
     },
     {
-      "en": "hello?",
-      "zh": ""
+      "en": "{i}hello?{/i}",
+      "zh": "{i}喂？{/i}"
     },
     {
-      "en": "can you see this?",
-      "zh": ""
+      "en": "{i}can you see this?{/i}",
+      "zh": "{i}你能看到这个吗？{/i}"
     },
     {
-      "en": "Unsure of what else to do, I respond by writing the word yes on the sweepstakes form.",
-      "zh": ""
+      "en": "Unsure of what else to do, I respond by writing the word {i}yes{/i} on the sweepstakes form.",
+      "zh": "不知道还能做什么，我在抽奖表上写下一个「{i}能{/i}」字作为回应。"
     },
     {
-      "en": "i am unable to help you as you are right now. i am sorry.",
-      "zh": ""
+      "en": "{i}i am unable to help you as you are right now. i am sorry.{/i}",
+      "zh": "{i}我无法以你现在的样子帮助你。对不起。{/i}"
     },
     {
-      "en": "i am not permitted to carry key fragments the way the others are. they do not accept me.",
-      "zh": ""
+      "en": "{i}i am not permitted to carry key fragments the way the others are. they do not accept me.{/i}",
+      "zh": "{i}我不被允许像其他人那样携带钥匙碎片。他们不接受我。{/i}"
     },
     {
-      "en": "we should not even be talking right now. this is not what was supposed to happen.",
-      "zh": ""
+      "en": "{i}we should not even be talking right now. this is not what was supposed to happen.{/i}",
+      "zh": "{i}我们连现在都不该说话。这本不该发生。{/i}"
     },
     {
-      "en": "i apologize, but the best I can do is offer you a free trial premium membership to lessons in love.",
-      "zh": ""
+      "en": "{i}i apologize, but the best I can do is offer you a free trial premium membership to lessons in love.{/i}",
+      "zh": "{i}我很抱歉，但我最多只能给你一份 Lessons in Love 的免费试用高级会员。{/i}"
     },
     {
       "en": ""
@@ -2461,36 +2461,36 @@
       "en": ": A what?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 什么？"
     },
     {
       "en": ""
     },
     {
       "en": "I don't actually say that. I write it down.",
-      "zh": ""
+      "zh": "我没真的说出口。我把它写了下来。"
     },
     {
       "en": ""
     },
     {
-      "en": "you will need to select one of the others in order to proceed. this is all i can do.",
-      "zh": ""
+      "en": "{i}you will need to select one of the others in order to proceed. this is all i can do.{/i}",
+      "zh": "{i}你需要选择其他人中的一个才能继续。这是我唯一能做的。{/i}"
     },
     {
-      "en": "perhaps that will change in time.",
-      "zh": ""
+      "en": "{i}perhaps that will change in time.{/i}",
+      "zh": "{i}也许过段时间会改变。{/i}"
     },
     {
-      "en": "but, for now-",
-      "zh": ""
+      "en": "{i}but, for now-{/i}",
+      "zh": "{i}但是，现在——{/i}"
     },
     {
       "en": ""
     },
     {
       "en": "The book crumbles before I can read anything else, but at least I got a free trial premium membership to lessons in love.",
-      "zh": ""
+      "zh": "我还没读完，书就碎了，不过至少我拿到了一份 Lessons in Love 的免费试用高级会员。"
     },
     {
       "en": ""
@@ -2504,7 +2504,7 @@
     },
     {
       "en": "Now what?",
-      "zh": ""
+      "zh": "现在做什么？"
     },
     {
       "en": ""
@@ -2518,7 +2518,7 @@
     },
     {
       "en": "Do something else",
-      "zh": ""
+      "zh": "做点别的"
     },
     {
       "en": "scene resetfour6",
@@ -2534,7 +2534,7 @@
     },
     {
       "en": "I'm done working for now. I'll escape later.",
-      "zh": ""
+      "zh": "我现在干完了。我晚点再逃。"
     },
     {
       "en": ""
@@ -2579,7 +2579,7 @@
     },
     {
       "en": "PASSWORD ACCEPTED",
-      "zh": ""
+      "zh": "密码正确"
     },
     {
       "en": "else:",
@@ -2587,11 +2587,11 @@
     },
     {
       "en": "PASSWORD INCORRECT",
-      "zh": ""
+      "zh": "密码错误"
     },
     {
       "en": "PLEASE TRY AGAIN OR GIVE UP ENTIRELY",
-      "zh": ""
+      "zh": "请再试一次，或者彻底放弃"
     },
     {
       "en": ""
@@ -2602,7 +2602,7 @@
     },
     {
       "en": "Try again",
-      "zh": ""
+      "zh": "再试一次"
     },
     {
       "en": "jump resetfourrectangle",
@@ -2610,7 +2610,7 @@
     },
     {
       "en": "Give up",
-      "zh": ""
+      "zh": "放弃"
     },
     {
       "en": "scene resetfour6",
@@ -2628,7 +2628,7 @@
       "en": ": Gosh darn it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 该死。"
     },
     {
       "en": ""
@@ -2642,7 +2642,7 @@
     },
     {
       "en": "WHAT WOULD YOU LIKE TO DO?",
-      "zh": ""
+      "zh": "你想做什么？"
     },
     {
       "en": ""
@@ -2653,135 +2653,135 @@
     },
     {
       "en": "Play bideo game",
-      "zh": ""
+      "zh": "玩 bideo 游戏"
     },
     {
       "en": "I sit down at the rectangle and start playing a fun round of solitaire, the only game I am good at.",
-      "zh": ""
+      "zh": "我在那个长方形前坐下，开始玩一局有趣的纸牌——这是我唯一擅长的游戏。"
     },
     {
       "en": "I like solitaire because I can play it by myself and no one will judge me for it.",
-      "zh": ""
+      "zh": "我喜欢纸牌，因为我可以自己一个人玩，没人会因此评判我。"
     },
     {
       "en": "I also like how the cards look when they start going all over the screen when you win a game.",
-      "zh": ""
+      "zh": "我也喜欢赢牌时纸牌在屏幕上到处乱飞的样子。"
     },
     {
       "en": "It is very satisfying to play solitaire, but no one is interested anymore because the graphics are bad.",
-      "zh": ""
+      "zh": "玩纸牌很让人满足，不过现在没人感兴趣了，因为画面太差。"
     },
     {
       "en": "I encounter a hard section in solitaire, the game that I am playing.",
-      "zh": ""
+      "zh": "我在纸牌——我正在玩的这个游戏——里遇到了一个困难的部分。"
     },
     {
       "en": "There is a king that I have nowhere to put.",
-      "zh": ""
+      "zh": "有一张国王牌，我没地方放。"
     },
     {
       "en": "That won't do at all.",
-      "zh": ""
+      "zh": "这可完全不行。"
     },
     {
       "en": "The king is one of the most important cards in the video game that I am playing which is called solitaire.",
-      "zh": ""
+      "zh": "国王是我正在玩的这个电子游戏里最重要的牌之一，这个游戏叫纸牌。"
     },
     {
       "en": "Have you ever heard of it?",
-      "zh": ""
+      "zh": "你听说过它吗？"
     },
     {
       "en": "There are several rows of cards and you have to move them around until you win.",
-      "zh": ""
+      "zh": "有好几排牌，你得把它们挪来挪去，直到赢为止。"
     },
     {
       "en": "I would explain the rules to you but we don't have that much time.",
-      "zh": ""
+      "zh": "我本想给你讲讲规则，但我们没那么多时间。"
     },
     {
       "en": "Just kidding. Yes we do.",
-      "zh": ""
+      "zh": "开玩笑的。我们有的是时间。"
     },
     {
       "en": "I will now explain the rules of solitaire, the game that I am playing, to you.",
-      "zh": ""
+      "zh": "现在我就来给你讲讲我正在玩的这个游戏——纸牌——的规则。"
     },
     {
       "en": "In Solitaire, there are 4 types of piles: The Tableau, The Stock, The Talon, and The Foundations.",
-      "zh": ""
+      "zh": "在纸牌里，有 4 种牌堆：牌面区（The Tableau）、牌库（The Stock）、待用堆（The Talon）和基础堆（The Foundations）。"
     },
     {
       "en": "The Tableau consist of 7 piles. The first pile has 1 card. The second pile has 2 cards. The third pile has 3 cards and so on until there are 7 piles. Only the top card in each pile is faced up.",
-      "zh": ""
+      "zh": "牌面区由 7 叠牌组成。第一叠 1 张，第二叠 2 张，第三叠 3 张，以此类推，直到共 7 叠。每叠只有最上面的一张正面朝上。"
     },
     {
       "en": "The remaining cards after building the Tableau are called the Stock.",
-      "zh": ""
+      "zh": "摆好牌面区之后剩下的牌叫牌库。"
     },
     {
       "en": "The Talon is a pile of 3 cards from the Stock. In the Talon, only the top card is faced up.",
-      "zh": ""
+      "zh": "待用堆是从牌库里取出的 3 张牌。在待用堆里，只有最上面一张正面朝上。"
     },
     {
       "en": "The Foundations consist of 4 stacks of cards (one for each suit) in ascending order (Ace to King). At the beginning of the game, The Foundations is empty.",
-      "zh": ""
+      "zh": "基础堆由 4 叠牌组成（每种花色一叠），按升序排列（从 A 到 K）。游戏开始时，基础堆是空的。"
     },
     {
       "en": "Within the Tableau, faced up cards are transferred in descending order (King to Ace) and in alternating color.",
-      "zh": ""
+      "zh": "在牌面区内，正面朝上的牌按降序（从 K 到 A）、且颜色交替的方式转移。"
     },
     {
       "en": "The player may transfer the top card or stack of faced up cards to any of the piles in an attempt to create the sequence of descending value and alternating color.",
-      "zh": ""
+      "zh": "玩家可以转移最上面的一张牌、或一叠正面朝上的牌到任意一叠，以尝试形成点数递减、颜色交替的序列。"
     },
     {
       "en": "An empty spot in the Tableau may be filled with a king.  If the player cannot move any cards within the Tableau, 3 cards are selected from the top of the Stock pile to form the Talon.",
-      "zh": ""
+      "zh": "牌面区的空位可以用国王填上。如果玩家在牌面区里无法移动任何牌，就从牌库顶部取 3 张牌组成待用堆。"
     },
     {
       "en": "If the first card in the Talon cannot be played, 3 more cards are selected from the Stock.",
-      "zh": ""
+      "zh": "如果待用堆的第一张牌不能出，就再从牌库取 3 张。"
     },
     {
       "en": "When and if the Stock runs out, the Talon is reshuffled to form a new Stock and the process continues.",
-      "zh": ""
+      "zh": "如果牌库用完了，待用堆会被重新洗回牌库，如此继续。"
     },
     {
       "en": "While the player is sequencing the Tableau, the player is also trying to build up the Foundations stacks.",
-      "zh": ""
+      "zh": "玩家在排列牌面区的同时，也在努力搭建基础堆。"
     },
     {
       "en": "The top card from the Talon or the Tableau stacks may be transferred to the Foundations.",
-      "zh": ""
+      "zh": "待用堆或牌面区各叠最上面的牌可以转移到基础堆。"
     },
     {
       "en": "When all cards have been transferred in ascending order (Ace to King) to the Foundations, the game is won.",
-      "zh": ""
+      "zh": "当所有牌都按升序（从 A 到 K）转移到基础堆时，游戏就赢了。"
     },
     {
       "en": "If no more moves can be made and the Foundations is incomplete, the game is lost.",
-      "zh": ""
+      "zh": "如果再也无法移动，而基础堆还没填满，游戏就输了。"
     },
     {
-      "en": "Did you know that the first game of solitaire ever recorded was in a book called Das neue Konigliche L'Hombre-Spiel?",
-      "zh": ""
+      "en": "Did you know that the first game of solitaire ever recorded was in a book called {i}Das neue Konigliche L'Hombre-Spiel?{/i}",
+      "zh": "你知道吗，有记载的第一局纸牌游戏出现在一本叫 {i}Das neue Konigliche L'Hombre-Spiel{/i} 的书里？"
     },
     {
       "en": "That is a thing that I, an expert in solitaire, know.",
-      "zh": ""
+      "zh": "这是身为纸牌专家的我才知道的事。"
     },
     {
-      "en": "I also know that this book was published in Germany in the year 1788- which is also referred to as the solitaire year by me, the solitaire expert.",
-      "zh": ""
+      "en": "I also know that this book was published in Germany in the year 1788- which is also referred to as the {i}solitaire year{/i} by me, the solitaire expert.",
+      "zh": "我还知道这本书 1788 年出版于德国——而 1788 年也被我，这位纸牌专家，称为{i}纸牌元年{/i}。"
     },
     {
       "en": "Anyway, I have to get back to playing solitaire now. It is a video game.",
-      "zh": ""
+      "zh": "总之，我现在得回去玩纸牌了。它是个电子游戏。"
     },
     {
       "en": "Have you heard of it?",
-      "zh": ""
+      "zh": "你听说过它吗？"
     },
     {
       "en": ""
@@ -2800,19 +2800,19 @@
     },
     {
       "en": "I play solitaire for so long that I get tired and fall asleep.",
-      "zh": ""
+      "zh": "我玩纸牌玩得太久，累得睡着了。"
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -2831,11 +2831,11 @@
     },
     {
       "en": "I wake up refreshed.",
-      "zh": ""
+      "zh": "我醒来，精神焕发。"
     },
     {
       "en": "Now what?",
-      "zh": ""
+      "zh": "现在做什么？"
     },
     {
       "en": ""
@@ -2849,35 +2849,35 @@
     },
     {
       "en": "Do math homework ;D",
-      "zh": ""
+      "zh": "做数学作业 ;D"
     },
     {
       "en": "I wink at the computer and log into my favorite math website to do some math homework in my spare time.",
-      "zh": ""
+      "zh": "我朝电脑眨了眨眼，登录我最喜欢的数学网站，想在空闲时间做点数学作业。"
     },
     {
       "en": "I memorize several seemingly random yet very important statistics that will help me become a better person.",
-      "zh": ""
+      "zh": "我记住了几个看似随机、却非常重要的统计数据，它们会帮我成为更好的人。"
     },
     {
       "en": "Like how the human head normally has around 100,000 hairs on it. Unless you are bald, then the answer is 0.",
-      "zh": ""
+      "zh": "比如人的头上通常大约有 100,000 根头发。除非你是秃子，那答案是 0。"
     },
     {
-      "en": "Well, it's not actually zero since there are still lots of microscopic or tiny hairs, but I think you understand.",
-      "zh": ""
+      "en": "Well, it's not {i}actually{/i} zero since there are still lots of microscopic or tiny hairs, but I think you understand.",
+      "zh": "嗯，{i}其实{/i}也不是零，因为还有很多微小的、细小的汗毛，不过我想你懂我的意思。"
     },
     {
       "en": "I also memorize how an average bathtub holds 80 gallons of water or how Canada geese can fly up to 1,500 miles in a day.",
-      "zh": ""
+      "zh": "我还记住了：一个普通浴缸能装 80 加仑的水，还有加拿大雁一天能飞 1,500 英里。"
     },
     {
       "en": "Did you know that if you fill a room up with 23 people, there's a 50%% chance two of them will have the same birthday?",
-      "zh": ""
+      "zh": "你知道吗，如果一个房间里站满 23 个人，其中两个人同一天生日的概率有 50%%？"
     },
     {
       "en": "I would explain more about that, but the formatting of text would make it very hard to do. So you can just trust me on this one since it's a thing I memorized.",
-      "zh": ""
+      "zh": "我本想多解释一点，但文本的排版会让这事变得很难，所以你只要相信我就行，因为这是我记住的东西。"
     },
     {
       "en": ""
@@ -2886,7 +2886,7 @@
       "en": ": Okay. That's enough math for today.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好了。今天的数学就到这儿。"
     },
     {
       "en": ""
@@ -2905,11 +2905,11 @@
     },
     {
       "en": "I step away from the math.",
-      "zh": ""
+      "zh": "我从数学里抽身。"
     },
     {
       "en": "Now what?",
-      "zh": ""
+      "zh": "现在做什么？"
     },
     {
       "en": ""
@@ -2920,67 +2920,67 @@
     },
     {
       "en": "Birds",
-      "zh": ""
+      "zh": "鸟"
     },
     {
       "en": "I decide to use my rectangle to learn about birds.",
-      "zh": ""
+      "zh": "我决定用我的长方形来了解鸟类。"
     },
     {
       "en": "I find out the following:",
-      "zh": ""
+      "zh": "我查到了以下这些："
     },
     {
       "en": "There are probably only around 50 of the Japanese crested ibis alive today, which is very sad.",
-      "zh": ""
+      "zh": "如今活着的日本冠鹮大概只剩 50 只左右，真让人难过。"
     },
     {
       "en": "Fledgling hoatzins come equipped with tiny claws on their wings, which don't really make them good at fighting, but make them very cool.",
-      "zh": ""
+      "zh": "幼年麝雉的翅膀上长着小小的爪子，这并不能让它们更擅长打架，但让它们非常酷。"
     },
     {
       "en": "There are many documented cases of pigeons recognizing human faces. I wonder if a pigeon will ever recognize me?",
-      "zh": ""
+      "zh": "有许多记录在案的例子表明鸽子能认出人的脸。我在想，会不会有一只鸽子认出我来？"
     },
     {
       "en": "Ravens have been known in the past to pre-plan certain tasks, which isn't a thing that any other bird can do. Probably.",
-      "zh": ""
+      "zh": "过去人们知道渡鸦会预先计划某些任务，这不是其他任何鸟类能做到的事。大概吧。"
     },
     {
       "en": "The parasitic jaeger will frequently steal food directly out of other birds' mouths because it is a fucking asshole.",
-      "zh": ""
+      "zh": "寄生贼鸥经常直接从其他鸟嘴里抢食物，因为它就是个十足的混蛋。"
     },
     {
       "en": "In the past, coal miners would use canaries to survey the levels of carbon dioxide in coal mines. If the canary passed out, they'd know it wasn't safe.",
-      "zh": ""
+      "zh": "过去煤矿工人会用金丝雀来检测煤矿里的二氧化碳浓度。如果金丝雀昏倒了，他们就知道不安全了。"
     },
     {
       "en": "The marsh warbler is able to almost perfectly mimic over 80 different birds! How many birds can you mimic?",
-      "zh": ""
+      "zh": "沼泽莺几乎能完美模仿 80 多种不同的鸟！你能模仿几种鸟？"
     },
     {
       "en": "The wandering albatross has the greatest wingspan of any bird, measuring up to 11.8 feet!",
-      "zh": ""
+      "zh": "漂泊信天翁拥有所有鸟类中最长的翼展，长达 11.8 英尺！"
     },
     {
-      "en": "The ostrich is the only bird that will willingly take care of another bird's eggs.",
-      "zh": ""
+      "en": "The ostrich is the only bird that will {i}willingly{/i} take care of another bird's eggs.",
+      "zh": "鸵鸟是唯一{i}愿意{/i}替别的鸟照顾蛋的鸟。"
     },
     {
-      "en": "As an inverse of that, female cuckoos are known to lay their eggs in the nests of other birds and trick other bird parents into taking care of them.",
-      "zh": ""
+      "en": "As an inverse of that, female cuckoos are known to lay their eggs in the nests of other birds and {i}trick{/i} other bird parents into taking care of them.",
+      "zh": "与之相反，雌性布谷鸟会把蛋下在其他鸟的巢里，{i}骗{/i}别的鸟父母替它们抚养。"
     },
     {
       "en": "The slowest flying bird is the American woodcock.",
-      "zh": ""
+      "zh": "飞得最慢的鸟是美洲丘鹬（American woodcock）。"
     },
     {
       "en": "Ha.",
-      "zh": ""
+      "zh": "哈。"
     },
     {
       "en": "Woodcock.",
-      "zh": ""
+      "zh": "Woodcock。"
     },
     {
       "en": ""
@@ -2999,11 +2999,11 @@
     },
     {
       "en": "I step away from the birds after absorbing all applicable facts.",
-      "zh": ""
+      "zh": "吸收完所有相关知识后，我从鸟那里抽身。"
     },
     {
       "en": "Now what?",
-      "zh": ""
+      "zh": "现在做什么？"
     },
     {
       "en": ""
@@ -3017,11 +3017,11 @@
     },
     {
       "en": "Play the lottery",
-      "zh": ""
+      "zh": "玩彩票"
     },
     {
       "en": "I decide to buy a lottery ticket.",
-      "zh": ""
+      "zh": "我决定买一张彩票。"
     },
     {
       "en": ""
@@ -3051,7 +3051,7 @@
     },
     {
       "en": "I sure hope I win!",
-      "zh": ""
+      "zh": "我真希望能中奖！"
     },
     {
       "en": ""
@@ -3070,7 +3070,7 @@
     },
     {
       "en": "Now what should I do?",
-      "zh": ""
+      "zh": "现在我该做什么？"
     },
     {
       "en": ""
@@ -3084,7 +3084,7 @@
     },
     {
       "en": "Unlock all puzzle answers",
-      "zh": ""
+      "zh": "解锁所有谜题答案"
     },
     {
       "en": "if freetrial == True:",
@@ -3092,15 +3092,15 @@
     },
     {
       "en": "FREE TRIAL PREMIUM MEMBERSHIP DETECTED. PLEASE CONSIDER UPGRADING TO A FULL PREMIUM MEMBERSHIP IN THE FUTURE FOR ACCESS TO COMPLETE BENEFITS.",
-      "zh": ""
+      "zh": "检测到免费试用高级会员。请考虑在将来升级为完整高级会员，以获得全部权益。"
     },
     {
       "en": "AS A FREE TRIAL USER, YOU CAN DO THE FOLLOWING: ATTRIBUTE SELECTION.",
-      "zh": ""
+      "zh": "作为免费试用用户，你可以进行以下操作：属性选择。"
     },
     {
       "en": "PLEASE SELECT AN ATTRIBUTE.",
-      "zh": ""
+      "zh": "请选择一个属性。"
     },
     {
       "en": "menu:",
@@ -3108,7 +3108,7 @@
     },
     {
       "en": "Callous",
-      "zh": ""
+      "zh": "冷漠"
     },
     {
       "en": "$ cpconcerned = False",
@@ -3127,15 +3127,15 @@
     },
     {
       "en": "YOU NOW POSSESS THE SELECTED ATTRIBUTE.",
-      "zh": ""
+      "zh": "你现在拥有所选的属性。"
     },
     {
       "en": "YOUR FREE TRIAL IS NOW EXPIRED.",
-      "zh": ""
+      "zh": "你的免费试用现已到期。"
     },
     {
       "en": "I don't really understand what just happened, but I'm glad it seemed to have worked.",
-      "zh": ""
+      "zh": "我其实不太懂刚才发生了什么，不过很高兴它似乎奏效了。"
     },
     {
       "en": ""
@@ -3154,7 +3154,7 @@
     },
     {
       "en": "Now what should I do?",
-      "zh": ""
+      "zh": "现在我该做什么？"
     },
     {
       "en": ""
@@ -3165,7 +3165,7 @@
     },
     {
       "en": "Calm",
-      "zh": ""
+      "zh": "冷静"
     },
     {
       "en": "$ cpconcerned = False",
@@ -3181,15 +3181,15 @@
     },
     {
       "en": "YOU NOW POSSESS THE SELECTED ATTRIBUTE.",
-      "zh": ""
+      "zh": "你现在拥有所选的属性。"
     },
     {
       "en": "YOUR FREE TRIAL IS NOW EXPIRED.",
-      "zh": ""
+      "zh": "你的免费试用现已到期。"
     },
     {
       "en": "I don't really understand what just happened, but I'm glad it seemed to have worked.",
-      "zh": ""
+      "zh": "我其实不太懂刚才发生了什么，不过很高兴它似乎奏效了。"
     },
     {
       "en": ""
@@ -3208,7 +3208,7 @@
     },
     {
       "en": "Now what should I do?",
-      "zh": ""
+      "zh": "现在我该做什么？"
     },
     {
       "en": ""
@@ -3223,7 +3223,7 @@
     },
     {
       "en": "Sorry, this feature is only available to Lessons in Love premium members.",
-      "zh": ""
+      "zh": "抱歉，此功能仅限 Lessons in Love 高级会员使用。"
     },
     {
       "en": ""
@@ -3237,7 +3237,7 @@
     },
     {
       "en": "Do something else",
-      "zh": ""
+      "zh": "做点别的"
     },
     {
       "en": "scene resetfour6",
@@ -3253,7 +3253,7 @@
     },
     {
       "en": "What should I do instead?",
-      "zh": ""
+      "zh": "我该改做什么？"
     },
     {
       "en": ""
@@ -3300,34 +3300,34 @@
     },
     {
       "en": "I make my way over to the thing on the wall and start to read all of the stuff on it.",
-      "zh": ""
+      "zh": "我走到墙上那个东西前，开始读上面所有的东西。"
     },
     {
       "en": "I particularly enjoy the note Maya left for me.",
-      "zh": ""
+      "zh": "我特别喜欢 Maya 留给我的那张便条。"
     },
     {
       "en": "I'll make sure to do just that, Maya. I promise.",
-      "zh": ""
+      "zh": "我一定会照做的，Maya。我保证。"
     },
     {
       "en": "I snap my fingers and point at the note, hoping that wherever she is, she picks up on my telepathic finger guns.",
-      "zh": ""
+      "zh": "我打了个响指，指着那张便条，希望无论她身在何处，都能接收到我的心灵感应手指枪。"
     },
     {
       "en": ""
     },
     {
       "en": "I wonder how much longer I'll have to wait until I get to put my penis inside of her.",
-      "zh": ""
+      "zh": "我在想，还要等多久我才能把我的鸡巴放进她身体里。"
     },
     {
       "en": "I bet it would feel really good to penis her.",
-      "zh": ""
+      "zh": "我打赌用鸡巴干她一定很爽。"
     },
     {
       "en": "She seems like a little freak, so she would probably like being penised too.",
-      "zh": ""
+      "zh": "她看起来像个小变态，所以她大概也会喜欢被鸡巴干。"
     },
     {
       "en": ""
@@ -3336,18 +3336,18 @@
       "en": ": Wow, check marks! Cool!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哇，对勾！好酷！"
     },
     {
       "en": ""
     },
     {
       "en": "I look at those for a little while but I don't think they mean anything so I try to forget about them.",
-      "zh": ""
+      "zh": "我盯着它们看了一会儿，不过我觉得它们没什么意义，于是我试着忘掉它们。"
     },
     {
       "en": "Unfortunately, it is very hard to forget a thing while you are looking at it, so I fail.",
-      "zh": ""
+      "zh": "不幸的是，盯着一个东西看的时候很难忘掉它，所以我失败了。"
     },
     {
       "en": ""
@@ -3356,19 +3356,19 @@
       "en": ": Hmmmmmm...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯嗯嗯……"
     },
     {
       "en": ": I am bored of the thing on the wall.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 墙上的东西我看腻了。"
     },
     {
       "en": ": It is time for me to do something else.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是时候做点别的了。"
     },
     {
       "en": ""
@@ -3387,7 +3387,7 @@
     },
     {
       "en": "Now what?",
-      "zh": ""
+      "zh": "现在做什么？"
     },
     {
       "en": ""
@@ -3417,30 +3417,30 @@
     },
     {
       "en": "I make my way over to the big glowing rectangle and sit down in front of it.",
-      "zh": ""
+      "zh": "我走到那个发着光的长方形前，在它前面坐下。"
     },
     {
       "en": "Inside is a man just like me. He is even wearing the same outfit!",
-      "zh": ""
+      "zh": "里面有个跟我一模一样的男人。他甚至穿着同一套衣服！"
     },
     {
       "en": "He sits at a table eating fruit while writing something down in a book.",
-      "zh": ""
+      "zh": "他坐在桌前吃着水果，同时在书里写着什么。"
     },
     {
-      "en": "I think for a second that he might just be me, but I am not currently writing anything, so at least it is not live.",
-      "zh": ""
+      "en": "I think for a second that he might just {i}be{/i} me, but I am not currently writing anything, so at least it is not live.",
+      "zh": "有那么一瞬间我以为他可能就{i}是我{/i}，但我现在并没有在写东西，所以至少这不是实时画面。"
     },
     {
       "en": "I attempt to turn up the volume but am not successful for the controls on the TV are locked by parental controls.",
-      "zh": ""
+      "zh": "我试着把音量调大，但没成功，因为这电视的遥控器被家长锁定了。"
     },
     {
       "en": ""
     },
     {
       "en": "Stupid parents- locking my TV even though I am a grown man who knows how to job and have sex.",
-      "zh": ""
+      "zh": "愚蠢的父母——居然锁我的电视，尽管我是个知道怎么上班、怎么做爱的成年人。"
     },
     {
       "en": ""
@@ -3450,7 +3450,7 @@
     },
     {
       "en": "A person knocks on the man's door and he gets up to receive a box.",
-      "zh": ""
+      "zh": "有人敲那个男人的门，他起身去收一个箱子。"
     },
     {
       "en": ""
@@ -3459,30 +3459,30 @@
       "en": ": Wow! Such large box! Wonder what's in!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哇！好大的箱子！不知道里面是什么！"
     },
     {
       "en": ""
     },
     {
       "en": "The man opens the box and there's a big bike inside!",
-      "zh": ""
+      "zh": "男人打开箱子，里面是一辆大自行车！"
     },
     {
       "en": "I think for a moment about how funny it would be if all of Maya's secret boxes were full of bicycle parts.",
-      "zh": ""
+      "zh": "我一时在想，如果 Maya 的那些神秘箱子里全都是自行车零件，那该有多好笑。"
     },
     {
       "en": "But then I remember she never learned how to ride a bike and realize that can't possibly be it.",
-      "zh": ""
+      "zh": "但接着我想起她从没学会骑自行车，意识到那不可能。"
     },
     {
       "en": "Poor Maya.",
-      "zh": ""
+      "zh": "可怜的 Maya。"
     },
     {
       "en": "I will have to teach her one day.",
-      "zh": ""
+      "zh": "总有一天我得教她。"
     },
     {
       "en": ""
@@ -3491,14 +3491,14 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
     },
     {
       "en": "I watch TV for so long that the day ends.",
-      "zh": ""
+      "zh": "我看电视看得太久，一天就这么结束了。"
     },
     {
       "en": ""
@@ -3519,25 +3519,25 @@
       "en": ": Goodnight, world.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 晚安，世界。"
     },
     {
       "en": ": Zzz...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Zzz……"
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -3558,14 +3558,14 @@
       "en": ": Time for new day!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 新的一天开始了！"
     },
     {
       "en": ""
     },
     {
       "en": "What do I want to do?",
-      "zh": ""
+      "zh": "我想做什么？"
     },
     {
       "en": ""
@@ -3595,31 +3595,31 @@
     },
     {
       "en": "I call up all my friends and throw a dance party since I am not allowed to go outside.",
-      "zh": ""
+      "zh": "我给所有朋友打电话，办了一场舞会，因为我不许出门。"
     },
     {
       "en": "Everybody shows up and we all have a good time listening to 11c.mp3, which is really just 10c.mp3 but with an extra 1.",
-      "zh": ""
+      "zh": "大家都来了，我们听着 11c.mp3 玩得很开心——那其实就是 10c.mp3，只是多了一个 1。"
     },
     {
       "en": "I haven't had this much fun in a long time and I think I am going to try and do this more often.",
-      "zh": ""
+      "zh": "我很久没这么开心过了，我想我以后要多办几次。"
     },
     {
       "en": "Even though we are all specialized in different styles of dance, we don't seem to mind.",
-      "zh": ""
+      "zh": "虽然我们各自擅长的舞种不同，但我们似乎并不在意。"
     },
     {
       "en": "It's kind of like how everyone in my life is very good at something different from someone else- and how they all manage to blend together into one cohesive substance! Like glue!",
-      "zh": ""
+      "zh": "这有点像我生命中的每个人，都擅长某件别人不擅长的事——而他们又能融合成一种有凝聚力的物质！就像胶水一样！"
     },
     {
       "en": "I like glue.",
-      "zh": ""
+      "zh": "我喜欢胶水。"
     },
     {
-      "en": "If I had glue, I could pour it all over the floor and make it so we can dance forever.",
-      "zh": ""
+      "en": "If I had glue, I could pour it all over the floor and make it so we can dance {i}forever{/i}.",
+      "zh": "如果我有胶水，我就能把它倒满地板，这样我们就能{i}永远{/i}跳下去了。"
     },
     {
       "en": ""
@@ -3638,11 +3638,11 @@
     },
     {
       "en": "We dance for so long and then have a big slumber party, but everyone is gone by the time I wake up.",
-      "zh": ""
+      "zh": "我们跳了很久，然后开了个大型睡衣派对，可等我醒来时，大家都走了。"
     },
     {
       "en": ".",
-      "zh": ""
+      "zh": "."
     },
     {
       "en": ""
@@ -3663,14 +3663,14 @@
       "en": ": Time for new day!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 新的一天开始了！"
     },
     {
       "en": ""
     },
     {
       "en": "What do I want to do?",
-      "zh": ""
+      "zh": "我想做什么？"
     },
     {
       "en": ""
@@ -3702,73 +3702,73 @@
       "en": ": Hello, friend.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你好，朋友。"
     },
     {
-      "en": ": Hi, Sensei. Are you enjoying the spiritual successor to the popular Lessons in Love event, There is Nothing?",
+      "en": ": Hi, Sensei. Are you enjoying the spiritual successor to the popular Lessons in Love event, {i}There is Nothing?{/i}",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗨，Sensei。你还喜欢《Lessons in Love》那场人气事件《{i}什么都没有{/i}》的精神续作吗？"
     },
     {
       "en": ": No. There are too many questions this time and my memory is bad.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不喜欢。这次问题太多了，而我记性又差。"
     },
     {
       "en": ": Can you give me a hint, please?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 能给我个提示吗，拜托？"
     },
     {
       "en": ": I would if I could, but I still haven't figured out the word of the day.",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我倒是想给，可我还没弄明白今天的关键词。"
     },
     {
       "en": ": I don't even know why puzzles have to exist in this stupid game. I should be able to experience the story however I want because I am important and special and art is only good when I say so.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我甚至不明白这破游戏为什么非要有谜题。我应该能想怎么体验故事就怎么体验，因为我很重要、很特别，而艺术只有我说好才算好。"
     },
     {
       "en": ": Hang in there, friend! I'm sure it will all be worth it one day.",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 撑住啊，朋友！我相信有一天一切都会值得的。"
     },
     {
       "en": ": Thank you, Manny. You are so nice and I am really sad that you will be gone after I escape this room.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 谢谢你，Manny。你人真好，而我真的很伤心，等我逃出这个房间后你就不在了。"
     },
     {
       "en": ": I'll always exist in replays, Sensei. Whenever you want to see me, I'll be right here- waiting for daylight to come so I can soak up sick UVB rays and grow even larger.",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我会永远存在于回放里，Sensei。无论何时你想见我，我就在这儿——等着白昼降临，好吸收超棒的 UVB 射线，长得更大。"
     },
     {
       "en": ": Are you ever going to turn into a fly, Manny?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Manny，你有一天会变成苍蝇吗？"
     },
     {
       "en": ": Probably not. But that's okay!",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 大概不会。不过没关系！"
     },
     {
       "en": ": Sometimes, things are most beautiful before reaching their full potential.",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 有时候，事物在抵达完全体之前才是最美的。"
     },
     {
       "en": ""
@@ -3780,64 +3780,64 @@
       "en": ": But you fuck high-schoolers so I probably don't need to tell you that.",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 可你操高中生，所以这话大概不用我告诉你。"
     },
     {
       "en": ": Manny, come on.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Manny，拜托。"
     },
     {
       "en": ": Sorry, sorry. I just don't get many opportunities to tell jokes anymore, so I had to jump on that one.",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 抱歉，抱歉。我只是没什么机会讲笑话了，所以这个梗我必须抓住。"
     },
     {
       "en": ""
     },
     {
-      "en": ": You mean like how I jump on high-schoolers? Huh? Huh???",
+      "en": ": You mean like {i}how I jump on high-schoolers?{/i} Huh? Huh???",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你是说就像我{i}抓住高中生{/i}那样？哈？哈？？？"
     },
     {
       "en": ": ...",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": How come I didn't get a laugh track?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我怎么没得到笑声罐头？"
     },
     {
       "en": ": It's just kind of sad when you say it.",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你说出来就只是有点可悲。"
     },
     {
       "en": ": This whole game is sad. Excuse me for trying to lighten the mood a little.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 这整个游戏都很可悲。抱歉我想活跃一下气氛而已。"
     },
     {
       "en": ": But anyway, I guess I'll get back to trying to remember stuff or...waiting for someone to make a mod since visual novels are too hard for me and I require outside assistance.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不过话说回来，我想我还是回去继续试着回忆吧……或者等着有人做个 mod，毕竟视觉小说对我来说太难了，我需要外援。"
     },
     {
       "en": ": Why are you even playing, then?",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那你为什么还要玩？"
     },
     {
       "en": ""
@@ -3846,31 +3846,31 @@
       "en": ": Because I've jerked off normally too many times and need a challenge in order to cum at this point.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 因为我正常打飞机太多次了，现在需要点挑战才能射出来。"
     },
     {
       "en": ": Only a slight challenge, though. If it's any more challenging than I want it to be, it's stupid. But I'm going to keep playing anyway because that is a decision that makes sense.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 只是稍微有点挑战就行。要是比我想要的程度更难，那就太蠢了。不过我还是会继续玩下去，因为这是个说得通的决定。"
     },
     {
       "en": ": Well, I hope you have fun!",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好吧，祝你玩得开心！"
     },
     {
       "en": ": I'll be here if you want to repeat this same exact conversation again. It might help keep you entertained if you start going crazy!",
       "spk": "Manny the Friendly Maggot",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 如果你想把这段一模一样的对话再重复一遍，我随时都在。要是你开始发疯，它可能还能帮你解解闷！"
     },
     {
       "en": ": Thanks, Manny! I'll see you later!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 谢谢，Manny！回头见！"
     },
     {
       "en": ""
@@ -3889,7 +3889,7 @@
     },
     {
       "en": "I leave Manny by the window to soak in the non-existent sunlight and get back to trying to solve the stupid reset puzzle.",
-      "zh": ""
+      "zh": "我把 Manny 留在窗边吸收那并不存在的阳光，回去继续解那个愚蠢的重置谜题。"
     },
     {
       "en": ""
@@ -3910,7 +3910,7 @@
       "en": ": Now what?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 现在做什么？"
     },
     {
       "en": ""
@@ -3940,11 +3940,11 @@
     },
     {
       "en": "I make my way over to a phone booth that appeared in the corner of my room while I wasn't looking.",
-      "zh": ""
+      "zh": "我走到一间不知何时出现在我房间角落的电话亭前。"
     },
     {
       "en": "Time to press some buttons and hope something happens.",
-      "zh": ""
+      "zh": "是时候按几个按钮，指望能有点动静了。"
     },
     {
       "en": ""
@@ -3968,25 +3968,25 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Thank you for calling Tojo Ramen.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 感谢致电 Tojo Ramen。"
     },
     {
       "en": ""
@@ -4006,27 +4006,27 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": "There's no answer.",
-      "zh": ""
+      "zh": "没人应答。"
     },
     {
       "en": "The phone is obviously broken.",
-      "zh": ""
+      "zh": "这电话显然是坏的。"
     },
     {
       "en": ""
@@ -4037,7 +4037,7 @@
     },
     {
       "en": "Try another number",
-      "zh": ""
+      "zh": "试试另一个号码"
     },
     {
       "en": ""
@@ -4061,25 +4061,25 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Hello?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 你好？"
     },
     {
       "en": ""
@@ -4099,27 +4099,27 @@
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": "There's no answer.",
-      "zh": ""
+      "zh": "没人应答。"
     },
     {
       "en": "The phone is obviously broken.",
-      "zh": ""
+      "zh": "这电话显然是坏的。"
     },
     {
       "en": ""
@@ -4130,7 +4130,7 @@
     },
     {
       "en": "Give up",
-      "zh": ""
+      "zh": "放弃"
     },
     {
       "en": "scene resetfour6",
@@ -4146,7 +4146,7 @@
     },
     {
       "en": "What should I do instead?",
-      "zh": ""
+      "zh": "我该改做什么？"
     },
     {
       "en": ""
@@ -4166,91 +4166,91 @@
       "en": ": Tsuneyo? What are you still doing sentient?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Tsuneyo？你怎么还有意识？"
     },
     {
       "en": ": Answering the telephone. Thank you for calling Tojo Ramen.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 在接电话。感谢致电 Tojo Ramen。"
     },
     {
       "en": ": Will you be placing an order to pick up? We do not offer delivery.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 您是要下外带订单吗？我们不提供外送。"
     },
     {
       "en": ": I need your help. I am locked in my room and being forced to fill out magazine sweepstakes in order to escape.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我需要你的帮助。我被锁在自己的房间里，被迫靠填杂志抽奖才能逃出去。"
     },
     {
       "en": ": Do you find joy in prank calling local businesses?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 你喜欢恶作剧骚扰本地商家吗？"
     },
     {
       "en": ": No, it's true. I need your help.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不，是真的。我需要你的帮助。"
     },
     {
       "en": ": Who may I ask is calling?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 请问您是哪位？"
     },
     {
       "en": ": It's Sensei. Do you really not recognize my voice by now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是 Sensei。你到现在真的听不出我的声音吗？"
     },
     {
       "en": ": It was a test. You have passed.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 那是个测试。你通过了。"
     },
     {
       "en": ": Have you tried opening your door?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 你试过开门吗？"
     },
     {
       "en": ": No. I don't think that option unlocks until I've defeated all of the magazines.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 没有。我觉得那个选项要等我打败所有杂志才会解锁。"
     },
     {
       "en": ": This sounds like an unfortunate situation you've found yourself in. But I'm afraid that the only assistance I am able to provide is that of information.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 听起来你处境不幸。但恐怕我唯一能提供的帮助只有情报。"
     },
     {
       "en": ": Can't you come here and open the door?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你不能过来帮我把门打开吗？"
     },
     {
       "en": ": No. I am unfortunately unable to leave Tojo Ramen at the moment.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 不行。很遗憾我此刻无法离开 Tojo Ramen。"
     },
     {
       "en": ": But if you need any cooking tips, I would be willing to share some with you.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 不过如果你需要任何烹饪建议，我很乐意跟你分享一些。"
     },
     {
       "en": ""
@@ -4263,103 +4263,103 @@
       "en": ": Actually...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 其实……"
     },
     {
       "en": ": If you were to prepare a dish like...chili-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 如果你要做一道……比如辣豆酱——"
     },
     {
       "en": ": My first tip is to never cook something without noodles.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 我的第一条建议是：绝不要做任何没有面条的东西。"
     },
     {
       "en": ": Thank you for your call and best of luck with your door.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 感谢您的来电，祝您顺利搞定您的门。"
     },
     {
       "en": ": No, wait. If you were going to make chili and had to use one unusual ingredient to really make it shine...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不，等等。如果你要做辣豆酱，还必须用一种不寻常的配料来让它出彩……"
     },
     {
       "en": ": What would it be?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你会选什么？"
     },
     {
       "en": ": Hmm...",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 嗯……"
     },
     {
       "en": ": Well, if making something else was not an option, I suppose I'd go with something along the lines of...",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 好吧，如果不能做别的，我想我会选类似于……"
     },
     {
       "en": ": Coffee.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 咖啡。"
     },
     {
       "en": ": Coffee?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 咖啡？"
     },
     {
       "en": ": Reducing the coffee along with tomato paste, another key ingredient in chili, would impart a strong roasted flavor that would elevate the dish to the next level.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 把咖啡和番茄膏——辣豆酱里另一味关键配料——一起收汁，会带来浓郁的烘焙风味，把这道菜提升一个层次。"
     },
     {
       "en": ": I see...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我明白了……"
     },
     {
       "en": ": This has been a cooking lesson with Tsuneyo Tojo, stand-up comedian chef.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 以上是 Tsuneyo Tojo，单口喜剧厨师带来的烹饪小课堂。"
     },
     {
       "en": ": Thank you for calling Tojo Ramen. Do you require anything else?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 感谢致电 Tojo Ramen。您还需要什么吗？"
     },
     {
       "en": ": No...I think that's fine.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不……我想就这样吧。"
     },
     {
       "en": ": Thanks, Tsuneyo. I really appreciate it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 谢谢你，Tsuneyo。真的很感激。"
     },
     {
       "en": ": Please do not call here again unless you intend to order food. Goodbye.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 除非您打算点餐，否则请勿再次致电。再见。"
     },
     {
       "en": ""
@@ -4376,26 +4376,26 @@
       "en": ": Tsuneyo, I don't-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Tsuneyo，我没有—"
     },
     {
       "en": ": Then you are wasting my time.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 那你就是在浪费我的时间。"
     },
     {
       "en": ": Please do not call here again unless you intend to order food. Goodbye.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 除非您打算点餐，否则请勿再次致电。再见。"
     },
     {
       "en": ""
     },
     {
       "en": "Tsuneyo hangs up the phone and I have no choice but to exit the phone booth- which makes me really sad since it was very warm inside.",
-      "zh": ""
+      "zh": "Tsuneyo 挂了电话，我别无选择，只能走出电话亭——这让我很难过，因为里面真的很暖和。"
     },
     {
       "en": ""
@@ -4416,7 +4416,7 @@
       "en": ": Now what?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 现在做什么？"
     },
     {
       "en": ""
@@ -4434,15 +4434,15 @@
     },
     {
       "en": "I need to consume food if I want to stay healthy.",
-      "zh": ""
+      "zh": "我需要摄入食物才能保持健康。"
     },
     {
       "en": "The only problem is there are so many kinds!!!",
-      "zh": ""
+      "zh": "唯一的问题是种类太多了！！！"
     },
     {
       "en": "Which kind of food do I want to eat today?",
-      "zh": ""
+      "zh": "今天我想吃哪种食物？"
     },
     {
       "en": ""
@@ -4453,11 +4453,11 @@
     },
     {
       "en": "Watermelon",
-      "zh": ""
+      "zh": "西瓜"
     },
     {
       "en": "A melon materializes out of thin air in my hands and I decide to consume it because that is the choice I selected.",
-      "zh": ""
+      "zh": "一颗瓜凭空出现在我手里，我决定把它吃掉，因为这是我选的选项。"
     },
     {
       "en": ""
@@ -4466,14 +4466,14 @@
       "en": ": Yum! Melon!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好吃！瓜！"
     },
     {
       "en": ""
     },
     {
       "en": "Maya would be so happy if she were me right now.",
-      "zh": ""
+      "zh": "如果 Maya 现在是我，她一定会很开心。"
     },
     {
       "en": ""
@@ -4486,8 +4486,8 @@
       "en": ""
     },
     {
-      "en": "Your melon points have increased to [melonpoint]!",
-      "zh": ""
+      "en": "{i}Your melon points have increased to [melonpoint]!{/i}",
+      "zh": "{i}你的甜瓜点数提升到了 [melonpoint]！{/i}"
     },
     {
       "en": ""
@@ -4496,7 +4496,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -4510,23 +4510,23 @@
     },
     {
       "en": "Chocolate",
-      "zh": ""
+      "zh": "巧克力"
     },
     {
       "en": "I search around the room for a bar of chocolate and find one halfway under the bed.",
-      "zh": ""
+      "zh": "我在房间里四处找巧克力棒，在床底下找到了半块。"
     },
     {
       "en": "There are a few bugs on it, but it's no problem once I dust them off.",
-      "zh": ""
+      "zh": "上面有几只虫子，不过我把它们掸掉就没问题了。"
     },
     {
       "en": "I open my mouth and put the chocolate inside.",
-      "zh": ""
+      "zh": "我张开嘴，把巧克力放进去。"
     },
     {
       "en": "That is how I eat.",
-      "zh": ""
+      "zh": "我就是这样吃东西的。"
     },
     {
       "en": ""
@@ -4539,8 +4539,8 @@
       "en": ""
     },
     {
-      "en": "Your chocolate points have increased to [chocolatepoint]!",
-      "zh": ""
+      "en": "{i}Your chocolate points have increased to [chocolatepoint]!{/i}",
+      "zh": "{i}你的巧克力点数提升到了 [chocolatepoint]！{/i}"
     },
     {
       "en": ""
@@ -4549,7 +4549,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -4563,23 +4563,23 @@
     },
     {
       "en": "Hamburger",
-      "zh": ""
+      "zh": "汉堡"
     },
     {
       "en": "Since I am the Hamburger Man, I obviously decide to eat a hamburger.",
-      "zh": ""
+      "zh": "既然我是汉堡侠，我显然决定要吃个汉堡。"
     },
     {
       "en": "Or at least I would if I had any...",
-      "zh": ""
+      "zh": "至少如果我有汉堡的话我会这么做……"
     },
     {
       "en": "I stare down at my empty hands and come to terms with starving to death.",
-      "zh": ""
+      "zh": "我低头盯着自己空空的手，接受了自己要饿死的事实。"
     },
     {
-      "en": "Due to a lack of hamburgers, your hamburger points do not increase!",
-      "zh": ""
+      "en": "{i}Due to a lack of hamburgers, your hamburger points do not increase!{/i}",
+      "zh": "{i}由于缺乏汉堡，你的汉堡点数不提升！{/i}"
     },
     {
       "en": ""
@@ -4588,7 +4588,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -4602,15 +4602,15 @@
     },
     {
       "en": "White Rice",
-      "zh": ""
+      "zh": "白米饭"
     },
     {
       "en": "White rice sounds delicious right now.",
-      "zh": ""
+      "zh": "现在白米饭听起来很美味。"
     },
     {
       "en": "I should eat some of that.",
-      "zh": ""
+      "zh": "我应该吃点。"
     },
     {
       "en": ""
@@ -4633,18 +4633,18 @@
       "en": ": !!!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ！！！"
     },
     {
       "en": ""
     },
     {
       "en": "I find a piece of a key inside my bowl of white rice!",
-      "zh": ""
+      "zh": "我在我的白米饭碗里找到了一块钥匙！"
     },
     {
       "en": "I can use this to escape!",
-      "zh": ""
+      "zh": "我可以用它逃出去！"
     },
     {
       "en": ""
@@ -4672,13 +4672,13 @@
       "en": ": I think I'm done eating for now.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我想我吃够了。"
     },
     {
       "en": ": What should I do instead?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我该改做什么？"
     },
     {
       "en": ""
@@ -4692,8 +4692,8 @@
       "zh": ""
     },
     {
-      "en": "Your rice points have increased to [ricepoint]!",
-      "zh": ""
+      "en": "{i}Your rice points have increased to [ricepoint]!{/i}",
+      "zh": "{i}你的米饭点数提升到了 [ricepoint]！{/i}"
     },
     {
       "en": ""
@@ -4702,7 +4702,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -4716,23 +4716,23 @@
     },
     {
       "en": "Peanuts",
-      "zh": ""
+      "zh": "花生"
     },
     {
       "en": "I decide to stuff myself with Chinami's favorite food.",
-      "zh": ""
+      "zh": "我决定把自己塞满 Chinami 最爱的食物。"
     },
     {
       "en": "I eat so many peanuts that bumps begin to protrude from all parts of my body.",
-      "zh": ""
+      "zh": "我吃了太多花生，全身各处都鼓起了包。"
     },
     {
       "en": "Once your stomach is full, it is okay to use the rest of the space inside of you to store nutrients.",
-      "zh": ""
+      "zh": "一旦你的胃被填满，你体内剩下的空间也可以用来储存营养。"
     },
     {
       "en": "I am glad I decided to eat peanuts.",
-      "zh": ""
+      "zh": "我很高兴自己决定吃花生。"
     },
     {
       "en": ""
@@ -4745,8 +4745,8 @@
       "en": ""
     },
     {
-      "en": "Your peanut points have increased to [peanutpoint]!",
-      "zh": ""
+      "en": "{i}Your peanut points have increased to [peanutpoint]!{/i}",
+      "zh": "{i}你的花生点数提升到了 [peanutpoint]！{/i}"
     },
     {
       "en": ""
@@ -4755,7 +4755,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -4769,27 +4769,27 @@
     },
     {
       "en": "Garlic Bread",
-      "zh": ""
+      "zh": "蒜香面包"
     },
     {
       "en": "I throw a small banquet for myself and partake in the body of Christ with a slight Italian twist.",
-      "zh": ""
+      "zh": "我为自己办了一场小型宴会，领受了基督的身体，只是带点意大利风味。"
     },
     {
       "en": "I could eat this for the rest of eternity if I had to.",
-      "zh": ""
+      "zh": "如果非吃不可，我可以吃这个吃到天荒地老。"
     },
     {
       "en": "Thankfully, my life is better than that and I have the option to consume it as a mere luxury.",
-      "zh": ""
+      "zh": "谢天谢地，我的人生比那要好，我可以把它当成纯粹的奢侈品来享用。"
     },
     {
       "en": "Thank you for your sacrifice, Jesus.",
-      "zh": ""
+      "zh": "感谢你的牺牲，耶稣。"
     },
     {
       "en": "Thank you for the food, Father.",
-      "zh": ""
+      "zh": "感谢赐予食物，天父。"
     },
     {
       "en": ""
@@ -4802,8 +4802,8 @@
       "en": ""
     },
     {
-      "en": "Your bread points have increased to [breadpoint]!",
-      "zh": ""
+      "en": "{i}Your bread points have increased to [breadpoint]!{/i}",
+      "zh": "{i}你的面包点数提升到了 [breadpoint]！{/i}"
     },
     {
       "en": ""
@@ -4812,7 +4812,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -4823,27 +4823,27 @@
     },
     {
       "en": "Ramen",
-      "zh": ""
+      "zh": "拉面"
     },
     {
       "en": "I take a page out of Tsuneyo's book and cook some instant noodles using the heat coming off of my laptop charger.",
-      "zh": ""
+      "zh": "我照搬 Tsuneyo 的做法，用笔记本充电器散发的热量煮了包泡面。"
     },
     {
       "en": "It takes a very long time, but both the microwave and hot plate are in the other room.",
-      "zh": ""
+      "zh": "要花很长时间，不过微波炉和电热板都在另一个房间。"
     },
     {
       "en": "I would have brought them inside if I knew I was going to be locked in here.",
-      "zh": ""
+      "zh": "要是早知道自己会被锁在这儿，我就把它们拿进来了。"
     },
     {
       "en": "Oh well.",
-      "zh": ""
+      "zh": "算了。"
     },
     {
       "en": "Laptop ramen it is!",
-      "zh": ""
+      "zh": "那就吃笔记本拉面吧！"
     },
     {
       "en": ""
@@ -4856,8 +4856,8 @@
       "en": ""
     },
     {
-      "en": "Your ramen points have increased to [ramenpoint]!",
-      "zh": ""
+      "en": "{i}Your ramen points have increased to [ramenpoint]!{/i}",
+      "zh": "{i}你的拉面点数提升到了 [ramenpoint]！{/i}"
     },
     {
       "en": ""
@@ -4866,7 +4866,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -4877,35 +4877,35 @@
     },
     {
       "en": "Live Squid",
-      "zh": ""
+      "zh": "活鱿鱼"
     },
     {
       "en": "I approach a live squid that crawls out from under the bed and it reminds me of something I promised myself I'd forget.",
-      "zh": ""
+      "zh": "我走向一只从床底爬出来的活鱿鱼，它让我想起某件我发誓要忘掉的事。"
     },
     {
       "en": "The way its eyes look when I lift it up and open my mouth burn a hole in my throat and ruin my appetite, but I am too far in to stop now.",
-      "zh": ""
+      "zh": "当我把它举起来、张开嘴时，它眼睛里的那种神色灼穿了我的喉咙，毁了我的胃口，但我已经陷得太深，停不下来了。"
     },
     {
       "en": "I begin with the head. The texture is thick and hard to bite through effectively.",
-      "zh": ""
+      "zh": "我从头开始。它质地厚实，很难咬透。"
     },
     {
       "en": "It doesn't help that it is still moving around either.",
-      "zh": ""
+      "zh": "它还一直在动，这一点也帮不上忙。"
     },
     {
       "en": "A flood of different juices rush into my mouth and I don't want to think about what they are.",
-      "zh": ""
+      "zh": "一大股各种各样的汁液涌进我的嘴里，我不想细想它们都是什么。"
     },
     {
       "en": "Soon enough, large chunks of the squid are gone.",
-      "zh": ""
+      "zh": "很快，鱿鱼的大块部分就没了。"
     },
     {
       "en": "There is still some light left in its eyes.",
-      "zh": ""
+      "zh": "它的眼睛里还残留着一丝光。"
     },
     {
       "en": ""
@@ -4914,18 +4914,18 @@
       "en": ": I'm so sorry I have to do this to you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我很抱歉，我不得不对你做这种事。"
     },
     {
       "en": ""
     },
     {
       "en": "The squid does not reply.",
-      "zh": ""
+      "zh": "鱿鱼没有回答。"
     },
     {
       "en": "Why would it?",
-      "zh": ""
+      "zh": "它为什么要回答呢？"
     },
     {
       "en": ""
@@ -4934,7 +4934,7 @@
       "en": ": It will all be over soon.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 马上就结束了。"
     },
     {
       "en": ""
@@ -4947,8 +4947,8 @@
       "en": ""
     },
     {
-      "en": "Your squid points have increased to [squidpoint]!",
-      "zh": ""
+      "en": "{i}Your squid points have increased to [squidpoint]!{/i}",
+      "zh": "{i}你的鱿鱼点数提升到了 [squidpoint]！{/i}"
     },
     {
       "en": ""
@@ -4957,7 +4957,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -4971,19 +4971,19 @@
     },
     {
       "en": "Chicken Sandwich",
-      "zh": ""
+      "zh": "鸡肉三明治"
     },
     {
       "en": "My recent meeting with a talking chicken has put me in the mood to eat a friend.",
-      "zh": ""
+      "zh": "最近跟一只会说话的鸡的相遇，让我有了吃掉一位朋友的兴致。"
     },
     {
       "en": "Unfortunately, I lack both the companionship and the resources required to make this happen.",
-      "zh": ""
+      "zh": "不幸的是，我既缺少同伴，也缺少做成这事所需的资源。"
     },
     {
       "en": "I hang my head in shame and accept that I will have to eat something else instead.",
-      "zh": ""
+      "zh": "我羞愧地低下头，接受了自己只能吃点别的的事实。"
     },
     {
       "en": ""
@@ -4992,7 +4992,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -5006,31 +5006,31 @@
     },
     {
       "en": "Chia Seeds",
-      "zh": ""
+      "zh": "奇亚籽"
     },
     {
       "en": "I reach into a bag of chia seeds someone left on my desk and begin to shovel them into my mouth.",
-      "zh": ""
+      "zh": "我把手伸进有人留在桌上的一袋奇亚籽，开始往嘴里猛塞。"
     },
     {
       "en": "It is mildly unpleasant at first, but the saliva inside of my mouth hydrates them and turns it into a better experience after a little bit of time.",
-      "zh": ""
+      "zh": "一开始有点难受，但我嘴里的唾液把它们湿润后，过一会儿体验就好多了。"
     },
     {
       "en": "As such, I elect to keep the chia seeds in my mouth for at least one minute after each handful.",
-      "zh": ""
+      "zh": "因此，我决定每抓一把，就让奇亚籽在嘴里至少含上一分钟。"
     },
     {
       "en": "The spit flavored mini food makes a wonderful afternoon snack that I can eat millions of without gaining any weight.",
-      "zh": ""
+      "zh": "这种唾液风味的小零食是绝妙的下午点心，我可以吃上几百万颗而不长胖。"
     },
     {
       "en": "My stomach begins to ache, but I do not care.",
-      "zh": ""
+      "zh": "我的胃开始疼了，但我不在乎。"
     },
     {
       "en": "I must eat more seeds.",
-      "zh": ""
+      "zh": "我必须吃更多种子。"
     },
     {
       "en": ""
@@ -5043,8 +5043,8 @@
       "en": ""
     },
     {
-      "en": "Your chia points have increased to [chiapoint]!",
-      "zh": ""
+      "en": "{i}Your chia points have increased to [chiapoint]!{/i}",
+      "zh": "{i}你的奇亚籽点数提升到了 [chiapoint]！{/i}"
     },
     {
       "en": ""
@@ -5053,7 +5053,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -5067,27 +5067,27 @@
     },
     {
       "en": "Takoyaki",
-      "zh": ""
+      "zh": "章鱼烧"
     },
     {
       "en": "Some hot, mutilated octopus balls would really hit the spot right now.",
-      "zh": ""
+      "zh": "现在来点热乎的、被大卸八块的章鱼球正合适。"
     },
     {
       "en": "Thankfully, I keep a secret stash of them underneath my bed next to a shoebox full of spoons that I've been saving for a rainy day.",
-      "zh": ""
+      "zh": "谢天谢地，我在床底下藏了一批，旁边还有一鞋盒的勺子，是我攒着以备不时之需的。"
     },
     {
       "en": "I reach under the bed for the hidden takoyaki but get distracted when I cut my hand on something sharp.",
-      "zh": ""
+      "zh": "我伸手到床底下摸那些藏起来的章鱼烧，却被什么锋利的东西割伤了手，分了神。"
     },
     {
       "en": "It's probably just one of the spoons.",
-      "zh": ""
+      "zh": "大概只是其中一把勺子。"
     },
     {
-      "en": "Your takoyaki points don't rise because you give up before finding any!",
-      "zh": ""
+      "en": "{i}Your takoyaki points don't rise because you give up before finding any!{/i}",
+      "zh": "{i}因为你还没找到就放弃了，你的章鱼烧点数没有提升！{/i}"
     },
     {
       "en": ""
@@ -5096,7 +5096,7 @@
       "en": ": Should I keep going?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 要继续吗？"
     },
     {
       "en": ""
@@ -5110,28 +5110,28 @@
     },
     {
       "en": "Pizza",
-      "zh": ""
+      "zh": "披萨"
     },
     {
       "en": ": Time for a hot cheese wheel!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 热芝士轮时间到了！"
     },
     {
       "en": ""
     },
     {
       "en": "I try to call the hot cheese wheel store and place an order for delivery, but my phone won't work for some reason.",
-      "zh": ""
+      "zh": "我试着给热芝士轮店打电话下单外送，但我的手机不知为何用不了。"
     },
     {
       "en": "I'm probably out of range anyway since it feels like my house has been drifting through space since I woke up.",
-      "zh": ""
+      "zh": "反正我大概也超出信号范围了——从我醒来起，这房子就一直在太空中漂流似的。"
     },
     {
       "en": "I'll have to take a rain check on the circular food.",
-      "zh": ""
+      "zh": "那份圆形食物只能改天再约了。"
     },
     {
       "en": ""
@@ -5140,13 +5140,13 @@
       "en": ": Not time for a hot cheese wheel...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不是热芝士轮时间了……"
     },
     {
       "en": ": What should I do instead?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我该改做什么？"
     },
     {
       "en": ""
@@ -5160,15 +5160,15 @@
     },
     {
       "en": "Stop Eating",
-      "zh": ""
+      "zh": "别吃了"
     },
     {
       "en": "On second thought, I don't want to eat anything.",
-      "zh": ""
+      "zh": "转念一想，我什么都不想吃了。"
     },
     {
       "en": "What should I do instead?",
-      "zh": ""
+      "zh": "我该改做什么？"
     },
     {
       "en": ""
@@ -5198,11 +5198,11 @@
     },
     {
       "en": "I lie down on the bed and start thinking about all the sex I'm going to have once I get out of here.",
-      "zh": ""
+      "zh": "我躺在床上，开始想象等我出去之后要做的一切性爱。"
     },
     {
       "en": "I can't wait to bust a load.",
-      "zh": ""
+      "zh": "我等不及要射一发了。"
     },
     {
       "en": ""
@@ -5213,7 +5213,7 @@
     },
     {
       "en": "Jerk off",
-      "zh": ""
+      "zh": "打飞机"
     },
     {
       "en": "if jerkoffpoints == 0:",
@@ -5244,7 +5244,7 @@
     },
     {
       "en": "Keep jerking off",
-      "zh": ""
+      "zh": "继续打飞机"
     },
     {
       "en": "if jerkoffpoints == 1:",
@@ -5651,30 +5651,30 @@
       "en": ": Agh!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 啊！"
     },
     {
       "en": ""
     },
     {
       "en": "As the last bit of cum left in my body exits my penis, I take one last look around my room.",
-      "zh": ""
+      "zh": "当体内最后一点精液离开我的鸡巴时，我最后环顾了一遍我的房间。"
     },
     {
       "en": "I have enjoyed my time in Kumon-mi.",
-      "zh": ""
+      "zh": "我在 Kumon-mi 的这段时光很愉快。"
     },
     {
       "en": "I have done all I have come here to do.",
-      "zh": ""
+      "zh": "我来这里要做的事，全都做完了。"
     },
     {
       "en": "My eyes close as my body gives in to the weight of the world.",
-      "zh": ""
+      "zh": "我的眼睛闭上，身体向这世界的重量屈服。"
     },
     {
       "en": "I'm sorry, everyone.",
-      "zh": ""
+      "zh": "对不起，大家。"
     },
     {
       "en": ""
@@ -5700,7 +5700,7 @@
     },
     {
       "en": "Stop jerking off",
-      "zh": ""
+      "zh": "别打飞机了"
     },
     {
       "en": "scene resetfour6",
@@ -5720,11 +5720,11 @@
     },
     {
       "en": "Well, that was fun.",
-      "zh": ""
+      "zh": "嗯，挺好玩的。"
     },
     {
       "en": "Now what?",
-      "zh": ""
+      "zh": "现在做什么？"
     },
     {
       "en": ""
@@ -5738,7 +5738,7 @@
     },
     {
       "en": "Stop jerking off",
-      "zh": ""
+      "zh": "别打飞机了"
     },
     {
       "en": "scene resetfour6",
@@ -5758,11 +5758,11 @@
     },
     {
       "en": "Well, that was fun.",
-      "zh": ""
+      "zh": "嗯，挺好玩的。"
     },
     {
       "en": "Now what?",
-      "zh": ""
+      "zh": "现在做什么？"
     },
     {
       "en": ""

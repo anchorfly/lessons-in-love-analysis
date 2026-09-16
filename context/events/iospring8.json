@@ -30,12 +30,12 @@
       "zh": "在地表深处，那里隐藏的真相比我们已经挖出来的还多，三个自称「人类」的年轻生物决定试着把一切重新拼合起来。"
     },
     {
-      "en": "Only one of them knew how to sew. One and a half on days where the medication didn’t make the second’s hands shake. But what they’d quickly find is that the fabric in question is not the kind you can easily mend.",
-      "zh": "其中只有一个会缝。在药物没有让第二个人的双手发抖的日子里，算是一个半。但她们很快就会发现，这块织物不是那种能轻易缝补的。"
+      "en": "{size=-2}Only one of them knew how to sew. One and a half on days where the medication didn’t make the second’s hands shake. But what they’d quickly find is that the fabric in question is not the kind you can easily mend.{/size}",
+      "zh": "{size=-2}其中只有一个会缝。在药物没有让第二个人的双手发抖的日子里，算是一个半。但她们很快就会发现，这块织物不是那种能轻易缝补的。{/size}"
     },
     {
-      "en": "And that no amount of textile work could make this place seem any more real to them than it already was.",
-      "zh": "而且，无论多少针线活，都无法让这个地方对她们而言显得比现在更真实哪怕一分。"
+      "en": "And that no amount of textile work could make this place seem any more {i}real{/i} to them than it already was.",
+      "zh": "而且，无论多少针线活，都无法让这个地方对她们而言显得比现在更{i}真实{/i}哪怕一分。"
     },
     {
       "en": "Deeper and deeper they’d delve, counting grates that got worse at hiding the dark with light as the labyrinth pulled them further in.",
@@ -46,8 +46,8 @@
       "zh": "隧道还没有学会重塑自己，但它们正在尝试——就像那些用时间自我缝合、把重要的部分藏在我们体内的伤口。"
     },
     {
-      "en": "What were the tunnels trying to hide, though?",
-      "zh": "可是，隧道到底想藏什么呢？"
+      "en": "What were the {i}tunnels{/i} trying to hide, though?",
+      "zh": "可是，{i}隧道{/i}到底想藏什么呢？"
     },
     {
       "en": "And why was only one of these alleged “humans” a bit concerned at the moment?",
@@ -93,10 +93,10 @@
       "zh": ": 没事的！我们下来过好多次了，从来没被抓到过，对吧？"
     },
     {
-      "en": ": Yeah...but I’ve never gone this deep before. My stomach’s starting to feel kind of weird. Like, isn’t it cold? I need a jacket. Let’s go get jackets and try again some other time.",
+      "en": ": Yeah...but I’ve never gone {i}this{/i} deep before. My stomach’s starting to feel kind of weird. Like, isn’t it {i}cold?{/i} I need a jacket. Let’s go get jackets and try again some other time.",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 嗯……可我从来没走到这么深过。我的胃开始有点怪怪的。话说，这儿不冷吗？我需要件外套。我们回去拿件外套，改天再来吧。"
+      "zh": ": 嗯……可我从来没走到{i}这么深{/i}过。我的胃开始有点怪怪的。话说，这儿不{i}冷{/i}吗？我需要件外套。我们回去拿件外套，改天再来吧。"
     },
     {
       "en": ": Maybe we shoulda just done that thing where one of us tries to toss somethin’ in from the top of the hole?",
@@ -144,10 +144,10 @@
       "zh": ": 答对了。位置对不上。我上周末回了趟那个天坑，想搞清楚它跟我们现在的位置是怎么对齐的，结果它们差得太远了。"
     },
     {
-      "en": ": So unless this thing is like miles wide, I’m pretty sure we’re dealing with a different phenomenon entirely.",
+      "en": ": So unless this thing is like {i}miles{/i} wide, I’m pretty sure we’re dealing with a different phenomenon entirely.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 所以除非这玩意儿有好几英里宽，我基本可以确定，我们面对的是完全不同的一种现象。"
+      "zh": ": 所以除非这玩意儿有{i}好几英里{/i}宽，我基本可以确定，我们面对的是完全不同的一种现象。"
     },
     {
       "en": ": I don’t really get it. But if you could teach me how to be this passionate about any sorta smart girl stuff, I’d really appreciate it.",
@@ -156,10 +156,10 @@
       "zh": ": 我不太懂。不过你要是能教教我，怎么才能对任何一种聪明的女孩子玩意儿这么有热情，我会很感激的。"
     },
     {
-      "en": ": But if it’s not the sinkhole and it’s a different phenomenon, that makes it way scarier!",
+      "en": ": But if it’s {i}not{/i} the sinkhole and it’s a {i}different{/i} phenomenon, that makes it way scarier!",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 可如果不是天坑，而是另一种现象，那就更吓人了！"
+      "zh": ": 可如果{i}不是{/i}天坑，而是{i}另一种{/i}现象，那就更吓人了！"
     },
     {
       "en": ""
@@ -207,10 +207,10 @@
       "zh": ": 别！恶心！"
     },
     {
-      "en": ": So, if there actually is some kinda monster, what’s the battle plan? Cause I ain’t rollin’ over for no demon now that I know what an orgasm feels like.",
+      "en": ": So, if there actually {i}is{/i} some kinda monster, what’s the battle plan? Cause I ain’t rollin’ over for no demon now that I know what an orgasm feels like.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 那么，要是真有什么怪物的话，作战计划是什么？因为老子现在知道高潮是什么感觉了，可不会随随便便就给恶魔躺下。"
+      "zh": ": 那么，要是{i}真有{/i}什么怪物的话，作战计划是什么？因为老子现在知道高潮是什么感觉了，可不会随随便便就给恶魔躺下。"
     },
     {
       "en": ""
@@ -344,10 +344,10 @@
       "zh": ": 哦，好！哦，好吧！看来这儿什么都没有。该掉头了。"
     },
     {
-      "en": ": Under construction? Construction of what?! No building needs a hole this deep!",
+      "en": ": Under construction? Construction of {i}what?!{/i} No building needs a hole this deep!",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 施工中？施工什么啊？！哪栋楼需要一个这么深的洞！"
+      "zh": ": 施工中？施工{i}什么{/i}啊？！哪栋楼需要一个这么深的洞！"
     },
     {
       "en": ": Ya think it might be some kinda earthquake thing? Or one of those thingies that hold a bunch of water in the event of floods or tidal waves somethin’?",
@@ -362,10 +362,10 @@
       "zh": ": 我们住在 Kumon-mi！这儿不可能有海啸！"
     },
     {
-      "en": ": Hey, the beach ain’t that far. I don’t know how big those things get.",
+      "en": ": Hey, the beach ain’t {i}that{/i} far. I don’t know how big those things get.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 嘿，海滩也没那么远。我不知道那东西能有多大。"
+      "zh": ": 嘿，海滩也没{i}那么{/i}远。我不知道那东西能有多大。"
     },
     {
       "en": ""
@@ -383,10 +383,10 @@
       "en": ""
     },
     {
-      "en": ": We’d know if they were constructing something of this size, though. And the fact that they haven’t done anything about the sinkhole yet makes me doubt it’s construction at all.",
+      "en": ": We’d {i}know{/i} if they were constructing something of this size, though. And the fact that they haven’t done anything about the sinkhole yet makes me doubt it’s {i}construction{/i} at all.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 不过要是他们在建这么大规模的东西，我们肯定会知道的。而且他们到现在都还没处理那个天坑，这让我怀疑根本不是施工。"
+      "zh": ": 不过要是他们在建这么大规模的东西，我们肯定会{i}知道{/i}的。而且他们到现在都还没处理那个天坑，这让我怀疑根本不是{i}施工{/i}。"
     },
     {
       "en": ": Like, wouldn’t filling that thing in be the main priority here?",
@@ -413,10 +413,10 @@
       "zh": ": 也许你拐错弯什么的？因为我也不太擅长看路。前几天试了一条新的慢跑路线，结果迷路了差不多一个小时。不过倒是锻炼得挺好。"
     },
     {
-      "en": ": What even is that? It looks more like a...screen than a sign. It’s gotta be, right? Like, who makes a sign that big?",
+      "en": ": What even {i}is{/i} that? It looks more like a...{i}screen{/i} than a sign. It’s gotta be, right? Like, who makes a sign that big?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 那到底是什么啊？看起来更像一块……屏幕，而不是牌子。肯定是吧？谁会做那么大的一块牌子啊？"
+      "zh": ": 那到底{i}是{/i}什么啊？看起来更像一块……{i}屏幕{/i}，而不是牌子。肯定是吧？谁会做那么大的一块牌子啊？"
     },
     {
       "en": ""
@@ -512,10 +512,10 @@
       "zh": ": 因为这一切在我脑子里已经开始尖叫着「邪恶政府机构」了。而《怪奇物语》新一季还历历在目，就更不妙了。"
     },
     {
-      "en": ": This isn’t some stupid TV show where the characters age ten years over the course of like one, though.",
+      "en": ": This isn’t some stupid TV show where the characters age ten years over the course of like {i}one,{/i} though. ",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 不过这又不是那种蠢电视剧——角色们在差不多一季的时间里老了十岁。"
+      "zh": ": 不过这又不是那种蠢电视剧——角色们在差不多{i}一季{/i}的时间里老了十岁。"
     },
     {
       "en": ": Yeah. In fact, it kinda feels like we just ain’t agin’ at all sometimes.",
@@ -580,12 +580,12 @@
       "zh": "她什么也得不到。没有答案。没有一句话。没有能替代她所失去之物的东西，也没有她最偏爱的那种巢。"
     },
     {
-      "en": "This compulsion. This fury. This stupid, lengthy, tragic journey- that ends in such a simple way it felt more like some duty’s jury.",
-      "zh": "这份冲动。这股暴怒。这趟愚蠢、漫长、悲惨的旅程——却以如此简单的方式收尾，简单得像是某种义务的陪审团。"
+      "en": "This compulsion. This {i}fury.{/i} This stupid, lengthy, tragic journey- that ends in such a simple way it felt more like some duty’s jury.",
+      "zh": "这份冲动。这股{i}暴怒{/i}。这趟愚蠢、漫长、悲惨的旅程——却以如此简单的方式收尾，简单得像是某种义务的陪审团。"
     },
     {
-      "en": "This was all for nothing. Just like she was all for nothing. And the one thing she’d found in recent times that made her feel special was, in essence, also nothing.",
-      "zh": "这一切都白费了。就像她这个人也是白费了一样。而她近来找到的、唯一一件让她觉得自己特别的东西，本质上，同样什么都不是。"
+      "en": "This was all for nothing. Just like {i}she{/i} was all for nothing. And the one thing she’d found in recent times that made her feel special was, in essence, also {i}nothing.{/i}",
+      "zh": "这一切都白费了。就像{i}她{/i}这个人也是白费了一样。而她近来找到的、唯一一件让她觉得自己特别的东西，本质上，同样{i}什么都不是{/i}。"
     },
     {
       "en": "What a letdown this became. So unfortunate. So lame. Guess it’s time to turn around and go back to retro PC games.",
@@ -607,8 +607,8 @@
       "en": ""
     },
     {
-      "en": "But then, suddenly, she noticed — from the corner of her eye — another body just beyond the bend. To which she’d question — why?",
-      "zh": "但就在这时，她突然从眼角余光里注意到——在弯道之外，还有另一个身影。对此她要问一句——为什么？"
+      "en": "But then, suddenly, she noticed — from the corner of her eye — another body just beyond the bend. To which she’d question — {i}why?{/i}",
+      "zh": "但就在这时，她突然从眼角余光里注意到——在弯道之外，还有另一个身影。对此她要问一句——{i}为什么{/i}？"
     },
     {
       "en": ""
@@ -649,8 +649,8 @@
       "zh": "她们没有注意到，因为她们很蠢。她们只是站在那儿盯着看，百无聊赖地转着大拇指。"
     },
     {
-      "en": "But I know something they don’t know. I know what’s above. I know what’s below. And I’ll show you, I swear, when I think it’s apropos.",
-      "zh": "但我知道一件她们不知道的事。我知道上面有什么。我知道下面有什么。而且我会让你看到的，我发誓，在我觉得合适的时机。"
+      "en": "But I know something {i}they{/i} don’t know. I know what’s above. I know what’s below. And I’ll show you, I swear, when I think it’s apropos.",
+      "zh": "但我知道一件{i}她们{/i}不知道的事。我知道上面有什么。我知道下面有什么。而且我会让你看到的，我发誓，在我觉得合适的时机。"
     },
     {
       "en": "For the moment, I’d like to preserve some neutrality. There’s a time and a place to breach confidentiality.",
@@ -665,12 +665,12 @@
       "zh": "即便是命运的红线，也无法修补这块织物。"
     },
     {
-      "en": "But you know what can?",
-      "zh": "但你知道什么可以吗？"
+      "en": "But you know what {i}can?{/i}",
+      "zh": "但你知道什么{i}可以{/i}吗？"
     },
     {
-      "en": "Immortality.",
-      "zh": "永生。"
+      "en": "{i}Immortality.{/i}",
+      "zh": "{i}永生。{/i}"
     },
     {
       "en": ""
@@ -694,10 +694,10 @@
       "zh": ": 你！站住！你就是那个女生吧？！老在我们活动上出现的那个？！你在这儿干什么？！"
     },
     {
-      "en": ": Did you follow us?! Do you know what that...thing is?! Where are you going?!",
+      "en": ": Did you follow us?! Do you know what that...{i}thing{/i} is?! Where are you going?!",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 你是跟踪我们来的吗？！你知道那……那东西是什么吗？！你要去哪儿？！"
+      "zh": ": 你是跟踪我们来的吗？！你知道那……那{i}东西{/i}是什么吗？！你要去哪儿？！"
     },
     {
       "en": ""
@@ -715,10 +715,10 @@
       "en": ""
     },
     {
-      "en": ": What, are you deaf too?! Come on! I know you were watching us! Don’t just walk away!",
+      "en": ": What, are you {i}deaf{/i} too?! Come on! I know you were watching us! Don’t just walk away!",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 怎么，你也是聋子吗？！拜托！我知道你一直在看着我们！别就这么走掉！"
+      "zh": ": 怎么，你也是{i}聋子{/i}吗？！拜托！我知道你一直在看着我们！别就这么走掉！"
     },
     {
       "en": ""
@@ -792,20 +792,20 @@
       "zh": "与普遍的认知相反，我更习惯普通的空气。吸走它。给予它。倾听它掠过屋顶时的声音，而我眺望着装点天际线的群星。"
     },
     {
-      "en": "And when I see you all, you helpless, dysfunctional little ants, constantly exiting your death spiral to search for things that do not concern you, I can’t help but get mad.",
-      "zh": "而当我看着你们这些无助的、功能失调的小蚂蚁，不断地爬出自己的死亡螺旋，去寻找那些与你们无关的东西时，我忍不住就生气。"
+      "en": "And when I see you all, you helpless, dysfunctional little ants, constantly exiting your death spiral to {i}search{/i} for things that do not concern you, I can’t help but get mad.",
+      "zh": "而当我看着你们这些无助的、功能失调的小蚂蚁，不断地爬出自己的死亡螺旋，去{i}寻找{/i}那些与你们无关的东西时，我忍不住就生气。"
     },
     {
-      "en": "I asked for a castle and this is what you give me? A mere tunnel?",
-      "zh": "我要的是一座城堡，而你们给我的就是这个？一条破隧道？"
+      "en": "I asked for a castle and {i}this{/i} is what you give me? A mere {i}tunnel?{/i}",
+      "zh": "我要的是一座城堡，而你们给我的就是{i}这个{/i}？一条破{i}隧道{/i}？"
     },
     {
       "en": "That has always been my problem with ant farms. Once you reach the bottom, there’s nowhere left to go.",
       "zh": "一直以来我对蚂蚁工农场的不满就在这儿。一旦你挖到了底，就没有别的地方可去了。"
     },
     {
-      "en": "But wouldn’t it be great if you could see what was beneath you? Or taste the sky on your tongue? Or do all of those things you never can because you’re just built different?",
-      "zh": "可要是你能看见自己脚下有什么呢？或者用舌尖尝到天空的味道？或者去做那些你永远做不到的事，因为你天生就不一样？"
+      "en": "But wouldn’t it be {i}great{/i} if you could see what was beneath you? Or taste the sky on your tongue? Or do all of those things you never {i}can{/i} because you’re just {i}built different?{/i}",
+      "zh": "可要是你能看见自己脚下有什么呢？或者用舌尖尝到天空的味道？或者去做那些你永远{i}做不到{/i}的事，因为你{i}天生就不一样{/i}？"
     },
     {
       "en": "The correct answer is “no.”",
@@ -824,8 +824,8 @@
       "zh": "而你们该为自己在这座农场里拥有的那些恐惧而感到高兴。"
     },
     {
-      "en": "For they are far less dangerous than what lurks below.",
-      "zh": "因为它们远不如潜伏在下方的东西危险。"
+      "en": "For they are {i}far{/i} less dangerous than what lurks below.",
+      "zh": "因为它们{i}远{/i}不如潜伏在下方的东西危险。"
     },
     {
       "en": ""
@@ -945,10 +945,10 @@
       "zh": ": Uta 说得对……我们该走了……"
     },
     {
-      "en": ": Uhh...I mean...we can stay! I’m sorry if it seemed like I was scared. I’m not. Just...yeah! I’m not scared at all!",
+      "en": ": Uhh...I mean...we can {i}stay!{/i} I’m sorry if it seemed like I was scared. I’m not. Just...yeah! I’m not scared at all!",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 呃……我是说……我们可以留下！要是看起来像我害怕了，我很抱歉。我没有。只是……是啊！我一点都不害怕！"
+      "zh": ": 呃……我是说……我们可以{i}留下{/i}！要是看起来像我害怕了，我很抱歉。我没有。只是……是啊！我一点都不害怕！"
     },
     {
       "en": ": Okay...",

@@ -1,6 +1,6 @@
 {
   "label": "sanainvitegen",
-  "title_zh": "Sana 的邀约",
+  "title_zh": "sanainvitegen",
   "lines": [
     {
       "en": ""
@@ -43,10 +43,10 @@
       "zh": ": 嘿。你现在忙吗？"
     },
     {
-      "en": ": Uh...I can...not be busy right now if...you want to see me?",
+      "en": ": Uh...I can...{i}not{/i} be busy right now if...you want to see me?",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 呃……我……可以不忙，如果……你想见我的话？"
+      "zh": ": 呃……我……{i}可以不{/i}忙，如果……你想见我的话？"
     },
     {
       "en": ": Works for me.",

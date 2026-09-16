@@ -182,8 +182,8 @@
       "en": ""
     },
     {
-      "en": "We are swallowed by the dorm.",
-      "zh": "我们被宿舍吞没了。"
+      "en": "{s}We are swallowed by the dorm.{/s}",
+      "zh": "{s}我们被宿舍吞没了。{/s}"
     },
     {
       "en": ""
@@ -633,10 +633,10 @@
       "zh": ": 祂。"
     },
     {
-      "en": ": He says that the path you walk will be unlike the others.",
+      "en": ": He says that the path {i}you{/i} walk will be unlike the others.",
       "spk": "Strange Girl",
       "spkColor": "#FFFFFF",
-      "zh": ": 祂说，你走的这条路会与别人不同。"
+      "zh": ": 祂说，{i}你{/i}走的这条路会与别人不同。"
     },
     {
       "en": ": He says that you are special.",
@@ -903,10 +903,10 @@
       "zh": ": 可……那已经……快两个小时前的事了……"
     },
     {
-      "en": ": Does that mean we can’t hang out now? Because I don’t really have anything else going on and I am afraid to go home.",
+      "en": ": Does that mean we can’t hang out now? Because I don’t really have anything else going on {s}and I am afraid to go home{/s}.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那是不是意味着我们现在不能一起待着了？因为我也没什么别的事可做，而且我害怕回家。"
+      "zh": ": 那是不是意味着我们现在不能一起待着了？因为我也没什么别的事可做，{s}而且我害怕回家{/s}。"
     },
     {
       "en": ": We can, but...",
@@ -1192,10 +1192,10 @@
       "zh": ": 那么，嗯……"
     },
     {
-      "en": ": What do you think I can do to seem...more normal?...",
+      "en": ": What do you think I can do to seem...{i}more{/i} normal?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 你觉得我要怎么做，才能看起来……更正常一点？……"
+      "zh": ": 你觉得我要怎么做，才能看起来……{i}更{/i}正常一点？……"
     },
     {
       "en": ": Why do you ask, exactly?",
@@ -1252,16 +1252,16 @@
       "zh": ": 我大概……就是这样吧……"
     },
     {
-      "en": ": If that's who you are, why bother trying to be more normal in the first place?",
+      "en": ": If that's who you are, why bother trying to be more {i}normal{/i} in the first place?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 既然你就是这样的人，那何必一开始就费劲去变得更正常？"
+      "zh": ": 既然你就是这样的人，那何必一开始就费劲去变得更{i}正常{/i}？"
     },
     {
-      "en": ": Do you actually want to change? Or do you just think changing will make your life more convenient?",
+      "en": ": Do you actually {i}want{/i} to change? Or do you just think changing will make your life more convenient?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你是真的想改变吗？还是只是觉得改变能让日子更方便些？"
+      "zh": ": 你是真的{i}想{/i}改变吗？还是只是觉得改变能让日子更方便些？"
     },
     {
       "en": ""
@@ -1351,10 +1351,10 @@
       "en": ""
     },
     {
-      "en": ": Well, whatever the case, I don’t think you should try to change who you are just because not enough people see you for you.",
+      "en": ": Well, whatever the case, I don’t think you should try to change who you are just because not enough people see you for {i}you{/i}.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 嗯，不管怎样，我觉得你不必因为没几个人看见真正的你，就试图改变自己。"
+      "zh": ": 嗯，不管怎样，我觉得你不必因为没几个人看见真正的{i}你{/i}，就试图改变自己。"
     },
     {
       "en": ""
@@ -1483,10 +1483,10 @@
       "zh": ": 那……告诉我……"
     },
     {
-      "en": ": About you...",
+      "en": ": About {i}you...{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 关于你的事……"
+      "zh": ": 关于{i}你的{/i}事……"
     },
     {
       "en": ": I...",
@@ -1520,8 +1520,8 @@
       "zh": "我在心里盼着，这份沉默能让 Sana 明白我不想说这个。"
     },
     {
-      "en": "I mean, how could I when I don't know the first thing about myself to begin with?",
-      "zh": "我是说，我连关于自己的第一件事都不知道，又怎么能说呢？"
+      "en": "I mean, how {i}could{/i} I when I don't know the first thing about myself to begin with?",
+      "zh": "我是说，我连关于自己的第一件事都不知道，又怎么{i}能{/i}说呢？"
     },
     {
       "en": "I can't share something I don't have. But I also can't come out and tell her that without the risk of breaking her heart just as she's finally starting to trust me.",
@@ -1634,8 +1634,8 @@
       "en": ""
     },
     {
-      "en": "Sana’s affection has increased to [sana_love]!",
-      "zh": "Sana 的好感度提升到了 [sana_love]！"
+      "en": "{i}Sana’s affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]！{/i}"
     },
     {
       "en": ""

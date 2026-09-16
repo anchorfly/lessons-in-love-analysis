@@ -136,10 +136,10 @@
       "zh": ": 不行，Nodoka！我们是一个团队的！"
     },
     {
-      "en": ": But I am le tired...",
+      "en": ": {i}But I am le tired...{/i}",
       "spk": "Nodoka",
       "spkColor": "#AF89A2",
-      "zh": ": 可是我好累啊……"
+      "zh": ": {i}可是我好累啊……{/i}"
     },
     {
       "en": ": Uhh...I’m not interrupting something, am I?",
@@ -187,10 +187,10 @@
       "zh": ": Rin 想说的是……这附近新开了一家健身房……我想让自己……健康一点。"
     },
     {
-      "en": ": We are trying to be a little healthier.",
+      "en": ": {i}We{/i} are trying to be a little healthier.",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 是我们想让自己健康一点。"
+      "zh": ": 是{i}我们{/i}想让自己健康一点。"
     },
     {
       "en": ": That's great, but isn’t it a little late to be going to the gym?",
@@ -322,10 +322,10 @@
       "en": ""
     },
     {
-      "en": ": What the hell?! But I’m the one who answered the door! That means you're here for me!",
+      "en": ": What the hell?! But {i}I’m{/i} the one who answered the door! That means you're here for me!",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 什么鬼？！可是开门的是我啊！那说明你是来找我的！"
+      "zh": ": 什么鬼？！可是开门的{i}是我{/i}啊！那说明你是来找我的！"
     },
     {
       "en": ": E-Even if you’re here to see me...it doesn’t change that the three of us already have plans, so...",
@@ -409,10 +409,10 @@
       "zh": ": 所以，是的……我确实没有自信，而且我……这次在试着用一种……有建设性的方式去处理它。"
     },
     {
-      "en": ": Had you been handling it...unproductively up until now?",
+      "en": ": Had you been handling it...{i}un{/i}productively up until now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 在此之前你处理得很……没有建设性？"
+      "zh": ": 在此之前你处理得很……{i}没有{/i}建设性？"
     },
     {
       "en": ": I-",
@@ -436,10 +436,10 @@
       "en": ""
     },
     {
-      "en": ": The clock is ticking, the hours are going by. The past increases, the future recedes. Possibilities decreasing, regrets mounting.",
+      "en": ": {i}The clock is ticking, the hours are going by. The past increases, the future recedes. Possibilities decreasing, regrets mounting.{/i}",
       "spk": "Nodoka",
       "spkColor": "#AF89A2",
-      "zh": ": 时钟滴答，时光流逝。过去在增加，未来在退去。可能性在减少，遗憾在堆积。"
+      "zh": ": {i}时钟滴答，时光流逝。过去在增加，未来在退去。可能性在减少，遗憾在堆积。{/i}"
     },
     {
       "en": ": What happened “up until now” means absolutely nothing. And standing idly around and discussing it just prevents us from making the strides we need to reach our destination.",
@@ -657,12 +657,12 @@
       "en": ""
     },
     {
-      "en": "Futaba tries to get me to leave once we arrive, but I remain insistent on seeing the inside as well because no one has changed clothes yet and that’s kind of why I came in the first place.",
-      "zh": "到了之后 Futaba 想赶我走，但我坚持要进去看看里面，毕竟大家都还没换衣服，而这正是我跟来的原因之一。"
+      "en": "Futaba tries to get me to leave once we arrive, but I remain insistent on seeing the inside as well because no one has changed clothes yet and that’s {i}kind of{/i} why I came in the first place.",
+      "zh": "到了之后 Futaba 想赶我走，但我坚持要进去看看里面，毕竟大家都还没换衣服，而这正是我跟来的原因{i}之一{/i}。"
     },
     {
-      "en": "I’m sure that’s part of why she wants me to leave anyway, but I have seen her with immensely less clothing before and don’t quite understand why it’s suddenly a big deal.",
-      "zh": "我猜这也是她想让我走的原因之一，可我见过她穿得少得多的样子，实在不明白为什么突然就成了一件大事。"
+      "en": "I’m sure that’s part of why she wants me to leave anyway, but I have seen her with immensely {i}less{/i} clothing before and don’t quite understand why it’s suddenly a big deal.",
+      "zh": "我猜这也是她想让我走的原因之一，可我见过她穿得{i}少{/i}得多的样子，实在不明白为什么突然就成了一件大事。"
     },
     {
       "en": "Once the girls get dressed and all of us step into the gym, however, we discover that we are not the only ones here.",
@@ -706,8 +706,8 @@
       "zh": "我有点惊讶，竟然会在这家我学生即将光顾的健身房里遇见 Yuki——偏偏是她——正对着沙袋练踢拳。"
     },
     {
-      "en": "But, I suppose she needs some outlet for all of her built up anger now that she’s not...killing people for a living or whatever it is biker gangs do to stay afloat.",
-      "zh": "不过，我想她总得找个出口发泄积攒的怒火，毕竟她现在不靠……杀人之类的谋生了，管它飞车党是靠什么维持生计的。"
+      "en": "But, I suppose she needs {i}some{/i} outlet for all of her built up anger now that she’s not...killing people for a living or whatever it is biker gangs do to stay afloat. ",
+      "zh": "不过，我想她总得{i}找个出口{/i}发泄积攒的怒火，毕竟她现在不靠……杀人之类的谋生了，管它飞车党是靠什么维持生计的。"
     },
     {
       "en": "Also, under these circumstances, I too would enjoy being hit.",
@@ -755,10 +755,10 @@
       "zh": ": 嗯……反正我们都已经来了，我也没什么选择的余地。"
     },
     {
-      "en": ": I’d feel bad if we didn’t at least do something.",
+      "en": ": I’d feel bad if we didn’t at least do {i}something.{/i}",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 要是一样都不做，我会过意不去的。"
+      "zh": ": 要是{i}一样{/i}都不做，我会过意不去的。"
     },
     {
       "en": ": I...can’t help but feel a little intimidated by that woman, though...",
@@ -852,10 +852,10 @@
       "zh": ": 是啊……没有不敬的意思，但我敢说那个女孩能把你打趴下。"
     },
     {
-      "en": ": She can take me any day of the week.",
+      "en": ": She can take {i}me{/i} any day of the week.",
       "spk": "Nodoka",
       "spkColor": "#AF89A2",
-      "zh": ": 她哪天都能把我打趴下。"
+      "zh": ": 她哪天都能把{i}我{/i}打趴下。"
     },
     {
       "en": ": Don’t worry about it, Futaba. I know exactly how to deal with girls like her.",
@@ -1442,10 +1442,10 @@
       "en": ""
     },
     {
-      "en": ": Can you please...not do this right now?...",
+      "en": ": Can you please...{i}not{/i} do this right now?...",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 你能不能……现在先别说这些？……"
+      "zh": ": 你能不能……现在先{i}别{/i}说这些？……"
     },
     {
       "en": ": You can come see me tomorrow and...we’ll spend time together then...",
@@ -1697,8 +1697,8 @@
       "en": ""
     },
     {
-      "en": "Futaba’s affection has increased to [futaba_love]!",
-      "zh": "Futaba 的好感度提升到了 [futaba_love]！"
+      "en": "{i}Futaba’s affection has increased to [futaba_love]!{/i}",
+      "zh": "{i}Futaba 的好感度提升到了 [futaba_love]！{/i}"
     },
     {
       "en": ""
@@ -1707,8 +1707,8 @@
       "en": ""
     },
     {
-      "en": "You have received a new picture message from Rin!",
-      "zh": "你收到了一条来自 Rin 的新图片消息！"
+      "en": "{i}You have received a new picture message from Rin!{/i}",
+      "zh": "{i}你收到了一条来自 Rin 的新图片消息！{/i}"
     },
     {
       "en": ""

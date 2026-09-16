@@ -10,8 +10,8 @@
       "zh": ""
     },
     {
-      "en": "Meanwhile...",
-      "zh": "与此同时……"
+      "en": "{i}Meanwhile...{/i}",
+      "zh": "{i}与此同时……{/i}"
     },
     {
       "en": ""
@@ -124,10 +124,10 @@
       "zh": "：唉，这就是青春期对 [young_girl] 的身体做的事啊。"
     },
     {
-      "en": ": Or doesn’t in my case.",
+      "en": ": Or {i}doesn’t{/i} in my case.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": "：或者说，在我身上什么都没做成。"
+      "zh": "：或者说，在我身上{i}什么都没做成{/i}。"
     },
     {
       "en": ": What’s the rush, girl? It’s not like we’re goin’ anywhere anytime soon.",
@@ -322,10 +322,10 @@
       "zh": "：是哦……我平时不这样，对吧？"
     },
     {
-      "en": ": Uh-oh. Looks like Uta might also need somebody to talk to.",
+      "en": ": Uh-oh. Looks like Uta might {i}also{/i} need somebody to talk to.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": "：哎呀。看来 Uta 自己也需要找人聊聊了。"
+      "zh": "：哎呀。看来 Uta 自己{i}也{/i}需要找人聊聊了。"
     },
     {
       "en": ": Is it time to relive one of our famous late night vents from the old chat room?",
@@ -433,10 +433,10 @@
       "zh": "：至少我觉得他是理解我的。我这人太乱七八糟了，我不觉得有谁能 100%% 地接住我那些狗屁玩意儿。"
     },
     {
-      "en": ": And...I don’t know. I just feel like there’s this deep sort of connection there despite the two of us having never done anything to truly connect with one another.",
+      "en": ": And...I don’t know. I just feel like there’s this deep sort of connection there despite the two of us having never done anything to truly {i}connect{/i} with one another.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": "：而且……我也不知道。我只是觉得，尽管我们两个从来没做过什么真正把彼此连起来的事，但那里确实存在某种很深的联系。"
+      "zh": "：而且……我也不知道。我只是觉得，尽管我们两个从来没做过什么真正把彼此{i}连起来{/i}的事，但那里确实存在某种很深的联系。"
     },
     {
       "en": ": And I guess...that last part is what I’m more worried about than anything.",
@@ -883,10 +883,10 @@
       "en": ""
     },
     {
-      "en": ": But Io, you aren’t wearing pants right now. Does that mean it's okay?",
+      "en": ": But Io, you aren’t {i}wearing{/i} pants right now. Does that mean it's okay?",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": "：可是 Io，你现在没穿裤子啊。那是不是就说明可以了？"
+      "zh": "：可是 Io，你现在没{i}穿{/i}裤子啊。那是不是就说明可以了？"
     },
     {
       "en": ": You know, maybe I should knock you down to a nine or something instead?",
@@ -997,10 +997,10 @@
       "zh": "：你……要不要跟我们坐下聊聊？我们也就是在回房间吃晚饭前打发打发时间。"
     },
     {
-      "en": ": You’re inviting me to sit with you? Is that really okay?",
+      "en": ": You’re inviting {i}me{/i} to sit with you? Is that really okay?",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": "：你在邀请我和你们坐在一起？真的可以吗？"
+      "zh": "：你在邀请{i}我{/i}和你们坐在一起？真的可以吗？"
     },
     {
       "en": ""
@@ -1132,10 +1132,10 @@
       "zh": "：我还知道别的事吗？"
     },
     {
-      "en": ": You’ve gotta know something else.",
+      "en": ": You’ve gotta know {i}something{/i} else.",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": "：你肯定还知道点别的。"
+      "zh": "：你肯定还知道{i}点别的{/i}。"
     },
     {
       "en": ": Like...maybe some hobbies? Or a TV show you like that you never really get to talk about?",
@@ -1507,10 +1507,10 @@
       "zh": "：但总有一天，你们会被迫直面自己最害怕的东西。"
     },
     {
-      "en": ": And when that time comes, I will be right around the corner- with open arms and a sanctuary for you to lose yourself in when you think there’s nothing left to lose.",
+      "en": ": And when that time comes, I will be right around the corner- with open arms and a sanctuary for you to lose yourself in when you think there’s nothing {i}left{/i} to lose.",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": "：而那一天到来时，我就会在拐角处等着——张开双臂，还有一座圣所，供你迷失其中，当你以为自己已经没有什么可以再失去的时候。"
+      "zh": "：而那一天到来时，我就会在拐角处等着——张开双臂，还有一座圣所，供你迷失其中，当你以为自己已经没有什么可以{i}再失去{/i}的时候。"
     },
     {
       "en": ": ...",
@@ -1660,8 +1660,8 @@
       "zh": "我要对 Uta Ushibori——那个根本不想动脑的女孩子说，你也很软弱。"
     },
     {
-      "en": "And to the girl in the black dress in the[school] swimsuit-",
-      "zh": "还有那个穿着黑裙子、套着[school]泳衣的女孩——"
+      "en": "And to the girl {s}in the black dress{/s} in the[school] swimsuit-",
+      "zh": "还有那个{s}穿着黑裙子{/s}、套着[school]泳衣的女孩——"
     },
     {
       "en": "You are the weakest of all.",
@@ -1782,8 +1782,8 @@
       "en": ""
     },
     {
-      "en": "Affection!",
-      "zh": "好感度！"
+      "en": "{i}Affection!{/i}",
+      "zh": "{i}好感度！{/i}"
     },
     {
       "en": ""

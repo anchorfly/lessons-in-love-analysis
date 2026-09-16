@@ -67,10 +67,10 @@
       "zh": ": 你把它贴在额头上了！我当然要摘！"
     },
     {
-      "en": ": What’s wrong with you?",
+      "en": ": What’s wrong with {i}you?{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你有什么毛病吗？"
+      "zh": ": {i}你{/i}有什么毛病吗？"
     },
     {
       "en": ": Me? What do you mean?",
@@ -123,8 +123,8 @@
       "zh": "说起来挺怪的，但我有点希望 Molly 对这件事能比现在更纠结一点。"
     },
     {
-      "en": "At least that would justify all of the...feelings I’ve had since Halloween.",
-      "zh": "至少那样，就能为我从万圣节以来所有的……感受，提供正当理由了。"
+      "en": "At least that would justify all of the...{i}feelings{/i} I’ve had since Halloween.",
+      "zh": "至少那样，就能为我从万圣节以来所有的……{i}感受{/i}，提供正当理由了。"
     },
     {
       "en": "Feelings are annoying. And I’m annoyed that they haven’t started hiding again yet.",
@@ -188,10 +188,10 @@
       "zh": ": 什么？！不行！为什么？"
     },
     {
-      "en": ": Are you so excited for the real party that you don’t want the pre-party to spoil it?",
+      "en": ": Are you so excited for the real party that you don’t want the {i}pre{/i}-party to spoil it?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 你是太期待真正的派对，所以不想让前哨派对把期待感提前用掉吗？"
+      "zh": ": 你是太期待真正的派对，所以不想让{i}前哨{/i}派对把期待感提前用掉吗？"
     },
     {
       "en": ": I...didn’t think you were looking forward to it that much, Sensei...",
@@ -332,10 +332,10 @@
       "zh": ": 尤其是现在，我已经被接纳为她的荣誉妹妹了。"
     },
     {
-      "en": ": Oh, wonderful. Does this mean she’s gotten rid of her other one? Because that would confirm once and for all that Christmas miracles are real.",
+      "en": ": Oh, wonderful. Does this mean she’s gotten rid of her other one? Because that would confirm once and for all that Christmas miracles {i}are{/i} real.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 哦，真棒。那是不是说明她把另一个妹妹给甩了？因为那样就能一劳永逸地证明圣诞奇迹是真的。"
+      "zh": ": 哦，真棒。那是不是说明她把另一个妹妹给甩了？因为那样就能一劳永逸地证明圣诞奇迹{i}是真的{/i}。"
     },
     {
       "en": ""
@@ -359,10 +359,10 @@
       "zh": ": 哦……对。抱歉，Maya。我知道只要牵扯到任何跟 Noriko 沾边的事，你就会变得暴躁。"
     },
     {
-      "en": ": I don’t get grumpy. I get murderous.",
+      "en": ": I don’t get {i}grumpy{/i}. I get murderous. ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我不是暴躁。我是想杀人。"
+      "zh": ": 我不是{i}暴躁{/i}。我是想杀人。"
     },
     {
       "en": ": You’re not giving my hatred enough credit.",
@@ -377,16 +377,16 @@
       "zh": ": 我的错……"
     },
     {
-      "en": ": I think Niki’s going on soon, Sensei. So if you really are tired and aren’t just trying to get away from a bunch of people who love you very much, you won’t have to wait around for long.",
+      "en": ": I think Niki’s going on soon, Sensei. So if you really {i}are{/i} tired and aren’t just trying to get away from a bunch of people who love you very much, you won’t have to wait around for long.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我想 Niki 快上场了，老师。所以如果您真的是累了，而不是单纯想从一群非常爱您的人身边逃开，那您不用等太久。"
+      "zh": ": 我想 Niki 快上场了，老师。所以如果您{i}真的是累了{/i}，而不是单纯想从一群非常爱您的人身边逃开，那您不用等太久。"
     },
     {
-      "en": ": Also, if you just happen to find the mistletoe that I hid in the medicine cabinet we can kill a few minutes by kissing in front of everyone!",
+      "en": ": {i}Also{/i}, if you just happen to find the mistletoe {i}that I hid in the medicine cabinet{/i} we can kill a few minutes by kissing in front of everyone!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 还有，如果您碰巧找到了我藏在药柜里的那株槲寄生，我们可以用「当着所有人的面接吻」来打发几分钟！"
+      "zh": ": {i}还有{/i}，如果您碰巧找到了{i}我藏在药柜里的{/i}那株槲寄生，我们可以用「当着所有人的面接吻」来打发几分钟！"
     },
     {
       "en": ": I...feel the need to...tell you that I don’t love-",
@@ -395,10 +395,10 @@
       "zh": ": 我……觉得有必要……告诉你，我并不爱——"
     },
     {
-      "en": ": Hi, everyone! Thank you all so much for coming out to see me on this very special holiday!",
+      "en": ": {i}Hi, everyone! Thank you all so much for coming out to see me on this very special holiday!{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 大家好！非常感谢大家在这个非常特别的节日里来看我！"
+      "zh": ": {i}大家好！非常感谢大家在这个非常特别的节日里来看我！{/i}"
     },
     {
       "en": ""
@@ -539,10 +539,10 @@
       "zh": ": 我还在这儿呢……"
     },
     {
-      "en": ": Okay. No one except Maya is paying attention. And she definitely doesn’t like you, so she won’t care at all.",
+      "en": ": Okay. No one except {i}Maya{/i} is paying attention. And she {i}definitely doesn’t like you{/i}, so she won’t care at all.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 好吧。除了 Maya 没人看。而她绝对不喜欢你，所以她一点都不会在意。"
+      "zh": ": 好吧。除了 {i}Maya{/i} 没人看。而她{i}绝对不喜欢你{/i}，所以她一点都不会在意。"
     },
     {
       "en": ": And super funny and super awesome and-",
@@ -557,58 +557,58 @@
       "en": ""
     },
     {
-      "en": ": Before I start singing...I just want you all to know that...you’re the reason I can do this.",
+      "en": ": {i}Before I start singing...I just want you all to know that...you’re the reason I can do this.{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 在我开始唱歌之前……我只想让你们所有人知道……你们是我能做到这件事的理由。"
+      "zh": ": {i}在我开始唱歌之前……我只想让你们所有人知道……你们是我能做到这件事的理由。{/i}"
     },
     {
-      "en": ": You’re what gives me the courage I never had when I was younger! And I think that you should have courage too!",
+      "en": ": {i}You’re what gives me the courage I never had when I was younger! And I think that you should have courage too!{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你们给了我年轻时从未有过的勇气！而我觉得，你们也该拥有勇气！"
+      "zh": ": {i}你们给了我年轻时从未有过的勇气！而我觉得，你们也该拥有勇气！{/i}"
     },
     {
-      "en": ": So please, enjoy this new song!",
+      "en": ": {i}So please, enjoy this new song!{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 所以，请好好享受这首新歌吧！"
+      "zh": ": {i}所以，请好好享受这首新歌吧！{/i}"
     },
     {
-      "en": ": Even if you’re one of those people who sometimes has a hard time enjoying anything.",
+      "en": ": {i}Even if you’re one of those people who sometimes has a hard time enjoying anything.{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 哪怕你是那种有时候很难享受任何事物的人。"
+      "zh": ": {i}哪怕你是那种有时候很难享受任何事物的人。{/i}"
     },
     {
-      "en": ": It might come as a little bit of a surprise, but I used to be one of those people.",
+      "en": ": {i}It might come as a little bit of a surprise, but I used to be one of those people.{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 这可能会让你有点意外，但我以前也是那种人。"
+      "zh": ": {i}这可能会让你有点意外，但我以前也是那种人。{/i}"
     },
     {
-      "en": ": You’re never alone! Because you’ll always have me!",
+      "en": ": {i}You’re never alone! Because you’ll always have me!{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你永远不会孤单！因为你永远拥有我！"
+      "zh": ": {i}你永远不会孤单！因为你永远拥有我！{/i}"
     },
     {
-      "en": ": And I’m never alone because I’ll always have you!",
+      "en": ": {i}And I’m never alone because I’ll always have you!{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 而我也永远不会孤单，因为我永远拥有你们！"
+      "zh": ": {i}而我也永远不会孤单，因为我永远拥有你们！{/i}"
     },
     {
-      "en": ": Miracles are real!",
+      "en": ": {i}Miracles are real!{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 奇迹是真的！"
+      "zh": ": {i}奇迹是真的！{/i}"
     },
     {
-      "en": ": Please enjoy! Tokimeki Labyrinth!",
+      "en": ": {i}Please enjoy! Tokimeki Labyrinth!{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 请欣赏！Tokimeki Labyrinth！"
+      "zh": ": {i}请欣赏！Tokimeki Labyrinth！{/i}"
     },
     {
       "en": ""
@@ -638,8 +638,8 @@
       "en": ""
     },
     {
-      "en": "Meanwhile...",
-      "zh": "与此同时……"
+      "en": "{i}Meanwhile...{/i}",
+      "zh": "{i}与此同时……{/i}"
     },
     {
       "en": ".........",
@@ -786,10 +786,10 @@
       "zh": ": 为什么？你又不来。"
     },
     {
-      "en": ": I’m not completely ditching the party. Didn’t I tell you I still planned on dropping by to give Sensei his present?",
+      "en": ": I’m not {i}completely{/i} ditching the party. Didn’t I tell you I still planned on dropping by to give Sensei his present?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我又没说完全不去派对。我不是跟你说过，我还是打算顺道过去把礼物给老师吗？"
+      "zh": ": 我又没说{i}完全{/i}不去派对。我不是跟你说过，我还是打算顺道过去把礼物给老师吗？"
     },
     {
       "en": ": Probably, but it’s such a boring present that I must have just forgotten that conversation ever happened.",
@@ -885,8 +885,8 @@
       "en": ""
     },
     {
-      "en": "Meanwhile, underneath where we just were...",
-      "zh": "与此同时，就在我们刚才所在之处的下面……"
+      "en": "{i}Meanwhile, underneath where we just were...{/i}",
+      "zh": "{i}与此同时，就在我们刚才所在之处的下面……{/i}"
     },
     {
       "en": ".........",
@@ -1069,10 +1069,10 @@
       "zh": ": 哦！还有告诉他们，如果今年决定给我买份圣诞礼物，我一点都不介意！"
     },
     {
-      "en": ": I know they didn’t last year, so if you could really just hammer in the fact that we’re basically sisters, it would be rad!",
+      "en": ": I know they didn’t last year, so if you could {i}really{/i} just hammer in the fact that we’re basically sisters, it would be rad!",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 我知道他们去年没买，所以如果你能狠狠强调一下我们基本上就是姐妹，那就太棒了！"
+      "zh": ": 我知道他们去年没买，所以如果你能{i}狠狠强调{/i}一下我们基本上就是姐妹，那就太棒了！"
     },
     {
       "en": ": I’ll...make sure to do that as well, Rin...",
@@ -1195,10 +1195,10 @@
       "en": ""
     },
     {
-      "en": ": Do you...not always think I’m cute?",
+      "en": ": Do you...not {i}always{/i} think I’m cute?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ": 你……不是一直都觉得我可爱吗？"
+      "zh": ": 你……不是{i}一直都{/i}觉得我可爱吗？"
     },
     {
       "en": ": Of course I think you’re always cute. I just also think there are times where you’re extra cute.",
@@ -1495,8 +1495,8 @@
       "en": ""
     },
     {
-      "en": "Several minutes later...",
-      "zh": "几分钟后……"
+      "en": "{i}Several minutes later...{/i}",
+      "zh": "{i}几分钟后……{/i}"
     },
     {
       "en": ""
@@ -1574,10 +1574,10 @@
       "en": ""
     },
     {
-      "en": ": *Ahem*",
+      "en": ": {i}*Ahem*{/i}",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": *清嗓子*"
+      "zh": ": {i}*清嗓子*{/i}"
     },
     {
       "en": ": Oh no. I seem to have forgotten to call my aunt as well. Please excuse me for...a longer amount of time.",
@@ -1688,10 +1688,10 @@
       "zh": ": 那么，既然您被迫坐着看完了刚才那一堆东西，您还是要今晚就此收工吗？"
     },
     {
-      "en": ": Are you trying to get him to stay up later because you’ll miss him, Maya?",
+      "en": ": Are you trying to get him to stay up later because you’ll {i}miss{/i} him, Maya?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 你想让他晚点睡，是因为你会想他吗，Maya？"
+      "zh": ": 你想让他晚点睡，是因为你会{i}想他{/i}吗，Maya？"
     },
     {
       "en": ": No. I’m just smart enough to know that once he’s out of the picture, everyone else will inevitably want to go to sleep as well. And I am very tired.",
@@ -1753,8 +1753,8 @@
       "zh": "不过这一次，我决定把门锁上，这样 Ayane 就没法半夜骑上来了。"
     },
     {
-      "en": "I’m not really sure how tomorrow’s party will compare to last year’s (If...you can even call it last year? How does that work exactly?) but, if there is anything I do know...it’s that it’s going to be lively.",
-      "zh": "我不太确定明天的派对跟去年的比起来会怎么样（如果……那也能叫去年的话？这到底怎么算？），但如果说我确实知道什么的话……那就是它一定会很热闹。"
+      "en": "I’m not really sure how tomorrow’s party will compare to last year’s (If...you can even call it {i}last{/i} year? How does that work exactly?) but, if there is anything I {i}do{/i} know...it’s that it’s going to be lively.",
+      "zh": "我不太确定明天的派对跟去年的比起来会怎么样（如果……那也能叫{i}去年{/i}的话？这到底怎么算？），但如果说我{i}确实{/i}知道什么的话……那就是它一定会很热闹。"
     },
     {
       "en": "The class size has nearly doubled and, unless we have some new venue planned out that I haven’t heard of, I think it’s pretty safe to assume that chaos will ensue and...",
@@ -1820,20 +1820,20 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]!"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
     },
     {
-      "en": "Ayane’s affection has increased to [ayane_love]!",
-      "zh": "Ayane 的好感度提升到了 [ayane_love]!"
+      "en": "{i}Ayane’s affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]!{/i}"
     },
     {
-      "en": "Maya’s affection has increased to [maya_love]!",
-      "zh": "Maya 的好感度提升到了 [maya_love]!"
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]!{/i}"
     },
     {
-      "en": "Sana’s affection has increased to [sana_love]!",
-      "zh": "Sana 的好感度提升到了 [sana_love]!"
+      "en": "{i}Sana’s affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]!{/i}"
     },
     {
       "en": ".........",

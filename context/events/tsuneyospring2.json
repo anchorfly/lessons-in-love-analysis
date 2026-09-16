@@ -10,8 +10,8 @@
       "zh": ""
     },
     {
-      "en": "Somewhere kind of far-ish from where you are right now or something...",
-      "zh": "在离你现在所在的地方有点远……之类的什么地方……"
+      "en": "{i}Somewhere kind of far-ish from where you are right now or something...{/i}",
+      "zh": "{i}在离你现在所在的地方有点远……之类的什么地方……{/i}"
     },
     {
       "en": ".........",
@@ -146,10 +146,10 @@
       "en": ""
     },
     {
-      "en": ": Hah...why’s it always an escort quest?",
+      "en": ": {i}Hah...{/i}why’s it always an escort quest? ",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 哈……为什么总是护送任务啊？"
+      "zh": ": {i}哈……{/i}为什么总是护送任务啊？"
     },
     {
       "en": ": Just do your best to not aggro any unnecessary mobs as my magical energy comes from the moon and I can’t imagine that it will be logging in for at least another hour or two.",
@@ -191,10 +191,10 @@
       "en": ""
     },
     {
-      "en": ": I understand that you have accepted your position as a “side heroine” in the life of the man you routinely call the protagonist of our story, but that man has all but vanished and I am the protagonist now.",
+      "en": ": I understand that you have accepted your position as a “side heroine” in the life of the man you routinely call the protagonist of our story, but that man has all but vanished and {i}I{/i} am the protagonist now.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 我明白，你已经接受了自己在那个男人生命中“配角女主”的位置——你总称呼他为我们故事的主角——可那个人几乎已经消失不见了，现在我才是我故事的主角。"
+      "zh": ": 我明白，你已经接受了自己在那个男人生命中“配角女主”的位置——你总称呼他为我们故事的主角——可那个人几乎已经消失不见了，现在{i}我{/i}才是我故事的主角。"
     },
     {
       "en": ": I do not have the time for side characters. And I have asked you to join me today for the sake of my quest, which makes you my main heroine.",
@@ -203,10 +203,10 @@
       "zh": ": 我没有时间应付配角。而我今天请你来是为了我的任务，这让你成为我的主线女主。"
     },
     {
-      "en": ": But as always, you refuse to return the favor and fervor that I give to you when you take the time out of your life to show me the things you love. It’s the cooking contest all over again.",
+      "en": ": But as always, you refuse to return the favor and fervor that I give to you when you take the time out of {i}your{/i} life to show me the things {i}you{/i} love. It’s the cooking contest all over again.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 可一如既往，当我抽出我生命中的时间向你展示我热爱的东西时，你从不回报我给予你的那份心意与热忱。就像那次料理比赛一样。"
+      "zh": ": 可一如既往，当我抽出{i}我{/i}生命中的时间向你展示{i}我{/i}热爱的东西时，你从不回报我给予你的那份心意与热忱。就像那次料理比赛一样。"
     },
     {
       "en": ": Do you really have to scold me, though? I had no idea you loved amusement parks until literally right now.",
@@ -269,10 +269,10 @@
       "zh": ": 我必须来这儿是有某种原因的，但我不确定那究竟是什么。而我认为，重走旧路是弄明白这件事的唯一办法。"
     },
     {
-      "en": ": The problem is that I have never been here before. I’ve only seen this place in dreams — so the act of retracing anything seems difficult.",
+      "en": ": The problem is that I have never been here before. I’ve only seen this place in dreams — so the act of retracing {i}anything{/i} seems difficult.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 问题是我从未来过这儿。我只在梦里见过这个地方——所以“重走”什么的似乎很难。"
+      "zh": ": 问题是我从未来过这儿。我只在梦里见过这个地方——所以“重走”{i}什么{/i}的似乎很难。"
     },
     {
       "en": ""
@@ -341,10 +341,10 @@
       "zh": ": 那不是梦！那是来自另一条时间线的记忆！是你前世经历过的事！你想要把它们找回来，因为它们对你很重要！"
     },
     {
-      "en": ": So, you are saying I have been here before?",
+      "en": ": So, you are saying I {i}have{/i} been here before?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 所以你是说，我以前来过这里？"
+      "zh": ": 所以你是说，我以前{i}来过{/i}这里？"
     },
     {
       "en": ": Most assuredly so! I’ve watched more than enough anime to know just how often Japanese girls are getting wrapped up in tragic, time-based conflicts!",
@@ -353,10 +353,10 @@
       "zh": ": 千真万确！我看了那么多动画，太清楚日本女孩有多常卷进悲剧性的时空纠葛里了！"
     },
     {
-      "en": ": Which means you were right, Kendo Princess! You are the protagonist after all!",
+      "en": ": Which means you were right, Kendo Princess! You {i}are{/i} the protagonist after all!",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 也就是说你是对的，剑道公主！你果然才是主角！"
+      "zh": ": 也就是说你是对的，剑道公主！你果然{i}才是{/i}主角！"
     },
     {
       "en": ""
@@ -374,10 +374,10 @@
       "en": ""
     },
     {
-      "en": ": Which also means I’m finally the main heroine! Yes! Yes, it’s all so clear now! I just needed to wait for a yuri spin-off! Thank you anime-Jesus!",
+      "en": ": Which {i}also{/i} means I’m finally the main heroine! Yes! Yes, it’s all so clear now! I just needed to wait for a yuri spin-off! Thank you anime-Jesus!",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 也就是说我终于成了主线女主！没错！没错，现在一切都清楚了！我只要等一个百合外传就行了！感谢动画耶稣！"
+      "zh": ": {i}也{/i}就是说我终于成了主线女主！没错！没错，现在一切都清楚了！我只要等一个百合外传就行了！感谢动画耶稣！"
     },
     {
       "en": ": Does this mean you will participate in the excursion without being a pansy-ass bitch about it?",
@@ -401,10 +401,10 @@
       "en": ""
     },
     {
-      "en": ": Participate?! I’m gonna lead the charge like all good heroines do!",
+      "en": ": {i}Participate?!{/i} I’m gonna lead the charge like all good heroines do! ",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 参加？！我要像所有优秀的女主那样带头冲锋！"
+      "zh": ": {i}参加{/i}？！我要像所有优秀的女主那样带头冲锋！"
     },
     {
       "en": ": Oh! But first, takoyaki. Come!",
@@ -476,10 +476,10 @@
       "zh": ": 怎么了？你又解锁了什么记忆？和食材那淫靡的摆盘有关吗？你有什么我从不知道的隐秘性创伤吗？"
     },
     {
-      "en": ": Tell me so I can use my heroine powers to fix you.",
+      "en": ": Tell me so I can use my heroine powers to {i}fix{/i} you.",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 告诉我吧，好用我的女主之力治好你。"
+      "zh": ": 告诉我吧，好用我的女主之力{i}治好{/i}你。"
     },
     {
       "en": ": This does seem familiar. Perhaps I’ve eaten this in one of my dreams that aren’t actually dreams according to your animation logic.",
@@ -536,10 +536,10 @@
       "en": ""
     },
     {
-      "en": ": Unless...they were poisoned.",
+      "en": ": Unless...they were {i}poisoned.{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 除非……那是毒丸子。"
+      "zh": ": 除非……那是{i}毒丸子{/i}。"
     },
     {
       "en": ""
@@ -596,16 +596,16 @@
       "en": ""
     },
     {
-      "en": ": Now! To find food that we can actually eat! Mount up, Kendo Princess!",
+      "en": ": {i}Now! To find food that we can actually eat! Mount up, Kendo Princess!{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 现在！去找真正能吃的东西！上马，剑道公主！"
+      "zh": ": {i}现在！去找真正能吃的东西！上马，剑道公主！{/i}"
     },
     {
-      "en": ": Come, legs. Let us find the secrets of my death together.",
+      "en": ": {i}Come, legs. Let us find the secrets of my death together.{/i}",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 来吧，腿。让我们一起去寻找我死亡的秘密。"
+      "zh": ": {i}来吧，腿。让我们一起去寻找我死亡的秘密。{/i}"
     },
     {
       "en": ""
@@ -722,16 +722,16 @@
       "zh": ": Tsuneyo？怎么了？你这辈子见过的鸡尸首够多了。为什么这些让你这么消沉？"
     },
     {
-      "en": ": It’s just that this seems familiar as well. Like I’m experiencing the same events all over again, but coming no closer to uncovering the truth.",
+      "en": ": It’s just that {i}this{/i} seems familiar as well. Like I’m experiencing the same events all over again, but coming no closer to uncovering the truth.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 只是这个也让我觉得熟悉。像是又把同样的事经历了一遍，却一点都没接近真相。"
+      "zh": ": 只是{i}这个{/i}也让我觉得熟悉。像是又把同样的事经历了一遍，却一点都没接近真相。"
     },
     {
-      "en": ": This one too? The takoyaki is one thing, but if everything you eat is killing you, it could imply that there’s a secret criminal organization directly targeting you. And that’s way harder to fix..",
+      "en": ": This one too? The takoyaki is one thing, but if {i}everything{/i} you eat is killing you, it could imply that there’s a secret criminal organization directly targeting you. And that’s {i}way{/i} harder to fix..",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 这个也是？章鱼烧也就算了，可要是你吃的每一样东西都在杀死你，那就意味着有个秘密犯罪组织在专门针对你。那可就难办多了。"
+      "zh": ": 这个也是？章鱼烧也就算了，可要是你吃的{i}每一样东西{/i}都在杀死你，那就意味着有个秘密犯罪组织在专门针对你。那可就难办{i}多了{/i}。"
     },
     {
       "en": ": We’d need a whole team of heroines to band together in order to stand-up to a group like that. This quest is turning into an entire game, Kendo Princess. We must be vigilant or-",
@@ -779,7 +779,7 @@
       "zh": ": 再说了，我唯一有任何关联的组织就是农产品配送管理局，而据我的厨艺知识所及，鸡肉肯定不是蔬菜。"
     },
     {
-      "en": ": Well, if these memories aren’t sticking out to you because they’re scaring you, how are they making you feel?",
+      "en": ": Well, if these memories aren’t sticking out to you because they’re scaring you, how {i}are{/i} they making you feel?",
       "spk": "Molly",
       "spkColor": "#4FCB80",
       "zh": ": 那么，如果这些记忆让你在意并不是因为吓到了你，那它们让你有什么感觉？"
@@ -818,10 +818,10 @@
       "zh": ": 就好像我缺了点什么。"
     },
     {
-      "en": ": Like there is an element to this experience that once existed and just...doesn’t anymore.",
+      "en": ": Like there is an element to this experience that once existed and just...{i}doesn’t{/i} anymore.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 就好像这段经历里曾存在某个要素，如今却……不复存在了。"
+      "zh": ": 就好像这段经历里曾存在某个要素，如今却……{i}不复存在{/i}了。"
     },
     {
       "en": ": But what could that be?",
@@ -869,10 +869,10 @@
       "zh": ": 不可能。我对任何人都没有浪漫的兴趣，也绝不会对这种事有这么强烈的反应。"
     },
     {
-      "en": ": You haven’t experienced anything like that in this life, sure. But what if you’re part of some kind of game where love transcends time? And you need to find your way back to your lover? Or-",
+      "en": ": You haven’t experienced anything like that in {i}this{/i} life, sure. But what if you’re part of some kind of game where love {i}transcends{/i} time? And you need to find your way back to your lover? Or-",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 你的确在这一世没有过这种经历。可万一你是某个游戏的一部分，而爱能超越时间呢？你得找回回到你爱人身边的路？或者——"
+      "zh": ": 你的确在{i}这一世{/i}没有过这种经历。可万一你是某个游戏的一部分，而爱能{i}超越{/i}时间呢？你得找回回到你爱人身边的路？或者——"
     },
     {
       "en": ""
@@ -896,10 +896,10 @@
       "zh": ": 等等……"
     },
     {
-      "en": ": If you brought me here...",
+      "en": ": If you brought {i}me{/i} here...",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 如果你带我来这儿……"
+      "zh": ": 如果你带{i}我{/i}来这儿……"
     },
     {
       "en": ": Do you...do you think that might mean we...",
@@ -926,10 +926,10 @@
       "zh": ": 我不明白。你在暗示什么？"
     },
     {
-      "en": ": That we...that maybe my memories are also...and...you know...",
+      "en": ": That we...that maybe {i}my{/i} memories are also...and...you know...",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 就是我们……也许我的记忆也是……而且……你知道的……"
+      "zh": ": 就是我们……也许{i}我{/i}的记忆也是……而且……你知道的……"
     },
     {
       "en": ": I’m still confused. Be direct or I will not understand.",
@@ -1028,10 +1028,10 @@
       "zh": ": 哦……对。我都忘了 2020 年还有直人存在。我的错。"
     },
     {
-      "en": ": What’s curious is if romantic feelings are at the core of this emptiness....that there are only two men in my life who it could be. And one of them is my father.",
+      "en": ": What’s curious is if romantic feelings {i}are{/i} at the core of this emptiness....that there are only two men in my life who it could be. And one of them is my father.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 有意思的是，如果这份空虚的核心是浪漫感情……那我生命中符合条件的男人只有两个。而其中一个是我的父亲。"
+      "zh": ": 有意思的是，如果这份空虚的核心{i}是{/i}浪漫感情……那我生命中符合条件的男人只有两个。而其中一个是我的父亲。"
     },
     {
       "en": ": Maybe you just...like older guys then?",
@@ -1148,10 +1148,10 @@
       "zh": ": 相比之下，死亡似乎更说得通。"
     },
     {
-      "en": ": Not really, Kendo Princess. And the more I think about it, the more sense it makes. I mean, there’s no way you’ve been killed by every food item here, right?",
+      "en": ": Not really, Kendo Princess. And the more I think about it, the more sense it makes. I mean, there’s no way you’ve been killed by {i}every{/i} food item here, right?",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 不见得，剑道公主。而且我越想越觉得有道理。我是说，你不可能被这里的每一样食物都杀死过吧？"
+      "zh": ": 不见得，剑道公主。而且我越想越觉得有道理。我是说，你不可能被这里的{i}每一样{/i}食物都杀死过吧？"
     },
     {
       "en": ": That does sound implausible. But it could be the universe’s way of telling me to always prepare a meal at home instead of allowing other vendors to price-gouge me.",
@@ -1199,10 +1199,10 @@
       "zh": ": 如果我们整体的思路——把它当成时间线的交汇——本身就是错的呢？如果事情比那更复杂呢？"
     },
     {
-      "en": ": Chances are it is more complicated than that. But I start to zone out whenever shows start getting to the specific metaphysics of situations like this. Just say “time stuff” and leave it at that. GG.",
+      "en": ": Chances are it {i}is{/i} more complicated than that. But I start to zone out whenever shows start getting to the specific metaphysics of situations like this. Just say “time stuff” and leave it at that. GG.",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 大概率是更复杂。不过剧一开始讲这种具体的形而上学，我就开始走神了。说一句“时间的事”就够了。GG。"
+      "zh": ": 大概率{i}是{/i}更复杂。不过剧一开始讲这种具体的形而上学，我就开始走神了。说一句“时间的事”就够了。GG。"
     },
     {
       "en": ": But what if...it’s the opposite?",
@@ -1238,16 +1238,16 @@
       "en": ""
     },
     {
-      "en": ": I’ve been predicting the future this whole time?",
+      "en": ": {i}I’ve been predicting the future this whole time?{/i}",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 我这从头到尾一直在预知未来？"
+      "zh": ": {i}我这从头到尾一直在预知未来？{/i}"
     },
     {
-      "en": ": Odin’s ovaries, you’ve cracked the code! This whole time, all those things felt familiar because they were premonitions! You’re a soothsayer!",
+      "en": ": Odin’s ovaries, you’ve cracked the code! This whole time, all those things felt familiar because they were {i}premonitions!{/i} You’re a soothsayer!",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 奥丁的卵巢啊，你破解了密码！原来如此，那些东西之所以让你觉得熟悉，是因为它们是预兆！你是个预言者！"
+      "zh": ": 奥丁的卵巢啊，你破解了密码！原来如此，那些东西之所以让你觉得熟悉，是因为它们是{i}预兆{/i}！你是个预言者！"
     },
     {
       "en": ": I’ve always known my presence was soothing. This is no surprise to me.",
@@ -1346,10 +1346,10 @@
       "en": ""
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 哈……"
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ": Did I really have to wait all the way down here?",
@@ -1457,10 +1457,10 @@
       "zh": ": 一场可怕的命运即将降临在你身上，兄弟。虽然我不知道那具体是什么，但我知道它存在。"
     },
     {
-      "en": ": And I know that it is terrible because you are involved. And that automatically makes it terrible.",
+      "en": ": And I know that it is terrible because you are involved. And that automatically {i}makes{/i} it terrible.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 而我知道它很可怕，因为牵涉到你。而只要牵涉到你，就自动变得很可怕。"
+      "zh": ": 而我知道它很可怕，因为牵涉到你。而只要牵涉到你，就自动{i}变得{/i}很可怕。"
     },
     {
       "en": ": ...",
@@ -1559,10 +1559,10 @@
       "zh": ": 是的，而我已经谢过你来了。所以你也该谢谢我——"
     },
     {
-      "en": ": No, I mean you brought me here in the past.",
+      "en": ": No, I mean you brought me here {i}in the past.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不，我是说，你以前带我来过这儿。"
+      "zh": ": 不，我是说，你{i}以前{/i}带我来过这儿。"
     },
     {
       "en": ": ...What?",
@@ -1571,10 +1571,10 @@
       "zh": ": ……什么？"
     },
     {
-      "en": ": This is a memory. We’ve done this before.",
+      "en": ": This {i}is{/i} a memory. We’ve done this before.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 这是一段记忆。我们以前做过这件事。"
+      "zh": ": 这{i}是{/i}一段记忆。我们以前做过这件事。"
     },
     {
       "en": ""
@@ -1622,10 +1622,10 @@
       "zh": ": 你没有，Tsuneyo。"
     },
     {
-      "en": ": You’re remembering something you’re not supposed to remember. But I don’t know why you’re remembering it and that...is confusing to me. But we can try and figure that out later.",
+      "en": ": You’re remembering something you’re not supposed to remember. But I don’t know {i}why{/i} you’re remembering it and that...is confusing to me. But we can try and figure that out later.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你在记起一些你不该记起的事。但我不知道你为什么会记起它，这……让我很困惑。不过我们可以以后再想办法弄清楚。"
+      "zh": ": 你在记起一些你不该记起的事。但我不知道你{i}为什么{/i}会记起它，这……让我很困惑。不过我们可以以后再想办法弄清楚。"
     },
     {
       "en": ": Why...were we here? The Guardian made it sound like this would be a date.",
@@ -1757,10 +1757,10 @@
       "zh": ": 哈……哈……哈……嗯啊！"
     },
     {
-      "en": ": Just take a deep breath and remember who you are. Not where you are.",
+      "en": ": Just take a deep breath and remember who you are. Not {i}where{/i} you are. ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 深呼吸，记住你是谁。而不是你在哪儿。"
+      "zh": ": 深呼吸，记住你是谁。而不是你{i}在哪儿{/i}。"
     },
     {
       "en": ": Do you...know what’s happening to me?...",
@@ -1924,8 +1924,8 @@
       "en": ""
     },
     {
-      "en": "Tsuneyo’s affection has increased to [tsuneyo_love]!",
-      "zh": "Tsuneyo 的好感度提升到了 [tsuneyo_love]！"
+      "en": "{i}Tsuneyo’s affection has increased to [tsuneyo_love]!{/i}",
+      "zh": "{i}Tsuneyo 的好感度提升到了 [tsuneyo_love]！{/i}"
     },
     {
       "en": ".........",

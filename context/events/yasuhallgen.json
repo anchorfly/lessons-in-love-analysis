@@ -1,6 +1,6 @@
 {
   "label": "yasuhallgen",
-  "title_zh": "不被拯救",
+  "title_zh": "yasuhallgen",
   "lines": [
     {
       "en": ""
@@ -90,8 +90,8 @@
       "en": ""
     },
     {
-      "en": "I do not wind up being saved, but I do wind up killing time with Yasu in the hall.",
-      "zh": "我最终没被拯救，不过我确实跟 Yasu 在走廊里打发了时间。"
+      "en": "I do not wind up {i}being saved{/i}, but I do wind up killing time with Yasu in the hall.",
+      "zh": "我最终没{i}被拯救{/i}，不过我确实跟 Yasu 在走廊里打发了时间。"
     },
     {
       "en": "Or, I'm sorry- Time winds up moving onto the second plane of existence because death is not real.",
@@ -116,8 +116,8 @@
       "en": ""
     },
     {
-      "en": "Yasu's affection has increased to [yasu_love]!",
-      "zh": "Yasu 的好感度提升到了 [yasu_love]！"
+      "en": "{i}Yasu's affection has increased to [yasu_love]!{/i}",
+      "zh": "{i}Yasu 的好感度提升到了 [yasu_love]！{/i}"
     },
     {
       "en": ".........",

@@ -1,6 +1,6 @@
 {
   "label": "naocamp2",
-  "title_zh": "锅里有什么?",
+  "title_zh": "锅里有什么？",
   "lines": [
     {
       "en": ""
@@ -22,8 +22,8 @@
       "en": ""
     },
     {
-      "en": "wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "zh": "wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+      "en": "{b}wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee{/b}",
+      "zh": "{b}wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee{/b}"
     },
     {
       "en": "pick a peck of pickled peppers pedophilic park/jesus christ is on the cross and noah’s on the ark/in different times and places god would pull us all apart/so pick a peck of pickled peppers ~ lock me in the dark",
@@ -743,10 +743,10 @@
       "zh": "不过我是认真的。你的存在毫无道理可言。鉴于这个世界的本质,我无法排除你可能是某种完全不属于这里的东西。"
     },
     {
-      "en": ": So, now that you have the ability to at least somewhat share your thoughts with me, explaining where you come from might be helpful. And it would make me like you more.",
+      "en": ": So, now that you have the ability to at least somewhat share your thoughts with me, explaining where you come from might be helpful. {i}And{/i} it would make me like you more.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "所以,既然你现在多少有能力和我分享想法,解释一下你从哪来,或许有帮助。那也会让我更喜欢你。"
+      "zh": "所以,既然你现在多少有能力和我分享想法,解释一下你从哪来,或许有帮助。{i}那{/i}也会让我更喜欢你。"
     },
     {
       "en": ""
@@ -911,10 +911,10 @@
       "zh": "?!?!?!?!"
     },
     {
-      "en": ": Hey, there’s no need to pretend-yell about it. Because, in a roundabout way, you’re actually more normal than the girl who’s raising you. And that’s both very odd and very impressive.",
+      "en": ": Hey, there’s no need to pretend-yell about it. Because, in a roundabout way, you’re actually {i}more{/i} normal than the girl who’s raising you. And that’s both very odd and very impressive.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "嘿,没必要假装大喊大叫。因为绕着弯说,你其实比抚养你的那个女孩更正常。这既非常古怪,又非常了不起。"
+      "zh": "嘿,没必要假装大喊大叫。因为绕着弯说,你其实比抚养你的那个女孩{i}更{/i}正常。这既非常古怪,又非常了不起。"
     },
     {
       "en": ""
@@ -998,10 +998,10 @@
       "zh": "……"
     },
     {
-      "en": ": Listen, I have a feeling that nothing you write in that notebook is going to make me any more sure of anything. So if you want to just go back to trying to telepathically communicate, that’s fine by-",
+      "en": ": Listen, I have a feeling that nothing you write in that notebook is going to make me any more sure of {i}anything.{/i} So if you want to just go back to trying to telepathically communicate, that’s fine by-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "听着,我有种预感:你在那个本子上写的任何东西,都不会让我对任何事更有把握。所以你要是想回到尝试心灵感应的老路上,我没意——"
+      "zh": "听着,我有种预感:你在那个本子上写的任何东西,都不会让我对{i}任何事{/i}更有把握。所以你要是想回到尝试心灵感应的老路上,我没意——"
     },
     {
       "en": ""
@@ -1731,8 +1731,8 @@
       "en": ""
     },
     {
-      "en": "Nao’s affection has increased by one.",
-      "zh": "Nao 的好感度提升了 1。"
+      "en": "{i}Nao’s affection has increased by one.{/i}",
+      "zh": "{i}Nao 的好感度提升了 1。{/i}"
     },
     {
       "en": ""
@@ -1828,10 +1828,10 @@
       "en": ""
     },
     {
-      "en": ": Yeah. Tell us, Plant #1. I’m right here, motherfucker. Say that shit to my face.",
+      "en": ": Yeah. {i}Tell us,{/i} Plant #1. I’m right here, motherfucker. Say that shit to my face.",
       "spk": "Plant #2",
       "spkColor": "#e6e6e6",
-      "zh": "对。说吧,1 号植物。我就在这儿,混蛋。有种当着我的面说。"
+      "zh": "对。{i}说吧{/i},1 号植物。我就在这儿,混蛋。有种当着我的面说。"
     },
     {
       "en": ": You don’t have a face, idiot. You are sticks. Sticks in a big cup. Now, go back to your seat and stop making our show look like an episode of Jerry Springer.",
@@ -1867,10 +1867,10 @@
       "zh": "真的吗?我不知道啊。"
     },
     {
-      "en": ": Ahem. Ladies and gentlemen! On today’s episode of “What’s in the Pot?” we’ll be reading mean tweets some of the viewers have written about Akira Arakawa!",
+      "en": ": {i}Ahem.{/i} Ladies and gentlemen! On today’s episode of “What’s in the Pot?” we’ll be reading mean tweets some of the viewers have written about Akira Arakawa!",
       "spk": "Plant #2",
       "spkColor": "#e6e6e6",
-      "zh": "咳嗯。女士们先生们!在今天这期《锅里有什么》中,我们将朗读部分观众写给 Akira Arakawa 的恶毒推文!"
+      "zh": "{i}咳嗯{/i}。女士们先生们!在今天这期《锅里有什么》中,我们将朗读部分观众写给 Akira Arakawa 的恶毒推文!"
     },
     {
       "en": ": That’s right, folks. With your help, we’ve received 344235426145415136 different tweets to choose from. And-",
@@ -1936,10 +1936,10 @@
       "en": ""
     },
     {
-      "en": ": Okay! The real first tweet is this-",
+      "en": ": Okay! The {i}real{/i} first tweet is this-",
       "spk": "Plant #2",
       "spkColor": "#e6e6e6",
-      "zh": "好!真正的第一条推文是这个——"
+      "zh": "好!{i}真正{/i}的第一条推文是这个——"
     },
     {
       "en": ": “This guy’s inner monologue is seriously infuriating. He can fuck any girl he wants but instead, all he does is cry and bitch all day. Like, we get it. You’re sad. That’s not why I’m here.”",
@@ -2047,10 +2047,10 @@
       "zh": "那也可能?"
     },
     {
-      "en": ": Bro, this is Lessons in Love. Anything is possible.",
+      "en": ": Bro, this is Lessons in Love. {i}Anything{/i} is possible.",
       "spk": "Plant #2",
       "spkColor": "#e6e6e6",
-      "zh": "兄弟,这可是 Lessons in Love。一切皆有可能。"
+      "zh": "兄弟,这可是 Lessons in Love。{i}一切{/i}皆有可能。"
     },
     {
       "en": ": Anything except consensual sex you mean.",
@@ -2065,7 +2065,7 @@
       "zh": "哟————。"
     },
     {
-      "en": ": Are we seriously just going to ignore all of the legally consenting MILFs during their update?",
+      "en": ": Are we seriously just going to ignore all of the legally consenting MILFs during {i}their{/i} update?",
       "spk": "Plant #1",
       "spkColor": "#e6e6e6",
       "zh": "我们真要无视更新里那些法定自愿的 MILF 吗?"
@@ -2200,10 +2200,10 @@
       "zh": "他……他……"
     },
     {
-      "en": ": It had to be her, right?! She heard that thing he said and she blew him up! She’s the eldritch horror! Not Ami! It’s been her all along!",
+      "en": ": It had to be {i}her,{/i} right?! She heard that thing he said and she blew him up! {i}She’s{/i} the eldritch horror! Not Ami! It’s been {i}her{/i} all along!",
       "spk": "Plant #4",
       "spkColor": "#e6e6e6",
-      "zh": "一定是她干的,对吧?!她听到了他说的那句话,就把他炸了!她才是那个克苏鲁恐怖!不是 Ami!从头到尾都是她!"
+      "zh": "一定是{i}她{/i}干的,对吧?!她听到了他说的那句话,就把他炸了!{i}她{/i}才是那个克苏鲁恐怖!不是 Ami!从头到尾都是{i}她{/i}!"
     },
     {
       "en": ": It could have been anyone. There just aren’t enough cases of-",
@@ -2329,8 +2329,8 @@
       "en": ""
     },
     {
-      "en": "WHAT’S IN THERE???????????",
-      "zh": "锅里有什么???????????"
+      "en": "{size=+15}{b}WHAT’S IN THERE???????????{/b}{/size}",
+      "zh": "{size=+15}{b}锅里有什么???????????{/b}{/size}"
     },
     {
       "en": ""
@@ -2423,10 +2423,10 @@
       "zh": "……"
     },
     {
-      "en": ": You are...Nao...",
+      "en": ": You are...{i}Nao...{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "你是……Nao……"
+      "zh": "你是……{i}Nao{/i}……"
     },
     {
       "en": ": ...",

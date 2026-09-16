@@ -1,6 +1,6 @@
 {
   "label": "nikispringnightgen",
-  "title_zh": "唯一的知音",
+  "title_zh": "nikispringnightgen",
   "lines": [
     {
       "en": ""
@@ -22,12 +22,12 @@
       "en": ""
     },
     {
-      "en": "I decide to spend the night with one of the only people who really gets me. But the problem with that is that she is one of the only people who really gets me.",
-      "zh": "我决定跟为数不多真正懂我的人之一共度今夜。可问题也正在于此——她恰恰是那为数不多真正懂我的人之一。"
+      "en": "I decide to spend the night with one of the only people who really {i}gets{/i} me. But the problem with that is that she is one of the only people who {i}really gets me.{/i}",
+      "zh": "我决定跟为数不多真正{i}懂{/i}我的人之一共度今夜。可问题也正在于此——她恰恰是那为数不多{i}真正懂我{/i}的人之一。"
     },
     {
-      "en": "And with the state I've been in lately, I'm not sure if that's a good thing or not. Because if someone spends their night reciting my flaws, what am I supposed to do?",
-      "zh": "以我最近这副状态，我拿不准这究竟算好事还是坏事。因为如果有人整晚都在历数我的缺点，那我又能怎么办？"
+      "en": "And with the state I've been in lately, I'm not sure if that's a good thing or not. Because if someone spends their night reciting my flaws, what am {i}I{/i} supposed to do?",
+      "zh": "以我最近这副状态，我拿不准这究竟算好事还是坏事。因为如果有人整晚都在历数我的缺点，那{i}我{/i}又能怎么办？"
     },
     {
       "en": "Granted, any time Niki does that, it's out of love. And I know she means no harm by it.",
@@ -91,8 +91,8 @@
       "en": ""
     },
     {
-      "en": "Niki’s affection has increased to [niki_love]!",
-      "zh": "Niki 的好感度提升到了 [niki_love]!"
+      "en": "{i}Niki’s affection has increased to [niki_love]!{/i}",
+      "zh": "{i}Niki 的好感度提升到了 [niki_love]!{/i}"
     },
     {
       "en": ".........",

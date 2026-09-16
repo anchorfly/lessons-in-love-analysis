@@ -71,16 +71,16 @@
       "zh": "我和 Ami 一起走过大厅，准备在……过了这样一天之后离开[school]。"
     },
     {
-      "en": "I don’t want to say it was a normal day, though...because it was really anything but.",
-      "zh": "但我不想说这是个平常的日子……因为它实在太不平常了。"
+      "en": "I don’t want to say it was a {i}normal{/i} day, though...because it was really anything but.",
+      "zh": "但我不想说这是个{i}平常{/i}的日子……因为它实在太不平常了。"
     },
     {
       "en": "Molly is still determined to try and clear things up with me after what happened on Halloween, and I’m running out of excuses when it comes to avoiding her.",
       "zh": "万圣节那件事之后，Molly 依然执意要跟我把话说清楚，而我在躲她这件事上已经快没借口了。"
     },
     {
-      "en": "Sooner or later, I’m going to have to look her in the eyes and admit to what happened...but that’s kind of impossible to do when I can’t even remember it.",
-      "zh": "迟早，我得直视她的眼睛，承认发生过什么……可在我连那是什么都不记得的情况下，这根本不可能做到。"
+      "en": "Sooner or later, I’m going to have to look her in the eyes and admit to what happened...but that’s kind of impossible to do when I can’t even {i}remember{/i} it.",
+      "zh": "迟早，我得直视她的眼睛，承认发生过什么……可在我连那是什么都不{i}记得{/i}的情况下，这根本不可能做到。"
     },
     {
       "en": "The aftermath is still ingrained into my memory, though.",
@@ -138,8 +138,8 @@
       "zh": "我要怎么把一切变回正常？"
     },
     {
-      "en": "And what was normal in the first place?",
-      "zh": "而所谓正常，一开始又是什么？"
+      "en": "And what {i}was{/i} normal in the first place?",
+      "zh": "而所谓正常，一开始又{i}是{/i}什么？"
     },
     {
       "en": ""
@@ -157,8 +157,8 @@
       "zh": "或者，换个说法——"
     },
     {
-      "en": "Is that everything I want?",
-      "zh": "那就是我想要的全部吗？"
+      "en": "Is that {i}everything{/i} I want?",
+      "zh": "那就是我想要的{i}全部{/i}吗？"
     },
     {
       "en": ""
@@ -440,10 +440,10 @@
       "zh": ": 当然，老师。你想问什么都可以。"
     },
     {
-      "en": ": Is there anything I could do that would make you...feel differently for me than you do right now?",
+      "en": ": Is there {i}anything{/i} I could do that would make you...feel differently for me than you do right now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 有什么事是我做了、会让你对我的感觉变得和现在不同的吗？"
+      "zh": ": 有{i}什么{/i}事是我做了、会让你对我的感觉变得和现在不同的吗？"
     },
     {
       "en": ""
@@ -589,10 +589,10 @@
       "en": ""
     },
     {
-      "en": ": Then maybe even a little more if you know what I mean...",
+      "en": ": Then maybe even a little {i}more{/i} if you know what I mean...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 然后也许还能再多一点，如果你懂我意思的话……"
+      "zh": ": 然后也许还能再{i}多一点{/i}，如果你懂我意思的话……"
     },
     {
       "en": ": You only have two modes. I definitely know what you mean.",
@@ -699,8 +699,8 @@
       "zh": "因为我用手指弄了她姐姐？"
     },
     {
-      "en": "She’s apologizing to me because I fingered her sister and she got upset about it?",
-      "zh": "她因为我用手指弄了她姐姐、而她为此难过，就跑来跟我道歉？"
+      "en": "She’s apologizing to {i}me{/i} because {i}I{/i} fingered her sister and {i}she{/i} got upset about it?",
+      "zh": "她因为{i}我{/i}用手指弄了她姐姐、而{i}她{/i}为此难过，就跑来跟{i}我{/i}道歉？"
     },
     {
       "en": "I don’t understand.",
@@ -780,10 +780,10 @@
       "zh": ": 你和谁做什么我都不在乎！不管是 Niki 还是……Maya……甚至 Ami！"
     },
     {
-      "en": ": It’s not even Ami when I am indisputably Sensei’s number one girl, thank you very much.",
+      "en": ": It’s not {i}even{/i} Ami when I am indisputably Sensei’s number one girl, thank you very much.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 而且反正我毫无疑问是老师的第一女孩，所以那甚至都轮不到 Ami，谢谢。"
+      "zh": ": 而且反正我毫无疑问是老师的第一女孩，所以那{i}甚至{/i}都轮不到 Ami，谢谢。"
     },
     {
       "en": ": The point is that I need to be stronger! And less sensitive!",
@@ -891,10 +891,10 @@
       "zh": ": 那我……先回家去给你放洗澡水了……"
     },
     {
-      "en": ": I still don’t know what’s wrong, but...if it’s something involving Noriko and not Molly, maybe talking to her about it will make you feel better?...",
+      "en": ": I still don’t know what’s wrong, but...if it’s something involving Noriko and {i}not{/i} Molly, maybe talking to her about it will make you feel better?...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我还是不知道出了什么事，不过……如果那是和 Noriko 有关、而不是和 Molly 有关的事，也许跟她谈谈会让你好受一点？……"
+      "zh": ": 我还是不知道出了什么事，不过……如果那是和 Noriko 有关、而{i}不是{/i}和 Molly 有关的事，也许跟她谈谈会让你好受一点？……"
     },
     {
       "en": ""
@@ -972,10 +972,10 @@
       "zh": ": 你为什么不能像正常男孩那样用袜子或者 T 恤解决问题呢？"
     },
     {
-      "en": ": Not that I know what a normal boy is when I’m just an innocent [niece] who-",
+      "en": ": Not that I know what a {i}normal{/i} boy is when I’m just an innocent [niece] who-",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 虽然我这种无辜的[niece]根本不知道正常男孩是什么样的——"
+      "zh": ": 虽然我这种无辜的[niece]根本不知道{i}正常{/i}男孩是什么样的——"
     },
     {
       "en": ""
@@ -1131,10 +1131,10 @@
       "zh": ": 我做了自己发誓不会做的事——那就是挡在你和别人之间……哪怕那个人是我姐姐。"
     },
     {
-      "en": ": But I made a new promise to myself that I would win your heart fair and square! And that means no telling you who to see or what to do!",
+      "en": ": But I made a {i}new{/i} promise to myself that I would win your heart fair and square! And that means no telling you who to see or what to do!",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 但我对自己许下了新的承诺：我要堂堂正正地赢得你的心！那意味着我不会去命令你去见谁、去做什么！"
+      "zh": ": 但我对自己许下了{i}新{/i}的承诺：我要堂堂正正地赢得你的心！那意味着我不会去命令你去见谁、去做什么！"
     },
     {
       "en": ": I want you to choose me for me! Not me as an alternative! And if your interest is going to wane, that just means I have to work harder!",
@@ -1149,10 +1149,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": I realize that I am making a scene right now and that we have been likely receiving strange looks from some of the people in other classes...I can’t really tell because of the whole bowing thing-",
+      "en": ": I realize that I {i}am{/i} making a scene right now and that we have been likely receiving strange looks from some of the people in other classes...I can’t really tell because of the whole bowing thing-",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我知道我现在正在出洋相，而且我们大概已经收到了别的班一些人奇怪的目光……因为我一直鞠躬，也看不太清楚——"
+      "zh": ": 我知道我现在{i}正在{/i}出洋相，而且我们大概已经收到了别的班一些人奇怪的目光……因为我一直鞠躬，也看不太清楚——"
     },
     {
       "en": ": But I need you to know that I am serious! And that I will accept any punishment you deem necessary!",
@@ -1167,10 +1167,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": Any punishment! No matter how sick or twisted it may be!",
+      "en": ": {i}Any{/i} punishment! No matter how sick or twisted it may be!",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 任何惩罚！不管它有多变态、多扭曲！"
+      "zh": ": {i}任何{/i}惩罚！不管它有多变态、多扭曲！"
     },
     {
       "en": ": ...",
@@ -1245,10 +1245,10 @@
       "zh": ": 我得承认，我在走廊拐角听见你大喊的时候，我想的是“哦太好了。青春期闹剧。这种事我碰都不想碰。”"
     },
     {
-      "en": ": But as my legs carried me closer and closer to the source of the noise, I was reminded that I live for this sort of thing! And now I wish nothing but the best for the two of you!",
+      "en": ": But as my legs carried me closer and closer to the source of the noise, I was reminded that I {i}live{/i} for this sort of thing! And now I wish nothing but the best for the two of you!",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ": 但当我的腿带着我越来越靠近声源时，我想起来我就是为这种事而活的！现在我衷心祝愿你们两个幸福！"
+      "zh": ": 但当我的腿带着我越来越靠近声源时，我想起来我就是为这种事而{i}活{/i}的！现在我衷心祝愿你们两个幸福！"
     },
     {
       "en": ": ...",
@@ -1566,16 +1566,16 @@
       "en": ""
     },
     {
-      "en": ": I had to be.",
+      "en": ": I {i}had{/i} to be.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我必须那样。"
+      "zh": ": 我{i}必须{/i}那样。"
     },
     {
-      "en": ": I hate coming off as weak or childish, and crying to you about a thing you did with my sister just made me look like some desperate loser who doesn’t want to actually fight for you.",
+      "en": ": I hate coming off as weak or childish, and crying to you about a thing you did with my sister just made me look like some desperate loser who doesn’t want to actually {i}fight{/i} for you.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我讨厌显得软弱或者幼稚，为你对我姐姐做的事哭哭啼啼，只会让我看起来像个不敢真正为你争取的、绝望的输家。"
+      "zh": ": 我讨厌显得软弱或者幼稚，为你对我姐姐做的事哭哭啼啼，只会让我看起来像个不敢真正为你{i}争取{/i}的、绝望的输家。"
     },
     {
       "en": ": But I really do wanna fight, Sensei. I’m not a kid anymore.",
@@ -1584,10 +1584,10 @@
       "zh": ": 可我真的想争取，老师。我不再是小孩子了。"
     },
     {
-      "en": ": These feelings aren’t just...lingering traces of a first crush or...something I’ve become dependent on in order to get by. They’re real feelings. For you.",
+      "en": ": These feelings aren’t just...lingering traces of a first crush or...something I’ve become dependent on in order to get by. They’re {i}real{/i} feelings. For {i}you{/i}.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 这些感情不只是……初恋残留的痕迹，或者……我为了撑下去而依赖上的某种东西。它们是真实的感情。对你。"
+      "zh": ": 这些感情不只是……初恋残留的痕迹，或者……我为了撑下去而依赖上的某种东西。它们是{i}真{/i}实的感情。对{i}你{/i}。"
     },
     {
       "en": ": So if bowing to you and asking for your forgiveness in the halls is the best way for me to get that across, I’ll be damned if I’m not gonna take the leap.",
@@ -1627,8 +1627,8 @@
       "zh": "在这样的瞬间里，我不必坐上副驾驶，让我那畸形的道德感来操纵我的行为。"
     },
     {
-      "en": "Where I can live without the worry of how me living will impact others.",
-      "zh": "在这样的瞬间里，我可以活着，而不必担心我活着会给别人带来什么影响。"
+      "en": "Where I can live without the worry of how {i}me{/i} living will impact others.",
+      "zh": "在这样的瞬间里，我可以活着，而不必担心{i}我{/i}活着会给别人带来什么影响。"
     },
     {
       "en": "I wish it was possible to just ignore all of those more horrible parts of life.",
@@ -1996,8 +1996,8 @@
       "en": ""
     },
     {
-      "en": "Noriko’s affection has increased to [noriko_love]!",
-      "zh": "Noriko 的好感度提升到了 [noriko_love]!"
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
     },
     {
       "en": ""
@@ -2022,12 +2022,12 @@
       "en": ""
     },
     {
-      "en": "Noriko’s affection has increased to [noriko_love]!",
-      "zh": "Noriko 的好感度提升到了 [noriko_love]!"
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
     },
     {
-      "en": "Ami’s lust has increased to [ami_lust]!",
-      "zh": "Ami 的欲望提升到了 [ami_lust]!"
+      "en": "{i}Ami’s lust has increased to [ami_lust]!{/i}",
+      "zh": "{i}Ami 的欲望提升到了 [ami_lust]!{/i}"
     },
     {
       "en": ""

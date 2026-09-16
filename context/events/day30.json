@@ -38,8 +38,8 @@
       "zh": "这也说明，不知为何，那些女生对我抱有某种程度的信任。"
     },
     {
-      "en": "I guess it's a little strange that Yumi hasn't ratted me out to the higher ups, but...well, I guess she hasn't really had the time to do that with all of her absences.",
-      "zh": "Yumi 还没把我捅给上面，想来是有点奇怪，不过……嗯，她缺勤那么多次，大概真没那个时间。"
+      "en": "I guess it's a little strange that Yumi hasn't ratted me out to the higher ups, but...well, I guess she hasn't really had the time {i}to{/i} do that with all of her absences.",
+      "zh": "Yumi 还没把我捅给上面，想来是有点奇怪，不过……嗯，她缺勤那么多次，大概{i}真没那个时间{/i}。"
     },
     {
       "en": "For all she knows, this might be how Sensei has been doing things all along.",
@@ -207,10 +207,10 @@
       "zh": ": 怎么可能！完全没有！"
     },
     {
-      "en": ": Besides, shouldn't you be trying to hang out with us after that whole let's be friends thing?",
+      "en": ": Besides, shouldn't you be {i}trying{/i} to hang out with us after that whole {i}let's be friends{/i} thing?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 再说了，既然你说了要当朋友，那你不是也该试着跟我们多混混吗？"
+      "zh": ": 再说了，既然你说了{i}要当朋友{/i}，那你不是也该{i}试着{/i}跟我们多混混吗？"
     },
     {
       "en": ": Friends don't just walk past other friends, Sensei. That'd be like, totally messed up.",
@@ -252,10 +252,10 @@
       "zh": ": 我想是有点像那么回事吧，对吧？！"
     },
     {
-      "en": ": Please don't leave me.",
+      "en": ": {i}Please don't leave me.{/i}",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 请别丢下我。"
+      "zh": ": {i}请别丢下我。{/i}"
     },
     {
       "en": ""
@@ -332,10 +332,10 @@
       "zh": ": 哈？什么？嗯。我很好。像黄瓜一样绿。"
     },
     {
-      "en": ": Isn't it cool as a cucumber?",
+      "en": ": Isn't it {i}cool{/i} as a cucumber?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 不是「像黄瓜一样酷」吗？"
+      "zh": ": 不是「像黄瓜一样{i}酷{/i}」吗？"
     },
     {
       "en": ""
@@ -353,16 +353,16 @@
       "en": ""
     },
     {
-      "en": ": It is kind of cool in here, isn't it?! Should I turn the heat up? I know it's summer and that it will conflict with the air conditioner, but if that's what you-",
+      "en": ": It {i}is{/i} kind of cool in here, isn't it?! Should I turn the heat up? I know it's summer and that it will conflict with the air conditioner, but if that's what you-",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 这里确实是有点凉，对吧？！要我把暖气打开吗？我知道现在是夏天，而且会和空调冲突，不过如果你想——"
+      "zh": ": 这里{i}确实{/i}是有点凉，对吧？！要我把暖气打开吗？我知道现在是夏天，而且会和空调冲突，不过如果你想——"
     },
     {
-      "en": ": What? No. I meant, like...the phrase. Isn't the phrase as cool as a cucumber?",
+      "en": ": What? No. I meant, like...the phrase. Isn't the phrase {i}as cool as a cucumber?{/i}",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 什么？不是。我是说……那个说法。那个说法不是「像黄瓜一样冷静」吗？"
+      "zh": ": 什么？不是。我是说……那个说法。那个说法不是「{i}像黄瓜一样冷静{/i}」吗？"
     },
     {
       "en": ""
@@ -380,10 +380,10 @@
       "en": ""
     },
     {
-      "en": ": Hahah! Yeah! They are pretty cool, aren't they?!",
+      "en": ": Hahah! Yeah! They {i}are{/i} pretty cool, aren't they?!",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 哈哈哈！对啊！黄瓜确实挺酷的，对吧？！"
+      "zh": ": 哈哈哈！对啊！黄瓜{i}确实{/i}挺酷的，对吧？！"
     },
     {
       "en": ""
@@ -412,10 +412,10 @@
       "en": ""
     },
     {
-      "en": ": You know...maybe Sensei's onto something? You have seemed kinda weird ever since we got here. Are you sure everything is okay?",
+      "en": ": You know...maybe Sensei's onto something? You {i}have{/i} seemed kinda weird ever since we got here. Are you sure everything is okay?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 你知道吗……也许 Sensei 说得有道理？我们从到这儿开始你就一直有点怪。你确定真的没事吗？"
+      "zh": ": 你知道吗……也许 Sensei 说得有道理？我们从到这儿开始你就{i}一直{/i}有点怪。你确定真的没事吗？"
     },
     {
       "en": ": You don’t like, feel uncomfortable hanging out with me...do you?",
@@ -496,10 +496,10 @@
       "en": ""
     },
     {
-      "en": ": Help.",
+      "en": ": {i}Help.{/i}",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 救命。"
+      "zh": ": {i}救命。{/i}"
     },
     {
       "en": ""
@@ -650,10 +650,10 @@
       "zh": ": 我真不觉得问题出在那儿，Chika。"
     },
     {
-      "en": ": Then what is it? There's no way she's just tired, right? She's yelling way too much for someone who's that tired.",
+      "en": ": Then what is it? There's no way she's just {i}tired,{/i} right? She's yelling way too much for someone who's {i}that{/i} tired.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 那是什么？她不可能只是累了，对吧？一个那么累的人，喊得也太起劲了。"
+      "zh": ": 那是什么？她不可能只是{i}累了{/i}，对吧？一个{i}那么{/i}累的人，喊得也太起劲了。"
     },
     {
       "en": ": She was totally fine at[school], too...She didn't start acting weird until we got here.",
@@ -662,10 +662,10 @@
       "zh": ": 她在[school]的时候也完全正常……我们到了这儿她才开始变得怪怪的。"
     },
     {
-      "en": ": It’s like the second we’re alone, some...switch flips and she turns into a completely different person.",
+      "en": ": It’s like the second we’re alone, some...{i}switch{/i} flips and she turns into a completely different person.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 就好像我们一单独相处，某个……开关就啪地一翻，她就变成了完全另一个人。"
+      "zh": ": 就好像我们一单独相处，某个……{i}开关{/i}就啪地一翻，她就变成了完全另一个人。"
     },
     {
       "en": ": I just don't want it to be my fault, you know? I thought this would be fun.",
@@ -674,10 +674,10 @@
       "zh": ": 我只是不想这是我的错，你懂吗？我本来以为会很好玩的。"
     },
     {
-      "en": ": Well, are you having fun?",
+      "en": ": Well, are {i}you{/i} having fun?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 嗯，那你现在觉得好玩吗？"
+      "zh": ": 嗯，那{i}你{/i}现在觉得好玩吗？"
     },
     {
       "en": ""
@@ -695,10 +695,10 @@
       "en": ""
     },
     {
-      "en": ": I mean...I wanna say yeah...",
+      "en": ": I mean...I {i}wanna{/i} say yeah...",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 我是说……我想说好玩……"
+      "zh": ": 我是说……我{i}想{/i}说好玩……"
     },
     {
       "en": ": But, like...I can’t help but feel like I’m just bothering her right now.",
@@ -707,10 +707,10 @@
       "zh": ": 不过，那个……我总觉得现在自己只是在烦她。"
     },
     {
-      "en": ": I’ve known Rin for years now and the two of us haven’t ever really...hung out before.",
+      "en": ": I’ve known Rin for years now and the two of us haven’t ever really...{i}hung out{/i} before.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 我认识 Rin 好几年了，可我俩从来没真的……一起出去玩过。"
+      "zh": ": 我认识 Rin 好几年了，可我俩从来没真的……{i}一起出去玩{/i}过。"
     },
     {
       "en": ": I don't know. I just feel like it's supposed to feel a lot more...natural than this.",
@@ -719,10 +719,10 @@
       "zh": ": 我也不知道。我只是觉得，这种事本该感觉……自然得多才对。"
     },
     {
-      "en": ": I've gone out with plenty of girlfriends before and none of them have ever acted this...out of place with me. Is it our styles, maybe?",
+      "en": ": I've gone out with plenty of girlfriends before and none of them have ever acted this...{i}out of place{/i} with me. Is it our styles, maybe?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 我以前也交过不少女性朋友，她们没有一个在我面前表现得这么……不自在。也许是风格不合？"
+      "zh": ": 我以前也交过不少女性朋友，她们没有一个在我面前表现得这么……{i}不自在{/i}。也许是风格不合？"
     },
     {
       "en": ": I know we don't have that much in common, but it's not like I'm totally uninterested in any of the stuff she's into. I just don't know much about it. And-",
@@ -1028,10 +1028,10 @@
       "zh": ": 哈哈哈……哈哈哈哈！"
     },
     {
-      "en": ": Thank you, Sensei. Let me know if there's anything I can do to make it up to you, okay?",
+      "en": ": {i}Thank you, Sensei. Let me know if there's anything I can do to make it up to you, okay?{/i}",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 谢谢你，Sensei。要是有什么我能补偿你的，记得跟我说，好吗？"
+      "zh": ": {i}谢谢你，Sensei。要是有什么我能补偿你的，记得跟我说，好吗？{/i}"
     },
     {
       "en": ""
@@ -1061,8 +1061,8 @@
       "zh": "嗯，这么说吧，现在我没必要横插一脚。至少在一切都还这么崭新的当口……"
     },
     {
-      "en": "And certainly not before I know either of them well enough to even want to get myself caught in the early stages of the mess this may become.",
-      "zh": "更不必说，在我还没了解她们任何一个人、还没到愿意把自己卷进这场可能变成的乱局的早期阶段之前。"
+      "en": "And certainly not before I know either of them well enough to even {i}want{/i} to get myself caught in the early stages of the mess this may become.",
+      "zh": "更不必说，在我还没了解她们任何一个人、还没到{i}愿意{/i}把自己卷进这场可能变成的乱局的早期阶段之前。"
     },
     {
       "en": "I'll remain on the sidelines for now. I don't have to start every single game.",
@@ -1095,16 +1095,16 @@
       "en": ""
     },
     {
-      "en": "Rin's affection has increased to [rin_love]!",
-      "zh": "Rin 的好感度提升到了 [rin_love]！"
+      "en": "{i}Rin's affection has increased to [rin_love]!{/i}",
+      "zh": "{i}Rin 的好感度提升到了 [rin_love]！{/i}"
     },
     {
-      "en": "Chika's affection has increased to [chika_love]!",
-      "zh": "Chika 的好感度提升到了 [chika_love]！"
+      "en": "{i}Chika's affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]！{/i}"
     },
     {
-      "en": "Before I know it, the day has come to an end and I am on my way home.",
-      "zh": "等我回过神来，这一天已经结束，人也在回家的路上了。"
+      "en": "{i}Before I know it, the day has come to an end and I am on my way home.{/i}",
+      "zh": "{i}等我回过神来，这一天已经结束，人也在回家的路上了。{/i}"
     },
     {
       "en": ".........",

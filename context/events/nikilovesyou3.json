@@ -1,6 +1,6 @@
 {
   "label": "nikilovesyou3",
-  "title_zh": "",
+  "title_zh": "如何让爱留下",
   "lines": [
     {
       "en": ""
@@ -37,10 +37,10 @@
       "zh": ": 我不用。"
     },
     {
-      "en": ": Are you sure? Is there anything else you want? Water? Something a little harder to take the edge off?",
+      "en": ": Are you sure? Is there anything {i}else{/i} you want? Water? Something a little harder to take the edge off?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 确定吗？还有别的想要的吗？水？还是要来点烈的缓一缓？"
+      "zh": ": 确定吗？还有{i}别的{/i}想要的吗？水？还是要来点烈的缓一缓？"
     },
     {
       "en": ": I’m okay. Thank you.",
@@ -49,10 +49,10 @@
       "zh": ": 我真的没事。谢谢你。"
     },
     {
-      "en": ": Okay. I’ll be right back, but make yourself at home. Should be easy since you did basically live here when we were kids.",
+      "en": ": Okay. I’ll be right back, but make yourself at home. Should be easy since you {i}did{/i} basically live here when we were kids.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 好吧。我马上回来，你别客气。反正我们小时候你基本就住在这儿，应该很容易。"
+      "zh": ": 好吧。我马上回来，你别客气。反正我们小时候你基本{i}就住在这儿{/i}，应该很容易。"
     },
     {
       "en": ": Okay...",
@@ -110,8 +110,8 @@
       "zh": "这个名字在我脑后回响。"
     },
     {
-      "en": "Who knows that name?",
-      "zh": "谁知道这个名字？"
+      "en": "Who {i}knows{/i} that name?",
+      "zh": "谁{i}知道{/i}这个名字？"
     },
     {
       "en": "Ami surely does, yet she’s never said it to me.",
@@ -130,8 +130,8 @@
       "zh": "不过是一个词——它不该让我觉得自己变得这么不一样。"
     },
     {
-      "en": "But I don’t deserve a name. I feel real now. I’m suddenly a person instead of just a title, and...I shouldn’t be gifted something so valuable when everything else is already wrapped around my fingers.",
-      "zh": "可我不配拥有一个名字。我现在感觉自己是真实的了。我突然成了一个人，而不只是一个头衔，而且……别的一切都已经绕在我指尖了，我不该再被赐予这么珍贵的东西。"
+      "en": "But I don’t deserve a name. I feel {i}real{/i} now. I’m suddenly a person instead of just a title, and...I shouldn’t be gifted something so valuable when everything else is already wrapped around my fingers.",
+      "zh": "可我不配拥有一个名字。我现在感觉自己是{i}真{/i}实的了。我突然成了一个人，而不只是一个头衔，而且……别的一切都已经绕在我指尖了，我不该再被赐予这么珍贵的东西。"
     },
     {
       "en": "The weight of five forbidden letters presses down on my neck and there is nothing I can do but hang my head in response.",
@@ -150,12 +150,12 @@
       "zh": "我所知道的慰藉只有一种——而此刻我和一个只想安慰我的女孩单独待在一起。"
     },
     {
-      "en": "But is this the way it’s meant to be?",
-      "zh": "可事情本该是这样发生的吗？"
+      "en": "But is {i}this{/i} the way it’s meant to be?",
+      "zh": "可事情本该是{i}这{/i}样发生的吗？"
     },
     {
-      "en": "Is this what she envisioned under luxury blankets in fancy hotels, whispering my name into the dark corner of a room while doing to herself what I was not present to do?",
-      "zh": "这就是她曾经在高级酒店的名贵毛毯下幻想过的场景吗——在房间黑暗的角落里低声念着我的名字，对我本该在场去做的事自己动手？"
+      "en": "Is {i}this{/i} what she envisioned under luxury blankets in fancy hotels, whispering my name into the dark corner of a room while doing to herself what I was not present to do?",
+      "zh": "{i}这{/i}就是她曾经在高级酒店的名贵毛毯下幻想过的场景吗——在房间黑暗的角落里低声念着我的名字，对我本该在场去做的事自己动手？"
     },
     {
       "en": "I have never whispered her name.",
@@ -181,10 +181,10 @@
       "en": ""
     },
     {
-      "en": ": That’s not true. You used to whisper my name all the time. Just because I made you doesn’t mean it doesn’t count.",
+      "en": ": That’s not true. You used to whisper {i}my{/i} name all the time. Just because I {i}made{/i} you doesn’t mean it doesn’t count.",
       "spk": "Sekai",
       "spkColor": "#FF0055",
-      "zh": ": 才不是呢。你以前就老是低声念我的名字。就算是我把你造出来的，那也算数。"
+      "zh": ": 才不是呢。你以前就老是低声念{i}我的{/i}名字。就算是我把你{i}造出来{/i}的，那也算数。"
     },
     {
       "en": ""
@@ -211,16 +211,16 @@
       "zh": ": 我在想，要是你现在伸手碰我一下，会发生什么？"
     },
     {
-      "en": ": Do you think I’d feel it?...Do you think you’d feel it?",
+      "en": ": Do you think I’d feel it?...Do you think {i}you’d{/i} feel it?",
       "spk": "Sekai",
       "spkColor": "#FF0055",
-      "zh": ": 你觉得我能感觉到吗？……你觉得你能感觉到吗？"
+      "zh": ": 你觉得我能感觉到吗？……你觉得{i}你{/i}能感觉到吗？"
     },
     {
-      "en": ": You still can feel, right? You don’t miss me so much that you’re physically numb now too, I hope.",
+      "en": ": You still {i}can{/i} feel, right? You don’t miss me so much that you’re {i}physically{/i} numb now too, I hope.",
       "spk": "Sekai",
       "spkColor": "#FF0055",
-      "zh": ": 你还能感觉得到吧？你总不至于想我想到连身体都麻木了吧，我希望。"
+      "zh": ": 你{i}还能{/i}感觉得到吧？你总不至于想我想到连{i}身体{/i}都麻木了吧，我希望。"
     },
     {
       "en": ""
@@ -450,10 +450,10 @@
       "zh": ": 而且 Noriko 现在也不怎么来了，所以你不用担心她在这里撞见你、误会什么之类的。"
     },
     {
-      "en": ": Would it be the wrong idea?",
+      "en": ": {i}Would{/i} it be the wrong idea?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那会是误会吗？"
+      "zh": ": 那{i}会{/i}是误会吗？"
     },
     {
       "en": ""
@@ -537,16 +537,16 @@
       "en": ""
     },
     {
-      "en": ": Better than what? Being there for someone who needs me? Someone I’ve made it pretty apparent I’d do anything for today?",
+      "en": ": Better than what? Being there for someone who needs me? Someone I’ve made it {i}pretty{/i} apparent I’d do anything for today?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 比什么更好？比陪在一个需要我的人身边更好？我表现得已经很明显了吧，今天我愿意为他做任何事。"
+      "zh": ": 比什么更好？比陪在一个需要我的人身边更好？我表现得已经{i}很明显{/i}了吧，今天我愿意为他做任何事。"
     },
     {
-      "en": ": I’m not above you just because I unlocked compassion in my skill tree and you skipped over that in favor of...penis size or something.",
+      "en": ": I’m not {i}above{/i} you just because I unlocked compassion in my skill tree and you skipped over that in favor of...penis size or something.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我不会因为在技能树上点开了“同情”就比你高一等，你只是跳过了它，去点了……阴茎尺寸之类的。"
+      "zh": ": 我不会因为在技能树上点开了“同情”就比你{i}高一等{/i}，你只是跳过了它，去点了……阴茎尺寸之类的。"
     },
     {
       "en": ": Worthy investment. Compassion gets you nowhere.",
@@ -825,22 +825,22 @@
       "zh": ": 开心。"
     },
     {
-      "en": ": I can’t be happy to you. That didn’t make sense in context.",
+      "en": ": I can’t be happy {i}to{/i} you. That didn’t make sense in context.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我不能“对你”开心。这在语境里说不通。"
+      "zh": ": 我不能“{i}对你{/i}”开心。这在语境里说不通。"
     },
     {
-      "en": ": I don’t give a fuck if it makes sense or not. You can say whatever you want to me and I’ll probably give you shit for it because I’m just so used to giving you shit at this point.",
+      "en": ": I don’t give a fuck if it makes sense or not. You can say whatever you want to me and I’ll probably give you shit for it because I’m just so {i}used{/i} to giving you shit at this point.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我才不管它通不通。你想对我说什么就说什么，我大概都会拿你开涮，因为到这地步我已经习惯拿你开涮了。"
+      "zh": ": 我才不管它通不通。你想对我说什么就说什么，我大概都会拿你开涮，因为到这地步我已经{i}习惯{/i}拿你开涮了。"
     },
     {
-      "en": ": But the truth is, as long as you don’t feel like the world is caving in around you, I’ll be fully content and fully willing to overlook any corny compliment you toss at me.",
+      "en": ": But the truth is, as long as you don’t feel like the world is caving in around you, I’ll be fully content and fully willing to overlook {i}any{/i} corny compliment you toss at me.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 但说实话，只要你不再觉得世界正在你周围塌下来，我就完全满足，也完全愿意无视你扔过来的任何肉麻恭维。"
+      "zh": ": 但说实话，只要你不再觉得世界正在你周围塌下来，我就完全满足，也完全愿意无视你扔过来的{i}任何{/i}肉麻恭维。"
     },
     {
       "en": ": Why are you touching my face?",
@@ -849,10 +849,10 @@
       "zh": ": 你为什么要摸我的脸？"
     },
     {
-      "en": ": Because it’s a good face and I like it.",
+      "en": ": Because it’s a good face and I {i}like{/i} it.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 因为这是张好脸，我喜欢。"
+      "zh": ": 因为这是张好脸，我{i}喜欢{/i}。"
     },
     {
       "en": ": Like it in a less-touchy way or something is going to wind up happening that you’ll regret in the morning.",
@@ -876,10 +876,10 @@
       "en": ""
     },
     {
-      "en": ": What’s that? You want me to touch you more? I mean...I guess if you insist.",
+      "en": ": What’s that? You want me to touch you more? I mean...I {i}guess{/i} if you insist.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 什么？你想让我多摸摸你？好吧……既然你这么坚持。"
+      "zh": ": 什么？你想让我多摸摸你？{i}好吧{/i}……既然你这么坚持。"
     },
     {
       "en": ": Niki...",
@@ -984,10 +984,10 @@
       "zh": ": 我们俩都很难过，也都累了……而且恕我直言，你看起来得睡上整整一个礼拜，眼睛才能恢复正常。"
     },
     {
-      "en": ": I didn’t ask if today was fun. I asked if it was special.",
+      "en": ": I didn’t ask if today was {i}fun.{/i} I asked if it was {i}special.{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我没问今天开不开心。我问的是它特不特别。"
+      "zh": ": 我没问今天{i}开不开心{/i}。我问的是它{i}特不特别{/i}。"
     },
     {
       "en": ""
@@ -1233,10 +1233,10 @@
       "zh": ": 作为你的前女友，我非常为你骄傲……"
     },
     {
-      "en": ": And no matter what I become next, I’ll still be proud of you.",
+      "en": ": And no matter what I become next, I’ll {i}still{/i} be proud of you.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 而无论我接下来变成什么，我依然会为你骄傲。"
+      "zh": ": 而无论我接下来变成什么，我{i}依然{/i}会为你骄傲。"
     },
     {
       "en": ": Now, sit still and let me lose my virginity before I die of old age.",
@@ -1264,24 +1264,24 @@
       "zh": "躺了一会儿，我的阴茎抵在她的腰间，Niki 伸手下去，开始抚弄我。"
     },
     {
-      "en": "Getting hard wasn’t an issue...I knew it wasn’t going to be an issue the moment she unlocked the door.",
-      "zh": "勃起不是问题……她开门的那一刻我就知道不会是问题。"
+      "en": "Getting hard wasn’t an issue...I knew it wasn’t going to {i}be{/i} an issue the moment she unlocked the door.",
+      "zh": "勃起不是问题……她开门的那一刻我就知道{i}不会是问题{/i}。"
     },
     {
       "en": "But I didn’t know if it would come to this.",
       "zh": "但我不知道事情会不会走到这一步。"
     },
     {
-      "en": "Or perhaps it would be better to say I didn’t want it to come to this.",
-      "zh": "或者，倒不如说我不希望它走到这一步。"
+      "en": "Or perhaps it would be better to say I didn’t {i}want{/i} it to come to this.",
+      "zh": "或者，倒不如说我不{i}希望{/i}它走到这一步。"
     },
     {
       "en": "A girl like her, who’s done so much just to prop me up throughout the years, should not settle for me at my worst when she deserves me at my best.",
       "zh": "像她这样的女孩，这些年来为了撑住我做了那么多，不该将就地要最糟糕的我，她值得拥有最好的我。"
     },
     {
-      "en": "But here I lie as she, once again, goes out of her way to do something that will make me feel better — utterly unwilling to accept the fact that it’s something she wants as well.",
-      "zh": "可现在我就躺在这里，她再一次特意去做一件能让我好受些的事——完全不愿意承认，这其实也是她自己想要的事。"
+      "en": "But here I lie as she, once again, goes out of her way to do something that will make {i}me{/i} feel better — utterly unwilling to accept the fact that it’s something she wants as well.",
+      "zh": "可现在我就躺在这里，她再一次特意去做一件能让{i}我{/i}好受些的事——完全不愿意承认，这其实也是她自己想要的事。"
     },
     {
       "en": "This room is held together by a lifetime's worth of memories and all I can do in this moment is try and force a few away so we fall through a hole in the floor before we climb too far up.",
@@ -1323,10 +1323,10 @@
       "zh": ": 你准备好了吗？"
     },
     {
-      "en": ": I think the real question is if you’re ready.",
+      "en": ": I think the real question is if {i}you’re{/i} ready.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 真正的问题应该是你准备好了没有。"
+      "zh": ": 真正的问题应该是{i}你{/i}准备好了没有。"
     },
     {
       "en": ": Yeah...but I’m gonna move a little slow at first. Just until I get used to it.",
@@ -1362,10 +1362,10 @@
       "zh": ": 不会的。"
     },
     {
-      "en": ": I’ve waited for this moment for far too long for it to hurt.",
+      "en": ": I’ve waited for this moment for {i}far{/i} too long for it to hurt.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我为这一刻等了太久，它不会疼的。"
+      "zh": ": 我为这一刻等了{i}太久{/i}，它不会疼的。"
     },
     {
       "en": ""
@@ -1466,10 +1466,10 @@
       "zh": ": 是吗？……真的吗？……"
     },
     {
-      "en": ": It’s not too...cramped in there?...Cause I’m feeling...um...pretty full...",
+      "en": ": It’s not too...cramped in there?...Cause I’m feeling...um...pretty {i}full...{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 里面……不会太挤吗？……因为我感觉……嗯……好满……"
+      "zh": ": 里面……不会太挤吗？……因为我感觉……嗯……{i}好满{/i}……"
     },
     {
       "en": ": I don’t know if I can take the whole thing just yet...",
@@ -1544,10 +1544,10 @@
       "en": ""
     },
     {
-      "en": ": Hah! Oh...mmf! That’s deep. Fuck, that’s deep.",
+      "en": ": Hah! Oh...mmf! That’s deep. {i}Fuck,{/i} that’s deep.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 哈！哦……嗯！好深。操，好深。"
+      "zh": ": 哈！哦……嗯！好深。{i}操{/i}，好深。"
     },
     {
       "en": ": Oooh wow. Fingering does not prepare you for this.",
@@ -1675,10 +1675,10 @@
       "zh": ": Akira……Akira……Akira~"
     },
     {
-      "en": ": I’m so happy...this is...so long overdue...",
+      "en": ": I’m so happy...this is...{i}so{/i} long overdue...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我好开心……这……来得太晚了……"
+      "zh": ": 我好开心……这……来得{i}太晚了{/i}……"
     },
     {
       "en": ": Starting to enjoy yourself a little?",
@@ -1687,10 +1687,10 @@
       "zh": ": 开始有点享受了？"
     },
     {
-      "en": ": Hah...heheh...maybe a little...but I’m more turned on by the idea than...ngh...how it actually feels...",
+      "en": ": Hah...heheh...maybe a {i}little...{/i}but I’m more turned on by the idea than...ngh...how it actually feels...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 哈……嘿嘿……也许有一点……不过比起实际的感觉……嗯……我更兴奋的是那个“念头”本身……"
+      "zh": ": 哈……嘿嘿……也许有{i}一点{/i}……不过比起实际的感觉……嗯……我更兴奋的是那个“念头”本身……"
     },
     {
       "en": ""
@@ -1708,10 +1708,10 @@
       "en": ""
     },
     {
-      "en": ": Then maybe try...getting more into the idea?...",
+      "en": ": Then maybe try...getting more into the {i}idea?...{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那也许……你可以试着更投入那个念头？……"
+      "zh": ": 那也许……你可以试着更投入{i}那个念头{/i}？……"
     },
     {
       "en": ": Hah...ngh...and...how can I do that?...",
@@ -1768,8 +1768,8 @@
       "en": ""
     },
     {
-      "en": "As Niki lifts her shirt and exposes herself, she begins to ramp up her movement and is now full-on riding me the way she was meant to be.",
-      "zh": "Niki 掀起上衣露出身体，动作也随之加快，现在完全是她该有的骑乘姿态。"
+      "en": "As Niki lifts her shirt and exposes herself, she begins to ramp up her movement and is now full-on riding me the way she was {i}meant{/i} to be.",
+      "zh": "Niki 掀起上衣露出身体，动作也随之加快，现在完全是她{i}该有的{/i}骑乘姿态。"
     },
     {
       "en": "I don’t know if it can be entirely attributed to her dancing skills and sense of rhythm, but the way she rocks her body makes her look like an experienced porn star rather than a girl in the throes of her first time.",
@@ -1906,10 +1906,10 @@
       "en": ""
     },
     {
-      "en": ": Ooooh God I love your dick...I love your dick so much...oh fuck, Akira...it feels so fucking good inside me...",
+      "en": ": Ooooh {i}God{/i} I love your dick...I love your dick so much...oh {i}fuck,{/i} Akira...it feels so fucking good inside me...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 噢噢噢天哪我爱你的鸡巴……我好爱你的鸡巴……操，Akira……它在我里面感觉太他妈舒服了……"
+      "zh": ": 噢噢噢{i}天哪{/i}我爱你的鸡巴……我好爱你的鸡巴……{i}操{/i}，Akira……它在我里面感觉太他妈舒服了……"
     },
     {
       "en": ": Niki...I can’t take much more...",
@@ -1939,10 +1939,10 @@
       "zh": ": 啊……真的吗？……可我刚刚才觉得有意思起来……"
     },
     {
-      "en": ": You can’t hold out for just a little while longer?...",
+      "en": ": You can’t hold out for just a {i}little{/i} while longer?...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你就不能再撑一会儿吗？……"
+      "zh": ": 你就不能再撑{i}一会儿{/i}吗？……"
     },
     {
       "en": ": Uhhhhh...",
@@ -2039,16 +2039,16 @@
       "zh": ": Akira……"
     },
     {
-      "en": ": Akira...",
+      "en": ": {size=+10}{i}Akira...{/i}{/size}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": Akira……"
+      "zh": ": {size=+10}{i}Akira……{/i}{/size}"
     },
     {
       "en": ": Akira!!!",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": Akira！！！"
+      "zh": ": {size=+10}{i}Akira！！！{/i}{/size}"
     },
     {
       "en": ""
@@ -2120,12 +2120,12 @@
       "en": ""
     },
     {
-      "en": "Niki’s affection has increased to [niki_love]!",
-      "zh": "Niki 的好感度提升到了 [niki_love]!"
+      "en": "{i}Niki’s affection has increased to [niki_love]!{/i}",
+      "zh": "{i}Niki 的好感度提升到了 [niki_love]!{/i}"
     },
     {
-      "en": "Who is it you truly belong with?",
-      "zh": "你真正属于的那个人，是谁？"
+      "en": "{i}Who is it you truly belong with?{/i}",
+      "zh": "{i}你真正属于的那个人，是谁？{/i}"
     },
     {
       "en": ".........",

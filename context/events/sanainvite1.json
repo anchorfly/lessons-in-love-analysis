@@ -21,8 +21,8 @@
       "zh": "这不是我常做的事。但这是（在众多事情之中）我希望在今后的生活里做出改变的一件。"
     },
     {
-      "en": "Not just because I’m curious about how her insides feel, though. It’s because something has changed in her that can’t be quantified or clarified by the amount of sex we will have in the future.",
-      "zh": "不过也不只是因为好奇她的里面手感如何。而是因为她身上发生了某种变化，那种变化无法用我们将来会做多少次爱来衡量或说清。"
+      "en": "Not {i}just{/i} because I’m curious about how her insides feel, though. It’s because something has changed in her that can’t be quantified or clarified by the amount of sex we will have in the future.",
+      "zh": "不过也不{i}只是{/i}因为好奇她的里面手感如何。而是因为她身上发生了某种变化，那种变化无法用我们将来会做多少次爱来衡量或说清。"
     },
     {
       "en": "No matter how hard we try.",
@@ -69,10 +69,10 @@
       "zh": ": 你今晚来吗？"
     },
     {
-      "en": ": Is there any chance you could just...not go to work?",
+      "en": ": Is there any chance you could just...{i}not{/i} go to work? ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "你有没有可能就……别去上班了？"
+      "zh": ": 你有没有可能就……{i}别{/i}去上班了？"
     },
     {
       "en": ": Is...uhh...",
@@ -90,7 +90,7 @@
       "en": ": Possibly.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "有可能。"
+      "zh": ": 有可能。"
     },
     {
       "en": ": May I...ask what it is?...",
@@ -99,22 +99,22 @@
       "zh": ": 我……可以问问是什么事吗？……"
     },
     {
-      "en": ": What do you want it to be?",
+      "en": ": What do you {i}want{/i} it to be?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "你希望是什么事？"
+      "zh": ": 你{i}希望{/i}是什么事？"
     },
     {
       "en": ": ...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": "..."
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "..."
+      "zh": ": ..."
     },
     {
       "en": ": Let me call you right back.",
@@ -162,7 +162,7 @@
       "en": ": Awesome. Now I have someone to go to that brand new all-you-can-eat spaghetti buffet with.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "太好了。这下我总算有人陪着去那家新开的自助意面吃到饱了。"
+      "zh": ": 太好了。这下我总算有人陪着去那家新开的自助意面吃到饱了。"
     },
     {
       "en": ": Let me call her back again and tell her I’m okay now.",
@@ -174,7 +174,7 @@
       "en": ": Damn. I was also planning on breaking in my new mattress afterward, but I guess I can just find someone else to help me with that part.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "真可惜。我还打算之后顺便把我的新床垫开个光呢，不过看来那部分我可以另找人帮忙。"
+      "zh": ": 真可惜。我还打算之后顺便把我的新床垫开个光呢，不过看来那部分我可以另找人帮忙。"
     },
     {
       "en": ": Can we just...skip the spaghetti thing and go straight to that?",
@@ -183,10 +183,10 @@
       "zh": ": 我们能不能就……跳过意面那一步，直接来那个？"
     },
     {
-      "en": ": I guess. How soon can you be at my place?",
+      "en": ": I {i}guess.{/i} How soon can you be at my place?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "大概行吧。你多久能到我家？"
+      "zh": ": {i}大概{/i}行吧。你多久能到我家？"
     },
     {
       "en": ": Uh...twenty minutes? Should I...bring anything?",
@@ -198,7 +198,7 @@
       "en": ": What would you even bring?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "你能带什么？"
+      "zh": ": 你能带什么？"
     },
     {
       "en": ": I...uh...",
@@ -216,7 +216,7 @@
       "en": ": No secret lingerie collection you’ve been hiding from everyone?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "没有偷偷藏着、谁都不知道的秘密内衣收藏？"
+      "zh": ": 没有偷偷藏着、谁都不知道的秘密内衣收藏？"
     },
     {
       "en": ": I could...bring one of my old Halloween costumes?",
@@ -228,7 +228,7 @@
       "en": ": On second thought, I think I’m just going to go to the spaghetti buffet alone and call it an early night.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "再想想，我觉得我还是一个人去吃自助意面，然后早点睡算了。"
+      "zh": ": 再想想，我觉得我还是一个人去吃自助意面，然后早点睡算了。"
     },
     {
       "en": ": I’ll come empty-handed! I promise!",
@@ -246,7 +246,7 @@
       "en": ": No backing out! Goodbye!",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": "不许反悔！再见！"
+      "zh": ": 不许反悔！再见！"
     },
     {
       "en": ""
@@ -330,10 +330,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": Oh.",
+      "en": ": {i}Oh.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 哦。"
+      "zh": ": {i}哦。{/i}"
     },
     {
       "en": ": Well hi, Akira. I love you too.",
@@ -348,10 +348,10 @@
       "zh": ": 我不知道你今天会这么早在家。"
     },
     {
-      "en": ": Is it a problem that I am home so early?",
+      "en": ": Is it a {i}problem{/i} that I am home so early?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": "我这么早在家，有问题吗？"
+      "zh": ": 我这么早在家，{i}有问题{/i}吗？"
     },
     {
       "en": ": Uhh-",
@@ -393,10 +393,10 @@
       "en": ""
     },
     {
-      "en": ": Oh. I see.",
+      "en": ": Oh. I {i}see.{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 哦。我明白了。"
+      "zh": ": 哦。我{i}明白了{/i}。"
     },
     {
       "en": ": Uhh...",
@@ -414,7 +414,7 @@
       "en": ": It’s probably just a package.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "大概只是个快递。"
+      "zh": ": 大概只是个快递。"
     },
     {
       "en": ""
@@ -423,10 +423,10 @@
       "en": ""
     },
     {
-      "en": ": Sensei...are you...are you home yet?",
+      "en": ": {i}Sensei...are you...are you home yet?{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 老师……你……你已经到家了吗？"
+      "zh": ": {i}老师……你……你已经到家了吗？{/i}"
     },
     {
       "en": ": ...",
@@ -489,7 +489,7 @@
       "en": ": Yes. That is the only reason a girl her age would have to come see me while Ami is not home.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "对。这是她这个年纪的女孩在 Ami 不在家时来找我的唯一理由。"
+      "zh": ": 对。这是她这个年纪的女孩在 Ami 不在家时来找我的唯一理由。"
     },
     {
       "en": ""
@@ -531,16 +531,16 @@
       "en": ""
     },
     {
-      "en": ": Should I...come back another time?...",
+      "en": ": {i}Should I...come back another time?...{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 我……要不要改天再来？……"
+      "zh": ": {i}我……要不要改天再来？……{/i}"
     },
     {
-      "en": ": Great! I’m glad you agree. Let me run to the restroom and I’ll be right back to supervi- ahem. I’ll be right back to watch you!",
+      "en": ": Great! I’m glad you agree. Let me run to the restroom and I’ll be right back to supervi- ahem. I’ll be right back to {i}watch{/i} you!",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 太好了！很高兴你同意。我先去趟洗手间，马上回来监——咳哼。马上回来看着你！"
+      "zh": ": 太好了！很高兴你同意。我先去趟洗手间，马上回来监——咳哼。马上回来{i}看着你{/i}！"
     },
     {
       "en": ": Niki-",
@@ -570,10 +570,10 @@
       "en": ""
     },
     {
-      "en": ": Where my totally normal boyfriend gets visits from totally normal girls who are totally here to learn! How fun!",
+      "en": ": {i}Where my totally normal boyfriend gets visits from totally normal girls who are totally here to learn! How fun!{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我那完全正常的男朋友，被完全正常的女孩子们登门拜访，而她们完全是来学习的！多好玩啊！"
+      "zh": ": {i}我那完全正常的男朋友，被完全正常的女孩子们登门拜访，而她们完全是来学习的！多好玩啊！{/i}"
     },
     {
       "en": ": ...",
@@ -588,16 +588,16 @@
       "en": ""
     },
     {
-      "en": ": Maybe the doorbell is just...broken?",
+      "en": ": {i}Maybe the doorbell is just...broken?{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 也许门铃只是……坏了？"
+      "zh": ": {i}也许门铃只是……坏了？{/i}"
     },
     {
       "en": ": Come in, Sana. It’s fine.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "进来吧，Sana。没事的。"
+      "zh": ": 进来吧，Sana。没事的。"
     },
     {
       "en": ""
@@ -624,7 +624,7 @@
       "en": ": The doorbell’s fine. But there’s been a change of plans.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "门铃没坏。不过计划有变。"
+      "zh": ": 门铃没坏。不过计划有变。"
     },
     {
       "en": ": If you’re nervous about it being my first time, don’t be. I want you to hurt me.",
@@ -669,7 +669,7 @@
       "en": ": Sana, I need to tutor you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "Sana，我得给你补课。"
+      "zh": ": Sana，我得给你补课。"
     },
     {
       "en": ": You sure do, Sensei.",
@@ -681,7 +681,7 @@
       "en": ": No, I mean I literally need to tutor you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "不，我的意思是我真的得给你补课。"
+      "zh": ": 不，我的意思是我真的得给你补课。"
     },
     {
       "en": ""
@@ -699,16 +699,16 @@
       "en": ""
     },
     {
-      "en": ": Why do you only exist to hurt me in the ways I do not want to be hurt?",
+      "en": ": Why do you only exist to hurt me in the ways I do not {i}want{/i} to be hurt?",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 为什么你存在的意义，就是专门用我不想被伤害的方式伤害我？"
+      "zh": ": 为什么你存在的意义，就是专门用我{i}不想{/i}被伤害的方式伤害我？"
     },
     {
       "en": ": Listen, it’s not my fault. Niki came home early and now she probably thinks you came over here to have sex with me.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "听着，这不是我的错。Niki 提前回来了，现在她大概以为你是来这儿跟我做爱的。"
+      "zh": ": 听着，这不是我的错。Niki 提前回来了，现在她大概以为你是来这儿跟我做爱的。"
     },
     {
       "en": ""
@@ -726,16 +726,16 @@
       "en": ""
     },
     {
-      "en": ": She’s right. I did come over here to have sex with you.",
+      "en": ": She’s right. I {i}did{/i} come over here to have sex with you.",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 她说得对。我确实是来这儿跟你做爱的。"
+      "zh": ": 她说得对。我{i}确实{/i}是来这儿跟你做爱的。"
     },
     {
-      "en": ": Yes, but she can’t know that because it puts our relationship in jeopardy.",
+      "en": ": Yes, but she {i}can’t{/i} know that because it puts our relationship in jeopardy.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "是，但她不能知道，因为那会危及我们的关系。"
+      "zh": ": 是，但她{i}不能{/i}知道，因为那会危及我们的关系。"
     },
     {
       "en": ""
@@ -759,10 +759,10 @@
       "zh": ": 她还不知道有你这号人？！怎么会？！所有人连同他们的妈都知道了啊！她是住在——"
     },
     {
-      "en": ": Sana, keep your voice down. Please.",
+      "en": ": {i}Sana, keep your voice down. Please.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "Sana，小声点。拜托。"
+      "zh": ": {i}Sana，小声点。拜托。{/i}"
     },
     {
       "en": ""
@@ -786,10 +786,10 @@
       "zh": ": 抱歉，我只是……我以为我是最后几个之一，而且……我有点想当然地以为其他人都只是在……幸福地装糊涂？……"
     },
     {
-      "en": ": I’m sure she is being blissfully ignorant. But I would like her to keep being blissfully ignorant as there is a level of bliss involved that would quickly dissipate if she encountered me fucking a girl your size.",
+      "en": ": I’m sure she {i}is{/i} being blissfully ignorant. But I would like her to {i}keep{/i} being blissfully ignorant as there is a level of {i}bliss{/i} involved that would quickly dissipate if she encountered me fucking a girl your size.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "我相信她确实在幸福地装糊涂。但我希望她继续这样装糊涂，因为这份幸福里有一层东西，一旦她撞见我正操着一个你这么大的女孩，就会瞬间烟消云散。"
+      "zh": ": 我相信她{i}确实{/i}在幸福地装糊涂。但我希望她{i}继续{/i}这样装糊涂，因为这份{i}幸福{/i}里有一层东西，一旦她撞见我正操着一个你这么大的女孩，就会瞬间烟消云散。"
     },
     {
       "en": ": So it would be okay if I was taller?",
@@ -801,7 +801,7 @@
       "en": ": No. By size I meant age. I just try to omit or disguise that when possible because it makes me feel gross.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "不。我说的大是指年龄。我只是在可能的时候尽量省略或掩饰这一点，因为那让我觉得自己很恶心。"
+      "zh": ": 不。我说的大是指年龄。我只是在可能的时候尽量省略或掩饰这一点，因为那让我觉得自己很恶心。"
     },
     {
       "en": ""
@@ -825,10 +825,10 @@
       "zh": ": 可那才是最好的部分啊。"
     },
     {
-      "en": ": What happened to you?",
+      "en": ": {i}What happened to you?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你怎么变成这样了？"
+      "zh": ": {i}你怎么变成这样了？{/i}"
     },
     {
       "en": ": Puberty is a violent beast, Sensei. Only you can tame me.",
@@ -840,7 +840,7 @@
       "en": ": God, you’re so hot now.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "天啊，你现在真辣。"
+      "zh": ": 天啊，你现在真辣。"
     },
     {
       "en": ": Would it help convince her if we let her join us?",
@@ -864,22 +864,22 @@
       "en": ""
     },
     {
-      "en": ": Okaaaay! Ready to finally witness you at work, babe! Can’t wait to see how excellent and smart you are!",
+      "en": ": Okaaaay! Ready to finally witness you at {i}work,{/i} babe! Can’t wait to see how excellent and smart you are!",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 好——啦！终于能亲眼看你工作的样子了，亲爱的！等不及想看看你有多优秀、多聪明了！"
+      "zh": ": 好——啦！终于能亲眼看你{i}工作{/i}的样子了，亲爱的！等不及想看看你有多优秀、多聪明了！"
     },
     {
-      "en": ": What if we just tied her up and threw her in the closet or something?",
+      "en": ": {i}What if we just tied her up and threw her in the closet or something?{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 要不我们干脆把她绑起来扔进柜子里什么的？"
+      "zh": ": {i}要不我们干脆把她绑起来扔进柜子里什么的？{/i}"
     },
     {
-      "en": ": How horny are you right now?",
+      "en": ": {i}How horny are you right now?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "你现在有多想要？"
+      "zh": ": {i}你现在有多想要？{/i}"
     },
     {
       "en": ""
@@ -897,52 +897,52 @@
       "en": ""
     },
     {
-      "en": ": Very! And it’s all your fault! Now I have to learn?!",
+      "en": ": {i}Very! And it’s all your fault! Now I have to learn?!{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 非常想要！而且全都怪你！现在我居然还得学习？！"
+      "zh": ": {i}非常想要！而且全都怪你！现在我居然还得学习？！{/i}"
     },
     {
-      "en": ": Just...pick a topic and we’ll bullshit our way out of it. I’ll make it up to you next time.",
+      "en": ": {i}Just...pick a topic and we’ll bullshit our way out of it. I’ll make it up to you next time.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "就……随便挑个话题，我们胡扯一通蒙混过去。下次我补偿你。"
+      "zh": ": {i}就……随便挑个话题，我们胡扯一通蒙混过去。下次我补偿你。{/i}"
     },
     {
-      "en": ": Literature!",
+      "en": ": {i}Literature!{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 文学！"
+      "zh": ": {i}文学！{/i}"
     },
     {
-      "en": ": Really? Why that?",
+      "en": ": {i}Really? Why that?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "真的？为什么挑这个？"
+      "zh": ": {i}真的？为什么挑这个？{/i}"
     },
     {
-      "en": ": Because I know you’ll fuck up everything else!",
+      "en": ": {i}Because I know you’ll fuck up everything else!{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 因为我知道你其他科目全都会搞砸！"
+      "zh": ": {i}因为我知道你其他科目全都会搞砸！{/i}"
     },
     {
-      "en": ": I don’t think I’ve ever been more attracted to you before.",
+      "en": ": {i}I don’t think I’ve ever been more attracted to you before.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "我觉得我从没像现在这样被你吸引过。"
+      "zh": ": {i}我觉得我从没像现在这样被你吸引过。{/i}"
     },
     {
-      "en": ": Thanks! I covered my eye again because I thought it would turn you on!",
+      "en": ": {i}Thanks! I covered my eye again because I thought it would turn you on!{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 谢谢！我又把眼睛遮上了，因为我觉得那样能让你兴奋！"
+      "zh": ": {i}谢谢！我又把眼睛遮上了，因为我觉得那样能让你兴奋！{/i}"
     },
     {
-      "en": ": Akiraaaaa! You’re not fraternizing in there, are you?",
+      "en": ": Akiraaaaa! You’re not {i}fraternizing{/i} in there, are you?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": Akira——！你们在里面没有打成一片吧？"
+      "zh": ": Akira——！你们在里面没有{i}打成一片{/i}吧？"
     },
     {
       "en": ""
@@ -981,16 +981,16 @@
       "en": ""
     },
     {
-      "en": ": Aaaahhh. Sana. I’ve seen you around here before. How long have you been taking “lessons” from this doofus?",
+      "en": ": Aaaahhh. {i}Sana.{/i} I’ve seen you around here before. How long have you been taking “lessons” from this doofus?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 啊啊啊。Sana。我以前在这附近见过你。你跟这个傻瓜上「课」多久了？"
+      "zh": ": 啊啊啊。{i}Sana{/i}。我以前在这附近见过你。你跟这个傻瓜上「课」多久了？"
     },
     {
-      "en": ": Since...a couple Halloweens ago...but I kind of forced it on him since I...really want to learn and...no one else is as...smart...",
+      "en": ": Since...a couple Halloweens ago...but I kind of forced it on him since I...{i}really{/i} want to learn and...no one else is as...{i}smart...{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 从……几个万圣节前吧……不过算是我硬赖上他的，因为我……真的很想学，而且……没有人像他那么……聪明……"
+      "zh": ": 从……几个万圣节前吧……不过算是我硬赖上他的，因为我……{i}真的{/i}很想学，而且……没有人像他那么……{i}聪明{/i}……"
     },
     {
       "en": ""
@@ -1012,13 +1012,13 @@
       "en": ": You sound skeptical, Niki.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "你听着挺怀疑的，Niki。"
+      "zh": ": 你听着挺怀疑的，Niki。"
     },
     {
-      "en": ": I am skeptical, Akira. You’ve been acting very suspicious lately. And between all of your “dates” and Ami’s entire...existence, I’m starting to worry you might be treading a very risky and dangerous path.",
+      "en": ": I {i}am{/i} skeptical, Akira. You’ve been acting very suspicious lately. And between all of your “dates” and Ami’s entire...existence, I’m starting to worry you might be treading a very {i}risky{/i} and {i}dangerous{/i} path.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我确实怀疑，Akira。你最近一直很可疑。再加上你那些「约会」，还有 Ami 的整个……存在，我开始担心你可能正走在一条非常危险的路上了。"
+      "zh": ": 我{i}确实{/i}怀疑，Akira。你最近一直很可疑。再加上你那些「约会」，还有 Ami 的整个……存在，我开始担心你可能正走在一条非常{i}危险{/i}的路上了。"
     },
     {
       "en": ": I’m confused...I...",
@@ -1108,16 +1108,16 @@
       "zh": ": 听你……暗示说他也许一直……用不一样的眼光看我……有点……让我心里发毛……"
     },
     {
-      "en": ": If Akira’s not your type...what is, Sana?",
+      "en": ": If Akira’s not your type...what {i}is,{/i} Sana?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 如果 Akira 不是你的菜……那什么是，Sana？"
+      "zh": ": 如果 Akira 不是你的菜……那{i}什么是{/i}，Sana？"
     },
     {
       "en": ": May I interrupt and just ask, “what does any of this have to do with tutoring?”",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "我可以插一句吗——「这些跟补课到底有什么关系？」"
+      "zh": ": 我可以插一句吗——「这些跟补课到底有什么关系？」"
     },
     {
       "en": ": You may, but I’m not going to answer. I have to vet this girl to make sure she isn’t just lying to me. So stay quiet and be good and I’ll give you a treat later.",
@@ -1180,13 +1180,13 @@
       "en": ": As far from that as they come. I know.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": "离那个类型远得不能再远了。我知道。"
+      "zh": ": 离那个类型远得不能再远了。我知道。"
     },
     {
-      "en": ": Hey, I’m not as far from that as they come. I like some feminine things.",
+      "en": ": Hey, I’m not {i}as{/i} far from that as they come. I like some feminine things.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "喂，我可没有远得不能再远。我也喜欢一些很女性化的东西。"
+      "zh": ": 喂，我可没有远得不能再远。我也喜欢一些很女性化的东西。"
     },
     {
       "en": ": Like what? Me? You can’t even buy tampons for your daughter without having an existential crisis.",
@@ -1210,10 +1210,10 @@
       "en": ""
     },
     {
-      "en": ": Okay, but in my defense, I’m almost always having an existential crisis. So that doesn’t say much.",
+      "en": ": Okay, but in my defense, I’m almost {i}always{/i} having an existential crisis. So that doesn’t say much.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "好吧，但替我自己说句公道话，我几乎随时都在经历存在主义危机。所以这并不能说明什么。"
+      "zh": ": 好吧，但替我自己说句公道话，我几乎{i}随时{/i}都在经历存在主义危机。所以这并不能说明什么。"
     },
     {
       "en": ": Can you...please not tell anyone, Sensei?...About me and...how I feel about...you know...",
@@ -1249,10 +1249,10 @@
       "zh": ": 啊？"
     },
     {
-      "en": ": Is she your type? Because it’d be super healthy for her to start pining after someone she isn’t literally related to.",
+      "en": ": Is {i}she{/i} your type? Because it’d be super healthy for her to start pining after someone she isn’t literally related to.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 她是你的菜吗？因为她要是能开始迷恋一个跟她没有血缘关系的人，那可太健康了。"
+      "zh": ": {i}她{/i}是你的菜吗？因为她要是能开始迷恋一个跟她没有血缘关系的人，那可太健康了。"
     },
     {
       "en": ": Does Ami...even like girls?...",
@@ -1261,10 +1261,10 @@
       "zh": ": Ami……她喜欢女孩子吗？……"
     },
     {
-      "en": ": She says she doesn’t, but I feel like it’s a front. And you seem weird and suspicious enough to check off those boxes she apparently has if she’s into her father.",
+      "en": ": She says she doesn’t, but I feel like it’s a front. And you seem weird and suspicious enough to check off {i}those{/i} boxes she apparently has if she’s into her father.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 她说她不喜欢，但我觉得那只是伪装。而你看起来又怪又可疑，正好能对上她那些择偶条件——如果她真的喜欢自己父亲的话。"
+      "zh": ": 她说她不喜欢，但我觉得那只是伪装。而你看起来又怪又可疑，正好能对上她{i}那些{/i}择偶条件——如果她真的喜欢自己父亲的话。"
     },
     {
       "en": ": I...uh...",
@@ -1273,10 +1273,10 @@
       "zh": ": 我……呃……"
     },
     {
-      "en": ": So, about tutoring...",
+      "en": ": So, about {i}tutoring...{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那么，关于补课……"
+      "zh": ": 那么，关于{i}补课{/i}……"
     },
     {
       "en": ""
@@ -1321,13 +1321,13 @@
       "en": ": So, has she been successfully “vetted” yet? Will you leave us alone now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "那么，她已经顺利通过「审查」了吗？你现在能让我们单独待着了吗？"
+      "zh": ": 那么，她已经顺利通过「审查」了吗？你现在能让我们单独待着了吗？"
     },
     {
       "en": ": Sana’s very clearly not comfortable when it comes to speaking and has a harder time absorbing information when there are others present.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "Sana 说话时明显很不自在，有别人在场时也更难吸收信息。"
+      "zh": ": Sana 说话时明显很不自在，有别人在场时也更难吸收信息。"
     },
     {
       "en": ": It’s...true...Sensei has been helping me with that for...a long time now...",
@@ -1398,24 +1398,24 @@
       "zh": "不过没有书，也没有……任何实际材料可用，这看起来更像世界上最无聊的开放式讨论，而不是真正的补课。而且很明显，就连 Sana 的耐心也开始被消磨了。"
     },
     {
-      "en": "Either that or she’s gotten uncomfortable sitting in a puddle of her own creation by now, infinitely waiting for me to put her out of her misery and hurt her how she wants to be hurt.",
-      "zh": "要么就是她坐在自己弄出来的一小滩水渍里已经很不舒服了，无限期地等着我来结束她的煎熬，按她想要的方式伤害她。"
+      "en": "Either that or she’s gotten uncomfortable sitting in a puddle of her own creation by now, infinitely waiting for me to put her out of her misery and hurt her how she {i}wants{/i} to be hurt.",
+      "zh": "要么就是她坐在自己弄出来的一小滩水渍里已经很不舒服了，无限期地等着我来结束她的煎熬，按她{i}想要{/i}的方式伤害她。"
     },
     {
-      "en": "In a way, I’m thankful that Niki would take it upon herself to wait here and make sure I don’t do that.",
-      "zh": "从某个角度说，我挺感激 Niki 会自告奋勇留在这儿，确保我不会那么做。"
+      "en": "In a way, I’m thankful that Niki would take it upon herself to wait here and make sure I {i}don’t{/i} do that.",
+      "zh": "从某个角度说，我挺感激 Niki 会自告奋勇留在这儿，确保我{i}不会{/i}那么做。"
     },
     {
-      "en": "But in another, much darker way, I’ve moved much closer to Sana’s earlier suggestion about tying her up and throwing her into the closet. Or letting her join in.",
-      "zh": "但在另一个阴暗得多的角度上，我已经越来越倾向于 Sana 早先那个建议——把她绑起来扔进柜子里。或者让她加入进来。"
+      "en": "But in another, much darker way, I’ve moved much closer to Sana’s earlier suggestion about tying her up and throwing her into the closet. {i}Or{/i} letting her join in.",
+      "zh": "但在另一个阴暗得多的角度上，我已经越来越倾向于 Sana 早先那个建议——把她绑起来扔进柜子里。{i}或者{/i}让她加入进来。"
     },
     {
       "en": "That seems nigh impossible at this point though, if Niki’s trust in me has diminished to the point where she feels uncomfortable just leaving me alone with girls like Sana.",
       "zh": "不过到了这一步，那似乎几乎不可能了——如果 Niki 对我的信任已经低到，光是把我单独留给 Sana 这样的女孩都会让她觉得不安。"
     },
     {
-      "en": "Is that my fault for how I handled Niki’s initial arrival? Probably. But I feel like some of the blame has to lie with Sana too because of how cute she is.",
-      "zh": "这怪我处理 Niki 刚回来那会儿的方式吗？大概是。但我觉得有一部分责任也得算在 Sana 头上，谁让她这么可爱。"
+      "en": "Is that my fault for how I handled Niki’s initial arrival? Probably. But I feel like some of the blame {i}has{/i} to lie with Sana too because of how cute she is.",
+      "zh": "这怪我处理 Niki 刚回来那会儿的方式吗？大概是。但我觉得有一部分责任{i}也得{/i}算在 Sana 头上，谁让她这么可爱。"
     },
     {
       "en": "Creepy, I know. But you’ve gotten used to that by now. Kind of like how Piggy had to get used to dealing with broken glasses until he was ultimately killed by a boulder.",
@@ -1426,20 +1426,20 @@
       "zh": "我好奇那会不会也发生在我身上？"
     },
     {
-      "en": "I wonder if Sana is the boulder? Because at one point, she was the image of purity to me. There was no one more angelic than her.",
-      "zh": "我好奇 Sana 是不是那块巨石？因为曾几何时，她在我眼里就是纯洁的化身。没有谁比她更像天使。"
+      "en": "I wonder if Sana {i}is{/i} the boulder? Because at one point, she {i}was{/i} the image of purity to me. There was no one more angelic than her.",
+      "zh": "我好奇 Sana {i}是不是{/i}那块巨石？因为曾几何时，她在我眼里{i}就是{/i}纯洁的化身。没有谁比她更像天使。"
     },
     {
-      "en": "But now, here she is — wholeheartedly embracing a facade I forced upon her all because she wants me to force myself on her.",
-      "zh": "可现在，她就在眼前——全心全意地拥抱着我强加给她的那副面具，而这一切只是因为她想让我强行占有她。"
+      "en": "But now, here she is — wholeheartedly embracing a facade I forced upon her all because she wants {i}me{/i} to force myself on {i}her.{/i}",
+      "zh": "可现在，她就在眼前——全心全意地拥抱着我强加给她的那副面具，而这一切只是因为她想{i}让我{/i}强行占有{i}她{/i}。"
     },
     {
-      "en": "That innocence is gone. She is no longer an angel. She is no longer pure. But it’s quite possible she never was to begin with.",
-      "zh": "那份天真已经没了。她不再是天使。她不再纯洁。但很有可能，她从一开始就不是。"
+      "en": "That innocence is gone. She is no longer an angel. She is no longer pure. But it’s quite possible she never {i}was{/i} to begin with. ",
+      "zh": "那份天真已经没了。她不再是天使。她不再纯洁。但很有可能，她从一开始就{i}不是{/i}。"
     },
     {
-      "en": "I just wanted her to be.",
-      "zh": "只是我希望她是。"
+      "en": "I just {i}wanted{/i} her to be.",
+      "zh": "只是我{i}希望{/i}她是。"
     },
     {
       "en": "Kind of like how Piggy wanted to not be killed by a boulder.",
@@ -1470,7 +1470,7 @@
       "en": ": It is at this point that I will begin to break down each and every instance of symbolism from the book using nothing but my memory and superior intellect.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "接下来，我将仅凭记忆和过人的才智，逐一拆解书里每一处象征。"
+      "zh": ": 接下来，我将仅凭记忆和过人的才智，逐一拆解书里每一处象征。"
     },
     {
       "en": ": Okay. I’m bored.",
@@ -1503,7 +1503,7 @@
       "en": ": You’re not worried anymore?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "你不担心了？"
+      "zh": ": 你不担心了？"
     },
     {
       "en": ": It’s become clear to me that between Sana’s lesbianism and your monologue about a bunch of kids trying to form a civilization that no one here is going to be doing anything inappropriate any time soon.",
@@ -1542,7 +1542,7 @@
       "en": ""
     },
     {
-      "en": "Niki grabs a change of clothes from my our bedroom before disappearing into the bathroom and turning on the water.",
+      "en": "Niki grabs a change of clothes from {s}my{/s} our bedroom before disappearing into the bathroom and turning on the water.",
       "zh": "Niki 从我们的卧室拿了套换洗衣物，然后走进浴室，打开了水。"
     },
     {

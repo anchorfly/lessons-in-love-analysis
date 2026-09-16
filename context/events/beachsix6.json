@@ -1,6 +1,6 @@
 {
   "label": "beachsix6",
-  "title_zh": "",
+  "title_zh": "岐阜的城市",
   "lines": [
     {
       "en": ""
@@ -10,8 +10,8 @@
       "zh": ""
     },
     {
-      "en": "Meanwhile...",
-      "zh": ""
+      "en": "{i}Meanwhile...{/i}",
+      "zh": "{i}与此同时……{/i}"
     },
     {
       "en": ""
@@ -32,13 +32,13 @@
       "en": ": Ladies and gentlemen! And also Molly.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "女士们先生们！还有 Molly。"
     },
     {
       "en": ": Is Molly part of the Rooftop Apocalypse Squad now too? Nice going, Makoto! It’s just your first meeting as chairman and you’re already making progress.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "Molly 现在也算天台末日小队的一员了吗？干得好，Makoto！这才刚当上队长第一次开会，就已经有进展了。"
     },
     {
       "en": ""
@@ -59,19 +59,19 @@
       "en": ": Unfortunately, though, Molly isn’t here. And also neither is Sensei. Or Tsuneyo. So starting now might be a little counterproductive, don’t you think?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "不过很遗憾，Molly 不在这儿。Sensei 也不在。Tsuneyo 也不在。所以现在开始可能有点适得其反，你不觉得吗？"
     },
     {
       "en": ": Molly isn’t coming at all. I think Uta’s just blurted out that intro enough times by now for me to have subconsciously adopted it. And for that I apologize.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "Molly 根本不会来。我想是 Uta 把那段开场白念了太多次，我已经下意识地学来了。对此我表示歉意。"
     },
     {
-      "en": ": What I will not apologize for, however, is adhering to the schedule I have put in place. You have called upon me to be Makoto, and I intend to be Makoto. So either deal with the Makoto or leave.",
+      "en": ": What I will {i}not{/i} apologize for, however, is adhering to the schedule I have put in place. You have called upon me to be Makoto, and I intend to be Makoto. So either deal with the Makoto or leave.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "不过我{i}不会{/i}道歉的，是坚持我定下的日程。你们请我来当 Makoto，我就打算当好 Makoto。所以要么接受这个 Makoto，要么走人。"
     },
     {
       "en": ""
@@ -92,19 +92,19 @@
       "en": ": Aye aye, captain! Please don’t kick me out of the club I formed! It’s all I have now that everyone else is claiming my future husband on a daily basis.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "遵命，船长！请别把我踢出我自己组建的社团！现在所有人每天都在抢我未来的丈夫，我可就只剩这个了。"
     },
     {
       "en": ": Ignoring the pajamas, that clipboard alone makes this meeting far more formal than I expected it to be.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "先不说睡衣，光是那块写字板就让这场会议比我预想的正式多了。"
     },
     {
       "en": ": That’s on Blondie for handin’ the reins to the fuckin’ class rep of all people. We ain’t ever gonna have another stress-free apocalypse again, are we?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "这都得怪金毛把缰绳交给了那个该死的班长。咱们以后再也别想有什么轻松的末日了对吧？"
     },
     {
       "en": ""
@@ -122,28 +122,28 @@
       "en": ""
     },
     {
-      "en": ": Have we ever had one of those to begin with? Because I don’t remember much about the details in any of them, but there’s this lingering feeling of PTSD deep within my core that I find it hard to part with.",
+      "en": ": Have we ever had one of those to begin with? Because I don’t remember much about the details in {i}any{/i} of them, but there’s this lingering feeling of PTSD deep within my core that I find it hard to part with.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "我们有过那种东西吗？因为{i}任何{/i}一次的细节我都记不太清了，但我内心深处有种挥之不去的创伤后应激感，很难摆脱。"
     },
     {
       "en": ": Guess it’s a little easier on the mind when you don’t give a shit about anybody.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "当你谁都不在乎的时候，脑子大概会好受点。"
     },
     {
       "en": ": That’ll probably help, yeah.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "是啊，那大概会有帮助。"
     },
     {
-      "en": ": Ahem. Attention? Please?",
+      "en": ": {i}Ahem.{/i} Attention? Please?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "{i}咳咳。{/i}注意听讲？拜托？"
     },
     {
       "en": ""
@@ -164,43 +164,43 @@
       "en": ": Sorry, Makoto. On behalf of all four and a half members of the RAS, I’d like to thank you for taking charge and giving me a much-needed vacation after repeated failures as group leader.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "抱歉，Makoto。我代表天台末日小队全体四又二分之一名成员，感谢你接下这个担子，在我作为组长一败再败之后给我放了一个急需的假。"
     },
     {
       "en": ": Did you just thank me on behalf of myself?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "你刚刚是代表我本人感谢我吗？"
     },
     {
       "en": ": And half of a person, who I can only assume is Sensei.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "还有半个人，我猜那是指 Sensei。"
     },
     {
       "en": ": The “half” was about you, actually. Because A) you still don’t have a shirt. And B) I’m not entirely convinced it’s a good thing you came yet. I think you’re just here for the free food.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "那「半个」说的其实是你。因为一，你还是没穿上衣。二，我还不太确定你来这儿是件好事。我觉得你就是为了免费食物来的。"
     },
     {
       "en": ": To be fair, that’s why I’m here too.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "说句公道话，我也是为了这个来的。"
     },
     {
-      "en": ": What’s important is that the two of you are here at all when Sensei and Tsuneyo are still MIA. Ayane and I have effectively handled this on our own for far too long now.",
+      "en": ": What’s important is that the two of you are here {i}at all{/i} when Sensei and Tsuneyo are still MIA. Ayane and I have effectively handled this on our own for far too long now.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "重要的是，在 Sensei 和 Tsuneyo 仍然下落不明的时候，你们两个{i}至少{/i}到场了。Ayane 和我实际上已经独自扛了太久。"
     },
     {
       "en": ": Which still really isn’t that long at all compared to how long Maya 1 handled it for. But she never made much progress on her end either, so I’d say we’re doing pretty okay!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "不过跟 Maya 1 扛的时间比起来，这也不算太久。但她那边也没什么进展，所以我觉得我们干得还算不错！"
     },
     {
       "en": ""
@@ -218,22 +218,22 @@
       "en": ""
     },
     {
-      "en": ": I knew some weird shit was goin’ on with Ponytail. Fuck you mean by “Maya 1” though?",
+      "en": ": I {i}knew{/i} some weird shit was goin’ on with Ponytail. Fuck you mean by “Maya 1” though?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "我{i}就知道{/i}马尾那丫头有鬼。不过「Maya 1」是什么意思？"
     },
     {
       "en": ": Oh right, you don’t know yet.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "哦对，你还不知道。"
     },
     {
       "en": ": Recap — Maya used to be the only one who went through resets and wound up doing it for like a quadrillion years. Then Sensei banged her so hard she went back to phase one.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "回顾一下——以前只有 Maya 一个人经历重置，而且搞了大概一千万亿年。然后 Sensei 把她操得太狠，她就回到了第一阶段。"
     },
     {
       "en": ""
@@ -254,19 +254,19 @@
       "en": ": And now we have Maya 2! Who cares less about the apocalypse and more about the perpetual hunt for the same sort of sex that ultimately spelled her doom!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "于是现在我们有了 Maya 2！她不太在乎末日，更在乎的是无休止地追寻同一种性——而那恰恰就是让她最终完蛋的东西！"
     },
     {
-      "en": ": Oh, so you really don’t want me here. I see how it is.",
+      "en": ": Oh, so you {i}really{/i} don’t want me here. I see how it is.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "哦，所以你{i}真的{/i}不希望我在这儿。我懂了。"
     },
     {
       "en": ": I’m fine with it so long as you’re not going to just relay all of this information to Ami. You guys have been weird lately and I am very suspicious.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "只要你别把这些情报全转告 Ami，我就没意见。你们最近很奇怪，我非常怀疑。"
     },
     {
       "en": ""
@@ -284,28 +284,28 @@
       "en": ""
     },
     {
-      "en": ": For what it’s worth, Ami did show up at basically the exact same time I invited Maya to join us tonight. So these suspicions aren’t exactly unfounded.",
+      "en": ": For what it’s worth, Ami {i}did{/i} show up at basically the exact same time I invited Maya to join us tonight. So these suspicions aren’t exactly unfounded.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "说句公道话，Ami {i}确实{/i}几乎就在我邀请 Maya 来参加的同一时间出现了。所以这些怀疑也不能说没有根据。"
     },
     {
       "en": ": If anything, I’d say that validates them completely.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "要说的话，我觉得这完全证实了它们。"
     },
     {
-      "en": ": I am not going to tell Ami anything. I promise.",
+      "en": ": I am {i}not{/i} going to tell Ami anything. I promise.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "我{i}不会{/i}告诉 Ami 任何事。我保证。"
     },
     {
       "en": ": And while I’ve done effectively nothing to earn your trust, I’d like you all to know that I want to get away from her just as much as you do. That’s kind of why I’m doing this in the first place.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "而且虽然我基本没做什么来赢得你们的信任，但我想让你们都知道：我想离她远远的，程度不亚于你们。这差不多就是我做这件事的初衷。"
     },
     {
       "en": ""
@@ -326,25 +326,25 @@
       "en": ": Sounds like what a spy would say.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "听起来就像间谍会说的话。"
     },
     {
-      "en": ": No, Maya did seem rather uncomfortable during the entire exchange, so I’m inclined to believe that.",
+      "en": ": No, Maya {i}did{/i} seem rather uncomfortable during the entire exchange, so I’m inclined to believe that.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "不，Maya 在整个交流过程中{i}确实{/i}显得很不自在，所以我倾向于相信她。"
     },
     {
       "en": ": Yeah, you made that pretty clear when you left me there immediately after I asked you to stay.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "是啊，当年我请你留下、你却立刻把我丢在那儿的时候，表达得可清楚了。"
     },
     {
       "en": ": I’m running on zero hours of sleep and not about to come between an incestual psychopath and...whatever you are. Now, can I finally begin?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我现在睡眠时间为零，也不打算夹在一个乱伦的精神病和……管你是什么东西之间。现在，我能开始了吗？"
     },
     {
       "en": ""
@@ -365,7 +365,7 @@
       "en": ": Yes. Let us get this party started.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "可以。让我们开始这场派对吧。"
     },
     {
       "en": ""
@@ -386,43 +386,43 @@
       "en": ": Is there a reason Nao was waiting outside of the door when we got here?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "我们到的时候，Nao 在门外等着，有什么原因吗？"
     },
     {
       "en": ": Beats me. There’s probably a mug in here somewhere.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我哪知道。这屋里大概哪儿有个马克杯吧。"
     },
     {
       "en": ": !!!!!!!",
       "spk": "Nao",
       "spkColor": "#EB7369",
-      "zh": ""
+      "zh": ": !!!!!!!"
     },
     {
       "en": ": Sorry for being late, by the way. Tsuneyo and I lost track of time.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "顺便说一句，抱歉来晚了。我和 Tsuneyo 忘了时间。"
     },
     {
       "en": ": Probably fucked and it was so unenjoyable and weird that y’all just purged it from your memory.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "大概是做爱了，而且做得很没劲、很诡异，所以你俩干脆把它从记忆里抹掉了。"
     },
     {
       "en": ": That’s what I said before being informed that I “would know” if it were to happen.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "我之前也是这么说的，然后被人告知「如果真发生了我会知道的」。"
     },
     {
-      "en": ": You absolutely would. And then it would become all you can think about for the rest of eternity. Right, Makoto?",
+      "en": ": You {i}absolutely{/i} would. And then it would become all you can think about for the rest of eternity. Right, Makoto?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "你{i}绝对{/i}会知道。然后它会成为你余生里唯一能想的事。对吧，Makoto？"
     },
     {
       "en": ""
@@ -443,7 +443,7 @@
       "en": ": Wrong! I’m still trying to go over my plan here and everyone keeps getting me sidetracked! Just shut up already!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "错！我还在努力过一遍我的计划，你们却一直把我带偏！都给我闭嘴！"
     },
     {
       "en": ""
@@ -464,31 +464,31 @@
       "en": ": I see it less like sidetracking you and more just stalling for time. To which we have succeeded as all four and a half members of the Rooftop Apocalypse Squad are now present and we may finally begin.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "我倒不觉得这是在带偏你，更像是在拖时间。而我们已经成功了——天台末日小队全体四又二分之一名成员现在都到齐了，我们终于可以开始。"
     },
     {
       "en": ": Is Maya the half?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "那个「半个」是 Maya 吗？"
     },
     {
       "en": ": She is. And she’s also very confused about why this creature is now staring at her.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "是的。而且她也很困惑，为什么这只生物现在正盯着她看。"
     },
     {
       "en": ": ?...",
       "spk": "Nao",
       "spkColor": "#EB7369",
-      "zh": ""
+      "zh": "？……"
     },
     {
-      "en": ": Well, if it’s any consolation, I’m confused about why you’re here in the first place when I’m pretty sure I told Makoto I wasn’t a fan of this idea.",
+      "en": ": Well, if it’s any consolation, {i}I’m{/i} confused about why you’re here in the first place when I’m pretty sure I told Makoto I wasn’t a fan of this idea.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "嗯，如果这算什么安慰的话，{i}我{/i}也挺困惑你为什么会在这儿——我明明很确定自己跟 Makoto 说过我不喜欢这个主意。"
     },
     {
       "en": ""
@@ -509,25 +509,25 @@
       "en": ": Oh, hey! That makes two of us.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "哦，嘿！这就有两个人了。"
     },
     {
       "en": ": You haven’t even heard my idea yet. It’s different from the last one.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "你们还没听到我的主意呢。跟上一次不一样。"
     },
     {
-      "en": ": Oh, good. So you don’t intend to sacrifice her anymore?",
+      "en": ": Oh, good. So you {i}don’t{/i} intend to sacrifice her anymore?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "哦，好。所以你{i}不{/i}打算再牺牲她了？"
     },
     {
       "en": ": Sorry. What?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "抱歉。什么？"
     },
     {
       "en": ""
@@ -548,61 +548,61 @@
       "en": ": Okay, fine. Let’s use that as the launching point to discuss our plan of attack. Yes — I suggested that we involve Maya under the pretense that she may very well “disappear” again.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "好吧，行。我们就拿这个当出发点来讨论行动计划吧。是的——我建议把 Maya 拉进来，前提是她很可能再次「消失」。"
     },
     {
-      "en": ": Sorry. What?",
+      "en": ": Sorry. {i}What?{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "抱歉。{i}什么？{/i}"
     },
     {
-      "en": ": But that much is true for any of us at any given moment. So the plan has changed. I’m now willing to sacrifice all of us instead of just Maya. Any questions?",
+      "en": ": But that much is true for {i}any{/i} of us at any given moment. So the plan has changed. I’m now willing to sacrifice {i}all{/i} of us instead of just Maya. Any questions?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "但这对我们{i}任何{/i}人在任何时刻都成立。所以计划改了。现在我愿意牺牲{i}我们所有人{/i}，而不只是 Maya。有问题吗？"
     },
     {
       "en": ": A few.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "有几个。"
     },
     {
-      "en": ": Wow. If you stayed up all night coming up with that, you might not be as smart as I thought, Makoto.",
+      "en": ": Wow. If you stayed up all night coming up with {i}that,{/i} you might not be as smart as I thought, Makoto.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "哇。如果你熬了一整夜只想出{i}这么个东西{/i}，那你可能没我想的那么聪明，Makoto。"
     },
     {
       "en": ": There’s more to it, obviously. But the general gist is that we break away from the passive stance the RAS has taken under the guidance of Maya 1 and then Ayane.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "显然还有更多。但大意是：我们要摆脱天台末日小队在 Maya 1、然后是 Ayane 带领下采取的被动姿态。"
     },
     {
       "en": ": Can we call her something else, please? I still don’t like this implication that I’m an inferior version of myself.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "我们能换个叫法吗，拜托？我还是不喜欢这种暗示——好像我是自己的劣化版本似的。"
     },
     {
       "en": ": Comin’ after don’t mean you’re inferior. My mom’s a piece of shit and I’m like, a smaller piece of shit. So I’m better, yeah?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "后出现的又不是就低一等。我妈是个烂人，而我是一坨小一点的烂人。所以我更好，对吧？"
     },
     {
       "en": ": If that’s what makes you happy, Yumi.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "如果这能让你开心的话，Yumi。"
     },
     {
       "en": ": Makoto, you’re going to need to elaborate. Getting us on board with killing ourselves is no small task.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "Makoto，你得说清楚。让我们接受「把自己搞死」可不是件小事。"
     },
     {
       "en": ""
@@ -620,22 +620,22 @@
       "en": ""
     },
     {
-      "en": ": I’m aware. But I think that hesitation and reluctance stems from the idea that we’d be dying at all when we’d really just be getting sent back to an earlier state.",
+      "en": ": I’m aware. But I think that hesitation and reluctance stems from the idea that we’d be {i}dying{/i} at all when we’d really just be getting sent back to an earlier state.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我知道。但我觉得这种犹豫和不情愿，源于我们以为自己是在{i}死{/i}，而实际上我们只是被送回一个更早的状态。"
     },
     {
       "en": ": Maya’s a bit of a special case considering how long she did this for.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "考虑到 Maya 做了这么久，她算是个特例。"
     },
     {
-      "en": ": But if someone like Yumi were to be sent back to the beginning of your relationship with her, could she not be merely filled in on the gaps in time between then and now?",
+      "en": ": But if someone like {i}Yumi{/i} were to be sent back to the beginning of your relationship with her, could she not be merely filled in on the gaps in time between {i}then{/i} and now?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "但如果像{i}Yumi{/i}这样的人被送回你跟她关系的起点，难道不能只是把{i}那时{/i}到现在的空白补上吗？"
     },
     {
       "en": ""
@@ -656,49 +656,49 @@
       "en": ": Makoto, did you seriously stay up all night writing Adam Sandler’s “50 First Dates?”",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "Makoto，你该不会真熬了一整夜写亚当·桑德勒的《初恋 50 次》吧？"
     },
     {
       "en": ": What is that? I haven’t seen it.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "那是什么？我没看过。"
     },
     {
       "en": ": Guy meets girl. Girl has short term memory loss. Brain wiped every morning. Guy and girl fall in love. Guy makes video about that love for girl. Girl watches video every morning. Remembers love.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "男的遇见女的。女的短期记忆丧失。每天早上记忆被清空。男的和女的坠入爱河。男的为女的那份爱录了段视频。女的每天早上看视频。记起了那份爱。"
     },
     {
       "en": ": Oh. Well...yes. I suppose that is somewhat similar to my proposal. Just that I was going to suggest keeping journals or diaries or something along those lines.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "哦。嗯……是啊。我猜这跟我的提议有点像。只不过我本来建议的是记笔记或写日记之类的。"
     },
     {
-      "en": ": I...guess that’s not a bad idea? Something tells me Maya 1 would have tried it, though. Seems too simple. Like the universe would find our notes and erase them or something.",
+      "en": ": I...{i}guess{/i} that’s not a bad idea? Something tells me Maya 1 would have tried it, though. Seems too simple. Like the universe would find our notes and erase them or something.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "我……{i}猜{/i}这也不算坏主意？不过有种感觉告诉我，Maya 1 大概试过了。看起来太简单了。像是宇宙会找到我们的笔记然后把它们擦掉之类的。"
     },
     {
       "en": ": Reminds me of something Nodoka said once and yeah, I don’t think that’ll work.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "这让我想起 Nodoka 说过的一句话，是啊，我觉得那行不通。"
     },
     {
-      "en": ": Then would it work to have us act as physical manifestations of these journals? Similar to what you and Ayane have been doing with Maya 2.",
+      "en": ": Then would it work to have {i}us{/i} act as physical manifestations of these journals? Similar to what you and Ayane have been doing with Maya 2.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "那让{i}我们{/i}来充当这些日记的实体化怎么样？就像你和 Ayane 对 Maya 2 做的那样。"
     },
     {
       "en": ": ! ! !",
       "spk": "Nao",
       "spkColor": "#EB7369",
-      "zh": ""
+      "zh": "！！！"
     },
     {
       "en": ""
@@ -719,31 +719,31 @@
       "en": ": Yeah, because that’s working so well.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "是啊，因为那招效果太好了。"
     },
     {
-      "en": ": Try to see that from my perspective, though. How would you feel if you just woke up one day and the person you love the most suddenly had Capgras syndrome?",
+      "en": ": Try to see that from my perspective, though. How would {i}you{/i} feel if you just woke up one day and the person you love the most suddenly had Capgras syndrome?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "不过你试试从我的角度看。如果你某天醒来，你最爱的人突然得了卡普格拉综合征，{i}你{/i}会怎么想？"
     },
     {
       "en": ": What is that? Is it fatal?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "那是什么？会致命吗？"
     },
     {
       "en": ": It’s a psychiatric disorder where someone believes a loved one has been replaced by an identical impostor. So...yeah. Maya’s use of that isn’t all too far from the truth.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "是一种精神障碍，患者认为某个亲近的人被一个一模一样的冒名顶替者替换了。所以……嗯。Maya 用这个词也不算离谱。"
     },
     {
-      "en": ": This Maya is an impostor, though.",
+      "en": ": This Maya {i}is{/i} an impostor, though.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "可这个 Maya {i}就是{/i}冒名顶替者啊。"
     },
     {
       "en": ""
@@ -764,7 +764,7 @@
       "en": ": You’re doing it again!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "你又来了！"
     },
     {
       "en": ""
@@ -782,40 +782,40 @@
       "en": ""
     },
     {
-      "en": ": We don’t know she’s an “impostor,” Ayane. She’s likely just the same girl without all of the memories that made her into the Maya you were more familiar with.",
+      "en": ": We don’t {i}know{/i} she’s an “impostor,” Ayane. She’s likely just the same girl {i}without{/i} all of the memories that made her into the Maya you were more familiar with.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我们并不{i}知道{/i}她是「冒名顶替者」，Ayane。她很可能只是同一个女孩，只是{i}没有{/i}那些把你更熟悉的那个 Maya 塑造成型的记忆。"
     },
     {
       "en": ": Adam Sandler would have his work cut out for him if he had to make a video recounting that much time for a girl with memory loss.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "亚当·桑德勒要是得为一个失忆女孩录下那么长的时间，可有得忙了。"
     },
     {
-      "en": ": Either way, the fact remains that we are not so unfortunate as to have gone through all of that. Which makes the loss of any of us less...monumental, I suppose.",
+      "en": ": Either way, the fact remains that {i}we{/i} are not so unfortunate as to have gone through all of that. Which makes the loss of any of us less...{i}monumental,{/i} I suppose.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "不管怎样，事实依然是我们没有那么不幸，没经历过那一切。这使得我们当中任何一个人的损失都不那么……{i}惊天动地{/i}，我想。"
     },
     {
       "en": ": I’m not losing Sensei. It’s not happening. So if you’re proposing some sort of suicide mission, I’m going to keep playing it safe because that’s what’s worked so far.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "我不会失去 Sensei。那不可能发生。所以如果你提议的是某种自杀式任务，我会继续保守行事，因为到目前为止那一直有效。"
     },
     {
       "en": ": Sure. Until he fucks your memories out of you and you go back to being whatever it was you were when you first “met.”",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "当然。直到他把你的记忆操出来，你又变回你们初次「相遇」时的那个你。"
     },
     {
       "en": ": I believe the word for that is “unbearable.”",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "我觉得那个词叫「难以忍受」。"
     },
     {
       "en": ""
@@ -836,25 +836,25 @@
       "en": ": Hey! Don’t emerge from suspended silence just to make fun of me!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "嘿！别从沉默里冒出来就为了取笑我！"
     },
     {
       "en": ": What? Only reason I can say that’s because you’ve basically never changed from my point of view.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "什么？我之所以能这么说，是因为在我看来你基本就没变过。"
     },
     {
-      "en": ": All I see is some girl who won’t shut up about her “future husband” or whatever. The hell would Sensei even need to remind you about if you got reset?",
+      "en": ": All {i}I{/i} see is some girl who won’t shut up about her “future husband” or whatever. The hell would Sensei even need to remind you about if you got reset?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "{i}我{/i}看到的，就是个一天到晚念叨她「未来丈夫」还是什么的女孩。就算你被重置了，Sensei 又有什么需要提醒你的？"
     },
     {
-      "en": ": Way more than I’d be able to explain in one meeting, that’s for sure. But even if you were right, are you saying you would be willing to risk doing that same thing, Yumi? Being reset?",
+      "en": ": Way more than I’d be able to explain in one meeting, that’s for sure. But even if you were right, are you saying you {i}would{/i} be willing to risk doing that same thing, Yumi? Being reset?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "肯定多到我没法在一次会议里讲完，这点毫无疑问。不过就算你是对的，你是说你{i}愿意{/i}冒这个险吗，Yumi？被重置？"
     },
     {
       "en": ""
@@ -872,28 +872,28 @@
       "en": ""
     },
     {
-      "en": ": Well, I ain’t really sure yet. Prez ain’t exactly got to the part about takin’ risks or whatever. The hell you gonna have us do that could send us back to the start?",
+      "en": ": Well, I ain’t really sure yet. Prez ain’t exactly got to the part about {i}takin’ risks{/i} or whatever. The hell you gonna have us do that could send us back to the start?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "嗯，我还真不确定。班长还没讲到{i}冒险{/i}那部分呢。你到底要我们干什么，能把我们送回起点？"
     },
     {
       "en": ": I feel as if it will involve sex. I have come to learn that most things including this man involve sex.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "我觉得会涉及性。我渐渐了解到，包括这个男人在内的大多数事都涉及性。"
     },
     {
-      "en": ": It ain’t gonna involve sex.",
+      "en": ": It ain’t gonna involve {i}sex.{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "那不会涉及{i}性{/i}。"
     },
     {
-      "en": ": I mean...it could?",
+      "en": ": I mean...it {i}could?{/i}",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我是说……{i}可能会？{/i}"
     },
     {
       "en": ""
@@ -914,73 +914,73 @@
       "en": ": Again, you’re going to need to elaborate.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "再说一次，你得说清楚。"
     },
     {
-      "en": ": Gladly! Until now, the Rooftop Apocalypse Squad has done little more than sit around and wait for something to happen. But things weren’t always like that, right?",
+      "en": ": Gladly! Until now, the Rooftop Apocalypse Squad has done little more than sit around and wait for something to happen. But things weren’t {i}always{/i} like that, right?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "乐意之至！到目前为止，天台末日小队除了干坐着等事情发生，几乎什么都没做。但事情{i}并不总是{/i}那样，对吧？"
     },
     {
       "en": ": Before any of us were thrown into the mix, Maya 1 endured countless resets, yes? And not all of them were built the same way.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "在我们任何人被卷进来之前，Maya 1 经历了无数次重置，是吧？而且它们并不都是同一个模式。"
     },
     {
       "en": ": They required experimenting. Trying new things for the sole purpose of seeing what would happen.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "它们需要实验。尝试新事物，只为看看会发生什么。"
     },
     {
-      "en": ": That’s why she was so against sleeping with Sensei despite how desperately she wanted to. She knew it could end badly from experience and didn’t want to chance it again.",
+      "en": ": That’s why she was so against sleeping with Sensei despite how desperately she wanted to. She {i}knew{/i} it could end badly from experience and didn’t want to chance it again.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "这就是为什么她明明那么想跟 Sensei 上床，却一直坚决反对。她凭经验{i}知道{/i}那可能收场很糟，不想再冒一次险。"
     },
     {
-      "en": ": Doesn’t the fact that she stopped experimenting tell us all we need to know, though? If it was working, she would have kept doing it.",
+      "en": ": Doesn’t the fact that she {i}stopped{/i} experimenting tell us all we need to know, though? If it was working, she would have kept doing it.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "可她{i}停止{/i}实验这件事，不就告诉了我们一切吗？如果那有用，她会一直做下去的。"
     },
     {
       "en": ": Not if she got exhausted. A quadrillion years will do that to you.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "除非她累垮了。一千万亿年会让人变成那样。"
     },
     {
       "en": ": Yeah, sorry. Can we come up with a plan that don’t involve me fucking this guy?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "是啊，抱歉。我们能不能想个不用我操这家伙的计划？"
     },
     {
       "en": ": You can fuck me instead. Then I will know for sure whether or not I have slept with him.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "你可以操我。这样我就能确定自己有没有跟他睡过。"
     },
     {
-      "en": ": Guys, this isn’t a purely sexual thing. There’s plenty of exploring and experimenting to do without that.",
+      "en": ": Guys, this isn’t a purely sexual thing. There’s plenty of exploring and experimenting to do {i}without{/i} that. ",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "各位，这不是纯粹跟性有关的事。{i}不{/i}靠那个，也有大把可以探索和实验的东西。"
     },
     {
-      "en": ": I’m talking about things that, to other people, seem perfectly logical. But to us are weird and seemingly nonsensical by comparison. Like the sinkhole, for example.",
+      "en": ": I’m talking about things that, to other people, seem perfectly logical. But to {i}us{/i} are weird and seemingly nonsensical by comparison. Like the sinkhole, for example.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我说的是那些对别人来说完全合逻辑的事。但对{i}我们{/i}来说，相比之下就怪异、看似毫无意义。比如那个天坑。"
     },
     {
       "en": ": Or the weather. And how it doesn’t align with the seasons sometimes.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "或者天气。还有它有时候跟季节对不上。"
     },
     {
       "en": ""
@@ -1001,13 +1001,13 @@
       "en": ": I am confused again. What makes these things abnormal?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "我又糊涂了。这些东西有什么不正常的？"
     },
     {
       "en": ": Oh, right. You ain’t technically one of us yet, are you? Maybe shit ain’t started to kick in?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "哦，对。你严格说还不算我们的人，对吧？也许那些事还没开始发作？"
     },
     {
       "en": ""
@@ -1028,37 +1028,37 @@
       "en": ": What do you mean?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "你什么意思？"
     },
     {
       "en": ": That stuff about the seasons and the sinkhole seems normal to you and the rest of the girls who ain’t started to experience crazy shit yet but, to us three, it don’t make much sense.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "季节和天坑那些事，对你和其他还没开始经历怪事的女孩来说很正常，但对我们三个来说就说不通。"
     },
     {
       "en": ": One thing to note is that Tsuneyo has certainly begun to experience “crazy shit.”",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "有一点要注意：Tsuneyo 确实已经开始经历「怪事」了。"
     },
     {
       "en": ": Yeah, we had to drag her inside after she teleported into the street and took off all of her clothes once.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "是啊，有一次她瞬移到街上、还把衣服全脱了，我们不得不把她拖进来。"
     },
     {
       "en": ": Perhaps my interests and hobbies have just not caught on yet?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "也许只是我的兴趣和爱好还没流行起来？"
     },
     {
       "en": ": Or perhaps you’re the next girl to get a fuckin’ shirt. Ain’t no way of knowin’ ‘til it happens.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "或者也许你是下一个拿到那件该死上衣的女孩。在它发生之前谁也说不准。"
     },
     {
       "en": ""
@@ -1079,7 +1079,7 @@
       "en": ": I’m all for explorin’ a sinkhole and shit like that, though. Makes this club feel more like an actual club rather than an annual gathering where I’ve gotta talk to people I don’t like.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "不过去探探天坑之类的我倒是举双手赞成。这让这个社团更像个真正的社团，而不是一场我得跟不喜欢的人说话的年度聚会。"
     },
     {
       "en": ""
@@ -1100,19 +1100,19 @@
       "en": ": You really think that will help, Makoto? Digging deeper into the, like...smaller mysteries instead of focusing on the big one?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "你真觉得那有用吗，Makoto？往那些……更小的谜团里深挖，而不是盯着那个大谜团？"
     },
     {
       "en": ": I think it’s worth a shot. It’s far easier figuring out where a hole leads than how to correct the flow of time and restore order to a lawless world.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我觉得值得一试。搞清楚一个洞通向哪里，远比搞清怎么修正时间之流、恢复一个无法无天的世界的秩序要容易。"
     },
     {
-      "en": ": Plus, with just how many mysteries there are around us, there’s surely no shortage of things to look into. We can start going on, like...group expeditions and stuff to try and learn more.",
+      "en": ": Plus, with just {i}how many{/i} mysteries there are around us, there’s surely no shortage of things to look into. We can start going on, like...group expeditions and stuff to try and learn more.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "再说，我们周围有{i}那么多{/i}谜团，肯定不缺可以查的东西。我们可以开始搞……集体考察之类的，去了解更多。"
     },
     {
       "en": ""
@@ -1130,40 +1130,40 @@
       "en": ""
     },
     {
-      "en": ": Ooh! Family fun time! Now, I’m on board!",
+      "en": ": Ooh! Family fun time! {i}Now,{/i} I’m on board!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "哦！家庭欢乐时光！{i}这下{/i}我同意了！"
     },
     {
       "en": ": !!!",
       "spk": "Nao",
       "spkColor": "#EB7369",
-      "zh": ""
+      "zh": ": !!!"
     },
     {
       "en": ": I’m bailing out the second there’s any sort of danger and taking Sensei with me, though. This world means nothing to me if we are not together.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "不过一旦有任何危险，我立马撤退，还会把 Sensei 一起带走。如果我们不能在一起，这世界对我毫无意义。"
     },
     {
       "en": ": Are we even sure there are any risks associated with looking into stuff like this, though? Like...is there a precedent for that?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "可我们确定去查这些东西有什么风险吗？比如……有先例吗？"
     },
     {
       "en": ": I look at it similarly to the way those without knowledge of the timeloops react when they’re brought up to them. A la “repeating the same line over and over again until we move on.”",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我的看法类似那些不知道时间循环的人被提起这事时的反应。也就是「一遍又一遍重复同一句台词，直到我们往下走」。"
     },
     {
-      "en": ": In fact, a good example of an experiment I think we could conduct is to see just how long someone could keep that up for before becoming aware of it. Assuming they even do.",
+      "en": ": In fact, a good example of an experiment I think we could conduct is to see just how long someone could keep that up for before becoming aware of it. Assuming they even {i}do.{/i}",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "事实上，一个我认为可以做的实验例子是：看看一个人能坚持多久才意识到，假设他们{i}真{/i}能意识到的话。"
     },
     {
       "en": ""
@@ -1184,31 +1184,31 @@
       "en": ": My whole notebook is filled with small experiments like that.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我整本笔记都写满了这种小实验。"
     },
     {
       "en": ": Like...trying to scale the wall. Looking into the origins of Kumon-mi. Or locking Sensei in an empty room with a surveillance camera for a week and seeing what happens.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "比如……试着翻墙。调查 Kumon-mi 的起源。或者把 Sensei 锁在一间空屋子里、装个监控摄像头关上一周，看看会发生什么。"
     },
     {
-      "en": ": Now that’s quality television.",
+      "en": ": Now {i}that’s{/i} quality television.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "{i}这{/i}才是优质电视节目。"
     },
     {
       "en": ": So essentially just...trying to force oddities out of people and places for the sake of observing them? Then what? How does that knowledge help us solve the bigger issue here?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "所以本质上就是……为了观察，硬从人和地方身上逼出怪事？然后呢？这些知识怎么帮我们解决更大的问题？"
     },
     {
       "en": ": Well, we won’t really know that until we have some answers. So why don’t we start with Maya right now?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "嗯，在拿到一些答案之前我们真的不会知道。那我们为什么不从 Maya 开始？"
     },
     {
       "en": ""
@@ -1229,37 +1229,37 @@
       "en": ": Huh? What about me? What do I do?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "啊？我怎么了？我要做什么？"
     },
     {
       "en": ": Just...tell us about yourself. See what happens.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "就……跟我们说说你自己。看看会发生什么。"
     },
     {
       "en": ": I’m Maya Makinami. I like watermelons. I...play the violin and...spend most of my time alone in my room nowadays.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "我是 Maya Makinami。我喜欢西瓜。我……拉小提琴，而且……现在大部分时间都一个人待在房间里。"
     },
     {
       "en": ": Give us more. Come on.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "再多说点。来吧。"
     },
     {
       "en": ": If you’re looking to find out my three sizes, I don’t know them. Just that they’re small.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "如果你想知道我的三围，我不知道。只知道它们很小。"
     },
     {
-      "en": ": No, not like that. Tell us something from before you came here. Where you were born? What’s your family like?",
+      "en": ": No, not like that. Tell us something from {i}before{/i} you came here. Where you were born? What’s your family like?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "不，不是那种。跟我们说说你{i}来这儿之前{/i}的事。你出生在哪儿？你家里什么样？"
     },
     {
       "en": ""
@@ -1280,19 +1280,19 @@
       "en": ": Uhh...wh...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "呃……什……"
     },
     {
       "en": ": Why...do you want to know that? Is that really relevant here?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "你们为什么……想知道那个？这跟这里的事真有关系吗？"
     },
     {
-      "en": ": Well, to be honest, you’re kind of a mystery in general. All of your records at the school are completely inaccurate and lead to dead ends. I checked.",
+      "en": ": Well, to be honest, {i}you’re{/i} kind of a mystery in general. All of your records at the school are completely inaccurate and lead to dead ends. I checked.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "嗯，说实话，{i}你{/i}本身就是个谜。你在学校的所有记录都不准确，全是死胡同。我查过了。"
     },
     {
       "en": ""
@@ -1313,31 +1313,31 @@
       "en": ": You looked at my records, you creep? Why?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "你翻我的档案了，你这个变态？为什么？"
     },
     {
       "en": ": I needed your phone number. And also because I’m just nosy. Sorry.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "我需要你的电话号码。还有因为我就是爱管闲事。抱歉。"
     },
     {
       "en": ": This is fucking-",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "这真他妈-"
     },
     {
       "en": ": Why is it such an issue to just tell us where you’re from, Maya? Just name a city. Prefecture. Anything.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "为什么说说你来自哪儿就这么成问题，Maya？随便说个城市。县。什么都行。"
     },
     {
-      "en": ": You are being kind of weird about this, Maya. It’s important you don’t hide anything from us if you want to be a part of the club, you know.",
+      "en": ": You {i}are{/i} being kind of weird about this, Maya. It’s important you don’t hide anything from us if you want to be a part of the club, you know.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "你{i}确实{/i}在这件事上有点怪，Maya。你想加入社团，就不能对我们有所隐瞒，你知道的。"
     },
     {
       "en": ""
@@ -1355,16 +1355,16 @@
       "en": ""
     },
     {
-      "en": ": I’m not hiding anything. I just don’t get why I need to share my background with any of you. Especially out of nowhere like this.",
+      "en": ": I’m not {i}hiding{/i} anything. I just don’t get why I need to share my background with any of you. Especially out of nowhere like this.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "我没有{i}隐瞒{/i}什么。我只是不明白为什么非得跟你们分享我的背景。尤其是这样毫无征兆地。"
     },
     {
       "en": ": Because you haven’t had time to prepare a story?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "因为你还没时间编好一个故事？"
     },
     {
       "en": ""
@@ -1382,40 +1382,40 @@
       "en": ""
     },
     {
-      "en": ": Because it’s fucking annoying. Gifu. That’s where I’m from, if you really need to know. Which you apparently do.",
+      "en": ": Because it’s fucking annoying. {i}Gifu.{/i} That’s where I’m from, if you really {i}need{/i} to know. Which you apparently do.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "因为这他妈很烦人。{i}岐阜。{/i}我来自那儿，如果你真的{i}非{/i}知道不可的话。看来你确实非知道不可。"
     },
     {
       "en": ": Where in Gifu?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "岐阜哪儿？"
     },
     {
       "en": ": Gifu City.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "岐阜市。"
     },
     {
-      "en": ": Oh, the capital? That’s really cool. Can you name any other cities in Gifu?",
+      "en": ": Oh, the capital? That’s really cool. Can you name any {i}other{/i} cities in Gifu?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "哦，首府？真不错。你能说出岐阜{i}别的{/i}什么城市吗？"
     },
     {
       "en": ": Shirakawa-go.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "白川乡。"
     },
     {
-      "en": ": Any that aren’t major tourist destinations any normal person would know?",
+      "en": ": Any that {i}aren’t{/i} major tourist destinations any normal person would know?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "说个{i}不是{/i}普通人都知道的著名景点呢？"
     },
     {
       "en": ""
@@ -1436,31 +1436,31 @@
       "en": ": ...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Well?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "怎么样？"
     },
     {
       "en": ": You’re not lying, are you?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "你不是在撒谎吧？"
     },
     {
       "en": ": Guys...give her a break. Maya’s not-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "各位……放过她吧。Maya 不是-"
     },
     {
       "en": ": Umm...Dad?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "嗯……爸爸？"
     },
     {
       "en": ""
@@ -1481,19 +1481,19 @@
       "en": ": Sorry for barging in. I didn’t mean to interrupt. Ayane made it pretty clear that you wanted to be left alone tonight, but...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "抱歉闯进来。我不是故意打断的。Ayane 说得很清楚，你今晚想一个人待着，不过……"
     },
     {
       "en": ": That didn’t stop the rest of the girls from putting together a little present for you to try and bring you back to school.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "这也没拦住其他女孩凑了份小礼物给你，想把你拉回学校。"
     },
     {
-      "en": ": Then of course they got me to deliver it since I’m the only one you wouldn’t yell at for coming in. I hope I’m not too much of a bother.",
+      "en": ": Then of course they got {i}me{/i} to deliver it since I’m the only one you wouldn’t yell at for coming in. I hope I’m not too much of a bother.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "然后她们当然就{i}派我{/i}来送，因为我是唯一一个进来你不会冲我吼的人。希望我没有太烦人。"
     },
     {
       "en": ""
@@ -1514,7 +1514,7 @@
       "en": ": And that you’re...having fun with everyone else who is...apparently here.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "还有，你……跟显然在场的其他人……玩得挺开心。"
     },
     {
       "en": ""
@@ -1535,37 +1535,37 @@
       "en": ": Oh! Ami...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "哦！Ami……"
     },
     {
-      "en": ": Hey...",
+      "en": ": {i}Hey...{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "{i}嘿……{/i}"
     },
     {
       "en": ": H...Hey, Ayane.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "嘿……Ayane。"
     },
     {
       "en": ": We’re not-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "我们不是-"
     },
     {
-      "en": ": It’s fine. I wouldn’t want to spend much time with me either lately with how much of a jerk I’ve been.",
+      "en": ": It’s fine. {i}I{/i} wouldn’t want to spend much time with me either lately with how much of a jerk I’ve been. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "没关系。{i}我{/i}最近也这么惹人嫌，换我我也不想跟自己待太久。"
     },
     {
       "en": ": I’ll be better, though. I promise. Just...uhh...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "不过我会变好的。我保证。只是……呃……"
     },
     {
       "en": ""
@@ -1586,43 +1586,43 @@
       "en": ": G-Goodnight! Sorry for being annoying a-",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "晚、晚安！抱歉这么烦-"
     },
     {
       "en": ": Ami, hold on. I’ll come see you after we’re done here. Do you want me to wait to open this? Or-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "Ami，等一下。我们结束之后我去找你。你要我等会儿再拆吗？还是-"
     },
     {
       "en": ": Hm? Oh, no. Whenever you get a second is fine. It’s nothing too important.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "嗯？哦，不用。你有空的时候拆就行。不是什么重要的东西。"
     },
     {
       "en": ": Okay...sure. I’ll open it now then.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "好吧……行。那我现在就拆。"
     },
     {
       "en": ": Okay! Uhh...I guess just text me when you’re ready then! Bye, Dad! Bye...everyone else!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "好！呃……那你准备好了就给我发短信吧！再见，爸爸！再见……其他各位！"
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "{i}哈……{/i}"
     },
     {
       "en": ": Now I just feel bad.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "现在我只是觉得过意不去。"
     },
     {
       "en": ""
@@ -1643,31 +1643,31 @@
       "en": ": That doesn’t mean you’re off the hook though, Maya.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "不过这不代表你就脱身了，Maya。"
     },
     {
       "en": ": Ugh...so I can’t name another city in Gifu. Big deal. I haven’t been there in years. What more do you want from me?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "唉……所以我说不出岐阜别的城市。有什么大不了的。我好多年没回去了。你们还想要我怎么样？"
     },
     {
-      "en": ": Honesty would be a good place to start. Like, this is such a weird thing to hide from people unless you really are some sort of North Korean spy.",
+      "en": ": Honesty would be a good place to start. Like, this is such a weird thing to hide from people unless you really {i}are{/i} some sort of North Korean spy. ",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "从诚实开始就不错。你看，这种事藏着掖着也太奇怪了，除非你真是什么朝鲜间谍。"
     },
     {
       "en": ": Yes. North Korea hired a teenage girl to spy on a random Japanese town as part of their plan for world domination.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "对。朝鲜雇了一个十几岁的女孩来监视一个随机的日本小镇，作为他们统治世界计划的一环。"
     },
     {
-      "en": ": I mean, if I was going to hire a spy, that’s what I’d do. Just look at how well your plan was going until we caught you.",
+      "en": ": I mean, if {i}I{/i} was going to hire a spy, that’s what I’d do. Just look at how well your plan was going until we caught you. ",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "我是说，如果{i}我{/i}要雇间谍，我就会这么做。看看在被我们抓到之前，你的计划进行得多顺利。"
     },
     {
       "en": ""
@@ -1688,25 +1688,25 @@
       "en": ": Think Sensei was right when he tried to tell us to give her a break. Ain’t nobody likes bein’ forced to talk to anybody. I’d be doin’ the same damn thing if I were her.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "我觉得 Sensei 刚才说得对，他说让我们放过她。没人喜欢被逼着说话。我要是她，也会这么干。"
     },
     {
       "en": ": Gifu borders Fukui, does it not? My father used to visit there when he was a child. We still have pictures of Tojinbo hung up beside the restroom door.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "岐阜不是与福井接壤吗？我父亲小时候常去那儿。我们洗手间门边还挂着东寻坊的照片。"
     },
     {
       "en": ": It’s also the least populous prefecture in all of Japan with just over 500,000 residents. Which is something else Maya probably would have known if she was-",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "它也是全日本人口最少的县，只有五十万出头的居民。这也是 Maya 大概会知道的另一件事，如果她是-"
     },
     {
       "en": ": Sensei?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "Sensei？"
     },
     {
       "en": ""
@@ -1727,73 +1727,73 @@
       "en": ": Is something wrong?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "怎么了？"
     },
     {
       "en": ": ............................",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ............................"
     },
     {
       "en": ": ............................",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ............................"
     },
     {
       "en": ": ............................",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ............................"
     },
     {
       "en": ": Uh...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "呃……"
     },
     {
       "en": ": What is it? Can you show us?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "是什么？能给我们看看吗？"
     },
     {
       "en": ": Hope he doesn’t. Group shit like that makes me wanna puke.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "希望他别。这种集体活动让我想吐。"
     },
     {
       "en": ": What, really? But the card we all got together to make for Sensei when he was feeling down was super cute. That’s like, the most unified we’ve ever been as a class, I think.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "什么，真的吗？可是 Sensei 低落的时候我们全班一起给他做的那张卡片超可爱的。那大概是我们全班最团结的一次了，我觉得。"
     },
     {
-      "en": ": Which is why it’s kind of weird that I hadn’t even heard of this until now. I wonder what it is?",
+      "en": ": Which is why it’s kind of weird that I hadn’t even heard of {i}this{/i} until now. I wonder what it is?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "所以{i}这个{/i}我直到现在都没听说过，就有点怪了。我想知道那是什么？"
     },
     {
       "en": ": ............................",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ............................"
     },
     {
       "en": ": .......................",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": ......................."
     },
     {
       "en": ": Sensei?...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "Sensei？……"
     },
     {
       "en": ""
@@ -1814,67 +1814,67 @@
       "en": ": Do you...want to show us what’s in there, maybe?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "你……想不想给我们看看里面是什么？"
     },
     {
       "en": ": Let him read it first! It’s probably another card from the girls who don’t see themselves as potential wives yet.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "让他先读完！大概又是一张卡片，来自那些还不把自己当成未来妻子的女孩们。"
     },
     {
       "en": ": Or a fuckin’ bag of baby teeth his weirdo niece has been savin’ up for a special occasion.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "或者是一袋他那个怪胎侄女攒下来等特别场合的乳牙。"
     },
     {
       "en": ": I hope it is a box full of noodles.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "我希望是一整盒面条。"
     },
     {
       "en": ": What, like...loose noodles? Just fuckin’ rollin’ around in a box without any protection?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "什么，就……散装的面条？就那么在一盒子里他妈的滚来滚去、一点保护都没有？"
     },
     {
       "en": ": Why’d you have to make it sound so sexual?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "你非得说得这么色情吗？"
     },
     {
       "en": ": There ain’t nothin’ sexual about fuckin’ noodles, Blondie! I was just goin’ off of what Tsuneyo said!",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "面条他妈的一点都不色情，金毛！我只是顺着 Tsuneyo 说的往下讲！"
     },
     {
       "en": ": Show us the noodles, Sensei. It is unfair to keep them all to yourself.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "把面条拿出来给我们看看，Sensei。一个人独吞太不公平了。"
     },
     {
       "en": ": .............",
       "spk": "Nao",
       "spkColor": "#EB7369",
-      "zh": ""
+      "zh": ": ............."
     },
     {
       "en": ": Sensei...you’re starting to worry me. Can you please just-",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "Sensei……你开始让我担心了。你能不能就-"
     },
     {
       "en": ": There’s nothing to worry about, Makoto.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "没什么好担心的，Makoto。"
     },
     {
       "en": ""
@@ -1895,55 +1895,55 @@
       "en": ": It’s just noodles. See?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "只是面条而已。看？"
     },
     {
       "en": ": Wha-",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "什-"
     },
     {
       "en": ": Wet, floppy, overcooked noodles. So slimy and wriggly. Falling through my hands like tasty little worms.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "又湿又软、煮过头的面条。那么滑溜，还会扭动。从我指缝间滑落，像一条条美味的小虫。"
     },
     {
       "en": ": Ami must have lost her touch. She knows I like mine a bit al dente.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "Ami 一定是失手了。她知道我喜欢煮得稍微筋道一点。"
     },
     {
       "en": ": Is...Is that...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "那是……那是……"
     },
     {
       "en": ": Hm? It’s just noodles, Makoto. There’s no need to get so worked up about it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "嗯？只是面条而已，Makoto。没必要这么激动。"
     },
     {
       "en": ": Come on over. Let’s eat them together.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "过来吧。我们一起吃。"
     },
     {
       "en": ": Sensei...put that down...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "Sensei……把那个放下……"
     },
     {
       "en": ": Ayane...Call 119...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "Ayane……叫 119……"
     },
     {
       "en": ""
@@ -1961,28 +1961,28 @@
       "en": ""
     },
     {
-      "en": ": Is that...a fucking head?...",
+      "en": ": Is that...a fucking {i}head?...{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "那是……一个他妈的{i}人头{/i}吗？……"
     },
     {
       "en": ": It is certainly not noodles. That much I can confirm.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": "那肯定不是面条。这一点我可以确认。"
     },
     {
       "en": ": That’s a fuckin’ prop, right? That ain’t real.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": "那是个道具对吧？不是真的。"
     },
     {
       "en": ": O...Of course it’s a prop...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "当……当然是道具……"
     },
     {
       "en": ""
@@ -2000,46 +2000,46 @@
       "en": ""
     },
     {
-      "en": ": Because that’s...Maya’s head...and Maya is right here...",
+      "en": ": Because that’s...{i}Maya’s{/i} head...and Maya is right here...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "因为那是……{i}Maya{/i}的头……而 Maya 就在这儿……"
     },
     {
       "en": ": ...........",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": ..........."
     },
     {
       "en": ": Isn’t that right, Maya?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "对吧，Maya？"
     },
     {
       "en": ": Guys, come on. Let’s eat before it goes to waste.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "各位，来吧。趁还没浪费，我们把它吃了。"
     },
     {
       "en": ": Maya?...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": "Maya？……"
     },
     {
       "en": ": ...........",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": ..........."
     },
     {
       "en": ": .............",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ............."
     },
     {
       "en": ""
@@ -2060,25 +2060,25 @@
       "en": ": Oh, crap.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "哦，糟了。"
     },
     {
       "en": ": Huh...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "嗯……"
     },
     {
       "en": ": I feel dizzy all of a sudden.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "我突然觉得头晕。"
     },
     {
       "en": ": Sensei, don’t-",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "Sensei，别-"
     },
     {
       "en": ""
@@ -2099,31 +2099,31 @@
       "en": ": Blrghmmnafffafngh.ggh..!!~>>!??.?!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Blrghmmnafffafngh.ggh..!!~>>!??.?!"
     },
     {
       "en": ": Sensei, get away from that! Ayane, call a fucking ambulance already!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "Sensei，离那个远点！Ayane，快他妈叫救护车！"
     },
     {
       "en": ": So...strange...almost...metallic...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": "好……奇怪……几乎……有股金属味……"
     },
     {
       "en": ": SENSEI, STOP!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": "SENSEI，停下！"
     },
     {
-      "en": ": Okay, okay! Everyone calm down! This is fine! Everything’s fine! We just need to-",
+      "en": ": Okay, okay! Everyone calm down! This is fine! {i}Everything’s{/i} fine! We just need to-",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": "好了，好了！大家冷静！没事的！{i}一切{/i}都很好！我们只需要-"
     },
     {
       "en": ""

@@ -93,10 +93,10 @@
       "zh": ": 你是怎么查到我的银行信息的？"
     },
     {
-      "en": ": Easy. I know your email from the[school] messageboard and your password for the banking website was Boobies123.",
+      "en": ": Easy. I know your email from the[school] messageboard and your password for the banking website was {i}Boobies123{/i}.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 简单。我从[school]留言板上知道了您的邮箱，而您银行网站的密码是 Boobies123。"
+      "zh": ": 简单。我从[school]留言板上知道了您的邮箱，而您银行网站的密码是 {i}Boobies123{/i}。"
     },
     {
       "en": ": ...",
@@ -269,10 +269,10 @@
       "zh": ": 我的主要策略是重数量不重质量，一次买一大堆一般的食物，靠剩菜吃上两三天。"
     },
     {
-      "en": ": Well, that’s not a bad idea...but it doesn’t sound very fulfilling.",
+      "en": ": Well, that’s not a {i}bad{/i} idea...but it doesn’t sound very fulfilling.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 嗯，这主意不算坏……不过听起来不太有满足感。"
+      "zh": ": 嗯，这主意不算{i}坏{/i}……不过听起来不太有满足感。"
     },
     {
       "en": ": We can’t all have a girl who cooks and cleans for us every morning.",
@@ -359,8 +359,8 @@
       "zh": "我想，就算周围男人少得可怜，也没怎么影响到大家为重要的人买东西的热情。"
     },
     {
-      "en": "It’s just weird to me that there are so many people around here that actually have someone important to them in the first place.",
-      "zh": "只是我觉得奇怪，这一带居然有这么多人，真的拥有对自己而言重要的人。"
+      "en": "It’s just weird to me that there are so many people around here that actually {i}have{/i} someone important to them in the first place.",
+      "zh": "只是我觉得奇怪，这一带居然有这么多人，真的{i}拥有{/i}对自己而言重要的人。"
     },
     {
       "en": "It’s kind of a bitch finding companionship in general, let alone companionship with someone of the same sex.",
@@ -448,10 +448,10 @@
       "en": ""
     },
     {
-      "en": ": So, what’s your gameplan, Sensei?",
+      "en": ": So, what’s {i}your{/i} gameplan, Sensei? ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 那么，Sensei，您的计划是什么？"
+      "zh": ": 那么，Sensei，{i}您的{/i}计划是什么？"
     },
     {
       "en": ": Are you gonna come with us into all of the stores and watch us try on cute winter stuff? Or are you going to go abduct another little girl and force her to wear a dog mask?",
@@ -517,10 +517,10 @@
       "zh": ": 对对！如果您好狗面具这一口，您知道的，我也不介意——"
     },
     {
-      "en": ": I’m going to stop you right there just to clarify that I am very much not into dog masks.",
+      "en": ": I’m going to stop you right there just to clarify that I am very much not {i}into{/i} dog masks. ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我得打断你一下，澄清一下：我一点都不好狗面具这一口。"
+      "zh": ": 我得打断你一下，澄清一下：我一点都不好{i}狗面具{/i}这一口。"
     },
     {
       "en": ": Please preserve your mostly-innocent image and don’t offer to accommodate strange fetishes like that.",
@@ -850,8 +850,8 @@
       "zh": "店员把我领到一个全是纯色 T 恤的区域。"
     },
     {
-      "en": "Really wanting to mix things up, I go with grey and white instead of just white and prepare to shock my students when they see me in my new casual attire.",
-      "zh": "我真的很想换换风格，所以选了灰色和白色，而不只是白色，准备等学生们看到我这身新休闲装时被吓一跳。"
+      "en": "Really wanting to mix things up, I go with grey {i}and{/i} white instead of just white and prepare to shock my students when they see me in my new casual attire.",
+      "zh": "我真的很想换换风格，所以选了灰色{i}和{/i}白色，而不只是白色，准备等学生们看到我这身新休闲装时被吓一跳。"
     },
     {
       "en": ".........",
@@ -1096,8 +1096,8 @@
       "zh": "Maya 几秒后也出现了，不过只有一个袋子，而 Ami 有三个。"
     },
     {
-      "en": "At least I know she’d be more financially responsible if I were to ever adopt her.",
-      "zh": "至少我知道，要是我真收养她，她在花钱上会比我更靠谱。"
+      "en": "At least I know she’d be more financially responsible if I {i}were{/i} to ever adopt her.",
+      "zh": "至少我知道，要是我{i}真{/i}收养她，她在花钱上会比我更靠谱。"
     },
     {
       "en": ""
@@ -1154,10 +1154,10 @@
       "zh": ": 万岁。我又少一件要操心的事。"
     },
     {
-      "en": ": ...And I also got Maya here a present.",
+      "en": ": ...And I {i}also{/i} got Maya here a present.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": ……而且我还给这里的 Maya 买了件礼物。"
+      "zh": ": ……而且我{i}还{/i}给这里的 Maya 买了件礼物。"
     },
     {
       "en": ""
@@ -1667,10 +1667,10 @@
       "en": ""
     },
     {
-      "en": ": Nothing did happen.",
+      "en": ": Nothing {i}did{/i} happen. ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 什么都没发生过。"
+      "zh": ": 什么都{i}没发生过{/i}。"
     },
     {
       "en": ": I received a bag, I opened the bag, and immediately thanked Sensei.",
@@ -1816,8 +1816,8 @@
       "zh": "可问题就在这儿。"
     },
     {
-      "en": "I am out of place.",
-      "zh": "我确实格格不入。"
+      "en": "I {i}am{/i} out of place.",
+      "zh": "我{i}确实{/i}格格不入。"
     },
     {
       "en": "I don’t belong here.",

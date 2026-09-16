@@ -102,10 +102,10 @@
       "zh": ": Touma？"
     },
     {
-      "en": ": Touka. And are you absolutely sure that is what you’re here to do?",
+      "en": ": {i}Touka.{/i} And are you absolutely sure that is what you’re here to do?",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 是 Touka。还有，你确定你来这儿就是为了这个？"
+      "zh": ": 是 {i}Touka{/i}。还有，你确定你来这儿就是为了这个？"
     },
     {
       "en": ": Is right now not a good time?",
@@ -135,17 +135,17 @@
       "zh": ": 你要听我的实话，现在大概是你挑得到的最糟糕的时间。"
     },
     {
-      "en": ": In fact, the only reason I’m going out right now is to get away from Yasu. She has...crossed several borders that even I can’t bring her back from.",
+      "en": ": In fact, the only reason I’m going out right now is to {i}get away{/i} from Yasu. She has...crossed several borders that even I can’t bring her back from.",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 事实上，我之所以现在要出门，就是为了躲开 Yasu。她……越过了好几条连我都拉不回来的界线。"
+      "zh": ": 事实上，我之所以现在要出门，就是为了{i}躲开{/i} Yasu。她……越过了好几条连我都拉不回来的界线。"
     },
     {
       "en": ""
     },
     {
-      "en": "Sounds like another night of Yasu not being able to make it into her sanctuary due to her god's foil- a door.",
-      "zh": "听起来又是一个 Yasu 因为她的神被一个克星——一扇门——挡着而进不了圣所的夜晚。"
+      "en": "Sounds like another night of Yasu not being able to make it into her {i}sanctuary{/i} due to her god's foil- a door.",
+      "zh": "听起来又是一个 Yasu 因为她的神被一个克星——一扇门——挡着而进不了{i}圣所{/i}的夜晚。"
     },
     {
       "en": "I figured she would have come up with some sort of backup plan by now.",
@@ -545,8 +545,8 @@
       "en": ""
     },
     {
-      "en": "Glossolalia (ɡläsəˈlālēə): noun",
-      "zh": "Glossolalia（ɡläsəˈlālēə）：名词"
+      "en": "Glossolalia (ɡläsəˈlālēə): {i}noun{/i}",
+      "zh": "Glossolalia（ɡläsəˈlālēə）：{i}名词{/i}"
     },
     {
       "en": "Definition: The phenomenon of (apparently) speaking in an unknown language, especially in religious worship.",
@@ -619,8 +619,8 @@
       "en": ""
     },
     {
-      "en": "Glossolalia (ɡläsəˈlālēə): noun",
-      "zh": "Glossolalia（ɡläsəˈlālēə）：名词"
+      "en": "Glossolalia (ɡläsəˈlālēə): {i}noun{/i}",
+      "zh": "Glossolalia（ɡläsəˈlālēə）：{i}名词{/i}"
     },
     {
       "en": "Definition: Complete bullshit.",
@@ -723,10 +723,10 @@
       "zh": ": 还是我会撞上地面？磕裂头颅，任我的思绪流出来，爬回它们诞生的那条阴沟里。"
     },
     {
-      "en": ": Here’s an idea- why not just...you know, not fall?",
+      "en": ": Here’s an idea- why not just...you know, {i}not{/i} fall?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我有个主意——不如就……你知道的，别摔？"
+      "zh": ": 我有个主意——不如就……你知道的，{i}别{/i}摔？"
     },
     {
       "en": ": You’re sentient enough to speak at this point. I’m sure you can figure out how to move your legs.",
@@ -771,7 +771,7 @@
     },
     {
       "en": "",
-      "zh": "Yasu 该不会——"
+      "zh": null
     },
     {
       "en": ": I am done praying for the night.",
@@ -847,16 +847,16 @@
       "zh": "Yasu 直接摔在了我身上，但她没有仓皇逃开，也没有因为轻微的疼痛与羞耻交织而叫出声，而是用手指找到了我的手指，扣在了一起。"
     },
     {
-      "en": "Her body is certainly hot, just as she said moments ago...but it’s a heat I recognize.",
-      "zh": "她的身体确实很热，正如她片刻前所说的那样……但那是一种我认得的热。"
+      "en": "Her body is certainly hot, just as she said moments ago...but it’s a heat I {i}recognize.{/i}",
+      "zh": "她的身体确实很热，正如她片刻前所说的那样……但那是一种我{i}认得{/i}的热。"
     },
     {
       "en": "It’s a heat I recognize all too well.",
       "zh": "一种我太过熟悉的热。"
     },
     {
-      "en": "And the fact that it is her heat fills me with uncharacteristic unease as this is not something I believe she consciously understands.",
-      "zh": "而「它是属于她的热」这一点，让我涌起一种不寻常的不安，因为我不认为她是有意识地明白这一切的。"
+      "en": "And the fact that it is {i}her{/i} heat fills me with uncharacteristic unease as this is not something I believe she consciously understands.",
+      "zh": "而「它是属于{i}她{/i}的热」这一点，让我涌起一种不寻常的不安，因为我不认为她是有意识地明白这一切的。"
     },
     {
       "en": "And yet-",
@@ -886,10 +886,10 @@
       "en": ""
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ": 哈……"
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ": Welp. I guess this is happening now.",
@@ -904,10 +904,10 @@
       "zh": ": Sensei……我感觉好奇怪……"
     },
     {
-      "en": ": He tells me that only you can help me...",
+      "en": ": He tells me that only {i}you{/i} can help me...",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ": 他告诉我只有你能帮我……"
+      "zh": ": 他告诉我只有{i}你{/i}能帮我……"
     },
     {
       "en": ": But how?...",
@@ -929,8 +929,8 @@
       "zh": "Yasu 把我的手紧紧按在她的胸口上，透过睡裙单薄的布料，我能感觉到她的乳头已经硬了。"
     },
     {
-      "en": "It’s not like I really needed confirmation about what I assumed she was feeling but, I guess it’s...good that I got it anyway?",
-      "zh": "我本来也不需要再确认我猜她在感受什么，不过，我想……确认一下也好？"
+      "en": "It’s not like I really {i}needed{/i} confirmation about what I assumed she was feeling but, I guess it’s...good that I got it anyway?",
+      "zh": "我本来也不{i}需要{/i}再确认我猜她在感受什么，不过，我想……确认一下也好？"
     },
     {
       "en": "What’s not good, however, is that I absolutely should not allow this to keep going and the temptation to act out against that grows stronger by the second.",
@@ -973,8 +973,8 @@
       "zh": "当此刻我脑子里唯一飞驰的念头，是「附身在一位少女身上的圣灵会对她的身体造成什么样的影响」时，要计算时间实在很难。"
     },
     {
-      "en": "I’ve found myself less concerned with the way other things affect the body of young girls in the past. But at least those girls seemed...I don’t know...aware of what was happening?",
-      "zh": "过去我倒没那么在意别的东西对少女身体造成的影响。但至少那些女孩看起来……我不知道……是明白正在发生什么的？"
+      "en": "I’ve found myself less concerned with the way {i}other{/i} things affect the body of young girls in the past. But at least {i}those{/i} girls seemed...I don’t know...{i}aware{/i} of what was happening?",
+      "zh": "过去我倒没那么在意{i}别的{/i}东西对少女身体造成的影响。但至少{i}那些{/i}女孩看起来……我不知道……是{i}明白{/i}正在发生什么的？"
     },
     {
       "en": ""
@@ -1076,10 +1076,10 @@
       "zh": "你来到此地的短短时间里，已经变了多少啊"
     },
     {
-      "en": ": I PRESENT TO YOU THE DAMPENED CUNT OF AN UNKNOWING VIRGIN AND YOU RESIST???",
+      "en": ": I PRESENT TO YOU THE DAMPENED CUNT OF AN UNKNOWING VIRGIN AND YOU {b}RESIST???{/b}",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": "我把一个懵懂处女湿润的屄呈到你面前，你竟要抗拒？？？"
+      "zh": "我把一个懵懂处女湿润的屄呈到你面前，你竟要{b}抗拒？？？{/b}"
     },
     {
       "en": ": DO YOU THINK THAT IS AN OPTION???",
@@ -1088,10 +1088,10 @@
       "zh": "你以为抗拒是一个选项吗？？？"
     },
     {
-      "en": ": DO YOU UNDERSTAND WHAT I WILL TAKE FROM YOU IF YOU GIVE NOTHING TO ME???",
+      "en": ": DO YOU UNDERSTAND WHAT I WILL TAKE FROM YOU IF YOU GIVE NOTHING TO {b}ME???{/b}",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": "你明白若你什么都不给我，我会从你身上夺走什么吗？？？"
+      "zh": "你明白若你什么都不{b}给我{/b}，我会从你身上夺走什么吗？？？"
     },
     {
       "en": ": I HAVE BEEN VERY GENEROUS",
@@ -1142,10 +1142,10 @@
       "zh": "会是什么？？？"
     },
     {
-      "en": ": WHO WILL IT BE???",
+      "en": ": {b}WHO{/b} WILL IT BE???",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": "会是谁？？？"
+      "zh": "会是{b}谁{/b}？？？"
     },
     {
       "en": ": AND WHY IS IT NOT THE VERY VESSEL I COME TO YOU IN NOW???",
@@ -1215,8 +1215,8 @@
       "zh": "也是一具即便我试也插不进去的身体。"
     },
     {
-      "en": "BUT I TRY ANYWAY",
-      "zh": "但我还是试了"
+      "en": "{b}BUT I TRY ANYWAY{/b}",
+      "zh": "{b}但我还是试了{/b}"
     },
     {
       "en": ""
@@ -1246,8 +1246,8 @@
       "zh": "也从没有一层摸起来这么粗糙。"
     },
     {
-      "en": "It is less like a thin layer of flesh and more like a sheet of thick construction paper that tears away at a new layer of my flesh every time I try to move.",
-      "zh": "它不像一层薄薄的肉，更像一张厚卡纸，每次我想动一动，它就从我的肉上撕下新的一层。"
+      "en": "It is less like a thin layer of flesh and more like a sheet of thick construction paper that tears away at a new layer of {i}my{/i} flesh every time I try to move.",
+      "zh": "它不像一层薄薄的肉，更像一张厚卡纸，每次我想动一动，它就从{i}我的{/i}肉上撕下新的一层。"
     },
     {
       "en": "There is no dampness where my manhood dares to roam, but there is the tickling sensation of rain drops falling on my cheeks every seven seconds.",
@@ -1365,8 +1365,8 @@
       "zh": "Yasu 的身体开始剧烈地颤抖，朝着空气向上顶弄，而她……竟然只靠着摸自己的胸就给自己弄出了高潮？"
     },
     {
-      "en": "I know that they say small ones are more sensitive, but...I didn’t really expect something like this to happen after she landed on top of me.",
-      "zh": "我知道人们说小的更敏感，但是……她摔在我身上之后会发生这种事，我可真没想到。"
+      "en": "I know that they say small ones are more sensitive, but...I didn’t really expect something like {i}this{/i} to happen after she landed on top of me.",
+      "zh": "我知道人们说小的更敏感，但是……她摔在我身上之后会发生{i}这种事{/i}，我可真没想到。"
     },
     {
       "en": "It’s a good thing that I was able to abstain from molesting or raping her.",
@@ -1418,8 +1418,8 @@
       "en": ""
     },
     {
-      "en": "Yasu’s affection has increased to [yasu_love]!",
-      "zh": "Yasu 的好感度提升到了 [yasu_love]!"
+      "en": "{i}Yasu’s affection has increased to [yasu_love]!{/i}",
+      "zh": "{i}Yasu 的好感度提升到了 [yasu_love]!{/i}"
     },
     {
       "en": "She gently slides off of your body and squirms across the floor all the way back to her bed.",

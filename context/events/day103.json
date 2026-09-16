@@ -105,8 +105,8 @@
       "zh": "我决定绕个路，去城市的另一片区域看看。"
     },
     {
-      "en": "There are normally a lot more people around here, so I figured checking this place out would help me realize if everyone was gone or just the people I knew.",
-      "zh": "平时这一带人要多得多，所以我想，去那儿看看就能弄清楚到底是所有人都消失了，还是只有我认识的人不在了。"
+      "en": "There are normally a lot more people around here, so I figured checking this place out would help me realize if {i}everyone{/i} was gone or just the people I knew.",
+      "zh": "平时这一带人要多得多，所以我想，去那儿看看就能弄清楚到底是{i}所有人{/i}都消失了，还是只有我认识的人不在了。"
     },
     {
       "en": "But, as it turns out-",
@@ -132,10 +132,10 @@
       "en": ""
     },
     {
-      "en": ": HOW THE FUCK ARE YOU DOING???",
+      "en": ": {size=+25}HOW THE FUCK ARE YOU DOING???{/size}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你他妈过得怎么样啊？？？"
+      "zh": ": {size=+25}你他妈过得怎么样啊？？？{/size}"
     },
     {
       "en": ": Morning, Ami. Glad to see you’re back.",
@@ -150,10 +150,10 @@
       "zh": ": 你还是和平时一样可爱。"
     },
     {
-      "en": ": It's so dark Heheh~ Did you miss me?",
+      "en": ": {s}It's so dark{/s} Heheh~ Did you miss me?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 这儿好黑啊，嘿嘿~想我了吗？"
+      "zh": ": {s}这儿好黑啊{/s}，嘿嘿~想我了吗？"
     },
     {
       "en": ""
@@ -378,8 +378,8 @@
       "zh": "Ami 飘走去舔精液了，只剩我一个人站在马路中间。"
     },
     {
-      "en": "If this were a normal day, I would be run over by a car like her parents but, thankfully, no one is able to drive on account of not existing.",
-      "zh": "要是平常的日子，我早就跟她父母一样被车撞死了，不过幸运的是，因为人不存在，也没谁能开车。"
+      "en": "If this were a normal day, I would be run over by a car {s}like her parents{/s} but, thankfully, no one is able to drive on account of not existing.",
+      "zh": "要是平常的日子，我早就{s}跟她父母一样{/s}被车撞死了，不过幸运的是，因为人不存在，也没谁能开车。"
     },
     {
       "en": ""
@@ -699,10 +699,10 @@
       "zh": ": 又见面了"
     },
     {
-      "en": ": IT SEEMS THAT I AM IN YOUR WORLD THIS TIME",
+      "en": ": IT SEEMS THAT I AM IN {b}YOUR{/b} WORLD THIS TIME",
       "spk": "HOPE",
       "spkColor": "#FF2828",
-      "zh": ": 看来这一次是我来到了你的世界"
+      "zh": ": 看来这一次是我来到了{b}你的{/b}世界"
     },
     {
       "en": ": Do I know you?...",
@@ -718,8 +718,8 @@
       "zh": "一个奇怪的身影出现在我面前。"
     },
     {
-      "en": "I feel like I’ve seen it somewhere else, but I can’t quite put my finger on where...",
-      "zh": "我觉得自己好像在别的地方见过它，可就是想不起来是在哪儿……"
+      "en": "I feel like I’ve seen it somewhere else, but I can’t quite put my finger on {i}where{/i}... ",
+      "zh": "我觉得自己好像在别的地方见过它，可就是想不起来是在{i}哪儿{/i}……"
     },
     {
       "en": ""
@@ -1053,10 +1053,10 @@
       "en": ""
     },
     {
-      "en": ": That’s understandable. Frankly, it would be worrying if you weren't confused.",
+      "en": ": That’s understandable. Frankly, it would be worrying if you {i}weren't{/i} confused.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 这很正常。说实话，你要是不困惑才让人担心。"
+      "zh": ": 这很正常。说实话，你要是{i}不{/i}困惑才让人担心。"
     },
     {
       "en": ": Do you know what’s going on here?",
@@ -1208,10 +1208,10 @@
       "zh": ": 我们每个人看到的东西都会有些不同，但只要把你沿途涂上的那层漆刮掉，我们所见的其实是同一个东西。"
     },
     {
-      "en": ": What appears to the naked eye on the surface may differ from person to person, but what those visions are remains unchanged.",
+      "en": ": What appears to the naked eye on the surface may differ from person to person, but what those visions {i}are{/i} remains unchanged.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 肉眼所见的表面可能因人而异，但这些景象的本质始终不变。"
+      "zh": ": 肉眼所见的表面可能因人而异，但这些景象的{i}本质{/i}始终不变。"
     },
     {
       "en": ": Your Kumon-mi is different from mine. And mine is different from Ami's. But they’re still visions of the same Kumon-mi no matter whose eyes you're looking at them with.",
@@ -1415,10 +1415,10 @@
       "zh": ": 你有那么在乎他们吗？"
     },
     {
-      "en": ": Isn’t there something more important to you?",
+      "en": ": Isn’t there something {i}more{/i} important to you?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 难道没有对你来说更重要的东西吗？"
+      "zh": ": 难道没有对你来说{i}更{/i}重要的东西吗？"
     },
     {
       "en": ": I...don’t think so?...",
@@ -1454,10 +1454,10 @@
       "zh": ": 你真的不知道吗？"
     },
     {
-      "en": ": No...I don’t know anything...and I think I’ve made that pretty apparent.",
+      "en": ": No...I don’t know {i}anything...{/i}and I think I’ve made that pretty apparent.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不知道……我什么都不知道……我想这一点我已经表现得很明显了。"
+      "zh": ": 不知道……我{i}什么{/i}都不知道……我想这一点我已经表现得很明显了。"
     },
     {
       "en": ""
@@ -1523,10 +1523,10 @@
       "zh": "你是谁？"
     },
     {
-      "en": ": Who are you exactly?...",
+      "en": ": Who {i}are{/i} you exactly?...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你到底是谁？……"
+      "zh": ": 你到底{i}是{/i}谁？……"
     },
     {
       "en": ""
@@ -1598,10 +1598,10 @@
       "zh": ": 只会让事情更难熬。"
     },
     {
-      "en": ": You're not, like...God...are you?",
+      "en": ": You're not, like...{i}God...{/i}are you?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你不会是……上帝之类的吧？"
+      "zh": ": 你不会是……{i}上帝{/i}之类的吧？"
     },
     {
       "en": ": God?...",
@@ -1748,10 +1748,10 @@
       "en": ""
     },
     {
-      "en": ": Well, whatever. I guess I’ll just remind you again.",
+      "en": ": Well, whatever. I guess I’ll just remind you {i}again{/i}.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 算了，无所谓。我想我还是再提醒你一次吧。"
+      "zh": ": 算了，无所谓。我想我还是{i}再{/i}提醒你一次吧。"
     },
     {
       "en": ""
@@ -1790,10 +1790,10 @@
       "en": ""
     },
     {
-      "en": ": Or...",
+      "en": ": {i}Or...{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 又或者……"
+      "zh": ": {i}又或者……{/i}"
     },
     {
       "en": ": At least that’s what I keep telling myself.",
@@ -1913,10 +1913,10 @@
       "zh": ": 如果这地方危险，你觉得我还会一直来吗？"
     },
     {
-      "en": ": I don’t know why you do anything, to be completely honest.",
+      "en": ": I don’t know why you do {i}anything{/i}, to be completely honest. ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 说实话，我真不知道你做任何事的理由是什么。"
+      "zh": ": 说实话，我真不知道你做{i}任何事{/i}的理由是什么。"
     },
     {
       "en": ": Everything about you seems like some big secret.",
@@ -1925,10 +1925,10 @@
       "zh": ": 你的一切都像是个巨大的秘密。"
     },
     {
-      "en": ": Maybe everything about me is some big secret?",
+      "en": ": Maybe everything about me {i}is{/i} some big secret?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 也许我的一切就是个巨大的秘密呢？"
+      "zh": ": 也许我的一切{i}就是{/i}个巨大的秘密呢？"
     },
     {
       "en": ": Maybe you're a little closer to the truth than you think?",
@@ -2009,10 +2009,10 @@
       "zh": ": 说得对。"
     },
     {
-      "en": ": This is the end of the world.",
+      "en": ": This {i}is{/i} the end of the world.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 这就是世界末日。"
+      "zh": ": 这{i}就是{/i}世界末日。"
     },
     {
       "en": ": And everyone is most certainly already gone.",
@@ -2033,10 +2033,10 @@
       "zh": ": 什么？……"
     },
     {
-      "en": ": If this is the end of the world...",
+      "en": ": If {i}this{/i} is the end of the world...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 如果这是世界末日的话……"
+      "zh": ": 如果{i}这{/i}是世界末日的话……"
     },
     {
       "en": ": Then all we need to do is reset it.",
@@ -2055,10 +2055,10 @@
       "en": ""
     },
     {
-      "en": ": Again, what?",
+      "en": ": Again, {i}what?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 再说一遍，什么？"
+      "zh": ": 再说一遍，{i}什么？{/i}"
     },
     {
       "en": ": We're going to reset the world.",
@@ -2067,10 +2067,10 @@
       "zh": ": 我们要重置这个世界。"
     },
     {
-      "en": ": Well...I'm going to reset the world.",
+      "en": ": Well...{i}I'm{/i} going to reset the world.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 好吧……是我要重置这个世界。"
+      "zh": ": 好吧……{i}是我{/i}要重置这个世界。"
     },
     {
       "en": ": You're going to watch.",
@@ -2085,10 +2085,10 @@
       "zh": ": 这种事你做得到吗？"
     },
     {
-      "en": ": How?",
+      "en": ": {i}How?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 怎么做？"
+      "zh": ": {i}怎么做？{/i}"
     },
     {
       "en": ""
@@ -2187,16 +2187,16 @@
       "en": ""
     },
     {
-      "en": ": Hah...Well, whatever the case...",
+      "en": ": {i}Hah{/i}...Well, whatever the case...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 哈……算了，不管怎么样……"
+      "zh": ": {i}哈……{/i}算了，不管怎么样……"
     },
     {
-      "en": ": I wouldn't worry too much about completely starting over.",
+      "en": ": I wouldn't worry too much about {i}completely{/i} starting over.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我劝你别太担心要完全从头再来。"
+      "zh": ": 我劝你别太担心要{i}完全{/i}从头再来。"
     },
     {
       "en": ": If all goes according to plan, your progress won't reset at all.",
@@ -2240,10 +2240,10 @@
       "en": ""
     },
     {
-      "en": ": Like I've said...You don’t have to do anything. You can just stand there and...wait, I guess.",
+      "en": ": Like I've said...{i}You{/i} don’t have to do anything. You can just stand there and...wait, I guess.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 就像我说的……你什么都不用做。你就站在那儿……等着，大概吧。"
+      "zh": ": 就像我说的……{i}你{/i}什么都不用做。你就站在那儿……等着，大概吧。"
     },
     {
       "en": ": Soon, everything will go black...",
@@ -2297,10 +2297,10 @@
       "zh": ": 会像什么都没发生过一样。"
     },
     {
-      "en": ": Again, if all goes according to plan.",
+      "en": ": Again, {i}if all goes according to plan.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 再说一次，如果一切按计划进行的话。"
+      "zh": ": 再说一次，{i}如果一切按计划进行的话。{/i}"
     },
     {
       "en": ": Sometimes, plans fail and everything snaps.",
@@ -2360,10 +2360,10 @@
       "zh": ": 那……你为什么要做？"
     },
     {
-      "en": ": How are you doing it?",
+      "en": ": {i}How{/i} are you doing it?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你是怎么做到的？"
+      "zh": ": 你是{i}怎么{/i}做到的？"
     },
     {
       "en": ""
@@ -2443,10 +2443,10 @@
       "zh": ": 或者，至少……"
     },
     {
-      "en": ": How they should be for now.",
+      "en": ": How they should be {i}for now.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 暂时回到它该有的样子。"
+      "zh": ": {i}暂时{/i}回到它该有的样子。"
     },
     {
       "en": ""
@@ -2572,8 +2572,8 @@
       "en": ""
     },
     {
-      "en": "I stop teasing Maya and actually do stop talking this time.",
-      "zh": "我不再逗 Maya，这次真的闭上了嘴。"
+      "en": "I stop teasing Maya and actually {i}do{/i} stop talking this time.",
+      "zh": "我不再逗 Maya，这次{i}真的{/i}闭上了嘴。"
     },
     {
       "en": "Her arms never leave my waist.",
@@ -2885,8 +2885,8 @@
       "zh": "现在到底他妈的是什么情况？"
     },
     {
-      "en": "Who is this girl? Or, better question, who am I?",
-      "zh": "这个女孩是谁？或者更好的问法是，我是谁？"
+      "en": "Who is this girl? Or, better question, who am {i}I?{/i}",
+      "zh": "这个女孩是谁？或者更好的问法是，{i}我{/i}是谁？"
     },
     {
       "en": "Why can't I remember anything?...",
@@ -2917,8 +2917,8 @@
       "zh": "这个女孩应该知道点什么吧？"
     },
     {
-      "en": "But...if she's my student, she'll probably only know things that a student would know. She'll have no idea who I am or...where I even live or-",
-      "zh": "可是……如果她是我的学生，那她大概只知道一个学生会知道的东西。她不会知道我是谁，也不会知道我住哪儿，或者——"
+      "en": "But...if she's my student, she'll probably only know things that a {i}student{/i} would know. She'll have no idea who I am or...where I even live or-",
+      "zh": "可是……如果她是我的学生，那她大概只知道一个{i}学生{/i}会知道的东西。她不会知道我是谁，也不会知道我住哪儿，或者——"
     },
     {
       "en": "Wait, where am I supposed to go after I leave here when I still have absolutely no clue where I am?",
@@ -3116,10 +3116,10 @@
       "en": ""
     },
     {
-      "en": ": How can you just forget that we've been living together for years?",
+      "en": ": How can you just {i}forget{/i} that we've been living together for years?",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ": 你怎么能忘了我们已经一起住了好几年？"
+      "zh": ": 你怎么能{i}忘了{/i}我们已经一起住了好几年？"
     },
     {
       "en": ": What's next? Are you going to tell me you've forgotten my name?",
@@ -3155,16 +3155,16 @@
       "en": ""
     },
     {
-      "en": ": Oh my God! You have forgotten my name, haven't you?!",
+      "en": ": Oh my God! You {i}have{/i} forgotten my name, haven't you?!",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ": 天哪！你真的把我的名字忘了，是不是？！"
+      "zh": ": 天哪！你{i}真的{/i}把我的名字忘了，是不是？！"
     },
     {
-      "en": ": It's Ami, Sensei! Ami!",
+      "en": ": It's Ami, Sensei! {i}Ami!{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我叫 Ami，Sensei！Ami！"
+      "zh": ": 我叫 Ami，Sensei！{i}Ami{/i}！"
     },
     {
       "en": ": Sorry. It's nothing personal...probably.",
@@ -3218,10 +3218,10 @@
       "zh": ": 你是老了，但我没想到你已经老到要开始对付那种老年痴呆了。"
     },
     {
-      "en": ": I'm not that old, am I?",
+      "en": ": I'm not {i}that{/i} old, am I?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我有那么老吗？"
+      "zh": ": 我有{i}那么{/i}老吗？"
     },
     {
       "en": ""
@@ -3327,10 +3327,10 @@
       "zh": ": 我在想结局会怎样呢。一般来说，主角失忆那种故事，到最后一卷都会挺压抑的。"
     },
     {
-      "en": ": I think there are more pressing matters at hand than figuring out how things are going to end right now.",
+      "en": ": I think there are more pressing matters at hand than figuring out how things are going to {i}end{/i} right now.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我觉得眼下还有比猜结局更紧要的事。"
+      "zh": ": 我觉得眼下还有比猜{i}结局{/i}更紧要的事。"
     },
     {
       "en": ""
@@ -3360,10 +3360,10 @@
       "zh": ": 你知道吗，Sensei，如果你想多跟我待一会儿，直接说就好了。你不用为了引起我的注意而假装失忆。"
     },
     {
-      "en": ": Well, please forgive me if I continue to fake it for a little while longer.",
+      "en": ": Well, please forgive me if I continue to {i}fake{/i} it for a little while longer.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 嗯，那就请原谅我还要再假装一阵子吧。"
+      "zh": ": 嗯，那就请原谅我还要再{i}假装{/i}一阵子吧。"
     },
     {
       "en": ""
@@ -3424,8 +3424,8 @@
       "zh": "要是我说了，我想你也不会留下来继续观察我了。"
     },
     {
-      "en": "But I suppose I don't even know who you are...or who I'm even aiming these thoughts at right now.",
-      "zh": "可我大概连你是谁都不知道……也不知道我现在这些念头是冲着谁去的。"
+      "en": "But I suppose I don't even know who {i}you{/i} are...or who I'm even aiming these thoughts at right now.",
+      "zh": "可我大概连{i}你{/i}是谁都不知道……也不知道我现在这些念头是冲着谁去的。"
     },
     {
       "en": "Perhaps-",
@@ -3506,16 +3506,16 @@
       "zh": ": 天哪，连这个都忘了？"
     },
     {
-      "en": ": Just assume that everything is already gone since it'll wind up saving the two of us a ton of time.",
+      "en": ": Just assume that {i}everything{/i} is already gone since it'll wind up saving the two of us a ton of time.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你就当所有东西都已经忘了吧，这样能帮我们俩省下大把时间。"
+      "zh": ": 你就当{i}所有东西{/i}都已经忘了吧，这样能帮我们俩省下大把时间。"
     },
     {
-      "en": ": Not everything is gone, Sensei. I'm sure your love for me would remain no matter what sort of crazy thing happened to your brain.",
+      "en": ": Not {i}everything{/i} is gone, Sensei. I'm sure your love for me would remain no matter what sort of crazy thing happened to your brain.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 并不是所有东西都忘了啊，Sensei。我相信不管你脑子出了什么奇怪的毛病，你对我的爱都还在。"
+      "zh": ": 并不是{i}所有东西{/i}都忘了啊，Sensei。我相信不管你脑子出了什么奇怪的毛病，你对我的爱都还在。"
     },
     {
       "en": ": But, you're right. It's already kinda late out and I should be spending less time questioning you and more time helping you get back to normal.",
@@ -3539,10 +3539,10 @@
       "en": ""
     },
     {
-      "en": ": So, allow me to re-introduce you to Kumon-mi! A super normal town just outside of Tokyo.",
+      "en": ": So, allow me to {i}re-{/i}introduce you to Kumon-mi! A super normal town just outside of Tokyo.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 那么，请允许我重新向你介绍 Kumon-mi！东京郊外一座超级普通的小镇。"
+      "zh": ": 那么，请允许我{i}重{/i}新向你介绍 Kumon-mi！东京郊外一座超级普通的小镇。"
     },
     {
       "en": ": We’re not allowed to leave the city limits anymore because of the war, but-",
@@ -3624,10 +3624,10 @@
       "zh": ": 当然。这是剧情里很重要的一环，以后会拿来当喜剧桥段，所以别太纠结这个，不然你会被其他事情分心。"
     },
     {
-      "en": ": Everything else meaning what, exactly? Are there some other...weird rules about this place I need to be lectured on now?",
+      "en": ": Everything else meaning {i}what,{/i} exactly? Are there some other...weird rules about this place I need to be lectured on now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 其他事情是指什么？这地方还有什么奇怪的规则，需要你现在给我上课的吗？"
+      "zh": ": 其他事情是指{i}什么{/i}？这地方还有什么奇怪的规则，需要你现在给我上课的吗？"
     },
     {
       "en": ""
@@ -3805,10 +3805,10 @@
       "zh": ": 你能不能给我讲讲我班上学生的情况？"
     },
     {
-      "en": ": You mean remind you a little about your class?",
+      "en": ": You mean {i}remind{/i} you a little about your class?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你是说让我帮你回忆一下你班上的学生？"
+      "zh": ": 你是说让我帮你{i}回忆{/i}一下你班上的学生？"
     },
     {
       "en": ": Yeah...that. Sorry.",
@@ -3817,10 +3817,10 @@
       "zh": ": 对……那个。抱歉。"
     },
     {
-      "en": ": Don't apologize to me, Sensei. I'm used to dealing with you when you're at your worst. This sort of thing doesn't bother me at all.",
+      "en": ": Don't apologize to {i}me,{/i} Sensei. I'm used to dealing with you when you're at your worst. This sort of thing doesn't bother me at all.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 别跟我道歉啦，Sensei。我早就习惯应付状态最差时候的你。这种事我一点都不在意。"
+      "zh": ": 别跟{i}我{/i}道歉啦，Sensei。我早就习惯应付状态最差时候的你。这种事我一点都不在意。"
     },
     {
       "en": ": You're the only male teacher at an all-girls school...and there are ten total students you’re in charge of- including me!",
@@ -3951,10 +3951,10 @@
       "zh": ": 可是——"
     },
     {
-      "en": ": Ask something else.",
+      "en": ": {i}Ask something else.{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 问点别的吧。"
+      "zh": ": {i}问点别的吧。{/i}"
     },
     {
       "en": ""
@@ -4256,10 +4256,10 @@
       "zh": ": 怎么了？出什么事了？"
     },
     {
-      "en": ": What's wrong- is that Maya has been sitting all by herself over there this entire time and we haven't even noticed her.",
+      "en": ": What's {i}wrong-{/i} is that Maya has been sitting all by herself over there this entire time and we haven't even noticed her.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 出什么事了——Maya 一直一个人坐在那边，我们居然到现在都没注意到她。"
+      "zh": ": 出什么{i}事{/i}了——Maya 一直一个人坐在那边，我们居然到现在都没注意到她。"
     },
     {
       "en": ": Maya! We're coming to say hello whether you like it or not!",
@@ -4426,16 +4426,16 @@
       "zh": "一切都感觉不一样了……却又莫名地完全一样。"
     },
     {
-      "en": "This might not be where I am meant to be-",
-      "zh": "这里也许不是我该待的地方——"
+      "en": "This might not be where I am {i}meant{/i} to be-",
+      "zh": "这里也许不是我{i}该{/i}待的地方——"
     },
     {
       "en": "But it's where I am. And it's where I will stay until I am forcibly removed.",
       "zh": "但这里就是我所在的地方。而我会留在这里，直到被强行赶走为止。"
     },
     {
-      "en": "There is no home for me anywhere else, so I will carve a hole inside of this world and sleep inside of it, refusing to move out even if the world around me breaks.",
-      "zh": "我在别处已经无家可归，所以我要在这个世界里挖一个洞，睡在里面，哪怕周围的世界崩塌也绝不搬出去。"
+      "en": "There is no home for me anywhere else, so I will carve a hole inside of {i}this{/i} world and sleep inside of it, refusing to move out even if the world around me breaks.",
+      "zh": "我在别处已经无家可归，所以我要在{i}这个{/i}世界里挖一个洞，睡在里面，哪怕周围的世界崩塌也绝不搬出去。"
     },
     {
       "en": "Because now I know that world will reset.",
@@ -4450,8 +4450,8 @@
       "zh": "但是……"
     },
     {
-      "en": "What I don’t know is how.",
-      "zh": "我不知道的是，是怎么做到的。"
+      "en": "What I don’t know is {i}how.{/i}",
+      "zh": "我不知道的是，是{i}怎么{/i}做到的。"
     },
     {
       "en": ""
@@ -4630,8 +4630,8 @@
       "en": ""
     },
     {
-      "en": "So...we’re past the standardized tests now?",
-      "zh": "那么……我们已经过了统考那一段了？"
+      "en": "So...we’re {i}past{/i} the standardized tests now?",
+      "zh": "那么……我们已经{i}过了{/i}统考那一段了？"
     },
     {
       "en": "Weren't they just getting started the last time I woke up here?",
@@ -4781,12 +4781,12 @@
       "en": ""
     },
     {
-      "en": "Maya’s affection has increased to [maya_love]!",
-      "zh": "Maya 的好感度提升到了 [maya_love]！"
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]！{/i}"
     },
     {
-      "en": "Life goes on!",
-      "zh": "生活还在继续！"
+      "en": "{i}Life goes on!{/i}",
+      "zh": "{i}生活还在继续！{/i}"
     },
     {
       "en": ""

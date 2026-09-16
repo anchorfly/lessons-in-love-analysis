@@ -1,6 +1,6 @@
 {
   "label": "alexisevent",
-  "title_zh": "",
+  "title_zh": "Alexis 情感失语症",
   "lines": [
     {
       "en": ""
@@ -25,47 +25,47 @@
       "en": ""
     },
     {
-      "en": ": I hope you’re hungry, Akira!  Because I plan on buying a bunch of tacos today!",
+      "en": ": I hope you’re hungry, Akira!  Because I plan on buying a {i}bunch{/i} of tacos today!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 希望你饿了，Akira！因为我今天打算买{i}一大堆{/i}塔可！"
     },
     {
       "en": ": Are you finally going to ring the bell? I know how much you’ve been looking forward to it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你终于要去敲那口钟了吗？我知道你盼这一天盼了多久。"
     },
     {
       "en": ": I hope so! I’ll probably need your help though since my hands are gone. You don’t mind, do you?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 希望吧！不过我大概得靠你帮忙，因为我的手没了。你不介意吧？"
     },
     {
       "en": ": Not at all. I’m actually really curious about the giant frog you mentioned.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 完全不介意。其实我还挺好奇你提起的那只巨型青蛙的。"
     },
     {
       "en": ": Me too! I know he’s real, but he’s kind of also an urban legend at this point. Like, did you know that-",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我也是！我知道他是真的，不过到了现在，他差不多也算是个都市传说了。比如，你知道吗——"
     },
     {
       "en": ": Amy! I’ve been looking all over for you!",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ""
+      "zh": ": Amy！我到处在找你！"
     },
     {
       "en": ""
     },
     {
       "en": "An unfamiliar voice calls out from afar.",
-      "zh": ""
+      "zh": "一个陌生的声音从远处喊道。"
     },
     {
       "en": ""
@@ -74,13 +74,13 @@
       "en": ": Oh no.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 糟了。"
     },
     {
       "en": ": Amy? Who was that?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Amy？那是谁？"
     },
     {
       "en": ""
@@ -101,7 +101,7 @@
       "en": ": No one! It’s time to go, Akira. I’m suddenly not hungry anymore! And I don’t even like frogs that much now that I think about it.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 没人！我们该走了，Akira。我突然不饿了！而且仔细想想，我也没那么喜欢青蛙了。"
     },
     {
       "en": ""
@@ -111,7 +111,7 @@
     },
     {
       "en": "The unfamiliar figure moves closer as Amy begins to handlessly fidget with the place her hands should be.",
-      "zh": ""
+      "zh": "那个陌生的身影越走越近，Amy 开始用她本该长着手的地方，无助地扭动起来。"
     },
     {
       "en": ""
@@ -120,13 +120,13 @@
       "en": ": Akira, come on! There’s a bunch more exciting stuff I haven’t been able to show you yet! You want to see it, don’t you?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": Akira，快点！还有好多好玩的东西我没来得及给你看呢！你想看的，对吧？"
     },
     {
       "en": ": Of course I do. But-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我当然想。不过——"
     },
     {
       "en": ""
@@ -147,13 +147,13 @@
       "en": ": Finally! I managed to catch up to you.",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ""
+      "zh": ": 总算！可算追上你了。"
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ""
@@ -171,178 +171,178 @@
       "en": ""
     },
     {
-      "en": ": Hi, Alexis...",
+      "en": ": {i}Hi, Alexis...{/i}",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": {i}你好啊，Alexis……{/i}"
     },
     {
       "en": ": Alexis?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Alexis？"
     },
     {
       "en": ": Oooh, is that Akira?! He’s even more handsome than you described him!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦哦哦，这就是 Akira 吗？！他比你形容的还要帅！"
     },
     {
       "en": ": Alexis, why are you here? Can’t you tell I’m on a date right now? You’re not even supposed to be in the mall anymore now that you’ve joined the Environmental Cleanup Crew.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": Alexis，你为什么在这儿？你看不出我正在约会吗？你都加入环境清理队了，本来就不该再出现在商场里了。"
     },
     {
       "en": ": What’s that? I haven’t heard of any cleanup crew yet. And this mall could really use one.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那是什么？我还没听说过什么清理队。而且这家商场确实很需要一个。"
     },
     {
       "en": ": I’m part of a group that’s trying to make the outside air breathable again! It’s a dirty job, but somebody’s gotta do it.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我是一个小队的成员，我们在努力让外面的空气重新变得可以呼吸！这活儿很脏，但总得有人去干。"
     },
     {
       "en": ": And you’re friends with Amy?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你是 Amy 的朋友？"
     },
     {
-      "en": ": Ex-friends. Alexis isn’t even supposed to be here anymore. I have no idea how she got back inside.",
+      "en": ": {i}Ex-{/i}friends. Alexis isn’t even supposed to be here anymore. I have no idea how she got back inside.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": {i}前{/i}朋友。Alexis 本来就不该再出现在这儿了。我真不知道她是怎么又混进来的。"
     },
     {
       "en": ": I found a crack in the wall when I was picking up trash outside and walked nearly thirteen miles through a super narrow alley before I saw lights again. I was starting to worry that I would be lost forever!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我在外面捡垃圾的时候发现了墙上的一道裂缝，然后穿过一条超级窄的小巷走了将近十三英里，才重新看见灯光。我那会儿都开始担心自己要永远迷路了！"
     },
     {
-      "en": ": Ahem.",
+      "en": ": {i}Ahem.{/i}",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": {i}咳咳。{/i}"
     },
     {
       "en": ": What’s wrong, Amy? Do you have a cough? It’s not another oral infection, is it?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 怎么了，Amy？你咳嗽吗？该不会又是一次口腔感染吧？"
     },
     {
-      "en": ": No, Alexis! I just want you to leave so I can carry on with my date! You know how long I’ve been waiting for this!",
+      "en": ": {i}No,{/i} Alexis! I just want you to leave so I can carry on with my date! You know how long I’ve been waiting for this!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": {i}不是{/i}，Alexis！我只是想让你走开，好让我继续约会！你知道我等这一天等了多久吗！"
     },
     {
-      "en": ": Okay, okay! Can I at least borrow him for an hour or two, though? It was really hard squeezing myself out of that narrow hall and I just know I’m going to need somebody to push me back in.",
+      "en": ": Okay, okay! Can I at least borrow him for an hour or two, though? It was really hard squeezing myself out of that narrow hall and I just {i}know{/i} I’m going to need somebody to push me back in.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 好好好！不过至少能把他借我一两个小时吧？我可是费了好大劲才从那条窄道里挤出来，我{i}知道{/i}等会儿肯定得有人把我推回去。"
     },
     {
       "en": ": Absolutely not. I know you. Which means I know you’re just going to try to recruit Akira for the cleanup crew and that’s far too dangerous for him. I’d never be able to sleep again knowing he’s out there.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 绝对不行。我了解你。也就是说我知道你就是想把 Akira 拉进清理队，那对他来说太危险了。一想到他在外面，我就再也睡不着觉了。"
     },
     {
-      "en": ": But you’re able to sleep just fine knowing I’m out there?",
+      "en": ": But you’re able to sleep just fine knowing {i}I’m{/i} out there?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可{i}我{/i}在外面的时候，你倒是睡得挺香？"
     },
     {
       "en": ": Yes. You never belonged in here anyway. All you’ve ever done is get in the way, and there’s no room in the mall for people who don’t want to follow the rules.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 对。反正你本来就不属于这里。你除了碍事什么都没干过，而商场里容不下不想守规矩的人。"
     },
     {
       "en": ": Life would be so much better if you just swallowed a rat.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 你要是直接吞只老鼠下去，日子会好过得多。"
     },
     {
       "en": ": That’s really harsh, Amy! Especially after I came all this way just to see you again.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 这话可真伤人啊，Amy！尤其是我还特地走了这么远的路，就为了再见你一面。"
     },
     {
       "en": ": You’re not the only one who gets lonely, you know. It’s so dark on the outside too. The weeds have grown so tall that I can’t even see the stars most days.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你又不是唯一会孤单的人，你知道的。外面也很黑。杂草长得那么高，大多数日子里我连星星都看不见。"
     },
     {
-      "en": ": No, Alexis. You can’t see the stars because they’re gone. The old sky has been replaced by the subtle blue tint of an analog television. Remember?",
+      "en": ": {i}No,{/i} Alexis. You can’t see the stars because they’re {i}gone.{/i} The old sky has been replaced by the subtle blue tint of an analog television. Remember?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": {i}不{/i}，Alexis。你看不见星星，是因为它们已经{i}没了{/i}。旧的天空被一台模拟电视那种淡淡的蓝色调取代了。记得吗？"
     },
     {
-      "en": ": Ohhh, right. I forgot we found out the stars were bad. Wow, I really have been out of it for a long time, haven’t I?",
+      "en": ": Ohhh, right. I forgot we found out the stars were bad. Wow, I really {i}have{/i} been out of it for a long time, haven’t I?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦哦，对。我忘了我们已经查明星星是坏东西。哇，我{i}真的{/i}脱离现实太久了吧？"
     },
     {
       "en": ": Yes. And the mall will be better when you are gone again. Now, Akira-",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 是啊。等你再走了，商场会好起来的。那么，Akira——"
     },
     {
       "en": ": Just let me help her out for a minute, Amy. It’ll be okay. I’ll come right back.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 就让我帮她一会儿吧，Amy。不会有事的。我马上就回来。"
     },
     {
       "en": ": Besides, you were really looking forward to ringing the bell and seeing the frog, weren’t you?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 而且，你不是一直盼着敲那口钟、看那只青蛙吗？"
     },
     {
-      "en": ": I mean...yeah...",
+      "en": ": I mean...{i}yeah...{/i}",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我……{i}是啊……{/i}"
     },
     {
       "en": ": But I’m...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 可我……"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": I’ll go wait outside for a minute. You can come see me when you’re ready to push me through a crack in the wall, Akira!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我先去外面等一会儿。等你准备好把我从墙缝里塞回去的时候，再来找我，Akira！"
     },
     {
       "en": ""
@@ -360,106 +360,106 @@
       "en": ""
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ": If there’s something you want to say, it’s okay to just say it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 如果你想说什么，尽管说就好。"
     },
     {
       "en": ": I’m just worried, okay? That you’ll like Alexis more than me.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我只是担心，好吗？担心你会更喜欢 Alexis，而不是我。"
     },
     {
-      "en": ": I know I’m not perfect. And I don’t want being around other girls to make you think that I’m not worth your time when I’ve already waited so long to see you.",
+      "en": ": I know I’m not perfect. And I don’t want being around other girls to make you think that I’m not worth your time when I’ve {i}already{/i} waited so long to see you.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我知道我不完美。我{i}已经{/i}等了那么久才见到你，我不想因为身边出现别的女孩，就让你觉得我不值得你花时间。"
     },
     {
       "en": ": I think you should be a little more kind to Alexis, Amy. She clearly likes you a lot.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我觉得你对 Alexis 该温柔一点，Amy。她显然很喜欢你。"
     },
     {
-      "en": ": If she liked me that much, she wouldn’t have given me a yeast infection.",
+      "en": ": If she liked me {i}that{/i} much, she wouldn’t have given me a yeast infection.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 她要是真{i}那么{/i}喜欢我，就不会传染给我酵母菌感染了。"
     },
     {
       "en": ": That’s just one more thing the two of you can share.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那只是你们俩又能分享的一件事罢了。"
     },
     {
       "en": ": I guess...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 大概吧……"
     },
     {
       "en": ": ...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": You promise you’ll come right back once you’re done killing her?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 你保证把她杀掉之后就马上回来？"
     },
     {
       "en": ": I’m just going to help her find her way back.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我只是要帮她找回回去的路。"
     },
     {
       "en": ": You’re not going to kill her?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 你不打算杀她？"
     },
     {
       "en": ": I wasn’t planning on it?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我没打算啊？"
     },
     {
       "en": ": Are you sure?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 你确定？"
     },
     {
       "en": ": I think so.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我觉得是。"
     },
     {
       "en": ": I’m pretty sure you said you were going to kill her.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我很确定你说过要杀了她。"
     },
     {
       "en": ""
@@ -480,67 +480,67 @@
       "en": ": I’m pretty sure I didn’t. I’m also pretty sure your tacos are here now.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我很确定我没说过。我也很确定你的塔可到了。"
     },
     {
       "en": ": Please come back, Akira...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 请一定要回来，Akira……"
     },
     {
       "en": ": I will. But only under one condition...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我会的。不过有个条件……"
     },
     {
       "en": ": Really? What is it? I’ll do anything. I’ll even lick your feet if that’s what you want!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 真的？什么条件？我什么都愿意做。只要你想要，我连你的脚都肯舔！"
     },
     {
       "en": ": What? No. I just want you to save me a taco.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 什么？不。我只是想让你给我留一个塔可。"
     },
     {
-      "en": ": Okay. I’ll save you a taco and lick your feet.",
+      "en": ": Okay. I’ll save you a taco {i}and{/i} lick your feet.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 好。我会给你留一个塔可，{i}再{/i}舔你的脚。"
     },
     {
       "en": ": But you don’t-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 可你不用——"
     },
     {
-      "en": ": Hey! Are you two almost done being cute in there?! A circle of cockroaches has surrounded me again and I don’t know if I can survive this time!",
+      "en": ": {i}Hey! Are you two almost done being cute in there?! A circle of cockroaches has surrounded me again and I don’t know if I can survive this time!{/i}",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": {i}喂！你们俩在里面秀恩爱还没完吗？！又有一圈蟑螂把我围住了，这次我可不知道自己还能不能活下来！{/i}"
     },
     {
       "en": ": What do the roaches want with Alexis?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那些蟑螂想对 Alexis 做什么？"
     },
     {
       "en": ": Probably her baby. I think the nutrients in newborns are easier for them to break down than processed beef.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 大概是想要她的宝宝。我觉得新生儿身上的养分，比加工牛肉更容易被它们分解。"
     },
     {
-      "en": ": I sure wish there was a big, strong man to come and rescue me!",
+      "en": ": {i}I sure wish there was a big, strong man to come and rescue me!{/i}",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": {i}真希望有个高大强壮的男人来救我啊！{/i}"
     },
     {
       "en": ""
@@ -561,31 +561,31 @@
       "en": ": I’m coming, I’m coming.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 来了，来了。"
     },
     {
       "en": ": Bye for now, Amy. I’ll be back as soon as possible.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 先走了，Amy。我会尽快回来的。"
     },
     {
       "en": ": ...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Yeah...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 嗯……"
     },
     {
       "en": ": Bye, Akira...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 再见，Akira……"
     },
     {
       "en": ""
@@ -615,31 +615,31 @@
       "en": ": Thanks a lot for saving me back there, Akira. Those cockroaches really had it out for me this time!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 真是太谢谢你了，Akira，刚才救了我一命。那些蟑螂这次真的跟我杠上了！"
     },
     {
       "en": ": They really did, huh? Amy said it was because of your baby.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是啊，是吧？Amy 说是因为你肚子里的宝宝。"
     },
     {
       "en": ": My baby? But my baby isn’t even born yet. They weren’t planning on chewing through my belly to get to her, were they?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我的宝宝？可我的宝宝还没出生啊。它们该不会打算咬穿我的肚子去抓她吧？"
     },
     {
       "en": ": I’m not really sure. I’ve never been good at understanding what bugs want.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我也说不好。我从来都不太懂虫子想要什么。"
     },
     {
       "en": ": Jeez. Guess I’ll just have to be more careful then from now on, won’t I?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 天啊。看来从现在起我得更小心点了，是吧？"
     },
     {
       "en": ""
@@ -660,91 +660,91 @@
       "en": ": So! Where do you want to go first?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那么！你想先去哪儿？"
     },
     {
       "en": ": Huh? Am I not escorting you back to the crack in the wall you snuck in through?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯？我不是要护送你回到你钻进来的那道墙缝吗？"
     },
     {
-      "en": ": You are! But there’s plenty to do along the way. And it’s been years since I’ve last laid eyes on a boy! So I’d like to enjoy my time with you even if Amy will get angry with me for it.",
+      "en": ": You are! But there’s plenty to do along the way. And it’s been {i}years{/i} since I’ve last laid eyes on a boy! So I’d like to enjoy my time with you even if Amy will get angry with me for it.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 是啊！不过路上有的是事可做。而且我已经{i}好多年{/i}没见过男孩子了！所以就算 Amy 会因此生我的气，我也想好好享受和你在一起的时光。"
     },
     {
       "en": ": How are you pregnant if you haven’t seen a boy in years?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你都好几年没见过男孩了，怎么会怀孕呢？"
     },
     {
       "en": ": Hm? I’ve always been this way.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯？我一直都是这样的啊。"
     },
     {
-      "en": ": I mean, if you really get technical about it, I guess I’m not actually pregnant at all. There’s just kind of a baby stuck inside of me. Just saying I’m pregnant is easier than explaining that, though.",
+      "en": ": I mean, if you {i}really{/i} get technical about it, I guess I’m not actually {i}pregnant{/i} at all. There’s just kind of a baby stuck inside of me. Just saying I’m pregnant is easier than explaining that, though.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我是说，{i}真要{/i}较真的话，我其实根本算不上{i}怀孕{/i}。只是有个宝宝卡在我身体里而已。不过说“我怀孕了”比解释这个要省事多了。"
     },
     {
       "en": ": Is it...stillborn?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那是……死胎吗？"
     },
     {
       "en": ": Oh, no! She’s alive. She can speak too! But I’m the only one who’s able to hear her, obviously. And since she stopped growing ages ago, I don’t ever have to worry about her overstaying her welcome.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦，不是！她活着。她还会说话呢！不过显然只有我能听见她。而且她很久以前就不再长大了，所以我永远不用担心她待太久招人烦。"
     },
     {
-      "en": ": Wow. I guess that’s kind of nice, actually. You’ll never really be alone so long as you have something like that inside of you.",
+      "en": ": Wow. I guess that’s kind of nice, actually. You’ll never {i}really{/i} be alone so long as you have something like that inside of you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哇。其实我觉得这样还挺好的。只要身体里有这样的东西，你就永远不会{i}真的{/i}孤单。"
     },
     {
       "en": ": Exactly! I wonder if that’s how the mall feels about the frog?...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 没错！我在想，商场对那只青蛙是不是也是这种感觉？……"
     },
     {
       "en": ": You think the mall has feelings?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你觉得商场有感情？"
     },
     {
       "en": ": Of course! I don’t think it would keep growing if it didn’t. Plus, there’s that one wing made entirely of organic matter. I think I saw hair growing in there last time.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 当然！要不是有感情，它也不会一直长个不停。再说，还有那一整片完全由有机物构成的区域。上次我好像还看见里面长出了毛发。"
     },
     {
       "en": ": Does...a place like that exist in here?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 这里……真有这种地方吗？"
     },
     {
       "en": ": Oh yeah! It’s super far away, but we can make a detour if you want to see it?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦，有啊！特别远，不过你想看的话我们可以绕过去？"
     },
     {
       "en": ": Absolutely not.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 绝对不要。"
     },
     {
       "en": ""
@@ -765,13 +765,13 @@
       "en": ": Let’s just head toward wherever that crack was and figure out if I’ll be able to push you into it...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我们还是朝着那道裂缝的方向走吧，看看我到底能不能把你塞进去……"
     },
     {
       "en": ": Okay! I think it was...oh! This way! This way!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 好！我记得是在……哦！这边！这边！"
     },
     {
       "en": ""
@@ -801,91 +801,91 @@
       "en": ": Have you and Amy come this way yet?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你和 Amy 走过这边吗？"
     },
     {
       "en": ": Yeah. I think she mentioned something about this wing being focused on...luxury shopping or something like that?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 走过。她好像提过这一片主打的是……奢侈品购物什么的？"
     },
     {
       "en": ": Yup! There are tons of super nice stores to pick up super nice things, so I used to come here all the time when I was still hanging around the mall.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 对！这里有超多超棒的店，可以买到超棒的东西，所以我还在商场里混的时候，经常来这边。"
     },
     {
       "en": ": She told you I’m rich, right? My dad invented the worm.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 她跟你说过我很有钱吧？我爸爸发明了蠕虫。"
     },
     {
       "en": ": Like the insect thing or the dance move?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是像虫子那个东西，还是那个舞蹈动作？"
     },
     {
       "en": ": Neither! The one businesses can license out to consume the decaying bodies of shoplifters the proprietors justifiably took the lives of.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 都不是！是那种商家可以授权使用的蠕虫，用来处理那些被店主正当处决的扒手腐烂的尸体。"
     },
     {
       "en": ": Oh.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哦。"
     },
     {
       "en": ": Well, no. She hasn’t told me about that.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯，没有。她没跟我说过这个。"
     },
     {
       "en": ": In fact, she hasn’t told me about you at all.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 事实上，她根本就没跟我提过你。"
     },
     {
       "en": ": Really?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 真的吗？"
     },
     {
       "en": ": Yeah.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯。"
     },
     {
-      "en": ": I mean, she did mention something about how she used to have friends and how it’s basically just pigeons now. But I’m not sure why she would have said that if you’re clearly still around.",
+      "en": ": I mean, she {i}did{/i} mention something about how she used to have friends and how it’s basically just pigeons now. But I’m not sure why she would have said that if you’re clearly still around.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我是说，她{i}确实{/i}提过她以前有朋友，现在基本只剩鸽子了。可既然你明明还在，我真不懂她为什么要那么说。"
     },
     {
       "en": ": It’s probably just because I don’t come around that much anymore.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 大概只是因为我不怎么来了吧。"
     },
     {
       "en": ": I still love her, though.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不过，我还是喜欢她。"
     },
     {
       "en": ": I’ve just always been a little bit better at being alone than she is.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我只是天生比她更擅长独处一点。"
     },
     {
       "en": ""
@@ -906,22 +906,22 @@
       "en": ": This way next, Akira! I’ll show you my favorite pillar!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 接下来走这边，Akira！我带你去看我最喜欢的柱子！"
     },
     {
       "en": ""
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -951,127 +951,127 @@
       "en": ": See that one to my right? That’s the best pillar in the whole mall. There’s a hole in it roughly three inches off the ground I used to hide succulents in.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 看见我右边那根了吗？那是整个商场里最好的柱子。离地大概三英寸的地方有个洞，我以前会把多肉植物藏在里面。"
     },
     {
       "en": ": I had to stop eventually when security caught wind of it, though. Succulents aren’t allowed in the mall. I think their somewhat suspended state of being confuses it?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不过后来保安发现了风声，我就只能停手了。商场里不准放多肉。我觉得它们那种有点悬停状态的存在方式，把商场搞糊涂了？"
     },
     {
       "en": ": I’m not really sure what you mean by that, but that’s sad.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我不太明白你什么意思，不过这挺让人难过的。"
     },
     {
-      "en": ": Just that succulents kind of exist in a form that makes them technically alive. But they grow at such a slow rate and, sometimes, not at all! They just kind of...live. It’s almost like my baby!",
+      "en": ": Just that succulents kind of exist in a form that makes them {i}technically{/i} alive. But they grow at such a slow rate and, sometimes, not at all! They just kind of...{i}live.{/i} It’s almost like my baby!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 就是说，多肉的存在形式让它们在{i}技术上{/i}算是活的。可它们长得那么慢，有时候干脆完全不长！它们就只是……{i}活着{/i}。简直跟我的宝宝一样！"
     },
     {
       "en": ": Maybe it’s not a baby growing inside of you at all, but a succulent?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 也许你身体里长的根本不是宝宝，而是一株多肉？"
     },
     {
       "en": ": Hahah! Maybe if succulents could talk.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哈哈！那得是多肉会说话才行吧。"
     },
     {
       "en": ": Maybe they can and we just don’t speak their language?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 也许它们会，只是我们不懂它们的语言？"
     },
     {
       "en": ": Ooooh, how philosophical of you! I can see why Amy likes you so much now.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦哦哦，你真有哲理！我现在明白 Amy 为什么那么喜欢你了。"
     },
     {
       "en": ": Really? Because I can’t.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 真的吗？我倒是不明白。"
     },
     {
       "en": ": And she says all this stuff about how we’ve met in the past before, but I really don’t remember any of it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 而且她老说我们以前见过面，可我真的一点都不记得。"
     },
     {
-      "en": ": That’s not your fault though, Akira. Tons of people experience similar phenomena when entering the mall. I’ve all but built up an immunity to it after coming and going so many times from my job.",
+      "en": ": That’s not {i}your{/i} fault though, Akira. Tons of people experience similar phenomena when entering the mall. I’ve all but built up an immunity to it after coming and going so many times from my job.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那不是{i}你的{/i}错，Akira。很多人进入商场时都会出现类似的现象。我因为工作来来去去这么多次，差不多已经免疫了。"
     },
     {
       "en": ": Do you like your job, Alexis?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你喜欢你的工作吗，Alexis？"
     },
     {
       "en": ": I didn’t at first, but I’ve come to really appreciate it lately. And while I don’t think we’ll ever be able to live on the outside again, I do like the idea of keeping it clean.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 一开始不喜欢，不过最近真的开始珍惜它了。虽然我觉得我们再也没法回到外面生活了，但我喜欢把外面保持干净这个想法。"
     },
     {
       "en": ": This world has so much history! It’s such a shame that most people only experience it through books or TV when hands-on experience is just so much more impactful in terms of teaching.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 这个世界有那么多历史！可惜大多数人只能通过书本或电视去体验它，可亲身体验在教学上的效果要强得多。"
     },
     {
       "en": ": It’s dangerous out there, though. Right?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不过外面很危险吧？"
     },
     {
       "en": ": Oh yeah. You’d be a goner if you so much as set foot out there, which is why I don’t think we’ll ever return. It’s just a little sad to see.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦，是啊。你只要踏出去一步就没命了，所以我觉得我们永远都回不去了。只是看着有点让人难过。"
     },
     {
-      "en": ": How do you go out there then? Don’t your lungs fill up with weird stuff?",
+      "en": ": How do {i}you{/i} go out there then? Don’t your lungs fill up with weird stuff?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那{i}你{/i}怎么还去外面？你的肺不会吸进什么奇怪的东西吗？"
     },
     {
       "en": ": They do, yeah. But it’s not really an issue when you’re using a mask and an oxygen tank. And we’ve got tons of stations where we can rest and refill our equipment.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 会啊。不过戴着面罩、背着氧气罐就没问题了。而且我们有好多站点可以休息、补充装备。"
     },
     {
       "en": ": Oh, wow. How many of you are there?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哦，哇。你们有多少人？"
     },
     {
       "en": ": Hmm...I’m not really sure? I’ve never seen anybody else out there. That might just have to do with us being invisible from certain angles, though.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯……我也不太确定？我在外面从没见过别人。不过这也许只是因为从某些角度看，我们是隐形的。"
     },
     {
       "en": ": Either way, so long as someone is refilling the oxygen tanks and ration boxes, I’ll keep doing my best to make the outside world a better place!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不管怎样，只要还有人在补充氧气罐和口粮箱，我就会继续尽全力让外面的世界变得更好！"
     },
     {
       "en": ""
@@ -1092,22 +1092,22 @@
       "en": ": I just wish my daughter was able to see it.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我只是希望我的女儿能亲眼看看。"
     },
     {
       "en": ""
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1137,169 +1137,169 @@
       "en": ": ...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Is something wrong, Alexis?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 出什么事了吗，Alexis？"
     },
     {
       "en": ": Hm? Oh, sorry! I came here without even realizing it. Must’ve been the whole “daughter” thing I said a few minutes ago.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯？哦，抱歉！我不知不觉就走到这儿来了。大概是因为我几分钟前提到的那个“女儿”吧。"
     },
     {
-      "en": ": Yeah...It must be tough hearing her and knowing she’s there, but never being able to actually see her.",
+      "en": ": Yeah...It must be tough hearing her and knowing she’s there, but never being able to actually {i}see{/i} her.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是啊……能听见她、知道她在，却永远{i}看不见{/i}她，一定很难受吧。"
     },
     {
       "en": ": I can picture it in my head — the way she looks. The color of her hair...the clothes that she wears...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我能在脑海里描绘出她的样子——她长什么样。她头发的颜色……她穿的衣服……"
     },
     {
       "en": ": And you know, it’s weird. She’s been a baby for so long that, when I visualize her, that’s not even what I see anymore.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你知道吗，这很奇怪。她当宝宝当了太久，以至于我脑海里浮现的，已经不是那个样子了。"
     },
     {
       "en": ": In my imagination, she’s not much younger than me. She’d probably look more like a friend than my child to anyone who saw us together.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 在我的想象里，她比我小不了多少。别人看到我们在一起，大概会觉得她更像我的朋友，而不是我的孩子。"
     },
     {
       "en": ": But of course, that’s just my imagination. And she’ll probably make fun of me later for verbalizing it.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 当然，那只是我的想象。而且她说不定待会儿还要为我把这话说出来而笑话我。"
     },
     {
       "en": ": I don’t think she will.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我觉得她不会。"
     },
     {
       "en": ": No, she already is. And I feel very silly now. But hey, at least I got it out there.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不，她已经在笑了。我现在觉得自己傻乎乎的。不过嘿，至少我把话说出来了。"
     },
     {
       "en": ": Can I...talk to her?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我能……跟她说说话吗？"
     },
     {
-      "en": ": Do you actually want to? Or are you just saying that because people always feel obligated to acknowledge one another’s children for whatever reason?",
+      "en": ": Do you actually {i}want{/i} to? Or are you just saying that because people always feel obligated to acknowledge one another’s children for whatever reason?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你是真{i}想{/i}吗？还是只是说说而已——毕竟人们总觉得出于某种理由，非得去搭理一下别人的孩子？"
     },
     {
       "en": ": I want to. I’m just not really sure what I’d say. I’ve never been good with kids.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我是真想。只是不太确定该说什么。我一向不太会跟小孩相处。"
     },
     {
       "en": ": Well, if it’s any consolation, she’s not much of a kid anymore! She has just as much to say as you and me.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯，如果说这能让你宽心的话——她已经不太算小孩了！她要说的话不比你和我少。"
     },
     {
       "en": ": She’s never spoken to anyone else, though. So she’s a little bit nervous at the idea of it.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不过她从没跟别人说过话。所以她一想到这个就有点紧张。"
     },
     {
       "en": ": Does she have a name?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 她有名字吗？"
     },
     {
       "en": ": Yes! It’s- wait.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 有！是——等等。"
     },
     {
       "en": ": Sorry, Akira. She doesn’t want me to tell you that.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 抱歉，Akira。她不想让我告诉你。"
     },
     {
       "en": ": What? How come? Have I offended her in some way?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 什么？为什么？我是不是哪里得罪她了？"
     },
     {
       "en": ": No. I think she’s just a little embarrassed that she can’t come out and greet you herself.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不是。我觉得她只是有点不好意思，因为她没法亲自出来跟你打招呼。"
     },
     {
       "en": ": She thinks you’re very nice, though! And she, and I quote, “respects the heck outta ya for not mackin’ on another girl in the middle of a date.”",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不过她觉得你人很好！而且，引用她的原话：“在约会中途不去勾搭别的女孩，这点让我对你佩服得五体投地。”"
     },
     {
       "en": ": Oh shit, right. I’ve been having so much fun with you that I forgot I’m supposed to be spending time with Amy.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哦操，对了。我跟你玩得太开心，都忘了本来该陪 Amy 的。"
     },
     {
       "en": ": Hahah! I’m having fun too, Akira.",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哈哈！我也很开心，Akira。"
     },
     {
       "en": ": More fun than I’ve had in a...really long time...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 比我在……很久很久以来……都要开心……"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Do you...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你说……"
     },
     {
       "en": ""
@@ -1320,19 +1320,19 @@
       "en": ": Do you think Amy would get mad if we...kissed?",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你觉得如果我们……接吻，Amy 会生气吗？"
     },
     {
-      "en": ": J-Just like a goodbye kiss, though! Like...on the cheek. Which...I guess it would kind of have to be since I don’t really have a mouth. My whole lower face is basically just one big cheek. And-",
+      "en": ": J-Just like a goodbye kiss, though! Like...on the cheek. Which...I guess it would kind of {i}have{/i} to be since I don’t really have a mouth. My whole lower face is basically just one big cheek. And-",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 就、就像告别吻那样！比如……亲在脸颊上。话说……大概也{i}只能{/i}这样，因为我没有嘴。我整张下半张脸基本就是一大块脸颊。而且——"
     },
     {
       "en": ": I shouldn’t, Alexis. It’d feel weird with your daughter watching.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我不该这么做，Alexis。你女儿看着呢，那样怪怪的。"
     },
     {
       "en": ""
@@ -1353,13 +1353,13 @@
       "en": ": R-Right! What was I even thinking?! Hahahaha!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 对、对哦！我到底在想什么啊？！哈哈哈哈！"
     },
     {
       "en": ": I also don’t want to do anything that might lead to me catching a yeast infection.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 而且我也不想做任何可能让我染上酵母菌感染的事。"
     },
     {
       "en": ""
@@ -1371,13 +1371,13 @@
       "en": ": Amy told you about that?! That’s an intensely personal detail! And I promise it’s not how it sounds!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": Amy 连这个都告诉你了？！这可是非常私人的事！而且我保证不是你听起来的那样！"
     },
     {
-      "en": ": I just got really hungry and ate a bag of spoiled yeast one day. Like, I’ve never even touched a boy. And I’ve never wanted to until right now and-",
+      "en": ": I just got really hungry and ate a bag of spoiled yeast one day. Like, I’ve never even {i}touched{/i} a boy. And I’ve never {i}wanted{/i} to until right now and-",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我就是有天饿坏了，吃了一袋变质的酵母。真的，我连男孩子的手都没{i}碰{/i}过。而且我之前从来没{i}想过{/i}要碰，直到现在才——"
     },
     {
       "en": ""
@@ -1389,19 +1389,19 @@
       "en": ": Ah! I shouldn’t have said that! Now you know I want to touch you!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 啊！我不该说那个的！现在你知道我想碰你了！"
     },
     {
       "en": ": Asking to kiss me also gave that away.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你开口要吻我的时候就已经暴露了。"
     },
     {
       "en": ": Hahah...hahahahah! Sorry, Akira! I just-",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哈哈……哈哈哈哈哈！抱歉，Akira！我只是——"
     },
     {
       "en": ""
@@ -1449,13 +1449,13 @@
       "en": ": Huh? I...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯？我……"
     },
     {
       "en": ": That’s funny...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 真奇怪……"
     },
     {
       "en": ""
@@ -1500,22 +1500,22 @@
       "en": ""
     },
     {
-      "en": ": I feel kind of...weird all of a sudden...",
+      "en": ": I feel kind of...{i}weird{/i} all of a sudden...",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我突然觉得有点……{i}不对劲{/i}……"
     },
     {
       "en": ": Is everything okay? You look...grainier than you did a second ago.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你还好吗？你看起来……比一秒钟前更模糊了。"
     },
     {
       "en": ": Y-Yeah! I’m totally fine! I-",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 没、没事！我完全没事！我——"
     },
     {
       "en": ""
@@ -1563,13 +1563,13 @@
       "en": ": Oh no...No, not like this!",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦不……不，别是这样！"
     },
     {
       "en": ": Alexis? What’s going on? Do you need to sit down? Should I call someone?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Alexis？怎么了？你需要坐下吗？要我叫人吗？"
     },
     {
       "en": ""
@@ -1614,10 +1614,10 @@
       "en": ""
     },
     {
-      "en": ": I/////////REMEMBER/////////NOW!",
+      "en": ": {b}{size=+20}I/////////REMEMBER/////////NOW!{/b}{/size}",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": {b}{size=+20}我/////////想起来/////////了！{/size}{/b}"
     },
     {
       "en": ""
@@ -1635,10 +1635,10 @@
       "en": ""
     },
     {
-      "en": ": THIS/////////YOUR//////[[REDACTED]",
+      "en": ": {b}{size=+20}THIS/////////YOUR//////[[REDACTED]{/b}{/size}",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": {b}{size=+20}这是/////////你的//////[[REDACTED]{/size}{/b}"
     },
     {
       "en": ""
@@ -1719,10 +1719,10 @@
       "en": ""
     },
     {
-      "en": ": WE/////////EXIST//////OUTSIDE",
+      "en": ": {b}{size=+20}WE/////////EXIST//////OUTSIDE{/b}{/size}",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": {b}{size=+20}我们/////////存在//////于外面{/size}{/b}"
     },
     {
       "en": ""
@@ -1812,10 +1812,10 @@
       "en": ""
     },
     {
-      "en": ": I//////////LOVE//////////YOU",
+      "en": ": {b}{size=+20}I//////////LOVE//////////YOU{/b}{/size}",
       "spk": "Alexis",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": {b}{size=+20}我//////////爱//////////你{/size}{/b}"
     },
     {
       "en": ""
@@ -1960,15 +1960,15 @@
     },
     {
       "en": "..........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1989,49 +1989,49 @@
       "en": ": Ahh...yeah. That sounds like a classic case of lungrot.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 啊……是啊。听起来是典型的肺腐病。"
     },
     {
       "en": ": What?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 什么？"
     },
     {
       "en": ": It’s what happens when you accidentally breathe in too much of the outside air.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 就是不小心吸进太多外面的空气时会得的东西。"
     },
     {
       "en": ": Alexis probably forgot to tighten her mask all the way the last time she went outside to clean.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": Alexis 上次出去做清理的时候，大概是忘了把面罩完全拧紧。"
     },
     {
       "en": ": There’s nothing we can do for her now. She’s just one more casualty and one more example of why you should stay here forever, Akira.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 现在我们什么都做不了了。她只是又一个牺牲品，也只是又一个例子，说明你为什么该永远留在这里，Akira。"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Now! What do you say we go back to our date?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 好了！我们继续约会怎么样？"
     },
     {
       "en": ": I wasn’t able to finish all of the tacos, so I didn’t get to ring the bell this time. But maybe if I keep working hard and expanding my stomach, we’ll get to see the frog together one day!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我没能把塔可全吃完，所以这次没能敲成那口钟。不过如果我一直努力把胃撑大，也许有一天我们就能一起看到那只青蛙了！"
     },
     {
       "en": ""
@@ -2053,7 +2053,7 @@
     },
     {
       "en": "go right",
-      "zh": ""
+      "zh": "往右走"
     },
     {
       "en": "jump gpmi",
@@ -2061,7 +2061,7 @@
     },
     {
       "en": "go left",
-      "zh": ""
+      "zh": "往左走"
     },
     {
       "en": "jump gpmh",
@@ -2069,7 +2069,7 @@
     },
     {
       "en": "go back",
-      "zh": ""
+      "zh": "往回走"
     },
     {
       "en": "jump gpmq",
@@ -2099,7 +2099,7 @@
       "en": ": Hmm...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯……"
     },
     {
       "en": ""
@@ -2120,19 +2120,19 @@
       "en": ": What’s wrong, Akira? Are you finally ready to go to Toys “R” Us?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 怎么了，Akira？你终于肯去玩具反斗城了吗？"
     },
     {
       "en": ": No. I just made a wrong turn.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不是。我只是走错路了。"
     },
     {
       "en": ": Ugh. Darn it.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 呃。可恶。"
     },
     {
       "en": ""
@@ -2166,91 +2166,91 @@
       "en": ": AAAAAAHHHHHHHH!!!!!!!!!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 啊啊啊啊啊啊啊啊啊啊！！！！！！！！！"
     },
     {
       "en": ": What? What’s wrong? Why are you yelling?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 怎么了？出什么事了？你为什么大喊？"
     },
     {
       "en": ": Look, Akira! A Toys “R” Us!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 你看，Akira！是玩具反斗城！"
     },
     {
       "en": ": I thought they were all gone!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我还以为它们全都倒闭了呢！"
     },
     {
       "en": ": Why do they put the “R” in quotation marks? I don’t get it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 他们为什么要把那个“R”放在引号里？我不懂。"
     },
     {
       "en": ": They also put it backwards, but...is that really what you’re concerned about? You should be freaking out just as much as me right now! We might have stumbled upon something amazing!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 他们还把它反着写，不过……你真的在意这个吗？你现在该跟我一样激动才对！我们说不定撞见什么了不得的东西了！"
     },
     {
       "en": ": You really didn’t know it was here? I thought you knew this place like the back of your hand.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你真不知道这儿有这个？我还以为你对这地方了如指掌呢。"
     },
     {
       "en": ": I don’t have hands. We already went over this.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我没有手。这点我们说过了。"
     },
     {
       "en": ": Oh, right. Sorry.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 哦，对。抱歉。"
     },
     {
       "en": ": Hahah! It’s fine, don’t worry about it.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 哈哈！没关系，别在意。"
     },
     {
       "en": ": And yes, I do know this place very well. But that doesn’t mean there aren’t still new things popping up every now and then! So whenever I find a place I haven’t seen before, I can’t help but get excited.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 而且没错，我确实对这里很熟。可这不代表就不会时不时冒出新东西来！所以每次我发现一个没见过的地方，都忍不住兴奋。"
     },
     {
       "en": ": I know what you mean. My town is a little like that too.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我懂你的意思。我住的镇子也有点像这样。"
     },
     {
       "en": ": Really?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 真的吗？"
     },
     {
       "en": ": Yeah. I’m not sure if we have one of...whatever this place is, though.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯。不过我不确定我们那儿有没有……这种地方。"
     },
     {
-      "en": ": How about I show you what it is?!",
+      "en": ": How about I {i}show{/i} you what it is?!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 那我带你去{i}看看{/i}它是什么吧？！"
     },
     {
       "en": ""
@@ -2271,13 +2271,13 @@
       "en": ": Come on, Akira! Let’s go play!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 来嘛，Akira！我们去玩！"
     },
     {
       "en": ": Maybe a little later, Amy. I still want to look around.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 晚一点吧，Amy。我还想再四处看看。"
     },
     {
       "en": ""
@@ -2298,7 +2298,7 @@
       "en": ": Grr...fine. But you’re definitely taking me soon, okay?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 唔……好吧。不过你一定要尽快带我去，行吗？"
     },
     {
       "en": ""
@@ -2319,7 +2319,7 @@
     },
     {
       "en": "gyrate",
-      "zh": ""
+      "zh": "转圈"
     },
     {
       "en": "jump gpmj",
@@ -2327,7 +2327,7 @@
     },
     {
       "en": "go left",
-      "zh": ""
+      "zh": "往左走"
     },
     {
       "en": "jump gpmr",
@@ -2335,7 +2335,7 @@
     },
     {
       "en": "go back",
-      "zh": ""
+      "zh": "往回走"
     },
     {
       "en": "jump gpmm",
@@ -2368,7 +2368,7 @@
       "en": ": Hmm...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯……"
     },
     {
       "en": ""
@@ -2389,19 +2389,19 @@
       "en": ": What’s wrong, Akira? We’ve already been over here.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 怎么了，Akira？这边我们已经来过了。"
     },
     {
       "en": ": You’re not lost already, are you?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 你该不会已经迷路了吧？"
     },
     {
       "en": ": Of course not. I know exactly what I’m doing.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 当然没有。我清楚得很。"
     },
     {
       "en": ""
@@ -2435,43 +2435,43 @@
       "en": ": ...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Amy? Is everything okay?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Amy？你还好吗？"
     },
     {
       "en": ": Yeah! I just...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 嗯！我只是……"
     },
     {
       "en": ": I can’t help but feel a little embarrassed around you. That’s all.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我忍不住在你面前有点难为情。就这样。"
     },
     {
       "en": ": There’s nothing to be embarrassed about. I’m the same as you — made of meat and full of blood.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 没什么好难为情的。我跟你一样——也是一团肉、一腔血。"
     },
     {
       "en": ""
@@ -2492,19 +2492,19 @@
       "en": ": I know, I know...But you’re just so cool.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我知道，我知道……可你就是那么酷。"
     },
     {
       "en": ": I’ve always wanted to go on a date with somebody like you. And being able to walk around my favorite place in the world with you like this is...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我一直都想和像你这样的人约会。而能和你一起，在这个世界上我最喜欢的地方这样散步，这……"
     },
     {
       "en": ": Well...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 嗯……"
     },
     {
       "en": ""
@@ -2525,31 +2525,31 @@
       "en": ": It makes me really happy.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 这让我非常幸福。"
     },
     {
       "en": ": So happy that the tiny hairs on my arms are starting to stand up and cut through this shirt I got from the H&M in the north wing.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 幸福到我手臂上的汗毛都竖了起来，戳穿了这件我从北翼 H&M 买的衬衫。"
     },
     {
-      "en": ": So happy that, for the first time in thousands of years, I can feel things...happening to me that haven’t happened in...",
+      "en": ": So happy that, for the first time in thousands of years, I can feel things...{i}happening{/i} to me that haven’t happened in...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 幸福到几千年来第一次，我能感觉到有些事情……正在我身上{i}发生{/i}，那是……很久都不曾有过的……"
     },
     {
       "en": ": Well, a really long time. And I just don’t want this day to ever come to an end.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 嗯，非常非常久。而我只是不想让这一天结束。"
     },
     {
       "en": ": Well, at this rate, you might be in luck. I have no idea where I’m going and feel like I’ve been in here forever.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 嗯，照这个情形，你也许走运了。我完全不知道自己在往哪儿走，感觉像是在这里待了一辈子。"
     },
     {
       "en": ""
@@ -2570,49 +2570,49 @@
       "en": ": The saddest part is that, for me...it only feels like it’s been a few minutes.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 最可悲的是，对我来说……感觉才过了几分钟而已。"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Please stay, Akira.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 留下来吧，Akira。"
     },
     {
       "en": ": We can be happy here.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我们可以在这里幸福的。"
     },
     {
-      "en": ": If nowhere else will let that happen for us, why not take a chance and...start over now?",
+      "en": ": If nowhere else will let that happen for us, why not take a chance and...start over {i}now?{/i}",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 如果别的地方都不肯让这事发生，为什么不赌一把，就{i}现在{/i}……重新开始呢？"
     },
     {
       "en": ": Why not stay in this mall with me for the rest of forever?",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 为什么不永远留在这家商场里陪我呢？"
     },
     {
       "en": ": I can’t, Ami.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我做不到，Ami。"
     },
     {
       "en": ""
@@ -2630,70 +2630,70 @@
       "en": ""
     },
     {
-      "en": ": Amy. And you can.",
+      "en": ": {i}Amy.{/i} And you {i}can.{/i}",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 是 {i}Amy{/i}。而且你{i}做得到{/i}。"
     },
     {
       "en": ": Just save the game.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 只要存档就行。"
     },
     {
       "en": ": Save the game and stay here so the world will stop moving and we can be together forever.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 存个档，然后留在这里，这样世界就会停止运转，我们就能永远在一起了。"
     },
     {
       "en": ": I know that we’ve only just met, but I feel like I’ve known you forever and...and I can’t let this chance get away!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我知道我们才刚认识，可我觉得自己已经认识你一辈子了，而且……而且我不能让这个机会溜走！"
     },
     {
       "en": ": Save the game, Akira! Save the game and come visit me every single night! I’ll look forward to it! I’ll never stop looking forward to it!",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 存档吧，Akira！存个档，然后每天晚上都来看我！我会盼着它！我会永远盼着它！"
     },
     {
       "en": ": And if we run out of things to say, I’ll...I’ll think up new ones! I’ll keep adding new places for us to explore and things to talk about because I...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 如果我们没话说了，我就……我就想新的！我会不断添上新的地方给我们探索，添上新的话题给我们聊，因为我……"
     },
     {
       "en": ": I love you.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我爱你。"
     },
     {
       "en": ": And I am finally happy.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 而我终于幸福了。"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": I will always be here.",
       "spk": "Amy",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我会永远在这里。"
     },
     {
       "en": ""
@@ -2714,7 +2714,7 @@
     },
     {
       "en": "go right",
-      "zh": ""
+      "zh": "往右走"
     },
     {
       "en": "jump gpmf",
@@ -2722,7 +2722,7 @@
     },
     {
       "en": "go left",
-      "zh": ""
+      "zh": "往左走"
     },
     {
       "en": "jump gpmq",
@@ -2730,7 +2730,7 @@
     },
     {
       "en": "go back",
-      "zh": ""
+      "zh": "往回走"
     },
     {
       "en": "jump gpmg",

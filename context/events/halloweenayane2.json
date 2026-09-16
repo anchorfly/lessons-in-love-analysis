@@ -1,6 +1,6 @@
 {
   "label": "halloweenayane2",
-  "title_zh": "",
+  "title_zh": "时间、重置之类",
   "lines": [
     {
       "en": ""
@@ -10,10 +10,10 @@
       "zh": ""
     },
     {
-      "en": ": You made it how many years into the loop?",
+      "en": ": You made it {i}how{/i} many years into the loop?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 你在循环里走了{i}多少{/i}年来着？"
     },
     {
       "en": ""
@@ -34,13 +34,13 @@
       "en": ": I think it’s like...five? Four maybe? I’d have to ask Sensei. But even then, he always talks about how it all just blurs together. I’m kind of starting to see where he’s coming from too.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我想大概……五年？也许四年？我得问问老师。不过就算问他，他也总说一切都糊成一团了。我现在也开始有点明白他的意思了。"
     },
     {
       "en": ": I guess it really is him then. That’s further than I’ve ever heard of at least. None of the imposters have ever made it past the fourth.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 那看来真的是他了。至少比我听说过的都远。那些冒牌货没有一个撑过第四年。"
     },
     {
       "en": ""
@@ -58,28 +58,28 @@
       "en": ""
     },
     {
-      "en": ": The fourth? But my Maya told me the record was two.",
+      "en": ": The fourth? But {i}my{/i} Maya told me the record was two. ",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 第四年？可{i}我的{/i} Maya 告诉我纪录是两年。"
     },
     {
-      "en": ": Then either your Maya was wrong, lying, or hadn’t learned enough yet. But I’m going to hope that last part isn’t accurate as it would imply the timeline you come from is not the one that ends this.",
+      "en": ": Then either your Maya was wrong, lying, or hadn’t learned enough yet. But I’m going to hope that last part isn’t accurate as it would imply the timeline you come from is {i}not{/i} the one that ends this.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 那就是说，你的 Maya 要么搞错了，要么在撒谎，要么还没掌握足够的信息。但我希望最后一种不成立，因为那意味着你来的那条时间线，{i}不是{/i}能终结这一切的那一条。"
     },
     {
       "en": ": I think. I’m not sure. Time is weird. But my record is four.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 大概吧。我不确定。时间这东西很怪。不过我的纪录是四年。"
     },
     {
       "en": ": And what happened in that loop? Do you remember? Or is that like a gajillion years in the past by now?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那次循环里发生了什么？你还记得吗？还是说那对你来说已经是无数年前的事了？"
     },
     {
       "en": ""
@@ -100,7 +100,7 @@
       "en": ": That one was odd. I’m not sure Sensei ever really left his house. But I remember Ami always being kind of pissed off too, so I doubt it was because he was too busy screwing her.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 那次很怪。我不确定 Sensei 有没有真的出过家门。但我记得 Ami 也一直有点气鼓鼓的，所以我怀疑不是因为他忙着干她。"
     },
     {
       "en": ""
@@ -121,49 +121,49 @@
       "en": ": Watch out for her, by the way. She tends to kill people when she doesn’t get what she wants.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 顺便提醒你，小心她。她一旦得不到自己想要的东西，是会杀人的。"
     },
     {
       "en": ": Yeah...my Maya already told me about that. But...I don’t know.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯……我的 Maya 已经跟我说过了。可是……我不知道。"
     },
     {
-      "en": ": Like, I’m not saying she was lying. I think my Maya genuinely did see something like that. But...I think the Ami from my Kumon-mi might be different.",
+      "en": ": Like, I’m not saying she was lying. I think my Maya genuinely {i}did{/i} see something like that. But...I think the Ami from my Kumon-mi might be different.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 就是说，我不是说她在撒谎。我觉得我的 Maya {i}确实{/i}看到了那样的事。只是……我觉得我那个 Kumon-mi 里的 Ami 可能不太一样。"
     },
     {
       "en": ": And if I had a dollar for every time I thought that, I’d be able to buy every melon bread in the city.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 要是我每这么想一次就能拿到一美元，我早把全城的蜜瓜面包都买下来了。"
     },
     {
       "en": ": You’d need to convert all those dollars to yen first. And the exchange fees can get pretty high in some places.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你得先把那些美元换成日元。而且有些地方的手续费还挺高的。"
     },
     {
-      "en": ": Okay, so I’d be able to buy most of the melon bread in the city. The fact remains — you shouldn’t ever trust her. And you shouldn’t ever trust me either.",
+      "en": ": Okay, so I’d be able to buy {i}most{/i} of the melon bread in the city. The fact remains — you shouldn’t ever trust her. And you shouldn’t ever trust {i}me{/i} either. ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 好吧，那就是能买下城里{i}大部分{/i}的蜜瓜面包。重点不变——你永远不该相信她。你也不该相信{i}我{/i}。"
     },
     {
       "en": ": I’m extremely selfish and won’t hesitate to throw you under the bus for my own personal gain.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我极度自私，为了自己的利益，把你推出去当垫背的事我眼睛都不会眨一下。"
     },
     {
       "en": ": And you’re just going to flat out admit that?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 而你就这么直接承认了？"
     },
     {
       "en": ""
@@ -184,13 +184,13 @@
       "en": ": That actually felt pretty good to get off my chest.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 说出来倒是挺痛快的。"
     },
     {
-      "en": ": Well, I’m glad you feel good at least. Because finding out there is literally no one for me to trust back home except Sensei isn’t really a great motivator for continuing my journey through time.",
+      "en": ": Well, I’m glad {i}you{/i} feel good at least. Because finding out there is literally no one for me to trust back home except Sensei isn’t really a great motivator for continuing my journey through time.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯，至少{i}你{/i}痛快了。可一想到回到那边之后，除了老师我根本找不到任何可以信任的人，实在让我没什么动力继续这场穿越时间的旅程。"
     },
     {
       "en": ""
@@ -208,16 +208,16 @@
       "en": ""
     },
     {
-      "en": ": It isn’t my job to motivate you. It’s my job to fill you in on as much as I possibly can while I can in the event that you do get sent back.",
+      "en": ": It isn’t my job to motivate you. It’s my job to fill you in on as much as I possibly can {i}while{/i} I can in the event that you {i}do{/i} get sent back.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 激励你不是我的职责。我的职责是{i}趁我还来得及{/i}，尽可能多地告诉你一切，以防你{i}真的{/i}会被送回去。"
     },
     {
-      "en": ": And seeing as you’ve managed to make it all the way here, I have no reason to doubt that you’re almost as big of a player in this as I am. But your Maya probably won’t think that.",
+      "en": ": And seeing as you’ve managed to make it all the way here, I have no reason to doubt that you’re almost as big of a player in this as I am. But {i}your{/i} Maya probably won’t think that.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 既然你能一路走到这里，我没理由怀疑你在这件事里的分量几乎和我一样重。但{i}你的{/i} Maya 大概不会这么想。"
     },
     {
       "en": ""
@@ -238,31 +238,31 @@
       "en": ": I’m stubborn. And I doubt I’d have an easy time just accepting that someone like you could be dragged into this out of nowhere.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我很固执。要我轻易接受「像你这样的人会莫名其妙被卷进来」，我想我做不到。"
     },
     {
-      "en": ": The only reason I can do that here is because you effectively just climbed out of a time machine in front of me.",
+      "en": ": The only reason I can do that {i}here{/i} is because you effectively just climbed out of a time machine in front of me.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我在{i}这儿{/i}之所以能做到，纯粹是因为你当着我的面从时光机里爬了出来。"
     },
     {
       "en": ": Well, it’s definitely true that my Maya didn’t immediately accept me. She thought I must have been pregnant or something since she and Sensei were the only ones that ever made it to the roof.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯，我的 Maya 确实没有立刻接受我。她以为我大概是怀孕了之类的，因为能上天台的只有她和老师。"
     },
     {
       "en": ": Yeah, that sounds about right. So forget everything she ever said to you. Also, please stop subtly reminding me that you’re actively sleeping with the man I love or I am going to subtly strangle you to death.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 嗯，听起来就是她的风格。所以她说过的每句话你都忘掉。另外，请不要再拐弯抹角地提醒我，你正和我爱的男人上床，否则我会含蓄地把你掐死。"
     },
     {
       "en": ": This has to get easier eventually, doesn’t it?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 这事总有一天会变容易的吧？"
     },
     {
       "en": ""
@@ -283,19 +283,19 @@
       "en": ": What part exactly?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 你说的是哪一部分？"
     },
     {
       "en": ": I don’t know...accepting that this is the way things are? It’s a lot to shoulder all by yourself. I have no idea how you managed to keep it together for as long as you did.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我不知道……接受事情就是这样的？一个人扛着这些太沉重了。我真不知道你是怎么撑了这么久的。"
     },
     {
       "en": ": I didn’t.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我没撑住。"
     },
     {
       "en": ""
@@ -316,13 +316,13 @@
       "en": ": You didn’t?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你没有？"
     },
     {
       "en": ": Absolutely not. Do you think I would have fucked so many Senseis to death if I was emotionally stable the whole time? Hell no. I’ve made more mistakes than I can even count.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 当然没有。你觉得要是我一直情绪稳定，我会把那么多 Sensei 干死吗？想都别想。我犯下的错多得数都数不清。"
     },
     {
       "en": ""
@@ -343,25 +343,25 @@
       "en": ": I’m also pretty sure I literally strangled one to death in the middle of an orgasm once. But that one was really vulgar so he had it coming.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我还挺确定有一次我在高潮的时候真把一个掐死了。不过那个特别下流，是他自找的。"
     },
     {
       "en": ": I’m...surprised you even had the strength to do that.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我……挺惊讶你居然还有那个力气。"
     },
     {
       "en": ": Rope helps. Anyway, that’s beside the point.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 有绳子帮忙。总之，那不是重点。"
     },
     {
-      "en": ": Well, what is the point? Because now it just feels like you subtly bragging to me about having sex with the man I love.",
+      "en": ": Well, what {i}is{/i} the point? Because now it just feels like you subtly bragging to {i}me{/i} about having sex with the man I love.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那重点{i}是{/i}什么？因为现在听起来就像是你在拐弯抹角地{i}跟我{/i}炫耀，你和我爱的男人上过床。"
     },
     {
       "en": ""
@@ -382,25 +382,25 @@
       "en": ": I guess in a sense I am.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 某种意义上，我确实是在炫耀。"
     },
     {
       "en": ": Why are you smiling? My Maya doesn’t smile.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你为什么在笑？我的 Maya 从来不笑。"
     },
     {
       "en": ": She does when she feels safe. I imagine she just never felt that way with you looming over her shoulder, threatening to take away the role she spent countless years getting comfortable in.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 她在觉得安全的时候会笑。我想她只是从来没在你面前那样过——毕竟你一直在她身后虎视眈眈，威胁着要抢走她花了无数年才适应下来的角色。"
     },
     {
-      "en": ": It’s nothing personal. So allow me to apologize on her-slash-my behalf now. I’m a very, very selfish girl. And I’ve seen what happens in worlds where Ayane Amamiya gets her wish.",
+      "en": ": It’s nothing personal. So allow me to apologize on her-slash-my behalf now. I’m a very, {i}very{/i} selfish girl. And I’ve seen what happens in worlds where Ayane Amamiya gets her wish.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 这不是针对你。所以请允许我代表「她」——也就是我——向你道歉。我是个{i}非常{/i}、非常自私的女孩。而我见过 Ayane Amamiya 如愿以偿的那些世界里发生了什么。"
     },
     {
       "en": ""
@@ -421,25 +421,25 @@
       "en": ": You have?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你见过？"
     },
     {
       "en": ": I have.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 见过。"
     },
     {
-      "en": ": Well...what wish? Because I have a lot. Do Sensei and I get married? Do we have kids? How many? If the record is four loops, that should be time for at least two and-",
+      "en": ": Well...what wish? Because I have a lot. Do Sensei and I get married? Do we have kids? How many? If the record is four loops, that should be time for {i}at least{/i} two and-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯……什么愿望？我的愿望可多了。我和老师结婚了吗？我们有孩子了吗？有几个？如果纪录是四次循环，那{i}至少{/i}够生两个——"
     },
     {
       "en": ": You never get married. You’re still in high school at the end of the day.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 你永远结不了婚。说到底你还在上高中。"
     },
     {
       "en": ""
@@ -457,22 +457,22 @@
       "en": ""
     },
     {
-      "en": ": And while I’ve never personally seen your body become infested with the life-ending parasite known as a “human child,” I wouldn’t be surprised if it happened.",
+      "en": ": And while I’ve never personally {i}seen{/i} your body become infested with the life-ending parasite known as a “human child,” I wouldn’t be surprised if it happened.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 虽然我本人从没{i}见过{/i}你的身体被那种叫「人类幼崽」的终结人生的寄生虫侵占，但就算发生了我也不会意外。"
     },
     {
       "en": ": I’ve watched the two of you fall hopelessly in love more times than I can count.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我看着你们俩无可救药地坠入爱河，次数多得数不清。"
     },
     {
       "en": ": ...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ""
@@ -490,16 +490,16 @@
       "en": ""
     },
     {
-      "en": ": But, then again, none of those instances were with the real Sensei. So I guess your “love” is just not nearly as real and unbending as mine.",
+      "en": ": But, then again, none of those instances were with the {i}real{/i} Sensei. So I guess your “love” is just not nearly as real and unbending as mine.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 不过话说回来，那些没有一次是和{i}真正{/i}的 Sensei。所以你所谓的「爱」，大概远不如我的真实、坚定。"
     },
     {
       "en": ": Which one of us has had world-ending sex with fake Senseis again?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我们两个到底是谁跟假的 Sensei 做过会导致世界末日的爱来着？"
     },
     {
       "en": ""
@@ -520,13 +520,13 @@
       "en": ": Me, obviously. But you’ve collectively screwed more of them than I have. I’m just better at it.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 显然是我。但你们加起来干的比我多。我只是技术更好。"
     },
     {
       "en": ": Oh...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦……"
     },
     {
       "en": ""
@@ -544,28 +544,28 @@
       "en": ""
     },
     {
-      "en": ": Oh...",
+      "en": ": {i}Oh...{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": {i}哦……{/i}"
     },
     {
       "en": ": Ew...I feel super gross all of a sudden. I really wish you hadn’t told me that.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 呃……我突然觉得好恶心。我真希望你没告诉我这些。"
     },
     {
       "en": ": The shame will be short-lived, don’t worry. Or at least it is for me as I’ve decided it’s acceptable to blame one’s temporary uncharacteristic behavior on just what we have to go through here.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 这种羞耻感很快就会过去的，别担心。至少对我来说是这样，因为我已经认定，把一个人暂时性的反常行为归咎于我们在这里不得不经历的一切，是完全可以接受的。"
     },
     {
       "en": ": Cheating on your significant other with someone wearing their skin is more forgivable than someone who isn’t, right?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 和一个披着你另一半皮囊的人出轨，总比和一个完全不相干的人出轨更容易被原谅吧？"
     },
     {
       "en": ""
@@ -586,13 +586,13 @@
       "en": ": I guess so. So I’ll just tell Sensei that his Maya approves him screwing the new Maya clone and we can all live happily ever after.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 大概吧。那我就这么跟老师说好了——就说他的 Maya 批准他去干新的 Maya 克隆体，然后我们就能幸福快乐地生活在一起了。"
     },
     {
       "en": ": I take it back. All cheating is bad. And I will spend the next thousand years repenting for my transgressions.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我收回那句话。所有出轨都是坏的。我会在接下来的一千年里为我的罪过忏悔。"
     },
     {
       "en": ""
@@ -613,13 +613,13 @@
       "en": ": ...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ": ...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ""
@@ -640,19 +640,19 @@
       "en": ": Pfft!",
       "spk": "Ayane & Maya",
       "spkColor": "#e6e6e6",
-      "zh": ""
+      "zh": ": 噗！"
     },
     {
       "en": ": Hahah! Hahahah!...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哈哈！哈哈哈！……"
     },
     {
       "en": ": Heh...hahah...heh...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 呵……哈哈……呵……"
     },
     {
       "en": ""
@@ -673,19 +673,19 @@
       "en": ": I wish...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我多希望……"
     },
     {
       "en": ": I wish we got to laugh like this before you went away.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我多希望在你离开之前，我们也能这样笑过。"
     },
     {
       "en": ": Yeah...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 是啊……"
     },
     {
       "en": ""
@@ -706,28 +706,28 @@
       "en": ": Maybe one day we’ll be able to...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 也许有一天我们能……"
     },
     {
       "en": ": Without feeling like the world’s about to end.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 不用再觉得世界随时会完蛋。"
     },
     {
       "en": ""
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -748,25 +748,25 @@
       "en": ": Oh, we got so caught up in talking about our pasts that I forgot to ask. Just what are we doing here exactly?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦，我们光顾着聊过去了，我都忘了问——我们到底在这儿干什么？"
     },
     {
       "en": ": Looking for something that might help.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 找可能有用的东西。"
     },
     {
       "en": ": And we’re looking in an...empty classroom?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 然后我们是在一间……空教室里找？"
     },
     {
       "en": ": Do you not see me fumbling through this locker right now? Just trust me, okay?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 你是没看见我此刻正把这个储物柜翻得乱七八糟吗？相信我，好吗？"
     },
     {
       "en": ""
@@ -787,19 +787,19 @@
       "en": ": But you literally just told me not to trust you like five minutes ago.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可你五分钟前才刚跟我说别相信你啊。"
     },
     {
-      "en": ": No, I told you not to trust the other me. This me you can trust because this me believes you. Which is the reason I brought you here in the first place.",
+      "en": ": {i}No,{/i} I told you not to trust the {i}other{/i} me. {i}This{/i} me you can trust because {i}this{/i} me believes you. Which is the reason I brought you here in the first place.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": {i}不{/i}，我说的是别相信{i}另一个{/i}我。{i}这个{/i}你可以信，因为{i}这个{/i}我相信你。这也是我一开始把你带到这里来的原因。"
     },
     {
-      "en": ": But where is here? What are you looking for?",
+      "en": ": But where is {i}here?{/i} What are you looking for?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可{i}这里{/i}是哪儿？你在找什么？"
     },
     {
       "en": ""
@@ -820,7 +820,7 @@
       "en": ": Notes.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 笔记。"
     },
     {
       "en": ""
@@ -841,13 +841,13 @@
       "en": ": I don’t think now is the time to be studying, Maya.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我觉得现在不是学习的时候吧，Maya。"
     },
     {
-      "en": ": Shut up. Surely you know that’s not what I’m talking about. I’m looking for my notes — on time, resets, and the like. I’ve been collecting them for as long as I’ve been here.",
+      "en": ": Shut up. Surely you know that’s not what I’m talking about. I’m looking for {i}my{/i} notes — on time, resets, and the like. I’ve been collecting them for as long as I’ve been here.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 闭嘴。你肯定知道我不是那个意思。我在找{i}我的{/i}笔记——关于时间、重置之类的。从我来到这儿起就一直在收集。"
     },
     {
       "en": ""
@@ -868,13 +868,13 @@
       "en": ": Yeah, I’m not really sure if I want to wait around while you read through an eternity’s worth of notes. That sounds like it could take a while.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯，我可不确定自己愿不愿意在这儿干等你读完一整本无穷无尽的笔记。那听起来得花上好久。"
     },
     {
       "en": ": Maybe, if I had the organizational skills of a child. But I’m sure I have some sort of...emergency instructional book somewhere. That sounds like a thing I’d have probably made by now.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 也许会——如果我的整理能力只有小孩水平的话。但我肯定有某本……应急指南之类的东西在这儿。这听起来像是现在的我会做出来的东西。"
     },
     {
       "en": ""
@@ -895,37 +895,37 @@
       "en": ": Instructions?! You made instructions for this?! That’s great! We-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 指南？！你为这种事写了指南？！太好了！我们——"
     },
     {
       "en": ": Don’t jump for joy just yet. I still haven’t found anything and-",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 先别高兴得太早。我还没找到呢，而且——"
     },
     {
       "en": ": Oh. Oh, never mind. There it is. I put it right where I figured I would.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 哦。哦，算了。找到了。我就放在我猜的那个地方。"
     },
     {
       "en": ": Well, hurry up and read it then! I want to go home!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那快读啊！我想回家！"
     },
     {
       "en": ": Again, no jumping for joy. I can’t remember the last time I opened this book and, even if I could, it’s all just speculation anyway. It’s not like I know how to fix this.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 再说一遍，别高兴得太早。我不记得上一次翻开这本是什么时候了，就算记得，里面写的也全是推测。我又不知道该怎么修好这一切。"
     },
     {
-      "en": ": And, for all I know, we might not even be able to.",
+      "en": ": And, for all I know, we might not even be {i}able{/i} to.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 而且我说不定，我们可能根本{i}做不到{/i}。"
     },
     {
       "en": ""
@@ -946,7 +946,7 @@
       "en": ": What do you mean we might not be able to?...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 什么叫我们可能做不到？……"
     },
     {
       "en": ""
@@ -967,7 +967,7 @@
       "en": ": I mean you might be stuck here forever. Has that part really not settled in yet? I thought we were on the same page there.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 就是说你可能永远困在这儿了。这一点你真的还没接受吗？我以为我们在这方面已经达成共识了。"
     },
     {
       "en": ""
@@ -988,43 +988,43 @@
       "en": ": No, Maya! I guess that hadn’t settled in yet! I’ve been too busy trying to stay optimistic since that’s the only way I’ve learned how to cope with the never-ending tragedy that comes with being a perpetual teenager!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 没有，Maya！我想我还没接受！我一直忙着努力保持乐观，因为这是我从小学会的、用来应付「永远长不大的少女」这种无休止悲剧的唯一方式！"
     },
     {
       "en": ": Okay, well then you definitely don’t want to know what was in my “emergency instructions” book just now.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 好吧，那你肯定不想知道我刚才那本「应急指南」里写了什么。"
     },
     {
       "en": ": What’s that supposed to mean?! What did it say?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那是什么意思？！上面写了什么？！"
     },
     {
       "en": ": You really don’t want to know, Ayane.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 你真的不想知道，Ayane。"
     },
     {
-      "en": ": So you can keep a bunch of secret notes on how to fix the world, but you won’t even tell me what they say?! What happened to filling me in on as much as you can while you can?! What changed?!",
+      "en": ": So you can keep a bunch of secret notes on how to fix the world, but you won’t even tell me what they say?! What happened to filling me in on as much as you can {i}while{/i} you can?! What changed?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 所以你能留下一大堆关于怎么拯救世界的秘密笔记，却连上面写了什么都不肯告诉我？！你说的「{i}趁{/i}还来得及尽可能告诉我一切」哪去了？！怎么突然变卦了？！"
     },
     {
-      "en": ": You just want me here forever, don’t you?! I bet your “notes” said you wouldn’t be able to come! And you can’t stand that I’d get to go back to the person you’ve been chasing after forever while you stay here!",
+      "en": ": You just want me here forever, don’t you?! I bet your “notes” said you wouldn’t be able to come! And you can’t stand that {i}I’d{/i} get to go back to the person you’ve been chasing after forever while {i}you{/i} stay here!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你就是想把我永远留在这儿，对吧？！我猜你的「笔记」上写的是你回不去！而你受不了的是——{i}我{/i}能回到那个你追了辈子的人身边，{i}你{/i}却得留在这儿！"
     },
     {
       "en": ": That’s what it is, isn’t it?! You’re holding me back again! Just like you used to whenever I tried to help! Nothing’s changed! You’re still the same selfish, clingy bitch you’ve always-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 就是这样，对不对？！你又在拖我后腿了！就像以前每次我想帮忙时你做的那样！什么都没变！你还是那个自私又黏人的贱——"
     },
     {
       "en": ""
@@ -1045,7 +1045,7 @@
       "en": ": NGH?!?!?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 呃？！？！？！"
     },
     {
       "en": ""
@@ -1066,13 +1066,13 @@
       "en": ": Ow! What the hell, Maya?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 好痛！你干什么啊，Maya？！"
     },
     {
-      "en": ": Are you done yet? Or will yelling at me for a little while longer help get all of this out of your system?",
+      "en": ": Are you done yet? Or will yelling at me for a little while longer help get all of {i}this{/i} out of your system?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 你说完了吗？还是说再冲我吼一会儿，能让你把{i}这{/i}些都发泄出来？"
     },
     {
       "en": ""
@@ -1093,19 +1093,19 @@
       "en": ": I’m sorry...I just...I got my hopes up when I heard you’d prepared for this. That’s all.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 对不起……我只是……听说你早有准备的时候，我抱了希望。就这样。"
     },
     {
       "en": ": Well, I warned you not to jump for joy. And it turns out that doing so was the correct move, even if the end result didn’t really change.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 嗯，我提醒过你别高兴得太早。事实证明那样做才是对的，哪怕结果并没有真的改变。"
     },
     {
-      "en": ": I take it that means...even older Maya didn’t know what to do for a case like this then?",
+      "en": ": I take it that means...{i}even older{/i} Maya didn’t know what to do for a case like this then?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 也就是说……{i}连未来的{/i} Maya 都不知道该怎么处理这种情况？"
     },
     {
       "en": ""
@@ -1123,22 +1123,22 @@
       "en": ""
     },
     {
-      "en": ": Ayane, I’ve been writing everything down for so long that it’s rare for me to remember any of it. It’s practically just a formality at this point. Or something to read when I get bored.",
+      "en": ": Ayane, I’ve been writing everything down for so long that it’s rare for me to remember {i}any{/i} of it. It’s practically just a formality at this point. Or something to read when I get bored.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": Ayane，我记这些东西记了太久，久到其中的内容我很少能想起来。到这个地步，它基本上只是一种形式了。或者是我无聊时拿来读的东西。"
     },
     {
-      "en": ": The initial idea was to chronicle everything. To keep a log of what happens and when. Of who does what in which loop since I figured knowing this would help. And maybe one day it will.",
+      "en": ": The initial idea was to chronicle everything. To keep a log of what happens and when. Of who does what in which loop since I figured {i}knowing{/i} this would help. And maybe one day it will.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 最初的设想是把一切都记录下来。记下发生了什么、什么时候发生的。哪个循环里谁做了什么——我以为{i}知道{/i}这些会有帮助。也许有一天会有。"
     },
     {
-      "en": ": That’s why I came here. I wanted today to be that day. But I know now that it’s not going to be since...there was nothing in that book yet.",
+      "en": ": That’s why I came here. I wanted today to be that day. But I know now that it’s not going to be since...there was nothing {i}in{/i} that book yet.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 这就是我来这儿的原因。我希望今天就是那一天。但我现在知道不会是了，因为……那本书{i}里{/i}还什么都没有。"
     },
     {
       "en": ""
@@ -1159,31 +1159,31 @@
       "en": ": N...Nothing?...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 什……什么都没有？……"
     },
     {
       "en": ": Nothing. So either I’d never gotten around to recording anything or past-Maya thought this would be a funny joke. And it’s not. So I’m still not funny all this time later.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 什么都没有。所以要么是我一直没腾出空来记录，要么是过去的 Maya 觉得这样会很好笑。而这一点都不好笑。所以过了这么久，我还是一点都不风趣。"
     },
     {
       "en": ": ...You’re kidding.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ……你在开玩笑吧。"
     },
     {
       "en": ": I’m not. But again, I’m not funny. So you probably wouldn’t even know if I was.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 没有。不过再说一次，我不风趣。所以就算我在开玩笑，你大概也看不出来。"
     },
     {
       "en": ": So you brought me over here...to open up a blank notebook...and tell me I’m screwed?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 所以你把我带到这儿来……就为了翻开一个空白笔记本……然后告诉我我完蛋了？"
     },
     {
       "en": ""
@@ -1204,25 +1204,25 @@
       "en": ": I mean...that wasn’t the intention. But yeah, I guess that’s kind of what happened.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我是说……本来没打算这样。不过是啊，我想事情确实变成了这样。"
     },
     {
       "en": ": I don’t believe this...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我不敢相信……"
     },
     {
       "en": ": We can keep looking, Ayane. I’ve been hiding things in here forever. There’s a room in the basement I keep all of the older stuff in. Maybe there’s something in there that can help?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我们可以继续找，Ayane。我在这里藏东西藏了好久了。地下室有个房间，我把更早的那些东西都放在那儿。也许里面有什么能帮上忙？"
     },
     {
       "en": ": You don’t know?...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你不知道吗？……"
     },
     {
       "en": ""
@@ -1240,34 +1240,34 @@
       "en": ""
     },
     {
-      "en": ": What- do you remember everything you’ve ever written down? Because, even if by some stretch you do, multiply that by a trillion and then try.",
+      "en": ": What- do {i}you{/i} remember everything you’ve ever written down? Because, even if by some stretch you {i}do,{/i} multiply that by a trillion and {i}then{/i} try.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 什么——{i}你{/i}记得自己写下的每一句话吗？就算你{i}真的{/i}记得，把它乘以一万亿，{i}然后{/i}再试试。"
     },
     {
       "en": ": The human mind can only hold so much information. And with limited space for memories, I need to be forgiven for not holding onto every single one of them.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 人脑能装的信息就那么点。记忆空间有限，记不住每一条，总该被原谅吧。"
     },
     {
       "en": ": But this isn’t a memory we’re talking about...this is my ticket out of here...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可我们现在谈的不是记忆……这是我离开这里的船票……"
     },
     {
-      "en": ": And why is that a thing I would have? I’d obviously have escaped by now if I knew how, Ayane. And while I’m very sorry the first book I opened didn’t have the answer, maybe there’s...one that will?",
+      "en": ": And {i}why{/i} is that a thing I would have? I’d obviously have escaped by now if I knew how, Ayane. And while I’m {i}very sorry{/i} the first book I opened didn’t have the answer, maybe there’s...one that will?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 可我{i}为什么{/i}会有什么船票？我要是知道怎么逃，早就逃走了，Ayane。我{i}很抱歉{/i}我翻开的第一本书里没有答案，但也许……有哪一本会有？"
     },
     {
       "en": ": I think you’re going to have to hit me again because I am about to say some very mean things to you.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我觉得你最好再打我一下，因为我现在要说一些非常难听的话了。"
     },
     {
       "en": ""
@@ -1288,31 +1288,31 @@
       "en": ": I’m sorry, okay?...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 对不起，好吗？……"
     },
     {
-      "en": ": Maybe I just...put that book there so I could write something in it once I knew? But the fact that there’s nothing just-",
+      "en": ": Maybe I just...put that book there so I {i}could{/i} write something in it once I knew? But the fact that there’s nothing just-",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 也许我只是……把那本书放在那儿，等我弄清楚之后{i}好{/i}写点什么进去。可上面什么都没有，就说明——"
     },
     {
       "en": ": It means you’ve never learned anything...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 说明你什么都没弄明白……"
     },
     {
       "en": ": You don’t know what to do...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你也不知道该怎么办……"
     },
     {
       "en": ": And I really might actually be stuck here.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 而我可能真的要被困在这里了。"
     },
     {
       "en": ""
@@ -1333,13 +1333,13 @@
       "en": ": We...We won’t know that for sure until the next reset comes. I still think that’s your best bet in terms of “escaping.”",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我们……在下次重置到来之前，我们都无法确定。我还是觉得那是你「逃出去」最好的机会。"
     },
     {
       "en": ": But then we won’t be leaving together...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可那样我们就不能一起离开了……"
     },
     {
       "en": ""
@@ -1360,43 +1360,43 @@
       "en": ": ...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ": Probably not...no.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 大概……不能吧。"
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ": ...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ": I’m sorry for raising my voice...I’m just really scared of...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 对不起，我刚才对你大吼大叫……我只是真的很害怕……"
     },
     {
       "en": ": You know...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你知道的……"
     },
     {
       "en": ": Yeah...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 嗯……"
     },
     {
       "en": ""
@@ -1417,7 +1417,7 @@
       "en": ": Maya? What are you-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": Maya？你在——"
     },
     {
       "en": ""
@@ -1435,28 +1435,28 @@
       "en": ""
     },
     {
-      "en": ": There’s something in here I want you to hold onto...in the event that you do return to your timeline. But it’s not for you to keep, do you understand? You need to give it to me when you get there.",
+      "en": ": There’s something in here I want you to hold onto...in the event that you {i}do{/i} return to your timeline. But it’s not for you to keep, do you understand? You need to give it to me when you get there.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 这里有样东西，我想让你拿着……以防你{i}真的{/i}能回到自己的时间线。但这不是让你留下的，明白吗？等你到了那边，要把它交给我。"
     },
     {
       "en": ": If you do that, I’ll know that I can trust you.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 如果你做到了，我就知道我可以相信你。"
     },
     {
       "en": ": But...But is that even possible? Bringing physical objects from one timeline to another?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可是……可那真的可能吗？把实体的东西从一条时间线带到另一条？"
     },
     {
-      "en": ": Hell if I know. Everything I do is a shot in the dark at this point. But there’s only one way of finding out, and this thing has done nothing but collect dust for years now.",
+      "en": ": Hell if I know. Everything I do is a shot in the dark at this point. But there’s only one way of finding out, and this thing has done nothing but collect dust for {i}years{/i} now.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 鬼才知道。我现在做的每一件事都是在摸黑开枪。但只有一种办法能知道答案，而这东西{i}这么多年{/i}来除了积灰什么都没干。"
     },
     {
       "en": ""
@@ -1477,37 +1477,37 @@
       "en": ": Here.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 给。"
     },
     {
       "en": ": This is...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 这是……"
     },
     {
       "en": ": Your...scarf?...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你的……围巾？……"
     },
     {
       "en": ": I take it you’ve already seen it then?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 看来你已经见过了？"
     },
     {
       "en": ": Yeah...Sensei bought this for you. You treasure it. You can’t just...give it to me. It’s too important.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯……这是老师买给你的。你很珍惜它。你不能就这么……把它给我。它太重要了。"
     },
     {
-      "en": ": That’s exactly why I’m giving it to you.",
+      "en": ": That’s exactly {i}why{/i} I’m giving it to you.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": {i}正因为{/i}它重要，我才要给你。"
     },
     {
       "en": ""
@@ -1525,16 +1525,16 @@
       "en": ""
     },
     {
-      "en": ": But it might not even work! And on the off chance it does, I doubt the Maya in my timeline even knows about it! It’s spring there! She hasn’t been around for a winter yet!",
+      "en": ": But it might not even work! And on the off chance it {i}does,{/i} I doubt the Maya in my timeline even knows about it! It’s spring there! She hasn’t been around for a winter yet!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可它甚至可能根本没用！万一{i}真{/i}有用，我怀疑我那条时间线里的 Maya 知不知道这东西！那边现在是春天！她还没经历过冬天呢！"
     },
     {
       "en": ": That’s precisely why you need to-",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 这正是你为什么需要——"
     },
     {
       "en": ""
@@ -1555,25 +1555,25 @@
       "en": ": Wait, spring? You guys have spring there?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 等等，春天？你们那边有春天？"
     },
     {
       "en": ": Oh, yeah. I guess you weren’t ever around for that.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦，对。我想你从来没有经历过。"
     },
     {
       "en": ": What’s the weather like? Have the cherry blossoms started blooming yet?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 天气怎么样？樱花开始开了吗？"
     },
     {
       "en": ": It’s nice. And I haven’t seen any yet, but there aren’t really a lot of places to see them in- is that really important right now?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 挺好的。我还没看到，不过本来也没什么地方能看——这种事现在真的那么重要吗？"
     },
     {
       "en": ""
@@ -1594,37 +1594,37 @@
       "en": ": Oh, sorry. No. Just...give this to that other me if you manage to bring it back.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 哦，抱歉。不重要。只是……如果你能把它带回去，就交给那个「我」。"
     },
     {
       "en": ": I’m sure it sounds like something out of a movie, but this might be the “shock” I need to pull me back to reality. Better than just letting my clone continue to fuck my boyfriend at least.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我知道这听起来像电影里的桥段，但这也许正是把我拉回现实所需要的「冲击」。至少总比眼睁睁看着我的克隆体继续干我男朋友强。"
     },
     {
       "en": ": Do you really think it’ll work?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你真的觉得会有用吗？"
     },
     {
       "en": ": Probably not, but it’s worth a shot. And it’ll get me to like you a whole lot more too.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 多半不会，但值得一试。而且这会让我更喜欢你一些。"
     },
     {
       "en": ": Are you saying my Maya doesn’t like me?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你是说我的 Maya 不喜欢我？"
     },
     {
       "en": ": Probably not, to be honest. I tend to block out everyone who isn’t Sensei or Ami.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 老实说，大概不喜欢。除了 Sensei 和 Ami，我习惯把所有人都屏蔽掉。"
     },
     {
       "en": ""
@@ -1633,28 +1633,28 @@
       "en": ""
     },
     {
-      "en": ": Why Ami though? If you’ve seen her at her worst so many times and...have literally witnessed her kill people...how is she closer to your heart than me? I’ve always liked you, Maya. Even before you were you.",
+      "en": ": Why Ami though? If you’ve seen her at her worst so many times and...have literally witnessed her kill people...how is she closer to your heart than me? I’ve always liked you, Maya. Even before you were {i}you.{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可为什么是 Ami？你见过她那么多次最糟糕的样子，而且……还亲眼见过她杀人……为什么她在你心里比我更亲近？我一直都很喜欢你啊，Maya。早在你成为「{i}你{/i}」之前就是。"
     },
     {
       "en": ": Just take the fucking scarf, okay? We have like six million boxes to go through and it’s only a matter of time until people start calling us to ask where we are.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 拿着他妈的围巾，好吗？我们还有大概六百万个箱子要翻，而且迟早会有人打电话来问我们在哪儿。"
     },
     {
       "en": ": What’ll we tell them when they do?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 到时候我们怎么跟他们说？"
     },
     {
       "en": ": Whatever you want. I really don’t care.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 随你怎么说。我真的不在乎。"
     },
     {
       "en": ""
@@ -1675,19 +1675,19 @@
       "en": ": Then I’m telling them we’re on a date.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那我就说我们在约会。"
     },
     {
       "en": ": Ew. Why that?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 恶心。为什么非得是这个？"
     },
     {
       "en": ": Because we make a good couple, obviously. And no one will ask any questions if they think we’re spending a passionate night of-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 因为我们很般配啊，很明显。而且如果他们以为我们在度过一个激情四射的夜晚——"
     },
     {
       "en": ""
@@ -1699,13 +1699,13 @@
       "en": ": Ouch! Maya! Did you really have to hit me again?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 好痛！Maya！你真的非得再打我一下吗？！"
     },
     {
       "en": ": Just take the damn scarf!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 拿着那条该死的围巾！"
     },
     {
       "en": ""

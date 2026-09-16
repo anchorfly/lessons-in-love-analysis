@@ -1,0 +1,904 @@
+{
+  "label": "makotoinnx",
+  "title_zh": "试床",
+  "lines": [
+    {
+      "en": "label makotoinnx:",
+      "zh": ""
+    },
+    {
+      "en": ": What are you doing now exactly?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你具体在干什么？"
+    },
+    {
+      "en": ": Bed-test. Making sure it’s comfortable.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 试床。确认一下舒不舒服。"
+    },
+    {
+      "en": ": I thought Ami, Maya, and Ayane claimed the bed?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我记得这张床被 Ami、Maya 和 Ayane 占了？"
+    },
+    {
+      "en": ": So what? I’m not allowed to sit on it at all?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 那又怎样？我连坐一下都不行？"
+    },
+    {
+      "en": ": I didn’t say that. Just surprised you’re looking out for them.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我又没那么说。只是没想到你会替她们操心。"
+    },
+    {
+      "en": ": Mmm, it’s less looking out for them and more...me trying to enjoy my time alone with you while I have the chance.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 嗯，与其说是替她们操心，不如说……我是想趁还有机会，好好享受跟你独处的时间。"
+    },
+    {
+      "en": ": I figure the both of us are going to be pretty busy all weekend, so this might be the only time we’re together.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我猜这个周末我们俩都会很忙，所以这可能就是我们唯一能在一起的时候了。"
+    },
+    {
+      "en": ": I understand how I would be busy, but why would you be? What happened to the whole “Not worrying about stuff for 48 hours” thing?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会忙我能理解，可你为什么会忙？说好的「48 小时什么都不操心」呢？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoinn10.webp",
+      "alt": "makotoinn10"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, I have to at least be on lifeguard duty. Why do you think I have this whistle?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 嗯，我至少得负责救生员的工作。不然你以为我为什么带着这个哨子？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It figures that Makoto’s idea of winding down still involves taking charge of everyone and everything.",
+      "zh": "Makoto 所谓「放松」，果然还是要把所有人所有事都管起来。"
+    },
+    {
+      "en": "Hell, the girl brought a whistle on vacation for crying out loud.",
+      "zh": "天啊，这丫头度假还带个哨子，真是服了。"
+    },
+    {
+      "en": "I don’t know why I expected any less from her.",
+      "zh": "我也不知道自己为什么还指望她能例外。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong? You look really exhausted all of a sudden. ",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 怎么了？你看起来突然很累的样子。"
+    },
+    {
+      "en": ": Nothing’s wrong. Just thinking about the type of person you are.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 没什么。只是在想你是什么样的人。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoinn11.webp",
+      "alt": "makotoinn11"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why does thinking about the type of person I am make you look exhausted?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 想我是什么样的人，怎么就让你一脸疲惫了？"
+    },
+    {
+      "en": ": Because you’re an exhausting person.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 因为你是那种让人累的人。"
+    },
+    {
+      "en": ": Am not.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 才不是。"
+    },
+    {
+      "en": ": Are too.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就是。"
+    },
+    {
+      "en": ": Am not.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 才不是。"
+    },
+    {
+      "en": ": Are too...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就是……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoinn12.webp",
+      "alt": "makotoinn12"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Want to take advantage of me while we still have the chance?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 趁还有机会，要不要占我便宜？"
+    },
+    {
+      "en": ": I don’t know if it really qualifies as taking advantage of you if you’re the one who suggests it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果是你自己提出来的，我真不确定这还算不算占你便宜。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoinn13.webp",
+      "alt": "makotoinn13"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmm...Good point.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 嗯……说得也是。"
+    },
+    {
+      "en": ": Then maybe something like-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 那也许像这样——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/makotoinn12.webp",
+      "alt": "makotoinn12"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Rewarding me for being the responsible one and reserving this place for all of us?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 这是在奖励我这么靠谱，替大家订下这地方？"
+    },
+    {
+      "en": ": You can just come out and say you’re horny, you know. I really don’t mind.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你可以直接说你发情了，你知道的。我真不介意。"
+    },
+    {
+      "en": ": But where’s the fun in that?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 可那还有什么好玩的？"
+    },
+    {
+      "en": ": If I’m honest with myself, you won’t have fun messing around with me anymore.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我要是老实说了，你就没兴趣逗我了。"
+    },
+    {
+      "en": ": Just take a hint and push me down already before anyone realizes that we’ve been gone for a while.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 你倒是识相点，趁没人发现我们消失太久了，赶紧把我推倒。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I take a minute to ponder over how being blunt about how she’s always blunt is somehow supposed to...not be blunt?",
+      "zh": "我花了一分钟琢磨，她这么直白地承认自己一向直白，到底是怎么做到……不算直白的？"
+    },
+    {
+      "en": "But within the time it takes me to follow that overly-complicated train of thought, my erection reminds me that thinking is stupid and that I {i}should{/i} just push her down.",
+      "zh": "可还没等我把这条过于复杂的思路想完，我的勃起就提醒我：思考是愚蠢的，我{i}该{/i}直接把她推倒。"
+    },
+    {
+      "en": "And so-",
+      "zh": "于是——"
+    },
+    {
+      "en": "I think I will.",
+      "zh": "我想我会的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto leans back on the bed and I lie down next to her.",
+      "zh": "Makoto 在床上向后靠去，我躺到她身边。"
+    },
+    {
+      "en": "We look at each other.",
+      "zh": "我们对视着。"
+    },
+    {
+      "en": "And then I take advantage of her while we still have the chance.",
+      "zh": "然后，趁还有机会，我占了她的便宜。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mmm...[makotomaster]...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 嗯……[makotomaster]……"
+    },
+    {
+      "en": ": I wish...we could...spend more time together...this weekend...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 真希望……这个周末……我们能多待在一起……"
+    },
+    {
+      "en": ": Also...I assume that you fingering me means...hah...we’re not having sex this time...either...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 还有……我猜你用手指弄我，意思就是……哈啊……这次我们……又不做了……"
+    },
+    {
+      "en": ": Is this not good enough for you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这样还不够让你满足吗？"
+    },
+    {
+      "en": ": No it’s...nnf...really good...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 不，它……嗯……真的很舒服……"
+    },
+    {
+      "en": ": I just...don’t get why you won’t...fuck me...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我只是……不明白你为什么不肯……跟我做……"
+    },
+    {
+      "en": ": Did I...do something wrong?...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 是我……做错了什么吗？……"
+    },
+    {
+      "en": ": Just be quiet and accept your reward.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 闭嘴，乖乖领你的奖赏。"
+    },
+    {
+      "en": ": Hah...so...mean...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 哈啊……好……过分……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "To tell the truth, even I’m surprised with myself for not taking Makoto’s virginity just yet despite having many chances to do so.",
+      "zh": "说实话，连我自己都惊讶，明明有那么多机会，我却始终没拿走 Makoto 的处女之身。"
+    },
+    {
+      "en": "But...something about it just feels wrong to me.",
+      "zh": "可是……总觉得有什么地方不对。"
+    },
+    {
+      "en": "This is probably the closest I’ve felt to actually following through but-",
+      "zh": "这大概是我最接近真的去做的一次，不过——"
+    },
+    {
+      "en": "I don’t know.",
+      "zh": "我也说不清。"
+    },
+    {
+      "en": "Maybe I’m becoming human after all.",
+      "zh": "也许我终究还是变回人了。"
+    },
+    {
+      "en": "Now, one could make an argument that the fact I’m fingering a student in the bedroom of an inn that ten more of my students will be sleeping in tonight is immoral but-",
+      "zh": "当然，有人会说：我在一间今晚还要睡十来个学生的旅馆卧室里用手指弄一个学生，这本身就不道德，不过——"
+    },
+    {
+      "en": "To those people, I say “fuck off.”",
+      "zh": "对那些人，我只说一句「滚蛋」。"
+    },
+    {
+      "en": "This isn’t my world, but that doesn’t mean it’s right for me to break it.",
+      "zh": "这不是我的世界，可那也不代表我就有权利毁掉它。"
+    },
+    {
+      "en": "I’ll decide when it’s the right time for me to fuck Makoto’s brains out, which will absolutely happen one day.",
+      "zh": "什么时候把 Makoto 干到脑子一片空白，由我决定——那一天绝对会来。"
+    },
+    {
+      "en": "But not until she’s happier with where she is and where she wants to go.",
+      "zh": "但要等到她对自己所处的位置、想去的地方都更满意为止。"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "And also it’s really funny seeing how desperate she gets when she’s about to cum.",
+      "zh": "而且，看她快高潮时那副急不可耐的样子，实在太好笑了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nnf~ Fuck...[makotomaster]...that feels so good...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 嗯嗯~ 操……[makotomaster]……好舒服……"
+    },
+    {
+      "en": ": I’m sorry for how...wet it is down there...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 对不起，下面……湿成那样……"
+    },
+    {
+      "en": ": We went swimming earlier and-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我们之前去游泳了，然后——"
+    },
+    {
+      "en": ": Again, just be quiet and accept your reward.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 再说一遍，闭嘴，乖乖领你的奖赏。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How...hah...am I supposed to be quiet with your fingers so deep inside of me?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 你的手指插得这么深，我……哈啊……怎么可能安静？"
+    },
+    {
+      "en": ": Do you have any idea...how that feels for a girl?...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 你知道……对一个女孩来说那是什么感觉吗？……"
+    },
+    {
+      "en": ": I don’t. But I’m assuming it’s pretty great based on your reactions.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不知道。不过看你的反应，我猜应该相当棒。"
+    },
+    {
+      "en": ": So...great...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 相当……棒……"
+    },
+    {
+      "en": ": It’s like...my heart is full...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 就好像……我的心被填满了……"
+    },
+    {
+      "en": ": And knowing that you’re the one making me feel this way is...enough to get me to cum...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 一想到让我有这种感觉的人是你……就足够让我高潮了……"
+    },
+    {
+      "en": ": But...but...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 可是……可是……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t...want to cum just yet...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我还……不想这么快高潮……"
+    },
+    {
+      "en": ": Because then...it will be over...and I’ll have to do boring stuff like...make sure Miku doesn’t hit her head on things...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 因为那样……就结束了……我就得去做些无聊的事，比如……看着 Miku 别撞到头……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I keep my motions steady, exploring Makoto’s insides with two of my fingers as she quakes and grinds against my hand.",
+      "zh": "我保持着稳定的动作，用两根手指探索 Makoto 的体内，她则颤抖着在我的手上磨蹭。"
+    },
+    {
+      "en": "What she says is true.",
+      "zh": "她说的没错。"
+    },
+    {
+      "en": "Once she cums, this {i}will{/i} be over.",
+      "zh": "一旦她高潮，这一切{i}就{/i}结束了。"
+    },
+    {
+      "en": "Everyone’s waiting for us.",
+      "zh": "大家都在等我们。"
+    },
+    {
+      "en": "But that doesn’t mean it won’t ever happen again.",
+      "zh": "可那也不代表以后不会再有。"
+    },
+    {
+      "en": "So for now, I just need to make her feel as good as possible.",
+      "zh": "所以现在，我只要让她尽可能舒服就好。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": [makotomaster]...[makotomaster]...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": [makotomaster]……[makotomaster]……"
+    },
+    {
+      "en": ": Right there...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 就是那里……"
+    },
+    {
+      "en": ": Are you... really sure you don’t want to fuck me?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 你……真的确定不想干我吗？"
+    },
+    {
+      "en": ": I know you can fit two fingers in now, but I promise it’s still tight...probably...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我知道你现在能插进两根手指了，但我保证里面还是很紧……大概吧……"
+    },
+    {
+      "en": ": Boys like that right? Tight...pussies that...squeeze their big cocks...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 男生都喜欢这样吧？紧致的……小穴……紧紧夹住他们的大鸡巴……"
+    },
+    {
+      "en": ": You’re about to cum, aren’t you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你快高潮了吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh...yes...unfortunately...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 呃……是……真没出息……"
+    },
+    {
+      "en": ": You’re too good at this...it’s...hah...annoying...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 你太擅长这个了……真是……哈啊……气人……"
+    },
+    {
+      "en": ": Just do it then. ",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那就去吧。"
+    },
+    {
+      "en": ": Ngh...fine...but...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 嗯……好吧……但是……"
+    },
+    {
+      "en": ": Next time...you’re putting it inside...whether you like it or not...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 下次……你要插进来……不管你愿不愿意……"
+    },
+    {
+      "en": ": Whatever you say, Makoto...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 随你怎么说，Makoto……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": [makotomaster]...[makotomaster]...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": [makotomaster]……[makotomaster]……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Her breaths grow heavier and her hips begin to rock harder against me, pushing my fingers inside of her as deep as they’ll go.",
+      "zh": "她的呼吸越来越沉，腰肢开始更用力地向我顶来，把我的手指吞到最深。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Right there...just like that...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 就是那里……就这样……"
+    },
+    {
+      "en": ": I’m...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我……"
+    },
+    {
+      "en": ": I’m going to...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我要……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotoinn19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh god...oh god...yeah...yeah...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 哦天啊……哦天啊……对……对……"
+    },
+    {
+      "en": ": [makotomaster]! I’m...I’m-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": [makotomaster]！我……我要——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "with sexfade",
+      "zh": ""
+    },
+    {
+      "en": "with sexfade",
+      "zh": ""
+    },
+    {
+      "en": "scene makotoinn20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with cumflash",
+      "zh": ""
+    },
+    {
+      "en": "with hpunch",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AAAAAAAAAHHHHHHHNNNNNNN~~~~!!!!!!!!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 啊啊啊啊啊啊啊啊啊啊嗯嗯嗯嗯嗯~~~~！！！！！！！！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A violent climax consumes Makoto’s mind. The bed shakes as her back arches.",
+      "zh": "一场猛烈的高潮吞没了 Makoto 的意识。床在摇晃，她的背弓了起来。"
+    },
+    {
+      "en": "I lift her up from the inside, pulling her toward the headboard and letting her cum on my fingers, now tightly squeezed by her vaginal muscles.",
+      "zh": "我从里面把她顶起来，将她拉向床头，让她的阴道壁紧紧绞着我的手指，就这样迎来高潮。"
+    },
+    {
+      "en": "Tears begin to flow from her eyes, but not because she’s upset.",
+      "zh": "眼泪从她眼里涌出来，但不是因为难过。"
+    },
+    {
+      "en": "At least I don’t think that’s the reason for them.",
+      "zh": "至少我觉得不是因为这个。"
+    },
+    {
+      "en": "But who even knows at this point?",
+      "zh": "可事到如今谁说得准呢？"
+    },
+    {
+      "en": "I’m just here to have fun with cute girls.",
+      "zh": "我来这儿，只是为了和可爱的女孩们寻欢作乐。"
+    },
+    {
+      "en": "That’s all there is to this life.",
+      "zh": "这辈子就只有这么点事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And that’s all there will ever be.",
+      "zh": "以后也永远只有这么点事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ makoto_love += 3",
+      "zh": ""
+    },
+    {
+      "en": "$ beachvacation3 = True",
+      "zh": ""
+    },
+    {
+      "en": "stop music fadeout 6.0",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Makoto’s affection has increased to [makoto_love]!{/i}",
+      "zh": "{i}Makoto 的好感度提升到了 [makoto_love]！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump beachvacation4",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "label": "day344",
-  "title_zh": "囚笼里的自由",
+  "title_zh": "经验的代价",
   "lines": [
     {
       "en": ""
@@ -22,8 +22,8 @@
       "en": ""
     },
     {
-      "en": "My phone goes off in my pocket and I quickly remove it to see who has the audacity to contact me first when I’m the one that makes the decisions here.",
-      "zh": "口袋里的手机响了，我赶紧掏出来，看看是谁这么大胆，敢在这件事我做主的地方先来联系我。"
+      "en": "My phone goes off in my pocket and I quickly remove it to see who has the audacity to contact {i}me{/i} first when I’m the one that makes the decisions here.",
+      "zh": "口袋里的手机响了，我赶紧掏出来，看看是谁这么大胆，敢在这件事{i}我{/i}做主的地方先来联系我。"
     },
     {
       "en": "And, of course, it just so happens to be the one person I have more trouble saying no to than anyone else.",
@@ -96,16 +96,16 @@
       "zh": ": 话是挺可爱的，不过如果只是这种含糊其辞的话，就别发短信说你需要我了。"
     },
     {
-      "en": ": Wait, hold on. That’s not the only reason I texted you. I actually do need something.",
+      "en": ": Wait, hold on. That’s not the only reason I texted you. I actually {i}do{/i} need something.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 等等，先别挂。那不是我发短信的唯一原因。我真的有事要你帮忙。"
+      "zh": ": 等等，先别挂。那不是我发短信的唯一原因。我{i}真的{/i}有事要你帮忙。"
     },
     {
-      "en": ": Well...we need something.",
+      "en": ": Well...{i}we{/i} need something.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 嗯……是我们需要。"
+      "zh": ": 嗯……是{i}我们{/i}需要。"
     },
     {
       "en": ": We?",
@@ -494,10 +494,10 @@
       "en": ""
     },
     {
-      "en": ": Gameboy things?! What year do you think it is, Sir?!",
+      "en": ": {i}Gameboy{/i} things?! What year do you think it is, Sir?!",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": Gameboy 玩意儿？！您以为现在是哪一年啊，先生？！"
+      "zh": ": {i}Gameboy{/i} 玩意儿？！您以为现在是哪一年啊，先生？！"
     },
     {
       "en": ": How the Hell am I supposed to know what it’s called? I haven’t played a game in...I have no idea how long, actually.",
@@ -1081,8 +1081,8 @@
       "zh": "会做饭的人真厉害。"
     },
     {
-      "en": "People that can do anything are amazing.",
-      "zh": "什么都会的人真厉害。"
+      "en": "People that can do {i}anything{/i} are amazing.",
+      "zh": "{i}什么都会{/i}的人真厉害。"
     },
     {
       "en": "...",
@@ -1278,10 +1278,10 @@
       "zh": ": 您爱 Ami，对吧？"
     },
     {
-      "en": ": I mean...she is my [niece].",
+      "en": ": I mean...she {i}is{/i} my [niece].",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我是说……她是我的[niece]。"
+      "zh": ": 我是说……她{i}是{/i}我的[niece]。"
     },
     {
       "en": ": If she was in danger and it was within your power to protect her...but it meant confining her to this very house...would you do it?",
@@ -1413,10 +1413,10 @@
       "zh": ": 连面条也不如？"
     },
     {
-      "en": ": There is almost nothing more important than preserving one’s own life.",
+      "en": ": There is {i}almost{/i} nothing more important than preserving one’s own life.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ": 几乎没有什么比保全自己的性命更重要。"
+      "zh": ": {i}几乎{/i}没有什么比保全自己的性命更重要。"
     },
     {
       "en": ": If protecting the person you love means sacrificing their freedom, all you need to do is teach them to feel free in captivity.",

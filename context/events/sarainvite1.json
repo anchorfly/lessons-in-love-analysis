@@ -89,10 +89,10 @@
       "zh": ": 要不要过来陪陪我？"
     },
     {
-      "en": ": Actually, I was wondering if you wanted to come over for a change.",
+      "en": ": Actually, I was wondering if {i}you{/i} wanted to come over for a change.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 其实我在想，这次换你来我家怎么样。"
+      "zh": ": 其实我在想，这次换{i}你{/i}来我家怎么样。"
     },
     {
       "en": ": What, you mean like, to your place?",
@@ -304,10 +304,10 @@
       "zh": ": ……抱歉。你说什么？"
     },
     {
-      "en": ": You are making me dinner, aren't you?",
+      "en": ": You {i}are{/i} making me dinner, aren't you?",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 你总要给我做晚饭吧？"
+      "zh": ": 你{i}总要{/i}给我做晚饭吧？"
     },
     {
       "en": ": I...didn’t plan on it?",
@@ -781,10 +781,10 @@
       "zh": ": 它……它还在……"
     },
     {
-      "en": ": It?",
+      "en": ": {i}It?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 它？"
+      "zh": ": {i}它？{/i}"
     },
     {
       "en": ": Hi again~",
@@ -916,10 +916,10 @@
       "zh": ": 你到底还瞒着我藏了多少女生？！"
     },
     {
-      "en": ": I’m not hiding any. Sana’s mom, Sara, is right in front of you.",
+      "en": ": I’m not hiding any. Sana’s mom, {i}Sara{/i}, is right in front of you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我一个都没藏。Sana 的妈妈 Sara，就在你面前。"
+      "zh": ": 我一个都没藏。Sana 的妈妈 {i}Sara{/i}，就在你面前。"
     },
     {
       "en": ": I hope I’m not intruding or anything.",
@@ -949,10 +949,10 @@
       "en": ""
     },
     {
-      "en": ": Wow...I had a feeling you two were close but I didn’t realize you were this close.",
+      "en": ": Wow...I had a feeling you two were close but I didn’t realize you were {i}this{/i} close.",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 哇……我就觉得你俩关系很近，没想到近到这种程度。"
+      "zh": ": 哇……我就觉得你俩关系很近，没想到近到{i}这种{/i}程度。"
     },
     {
       "en": ": It’s like she’s afraid of women.",
@@ -1009,8 +1009,8 @@
       "en": ""
     },
     {
-      "en": "I think love is a bit of an understatement, personally...",
-      "zh": "我个人觉得，用「爱」来形容都有点轻了……"
+      "en": "I think {i}love{/i} is a bit of an understatement, personally...",
+      "zh": "我个人觉得，用{i}「爱」{/i}来形容都有点轻了……"
     },
     {
       "en": ""
@@ -1235,10 +1235,10 @@
       "en": ""
     },
     {
-      "en": ": Did I do well? I did well, right?",
+      "en": ": {i}Did I do well? I did well, right?{/i}",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 我表现得不错吧？我干得漂亮，对吧？"
+      "zh": ": {i}我表现得不错吧？我干得漂亮，对吧？{/i}"
     },
     {
       "en": ": ...",
@@ -1471,8 +1471,8 @@
       "en": ""
     },
     {
-      "en": "Is Ami unaware that there are girls in other locations? One of them could easily steal me if she’s not looking.",
-      "zh": "Ami 是不知道别的地方也有女生吗？只要她一不留神，随便哪个都能把我抢走。"
+      "en": "Is Ami unaware that there are girls in other locations? One of them could easily {i}steal{/i} me if she’s not looking.",
+      "zh": "Ami 是不知道别的地方也有女生吗？只要她一不留神，随便哪个都能把我{i}抢走{/i}。"
     },
     {
       "en": ""
@@ -1582,8 +1582,8 @@
       "zh": "不过说来也怪。"
     },
     {
-      "en": "Even though the two of us didn’t get to spend much time actually talking to one another, I still feel like I know Sara a lot better than I did before...",
-      "zh": "虽然我俩其实没怎么真正说上话，我还是觉得自己比以前更了解 Sara 了……"
+      "en": "Even though the two of us didn’t get to spend much time actually {i}talking{/i} to one another, I still feel like I know Sara a lot better than I did before...",
+      "zh": "虽然我俩其实没怎么真正{i}说上话{/i}，我还是觉得自己比以前更了解 Sara 了……"
     },
     {
       "en": ""
@@ -1600,8 +1600,8 @@
       "en": ""
     },
     {
-      "en": "Sara’s affection has increased to [sara_love]!",
-      "zh": "Sara 的好感度提升到了 [sara_love]!"
+      "en": "{i}Sara’s affection has increased to [sara_love]!{/i}",
+      "zh": "{i}Sara 的好感度提升到了 [sara_love]!{/i}"
     },
     {
       "en": ".........",

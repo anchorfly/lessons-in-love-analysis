@@ -28,8 +28,8 @@
       "zh": "这不是我第一次进那间屋子了，我之前就来找过 Uta，不过……"
     },
     {
-      "en": "Well, I guess it will be interesting hearing Io’s take on the, uhh, condition of the room.",
-      "zh": "嗯，我想听听 Io 对这房间——呃——状况的说法，应该会挺有意思。"
+      "en": "Well, I guess it will be interesting hearing Io’s take on the, uhh, {i}condition{/i} of the room.",
+      "zh": "嗯，我想听听 Io 对这房间——呃——{i}状况{/i}的说法，应该会挺有意思。"
     },
     {
       "en": ""
@@ -361,10 +361,10 @@
       "zh": ": 至少我觉得是不用？我不太清楚标本对过敏体质的人是什么效果。"
     },
     {
-      "en": ": So that was your cat and not Uta's, I’m guessing?",
+      "en": ": So that was {i}your{/i} cat and not Uta's, I’m guessing?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那我猜，那是你的猫，不是 Uta 的？"
+      "zh": ": 那我猜，那是{i}你的{/i}猫，不是 Uta 的？"
     },
     {
       "en": ""
@@ -457,10 +457,10 @@
       "zh": ": 大概是因为我最喜欢的老师来看我了，心情好吧。"
     },
     {
-      "en": ": That’s quite flattering but I’m also your only teacher, so...",
+      "en": ": That’s quite flattering but I’m also your {i}only{/i} teacher, so...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 这话真让人受用，不过我也是你唯一的老师，所以……"
+      "zh": ": 这话真让人受用，不过我也是你{i}唯一{/i}的老师，所以……"
     },
     {
       "en": ": Yeah but you’d still be my favorite even if I had other ones cause you won’t call on me to answer questions and stuff.",
@@ -920,10 +920,10 @@
       "en": ""
     },
     {
-      "en": ": Which is why I’m more than happy to take up your time when there are plenty of other girls hoping you’ll knock on their doors instead of mine.",
+      "en": ": Which is why I’m more than happy to take up your time when there are plenty of other girls hoping you’ll knock on {i}their{/i} doors instead of mine.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 所以，明明有一堆别的女生盼着你去敲她们的门、而不是我的，我却非常乐意占用你的时间。"
+      "zh": ": 所以，明明有一堆别的女生盼着你去敲{i}她们{/i}的门、而不是我的，我却非常乐意占用你的时间。"
     },
     {
       "en": ": I win, even if it’s only for tonight.",
@@ -959,10 +959,10 @@
       "zh": ": 不然的话，我大概就会去做第三个衣柜，然后这屋子会看起来更像火车事故现场。"
     },
     {
-      "en": ": It would be nice having somewhere to put my clothes, though.",
+      "en": ": It {i}would{/i} be nice having somewhere to put {i}my{/i} clothes, though.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 不过，能有个地方放我的衣服也挺好的。"
+      "zh": ": 不过，能有个地方放{i}我的{/i}衣服{i}也{/i}挺好的。"
     },
     {
       "en": ""
@@ -1079,10 +1079,10 @@
       "zh": ": 这策略不错。"
     },
     {
-      "en": ": To clarify, I can’t exactly think I’m not worth your time because I don’t quite know what your time is worth.",
+      "en": ": To clarify, I {i}can’t{/i} exactly think I’m not worth your time because I don’t quite know what your time is worth.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 先说明白，我没法真的觉得自己不值得你花时间，因为我也不太清楚你的时间值多少。"
+      "zh": ": 先说明白，我{i}没法{/i}真的觉得自己不值得你花时间，因为我也不太清楚你的时间值多少。"
     },
     {
       "en": ": But Henry David Thoreau once said-",
@@ -1106,10 +1106,10 @@
       "en": ""
     },
     {
-      "en": ": Be not simply good; be good for something.",
+      "en": ": {i}Be not simply good; be good for something.{/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 不要只是做个好人，要做个有用的人。"
+      "zh": ": {i}不要只是做个好人，要做个有用的人。{/i}"
     },
     {
       "en": ": And so it’s important that we all make some sort of impact in the lives of others.",
@@ -1231,10 +1231,10 @@
       "zh": ": 你知道吗，很多知名心理学家都说，记忆缺失可能是反复创伤的结果。"
     },
     {
-      "en": ": Of course, this isn’t me insinuating that that's what’s going on for you, but it is a thing that happens.",
+      "en": ": Of course, this isn’t me insinuating that that's what’s going on for you, but it {i}is{/i} a thing that happens.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 当然，我不是在暗示你就是这种情况，但这种事确实会发生。"
+      "zh": ": 当然，我不是在暗示你就是这种情况，但这种事{i}确实{/i}会发生。"
     },
     {
       "en": ": Without getting more off the rails, the point I’m trying to land at is that the first few years of your life are irrefutably the most important.",
@@ -1321,16 +1321,16 @@
       "zh": ": 这不是我小时候依赖过的东西之类的。"
     },
     {
-      "en": ": It’s something I made.",
+      "en": ": It’s something I {i}made{/i}. ",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 是我做出来的东西。"
+      "zh": ": 是我{i}做出来{/i}的东西。"
     },
     {
-      "en": ": Something that could be that much-needed solace for someone in dire straits.",
+      "en": ": Something that {i}could{/i} be that much-needed solace for someone in dire straits.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 某个能让身处绝境的人得到急需慰藉的东西。"
+      "zh": ": 某个{i}能{/i}让身处绝境的人得到急需慰藉的东西。"
     },
     {
       "en": ": But instead of being in anyone else’s hands, it’s collecting dust on a shelf in my room alongside several others just like it.",
@@ -1450,10 +1450,10 @@
       "zh": ": 在某个地方积灰，空虚到根本没法让任何人幸福。"
     },
     {
-      "en": ": The only difference is that I actually have a name.",
+      "en": ": The only difference is that {i}I{/i} actually have a name. ",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 唯一的区别是，我是有个名字的。"
+      "zh": ": 唯一的区别是，{i}我{/i}是有个名字的。"
     },
     {
       "en": ": And that he’s made out of wood.",
@@ -1531,10 +1531,10 @@
       "zh": ": 说到底，它们就只是……几块木头。"
     },
     {
-      "en": ": You prepared that much and still didn’t finish the job? Just donate them, Io.",
+      "en": ": You prepared {i}that{/i} much and still didn’t finish the job? Just donate them, Io.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你都准备到这一步了，还是没把事情做完？直接捐了就是了，Io。"
+      "zh": ": 你都准备到{i}这一步{/i}了，还是没把事情做完？直接捐了就是了，Io。"
     },
     {
       "en": ""
@@ -1692,8 +1692,8 @@
       "en": ""
     },
     {
-      "en": "Io’s affection has increased to [io_love]!",
-      "zh": "Io 的好感度提升到了 [io_love]!"
+      "en": "{i}Io’s affection has increased to [io_love]!{/i}",
+      "zh": "{i}Io 的好感度提升到了 [io_love]!{/i}"
     },
     {
       "en": ".........",

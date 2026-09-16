@@ -93,8 +93,8 @@
       "zh": "我最近用这个词用得很多。"
     },
     {
-      "en": "Love.",
-      "zh": "爱。"
+      "en": "{i}Love.{/i}",
+      "zh": "{i}爱。{/i}"
     },
     {
       "en": "I’ve been handing it out like candy.",
@@ -120,8 +120,8 @@
       "zh": "不知为什么，我一闭上眼睛，几乎能尝到它的味道。"
     },
     {
-      "en": "That was like vinegar too.",
-      "zh": "那味道也像醋。"
+      "en": "{i}That{/i} was like vinegar too.",
+      "zh": "{i}那{/i}味道也像醋。"
     },
     {
       "en": "Just it didn’t work the way it was supposed to.",
@@ -210,10 +210,10 @@
       "zh": ": 真的吗？为什么？我很烂的。"
     },
     {
-      "en": ": Yeah, but so do I. So being around someone equally shitty makes me somehow feel a little less shitty.",
+      "en": ": Yeah, but so do I. So being around someone equally shitty makes me somehow feel a little {i}less{/i} shitty.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 是啊，可我也很烂。所以跟一个同样烂的人待在一起，反而让我觉得自己没那么烂了。"
+      "zh": ": 是啊，可我也很烂。所以跟一个同样烂的人待在一起，反而让我觉得自己{i}没那么{/i}烂了。"
     },
     {
       "en": ""
@@ -223,10 +223,10 @@
       "zh": ""
     },
     {
-      "en": ": Well, I don’t know if I’d say I’m equally shitty. I think you took the crown that time you had sex with me. But still, I’m probably a close second.",
+      "en": ": Well, I don’t know if I’d say I’m {i}equally{/i} shitty. I think you took the crown that time you had sex with me. But still, I’m probably a close second.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 嗯，我可不确定自己算「同样烂」。我觉得那次你跟我上床的时候，这顶桂冠就已经归你了。不过话说回来，我大概能排个紧随其后的第二。"
+      "zh": ": 嗯，我可不确定自己算「{i}同样{/i}烂」。我觉得那次你跟我上床的时候，这顶桂冠就已经归你了。不过话说回来，我大概能排个紧随其后的第二。"
     },
     {
       "en": "else:",
@@ -239,16 +239,16 @@
       "zh": ": 可你一点都不烂啊。你就像我那个又酷又可靠的守护天使——守护着我，让我不觉得自己是世界上最糟糕的东西。"
     },
     {
-      "en": ": I literally just called you shitty.",
+      "en": ": I literally {i}just{/i} called you shitty.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我刚刚明明才说你很烂。"
+      "zh": ": 我{i}刚刚{/i}明明才说你很烂。"
     },
     {
-      "en": ": Yeah, in comparison to you, who is decidedly un-shitty.",
+      "en": ": Yeah, in comparison to {i}you{/i}, who is decidedly {i}un-{/i}shitty.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 是啊，但那是跟你比，而你显然一点都不烂。"
+      "zh": ": 是啊，但那是跟{i}你{/i}比，而你显然一点都{i}不{/i}烂。"
     },
     {
       "en": ""
@@ -364,10 +364,10 @@
       "en": ""
     },
     {
-      "en": ": If you’re still feeling bad about what happened the last time I came over and did something like this, don’t be. That was my fault for putting myself in a situation where I knew it could happen.",
+      "en": ": If you’re still feeling bad about what happened the last time I came over and did something like this, don’t be. That was {i}my{/i} fault for putting myself in a situation where I knew it could happen.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 如果你还在为上回我来你家、然后发生了那种事而自责，别这样。那是我自己的错，是我把自己放进了那个我明知道会出事的情境里。"
+      "zh": ": 如果你还在为上回我来你家、然后发生了那种事而自责，别这样。那是{i}我自己{/i}的错，是我把自己放进了那个我明知道会出事的情境里。"
     },
     {
       "en": ": But I know you aren’t going to hurt me now. So there’s nothing you need to worry about. Just sit back and let me bother you. I need you today.",
@@ -397,16 +397,16 @@
       "en": ""
     },
     {
-      "en": ": I mean, realistically, I kind of need you every day since when I’m not with you, I’m still thinking about you. But, yeah. Today I guess I really need you.",
+      "en": ": I mean, realistically, I kind of need you {i}every{/i} day since when I’m {i}not{/i} with you, I’m still thinking about you. But, yeah. Today I guess I {i}really{/i} need you.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 我是说，现实点讲，我大概每天都需要你，因为我不在你身边的时候，脑子里也还是在想你。不过，是啊。今天我大概是真的需要你。"
+      "zh": ": 我是说，现实点讲，我大概{i}每天{/i}都需要你，因为我{i}不{/i}在你身边的时候，脑子里也还是在想你。不过，是啊。今天我大概是{i}真的{/i}需要你。"
     },
     {
-      "en": ": And you don’t want to talk about why?",
+      "en": ": And you don’t want to talk about {i}why?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 而你不想说说是为什么？"
+      "zh": ": 而你不想说说是{i}为什么{/i}？"
     },
     {
       "en": ""
@@ -484,10 +484,10 @@
       "en": ""
     },
     {
-      "en": ": You can totally invite me into bed if you want, though. I’d let you hug the life out of me if you felt like it. It’s just all that other stuff I can’t stomach. But you already know that, so-",
+      "en": ": You can totally invite me into bed if you want, though. I’d let you hug the life out of me if you felt like it. It’s just all that {i}other{/i} stuff I can’t stomach. But you already know that, so-",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 不过你要是想把我拉上床，也完全可以。你要是想抱我，抱到断气都行。只是别的那些我还是受不了。不过你已经知道了，所以——"
+      "zh": ": 不过你要是想把我拉上床，也完全可以。你要是想抱我，抱到断气都行。只是{i}别的那些{/i}我还是受不了。不过你已经知道了，所以——"
     },
     {
       "en": ": I sure do. Let’s just go to my room, okay?",
@@ -553,12 +553,12 @@
       "zh": "又或者她注意到了，只是假装没看见。也许她是在讲礼貌？"
     },
     {
-      "en": "Maybe she’s used to filth by now after all that’s happened to her? And how I’ve surely only added to that by rubbing off on her over time.",
-      "zh": "又或者，在经历了那么多之后，她已经习惯了肮脏？更别提我这些日子跟她混在一起，肯定又给她添了几分。"
+      "en": "Maybe she’s {i}used{/i} to filth by now after all that’s happened to her? And how I’ve surely only added to that by rubbing off on her over time. ",
+      "zh": "又或者，在经历了那么多之后，她已经{i}习惯{/i}了肮脏？更别提我这些日子跟她混在一起，肯定又给她添了几分。"
     },
     {
-      "en": "We sit with our shoulders close together. They brush against each other every once in a while — each one accompanied by a small flinch before she remembers I don’t want to hurt her. I just will.",
-      "zh": "我们肩并肩坐着。肩膀偶尔会碰到一起——每一次她都会微微一缩，然后才想起我并不想伤害她。我只是终究会伤害她。"
+      "en": "We sit with our shoulders close together. They brush against each other every once in a while — each one accompanied by a small flinch before she remembers I don’t {i}want{/i} to hurt her. I just {i}will.{/i}",
+      "zh": "我们肩并肩坐着。肩膀偶尔会碰到一起——每一次她都会微微一缩，然后才想起我并不{i}想{/i}伤害她。我只是{i}终究会{/i}伤害她。"
     },
     {
       "en": ""
@@ -576,10 +576,10 @@
       "zh": ": 没关系。那我就先好好享受这片刻尴尬的沉默吧。"
     },
     {
-      "en": ": And I’ll be thankful your laptop still has a disc drive that allows me to install this in the first place. Those aren’t exactly common anymore.",
+      "en": ": And {i}I’ll{/i} be thankful your laptop still has a disc drive that allows me to install this in the first place. Those aren’t exactly common anymore.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 而我要感谢你的笔记本还带着光驱，让我能把它装上。那东西现在可不太常见了。"
+      "zh": ": 而{i}我要{/i}感谢你的笔记本还带着光驱，让我能把它装上。那东西现在可不太常见了。"
     },
     {
       "en": ": Yeah, well, when it comes to being behind the times in terms of technology and...the Internet...and the concept of growing up as a whole, I’m your guy.",
@@ -774,10 +774,10 @@
       "zh": ": 哦，看！装好了。"
     },
     {
-      "en": ": You...can weigh in if you want.",
+      "en": ": You...{i}can{/i} weigh in if you want.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你……想说就说吧。"
+      "zh": ": 你……想说就{i}说{/i}吧。"
     },
     {
       "en": ""
@@ -820,20 +820,20 @@
       "zh": ""
     },
     {
-      "en": ": You already know how bad I can be, so-",
+      "en": ": You already know how bad I {i}can{/i} be, so-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你已经知道我能有多坏了，所以——"
+      "zh": ": 你已经知道我{i}能{/i}有多坏了，所以——"
     },
     {
       "en": "else:",
       "zh": ""
     },
     {
-      "en": ": Just because I...left you alone...doesn’t mean I-",
+      "en": ": Just because I...left {i}you{/i} alone...doesn’t mean I-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 就算我……丢下你一个人……也不代表我——"
+      "zh": ": 就算我……丢下{i}你{/i}一个人……也不代表我——"
     },
     {
       "en": ""
@@ -887,46 +887,46 @@
       "en": ""
     },
     {
-      "en": ": Or the woman who used to torture me.",
+      "en": ": {i}Or the woman who used to torture me.{/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 或者那个曾经折磨我的女人。"
+      "zh": ": {i}或者那个曾经折磨我的女人。{/i}"
     },
     {
-      "en": ": You don’t have to-",
+      "en": ": {i}You don’t have to-{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你不必——"
+      "zh": ": {i}你不必——{/i}"
     },
     {
-      "en": ": No, it’s...",
+      "en": ": {i}No, it’s...{/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 不，只是……"
+      "zh": ": {i}不，只是……{/i}"
     },
     {
-      "en": ": I mean, it’s not fine. But there’s no sense in hiding it from you anymore now that it’s out in the open. ",
+      "en": ": {i}I mean, it’s not fine. But there’s no sense in hiding it from you anymore now that it’s out in the open. {/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 我是说，这没什么好说的。但既然已经摊开了，再瞒着你也没什么意义。"
+      "zh": ": {i}我是说，这没什么好说的。但既然已经摊开了，再瞒着你也没什么意义。{/i}"
     },
     {
-      "en": ": Like, shit, the whole fucking class probably knows after that stupid trivia show thing. And talking about it always just makes it worse, but...",
+      "en": ": {i}Like, shit, the whole fucking class probably knows after that stupid trivia show thing. And talking about it always just makes it worse, but...{/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 就说，操，那个破问答节目之后，全班搞不好都知道了。而且每次谈起它只会让事情更糟，不过……"
+      "zh": ": {i}就说，操，那个破问答节目之后，全班搞不好都知道了。而且每次谈起它只会让事情更糟，不过……{/i}"
     },
     {
-      "en": ": On the off chance that a place like Heaven exists, cursing her any chance I get can remind the gods or...angels or...whoever makes the guest list to keep her off of it. ",
+      "en": ": {i}On the off chance that a place like Heaven exists, cursing her any chance I get can remind the gods or...angels or...whoever makes the guest list to keep her off of it. {/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 万一真有天堂这种地方存在，我逮着机会就诅咒她，也许能提醒那些神啊……天使啊……或者随便谁负责列宾客名单的，把她排除在外。"
+      "zh": ": {i}万一真有天堂这种地方存在，我逮着机会就诅咒她，也许能提醒那些神啊……天使啊……或者随便谁负责列宾客名单的，把她排除在外。{/i}"
     },
     {
-      "en": ": Even Hell would be too cold for a demon like her.",
+      "en": ": {i}Even Hell would be too cold for a demon like her.{/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 就连地狱，对她那样的恶魔来说都太冷了。"
+      "zh": ": {i}就连地狱，对她那样的恶魔来说都太冷了。{/i}"
     },
     {
       "en": ": You’re going to be good, right?",
@@ -941,10 +941,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": Because you know what will happen if you aren’t good, right?",
+      "en": ": Because you know what will happen if you {i}aren’t{/i} good, right?",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 因为你知道如果你不乖会发生什么，对吧？"
+      "zh": ": 因为你知道如果你{i}不乖{/i}会发生什么，对吧？"
     },
     {
       "en": ": You’ll send Sir Meowington back to the shelter.",
@@ -1001,10 +1001,10 @@
       "zh": ": 可这是事实。"
     },
     {
-      "en": ": Do you know why they hate you, Io?",
+      "en": ": Do you know {i}why{/i} they hate you, Io?",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 你知道他们为什么讨厌你吗，Io？"
+      "zh": ": 你知道他们{i}为什么{/i}讨厌你吗，Io？"
     },
     {
       "en": ": Because I’m not like them.",
@@ -1013,10 +1013,10 @@
       "zh": ": 因为我和他们不一样。"
     },
     {
-      "en": ": Because you’re an ungrateful, disobedient, obnoxious little brat who insists on ruining the lives of everyone you speak to.",
+      "en": ": Because you’re an ungrateful, disobedient, obnoxious little brat who insists on ruining the lives of {i}everyone{/i} you speak to.",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 因为你是个不知感恩、不听话、讨人嫌的小屁孩，非要毁掉每一个跟你说话的人的生活。"
+      "zh": ": 因为你是个不知感恩、不听话、讨人嫌的小屁孩，非要毁掉{i}每一个{/i}跟你说话的人的生活。"
     },
     {
       "en": ": I’m sorry.",
@@ -1061,10 +1061,10 @@
       "zh": ": 我们能不能换个地方住，别这样？"
     },
     {
-      "en": ": What did you just say?",
+      "en": ": {i}What did you just say?{/i}",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 你刚刚说什么？"
+      "zh": ": {i}你刚刚说什么？{/i}"
     },
     {
       "en": ": ...",
@@ -1073,16 +1073,16 @@
       "zh": ": ..."
     },
     {
-      "en": ": This is why the kids at school hate you. This is what makes you ungrateful.",
+      "en": ": {i}This{/i} is why the kids at school hate you. {i}This{/i} is what makes you ungrateful.",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 这就是学校里的孩子讨厌你的原因。这就是你不知感恩的表现。"
+      "zh": ": {i}这{/i}就是学校里的孩子讨厌你的原因。{i}这{/i}就是你不知感恩的表现。"
     },
     {
-      "en": ": I made you. I put a roof over your head. I buy you nice clothes...all the games you want...those fucking animals that I have to feed, and this is how you say thanks for all of that?",
+      "en": ": I {i}made{/i} you. I put a roof over your head. I buy you nice clothes...all the games you want...those fucking {i}animals{/i} that {i}I{/i} have to feed, and {i}this{/i} is how you say thanks for all of that?",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 是我造就了你。是我给你提供了栖身之所。我给你买漂亮的衣服……你想要的游戏全都买……还有那些我得替你喂的该死的动物，而你就是用这种方式来感谢这一切的吗？"
+      "zh": ": 是我{i}造就{/i}了你。是我给你提供了栖身之所。我给你买漂亮的衣服……你想要的游戏全都买……还有那些{i}我得{/i}替你喂的该死的{i}动物{/i}，而你就是用{i}这种方式{/i}来感谢这一切的吗？"
     },
     {
       "en": ": I’m sorry.",
@@ -1097,10 +1097,10 @@
       "zh": ": 不，你不是。你从来没有对不起过。你是个连最简单的指示都照做不了的废物小孩。那种只有母亲才会爱的小孩。"
     },
     {
-      "en": ": What will you do if I start to hate you next, Io? Where will you go? Are you going to live out on the street? Become a fucking whore? Is that your plan?",
+      "en": ": What will you do if {i}I{/i} start to hate you next, Io? Where will you go? Are you going to live out on the street? Become a fucking {i}whore?{/i} Is {i}that{/i} your plan?",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 要是我接着开始恨你，你打算怎么办，Io？你能去哪儿？你要去街上讨生活吗？去当个婊子？那就是你的计划吗？"
+      "zh": ": 要是{i}我{/i}接着开始恨你，你打算怎么办，Io？你能去哪儿？你要去街上讨生活吗？去当个{i}婊子{/i}？{i}那{/i}就是你的计划吗？"
     },
     {
       "en": ": I’ll be good.",
@@ -1109,10 +1109,10 @@
       "zh": ": 我会乖的。"
     },
     {
-      "en": ": Good. Because if you’re not, I’ll-",
+      "en": ": {i}Good.{/i} Because if you’re not, I’ll-",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 好。因为如果你不乖，我就——"
+      "zh": ": {i}好{/i}。因为如果你不乖，我就——"
     },
     {
       "en": ""
@@ -1130,10 +1130,10 @@
       "en": ""
     },
     {
-      "en": ": Um...excuse me? Can I help you?",
+      "en": ": Um...{i}excuse me?{/i} Can I help you?",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 呃……不好意思？需要帮忙吗？"
+      "zh": ": 呃……{i}不好意思{/i}？需要帮忙吗？"
     },
     {
       "en": ""
@@ -1151,22 +1151,22 @@
       "en": ""
     },
     {
-      "en": ": Yasu! Move! What are you doing?!",
+      "en": ": {i}Yasu! Move! What are you doing?!{/i}",
       "spk": "Yasu's Mother",
       "spkColor": "#74D9E9",
-      "zh": ": Yasu！让开！你在干什么？！"
+      "zh": ": {i}Yasu！让开！你在干什么？！{/i}"
     },
     {
-      "en": ": Would you mind controlling your child? My daughter has anxiety. She’s not equipped to speak to random, weird little girls who want to stare at her for no fucking reason.",
+      "en": ": Would you mind controlling your child? My daughter has {i}anxiety.{/i} She’s not equipped to speak to random, weird little girls who want to stare at her for no fucking reason.",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 你能不能管管你的孩子？我女儿有焦虑症。她可没本事去跟一个无缘无故盯着她看的奇怪小女孩说话。"
+      "zh": ": 你能不能管管你的孩子？我女儿有{i}焦虑症{/i}。她可没本事去跟一个无缘无故盯着她看的奇怪小女孩说话。"
     },
     {
-      "en": ": I-I’m sorry. She’s not well. Yasu, move. Now.",
+      "en": ": I-I’m sorry. She’s not well. Yasu, move. {i}Now.{/i}",
       "spk": "Yasu's Mother",
       "spkColor": "#74D9E9",
-      "zh": ": 我、我很抱歉。她不太舒服。Yasu，让开。现在。"
+      "zh": ": 我、我很抱歉。她不太舒服。Yasu，让开。{i}现在{/i}。"
     },
     {
       "en": ": Bad woman...",
@@ -1175,22 +1175,22 @@
       "zh": ": 坏女人……"
     },
     {
-      "en": ": What?...",
+      "en": ": {i}What?...{/i}",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 什么？……"
+      "zh": ": {i}什么？……{/i}"
     },
     {
-      "en": ": I’m so sorry! She thinks she sees things! And she’s always hearing these voices and-",
+      "en": ": I’m so sorry! She thinks she sees things! And she’s always hearing these {i}voices{/i} and-",
       "spk": "Yasu's Mother",
       "spkColor": "#74D9E9",
-      "zh": ": 非常抱歉！她总觉得自己在看见什么东西！而且还老是听见这些声音，然后——"
+      "zh": ": 非常抱歉！她总觉得自己在看见什么东西！而且还老是听见这些{i}声音{/i}，然后——"
     },
     {
-      "en": ": And you think I care?! Get your fucking freak away from my little girl or I’ll call the police. This is harassment. Who’s your doctor? Are you even supposed to be here?",
+      "en": ": And you think I {i}care?!{/i} Get your fucking freak away from my little girl or I’ll call the police. This is harassment. Who’s your doctor? Are you even supposed to be here?",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 你以为我会在乎吗？！把你那个该死的怪胎从我女儿身边弄走，不然我就报警了。这叫骚扰。你的医生是谁？你到底该不该来这儿？"
+      "zh": ": 你以为我会{i}在乎{/i}吗？！把你那个该死的怪胎从我女儿身边弄走，不然我就报警了。这叫骚扰。你的医生是谁？你到底该不该来这儿？"
     },
     {
       "en": ""
@@ -1220,10 +1220,10 @@
       "zh": ": 可是——"
     },
     {
-      "en": ": Shh! Will you ever stop embarrassing me?! You can't just stare at other girls like that! I don’t care what you think you heard! Just...be normal!",
+      "en": ": {i}Shh! Will you ever stop embarrassing me?! You can't just stare at other girls like that! I don’t care what you think you heard! Just...be normal!{/i}",
       "spk": "Yasu's Mother",
       "spkColor": "#74D9E9",
-      "zh": ": 嘘！你到底什么时候才能不再让我丢人？！你不能就这么盯着别的女孩子看！我不管你以为自己听见了什么！就……正常一点！"
+      "zh": ": {i}嘘！你到底什么时候才能不再让我丢人？！你不能就这么盯着别的女孩子看！我不管你以为自己听见了什么！就……正常一点！{/i}"
     },
     {
       "en": ": Tch. The nerve of some people.",
@@ -1265,10 +1265,10 @@
       "zh": ": 我累了。我不想要冰淇淋。"
     },
     {
-      "en": ": Yes you do. You love ice cream. Now, go. You look like a fucking mess. Almost as bad as that other girl. People are going to think I abuse you. Do you want that? Do you want to make me look bad?",
+      "en": ": Yes you do. You love ice cream. Now, go. You look like a fucking mess. Almost as bad as that other girl. People are going to think I abuse you. Do you {i}want{/i} that? Do you {i}want{/i} to make me look bad?",
       "spk": "MOTHER",
       "spkColor": "#BBE3A1",
-      "zh": ": 你要的。你最爱吃冰淇淋了。现在，去。你看上去一团糟。几乎跟刚才那个女孩一样糟。别人会以为我在虐待你。你想要那样吗？你想让我丢脸吗？"
+      "zh": ": 你要的。你最爱吃冰淇淋了。现在，去。你看上去一团糟。几乎跟刚才那个女孩一样糟。别人会以为我在虐待你。你{i}想要{/i}那样吗？你{i}想{/i}让我丢脸吗？"
     },
     {
       "en": ": I’m sorry. I-",
@@ -1338,10 +1338,10 @@
       "zh": ": 对不起。"
     },
     {
-      "en": ": Why?",
+      "en": ": {i}Why?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 为什么？"
+      "zh": ": {i}为什么？{/i}"
     },
     {
       "en": ""
@@ -1449,10 +1449,10 @@
       "zh": ": 我……"
     },
     {
-      "en": ": Really safe now, Sensei?...",
+      "en": ": {i}Really{/i} safe now, Sensei?...",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 现在真的安全了吗，Sensei？……"
+      "zh": ": 现在{i}真的{/i}安全了吗，Sensei？……"
     },
     {
       "en": ": ...",
@@ -1467,16 +1467,16 @@
       "zh": ": ..."
     },
     {
-      "en": ": You’re in danger any time you’re near me, Io. I’m not going to pretend you’re not just because I decided against having sex with you one time.",
+      "en": ": You’re in danger any time you’re near me, Io. I’m not going to pretend you’re not just because I decided against having sex with you {i}one time.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你只要在我身边就处于危险之中，Io。我不会因为有一次决定不和你做爱，就假装你不是这样。"
+      "zh": ": 你只要在我身边就处于危险之中，Io。我不会因为有{i}一次{/i}决定不和你做爱，就假装你不是这样。"
     },
     {
-      "en": ": Do you want to have sex with me now?",
+      "en": ": Do you want to have sex with me {i}now?{/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 你现在想和我做爱吗？"
+      "zh": ": 你{i}现在{/i}想和我做爱吗？"
     },
     {
       "en": ": Not really, no.",
@@ -1485,22 +1485,22 @@
       "zh": ": 不太想，不想。"
     },
     {
-      "en": ": That’s two times then. Now, will you say it?",
+      "en": ": That’s two times then. {i}Now,{/i} will you say it?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 那就是两次了。那么，你愿意说出来吗？"
+      "zh": ": 那就是两次了。{i}那么{/i}，你愿意说出来吗？"
     },
     {
-      "en": ": Nope. We’re supposed to be playing the 1997 PC Classic, Theme Hospital. You wanted to avoid feelings today, remember?",
+      "en": ": Nope. We’re supposed to be playing the 1997 PC Classic, Theme Hospital. You wanted to {i}avoid{/i} feelings today, remember?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不。我们应该玩 1997 年的 PC 经典《主题医院》才对。你今天说好了要回避感情的，记得吗？"
+      "zh": ": 不。我们应该玩 1997 年的 PC 经典《主题医院》才对。你今天说好了要{i}回避{/i}感情的，记得吗？"
     },
     {
-      "en": ": I remember. But now my heart is beating out of my chest and I kind of want to just hug you and cry. But I also hate crying so it’s a major conundrum. I’m not sure what to do.",
+      "en": ": I remember. But now my heart is beating out of my chest and I kind of want to just hug you and cry. But I also {i}hate{/i} crying so it’s a major conundrum. I’m not sure what to do.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 我记得。可现在我的心跳快得要从胸口蹦出来了，而且我有点想就这么抱着你哭一场。但我又很讨厌哭，所以这是个大难题。我不知道该怎么办。"
+      "zh": ": 我记得。可现在我的心跳快得要从胸口蹦出来了，而且我有点想就这么抱着你哭一场。但我又很{i}讨厌{/i}哭，所以这是个大难题。我不知道该怎么办。"
     },
     {
       "en": ": Give me your hand.",
@@ -1595,8 +1595,8 @@
       "en": ""
     },
     {
-      "en": "Io’s affection has increased by 5!",
-      "zh": "Io 的好感度提升了 5！"
+      "en": "{i}Io’s affection has increased by 5!{/i}",
+      "zh": "{i}Io 的好感度提升了 5！{/i}"
     },
     {
       "en": ".........",
@@ -1673,10 +1673,10 @@
       "zh": ": 对不起。"
     },
     {
-      "en": ": Why?",
+      "en": ": {i}Why?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 为什么？"
+      "zh": ": {i}为什么？{/i}"
     },
     {
       "en": ": Because I’m sorry for everything. That’s just...how I am.",
@@ -1715,10 +1715,10 @@
       "zh": ": 我也一直在问自己同样的问题。"
     },
     {
-      "en": ": But you know what will make you happy....",
+      "en": ": But you know what will {i}make{/i} you happy....",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 但你知道什么会让你幸福……"
+      "zh": ": 但你知道什么会{i}让你幸福{/i}……"
     },
     {
       "en": ""
@@ -1736,10 +1736,10 @@
       "en": ""
     },
     {
-      "en": ": And it’s something I can help with...",
+      "en": ": And it’s something {i}I{/i} can help with...",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 而那是我能帮上忙的事……"
+      "zh": ": 而那是{i}我{/i}能帮上忙的事……"
     },
     {
       "en": ": So I will.",
@@ -1796,10 +1796,10 @@
       "zh": ": 你介意在桌子底下吗？……"
     },
     {
-      "en": ": Do I mind if what is under the table, Io?",
+      "en": ": Do I mind if {i}what{/i} is under the table, Io?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你介意什么在桌子底下，Io？"
+      "zh": ": 你介意{i}什么{/i}在桌子底下，Io？"
     },
     {
       "en": ": Are you asking because you genuinely don’t know? Or because you want to hear me say it?",
@@ -1820,10 +1820,10 @@
       "zh": ": 让我让你幸福吧，Sensei。就当是今天陪我的报酬。这是我最起码能做的事。"
     },
     {
-      "en": ": You don’t need to pay me, Io. You don’t need to do any of this.",
+      "en": ": You don’t need to {i}pay{/i} me, Io. You don’t need to do any of this.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你不需要付我报酬啊，Io。你不需要做这些。"
+      "zh": ": 你不需要{i}付{/i}我报酬啊，Io。你不需要做这些。"
     },
     {
       "en": ": But it’s hard.",
@@ -1844,10 +1844,10 @@
       "zh": ": 那就是说明你想要，对吧？"
     },
     {
-      "en": ": Of course I want it, but-",
+      "en": ": Of course I {i}want{/i} it, but-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我当然想要，但是——"
+      "zh": ": 我当然{i}想要{/i}，但是——"
     },
     {
       "en": ": It’s just my hand...",
@@ -1928,10 +1928,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": No?",
+      "en": ": {i}No?{/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 不要？"
+      "zh": ": {i}不要？{/i}"
     },
     {
       "en": ": No.",
@@ -1946,10 +1946,10 @@
       "zh": ": 可我……"
     },
     {
-      "en": ": I started it. I chose to do this. So you don’t have to feel guilty about-",
+      "en": ": I started it. {i}I{/i} chose to do this. So you don’t have to feel guilty about-",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 是我开始的。是我自己选择要做这个。所以你不必觉得内疚——"
+      "zh": ": 是我开始的。是{i}我自己{/i}选择要做这个。所以你不必觉得内疚——"
     },
     {
       "en": ": I said no.",
@@ -2015,16 +2015,16 @@
       "en": ""
     },
     {
-      "en": ": But...you’re not! Like I said, this is my choice! I intended to do this today!",
+      "en": ": But...you’re not! Like I said, this is {i}my{/i} choice! {i}I{/i} intended to do this today!",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 可是……你没有啊！就像我说的，这是我自己选的！我今天本来就打算这么做的！"
+      "zh": ": 可是……你没有啊！就像我说的，这是我{i}自己{/i}选的！{i}我{/i}今天本来就打算这么做的！"
     },
     {
-      "en": ": Okay. Then I won’t let you force yourself either.",
+      "en": ": Okay. Then I won’t let you force {i}yourself{/i} either.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 好吧。那么我也不会让你强迫你自己。"
+      "zh": ": 好吧。那么我也不会让你强迫{i}你自己{/i}。"
     },
     {
       "en": ": Why...not?",
@@ -2182,8 +2182,8 @@
       "en": ""
     },
     {
-      "en": "Io’s affection has increased by 5!",
-      "zh": "Io 的好感度提升了 5！"
+      "en": "{i}Io’s affection has increased by 5!{/i}",
+      "zh": "{i}Io 的好感度提升了 5！{/i}"
     },
     {
       "en": ".........",

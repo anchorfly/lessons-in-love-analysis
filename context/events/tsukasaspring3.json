@@ -1,6 +1,6 @@
 {
   "label": "tsukasaspring3",
-  "title_zh": "保险丝",
+  "title_zh": "失效保护",
   "lines": [
     {
       "en": ""
@@ -177,8 +177,8 @@
       "en": ""
     },
     {
-      "en": "Thank you for playing!",
-      "zh": ": 感谢游玩!"
+      "en": "{i}Thank you for playing!{/i}",
+      "zh": ": {i}感谢游玩!{/i}"
     },
     {
       "en": ""
@@ -223,16 +223,16 @@
       "zh": ": 你错了。这里的「教育专业人士」是我,不是吗?"
     },
     {
-      "en": ": Former professional, Jeeves. All you are now is an unemployed hack mooching off the 1%%.",
+      "en": ": {i}Former{/i} professional, Jeeves. All you are now is an unemployed hack mooching off the 1%%.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 「前」专业人士,Jeeves。你如今只是个蹭百分之一富人的无业游民。"
+      "zh": ": 「{i}前{/i}」专业人士,Jeeves。你如今只是个蹭百分之一富人的无业游民。"
     },
     {
-      "en": ": Technically speaking, I haven’t formally quit yet.",
+      "en": ": {i}Technically{/i} speaking, I haven’t formally quit yet.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 严格来说,我还没有正式辞职。"
+      "zh": ": {i}严格来说{/i},我还没有正式辞职。"
     },
     {
       "en": ": So you’re still on the company’s payroll despite not doing any work?",
@@ -247,10 +247,10 @@
       "zh": ": 对。"
     },
     {
-      "en": ": Now you’re talking my language. But I’m surprised. I didn’t think you’d be calling again after the way our last session ended.",
+      "en": ": {i}Now{/i} you’re talking my language. But I’m surprised. I didn’t think you’d be calling again after the way our last session ended.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 这才是我的语言嘛。但我很意外。上次那个结局之后,我以为你不会再打来了。"
+      "zh": ": {i}这才{/i}是我的语言嘛。但我很意外。上次那个结局之后,我以为你不会再打来了。"
     },
     {
       "en": ": Yeah, let’s not talk about that. Are you home right now?",
@@ -259,10 +259,10 @@
       "zh": ": 对,那个就别提了。你现在在家吗?"
     },
     {
-      "en": ": Technically speaking, yes. But it’s not the one you’re familiar with. I’m in my commoner room right now.",
+      "en": ": {i}Technically{/i} speaking, yes. But it’s not the one you’re familiar with. I’m in my commoner room right now.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 严格来说,在。但不是你熟悉的那个。我在我的平民房间里。"
+      "zh": ": {i}严格来说{/i},在。但不是你熟悉的那个。我在我的平民房间里。"
     },
     {
       "en": ": Don’t you mean “common room?”",
@@ -283,10 +283,10 @@
       "zh": ": 哦。你是说那间公寓。"
     },
     {
-      "en": ": Shh! If my shareholders hear that I’m spending time in an apartment, ChinamiCorp is going to steal away even more of the market share than it already has!",
+      "en": ": Shh! If my shareholders hear that I’m spending time in an {i}apartment,{/i} ChinamiCorp is going to steal away even more of the market share than it already has!",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 嘘!要是我的股东们听说我在「公寓」里消磨时间,ChinamiCorp 会夺走比现在更多的市场份额!"
+      "zh": ": 嘘!要是我的股东们听说我在{i}「公寓」{/i}里消磨时间,ChinamiCorp 会夺走比现在更多的市场份额!"
     },
     {
       "en": ": So...am I coming over? Or are you so busy acting poor that you’d rather be alone?",
@@ -295,10 +295,10 @@
       "zh": ": 那么……我是过来?还是你忙着装穷,宁愿独处?"
     },
     {
-      "en": ": I suppose I can make some time for the sake of my education. But I will ask you to leave all recording devices at home as I simply can not afford ever being spotted in a place like this.",
+      "en": ": I {i}suppose{/i} I can make some time for the sake of my education. But I {i}will{/i} ask you to leave all recording devices at home as I simply can not afford ever being spotted in a place like this.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 为了我的教育,我可以腾点时间。但我要请你把所有录音设备留在家里——被人发现在我这种地方,我是绝对承受不起的。"
+      "zh": ": 为了我的教育,我{i}可以{/i}腾点时间。但我{i}要{/i}请你把所有录音设备留在家里——被人发现在我这种地方,我是绝对承受不起的。"
     },
     {
       "en": ": Can I bring my phone?",
@@ -352,10 +352,10 @@
       "zh": ": 就像上次那样。"
     },
     {
-      "en": ": Jeeves, do you suffer from brain damage? I may be rich, but I can not teleport people. Such a method of transportation hasn’t been developed yet.",
+      "en": ": Jeeves, do you suffer from brain damage? I may be rich, but I can not {i}teleport{/i} people. Such a method of transportation hasn’t been developed yet.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": Jeeves,你的脑子是不是受过损伤?我是有钱,但我不会传送人。这种交通方式还没被发明出来。"
+      "zh": ": Jeeves,你的脑子是不是受过损伤?我是有钱,但我不会{i}传送{/i}人。这种交通方式还没被发明出来。"
     },
     {
       "en": ": But-",
@@ -395,12 +395,12 @@
       "zh": ": 我暗自叹气,不知道传送这件事还会不会被再提起,然后动身前往 Tsukasa 的公寓。"
     },
     {
-      "en": "And while I’m willing to chalk that last visit up to just one more strange, paranormal occurrence in a life that is now full of them, I’d more than welcome additional instances of that one in the future.",
-      "zh": ": 虽然我愿意把上一次归结为「这个如今塞满怪事的的人生里,又一起灵异事件」,但我十二万分欢迎那一幕在未来重演。"
+      "en": "And while I’m willing to chalk that last visit up to just one more strange, paranormal occurrence in a life that is now full of them, I’d more than welcome additional instances of {i}that{/i} one in the future.",
+      "zh": ": 虽然我愿意把上一次归结为「这个如今塞满怪事的的人生里,又一起灵异事件」,但我十二万分欢迎{i}那一幕{/i}在未来重演。"
     },
     {
-      "en": "Because at least that one makes my life easier and doesn’t pressure me into violating every single girl I come across.",
-      "zh": ": 因为至少那一次,让我的人生变轻松了,而且没有逼我去侵犯我遇到的每一个女孩。"
+      "en": "Because at least {i}that{/i} one makes my life easier and doesn’t pressure me into violating every single girl I come across.",
+      "zh": ": 因为至少{i}那{/i}一次,让我的人生变轻松了,而且没有逼我去侵犯我遇到的每一个女孩。"
     },
     {
       "en": ""
@@ -435,8 +435,8 @@
       "zh": ": 他们看到我堕落至此,会震惊吗?会耸耸肩、骗自己说「这根本没什么」吗?"
     },
     {
-      "en": "Or would they be excited to be shown a glimpse into a life even darker than the ones I’ve stolen all the lights from?",
-      "zh": ": 还是会兴奋——因为终于能窥见一段比「我偷走所有灯光的那些人生」更暗的人生?"
+      "en": "Or would they be {i}excited{/i} to be shown a glimpse into a life even darker than the ones I’ve stolen all the lights from?",
+      "zh": ": 还是会{i}兴奋{/i}——因为终于能窥见一段比「我偷走所有灯光的那些人生」更暗的人生?"
     },
     {
       "en": "I think the answer would differ from person to person.",
@@ -561,10 +561,10 @@
       "en": ""
     },
     {
-      "en": ": That sounds so boring, though. I want to learn about math.",
+      "en": ": That sounds so boring, though. I want to learn about {i}math.{/i}",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 但那听起来好无聊。我想学数学。"
+      "zh": ": 但那听起来好无聊。我想学{i}数学{/i}。"
     },
     {
       "en": ": Then there is a certain glasses-sporting porn shop employee I think you should meet as you two would get along very well.",
@@ -720,10 +720,10 @@
       "en": ""
     },
     {
-      "en": ": Come on, Jeeves! It’ll be just like last time! And this time, you have nowhere to run!",
+      "en": ": Come on, Jeeves! It’ll be just like last time! And {i}this{/i} time, you have nowhere to run!",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 来嘛,Jeeves!就像上次一样!而且这次,你无处可逃!"
+      "zh": ": 来嘛,Jeeves!就像上次一样!而且{i}这次{/i},你无处可逃!"
     },
     {
       "en": ": That’s not a good thing...",
@@ -759,10 +759,10 @@
       "zh": ": 新鲜事。"
     },
     {
-      "en": ": And that’s rude. But what I mean is I’ve been thinking about you.",
+      "en": ": And {i}that’s{/i} rude. But what I mean is I’ve been thinking about you.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 而这很无礼。但我的意思是:我一直在想「你」。"
+      "zh": ": 而{i}这{/i}很无礼。但我的意思是:我一直在想「你」。"
     },
     {
       "en": ": That’s worrying.",
@@ -771,10 +771,10 @@
       "zh": ": 这让人担忧。"
     },
     {
-      "en": ": And that’s confusing. But what I mean by that is that I don’t really think you’re cut out to be my tutor, Jeeves. So I’m going to have to let you go. I’m sorry it had to end this way.",
+      "en": ": And {i}that’s{/i} confusing. But what I mean by {i}that{/i} is that I don’t really think you’re cut out to be my tutor, Jeeves. So I’m going to have to let you go. I’m sorry it had to end this way.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 而这让人费解。但我的意思是:我 really 不觉得你适合当我的家教,Jeeves。所以我不得不放你走。很抱歉以这种方式收场。"
+      "zh": ": 而{i}这{/i}让人费解。但{i}我的意思{/i}是:我 really 不觉得你适合当我的家教,Jeeves。所以我不得不放你走。很抱歉以这种方式收场。"
     },
     {
       "en": ": All things considered, this is probably the best way this could have ended. So thanks, I guess.",
@@ -789,16 +789,16 @@
       "zh": ": 不过你其实可以在我大老远赶来之前就告诉我。"
     },
     {
-      "en": ": I could have. But it would have likely prevented you from hearing my new job offer.",
+      "en": ": I could have. But it would have likely prevented you from hearing my {i}new{/i} job offer. ",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 我可以。但那样的话,你多半就听不到我的新工作邀约了。"
+      "zh": ": 我可以。但那样的话,你多半就听不到我的{i}新{/i}工作邀约了。"
     },
     {
-      "en": ": New job offer?",
+      "en": ": {i}New{/i} job offer?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 新工作邀约?"
+      "zh": ": {i}新{/i}工作邀约?"
     },
     {
       "en": ": Of associate executive literary entertainment coordinator.",
@@ -891,10 +891,10 @@
       "zh": ": ……好吧?"
     },
     {
-      "en": ": I still want you to be my teacher. But I don’t think you want to be my teacher. So I thought I’d give you a job that better aligns with your specific interests.",
+      "en": ": I still {i}want{/i} you to be my teacher. But I don’t think {i}you{/i} want to be my teacher. So I thought I’d give you a job that better aligns with your specific interests.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 我还是想要你当我老师。可我觉得你不想当我老师。所以我想,不如给你一份更契合你特定兴趣的工作。"
+      "zh": ": 我还是{i}想要{/i}你当我老师。可我觉得{i}你{/i}不想当我老师。所以我想,不如给你一份更契合你特定兴趣的工作。"
     },
     {
       "en": ": ...What?",
@@ -903,10 +903,10 @@
       "zh": ": ……什么?"
     },
     {
-      "en": ": Jeeves, I am a rather extraordinary individual. To be frank, I’m very impressive. But the only time you seemed impressed the other day was when I was talking about books.",
+      "en": ": Jeeves, I am a rather extraordinary individual. To be frank, I’m {i}very{/i} impressive. But the only time {i}you{/i} seemed impressed the other day was when I was talking about books.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": Jeeves,我是一个相当非凡的人。坦白讲,我非常令人惊叹。但那天,你唯一显得「被惊叹到」的时刻,是我在聊书的时候。"
+      "zh": ": Jeeves,我是一个相当非凡的人。坦白讲,我{i}非常{/i}令人惊叹。但那天,{i}你{/i}唯一显得「被惊叹到」的时刻,是我在聊书的时候。"
     },
     {
       "en": ": That’s just...what I’m good at, Tsukasa.",
@@ -915,10 +915,10 @@
       "zh": ": 那只是……我擅长的事,Tsukasa。"
     },
     {
-      "en": ": Math and science are important too, yeah. And it does impress me that you’re willing to dive into physics and astronomy at your age, but...those things are different.",
+      "en": ": Math and science are important too, yeah. And it {i}does{/i} impress me that you’re willing to dive into physics and astronomy at your age, but...those things are different.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 数学和科学也重要,对。而且,愿意在你这个年纪钻研物理和天文,确实让我印象深刻,但……那些东西不一样。"
+      "zh": ": 数学和科学也重要,对。而且,愿意在你这个年纪钻研物理和天文,{i}确实{/i}让我印象深刻,但……那些东西不一样。"
     },
     {
       "en": ""
@@ -936,10 +936,10 @@
       "en": ""
     },
     {
-      "en": ": Anyone can memorize formulas and...star maps or whatever, but not everyone can understand people. And doing that is the key to getting what you want out of life.",
+      "en": ": Anyone can memorize formulas and...star maps or whatever, but {i}not{/i} everyone can understand people. And doing {i}that{/i} is the key to getting what you want out of life.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 任何人都能背下公式、或者……星图什么的;但不是所有人都能理解「人」。而理解人,才是从人生中得到你想要的东西的关键。"
+      "zh": ": 任何人都能背下公式、或者……星图什么的;但{i}不是{/i}所有人都能理解「人」。而{i}理解人{/i},才是从人生中得到你想要的东西的关键。"
     },
     {
       "en": ": Maybe. Probably. But also, you probably shouldn’t take my word for that as I still have no idea what I want out of life and I am much older than you.",
@@ -948,16 +948,16 @@
       "zh": ": 也许吧。多半是。但你也多半不该信我这套——因为我到现在都不知道自己想要什么,而我比你老得多。"
     },
     {
-      "en": ": What direct correlation does literature have to people, though? I was under the impression that books were just tools used to get certain themes or ideas across.",
+      "en": ": What direct correlation does literature have to {i}people,{/i} though? I was under the impression that books were just tools used to get certain themes or ideas across.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 但文学和「人」有什么直接关联?我的印象是,书只是用来传递某些主题或观念的工具。"
+      "zh": ": 但文学和「{i}人{/i}」有什么直接关联?我的印象是,书只是用来传递某些主题或观念的工具。"
     },
     {
-      "en": ": And to an extent, they are. But they’re also windows into the way an author views the world. Which, in turn, helps us compare and contrast our thoughts and values with theirs. Do you get it?",
+      "en": ": And to an extent, they are. But they’re also windows into the way an author views the world. Which, in turn, helps us compare and contrast {i}our{/i} thoughts and values with theirs. Do you get it?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 某种程度上,是的。但它们同时也是「作者如何看待世界」的窗口。而这反过来,帮我们把我们的想法和价值观,与他们的进行对比。你懂了吗?"
+      "zh": ": 某种程度上,是的。但它们同时也是「作者如何看待世界」的窗口。而这反过来,帮我们把{i}我们的{/i}想法和价值观,与他们的进行对比。你懂了吗?"
     },
     {
       "en": ": I think so. But isn’t that still just like dissecting an animal at the end of the day? We’re still trying to figure something out by reading, aren’t we?",
@@ -1017,10 +1017,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": Again, dark. But still, you felt something, didn’t you?",
+      "en": ": Again, dark. But still, you {i}felt{/i} something, didn’t you? ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 又很丧了。但你还是「感受到」了什么,不是吗?"
+      "zh": ": 又很丧了。但你还是{i}「感受到」{/i}了什么,不是吗?"
     },
     {
       "en": ""
@@ -1038,10 +1038,10 @@
       "en": ""
     },
     {
-      "en": ": Oh, so the feeling you get is the important part! Not the underlying message!",
+      "en": ": Oh, so the {i}feeling{/i} you get is the important part! Not the underlying message!",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 哦,所以「感受到的东西」才是重要的部分!不是书底层的讯息!"
+      "zh": ": 哦,所以{i}「感受到的东西」{/i}才是重要的部分!不是书底层的讯息!"
     },
     {
       "en": ": They’re both important, but that’s what sets literature apart from science. There’s an element of humanity to it that other subjects lack.",
@@ -1050,10 +1050,10 @@
       "zh": ": 两者都重要,但这正是文学区别于科学的地方。它有一种人性元素,是其他学科缺少的。"
     },
     {
-      "en": ": And I don’t know how possible it is to ever be happy if you can’t first grasp just how important one’s humanity is.",
+      "en": ": And I don’t know how possible it is to ever be happy if you can’t first grasp just how important one’s {i}humanity{/i} is.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 而如果一个人连「人性有多重要」都无法首先把握,我不知道他还有没有可能幸福。"
+      "zh": ": 而如果一个人连「{i}人性{/i}有多重要」都无法首先把握,我不知道他还有没有可能幸福。"
     },
     {
       "en": ""
@@ -1071,10 +1071,10 @@
       "en": ""
     },
     {
-      "en": ": There are a million complex equations out there, and it takes amazing people to solve the vast majority of them. But we are perhaps the most complex equation of all. And many just...lose sight of that.",
+      "en": ": There are a million complex equations out there, and it takes amazing people to solve the vast majority of them. But {i}we{/i} are perhaps the most complex equation of all. And many just...lose sight of that.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 世上有上百万个复杂的方程,解开其中绝大多数需要了不起的人。但我们自己,或许是最复杂的那个方程。而很多人……偏偏看不见这一点。"
+      "zh": ": 世上有上百万个复杂的方程,解开其中绝大多数需要了不起的人。但{i}我们{/i}自己,或许是最复杂的那个方程。而很多人……偏偏看不见这一点。"
     },
     {
       "en": ": The only reason I even started tutoring was because I wanted to...test that, I guess.",
@@ -1143,10 +1143,10 @@
       "en": ""
     },
     {
-      "en": ": Do whatever you want. I’m just one person with one outlook when things come down to it. And the idea that anyone would be willing to listen to that at all still shocks me sometimes.",
+      "en": ": Do whatever you want. I’m just one person with one outlook when things come down to it. And the idea that {i}anyone{/i} would be willing to listen to that at all still shocks me sometimes.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 随你喜欢。归根结底,我只是一个人、只有一种视角。而居然有人愿意听这些,有时候我依然觉得震惊。"
+      "zh": ": 随你喜欢。归根结底,我只是一个人、只有一种视角。而居然{i}有人{/i}愿意听这些,有时候我依然觉得震惊。"
     },
     {
       "en": ": I’m the same way, though.",
@@ -1182,16 +1182,16 @@
       "zh": ": 我是说,我不明白你为什么花时间陪我。"
     },
     {
-      "en": ": Nobody’s ever given me this much attention before, and I’m not even asking you to. You’re just doing it on your own.",
+      "en": ": Nobody’s ever given me this much attention before, and I’m not even {i}asking{/i} you to. You’re just doing it on your own. ",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 从来没有人给过我这么多关注,而我甚至没有要求。你完全是自发的。"
+      "zh": ": 从来没有人给过我这么多关注,而我甚至没有{i}要求{/i}。你完全是自发的。"
     },
     {
-      "en": ": Well, either that or Mother put you up to it. But you’re the one who’s been calling me. Even if I previously commanded you to take the lead in terms of my education.",
+      "en": ": Well, either that or Mother put you up to it. But {i}you’re{/i} the one who’s been calling {i}me.{/i} Even {i}if{/i} I previously commanded you to take the lead in terms of my education.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 嗯,要么是妈妈安排的。但打电话来的人一直是你。哪怕是我之前命令过你、让你主导我的教育。"
+      "zh": ": 嗯,要么是妈妈安排的。但打电话来的人一直{i}是你{/i}。{i}哪怕{/i}是我之前命令过你、让你主导我的教育。"
     },
     {
       "en": ": And while it’s nice...and fun...to be spending time with you...",
@@ -1215,10 +1215,10 @@
       "en": ""
     },
     {
-      "en": ": It just makes me feel like you want something.",
+      "en": ": It just makes me feel like you {i}want{/i} something.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 但它只是让我觉得,你有所图。"
+      "zh": ": 但它只是让我觉得,你{i}有所图{/i}。"
     },
     {
       "en": ": ...",
@@ -1314,10 +1314,10 @@
       "zh": ": 你可以把我锁进笼子,我的家人几个月都不会知道。"
     },
     {
-      "en": ": In fact, it feels like that’s what they want sometimes. All I do is annoy them. And it’s probably the same for you.",
+      "en": ": In fact, it feels like that’s what they {i}want{/i} sometimes. All I do is annoy them. And it’s probably the same for you. ",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 事实上,有时候,我感觉那正是他们想要的。我所做的只是烦他们。对你大概也一样。"
+      "zh": ": 事实上,有时候,我感觉那正是他们{i}想{/i}要的。我所做的只是烦他们。对你大概也一样。"
     },
     {
       "en": ": So if you want something, just say it. You’ve been nice enough to me lately that I wouldn’t mind giving it to you so long as it’s in my power to do so.",
@@ -1386,10 +1386,10 @@
       "en": ""
     },
     {
-      "en": ": Even if it’s something evil.",
+      "en": ": Even if it’s something {i}evil.{/i}",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 哪怕那是邪恶的东西。"
+      "zh": ": 哪怕那是{i}邪恶{/i}的东西。"
     },
     {
       "en": ""
@@ -1506,10 +1506,10 @@
       "en": ""
     },
     {
-      "en": ": You can lock me in a cage.",
+      "en": ": {b}You can lock me in a cage.{/b}",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 你可以把我锁进笼子。"
+      "zh": ": {b}你可以把我锁进笼子。{/b}"
     },
     {
       "en": ""
@@ -1625,8 +1625,8 @@
       "en": ""
     },
     {
-      "en": "Tsukasa’s affection has increased to [tsukasa_love]!",
-      "zh": "Tsukasa 的好感度提升到了 [tsukasa_love]!"
+      "en": "{i}Tsukasa’s affection has increased to [tsukasa_love]!{/i}",
+      "zh": "{i}Tsukasa 的好感度提升到了 [tsukasa_love]!{/i}"
     },
     {
       "en": ".........",
@@ -1705,8 +1705,8 @@
       "en": ""
     },
     {
-      "en": "Tsukasa’s affection has increased to [tsukasa_love]!",
-      "zh": "Tsukasa 的好感度提升到了 [tsukasa_love]!"
+      "en": "{i}Tsukasa’s affection has increased to [tsukasa_love]!{/i}",
+      "zh": "{i}Tsukasa 的好感度提升到了 [tsukasa_love]!{/i}"
     },
     {
       "en": ".........",

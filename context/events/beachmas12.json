@@ -20,8 +20,8 @@
       "en": ""
     },
     {
-      "en": "You have received a text message from Maya Makinami!",
-      "zh": "你收到了一条来自 Maya Makinami 的短信！"
+      "en": "{i}You have received a text message from Maya Makinami!{/i}",
+      "zh": "{i}你收到了一条来自 Maya Makinami 的短信！{/i}"
     },
     {
       "en": ""
@@ -43,8 +43,8 @@
       "zh": "昨晚我为了去找那些失踪的同学而分了心，彻底盖掉了我当天早些时候和 Maya 定下的计划。"
     },
     {
-      "en": "But if Maya knows me as well as she is supposed to, she should have expected such a thing and followed up with me rather than just allowing me to forget her.",
-      "zh": "不过如果 Maya 真像她自称的那样了解我，她早该料到这种事，主动来跟进，而不是就这么任由我把她忘掉。"
+      "en": "But if Maya knows me as well as she is supposed to, she should have expected such a thing and followed up with me rather than just {i}allowing{/i} me to forget her.",
+      "zh": "不过如果 Maya 真像她自称的那样了解我，她早该料到这种事，主动来跟进，而不是就这么{i}任由{/i}我把她忘掉。"
     },
     {
       "en": "Unless her plan was just keeping me from going on a date with Ayane instead. To which I say...smart.",
@@ -66,10 +66,10 @@
       "en": ""
     },
     {
-      "en": ": Good morning. Are you still alive?",
+      "en": ": {i}Good morning. Are you still alive?{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 早上好。你还活着吗？"
+      "zh": ": {i}早上好。你还活着吗？{/i}"
     },
     {
       "en": ""
@@ -82,52 +82,52 @@
       "en": ""
     },
     {
-      "en": ": Good morning and yes.",
+      "en": ": {i}Good morning and yes.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 早上好，还活着。"
+      "zh": ": {i}早上好，还活着。{/i}"
     },
     {
-      "en": ": How unfortunate. I was beginning to hope that you had been mauled by bears as that would be the only reasonable explanation for bailing on the incredibly rare opportunity to go out on a date with me.",
+      "en": ": {i}How unfortunate. I was beginning to hope that you had been mauled by bears as that would be the only reasonable explanation for bailing on the incredibly rare opportunity to go out on a date with me.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 真遗憾。我本来已经开始盼着你是被熊撕了，因为那是你放我鸽子、错过这千载难逢的约会机会的唯一合理解释。"
+      "zh": ": {i}真遗憾。我本来已经开始盼着你是被熊撕了，因为那是你放我鸽子、错过这千载难逢的约会机会的唯一合理解释。{/i}"
     },
     {
-      "en": ": There’s always your birthday next week.",
+      "en": ": {i}There’s always your birthday next week.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不是还有下周你的生日嘛。"
+      "zh": ": {i}不是还有下周你的生日嘛。{/i}"
     },
     {
-      "en": ": I’m shocked you’re able to remember that but not something twelve hours into the future.",
+      "en": ": {i}I’m shocked you’re able to remember that but not something twelve hours into the future.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我真震惊，你记得住那个，却记不住十二小时之后的事。"
+      "zh": ": {i}我真震惊，你记得住那个，却记不住十二小时之后的事。{/i}"
     },
     {
-      "en": ": I forgot, Maya. I got caught up in something else.",
+      "en": ": {i}I forgot, Maya. I got caught up in something else.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我忘了，Maya。我被别的事缠住了。"
+      "zh": ": {i}我忘了，Maya。我被别的事缠住了。{/i}"
     },
     {
-      "en": ": Yes, I realized that after watching you walk away from me without so much as a glance last night. But I suppose this is what I get for extending any amount of kindness to you.",
+      "en": ": {i}Yes, I realized that after watching you walk away from me without so much as a glance last night. But I suppose this is what I get for extending any amount of kindness to you.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 是啊，昨晚看着你头也不回地从我身边走开，我就明白了。不过我想，这就是我对你释放哪怕一丝善意的下场。"
+      "zh": ": {i}是啊，昨晚看着你头也不回地从我身边走开，我就明白了。不过我想，这就是我对你释放哪怕一丝善意的下场。{/i}"
     },
     {
-      "en": ": Texting with you sure is fun. We should do this more often.",
+      "en": ": {i}Texting with you sure is fun. We should do this more often.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 跟你发短信真有意思。我们应该多来几次。"
+      "zh": ": {i}跟你发短信真有意思。我们应该多来几次。{/i}"
     },
     {
-      "en": ": Delete my number and never talk to me again.",
+      "en": ": {i}Delete my number and never talk to me again.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 删了我的号码，永远别再跟我说话。"
+      "zh": ": {i}删了我的号码，永远别再跟我说话。{/i}"
     },
     {
       "en": ""
@@ -141,8 +141,8 @@
       "zh": "但值得欣慰的是，今晚我和她的死对头也做了类似的约定，而如果历史重演（这一带通常都会），下一个被我放鸽子的就是 Noriko。"
     },
     {
-      "en": "And if there is anything I know about Maya, it’s that hurting Noriko will make her happy. I just...still don’t exactly understand why.",
-      "zh": "而如果说我对 Maya 有什么了解的话，那就是——伤 Noriko 的心会让她开心。我只是……还是不太明白为什么。"
+      "en": "And if there is anything I know about Maya, it’s that hurting Noriko will make her happy. I just...still don’t exactly understand {i}why.{/i}",
+      "zh": "而如果说我对 Maya 有什么了解的话，那就是——伤 Noriko 的心会让她开心。我只是……还是不太明白{i}为什么{/i}。"
     },
     {
       "en": ""
@@ -169,10 +169,10 @@
       "en": ""
     },
     {
-      "en": ": I told you Sensei wasn’t dead! He was probably just having a romantic rendezvous with a secret lover of his for hours and hours and hours last night!",
+      "en": ": I {i}told{/i} you Sensei wasn’t dead! He was probably just having a romantic rendezvous with a secret lover of his for hours and hours and hours last night!",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 我就说老师没死！他昨晚大概是跟某个秘密情人浪漫幽会了好几个小时好几个小时好几个小时！"
+      "zh": ": 我{i}就说{/i}老师没死！他昨晚大概是跟某个秘密情人浪漫幽会了好几个小时好几个小时好几个小时！"
     },
     {
       "en": ": Man! I was really bankin’ on him bein’ eaten by bears.",
@@ -232,10 +232,10 @@
       "zh": ": Uta，谢谢你相信我——Miku 和好些人明显都不信。"
     },
     {
-      "en": ": Any time! You’re not off the hook yet, though! Just cause I believed you were alive doesn’t mean I’m not also suspicious of your disappearance. Specially since Makoto and Futaba were gone all night as well.",
+      "en": ": Any time! You’re not off the hook {i}yet,{/i} though! Just cause I believed you were alive doesn’t mean I’m not also suspicious of your disappearance. Specially since Makoto and Futaba were gone all night as well.",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 随时效劳！不过你还没脱身呢！我相信你活着，不代表我就不怀疑你失踪的事。尤其是 Makoto 和 Futaba 也整晚都不在。"
+      "zh": ": 随时效劳！不过你{i}还没{/i}脱身呢！我相信你活着，不代表我就不怀疑你失踪的事。尤其是 Makoto 和 Futaba 也整晚都不在。"
     },
     {
       "en": ""
@@ -296,10 +296,10 @@
       "zh": ": 我不知道你在说什么。"
     },
     {
-      "en": ": You do look kinda like you saw a ghost right now. Not gonna lie.",
+      "en": ": You {i}do{/i} look kinda like you saw a ghost right now. Not gonna lie.",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 说实话，你现在看起来确实像见了鬼一样。"
+      "zh": ": 说实话，你现在看起来{i}确实{/i}像见了鬼一样。"
     },
     {
       "en": ""
@@ -327,10 +327,10 @@
       "zh": ""
     },
     {
-      "en": ": Besides, if any of you were smart enough to check this morning, you would have realized that I did come home last night. I slept in my room and everything.",
+      "en": ": Besides, if any of you were smart enough to check this morning, you would have realized that I {i}did{/i} come home last night. I slept in my room and everything.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 再说，要是你们有谁今早聪明点去查一下，就会发现我昨晚确实回来了。我还睡在自己房间里呢。"
+      "zh": ": 再说，要是你们有谁今早聪明点去查一下，就会发现我昨晚{i}确实{/i}回来了。我还睡在自己房间里呢。"
     },
     {
       "en": ": Hey, I’m smarter than the two of them combined.",
@@ -357,16 +357,16 @@
       "zh": ": 是啊，说得通。"
     },
     {
-      "en": ": Also, if you understood anything about how my stupid brain works, you would realize that coming to your room in the morning is both nerve wracking and terrifying.",
+      "en": ": Also, if you understood anything about how my stupid brain works, you would realize that coming to your room in the {i}morning{/i} is both nerve wracking and terrifying.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 还有，要是你们稍微了解一点我这颗蠢脑袋的运作方式，就会明白大早上跑到你房间去，既让人紧张又让人害怕。"
+      "zh": ": 还有，要是你们稍微了解一点我这颗蠢脑袋的运作方式，就会明白{i}大早上{/i}跑到你房间去，既让人紧张又让人害怕。"
     },
     {
-      "en": ": I have walked in on one utterly disgusting thing during this vacation and was not about to risk the chance of walking in on a second one that would just hurt my feelings as well.",
+      "en": ": I have walked in on one utterly disgusting thing during this vacation and was not about to risk the chance of walking in on a {i}second{/i} one that would just hurt my feelings as well.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 这次度假我已经撞见过一次极其恶心的事了，可不想再冒风险撞见第二次——何况那还会伤到我的感情。"
+      "zh": ": 这次度假我已经撞见过一次极其恶心的事了，可不想再冒风险撞见{i}第二次{/i}——何况那还会伤到我的感情。"
     },
     {
       "en": ": Think Io means she didn’t wanna walk in on you railin’ Imani or something.",
@@ -384,10 +384,10 @@
       "en": ""
     },
     {
-      "en": ": Listen, what I do in my free time is for me to know and all of you to ignore if you don’t want your feelings getting hurt.",
+      "en": ": Listen, what I do in my free time is for me to know and all of {i}you{/i} to ignore if you don’t want your feelings getting hurt.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 听着，我业余时间做什么，我自己知道就好，你们要是不想感情受伤，就当没看见。"
+      "zh": ": 听着，我业余时间做什么，我自己知道就好，{i}你们{/i}要是不想感情受伤，就当没看见。"
     },
     {
       "en": ": But I can guarantee you that whatever it was didn’t involve Makoto or Futaba.",
@@ -411,10 +411,10 @@
       "en": ""
     },
     {
-      "en": ": I don’t believe that at all. But if I try hard enough, I can make myself believe it and continue to live happily inside of my own world where the only person who matters to you is me! And sometimes Uta.",
+      "en": ": I don’t believe that at all. But if I try hard enough, I can {i}make{/i} myself believe it and continue to live happily inside of my own world where the only person who matters to you is me! And sometimes Uta.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 我一个字都不信。不过只要我足够努力，就能让自己相信，然后继续幸福地活在我自己的世界里——在那个世界里，你在乎的人只有我！有时候还有 Uta。"
+      "zh": ": 我一个字都不信。不过只要我足够努力，就能{i}让{/i}自己相信，然后继续幸福地活在我自己的世界里——在那个世界里，你在乎的人只有我！有时候还有 Uta。"
     },
     {
       "en": ": Yay...sometimes Uta...",
@@ -445,8 +445,8 @@
       "zh": ""
     },
     {
-      "en": "Especially since telling them I was with those two girls but that nothing happened would be met with more doubt than just flat out lying.",
-      "zh": "尤其是，跟她们说我跟那两个女孩在一起但什么都没发生，会比干脆撒谎招来更多怀疑。"
+      "en": "Especially since telling them I {i}was{/i} with those two girls but that nothing happened would be met with more doubt than just flat out lying.",
+      "zh": "尤其是，跟她们说我跟那两个女孩{i}在{/i}一起但什么都没发生，会比干脆撒谎招来更多怀疑。"
     },
     {
       "en": ""
@@ -512,10 +512,10 @@
       "zh": ": 老师连 Uta 也不放过？！我是不是得开始列个名单了？！"
     },
     {
-      "en": ": Just win a contest and make me write one. That’s been proven to work and only temporarily harms the recipient.",
+      "en": ": Just win a contest and make me write one. That’s been proven to work and only {i}temporarily{/i} harms the recipient. ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 赢一场比赛，逼我写一份就行了。这招已经验证有效，而且对接受者只有暂时性伤害。"
+      "zh": ": 赢一场比赛，逼我写一份就行了。这招已经验证有效，而且对接受者{i}只有暂时性{/i}伤害。"
     },
     {
       "en": ": Boy, it sure is great being able to ignore everything I don’t like hearing! Looks like my brain’s getting a workout first thing this morning!",
@@ -524,10 +524,10 @@
       "zh": ": 天哪，能把所有不爱听的话都屏蔽掉，可真是太棒了！看来我的大脑一大早就开始做运动了！"
     },
     {
-      "en": ": Fix this.",
+      "en": ": {i}Fix this.{/i}",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 收拾一下。"
+      "zh": ": {i}收拾一下。{/i}"
     },
     {
       "en": ": Fix what?",
@@ -536,10 +536,10 @@
       "zh": ": 收拾什么？"
     },
     {
-      "en": ": You’re making things awkward.",
+      "en": ": {i}You’re making things awkward.{/i}",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 你把气氛搞得很尴尬。"
+      "zh": ": {i}你把气氛搞得很尴尬。{/i}"
     },
     {
       "en": ": I think it’s you who’s makin’ things awkward by whisperin’ so loudly the whole table can hear ya. And sayin’ all that stuff about lovin’ sausage. Course Sensei’s gonna capitalize on that.",
@@ -569,10 +569,10 @@
       "zh": ": 只是，呃……只是想让大家达成共识，别因为你们不了解前因后果，就对可怜又无助的 Uta 酱怀恨在心——"
     },
     {
-      "en": ": The...coming thing was...",
+      "en": ": The...{i}coming{/i} thing was...",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 那个……射的事情是……"
+      "zh": ": 那个……{i}射{/i}的事情是……"
     },
     {
       "en": ": That was a slip of the tongue...",
@@ -683,10 +683,10 @@
       "zh": ": 她不是人人都受得了的。我懂。"
     },
     {
-      "en": ": You and Miku are actually friends now? That’s the least believable part of this timeskip yet.",
+      "en": ": You and Miku are actually {i}friends{/i} now? That’s the least believable part of this timeskip yet.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你和 Miku 现在真的是朋友了？这是这段时光飞逝里最不可置信的部分了。"
+      "zh": ": 你和 Miku 现在真的{i}是朋友{/i}了？这是这段时光飞逝里最不可置信的部分了。"
     },
     {
       "en": ": Timeskip?",
@@ -695,10 +695,10 @@
       "zh": ": 时光飞逝？"
     },
     {
-      "en": ": Doesn’t matter. How did this happen, though? Miku’s one of the loudest- wait.",
+      "en": ": Doesn’t matter. How did {i}this{/i} happen, though? Miku’s one of the loudest- wait. ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不重要。不过这是怎么发生的？Miku 是嗓门最大的那——等等。"
+      "zh": ": 不重要。不过{i}这{/i}是怎么发生的？Miku 是嗓门最大的那——等等。"
     },
     {
       "en": ": You confused her for a boy, didn’t you?",
@@ -728,10 +728,10 @@
       "zh": ": 别担心，Io。我有时也会忘了自己是个女孩。"
     },
     {
-      "en": ": Well, it does help that she’s not annoyingly feminine...",
+      "en": ": Well, it {i}does{/i} help that she’s not annoyingly feminine...",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 嗯，她没有那种烦人的女人味，确实有帮助……"
+      "zh": ": 嗯，她没有那种烦人的女人味，{i}确实{/i}有帮助……"
     },
     {
       "en": ""
@@ -884,10 +884,10 @@
       "en": ""
     },
     {
-      "en": ": Uh-oh. Looks like Sensei’s in trouble now and we should all focus on the things he’s doing wrong instead of me being the Robin Hood of Valium.",
+      "en": ": Uh-oh. Looks like Sensei’s in trouble now and we should all focus on the things {i}he’s{/i} doing wrong instead of me being the Robin Hood of Valium.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 哎哟。看来老师现在有麻烦了，我们都该把注意力放在他做错的事上，而不是我这个\"安定药罗宾汉\"身上。"
+      "zh": ": 哎哟。看来老师现在有麻烦了，我们都该把注意力放在{i}他{/i}做错的事上，而不是我这个\"安定药罗宾汉\"身上。"
     },
     {
       "en": ": What do you think you’re doing disappearing for a whole night without checking in with me?! I was worried sick!",
@@ -896,10 +896,10 @@
       "zh": ": 你一整晚都不见人影，连跟我报个平安都没有，你到底在干什么？！我担心死了！"
     },
     {
-      "en": ": I mean, if you really want to get technical, you took your eyes off of me during Ami time, so this is kind of your-",
+      "en": ": I mean, if you really want to get technical, you took your eyes off of me during Ami time, so this is {i}kind of{/i} your-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我是说，如果你真要较真的话，Ami 时间的时候是你自己把目光从我身上移开的，所以这其实是你的——"
+      "zh": ": 我是说，如果你真要较真的话，Ami 时间的时候是你自己把目光从我身上移开的，所以这{i}其实{/i}是你的——"
     },
     {
       "en": ": Don’t go blaming this on me, Mister! Not after I dragged Ayane and Maya around for hours looking for you in the middle of the night!",
@@ -959,10 +959,10 @@
       "en": ""
     },
     {
-      "en": ": That is an excuse. And it's the same excuse you've given me every time you've come home super late.",
+      "en": ": That {i}is{/i} an excuse. And it's the {i}same{/i} excuse you've given me {i}every time{/i} you've come home super late.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 那就是个借口。而且每次你回家特别晚，你给我的都是同一个借口。"
+      "zh": ": 那{i}就是{/i}个借口。而且{i}每次{/i}你回家特别晚，你给我的都是{i}同一个{/i}借口。"
     },
     {
       "en": ": Yeah, so you should know that there is a precedent for this and that I’m not lying. Case closed.",
@@ -977,10 +977,10 @@
       "zh": ": 我不买账。我判你连续三年的 Ami 时间，一直到你高中毕业……"
     },
     {
-      "en": ": Which will then be followed by the two of us moving to a completely fenced-in facility where you are unable to leave without a passcode that only I have.",
+      "en": ": Which will then be followed by the two of us moving to a completely fenced-in facility where you are unable to leave without a passcode that only {i}I{/i} have. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 之后我们俩搬进一个完全封闭的设施，没有只有我才有的密码，你就出不去。"
+      "zh": ": 之后我们俩搬进一个完全封闭的设施，没有只有{i}我{/i}才有的密码，你就出不去。"
     },
     {
       "en": ": It’s only fair, Sensei.",
@@ -1032,46 +1032,46 @@
       "en": ""
     },
     {
-      "en": ": Die.",
+      "en": ": {i}Die.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 去死。"
+      "zh": ": {i}去死。{/i}"
     },
     {
-      "en": ": Do you really have to be this dramatic?",
+      "en": ": {i}Do you really have to be this dramatic?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你非得这么夸张吗？"
+      "zh": ": {i}你非得这么夸张吗？{/i}"
     },
     {
-      "en": ": Yes.",
+      "en": ": {i}Yes.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 是的。"
+      "zh": ": {i}是的。{/i}"
     },
     {
-      "en": ": Let me make it up to you tonight.",
+      "en": ": {i}Let me make it up to you tonight.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 今晚让我补偿你吧。"
+      "zh": ": {i}今晚让我补偿你吧。{/i}"
     },
     {
-      "en": ": No.",
+      "en": ": {i}No.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 不。"
+      "zh": ": {i}不。{/i}"
     },
     {
-      "en": ": But I need you. Without you, I will simply perish.",
+      "en": ": {i}But I need you. Without you, I will simply perish.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 可我需要你。没有你，我会就此消亡。"
+      "zh": ": {i}可我需要你。没有你，我会就此消亡。{/i}"
     },
     {
-      "en": ": -_-",
+      "en": ": {i}-_-{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": -_-"
+      "zh": ": {i}-_-{/i}"
     },
     {
       "en": ": Who do you think you’re texting while you’re supposed to be talking to me?",
@@ -1192,10 +1192,10 @@
       "zh": ": 对！我知道！你说得够大声够清楚了，你根本不在乎我的感受！你永远都不会用我看你的那种方式看我！"
     },
     {
-      "en": ": But if that’s the case, stop saying things that you know are going to make my heart go crazy! Because there is only so much of it I can take before I break!",
+      "en": ": But if that’s the case, stop saying things that you {i}know{/i} are going to make my heart go crazy! Because there is only so much of it I can take before I break!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 可既然如此，就别再说那些你明知道会让我心跳失控的话了！因为我的承受能力是有限的，总有一天会碎掉！"
+      "zh": ": 可既然如此，就别再说那些你{i}明知{/i}道会让我心跳失控的话了！因为我的承受能力是有限的，总有一天会碎掉！"
     },
     {
       "en": ": Woah.",

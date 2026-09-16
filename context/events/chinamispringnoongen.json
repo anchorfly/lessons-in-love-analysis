@@ -1,6 +1,6 @@
 {
   "label": "chinamispringnoongen",
-  "title_zh": "墙后",
+  "title_zh": "chinamispringnoongen",
   "lines": [
     {
       "en": ""
@@ -88,10 +88,10 @@
       "zh": ": 如果只是我猜的东西，那就不算秘密。我只是不想让 Chika 觉得我在无缘无故吓你。"
     },
     {
-      "en": ": Chinami has other things she's afraid of before monsters. And those things are all inside the wall.",
+      "en": ": Chinami has other things she's afraid of before monsters. And those things are all {i}inside{/i} the wall.",
       "spk": "Chinami",
       "spkColor": "#FF9999",
-      "zh": ": 在怪物之前，Chinami 还有别的害怕的东西。而那些东西全在墙里面。"
+      "zh": ": 在怪物之前，Chinami 还有别的害怕的东西。而那些东西全在墙{i}里面{/i}。"
     },
     {
       "en": ": ...",
@@ -127,10 +127,10 @@
       "zh": ": 行……"
     },
     {
-      "en": ": What do you think is behind behind the wall?",
+      "en": ": What do you think is {i}behind{/i} behind the wall?",
       "spk": "Chinami",
       "spkColor": "#FF9999",
-      "zh": ": 你觉得「后面的后面」是什么？"
+      "zh": ": 你觉得「{i}后面{/i}的后面」是什么？"
     },
     {
       "en": ": Like-",
@@ -185,8 +185,8 @@
       "en": ""
     },
     {
-      "en": "Chinami’s affection has increased to [chinami_love]!",
-      "zh": "Chinami 的好感度提升到了 [chinami_love]！"
+      "en": "{i}Chinami’s affection has increased to [chinami_love]!{/i}",
+      "zh": "{i}Chinami 的好感度提升到了 [chinami_love]！{/i}"
     },
     {
       "en": ".........",

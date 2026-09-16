@@ -1,6 +1,6 @@
 {
   "label": "tsubasaspring6",
-  "title_zh": "当我们死而复醒时",
+  "title_zh": "当我们死人醒来时",
   "lines": [
     {
       "en": ""
@@ -26,8 +26,8 @@
       "zh": "Kumon-mi 商场的内部,正在发生着什么。"
     },
     {
-      "en": "They say it’s “renovations.” But if you check online, they don’t ever tell you what they’re renovating. And that makes me immensely distrustful.",
-      "zh": "他们说是「装修」。可上网一查,他们从不告诉你装修的是什么。这让我极其不信任。"
+      "en": "They say it’s “renovations.” But if you check online, they don’t ever tell you what they’re {i}renovating.{/i} And that makes me immensely distrustful. ",
+      "zh": "他们说是「装修」。可上网一查,他们从不告诉你{i}装修的{/i}是什么。这让我极其不信任。"
     },
     {
       "en": "Other things that make me immensely distrustful are the virality of fake animal rescue videos, pricing that ends with .99, and the unfortunate fact that I am always being lied to.",
@@ -68,10 +68,10 @@
       "en": ""
     },
     {
-      "en": ": This was a fuckin’ horrible idea, Nee-sama!",
+      "en": ": {i}This was a fuckin’ horrible idea, Nee-sama!{/i} ",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 这真是个糟透的馊主意,Nee-sama!"
+      "zh": ": {i}这真是个糟透的馊主意,Nee-sama!{/i}"
     },
     {
       "en": ""
@@ -90,10 +90,10 @@
       "zh": ": 我猜是因为价格标签?那个不必担心。你想要什么,都算我的。"
     },
     {
-      "en": ": Not because of the fuckin’ price tag! Because I look like a god damn Barbie and the only experience I have with those is rippin’ their heads off and setting ‘em on fire!",
+      "en": ": {i}Not because of the fuckin’ price tag! Because I look like a god damn Barbie and the only experience I have with those is rippin’ their heads off and setting ‘em on fire!{/i}",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 不是因为那个该死的价格标签!是因为我看起来像个天杀的芭比,而我对芭比的唯一经验,就是把她们的头拧下来放火烧!"
+      "zh": ": {i}不是因为那个该死的价格标签!是因为我看起来像个天杀的芭比,而我对芭比的唯一经验,就是把她们的头拧下来放火烧!{/i}"
     },
     {
       "en": ""
@@ -111,16 +111,16 @@
       "en": ""
     },
     {
-      "en": ": Why do all poor people seem to have the most morbid ideas of how to have fun? I don’t even want to think of what you’d have done to that poor doll’s dream house.",
+      "en": ": Why do all poor people seem to have the most {i}morbid{/i} ideas of how to have fun? I don’t even want to think of what you’d have done to that poor doll’s dream house.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 为什么穷人娱乐起来的点子都最病态?我都不愿去想你原本会对那个可怜娃娃的梦想小屋干什么。"
+      "zh": ": 为什么穷人娱乐起来的点子都最{i}病态{/i}?我都不愿去想你原本会对那个可怜娃娃的梦想小屋干什么。"
     },
     {
-      "en": ": That shit was for rich kids. But I’d have probably set that on fire too.",
+      "en": ": {i}That shit was for rich kids. But I’d have probably set that on fire too.{/i}",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 那玩意是给富家小孩玩的。不过我多半也会把它点了。"
+      "zh": ": {i}那玩意是给富家小孩玩的。不过我多半也会把它点了。{/i}"
     },
     {
       "en": ": I’m sure you look fine, Yuki. Just open the curtain if you’re unsure and I’ll gladly weigh in. No one else is here if you’re worried about being seen.",
@@ -129,10 +129,10 @@
       "zh": ": 我确信你看起来很好,Yuki。拿不准的话就拉开帘子,我很乐意品评。若你担心被人看见,这里没有别人。"
     },
     {
-      "en": ": I am worried about being seen, but only cause I ain’t ever gonna be able to live this down.",
+      "en": ": {i}I am worried about being seen, but only cause I ain’t ever gonna be able to live this down.{/i}",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 我是担心被人看见,但只因为这辈子我都别想从这件事里翻篇了。"
+      "zh": ": {i}我是担心被人看见,但只因为这辈子我都别想从这件事里翻篇了。{/i}"
     },
     {
       "en": ": You’re only saying that because you have no confidence, darling. I’m sure you’re stunning. Now, go on — peel back the curtain. Show me the dress.",
@@ -141,10 +141,10 @@
       "zh": ": 你这么说只是因为没有自信,亲爱的。我确信你惊艳绝伦。来吧——拉开帘子。给我看看那条裙子。"
     },
     {
-      "en": ": Ugh. Fine.",
+      "en": ": {i}Ugh. Fine.{/i}",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 唉。行吧。"
+      "zh": ": {i}唉。行吧。{/i}"
     },
     {
       "en": ""
@@ -225,10 +225,10 @@
       "en": ""
     },
     {
-      "en": ": HA!",
+      "en": ": {b}{size=+20}HA!{/b}{/size}",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 哈!"
+      "zh": ": {b}{size=+20}哈!{/size}{/b}"
     },
     {
       "en": ": Okay. Fun’s over. I’m puttin’ real clothes back on.",
@@ -243,10 +243,10 @@
       "zh": ": 你看起来像 John Hughes 电影里翻车的变装桥段!或者像你一头栽进了比佛利山庄慈善二手店的廉价箱!我爱死了!回来!我需要拍照!"
     },
     {
-      "en": ": You’re lucky I’m dying! I’d never let anybody fuck with me like this under normal circumstances!",
+      "en": ": {i}You’re lucky I’m dying! I’d never let anybody fuck with me like this under normal circumstances!{/i}",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 算你走运,我正在死!正常情况下,我绝不会让任何人这样耍我!"
+      "zh": ": {i}算你走运,我正在死!正常情况下,我绝不会让任何人这样耍我!{/i}"
     },
     {
       "en": ""
@@ -264,22 +264,22 @@
       "en": ""
     },
     {
-      "en": ": Oh, can it. If I wanted to “fuck” with you, I’d parade you around town wearing that. If anything, you’re lucky that I want this moment all to myself.",
+      "en": ": Oh, can it. If I wanted to “fuck” with you, I’d parade you around town wearing that. If anything, {i}you’re{/i} lucky that I want this moment all to myself.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 哦,闭嘴吧。我要是真想「耍」你,就让你穿着这身游街了。要说走运,是我想把这时刻独享,你才走运。"
+      "zh": ": 哦,闭嘴吧。我要是真想「耍」你,就让你穿着这身游街了。要说走运,是我想把这时刻独享,{i}你{/i}才走运。"
     },
     {
-      "en": ": Yeah. Real lucky you get to burn that image into your mind while I try to figure out how to take this damn thing off. Look like a goddamn bride right now.",
+      "en": ": {i}Yeah. Real lucky you get to burn that image into your mind while I try to figure out how to take this damn thing off. Look like a goddamn bride right now.{/i}",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 是啊。真走运,你能把那画面烧进脑子,而我还在研究怎么脱掉这该死的东西。我现在像个天杀的新娘。"
+      "zh": ": {i}是啊。真走运,你能把那画面烧进脑子,而我还在研究怎么脱掉这该死的东西。我现在像个天杀的新娘。{/i}"
     },
     {
-      "en": ": Savor it while you can, then. It’s not like you’ll ever get married, so you may want to burn this image into your memory as well.",
+      "en": ": Savor it while you can, then. It’s not like {i}you’ll{/i} ever get married, so you may want to burn this image into your memory as well.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 那就趁能回味时多回味。反正你这辈子也结不成婚,或许你也该把这个画面烧进记忆。"
+      "zh": ": 那就趁能回味时多回味。反正{i}你{/i}这辈子也结不成婚,或许你也该把这个画面烧进记忆。"
     },
     {
       "en": ": I AM married!",
@@ -294,10 +294,10 @@
       "zh": ": 我说的是嫁给一个真正的男人——而不是那种老婆被一群亲信糟蹋时袖手旁观的货色。那群亲信后来有没有被我阉了,我就不好说了。"
     },
     {
-      "en": ": You did what?",
+      "en": ": {i}You did what?{/i}",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 你干了什么?"
+      "zh": ": {i}你干了什么?{/i}"
     },
     {
       "en": ": Hm? I didn’t say anything.",
@@ -339,10 +339,10 @@
       "zh": ": 行,我猜可以。只是那样显得你很糟糕,毕竟你磨磨蹭蹭才找到我。"
     },
     {
-      "en": ": Mmm, and whose fault is it that I needed to find you in the first place? Hmm?",
+      "en": ": Mmm, and whose fault is it that I needed to {i}find{/i} you in the first place? Hmm?",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 唔,那我一开始需要找你,又是谁的错呢?嗯?"
+      "zh": ": 唔,那我一开始需要{i}找{/i}你,又是谁的错呢?嗯?"
     },
     {
       "en": ""
@@ -372,10 +372,10 @@
       "zh": ": 这就好?可我们还没做美甲呢。"
     },
     {
-      "en": ": By who? You took me to a fuckin’ mall without any people in it. I don’t know how to paint my own nails.",
+      "en": ": By {i}who?{/i} You took me to a fuckin’ mall without any people in it. I don’t know how to paint my own nails.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 谁来做?你带我来的可是个他妈的空无一人的商场。我自己不会涂指甲。"
+      "zh": ": {i}谁来做?{/i}你带我来的可是个他妈的空无一人的商场。我自己不会涂指甲。"
     },
     {
       "en": ": Even better! I’ll do them for you! Here-",
@@ -423,10 +423,10 @@
       "zh": ": 我发誓,Yuki——你反抗我时,可比你被轮暴时卖力多了。"
     },
     {
-      "en": ": I am in much better shape now. You try puttin’ up a fight when the only things you’ve put in your body for a week straight are drugs and alcohol.",
+      "en": ": I am in much better shape now. {i}You{/i} try puttin’ up a fight when the only things you’ve put in your body for a week straight are drugs and alcohol. ",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 我现在状态好多了。你要是整整一周往身体里塞的只有毒品和酒精,你试试还能不能反抗。"
+      "zh": ": 我现在状态好多了。{i}你{/i}要是整整一周往身体里塞的只有毒品和酒精,你试试还能不能反抗。"
     },
     {
       "en": ": Impossible. I know better than to treat my body in such a way. And you would too if you were not such a brat all the time.",
@@ -462,10 +462,10 @@
       "zh": ": 实际上,叫我那玩意的人,本来就没有,我想。"
     },
     {
-      "en": ": Good. Only I should be able to say mean things to you without being punished. This is my privilege as the most powerful woman in Kumon-mi.",
+      "en": ": Good. Only {i}I{/i} should be able to say mean things to you without being punished. This is my privilege as the most powerful woman in Kumon-mi.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 很好。只有我应该说你的坏话而不受惩罚。这是身为 Kumon-mi 最有权势的女人的特权。"
+      "zh": ": 很好。只有{i}我{/i}应该说你的坏话而不受惩罚。这是身为 Kumon-mi 最有权势的女人的特权。"
     },
     {
       "en": ""
@@ -483,22 +483,22 @@
       "en": ""
     },
     {
-      "en": ": Oh, fuck off. Same shit was true before you even were the most powerful woman in Kumon-mi. You just enjoy makin’ my life difficult.",
+      "en": ": Oh, fuck off. Same shit was true before you even {i}were{/i} the most powerful woman in Kumon-mi. You just enjoy makin’ my life difficult.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 哦,去你的。你还没当上 Kumon-mi 最有权势的女人之前就这样了。你就是喜欢把我的日子搅难。"
+      "zh": ": 哦,去你的。你还没{i}当上{/i} Kumon-mi 最有权势的女人之前就这样了。你就是喜欢把我的日子搅难。"
     },
     {
-      "en": ": Yes, but now I can make it even more difficult because I currently am the most powerful woman in Kumon-mi.",
+      "en": ": Yes, but now I can make it even {i}more{/i} difficult because I currently {i}am{/i} the most powerful woman in Kumon-mi. ",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 是,但现在我能搅得更难,因为我如今正是 Kumon-mi 最有权势的女人。"
+      "zh": ": 是,但现在我能搅得{i}更难{/i},因为我如今{i}正是{/i} Kumon-mi 最有权势的女人。"
     },
     {
-      "en": ": Do you have any idea how easy it would be for me to have you locked up and forced to play dress-up with me forever?",
+      "en": ": Do you have any idea how easy it would be for me to have you locked up and forced to play dress-up with me {i}forever?{/i} ",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 你知不知道,要我把你关起来、逼你永远陪我看换装,有多容易?"
+      "zh": ": 你知不知道,要我把你关起来、逼你{i}永远{/i}陪我看换装,有多容易?"
     },
     {
       "en": ""
@@ -528,10 +528,10 @@
       "zh": ": 和上次同样的理由。林中之鸟,从不想要笼子。"
     },
     {
-      "en": ": What, you gonna get all poetic on me now? You know I ain’t good at that shit.",
+      "en": ": What, you gonna get all {i}poetic{/i} on me now? You know I ain’t good at that shit.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 怎么,你现在要对我抒情了?你知道我不擅长那套玩意。"
+      "zh": ": 怎么,你现在要对我{i}抒情{/i}了?你知道我不擅长那套玩意。"
     },
     {
       "en": ": I’m just saying — it’s your freedom that’s always made you so beautiful. Taking that away would be a sin that not even God can forgive.",
@@ -540,10 +540,10 @@
       "zh": ": 我只是说——正是你的自由,让你一直如此美丽。夺走它,是连神都无法原谅的罪。"
     },
     {
-      "en": ": You know I ain’t about that God shit either, Nee-sama.",
+      "en": ": You know I ain’t about that {i}God{/i} shit either, Nee-sama.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 你知道我也不吃那套神明玩意,Nee-sama。"
+      "zh": ": 你知道我也不吃那套{i}神明{/i}玩意,Nee-sama。"
     },
     {
       "en": ": Mm.",
@@ -671,16 +671,16 @@
       "zh": ": 你是认真的?在那座公馆里困了太久,连自己老家在哪都忘了?"
     },
     {
-      "en": ": I’m not stuck there. I’m a willing participant of my own seclusion. It makes moments like this all the more special.",
+      "en": ": I’m not {i}stuck{/i} there. I’m a willing participant of my own seclusion. It makes moments like this all the more special.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 我没有被困在那里。我是自愿幽居的参与者。这让这样的时刻更加特别。"
+      "zh": ": 我没有{i}被困{/i}在那里。我是自愿幽居的参与者。这让这样的时刻更加特别。"
     },
     {
-      "en": ": You sure you ain’t just brainwashed? I’ve heard money changes people, you know.",
+      "en": ": You sure you ain’t just brainwashed? I’ve heard money {i}changes{/i} people, you know.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 你确定你不只是被洗脑了?我听说钱会改变人,你知道吗。"
+      "zh": ": 你确定你不只是被洗脑了?我听说钱会{i}改变{/i}人,你知道吗。"
     },
     {
       "en": ""
@@ -698,10 +698,10 @@
       "en": ""
     },
     {
-      "en": ": Does it? Do I seem all that different to you then, Yuki?",
+      "en": ": Does it? Do I seem all that {i}different{/i} to you then, Yuki?",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 是吗?那在你眼里,我看起来有那么不同吗,Yuki?"
+      "zh": ": 是吗?那在你眼里,我看起来有那么{i}不同{/i}吗,Yuki?"
     },
     {
       "en": ": Nah. Still a pain in the ass. Still holdin’ on just as tight as ever.",
@@ -791,10 +791,10 @@
       "en": ""
     },
     {
-      "en": ": I knew it! I always knew you’d hold me ransom one day! Whatever you’re being offered, I’ll pay you double! Or...how...how much are you being offered exactly?",
+      "en": ": I knew it! I {i}always{/i} knew you’d hold me ransom one day! Whatever you’re being offered, I’ll pay you double! Or...how...how much are you being offered exactly?",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 我就知道!我一直知道你总有一天会挟持我!不管他们给你多少,我出双倍!或者……你……他们到底给你开价多少?"
+      "zh": ": 我就知道!我{i}一直{/i}知道你总有一天会挟持我!不管他们给你多少,我出双倍!或者……你……他们到底给你开价多少?"
     },
     {
       "en": ": Nadda.",
@@ -803,10 +803,10 @@
       "zh": ": 一分没有。"
     },
     {
-      "en": ": You’re doing it for free?! You delinquents are so dumb sometimes! You could make so much money off of me!",
+      "en": ": You’re doing it for free?! You delinquents are so {i}dumb{/i} sometimes! You could make so much money off of me!",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 你白干?!你们不良少年有时候真是蠢!从我身上你能赚多少钱啊!"
+      "zh": ": 你白干?!你们不良少年有时候真是{i}蠢{/i}!从我身上你能赚多少钱啊!"
     },
     {
       "en": ": Sounds kinda like you’re tryin’ to talk me into it.",
@@ -830,10 +830,10 @@
       "en": ""
     },
     {
-      "en": ": I’m just saying — if you’re going to kidnap someone, the least you can do is try to profit off of it. This is why I’m rich and you’re not.",
+      "en": ": I’m just saying — if you’re going to kidnap someone, the least you can do is try to profit off of it. This is why {i}I’m{/i} rich and {i}you’re{/i} not.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 我只是说——既然要绑架,至少也该试着从中获利。这就是为什么我有钱而你没有。"
+      "zh": ": 我只是说——既然要绑架,至少也该试着从中获利。这就是为什么{i}我{/i}有钱而{i}你{/i}没有。"
     },
     {
       "en": ": If I wanted to kidnap you, I’d have done it already. We’re just goin’ to the lake instead. Fewer people. Less of a chance that we’ll be caught. Figured you’d like that.",
@@ -902,10 +902,10 @@
       "zh": ": 你真打算让我坐在岸上,看一群不良少年在垃圾成堆的湖里裸泳?"
     },
     {
-      "en": ": Course not. I’d have you join us in that garbage-infested lake. You’re the one who’s being a priss about it.",
+      "en": ": Course not. {i}I’d{/i} have you {i}join{/i} us in that garbage-infested lake. {i}You’re{/i} the one who’s being a priss about it.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 当然不会。我会让你和我们一起跳进那个垃圾湖。矫情的可是你。"
+      "zh": ": 当然不会。{i}我会{/i}让你{i}和我们一起{/i}跳进那个垃圾湖。矫情的可是{i}你{/i}。"
     },
     {
       "en": ": But what happens if something gross touches my leg?",
@@ -914,10 +914,10 @@
       "zh": ": 可要是有恶心的东西碰到我的腿怎么办?"
     },
     {
-      "en": ": Then something gross touches your leg. The fuck you want me to do about it?",
+      "en": ": Then something gross touches your leg. The fuck you want {i}me{/i} to do about it?",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 那就是有恶心的东西碰到了你的腿。你要我怎么办?"
+      "zh": ": 那就是有恶心的东西碰到了你的腿。你要{i}我{/i}怎么办?"
     },
     {
       "en": ""
@@ -1028,10 +1028,10 @@
       "zh": ": 现实世界就是这规矩。至少大部分时候是。你们生下来是含银汤匙的,我们生下来是擦汤匙的。"
     },
     {
-      "en": ": Ain’t really a bad thing, though. I like livin’ this way. Havin’ nobody who expects anything from me and nobody who feels like they’ve gotta look for me when I go missing.",
+      "en": ": Ain’t really a bad thing, though. I like livin’ this way. Havin’ nobody who expects anything from me and nobody who feels like they’ve gotta {i}look{/i} for me when I go missing.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 不过这也不算坏事。我喜欢这么活。没人对我有所期待,我失踪了也没人觉得非找我不可。"
+      "zh": ": 不过这也不算坏事。我喜欢这么活。没人对我有所期待,我失踪了也没人觉得非{i}找{/i}我不可。"
     },
     {
       "en": ": Just different worlds we’ve got. And if you really wanna see mine, you’re gonna have to be a little more open. Capiche?",
@@ -1106,10 +1106,10 @@
       "en": ""
     },
     {
-      "en": ": It means, like...fine. Or okay. I was submitting to your demands and agreeing to get naked and jump into a lake with you and all of your delinquent friends.",
+      "en": ": It means, like...{i}fine.{/i} Or {i}okay.{/i} I was submitting to your demands and agreeing to get naked and jump into a lake with you and all of your delinquent friends.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 意思是……好吧。或者行。我刚才是在屈从你的要求,答应和你以及你所有的不良朋友脱光跳进湖里。"
+      "zh": ": 意思是……{i}好吧{/i}。或者{i}行{/i}。我刚才是在屈从你的要求,答应和你以及你所有的不良朋友脱光跳进湖里。"
     },
     {
       "en": ""
@@ -1151,10 +1151,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": I don’t mind if you see me.",
+      "en": ": {size=-10}I don’t mind if {i}you{/i} see me.{/size}",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 你看我的话,我不介意。"
+      "zh": ": {size=-10}{i}你{/i}看我的话,我不介意。{/size}"
     },
     {
       "en": ""
@@ -1199,10 +1199,10 @@
       "en": ""
     },
     {
-      "en": ": Just as warm as I remember...",
+      "en": ": {size=-10}Just as warm as I remember...{/size}",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 和记忆中一样温暖……"
+      "zh": ": {size=-10}和记忆中一样温暖……{/size}"
     },
     {
       "en": ": You say something back there? Couldn’t hear you over the-",
@@ -1298,10 +1298,10 @@
       "en": ""
     },
     {
-      "en": ": You good back there? Seem a little...quieter all of a sudden.",
+      "en": ": You good back there? Seem a little...{i}quieter{/i} all of a sudden.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 你后座还好吗?你忽然……安静了点。"
+      "zh": ": 你后座还好吗?你忽然……{i}安静了点{/i}。"
     },
     {
       "en": ": Just a little nostalgic is all. I missed this.",
@@ -1325,28 +1325,28 @@
       "en": ""
     },
     {
-      "en": ": Yeah — cause gettin’ dragged around by some delinquent on a bike was way better than whatever the fuck you were doin’ in your ivory tower.",
+      "en": ": Yeah — cause gettin’ dragged around by some delinquent on a bike was {i}way{/i} better than whatever the fuck you were doin’ in your ivory tower.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 是啊——被某个不良少年骑着摩托拖来拖去,可比你他妈在象牙塔里干的那些事好多了。"
+      "zh": ": 是啊——被某个不良少年骑着摩托拖来拖去,可比你他妈在象牙塔里干的那些事{i}好多了{/i}。"
     },
     {
-      "en": ": Would you have been happy if you were stuck in that tower with me, Yuki?",
+      "en": ": Would {i}you{/i} have been happy if you were stuck in that tower with me, Yuki?",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 如果被和我一起困在那座塔里,你会开心吗,Yuki?"
+      "zh": ": 如果被和我一起困在那座塔里,{i}你{/i}会开心吗,Yuki?"
     },
     {
-      "en": ": I am now. And it ain’t been that bad so far. Not a fan of that fancy shit you keep making me eat, though. Not sure how you do it.",
+      "en": ": I am {i}now.{/i} And it ain’t been that bad so far. Not a fan of that fancy shit you keep making me eat, though. Not sure how you do it.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 我现在就很开心。而且到目前为止也没那么糟。不过我讨厌你老是让我吃的那些高级玩意。真不知道你怎么吃下去的。"
+      "zh": ": 我{i}现在{/i}就很开心。而且到目前为止也没那么糟。不过我讨厌你老是让我吃的那些高级玩意。真不知道你怎么吃下去的。"
     },
     {
-      "en": ": Then why don’t we stop somewhere cheap for dinner so you’re not forced to eat anything fancy again?",
+      "en": ": Then why don’t we stop somewhere {i}cheap{/i} for dinner so you’re not {i}forced{/i} to eat anything fancy again?",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 那我们晚饭找个便宜地方停一停,免得你又被逼着吃高级东西?"
+      "zh": ": 那我们晚饭找个{i}便宜{/i}地方停一停,免得你又{i}被逼着{/i}吃高级东西?"
     },
     {
       "en": ": Now you’re speakin’ my language. Have anythin’ in mind?",
@@ -1394,10 +1394,10 @@
       "zh": ": 那是一道墨西哥菜,它——"
     },
     {
-      "en": ": I know what a fuckin’ taco is, Nee-sama. Just wasn’t expectin’ to hear that from a princess like you.",
+      "en": ": I know what a fuckin’ {i}taco{/i} is, Nee-sama. Just wasn’t expectin’ to hear that from a princess like you.",
       "spk": "Yuki",
       "spkColor": "#CDCDCD",
-      "zh": ": 我他妈知道 taco 是什么,Nee-sama。只是没想到会从一个大小姐嘴里听到这个。"
+      "zh": ": 我他妈知道 {i}taco{/i} 是什么,Nee-sama。只是没想到会从一个大小姐嘴里听到这个。"
     },
     {
       "en": ": Oh, splendid! Then, take us to the subway. I know a place where we can get them.",
@@ -1424,10 +1424,10 @@
       "zh": ": 嘿。跟你打交道,什么事都他妈得是交易。抓稳了,好吗?"
     },
     {
-      "en": ": This is why I’m rich and you’re- ahh! Yuki?!?! This speed...can’t be legal!",
+      "en": ": This is why {i}I’m{/i} rich and {i}you’re-{/i} ahh! Yuki?!?! This speed...can’t be legal!",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 这就是为什么我有钱而你——啊!Yuki?!?!这个速度……不合法吧!"
+      "zh": ": 这就是为什么{i}我{/i}有钱而{i}你{/i}——啊!Yuki?!?!这个速度……不合法吧!"
     },
     {
       "en": ": It’s not! But it’s fun as hell, ain’t it?!",

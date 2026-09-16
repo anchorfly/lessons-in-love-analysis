@@ -1,6 +1,6 @@
 {
   "label": "beachfive8",
-  "title_zh": "",
+  "title_zh": "破损的家具",
   "lines": [
     {
       "en": ""
@@ -10,8 +10,8 @@
       "zh": ""
     },
     {
-      "en": "Meanwhile...",
-      "zh": ""
+      "en": "{i}Meanwhile...{/i}",
+      "zh": "{i}与此同时……{/i}"
     },
     {
       "en": ""
@@ -29,10 +29,10 @@
       "en": ""
     },
     {
-      "en": ": TSA guidelines now prohibit Go-Gurt on airplanes...",
+      "en": ": TSA guidelines now prohibit {i}Go-Gurt{/i} on airplanes...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": TSA 的新规定现在禁止把 {i}Go-Gurt{/i} 带上飞机……"
     },
     {
       "en": ""
@@ -53,25 +53,25 @@
       "en": ": What’s Go-Gurt?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": Go-Gurt 是什么？"
     },
     {
       "en": ": It’s like a...tube of yogurt. For people who want to eat yogurt on the go.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 就是……一管酸奶。给那些想边走边吃酸奶的人准备的。"
     },
     {
       "en": ": Are there actually people like that?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 真有这种人吗？"
     },
     {
       "en": ": There won’t be for long if the TSA has anything to do with it.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 只要 TSA 说了算，这种人就不会太多了。"
     },
     {
       "en": ""
@@ -92,19 +92,19 @@
       "en": ": Okay. Well...I guess that one wins then?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 好吧。那……我猜这一张赢了？"
     },
     {
       "en": ": It’s not like there are any other options to choose from. Playing this game with two people doesn’t really work well, does it?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 反正也没别的选择。这个游戏两个人玩实在玩不起来，是吧？"
     },
     {
       "en": ": No...but at least we’ll both win?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 是啊……不过至少我们俩都会赢？"
     },
     {
       "en": ""
@@ -125,13 +125,13 @@
       "en": ": Is there anything you want to do instead, Ami? Maybe we could watch a movie or something? I brought a few of my old concert DVDs as well since I know you’ve been wanting to see them.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你想做点别的吗，Ami？要不我们看个电影什么的？我还带了几张以前的演唱会 DVD，我知道你一直想看。"
     },
     {
       "en": ": I’m fine with anything, really. Just being here with you makes me happy.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我什么都行，真的。光是能和你待在一起我就很开心了。"
     },
     {
       "en": ""
@@ -152,13 +152,13 @@
       "en": ": Didn’t I tell you to stop saying things like that when the two of us are practically family already?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我不是说过别再说这种话了吗，我们俩几乎已经是一家人了。"
     },
     {
-      "en": ": Yeah. But I’m actually family with Dad and I still say stuff like that to him all the time. Why should I not be happy to spend time with the people I love?",
+      "en": ": Yeah. But I’m {i}actually{/i} family with Dad and I still say stuff like that to him all the time. Why should I not be happy to spend time with the people I love?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 是啊。可我跟爸爸才是{i}真的{/i}一家人，我也照样老对他说这种话。能和我爱的人待在一起，我为什么不该开心？"
     },
     {
       "en": ""
@@ -176,40 +176,40 @@
       "en": ""
     },
     {
-      "en": ": F...Fair enough. I just wasn’t sure if you were saying that because I’m your favorite idol or because you actually like me, you know.",
+      "en": ": F...Fair enough. I just wasn’t sure if you were saying that because I’m your favorite idol or because you actually like {i}me,{/i} you know.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 也……也有道理。我只是不确定你说这话，是因为我是你最喜欢的偶像，还是因为你真的喜欢{i}我{/i}这个人，你懂吧。"
     },
     {
-      "en": ": Of course I like you, Niki. You’ve been so nice to me lately...always coming over to check in on me. Taking care of me while Dad is gone.",
+      "en": ": Of course I like {i}you,{/i} Niki. You’ve been so nice to me lately...always coming over to check in on me. Taking care of me while Dad is gone.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我当然喜欢{i}你{/i}这个人啊，Niki。你最近对我特别好……老是过来看我。爸爸不在的时候照顾我。"
     },
     {
-      "en": ": Though, I’m not really sure why I need to be taken care of in the first place when I’ve more than proven that I can take care of both myself and someone else.",
+      "en": ": Though, I’m not really sure why I need to be taken care of in the first place when I’ve more than proven that I can take care of both myself {i}and{/i} someone else.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 不过我其实不太明白我有什么好被照顾的，我早就证明了自己能照顾好自己，{i}还{/i}能再照顾一个人。"
     },
     {
       "en": ": When I’m not busy accidentally stabbing them, at least.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 至少在我没不小心捅到对方的时候是这样。"
     },
     {
       "en": ": I think it’s less “taking care of you” and more just “keeping you company” so you don’t get bored while all of your friends are at the beach.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我觉得与其说是「照顾你」，不如说是「陪着你」，好让你的朋友们都去海边的时候你不至于无聊。"
     },
     {
       "en": ": They’re not really my friends anymore.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 他们已经不算是我朋友了。"
     },
     {
       "en": ""
@@ -230,19 +230,19 @@
       "en": ": Ami, that’s not-",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": Ami，那不是——"
     },
     {
       "en": ": Yeah it is. The only ones who have bothered checking in on me this whole time have been Ayane and Maya. Even the other girls at the maid cafe have been kind of weird to me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 就是。这段时间里唯一还愿意来看我的只有 Ayane 和 Maya。连女仆咖啡店的其他姑娘对我都有点怪怪的。"
     },
     {
-      "en": ": Which is fair. I did threaten to dismember them and all. But it’s okay. Really. I don’t need that many friends. Just my family and the other members of the Love Squad are enough for me.",
+      "en": ": Which is fair. I {i}did{/i} threaten to dismember them and all. But it’s okay. Really. I don’t need that many friends. Just my family and the other members of the Love Squad are enough for me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 这也怪不得她们。我{i}确实{/i}威胁过要把她们大卸八块什么的。但没关系。真的。我不需要那么多朋友。有我的家人，再加上恋爱小队的其他成员，对我来说就够了。"
     },
     {
       "en": ""
@@ -263,37 +263,37 @@
       "en": ": Love Squad?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 恋爱小队？"
     },
     {
       "en": ": That’s the name me and Ayane gave our group of friends since we all love Dad and will do anything he asks of us. Maya hasn’t accepted she’s a member, but we all know she is.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 那是我和 Ayane 给我们这个小团体起的名字，因为我们都爱爸爸，愿意为他做任何事。Maya 还不肯承认自己是成员，但我们都知道她是。"
     },
     {
       "en": ": It’s kind of annoying, really.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 说实话有点烦人。"
     },
     {
       "en": ": So Noriko and I aren’t in the Love Squad? How’s that fair? I’ve loved Akira even longer than you have if you want to get technical about it.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 所以我和 Noriko 不在恋爱小队里？这多不公平？要真较真的话，我爱 Akira 的时间比你还长呢。"
     },
     {
-      "en": ": That’s true. But you only just came back into his life a little while ago. So you weren’t around when the group was formed.",
+      "en": ": That’s true. But you only {i}just{/i} came back into his life a little while ago. So you weren’t around when the group was formed.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 没错。可你前不久{i}才刚{/i}回到他的生活里。所以小队成立的时候你不在。"
     },
     {
       "en": ": Also, Ami. It’s not really healthy to say things like “we’d do anything he asks of us.” He’s your Dad-slash-uncle, not your boyfriend.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 还有，Ami。说「我们愿意为他做任何事」这种话不太健康。他是你爸爸兼叔叔，不是你男朋友。"
     },
     {
       "en": ""
@@ -314,13 +314,13 @@
       "en": ": Ooooh, did I make you jealous just now? Is my love for my dad so strong that even his childhood friend is envious of it?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 哦哦哦，我刚才是让你吃醋了吗？我对爸爸的爱竟然强烈到连他儿时的朋友都嫉妒了？"
     },
     {
       "en": ": Of course not. I just don’t want you thinking your entire life revolves around him when you’re going to grow up and fall in love with someone else one day.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 当然不是。我只是不想让你觉得你整个人生都得围着他转，你总有一天会长大，会爱上别人的。"
     },
     {
       "en": ""
@@ -341,49 +341,49 @@
       "en": ": Pass!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 弃权！"
     },
     {
       "en": ": Pass?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 弃权？"
     },
     {
       "en": ": Yeah. I’m never going to fall in love with anyone else. I’m not interested in that.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 对。我这辈子都不会爱上别人。我对那个没兴趣。"
     },
     {
-      "en": ": I mean...you say that now. But you never know what will happen in the future and-",
+      "en": ": I mean...you say that {i}now.{/i} But you never know what will happen in the future and-",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我是说……你{i}现在{/i}是这么说。但谁也不知道将来会发生什么——"
     },
     {
-      "en": ": Sure. But you never fell for anyone else, did you? What makes you think that I’m any different?",
+      "en": ": Sure. But {i}you{/i} never fell for anyone else, did you? What makes you think that I’m any different?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 好吧。可{i}你{/i}不也从没爱上过别人吗？你凭什么觉得我就跟你不一样？"
     },
     {
       "en": ": Probably the part where I’ve just been hopelessly in love with Akira for my entire life and that I’d never be able to break free even if I wanted to.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 大概因为我这辈子都在无可救药地爱着 Akira，就算想挣脱也挣不脱。"
     },
     {
       "en": ": Yeah. And it’s the same for me. I’m just also related to him.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 对啊。我也一样。只不过我还跟他有血缘关系。"
     },
     {
       "en": ": Which would make a relationship with him even more illegal than it already is.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 而这只会让你和他在一起这件事，比本来就已经够违法的程度更违法。"
     },
     {
       "en": ""
@@ -404,19 +404,19 @@
       "en": ": Some laws are meant to be broken.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 有些法律生来就是用来打破的。"
     },
     {
       "en": ": ...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": "..."
     },
     {
-      "en": ": Ami, why do you look at him like that?",
+      "en": ": Ami, {i}why{/i} do you look at him like that?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": Ami，你{i}为什么{/i}用那种眼神看他？"
     },
     {
       "en": ""
@@ -437,61 +437,61 @@
       "en": ": Huh? What do you mean?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 哈？什么意思？"
     },
     {
       "en": ": You know what I mean. These feelings you have aren’t normal. I’m worried about you.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你懂我的意思。你怀有的这些感情不正常。我很担心你。"
     },
     {
       "en": ": You’re worried about me because I have romantic feelings for my dad?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 你担心我，是因为我对爸爸有恋爱感情？"
     },
     {
       "en": ": Yes. Literally yes. That is a thing that people worry about.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 对。就是字面意义上的对。这种事本来就会让人担心。"
     },
     {
       "en": ": Why?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 为什么？"
     },
     {
-      "en": ": Well...it’s just...weird. And there’s a power dynamic at play here that makes things really...icky.",
+      "en": ": Well...it’s just...{i}weird.{/i} And there’s a power dynamic at play here that makes things really...icky. ",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 这个……就是……很{i}怪{/i}。而且这里面存在权力不对等，让整件事变得很……恶心。"
     },
     {
       "en": ": But it’s okay if the feelings are just one-sided, isn’t it?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 但如果只是单方面的感情，那就没关系吧？"
     },
     {
-      "en": ": It’s not like Dad has ever capitalized on my feelings for him. Which he could if he wanted to. But then me and you would have to fight and I don’t want that because I like you.",
+      "en": ": It’s not like Dad has ever {i}capitalized{/i} on my feelings for him. Which he could if he wanted to. But then me and you would have to fight and I don’t want that because I like you.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 爸爸又从来没有{i}利用{/i}过我对他的感情。他想的话完全可以。但那样我和你就得打起来，我不想那样，因为我喜欢你。"
     },
     {
       "en": ": ...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ": Did I...say something wrong?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我……说错什么了吗？"
     },
     {
       "en": ""
@@ -512,25 +512,25 @@
       "en": ": No...yes? I don’t know. It’s just a little difficult for me to understand you sometimes since I’ve never wanted to sleep with any of my family members.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 没有……有吧？我不知道。只是我有时候有点难理解你，因为我从没想过要跟自己的家人上床。"
     },
     {
       "en": ": Not even in your fantasies?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 连幻想里都没有？"
     },
     {
       "en": ": Of course not, Ami.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 当然没有，Ami。"
     },
     {
       "en": ": Wow. That’s kind of crazy to me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 哇。这对我来说有点不可思议。"
     },
     {
       "en": ""
@@ -548,34 +548,34 @@
       "en": ""
     },
     {
-      "en": ": Yeah, because you’re a creepy little gremlin with no grasp on the laws of the land and I’m a mostly normal girl with abnormal taste in boys.",
+      "en": ": Yeah, because you’re a creepy little gremlin with no grasp on the laws of the land and I’m a mostly normal girl with {i}abnormal{/i} taste in boys.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 是啊，因为你是个对国法毫无概念的变态小妖怪，而我是个基本正常的姑娘，只不过在挑男人这件事上{i}不正常{/i}。"
     },
     {
       "en": ": Guess that makes me a little abnormal too then, huh?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 那看来我也有一点不正常咯，嗯？"
     },
     {
       "en": ": A little?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 一点？"
     },
     {
       "en": ": A girl’s first love is always her father, Niki!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 女孩的初恋永远是自己的父亲，Niki！"
     },
     {
       "en": ": But Akira-",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 可 Akira——"
     },
     {
       "en": ""
@@ -596,13 +596,13 @@
       "en": ": Ugh. Forget it. We can continue this another time.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 呃。算了。这个我们改天再聊。"
     },
     {
       "en": ": Can we?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 真的吗？"
     },
     {
       "en": ""
@@ -623,13 +623,13 @@
       "en": ": Do you want anything from the kitchen? I think I’m gonna make some food. Akira said you had some stuff in the fridge for the two of us to share.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你想从厨房拿点什么吗？我想做点吃的。Akira 说冰箱里有你准备给我们俩一起吃的东西。"
     },
     {
       "en": ": Mmmm...can you make tea? I finished mine right before the TSA banned portable yogurt.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 嗯……能泡茶吗？就在 TSA 禁掉便携酸奶之前，我刚好把茶喝完了。"
     },
     {
       "en": ""
@@ -650,48 +650,48 @@
       "en": ": Sure thing, Ami. No food?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 没问题，Ami。不吃点东西吗？"
     },
     {
       "en": ": No thanks! I’m not really hungry right now.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 不用了！我现在不太饿。"
     },
     {
       "en": ""
     },
     {
       "en": "As Niki Nakayama peered through the confines of the Arakawa family refrigerator, she wondered about the best way to tell her prospective daughter that incest is wrong.",
-      "zh": ""
+      "zh": "当 Niki Nakayama 探视着 Arakawa 家冰箱的内部时，她在琢磨该怎么跟这个准女儿说清楚——乱伦是不对的。"
     },
     {
       "en": "It was a situation she hadn’t ever imagined finding herself in until the thoughts of moving into this place begun, but it was one she was now mostly prepared to confront.",
-      "zh": ""
+      "zh": "在动起搬进这个家的念头之前，她从未想过自己会陷入这种处境，但如今她大体上已做好了面对它的准备。"
     },
     {
-      "en": "What she did not know is just how impossible such a task would be as Ami Arakawa had never even considered being with someone who doesn’t share her blood.",
-      "zh": ""
+      "en": "What she did not know is just how impossible such a task would be as Ami Arakawa had never even {i}considered{/i} being with someone who doesn’t share her blood.",
+      "zh": "她不知道的是，这项任务有多么不可能完成——因为 Ami Arakawa 从来就没{i}考虑{/i}过要跟一个与她没有血缘关系的人在一起。"
     },
     {
       "en": "The blood was what turned her on. She’d dream of bathing it. Drinking it. Filling up a cup and pouring it over her head in the midst of an orgasm to further accentuate those impure feelings.",
-      "zh": ""
+      "zh": "让她兴奋的正是那份血缘。她会梦见沐浴其中。饮下它。盛满一杯，在高潮之际从头浇下，让那些不洁的情感更加浓烈。"
     },
     {
       "en": "Just that’s not what she really thought. Probably. Most of the time. Some of the time. Maybe she never thought of blood at all. Maybe she was hemophobic. Maybe she wasn’t even real.",
-      "zh": ""
+      "zh": "只不过她真正想的也许并不是这样。大概吧。大多数时候。有些时候。也许她根本从没想过血。也许她怕血。也许她根本就不是真的。"
     },
     {
-      "en": "But whatever the case, Niki’s plan was never going to work. And that was something she’d have to eventually resign herself to if she ever did want to become Ami’s mother.",
-      "zh": ""
+      "en": "But whatever the case, Niki’s plan was never going to work. And that was something she’d have to eventually resign herself to if she ever {i}did{/i} want to become Ami’s mother.",
+      "zh": "但无论如何，Niki 的计划注定行不通。而如果她{i}真的{/i}想当上 Ami 的母亲，这一点她迟早得认命。"
     },
     {
       "en": "Which she shouldn’t. She should get away from here as quickly as possible. She should change her name and marry a salary-man or a music producer or something like that.",
-      "zh": ""
+      "zh": "可她不该这么想。她该尽快离开这个地方。她该改个名字，嫁给一个上班族或者音乐制作人之类的。"
     },
     {
       "en": "But she keeps wanting to fuck Akira Arakawa and his magic cock because it’s the only cock she’s ever known and it’s a good one so why bother finding another when-",
-      "zh": ""
+      "zh": "可她就是一直想操 Akira Arakawa 和他那根魔法鸡巴，因为那是她唯一见识过的鸡巴，而且非常好用，那又何必再去找别的呢——"
     },
     {
       "en": ""
@@ -710,12 +710,12 @@
       "alt": "black"
     },
     {
-      "en": "THE MIDDLE SECTION OF THIS SCENE HAS BEEN REDACTED DUE TO AN INCORRECT CHOICE THAT HAS RESULTED IN MISSING ASSETS",
-      "zh": ""
+      "en": "{b}THE MIDDLE SECTION OF THIS SCENE HAS BEEN REDACTED DUE TO AN INCORRECT CHOICE THAT HAS RESULTED IN MISSING ASSETS{/b}",
+      "zh": "{b}由于选择错误导致资产缺失，本场景的中间部分已被删除{/b}"
     },
     {
-      "en": "THE CUM JAR CAN NOT BE DETECTED, YOU FLACCID FUCK BOY, YOU.",
-      "zh": ""
+      "en": "{b}THE CUM JAR CAN NOT BE DETECTED, YOU FLACCID FUCK BOY, YOU.{/b}",
+      "zh": "{b}检测不到精液罐，你这软趴趴的废物，真是的。{/b}"
     },
     {
       "en": ""
@@ -752,13 +752,13 @@
       "en": ": Hm?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 嗯？"
     },
     {
       "en": ": What’s that in the back of the freezer?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 冷冻室最里面那个是什么？"
     },
     {
       "en": ""
@@ -779,25 +779,25 @@
       "en": ": Nothing!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 没什么！"
     },
     {
       "en": ": What? When did you get there?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 什么？你什么时候过来的？"
     },
     {
       "en": ": It’s nothing! Don’t even worry about it! In fact, why don’t we order a pizza?! Or Chinese?! Frozen food isn’t great for you, you know?! And you should really watch your figure as an idol!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 真的没什么！别在意了！不如我们叫披萨吧？！或者中餐？！冷冻食品对身体不好，你知道的？！而且你作为偶像真该注意身材！"
     },
     {
       "en": ": You’re being...kind of weird, Ami. Like, even more than normal.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你有点……怪怪的，Ami。比平时还要怪。"
     },
     {
       "en": ""
@@ -818,25 +818,25 @@
       "en": ": Hahahaha! That’s me! Head completely empty! Nothing in there but controversial views on familial relationships! And kittens! And anime! I’m such a goober! Hahahah!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 哈哈哈哈！我就是这样的啦！脑子里空空的！除了对家庭关系的一点争议性看法，什么都没有！还有小猫！还有动画！我就是个活宝！哈哈哈哈！"
     },
     {
       "en": ": ...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ": Hahahahahahah! Hahahah...hahaha...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 哈哈哈哈哈哈哈！哈哈哈哈……哈哈哈……"
     },
     {
       "en": ": You good?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你还好吗？"
     },
     {
       "en": ""
@@ -857,7 +857,7 @@
       "en": ": Yup! But why don’t we just close this and...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 当然！不过我们还是把这个关上吧，然后……"
     },
     {
       "en": ""
@@ -875,16 +875,16 @@
       "en": ""
     },
     {
-      "en": ": There! All better. Now, you won’t have to worry about contaminating your precious body with all of that junk, am I right?",
+      "en": ": There! All better. Now, you won’t have to worry about contaminating your precious body with all of that {i}junk,{/i} am I right?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 好了！这下没问题了。现在你不用担心那些{i}垃圾{/i}弄脏你宝贵的身体了，我说得对吧？"
     },
     {
       "en": ": I...guess so?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我……大概是吧？"
     },
     {
       "en": ""
@@ -905,22 +905,22 @@
       "en": ": Great! Movie time it is, then!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 太好了！那就看电影吧！"
     },
     {
       "en": ""
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -939,11 +939,11 @@
     },
     {
       "en": "The two girls sat down on the couch, clearing the table of games best played in groups and replaced them with drinks and stacks of DVDs they knew they weren’t going to watch.",
-      "zh": ""
+      "zh": "两个女孩在沙发上坐下，把桌上那些适合多人玩的游戏收走，换上了饮料和几摞她们心知不会看的 DVD。"
     },
     {
       "en": "And in this moment, the two of them were happy. The two of them were at peace. Like mother and daughter.",
-      "zh": ""
+      "zh": "而在此刻，她们俩是幸福的。她们俩是安宁的。就像母女一样。"
     },
     {
       "en": ""
@@ -961,20 +961,20 @@
       "en": ""
     },
     {
-      "en": "But the real mother was there too. Well, not real. But also kind of real. The ghost mom! The one who liked children in every way possible.",
-      "zh": ""
+      "en": "But the real mother was there too. Well, not {i}real.{/i} But also kind of real. The ghost mom! The one who liked children in {i}every{/i} way possible.",
+      "zh": "但真正的母亲也在场。好吧，算不上{i}真正{/i}。但也有几分是真的。鬼妈妈！那个在{i}每一种{/i}意义上都喜欢孩子的妈妈。"
     },
     {
-      "en": "In a dark corner of the room, just out of reach of the television’s glow, she stood there in all her ghostly envy — wishing she could be the one providing a lap pillow right now.",
-      "zh": ""
+      "en": "In a dark corner of the room, just out of reach of the television’s glow, she stood there in all her ghostly envy — wishing {i}she{/i} could be the one providing a lap pillow right now.",
+      "zh": "在房间幽暗的角落里，恰好在电视光芒照不到的地方，{i}她{/i}站在那儿，满怀幽灵的嫉妒——多么希望此刻能是她来提供膝枕。"
     },
     {
       "en": "But unfortunately (or fortunately based on who you ask) she was very, very dead. And also very, very mad that this impostor would try to take her place.",
-      "zh": ""
+      "zh": "但不幸的是（或者该说幸运，就看你问谁了），她已经死得透透的了。而且她也非常、非常愤怒——这个冒牌货竟想取代她的位置。"
     },
     {
       "en": "Niki Nakayama did not feel this gaze.",
-      "zh": ""
+      "zh": "Niki Nakayama 没有感觉到这道目光。"
     },
     {
       "en": ""
@@ -993,35 +993,35 @@
     },
     {
       "en": "Ami Arakawa did.",
-      "zh": ""
+      "zh": "但 Ami Arakawa 感觉到了。"
     },
     {
       "en": "But she was unsure of what she was supposed to do about that.",
-      "zh": ""
+      "zh": "但她不知道自己该拿这件事怎么办。"
     },
     {
-      "en": "On one hand, she loved her mother. On another hand, she loved Niki. And she longed for the lap of an older woman but, once more, not in the yuri kind of way.",
-      "zh": ""
+      "en": "On one hand, she loved her mother. On another hand, she loved Niki. And she {i}longed{/i} for the lap of an older woman but, once more, not in the yuri kind of way.",
+      "zh": "一方面，她爱她的母亲。另一方面，她爱 Niki。她{i}渴望{/i}年长女性的膝头，但再一次声明，不是百合那种意义上的。"
     },
     {
       "en": "This much was fine though, wasn’t it?",
-      "zh": ""
+      "zh": "不过这样也还好吧，不是吗？"
     },
     {
       "en": "She wasn’t openly welcoming her into the home. And she’d been as polite as possible earlier in letting Niki know that she would steal her “boyfriend” away without a second thought.",
-      "zh": ""
+      "zh": "她又没公然把她迎进家门。而且她先前已经尽可能礼貌地让 Niki 知道——她会毫不犹豫地把她的「男朋友」抢走。"
     },
     {
-      "en": "That damage — the broken piece of furniture she was would surely dissuade her idol from joining the household, would it not?",
-      "zh": ""
+      "en": "That damage — the broken piece of furniture she was would {i}surely{/i} dissuade her idol from joining the household, would it not?",
+      "zh": "那种伤害——她这种破损的家具，{i}总该{/i}能劝退她的偶像，让她别搬进这个家吧？"
     },
     {
-      "en": "If each bed was broken — each floorboard cracked, then Niki would take her kindness elsewhere and leave Ami to her castle of callous thoughts. Again, not a hint.",
-      "zh": ""
+      "en": "If each bed was broken — each floorboard cracked, then Niki would take her kindness elsewhere and leave Ami to her castle of callous thoughts. Again, {i}not a hint.{/i}",
+      "zh": "如果每张床都是坏的——每块地板都有裂缝，那 Niki 就会把她的好意带到别处去，把 Ami 留在她那座冷漠思绪筑成的城堡里。再说一次，这{i}不是暗示{/i}。"
     },
     {
       "en": "And again, incorrect. For in the throes of those happy thoughts, peace would break apart when the two of them realize there’s only room for one on their make-believe raft.",
-      "zh": ""
+      "zh": "又说错了。因为就在那些幸福念头的阵痛之中，当她们俩意识到那条虚构的救生筏上只容得下一个人时，安宁就会分崩离析。"
     },
     {
       "en": ""
@@ -1030,46 +1030,46 @@
       "en": ": I’m sorry...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 对不起……"
     },
     {
       "en": ": Sorry for what, Ami?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 为什么道歉，Ami？"
     },
     {
       "en": ": ...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
     },
     {
       "en": "I don’t know which of them she apologizes to, but I like to believe its both.",
-      "zh": ""
+      "zh": "我不知道她是在向她们中的哪一个道歉，但我愿意相信是两个人。"
     },
     {
-      "en": "I like to believe that Ami did not just feel the presence of her very, very dead mother, but that she saw her. That she could hear her breathing.",
-      "zh": ""
+      "en": "I like to believe that Ami did not just {i}feel{/i} the presence of her very, very dead mother, but that she {i}saw{/i} her. That she could hear her breathing.",
+      "zh": "我愿意相信，Ami 不只是{i}感觉{/i}到了她那死得透透的母亲的存在，而是{i}看见{/i}了她。她能听见她的呼吸。"
     },
     {
       "en": "That she could listen closely to the way her ghostly feet made contact with those cracked floorboards so vividly that she could make out the shape of them.",
-      "zh": ""
+      "zh": "她能仔细聆听那双幽灵的脚踩在开裂地板上的声音，清晰得足以让她辨认出脚的形状。"
     },
     {
-      "en": "And I want to believe that because that’s how this story should go.",
-      "zh": ""
+      "en": "And I want to believe that because that’s how this story {i}should{/i} go.",
+      "zh": "而我愿意相信这个，因为这本故事就{i}该{/i}这么走。"
     },
     {
-      "en": "This house has not been a home for a very long time. And it deserves a scene like this devoid of the negative connotations that make it, for lack of a better word-",
-      "zh": ""
+      "en": "This house has not been a home for a very long time. And it deserves a scene like this {i}devoid{/i} of the negative connotations that make it, for lack of a better word-",
+      "zh": "这座房子已经很久很久不再是一个家了。它值得拥有这样一场戏，{i}剥去{/i}那些让它变得——恕我找不到更好的词——"
     },
     {
       "en": "Doomed.",
-      "zh": ""
+      "zh": "万劫不复的负面含义。"
     },
     {
       "en": ""
@@ -1078,13 +1078,13 @@
       "en": ": You know...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你知道吗……"
     },
     {
       "en": ": You’ve never really told me about your mom before.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你从来没有真正跟我聊过你妈妈。"
     },
     {
       "en": ""
@@ -1103,15 +1103,15 @@
     },
     {
       "en": "The ghost’s attention was piqued.",
-      "zh": ""
+      "zh": "鬼魂的注意力被勾了起来。"
     },
     {
       "en": "She’d heard her daughter speak of her before and hung on every single word. But never in the presence of one who may take her place.",
-      "zh": ""
+      "zh": "她以前听过女儿说起自己，每一个字都听得入神。却从没在一个可能取代她的人面前听过。"
     },
     {
       "en": "Would her words remain the same? Or had the seeds of self-doubt already been sown in her precious little girl’s field of dreams?",
-      "zh": ""
+      "zh": "她的话还会和从前一样吗？还是说，自我怀疑的种子已经播撒在她宝贝女儿的梦田里了？"
     },
     {
       "en": ""
@@ -1120,31 +1120,31 @@
       "en": ": ...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ": You don’t have to talk about her if you don’t want to. I get how hard it is for you. Akira too.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你不想说的话可以不说。我明白这对你来说有多难。Akira 也是。"
     },
     {
       "en": ": You both really loved her, didn’t you?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你们俩都很爱她，对吧？"
     },
     {
       "en": ": She was...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 她是……"
     },
     {
       "en": ": The closest a girl could ever come to perfection.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 一个女孩所能达到的、最接近完美的存在。"
     },
     {
       "en": ""
@@ -1165,13 +1165,13 @@
       "en": ": Oh yeah? How so?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 哦是吗？怎么说？"
     },
     {
-      "en": ": Just...everything. She was pretty. She was funny. She was talented. And she loved me...so deeply that I’ve never felt anything like it.",
+      "en": ": Just...{i}everything.{/i} She was pretty. She was funny. She was talented. And she loved me...{i}so{/i} deeply that I’ve never felt anything like it.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 就是……{i}一切{/i}。她漂亮。她有趣。她有才华。而且她爱我……爱得{i}那么{/i}深，我从来没有感受过那样的爱。"
     },
     {
       "en": ""
@@ -1192,37 +1192,37 @@
       "en": ": She’s what I want to be...my hero. But she was way smarter than me and I highly doubt I’d ever be able to catch up even if I gave it my all.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 她是我想成为的样子……我的英雄。但她比我聪明太多了，我很怀疑就算拼尽全力也追不上她。"
     },
     {
       "en": ": That’s not true, Ami. You’re young. You’ve got plenty of time to catch up.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 才不是呢，Ami。你还年轻。有的是时间追上去。"
     },
     {
-      "en": ": No, you don’t get it...She wasn’t smart like normal people are smart. She understood things. Things about God...things about the world...all sorts of things.",
+      "en": ": No, you don’t get it...She wasn’t smart like {i}normal{/i} people are smart. She {i}understood{/i} things. Things about God...things about the world...all sorts of things.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 不，你不懂……她的聪明不是{i}普通{/i}人那种聪明。她能{i}理解{/i}事物。关于神的事……关于世界的事……各种各样的事。"
     },
     {
-      "en": ": Her words alone could change the way you see. They could change what you hear...what you think. She was so good at just...impacting people. Changing people.",
+      "en": ": Her words alone could change the way you see. They could change what you hear...what you {i}think.{/i} She was so good at just...impacting people. Changing people.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 光是她的话就能改变你看待事物的方式。能改变你听到什么……你{i}想{/i}什么。她就是那么擅长……影响人。改变人。"
     },
     {
       "en": ": I saw it every day when she was raising me. How everyone fell in love with her at first glance. And it was like she took that love and just...bundled it up to give to me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 她抚养我的时候我每天都看在眼里。每个人都对她一见倾心。而她就像是那份爱收拢起来，统统交给了我。"
     },
     {
       "en": ": I remember one day...I was probably only four or five back then...but she took me to the top of a hill where you could overlook the whole city.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我记得有一天……那时候我大概才四五岁……她带我上了一座小山丘，从那儿可以俯瞰整座城市。"
     },
     {
       "en": ""
@@ -1243,31 +1243,31 @@
       "en": ": She put me up on her shoulders...and even though she was so small and skinny, I never thought for a second that I was going to fall.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 她把我扛在肩上……虽然她那么瘦那么小，我却从来没有一刻想过自己会摔下来。"
     },
     {
       "en": ": She sung to me...spun me around beneath her favorite tree...read me some of her favorite poems...and I still dream about that day sometimes.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 她给我唱歌……在她最爱的那棵树下抱着我转圈……给我念她最爱的诗……直到现在我有时还会梦到那一天。"
     },
     {
       "en": ": How it was like we were the only two people in the world. And sometimes, I wish we were.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 那感觉就像全世界只剩下我们两个人。有时候，我真希望真的就只有我们。"
     },
     {
-      "en": ": Sometimes, I wish I could rewrite the past. Figure out a way to put someone else in her place so that they could die instead of her.",
+      "en": ": Sometimes, I wish I could rewrite the past. Figure out a way to put someone else in her place so that {i}they{/i} could die instead of her. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 有时候，我希望自己能改写过去。想办法找个人替下她，让{i}那个人{/i}替她去死。"
     },
     {
-      "en": ": And yeah...I know that’s an evil thing to think. But she’s worth it. She’s worth more than anyone. She was just that perfect.",
+      "en": ": And yeah...I know that’s an evil thing to think. But she’s worth it. She’s worth more than anyone. She was just {i}that{/i} perfect.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 是啊……我知道这么想很恶毒。但她值得。她比任何人都值得。她就是{i}那么{/i}完美。"
     },
     {
       "en": ""
@@ -1288,43 +1288,43 @@
       "en": ": That’s all just a fantasy, though.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 不过那些都只是幻想罢了。"
     },
     {
-      "en": ": The truth is no one could ever replace her. Not even in death.",
+      "en": ": The truth is no one could {i}ever{/i} replace her. Not even in death. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 真相是，谁{i}也{/i}替代不了她。哪怕她已经死了。"
     },
     {
       "en": ": ...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ": She still watches over me. I can feel her. I can smell her sakura perfume.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 她还在看着我。我能感觉到她。我能闻到她身上樱花的香水味。"
     },
     {
       "en": ": And I just hope that she’s proud.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 我只希望她能为我骄傲。"
     },
     {
       "en": ": I’ll die happy if I can be half the mom that she was. I just wish I could explain it better.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 只要能做到她一半的样子，我就算死也瞑目了。我只是希望能说得更好一点。"
     },
     {
       "en": ": It feels like anything I say doesn’t even come close to painting a real picture of her. But that’s just one more example of how she was everything I’m not.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 感觉无论我说什么，都远远描绘不出她真实的样子。但这恰恰又是一个例子，说明她拥有我没有的一切。"
     },
     {
       "en": ""
@@ -1345,7 +1345,7 @@
       "en": ": Ami...",
       "spk": "Sekai & Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": Ami……"
     },
     {
       "en": ""
@@ -1366,43 +1366,43 @@
       "en": ": Huh?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 嗯？"
     },
     {
       "en": ": Niki?...",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": Niki？……"
     },
     {
       "en": ": What’s wrong?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 怎么了？"
     },
     {
       "en": ": Nothing, I...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 没什么，我……"
     },
     {
       "en": ": I just thought I...heard something.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我只是觉得我……听到了什么。"
     },
     {
       "en": ": The washing machine maybe? I threw my uniform in there a little while ago.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 也许是洗衣机？我不久前把校服丢进去洗了。"
     },
     {
       "en": ": Yeah...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 是啊……"
     },
     {
       "en": ""
@@ -1423,14 +1423,14 @@
       "en": ": Yeah...that must have been it.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 是啊……应该是那个吧。"
     },
     {
       "en": ""
     },
     {
       "en": "It wasn’t.",
-      "zh": ""
+      "zh": "并不是。"
     },
     {
       "en": ""
@@ -1443,20 +1443,20 @@
       "en": ""
     },
     {
-      "en": "Niki’s sanity has decreased by 1!",
-      "zh": ""
+      "en": "{i}Niki’s sanity has decreased by 1!{/i}",
+      "zh": "{i}Niki 的理智下降了 1！{/i}"
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""

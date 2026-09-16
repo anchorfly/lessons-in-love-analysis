@@ -354,8 +354,8 @@
       "zh": "Miku 没听出弦外之音，而是把我领到她的床边，然后自己坐了上去。"
     },
     {
-      "en": "I'm hoping she'll leave room for me as well but, unfortunately, it looks like it'll be a little longer before both of us can be on it at once.",
-      "zh": "我本来希望她也能给我留点位置，可惜看来要等我俩同时躺上去，还得再过一阵子。"
+      "en": "I'm hoping she'll leave room for me as well but, unfortunately, it looks like it'll be a little longer before {i}both{/i} of us can be on it at once.",
+      "zh": "我本来希望她也能给我留点位置，可惜看来要等{i}我俩{/i}同时躺上去，还得再过一阵子。"
     },
     {
       "en": "In other news, my streak of not sexually fantasizing about Miku comes to an abrupt end just several minutes after it began.",
@@ -389,10 +389,10 @@
       "zh": ": 我还有一台电视，是 Makoto 前年生日送我的！还有几张海报，是她别的几个生日送的！"
     },
     {
-      "en": ": Do you own anything that wasn't purchased by Makoto?",
+      "en": ": Do you own anything that {i}wasn't{/i} purchased by Makoto?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你有哪样东西不是 Makoto 买的吗？"
+      "zh": ": 你有哪样东西{i}不是{/i} Makoto 买的吗？"
     },
     {
       "en": ": Not really, no.",
@@ -468,10 +468,10 @@
       "zh": "幻想还在继续。"
     },
     {
-      "en": ": Would you mind describing what sorts of crazy things you're referring to, Miku?",
+      "en": ": Would you mind describing what sorts of {i}crazy{/i} things you're referring to, Miku?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你能不能具体说说，你指的「疯狂的事」是哪种，Miku？"
+      "zh": ": 你能不能具体说说，你指的「{i}疯狂{/i}的事」是哪种，Miku？"
     },
     {
       "en": ": That sounds like a question for Makoto. I don't know the first thing when it comes to crazy bed activities. I just know she doesn't like it when I jump too high.",
@@ -575,10 +575,10 @@
       "zh": ": 不，真的。疼得要命，而且要好久才能好。"
     },
     {
-      "en": ": I take it you have broken something, then?",
+      "en": ": I take it you {i}have{/i} broken something, then?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 这么说，你断过什么了？"
+      "zh": ": 这么说，你{i}断过{/i}什么了？"
     },
     {
       "en": ": Well, I...yeah.",
@@ -831,10 +831,10 @@
       "en": ""
     },
     {
-      "en": ": I'll lend ya a hand whenever ya need it, Sensei! Two hands if one ain't big enough.",
+      "en": ": I'll lend ya a hand whenever ya need it, Sensei! {i}Two{/i} hands if one ain't big enough.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 你需要的时候我随时帮你一把，Sensei！要是一只手不够，我还有两只。"
+      "zh": ": 你需要的时候我随时帮你一把，Sensei！要是一只手不够，我还有{i}两只{/i}。"
     },
     {
       "en": ""
@@ -906,10 +906,10 @@
       "zh": ": 就是说，我也确实好奇啦！但没她那么好奇。所以她才是这件事发生的真正原因。"
     },
     {
-      "en": ": I'm confused. Are you asking me? Or is Makoto asking me through you?",
+      "en": ": I'm confused. Are you asking me? Or is Makoto asking me {i}through{/i} you?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我糊涂了。是你在问我？还是 Makoto 借你的嘴在问我？"
+      "zh": ": 我糊涂了。是你在问我？还是 Makoto {i}借你的嘴{/i}在问我？"
     },
     {
       "en": ": Maybe...we're both askin' you at the same time? Just she's only here in spirit, so the talkin' part falls onto me.",
@@ -1041,10 +1041,10 @@
       "en": ""
     },
     {
-      "en": ": Woah! Sensei...are you actually cool?...",
+      "en": ": Woah! Sensei...are you actually {i}cool?...{/i}",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 哇哦！Sensei……你其实挺酷的吧？……"
+      "zh": ": 哇哦！Sensei……你其实挺{i}酷的吧？……{/i}"
     },
     {
       "en": ": ...Am I?",
@@ -1092,10 +1092,10 @@
       "en": ""
     },
     {
-      "en": ": Thanks, Sensei. Ya ain't gotta say stuff like that to me, though. I really do just wanna get to know ya better.",
+      "en": ": Thanks, Sensei. Ya ain't gotta say stuff like that to me, though. I really {i}do{/i} just wanna get to know ya better.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 谢谢，Sensei。不过你不用对我说这种话啦。我是真的想多了解你一点。"
+      "zh": ": 谢谢，Sensei。不过你不用对我说这种话啦。我是{i}真的{/i}想多了解你一点。"
     },
     {
       "en": ": Hangin' out with you's fun...and I want you to come around some more.",
@@ -1233,12 +1233,12 @@
       "en": ""
     },
     {
-      "en": "Miku’s affection has increased to [miku_love]!",
-      "zh": "Miku 的好感度提升至 [miku_love]！"
+      "en": "{i}Miku’s affection has increased to [miku_love]!{/i}",
+      "zh": "{i}Miku 的好感度提升至 [miku_love]！{/i}"
     },
     {
-      "en": "You can now spend time with her in her room!",
-      "zh": "现在你可以去她的房间陪她了！"
+      "en": "{i}You can now spend time with her in her room!{/i}",
+      "zh": "{i}现在你可以去她的房间陪她了！{/i}"
     },
     {
       "en": ".........",

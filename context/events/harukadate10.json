@@ -74,10 +74,10 @@
       "en": ""
     },
     {
-      "en": ": Sensei-time.",
+      "en": ": {i}Sensei-time{/i}.",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 老师时间。"
+      "zh": ": {i}老师时间{/i}。"
     },
     {
       "en": ": ...",
@@ -476,10 +476,10 @@
       "zh": ": 嗯，好吧。不过 Haruka 只有在想藏什么事的时候，才会这么安静。"
     },
     {
-      "en": ": Plus, I already told you she thought you were cute and stuff a while back, so it’s not impossible for something like that to happen.",
+      "en": ": Plus, I already told you she thought you were cute and stuff a while back, so it’s not {i}impossible{/i} for something like that to happen.",
       "spk": "Rin",
       "spkColor": "#FF00AE",
-      "zh": ": 再说了，我之前就跟你说过，她觉得你挺可爱的什么的，所以发生那种事也不是不可能。"
+      "zh": ": 再说了，我之前就跟你说过，她觉得你挺可爱的什么的，所以发生那种事也不是{i}不可能{/i}。"
     },
     {
       "en": ""
@@ -1088,10 +1088,10 @@
       "en": ""
     },
     {
-      "en": ": I’m louder than that?",
+      "en": ": I’m louder than {i}that{/i}? ",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 我比她还大声？"
+      "zh": ": 我比{i}她{/i}还大声？"
     },
     {
       "en": ": Do you not realize how into it you get, Haruka?",
@@ -1243,10 +1243,10 @@
       "en": ""
     },
     {
-      "en": ": But anyway, I do think Rin sees you as some sort of role model. At least that’s how I’d see you in her position.",
+      "en": ": But anyway, I {i}do{/i} think Rin sees you as some sort of role model. At least that’s how I’d see you in her position.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不过话说回来，我确实觉得 Rin 把你当成某种榜样。至少我要是处在她的位置，会这么看你。"
+      "zh": ": 不过话说回来，我{i}确实{/i}觉得 Rin 把你当成某种榜样。至少我要是处在她的位置，会这么看你。"
     },
     {
       "en": ": People like looking up to more successful people in the same position as them.",
@@ -1303,16 +1303,16 @@
       "en": ""
     },
     {
-      "en": ": You’re here to see me despite having a girl like, half my age and four times prettier than me two steps away from just...biting the bullet and admitting her love for you?",
+      "en": ": You’re here to see {i}me{/i} despite having a girl like, half my age and four times prettier than me two steps away from just...biting the bullet and admitting her love for you?",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 明明有个年纪只有我一半、漂亮四倍的女孩，就差一步就要咬牙向你表白了，你却跑来看我？"
+      "zh": ": 明明有个年纪只有我一半、漂亮四倍的女孩，就差一步就要咬牙向你表白了，你却跑来看{i}我{/i}？"
     },
     {
-      "en": ": Rin doesn’t love me, Haruka.",
+      "en": ": Rin doesn’t {i}love{/i} me, Haruka.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Rin 不爱我，Haruka。"
+      "zh": ": Rin 不{i}爱{/i}我，Haruka。"
     },
     {
       "en": ""
@@ -1605,10 +1605,10 @@
       "en": ""
     },
     {
-      "en": ": But just wanting to mess around with all of them doesn’t mean I actually would, you know?",
+      "en": ": But just {i}wanting{/i} to mess around with all of them doesn’t mean I actually {i}would{/i}, you know?",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 但光是想跟她们乱来，不代表我真会去做，你懂吧？"
+      "zh": ": 但光是{i}想{/i}跟她们乱来，不代表我真{i}会{/i}去做，你懂吧？"
     },
     {
       "en": ": Unless they offered. Because in that case, I absolutely would.",
@@ -1855,8 +1855,8 @@
       "en": ""
     },
     {
-      "en": "Haruka’s affection has increased to [haruka_love]!",
-      "zh": "Haruka 的好感度提升到了 [haruka_love]！"
+      "en": "{i}Haruka’s affection has increased to [haruka_love]!{/i}",
+      "zh": "{i}Haruka 的好感度提升到了 [haruka_love]！{/i}"
     },
     {
       "en": ".........",

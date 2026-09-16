@@ -1,6 +1,6 @@
 {
   "label": "tsukasaspecial1p2",
-  "title_zh": "Jeeves 月冈十三世",
+  "title_zh": "Jeeves Tsukioka 十三世",
   "lines": [
     {
       "en": ""
@@ -25,8 +25,8 @@
       "en": ""
     },
     {
-      "en": "But not without a very special guest...",
-      "zh": ": 不过,还跟着一位非常特别的嘉宾……"
+      "en": "But not without a very special {i}guest...{/i}",
+      "zh": ": 不过,还跟着一位非常特别的{i}嘉宾{/i}……"
     },
     {
       "en": ""
@@ -50,10 +50,10 @@
       "zh": ": Tsukasa Tsukioka 值得的不只是一队轿车。要是妈妈以为光靠那个就能打发我,那她就大错特错了。"
     },
     {
-      "en": ": I can’t imagine buying you off at all is feasible considering how numb you already are to money at your age but, to satisfy my own curiosity, what will it take for you to leave?",
+      "en": ": I can’t imagine buying you off {i}at all{/i} is feasible considering how numb you already are to money at your age but, to satisfy my own curiosity, what {i}will{/i} it take for you to leave?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我无法想象「收买你」这件事可行——毕竟你这个年纪,对钱已经麻木了。但为了满足我自己的好奇心:要怎样才能让你走?"
+      "zh": ": 我无法想象「收买你」这件事可行——毕竟你这个年纪,对钱已经麻木了。但为了满足我自己的好奇心:{i}要怎样{/i}才能让你走?"
     },
     {
       "en": ": I’m making Mother come here to get me on her own. It isn’t fair that I should have to be surrounded by lowly peons on my own national holiday.",
@@ -89,8 +89,8 @@
       "zh": ": 无论如何,我现在必须当保姆,等某个人来把这个小鬼接走。"
     },
     {
-      "en": "I guess you can call it practice for when I have to visit Chika’s house and watch both her and Chinami soon, but at least then I’ll have Chinami to keep her occupied. And Touka to keep me occupied.",
-      "zh": ": 你可以把它当成「不久后要去 Chika 家、同时看住她和 Chinami」的预演。但至少到那时,有 Chinami 陪她玩,还有 Touka 陪我玩。"
+      "en": "I guess you can call it practice for when I have to visit Chika’s house and watch both her {i}and{/i} Chinami soon, but at least then I’ll have Chinami to keep her occupied. And Touka to keep {i}me{/i} occupied.",
+      "zh": ": 你可以把它当成「不久后要去 Chika 家、同时看住她{i}和{/i} Chinami」的预演。但至少到那时,有 Chinami 陪她玩,还有 Touka 陪{i}我{/i}玩。"
     },
     {
       "en": ""
@@ -135,10 +135,10 @@
       "zh": ": 我知道今天是什么日子。但我不会在自己办公室里,被一个我单手就能拎起来的人呼来喝去。"
     },
     {
-      "en": ": If you’re not going to tell me a story, can you at least do something to keep me entertained?",
+      "en": ": If you’re not going to tell me a story, can you at least do {i}something{/i} to keep me entertained?",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 那你不讲故事,至少能干点别的让我开心吗?"
+      "zh": ": 那你不讲故事,至少能干点{i}别的{/i}让我开心吗?"
     },
     {
       "en": ": Like what?",
@@ -222,10 +222,10 @@
       "zh": ": 真要的话,我可以屈就平民学校。"
     },
     {
-      "en": ": I’m the second in line to inherit the Tsukioka family business, so it’s not like I have to get the highest form of education when my older sister is going to be the one to take over.",
+      "en": ": I’m the second in line to inherit the Tsukioka family business, so it’s not like I {i}have{/i} to get the highest form of education when my older sister is going to be the one to take over.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 我是月冈家业的第二顺位继承人,所以既然将来接管家业的是我姐姐,我不必接受最高等的教育。"
+      "zh": ": 我是月冈家业的第二顺位继承人,所以既然将来接管家业的是我姐姐,我{i}不必{/i}接受最高等的教育。"
     },
     {
       "en": ": Unless staying here makes her brain turn into mush. Which, based on what I have seen here today, it might.",
@@ -234,10 +234,10 @@
       "zh": ": 除非待在这里会把她的脑子泡成浆糊。而根据我今天在这里的所见,说不定会。"
     },
     {
-      "en": ": While what you say may be true, I’m not really sure what that has to do with you not being allowed to go to school.",
+      "en": ": While what you say may be true, I’m not really sure what that has to do with you not being {i}allowed{/i} to go to school.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 虽然你说的可能是真的,但我不太确定这和「你不被允许上学」有什么关系。"
+      "zh": ": 虽然你说的可能是真的,但我不太确定这和「你不被{i}允许{/i}上学」有什么关系。"
     },
     {
       "en": ": Mother says I’m too “advanced” to go to school with girls my age and too young to go to school with Big Sister.",
@@ -246,10 +246,10 @@
       "zh": ": 妈妈说,我太「超前」,不能和同龄的女孩一起上学;又太年幼,不能和姐姐一起上。"
     },
     {
-      "en": ": So all I can do is sit at home and listen to boring old people talk about boring stuff when what I really want to do is have fun.",
+      "en": ": So all I can do is sit at home and listen to boring old people talk about boring stuff when what I {i}really{/i} want to do is have fun.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 所以我能做的只有坐在家里,听无聊的老人聊无聊的东西——而我真正想做的事是玩。"
+      "zh": ": 所以我能做的只有坐在家里,听无聊的老人聊无聊的东西——而我{i}真正{/i}想做的事是玩。"
     },
     {
       "en": ": I’ve been to your house. I have a hard time believing there isn’t anything fun to do there.",
@@ -390,10 +390,10 @@
       "zh": ": 不————行!骂小孩是大人的禁区!因为这个,我已经搞掉了至少十个 Jeeves。"
     },
     {
-      "en": ": If ten other Jeeves cursed at you, don’t you think the problem might be...I don’t know, you?",
+      "en": ": If ten other Jeeves cursed at you, don’t you think the problem might be...I don’t know, {i}you?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 要是十个 Jeeves 都骂过你,你不觉得问题可能出在……我不知道,你身上吗?"
+      "zh": ": 要是十个 Jeeves 都骂过你,你不觉得问题可能出在……我不知道,{i}你{/i}身上吗?"
     },
     {
       "en": ""
@@ -417,10 +417,10 @@
       "zh": ": Tsukasa Tsukioka 不是问题。她天赋异禀、才华横溢,比你和所有你认识的人加起来都有钱。"
     },
     {
-      "en": ": I know your sister, you know. And, unless she is a pathological liar who is only attending this school because she was excommunicated from your family, I’m pretty sure she’s rich too.",
+      "en": ": I know your sister, you know. And, unless she is a pathological liar who is only attending this school because she was excommunicated from your family, I’m pretty sure {i}she’s{/i} rich too.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我认识你姐姐,你知道吗。而且,除非她是个病理性骗子、来这所学校只是因为她被逐出了家族,我相当确定她也有钱。"
+      "zh": ": 我认识你姐姐,你知道吗。而且,除非她是个病理性骗子、来这所学校只是因为她被逐出了家族,我相当确定{i}她{/i}也有钱。"
     },
     {
       "en": ": She might as well be excommunicated with how often she talks about her new fun and exciting commoner life.",
@@ -768,10 +768,10 @@
       "zh": ": 再说了,我也见不到他几次。他永远在忙,再也不为我腾出时间。"
     },
     {
-      "en": ": Really? With how much you talk about him, I figured you bothered- err...I figured you were with him all the time.",
+      "en": ": Really? With how much you talk about him, I figured you bothered- err...I figured you were {i}with{/i} him all the time.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 真的吗?听你聊他聊得那么多,我还以为你缠——呃……我还以为你们一直在一起。"
+      "zh": ": 真的吗?听你聊他聊得那么多,我还以为你缠——呃……我还以为你们一直{i}在一起{/i}。"
     },
     {
       "en": ": Not really. I try to talk to him as much as I can, but I think he forgets to charge his walkie talkie sometimes.",
@@ -876,12 +876,12 @@
       "en": ""
     },
     {
-      "en": "But Tsukasa is still getting attention from one of her parents.",
-      "zh": ": 但 Tsukasa 依然从她的父母之一那里得到关注。"
+      "en": "But Tsukasa {i}is{/i} still getting attention from one of her parents. ",
+      "zh": ": 但 Tsukasa {i}依然{/i}从她的父母之一那里得到关注。"
     },
     {
-      "en": "Maybe even a little too much attention if that parent is dropping what they’re doing just to come over here and pick them up despite a whole convoy of cars sent to do just that.",
-      "zh": ": 甚至可能多了一点——如果那位家长,在一整队轿车已经派去接她的情况下,还要放下手头的一切,亲自过来接人的话。"
+      "en": "Maybe even a little {i}too{/i} much attention if that parent is dropping what they’re doing just to come over here and pick them up despite a whole convoy of cars sent to do just that.",
+      "zh": ": 甚至可能{i}多了{/i}一点——如果那位家长,在一整队轿车已经派去接她的情况下,还要放下手头的一切,亲自过来接人的话。"
     },
     {
       "en": "It’s just not the parent she wants, I guess.",
@@ -897,10 +897,10 @@
       "zh": ": Tsukasa,亲爱的……求你告诉我你在里面……"
     },
     {
-      "en": ": About time, Mother. It’s been almost an hour and this room isn’t even climate controlled. And Jeeves is soooooo boring.",
+      "en": ": About time, Mother. It’s been almost an hour and this room isn’t even climate controlled. And Jeeves is {i}soooooo{/i} boring.",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 可算来了,妈妈。都快一个小时了,而且这间屋子连温控都没有。还有,Jeeves 超————无聊。"
+      "zh": ": 可算来了,妈妈。都快一个小时了,而且这间屋子连温控都没有。还有,Jeeves {i}超————{/i}无聊。"
     },
     {
       "en": ": Jeeves? But you fired Jeeves last- oh. Oh, Tsukasa! That is so rude for someone who’s done so much for our family in just a short while!",
@@ -963,10 +963,10 @@
       "en": ""
     },
     {
-      "en": ": I’m terribly sorry for any trouble my youngest daughter may have caused you. I truly didn’t expect her to refuse all of our drivers when she knew I was busy, but...Tsukasa will be Tsukasa, I suppose.",
+      "en": ": I’m terribly sorry for any trouble my youngest daughter may have caused you. I truly didn’t expect her to refuse {i}all{/i} of our drivers when she knew I was busy, but...Tsukasa will be Tsukasa, I suppose.",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": 我最年幼的女儿可能给你添的麻烦,我深表歉意。她知道我很忙,却拒绝了所有司机——这是我真没想到的。不过……Tsukasa 终究是 Tsukasa。"
+      "zh": ": 我最年幼的女儿可能给你添的麻烦,我深表歉意。她知道我很忙,却拒绝了{i}所有{/i}司机——这是我真没想到的。不过……Tsukasa 终究是 Tsukasa。"
     },
     {
       "en": ": It’s National Tsukasa Day. I didn’t want to go home with someone being paid to care about me.",
@@ -1008,16 +1008,16 @@
       "zh": ": 真的不是什么大事。反正我下课后通常都会留一两个小时。Tsukasa 只是坐在沙发上。"
     },
     {
-      "en": ": Tsukasa should have been a good girl and left school with one of the drivers like we agreed to this morning.",
+      "en": ": Tsukasa should have been a good girl and left school with one of the drivers {i}like we agreed to this morning.{/i}",
       "spk": "Tsubasa",
       "spkColor": "#EAE6AA",
-      "zh": ": Tsukasa 本该做个乖女孩,按我们今早的约定,跟着其中一位司机放学回家。"
+      "zh": ": Tsukasa 本该做个乖女孩,{i}按我们今早的约定{/i},跟着其中一位司机放学回家。"
     },
     {
-      "en": ": But I wanted you.",
+      "en": ": But I wanted {i}you.{/i} ",
       "spk": "Tsukasa",
       "spkColor": "#F0CA8C",
-      "zh": ": 可我想要的是你。"
+      "zh": ": 可我想要的是{i}你{/i}。"
     },
     {
       "en": ": And you told me we could get ice cream after I finished my first day of high school to celebrate.",

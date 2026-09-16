@@ -32,8 +32,8 @@
       "zh": "我能听见 Sana 在门后喊。"
     },
     {
-      "en": "Well, it’s not exactly a yell. This is still Sana we're talking about.",
-      "zh": "嗯，严格来说也算不上喊。毕竟她是 Sana。"
+      "en": "Well, it’s not exactly a yell. This {i}is{/i} still Sana we're talking about.",
+      "zh": "嗯，严格来说也算不上喊。毕竟她{i}是{/i} Sana。"
     },
     {
       "en": "It’s more like the noise a mouse makes when you turn on the lights in the middle of the night and cause it to go scurrying off to the other side of the room.",
@@ -226,8 +226,8 @@
       "zh": "Rin 基本上算是 Kumon-mi 镇上最擅长打趣拌嘴的人，所以 Sana 跟着她是找对人了。"
     },
     {
-      "en": "I just hope she doesn’t become a little...too much like Rin because I'm not quite sure how I'd handle her calling me homie.",
-      "zh": "我只希望她别变得……太像 Rin，因为我还真不知道她要是叫我老铁，我该怎么反应。"
+      "en": "I just hope she doesn’t become a little...{i}too{/i} much like Rin because I'm not quite sure how I'd handle her calling me {i}homie.{/i}",
+      "zh": "我只希望她别变得……{i}太{/i}像 Rin，因为我还真不知道她要是叫我{i}老铁{/i}，我该怎么反应。"
     },
     {
       "en": ""
@@ -1160,10 +1160,10 @@
       "en": ""
     },
     {
-      "en": ": Ahh...So you can speak after all...",
+      "en": ": Ahh...So you {i}can{/i} speak after all...",
       "spk": "Strange Girl",
       "spkColor": "#FFFFFF",
-      "zh": ": 啊……原来你还是会说话的……"
+      "zh": ": 啊……原来你还是{i}会{/i}说话的……"
     },
     {
       "en": ": And here I was thinking that things were about to get interesting.",
@@ -1328,10 +1328,10 @@
       "en": ""
     },
     {
-      "en": ": Do you believe in god GOD GoD God?",
+      "en": ": Do you believe in {s}god{/s} {s}GOD{/s} {s}GoD{/s} God?",
       "spk": "Strange Girl",
       "spkColor": "#FFFFFF",
-      "zh": ": 你相信 god GOD GoD God 吗？"
+      "zh": ": 你相信 {s}god{/s} {s}GOD{/s} {s}GoD{/s} God 吗？"
     },
     {
       "en": ": What does that have to do with anything?..",
@@ -1626,10 +1626,10 @@
       "en": ""
     },
     {
-      "en": ": You’ve seen God.",
+      "en": ": {i}You’ve seen God.{/i}",
       "spk": "Strange Girl",
       "spkColor": "#FFFFFF",
-      "zh": ": 你见过神。"
+      "zh": ": {i}你见过神。{/i}"
     },
     {
       "en": ": I can see it in your eyes.",
@@ -1644,16 +1644,16 @@
       "zh": ": 噢，我何等嫉妒……"
     },
     {
-      "en": ": To think he’d grace you with his presence...",
+      "en": ": To think he’d grace {i}you{/i} with his presence...",
       "spk": "Strange Girl",
       "spkColor": "#FFFFFF",
-      "zh": ": 想不到他竟肯降临在你面前……"
+      "zh": ": 想不到他竟肯降临在{i}你{/i}面前……"
     },
     {
-      "en": ": And yet will do naught but speak with me.",
+      "en": ": And yet will do naught but {i}speak{/i} with me.",
       "spk": "Strange Girl",
       "spkColor": "#FFFFFF",
-      "zh": ": 却只肯跟我说话。"
+      "zh": ": 却只肯跟我{i}说话{/i}。"
     },
     {
       "en": ": Should we maybe...call someone?...",
@@ -1943,16 +1943,16 @@
       "en": ""
     },
     {
-      "en": "Sana’s affection has increased to [sana_love]!",
-      "zh": "Sana 的好感度提升到了 [sana_love]！"
+      "en": "{i}Sana’s affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]！{/i}"
     },
     {
-      "en": "You walk her back to the dorm.",
-      "zh": "你把她送回了宿舍。"
+      "en": "{i}You walk her back to the dorm.{/i}",
+      "zh": "{i}你把她送回了宿舍。{/i}"
     },
     {
-      "en": "She trembles the entire way.",
-      "zh": "一路上她都在发抖。"
+      "en": "{i}She trembles the entire way.{/i}",
+      "zh": "{i}一路上她都在发抖。{/i}"
     },
     {
       "en": ""

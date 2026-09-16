@@ -1,6 +1,6 @@
 {
   "label": "toukastreetsgen",
-  "title_zh": "街头向导",
+  "title_zh": "toukastreetsgen",
   "lines": [
     {
       "en": ""
@@ -33,8 +33,8 @@
       "zh": ""
     },
     {
-      "en": "It's a bit like hanging out with a child, except this particular child is old enough to reproduce and push out an actual child that will emerge with a silver spoon in hand.",
-      "zh": "有点像陪小孩玩——只不过这个「小孩」已经大到能生育、能生出一个「含着银汤匙」降生的真小孩了。"
+      "en": "It's a bit like hanging out with a child, except this particular child is old enough to reproduce and push out an {i}actual{/i} child that will emerge with a silver spoon in hand.",
+      "zh": "有点像陪小孩玩——只不过这个「小孩」已经大到能生育、能生出一个「含着银汤匙」降生的{i}真{/i}小孩了。"
     },
     {
       "en": ""
@@ -89,8 +89,8 @@
       "en": ""
     },
     {
-      "en": "Touka's affection has increased to [touka_love]!",
-      "zh": "Touka 的好感度上升到了 [touka_love]！"
+      "en": "{i}Touka's affection has increased to [touka_love]!{/i}",
+      "zh": "{i}Touka 的好感度上升到了 [touka_love]！{/i}"
     },
     {
       "en": ".........",

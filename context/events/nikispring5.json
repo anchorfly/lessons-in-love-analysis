@@ -13,8 +13,8 @@
       "en": ""
     },
     {
-      "en": "A short while later...",
-      "zh": "片刻之后……"
+      "en": "{i}A short while later...{/i}",
+      "zh": "{i}片刻之后……{/i}"
     },
     {
       "en": ""
@@ -32,10 +32,10 @@
       "en": ""
     },
     {
-      "en": ": Hah...I’m starting to get the feeling Noriko won’t be joining us after all.",
+      "en": ": {i}Hah...{/i}I’m starting to get the feeling Noriko won’t be joining us after all.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 哈……我开始有种感觉，Noriko 大概终究是不会来了。"
+      "zh": ": {i}哈……{/i}我开始有种感觉，Noriko 大概终究是不会来了。"
     },
     {
       "en": ": I’m sure she’ll come eventually, Aunt Niki. We probably just need to wait a little while longer.",
@@ -71,10 +71,10 @@
       "en": ""
     },
     {
-      "en": ": You’re sure you’re not overheating? Because we don’t need to stay in here if you are. Are you thirsty, maybe? Should I call out to Patrice for a bottle of-",
+      "en": ": You’re sure you’re not overheating? Because we don’t {i}need{/i} to stay in here if you are. Are you thirsty, maybe? Should I call out to Patrice for a bottle of-",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你确定没有泡晕吗？要是晕了，我们不用非待在这儿。要不要喝点什么？我喊 Patrice 拿一瓶——"
+      "zh": ": 你确定没有泡晕吗？要是晕了，我们{i}不用{/i}非待在这儿。要不要喝点什么？我喊 Patrice 拿一瓶——"
     },
     {
       "en": ": I’m fine, really. But thanks for asking. And sorry I’m not exciting enough to entertain you without Noriko.",
@@ -221,10 +221,10 @@
       "zh": ": 我们不太发短信。我们的关系跟我和其他朋友之间有点……不一样。"
     },
     {
-      "en": ": Would...you like me to text you more?",
+      "en": ": Would...you like {i}me{/i} to text you more?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你……希望我多给你发短信吗？"
+      "zh": ": 你……希望{i}我{/i}多给你发短信吗？"
     },
     {
       "en": ""
@@ -242,10 +242,10 @@
       "en": ""
     },
     {
-      "en": ": You don’t have to feel bad for me, okay? I’m fine with things being this way. It gives me more time to focus on what’s actually important.",
+      "en": ": You don’t have to feel {i}bad{/i} for me, okay? I’m fine with things being this way. It gives me more time to focus on what’s actually important. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你不用同情我，好吗？这样子我觉得挺好的。这样我才有更多时间专注在真正重要的事上。"
+      "zh": ": 你不用{i}同情{/i}我，好吗？这样子我觉得挺好的。这样我才有更多时间专注在真正重要的事上。"
     },
     {
       "en": ": Don’t bring up dad sex. I told you no dad sex.",
@@ -281,16 +281,16 @@
       "zh": ": 你……指的是？"
     },
     {
-      "en": ": Mhm. I can’t be the perfect Ami if I’m always distracted by what everyone else is doing. And I have been. Distracted, I mean. Which is why it’s been a while since I’ve felt 100%%.",
+      "en": ": Mhm. I can’t be the {i}perfect{/i} Ami if I’m always distracted by what everyone else is doing. And I {i}have{/i} been. Distracted, I mean. Which is why it’s been a while since I’ve felt 100%%.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 嗯。如果我老是分心去在意别人在做什么，就没法当完美的 Ami 了。而我确实一直如此。我是说，一直分心。所以我好久都没有 100%% 的状态了。"
+      "zh": ": 嗯。如果我老是分心去在意别人在做什么，就没法当{i}完美{/i}的 Ami 了。而我{i}确实{/i}一直如此。我是说，一直分心。所以我好久都没有 100%% 的状态了。"
     },
     {
-      "en": ": What do you mean by “perfect Ami?” People can’t be perfect. And I don’t want you trying to live up to unrealistic standards like that. It’s not healthy.",
+      "en": ": What do you mean by “perfect Ami?” People can’t be {i}perfect.{/i} And I don’t want you trying to live up to unrealistic standards like that. It’s not healthy.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 「完美的 Ami」是什么意思？人是不可能完美的。我也不想让你去够那种不切实际的标准。这不健康。"
+      "zh": ": 「完美的 Ami」是什么意思？人是不可能{i}完美{/i}的。我也不想让你去够那种不切实际的标准。这不健康。"
     },
     {
       "en": ""
@@ -341,10 +341,10 @@
       "en": ""
     },
     {
-      "en": ": I’m a Japanese idol, Ami. It’s those fucking K-Pop girls who turn themselves into statues for the sake of their work. We actually put emphasis on flaws over here.",
+      "en": ": I’m a {i}Japanese{/i} idol, Ami. It’s those fucking K-Pop girls who turn themselves into statues for the sake of their work. {i}We{/i} actually put emphasis on flaws over here.  ",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我是日本偶像，Ami。把自己雕成雕像的是那些该死的韩流女团。我们这边反而强调缺点。"
+      "zh": ": 我是{i}日本{/i}偶像，Ami。把自己雕成雕像的是那些该死的韩流女团。{i}我们{/i}这边反而强调缺点。"
     },
     {
       "en": ": Do you...have a vendetta against K-Pop, Aunt Niki?",
@@ -353,16 +353,16 @@
       "zh": ": 你……跟韩流有仇吗，Niki 阿姨？"
     },
     {
-      "en": ": Mmm...it’s less of a vendetta and more just feeling bad for them. All those plastic surgeries...veneers...ridiculous diets. It’s like they can’t even live or be themselves.",
+      "en": ": Mmm...it’s less of a {i}vendetta{/i} and more just feeling bad for them. All those plastic surgeries...veneers...ridiculous diets. It’s like they can’t even live or be themselves.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 嗯……与其说有仇，不如说是同情她们。那些整容……贴片……荒唐的节食。她们简直连活成自己都做不到。"
+      "zh": ": 嗯……与其说{i}有仇{/i}，不如说是同情她们。那些整容……贴片……荒唐的节食。她们简直连活成自己都做不到。"
     },
     {
-      "en": ": If that’s the case, what are your flaws then? Because I can’t find any at all.",
+      "en": ": If that’s the case, what {i}are{/i} your flaws then? Because I can’t find any at all.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 既然如此，那你的缺点是什么？因为我一个都找不到。"
+      "zh": ": 既然如此，那你的缺点{i}是{/i}什么？因为我一个都找不到。"
     },
     {
       "en": ""
@@ -392,16 +392,16 @@
       "zh": ": 那大概很难把这些展现给公众吧？"
     },
     {
-      "en": ": Cause like, if Japanese idols are supposed to be imperfect, and all of your flaws occur behind the scenes, what exactly are you trying to portray when you’re on stage?",
+      "en": ": Cause like, if Japanese idols are {i}supposed{/i} to be imperfect, and all of your flaws occur behind the scenes, what exactly are you trying to portray when you’re on stage?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 就是说，如果日本偶像本该是不完美的，而你的缺点又都发生在幕后，那你在台上到底想展现什么？"
+      "zh": ": 就是说，如果日本偶像{i}本该{/i}是不完美的，而你的缺点又都发生在幕后，那你在台上到底想展现什么？"
     },
     {
-      "en": ": See, that’s the interesting part. Because while my physical image might be perfect, the flaws come out in droves when you actually listen to what I’m singing about.",
+      "en": ": See, that’s the interesting part. Because while my physical {i}image{/i} might be perfect, the flaws come out in droves when you actually listen to what I’m singing about. ",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 瞧，这就是有趣的地方。因为虽然我的外在形象可能是完美的，可你一旦真的去听我唱的是什么，那些缺点就会成群结队地冒出来。"
+      "zh": ": 瞧，这就是有趣的地方。因为虽然我的外在{i}形象{/i}可能是完美的，可你一旦真的去听我唱的是什么，那些缺点就会成群结队地冒出来。"
     },
     {
       "en": ""
@@ -419,10 +419,10 @@
       "en": ""
     },
     {
-      "en": ": At least in all of the songs that don’t get really popular. But those songs are how I connect with my audience on a real level. That’s where Niki is.",
+      "en": ": At least in all of the songs that don’t get really popular. But those songs are how I connect with my audience on a {i}real{/i} level. That’s where {i}Niki{/i} is.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 至少在所有不太红的歌里是这样。但那些歌才是我真正跟听众建立联结的方式。那才是 Niki 所在的地方。"
+      "zh": ": 至少在所有不太红的歌里是这样。但那些歌才是我{i}真正{/i}跟听众建立联结的方式。那才是 {i}Niki{/i} 所在的地方。"
     },
     {
       "en": ": I’m still not really sure I get it, but I don’t really pay much attention to lyrics so...",
@@ -446,22 +446,22 @@
       "en": ""
     },
     {
-      "en": ": Aren’t you a poet now? You mean to tell me you can write stuff like that and not listen to the words of a song?",
+      "en": ": Aren’t you a poet now? You mean to tell me you can write stuff like that and {i}not{/i} listen to the words of a song? ",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你现在不是诗人了吗？你是说，你能写出那种东西，却不去听歌里的词？"
+      "zh": ": 你现在{i}不是{/i}诗人了吗？你是说，你能写出那种东西，却不去听歌里的词？"
     },
     {
-      "en": ": I’m not a very good one. I sort of just...write how I feel and...rhyme stuff.",
+      "en": ": I’m not a very {i}good{/i} one. I sort of just...write how I feel and...rhyme stuff. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我不算什么好诗人。我大概就是……把感受写下来，然后……押个韵。"
+      "zh": ": 我不算什么{i}好{/i}诗人。我大概就是……把感受写下来，然后……押个韵。"
     },
     {
-      "en": ": I’m sure you’re great. You just come from a family of poets, so it’s probably hard to compare yourself to them and not feel a little disadvantaged.",
+      "en": ": I’m sure you’re great. You just come from a family of poets, so it’s probably hard to compare yourself to them and {i}not{/i} feel a little disadvantaged.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我相信你很棒。你出身诗人世家，拿自己跟他们比，难免会觉得有点吃亏。"
+      "zh": ": 我相信你很棒。你出身诗人世家，拿自己跟他们比，{i}难免{/i}会觉得有点吃亏。"
     },
     {
       "en": ": My music’s just like that too, though. I write how I feel and try to rhyme stuff.",
@@ -470,10 +470,10 @@
       "zh": ": 我的音乐也是这样。我把感受写下来，试着押个韵。"
     },
     {
-      "en": ": My producers hate me for it, of course. And yes, they do help with the production, but writing my own lyrics is something I refuse to budge on because I kind of...want to emphasize my flaws.",
+      "en": ": My producers hate me for it, of course. And yes, they do help with the production, but writing my own lyrics is something I refuse to budge on because I kind of...{i}want{/i} to emphasize my flaws.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我的制作人当然恨死我这点了。没错，制作上他们确实有帮忙，但自己写词这件事我死也不肯让步，因为我有点……想突出自己的缺点。"
+      "zh": ": 我的制作人当然恨死我这点了。没错，制作上他们确实有帮忙，但自己写词这件事我死也不肯让步，因为我有点……{i}想{/i}突出自己的缺点。"
     },
     {
       "en": ": It makes me feel better about myself. It’s how I kept going when your father left me behind.",
@@ -497,10 +497,10 @@
       "en": ""
     },
     {
-      "en": ": I just have to be creative when I do it. Generic-ish, I guess. Use symbolism instead of things that actually happened because the hard truth would just turn people off.",
+      "en": ": I just have to be creative when I do it. Generic-ish, I guess. Use symbolism instead of things that {i}actually{/i} happened because the hard truth would just turn people off.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 只是我得玩点花样。大概要写得通用一些。用象征，而不是照搬真事，因为太赤裸的真相只会把人吓跑。"
+      "zh": ": 只是我得玩点花样。大概要写得通用一些。用象征，而不是照搬{i}真事{/i}，因为太赤裸的真相只会把人吓跑。"
     },
     {
       "en": ": “Hard truth” as in the fact that you’ve been obsessed with my dad for over a decade now and can’t leave him alone despite how much you know you should?",
@@ -524,16 +524,16 @@
       "en": ""
     },
     {
-      "en": ": Bingo. Anyone who pays any amount of attention to my lyrics understands that there’s something I can’t let go of.",
+      "en": ": Bingo. Anyone who pays {i}any{/i} amount of attention to my lyrics understands that there’s something I can’t let go of. ",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 答对了。任何稍微留意我歌词的人，都能明白有件事我放不下。"
+      "zh": ": 答对了。{i}任何{/i}稍微留意我歌词的人，都能明白有件事我放不下。"
     },
     {
-      "en": ": They get that I’m clingy and obsessive and desperate and scared. And they get it because I share it with them. Those are the flaws I emphasize. Internal ones.",
+      "en": ": They get that I’m clingy and obsessive and desperate and scared. And they {i}get{/i} it because I share it with them. {i}Those{/i} are the flaws I emphasize. Internal ones.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 他们明白我很黏人、很偏执、很绝望、很害怕。他们能明白，是因为我把这些分享给了他们。这就是我突出的缺点。内里的那些。"
+      "zh": ": 他们明白我很黏人、很偏执、很绝望、很害怕。他们{i}能明白{/i}，是因为我把这些分享给了他们。{i}这{/i}就是我突出的缺点。内里的那些。"
     },
     {
       "en": ": Which creates this sweet duality because you’ve got this picture-perfect babe who everyone’s pining over that is actually just permanently dying on the inside due to the way she naturally is!",
@@ -542,10 +542,10 @@
       "zh": ": 这就形成了一种甜美的双面性——外面是个完美如画、人人倾慕的尤物，内里却因为自己的本性而永远在慢慢死去！"
     },
     {
-      "en": ": Okay, yeah. I get it now. I can see the flaws when you put it that way. I just try not to think of stuff like that as a flaw to begin with.",
+      "en": ": Okay, yeah. I get it now. I {i}can{/i} see the flaws when you put it that way. I just try not to think of stuff like that as a {i}flaw{/i} to begin with. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 好吧，嗯，我现在懂了。你这么说我就能看出那些缺点了。只是我本来就不太愿意把这种事当成缺点。"
+      "zh": ": 好吧，嗯，我现在懂了。你这么说我{i}就能{/i}看出那些缺点了。只是我本来就不太愿意把这种事当成{i}缺点{/i}。"
     },
     {
       "en": ""
@@ -563,10 +563,10 @@
       "en": ""
     },
     {
-      "en": ": Because you’re crazy too. And you do the same thing as me. Just you happen to be related to the thing you’re obsessed with.",
+      "en": ": Because {i}you’re{/i} crazy too. And you do the same thing as me. Just {i}you{/i} happen to be related to the thing you’re obsessed with.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 因为你也疯啊。你跟我做的是一样的事。只不过你迷恋的对象碰巧跟你有血缘关系。"
+      "zh": ": 因为{i}你{/i}也疯啊。你跟我做的是一样的事。只不过{i}你{/i}迷恋的对象碰巧跟你有血缘关系。"
     },
     {
       "en": ""
@@ -584,16 +584,16 @@
       "en": ""
     },
     {
-      "en": ": Well, I like to consider that a strength. It just means that my love transcends societal norms while everyone else’s is weak and breakable.",
+      "en": ": Well, {i}I{/i} like to consider that a strength. It just means that {i}my{/i} love transcends societal norms while everyone else’s is weak and breakable.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 嗯，我倒觉得那是优点。这只说明我的爱超越了社会规范，而别人的爱又软弱又易碎。"
+      "zh": ": 嗯，{i}我{/i}倒觉得那是优点。这只说明{i}我的{/i}爱超越了社会规范，而别人的爱又软弱又易碎。"
     },
     {
-      "en": ": Heh. I kind of wish my love was breakable. It would definitely make my life easier.",
+      "en": ": Heh. I kind of {i}wish{/i} my love was breakable. It would definitely make my life easier. ",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 呵。我倒有点希望我的爱能碎掉。那肯定会让我的日子好过很多。"
+      "zh": ": 呵。我倒有点{i}希望{/i}我的爱能碎掉。那肯定会让我的日子好过很多。"
     },
     {
       "en": ""
@@ -611,10 +611,10 @@
       "en": ""
     },
     {
-      "en": ": But also — I wouldn’t be able to do things like this if it was. And you’d probably be in this bath with that Sara lady right now if that were the case.",
+      "en": ": But also — I wouldn’t be able to do things like {i}this{/i} if it was. And you’d probably be in this bath with that {i}Sara{/i} lady right now if that were the case.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 不过——如果它真能碎，我也就没法做现在这些事了。而且真那样的话，现在跟你泡澡的大概就是那个 Sara 女士了。"
+      "zh": ": 不过——如果它真能碎，我也就没法做现在{i}这些{/i}事了。而且真那样的话，现在跟你泡澡的大概就是那个 {i}Sara{/i} 女士了。"
     },
     {
       "en": ": Wow. You’re really jealous of her, aren’t you?",
@@ -638,10 +638,10 @@
       "en": ""
     },
     {
-      "en": ": You could have so easily kept me oblivious to her existence and you decided not to. This is your fault, twerp.",
+      "en": ": You could have so easily kept me oblivious to her existence and you decided not to. This is {i}your{/i} fault, twerp.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你本来可以轻轻松松让我对她的存在一无所知，你却偏不。这都是你的错，小鬼。"
+      "zh": ": 你本来可以轻轻松松让我对她的存在一无所知，你却偏不。这都是{i}你的{/i}错，小鬼。"
     },
     {
       "en": ": It’s just a little funny. Cute, even. Because you never seem to get jealous when me or my friends spend time with my dad.",
@@ -665,10 +665,10 @@
       "en": ""
     },
     {
-      "en": ": Well, yeah. This is a grown woman we’re talking about this time. And you like her too. So it’s like a double whammy of jealousness.",
+      "en": ": Well, yeah. This is a grown woman we’re talking about this time. And {i}you{/i} like her too. So it’s like a double whammy of jealousness.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 嗯，是啊。这次说的可是个成年女人。而且你也喜欢她。所以这是双重的嫉妒打击。"
+      "zh": ": 嗯，是啊。这次说的可是个成年女人。而且{i}你{/i}也喜欢她。所以这是双重的嫉妒打击。"
     },
     {
       "en": ": So her age is the main factor? You don’t think my dad could possibly fall for anyone younger?",
@@ -683,10 +683,10 @@
       "zh": ": 我……说实话尽量不去想那个。"
     },
     {
-      "en": ": Is that because you have faith that he wouldn’t actually do anything like that? Or because you’d have no choice but to live in a constant state of worry if you did?",
+      "en": ": Is that because you have faith that he wouldn’t actually do anything like that? Or because you’d have no choice but to live in a constant state of worry if you {i}did?{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 那是因为你相信他不会真做出那种事？还是因为，一旦你相信了，你就只能永远活在担忧里？"
+      "zh": ": 那是因为你相信他不会真做出那种事？还是因为，一旦你{i}相信了{/i}，你就只能永远活在担忧里？"
     },
     {
       "en": ": I...",
@@ -728,10 +728,10 @@
       "zh": ": 不不！别换话题。我自己就是女高中生，你对这事的想法直接关系到我们能不能更亲近。"
     },
     {
-      "en": ": Plus, if you have any tips on how to not be jealous of other girls my age, I’d love to hear them. Because I know I struggle having faith in my dad sometimes. Do you, Aunt Niki?",
+      "en": ": Plus, if you have any tips on how to {i}not{/i} be jealous of other girls my age, I’d love to hear them. Because I know {i}I{/i} struggle having faith in my dad sometimes. Do you, Aunt Niki?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 再说，如果你有什么「不吃同龄女孩的醋」的诀窍，我很想听听。因为我知道，我自己有时候也很难完全信任我爸。你呢，Niki 阿姨？"
+      "zh": ": 再说，如果你有什么「{i}不{/i}吃同龄女孩的醋」的诀窍，我很想听听。因为我知道，{i}我自己{/i}有时候也很难完全信任我爸。你呢，Niki 阿姨？"
     },
     {
       "en": ""
@@ -755,10 +755,10 @@
       "zh": ": ……我当然信任他。他是……我生命里最重要的人。"
     },
     {
-      "en": ": Noriko’s up there too though, isn’t she? And she spends a ton of time with him. Are you not worried about her? Why is it just Sara?",
+      "en": ": Noriko’s up there too though, isn’t she? And {i}she{/i} spends a ton of time with him. Are you not worried about {i}her?{/i} Why is it just Sara?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 可 Noriko 也算吧？而且她跟他待在一起的时间那么长。你不担心她吗？为什么只盯着 Sara？"
+      "zh": ": 可 Noriko 也算吧？而且{i}她{/i}跟他待在一起的时间那么长。你不担心{i}她{/i}吗？为什么只盯着 Sara？"
     },
     {
       "en": ": Noriko’s more like a little sister to Akira than anything else. I’m not...jealous of that.",
@@ -773,10 +773,10 @@
       "zh": ": 可你知道她爱上他了吧？"
     },
     {
-      "en": ": I know...she thinks she’s in love with him. The same way you do. But you two are still teenagers and...you’ll grow out of that.",
+      "en": ": I know...she {i}thinks{/i} she’s in love with him. The same way {i}you{/i} do. But you two are still teenagers and...you’ll grow out of that. ",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 我知道……她自以为爱上了他。跟你一样。可你们两个都还是十几岁的孩子，而且……你们会长大，会走出来的。"
+      "zh": ": 我知道……她{i}自以为{/i}爱上了他。跟{i}你{/i}一样。可你们两个都还是十几岁的孩子，而且……你们会长大，会走出来的。"
     },
     {
       "en": ": You’ll realize in time it was more...hormones or...admiration than actual romantic feelings. And you’ll get older and...fall for somebody else.",
@@ -785,10 +785,10 @@
       "zh": ": 总有一天你们会明白，那更多是……荷尔蒙，或者……崇拜，而不是真正的爱情。你们会长大，然后……爱上别人。"
     },
     {
-      "en": ": But if my dad were to return any of those blossoming feelings-",
+      "en": ": But if my dad were to {i}return{/i} any of those blossoming feelings-",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 可如果我爸回应了那些萌发的感情——"
+      "zh": ": 可如果我爸{i}回应{/i}了那些萌发的感情——"
     },
     {
       "en": ": He wouldn’t...",
@@ -830,10 +830,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": Does he, though?",
+      "en": ": {i}Does{/i} he, though?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 真的吗？"
+      "zh": ": {i}真的{/i}吗？"
     },
     {
       "en": ": Are you sure this isn’t just another one of your “flaws?” Having too much faith in someone and just tricking yourself into thinking they’re governed by the same principles as you?",
@@ -854,10 +854,10 @@
       "zh": ": 你觉得一个人怎么会变成那样呢，Niki 阿姨？"
     },
     {
-      "en": ": If it’s true that he’s worse than you imagine...do you think he’s always been that way?",
+      "en": ": If it’s true that he’s worse than you imagine...do you think he’s {i}always{/i} been that way? ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 如果他真的比你想象的更糟……你觉得他一直都是那样吗？"
+      "zh": ": 如果他真的比你想象的更糟……你觉得他{i}一直{/i}都是那样吗？"
     },
     {
       "en": ""
@@ -875,10 +875,10 @@
       "en": ""
     },
     {
-      "en": ": Or do you think someone made him into that?",
+      "en": ": {i}Or do you think someone made him into that?{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 还是你觉得，是有人把他变成了那样？"
+      "zh": ": {i}还是你觉得，是有人把他变成了那样？{/i}"
     },
     {
       "en": ": Okay — I just finished chapter 215. What one are you on?",
@@ -947,10 +947,10 @@
       "zh": "什么语气？我不知道你在说什么。"
     },
     {
-      "en": ": That tone. The one you only use when you’re mad at me and want me to ask what’s wrong so you can scold me about something.",
+      "en": ": {i}That{/i} tone. The one you only use when you’re mad at me and want me to ask what’s wrong so you can scold me about something.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "那个语气。你只有在生我气、想让我问你怎么了、好借机数落我一顿的时候，才会用那个语气。"
+      "zh": "{i}那个{/i}语气。你只有在生我气、想让我问你怎么了、好借机数落我一顿的时候，才会用那个语气。"
     },
     {
       "en": ""
@@ -974,10 +974,10 @@
       "zh": "哦，好极了。行啊，既然你问了——我觉得你最近跟你那位老师待在一起的时间多得可疑。"
     },
     {
-      "en": ": And I do not approve of this since I am tired of waiting for you to be here to continue reading manga we’re supposed to read together.",
+      "en": ": And I do not approve of this since I am tired of waiting for you to be here to continue reading manga we’re supposed to read {i}together.{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": "而我对此很不赞成，因为我受够了等你过来，好继续看我们说好一起看的漫画。"
+      "zh": "而我对此很不赞成，因为我受够了等你过来，好继续看我们说好{i}一起{/i}看的漫画。"
     },
     {
       "en": ": Then just...read it without me and I’ll catch up when I can.",
@@ -1040,28 +1040,28 @@
       "zh": "可……你为什么在意啊？我每天都还在这儿。我又没有……把你丢下之类的。"
     },
     {
-      "en": ": Because it’s weird! My parents think so too.",
+      "en": ": Because it’s {i}weird!{/i} My parents think so too. ",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": "因为这很奇怪！我爸妈也这么觉得。"
+      "zh": "因为这很{i}奇怪{/i}！我爸妈也这么觉得。"
     },
     {
-      "en": ": She picks you up like every single day, they’ve never met her, and you’re always dismissive when they tell you to invite her over for dinner. Why?",
+      "en": ": She picks you up like every single day, they’ve never met her, and you’re always dismissive when they tell you to invite her over for dinner. {i}Why?{/i}",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": "她几乎每天都来接你，他们从没见过她，而且每次他们让你请她来吃晚饭，你都敷衍过去。为什么？"
+      "zh": "她几乎每天都来接你，他们从没见过她，而且每次他们让你请她来吃晚饭，你都敷衍过去。{i}为什么？{/i}"
     },
     {
-      "en": ": Why do they want to invite her over for dinner in the first place? That’s weird!",
+      "en": ": Why do they want to invite her over for dinner in the first place? {i}That’s{/i} weird!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "他们为什么一开始就想着请她来吃晚饭？那才奇怪吧！"
+      "zh": "他们为什么一开始就想着请她来吃晚饭？{i}那{/i}才奇怪吧！"
     },
     {
-      "en": ": Oh, I don’t know. Maybe because she’s in our driveway every single day and just happens to spend more time with you than your actual mom. Is that not reasonable?",
+      "en": ": Oh, I don’t know. Maybe because she’s in our driveway every single day and just happens to spend more time with you than your {i}actual{/i} mom. Is that not reasonable?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": "哦，我怎么会知道。大概因为她每天都在我们家车道上，而且碰巧跟你待的时间比你的亲妈还长。这难道不合理吗？"
+      "zh": "哦，我怎么会知道。大概因为她每天都在我们家车道上，而且碰巧跟你待的时间比你的{i}亲妈{/i}还长。这难道不合理吗？"
     },
     {
       "en": ": Not really, no! She’s just my teacher. There’s no reason for you or your parents to get involved.",
@@ -1085,22 +1085,22 @@
       "en": ""
     },
     {
-      "en": ": Are we not allowed to worry about you or something? Because you’re basically family, Akira. And if I started spending every waking hour with some weird adult-",
+      "en": ": Are we {i}not{/i} allowed to worry about you or something? Because you’re basically family, Akira. And if {i}I{/i} started spending every waking hour with some weird adult-",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": "我们连为你操心都不行了吗？你基本上就是家人啊，Akira。要是我整天整夜跟某个奇怪的成年人待在一起——"
+      "zh": "我们连为你操心都{i}不行{/i}了吗？你基本上就是家人啊，Akira。要是{i}我{/i}整天整夜跟某个奇怪的成年人待在一起——"
     },
     {
-      "en": ": She’s not weird. She’s just...eccentric. And she’s engaged to my brother, so she’s family too.",
+      "en": ": She’s not weird. She’s just...eccentric. And she’s engaged to my brother, so {i}she’s{/i} family too. ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "她不奇怪。她只是……有点古怪。而且她已经跟我哥订婚了，所以她也是家人。"
+      "zh": "她不奇怪。她只是……有点古怪。而且{i}她{/i}已经跟我哥订婚了，所以她也是家人。"
     },
     {
-      "en": ": I have a life outside of this house, Niki. And...I’d like to keep having that life without having to worry about you being there too.",
+      "en": ": I have a life outside of this house, Niki. And...I’d like to {i}keep{/i} having that life without having to worry about {i}you{/i} being there too.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "我在这个家之外还有自己的生活，Niki。而且……我想继续过那种生活，不用再操心你也在场。"
+      "zh": "我在这个家之外还有自己的生活，Niki。而且……我想{i}继续{/i}过那种生活，不用再操心{i}你{/i}也在场。"
     },
     {
       "en": ": Can you at least promise me you’re not in danger then?",
@@ -1136,10 +1136,10 @@
       "zh": "伤人的方法有很多种，不一定要杀人，Akira。我只是想知道你没事。就这样。"
     },
     {
-      "en": ": I’m fine, Niki. I just need extra tutoring. That’s all.",
+      "en": ": I’m fine, Niki. I just need extra tutoring. {i}That’s{/i} all.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "我没事，Niki。我只是需要额外的辅导。就这样。"
+      "zh": "我没事，Niki。我只是需要额外的辅导。就{i}这{/i}样。"
     },
     {
       "en": ": You promise?",
@@ -1148,10 +1148,10 @@
       "zh": "你保证？"
     },
     {
-      "en": ": Yes. I promise.",
+      "en": ": Yes. {i}I promise.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "嗯。我保证。"
+      "zh": "嗯。{i}我保证{/i}。"
     },
     {
       "en": ""
@@ -1181,10 +1181,10 @@
       "zh": ": Niki 阿姨？你泡晕了吗？我们要不要出浴缸？"
     },
     {
-      "en": ": What do you think about Akira, Ami?",
+      "en": ": What do {i}you{/i} think about Akira, Ami?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你怎么看 Akira，Ami？"
+      "zh": ": {i}你{/i}怎么看 Akira，Ami？"
     },
     {
       "en": ": Hm?",
@@ -1193,16 +1193,16 @@
       "zh": ": 嗯？"
     },
     {
-      "en": ": Do you think he’d ever cross the line with a girl your age? Or even...want to?",
+      "en": ": Do {i}you{/i} think he’d ever cross the line with a girl your age? Or even...{i}want{/i} to?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 你觉得他会跟你这个年纪的女孩越界吗？甚至……想过要越界吗？"
+      "zh": ": {i}你{/i}觉得他会跟你这个年纪的女孩越界吗？甚至……{i}想过要{/i}越界吗？"
     },
     {
-      "en": ": If Noriko was your little sister, how would you feel about having her spend so much time alone with him?",
+      "en": ": If Noriko was {i}your{/i} little sister, how would {i}you{/i} feel about having her spend so much time alone with him?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 如果 Noriko 是你妹妹，你会怎么看待她跟他单独待那么久？"
+      "zh": ": 如果 Noriko 是{i}你{/i}妹妹，{i}你{/i}会怎么看待她跟他单独待那么久？"
     },
     {
       "en": ": Hm...",
@@ -1238,10 +1238,10 @@
       "zh": ": 但不是因为我爸是坏人。是因为他很难过。"
     },
     {
-      "en": ": And he’ll take love in any form that he can get because it’s the only way he can distract himself from the pain of losing his first true love.",
+      "en": ": And he’ll take love in any form that he can get because it’s the only way he can distract himself from the pain of losing his {i}first{/i} true love.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 而他会接受任何形式的爱，因为那是他唯一能用来分散注意力、不去想失去初恋之痛的方式。"
+      "zh": ": 而他会接受任何形式的爱，因为那是他唯一能用来分散注意力、不去想失去{i}初恋{/i}之痛的方式。"
     },
     {
       "en": ": ...",
@@ -1307,10 +1307,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": If she did, would you think she was evil?",
+      "en": ": If she did, would you think {i}she{/i} was evil?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 如果她真的做了，你会觉得她是坏人吗？"
+      "zh": ": 如果{i}她{/i}真的做了，你会觉得她是坏人吗？"
     },
     {
       "en": ""
@@ -1397,10 +1397,10 @@
       "en": ""
     },
     {
-      "en": ": Then maybe you should worry, Aunt Niki.",
+      "en": ": Then maybe you {i}should{/i} worry, Aunt Niki. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 那也许你该担心了，Niki 阿姨。"
+      "zh": ": 那也许你{i}该{/i}担心了，Niki 阿姨。"
     },
     {
       "en": ": And maybe there are people out there who lean further into their flaws than just throwing sad words into happy-sounding songs.",
@@ -1427,10 +1427,10 @@
       "zh": ": 你学会了欣赏不完美，我肯定你懂这个。"
     },
     {
-      "en": ": And even if you don’t...even if you can’t, you made a promise...didn’t you?",
+      "en": ": And even if you don’t...even if you {i}can’t,{/i} you made a promise...didn’t you? ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 而就算你不懂……就算你做不到，你也立过誓的……不是吗？"
+      "zh": ": 而就算你不懂……就算你{i}做不到{/i}，你也立过誓的……不是吗？"
     },
     {
       "en": ": To stay by his side forever?",

@@ -1,137 +1,137 @@
 {
- "label": "yumispringnightgen",
- "title_zh": "被撞破的可能",
- "lines": [
-  {
-   "en": ""
-  },
-  {
-   "en": "label yumispringnightgen:",
-   "zh": ""
-  },
-  {
-   "en": "scene yumispringnightgen",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yumispringnightgen.webp",
-   "alt": "yumispringnightgen"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Yumi, for reasons beyond my comprehension, answers my call and agrees to meet up with me in the old district for an hour or two.",
-   "zh": "Yumi 出于我无法理解的原因接了我的电话，同意到老城区和我待上一两个小时。"
-  },
-  {
-   "en": "Considering that I’ll be with her for about the same amount of time as my walk to actually get there, I don’t see it as a solid investment of time, but it’s not like I have anything else going on tonight.",
-   "zh": "考虑到我跟她待在一起的时间，大概跟我走到那儿花的时间差不多，我不觉得这是对时间的稳妥投资——不过反正我今晚也没别的事。"
-  },
-  {
-   "en": "Once I arrive, the two of us do laps around the neighborhood surrounding Chika’s house.",
-   "zh": "等我到了之后，我们俩绕着 Chika 家附近的街区转圈。"
-  },
-  {
-   "en": "But unlike the way things used to be, we don't try to avoid it anymore.",
-   "zh": "但不像从前那样，我们不再刻意避开那里了。"
-  },
-  {
-   "en": "At several points, I can even spot her slow down as we pass by the Chosokabes' balcony. I spot the way her eyes dart up to the glass and the way she holds her breath, like she's excited to be caught.",
-   "zh": "有好几次，我甚至能看到我们经过 Chosokabe 家的阳台时，她放慢了脚步。我看到她的眼睛瞟向那面玻璃，看到她屏住呼吸，像是期待被人撞见。"
-  },
-  {
-   "en": "That might just be the way I want to see things, though. How I want them to be.",
-   "zh": "不过那也许只是我希望看到的样子。是我希望事情成为的样子。"
-  },
-  {
-   "en": "For the only thing more tantalizing than infidelity alone is the prospect of it being unearthed.",
-   "zh": "因为唯一比出轨本身更诱人的，是它被揭穿的可能。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "So I bury myself in the idea of a night inside a Yakuza princess.",
-   "zh": "于是我把自己埋进“在一位黑道公主体内度过一夜”的想象里。"
-  },
-  {
-   "en": "And she buries herself in what I can only imagine is a lifetime's worth of internal conflict of whether what she wants is best for everyone else.",
-   "zh": "而她把自己埋进的，我能想到的只有一生的内心挣扎——她想要的东西，是否对其他人最好。"
-  },
-  {
-   "en": "It's not.",
-   "zh": "并不是。"
-  },
-  {
-   "en": "But I will push that reasoning aside for now as, in this moment, my biggest concern is winning over the girl I came here to see.",
-   "zh": "但眼下我会把这个念头推到一边，因为此刻我最关心的，是赢得我来这儿要见的那个女孩。"
-  },
-  {
-   "en": "The one who does not yet rely on me.",
-   "zh": "那个还不依赖我的女孩。"
-  },
-  {
-   "en": "The one who wants to.",
-   "zh": "那个想要依赖我的女孩。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ yumi_love += 1",
-   "zh": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Yumi’s affection has increased to [yumi_love]!",
-   "zh": "Yumi 的好感度提升到了 [yumi_love]!"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "if day >= 6:",
-   "zh": ""
-  },
-  {
-   "en": "jump endofsatch4",
-   "zh": ""
-  },
-  {
-   "en": "else:",
-   "zh": ""
-  },
-  {
-   "en": "jump endofweekdaych4",
-   "zh": ""
-  }
- ]
+  "label": "yumispringnightgen",
+  "title_zh": "yumispringnightgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label yumispringnightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene yumispringnightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yumispringnightgen.webp",
+      "alt": "yumispringnightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yumi, for reasons beyond my comprehension, answers my call and agrees to meet up with me in the old district for an hour or two.",
+      "zh": "Yumi 出于我无法理解的原因接了我的电话，同意到老城区和我待上一两个小时。"
+    },
+    {
+      "en": "Considering that I’ll be with her for about the same amount of time as my walk to actually {i}get{/i} there, I don’t see it as a solid investment of time, but it’s not like I have anything else going on tonight.",
+      "zh": "考虑到我跟她待在一起的时间，大概跟我{i}走到{/i}那儿花的时间差不多，我不觉得这是对时间的稳妥投资——不过反正我今晚也没别的事。"
+    },
+    {
+      "en": "Once I arrive, the two of us do laps around the neighborhood surrounding Chika’s house.",
+      "zh": "等我到了之后，我们俩绕着 Chika 家附近的街区转圈。"
+    },
+    {
+      "en": "But unlike the way things used to be, we don't try to avoid it anymore.",
+      "zh": "但不像从前那样，我们不再刻意避开那里了。"
+    },
+    {
+      "en": "At several points, I can even spot her slow down as we pass by the Chosokabes' balcony. I spot the way her eyes dart up to the glass and the way she holds her breath, like she's {i}excited{/i} to be caught.",
+      "zh": "有好几次，我甚至能看到我们经过 Chosokabe 家的阳台时，她放慢了脚步。我看到她的眼睛瞟向那面玻璃，看到她屏住呼吸，像是{i}期待{/i}被人撞见。"
+    },
+    {
+      "en": "That might just be the way I want to see things, though. How I want them to be.",
+      "zh": "不过那也许只是我希望看到的样子。是我希望事情成为的样子。"
+    },
+    {
+      "en": "For the only thing more tantalizing than infidelity alone is the prospect of it being unearthed.",
+      "zh": "因为唯一比出轨本身更诱人的，是它被揭穿的可能。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "So I bury myself in the idea of a night inside a Yakuza princess.",
+      "zh": "于是我把自己埋进“在一位黑道公主体内度过一夜”的想象里。"
+    },
+    {
+      "en": "And she buries {i}herself{/i} in what I can only imagine is a lifetime's worth of internal conflict of whether what {i}she{/i} wants is best for everyone else.",
+      "zh": "而她把{i}自己{/i}埋进的，我能想到的只有一生的内心挣扎——{i}她{/i}想要的东西，是否对其他人最好。"
+    },
+    {
+      "en": "It's not.",
+      "zh": "并不是。"
+    },
+    {
+      "en": "But I will push that reasoning aside for now as, in this moment, my biggest concern is winning over the girl I came here to see.",
+      "zh": "但眼下我会把这个念头推到一边，因为此刻我最关心的，是赢得我来这儿要见的那个女孩。"
+    },
+    {
+      "en": "The one who does not yet rely on me.",
+      "zh": "那个还不依赖我的女孩。"
+    },
+    {
+      "en": "The one who wants to.",
+      "zh": "那个想要依赖我的女孩。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yumi_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Yumi’s affection has increased to [yumi_love]!{/i}",
+      "zh": "{i}Yumi 的好感度提升到了 [yumi_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
 }

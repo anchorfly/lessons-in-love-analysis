@@ -1,6 +1,6 @@
 {
   "label": "mayafestival1",
-  "title_zh": "梦境深处的某处",
+  "title_zh": "梦境中的某处",
   "lines": [
     {
       "en": ""
@@ -143,16 +143,16 @@
       "zh": ": 差不多吧，我想。"
     },
     {
-      "en": ": A smile this early? Are you sure it isn’t my birthday instead of yours?",
+      "en": ": A smile this early? Are you sure it isn’t {i}my{/i} birthday instead of yours?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 这么早就笑了？你确定今天不是我生日，而是你生日？"
+      "zh": ": 这么早就笑了？你确定今天不是{i}我{/i}生日，而是你生日？"
     },
     {
-      "en": ": So you did remember and were just electing to not say anything. I’m not surprised at all.",
+      "en": ": So you {i}did{/i} remember and were just electing to not say anything. I’m not surprised at all.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 所以你其实记得，只是选择什么都不说。我一点也不意外。"
+      "zh": ": 所以你{i}其实{/i}记得，只是选择什么都不说。我一点也不意外。"
     },
     {
       "en": ": Fair warning, I might smile at several points throughout the day. You can stare in silence, but please don’t draw attention to any of them.",
@@ -235,10 +235,10 @@
       "zh": ": 另外，我没收到你送的生日礼物，就把她给你准备的早餐吃了。"
     },
     {
-      "en": ": That’s because I am the present.",
+      "en": ": That’s because {i}I{/i} am the present.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 因为我就是礼物。"
+      "zh": ": 因为{i}我{/i}就是礼物。"
     },
     {
       "en": ""
@@ -446,16 +446,16 @@
       "zh": ": 那衣柜装得下一个人的身体吗？因为我真的在认真考虑爬进去死在里面。"
     },
     {
-      "en": ": It will fit Uta and she has significantly more...width than you.",
+      "en": ": It will fit Uta and she has significantly more...{i}width{/i} than you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 装得下 Uta，而她的……宽度可比你大得多。"
+      "zh": ": 装得下 Uta，而她的……{i}宽度{/i}可比你大得多。"
     },
     {
-      "en": ": I take it her width has been in there quite a few times by now, then?",
+      "en": ": I take it her {i}width{/i} has been in there quite a few times by now, then?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 那我猜，她那个宽度已经进去过不少次了？"
+      "zh": ": 那我猜，她那个{i}宽度{/i}已经进去过不少次了？"
     },
     {
       "en": ": Yes, but I was only there for one of them.",
@@ -476,10 +476,10 @@
       "zh": ": 我觉得这次是你的问题，因为我真的没在这个柜子里干过什么龌龊事。"
     },
     {
-      "en": ": What a world we live in where you feel obligated to confirm to me the household objects you have not desecrated.",
+      "en": ": What a world we live in where you feel obligated to confirm to me the household objects you have {i}not{/i} desecrated.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我们活在一个什么样的世界啊——你居然觉得有必要向我确认，哪些家具你还没糟蹋过。"
+      "zh": ": 我们活在一个什么样的世界啊——你居然觉得有必要向我确认，哪些家具你还{i}没{/i}糟蹋过。"
     },
     {
       "en": ""
@@ -544,8 +544,8 @@
       "en": ""
     },
     {
-      "en": "Maya removes a small stack of research material from underneath my mattress and begins to flip through everything, entirely unfazed by the matter.",
-      "zh": "Maya 从床垫底下抽出一小摞「研究资料」翻了起来，对这事一点也不觉得别扭。"
+      "en": "Maya removes a small stack of {i}research material{/i} from underneath my mattress and begins to flip through everything, entirely unfazed by the matter.",
+      "zh": "Maya 从床垫底下抽出一小摞「{i}研究资料{/i}」翻了起来，对这事一点也不觉得别扭。"
     },
     {
       "en": ""
@@ -563,10 +563,10 @@
       "zh": ": 等等。那是什么？"
     },
     {
-      "en": ": What’s what? Because I haven’t looked at all of those magazines yet, and if there’s anything in there that’s weird-",
+      "en": ": What’s what? Because I haven’t looked at {i}all{/i} of those magazines yet, and if there’s anything in there that’s weird-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 什么什么？那些杂志我还没全部看过，要是里面有什么奇怪的——"
+      "zh": ": 什么什么？那些杂志我还没{i}全部{/i}看过，要是里面有什么奇怪的——"
     },
     {
       "en": ": Not the magazines. What are those notes hanging up near your door?",
@@ -575,8 +575,8 @@
       "zh": ": 不是杂志。挂在你门边那些便条是什么？"
     },
     {
-      "en": "Maya shoves my research material back underneath my mattress and makes her way over to the door...",
-      "zh": "Maya 把我的研究资料塞回床垫底下，朝门口走去……"
+      "en": "Maya shoves my {i}research material{/i} back underneath my mattress and makes her way over to the door...",
+      "zh": "Maya 把我的{i}研究资料{/i}塞回床垫底下，朝门口走去……"
     },
     {
       "en": ""
@@ -654,10 +654,10 @@
       "zh": ": 总之，有没有可能是你忘了自己把它贴上去的？"
     },
     {
-      "en": ": It is highly unlikely. Remembering is kind of my thing.",
+      "en": ": It is {i}highly{/i} unlikely. Remembering is kind of my thing.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 极不可能。记东西算是我的强项。"
+      "zh": ": {i}极{/i}不可能。记东西算是我的强项。"
     },
     {
       "en": ": I thought watermelons were your thing?",
@@ -757,15 +757,15 @@
       "zh": "也不知道她为什么要来得这么早。"
     },
     {
-      "en": "But hey, she wanted to spend the day with me. So if she wants the entire day, so be it.",
-      "zh": "不过嘛，她想跟我过这一天。那她想要一整天，就给她一整天好了。"
+      "en": "But hey, she wanted to spend the day with me. So if she wants the {i}entire{/i} day, so be it.",
+      "zh": "不过嘛，她想跟我过这一天。那她想要{i}一整天{/i}，就给她一整天好了。"
     },
     {
       "en": "I’m just glad Ami’s not here to see this because I can not imagine her taking it very well.",
       "zh": "我只是庆幸 Ami 不在，因为我实在想象不出她看到会怎么想。"
     },
     {
-      "en": "I’m also surprised that no one else asked me to this festival, but I guess my time would be better spent trying to figure out how to survive it with the person I am paired with.",
+      "en": "I’m also surprised that no one else asked me to this festival, but I guess my time would be better spent trying to figure out how to survive it with the person I {i}am{/i} paired with.",
       "zh": "我也挺意外居然没有别人约我去这个祭典，不过我的时间大概还是花在琢磨怎么跟眼前这个人一起活着撑过去比较好。"
     },
     {
@@ -799,10 +799,10 @@
       "zh": ": 我？当然喜欢。为什么不？"
     },
     {
-      "en": ": I don’t know. Something just feels off about the idea of you liking anything. All of your interests take me by surprise even when I know they exist.",
+      "en": ": I don’t know. Something just feels off about the idea of you liking {i}anything.{/i} All of your interests take me by surprise even when I know they exist.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不知道。想到你居然会喜欢什么东西，总觉得哪里不对。就算我知道你有那些兴趣，每次还是会被吓一跳。"
+      "zh": ": 不知道。想到你居然会喜欢{i}什么{/i}东西，总觉得哪里不对。就算我知道你有那些兴趣，每次还是会被吓一跳。"
     },
     {
       "en": ": I think you’re just projecting. I’m a normal [teenage]girl who likes most things that other normal [teenage]girls do.",
@@ -925,10 +925,10 @@
       "zh": ": 真的吗？你真正想要的就是这个？"
     },
     {
-      "en": ": It’s less what I want and more...me looking forward to experiencing it.",
+      "en": ": It’s less what I {i}want{/i} and more...me looking forward to experiencing it.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 与其说是想要，不如说是……我在期待体验一下。"
+      "zh": ": 与其说是{i}想{/i}要，不如说是……我在期待体验一下。"
     },
     {
       "en": ": There’s something rather liberating about being the envy of everyone when you can’t get in trouble for it.",
@@ -964,10 +964,10 @@
       "en": ""
     },
     {
-      "en": ": Wait. Ew. No. You can relate to that.",
+      "en": ": Wait. Ew. No. You {i}can{/i} relate to that. ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 等等。呕。不。你确实能体会。"
+      "zh": ": 等等。呕。不。你确实{i}能{/i}体会。"
     },
     {
       "en": ": Ugh. I think I’m going to be sick. Why did you let me say that?",
@@ -1051,10 +1051,10 @@
       "en": ""
     },
     {
-      "en": ": Is there any way at all that Ayane is pregnant?",
+      "en": ": Is there {i}any{/i} way {i}at all{/i} that Ayane is pregnant?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": Ayane 有没有任何可能怀孕了？"
+      "zh": ": Ayane 有没有{i}任何{/i}{i}可能{/i}怀孕了？"
     },
     {
       "en": ": Or any of the girls you’ve been sleeping with.",
@@ -1084,10 +1084,10 @@
       "en": ""
     },
     {
-      "en": ": It’s really not. You do know how babies are made, correct?",
+      "en": ": It’s really not. You {i}do{/i} know how babies are made, correct?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 一点都不复杂。你知道孩子是怎么来的吧？"
+      "zh": ": 一点都不复杂。你知道孩子{i}是{/i}怎么来的吧？"
     },
     {
       "en": ": No. Do you think you could show me?",
@@ -1126,10 +1126,10 @@
       "en": ""
     },
     {
-      "en": ": No. A “random” thing to be serious about would be polar bears or pogo sticks. This is a topic with direct relevance that, and I’m not kidding here, could screw everything up.",
+      "en": ": No. A “random” thing to be serious about would be polar bears or pogo sticks. This is a topic with direct relevance that, and I’m not kidding here, could screw {i}everything{/i} up.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 不。值得认真对待的「随机」话题是北极熊或者弹簧高跷。这事可是直接相关的，我不是在开玩笑，它能把一切搞砸。"
+      "zh": ": 不。值得认真对待的「随机」话题是北极熊或者弹簧高跷。这事可是直接相关的，我不是在开玩笑，它能把{i}一切{/i}搞砸。"
     },
     {
       "en": ": I don’t-",
@@ -1138,10 +1138,10 @@
       "zh": ": 我不——"
     },
     {
-      "en": ": Let me ask you a question. Why do you think Ayane made it to the roof last time? A feat that no one else has ever accomplished before. Why her?",
+      "en": ": Let me ask you a question. Why do {i}you{/i} think Ayane made it to the roof last time? A feat that no one else has ever accomplished before. Why her?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我问你一个问题。你觉得上次 Ayane 为什么能上到屋顶？那可是从来没有人做到过的事。为什么是她？"
+      "zh": ": 我问你一个问题。你觉得上次 Ayane 为什么能上到屋顶？那可是从{i}来{/i}没有人做到过的事。为什么是她？"
     },
     {
       "en": ": That’s-",
@@ -1174,10 +1174,10 @@
       "en": ""
     },
     {
-      "en": ": Because you two had sex and she got pregnant. Which means she was carrying your DNA inside of her. Which means she was a temporary extension of you.",
+      "en": ": Because you two had sex and she got pregnant. Which means she was carrying {i}your{/i} DNA inside of her. Which means she was a temporary extension of {i}you.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 因为你们两个上了床，她怀孕了。也就是说她体内带着你的 DNA。也就是说，她成了你一个临时的延伸。"
+      "zh": ": 因为你们两个上了床，她怀孕了。也就是说她体内带着{i}你的{/i} DNA。也就是说，她成了{i}你{/i}一个临时的延伸。"
     },
     {
       "en": ": Do you see where I’m going with this?",
@@ -1195,10 +1195,10 @@
       "zh": ": 你是说 Ayane 能上屋顶，只是因为她怀了我的孩子……恕我直言，这听起来有点荒唐。"
     },
     {
-      "en": ": What isn’t ridiculous about this life we’re living?",
+      "en": ": What {i}isn’t{/i} ridiculous about this life we’re living?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我们现在过的这种日子，有什么不荒唐的？"
+      "zh": ": 我们现在过的这种日子，有什么{i}不{/i}荒唐的？"
     },
     {
       "en": ": That doesn’t-",
@@ -1396,10 +1396,10 @@
       "zh": ": 你这么问，是因为你也承认了你可能把种子种在了别人身体里？"
     },
     {
-      "en": ": And, if that’s the case- are you confused by how only Ayane has made it there?",
+      "en": ": And, if that’s the case- are you confused by how only {i}Ayane{/i} has made it there?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 而如果是这样——你是不是也困惑，为什么只有 Ayane 上去了？"
+      "zh": ": 而如果是这样——你是不是也困惑，为什么只有 {i}Ayane{/i} 上去了？"
     },
     {
       "en": ": Because these are things I’ve questioned myself as well. And I don’t know.",
@@ -1480,8 +1480,8 @@
       "en": ""
     },
     {
-      "en": "A moment of silence.",
-      "zh": "一阵沉默。"
+      "en": "{i}A moment of silence.{/i}",
+      "zh": "{i}一阵沉默。{/i}"
     },
     {
       "en": ""
@@ -1496,8 +1496,8 @@
       "en": ""
     },
     {
-      "en": "A crack in the glass.",
-      "zh": "玻璃上的一道裂痕。"
+      "en": "{i}A crack in the glass.{/i}",
+      "zh": "{i}玻璃上的一道裂痕。{/i}"
     },
     {
       "en": ""
@@ -1512,8 +1512,8 @@
       "en": ""
     },
     {
-      "en": "A light in the attic.",
-      "zh": "阁楼里的一盏灯。"
+      "en": "{i}A light in the attic.{/i}",
+      "zh": "{i}阁楼里的一盏灯。{/i}"
     },
     {
       "en": ""
@@ -1552,8 +1552,8 @@
       "en": ""
     },
     {
-      "en": "A dream of the past.",
-      "zh": "一个关于过去的梦。"
+      "en": "{i}A dream of the past.{/i}",
+      "zh": "{i}一个关于过去的梦。{/i}"
     },
     {
       "en": ""
@@ -1563,8 +1563,8 @@
       "zh": "在 Maya 说出那番话之后，对话就死了，不过请原谅我在这条思路上迷了路——毕竟路线图缠得像一团电线。"
     },
     {
-      "en": "I don’t want to believe her but, at this point, I feel like I have to- because I can’t think of any other reason Ayane would have made it up there with us either.",
-      "zh": "我不想信她，但到了这一步，我觉得自己不得不信——因为我也想不出 Ayane 为什么能跟我们一起上到那里。"
+      "en": "I don’t want to believe her but, at this point, I feel like I have to- because {i}I{/i} can’t think of any other reason Ayane would have made it up there with us either.",
+      "zh": "{i}我{/i}不想信她，但到了这一步，我觉得自己不得不信——因为我也想不出 Ayane 为什么能跟我们一起上到那里。"
     },
     {
       "en": "The gap we accidentally create in our morning is subsequently filled by a collage of uncomfortable glances and scattered trips to the refrigerator.",
@@ -1621,20 +1621,20 @@
       "en": ""
     },
     {
-      "en": "Maya’s affection has increased to [maya_love]!",
-      "zh": "Maya 的好感度提升到了 [maya_love]！"
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]！{/i}"
     },
     {
-      "en": "Two hours pass.",
-      "zh": "两个小时过去了。"
+      "en": "{i}Two hours pass.{/i}",
+      "zh": "{i}两个小时过去了。{/i}"
     },
     {
-      "en": "Maya changes into her yukata in the comfort of her best friend’s bedroom.",
-      "zh": "Maya 在她最好的朋友房间里舒舒服服地换上了浴衣。"
+      "en": "{i}Maya changes into her yukata in the comfort of her best friend’s bedroom.{/i}",
+      "zh": "{i}Maya 在她最好的朋友房间里舒舒服服地换上了浴衣。{/i}"
     },
     {
-      "en": "She looks beautiful.",
-      "zh": "她看起来很美。"
+      "en": "{i}She looks beautiful.{/i}",
+      "zh": "{i}她看起来很美。{/i}"
     },
     {
       "en": ""

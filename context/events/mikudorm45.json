@@ -20,8 +20,8 @@
       "zh": "我敲了敲 Miku 的门，等她来应门。"
     },
     {
-      "en": "It’s the first instance of me coming here to spend time with her since the Christmas party, and while I should be of the mindset that maybe things might go somewhere this time-",
-      "zh": "这是圣诞派对之后我第一次来这儿陪她，按理说我该抱着“这次说不定能有点进展”的心态——"
+      "en": "It’s the first instance of me coming here to spend time with her since the Christmas party, and while I {i}should{/i} be of the mindset that maybe things might {i}go somewhere{/i} this time-",
+      "zh": "这是圣诞派对之后我第一次来这儿陪她，按理说我{i}该{/i}抱着“这次说不定能{i}有点进展{/i}”的心态——"
     },
     {
       "en": "I can’t help but worry that Makoto might somehow get involved again.",
@@ -65,10 +65,10 @@
       "zh": ": 啊！再等一下下，Sensei！我……还没准备好呢！"
     },
     {
-      "en": ": What exactly are you getting ready for, Miku?",
+      "en": ": What exactly are you getting ready {i}for{/i}, Miku?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你到底在准备什么啊，Miku？"
+      "zh": ": 你到底在准备{i}什么{/i}啊，Miku？"
     },
     {
       "en": ": I...can’t tell you that!",
@@ -220,10 +220,10 @@
       "zh": ": 你这个该死的骗子。"
     },
     {
-      "en": ": We’re here precisely because Miku isn’t a liar, Sensei.",
+      "en": ": We’re here precisely because Miku {i}isn’t{/i} a liar, Sensei.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 我们之所以在这儿，恰恰是因为 Miku 不是骗子，Sensei。"
+      "zh": ": 我们之所以在这儿，恰恰是因为 Miku {i}不是{/i}骗子，Sensei。"
     },
     {
       "en": ": Or rather- that she’d prefer to not keep things hidden from her best friend, despite how desperately you may want her to.",
@@ -259,10 +259,10 @@
       "zh": ": 哦，好极了！既然我们现在聊到了什么叫“公平”，那要不你——"
     },
     {
-      "en": ": Ahem.",
+      "en": ": {i}Ahem.{/i}",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 咳咳。"
+      "zh": ": {i}咳咳。{/i}"
     },
     {
       "en": ": I believe I told Sensei to take a seat, Makoto. ‘Yer gonna ruin the innervention.",
@@ -286,10 +286,10 @@
       "en": ""
     },
     {
-      "en": ": Ugh. Fine. Sensei, please sit down so we can proceed with this intervention.",
+      "en": ": Ugh. Fine. Sensei, please sit down so we can proceed with this {i}intervention.{/i}",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 呃。好吧。Sensei，请坐吧，好让我们把这场谈话继续下去。"
+      "zh": ": 呃。好吧。Sensei，请坐吧，好让我们把这场{i}谈话{/i}继续下去。"
     },
     {
       "en": ": I really don’t want to.",
@@ -518,10 +518,10 @@
       "zh": ": 你看起来没我想的那么生气。"
     },
     {
-      "en": ": Oh, don’t get me wrong. I want to be angrier with you. I just know that, in this case, Miku was the one who pounced on you.",
+      "en": ": Oh, don’t get me wrong. I {i}want{/i} to be angrier with you. I just know that, in this case, Miku was the one who pounced on you.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 哦，别误会。我倒想对你更生气一点。只是我知道，这次是 Miku 先扑上去的。"
+      "zh": ": 哦，别误会。我倒{i}想{/i}对你更生气一点。只是我知道，这次是 Miku 先扑上去的。"
     },
     {
       "en": ": All you did was buy her a present she really liked.",
@@ -530,16 +530,16 @@
       "zh": ": 你不过是给她买了件她很喜欢的礼物。"
     },
     {
-      "en": ": Granted, I’m sure there was much more that happened beforehand that ultimately culminated in this all happening, but the fault isn’t yours alone.",
+      "en": ": Granted, I’m sure there was much more that happened beforehand that ultimately {i}culminated{/i} in this all happening, but the fault isn’t yours alone.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 当然，我敢肯定之前还发生过很多别的事，才最终导致了今天这一切，但这不全是你的错。"
+      "zh": ": 当然，我敢肯定之前还发生过很多别的事，才最终{i}导致了{/i}今天这一切，但这不全是你的错。"
     },
     {
-      "en": ": Miku’s obviously had feelings for you for quite some time. Obviously not as long as I have, but it’s not as if we can ignore those feelings when they’re just as real as anyone else’s.",
+      "en": ": Miku’s obviously had feelings for you for quite some time. {i}Obviously{/i} not as long as I have, but it’s not as if we can ignore those feelings when they’re just as real as anyone else’s.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": Miku 显然已经喜欢你很久了。当然没有我喜欢得久，可既然这份感情跟别人的一样真实，我们总不能装看不见。"
+      "zh": ": Miku 显然已经喜欢你很久了。{i}当然{/i}没有我喜欢得久，可既然这份感情跟别人的一样真实，我们总不能装看不见。"
     },
     {
       "en": ": So much for letting Miku take charge of the meeting.",
@@ -569,10 +569,10 @@
       "zh": ": 我真不敢相信你先吻了她，才轮到我！"
     },
     {
-      "en": ": Didn’t ya just admit I was the one who kissed him, Makoto?",
+      "en": ": Didn’t ya just admit {i}I{/i} was the one who kissed {i}him,{/i} Makoto? ",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": Makoto，你刚才不是承认了是我先吻他的吗？"
+      "zh": ": Makoto，你刚才不是承认了是{i}我{/i}先吻{i}他{/i}的吗？"
     },
     {
       "en": ": Yes, but still!",
@@ -665,16 +665,16 @@
       "zh": ": 我承认，我曾希望事情永远别走到这一步；可既然走到了，除了去面对，我们还能怎么办？"
     },
     {
-      "en": ": Frankly, I’m more comfortable with the idea of you romantically pursuing Miku than any of the other girls.",
+      "en": ": Frankly, I’m {i}more{/i} comfortable with the idea of you romantically pursuing Miku than any of the other girls.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 坦白说，比起其他任何一个女孩，我更能接受你去追 Miku。"
+      "zh": ": 坦白说，比起其他任何一个女孩，我{i}更能{/i}接受你去追 Miku。"
     },
     {
-      "en": ": Not that I’d ever expect you to romantically pursue anyone when romance is the furthest thing from your mind...but still.",
+      "en": ": Not that I’d ever expect you to romantically pursue {i}anyone{/i} when romance is the furthest thing from your mind...but still.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 当然，我也不指望你会去浪漫地追求谁——毕竟浪漫是你脑子里最不沾边的东西……但话是这么说。"
+      "zh": ": 当然，我也不指望你会去浪漫地追求{i}谁{/i}——毕竟浪漫是你脑子里最不沾边的东西……但话是这么说。"
     },
     {
       "en": ": So what, then? I’m free to just mess around with both of you? Because if that’s the case, this meeting could have been solved with a single text message.",
@@ -698,10 +698,10 @@
       "en": ""
     },
     {
-      "en": ": Sensei...you know we’re not just tryin’ to “mess around,” right? Me and Makoto actually like like you.",
+      "en": ": Sensei...you know we’re not just tryin’ to “mess around,” right? Me and Makoto actually {i}like{/i} like you.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": Sensei……你知道我们不是只想“乱来”吧？我和 Makoto 是真的喜欢喜欢你。"
+      "zh": ": Sensei……你知道我们不是只想“乱来”吧？我和 Makoto 是真的{i}喜欢{/i}喜欢你。"
     },
     {
       "en": ": Makoto and I.",
@@ -716,10 +716,10 @@
       "zh": ": 可这让我该怎么办？"
     },
     {
-      "en": ": I don’t know...maybe just...consider it when we’re all doin’ stuff together?",
+      "en": ": I don’t know...maybe just...{i}consider{/i} it when we’re all doin’ stuff together?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 我不知道……也许就……在我们一起做什么的时候稍微考虑一下？"
+      "zh": ": 我不知道……也许就……在我们一起做什么的时候{i}稍微考虑一下{/i}？"
     },
     {
       "en": ": The whole reason I wanted to do somethin’ like this is so we wouldn’t hurt each other’s feelings in the long run.",
@@ -779,10 +779,10 @@
       "en": ""
     },
     {
-      "en": ": It is mostly for just me and Makoto-",
+      "en": ": It {i}is{/i} mostly for just me and Makoto-",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 这主要还是我和 Makoto 之间的事——"
+      "zh": ": 这{i}主要{/i}还是我和 Makoto 之间的事——"
     },
     {
       "en": ": Makoto and me, in this case.",
@@ -791,10 +791,10 @@
       "zh": ": 这种情况应该说“Makoto 和我”。"
     },
     {
-      "en": ": But you are Makoto.",
+      "en": ": But you {i}are{/i} Makoto. ",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 可你不就是 Makoto 吗。"
+      "zh": ": 可你不就{i}是{/i} Makoto 吗。"
     },
     {
       "en": ": ...",
@@ -821,10 +821,10 @@
       "zh": ": 还有，就算我们谁都没想拖谁后腿……我们对发生什么都无所谓。"
     },
     {
-      "en": ": Are you really okay with whatever happens, though, Miku?",
+      "en": ": Are you really {i}okay{/i} with whatever happens, though, Miku?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 可你真的对发生什么都无所谓吗，Miku？"
+      "zh": ": 可你真的对发生什么都{i}无所谓{/i}吗，Miku？"
     },
     {
       "en": ""
@@ -848,10 +848,10 @@
       "zh": ": 你什么意思？……"
     },
     {
-      "en": ": Like if you decide to just go full-Makoto and ignore how I feel? Course I wouldn’t be okay with it...so maybe that ain’t the best word.",
+      "en": ": Like if you decide to just go full-Makoto and ignore how I feel? Course I wouldn’t be {i}okay{/i} with it...so maybe that ain’t the best word.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 比如你决定彻底倒向 Makoto 那边，完全不管我的感受？那我当然做不到无所谓……所以也许这个词不太合适。"
+      "zh": ": 比如你决定彻底倒向 Makoto 那边，完全不管我的感受？那我当然做不到{i}无所谓{/i}……所以也许这个词不太合适。"
     },
     {
       "en": ": I’d understand, though.",
@@ -911,10 +911,10 @@
       "zh": ": 抱你的情敌就等于认输！等这一切尘埃落定我们再抱。"
     },
     {
-      "en": ": If things are ever said and done. Sensei here is so helpless when it comes to making decisions that, more often than not, I find myself making them for him.",
+      "en": ": {i}If{/i} things are ever said and done. Sensei here is so helpless when it comes to making decisions that, more often than not, I find myself making them for him.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 如果能尘埃落定的话。这位 Sensei 做起决定来实在太没用了，结果多半都是我替他做。"
+      "zh": ": {i}如果{/i}能尘埃落定的话。这位 Sensei 做起决定来实在太没用了，结果多半都是我替他做。"
     },
     {
       "en": ": Can you do me a favor and decide that this meeting is over, then? Because if nobody has any questions-",
@@ -944,10 +944,10 @@
       "zh": ": 哦，我有个问题。你怎么还没吻过我室友？"
     },
     {
-      "en": ": I don’t like the bluntness with which that question was asked, but I definitely would like to know the answer to that as well.",
+      "en": ": I don’t like the bluntness with which that question was asked, but I definitely {i}would{/i} like to know the answer to that as well.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 我不喜欢这问题问得这么直白，不过我也确实很想知道答案。"
+      "zh": ": 我不喜欢这问题问得这么直白，不过我也确实很{i}想{/i}知道答案。"
     },
     {
       "en": ": Just hasn’t come up yet.",
@@ -989,10 +989,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": You know, I kind of assumed that when you said you two share everything that you didn’t literally mean everything.",
+      "en": ": You know, I kind of assumed that when you said you two share everything that you didn’t literally mean {i}everything.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你知道吗，我还以为你们说“什么都一起分享”的时候，不是字面意义上的“什么”。"
+      "zh": ": 你知道吗，我还以为你们说“什么都一起分享”的时候，不是字面意义上的“{i}什么{/i}”。"
     },
     {
       "en": ": Isn’t...goin’ straight to the major stuff like that kinda like cheating?",
@@ -1055,10 +1055,10 @@
       "en": ""
     },
     {
-      "en": ": That is absolutely not why we have been doing those things!",
+      "en": ": That is absolutely {i}not{/i} why we have been doing those things!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 我们做那些事绝对不是因为那个原因！"
+      "zh": ": 我们做那些事绝对{i}不是{/i}因为那个原因！"
     },
     {
       "en": ": So if you ever find yourself going crazy as well, Miku-",
@@ -1082,10 +1082,10 @@
       "en": ""
     },
     {
-      "en": ": Don’t listen to him. This is how he traps you into a relationship where he doesn’t have to kiss you because you’ve already skipped that step.",
+      "en": ": Don’t listen to him. This is how he traps you into a relationship where he doesn’t {i}have{/i} to kiss you because you’ve already skipped that step. ",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 别听他的。他就是这么把人套进一段关系里的——你已经跳过了那一步，他就不用吻你了。"
+      "zh": ": 别听他的。他就是这么把人套进一段关系里的——你已经跳过了那一步，他就{i}不用{/i}吻你了。"
     },
     {
       "en": ": Run while you still can. Don’t turn into another me.",
@@ -1127,16 +1127,16 @@
       "en": ""
     },
     {
-      "en": ": Maybe you should try and be more like Miku! I have done more than enough for you and deserve a reward every once in a while!",
+      "en": ": Maybe {i}you{/i} should try and be more like Miku! I have done more than enough for you and deserve a reward every once in a while!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 也许你才该学着像 Miku 一点！我为你做的早就够多了，偶尔也该得到点奖励吧！"
+      "zh": ": 也许{i}你{/i}才该学着像 Miku 一点！我为你做的早就够多了，偶尔也该得到点奖励吧！"
     },
     {
-      "en": ": She does deserve it, Sensei.",
+      "en": ": She {i}does{/i} deserve it, Sensei. ",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 她确实该得到，Sensei。"
+      "zh": ": 她{i}确实{/i}该得到，Sensei。"
     },
     {
       "en": ": Correct me if I’m wrong, but...aren’t you supposed to be rooting for yourself right now?",
@@ -1172,16 +1172,16 @@
       "zh": ": Makoto 也喜欢你，我干嘛要把你占为己有？那太不公平了。"
     },
     {
-      "en": ": I don’t see any reason why I can’t stay on Team Makoto and like you. There some kinda rule against that?",
+      "en": ": I don’t see any reason why I can’t stay on Team Makoto {i}and{/i} like you. There some kinda rule against that?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 我看不出为什么我不能一边待在“Makoto 队”，一边喜欢你。这有什么规矩不许吗？"
+      "zh": ": 我看不出为什么我不能一边待在“Makoto 队”，{i}一边{/i}喜欢你。这有什么规矩不许吗？"
     },
     {
-      "en": ": I mean...I don’t think there’s a rulebook we can consult...but that’s not normally how love triangles go...",
+      "en": ": I mean...I don’t think there’s a {i}rulebook{/i} we can consult...but that’s not normally how love triangles go...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 我是说……我觉得也没什么规则手册可以查……不过三角恋通常不是这么演的……"
+      "zh": ": 我是说……我觉得也没什么{i}规则手册{/i}可以查……不过三角恋通常不是这么演的……"
     },
     {
       "en": ""
@@ -1268,10 +1268,10 @@
       "zh": ": 这倒是一点都不意外。"
     },
     {
-      "en": ": Do you have any questions, Sensei?",
+      "en": ": Do {i}you{/i} have any questions, Sensei?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 你有什么问题吗，Sensei？"
+      "zh": ": {i}你{/i}有什么问题吗，Sensei？"
     },
     {
       "en": ": Just one. Was this really necessary?",
@@ -1298,10 +1298,10 @@
       "zh": ": 如果你真的以为以后能避开类似的冲突，那你就是疯了。"
     },
     {
-      "en": ": It’s only a matter of time until you’re having this exact conversation with every pair of friends who fall hopelessly in love or...like with you.",
+      "en": ": It’s only a matter of time until you’re having this exact conversation with every pair of friends who fall hopelessly in love or...{i}like{/i} with you.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 迟早有一天，你会跟每一对无可救药地爱上你、或者……喜欢上你的朋友，重复这场一模一样的对话。"
+      "zh": ": 迟早有一天，你会跟每一对无可救药地爱上你、或者……{i}喜欢{/i}上你的朋友，重复这场一模一样的对话。"
     },
     {
       "en": ": All things considered, I think Miku and me handled this extremely well.",
@@ -1433,10 +1433,10 @@
       "zh": ": 哦，真是够了！到底是谁老把我们门牌号倒过来？！烦死人了！"
     },
     {
-      "en": ": Do you really think it’s weird that I wanna be on Team Makoto and Team Miku? Cause I just don’t really get why.",
+      "en": ": Do you really think it’s weird that I wanna be on Team Makoto {i}and{/i} Team Miku? Cause I just don’t really get why.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 你真觉得我想同时待在“Makoto 队”和“Miku 队”很奇怪吗？因为我实在不明白为什么。"
+      "zh": ": 你真觉得我想同时待在“Makoto 队”{i}和{/i}“Miku 队”很奇怪吗？因为我实在不明白为什么。"
     },
     {
       "en": ": That’s something you’ll have to talk to Makoto about. I’m perfectly fine with it.",
@@ -1484,10 +1484,10 @@
       "zh": ": 无所谓。说实话比我想象的要好多了。"
     },
     {
-      "en": ": Yeah, nobody cried at all. And Makoto only got a tiny bit flustered when I brought up her relationship with “little” Sensei.",
+      "en": ": Yeah, nobody cried at all. And Makoto only got a tiny bit flustered when I brought up her {i}relationship{/i} with “little” Sensei.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 是啊，一个人都没哭。我提到她和“小”Sensei 的关系时，Makoto 也只慌了一小下。"
+      "zh": ": 是啊，一个人都没哭。我提到她和“小”Sensei 的{i}关系{/i}时，Makoto 也只慌了一小下。"
     },
     {
       "en": ""
@@ -1499,10 +1499,10 @@
       "zh": ": 别那么叫，Miku。"
     },
     {
-      "en": ": Please don’t talk about that at all! And definitely not in the halls!",
+      "en": ": Please don’t talk about that at all! And {i}definitely{/i} not in the halls!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 根本别提那件事！尤其在走廊里绝对不行！"
+      "zh": ": 根本别提那件事！尤其在走廊里{i}绝对{/i}不行！"
     },
     {
       "en": "scene black",
@@ -1532,12 +1532,12 @@
       "en": ""
     },
     {
-      "en": "Miku’s affection has increased to [miku_love]!",
-      "zh": "Miku 的好感度提升到了 [miku_love]！"
+      "en": "{i}Miku’s affection has increased to [miku_love]!{/i}",
+      "zh": "{i}Miku 的好感度提升到了 [miku_love]！{/i}"
     },
     {
-      "en": "Makoto’s affection has increased to [makoto_love]!",
-      "zh": "Makoto 的好感度提升到了 [makoto_love]！"
+      "en": "{i}Makoto’s affection has increased to [makoto_love]!{/i}",
+      "zh": "{i}Makoto 的好感度提升到了 [makoto_love]！{/i}"
     },
     {
       "en": ".........",

@@ -37,8 +37,8 @@
       "zh": "所以我想问你——"
     },
     {
-      "en": "When was the last time you felt alive?",
-      "zh": "上一次觉得自己还活着，是什么时候？"
+      "en": "When was the last time {i}you{/i} felt alive?",
+      "zh": "上一次觉得{i}自己{/i}还活着，是什么时候？"
     },
     {
       "en": "Because for me, it...",
@@ -68,10 +68,10 @@
       "zh": ": 哦？为什么这么说？"
     },
     {
-      "en": ": Because I’ve been having a nonstop marathon of melancholy with girls that I know much better than you over the last forty-eight hours- in which I have barely seen you at all.",
+      "en": ": Because I’ve been having a nonstop marathon of melancholy with girls that I know much better than you over the last forty-eight hours- in which I have barely seen {i}you{/i} at all.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 因为过去四十八小时里，我一直在跟比你熟得多的女生们没完没了地演忧郁马拉松——而这期间我几乎没怎么见过你。"
+      "zh": ": 因为过去四十八小时里，我一直在跟比你熟得多的女生们没完没了地演忧郁马拉松——而这期间我几乎没怎么见过{i}你{/i}。"
     },
     {
       "en": ": That problem could be easily remedied by looking at me a little more, Sensei.",
@@ -86,16 +86,16 @@
       "zh": ": 我的错，Tobiko。大概是我脑子里装着别的事吧。"
     },
     {
-      "en": ": If you’re going to start playing the name replacement game again, please at least give me a human name. I like to believe I’m a tier or two above fish eggs.",
+      "en": ": If you’re going to start playing the name replacement game again, please at least give me a {i}human{/i} name. I like to believe I’m a tier or two above {i}fish eggs.{/i}",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 如果你又要开始玩改名游戏，至少给我起个人类的名字吧。我总觉得自己要比鱼卵高上一两个档次。"
+      "zh": ": 如果你又要开始玩改名游戏，至少给我起个{i}人类{/i}的名字吧。我总觉得自己要比{i}鱼卵{/i}高上一两个档次。"
     },
     {
-      "en": ": As for your mind and what could have been on it, I apologize again for interrupting you and Maya. But I hope that what I am about to show you will make it at least somewhat worth it.",
+      "en": ": As for your {i}mind{/i} and what could have been on it, I apologize again for interrupting you and Maya. But I hope that what I am about to show you will make it at least {i}somewhat{/i} worth it.",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 至于你脑子里装着什么，我再次为打断你和 Maya 道歉。不过我希望我接下来要给你看的东西，至少能让这一切值回票价。"
+      "zh": ": 至于你{i}脑子{/i}里装着什么，我再次为打断你和 Maya 道歉。不过我希望我接下来要给你看的东西，至少能让这一切{i}值回票价{/i}。"
     },
     {
       "en": ": Me too. Opportunities like that haven’t really been all that common for me.",
@@ -110,13 +110,13 @@
       "zh": ": 胡说。你每天都有大把的机会去试探和学生之间什么能做、什么不能做的边界。她们说的那些话我可都听见了，你知道吧？我有耳朵。"
     },
     {
-      "en": ": Sure, but that’s not Maya.",
+      "en": ": Sure, but that’s not {i}Maya.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 是，可那不是 Maya。"
+      "zh": ": 是，可那不是 {i}Maya{/i}。"
     },
     {
-      "en": ": Is there something special about Maya? Something she has that the rest of us do not?",
+      "en": ": Is there something special about Maya? Something {i}she{/i} has that the rest of us do not?",
       "spk": "Touka",
       "spkColor": "#F0E68C",
       "zh": ": Maya 有什么特别的吗？有什么是我们其他人都没有的？"
@@ -170,10 +170,10 @@
       "zh": ": 嘘。为了不让人发现我们溜走，我可是费了老大的劲，你总不至于介意遮上几分钟眼睛来还这份人情吧。"
     },
     {
-      "en": ": I hope you realize how much trouble this is going to get me into. I already disappeared last night. There’s no way pulling that two nights in a row is going to end well.",
+      "en": ": I hope you realize how much trouble this is going to get {i}me{/i} into. I already disappeared last night. There’s no way pulling that two nights in a row is going to end well.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我希望你明白这会给我惹多大的麻烦。我昨晚已经失踪过一次了。连续两晚来这一套，不可能有好下场。"
+      "zh": ": 我希望你明白这会给{i}我{/i}惹多大的麻烦。我昨晚已经失踪过一次了。连续两晚来这一套，不可能有好下场。"
     },
     {
       "en": ": I suppose I’m a bit of a troublemaker now, aren’t I?",
@@ -218,10 +218,10 @@
       "zh": ": 你不是说好假装什么都没看见吗？"
     },
     {
-      "en": ": Rest assured, I won’t tell anyone else. But I seldom get opportunities to push your buttons and I think you look awfully cute when you’re on the defensive.",
+      "en": ": Rest assured, I won’t tell anyone else. But I seldom get opportunities to push {i}your{/i} buttons and I think you look awfully cute when you’re on the defensive.",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 放心，我不会告诉别人的。只是我很少有机会能撩拨你，而且我觉得你处于守势的时候可爱极了。"
+      "zh": ": 放心，我不会告诉别人的。只是我很少有机会能撩拨{i}你{/i}，而且我觉得你处于守势的时候可爱极了。"
     },
     {
       "en": ": I’m not defending anything.",
@@ -297,40 +297,40 @@
       "en": ""
     },
     {
-      "en": "And then I take over again!",
-      "zh": "然后我又接管了！"
+      "en": "{i}And then I take over again!{/i}",
+      "zh": "{i}然后我又接管了！{/i}"
     },
     {
-      "en": "Hi there! Everybody’s favorite narrator here to bash you over the head with as many life lessons as I’m able to fit in these scrawny little arms of mine.",
-      "zh": "嗨！各位最爱的旁白在此，用我这双瘦巴巴的小胳膊能抱住的尽可能多的人生道理，狠狠砸你们的头。"
+      "en": "{i}Hi there! Everybody’s favorite narrator here to bash you over the head with as many life lessons as I’m able to fit in these scrawny little arms of mine.{/i}",
+      "zh": "{i}嗨！各位最爱的旁白在此，用我这双瘦巴巴的小胳膊能抱住的尽可能多的人生道理，狠狠砸你们的头。{/i}"
     },
     {
-      "en": "Or should I say...Lessons IN LOVE?! Ha! I kid, I kid. But only because I know breaking whatever wall that title lies behind will get your brain chugging.",
-      "zh": "或者我该说……恋爱课堂？！哈！开玩笑，开玩笑。不过是因为我知道，把那个标题后面藏着的那堵墙砸开，能让你的脑子开始转动。"
+      "en": "{i}Or should I say...Lessons IN LOVE?! Ha! I kid, I kid. But only because I know breaking whatever wall that title lies behind will get your brain chugging.{/i}",
+      "zh": "{i}或者我该说……恋爱课堂？！哈！开玩笑，开玩笑。不过是因为我知道，把那个标题后面藏着的那堵墙砸开，能让你的脑子开始转动。{/i}"
     },
     {
-      "en": "So, it appears that our third beach vacation is coming to a close. And while a handful of doors have both opened AND closed over the last couple days, it’s important to remember that doors are just doors!",
-      "zh": "那么，看来我们的第三次海滩假期要落下帷幕了。虽然这几天有几扇门既被打开又被关上，但重要的是要记住——门就只是门！"
+      "en": "{i}So, it appears that our third beach vacation is coming to a close. And while a handful of doors have both opened AND closed over the last couple days, it’s important to remember that doors are just doors!{/i}",
+      "zh": "{i}那么，看来我们的第三次海滩假期要落下帷幕了。虽然这几天有几扇门既被打开又被关上，但重要的是要记住——门就只是门！{/i}"
     },
     {
-      "en": "What I mean by that is that there’s almost always something on the other side.",
-      "zh": "我的意思是，门的另一边几乎总有东西。"
+      "en": "{i}What I mean by that is that there’s almost always something on the other side.{/i}",
+      "zh": "{i}我的意思是，门的另一边几乎总有东西。{/i}"
     },
     {
-      "en": "It doesn’t matter if it’s closed or open so long as there is latent awareness that objects exist on both sides! Right? Right!",
-      "zh": "它是开着还是关着都不重要，只要你潜在地意识到两侧都有东西存在！对吧？对吧！"
+      "en": "{i}It doesn’t matter if it’s closed or open so long as there is latent awareness that objects exist on both sides! Right? Right!{/i}",
+      "zh": "{i}它是开着还是关着都不重要，只要你潜在地意识到两侧都有东西存在！对吧？对吧！{/i}"
     },
     {
-      "en": "Behind Door #1, we have two lovely, albeit relatively scary teenage girls about to connect in a way that both of them were beginning to feel they never would!",
-      "zh": "一号门后面，有两位可爱——虽说也相当吓人——的少女，即将以一种她们俩都开始觉得自己永远不会有方式产生连接！"
+      "en": "{i}Behind Door #1, we have two lovely, albeit relatively scary teenage girls about to connect in a way that both of them were beginning to feel they never would!{/i}",
+      "zh": "{i}一号门后面，有两位可爱——虽说也相当吓人——的少女，即将以一种她们俩都开始觉得自己永远不会有方式产生连接！{/i}"
     },
     {
-      "en": "The lesson? That following your heart is a double-edged sword! Especially when your heart keeps leading you toward a dead end with a face.",
-      "zh": "教训是什么？追随你的心是一把双刃剑！尤其当你的心总把你引向一条死路，而死路还长着一张脸的时候。"
+      "en": "{i}The lesson? That following your heart is a double-edged sword! Especially when your heart keeps leading you toward a dead end with a face.{/i} ",
+      "zh": "{i}教训是什么？追随你的心是一把双刃剑！尤其当你的心总把你引向一条死路，而死路还长着一张脸的时候。{/i}"
     },
     {
-      "en": "Take it away, Noriko!",
-      "zh": "交给你了，Noriko！"
+      "en": "{i}Take it away, Noriko!{/i}",
+      "zh": "{i}交给你了，Noriko！{/i}"
     },
     {
       "en": ""
@@ -549,20 +549,20 @@
       "en": ""
     },
     {
-      "en": "Behind Door #2, a small group of friends with an appendage severed in the form of an absentee! But what is that disembodied limb up to right now? And why does its counterpart keep trying to find it?",
-      "zh": "二号门后面，是一小群朋友，其中一个成员以“缺席”的形式被截断了！但那条离体的肢体此刻在干什么？为什么它的另一半一直在试图找到它？"
+      "en": "{i}Behind Door #2, a small group of friends with an appendage severed in the form of an absentee! But what is that disembodied limb up to right now? And why does its counterpart keep trying to find it?{/i}",
+      "zh": "{i}二号门后面，是一小群朋友，其中一个成员以“缺席”的形式被截断了！但那条离体的肢体此刻在干什么？为什么它的另一半一直在试图找到它？{/i}"
     },
     {
-      "en": "The short and easy answer would be that things are easier when you work as a team! And that two heads are always better than one!",
-      "zh": "简短又好懂的答案是：团队合作的时候事情更简单！两个脑袋永远比一个好使！"
+      "en": "{i}The short and easy answer would be that things are easier when you work as a team! And that two heads are always better than one!{/i}",
+      "zh": "{i}简短又好懂的答案是：团队合作的时候事情更简单！两个脑袋永远比一个好使！{/i}"
     },
     {
-      "en": "But the longer, more complicated answer involves a series of painful, psychological discussions in which we evaluate the concepts of codependency, adultery, honesty, and most importantly...hormones! Yay!",
-      "zh": "但更长、更复杂的答案，牵涉到一连串痛苦的心理层面讨论——我们要在其中评估依赖共生、出轨、诚实，以及最重要的……荷尔蒙！耶！"
+      "en": "{i}But the longer, more complicated answer involves a series of painful, psychological discussions in which we evaluate the concepts of codependency, adultery, honesty, and most importantly...hormones! Yay!{/i}",
+      "zh": "{i}但更长、更复杂的答案，牵涉到一连串痛苦的心理层面讨论——我们要在其中评估依赖共生、出轨、诚实，以及最重要的……荷尔蒙！耶！{/i}"
     },
     {
-      "en": "Take it away, gals!",
-      "zh": "交给你们了，姑娘们！"
+      "en": "{i}Take it away, gals!{/i}",
+      "zh": "{i}交给你们了，姑娘们！{/i}"
     },
     {
       "en": ""
@@ -619,10 +619,10 @@
       "en": ""
     },
     {
-      "en": ": If that is what you wish to believe, my beloved Futaba. But know that any gift I give to anyone is done with only the most excessive amount of care.",
+      "en": ": If that is what you wish to believe, my beloved Futaba. But know that any gift I give to {i}anyone{/i} is done with only the most excessive amount of care.",
       "spk": "Nodoka",
       "spkColor": "#AF89A2",
-      "zh": ": 如果你想这么相信，我亲爱的 Futaba。但请明白，我送给任何人的任何礼物，都倾注了最最过量的心意。"
+      "zh": ": 如果你想这么相信，我亲爱的 Futaba。但请明白，我送给{i}任何人{/i}的任何礼物，都倾注了最最过量的心意。"
     },
     {
       "en": ": Ah! Guys! Guys! She finally texted back! And with...two hours and thirteen minutes to spare!",
@@ -745,12 +745,12 @@
       "en": ""
     },
     {
-      "en": "What lesson did we learn this time, friends?",
-      "zh": "这回我们学到了什么，朋友们？"
+      "en": "{i}What lesson did we learn this time, friends?{/i}",
+      "zh": "{i}这回我们学到了什么，朋友们？{/i}"
     },
     {
-      "en": "That’s right! That hiding the truth when it’s going to hurt someone isn’t always bad! In fact, sometimes it fixes everything! Hooray!",
-      "zh": "没错！当真相会伤人的时候，把它藏起来并不总是坏事！事实上，有时候它能解决一切！万岁！"
+      "en": "{i}That’s right! That hiding the truth when it’s going to hurt someone isn’t always bad! In fact, sometimes it fixes everything! Hooray!{/i}",
+      "zh": "{i}没错！当真相会伤人的时候，把它藏起来并不总是坏事！事实上，有时候它能解决一切！万岁！{/i}"
     },
     {
       "en": ""
@@ -818,10 +818,10 @@
       "zh": ": 嗯……比照片上看起来要小一点。不过我想这也够用了。"
     },
     {
-      "en": ": Do what? Where are we?",
+      "en": ": Do {i}what?{/i} Where are we?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 够用来干什么？我们在哪儿？"
+      "zh": ": 够用来{i}干什么{/i}？我们在哪儿？"
     },
     {
       "en": ""
@@ -845,10 +845,10 @@
       "zh": ": 你的新公寓。"
     },
     {
-      "en": ": My what?",
+      "en": ": My {i}what?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我的什么？"
+      "zh": ": 我的{i}什么{/i}？"
     },
     {
       "en": ": Apartment. It’s like a smaller, temporary housing unit in a-",
@@ -890,10 +890,10 @@
       "zh": ": 问题不在这儿。这份礼物太夸张了。而且我已经有一栋房子了。"
     },
     {
-      "en": ": Yes, but this one is much closer to my house. And I have seen your home. It is rather outdated, Sensei. No offense.",
+      "en": ": Yes, but this one is much closer to {i}my{/i} house. And I have seen your home. It is rather outdated, Sensei. No offense.",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 是，但这套离我家近多了。而且我见过你家，Sensei。它相当过时了。无意冒犯。"
+      "zh": ": 是，但这套离{i}我{/i}家近多了。而且我见过你家，Sensei。它相当过时了。无意冒犯。"
     },
     {
       "en": ": I can’t accept this. There’s no way. Void the lease or something.",
@@ -941,10 +941,10 @@
       "zh": ": 所以……你是我的房东？"
     },
     {
-      "en": ": Landlady.",
+      "en": ": Land{i}lady.{/i}",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 女房东。"
+      "zh": ": 女{i}房东{/i}。"
     },
     {
       "en": ": Who else knows about this?",
@@ -1013,12 +1013,12 @@
       "en": ""
     },
     {
-      "en": "Behind Door #3 we have more friends, joined this time by the stark realization that this world might be a little more complicated than we think!",
-      "zh": "三号门后面是更多的朋友，这次还伴随着一个清醒的认识——这个世界也许比我们以为的要复杂一点！"
+      "en": "{i}Behind Door #3 we have more friends, joined this time by the stark realization that this world might be a little more complicated than we think!{/i}",
+      "zh": "{i}三号门后面是更多的朋友，这次还伴随着一个清醒的认识——这个世界也许比我们以为的要复杂一点！{/i}"
     },
     {
-      "en": "The lesson this time is that things ARE more complicated than we think. And also that I’m only a little bit jealous of Yumi’s chest. Wowza.",
-      "zh": "这一次的教训是：事情确实比我们以为的更复杂。还有就是我对 Yumi 的胸口只有一丁点嫉妒。哇哦。"
+      "en": "{i}The lesson this time is that things ARE more complicated than we think. And also that I’m only a little bit jealous of Yumi’s chest. Wowza.{/i}",
+      "zh": "{i}这一次的教训是：事情确实比我们以为的更复杂。还有就是我对 Yumi 的胸口只有一丁点嫉妒。哇哦。{/i}"
     },
     {
       "en": ""
@@ -1060,10 +1060,10 @@
       "zh": ": 我是说，有记忆问题的是 Sensei 吧？我还真没经历过那种事。"
     },
     {
-      "en": ": Then...do you remember what me and him talked about after the Dorm Wars? Or...anything that’s happened over the last two months?",
+      "en": ": Then...do you remember what me and him talked about after the Dorm Wars? Or...{i}anything{/i} that’s happened over the last two months?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 那……你还记得我和他在宿舍大战之后聊了什么吗？或者……这两个月里发生的任何事？"
+      "zh": ": 那……你还记得我和他在宿舍大战之后聊了什么吗？或者……{i}这两个月里发生的任何事{/i}？"
     },
     {
       "en": ": I remember the last two months, of course. But I have no clue what you and Sensei talked about back then. You never told me.",
@@ -1126,10 +1126,10 @@
       "en": ""
     },
     {
-      "en": ": We’ve...what? Why? When?",
+      "en": ": We’ve...what? Why? {i}When?{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 我们……什么？为什么？什么时候？"
+      "zh": ": 我们……什么？为什么？{i}什么时候{/i}？"
     },
     {
       "en": ": Yumi, you can’t just never tell me anything and then ask me to recap your life for you. I just figured it had something to do with you getting let back into school.",
@@ -1177,10 +1177,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": I don’t remember shit...",
+      "en": ": I don’t remember {i}shit...{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 我什么都不记得了……"
+      "zh": ": 我{i}什么都不记得{/i}了……"
     },
     {
       "en": ": Yumi...",
@@ -1210,24 +1210,24 @@
       "en": ""
     },
     {
-      "en": "Here we are at Door #4!",
-      "zh": "我们到了四号门！"
+      "en": "{i}Here we are at Door #4!{/i}",
+      "zh": "{i}我们到了四号门！{/i}"
     },
     {
-      "en": "I had to mess with the handle a little bit to get this one open, but I wanted to make sure you saw it before the credits roll or however it goes when stuff like this normally ends for you.",
-      "zh": "我得鼓捣了一下门把手才把这扇打开，不过我想让你在字幕升起之前、或者在这种东西对你来说平常结束之前，先看到它。"
+      "en": "{i}I had to mess with the handle a little bit to get this one open, but I wanted to make sure you saw it before the credits roll or however it goes when stuff like this normally ends for you.{/i}",
+      "zh": "{i}我得鼓捣了一下门把手才把这扇打开，不过我想让你在字幕升起之前、或者在这种东西对你来说平常结束之前，先看到它。{/i}"
     },
     {
-      "en": "Anyway, this one’s a little depressing, so I won’t bother with a full-on introduction this time.",
-      "zh": "总之，这一扇有点压抑，所以我这次就不做长篇介绍了。"
+      "en": "{i}Anyway, this one’s a little depressing, so I won’t bother with a full-on introduction this time.{/i}",
+      "zh": "{i}总之，这一扇有点压抑，所以我这次就不做长篇介绍了。{/i}"
     },
     {
-      "en": "But I will remind you that it’s okay to cry! Even when it feels like there’s nothing to cry about.",
-      "zh": "但我还是要提醒你：哭出来是没关系的！哪怕你觉得根本没有什么值得哭的。"
+      "en": "{i}But I will remind you that it’s okay to cry! Even when it feels like there’s nothing to cry about.{/i}",
+      "zh": "{i}但我还是要提醒你：哭出来是没关系的！哪怕你觉得根本没有什么值得哭的。{/i}"
     },
     {
-      "en": "Goodbye for now! I have to go bust down Door #5.",
-      "zh": "暂时再见！我得去把五号门撞开了。"
+      "en": "{i}Goodbye for now! I have to go bust down Door #5.{/i}",
+      "zh": "{i}暂时再见！我得去把五号门撞开了。{/i}"
     },
     {
       "en": ""
@@ -1458,10 +1458,10 @@
       "en": ""
     },
     {
-      "en": ": AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!",
+      "en": ": {b}AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!{/b}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!"
+      "zh": ": {b}AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!{/b}"
     },
     {
       "en": ""
@@ -1563,10 +1563,10 @@
       "en": ""
     },
     {
-      "en": ": I’m not like the other girls...",
+      "en": ": {i}I’m not like the other girls...{/i}",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 我跟别的女生不一样……"
+      "zh": ": {i}我跟别的女生不一样……{/i}"
     },
     {
       "en": ": Well, you’re certainly right about that. The only girl I can think of who’s had as grand of a gesture as this is Noriko and...",
@@ -1614,10 +1614,10 @@
       "zh": ": 我相信那一天会来的。"
     },
     {
-      "en": ": But in the meantime, allow me to please you.",
+      "en": ": But in the meantime, allow me to please {i}you.{/i}",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 但在那之前，请允许我来取悦你。"
+      "zh": ": 但在那之前，请允许我来取悦{i}你{/i}。"
     },
     {
       "en": ": Fine. But I need to close the window first so no one sees us.",
@@ -1680,10 +1680,10 @@
       "zh": ": 没有，不过……感觉你才刚到。"
     },
     {
-      "en": ": I did. And so did you. But now, I have to be getting back to the beach house to continue celebrating with my friends.",
+      "en": ": I did. And so did you. But {i}now,{/i} I have to be getting back to the beach house to continue celebrating with my friends. ",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 我确实刚到。你也一样。不过现在我得回海滩别墅，继续跟朋友们庆祝了。"
+      "zh": ": 我确实刚到。你也一样。不过{i}现在{/i}我得回海滩别墅，继续跟朋友们庆祝了。"
     },
     {
       "en": ": You’re welcome to come if you’d like, but the driver will be different and there won’t be a blindfold this time.",
@@ -1716,10 +1716,10 @@
       "zh": ": 是怕其他女生看见我们一起回去？"
     },
     {
-      "en": ": Worried of who I’ll see.",
+      "en": ": Worried of {i}who{/i} I’ll see.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 是怕我会看见谁。"
+      "zh": ": 是怕我会看见{i}谁{/i}。"
     },
     {
       "en": ": Hmm...My initial impression of you is proven more and more wrong every day.",
@@ -1794,10 +1794,10 @@
       "zh": ": 为什么？"
     },
     {
-      "en": ": Why do you think?",
+      "en": ": Why do you {i}think?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你觉得呢？"
+      "zh": ": 你{i}觉得{/i}呢？"
     },
     {
       "en": ""
@@ -1917,8 +1917,8 @@
       "en": ""
     },
     {
-      "en": "Fuck! Uhh...I got Door #5 open, but I kind of have to go now, so...bye!",
-      "zh": "操！呃……五号门我打开了，不过我得走了，所以……再见！"
+      "en": "{i}Fuck! Uhh...I got Door #5 open, but I kind of have to go now, so...bye!{/i}",
+      "zh": "{i}操！呃……五号门我打开了，不过我得走了，所以……再见！{/i}"
     },
     {
       "en": ""
@@ -2059,16 +2059,16 @@
       "en": ""
     },
     {
-      "en": "Touka was right...I was trying to take shelter from my feelings by using her body as a shield.",
-      "zh": "Touka 说得对……我是在拿她的身体当盾牌，躲避自己的感情。"
+      "en": "Touka was right...I {i}was{/i} trying to take shelter from my feelings by using her body as a shield.",
+      "zh": "Touka 说得对……我{i}是{/i}在拿她的身体当盾牌，躲避自己的感情。"
     },
     {
-      "en": "It wasn’t my proudest moment, asking her to stay less than an hour after almost kissing Maya, but...I doubt Maya would even be surprised if she heard about it.",
-      "zh": "在差点吻了 Maya 之后不到一小时就开口让她留下，这不是我最光彩的时刻，不过……我怀疑 Maya 就算听说了也不会惊讶。"
+      "en": "It wasn’t my proudest moment, asking her to stay less than an hour after {i}almost{/i} kissing Maya, but...I doubt Maya would even be surprised if she heard about it.",
+      "zh": "在{i}差点{/i}吻了 Maya 之后不到一小时就开口让她留下，这不是我最光彩的时刻，不过……我怀疑 Maya 就算听说了也不会惊讶。"
     },
     {
-      "en": "There’s no expectation placed on me to drop everyone else just because she and I are...what are we anyway?",
-      "zh": "没有人要求我因为她和我……我们到底算什么来着？就放弃所有其他人。"
+      "en": "There’s no expectation placed on me to drop everyone else just because she and I are...what {i}are{/i} we anyway?",
+      "zh": "没有人要求我因为她和我……我们到底{i}算什么{/i}来着？就放弃所有其他人。"
     },
     {
       "en": "She never said anything and never did anything. So it’s kind of like nothing ever happened in the first place.",

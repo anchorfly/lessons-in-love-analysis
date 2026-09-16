@@ -26,8 +26,8 @@
       "zh": "所以那份不忠当然最终把我带到了这里——带到某个熟悉之物的错误一侧。离又一次伪装成命运的冲动只差一两步。"
     },
     {
-      "en": "I don’t like her smile. I don’t like how her flesh is still warm when it should feel like porcelain. I don’t like that ribbon. I don’t like her eyes. How she doesn’t blink as much as she’s meant to.",
-      "zh": "我不喜欢她的笑。我不喜欢她的皮肉在应该像瓷器一样冰凉的时候却依然温热。我不喜欢那条发带。我不喜欢她的眼睛。不喜欢她眨眼眨得没有应有那么多。"
+      "en": "{size=-1}I don’t like her smile. I don’t like how her flesh is still warm when it should feel like porcelain. I don’t like that ribbon. I don’t like her eyes. How she doesn’t blink as much as she’s meant to.{/size}",
+      "zh": "{size=-1}我不喜欢她的笑。我不喜欢她的皮肉在应该像瓷器一样冰凉的时候却依然温热。我不喜欢那条发带。我不喜欢她的眼睛。不喜欢她眨眼眨得没有应有那么多。{/size}"
     },
     {
       "en": "I love it.",
@@ -74,10 +74,10 @@
       "zh": ": 行。我会角色扮演。"
     },
     {
-      "en": ": No, Maya. I meant that Ami is my daughter now. I don’t want you-",
+      "en": ": No, Maya. I meant that Ami is my {i}daughter{/i} now. I don’t want you-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不，Maya。我是说 Ami 现在是我女儿了。我不想让你——"
+      "zh": ": 不，Maya。我是说 Ami 现在是我{i}女儿{/i}了。我不想让你——"
     },
     {
       "en": ": I know exactly what you meant. That’s why I tried to swiftly move past it with the offer of a charade you can’t possibly refuse.",
@@ -86,10 +86,10 @@
       "zh": ": 我完全知道你是什么意思。所以我才想赶紧翻篇，抛出一个你绝对无法拒绝的角色扮演提议。"
     },
     {
-      "en": ": Just, I can refuse.",
+      "en": ": Just, I {i}can{/i} refuse.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 只是，我拒绝得了。"
+      "zh": ": 只是，我拒绝{i}得了{/i}。"
     },
     {
       "en": ""
@@ -107,10 +107,10 @@
       "en": ""
     },
     {
-      "en": ": Can you...Daddy?",
+      "en": ": Can you...{i}Daddy?{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你确定吗……爸爸？"
+      "zh": ": 你确定吗……{i}爸爸{/i}？"
     },
     {
       "en": ": ...",
@@ -134,16 +134,16 @@
       "en": ""
     },
     {
-      "en": ": Don’t just ignore me, Daddy. I’ve waited all day for you to come home. And I’ve been so lonely. Maybe we could-",
+      "en": ": Don’t just {i}ignore{/i} me, Daddy. I’ve waited all day for you to come home. And I’ve been {i}so{/i} lonely. Maybe we could-",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 别不理我啊，爸爸。我等了你一整天回家。我好寂寞。也许我们可以——"
+      "zh": ": 别{i}不理{/i}我啊，爸爸。我等了你一整天回家。我{i}好{/i}寂寞。也许我们可以——"
     },
     {
-      "en": ": Okay, fine. You win. I can’t refuse that. But I can’t refuse you in general, so...this was unfair from the start.",
+      "en": ": Okay, fine. You win. I can’t refuse that. But I can’t refuse {i}you{/i} in general, so...this was unfair from the start.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 好，行。你赢了。这个我拒绝不了。不过反正我什么也拒绝不了你，所以……从一开始就不公平。"
+      "zh": ": 好，行。你赢了。这个我拒绝不了。不过反正我什么也拒绝不了{i}你{/i}，所以……从一开始就不公平。"
     },
     {
       "en": ""
@@ -161,10 +161,10 @@
       "en": ""
     },
     {
-      "en": ": You refuse me plenty. It’s actually quite annoying. You never used to be like that.",
+      "en": ": You refuse me plenty. It’s actually quite annoying. You never {i}used{/i} to be like that. ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你拒绝我的次数可多了。其实挺烦人的。你以前从不这样。"
+      "zh": ": 你拒绝我的次数可多了。其实挺烦人的。你{i}以前{/i}从不这样。"
     },
     {
       "en": ": It used to be like, “Hi, Maya. Sex?” And then I’d be like, “Indeed.” Then three minutes later I’d be all sticky and gross and need to take a shower.",
@@ -227,10 +227,10 @@
       "zh": ": 你到底进不进来？"
     },
     {
-      "en": ": Because I may not have a tree for you to fuck me up against, but I do have all of those costumes I alluded to earlier which I will gladly let you choose from.",
+      "en": ": Because I may not have a tree for you to fuck me up against, but I {i}do{/i} have all of those costumes I alluded to earlier which I will gladly let you choose from.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 因为我这儿虽然没有树可以让你把我顶在上面干，但我有之前提过的那些戏服，我很乐意让你随便挑。"
+      "zh": ": 因为我这儿虽然没有树可以让你把我顶在上面干，但我{i}有{/i}之前提过的那些戏服，我很乐意让你随便挑。"
     },
     {
       "en": ": ...",
@@ -293,10 +293,10 @@
       "zh": ": 我觉得你本来该只说\"当然\"。"
     },
     {
-      "en": ": And I think you should be spending more time with girls you wouldn’t get arrested for merely looking at.",
+      "en": ": And I think {i}you{/i} should be spending more time with girls you wouldn’t get arrested for merely looking at.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 而我觉得你该多花点时间陪那些你光是看一眼就不会被抓起来的女孩。"
+      "zh": ": 而我觉得你该多花点时间陪那些你光是看一眼就不会被抓起{i}来{/i}的女孩。"
     },
     {
       "en": ""
@@ -359,10 +359,10 @@
       "zh": ": Ami……"
     },
     {
-      "en": ": How big your what is, Dad?",
+      "en": ": How big your {i}what{/i} is, Dad?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你的什么有多大，爸爸？"
+      "zh": ": 你的{i}什么{/i}有多大，爸爸？"
     },
     {
       "en": ": Uhh...hi...Ami...",
@@ -446,16 +446,16 @@
       "zh": ": 嗯？因为我们共用这间宿舍啊，笨蛋。"
     },
     {
-      "en": ": Yes. But you specifically told me earlier that you would not be here tonight. You know, like how you’re never here at all anymore.",
+      "en": ": Yes. But you {i}specifically{/i} told me earlier that you would not {i}be{/i} here tonight. You know, like how you’re {i}never{/i} here at {i}all{/i} anymore.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 是。可你明明之前跟我说过你今晚不会在这儿。你知道的，就像你现在根本就不怎么在这儿一样。"
+      "zh": ": 是。可你{i}明明{/i}之前跟我说过你今晚不会{i}在{/i}这儿。你知道的，就像你现在根本就不怎么在这儿一样。"
     },
     {
-      "en": ": To be completely fair, Maya, it should have been a dead giveaway that I would show up when I went out of my way to tell you I wouldn’t. Since that’s been the norm and all.",
+      "en": ": {size=-1}To be completely fair, Maya, it should have been a dead giveaway that I {i}would{/i} show up when I went out of my way to tell you I wouldn’t. Since that’s been the norm and all.{/size}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 说句公道话，Maya，我特意跑来跟你说我不会来，这本身就已经是很明显的暗示了——我肯定会出现的。毕竟这一直是常态嘛。"
+      "zh": ": {size=-1}说句公道话，Maya，我特意跑来跟你说我不会来，这本身就已经是很明显的暗示了——我{i}肯定{/i}会出现的。毕竟这一直是常态嘛。{/size}"
     },
     {
       "en": ""
@@ -473,10 +473,10 @@
       "en": ""
     },
     {
-      "en": ": Yeah! Maybe if you didn’t also fucking tell me that the reason I had to do your stupid, box-based chores was because you were busy!",
+      "en": ": Yeah! Maybe if you didn’t {i}also{/i} fucking tell me that the reason I had to do your stupid, box-based chores was because you were busy!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 是啊！也许如果你他妈的没跟我说，你让我做那些愚蠢的、跟盒子有关的杂事，是因为你很忙的话！"
+      "zh": ": 是啊！{i}也{/i}许如果你他妈的没跟我说，你让我做那些愚蠢的、跟盒子有关的杂事，是因为你很忙的话！"
     },
     {
       "en": ""
@@ -494,10 +494,10 @@
       "en": ""
     },
     {
-      "en": ": Oh yeah. I did say that, didn’t I? Wow. Maybe I am the bad guy here after all then?",
+      "en": ": Oh yeah. I did say that, didn’t I? Wow. Maybe I {i}am{/i} the bad guy here after all then?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 哦对。我确实说过，对吧？哇。那这么看来我才是这里的坏人了？"
+      "zh": ": 哦对。我确实说过，对吧？哇。那这么看来我{i}才是{/i}这里的坏人了？"
     },
     {
       "en": ": You think?!",
@@ -506,10 +506,10 @@
       "zh": ": 你觉得呢？！"
     },
     {
-      "en": ": Ew — Aki-kun, you’re not planning on fucking that...thing you dragged in, are you? I taught you better than that.",
+      "en": ": Ew — Aki-kun, you’re not planning on fucking that...{i}thing{/i} you dragged in, are you? I taught you better than that.",
       "spk": "Sekai",
       "spkColor": "#FF0055",
-      "zh": ": 呕——Aki-kun，你该不会打算跟那个你拖进来的……东西上床吧？我教过你要更好的。"
+      "zh": ": 呕——Aki-kun，你该不会打算跟那个你拖进来的……{i}东西{/i}上床吧？我教过你要更好的。"
     },
     {
       "en": ""
@@ -593,10 +593,10 @@
       "zh": ": 如果我们是，那会有问题吗？"
     },
     {
-      "en": ": I figure letting me fuck your dad is the least you can do since you’re going to make me do all sorts of shit now, Ami. That sounds fair, right?",
+      "en": ": I figure letting me fuck your dad is the least you can do since you’re going to make me do all {i}sorts{/i} of shit now, Ami. That sounds fair, right?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我想，既然你要让我做各种各样的事，Ami，那让我操你爸爸就是你最起码能做的。听起来挺公平的，对吧？"
+      "zh": ": 我想，既然你要让我做{i}各种各样{/i}的事，Ami，那让我操你爸爸就是你最起码能做的。听起来挺公平的，对吧？"
     },
     {
       "en": ": Oh, yay! You think I’m his daughter again. I could have sworn I heard you call me his niece just a minute ago. But yeah! Go for it.",
@@ -665,10 +665,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": I mean...I won’t say I’m against it...",
+      "en": ": I mean...I won’t say I’m {i}against{/i} it...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我是说……我也不能说我反对……"
+      "zh": ": 我是说……我也不能说我{i}反对{/i}……"
     },
     {
       "en": ": On second thought...I should probably just...go.",
@@ -719,10 +719,10 @@
       "en": ""
     },
     {
-      "en": ": Unobtrusive?! That’s what you call it?! Getting in the way of my personal life just to fuck with me?! Because that sounds pretty obtrusive to me, Ami!",
+      "en": ": Unobtrusive?! That’s what you call it?! Getting in the way of my personal life just to fuck with me?! Because that sounds pretty {i}obtrusive{/i} to me, Ami!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 不碍事？！你管那叫不碍事？！为了耍我而妨碍我的私生活？！因为在我看来那相当碍事，Ami！"
+      "zh": ": 不碍事？！你管那叫不碍事？！为了耍我而妨碍我的私生活？！因为在我看来那相当{i}碍事{/i}，Ami！"
     },
     {
       "en": ""
@@ -818,10 +818,10 @@
       "zh": ": 就……改天吧。好吗？"
     },
     {
-      "en": ": Hah...alone again. Being dead is so depressing sometimes.",
+      "en": ": {i}Hah...{/i}alone again. Being dead is so depressing sometimes.",
       "spk": "Sekai",
       "spkColor": "#FF0055",
-      "zh": ": 哈……又是一个人。死了有时候真让人沮丧。"
+      "zh": ": {i}哈……{/i}又是一个人。死了有时候真让人沮丧。"
     },
     {
       "en": ": Aww, man. I was really looking forward to watching you guys.",
@@ -902,10 +902,10 @@
       "zh": ": 嗯……你想想。要是我不叫你去处理那个盒子，Sensei 就不会被自己和它的情感联系动摇。"
     },
     {
-      "en": ": Then the two of you don’t use the rest of the night to start repairing the broken bridge that is your relationship and go eat takoyaki and stuff.",
+      "en": ": Then the two of you {i}don’t{/i} use the rest of the night to start repairing the broken bridge that is your relationship and go eat takoyaki and stuff.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 那你们俩也就不会用剩下的时间去修补你们关系里那座断桥，去吃章鱼烧什么的了。"
+      "zh": ": 那你们俩也就{i}不会{/i}用剩下的时间去修补你们关系里那座断桥，去吃章鱼烧什么的了。"
     },
     {
       "en": ": How do you know about the takoyaki?",
@@ -929,10 +929,10 @@
       "en": ""
     },
     {
-      "en": ": Oh, that’s easy. Sensei isn’t good with technology, so I turned the “find my phone” feature on when I was helping him update his one night and then linked it to my phone.",
+      "en": ": Oh, that’s easy. Sensei isn’t good with technology, so I turned the “find my phone” feature on when I was helping him update his one night and then linked it to {i}my{/i} phone.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 哦，这个简单。Sensei 不擅长电子产品，所以有天晚上我帮他更新的时候开了\"查找我的手机\"，然后关联到了我的手机上。"
+      "zh": ": 哦，这个简单。Sensei 不擅长电子产品，所以有天晚上我帮他更新的时候开了\"查找{i}我的{/i}手机\"，然后关联到了我的手机上。"
     },
     {
       "en": ": Now I can see where he is at all times and don’t have to worry anymore!",
@@ -974,16 +974,16 @@
       "en": ""
     },
     {
-      "en": ": I feel like that’s actually one of the less crazy things I’ve done. Just wait until you find out what I’ve put in his food.",
+      "en": ": I feel like that’s actually one of the {i}less{/i} crazy things I’ve done. Just wait until you find out what I’ve put in his food.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我觉得这其实算是我干过的不那么疯的事之一。等你发现我在他吃的里面放了什么再说吧。"
+      "zh": ": 我觉得这其实算是我干过的{i}不那么{/i}疯的事之一。等你发现我在他吃的里面放了什么再说吧。"
     },
     {
-      "en": ": So is he your doll too then?! Or is he a puppet?! And what about everyone else?! Who do you want control of next?!",
+      "en": ": So is {i}he{/i} your doll too then?! Or is {i}he{/i} a puppet?! And what about everyone else?! Who do you want control of next?!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 那他也是你的娃娃了？！还是木偶？！其他人呢？！下一个你想控制谁？！"
+      "zh": ": 那{i}他{/i}也是你的娃娃了？！还是木偶？！其他人呢？！下一个你想控制谁？！"
     },
     {
       "en": ""
@@ -1028,22 +1028,22 @@
       "en": ""
     },
     {
-      "en": ": I can tell based on how loud you’re being right now. I implore you to reconsider, though. At least if you want to keep thinking you’re actually alive or whatever.",
+      "en": ": I can tell based on how loud you’re being right now. I implore you to reconsider, though. At least if you want to keep thinking you’re actually {i}alive{/i} or whatever.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 从你现在嗓门多大我就看得出来。不过我劝你重新考虑一下。至少在你还想继续以为自己真的活着什么的之前。"
+      "zh": ": 从你现在嗓门多大我就看得出来。不过我劝你重新考虑一下。至少在你还想继续以为自己真的{i}活着{/i}什么的之前。"
     },
     {
-      "en": ": I am alive, though! I have feelings! I’m in love! I have needs and wants and connections and you’re trampling all over them by hanging your fucking...powers over my head!",
+      "en": ": I {i}am{/i} alive, though! I have feelings! I’m in love! I have needs and wants and connections and you’re trampling all over them by hanging your fucking...powers over my head!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 可我是活着的啊！我有感情！我在恋爱！我有需求、有想要的东西、有牵绊，而你把那些你他妈的……能力悬在我头顶，把它们全踩在脚下！"
+      "zh": ": 可我{i}是{/i}活着的啊！我有感情！我在恋爱！我有需求、有想要的东西、有牵绊，而你把那些你他妈的……能力悬在我头顶，把它们全踩在脚下！"
     },
     {
-      "en": ": I don’t have powers. How many times do I have to tell you this?",
+      "en": ": I don’t {i}have{/i} powers. How many times do I have to tell you this?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我没有能力。这句话我要说多少遍？"
+      "zh": ": 我没{i}有{/i}能力。这句话我要说多少遍？"
     },
     {
       "en": ""
@@ -1061,16 +1061,16 @@
       "en": ""
     },
     {
-      "en": ": Well, until someone else figures out how to pull me through different layers of reality or...timelines or...whatever that was, I’m going to keep assuming you do.",
+      "en": ": Well, until someone {i}else{/i} figures out how to pull me through different layers of reality or...timelines or...whatever that was, I’m going to keep assuming you do.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 嗯，在别人想出办法把我拽过不同层的现实、或者……时间线、或者……不管那是什么之前，我都会继续假设你有。"
+      "zh": ": 嗯，在{i}别人{/i}想出办法把我拽过不同层的现实、或者……时间线、或者……不管那是什么之前，我都会继续假设你有。"
     },
     {
-      "en": ": But I’m not going to let the fear of that threaten me anymore. And I’m not going to keep doing your bidding just because I’m afraid of you.",
+      "en": ": But I’m not going to let the fear of that threaten me anymore. And I’m not going to keep doing your bidding just because I’m {i}afraid{/i} of you. ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 但我不会再让这份恐惧威胁我了。我也不会再因为怕你而继续听你使唤。"
+      "zh": ": 但我不会再让这份恐惧威胁我了。我也不会再因为{i}怕{/i}你而继续听你使唤。"
     },
     {
       "en": ": Is it just me or is this a bit of an overreaction to just being in the room while you want to fuck my dad?",
@@ -1100,34 +1100,34 @@
       "zh": ": 事情比那严重多了，你心里清楚……"
     },
     {
-      "en": ": You’re supposed to be my best friend. We’re supposed to be in this together.",
+      "en": ": You’re supposed to be my best friend. We’re supposed to be in this {i}together.{/i} ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你本该是我最好的朋友。我们本该一起扛的。"
+      "zh": ": 你本该是我最好的朋友。我们本该{i}一起扛{/i}的。"
     },
     {
-      "en": ": But instead, you keep treating me like a pet you’ve locked in a cage. One you only take out when you want to trick yourself into thinking you can ever care for anything.",
+      "en": ": But instead, you keep treating me like a pet you’ve locked in a cage. One you only take out when you want to trick yourself into thinking you can ever {i}care{/i} for anything.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 可你却一直把我当宠物关在笼子里。只在你想骗自己、以为自己还能在乎什么东西的时候，才把我放出来。"
+      "zh": ": 可你却一直把我当宠物关在笼子里。只在你想骗自己、以为自己还能{i}在乎{/i}什么东西的时候，才把我放出来。"
     },
     {
-      "en": ": When, in all actuality, you’re just neglectful. You don’t actually care about the things you look after. You care about feeling like you’re doing something good. But you’re not.",
+      "en": ": When, in all actuality, you’re just neglectful. You don’t actually {i}care{/i} about the things you look after. You care about feeling like you’re doing something {i}good.{/i} But you’re not.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 而实际上，你只是疏于照料。你并不真的在乎你照看的东西。你在乎的只是\"自己在做好事\"这种感觉。可你没在做好事。"
+      "zh": ": 而实际上，你只是疏于照料。你并不真的{i}在乎{/i}你照看的东西。你在乎的只是\"自己在做{i}好事{/i}\"这种感觉。可你没在做好事。"
     },
     {
-      "en": ": You hurt everyone by just fucking existing. You are nothing like the Ami I know. Because the Ami I know wouldn’t ever hurt me on purpose.",
+      "en": ": You hurt everyone by just fucking existing. You are {i}nothing{/i} like the Ami I know. Because the Ami I know wouldn’t ever hurt me on purpose. ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你光是存在着就在伤害所有人。你跟我认识的那个 Ami 一点也不像。因为我认识的那个 Ami 绝不会故意伤害我。"
+      "zh": ": 你光是存在着就在伤害所有人。你跟我认识的那个 Ami {i}一点也不{/i}像。因为我认识的那个 Ami 绝不会故意伤害我。"
     },
     {
-      "en": ": And you do it just for fun.",
+      "en": ": And {i}you{/i} do it just for fun.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 而你这么做只是为了好玩。"
+      "zh": ": 而{i}你{/i}这么做只是为了好玩。"
     },
     {
       "en": ": ...",
@@ -1175,10 +1175,10 @@
       "zh": ": 那不如你告诉我，我该怎么弥补我对你显然这么恶劣这件事？要我再去把镣铐拿来吗？"
     },
     {
-      "en": ": You can’t do anything. But I can.",
+      "en": ": {i}You{/i} can’t do anything. But {i}I{/i} can.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你什么也做不了。但我可以。"
+      "zh": ": {i}你{/i}什么也做不了。但{i}我{/i}可以。"
     },
     {
       "en": ""
@@ -1196,16 +1196,16 @@
       "en": ""
     },
     {
-      "en": ": Oh? And what are you going to do then?",
+      "en": ": Oh? And what are {i}you{/i} going to do then?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 哦？那你打算做什么？"
+      "zh": ": 哦？那{i}你{/i}打算做什么？"
     },
     {
-      "en": ": Ever since Halloween...I’ve been keeping your secret because I’ve been afraid of what you’ll do to me if I don’t. But that’s not going to get me anywhere.",
+      "en": ": Ever since Halloween...I’ve been keeping your secret because I’ve been afraid of what you’ll do to me if I {i}don’t.{/i} But that’s not going to get me anywhere.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 从万圣节之后……我一直替你保守秘密，因为我怕不这么做你会对我怎么样。可那样我哪儿也去不了。"
+      "zh": ": 从万圣节之后……我一直替你保守秘密，因为我怕{i}不这么做{/i}你会对我怎么样。可那样我哪儿也去不了。"
     },
     {
       "en": ": You’re going to tell Sensei then? That I’m a super-secret time traveling villain and not just a normal girl?",
@@ -1214,10 +1214,10 @@
       "zh": ": 那你要去告诉 Sensei 了？说我是一个超级秘密的时间旅行反派，而不是一个普通的女孩？"
     },
     {
-      "en": ": You gonna leave in the part where I made you cum your brains out too? Or does that one get to stay secret since it makes you look like a filthy whore?",
+      "en": ": You gonna leave in the part where I made you cum your brains out too? Or does that one get to {i}stay{/i} secret since it makes you look like a filthy whore?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你会连我让你爽到脑子都射出来那部分也一起说吗？还是说那段可以保密，因为它会让你看起来像个下贱的婊子？"
+      "zh": ": 你会连我让你爽到脑子都射出来那部分也一起说吗？还是说那段可以{i}保密{/i}，因为它会让你看起来像个下贱的婊子？"
     },
     {
       "en": ": I’ll tell him everything...that part too.",
@@ -1247,10 +1247,10 @@
       "zh": ": 行吧。不过我只是好奇，你觉得这到底能达到什么目的？"
     },
     {
-      "en": ": Do you expect me to just play nice once I’m dragged into this mess with you guys?  That I’ll stop being clingy and needy? What’s the end game here?",
+      "en": ": Do you expect me to just {i}play nice{/i} once I’m dragged into this mess with you guys?  That I’ll stop being clingy and needy? What’s the end game here?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你指望我被拖进你们这摊烂事之后就会乖乖听话吗？指望我不再黏人、不再索求无度？你的最终目的是什么？"
+      "zh": ": 你指望我被拖进你们这摊烂事之后就会{i}乖乖听话{/i}吗？指望我不再黏人、不再索求无度？你的最终目的是什么？"
     },
     {
       "en": ": I don’t expect any of that...but I expect he’ll stop giving you everything you want just because your mom died.",
@@ -1265,16 +1265,16 @@
       "zh": ": Sensei 给我想要的，不是因为我妈妈死了。是因为他爱我。"
     },
     {
-      "en": ": And if you tell him I know more than he thinks I know, do you know what’ll really happen, Maya?",
+      "en": ": And if you tell him I know more than he {i}thinks{/i} I know, do you know what’ll {i}really{/i} happen, Maya? ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 而如果你告诉他，我知道的远比他以为的多，你知道真正会发生什么吗，Maya？"
+      "zh": ": 而如果你告诉他，我知道的远比他{i}以为{/i}的多，你知道{i}真正{/i}会发生什么吗，Maya？"
     },
     {
-      "en": ": He’ll leave every single one of you. Just like he’d have done for the last girl who lived inside of that skin. He’ll leave you and he’ll be with me. Just me. For the rest of time.",
+      "en": ": He’ll leave every single one of you. Just like he’d have done for the {i}last{/i} girl who lived inside of that skin. He’ll leave you and he’ll be with me. Just me. For the rest of time.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 他会离开你们每一个人。就像他会为住在那层皮囊里的上一个女孩所做的那样。他会离开你，然后跟我在一起。只有我。直到时间的尽头。"
+      "zh": ": 他会离开你们每一个人。就像他会为住在那层皮囊里的{i}上一个{/i}女孩所做的那样。他会离开你，然后跟我在一起。只有我。直到时间的尽头。"
     },
     {
       "en": ": Don’t play games with me, Ami. If that were true, you’d have fucking told him yourself. You wouldn’t turn down a world where it’s just you and him and you know it.",
@@ -1310,16 +1310,16 @@
       "zh": ": 如果 Sensei 发现我从头到尾都知道发生了什么，你知道他会痛苦到什么程度吗？"
     },
     {
-      "en": ": Do you have any idea how terrible he’ll feel knowing I’ve had to look after myself this whole time while he refuses to come to grips with who he really is to me?",
+      "en": ": Do you have any idea how {i}terrible{/i} he’ll feel knowing I’ve had to look after myself this whole time while he refuses to come to grips with who he really is to me?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你知道，当他知道这一直以来我都得自己照顾自己、而他却拒绝认清他对我来说到底是什么人的时候，他会觉得自己有多糟糕吗？"
+      "zh": ": 你知道，当他知道这一直以来我都得自己照顾自己、而他却拒绝认清他对我来说到底是什么人的时候，他会觉得自己有多{i}糟糕{/i}吗？"
     },
     {
-      "en": ": Do you really think that what the two of you share is stronger than that? Or do you think that maybe, deep down, what he wants is more than just sex?",
+      "en": ": Do you {i}really{/i} think that what the two of {i}you{/i} share is stronger than that? Or do you think that maybe, deep down, what he wants is more than just {i}sex?{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你真的以为你们俩之间的东西比那更牢固吗？还是说，也许在他内心深处，他想要的不只是性？"
+      "zh": ": 你{i}真的{/i}以为{i}你们{/i}俩之间的东西比那更牢固吗？还是说，也许在他内心深处，他想要的不只是{i}性{/i}？"
     },
     {
       "en": ""
@@ -1337,16 +1337,16 @@
       "en": ""
     },
     {
-      "en": ": He wants to be happy. He wants a family. He wants a normal life in a normal world where he doesn’t have to deal with mistakes like you.",
+      "en": ": He wants to be happy. He wants a {i}family.{/i} He wants a normal life in a normal world where he doesn’t have to deal with {i}mistakes{/i} like you.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 他想要幸福。他想要一个家。他想要一个正常世界里的正常生活，一个不必应付你这样的错误的生活。"
+      "zh": ": 他想要幸福。他想要一个{i}家{/i}。他想要一个正常世界里的正常生活，一个不必应付你这样的{i}错误{/i}的生活。"
     },
     {
-      "en": ": That is why I haven’t told him. Because, unlike you, I don’t want to hurt him. And I won’t make him suffer just so things will be easier for me.",
+      "en": ": {i}That{/i} is why I haven’t told him. Because, unlike you, I {i}don’t{/i} want to hurt him. And I {i}won’t{/i} make him suffer just so things will be easier for me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 所以我没有告诉他。因为跟你不同，我不想伤害他。我不会为了让自己好过就让他受苦。"
+      "zh": ": {i}所以{/i}我没有告诉他。因为跟你不同，我{i}不想{/i}伤害他。我{i}不会{/i}为了让自己好过就让他受苦。"
     },
     {
       "en": ": At least...not on a long-term basis.",
@@ -1400,10 +1400,10 @@
       "zh": ": 像\"杀\"这种词太沉重、太戏剧化了，不值得浪费在那些从未活过的人身上。"
     },
     {
-      "en": ": And while I can’t reset you myself, I can sure find a way to make you wish I could.",
+      "en": ": And while I can’t reset you myself, I can sure find a way to make you {i}wish{/i} I could.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 虽然我没法自己重置你，但我一定能想出办法让你希望我能。"
+      "zh": ": 虽然我没法自己重置你，但我一定能想出办法让你{i}希望{/i}我能。"
     },
     {
       "en": ": ...",
@@ -1481,10 +1481,10 @@
       "zh": ": 所以就……照你说的做？一句也不问？……"
     },
     {
-      "en": ": I’m supposed to just...agree to that? And let you keep trampling all over the things I want? The things that make me happy?",
+      "en": ": I’m supposed to just...agree to that? And let you keep trampling all over the things {i}I{/i} want? The things that make {i}me{/i} happy?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我就该……答应这个？然后让你继续践踏我想要的东西？让我快乐的东西？"
+      "zh": ": {i}我{/i}就该……答应这个？然后让你继续践踏{i}我{/i}想要的东西？让我快乐的东西？"
     },
     {
       "en": ": It’s easier than you make it sound.",
@@ -1532,16 +1532,16 @@
       "en": ""
     },
     {
-      "en": "Maya’s affection has increased by 1!",
-      "zh": "Maya 的好感度提升了 1!"
+      "en": "{i}Maya’s affection has increased by 1!{/i}",
+      "zh": "{i}Maya 的好感度提升了 1!{/i}"
     },
     {
-      "en": "Ami’s affection has increased by 100!",
-      "zh": "Ami 的好感度提升了 100!"
+      "en": "{i}Ami’s affection has increased by 100!{/i}",
+      "zh": "{i}Ami 的好感度提升了 100!{/i}"
     },
     {
-      "en": "She clearly loves you more!",
-      "zh": "她显然更爱你！"
+      "en": "{i}She clearly loves you more!{/i}",
+      "zh": "{i}她显然更爱你！{/i}"
     },
     {
       "en": ".........",

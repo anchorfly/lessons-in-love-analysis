@@ -1,6 +1,6 @@
 {
   "label": "nodokahallgen",
-  "title_zh": "关于牛",
+  "title_zh": "nodokahallgen",
   "lines": [
     {
       "en": ""
@@ -102,10 +102,10 @@
       "zh": ": 我觉得它们在谋划什么。"
     },
     {
-      "en": ": I just can't figure out what...",
+      "en": ": {i}I just can't figure out what...{/i}",
       "spk": "Nodoka",
       "spkColor": "#AF89A2",
-      "zh": ": 我只是想不通是什么……"
+      "zh": ": {i}我只是想不通是什么……{/i}"
     },
     {
       "en": ""
@@ -169,8 +169,8 @@
       "en": ""
     },
     {
-      "en": "Nodoka's affection has increased to [nodoka_love]!",
-      "zh": "Nodoka 的好感度提升到了 [nodoka_love]！"
+      "en": "{i}Nodoka's affection has increased to [nodoka_love]!{/i}",
+      "zh": "{i}Nodoka 的好感度提升到了 [nodoka_love]！{/i}"
     },
     {
       "en": ".........",

@@ -1,6 +1,6 @@
 {
   "label": "amidate50p4",
-  "title_zh": "梦行者",
+  "title_zh": "梦游者",
   "lines": [
     {
       "en": ""
@@ -1107,10 +1107,10 @@
       "zh": ": Ami,我大概没有连着两天进行这种出游所需的体力。"
     },
     {
-      "en": ": Actually, what I was about to tell you is that I’ll be working all day tomorrow and that you won’t need to put up with me at all.",
+      "en": ": {i}Actually{/i}, what I was about to tell you is that I’ll be working all day tomorrow and that you won’t need to put up with me {i}at all.{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 其实,我想说的是:明天我要工作一整天,你完全不用忍受我。"
+      "zh": ": {i}其实{/i},我想说的是:明天我要工作一整天,你{i}完全{/i}不用忍受我。"
     },
     {
       "en": ": All day? Did Uta call out or something?",
@@ -1212,10 +1212,10 @@
       "en": ""
     },
     {
-      "en": ": Io? Since when do you have her number? I thought she didn’t talk to anybody except Uta?",
+      "en": ": Io? Since when do you have {i}her{/i} number? I thought she didn’t talk to anybody except Uta?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": Io?你什么时候有她号码的?我记得她除了 Uta 谁都不理?"
+      "zh": ": Io?你什么时候有{i}她{/i}号码的?我记得她除了 Uta 谁都不理?"
     },
     {
       "en": ": I am one of the very rare exceptions, I guess. But it looks like I’ll have to just ask her when we get home.",
@@ -1355,8 +1355,8 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]!"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
     },
     {
       "en": ".........",

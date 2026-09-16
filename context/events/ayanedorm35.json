@@ -1,6 +1,6 @@
 {
   "label": "ayanedorm35",
-  "title_zh": "我想我妈妈了",
+  "title_zh": "一声惊雷",
   "lines": [
     {
       "en": ""
@@ -65,7 +65,7 @@
     },
     {
       "en": "There are some doors that you can never open again 61 6e 64 20 73 6f 6d 65 20 74 68 61 74 20 79 6f 75 20 63 61 6e 20 6e 65 76 65 72 20 63 6c 6f 73 65~~~~~~~~~~",
-      "zh": "有些门你再也打不开了 61 6e 64 20 73 6f 6d 65 20 74 68 61 74 20 79 6f 75 20 63 61 6e 20 6e 65 76 65 72 20 63 6c 6f 73 65~~~~~~~~~~"
+      "zh": "有些门你再也打不开了 61 6e 64 20 73 6f 6d 65 20 74 68 61 74 20 79 6f 75 20 63 61 6e 20 6e 65 76 65 72 20 63 6c 6f 73 65 (还有一些门你永远也关不上)~~~~~~~~~~"
     },
     {
       "en": ""
@@ -667,8 +667,8 @@
       "en": ""
     },
     {
-      "en": "I shrug off the fact that Sana just turned down an easy opportunity to get closer to me and come to terms with only being able to embrace one cute girl tonight.",
-      "zh": "我不再去想 Sana 刚刚放弃了一个跟我亲近的大好机会这件事，并接受今晚只能抱一个可爱女生的事实。"
+      "en": "I shrug off the fact that Sana just turned down an easy opportunity to get closer to me and come to terms with only being able to embrace {i}one{/i} cute girl tonight.",
+      "zh": "我不再去想 Sana 刚刚放弃了一个跟我亲近的大好机会这件事，并接受今晚只能抱{i}一个{/i}可爱女生的事实。"
     },
     {
       "en": "Or at least that’s what I expect to happen until we go outside.",
@@ -746,12 +746,12 @@
       "zh": "一个没了父亲或母亲。一个还在。"
     },
     {
-      "en": "But how present, exactly?",
-      "zh": "可到底有多“在”呢？"
+      "en": "But {i}how{/i} present, exactly?",
+      "zh": "可到底{i}有多{/i}“在”呢？"
     },
     {
-      "en": "It makes me think about my parents for a moment.",
-      "zh": "这让我想起自己的父母。"
+      "en": "It makes me think about {i}my{/i} parents for a moment.",
+      "zh": "这让{i}我{/i}想起自己的父母。"
     },
     {
       "en": "What they’d think of me now.",
@@ -983,10 +983,10 @@
       "en": ""
     },
     {
-      "en": ": Your embrace is always needed, Sensei. I’m just trying to be considerate about the feelings of Sana here since seeing you hug me would make her jealous.",
+      "en": ": Your embrace is {i}always{/i} needed, Sensei. I’m just trying to be considerate about the feelings of Sana here since seeing you hug me would make her jealous.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 你的拥抱永远都需要，Sensei。我只是顾及一下 Sana 的感受，毕竟看到你抱我，她会吃醋的。"
+      "zh": ": 你的拥抱{i}永远{/i}都需要，Sensei。我只是顾及一下 Sana 的感受，毕竟看到你抱我，她会吃醋的。"
     },
     {
       "en": ""
@@ -1434,8 +1434,8 @@
       "en": ""
     },
     {
-      "en": "Sana and I immediately sense the sudden shift in Ayane’s mood...But it’s not something that either of us deserves any praise for because it’s about as subtle as a hideous car wreck crash of thunder.",
-      "zh": "Sana 和我立刻察觉到 Ayane 的情绪突然变了……但这不值得我们任何一方被夸奖，因为那变化微妙得就像一场惨烈的车祸撞上雷鸣。"
+      "en": "Sana and I immediately sense the sudden shift in Ayane’s mood...But it’s not something that either of us deserves any praise for because it’s about as subtle as a {s}hideous car wreck{/s} crash of thunder.",
+      "zh": "Sana 和我立刻察觉到 Ayane 的情绪突然变了……但这不值得我们任何一方被夸奖，因为那变化微妙得就像一场{s}惨烈的车祸{/s}撞上雷鸣。"
     },
     {
       "en": "It’s the kind of look that still manages to leak out a bit of hope or...strained joy or...something that’s there to say “There is still more of me.”",
@@ -1733,10 +1733,10 @@
       "en": ""
     },
     {
-      "en": ": And...even if the dad...cough cough Sensei, doesn’t want to be a part of it, I’ll do it all on my own.",
+      "en": ": And...even if the dad...cough cough {i}Sensei{/i}, doesn’t want to be a part of it, I’ll do it all on my own.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 而且……就算那个爸爸……咳咳，Sensei，不想掺和，我一个人也能全搞定。"
+      "zh": ": 而且……就算那个爸爸……咳咳，{i}Sensei{/i}，不想掺和，我一个人也能全搞定。"
     },
     {
       "en": ": I think you’re supposed to actually cough and not just say “cough cough.”",
@@ -1751,10 +1751,10 @@
       "zh": ": 还有，别自己一个人就决定我要当你孩子的爸。"
     },
     {
-      "en": ": They’ll be your children too, Sensei! Whether you like it or not!",
+      "en": ": They’ll be {i}your{/i} children too, Sensei! Whether you like it or not!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 他们也会是你的孩子，Sensei！不管你愿不愿意！"
+      "zh": ": 他们也会是{i}你的{/i}孩子，Sensei！不管你愿不愿意！"
     },
     {
       "en": ": Is that a threat?",
@@ -1808,10 +1808,10 @@
       "zh": ": 到那时候，我不需要你帮忙。"
     },
     {
-      "en": ": Which isn’t to say I don’t want your help.",
+      "en": ": Which isn’t to say I don’t {i}want{/i} your help. ",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 但这不代表我不想要你帮忙。"
+      "zh": ": 但这不代表我不{i}想{/i}要你帮忙。"
     },
     {
       "en": ": I think you’d be a great father since you were always there for me when mine wasn’t.",
@@ -1820,10 +1820,10 @@
       "zh": ": 我觉得你会是个很棒的父亲，因为我爸不在的时候，一直都是你在。"
     },
     {
-      "en": ": Just...I won’t need it.",
+      "en": ": Just...I won’t {i}need{/i} it.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 只是……我不会需要。"
+      "zh": ": 只是……我不会{i}需要{/i}。"
     },
     {
       "en": ": But please give it to me.",
@@ -2060,16 +2060,16 @@
       "zh": ": 不。别再说这种话了。"
     },
     {
-      "en": ": I really really don’t like this...",
+      "en": ": I really {i}really{/i} don’t like this...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 我真的真的好不喜欢这样……"
+      "zh": ": 我真的{i}真的{/i}好不喜欢这样……"
     },
     {
-      "en": ": Great. Now Sana is jealous and wants you to give her a baby.",
+      "en": ": Great. Now Sana is jealous and wants you to give {i}her{/i} a baby.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 太好了。现在 Sana 吃醋了，也想让你给她一个宝宝。"
+      "zh": ": 太好了。现在 Sana 吃醋了，也想让你给{i}她{/i}一个宝宝。"
     },
     {
       "en": "scene ayanesanapark37",
@@ -2084,10 +2084,10 @@
       "en": ""
     },
     {
-      "en": ": I really really really really don’t want that!",
+      "en": ": I really {i}really{/i} {b}really{/b} really don’t want that!",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 我真的真的真的真的不想要！"
+      "zh": ": 我真的{i}真的{/i}{b}真的{/b}真的不想要！"
     },
     {
       "en": ": Sana, I know it’s not intentional, but you’ve made me feel really bad about myself on several occasions tonight.",
@@ -2132,10 +2132,10 @@
       "zh": ": 不管怎么说，我现在确实好受多了。"
     },
     {
-      "en": ": Well, as long as one person leaves here tonight feeling good.",
+      "en": ": Well, as long as {i}one{/i} person leaves here tonight feeling good.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 行吧，只要今晚有一个人是带着好心情离开的。"
+      "zh": ": 行吧，只要今晚有{i}一个{/i}人是带着好心情离开的。"
     },
     {
       "en": ""
@@ -2200,8 +2200,8 @@
       "en": ""
     },
     {
-      "en": "Ayane’s affection has increased to [ayane_love]!",
-      "zh": "Ayane 的好感度提升到了 [ayane_love]！"
+      "en": "{i}Ayane’s affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]！{/i}"
     },
     {
       "en": ".........",

@@ -37,8 +37,8 @@
       "zh": "第一段人生是我们理想化的那一段——在那里，这种摆布被我们像围巾一样裹在身上，用来抵御寒冷，而这里的寒冷，指的就是我们所有不熟悉的东西。"
     },
     {
-      "en": "But it isn't until the second life where we discover that we like the cold and discard the scarf entirely, only to regret the decision thereafter because the feel of the fabric was comforting.",
-      "zh": "可直到第二段人生，我们才发现自己喜欢寒冷，于是把围巾彻底扔掉，之后却又后悔这个决定，因为布料的触感曾让人安心。"
+      "en": "But it isn't until the second life where we discover that we {i}like{/i} the cold and discard the scarf entirely, only to regret the decision thereafter because the feel of the fabric was comforting.",
+      "zh": "可直到第二段人生，我们才发现自己{i}喜欢{/i}寒冷，于是把围巾彻底扔掉，之后却又后悔这个决定，因为布料的触感曾让人安心。"
     },
     {
       "en": "By the second life, we have become so resistant to manipulation that we no longer allow others to change us and, instead, are forced into a state of being where we must manipulate ourselves.",
@@ -96,8 +96,8 @@
       "zh": "不过，这一切里最糟糕的是，你得用整个第二段人生，来训练自己走完最后那一步。"
     },
     {
-      "en": "There are no firsts left at this point anymore-",
-      "zh": "到了这一步，已经不再有任何「第一次」了——"
+      "en": "There are no {i}firsts{/i} left at this point anymore-",
+      "zh": "到了这一步，已经不再有任何{i}「第一次」{/i}了——"
     },
     {
       "en": "Just a series of events that you’re forced to assign meaning to so you won’t be as terrified when you're dying alone in a hospital bed somewhere.",
@@ -108,8 +108,8 @@
       "zh": "赞美吧。"
     },
     {
-      "en": "Praise the God god who wanted us to live these tragic, hopeless lives.",
-      "zh": "赞美那位希望我们过这种悲惨而无望的人生的 God 神。"
+      "en": "Praise the {s}God{/s} god who wanted us to live these tragic, hopeless lives.",
+      "zh": "赞美那位希望我们过这种悲惨而无望的人生的 {s}God{/s} 神。"
     },
     {
       "en": "...",
@@ -401,10 +401,10 @@
       "zh": ": 可以理解。但补充一点，总的来说，我跟你说话也从没有过愉快的经历。"
     },
     {
-      "en": ": Oh, come on. There's had to be at least one.",
+      "en": ": Oh, come on. There's had to be at least {i}one.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 哦，得了吧。总该有一次吧。"
+      "zh": ": 哦，得了吧。总该有{i}一次{/i}吧。"
     },
     {
       "en": ": Not that I can think of.",
@@ -513,10 +513,10 @@
       "zh": ": 嗯？什么？"
     },
     {
-      "en": ": You guys just seem...a little different somehow. Like, I can still feel the hate, but now it’s more like a comfortable hate rather than an...uncomfortable hate.",
+      "en": ": You guys just seem...a little different somehow. Like, I can still feel the hate, but now it’s more like a comfortable hate rather than an...{i}uncomfortable{/i} hate.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你们看起来就是……有点不一样了。怎么说呢，我还能感觉到那股恨意，但现在更像是一种舒服的恨，而不是……让人难受的恨。"
+      "zh": ": 你们看起来就是……有点不一样了。怎么说呢，我还能感觉到那股恨意，但现在更像是一种舒服的恨，而不是……{i}让人难受的{/i}恨。"
     },
     {
       "en": ": Does that make sense?",
@@ -597,10 +597,10 @@
       "zh": ": 这到底是什么意思啊？"
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 哈……"
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ""
@@ -784,10 +784,10 @@
       "en": ""
     },
     {
-      "en": ": All you have to understand is that you could easily fix this problem by giving me-",
+      "en": ": All {i}you{/i} have to understand is that you could easily fix this problem by giving me-",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你只需要明白，这个问题你很容易就能解决，只要给我——"
+      "zh": ": {i}你{/i}只需要明白，这个问题你很容易就能解决，只要给我——"
     },
     {
       "en": ": No.",
@@ -1294,10 +1294,10 @@
       "en": ""
     },
     {
-      "en": ": Hah...This is it...The day I’m finally killed by the student council president.",
+      "en": ": {i}Hah...{/i}This is it...The day I’m finally killed by the student council president.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 哈……就是今天了……我终于要被学生会长杀掉的日子。"
+      "zh": ": {i}哈……{/i}就是今天了……我终于要被学生会长杀掉的日子。"
     },
     {
       "en": ": It has been a pleasure knowing you, Ami.",
@@ -1440,10 +1440,10 @@
       "zh": ": 对。"
     },
     {
-      "en": ": We are going to ignore that.",
+      "en": ": We {i}are{/i} going to ignore that.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我们就要当它没发生过。"
+      "zh": ": 我们{i}就要{/i}当它没发生过。"
     },
     {
       "en": ": Please continue on with your daily life as if nothing has changed.",

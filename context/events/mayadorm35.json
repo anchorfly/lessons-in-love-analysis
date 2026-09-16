@@ -755,10 +755,10 @@
       "zh": ": 好吧，我是。但不是因为你想的那些理由。"
     },
     {
-      "en": ": It’s true that you’re entirely too close right now, but what really makes me uncomfortable is figuring out how I am supposed to tell you this.",
+      "en": ": It’s true that you’re entirely too close right now, but what {i}really{/i} makes me uncomfortable is figuring out how I am supposed to tell you this.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你确实靠得太近了，但真正让我不自在的，是我不知道该怎么把这件事告诉你。"
+      "zh": ": 你确实靠得太近了，但{i}真正{/i}让我不自在的，是我不知道该怎么把这件事告诉你。"
     },
     {
       "en": ": ...",
@@ -1023,10 +1023,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": You are seeing things, aren’t you?",
+      "en": ": You {i}are{/i} seeing things, aren’t you?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你确实在看见什么东西，对吧？"
+      "zh": ": 你{i}确实{/i}在看见什么东西，对吧？"
     },
     {
       "en": ": Do you...",
@@ -1035,10 +1035,10 @@
       "zh": ": 你是不是……"
     },
     {
-      "en": ": Do you see them when you’re with her as well?",
+      "en": ": Do you see them when you’re with {i}her{/i} as well?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你跟她在一起的时候，也会看见它们吗？"
+      "zh": ": 你跟{i}她{/i}在一起的时候，也会看见它们吗？"
     },
     {
       "en": ": Shouldn’t that be telling you something?",
@@ -1053,10 +1053,10 @@
       "zh": ": 这正是我刚才想跟你说的……"
     },
     {
-      "en": ": You...might just be you.",
+      "en": ": You...might just be {i}you{/i}.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你……可能就是你。"
+      "zh": ": 你……可能就是{i}你{/i}。"
     },
     {
       "en": ": And all of those things that...",
@@ -1083,16 +1083,16 @@
       "zh": ": 可能是……"
     },
     {
-      "en": ": sssssssssssssssssssssss",
+      "en": ": {s}sssssssssssssssssssssss{/s}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶"
+      "zh": ": {s}嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶嘶{/s}"
     },
     {
-      "en": ": kkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "en": ": {s}kkkkkkkkkkkkkkkkkkkkkkkkkk{/s}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔"
+      "zh": ": {s}咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔咔{/s}"
     },
     {
       "en": ""
@@ -1572,10 +1572,10 @@
       "en": ""
     },
     {
-      "en": ": Why don’t I just help you remember?",
+      "en": ": Why don’t I just {i}help{/i} you remember?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 不如我来帮你想起来？"
+      "zh": ": 不如我来{i}帮{/i}你想起来？"
     },
     {
       "en": ": You don’t have to do anything, Sensei.",
@@ -1833,10 +1833,10 @@
       "zh": ": 我已经说得太多了！"
     },
     {
-      "en": ": Which really pisses me off by the way since Noriko can apparently tell you EVERYTHING without you hallucinating her as a fucking animal!",
+      "en": ": Which {i}really{/i} pisses me off by the way since Noriko can apparently tell you {b}EVERYTHING{/b} without you hallucinating {i}her{/i} as a fucking animal!",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 顺便说一句，这真让我火大——Noriko 显然能什么都告诉你，你还不会把她幻觉成一只该死的动物！"
+      "zh": ": 顺便说一句，这{i}真{/i}让我火大——Noriko 显然能{b}什么都{/b}告诉你，你还不会把{i}她{/i}幻觉成一只该死的动物！"
     },
     {
       "en": ": Maya...I think you might want to get some rest.",
@@ -2022,8 +2022,8 @@
       "en": ""
     },
     {
-      "en": "Maya’s affection has increased to [maya_love]!",
-      "zh": "Maya 的好感度提升到了 [maya_love]！"
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]！{/i}"
     },
     {
       "en": ".........",

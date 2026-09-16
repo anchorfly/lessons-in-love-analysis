@@ -1,6 +1,6 @@
 {
   "label": "wakanaspring4",
-  "title_zh": "暗白（Pretty Joy）",
+  "title_zh": "暗白（美好的喜悦）",
   "lines": [
     {
       "en": ""
@@ -31,10 +31,10 @@
       "zh": ": 我跟你直说了吧，荒川。我打死也想不到你会记得这地方——更别说主动带我来。"
     },
     {
-      "en": ": Yeah, well...you said it was one of your favorite spots and today is all about you. I can be surprising every once in a while.",
+      "en": ": Yeah, well...you said it was one of your favorite spots and today is all about {i}you.{/i} I can be surprising every once in a while.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 嗯，那个……你说过这是你最喜欢的地方之一，而且今天的一切都是为了你。我偶尔也是能让人意外的。"
+      "zh": ": 嗯，那个……你说过这是你最喜欢的地方之一，而且今天的一切都是为了{i}你{/i}。我偶尔也是能让人意外的。"
     },
     {
       "en": ""
@@ -65,8 +65,8 @@
       "zh": "我坚持要去火车站的时候，Wakana 看起来挺怀疑的；不过等我们在市区站下车，她多多少少猜到了我们要去哪儿。"
     },
     {
-      "en": "So yeah, I guess you can say this is me finally being a good Samaritan- especially when it’s the second time today that I’ve done something positive without asking for anything in return.",
-      "zh": "所以没错，你可以说这回我终于当了回好心人——尤其这是今天第二次我不求回报地做了件好事。"
+      "en": "So yeah, I guess you can say this is me finally being a good Samaritan- {i}especially{/i} when it’s the second time today that I’ve done something positive without asking for anything in return.",
+      "zh": "所以没错，你可以说这回我终于当了回好心人——{i}尤其{/i}这是今天第二次我不求回报地做了件好事。"
     },
     {
       "en": "I imagine most people would just call that something along the lines of “being a good friend,” and to that I’d agree. But here’s the thing — that’s normally not me.",
@@ -77,12 +77,12 @@
       "zh": "我对这地方的位置只有模糊的印象，最后一段还得靠她指路。即便到了门口，第一眼我也没认出这家店。"
     },
     {
-      "en": "Once we set foot inside, though, it all came rushing back. Which is why I can tell you we’re sitting at the same table we were the first time we came here.",
-      "zh": "可一踏进门，什么都涌回来了。所以我敢说，我们坐的就是第一次来时那张桌子。"
+      "en": "Once we set foot inside, though, it all came rushing back. Which is why I can tell you we’re sitting at the same table we were the {i}first{/i} time we came here.",
+      "zh": "可一踏进门，什么都涌回来了。所以我敢说，我们坐的就是{i}第一次{/i}来时那张桌子。"
     },
     {
-      "en": "I’m sure this is where she sits with Osako as well. And I’m sure that’s who she’d rather be sitting with at this very moment.",
-      "zh": "我敢肯定，她跟 Osako 也坐这张桌子。也敢肯定，此刻她更想与之同桌的人是 Osako。"
+      "en": "I’m sure this is where she sits with Osako as well. And I’m sure that’s who she’d {i}rather{/i} be sitting with at this very moment.",
+      "zh": "我敢肯定，她跟 Osako 也坐这张桌子。也敢肯定，此刻她{i}更{/i}想与之同桌的人是 Osako。"
     },
     {
       "en": "But she’s stuck with me...so I at least owe her a dinner she can stomach in an atmosphere she loves.",
@@ -96,10 +96,10 @@
       "en": ""
     },
     {
-      "en": ": Ever think of changing your look up? Maybe trying on something that isn’t black?",
+      "en": ": Ever think of changing your look up? Maybe trying on something that {i}isn’t{/i} black?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你想过换换造型吗？也许试试不那么黑的颜色？"
+      "zh": ": 你想过换换造型吗？也许试试{i}不{/i}那么黑的颜色？"
     },
     {
       "en": ": I have that grey jacket I wear to work. Does that not suffice?",
@@ -132,16 +132,16 @@
       "zh": ": 抱歉，你现在改行当服装设计师了？因为如果是的话，我觉得你大概得回学校再学学配色。"
     },
     {
-      "en": ": I think those colors would look just fine on you. I think anything would look fine on you, really. You’re a beautiful girl.",
+      "en": ": I think those colors would look just fine on you. I think {i}anything{/i} would look fine on you, really. You’re a beautiful girl.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我觉得那些颜色穿在你身上会很好看。我觉得真的什么穿你身上都好看。你是个漂亮的女孩。"
+      "zh": ": 我觉得那些颜色穿在你身上会很好看。我觉得真的{i}什么{/i}穿你身上都好看。你是个漂亮的女孩。"
     },
     {
-      "en": ": Woman, Arakawa. I am a beautiful woman. The miniature devils I teach are girls.",
+      "en": ": {i}Woman,{/i} Arakawa. I am a beautiful {i}woman.{/i} The miniature devils I {i}teach{/i} are girls.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 是女人，荒川。我是一个漂亮的女人。我教的那些小恶魔才是女孩。"
+      "zh": ": 是{i}女人{/i}，荒川。我是一个漂亮的{i}女人{/i}。我{i}教{/i}的那些小恶魔才是女孩。"
     },
     {
       "en": ": Some of those miniature devils are taller than you.",
@@ -177,10 +177,10 @@
       "zh": ": 糟了。看来我得把给你买的生日亮黄裙子扔了。"
     },
     {
-      "en": ": Oh, please. I doubt you even know when my birthday is.",
+      "en": ": Oh, please. I doubt you even know when my birthday {i}is.{/i}",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 哦，得了吧。我怀疑你根本不知道我生日是哪天。"
+      "zh": ": 哦，得了吧。我怀疑你根本不知道我生日{i}是{/i}哪天。"
     },
     {
       "en": ": No. But if I had to take a guess, I’d imagine it’s just Halloween or something equally fitting.",
@@ -216,10 +216,10 @@
       "zh": ": 哦，那就在眼前了。"
     },
     {
-      "en": ": But not so soon that you don’t have time to exchange your hypothetical dress for something more befitting a goth queen.",
+      "en": ": But not {i}so{/i} soon that you don’t have time to exchange your hypothetical dress for something more befitting a goth queen.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 但也没近到你来不及把那条虚构的裙子，换成更适合一位哥特女王的东西。"
+      "zh": ": 但也没{i}近到{/i}你来不及把那条虚构的裙子，换成更适合一位哥特女王的东西。"
     },
     {
       "en": ": Do you actually want a birthday present?",
@@ -387,10 +387,10 @@
       "zh": ": 要么你在学年结束前回来上班，要么我把你宰了，埋在你自己家后院。"
     },
     {
-      "en": ": That’s as gentle as you can be?",
+      "en": ": {i}That’s{/i} as gentle as you can be?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 这已经是你能做到的最温柔了？"
+      "zh": ": {i}这{/i}已经是你能做到的最温柔了？"
     },
     {
       "en": ": I’m a very violent woman when I’m not in crippling pain. And while I understand that you may have personal issues you need to sort out, I imagine an entire school year should suffice. Should it not?",
@@ -501,10 +501,10 @@
       "zh": ": 跟别人抱怨没那么有意思。"
     },
     {
-      "en": ": I thought you were women?",
+      "en": ": I thought you were {i}women?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你不是说她们是女人吗？"
+      "zh": ": 你不是说她们是{i}女人{/i}吗？"
     },
     {
       "en": ": Can you look away for a moment? And also slide your drink a tad closer to me?",
@@ -520,12 +520,12 @@
       "zh": "关于 Wakana 的最后通牒，我算是轻松过关了。"
     },
     {
-      "en": "Of course I have no problem agreeing to come back by the end of the school year when I know the school year won’t ever end.",
-      "zh": "既然我知道这个学年永远不会结束，答应「学年结束前回来」当然毫无问题。"
+      "en": "Of course I have no problem agreeing to come back by the end of the school year when I know the school year {i}won’t ever end.{/i}",
+      "zh": "既然我知道这个学年{i}永远不会结束{/i}，答应「学年结束前回来」当然毫无问题。"
     },
     {
-      "en": "But it’s not like I can just say that since if she doesn’t interrupt me, she’ll push forward the date instead.",
-      "zh": "但我不能就这么说出来——因为要是没被她打断，她会把日期再往前挪。"
+      "en": "But it’s not like I can just say that since if she {i}doesn’t{/i} interrupt me, she’ll push forward the date instead.",
+      "zh": "但我{i}不{/i}能就这么说出来——因为要是没被她打断，她会把日期再往前挪。"
     },
     {
       "en": "So I keep up the pattern-",
@@ -609,10 +609,10 @@
       "zh": ": 你也喝吧，荒川。我请客。奖励你今天罕见地持续出色。"
     },
     {
-      "en": ": Wakana...can I ask you something now?",
+      "en": ": Wakana...can I ask {i}you{/i} something now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Wakana……现在我能问你件事吗？"
+      "zh": ": Wakana……现在我能问{i}你{/i}件事吗？"
     },
     {
       "en": ""
@@ -714,10 +714,10 @@
       "en": ""
     },
     {
-      "en": ": That’s when it started?",
+      "en": ": That’s when it {i}started?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 从那时候才开始？"
+      "zh": ": 从那时候才{i}开始{/i}？"
     },
     {
       "en": ": Is there a problem with that?",
@@ -726,10 +726,10 @@
       "zh": ": 那有什么问题吗？"
     },
     {
-      "en": ": It’s just that...most people’s lives normally start before then.",
+      "en": ": It’s just that...most people’s lives normally start {i}before{/i} then.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 只是……多数人的人生通常在那时之前就开始了。"
+      "zh": ": 只是……多数人的人生通常在那时{i}之前{/i}就开始了。"
     },
     {
       "en": ": Yes, well, you don’t want to sit here for hours as I feverishly recant the memories of my back being cut open and meticulously fiddled with, do you?",
@@ -738,10 +738,10 @@
       "zh": ": 嗯，可是你总不想在这儿坐上几个小时，听我激动地细述我的背被人切开、被人精心摆弄的记忆吧？"
     },
     {
-      "en": ": You were awake for all that?",
+      "en": ": You were {i}awake{/i} for all that?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那些手术你都是醒着的？"
+      "zh": ": 那些手术你都是{i}醒着{/i}的？"
     },
     {
       "en": ": No, I- ugh. Can I just start where I intended to start? Or would you prefer I begin writing my memoirs early for the sole purpose of appeasing you?",
@@ -780,10 +780,10 @@
       "zh": ": 你看，我这辈子一直挺「阴郁」的。我想正是因为这个，从来没人多注意我。"
     },
     {
-      "en": ": I imagine the Sakakibara girl from your former class would be an apt comparison. But she seems to have found her footing and begun to associate with others in a way I never really did.",
+      "en": ": I imagine the Sakakibara girl from your former class would be an apt comparison. But she seems to have found her footing and begun to associate with others in a way {i}I{/i} never really did.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 我想你以前班上那个榊原家的女孩是个很贴切的类比。不过她似乎已经站稳了脚跟，开始跟别人来往了——而我从来没做到过。"
+      "zh": ": {i}我{/i}想你以前班上那个榊原家的女孩是个很贴切的类比。不过她似乎已经站稳了脚跟，开始跟别人来往了——而我从来没做到过。"
     },
     {
       "en": ": There were those who tried to tease me for the way I dressed...the things I read and wrote...but they gave up and left once they realized it didn’t particularly bother me.",
@@ -810,10 +810,10 @@
       "zh": ": 我无疑是个被排斥的人。但我认为其中至少一半源于我对几乎所有事情的极度不感兴趣——另一半则是我没法像同龄人那样做出那些肢体动作。"
     },
     {
-      "en": ": I was, by all accounts, the “weird” girl. But I was one who was mostly left to her own devices so...perhaps that is why I blossomed into the poetic genius you see before you today.",
+      "en": ": I was, by all accounts, the “weird” girl. But I was one who was mostly left to her own devices so...perhaps {i}that{/i} is why I blossomed into the poetic genius you see before you today.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 从各方面说，我都是那个「古怪」的女孩。但我基本是被放任着长大的，所以……也许正因如此，我才绽放成了你今天眼前这位诗歌天才。"
+      "zh": ": 从各方面说，我都是那个「古怪」的女孩。但我基本是被放任着长大的，所以……也许{i}正因如此{/i}，我才绽放成了你今天眼前这位诗歌天才。"
     },
     {
       "en": ": You don’t have any pictures you can show me, do you?",
@@ -873,28 +873,28 @@
       "zh": ": 不过再说一次，那从来没困扰过我。人就是……烦人。尤其在他们那么年轻的时候。"
     },
     {
-      "en": ": They’re always whining about a need to “connect” with someone...and how it’s so hard to find people who actually “understand” them.",
+      "en": ": They’re always whining about a need to “connect” with someone...and how it’s {i}so hard{/i} to find people who actually “understand” them.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 他们总抱怨需要跟某个人「建立联系」……抱怨很难找到真正「理解」他们的人。"
+      "zh": ": 他们总抱怨需要跟某个人「建立联系」……抱怨{i}很难{/i}找到真正「理解」他们的人。"
     },
     {
-      "en": ": But when their entire evaluation of a person is decided within the first ten seconds of meeting them, of course they’re not going to be understood. Connections take time.",
+      "en": ": But when their entire evaluation of a person is decided within the first ten seconds of meeting them, of {i}course{/i} they’re not going to be understood. Connections take time.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 可要是他们对一个人的全部判断在见面的头十秒内就定下来了，他们当然不会被理解。建立联系是需要时间的。"
+      "zh": ": 可要是他们对一个人的全部判断在见面的头十秒内就定下来了，他们{i}当然{/i}不会被理解。建立联系是需要时间的。"
     },
     {
-      "en": ": Those sorts of relationships where everything just clicks right away without any effort on anyone’s end just...don’t exist. They’re all made up. Mostly by terrible writers looking to cash in on romance.",
+      "en": ": Those sorts of relationships where everything just clicks right away without any effort on {i}anyone’s{/i} end just...don’t exist. They’re all made up. Mostly by terrible writers looking to cash in on romance.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 那种什么都没付出就立刻一拍即合的关系……根本不存在。全是编出来的。多半是那些想靠浪漫赚一笔的糟糕作家编的。"
+      "zh": ": 那种{i}什么都没付出{/i}就立刻一拍即合的关系……根本不存在。全是编出来的。多半是那些想靠浪漫赚一笔的糟糕作家编的。"
     },
     {
-      "en": ": Or...at least that’s what I thought.",
+      "en": ": Or...at least that’s what I {i}thought.{/i}",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 或者……至少我曾经是这么想的。"
+      "zh": ": 或者……至少我曾经是这么{i}想{/i}的。"
     },
     {
       "en": ": Next — Osako Osaka, reading “To the River” by Edgar Allan Poe.",
@@ -1035,10 +1035,10 @@
       "en": ""
     },
     {
-      "en": ": No. If you’re unwilling to do the assignment as instructed-",
+      "en": ": {i}No.{/i} If you’re unwilling to do the assignment as instructed-",
       "spk": "Professor",
       "spkColor": "#e6e6e6",
-      "zh": ": 不行。如果你不愿意按要求完成作业——"
+      "zh": ": {i}不行。{/i}如果你不愿意按要求完成作业——"
     },
     {
       "en": ": Aaah! Fine!",
@@ -1113,22 +1113,22 @@
       "zh": ": ..."
     },
     {
-      "en": ": Is she looking at somebody? Why’s she still just standing there?",
+      "en": ": {i}Is she looking at somebody? Why’s she still just standing there?{/i}",
       "spk": "Female Student 1",
       "spkColor": "#e6e6e6",
-      "zh": ": 她在看谁呢？怎么还站那儿不动？"
+      "zh": ": {i}她在看谁呢？怎么还站那儿不动？{/i}"
     },
     {
-      "en": ": Watabe, probably. She’s always looking at her. Have you seriously never noticed before?",
+      "en": ": {i}Watabe, probably. She’s always looking at her. Have you seriously never noticed before?{/i}",
       "spk": "Female Student 2",
       "spkColor": "#e6e6e6",
-      "zh": ": 大概是渡边吧。她老是看她。你真的一次都没注意到？"
+      "zh": ": {i}大概是渡边吧。她老是看她。你真的一次都没注意到？{/i}"
     },
     {
-      "en": ": What? Really? The creepy girl? Why? They’re totally different types.",
+      "en": ": {i}What? Really? The creepy girl? Why? They’re totally different types.{/i}",
       "spk": "Female Student 1",
       "spkColor": "#e6e6e6",
-      "zh": ": 什么？真的假的？那个阴森的女生？为什么？她们完全不是一个类型的啊。"
+      "zh": ": {i}什么？真的假的？那个阴森的女生？为什么？她们完全不是一个类型的啊。{/i}"
     },
     {
       "en": ": Miss Osaka, well done. But if that will be all...please take your seat.",
@@ -1173,16 +1173,16 @@
       "en": ""
     },
     {
-      "en": ": Perhaps there is some truth to immediately knowing whether or not you’ll “click” with a person...",
+      "en": ": Perhaps there {i}is{/i} some truth to immediately knowing whether or not you’ll “click” with a person...",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 也许「第一眼就知道你会不会跟某个人合拍」这句话，还真有几分道理……"
+      "zh": ": 也许「第一眼就知道你会不会跟某个人合拍」这句话，{i}还真{/i}有几分道理……"
     },
     {
-      "en": ": Because from that point on, my life has been full of color thanks to a bashful, yet sensitive jock with a secret affinity for sage and lace. And if I could go back and do it all again, I would.",
+      "en": ": Because from that point on, my life has been {i}full{/i} of color thanks to a bashful, yet sensitive jock with a secret affinity for sage and lace. And if I could go back and do it all again, I would.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 因为从那一刻起，我的人生就被一个害羞又敏感的体育生填满了色彩——而这人还偷偷迷恋鼠尾草绿和蕾丝。要是能重来一次，我还是会这么选。"
+      "zh": ": 因为从那一刻起，我的人生就被一个害羞又敏感的体育生{i}填满{/i}了色彩——而这人还偷偷迷恋鼠尾草绿和蕾丝。要是能重来一次，我还是会这么选。"
     },
     {
       "en": ": They can cut me open as many times as they want and I’ll keep looking forward to it because I know what lies ahead. And it’s something unlike anything else in the world.",
@@ -1218,10 +1218,10 @@
       "zh": ": 但我用这颗干瘪发黑的心希望着：有一天，你也会经历我那样的瞬间——第一次看见某个人或某样东西，然后想「这就是我在这里的原因」。"
     },
     {
-      "en": ": Perhaps you already have and simply haven’t told me. There is that childhood friend of yours, after all. And many others too.",
+      "en": ": Perhaps you already have and simply haven’t told me. There {i}is{/i} that childhood friend of yours, after all. And many others too. ",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 也许你早就有了，只是没告诉我。毕竟你有那位青梅竹马。还有别的许多人。"
+      "zh": ": 也许你早就有了，只是没告诉我。毕竟你{i}有{/i}那位青梅竹马。还有别的许多人。"
     },
     {
       "en": ": I’m not looking to know everything — just what you’re willing to share.",
@@ -1349,8 +1349,8 @@
       "en": ""
     },
     {
-      "en": "Wakana’s affection has increased to [wakana_love]!",
-      "zh": "Wakana 的好感度提升到了 [wakana_love]！"
+      "en": "{i}Wakana’s affection has increased to [wakana_love]!{/i}",
+      "zh": "{i}Wakana 的好感度提升到了 [wakana_love]！{/i}"
     },
     {
       "en": ".........",

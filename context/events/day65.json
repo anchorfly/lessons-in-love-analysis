@@ -1,1478 +1,1478 @@
 {
- "label": "day65",
- "title_zh": "女生之间的谈话",
- "lines": [
-  {
-   "en": ""
-  },
-  {
-   "en": "label day65:",
-   "zh": ""
-  },
-  {
-   "en": "scene street_noon",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/BGs/street_noon.png",
-   "alt": "street_noon"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hah...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 哈……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "And so another[school] day comes to a close.",
-   "zh": "于是，又一个[school]的日子落幕了。"
-  },
-  {
-   "en": "Originally, the plan was for me to go to karaoke again with Ami, Ayane, and Maya but...",
-   "zh": "原本的计划是跟 Ami、Ayane 和 Maya 再去一次卡拉OK，但是……"
-  },
-  {
-   "en": "Well, one of the three (And I’m sure you can guess which one) succeeded in un-inviting me this time.",
-   "zh": "嗯，三个人里的某一个（我敢说你猜得到是哪一个）这次成功地把我从邀请名单里剔除了。"
-  },
-  {
-   "en": "As it turns out, Maya can be incredibly persuasive when she wants to be.",
-   "zh": "事实证明，Maya 想要说服别人的时候，说服力惊人。"
-  },
-  {
-   "en": "I guess I must just be immune to her powers or something, though, because she hasn’t managed to dissuade me from visiting her yet.",
-   "zh": "不过我猜我对她的能力免疫之类的，因为她至今还没能拦住我去找她。"
-  },
-  {
-   "en": "But, either way, now I’m alone and wandering the streets, trying to find some way to kill the time.",
-   "zh": "但不管怎样，现在我一个人闲逛在街上，想找点事打发时间。"
-  },
-  {
-   "en": "\"I’ve gotten bored of choosing between the dorms, the bar, and the porn shop (Seriously, when am I",
-   "zh": "「我已经在宿舍、酒吧和成人用品店之间挑腻了（说真的，我什么时候"
-  },
-  {
-   "en": "going to have something else to do after class?) and so now I’m just...\"",
-   "zh": "放学后才有别的事可做？），所以现在我就是在……」"
-  },
-  {
-   "en": "Who the fuck even knows?",
-   "zh": "谁知道呢？"
-  },
-  {
-   "en": "I’m just walking around. Life is good.",
-   "zh": "我就是随便走走。生活很美好。"
-  },
-  {
-   "en": "And by good I mean passable.",
-   "zh": "我说的美好，是指还过得去。"
-  },
-  {
-   "en": "That’s right.",
-   "zh": "没错。"
-  },
-  {
-   "en": "Life is passable.",
-   "zh": "生活还过得去。"
-  },
-  {
-   "en": "You heard it here first.",
-   "zh": "这话你可是第一个听说的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ooooh, who is that cute boy I spot off in the distance?",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 哦哦哦，我远远看到的那个可爱男孩是谁呀？"
-  },
-  {
-   "en": ": Hm?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides1.webp",
-   "alt": "sides1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I turn around to find Sara and...Haruka hanging out at the same bistro that Ami and Maya frequent?",
-   "zh": "我转过身，发现 Sara 和……Haruka 居然一起待在 Ami 和 Maya 常去的那家小餐馆？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hey. What’s going on?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嘿。你们在干什么？"
-  },
-  {
-   "en": ": The two of us are just catching up on old times. Fancy meeting you here~",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 我们两个正在叙旧呢。在这儿碰见你真巧~"
-  },
-  {
-   "en": ": Likewise...Hey, Haruka. What’s up?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 彼此彼此……嘿，Haruka。怎么样？"
-  },
-  {
-   "en": ": Hey! I’m surprised you two know each other.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 嘿！没想到你们两个认识。"
-  },
-  {
-   "en": ": I was actually just thinking the same thing.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我刚才也正想说同样的话。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "if sarasex == True:",
-   "zh": ""
-  },
-  {
-   "en": "scene sides7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides7.webp",
-   "alt": "sides7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": He’s the one I was telling you about on the phone...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 他就是我在电话里跟你提过的那个……"
-  },
-  {
-   "en": ": Huh? The one you were telling me about on the-",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 哈？你在电话里跟我提过的那个——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides2.webp",
-   "alt": "sides2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ah-",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 啊——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides3.webp",
-   "alt": "sides3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……"
-  },
-  {
-   "en": ": You didn’t...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你该不会……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides4",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides4.webp",
-   "alt": "sides4"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Whaaaat? Girls talk about stuff~ Are you embarrassed of me?",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 什么嘛~女孩子之间聊聊天而已~你觉得丢人了吗？"
-  },
-  {
-   "en": ": Mm...",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 嗯……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Haruka’s clearly flustered or embarrassed or...shocked. I don’t know. Haruka is something.",
-   "zh": "Haruka 显然是慌了、害羞了，还是震惊了。我不知道。Haruka 就是有点那个。"
-  },
-  {
-   "en": "I hope this doesn’t change her opinion of me too much.",
-   "zh": "希望这不会让她对我的印象改变太多。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides5.webp",
-   "alt": "sides5"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": If it makes you feel any better, I only had good things to say~",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 如果这能让你好受点的话，我说的可都是你的好话~"
-  },
-  {
-   "en": ": Yeah...very good things...",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 是啊……非常好的话……"
-  },
-  {
-   "en": ": Are you jealous?",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 你吃醋了？"
-  },
-  {
-   "en": ": N-no! I’m just surprised! You would be too if you found out two people you see all the time have been...you know.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 才、才没有！我只是惊讶！要是你发现两个经常见面的人一直在……你知道的，你也会惊讶的。"
-  },
-  {
-   "en": ": Having sex?",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 上床？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides6",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides6.webp",
-   "alt": "sides6"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You haven’t changed at all since [high_school], have you?...",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 你从[high_school]到现在一点都没变，是吧？……"
-  },
-  {
-   "en": ": You two went to [high_school] together?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你们两个是[high_school]同学？"
-  },
-  {
-   "en": "scene sides9",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides9.webp",
-   "alt": "sides9"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": We sure did.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 没错。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "else:",
-   "zh": ""
-  },
-  {
-   "en": "scene sides7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides7.webp",
-   "alt": "sides7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": He’s my daughter’s [high_school] teacher.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 他是我女儿的[high_school]老师。"
-  },
-  {
-   "en": ": Oh, really? She must be in the same class as one of my employees then.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 哦，是吗？那她一定跟我某个员工同班了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides8",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides8.webp",
-   "alt": "sides8"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oooh is that so? Can you tell us if those two are friends or not?",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 哦哦，是吗？那你能不能告诉我们，那两个孩子是不是朋友？"
-  },
-  {
-   "en": ": I haven’t heard Sana talk about anyone other than you and the blonde girl, so I’m starting to worry that she’s a bit of a wallflower.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 我从没听 Sana 提起过你和那个金发女孩以外的人，所以我都开始担心她有点太内向了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Strange that she mentions that...",
-   "zh": "她提到这个，倒是挺巧的……"
-  },
-  {
-   "en": "Sana and Rin sit right next to each other and I feel like the two of them would get along if they actually talked.",
-   "zh": "Sana 和 Rin 就坐在一起，我觉得她们两个要是真聊起来，应该会合得来。"
-  },
-  {
-   "en": "I know both of them play games and...wear mostly black so like...",
-   "zh": "我知道她们两个都玩游戏，而且……穿得多半是黑色，所以就……"
-  },
-  {
-   "en": "They’d be destined to be good friends, right? Is that how it works?",
-   "zh": "她们注定会成为好朋友，对吧？事情就是这么运作的吧？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I don’t think they are. But maybe I’ll try to push them together if I ever have the chance.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我觉得她们不是。不过要是有机会，我也许会试着把她们推到一起。"
-  },
-  {
-   "en": ": Please do! Sana needs all the help she can get.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 一定要啊！Sana 需要一切能得到的帮助。"
-  },
-  {
-   "en": ": She definitely seems a little more outgoing lately thanks to you, though...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 不过多亏了你，她最近看起来确实开朗了一点……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides9",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides9.webp",
-   "alt": "sides9"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Yeah, Rin too when she’s not...you know.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 是啊，Rin 也是，在她不……你知道的时候。"
-  },
-  {
-   "en": ": Oh, I know...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 哦，我知道……"
-  },
-  {
-   "en": ": How do you two know each other, by the way?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 话说回来，你们两个是怎么认识的？"
-  },
-  {
-   "en": ": High school!",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 高中啊！"
-  },
-  {
-   "en": ": Really? Were you in the same class or something?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 真的？你们是同班还是什么？"
-  },
-  {
-   "en": ": Not quite.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 差不多吧。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides7.webp",
-   "alt": "sides7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Haru was a few years ahead of me but the two of us used to hang out with some of the same people.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": Haru 比我高几届，但我们以前跟同一群人混。"
-  },
-  {
-   "en": ": And now we’re both running small businesses. Who’d have thought things would turn out like this?",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 现在我们两个都经营着自己的小店。谁能想到事情会变成这样呢？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides10.webp",
-   "alt": "sides10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Of course Haruka’s is taking off while mine is imploding, though...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 当然了，Haruka 的店蒸蒸日上，而我的正在原地爆炸……"
-  },
-  {
-   "en": ": Oh, stop. We’re not taking off...Besides, I’m sure the bar will get better in no time at all.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 哎呀，别这么说。我们才没有蒸蒸日上……再说了，我敢肯定酒吧很快就会好起来的。"
-  },
-  {
-   "en": ": Please spend all of your money there. I need it.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 请把你所有的钱都花在那儿吧。我需要钱。"
-  },
-  {
-   "en": ": Well...I can’t spend all of my money there...I still have bills and whatnot.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 嗯……我可不能把所有的钱都花在那儿……我还有账单什么的要付。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides11.webp",
-   "alt": "sides11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sensei~ Tell Haru-chan to be nice and spend all of her money on me...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 老师~你让 Haru 酱对我好一点，把她的钱都花在我身上嘛……"
-  },
-  {
-   "en": ": Um...Why do you call him Sensei?...",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 嗯……你为什么叫他老师？……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides12",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides12.webp",
-   "alt": "sides12"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You should try it! It’s actually pretty fun. It makes me feel [young]again.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 你也该试试！其实挺好玩的。这让我觉得自己又[young]了。"
-  },
-  {
-   "en": ": You are young, though...",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 可你本来就很年轻啊……"
-  },
-  {
-   "en": ": Just do it! Come on! I promise, you’ll love it.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 试试嘛！来吧！我保证你会喜欢的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides13",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides13.webp",
-   "alt": "sides13"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Haruka makes eye contact with me, trying to figure out if this is an acceptable thing for her to do or not.",
-   "zh": "Haruka 与我四目相对，试图判断这么做对她来说合不合适。"
-  },
-  {
-   "en": "Frankly, I don’t care.",
-   "zh": "坦白说，我不在乎。"
-  },
-  {
-   "en": "I’ve gotten used to everyone calling me Sensei over the last few months anyway.",
-   "zh": "反正这几个月来，我已经习惯了所有人都叫我老师。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Umm...S...S-",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 嗯……老……老——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides14",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides14.webp",
-   "alt": "sides14"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Nope. Can’t do it. We’re like the same age. It feels weird.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 不行。做不到。我们差不多是同龄人。感觉好奇怪。"
-  },
-  {
-   "en": ": Come on! It’s like roleplay! I thought you were into stuff like that!",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 来嘛！就像角色扮演一样！我还以为你喜欢那种东西呢！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides2.webp",
-   "alt": "sides2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": S-Sara! What the fuck?!",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 萨……Sara！你他妈说什么？！"
-  },
-  {
-   "en": ": Hehehe~ Woops...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 嘿嘿嘿~哎呀……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides3.webp",
-   "alt": "sides3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Please forget that you just heard that. It’s not true. I swear.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 请忘记你刚刚听到的话。那不是真的。我发誓。"
-  },
-  {
-   "en": ": Really? I don’t think there’s any shame in roleplay. It can actually be kind of fun at times.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 真的吗？我觉得角色扮演没什么好丢人的。有时候其实还挺有意思的。"
-  },
-  {
-   "en": ": Oh-ho-ho...What an interesting development this has turned out to be...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 哦呵呵呵……事情的发展变得有趣起来了呢……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "if amisroom5 == True:",
-   "zh": ""
-  },
-  {
-   "en": "scene sides15",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides15.webp",
-   "alt": "sides15"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Greetings once more, attractive human females. How is-",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 又见面了，迷人的女性人类们。请问——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides16",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides16.webp",
-   "alt": "sides16"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ah! It’s you again!",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 啊！又是你！"
-  },
-  {
-   "en": ": Hamburger Man!",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 汉堡人！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides17",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides17.webp",
-   "alt": "sides17"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hamburger Man?...",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 汉堡人？……"
-  },
-  {
-   "en": ": I ordered a hamburger from some diner she works at once.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我曾经在她打工的某家餐厅点过一个汉堡。"
-  },
-  {
-   "en": ": You said strange things to me!",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 你对我说了奇怪的话！"
-  },
-  {
-   "en": ": I did no such thing...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我可没说过那种话……"
-  },
-  {
-   "en": ": You did!",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 你说过！"
-  },
-  {
-   "en": ": I did not...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我没有……"
-  },
-  {
-   "en": ": You did!",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 你有！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides18",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides18.webp",
-   "alt": "sides18"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": My, you’re pretty popular around here, aren’t you?",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 哎呀，你在这儿还挺受欢迎的嘛？"
-  },
-  {
-   "en": ": I guess so...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 大概吧……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "else:",
-   "zh": ""
-  },
-  {
-   "en": "scene sides15",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides15.webp",
-   "alt": "sides15"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Greetings once more, attractive human females. Is there anything else I can get for you?",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 又见面了，迷人的女性人类们。还有什么我能为你们效劳的吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "A girl, probably a few years older than Ami, crouches down at the table and checks on Sara and Haruka, albeit in a rather...strange manner.",
-   "zh": "一个大概比 Ami 大几岁的女孩蹲在桌边，查看 Sara 和 Haruka 的情况，只是方式相当……奇怪。"
-  },
-  {
-   "en": "I’m surprised that this place would hire someone with a tattoo as huge as that on her chest.",
-   "zh": "我很惊讶这家店会雇一个胸口纹着那么大一片纹身的人。"
-  },
-  {
-   "en": "Not that I have anything against tattoos, it's just sort of frowned upon in Japan.",
-   "zh": "倒不是我对纹身有什么意见，只是在日本这多少有点被人忌讳。"
-  },
-  {
-   "en": "scene sides16",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides16.webp",
-   "alt": "sides16"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I think we’re okay for now, Kaori. Please keep up the good work.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 我们暂时不需要，Kaori。请继续保持这股干劲。"
-  },
-  {
-   "en": ": I’m okay, too. Thanks, though.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 我也不用了。不过谢谢。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides19",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides19.webp",
-   "alt": "sides19"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You! With the face. Order food now.",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 你！那个脸的。现在点餐。"
-  },
-  {
-   "en": ": All of us have faces...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我们都有脸啊……"
-  },
-  {
-   "en": ": Your face is different! It interests me!",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 你的脸不一样！我对你很感兴趣！"
-  },
-  {
-   "en": "k \"Now order food so that I may receive money from my employer that I can",
-   "zh": "k 「现在点餐，这样我就能从雇主那里拿到钱，"
-  },
-  {
-   "en": "then use to purchase normal human objects like a “spatula” and a “dog-food.”\"",
-   "zh": "然后用它去购买『锅铲』和『狗粮』这种正常的人类物品。」"
-  },
-  {
-   "en": ": A dog-food?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 一份狗粮？"
-  },
-  {
-   "en": ": Yes. I can not obtain a “dog” until I have the nutrients required to nurture it.",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 对。在获得养育「狗」所需的营养之前，我无法得到一只「狗」。"
-  },
-  {
-   "en": ": Why are you putting quotation marks around everything?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你为什么给所有东西都加上引号？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides20",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides20.webp",
-   "alt": "sides20"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Order food or perish...",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 点餐，或者死……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": ……"
-  },
-  {
-   "en": ": I’ll have a burger.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我要一个汉堡。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "if amisroom5 == True:",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Of course you will...",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": 你当然会要……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "else:",
-   "zh": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": ……"
-  },
-  {
-   "en": ": Kaori will collect this item for you...Please prepare the currency you will use in exchange for it.",
-   "spk": "Kaori",
-   "spkColor": "#969696",
-   "zh": ": Kaori 这就去为你取这件物品……请准备好用于交换的货币。"
-  },
-  {
-   "en": ": Thanks...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 谢了……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides21",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides21.webp",
-   "alt": "sides21"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……"
-  },
-  {
-   "en": ": She’s a little, uhh, eccentric...don’t you think?",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 她有点，呃，古怪……你不觉得吗？"
-  },
-  {
-   "en": ": I like her. I think she’s fun.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 我喜欢她。我觉得她很有意思。"
-  },
-  {
-   "en": ": I don’t know if I’m fully convinced that she’s human yet.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我还不完全确信她是人类。"
-  },
-  {
-   "en": ": Same. I like her tattoo, though. I wish I could pull off something like that.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 同感。不过我喜欢她的纹身。我要是也能驾驭那种东西就好了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides22",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides22.webp",
-   "alt": "sides22"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You totally could. Maybe not a spider but like...I don’t know. A sparrow or something?",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 你绝对可以。也许不是蜘蛛，但比如……我不知道。麻雀什么的？"
-  },
-  {
-   "en": ": No way. My boobs are too big. It would look like a pterodactyl.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 不可能。我的胸太大了。那看起来会像只翼龙。"
-  },
-  {
-   "en": ": Maybe I could get something on my thigh, though...That might be cute.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 不过也许我可以在大腿上纹一个……那样可能挺可爱的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides21",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides21.webp",
-   "alt": "sides21"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": What do you think? Do you like tattoos on women?",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 你觉得呢？你喜欢女生身上有纹身吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "menu:",
-   "zh": ""
-  },
-  {
-   "en": "Absolutely",
-   "zh": "当然喜欢"
-  },
-  {
-   "en": ": Oh, definitely. I love them.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 哦，当然。我爱死了。"
-  },
-  {
-   "en": ": Really?",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 真的？"
-  },
-  {
-   "en": ": Yup. If you want one, I say go for it. You’re already attractive, so I imagine a tattoo would make you even hotter.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯。如果你想要一个，我说就去吧。你本来就很迷人，所以我想纹身会让你更火辣。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides11.webp",
-   "alt": "sides11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hey...I want attention too, you know.",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 嘿……我也想要关注啊，你知道的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Not really",
-   "zh": "不太喜欢"
-  },
-  {
-   "en": ": Ehh...I’m not really a fan. I think girls are more attractive when they don’t modify their bodies.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 呃……我不太喜欢。我觉得女生不改造自己的身体更有魅力。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides11.webp",
-   "alt": "sides11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Boo...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 嘘……"
-  },
-  {
-   "en": ": Hahaha...I think they can work on certain people. I just don’t think I’m cut out for one.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 哈哈哈……我觉得有些人身上是合适的。我只是觉得自己不适合。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides21",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides21.webp",
-   "alt": "sides21"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "sar \"Aaaaaanyway, I hate to be the bearer of bad news but Haru and I still have a bunch of girl-talk we need to be doing, so I",
-   "zh": "sar 「那个那个，我也不想当坏消息的传播者，但我和 Haru 还有一堆"
-  },
-  {
-   "en": "think it might be time for you to shoo.\"",
-   "zh": "女生之间的话要聊，所以我想你该退场了。」"
-  },
-  {
-   "en": ": Did you just...shoo me?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你刚刚……是在赶我走？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Heheh~ I’ll make it up to you. Don’t worry...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 嘿嘿~我会补偿你的。别担心……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ……"
-  },
-  {
-   "en": ": I’m going to hold you to that.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我会记住你这句话的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Umm...I’m sorry for Sara’s...directness.",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 嗯……Sara 那么……直白，我很抱歉。"
-  },
-  {
-   "en": ": You don’t need to apologize. I’m just happy knowing her daughter hasn’t taken after her.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你不用道歉。我只是很高兴知道她女儿没有遗传她这一点。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides11.webp",
-   "alt": "sides11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sensei is always so mean to me~",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": 老师对我总是那么刻薄~"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sides10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/sides10.webp",
-   "alt": "sides10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Tell him to stop, Haru-chan...",
-   "spk": "Sara",
-   "spkColor": "#66B090",
-   "zh": ": Haru 酱，让他停下……"
-  },
-  {
-   "en": ": I...don’t think he’s going to listen to me...",
-   "spk": "Haruka",
-   "spkColor": "#FF48DC",
-   "zh": ": 我……觉得他不会听我的……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I hang around until my burger arrives and then promptly have it boxed to take home.",
-   "zh": "我一直待到汉堡上来，然后立刻打包带回家。"
-  },
-  {
-   "en": "It’s weird how two of the only people my age that I’ve associated with in Kumon-mi happen to be old friends from[school].",
-   "zh": "真奇怪，我在 Kumon-mi 认识的仅有的几个同龄人里，居然有两个是[school]时代的老朋友。"
-  },
-  {
-   "en": "I think they work well together, though. Albeit in a strange sort of way.",
-   "zh": "不过我觉得她们俩很合得来。虽然是以一种奇怪的方式。"
-  },
-  {
-   "en": "I wonder what the two of them were like back then?...",
-   "zh": "我在想，她们两个那时候是什么样子呢？……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ day65 = True",
-   "zh": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "jump endofweekday",
-   "zh": ""
-  }
- ]
+  "label": "day65",
+  "title_zh": "女生之间的谈话",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day65:",
+      "zh": ""
+    },
+    {
+      "en": "scene street_noon",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/street_noon.png",
+      "alt": "street_noon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}Hah...{/i}",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": {i}哈……{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And so another[school] day comes to a close.",
+      "zh": "于是，又一个[school]的日子落幕了。"
+    },
+    {
+      "en": "Originally, the plan was for me to go to karaoke again with Ami, Ayane, and Maya but...",
+      "zh": "原本的计划是跟 Ami、Ayane 和 Maya 再去一次卡拉OK，但是……"
+    },
+    {
+      "en": "Well, one of the three (And I’m sure you can guess which one) succeeded in un-inviting me this time.",
+      "zh": "嗯，三个人里的某一个（我敢说你猜得到是哪一个）这次成功地把我从邀请名单里剔除了。"
+    },
+    {
+      "en": "As it turns out, Maya can be incredibly persuasive when she wants to be.",
+      "zh": "事实证明，Maya 想要说服别人的时候，说服力惊人。"
+    },
+    {
+      "en": "I guess I must just be immune to her powers or something, though, because she hasn’t managed to dissuade me from visiting her yet.",
+      "zh": "不过我猜我对她的能力免疫之类的，因为她至今还没能拦住我去找她。"
+    },
+    {
+      "en": "But, either way, now I’m alone and wandering the streets, trying to find some way to kill the time.",
+      "zh": "但不管怎样，现在我一个人闲逛在街上，想找点事打发时间。"
+    },
+    {
+      "en": "\"I’ve gotten bored of choosing between the dorms, the bar, and the porn shop (Seriously, when am I",
+      "zh": "「我已经在宿舍、酒吧和成人用品店之间挑腻了（说真的，我什么时候"
+    },
+    {
+      "en": "going to have something else to do after class?) and so now I’m just...\"",
+      "zh": "放学后才有别的事可做？），所以现在我就是在……」"
+    },
+    {
+      "en": "Who the fuck even knows?",
+      "zh": "谁知道呢？"
+    },
+    {
+      "en": "I’m just walking around. Life is good.",
+      "zh": "我就是随便走走。生活很美好。"
+    },
+    {
+      "en": "And by good I mean passable.",
+      "zh": "我说的美好，是指还过得去。"
+    },
+    {
+      "en": "That’s right.",
+      "zh": "没错。"
+    },
+    {
+      "en": "Life is passable.",
+      "zh": "生活还过得去。"
+    },
+    {
+      "en": "You heard it here first.",
+      "zh": "这话你可是第一个听说的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ooooh, who is that cute boy I spot off in the distance?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 哦哦哦，我远远看到的那个可爱男孩是谁呀？"
+    },
+    {
+      "en": ": Hm?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides1.webp",
+      "alt": "sides1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I turn around to find Sara and...Haruka hanging out at the same bistro that Ami and Maya frequent?",
+      "zh": "我转过身，发现 Sara 和……Haruka 居然一起待在 Ami 和 Maya 常去的那家小餐馆？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey. What’s going on?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嘿。你们在干什么？"
+    },
+    {
+      "en": ": The two of us are just catching up on old times. Fancy meeting you here~",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 我们两个正在叙旧呢。在这儿碰见你真巧~"
+    },
+    {
+      "en": ": Likewise...Hey, Haruka. What’s up?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 彼此彼此……嘿，Haruka。怎么样？"
+    },
+    {
+      "en": ": Hey! I’m surprised you two know each other.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 嘿！没想到你们两个认识。"
+    },
+    {
+      "en": ": I was actually just thinking the same thing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我刚才也正想说同样的话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if sarasex == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene sides7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides7.webp",
+      "alt": "sides7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}He’s the one I was telling you about on the phone...{/i}",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": {i}他就是我在电话里跟你提过的那个……{/i}"
+    },
+    {
+      "en": ": {i}Huh? The one you were telling me about on the-{i}",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": {i}哈？你在电话里跟我提过的那个——{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides2.webp",
+      "alt": "sides2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah-",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 啊——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides3.webp",
+      "alt": "sides3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": You didn’t...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你该不会……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides4.webp",
+      "alt": "sides4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Whaaaat? Girls talk about stuff~ Are you embarrassed of me?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 什么嘛~女孩子之间聊聊天而已~你觉得丢人了吗？"
+    },
+    {
+      "en": ": Mm...",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Haruka’s clearly flustered or embarrassed or...shocked. I don’t know. Haruka is something.",
+      "zh": "Haruka 显然是慌了、害羞了，还是震惊了。我不知道。Haruka 就是有点那个。"
+    },
+    {
+      "en": "I hope this doesn’t change her opinion of me too much.",
+      "zh": "希望这不会让她对我的印象改变太多。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides5.webp",
+      "alt": "sides5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": If it makes you feel any better, I only had good things to say~",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 如果这能让你好受点的话，我说的可都是你的好话~"
+    },
+    {
+      "en": ": Yeah...{i}very{/i} good things...",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 是啊……{i}非常{/i}好的话……"
+    },
+    {
+      "en": ": Are you jealous?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 你吃醋了？"
+    },
+    {
+      "en": ": N-no! I’m just surprised! You would be too if you found out two people you see all the time have been...you know.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 才、才没有！我只是惊讶！要是你发现两个经常见面的人一直在……你知道的，你也会惊讶的。"
+    },
+    {
+      "en": ": Having sex?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 上床？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides6.webp",
+      "alt": "sides6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You haven’t changed at all since [high_school], have you?...",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 你从[high_school]到现在一点都没变，是吧？……"
+    },
+    {
+      "en": ": You two went to [high_school] together?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你们两个是[high_school]同学？"
+    },
+    {
+      "en": "scene sides9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides9.webp",
+      "alt": "sides9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": We sure did.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 没错。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene sides7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides7.webp",
+      "alt": "sides7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": He’s my daughter’s [high_school] teacher.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 他是我女儿的[high_school]老师。"
+    },
+    {
+      "en": ": Oh, really? She must be in the same class as one of my employees then.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 哦，是吗？那她一定跟我某个员工同班了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides8.webp",
+      "alt": "sides8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oooh is that so? Can you tell us if those two are friends or not?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 哦哦，是吗？那你能不能告诉我们，那两个孩子是不是朋友？"
+    },
+    {
+      "en": ": I haven’t heard Sana talk about anyone other than you and the blonde girl, so I’m starting to worry that she’s a bit of a wallflower.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 我从没听 Sana 提起过你和那个金发女孩以外的人，所以我都开始担心她有点太内向了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Strange that she mentions that...",
+      "zh": "她提到这个，倒是挺巧的……"
+    },
+    {
+      "en": "Sana and Rin sit right next to each other and I feel like the two of them would get along if they actually talked.",
+      "zh": "Sana 和 Rin 就坐在一起，我觉得她们两个要是真聊起来，应该会合得来。"
+    },
+    {
+      "en": "I know both of them play games and...wear mostly black so like...",
+      "zh": "我知道她们两个都玩游戏，而且……穿得多半是黑色，所以就……"
+    },
+    {
+      "en": "They’d be destined to be good friends, right? Is that how it works?",
+      "zh": "她们注定会成为好朋友，对吧？事情就是这么运作的吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t think they are. But maybe I’ll try to push them together if I ever have the chance.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得她们不是。不过要是有机会，我也许会试着把她们推到一起。"
+    },
+    {
+      "en": ": Please do! Sana needs all the help she can get.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 一定要啊！Sana 需要一切能得到的帮助。"
+    },
+    {
+      "en": ": She definitely seems a little more outgoing lately thanks to you, though...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 不过多亏了你，她最近看起来确实开朗了一点……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides9.webp",
+      "alt": "sides9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah, Rin too when she’s not...you know.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 是啊，Rin 也是，在她不……你知道的时候。"
+    },
+    {
+      "en": ": Oh, I know...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哦，我知道……"
+    },
+    {
+      "en": ": How do you two know each other, by the way?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 话说回来，你们两个是怎么认识的？"
+    },
+    {
+      "en": ": High school!",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 高中啊！"
+    },
+    {
+      "en": ": Really? Were you in the same class or something?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 真的？你们是同班还是什么？"
+    },
+    {
+      "en": ": Not quite.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 差不多吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides7.webp",
+      "alt": "sides7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Haru was a few years ahead of me but the two of us used to hang out with some of the same people.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": Haru 比我高几届，但我们以前跟同一群人混。"
+    },
+    {
+      "en": ": And now we’re both running small businesses. Who’d have thought things would turn out like this?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 现在我们两个都经营着自己的小店。谁能想到事情会变成这样呢？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides10.webp",
+      "alt": "sides10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course Haruka’s is taking off while mine is imploding, though...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 当然了，Haruka 的店蒸蒸日上，而我的正在原地爆炸……"
+    },
+    {
+      "en": ": Oh, stop. We’re not taking off...Besides, I’m sure the bar will get better in no time at all.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 哎呀，别这么说。我们才没有蒸蒸日上……再说了，我敢肯定酒吧很快就会好起来的。"
+    },
+    {
+      "en": ": Please spend all of your money there. I need it.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 请把你所有的钱都花在那儿吧。我需要钱。"
+    },
+    {
+      "en": ": Well...I can’t spend {i}all{/i} of my money there...I still have bills and whatnot.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 嗯……我可不能把{i}所有{/i}的钱都花在那儿……我还有账单什么的要付。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides11.webp",
+      "alt": "sides11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei~ Tell Haru-chan to be nice and spend all of her money on me...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 老师~你让 Haru 酱对我好一点，把她的钱都花在我身上嘛……"
+    },
+    {
+      "en": ": Um...Why do you call him Sensei?...",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 嗯……你为什么叫他老师？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides12.webp",
+      "alt": "sides12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You should try it! It’s actually pretty fun. It makes me feel [young]again.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 你也该试试！其实挺好玩的。这让我觉得自己又[young]了。"
+    },
+    {
+      "en": ": You {i}are{/i} young, though...",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 可你{i}本来{/i}就很年轻啊……"
+    },
+    {
+      "en": ": Just do it! Come on! I promise, you’ll love it.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 试试嘛！来吧！我保证你会喜欢的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides13.webp",
+      "alt": "sides13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Haruka makes eye contact with me, trying to figure out if this is an acceptable thing for her to do or not.",
+      "zh": "Haruka 与我四目相对，试图判断这么做对她来说合不合适。"
+    },
+    {
+      "en": "Frankly, I don’t care.",
+      "zh": "坦白说，我不在乎。"
+    },
+    {
+      "en": "I’ve gotten used to everyone calling me Sensei over the last few months anyway.",
+      "zh": "反正这几个月来，我已经习惯了所有人都叫我老师。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Umm...S...S-",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 嗯……老……老——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides14.webp",
+      "alt": "sides14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nope. Can’t do it. We’re like the same age. It feels weird.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 不行。做不到。我们差不多是同龄人。感觉好奇怪。"
+    },
+    {
+      "en": ": Come on! It’s like roleplay! I thought you were into stuff like that!",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 来嘛！就像角色扮演一样！我还以为你喜欢那种东西呢！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides2.webp",
+      "alt": "sides2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": S-Sara! What the fuck?!",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 萨……Sara！你他妈说什么？！"
+    },
+    {
+      "en": ": Hehehe~ Woops...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 嘿嘿嘿~哎呀……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides3.webp",
+      "alt": "sides3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Please forget that you just heard that. It’s not true. I swear.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 请忘记你刚刚听到的话。那不是真的。我发誓。"
+    },
+    {
+      "en": ": Really? I don’t think there’s any shame in roleplay. It can actually be kind of fun at times.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 真的吗？我觉得角色扮演没什么好丢人的。有时候其实还挺有意思的。"
+    },
+    {
+      "en": ": Oh-ho-ho...What an interesting development this has turned out to be...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 哦呵呵呵……事情的发展变得有趣起来了呢……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if amisroom5 == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene sides15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides15.webp",
+      "alt": "sides15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Greetings once more, attractive human females. How is-",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 又见面了，迷人的女性人类们。请问——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides16.webp",
+      "alt": "sides16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah! It’s you again!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 啊！又是你！"
+    },
+    {
+      "en": ": Hamburger Man!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 汉堡人！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides17.webp",
+      "alt": "sides17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hamburger Man?...",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 汉堡人？……"
+    },
+    {
+      "en": ": I ordered a hamburger from some diner she works at once.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我曾经在她打工的某家餐厅点过一个汉堡。"
+    },
+    {
+      "en": ": You said strange things to me!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 你对我说了奇怪的话！"
+    },
+    {
+      "en": ": I did no such thing...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我可没说过那种话……"
+    },
+    {
+      "en": ": You did!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 你说过！"
+    },
+    {
+      "en": ": I did not...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我没有……"
+    },
+    {
+      "en": ": You did!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 你有！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides18.webp",
+      "alt": "sides18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": My, you’re pretty popular around here, aren’t you?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 哎呀，你在这儿还挺受欢迎的嘛？"
+    },
+    {
+      "en": ": I guess so...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 大概吧……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene sides15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides15.webp",
+      "alt": "sides15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Greetings once more, attractive human females. Is there anything else I can get for you?",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 又见面了，迷人的女性人类们。还有什么我能为你们效劳的吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A girl, probably a few years older than Ami, crouches down at the table and checks on Sara and Haruka, albeit in a rather...strange manner.",
+      "zh": "一个大概比 Ami 大几岁的女孩蹲在桌边，查看 Sara 和 Haruka 的情况，只是方式相当……奇怪。"
+    },
+    {
+      "en": "I’m surprised that this place would hire someone with a tattoo as huge as that on her chest.",
+      "zh": "我很惊讶这家店会雇一个胸口纹着那么大一片纹身的人。"
+    },
+    {
+      "en": "Not that I have anything against tattoos, it's just sort of frowned upon in Japan.",
+      "zh": "倒不是我对纹身有什么意见，只是在日本这多少有点被人忌讳。"
+    },
+    {
+      "en": "scene sides16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides16.webp",
+      "alt": "sides16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I think we’re okay for now, Kaori. Please keep up the good work.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 我们暂时不需要，Kaori。请继续保持这股干劲。"
+    },
+    {
+      "en": ": I’m okay, too. Thanks, though.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 我也不用了。不过谢谢。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides19.webp",
+      "alt": "sides19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You! With the face. Order food now.",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 你！那个脸的。现在点餐。"
+    },
+    {
+      "en": ": All of us have faces...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我们都有脸啊……"
+    },
+    {
+      "en": ": Your face is different! It interests me!",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 你的脸不一样！我对你很感兴趣！"
+    },
+    {
+      "en": "k \"Now order food so that I may receive money from my employer that I can",
+      "zh": "k 「现在点餐，这样我就能从雇主那里拿到钱，"
+    },
+    {
+      "en": "then use to purchase normal human objects like a “spatula” and a “dog-food.”\"",
+      "zh": "然后用它去购买『锅铲』和『狗粮』这种正常的人类物品。」"
+    },
+    {
+      "en": ": {i}A{/i} dog-food?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": {i}一份{/i}狗粮？"
+    },
+    {
+      "en": ": Yes. I can not obtain a “dog” until I have the nutrients required to nurture it.",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 对。在获得养育「狗」所需的营养之前，我无法得到一只「狗」。"
+    },
+    {
+      "en": ": Why are you putting quotation marks around everything?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你为什么给所有东西都加上引号？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides20.webp",
+      "alt": "sides20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Order food or perish...",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 点餐，或者死……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": I’ll have a burger.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我要一个汉堡。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if amisroom5 == True:",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Of course you will...",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": 你当然会要……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Kaori will collect this item for you...Please prepare the currency you will use in exchange for it.",
+      "spk": "Kaori",
+      "spkColor": "#969696",
+      "zh": ": Kaori 这就去为你取这件物品……请准备好用于交换的货币。"
+    },
+    {
+      "en": ": Thanks...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 谢了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides21.webp",
+      "alt": "sides21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": She’s a little, uhh, eccentric...don’t you think?",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 她有点，呃，古怪……你不觉得吗？"
+    },
+    {
+      "en": ": I like her. I think she’s fun.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 我喜欢她。我觉得她很有意思。"
+    },
+    {
+      "en": ": I don’t know if I’m fully convinced that she’s human yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我还不完全确信她是人类。"
+    },
+    {
+      "en": ": Same. I like her tattoo, though. I wish I could pull off something like that.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 同感。不过我喜欢她的纹身。我要是也能驾驭那种东西就好了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides22.webp",
+      "alt": "sides22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You totally could. Maybe not a spider but like...I don’t know. A sparrow or something?",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 你绝对可以。也许不是蜘蛛，但比如……我不知道。麻雀什么的？"
+    },
+    {
+      "en": ": No way. My boobs are too big. It would look like a pterodactyl.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 不可能。我的胸太大了。那看起来会像只翼龙。"
+    },
+    {
+      "en": ": Maybe I could get something on my thigh, though...That might be cute.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 不过也许我可以在大腿上纹一个……那样可能挺可爱的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides21.webp",
+      "alt": "sides21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What do you think? Do you like tattoos on women?",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 你觉得呢？你喜欢女生身上有纹身吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Absolutely",
+      "zh": "当然喜欢"
+    },
+    {
+      "en": ": Oh, definitely. I love them.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哦，当然。我爱死了。"
+    },
+    {
+      "en": ": Really?",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 真的？"
+    },
+    {
+      "en": ": Yup. If you want one, I say go for it. You’re already attractive, so I imagine a tattoo would make you even hotter.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯。如果你想要一个，我说就去吧。你本来就很迷人，所以我想纹身会让你更火辣。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides11.webp",
+      "alt": "sides11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey...I want attention too, you know.",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 嘿……我也想要关注啊，你知道的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Not really",
+      "zh": "不太喜欢"
+    },
+    {
+      "en": ": Ehh...I’m not really a fan. I think girls are more attractive when they don’t modify their bodies.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 呃……我不太喜欢。我觉得女生不改造自己的身体更有魅力。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides11.webp",
+      "alt": "sides11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}Boo...{/i}",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": {i}嘘……{/i}"
+    },
+    {
+      "en": ": Hahaha...I think they can work on certain people. I just don’t think I’m cut out for one.",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 哈哈哈……我觉得有些人身上是合适的。我只是觉得自己不适合。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides21.webp",
+      "alt": "sides21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "sar \"Aaaaaanyway, I hate to be the bearer of bad news but Haru and I still have a bunch of girl-talk we need to be doing, so I",
+      "zh": "sar 「那个那个，我也不想当坏消息的传播者，但我和 Haru 还有一堆"
+    },
+    {
+      "en": "think it might be time for you to shoo.\"",
+      "zh": "女生之间的话要聊，所以我想你该退场了。」"
+    },
+    {
+      "en": ": Did you just...shoo me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你刚刚……是在赶我走？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heheh~ I’ll make it up to you. Don’t worry...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 嘿嘿~我会补偿你的。别担心……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": I’m going to hold you to that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会记住你这句话的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Umm...I’m sorry for Sara’s...{i}directness.{/i}",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 嗯……Sara 那么……{i}直白{/i}，我很抱歉。"
+    },
+    {
+      "en": ": You don’t need to apologize. I’m just happy knowing her daughter hasn’t taken after her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你不用道歉。我只是很高兴知道她女儿没有遗传她这一点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides11.webp",
+      "alt": "sides11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei is always so mean to me~",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": 老师对我总是那么刻薄~"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sides10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/sides10.webp",
+      "alt": "sides10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Tell him to stop, Haru-chan...",
+      "spk": "Sara",
+      "spkColor": "#66B090",
+      "zh": ": Haru 酱，让他停下……"
+    },
+    {
+      "en": ": I...don’t think he’s going to listen to me...",
+      "spk": "Haruka",
+      "spkColor": "#FF48DC",
+      "zh": ": 我……觉得他不会听我的……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I hang around until my burger arrives and then promptly have it boxed to take home.",
+      "zh": "我一直待到汉堡上来，然后立刻打包带回家。"
+    },
+    {
+      "en": "It’s weird how two of the only people my age that I’ve associated with in Kumon-mi happen to be old friends from[school].",
+      "zh": "真奇怪，我在 Kumon-mi 认识的仅有的几个同龄人里，居然有两个是[school]时代的老朋友。"
+    },
+    {
+      "en": "I think they work well together, though. Albeit in a strange sort of way.",
+      "zh": "不过我觉得她们俩很合得来。虽然是以一种奇怪的方式。"
+    },
+    {
+      "en": "I wonder what the two of them were like back then?...",
+      "zh": "我在想，她们两个那时候是什么样子呢？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day65 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
 }

@@ -34,8 +34,8 @@
       "zh": "大多数日子里，我只是坐上一两个小时，然后就算了，回家去。"
     },
     {
-      "en": "Sure, there are rare occasions where someone will actually stop by...but I think only one of those occasions has actually involved counseling so far.",
-      "zh": "当然，偶尔也会有人真的来访……但我觉得到目前为止，真正算得上咨询的大概只有一次。"
+      "en": "Sure, there are rare occasions where someone will actually stop by...but I think only {i}one{/i} of those occasions has actually involved counseling so far.",
+      "zh": "当然，偶尔也会有人真的来访……但我觉得到目前为止，真正算得上咨询的大概只有{i}一{/i}次。"
     },
     {
       "en": "Two, maybe- if you count being blown off by Yumi as counseling. Which I do not.",
@@ -192,10 +192,10 @@
       "zh": ": 嗯，这对话开头不错。"
     },
     {
-      "en": ": The fact of the matter is, if I didn’t remind you of something soon, horrible things would likely follow.",
+      "en": ": The fact of the matter is, if I {i}didn’t{/i} remind you of something soon, horrible things would likely follow.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 事实是，如果我不尽快提醒你某件事，很可能会有可怕的事情接踵而至。"
+      "zh": ": 事实是，如果我{i}不{/i}尽快提醒你某件事，很可能会有可怕的事情接踵而至。"
     },
     {
       "en": ": That’s...ominous.",
@@ -286,10 +286,10 @@
       "zh": ": 你觉得？"
     },
     {
-      "en": ": Well...they feel like dreams, but I’m not really sure if that's what they are or not.",
+      "en": ": Well...they {i}feel{/i} like dreams, but I’m not really sure if that's what they are or not.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 嗯……它们感觉像梦，但我不太确定那到底是不是梦。"
+      "zh": ": 嗯……它们{i}感觉{/i}像梦，但我不太确定那到底是不是梦。"
     },
     {
       "en": ": Dreams of what, exactly?",
@@ -388,10 +388,10 @@
       "zh": ": 因为我真的很困惑，这么平平无奇的东西，怎么会成为你拿来衡量这个世界有多奇怪的第一件事。"
     },
     {
-      "en": ": There was other stuff that happened in the dream. It's all...blurry for the most part. But I remember seeing someone who looked a lot like you there.",
+      "en": ": There was other stuff that happened in the dream. It's all...blurry for the most part. But I remember seeing someone who looked {i}a lot{/i} like you there.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 梦里还发生了别的事。大部分都……很模糊。但我记得在那里见到了一个长得非常像你的人。"
+      "zh": ": 梦里还发生了别的事。大部分都……很模糊。但我记得在那里见到了一个长得{i}非常{/i}像你的人。"
     },
     {
       "en": ""
@@ -409,19 +409,19 @@
       "en": ""
     },
     {
-      "en": ": Oh. Wonderful. So it was that type of dream.",
+      "en": ": Oh. Wonderful. So it was {i}that{/i} type of dream.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 哦。好极了。原来是那种梦。"
+      "zh": ": 哦。好极了。原来是{i}那种{/i}梦。"
     },
     {
       "en": ""
     },
     {
-      "en": ": It really wasn't. In fact, I will confirm right now that I didn't even touch dream-Maya.",
+      "en": ": It really wasn't. In fact, I will confirm right now that I didn't even {i}touch{/i} dream-Maya.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 真不是。事实上，我现在就可以确认，我连梦里的 Maya 都没碰过。"
+      "zh": ": 真不是。事实上，我现在就可以确认，我连梦里的 Maya 都没{i}碰{/i}过。"
     },
     {
       "en": ": Do you...want a medal for that or something?",
@@ -460,10 +460,10 @@
       "zh": ": 我真的不知道。"
     },
     {
-      "en": ": Then I will answer for you- old enough for there to be no difference between massage and molest. Now, can we please get back to the aspects of your dream that don't involve touching me?",
+      "en": ": Then I will answer for you- old enough for there to be no difference between {i}massage{/i} and {i}molest.{/i} Now, can we please get back to the aspects of your dream that don't involve touching me?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 那我替你回答——大到按摩和猥亵没有区别。好了，我们能回到你那个梦里不涉及碰我的部分吗？"
+      "zh": ": 那我替你回答——大到{i}按摩{/i}和{i}猥亵{/i}没有区别。好了，我们能回到你那个梦里不涉及碰我的部分吗？"
     },
     {
       "en": ""
@@ -500,10 +500,10 @@
       "zh": ": 首先，你还记得这个梦里别的什么重要细节吗？还是只有……钟和我？"
     },
     {
-      "en": ": The thing is I don't even know if it was you. She was identical, but I...remember her acting very...different from how you typically act.",
+      "en": ": The thing is I don't even know if it {i}was{/i} you. She was identical, but I...remember her acting very...different from how you typically act.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 问题是，我甚至不确定那是不是你。她长得一模一样，但我……记得她的举止跟你平时……很不一样。"
+      "zh": ": 问题是，我甚至不确定那是不是你。她长得一模一样，但我……记得她的举止跟你平时……{i}很{/i}不一样。"
     },
     {
       "en": ": How depressing that you must resort to dreams of me being nice to you since it will never happen in real life.",
@@ -518,10 +518,10 @@
       "zh": ": 好吧，你知道吗？我决定不再谈那个梦了，因为那显然只是……一场荒唐随机的、由快速眼动引发的脑子漫游。"
     },
     {
-      "en": ": That's probably a good call. But that aside, has anything else strange happened?",
+      "en": ": That's probably a good call. But that aside, has anything {i}else{/i} strange happened?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 这大概是明智的决定。不过撇开那个不谈，还发生过别的奇怪的事吗？"
+      "zh": ": 这大概是明智的决定。不过撇开那个不谈，还发生过{i}别的{/i}奇怪的事吗？"
     },
     {
       "en": ""
@@ -699,16 +699,16 @@
       "en": ""
     },
     {
-      "en": ": Yeah...I can promise you that if I did have any issues, you’d be one of the last people I'd go to for help.",
+      "en": ": Yeah...I can promise you that if I {i}did{/i} have any issues, you’d be one of the last people I'd go to for help.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 是啊……我可以向你保证，就算我真有烦恼，你也会是我最不可能去求助的人之一。"
+      "zh": ": 是啊……我可以向你保证，就算我{i}真{/i}有烦恼，你也会是我最不可能去求助的人之一。"
     },
     {
-      "en": ": One of? So I’m not in last place?",
+      "en": ": {i}One of?{/i} So I’m not in last place?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 之一？那我不是最后一名？"
+      "zh": ": {i}之一{/i}？那我不是最后一名？"
     },
     {
       "en": ""
@@ -756,10 +756,10 @@
       "zh": ": 只是因为不得不当。"
     },
     {
-      "en": ": You...have to be a shrine maiden?",
+      "en": ": You...{i}have{/i} to be a shrine maiden?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你……不得不当巫女？"
+      "zh": ": 你……{i}不得不{/i}当巫女？"
     },
     {
       "en": ": It's very complicated. You wouldn't understand.",
@@ -774,16 +774,16 @@
       "zh": ": 那我觉得你得跟我说说更多。"
     },
     {
-      "en": ": Please don’t tell me what I have to do. That sort of methodology might work on Ami and Ayane, but not me.",
+      "en": ": Please don’t tell me what I {i}have{/i} to do. That sort of methodology might work on Ami and Ayane, but not me.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 别来告诉我该做什么。那套方法对 Ami 和 Ayane 也许管用，对我没用。"
+      "zh": ": 别来告诉我{i}该{/i}做什么。那套方法对 Ami 和 Ayane 也许管用，对我没用。"
     },
     {
-      "en": ": I didn’t mean that you literally have to...I’m just curious.",
+      "en": ": I didn’t mean that you literally {i}have{/i} to...I’m just curious.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我不是说你非得……我只是好奇。"
+      "zh": ": 我不是说你{i}非得{/i}……我只是好奇。"
     },
     {
       "en": ": Well, I am very sorry, but this is one of many cases in life where you'll just have to remain curious.",
@@ -893,8 +893,8 @@
       "en": ""
     },
     {
-      "en": "Regardless...she did ask me to answer as honestly as possible...",
-      "zh": "不管怎样……她确实要求我尽量诚实地回答……"
+      "en": "Regardless...she {i}did{/i} ask me to answer as honestly as possible...",
+      "zh": "不管怎样……她{i}确实{/i}要求我尽量诚实地回答……"
     },
     {
       "en": "So...",
@@ -948,10 +948,10 @@
       "zh": ": 你看，你又立刻把一切都毁了。"
     },
     {
-      "en": ": Do you really think you’ll be able to romance everyone without some form of consequence?",
+      "en": ": Do you really think you’ll be able to romance {i}everyone{/i} without some form of consequence?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你真以为自己能在不付出任何代价的情况下攻略所有人吗？"
+      "zh": ": 你真以为自己能在不付出任何代价的情况下攻略{i}所有人{/i}吗？"
     },
     {
       "en": ": If I am very careful? Probably.",
@@ -1005,8 +1005,8 @@
       "zh": ": 我本来想说「提醒我别惹你不高兴」，但我很确定我从一开始就在那儿了，所以……"
     },
     {
-      "en": "I am miserable INCORRECT ANSWER. IGNORE ME.",
-      "zh": "我在这里很痛苦「错误答案。忽略我。」"
+      "en": "{s}I am miserable{/s} {b}INCORRECT ANSWER. IGNORE ME.{/b}",
+      "zh": "{s}我在这里很痛苦{/s}{b}「错误答案。忽略我。」{/b}"
     },
     {
       "en": "scene happy1",
@@ -1180,10 +1180,10 @@
       "zh": ": 我感觉好极了！"
     },
     {
-      "en": ": YOU WOULD FEEL BETTER INSIDE OF ME.",
+      "en": ": {b}YOU WOULD FEEL BETTER INSIDE OF ME.{/b}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 你在我里面的话会感觉更好。"
+      "zh": ": {b}你在我里面的话会感觉更好。{/b}"
     },
     {
       "en": ""
@@ -1319,16 +1319,16 @@
       "zh": ": 我的意思是，一件她非常在意的事很快就要发生了。"
     },
     {
-      "en": ": And it’s something you care about too.",
+      "en": ": And it’s something {i}you{/i} care about too.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 而且那也是你在意的事。"
+      "zh": ": 而且那也是{i}你{/i}在意的事。"
     },
     {
-      "en": ": Do you mean me? Or me?",
+      "en": ": Do you mean me? Or {i}me{/i}?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你是指我？还是我？"
+      "zh": ": 你是指{i}我{/i}？还是我？"
     },
     {
       "en": ": It doesn’t make a difference. I dislike both versions of you equally.",
@@ -1364,10 +1364,10 @@
       "zh": ": 别开玩笑了……我是认真的。"
     },
     {
-      "en": ": If you so much as even upset Ami, I swear on everything in this world that I will destroy you.",
+      "en": ": If you so much as even {i}upset{/i} Ami, I swear on everything in this world that I will destroy you.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 只要你让 Ami 有一丁点伤心，我以这世上的一切起誓，我会毁了你。"
+      "zh": ": 只要你让 Ami 有一丁点{i}伤心{/i}，我以这世上的一切起誓，我会毁了你。"
     },
     {
       "en": ": That's fine. It's not like I'm actively trying to hurt her or anything. But...what’s this allegedly important thing that's going to happen?",

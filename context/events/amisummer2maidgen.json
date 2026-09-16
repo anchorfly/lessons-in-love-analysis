@@ -1,6 +1,6 @@
 {
   "label": "amisummer2maidgen",
-  "title_zh": "那根线",
+  "title_zh": "amisummer2maidgen",
   "lines": [
     {
       "en": ""
@@ -30,8 +30,8 @@
       "zh": "不过这个形态，说不定才是我最喜欢的。"
     },
     {
-      "en": "Because not only does she treat me with the same amount of love and affection she does everywhere else, but she is dressed as a maid, which immediately makes every girl at least two points better.",
-      "zh": "因为她不光像在别处一样用同等分量的爱意待我，还穿着女仆装——而光是穿上女仆装，任何女孩都立刻高出至少两分。"
+      "en": "Because not only does she treat me with the same amount of love and affection she does everywhere else, {i}but she is dressed as a maid,{/i} which immediately makes every girl at least two points better.",
+      "zh": "因为她不光像在别处一样用同等分量的爱意待我，{i}还穿着女仆装{/i}——而光是穿上女仆装，任何女孩都立刻高出至少两分。"
     },
     {
       "en": "That is a factual statement, for maid cafes would not exist if it was not true.",
@@ -99,8 +99,8 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]！"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]！{/i}"
     },
     {
       "en": ".........",

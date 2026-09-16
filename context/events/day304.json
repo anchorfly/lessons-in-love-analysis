@@ -1,1400 +1,1400 @@
 {
- "label": "day304",
- "title_zh": "马，或死者们的低语",
- "lines": [
-  {
-   "en": ""
-  },
-  {
-   "en": "label day304:",
-   "zh": ""
-  },
-  {
-   "en": "scene hallnoonwinter",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/BGs/hallnoonwinter.png",
-   "alt": "hallnoonwinter"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I make my way down the hall after the final bell rings.",
-   "zh": "终响铃敲响之后，我沿着走廊往外走。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "A certain rich girl (The one who doesn’t want to have my children) has been glaring at me for the entire day, so I’m trying to escape as quickly as I-",
-   "zh": "某个有钱人家的大小姐（那个不想替我生孩子的）一整天都在瞪我，所以我在设法尽快逃——"
-  },
-  {
-   "en": ": Get back here right now!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 现在就给我回来！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Like I said, I’m trying to escape as quickly as I-",
-   "zh": "就像我说的，我在设法尽快逃——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sensei! I’m warning you!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": Sensei！我在警告你！"
-  },
-  {
-   "en": ": If you do not turn around and hear what I have to say, I will be filing a complaint with the board of education!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 如果你不转过身来听我要说的话，我就要向教育委员会投诉了！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I quicken my pace only to be met by the sound of Touka’s shoes rapidly clopping against the floor seconds later.",
-   "zh": "我加快了脚步，几秒钟后，迎接我的却是 Touka 的鞋子在地板上急促的哒哒声。"
-  },
-  {
-   "en": "If this is the last time you ever hear from me, I just want you to know that I’ve had fun.",
-   "zh": "如果这是你最后一次听到我的消息，我只想让你知道，我过得挺开心的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall1.webp",
-   "alt": "yasutoukahall1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Finally! I was beginning to think you were going to walk all the way home!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 总算！我还以为你要一路走回家去呢！"
-  },
-  {
-   "en": ": That was the plan.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那本来就是计划。"
-  },
-  {
-   "en": ": You should show more concern when your students are in clear distress.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 你的学生明显处于痛苦之中，你应该表现出更多的关心。"
-  },
-  {
-   "en": ": You’re right. I’m sorry.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你说得对。抱歉。"
-  },
-  {
-   "en": ": Yasu, are you okay? Touka seems to have quite the grip on your collar.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Yasu，你还好吗？Touka 揪你衣领揪得挺紧的。"
-  },
-  {
-   "en": ": It’s...a little hard to breathe...but I’m okay.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 有点……喘不上气……不过我没事。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall2.webp",
-   "alt": "yasutoukahall2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I meant concern for me! I am clearly in greater distress than my new roommate.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我是说关心我！明明我比我的新室友痛苦多了。"
-  },
-  {
-   "en": ": Honestly, you seem to be the one leading the charge here.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 说实话，看起来带头冲锋的那个人是你。"
-  },
-  {
-   "en": ": I barely slept at all last night with her incessant rambling!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 她一整晚喋喋不休，我几乎一夜都没睡！"
-  },
-  {
-   "en": ": I take it the move went well, then?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 看来搬家进行得很顺利咯？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall3.webp",
-   "alt": "yasutoukahall3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": No! It was one of the worst nights of my life!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 不！那是我这辈子最糟糕的几个夜晚之一！"
-  },
-  {
-   "en": ": How do I return her? Do you still have the receipt?",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我该怎么把她退掉？你还留着收据吗？"
-  },
-  {
-   "en": ": I didn’t buy her, Touka. And most human traffickers don’t accept returns.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 她又不是我买来的，Touka。而且大多数人贩子也不接受退货。"
-  },
-  {
-   "en": ": I know this because I have a good amount of experience as a human trafficker myself.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我之所以知道这个，是因为我自己当人贩子的经验相当丰富。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall4",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall4.webp",
-   "alt": "yasutoukahall4"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": This is no time for fun and games, Sensei. This demon is clearly out to get me.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 现在不是开玩笑的时候，Sensei。这个恶魔显然是冲着我来的。"
-  },
-  {
-   "en": ": Is she? Because she looks pretty harmless right now. Especially with you being able to drag her around the hall.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 是吗？可她现在看起来相当无害。尤其是你还能拽着她在走廊里到处走。"
-  },
-  {
-   "en": ": Touka is right when she says that I kept her up very late, but it was not my intention to do that.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": Touka 说我把她弄到很晚才睡，这点她说得没错，但那不是我的本意。"
-  },
-  {
-   "en": ": I have to pray for at least four hours every night before I’m able to close my eyes. And I did not want to pray in the hall.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我每天晚上至少要祈祷四个小时，才能闭上眼睛。而我又不想在外面走廊里祈祷。"
-  },
-  {
-   "en": ": Well, can you promise to...pray quieter next time or something?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那么，你能不能保证下次……祈祷得小声一点，之类的？"
-  },
-  {
-   "en": ": I can promise to try.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我可以保证试试。"
-  },
-  {
-   "en": ": Great. Problem solved then.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 很好。那问题就解决了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene hallnoonwinter",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/BGs/hallnoonwinter.png",
-   "alt": "hallnoonwinter"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I turn away from the newest members of my class and-",
-   "zh": "我转身背对班上最新来的这两位，然后——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall1.webp",
-   "alt": "yasutoukahall1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": No you don’t! We are nowhere near finished!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 你想得美！我们离结束还差得远呢！"
-  },
-  {
-   "en": ": I am not leaving this building until you assure me that I will be trading Yasu for another girl!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 在你向我保证会把 Yasu 换成另一个女孩之前，我不会离开这栋楼！"
-  },
-  {
-   "en": ": I would honestly even take the mean looking one at this point! At least she probably doesn’t “pray” for four hours every night!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 说真的，到这个地步我甚至愿意换那个看起来很凶的！至少她大概不会每天晚上“祈祷”四个小时！"
-  },
-  {
-   "en": ": Hey, for all you know, Yumi could be even more religious than Yasu is.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嘿，说不定 Yumi 比 Yasu 还要更虔诚呢，你又不知道。"
-  },
-  {
-   "en": ": All I want is to be friends, Touka...I’m sorry if I upset you.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我只想交个朋友，Touka……如果我惹你不高兴了，我很抱歉。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall5.webp",
-   "alt": "yasutoukahall5"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You don’t understand the first thing about friends, Yasu! Friends let each other sleep!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 你对朋友一无所知，Yasu！朋友是让彼此睡觉的！"
-  },
-  {
-   "en": ": To be fair, you don’t really understand the first thing about friends either, Touka.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 说句公道话，你对朋友其实也一无所知，Touka。"
-  },
-  {
-   "en": ": You and Yasu probably just need to bond.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你和 Yasu 大概只是需要培养一下感情。"
-  },
-  {
-   "en": ": Sensei is right. If we are going to be successful roommates, we should first learn to deal with each other’s flaws.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": Sensei 说得对。如果我们要成为合得来的室友，首先应该学会容忍彼此的缺点。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall6",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall6.webp",
-   "alt": "yasutoukahall6"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hmph! Luckily for you, I don’t have any flaws. So your job should be quite easy.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 哼！算你走运，我没有任何缺点。所以你的工作应该相当轻松。"
-  },
-  {
-   "en": ": That’s right, Touka. You’re the perfect, ideal woman and I am but a worm wriggling desperately on the ground beneath you, praying to not be stepped on.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 没错，Touka。你是完美的理想女性，而我不过是一条在你脚下的地面上绝望扭动的虫子，祈祷着不要被踩到。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall7.webp",
-   "alt": "yasutoukahall7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Wait...There’s no need to be that harsh on yourself.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 等等……没必要把自己说得那么难听。"
-  },
-  {
-   "en": ": Weren’t you calling her a demon like, one minute ago?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你一分钟前不是还在叫她恶魔吗？"
-  },
-  {
-   "en": ": Yes, but that’s before she began self-deprecating.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 是的，但那是在她开始自我贬低之前。"
-  },
-  {
-   "en": ": Mother told me that I can not be putting myself above others, and having Yasu refer to herself as a worm beneath my feet makes me feel as if I may have failed.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 母亲告诉过我，我不能把自己置于他人之上，而让 Yasu 把自己说成我脚下的虫子，让我觉得自己也许是失败了。"
-  },
-  {
-   "en": ": I am not even worthy of the bacteria crawling off of your fingertips onto the collar of my shirt.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我连从你指尖爬到我衬衫衣领上的细菌都不配。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall8",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall8.webp",
-   "alt": "yasutoukahall8"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": There is no bacteria on my fingertips! I wash my hands after every single thing I do! The way a proper lady should!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我的指尖上根本没有什么细菌！我每做一件事之后都会洗手！一位得体的淑女就该这样！"
-  },
-  {
-   "en": ": Do proper ladies also scream at the top of their lungs in the hallway?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 得体的淑女还会在走廊里扯着嗓子尖叫吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall9",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall9.webp",
-   "alt": "yasutoukahall9"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Well...no. But I-",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 嗯……不会。但我——"
-  },
-  {
-   "en": ": It’s okay, Touka...Even if you cast me out into the hall for my nightly prayer, I won’t think any less of you.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 没关系的，Touka……就算你为了我每晚的祈祷而把我赶到走廊上去，我也不会因此看轻你。"
-  },
-  {
-   "en": ": I do want the two of us to get along. So if exiling me is what you believe must be done for that to happen, I shall gather what little belongings I have and flee forever.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我确实希望我们两个能好好相处。所以如果你认为必须把我放逐才能做到，那我就收拾好我那点可怜的随身物品，永远消失。"
-  },
-  {
-   "en": ": How exactly would exiling yourself help you two get along?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 把自己放逐出去，到底怎么能帮你们两个好好相处？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall10.webp",
-   "alt": "yasutoukahall10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Our physical forms are not the only way our thoughts can connect with one another.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我们的肉体，并不是思想彼此相连的唯一途径。"
-  },
-  {
-   "en": ": If Touka and I close our eyes at the exact same time and utter the third verse of [[redacted], our thoughts will connect and our minds will become one until the sun next rises.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 如果 Touka 和我在完全相同的时刻闭上眼睛，念出《[[redacted]》的第三节，我们的思想就会相连，我们的心智将合二为一，直到太阳再次升起。"
-  },
-  {
-   "en": ": Yasu, this is precisely why I do not think it is possible for us to get along.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": Yasu，这正是我认为我们不可能合得来的原因。"
-  },
-  {
-   "en": ": I don’t understand the first thing about your...religion. And I fear that even attempting to do so would lead to me becoming even more of an outcast than I already am.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我对你的……宗教一无所知。而且我害怕，就连尝试去了解，都会让我变得比现在更加被排斥。"
-  },
-  {
-   "en": ": Did she tell you the thing about dying animals yet?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 她跟你说了垂死的动物那件事了吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall11.webp",
-   "alt": "yasutoukahall11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": No! And I do not want her to!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 没有！而且我也不想听！"
-  },
-  {
-   "en": ": You remember!",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 你记得！"
-  },
-  {
-   "en": ": Yeah. I have a hard time forgetting things that scary girls yell at me in the middle of the night.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯。可怕的女孩半夜冲我吼的话，我很难忘掉。"
-  },
-  {
-   "en": ": I am not scary, Sensei. What is scary is the thought of living in perpetual misery and fear, far off in the looming darkness and covered in wires.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我不可怕，Sensei。可怕的是永远活在痛苦与恐惧中的念头——在逼近的黑暗深处，浑身缠满电线。"
-  },
-  {
-   "en": ": These are the things that are scary. These are the things I can protect you from.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 这些才是可怕的东西。这些才是我能保护你远离的东西。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall12",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall12.webp",
-   "alt": "yasutoukahall12"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": And yet you continue to stray. How sad.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 可你却继续偏离。多么可悲。"
-  },
-  {
-   "en": ": How on earth do you keep switching from smiling to crying so quickly? It’s immensely unsettling.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 你到底是怎么做到在微笑和哭泣之间切换得这么快的？这让人极度不安。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall13",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall13.webp",
-   "alt": "yasutoukahall13"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": How do you manage to stay so pretty all the time?",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 你是怎么做到一直都这么漂亮的？"
-  },
-  {
-   "en": ": Can you teach me, Touka? Can you make me as beautiful as you?",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 你能教我吗，Touka？你能让我变得和你一样美吗？"
-  },
-  {
-   "en": ": Well...I suppose I wouldn’t mind showing you my skin care routine...but that still doesn’t really-",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 嗯……我想我不介意给你看看我的护肤流程……但那还是不太——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall2.webp",
-   "alt": "yasutoukahall2"
-  },
-  {
-   "en": "scene yasutoukahall7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall7.webp",
-   "alt": "yasutoukahall7"
-  },
-  {
-   "en": "scene yasutoukahall5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall5.webp",
-   "alt": "yasutoukahall5"
-  },
-  {
-   "en": "scene yasutoukahall3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall3.webp",
-   "alt": "yasutoukahall3"
-  },
-  {
-   "en": "scene yasutoukahall1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall1.webp",
-   "alt": "yasutoukahall1"
-  },
-  {
-   "en": "scene yasutoukahall9",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall9.webp",
-   "alt": "yasutoukahall9"
-  },
-  {
-   "en": "scene yasutoukahall14",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall14.webp",
-   "alt": "yasutoukahall14"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I zone out for a moment due to boredom, but quickly return to my senses as zoning out in front of my students is rude.",
-   "zh": "我因为无聊走神了片刻，但很快回过神来——毕竟在学生面前走神是很失礼的。"
-  },
-  {
-   "en": "I must pay more attention.",
-   "zh": "我必须更加专注。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I suppose all I’m saying is that...I wish you’d be a bit more predictable.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我想我要说的只是……我希望你能更可预测一点。"
-  },
-  {
-   "en": ": I, too, know what it is like to be thrust into new situations without so much as a warning...",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我也知道，在毫无预警的情况下被丢进新环境是什么滋味……"
-  },
-  {
-   "en": ": But I feel that the manners in which we approach these situations is completely different.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 但我觉得，我们面对这些局面时所采取的方式完全不同。"
-  },
-  {
-   "en": ": I try very hard to adapt, while you...",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我非常努力地去适应，而你……"
-  },
-  {
-   "en": ": I rely on the word of God to get me through everything.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我依靠神的话语来度过一切。"
-  },
-  {
-   "en": ": There is no sense in adapting when we are all but fodder for the one so commonly mislabeled.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 既然我们都不过是那位常被误称之者的养料，去适应就没有意义。"
-  },
-  {
-   "en": ": And, before long, we will find ourselves waist deep in encroaching darkness. And only those with the power of the light will be able to crawl to safety.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 而且用不了多久，我们就会发现自己深陷于逼近的黑暗之中，齐腰之深。只有拥有光之力量的人，才能爬到安全的地方。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall15",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall15.webp",
-   "alt": "yasutoukahall15"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Crawl with me, Touka! Let us escape the hell that is simply living together as one!",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 和我一起爬吧，Touka！让我们逃离这个“仅仅作为一体共存”的地狱！"
-  },
-  {
-   "en": ": Okay, let’s not raise any culty suicide flags so early into your time here.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好了，你们才刚来没多久，就别这么早竖起邪教集体自杀的旗子了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall16",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall16.webp",
-   "alt": "yasutoukahall16"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": There is no death. Just a second plane of existence. A plane much greater than this.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 没有死亡。只是第二层存在。一个远比这一层伟大的存在。"
-  },
-  {
-   "en": ": Sensei...I am very scared of this girl.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": Sensei……我很怕这个女孩。"
-  },
-  {
-   "en": ": Me too, but you’re just going to have to live with it.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我也怕，但你只能忍着。"
-  },
-  {
-   "en": ": Are you truly sure that a relationship with her is beneficial to my academic life as well as my interpersonal one?",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 你真的确定，和她建立关系对我的学业以及人际关系都有好处吗？"
-  },
-  {
-   "en": ": I understand the concept of communicating with more commoners and understanding their thought processes, but Yasu seems to be anything but common.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我理解与更多平民交流、理解他们思维过程这个概念，但 Yasu 似乎完全称不上平民。"
-  },
-  {
-   "en": ": I can’t help but feel like this is only going to make things worse for me.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我忍不住觉得，这只会让我的处境变得更糟。"
-  },
-  {
-   "en": ": And it might. But that’s just how life works.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 也许会吧。但生活就是这么运作的。"
-  },
-  {
-   "en": ": Sometimes, you try things out for a little while and find out they don’t really work.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 有时候，你试着去做一件事，过一阵子发现它并不真的行得通。"
-  },
-  {
-   "en": ": Then you move onto whatever is next and try again.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 然后你转向下一件事，再试一次。"
-  },
-  {
-   "en": ": And then everything repeats until you die.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 于是一切不断重复，直到你死去。"
-  },
-  {
-   "en": ": There is no death. Just a second plane of-",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 没有死亡。只是第二层——"
-  },
-  {
-   "en": ": We know. Thanks, Yasu.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我们知道。谢谢，Yasu。"
-  },
-  {
-   "en": ": Praise be.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 赞美主。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall17",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall17.webp",
-   "alt": "yasutoukahall17"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Well...I know I told my mother I would listen to you. And I know that you allegedly have my best interests in mind-",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 嗯……我知道我跟我母亲说过会听你的。我也知道你据说是为我着想——"
-  },
-  {
-   "en": ": But I would like to implore you to at least closely observe the...dynamic between Yasu and I in the event of the two of us...not getting along very well.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 但我想恳请你，万一 Yasu 和我相处得不太好，至少密切观察一下我们之间的……相处状态。"
-  },
-  {
-   "en": ": Sure thing.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 没问题。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Not like I wasn’t already planning on closely observing two more adorable girls anyway.",
-   "zh": "反正我本来就打算密切观察另外两个可爱的女孩。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": In the meantime, why not find out something you two have in common?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 同时，为什么不找找你们俩的共同点呢？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall18",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall18.webp",
-   "alt": "yasutoukahall18"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": That...doesn’t sound like a bad idea.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 那……听起来不算是个坏主意。"
-  },
-  {
-   "en": ": But...will we be able to find anything?",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 但是……我们真能找到什么吗？"
-  },
-  {
-   "en": ": On cold nights, I like to wander the streets in search of the lost or the weary and translate the whispers of the dead for them.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 在寒冷的夜里，我喜欢在街上游荡，寻找迷途者或疲惫的人，为他们翻译死者们的低语。"
-  },
-  {
-   "en": ": What do you like to do with your free time, Touka?",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 你空闲的时候喜欢做什么，Touka？"
-  },
-  {
-   "en": ": Um...I like...horses?",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 嗯……我喜欢……马？"
-  },
-  {
-   "en": ": Perfect. So take this weekend to go ride horses in the morning and then scare random people on their way home at night.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 完美。那么这个周末，你们早上就去骑马，晚上再去吓唬回家路上的陌生人。"
-  },
-  {
-   "en": ": I’m glad I was able to help you two figure this out.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我很高兴能帮你们两个想出这个来。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall19",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall19.webp",
-   "alt": "yasutoukahall19"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Thank you, Sensei!",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 谢谢你，Sensei！"
-  },
-  {
-   "en": ": Wait! We haven’t figured anything out at all!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 等等！我们什么都没想出来啊！"
-  },
-  {
-   "en": ": I don’t know the first thing about the whispers of the dead!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我对死者们的低语一无所知！"
-  },
-  {
-   "en": ": And how much do you think Yasu knows about horses?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那你觉得 Yasu 对马了解多少？"
-  },
-  {
-   "en": ": I know that the white horse is a common symbol of “death” and that horse worship can be dated as far back as the bronze age.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我知道白马是“死亡”的常见象征，而且对马的崇拜最早可以追溯到青铜时代。"
-  },
-  {
-   "en": ": Okay, so maybe Yasu knows a little more about horses than you know about dead people.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好吧，也许 Yasu 对马的了解，比你对死人的了解要多一点。"
-  },
-  {
-   "en": ": But I’d still say you’re on pretty equal footing.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 但我还是会说，你们的起点大致相当。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall20",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall20.webp",
-   "alt": "yasutoukahall20"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ugh...If I had known how disadvantageous it would be to live this long without associating with “normal” people, I'd have asked Mother to send me out on my own ages ago.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 唉……如果我早知道这么长时间不与“正常”人来往会如此吃亏，我早就求母亲让我自己出去闯了。"
-  },
-  {
-   "en": ": I can only fear what will become of Tsukasa the moment she finds out the world isn’t as she sees it now.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我只能害怕 Tsukasa 一旦发现这个世界并非她现在看到的样子，会变成什么模样。"
-  },
-  {
-   "en": ": Nothing you see is as it seems, Touka.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 你所看到的一切，都不是它看上去的样子，Touka。"
-  },
-  {
-   "en": ": Only the chosen can truly discern the paths we walk and the trials and tribulations we will encounter along the way.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 唯有被选中者，才能真正辨明我们所走的路，以及沿途将要遇到的考验与磨难。"
-  },
-  {
-   "en": ": And so I ask that you put your faith in me, and I will put mine in you.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 所以我请求你把信仰交托给我，而我也会把我的交托给你。"
-  },
-  {
-   "en": ": This is the start of something beautiful, after all.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 毕竟，这是一段美好事物的开始。"
-  },
-  {
-   "en": ": A beautiful start here in this beginning of beginnings.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 一个美好的开始，就在这“开始之开始”中。"
-  },
-  {
-   "en": ": The first step on the journey to salvation. A journey I will hold your freshly cleaned hands for.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 通往救赎之旅的第一步。这段旅程，我会牵着你刚洗干净的手走下去。"
-  },
-  {
-   "en": ": Thank you for not talking about the bacteria this time. I really appreciate that.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 谢谢你这次没提细菌的事。我真的很感激。"
-  },
-  {
-   "en": ": I am a good learner. A quick learner.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我很会学习。学得很快。"
-  },
-  {
-   "en": ": And I hope to learn more and more about you as time ticks slowly toward the day of reckoning.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 随着时间缓缓流向清算之日，我希望能越来越多地了解你。"
-  },
-  {
-   "en": ": Um...",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 嗯……"
-  },
-  {
-   "en": ": Me too?...",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我也是？……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": ..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene yasutoukahall21",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/yasutoukahall21.webp",
-   "alt": "yasutoukahall21"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Okay, well I’m gonna go now.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好了，那我先走了。"
-  },
-  {
-   "en": ": Yasu, please don’t kill Touka. And Touka, please don’t kill Yasu.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Yasu，请别杀 Touka。Touka，也请别杀 Yasu。"
-  },
-  {
-   "en": ": Even I’d be upset if I lost two new students as soon as I got them.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 哪怕是我，刚得到两个新学生就失去她们，也会难过的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Especially before seeing either of them without clothes on.",
-   "zh": "尤其是在还没看到她们任何一个不穿衣服的样子之前。"
-  },
-  {
-   "en": ": I would never harm anyone. It’s my safety that I fear for.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 我绝不会伤害任何人。我担心的是我自己的安全。"
-  },
-  {
-   "en": ": And I would never harm anyone either. It goes against everything I believe in.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我也绝不会伤害任何人。那违背我所信仰的一切。"
-  },
-  {
-   "en": ": It’s settled then.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那就这么定了。"
-  },
-  {
-   "en": ": Starting right now, you two are friends and must learn to get along with one another.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 从现在开始，你们两个是朋友了，必须学会彼此好好相处。"
-  },
-  {
-   "en": ": And Touka, you are obligated to listen to my every command because your mother said so.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 还有 Touka，你有义务听从我的每一道命令，因为你母亲是这么说的。"
-  },
-  {
-   "en": ": I know, I know...I apologize for my outburst earlier.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 知道啦，知道啦……我为刚才的失态道歉。"
-  },
-  {
-   "en": ": It has just been a very stressful week for me.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 这一周对我来说压力实在很大。"
-  },
-  {
-   "en": ": Thank you for taking the time to remind us of how deeply you care for our well-being, Sensei.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 感谢您抽出时间提醒我们，您有多么在乎我们的幸福，Sensei。"
-  },
-  {
-   "en": ": May the path you walk be free of callousness.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 愿您所行之路远离冷漠。"
-  },
-  {
-   "en": ": And...yours too, I guess.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那……也愿你如此吧，大概。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I turn around and leave the two of them, not being immediately stopped this time.",
-   "zh": "我转身离开她们两个，这次没有被立刻拦下。"
-  },
-  {
-   "en": "To be quite honest, I doubt their relationship will work out at all.",
-   "zh": "说实话，我怀疑她们的关系根本不会有结果。"
-  },
-  {
-   "en": "They’re far too different and...far too eccentric to ever work in tandem with one another.",
-   "zh": "她们太过不同，而且……都太过古怪，永远无法真正协调一致。"
-  },
-  {
-   "en": "All I can hope is that they don’t drive each other insane.",
-   "zh": "我唯一能希望的，就是她们别把对方逼疯。"
-  },
-  {
-   "en": "Well, all I can hope is that Yasu doesn’t drive Touka insane, I guess.",
-   "zh": "嗯，我想我唯一能希望的，是 Yasu 别把 Touka 逼疯。"
-  },
-  {
-   "en": "I’m pretty sure Yasu is a lost cause already.",
-   "zh": "我敢肯定 Yasu 已经是个没救的人了。"
-  },
-  {
-   "en": "Regardless, there’s no telling how things will play out without the passage of time.",
-   "zh": "无论如何，不经过时间的流逝，谁也说不清事情会如何发展。"
-  },
-  {
-   "en": "And what better way to pass the time than to leave work and aimlessly wander around Kumon-mi for what is likely the millionth, billionth, or trillionth time?...",
-   "zh": "而还有什么比下班后在 Kumon-mi 漫无目的地闲逛——大概是第一百万、第十亿、第一万亿次——更能打发时间的呢？……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ day304 = True",
-   "zh": ""
-  },
-  {
-   "en": "$ yasu_love += 2",
-   "zh": ""
-  },
-  {
-   "en": "$ touka_love += 1",
-   "zh": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Yasu’s affection has increased to [yasu_love]!",
-   "zh": "Yasu 的好感度提升到了 [yasu_love]！"
-  },
-  {
-   "en": "Touka’s affection has increased to [touka_love]!",
-   "zh": "Touka 的好感度提升到了 [touka_love]！"
-  },
-  {
-   "en": "Congratulations! Touka and Yasu have officially moved into Dorm #9!",
-   "zh": "恭喜！Touka 和 Yasu 已正式搬入 9 号宿舍！"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "jump afterschoolevent",
-   "zh": ""
-  }
- ]
+  "label": "day304",
+  "title_zh": "马，或死者们的低语",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day304:",
+      "zh": ""
+    },
+    {
+      "en": "scene hallnoonwinter",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/hallnoonwinter.png",
+      "alt": "hallnoonwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way down the hall after the final bell rings.",
+      "zh": "终响铃敲响之后，我沿着走廊往外走。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A certain rich girl (The one who doesn’t want to have my children) has been glaring at me for the entire day, so I’m trying to escape as quickly as I-",
+      "zh": "某个有钱人家的大小姐（那个不想替我生孩子的）一整天都在瞪我，所以我在设法尽快逃——"
+    },
+    {
+      "en": ": Get back here right now!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 现在就给我回来！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Like I said, I’m trying to escape as quickly as I-",
+      "zh": "就像我说的，我在设法尽快逃——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! I’m warning you!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": Sensei！我在警告你！"
+    },
+    {
+      "en": ": If you do not turn around and hear what I have to say, I will be filing a complaint with the board of education!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 如果你不转过身来听我要说的话，我就要向教育委员会投诉了！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I quicken my pace only to be met by the sound of Touka’s shoes rapidly clopping against the floor seconds later.",
+      "zh": "我加快了脚步，几秒钟后，迎接我的却是 Touka 的鞋子在地板上急促的哒哒声。"
+    },
+    {
+      "en": "If this is the last time you ever hear from me, I just want you to know that I’ve had fun.",
+      "zh": "如果这是你最后一次听到我的消息，我只想让你知道，我过得挺开心的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall1.webp",
+      "alt": "yasutoukahall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Finally! I was beginning to think you were going to walk all the way home!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 总算！我还以为你要一路走回家去呢！"
+    },
+    {
+      "en": ": That was the plan.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那本来就是计划。"
+    },
+    {
+      "en": ": You should show more concern when your students are in clear distress.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你的学生明显处于痛苦之中，你应该表现出更多的关心。"
+    },
+    {
+      "en": ": You’re right. I’m sorry.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你说得对。抱歉。"
+    },
+    {
+      "en": ": Yasu, are you okay? Touka seems to have quite the grip on your collar.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Yasu，你还好吗？Touka 揪你衣领揪得挺紧的。"
+    },
+    {
+      "en": ": It’s...a little hard to breathe...but I’m okay.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 有点……喘不上气……不过我没事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall2.webp",
+      "alt": "yasutoukahall2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I meant concern for me! I am clearly in greater distress than my new {i}roommate{/i}.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我是说关心我！明明我比我的新{i}室友{/i}痛苦多了。"
+    },
+    {
+      "en": ": Honestly, you seem to be the one leading the charge here.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说实话，看起来带头冲锋的那个人是你。"
+    },
+    {
+      "en": ": I barely slept at all last night with her incessant rambling!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 她一整晚喋喋不休，我几乎一夜都没睡！"
+    },
+    {
+      "en": ": I take it the move went well, then?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 看来搬家进行得很顺利咯？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall3.webp",
+      "alt": "yasutoukahall3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No! It was one of the worst nights of my life!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 不！那是我这辈子最糟糕的几个夜晚之一！"
+    },
+    {
+      "en": ": How do I return her? Do you still have the receipt?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我该怎么把她退掉？你还留着收据吗？"
+    },
+    {
+      "en": ": I didn’t {i}buy{/i} her, Touka. And most human traffickers don’t accept returns. ",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她又不是我{i}买{/i}来的，Touka。而且大多数人贩子也不接受退货。"
+    },
+    {
+      "en": ": I know this because I have a good amount of experience as a human trafficker myself.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我之所以知道这个，是因为我自己当人贩子的经验相当丰富。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall4.webp",
+      "alt": "yasutoukahall4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": This is no time for fun and games, Sensei. This demon is clearly out to get me.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 现在不是开玩笑的时候，Sensei。这个恶魔显然是冲着我来的。"
+    },
+    {
+      "en": ": Is she? Because she looks pretty harmless right now. Especially with you being able to drag her around the hall.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是吗？可她现在看起来相当无害。尤其是你还能拽着她在走廊里到处走。"
+    },
+    {
+      "en": ": Touka is right when she says that I kept her up very late, but it was not my intention to do that.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": Touka 说我把她弄到很晚才睡，这点她说得没错，但那不是我的本意。"
+    },
+    {
+      "en": ": I have to pray for at least four hours every night before I’m able to close my eyes. And I did not want to pray in the hall.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我每天晚上至少要祈祷四个小时，才能闭上眼睛。而我又不想在外面走廊里祈祷。"
+    },
+    {
+      "en": ": Well, can you promise to...pray quieter next time or something?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那么，你能不能保证下次……祈祷得小声一点，之类的？"
+    },
+    {
+      "en": ": I can promise to try.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我可以保证试试。"
+    },
+    {
+      "en": ": Great. Problem solved then.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 很好。那问题就解决了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene hallnoonwinter",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/hallnoonwinter.png",
+      "alt": "hallnoonwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I turn away from the newest members of my class and-",
+      "zh": "我转身背对班上最新来的这两位，然后——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall1.webp",
+      "alt": "yasutoukahall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No you don’t! We are nowhere near finished!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你想得美！我们离结束还差得远呢！"
+    },
+    {
+      "en": ": I am not leaving this building until you assure me that I will be trading Yasu for another girl!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 在你向我保证会把 Yasu 换成另一个女孩之前，我不会离开这栋楼！"
+    },
+    {
+      "en": ": I would honestly even take the mean looking one at this point! At least she probably doesn’t “pray” for four hours every night!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 说真的，到这个地步我甚至愿意换那个看起来很凶的！至少她大概不会每天晚上“祈祷”四个小时！"
+    },
+    {
+      "en": ": Hey, for all you know, Yumi could be even more religious than Yasu is.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嘿，说不定 Yumi 比 Yasu 还要更虔诚呢，你又不知道。"
+    },
+    {
+      "en": ": All I want is to be friends, Touka...I’m sorry if I upset you.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我只想交个朋友，Touka……如果我惹你不高兴了，我很抱歉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall5.webp",
+      "alt": "yasutoukahall5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You don’t understand the first thing about friends, Yasu! Friends let each other {i}sleep!{/i}",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你对朋友一无所知，Yasu！朋友是让彼此{i}睡觉{/i}的！"
+    },
+    {
+      "en": ": To be fair, you don’t really understand the first thing about friends either, Touka.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说句公道话，你对朋友其实也一无所知，Touka。"
+    },
+    {
+      "en": ": You and Yasu probably just need to bond.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你和 Yasu 大概只是需要培养一下感情。"
+    },
+    {
+      "en": ": Sensei is right. If we are going to be successful roommates, we should first learn to deal with each other’s flaws.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": Sensei 说得对。如果我们要成为合得来的室友，首先应该学会容忍彼此的缺点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall6.webp",
+      "alt": "yasutoukahall6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmph! Luckily for you, I don’t have any flaws. So your job should be quite easy.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 哼！算你走运，我没有任何缺点。所以你的工作应该相当轻松。"
+    },
+    {
+      "en": ": That’s right, Touka. You’re the perfect, ideal woman and I am but a worm wriggling desperately on the ground beneath you, praying to not be stepped on.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 没错，Touka。你是完美的理想女性，而我不过是一条在你脚下的地面上绝望扭动的虫子，祈祷着不要被踩到。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall7.webp",
+      "alt": "yasutoukahall7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait...There’s no need to be that harsh on yourself.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 等等……没必要把自己说得那么难听。"
+    },
+    {
+      "en": ": Weren’t you calling her a demon like, one minute ago?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你一分钟前不是还在叫她恶魔吗？"
+    },
+    {
+      "en": ": Yes, but that’s before she began self-deprecating.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 是的，但那是在她开始自我贬低之前。"
+    },
+    {
+      "en": ": Mother told me that I can not be putting myself above others, and having Yasu refer to herself as a worm beneath my feet makes me feel as if I may have failed.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 母亲告诉过我，我不能把自己置于他人之上，而让 Yasu 把自己说成我脚下的虫子，让我觉得自己也许是失败了。"
+    },
+    {
+      "en": ": I am not even worthy of the bacteria crawling off of your fingertips onto the collar of my shirt.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我连从你指尖爬到我衬衫衣领上的细菌都不配。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall8.webp",
+      "alt": "yasutoukahall8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": There is no bacteria on my fingertips! I wash my hands after every single thing I do! The way a proper lady should!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我的指尖上根本没有什么细菌！我每做一件事之后都会洗手！一位得体的淑女就该这样！"
+    },
+    {
+      "en": ": Do proper ladies also scream at the top of their lungs in the hallway?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 得体的淑女还会在走廊里扯着嗓子尖叫吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall9.webp",
+      "alt": "yasutoukahall9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well...no. But I-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 嗯……不会。但我——"
+    },
+    {
+      "en": ": It’s okay, Touka...Even if you cast me out into the hall for my nightly prayer, I won’t think any less of you.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 没关系的，Touka……就算你为了我每晚的祈祷而把我赶到走廊上去，我也不会因此看轻你。"
+    },
+    {
+      "en": ": I do want the two of us to get along. So if exiling me is what you believe must be done for that to happen, I shall gather what little belongings I have and flee forever.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我确实希望我们两个能好好相处。所以如果你认为必须把我放逐才能做到，那我就收拾好我那点可怜的随身物品，永远消失。"
+    },
+    {
+      "en": ": How exactly would exiling yourself help you two get along?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 把自己放逐出去，到底怎么能帮你们两个好好相处？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall10.webp",
+      "alt": "yasutoukahall10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Our physical forms are not the only way our thoughts can connect with one another.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我们的肉体，并不是思想彼此相连的唯一途径。"
+    },
+    {
+      "en": ": If Touka and I close our eyes at the exact same time and utter the third verse of [[redacted], our thoughts will connect and our minds will become one until the sun next rises.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 如果 Touka 和我在完全相同的时刻闭上眼睛，念出《[[redacted]》的第三节，我们的思想就会相连，我们的心智将合二为一，直到太阳再次升起。"
+    },
+    {
+      "en": ": Yasu, this is precisely why I do not think it is possible for us to get along.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": Yasu，这正是我认为我们不可能合得来的原因。"
+    },
+    {
+      "en": ": I don’t understand the first thing about your...religion. And I fear that even attempting to do so would lead to me becoming even more of an outcast than I already am.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我对你的……宗教一无所知。而且我害怕，就连尝试去了解，都会让我变得比现在更加被排斥。"
+    },
+    {
+      "en": ": Did she tell you the thing about dying animals yet?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她跟你说了垂死的动物那件事了吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall11.webp",
+      "alt": "yasutoukahall11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No! And I do not want her to!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 没有！而且我也不想听！"
+    },
+    {
+      "en": ": You remember!",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 你记得！"
+    },
+    {
+      "en": ": Yeah. I have a hard time forgetting things that scary girls yell at me in the middle of the night.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯。可怕的女孩半夜冲我吼的话，我很难忘掉。"
+    },
+    {
+      "en": ": I am not scary, Sensei. What is scary is the thought of living in perpetual misery and fear, far off in the looming darkness and covered in wires.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我不可怕，Sensei。可怕的是永远活在痛苦与恐惧中的念头——在逼近的黑暗深处，浑身缠满电线。"
+    },
+    {
+      "en": ": These are the things that are scary. These are the things I can protect you from.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 这些才是可怕的东西。这些才是我能保护你远离的东西。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall12.webp",
+      "alt": "yasutoukahall12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And yet you continue to stray. How sad.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 可你却继续偏离。多么可悲。"
+    },
+    {
+      "en": ": How on earth do you keep switching from smiling to crying so quickly? It’s immensely unsettling.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你到底是怎么做到在微笑和哭泣之间切换得这么快的？这让人极度不安。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall13.webp",
+      "alt": "yasutoukahall13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How do you manage to stay so pretty all the time?",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 你是怎么做到一直都这么漂亮的？"
+    },
+    {
+      "en": ": Can you teach me, Touka? Can you make me as beautiful as you?",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 你能教我吗，Touka？你能让我变得和你一样美吗？"
+    },
+    {
+      "en": ": Well...I suppose I wouldn’t mind showing you my skin care routine...but that still doesn’t really-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 嗯……我想我不介意给你看看我的护肤流程……但那还是不太——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall2.webp",
+      "alt": "yasutoukahall2"
+    },
+    {
+      "en": "scene yasutoukahall7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall7.webp",
+      "alt": "yasutoukahall7"
+    },
+    {
+      "en": "scene yasutoukahall5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall5.webp",
+      "alt": "yasutoukahall5"
+    },
+    {
+      "en": "scene yasutoukahall3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall3.webp",
+      "alt": "yasutoukahall3"
+    },
+    {
+      "en": "scene yasutoukahall1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall1.webp",
+      "alt": "yasutoukahall1"
+    },
+    {
+      "en": "scene yasutoukahall9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall9.webp",
+      "alt": "yasutoukahall9"
+    },
+    {
+      "en": "scene yasutoukahall14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall14.webp",
+      "alt": "yasutoukahall14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I zone out for a moment due to boredom, but quickly return to my senses as zoning out in front of my students is rude.",
+      "zh": "我因为无聊走神了片刻，但很快回过神来——毕竟在学生面前走神是很失礼的。"
+    },
+    {
+      "en": "I must pay more attention.",
+      "zh": "我必须更加专注。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I suppose all I’m saying is that...I wish you’d be a bit more predictable.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我想我要说的只是……我希望你能更可预测一点。"
+    },
+    {
+      "en": ": I, too, know what it is like to be thrust into new situations without so much as a warning...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我也知道，在毫无预警的情况下被丢进新环境是什么滋味……"
+    },
+    {
+      "en": ": But I feel that the manners in which we approach these situations is completely different.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 但我觉得，我们面对这些局面时所采取的方式完全不同。"
+    },
+    {
+      "en": ": I try very hard to adapt, while you...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我非常努力地去适应，而你……"
+    },
+    {
+      "en": ": I rely on the word of God to get me through everything.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我依靠神的话语来度过一切。"
+    },
+    {
+      "en": ": There is no sense in adapting when we are all but fodder for the one so commonly mislabeled.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 既然我们都不过是那位常被误称之者的养料，去适应就没有意义。"
+    },
+    {
+      "en": ": And, before long, we will find ourselves waist deep in encroaching darkness. And only those with the power of the light will be able to crawl to safety.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 而且用不了多久，我们就会发现自己深陷于逼近的黑暗之中，齐腰之深。只有拥有光之力量的人，才能爬到安全的地方。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall15.webp",
+      "alt": "yasutoukahall15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Crawl with me, Touka! Let us escape the hell that is simply living together as one!",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 和我一起爬吧，Touka！让我们逃离这个“仅仅作为一体共存”的地狱！"
+    },
+    {
+      "en": ": Okay, let’s not raise any culty suicide flags so early into your time here.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好了，你们才刚来没多久，就别这么早竖起邪教集体自杀的旗子了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall16.webp",
+      "alt": "yasutoukahall16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": There is no death. Just a second plane of existence. A plane much greater than this.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 没有死亡。只是第二层存在。一个远比这一层伟大的存在。"
+    },
+    {
+      "en": ": Sensei...I am very scared of this girl.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": Sensei……我很怕这个女孩。"
+    },
+    {
+      "en": ": Me too, but you’re just going to have to live with it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我也怕，但你只能忍着。"
+    },
+    {
+      "en": ": Are you truly sure that a relationship with {i}her{/i} is beneficial to my academic life as well as my interpersonal one?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你真的确定，和{i}她{/i}建立关系对我的学业以及人际关系都有好处吗？"
+    },
+    {
+      "en": ": I understand the concept of communicating with more commoners and understanding their thought processes, but Yasu seems to be anything but common.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我理解与更多平民交流、理解他们思维过程这个概念，但 Yasu 似乎完全称不上平民。"
+    },
+    {
+      "en": ": I can’t help but feel like this is only going to make things worse for me.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我忍不住觉得，这只会让我的处境变得更糟。"
+    },
+    {
+      "en": ": And it might. But that’s just how life works.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 也许会吧。但生活就是这么运作的。"
+    },
+    {
+      "en": ": Sometimes, you try things out for a little while and find out they don’t really work.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 有时候，你试着去做一件事，过一阵子发现它并不真的行得通。"
+    },
+    {
+      "en": ": Then you move onto whatever is next and try again.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 然后你转向下一件事，再试一次。"
+    },
+    {
+      "en": ": And then everything repeats until you die.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 于是一切不断重复，直到你死去。"
+    },
+    {
+      "en": ": There is no death. Just a second plane of-",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 没有死亡。只是第二层——"
+    },
+    {
+      "en": ": We know. Thanks, Yasu.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我们知道。谢谢，Yasu。"
+    },
+    {
+      "en": ": Praise be.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 赞美主。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall17.webp",
+      "alt": "yasutoukahall17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well...I know I told my mother I would listen to you. And I know that you {i}allegedly{/i} have my best interests in mind-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 嗯……我知道我跟我母亲说过会听你的。我也知道你{i}据说{/i}是为我着想——"
+    },
+    {
+      "en": ": But I would like to implore you to at least closely observe the...dynamic between Yasu and I in the event of the two of us...not getting along very well.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 但我想恳请你，万一 Yasu 和我相处得不太好，至少密切观察一下我们之间的……相处状态。"
+    },
+    {
+      "en": ": Sure thing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 没问题。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Not like I wasn’t already planning on closely observing two more adorable girls anyway.",
+      "zh": "反正我本来就打算密切观察另外两个可爱的女孩。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": In the meantime, why not find out something you two have in common?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 同时，为什么不找找你们俩的共同点呢？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall18.webp",
+      "alt": "yasutoukahall18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That...doesn’t sound like a bad idea.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 那……听起来不算是个坏主意。"
+    },
+    {
+      "en": ": But...will we be able to find anything?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 但是……我们真能找到什么吗？"
+    },
+    {
+      "en": ": On cold nights, I like to wander the streets in search of the lost or the weary and translate the whispers of the dead for them.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 在寒冷的夜里，我喜欢在街上游荡，寻找迷途者或疲惫的人，为他们翻译死者们的低语。"
+    },
+    {
+      "en": ": What do you like to do with your free time, Touka?",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 你空闲的时候喜欢做什么，Touka？"
+    },
+    {
+      "en": ": Um...I like...horses?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 嗯……我喜欢……马？"
+    },
+    {
+      "en": ": Perfect. So take this weekend to go ride horses in the morning and then scare random people on their way home at night.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 完美。那么这个周末，你们早上就去骑马，晚上再去吓唬回家路上的陌生人。"
+    },
+    {
+      "en": ": I’m glad I was able to help you two figure this out.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我很高兴能帮你们两个想出这个来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall19.webp",
+      "alt": "yasutoukahall19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Thank you, Sensei!",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 谢谢你，Sensei！"
+    },
+    {
+      "en": ": Wait! We haven’t figured anything out at all!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 等等！我们什么都没想出来啊！"
+    },
+    {
+      "en": ": I don’t know the first thing about the whispers of the dead!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我对死者们的低语一无所知！"
+    },
+    {
+      "en": ": And how much do you think Yasu knows about horses?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那你觉得 Yasu 对马了解多少？"
+    },
+    {
+      "en": ": I know that the white horse is a common symbol of “death” and that horse worship can be dated as far back as the bronze age.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我知道白马是“死亡”的常见象征，而且对马的崇拜最早可以追溯到青铜时代。"
+    },
+    {
+      "en": ": Okay, so maybe Yasu knows a little more about horses than you know about dead people.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧，也许 Yasu 对马的了解，比你对死人的了解要多一点。"
+    },
+    {
+      "en": ": But I’d still say you’re on pretty equal footing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 但我还是会说，你们的起点大致相当。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall20.webp",
+      "alt": "yasutoukahall20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh...If I had known how disadvantageous it would be to live this long without associating with “normal” people, I'd have asked Mother to send me out on my own ages ago.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 唉……如果我早知道这么长时间不与“正常”人来往会如此吃亏，我早就求母亲让我自己出去闯了。"
+    },
+    {
+      "en": ": I can only fear what will become of Tsukasa the moment she finds out the world isn’t as she sees it now.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我只能害怕 Tsukasa 一旦发现这个世界并非她现在看到的样子，会变成什么模样。"
+    },
+    {
+      "en": ": Nothing you see is as it seems, Touka.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 你所看到的一切，都不是它看上去的样子，Touka。"
+    },
+    {
+      "en": ": Only the chosen can truly discern the paths we walk and the trials and tribulations we will encounter along the way.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 唯有被选中者，才能真正辨明我们所走的路，以及沿途将要遇到的考验与磨难。"
+    },
+    {
+      "en": ": And so I ask that you put your faith in me, and I will put mine in you.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 所以我请求你把信仰交托给我，而我也会把我的交托给你。"
+    },
+    {
+      "en": ": This is the start of something beautiful, after all.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 毕竟，这是一段美好事物的开始。"
+    },
+    {
+      "en": ": A beautiful start here in this beginning of beginnings.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 一个美好的开始，就在这“开始之开始”中。"
+    },
+    {
+      "en": ": The first step on the journey to salvation. A journey I will hold your freshly cleaned hands for.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 通往救赎之旅的第一步。这段旅程，我会牵着你刚洗干净的手走下去。"
+    },
+    {
+      "en": ": Thank you for not talking about the bacteria this time. I really appreciate that.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 谢谢你这次没提细菌的事。我真的很感激。"
+    },
+    {
+      "en": ": I am a good learner. A quick learner.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我很会学习。学得很快。"
+    },
+    {
+      "en": ": And I hope to learn more and more about you as time ticks slowly toward the day of reckoning.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 随着时间缓缓流向清算之日，我希望能越来越多地了解你。"
+    },
+    {
+      "en": ": Um...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ": Me too?...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我也是？……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasutoukahall21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/yasutoukahall21.webp",
+      "alt": "yasutoukahall21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, well I’m gonna go now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好了，那我先走了。"
+    },
+    {
+      "en": ": Yasu, please don’t kill Touka. And Touka, please don’t kill Yasu.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Yasu，请别杀 Touka。Touka，也请别杀 Yasu。"
+    },
+    {
+      "en": ": Even I’d be upset if I lost two new students as soon as I got them.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哪怕是我，刚得到两个新学生就失去她们，也会难过的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Especially before seeing either of them without clothes on.",
+      "zh": "尤其是在还没看到她们任何一个不穿衣服的样子之前。"
+    },
+    {
+      "en": ": I would never harm anyone. It’s {i}my{/i} safety that I fear for.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我绝不会伤害任何人。我担心的是{i}我自己{/i}的安全。"
+    },
+    {
+      "en": ": And I would never harm anyone either. It goes against everything I believe in.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我也绝不会伤害任何人。那违背我所信仰的一切。"
+    },
+    {
+      "en": ": It’s settled then.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那就这么定了。"
+    },
+    {
+      "en": ": Starting right now, you two are friends and must learn to get along with one another.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 从现在开始，你们两个是朋友了，必须学会彼此好好相处。"
+    },
+    {
+      "en": ": And Touka, you are obligated to listen to my every command because your mother said so.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 还有 Touka，你有义务听从我的每一道命令，因为你母亲是这么说的。"
+    },
+    {
+      "en": ": I know, I know...I apologize for my outburst earlier.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 知道啦，知道啦……我为刚才的失态道歉。"
+    },
+    {
+      "en": ": It has just been a very stressful week for me.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 这一周对我来说压力实在很大。"
+    },
+    {
+      "en": ": Thank you for taking the time to remind us of how deeply you care for our well-being, Sensei.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 感谢您抽出时间提醒我们，您有多么在乎我们的幸福，Sensei。"
+    },
+    {
+      "en": ": May the path you walk be free of callousness.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 愿您所行之路远离冷漠。"
+    },
+    {
+      "en": ": And...yours too, I guess.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那……也愿你如此吧，大概。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I turn around and leave the two of them, not being immediately stopped this time.",
+      "zh": "我转身离开她们两个，这次没有被立刻拦下。"
+    },
+    {
+      "en": "To be quite honest, I doubt their relationship will work out at all.",
+      "zh": "说实话，我怀疑她们的关系根本不会有结果。"
+    },
+    {
+      "en": "They’re far too different and...far too eccentric to ever work in tandem with one another.",
+      "zh": "她们太过不同，而且……都太过古怪，永远无法真正协调一致。"
+    },
+    {
+      "en": "All I can hope is that they don’t drive each other insane.",
+      "zh": "我唯一能希望的，就是她们别把对方逼疯。"
+    },
+    {
+      "en": "Well, all I can hope is that Yasu doesn’t drive Touka insane, I guess.",
+      "zh": "嗯，我想我唯一能希望的，是 Yasu 别把 Touka 逼疯。"
+    },
+    {
+      "en": "I’m pretty sure Yasu is a lost cause already.",
+      "zh": "我敢肯定 Yasu 已经是个没救的人了。"
+    },
+    {
+      "en": "Regardless, there’s no telling how things will play out without the passage of time.",
+      "zh": "无论如何，不经过时间的流逝，谁也说不清事情会如何发展。"
+    },
+    {
+      "en": "And what better way to pass the time than to leave work and aimlessly wander around Kumon-mi for what is likely the millionth, billionth, or trillionth time?...",
+      "zh": "而还有什么比下班后在 Kumon-mi 漫无目的地闲逛——大概是第一百万、第十亿、第一万亿次——更能打发时间的呢？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day304 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ yasu_love += 2",
+      "zh": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Yasu’s affection has increased to [yasu_love]!{/i}",
+      "zh": "{i}Yasu 的好感度提升到了 [yasu_love]！{/i}"
+    },
+    {
+      "en": "{i}Touka’s affection has increased to [touka_love]!{/i}",
+      "zh": "{i}Touka 的好感度提升到了 [touka_love]！{/i}"
+    },
+    {
+      "en": "{i}Congratulations! Touka and Yasu have officially moved into Dorm #9!{/i}",
+      "zh": "{i}恭喜！Touka 和 Yasu 已正式搬入 9 号宿舍！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

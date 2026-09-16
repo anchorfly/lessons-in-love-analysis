@@ -1,6 +1,6 @@
 {
   "label": "nodokadormgen",
-  "title_zh": "咖啡与失真",
+  "title_zh": "nodokadormgen",
   "lines": [
     {
       "en": ""
@@ -85,8 +85,8 @@
       "zh": "尽管 Nodoka 毫无倦意，我意识到再待下去我就真要昏过去了。"
     },
     {
-      "en": "And if I pass out in here, I strongly believe that she might conduct experiments on me for the purpose of her own personal research.",
-      "zh": "而如果我在这儿昏过去，我强烈怀疑她会拿我做实验，为她自己的私人研究服务。"
+      "en": "And if I pass out in here, I strongly believe that she might conduct experiments on me for the purpose of her own personal {i}research{/i}.",
+      "zh": "而如果我在这儿昏过去，我强烈怀疑她会拿我做实验，为她自己的私人{i}研究{/i}服务。"
     },
     {
       "en": "I am not a lab rat. And I can get home without having to traverse a maze.",
@@ -111,8 +111,8 @@
       "en": ""
     },
     {
-      "en": "Nodoka's affection has increased to [nodoka_love]!",
-      "zh": "Nodoka 的好感度提升到了 [nodoka_love]！"
+      "en": "{i}Nodoka's affection has increased to [nodoka_love]!{/i}",
+      "zh": "{i}Nodoka 的好感度提升到了 [nodoka_love]！{/i}"
     },
     {
       "en": ".........",

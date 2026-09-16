@@ -1,0 +1,1270 @@
+{
+  "label": "futabacunx",
+  "title_zh": "初吻",
+  "lines": [
+    {
+      "en": "label futabacunx:",
+      "zh": ""
+    },
+    {
+      "en": ": I know you don't want to keep talking about my parents, Sensei...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我知道你不想再聊我父母的事了，老师……"
+    },
+    {
+      "en": ": Other reasons? Whatever could you mean, Futaba?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 别的原因？你到底是什么意思啊，Futaba？"
+    },
+    {
+      "en": ": Uhh...what was it you said on the phone again? Teaching you how to...feel good...or something?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 呃……你在电话里说的什么来着？教我怎么……舒服……之类的？"
+    },
+    {
+      "en": ": Please don’t use my failed pickup lines against me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 拜托别拿我那些失败的搭讪台词来对付我。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Can you really say it failed if it still got me here?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 可它毕竟还是把我带到这里来了，能算失败吗？"
+    },
+    {
+      "en": ": To be fair, you would have probably shown up no matter what I said.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说句公道话，不管我说什么，你大概都会来。"
+    },
+    {
+      "en": ": Yeah...I probably would have.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 是啊……我大概会的。"
+    },
+    {
+      "en": ": I’m not good at turning you down.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我不太会拒绝你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I just wish you’d show the same level of care for me that I show for you.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我只是希望你能像我在乎你那样在乎我。"
+    },
+    {
+      "en": ": Unless I’m forgetting something or I was...unconscious for it, the two of us haven’t even kissed yet.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 除非我忘了什么，或者当时……昏过去了，我们两个到现在连吻都没接过。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if futabalust10 == True:",
+      "zh": ""
+    },
+    {
+      "en": ": Right. I remember you saying something about that at the Christmas party.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 对。我记得你在圣诞派对上说过这事。"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": Huh...Yeah, we haven’t.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……是啊，我们还没。"
+    },
+    {
+      "en": ": That’s kind of weird.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那还挺奇怪的。"
+    },
+    {
+      "en": ": Very weird considering everything else we’ve done so far...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 想想我们到现在做过的那些事，就更奇怪了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": B-b-but...it’s not like I’m asking you to do that now or anything.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 可、可、可是……我又不是要你现在就做那种事什么的。"
+    },
+    {
+      "en": ": I mean, just...asking the person you like to kiss you is weird...especially when...it’s someone like me who-",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我是说，光是……开口让喜欢的人吻自己就很奇怪了……尤其是当……那个人是我这种人的时候——"
+    },
+    {
+      "en": ": Will kissing you right now prevent you from self-deprecating? Because I’m pretty sure that’s where this is going.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 现在吻你，能让你不再贬低自己吗？因为我敢肯定你正要往那边走。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait...you mean, like...{i}right now{/i} right now? Or right now as in...a few weeks or...months from now?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 等等……你是说，那个……{i}现在{/i}的现在？还是说……几周或者……几个月之后的现在？"
+    },
+    {
+      "en": ": In what world would “right now” mean the exact opposite of “right now?”",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 在哪个世界里，“现在”会正好是“现在”的反义词？"
+    },
+    {
+      "en": ": The same world that just started spinning really fast because I said something jokingly and it got instantly turned into a personal milestone.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 就是那个因为我开了句玩笑，就瞬间被升级成人生里程碑，然后开始飞快旋转的世界。"
+    },
+    {
+      "en": ": Are your eyes going to do the thing?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你的眼睛要开始那样了吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wh-what thing? I have no idea...what you’re talking about...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 什、什么那样？我完全不知道……你在说什么……"
+    },
+    {
+      "en": ": The thing they’re doing now. With the swirls.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就是它们现在在做的那个。转圈圈的那个。"
+    },
+    {
+      "en": ": I was just thinking earlier about how long it’s been since I’ve seen you get this flustered.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我刚才还在想，已经多久没见过你慌成这样了。"
+    },
+    {
+      "en": ": You’d think after having me cum on you so many times, something like a kiss wouldn’t cause you to freak out.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我还以为，在我射了你那么多次之后，接吻这种事不会让你慌成这样。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course it would cause me to freak out!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 当然会让我慌啊！"
+    },
+    {
+      "en": ": All this time we’ve been...messing around with each other as...friends, but...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 一直以来我们……都是以朋友的身份……互相乱来，可是……"
+    },
+    {
+      "en": ": Actually kissing would...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 真正接吻的话就……"
+    },
+    {
+      "en": ": Make us more than friends?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 会让我们不只是朋友？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm...mhm...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 嗯……嗯……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba goes silent and starts looking around the room, clearly too embarrassed to stare directly at me.",
+      "zh": "Futaba 沉默下来，开始环顾房间，显然是害羞得不敢直视我。"
+    },
+    {
+      "en": "But, since I'm starting to grow impatient, I am now going to make that much harder for her.",
+      "zh": "不过，既然我开始不耐烦了，那我现在就要让她更难熬一点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": "..."
+    },
+    {
+      "en": ": [futabamaster]...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": [futabamaster]..."
+    },
+    {
+      "en": ": Being friends is boring. Let’s be more.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当朋友太无聊了。我们更进一步吧。"
+    },
+    {
+      "en": ": You’re not...asking me to be your girlfriend...are you?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你不是……要我做你的女朋友……吧？"
+    },
+    {
+      "en": ": Oh. Uhh...no.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 噢。呃……不是。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": ..."
+    },
+    {
+      "en": ": I kind of figured that was the case but this still feels a lot more awkward now.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我大概猜到就是这样，可现在感觉更尴尬了。"
+    },
+    {
+      "en": ": Agreed. ",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 同感。"
+    },
+    {
+      "en": ": I just meant that I stopped viewing you as a friend a while ago and that I’m pretty sure we’d both enjoy continuing to step things up.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我只是想说，我早就没把你当朋友了，而且我很确定我们两个都会乐意继续把关系往前推。"
+    },
+    {
+      "en": ": But just because you enjoy things doesn’t mean it’s...the right thing to do...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 可是，喜欢一件事，不代表那就是……该做的事……"
+    },
+    {
+      "en": ": There are...so many girls in class who...feel the same way about you that I do...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 班上……有那么多女生……和我一样对你有那种感觉……"
+    },
+    {
+      "en": ": There are.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是有。"
+    },
+    {
+      "en": ": But none of them are here right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可现在她们一个都不在这里。"
+    },
+    {
+      "en": ": So I’m going to keep leaning forward unless you slap me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 所以我会继续往前凑，除非你扇我。"
+    },
+    {
+      "en": ": There is...no possible way I would ever be able to slap you...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……无论如何都不可能扇你……"
+    },
+    {
+      "en": ": I respect you too much...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我太尊重你了……"
+    },
+    {
+      "en": ": Then brace yourself, Futaba.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那你就做好准备吧，Futaba。"
+    },
+    {
+      "en": ": [futabamaster]...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": [futabamaster]..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba and I press our lips together and hold them there for much longer than I’m accustomed to when it comes to this sort of thing.",
+      "zh": "Futaba 和我双唇相贴，保持的时间比我习惯的这种事要长得多。"
+    },
+    {
+      "en": "But this is a moment that she’s earned, so I’m careful to not do anything that might spoil it.",
+      "zh": "但这是她应得的时刻，所以我很小心，不做任何可能破坏它的事。"
+    },
+    {
+      "en": "Well, for now at least.",
+      "zh": "好吧，至少现在是这样。"
+    },
+    {
+      "en": "The truth is that everything from this point on in my head will be a transition into how to get her pants off.",
+      "zh": "实话是，从这一刻起，我脑子里想的全都变成了该怎么把她的裤子脱下来。"
+    },
+    {
+      "en": "But hey, that’s how any rational male would feel with a girl this cute, right?",
+      "zh": "不过话说回来，面对这么可爱的女孩，任何理性的男人都会这么想吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm...hm...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 嗯……嗯……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The perfume of hers that I’ve gotten so used to over our time together fills the room or, at the very least, creates a floral aura around us.",
+      "zh": "在我们相处的日子里我已然习惯的她的香水味弥漫了整个房间，或者至少在我们周围织出了一层花香气场。"
+    },
+    {
+      "en": "An aura that I become increasingly more aware of each time Futaba exhales through her nose.",
+      "zh": "而每一次 Futaba 用鼻子呼气，我都越发清晰地意识到这层气场。"
+    },
+    {
+      "en": "Every breath feeds the aura.",
+      "zh": "每一次呼吸都在喂养这气场。"
+    },
+    {
+      "en": "It grows.",
+      "zh": "它在膨胀。"
+    },
+    {
+      "en": "It's everywhere.",
+      "zh": "它无处不在。"
+    },
+    {
+      "en": "It eats away at us.",
+      "zh": "它在一点点吞噬我们。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mnch...mmm...mmm~",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 唔……嗯……嗯~"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Surprisingly enough, she's the one who turns up the heat before I have the chance to.",
+      "zh": "出乎意料的是，居然是她先我一步把温度升了上去。"
+    },
+    {
+      "en": "She hesitates a few times at first, but eventually summons the resolve to slide her tongue into my mouth and begin exploring a brand new world.",
+      "zh": "她起初犹豫了几次，但最终还是鼓起勇气把舌头滑进我嘴里，开始探索一个全新的世界。"
+    },
+    {
+      "en": "The breaths that had been expanding the aura just moments ago become louder- more aggressive.",
+      "zh": "刚才还在撑大气场的呼吸声变得更响——更带着侵略性。"
+    },
+    {
+      "en": "The scent of lavender swallows the room.",
+      "zh": "薰衣草的香气吞没了整个房间。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And Futaba suddenly reaches down and begins to massage my cock through my jeans.",
+      "zh": "然后 Futaba 突然伸手下去，隔着牛仔裤开始揉我的肉棒。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm...mmm~ ",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 嗯……嗯嗯~"
+    },
+    {
+      "en": ": [futabamaster]....[futabamaster]...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": [futabamaster]....[futabamaster]..."
+    },
+    {
+      "en": ": Mnch...this...is what you want...right?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 唔……这……就是你想要的……对吧？……"
+    },
+    {
+      "en": ": You want me...to...jerk you off?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你想让我……帮你……打手活吗？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "As much as I love this new side of her, I have other plans tonight.",
+      "zh": "虽然我很喜欢她这个新的一面，但我今晚另有打算。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah! W-Wait...[futabamaster]!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 啊！等、等等……[futabamaster]！"
+    },
+    {
+      "en": ": Wh...what are you...doing?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你……你在……做什么？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I push aside Futaba’s hand to make room for my arm and undo the zipper of her pants.",
+      "zh": "我把 Futaba 的手拨开，腾出胳膊的位置，拉开了她裤子的拉链。"
+    },
+    {
+      "en": "They’re rather tight, so I’m only able to fit two fingers inside of them, but that's more than enough to start massaging her most sensitive spot.",
+      "zh": "裤子相当紧，我只能勉强塞进两根手指，但要开始按摩她最敏感的地方，这已经绰绰有余了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...ahhh~ Wh...why?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 哈……啊啊~ 为、为什么？……"
+    },
+    {
+      "en": ": I was...already in the middle of...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……已经在……做到一半了……"
+    },
+    {
+      "en": ": Think of it as payment for tutoring Ami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你就当是辅导 Ami 的报酬吧。"
+    },
+    {
+      "en": ": Am I...a prostitute now?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 那我现在……是妓女了吗？……"
+    },
+    {
+      "en": ": Wouldn’t I be the prostitute in this case?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这样的话，该当妓女的不是我吗？"
+    },
+    {
+      "en": ": I...ahh...I don’t know...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……啊……我不知道……"
+    },
+    {
+      "en": ": Maybe we're...both...hah...ngh...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 也许我们……都是……哈……唔……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": [futabamaster]...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": [futabamaster]..."
+    },
+    {
+      "en": ": Do you want to...take my pants...all the way off?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你想……把我的裤子……整个脱掉吗？……"
+    },
+    {
+      "en": ": I know they’re tight...and...it would probably make it easier to-",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我知道它很紧……而且……那样大概会更容易——"
+    },
+    {
+      "en": ": Allow me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 让我来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...hahh...mmn...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 哈……哈哈……嗯嗯……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba covers her face with her hands as I push her down and begin to slide her pants off.",
+      "zh": "我按住她、开始把她的裤子往下褪时，Futaba 用手捂住了脸。"
+    },
+    {
+      "en": "They’re actually so tight that her underwear comes off right along with them, which I’m thankful for since it saves me a step.",
+      "zh": "裤子紧到连内裤都被一起带了下来，这点我倒是挺感激的，省了我一道步骤。"
+    },
+    {
+      "en": "It also gives me extra time to pull her shirt open, revealing her chest and running my hands along her body before stopping at my final destination.",
+      "zh": "这也给了我额外的时间去敞开她的衬衫，露出她的胸，双手沿着她的身体一路游走，最后停在我的终点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": W-Wait! [futabamaster]!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 等、等等！[futabamaster]！"
+    },
+    {
+      "en": ": What are you-",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你在做什——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AAAAAAAAHHH!!~~~",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 啊啊啊啊啊啊啊！！~~~"
+    },
+    {
+      "en": ": Wh...Why?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 为、为什么？……"
+    },
+    {
+      "en": ": Do you not like it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你不喜欢吗？"
+    },
+    {
+      "en": ": It’s not...that...it’s just...really...embarrassing...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 不是……那样……只是……真的……很丢人……"
+    },
+    {
+      "en": ": I’ve only just...gotten used to your fingers and...to have you do something so...shameful...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我才刚……习惯你的手指而已……你居然对我做这么……羞耻的事……"
+    },
+    {
+      "en": ": I was going to do this tonight whether you liked it or not.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不管你喜不喜欢，我今晚都打算这么做。"
+    },
+    {
+      "en": ": Hah...hah...wouldn’t that...be...sexual...aaaaaahhhh...assault?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 哈……哈……那不就是……性……啊啊啊啊啊……侵吗？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba is significantly hornier than normal already- and no, it’s not because of the saliva.",
+      "zh": "Futaba 已经比平时淫荡得多了——不，这可不是因为口水。"
+    },
+    {
+      "en": "...Okay, {i}some{/i} of it is because of the saliva.",
+      "zh": "……好吧，{i}有一部分{/i}是因为口水。"
+    },
+    {
+      "en": "But she definitely likes this.",
+      "zh": "但她确实喜欢这个。"
+    },
+    {
+      "en": "I secure one of her legs above my shoulder while the other one kicks and flails around due to a mix of pleasure and confusion.",
+      "zh": "我把她的一条腿架到肩膀上，另一条则因为快感与困惑交织而胡乱踢蹬。"
+    },
+    {
+      "en": "She’s not trying to escape- her body is just getting used to a brand new sensation.",
+      "zh": "她并不是想逃——她的身体只是在适应一种全新的感觉。"
+    },
+    {
+      "en": "And it’s adapting rather well, to tell you the truth.",
+      "zh": "说实话，它适应得还挺好。"
+    },
+    {
+      "en": "Within a matter of minutes, Futaba begins grinding her pussy against my tongue as I toy with it to the best of my ability.",
+      "zh": "没过几分钟，Futaba 就开始在我的舌头上磨起她的小穴，而我也尽力地逗弄着它。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ngh...mm...[futabamaster]...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 唔……嗯……[futabamaster]……"
+    },
+    {
+      "en": ": You’re...really good...at...whatever it is...you’re doing...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你……真的很擅长……不管你在做的……到底是什么……"
+    },
+    {
+      "en": ": But...it doesn’t change...how...embarrassing...this is...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 可是……这改变不了……这有多……丢人……"
+    },
+    {
+      "en": ": You have no reason to be embarrassed.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你没有什么好丢人的。"
+    },
+    {
+      "en": ": Yeah...I...definitely do...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 才怪……我……绝对有……"
+    },
+    {
+      "en": ": My teacher is...licking my...p...pussy...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我的老师……在舔我的……小、小穴……"
+    },
+    {
+      "en": ": That’s...plenty to be...embarrassed about...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 光是这一点……就够丢人的了……"
+    },
+    {
+      "en": ": Feel free to stop me if you don’t like it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你要是不喜欢，随时可以让我停下。"
+    },
+    {
+      "en": ": Wh...what?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 什、什么？……"
+    },
+    {
+      "en": ": As if...I could...stop something that...feels like this...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我怎么可能……让这种感觉的东西……停下来……"
+    },
+    {
+      "en": ": That’s just...not fair...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 那也……太不公平了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahhh...AAAAAAHH~~",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 啊啊……啊啊啊啊啊~~"
+    },
+    {
+      "en": ": Yes...[futabamaster]...right there...right there...it feels...so...amazing...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 对……[futabamaster]……就是那里……就是那里……感觉……太……棒了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I roll Futaba’s clit with my tongue, pressing my lips around it and applying light pressure.",
+      "zh": "我用舌头拨弄 Futaba 的阴蒂，用嘴唇裹住它，轻轻施压。"
+    },
+    {
+      "en": "Her kicking and flailing grows wilder and I can tell just how much she appreciates it when I do that.",
+      "zh": "她的踢蹬变得更加狂乱，我看得出她有多喜欢我这么做。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh God...Oh God...[futabamaster]...I don’t...know if...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 哦天哪……哦天哪……[futabamaster]……我不知道……该不该……"
+    },
+    {
+      "en": ": If...we should...keep going...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我们该不该……继续下去……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I come up for air long enough to say one last thing.",
+      "zh": "我抬起头换了口气，够我说完最后一句话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m not stopping until you cum.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 在你高潮之前，我不会停。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabacun25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...ahh! But...but...I don’t...want to...with you...right there!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 哈……啊！可是……可是……我不要……当着你的面……那个！"
+    },
+    {
+      "en": ": It’s already embarrassing and...when you...f...finger me...I tend to...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 这已经够丢人了，而且……你……用手指……的时候……我总会……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Again, I apply pressure to her clit with my lips and strengthen my hold on her so that even if she tries to escape, it will be useless.",
+      "zh": "我再次用嘴唇压住她的阴蒂，同时收紧了对她的钳制，这样一来，就算她想逃也没用。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AAaaaaAaaaAaaahhh!!!!!! [futabamaster]!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 啊啊啊啊啊啊啊啊啊啊！！！！！！[futabamaster]！"
+    },
+    {
+      "en": ": I...really...can’t...keep going!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……真的……撑不下去了！"
+    },
+    {
+      "en": ": I...I’m...hah...ngh...aaaaaaaaah~",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……我……哈……唔……啊啊啊啊啊啊啊~"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "with sexfade",
+      "zh": ""
+    },
+    {
+      "en": "with sexfade",
+      "zh": ""
+    },
+    {
+      "en": "scene futabacun26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with cumflash",
+      "zh": ""
+    },
+    {
+      "en": "with hpunch",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": NGHHHHHHHHHHHHHHHH!!!!!!!!!!!!~~~~~~",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 呃呃呃呃呃呃呃呃！！！！！！！！！！~~~~~~"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba cums hard, digging her heels into my back and pushing me into her with an impressive amount of force.",
+      "zh": "Futaba 剧烈地高潮了，脚跟死死抵住我的后背，用惊人的力道把我往她身上按。"
+    },
+    {
+      "en": "A flood of sweet juice erupts from between her thighs as her body convulses and rocks back and forth on my bed.",
+      "zh": "一股甜美的汁水从她双腿之间涌出，她的身体抽搐着，在我的床上来回晃动。"
+    },
+    {
+      "en": "I continue licking her. Observing the way her body twitches each time I come into contact with her clit.",
+      "zh": "我继续舔着她，观察着每当我的舌头碰到她的阴蒂时，她的身体会怎样抽动。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahh...hah...[futabamaster]...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 啊……哈……[futabamaster]……"
+    },
+    {
+      "en": ": Can you...breathe?...Are you...okay?",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你……能呼吸吗？……你还……还好吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba releases me from her leg lock and removes her hands from my head, once again using them to cover her face.",
+      "zh": "Futaba 松开锁住我的双腿，把手从我的头上拿开，再次用来捂住自己的脸。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m so...embarrassed...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我好……丢人……"
+    },
+    {
+      "en": ": I can’t believe...you did that...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我真不敢相信……你居然做了那种事……"
+    },
+    {
+      "en": ": You do it for me all the time. The very least I can do is pay you back.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你一直都在为我做这种事。我至少也该回报你一下。"
+    },
+    {
+      "en": ": I...I know...but...still...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……我知道……可是……还是……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The next few hours were a bit more awkward than I would have liked, but I’m sure Futaba will be able to live with what happened the longer she thinks about it.",
+      "zh": "接下来的几个小时比我想要的要尴尬一些，但我相信，随着时间过去，Futaba 会慢慢接受所发生的一切。"
+    },
+    {
+      "en": "It’s just one more step on the road to becoming whatever we’ll become.",
+      "zh": "这只是通往我们终将变成的样子的路上又一步。"
+    },
+    {
+      "en": "One more step that will help her transition into a more confident girl.",
+      "zh": "又一步，帮她蜕变成一个更自信的女孩。"
+    },
+    {
+      "en": "I’m helping her grow so that I may one day eat the fruit that she bears.",
+      "zh": "我在帮她成长，好让我有朝一日能尝到她结出的果实。"
+    },
+    {
+      "en": "I will turn her into the beautiful tree that I know she is deep inside.",
+      "zh": "我要把她变成那棵我知道她内心深处本就是的美丽的树。"
+    },
+    {
+      "en": "And there is nothing that can stop me from doing that.",
+      "zh": "而没有任何东西能阻止我这么做。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ futabainvite2 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ futaba_lust += 3",
+      "zh": ""
+    },
+    {
+      "en": "stop music fadeout 8.0",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Futaba’s lust has increased to [futaba_lust]!{/i}",
+      "zh": "{i}Futaba 的欲望提升到了 [futaba_lust]!{/i}"
+    },
+    {
+      "en": "{i}You can now invite her over to the house on nights and choose to raise your affection or lust with her!{/i}",
+      "zh": "{i}你现在可以在晚上邀请她来家里，选择提升她的好感度或欲望了！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

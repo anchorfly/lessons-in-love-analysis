@@ -289,10 +289,10 @@
       "zh": ": 你到底知道我多少事，把这些全都锁起来又有什么好处？"
     },
     {
-      "en": ": The “good” it does is keep you here.",
+      "en": ": The “good” it does is keep you {i}here.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 好处就是把你留在这里。"
+      "zh": ": 好处就是把你留在{i}这里{/i}。"
     },
     {
       "en": ": How is that good? All you ever do is try to get rid of me.",
@@ -550,10 +550,10 @@
       "zh": ": 你要是不想冒消失的风险，就照我说的做，按我说的那种方式活着。"
     },
     {
-      "en": ": Now that is something that could barely be called “living.”",
+      "en": ": Now {i}that{/i} is something that could barely be called “living.”",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那才真是勉强算不上「活着」的东西。"
+      "zh": ": {i}那{/i}才真是勉强算不上「活着」的东西。"
     },
     {
       "en": ": I can’t remember the last time I had to deal with this type of behavior from you.",
@@ -658,10 +658,10 @@
       "zh": ": 我就想跟你待着，大半夜搬些奇怪的箱子去[school]。"
     },
     {
-      "en": ": And I don’t want you telling me how I should be living my life when you’re barely living your own.",
+      "en": ": And I don’t want you telling me how I should be living {i}my{/i} life when you’re barely living your own.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 而且你自己都几乎没在活，就别来教我该怎么活。"
+      "zh": ": 而且你自己都几乎没在活，就别来教{i}我{/i}该怎么活。"
     },
     {
       "en": ""
@@ -697,10 +697,10 @@
       "zh": ": 我这样活没什么不对。"
     },
     {
-      "en": ": I’ll believe that as soon as I start seeing you do something that will make you happy instead of just...keeping the world moving or whatever.",
+      "en": ": I’ll believe that as soon as I start seeing you do something that will make {i}you{/i} happy instead of just...keeping the world moving or whatever.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 等我看到你做了点能让自己开心的事，而不只是……让世界继续转下去什么的，我就信。"
+      "zh": ": 等我看到{i}你{/i}做了点能让自己开心的事，而不只是……让世界继续转下去什么的，我就信。"
     },
     {
       "en": ""
@@ -1444,10 +1444,10 @@
       "zh": ": 你有没有想过，也许那不是你写的？"
     },
     {
-      "en": ": I mean, I’m obviously not the one who wrote it.",
+      "en": ": I mean, {i}I’m{/i} obviously not the one who wrote it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我是说，那显然不是我写的。"
+      "zh": ": {i}我{/i}是说，那显然不是我写的。"
     },
     {
       "en": ": I mean someone outside of that body entirely.",
@@ -1528,10 +1528,10 @@
       "zh": ": 说「意外」都算轻描淡写了。"
     },
     {
-      "en": ": I don’t think it should have been that hard to realize. But, then again, it’s you we’re talking about.",
+      "en": ": I don’t think it should have been that hard to realize. But, then again, it’s {i}you{/i} we’re talking about.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我觉得这不该有那么难想到。不过话说回来，我们现在谈论的是你啊。"
+      "zh": ": 我觉得这不该有那么难想到。不过话说回来，我们现在谈论的是{i}你{/i}啊。"
     },
     {
       "en": ": I’m sure there are plenty of other things lying around your room that I’ve put there as well.",
@@ -1600,10 +1600,10 @@
       "zh": ": 你觉得你为什么那么做？"
     },
     {
-      "en": ": Well, that wasn’t me who did that.",
+      "en": ": Well, that wasn’t {i}me{/i} who did that.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那次不是我干的。"
+      "zh": ": 那次不是{i}我{/i}干的。"
     },
     {
       "en": ": But if it was?",
@@ -1708,10 +1708,10 @@
       "en": ""
     },
     {
-      "en": ": And if I need help?",
+      "en": ": And if {i}I{/i} need help?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 那如果我需要帮忙呢？"
+      "zh": ": 那如果{i}我{/i}需要帮忙呢？"
     },
     {
       "en": ": Then I’ll help you.",
@@ -1825,8 +1825,8 @@
       "en": ""
     },
     {
-      "en": "Maya’s affection has increased to [maya_love]!",
-      "zh": "Maya 的好感度提升到了 [maya_love]！"
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]！{/i}"
     },
     {
       "en": ".........",

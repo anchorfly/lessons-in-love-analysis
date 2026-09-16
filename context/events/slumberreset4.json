@@ -1,3364 +1,3364 @@
 {
-  "label": "slumberreset4",
-  "title_zh": "",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label slumberreset4:",
-      "zh": ""
-    },
-    {
-      "en": "scene smilecam1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/smilecam1.webp",
-      "alt": "smilecam1"
-    },
-    {
-      "en": "scene smilecam2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/smilecam2.webp",
-      "alt": "smilecam2"
-    },
-    {
-      "en": "scene thisisgreen5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/thisisgreen5.webp",
-      "alt": "thisisgreen5"
-    },
-    {
-      "en": "scene wemadeit1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit1.webp",
-      "alt": "wemadeit1"
-    },
-    {
-      "en": "scene wemadeit2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit2.webp",
-      "alt": "wemadeit2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if cheater == True:",
-      "zh": ""
-    },
-    {
-      "en": "$ chika_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ yumi_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ sana_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ ayane_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ miku_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ makoto_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ rin_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ futaba_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ maya_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ ami_love = 1000000",
-      "zh": ""
-    },
-    {
-      "en": "$ molly_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ tsuneyo_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ uta_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ io_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ otoha_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ nodoka_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ touka_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ yasu_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ kirin_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ noriko_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ sara_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ imani_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ maki_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ haruka_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ yuki_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ tsubasa_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ tsukasa_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ chinami_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ kaori_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ karin_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ osako_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ wakana_love = 0",
-      "zh": ""
-    },
-    {
-      "en": "$ punished = True",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I am here.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Thank you for taking the time away from your party to join us for a very special episode of “Untitled Children’s Show.”",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": The date is December 28, 2020. The weather exists. And I have yet to scrub your semen out of my roach-holder.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit3.webp",
-      "alt": "wemadeit3"
-    },
-    {
-      "en": "scene wemadeit2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit2.webp",
-      "alt": "wemadeit2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Welcome to Untitled Children’s Show — the program where we make it more apparent that your interests are unsustainable and that you will one day break the world because of it.",
-      "zh": ""
-    },
-    {
-      "en": "If it appears that the world is broken now, it is likely due to static interference. We can assure you that the world is perfectly functional.",
-      "zh": ""
-    },
-    {
-      "en": "Please note that taking it upon yourself to research information that may contradict that is strictly prohibited.",
-      "zh": ""
-    },
-    {
-      "en": "We take trust very seriously at Untitled Television Studio — and we ask that you maintain the same level of respect that we have maintained with you for [totaldays] days.",
-      "zh": ""
-    },
-    {
-      "en": "If you don’t, we can not guarantee your continued safety.",
-      "zh": ""
-    },
-    {
-      "en": "This is your final warning. You must take something ELSE that does not belong to you before the summer ends.",
-      "zh": ""
-    },
-    {
-      "en": "Failure to do so will result in an immediate and untimely cancellation.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit4.webp",
-      "alt": "wemadeit4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Are you (or is someone you know) suffering from depression?",
-      "zh": ""
-    },
-    {
-      "en": "Have you tried not having it?",
-      "zh": ""
-    },
-    {
-      "en": "If you have tried not having and still have it, Untitled Children’s Show is looking for participants for an upcoming medical trial.",
-      "zh": ""
-    },
-    {
-      "en": "The cure is only two pumps away.",
-      "zh": ""
-    },
-    {
-      "en": "Wet roaches (with container) will are being provided to the you participates.",
-      "zh": ""
-    },
-    {
-      "en": "Donate today for first pick of fuck hole.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit2.webp",
-      "alt": "wemadeit2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Now then, with all of that out of the way, let me tell you a little about what we’re doing here.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Please forgive me if I seem nervous or make a mistake. This segment is typically Moyo’s responsibility but...unforeseen circumstances have led to an unfortunate change in her constitution.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": But never fear. Our medical staff is currently in the process of cutting her open to find out what is growing inside. Once that has been discerned, your normal host will return.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Probably.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": What is the matter?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Does the stray cat possess your mouth muscle?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit5.webp",
-      "alt": "wemadeit5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Or is the sticky comfort slip we provided preventing unnecessary words from dribbling out of your secondary sex hole? Please advise.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": The words! They will not come to him! Like bugs inside a boat!",
-      "spk": "Angel 1",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": We’ve maintained the skill to rhyme sometimes, but still don’t own a coat!",
-      "spk": "Angel 2",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Poems are fun! Appeal is learned! Flower prose and dirty purpose!",
-      "spk": "Angel 1",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Only so much time is left until we see beneath the surface!",
-      "spk": "Angel 2",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Does surface rhyme with purpose????",
-      "spk": "Angel 1",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": A diagonal rhyme! Preapproved!",
-      "spk": "Angel 2",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Sinner’s talk! Your coat will never arrive!",
-      "spk": "Angel 1",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Ahem...May I proceed?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ssssssssssssssssssssssssss",
-      "spk": "Angel 2",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": kkkkkkkkkkkkkkkkkkkkkkk",
-      "spk": "Angel 1",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit6.webp",
-      "alt": "wemadeit6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": As I was saying before our writers decided to intervene — Moyo’s dissection is temporary, but friendship is forever.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": So today, we will use our time to see just how much you value those you keep close to you.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I understand that you may feel slightly intimidated in such a weak position, but I can assure you that this is what needed to be done in order to maintain my safety after you raped me and ruined my dress.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I DIDN’T DO IT",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Angels 1 and 2, please remove his comfort slip so he may respond to my inquiries.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Understood! We’ll kill the tape!",
-      "spk": "Angel 1",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": All he’s ever done is rape!",
-      "spk": "Angel 2",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "My comfort slip is ripped off of my mouth and, along with it, some of my skin departs its home.",
-      "zh": ""
-    },
-    {
-      "en": "I’m not too upset as all children eventually grow up and leave for college to start having sex with things, I was just hoping for a little more time with my soft, protective outer flesh barrier.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Aaaaahhhhhh.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Aaahhhh.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": AAAAAHHHHHH.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Normal words don’t happen. Only scream.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Now, now. Everything will be okay. In fact, this will likely be your easiest trial yet as it hinges entirely on information that you went out of your way to obtain.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": But I paid so much attention to the coffee monologue.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": You didn’t do anything. But I’m afraid I wouldn’t know what you mean even if you did.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit7.webp",
-      "alt": "wemadeit7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Don’t understand. Can’t brain good right now because dream. Are girl okay? Safe? What happen.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Everyone is fine, don’t worry.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Well, I guess that more or less hinges on what your personal definition of “fine” is, but it’s not like their roach-holders are being sewn up. You’ll still be able to do sex to them in your free time.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Like other things now too. Sex is bonus level! Am a good guy! Promise!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": You? Good?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": TD, cue laugh track.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No laugh! Serious! Trust is important! Italian narrator said so!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Italic narrator says a lot of things, don’t they?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Untie hands! Itchy! Have to scratch! Have to find roof!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": If you’re in that much of a hurry, just answer the next twelve questions correctly. If you do that, you can leave.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Your friendly maggot might not be around to help you this time, but we have taken several precautions to make sure this interview won’t be as painstakingly...painful as the last.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit8.webp",
-      "alt": "wemadeit8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No more magazines?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": No more magazines.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Just love!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Now, please welcome our very special guest...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit9.webp",
-      "alt": "wemadeit9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": The girl whose name you’ve yet to choose!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Don’t know girl! Can’t choose! Untie rope!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": This...",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": This isn’t right...",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": This isn’t right!",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Is there a problem?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit10.webp",
-      "alt": "wemadeit10"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": A problem?! Are you kidding me?!",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Look at the shape he’s in! This...this isn’t how it...",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I didn’t agree to this! You’ve gone way too far! Hasn’t he been through enough already?!",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Some would say he’s been through nothing at all.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Some would say the worst has yet to come.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Now, do we need to remove you as well? Or will you do what you’ve been asked to?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit11.webp",
-      "alt": "wemadeit11"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Who...do you think you are?",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": What I’ve been asked to do?...",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": You don’t get it at all. You have no idea what’s-",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Listen, if you want the showrunners to file a complaint about you, I’d be more than happy to-",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit12.webp",
-      "alt": "wemadeit12"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": H...Hi! Yumi...Yamaguchi here! Friendly neighborhood tsundere! Hahaha!",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Yumi! Help rope! Gotta scratch!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Then, roof together! You remember!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit13.webp",
-      "alt": "wemadeit13"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": The way this game will work is simple-",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I will read you questions about all of the girls at your slumber party, and you will answer honestly and to the best of your ability. I just hope that the “best of your ability” winds up being the truth.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Because if it isn’t, you’ll be sent back to square one and have to do all of this over again. And who knows when the next time you’ll make it this far is?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": If you’re able to answer all of the questions correctly, though...you’ll be deemed worthy of continuing on and wake up back at home! Entirely sentient and entirely...naked.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Are you ready to begin?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Gotta...scratch!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit14.webp",
-      "alt": "wemadeit14"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Fine, fine. But don’t say I never do anything for you.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit15",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit15.webp",
-      "alt": "wemadeit15"
-    },
-    {
-      "en": "jump yumigstrivia",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "label yumigswrong:",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit18",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit18.webp",
-      "alt": "wemadeit18"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That’s...I’m sorry, but that’s not right.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Ooh! How unfortunate! Looks like you’ll just have to start the whole slumber party over!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": The whole thing?! At least magazine event saved progress!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": It did! But “magazine event” quizzed you on mostly trivial nonsense that our employer pulled out of a hat.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": This time, it’s different. This time you, you didn’t know something important.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Do you actually care? Or are you still just pretending to?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Don’t wanna go back! Too many words! Already know all the coffee!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Ahh, if only this was a coffee-related quiz and not one that required a more prolonged retention of information.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene theend",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/theend.png",
-      "alt": "theend"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Thanks for joining us on Untitled Children’s Show!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Maybe next time, our protagonist won’t make any mistakes!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Noooooooo!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene frown",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/frown.png",
-      "alt": "frown"
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump slumberreset3",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "label yumigstrivia:",
-      "zh": ""
-    },
-    {
-      "en": ": Question one...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Everybody knows I’m a bit of a badass, and it’s not all talk either!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I’ve got real experience in both violence and being neglected, and that goes way back to before I ever even started masturbating to you!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Yumi wouldn’t! Hates me!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker, can you confirm or deny what the card says? Have I been fed incorrect information?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit16",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit16.webp",
-      "alt": "wemadeit16"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Uh...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": No...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": The card is right...",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Of course it is.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Anyway, that experience has manifested in a number of ways — many of which involve people being hurt.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": So...where did I start hurting people? Where did my first knockout take place?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Uhhhhh...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ yumigs1 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ yumigs1 = yumigs1.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not yumigs1.lower() in [\"daycare\", \"day care\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump yumigswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Daycare! Daycare knockout! Told me recently! Remember that!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit17",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit17.webp",
-      "alt": "wemadeit17"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That’s correct.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Are you just saying that because you have a soft spot for him?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": No...it’s genuinely correct.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": I made a promise to be truthful and I intend to keep it.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Ah, and speaking of promises!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Question two...it’s been a long time since I’ve made a promise with anyone...but it’s not because I don’t want to. It’s because I’m scared.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": It’s no secret that my trust issues run deeper than the Mariana Trench, but they only exist in the first place because my mother never brought me...where?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ yumigs2 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ yumigs2 = yumigs2.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not yumigs2.lower() in [\"okinawa\", \"tokashiku beach\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump yumigswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Okinawa! Turtle place!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Yumi likes turtles! Very cute!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit19",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit19.webp",
-      "alt": "wemadeit19"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Yeah...he got it.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": So good at this. Bring it on, Long Maya. Will answer all question!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Then I suppose we’ll go with...a-hah. This one seems a little less obvious.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": What is my favorite beverage?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit20",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit20.webp",
-      "alt": "wemadeit20"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Never learned! Yumi never told! Not good conversation topic!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Sometimes, showing is telling. Now go on, take a guess.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ yumigs3 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ yumigs3 = yumigs3.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not yumigs3.lower() in [\"water\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump yumigswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Water! Yumi drinks all the water! She is so hydrated!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Hmmm....fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit21",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit21.webp",
-      "alt": "wemadeit21"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Damn right. Though it ain’t as much of an actual “favorite” as it is a thing I just always fuckin’ have on me.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ": Ain’t like I can really afford anythin’ else, though.",
-      "spk": "Yumi",
-      "spkColor": "#FF4949",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit22",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit22.webp",
-      "alt": "wemadeit22"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What great news! You’ve managed to pass the Yumi round!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": But coming up next is a real enigma...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump tsuneyogstrivia",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "label tsuneyogswrong:",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit24",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit24.webp",
-      "alt": "wemadeit24"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No...that’s not right.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Ahhhhhhh!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Are you absolutely sure?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I am.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Absolutely?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I have never been more sure of anything in my life.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": How unfortunate! Because that means our protagonist is going to have to start over at the beginning of the slumber party!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": The beginning?! That is so long ago!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": It is! But that’s the price you have to pay for not caring and valuing everyone’s time and opinions!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": We’re only doing this to help you, you know. Like anyone else, we want you to succeed!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Then let me try again! Will get it right this time!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": You can try again!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Yay!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": You’ll just have to hold down the CTRL key for a little while. Which you’re probably already familiar with if you’re getting these questions wrong.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": AAHHHHH SO MEAN LONG MAYA!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene theend",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/theend.png",
-      "alt": "theend"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Thanks for joining us on Untitled Children’s Show!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Maybe next time, our protagonist won’t make any mistakes!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Noooooooo!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene frown",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/frown.png",
-      "alt": "frown"
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": "jump slumberreset3",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "label tsuneyogstrivia:",
-      "zh": ""
-    },
-    {
-      "en": "scene wemadeit23",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit23.webp",
-      "alt": "wemadeit23"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Tsuneyo Tojo! Pachipachipachipachipachi.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Hello.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Hi Tsuneyo. What was smell.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I’m afraid that is information I do not currently possess, bro.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Oh sorry didn’t know.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fuck you.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Question one...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": My knowledge of the outside world is limited due to extremely minimal exposure over the years, but that doesn’t mean I don’t know anything at all!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": In fact, I consider myself a bit of a repository when it comes to vital information...and there are very few quotes I can not properly attribute to their respective sources.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": A wise man once said, “There is nothing to fear but fear itself!”",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Who was that man?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ tsuneyogs1 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ tsuneyogs1 = tsuneyogs1.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not tsuneyogs1.lower() in [\"franklin delaware roosevelt\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump tsuneyogswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit25",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit25.webp",
-      "alt": "wemadeit25"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That is correct. Franklin Delaware Roosevelt is the man who originally said that — not to be confused with a man who went by a similar name that was very likely misspelled in the middle.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": I’m not sure if I understand, but there is a great deal I’ll never understand when it comes to you, Miss Tojo.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": If only there was some sort of window I could peer through that would allow me to see into your soul.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": But speaking of which, our second question is this!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": How many windows are there in Tojo Ramen?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ tsuneyogs2 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ tsuneyogs2 = tsuneyogs2.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not tsuneyogs2.lower() in [\"zero\", \"0\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump tsuneyogswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Trick question! No windows in Tojo Ramen! Very dark restaurant!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Is this true, Tsuneyo?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit26",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit26.webp",
-      "alt": "wemadeit26"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": It is. Though I am unable to confirm that things will stay that way forever as I am still contemplating investing in a window display.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": There are no windows on the second floor either?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Why are you asking me questions about the second floor?",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": I’m just looking for confirmation.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I don’t believe you and am not willing to speak about this any further. Please ask the third question. You are wasting everyone’s time.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Fine. No one was looking forward to having you on this segment anyway.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Say that again, you bastard.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Question three...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": What is the most important dish we serve at Tojo Ramen?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Easy. The answer to that question is “ramen.” Please move on to question four now.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": The questions aren’t for you and I’d really appreciate it if you’d be able to step out of character while I’m reading the cards.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Also, the answer you gave isn't correct as it needs to match the card exactly.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Impossible. I answered the question and it is time to move on.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Do you have a different answer?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ tsuneyogs3 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ tsuneyogs3 = tsuneyogs3.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not tsuneyogs3.lower() in [\"tori shio ramen\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump tsuneyogswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Tori shio ramen! So good! Have it on a card!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit27",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit27.webp",
-      "alt": "wemadeit27"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Tch.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": Wow, what’s that reaction for?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Could it be there is a little more to that dish than you’re letting on?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Of course not. Noodles are noodles. They are all equally important.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ": I am reacting this way as I am disappointed in myself for forgetting the answer. There is nothing more to it.",
-      "spk": "Tsuneyo",
-      "spkColor": "#C8B330",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit22",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit22.webp",
-      "alt": "wemadeit22"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Well, whatever the case, it looks like the Tsuneyo Tojo round is now complete!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Congratulations on making it halfway through the segment and reaching the first and only checkpoint!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": It is at this point that we’d like to say thank you to our sponsors in the form of a quick commercial break! But not before asking one more bonus question...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": You’ll only have one chance to answer this, so think very carefully...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Below the egg and dancing three, a picture book sits peacefully.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": You'd hide something beneath your bed...do you remember what the caption said?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ gsbonus = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ gsbonus = gsbonus.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not gsbonus.lower() in [\"cute puppy\"]:",
-      "zh": ""
-    },
-    {
-      "en": "scene youidiot",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/youidiot.webp",
-      "alt": "youidiot"
-    },
-    {
-      "en": "$ mothersmiss = True",
-      "zh": ""
-    },
-    {
-      "en": "jump gstriviaround2",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": "jump mothersmilk",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "label mayagswrong:",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker, is that correct?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit29",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit29.webp",
-      "alt": "wemadeit29"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No...it’s not.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Oooh, too bad! Thankfully, you did manage to reach the checkpoint after completing Miss Tojo’s round. So at least you won’t have to go toofar back.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Don’t wanna go back at all! Hurts my head! Wanna keep going!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Unfortunately, continuing on without reverting to an older state may result in some...unfortunate side effects for the girls in question.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": They’re all directly connected to what’s going on right now, and every incorrect answer you provide actually inflicts extreme harm on them in their own personal trials!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Don’t wanna hurt! Wanna hug!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Then be a GOOD BOY and start over, okay?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene theend",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/theend.png",
-      "alt": "theend"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Thanks for joining us on Untitled Children’s Show!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Maybe next time, our protagonist won’t make any mistakes!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Noooooooo!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene frown",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/frown.png",
-      "alt": "frown"
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": "jump gstriviaround2",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "label gstriviaround2:",
-      "zh": ""
-    },
-    {
-      "en": "scene wemadeit13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit13.webp",
-      "alt": "wemadeit13"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Welcome back to Untitled Children’s Show. I’m your stand-in host, 〄.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": If you’re just joining us now, our contestant has made it halfway through his trial without managing to ruin everything, like he so commonly does.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Will he make it through the next two rounds as well? Text your votes to the letter X and to let us know what you, the viewer, think!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit28",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit28.webp",
-      "alt": "wemadeit28"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Round three begins with none other than HER.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Can we make this quick? I’d really prefer not almost sleeping through the apocalypse again and I’ve been noticing a disturbing pattern throughout the last several resets.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Our first question about HER includes a character detail that has seemed mostly unimportant up to this point in the story, but may one day help you remember something!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": SHE plays an instrument. What is it?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ mayags1 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ mayags1 = mayags1.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not mayags1.lower() in [\"violin\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump mayagswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Violin! Has one on a box but never touches it! Always wonder why!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit30",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit30.webp",
-      "alt": "wemadeit30"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That is correct. But the reason I no longer play it is of no concern to you right now.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": That’s okay. Will wait for emotional violin scene. Gonna happen.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Let’s focus on getting out of here before thinking about what the future may hold...because it’s quite possible there will be no future if we remain trapped in here.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Saying you’re “trapped” isn’t all that accurate as you’d be here regardless of the program, but we can look past that right now for the sake of brevity.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Ask me favorite food! Know that one! Won’t get wrong!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I’m afraid that one would be a bit too easy. What I’m looking for is...ah. Found it.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I’ve always been a girl of many faces...and for every common-knowledge hobby of mine, like my love for manga or tendency to also masturbate while thinking of you-",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit31",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit31.webp",
-      "alt": "wemadeit31"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Is it really necessary to keep bringing that-",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": True or false, fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I don’t have to-",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": True? Or false?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit32",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit32.webp",
-      "alt": "wemadeit32"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": True...even though it pains me to admit it.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": There’s nothing to be ashamed of. I often fill my sex crevice with pens and pretend that they are all tinier, thinner versions of him. I’m sure you do the same.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I don’t.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker, please fact check yourself.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": False. Maya doesn’t- I don’t do that.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": You don’t do that yet...but I digress.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": In addition to my wealth of hobbies, there is something I collect. What is it?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ mayags2 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ mayags2 = mayags2.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not mayags2.lower() in [\"masks\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump mayagswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Masks! She is a mask girl! See those in her room too! On the wall!",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fact che-",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Correct. Next question.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Wow. Someone is in a hurry, aren’t they?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": As I said, I want to get out of here. I can’t do that if you’re going to keep stalling and asking unrelated personal questions.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": I don’t do this to take advantage of people’s memories, you know. I do it because-",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": It doesn’t matter why you do it, just that you do.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I’ll go ahead and ask the next question, but it’s not because I sympathize with you. It’s because we’re running out of time and there is a new soap opera scheduled after this.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I should also check on Moyo in the operating room. The doctors don’t have as much experience with the inside of her uterus as I do.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Ahem...Question three...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": While I may be conceited, there will always be...limits to that. Just like any other girl, or any other person, I have things that I can’t help but feel insecure about sometimes.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": You’re constantly surrounded by girls...and all of them feel at times like they are the front runner for your heart.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": But that should be me. I’m the one you’re supposed to love, not them.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": But even with that being said...there is one other person I can’t help but feel jealous of. Even if I think I am superior to them in basically every single way.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Who is that person?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ mayags3 = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ mayags3 = mayags3.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if not mayags3.lower() in [\"niki\", \"niki nakayama\"]:",
-      "zh": ""
-    },
-    {
-      "en": "jump mayagswrong",
-      "zh": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Hard think. Brain is soup.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Is it...Niki?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit33",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit33.webp",
-      "alt": "wemadeit33"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Ahem...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": That’s correct.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": I wasn’t your first love...or your second, but...",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump gscompletehooray",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "label gscompletehooray:",
-      "zh": ""
-    },
-    {
-      "en": "scene wemadeit34",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit34.webp",
-      "alt": "wemadeit34"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I can’t do this anymore. I have to bail out.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": It’s one thing getting inside the head of Yumi or Tsuneyo, but do you have any idea just how much is going on in this one? I can barely make sense of any of it.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": You can’t leave yet. We still have one more round of questions.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit35",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit35.webp",
-      "alt": "wemadeit35"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You’re going to make me do her too?!",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Was that not obvious from the beginning? I specifically stated there were twelve questions.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": There are stipulations in my contract that specifically list her as an exception. I can’t.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Can’t? Or won’t?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Why does it matter?! You’ve got answers on your cards, don’t you? Just read those and go without a fact checker. I can’t do it.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Okay, but...it would be a real shame if we accidentally damaged him as a result of this.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Damaged him how? What does that even mean? Haven’t you already done enough?",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": Feeding someone incorrect information can cause more damage than torture at times.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I’m an unbiased reporter. I just want to make sure he has the facts.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": All of those facts just happen to belong to you.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ""
-    },
-    {
-      "en": ": How about this...we’re already running over on time, so why don't we cut two of the questions out and finish after just one more?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit36",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit36.webp",
-      "alt": "wemadeit36"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Just one?",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Just one.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": What is it?",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I choose...this one.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": What is it? Tell me. And I’m not answering anything gross anymore, so you can forget it if it’s something like that.",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I can’t read the question until you change...but what I can tell you...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Is it may very well change the future.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit37",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit37.webp",
-      "alt": "wemadeit37"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": You’re sick.",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": You’re all sick. I don’t understand how you can do this to someone so...helpless. He’s broken. Can’t you see that?",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": He can be fixed.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": They can always be fixed.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I’m done after this. I’m not coming back.",
-      "spk": "???",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Moyo will be very upset to hear that. She likes you very much.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit38",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit38.webp",
-      "alt": "wemadeit38"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Final question...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": You got me pregnant, but I never told you about it because I am a coward.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Something happened that made the baby go away.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I remember, but I pretend that I don’t because it makes it hurt less.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I picked out a name for her.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": It was one I knew you’d like.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": What was it?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ whatyousaid = renpy.input(\"The answer is...\")",
-      "zh": ""
-    },
-    {
-      "en": "$ whatyousaid = whatyousaid.strip()",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": [whatyousaid].",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Fact checker?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I’m going to need an answer.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I...",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ""
-    },
-    {
-      "en": ": I can’t give you one.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ""
-    },
-    {
-      "en": ": You can’t? How strange. Why do you think that is?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ""
-    },
-    {
-      "en": ": Perhaps...you’re afraid of what will happen if you do?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ""
-    },
-    {
-      "en": ": Of what will happen to you.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I’m sorry.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ""
-    },
-    {
-      "en": ": I can’t protect you.",
-      "spk": "Ayane",
-      "spkColor": "#00BAB1",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit39",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit39.webp",
-      "alt": "wemadeit39"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oooh, too bad! It looks like we’ll have to send you back to the beginning of everything after all!",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": I’ll remember you always, [mayamaster]. The feeling of your cock still lingers in my-",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit40",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit40.webp",
-      "alt": "wemadeit40"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What? What happened?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Now? But I was informed that wasn’t possible.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Does It know yet?",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I see...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if cheater == True:",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Yes. Adjustments have already been made and precautionary measures have been taken to ensure it does not happen again.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Understood.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit41",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit41.webp",
-      "alt": "wemadeit41"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": It appears that there has been an interruption in today’s broadcast.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": If your connection has not yet been severed and you are still watching this program, thank you. But it is with a heavy heart that I must sign off.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": Thank you again to our sponsors and to all of the people who-",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene wemadeit42",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/wemadeit42.webp",
-      "alt": "wemadeit42"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh no.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ": He popped.",
-      "spk": "79 6f 75 64 69 64 69 74",
-      "spkColor": "#e6e6e6",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ slumberreset4 = True",
-      "zh": ""
-    },
-    {
-      "en": "jump slumberreset5",
-      "zh": ""
-    }
-  ]
+ "label": "slumberreset4",
+ "title_zh": "无名",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label slumberreset4:",
+   "zh": ""
+  },
+  {
+   "en": "scene smilecam1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/smilecam1.webp",
+   "alt": "smilecam1"
+  },
+  {
+   "en": "scene smilecam2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/smilecam2.webp",
+   "alt": "smilecam2"
+  },
+  {
+   "en": "scene thisisgreen5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/thisisgreen5.webp",
+   "alt": "thisisgreen5"
+  },
+  {
+   "en": "scene wemadeit1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit1.webp",
+   "alt": "wemadeit1"
+  },
+  {
+   "en": "scene wemadeit2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit2.webp",
+   "alt": "wemadeit2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if cheater == True:",
+   "zh": ""
+  },
+  {
+   "en": "$ chika_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ yumi_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ sana_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ ayane_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ miku_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ makoto_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ rin_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ futaba_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ maya_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ ami_love = 1000000",
+   "zh": ""
+  },
+  {
+   "en": "$ molly_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ tsuneyo_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ uta_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ io_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ otoha_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ nodoka_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ touka_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ yasu_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ kirin_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ noriko_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ sara_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ imani_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ maki_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ haruka_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ yuki_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ tsubasa_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ tsukasa_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ chinami_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ kaori_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ karin_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ osako_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ wakana_love = 0",
+   "zh": ""
+  },
+  {
+   "en": "$ punished = True",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I am here.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我来了。"
+  },
+  {
+   "en": ": Thank you for taking the time away from your party to join us for a very special episode of “Untitled Children’s Show.”",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 感谢你从派对中抽身，来参加这一期非常特别的《无名儿童节目》。"
+  },
+  {
+   "en": ": The date is December 28, 2020. The weather exists. And I have yet to scrub your semen out of my roach-holder.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 今天是 2020 年 12 月 28 日。天气存在。而我还没把你的精液从我的蟑螂容器里刷干净。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit3.webp",
+   "alt": "wemadeit3"
+  },
+  {
+   "en": "scene wemadeit2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit2.webp",
+   "alt": "wemadeit2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "{i}Welcome to Untitled Children’s Show — the program where we make it more apparent that your interests are unsustainable and that you will one day break the world because of it.{/i}",
+   "zh": "{i}欢迎收看《无名儿童节目》——在这里，我们会更清楚地让你意识到，你的兴趣是难以为继的，而你终有一天会因此毁掉这个世界。{/i}"
+  },
+  {
+   "en": "{i}If it appears that the world is broken now, it is likely due to static interference. We can assure you that the world is perfectly functional.{/i}",
+   "zh": "{i}如果现在世界看起来是坏的，那多半是静电干扰所致。我们可以向你保证，世界运转得完全正常。{/i}"
+  },
+  {
+   "en": "{i}Please note that taking it upon yourself to research information that may contradict that is strictly prohibited.{/i}",
+   "zh": "{i}请注意，擅自去查证任何可能与此相悖的信息，是严格禁止的。{/i}"
+  },
+  {
+   "en": "{i}We take trust very seriously at Untitled Television Studio — and we ask that you maintain the same level of respect that we have maintained with you for [totaldays] days.{/i}",
+   "zh": "{i}在无名电视制片厂，我们把信任看得极重——我们请你保持与我们这 [totaldays] 天以来对你同等的尊重。{/i}"
+  },
+  {
+   "en": "{i}If you don’t, we can not guarantee your continued safety.{/i}",
+   "zh": "{i}如果你做不到，我们无法保证你能继续安全。{/i}"
+  },
+  {
+   "en": "{i}This is your final warning. You must take something {s}ELSE{/s} that does not belong to you before the summer ends.{/i}",
+   "zh": "{i}这是最后一次警告。在夏天结束之前，你必须再拿走别的一件不属于你的东西。{/i}"
+  },
+  {
+   "en": "{i}Failure to do so will result in an immediate and untimely cancellation.{/i}",
+   "zh": "{i}否则，节目将被立即、且不合时宜地砍掉。{/i}"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit4.webp",
+   "alt": "wemadeit4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Are you (or is someone you know) suffering from depression?",
+   "zh": "你（或你认识的人）正在遭受抑郁症的折磨吗？"
+  },
+  {
+   "en": "Have you tried not having it?",
+   "zh": "你试过不抑郁吗？"
+  },
+  {
+   "en": "If you have tried not having and still have it, Untitled Children’s Show is looking for participants for an upcoming medical trial.",
+   "zh": "如果你试过不抑郁、却依然很抑郁，《无名儿童节目》正在为一项即将开展的医学试验招募参与者。"
+  },
+  {
+   "en": "The cure is only two pumps away.",
+   "zh": "治愈只需两泵。"
+  },
+  {
+   "en": "Wet roaches (with container) will are being provided to the you participates.",
+   "zh": "湿蟑螂（附容器）将会被提供给你们参与者。"
+  },
+  {
+   "en": "Donate today for first pick of fuck hole.",
+   "zh": "今天就捐吧，可以优先挑一个 fuck hole。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit2.webp",
+   "alt": "wemadeit2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Now then, with all of that out of the way, let me tell you a little about what we’re doing here.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那么，闲话说完，让我来讲讲我们在这里要做些什么。"
+  },
+  {
+   "en": ": Please forgive me if I seem nervous or make a mistake. This segment is typically Moyo’s responsibility but...unforeseen circumstances have led to an unfortunate change in her constitution.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 如果我看起来紧张、或者出了什么错，请原谅。这一段通常由 Moyo 负责，但……一些始料未及的状况，导致她的体质发生了不幸的变化。"
+  },
+  {
+   "en": ": But never fear. Our medical staff is currently in the process of cutting her open to find out what is growing inside. Once that has been discerned, your normal host will return.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 但别怕。我们的医疗团队正在把她切开，看看里面究竟长着什么。一旦弄清楚，你们的常驻主持人就会回来。"
+  },
+  {
+   "en": ": Probably.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 大概吧。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": What is the matter?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 怎么了？"
+  },
+  {
+   "en": ": Does the stray cat possess your mouth muscle?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是那只流浪猫把你的嘴部肌肉叼走了吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit5.webp",
+   "alt": "wemadeit5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Or is the sticky comfort slip we provided preventing unnecessary words from dribbling out of your secondary sex hole? Please advise.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 还是说，我们提供的那块黏糊糊的安抚布，让多余的废话没法从你的第二性洞里漏出来？请回答。"
+  },
+  {
+   "en": ": The words! They will not come to him! Like bugs inside a boat!",
+   "spk": "Angel 1",
+   "spkColor": "#969696",
+   "zh": ": 话说不出来！它们不肯到他嘴里去！像船里的虫子！"
+  },
+  {
+   "en": ": We’ve maintained the skill to rhyme sometimes, but still don’t own a coat!",
+   "spk": "Angel 2",
+   "spkColor": "#969696",
+   "zh": ": 我们偶尔还会押韵，却连件外套都没有！"
+  },
+  {
+   "en": ": Poems are fun! Appeal is learned! Flower prose and dirty purpose!",
+   "spk": "Angel 1",
+   "spkColor": "#969696",
+   "zh": ": 诗很好玩！吸引力是学来的！花之散文与下流目的！"
+  },
+  {
+   "en": ": Only so much time is left until we see beneath the surface!",
+   "spk": "Angel 2",
+   "spkColor": "#969696",
+   "zh": ": 只剩这么点时间，我们就能看到表象之下！"
+  },
+  {
+   "en": ": Does surface rhyme with purpose????",
+   "spk": "Angel 1",
+   "spkColor": "#969696",
+   "zh": ": surface 和 purpose 押韵吗？？？？"
+  },
+  {
+   "en": ": A diagonal rhyme! Preapproved!",
+   "spk": "Angel 2",
+   "spkColor": "#969696",
+   "zh": ": 斜韵！已获批准！"
+  },
+  {
+   "en": ": Sinner’s talk! Your coat will never arrive!",
+   "spk": "Angel 1",
+   "spkColor": "#969696",
+   "zh": ": 罪人的话！你的外套永远不会到！"
+  },
+  {
+   "en": ": {i}Ahem...{/i}May I proceed?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}咳……{/i}我可以继续了吗？"
+  },
+  {
+   "en": ": {s}ssssssssssssssssssssssssss{/s}",
+   "spk": "Angel 2",
+   "spkColor": "#969696",
+   "zh": ": {s}ssssssssssssssssssssssssss{/s}"
+  },
+  {
+   "en": ": {s}kkkkkkkkkkkkkkkkkkkkkkk{/s}",
+   "spk": "Angel 1",
+   "spkColor": "#969696",
+   "zh": ": {s}kkkkkkkkkkkkkkkkkkkkkkk{/s}"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit6.webp",
+   "alt": "wemadeit6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": As I was saying before our writers decided to intervene — Moyo’s dissection is temporary, but {i}friendship{/i} is forever.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 在我们的编剧决定插手之前我正要说——Moyo 的解剖是暂时的，但{i}友谊{/i}是永恒的。"
+  },
+  {
+   "en": ": So today, we will use our time to see just how much you value those you keep close to you.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 所以今天，我们要用这段时间来看看，你到底有多看重那些被你留在身边的人。"
+  },
+  {
+   "en": ": I understand that you may feel slightly intimidated in such a weak position, but I can assure you that this is what needed to be done in order to maintain my safety after you raped me and ruined my dress.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我知道，处在这样弱势的位置上，你可能会有点害怕。但我可以保证，在你强奸了我、毁了我的裙子之后，这是为了保住我的安全所必须做的。"
+  },
+  {
+   "en": ": {b}{size=+25}I DIDN’T DO IT{/b}{/size}",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": {b}{size=+25}不是我干的{/b}{/size}"
+  },
+  {
+   "en": ": Angels 1 and 2, please remove his comfort slip so he may respond to my inquiries.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 天使一号和天使二号，请把他的安抚布取下来，好让他回答我的提问。"
+  },
+  {
+   "en": ": Understood! We’ll kill the tape!",
+   "spk": "Angel 1",
+   "spkColor": "#969696",
+   "zh": ": 明白！我们这就把胶带弄掉！"
+  },
+  {
+   "en": ": All he’s ever {i}done{/i} is rape!",
+   "spk": "Angel 2",
+   "spkColor": "#969696",
+   "zh": ": 他{i}干过{/i}的全是强奸！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "My comfort slip is ripped off of my mouth and, along with it, some of my skin departs its home.",
+   "zh": "我嘴上的安抚布被一把扯下，连带着，我的一小块皮肤也离开了它的家。"
+  },
+  {
+   "en": "I’m not too upset as all children eventually grow up and leave for college to start having sex with things, I was just hoping for a little more time with my soft, protective outer flesh barrier.",
+   "zh": "我不太难过，反正所有孩子最终都会长大、离家去上大学、开始跟各种东西做爱，我只是希望能和我那柔软、起保护作用的外部皮肉屏障再多待一会儿。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Aaaaahhhhhh.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Aaaaahhhhhh."
+  },
+  {
+   "en": ": Aaahhhh.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Aaahhh."
+  },
+  {
+   "en": ": AAAAAHHHHHH.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": AAAAAHHHHHH."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Normal words don’t happen. Only scream.",
+   "zh": "正常的话说不出来。只会尖叫。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Now, now. Everything will be okay. In fact, this will likely be your easiest trial yet as it hinges entirely on information that you went out of your way to obtain.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 好了，好了。一切都会没事的。事实上，这很可能是你到目前为止最简单的一场试炼，因为它完全取决于你特意去获取的信息。"
+  },
+  {
+   "en": ": But I paid so much attention to the coffee monologue.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 可我在那段咖啡独白上花了那么多注意力。"
+  },
+  {
+   "en": ": {i}You{/i} didn’t do anything. But I’m afraid I wouldn’t know what you mean even if you did.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}你{/i}什么也没做。不过就算你做了，恐怕我也不知道你在说什么。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit7.webp",
+   "alt": "wemadeit7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Don’t understand. Can’t brain good right now because dream. Are girl okay? Safe? What happen.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不懂。现在脑子不好使，因为在做梦。女孩们还好吗？安全吗？发生了什么。"
+  },
+  {
+   "en": ": Everyone is fine, don’t worry.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 大家都很好，别担心。"
+  },
+  {
+   "en": ": Well, I guess that more or less hinges on what your personal definition of “fine” is, but it’s not like their roach-holders are being sewn up. You’ll still be able to do sex to them in your free time.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 嗯，我想这多半取决于你对「好」的个人定义是什么，但她们的蟑螂容器又没被缝上。你在空闲时间还是能对她们做爱的。"
+  },
+  {
+   "en": ": Like other things now too. Sex is bonus level! Am a good guy! Promise!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 现在还会做别的事呢！做爱是奖励关卡！我是好男人！保证！"
+  },
+  {
+   "en": ": You? Good?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你？好？"
+  },
+  {
+   "en": ": TD, cue laugh track.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": TD，上笑声罐头。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No laugh! Serious! Trust is important! Italian narrator said so!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不准笑！严肃！信任很重要！意大利旁白是这么说的！"
+  },
+  {
+   "en": ": {i}Italic{/i} narrator says a lot of things, don’t they?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}斜体{/i}旁白说了可多话呢，不是吗？"
+  },
+  {
+   "en": ": Untie hands! Itchy! Have to scratch! Have to find roof!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 解开手！痒！要挠！要找屋顶！"
+  },
+  {
+   "en": ": If you’re in that much of a hurry, just answer the next twelve questions correctly. If you do that, you can leave.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 既然你这么着急，那就把接下来的十二道题全部答对。答对了，你就可以走。"
+  },
+  {
+   "en": ": Your friendly maggot might not be around to help you this time, but we have taken several precautions to make sure this interview won’t be as painstakingly...painful as the last.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你那位友好的蛆虫这次可能不在旁边帮你，但我们做了好几重防范，确保这次访谈不会像上次那样……痛得叫人难受。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit8.webp",
+   "alt": "wemadeit8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No more magazines?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 没有杂志了？"
+  },
+  {
+   "en": ": No more magazines.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 没有杂志了。"
+  },
+  {
+   "en": ": Just love!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 只有爱！"
+  },
+  {
+   "en": ": Now, please welcome our very special guest...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 现在，有请我们非常特别的嘉宾……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit9.webp",
+   "alt": "wemadeit9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": The girl whose name you’ve yet to choose!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那个你还没替她选好名字的女孩！"
+  },
+  {
+   "en": ": Don’t know girl! Can’t choose! Untie rope!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不认识女孩！选不了！解开绳子！"
+  },
+  {
+   "en": ": This...",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这……"
+  },
+  {
+   "en": ": This isn’t right...",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这不对……"
+  },
+  {
+   "en": ": This isn’t right!",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这不对！"
+  },
+  {
+   "en": ": Is there a problem?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 有什么问题吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit10.webp",
+   "alt": "wemadeit10"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": A {i}problem?!{/i} Are you kidding me?!",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}问题？！{/i}你在开玩笑吗？！"
+  },
+  {
+   "en": ": Look at the shape he’s in! This...this isn’t how it...",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 看看他都成什么样了！这……这不该是……"
+  },
+  {
+   "en": ": I didn’t agree to this! You’ve gone way too far! Hasn’t he been through enough already?!",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我可没同意这样！你做得太过分了！他受的罪还不够多吗？！"
+  },
+  {
+   "en": ": Some would say he’s been through nothing at all.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 有人会说他什么罪都没受过。"
+  },
+  {
+   "en": ": {i}Some{/i} would say the worst has yet to come.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}有人{/i}会说，最糟的还没来。"
+  },
+  {
+   "en": ": Now, do we need to remove you as well? Or will you do what you’ve been asked to?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那么，我们需要把你也请出去吗？还是你愿意照交代你的去做？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit11.webp",
+   "alt": "wemadeit11"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Who...do you think you are?",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你……以为你是谁？"
+  },
+  {
+   "en": ": What I’ve been {i}asked{/i} to do?...",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我被{i}交代{/i}要做的事？……"
+  },
+  {
+   "en": ": You don’t get it at all. You have no idea what’s-",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你根本不懂。你根本不知道这是什——"
+  },
+  {
+   "en": ": Listen, if you want the showrunners to file a complaint about you, I’d be more than happy to-",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 听着，如果你想让节目方去投诉你，我很乐意——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit12.webp",
+   "alt": "wemadeit12"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": H...Hi! Yumi...Yamaguchi here! Friendly neighborhood tsundere! Hahaha!",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 嗨……嗨！Yumi……Yamaguchi 在此！你友好的邻居傲娇！哈哈哈！"
+  },
+  {
+   "en": ": Yumi! Help rope! Gotta scratch!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Yumi！帮忙解绳子！好痒要挠！"
+  },
+  {
+   "en": ": Then, roof together! You remember!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 然后，一起去屋顶！你还记得！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit13.webp",
+   "alt": "wemadeit13"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": The way this game will work is simple-",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这个游戏的玩法很简单——"
+  },
+  {
+   "en": ": I will read you questions about all of the girls at your slumber party, and you will answer honestly and to the best of your ability. I just hope that the “best of your ability” winds up being the truth.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我会向你读出关于你睡衣派对上每一个女孩的问题，而你要诚实地、尽你所能地回答。我只希望你的「尽你所能」最后会是实话。"
+  },
+  {
+   "en": ": Because if it isn’t, you’ll be sent back to square one and have to do {i}all{/i} of this over again. And who knows {i}when{/i} the next time you’ll make it this far is?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 因为如果不是，你就得被打回原点，把这一切{i}重来{/i}一遍。而且谁知道你下一次走到这么远，会是{i}什么时候{/i}呢？"
+  },
+  {
+   "en": ": If you’re able to answer all of the questions correctly, though...you’ll be deemed worthy of continuing on and wake up back at home! Entirely sentient and entirely...naked.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 不过，如果你能全部答对……你就会被认定有资格继续下去，然后在家里醒来！神智完全清醒，而且完全……赤裸。"
+  },
+  {
+   "en": ": Are you ready to begin?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 准备好开始了吗？"
+  },
+  {
+   "en": ": Gotta...scratch!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 要……挠痒痒！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit14.webp",
+   "alt": "wemadeit14"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Fine, fine. But don’t say I never do anything for you.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 好好好。但别说我从没为你做过什么。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit15",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit15.webp",
+   "alt": "wemadeit15"
+  },
+  {
+   "en": "jump yumigstrivia",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "label yumigswrong:",
+   "zh": ""
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit18",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit18.webp",
+   "alt": "wemadeit18"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That’s...I’m sorry, but that’s not right.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 那……抱歉，但那不对。"
+  },
+  {
+   "en": ": Ooh! How unfortunate! Looks like you’ll just have to start the whole slumber party over!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 噢！真不走运！看来你只能把整场睡衣派对重来一遍了！"
+  },
+  {
+   "en": ": The whole thing?! At least magazine event saved progress!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 整场？！至少杂志活动还存了进度！"
+  },
+  {
+   "en": ": It did! But “magazine event” quizzed you on mostly trivial nonsense that our employer pulled out of a hat.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是啊！可「杂志活动」考的大多是我们老板从帽子里掏出来的无聊琐事。"
+  },
+  {
+   "en": ": This time, it’s different. This time you, you didn’t know something important.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这次不一样。这次，你不知道的是一件重要的事。"
+  },
+  {
+   "en": ": Do you {i}actually{/i} care? Or are you still just pretending to?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你{i}真的{/i}在乎吗？还是你依然只是在装？"
+  },
+  {
+   "en": ": Don’t wanna go back! Too many words! Already know all the coffee!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不想回去！话太多了！咖啡的事我全知道了！"
+  },
+  {
+   "en": ": Ahh, if only this was a coffee-related quiz and not one that required a more {i}prolonged{/i} retention of information.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 啊，要是这是场咖啡知识问答就好了，而不是一场需要更{i}长时间{/i}记住信息的问答。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene theend",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/theend.png",
+   "alt": "theend"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Thanks for joining us on Untitled Children’s Show!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 感谢收看《无名儿童节目》！"
+  },
+  {
+   "en": ": Maybe next time, our protagonist won’t make any mistakes!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 也许下次，我们的主角不会再犯错了！"
+  },
+  {
+   "en": ": Noooooooo!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不————！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene frown",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/frown.png",
+   "alt": "frown"
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump slumberreset3",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "label yumigstrivia:",
+   "zh": ""
+  },
+  {
+   "en": ": Question one...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 第一题……"
+  },
+  {
+   "en": ": Everybody knows I’m a bit of a badass, and it’s not all talk either!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 谁都知道我有点不好惹，而且这可不是说说而已！"
+  },
+  {
+   "en": ": I’ve got real experience in both violence {i}and{/i} being neglected, and that goes way back to before I ever even started masturbating to you!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我在暴力{i}和{/i}被忽视这两件事上都有实打实的经验，那得追溯到我刚开始想着你自慰之前！"
+  },
+  {
+   "en": ": Yumi wouldn’t! Hates me!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Yumi 不会的！她恨我！"
+  },
+  {
+   "en": ": Fact checker, can you confirm or deny what the card says? Have I been fed incorrect information?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员，你能确认或者否认卡片上写的吗？我拿到了错误的信息？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit16",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit16.webp",
+   "alt": "wemadeit16"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Uh...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 呃……"
+  },
+  {
+   "en": ": No...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不……"
+  },
+  {
+   "en": ": The card is right...",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 卡片是对的……"
+  },
+  {
+   "en": ": Of course it is.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 当然是对的。"
+  },
+  {
+   "en": ": Anyway, that experience has manifested in a number of ways — many of which involve people being hurt.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 总之，那些经验以很多种方式表现了出来——其中不少都涉及伤害别人。"
+  },
+  {
+   "en": ": So...{i}where{/i} did I start hurting people? Where did my first knockout take place?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那么……我是从{i}哪里{/i}开始伤害别人的？我的第一次击倒发生在哪儿？"
+  },
+  {
+   "en": ": Uhhhhh...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 呃呃呃……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ yumigs1 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ yumigs1 = yumigs1.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not yumigs1.lower() in [\"daycare\", \"day care\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump yumigswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Daycare! Daycare knockout! Told me recently! Remember that!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 托儿所！托儿所击倒！她最近才跟我说的！记得那个！"
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit17",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit17.webp",
+   "alt": "wemadeit17"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That’s correct.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 正确。"
+  },
+  {
+   "en": ": Are you just saying that because you have a soft spot for him?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你这么说，只是因为你对他心软吗？"
+  },
+  {
+   "en": ": No...it’s genuinely correct.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不……是真的正确。"
+  },
+  {
+   "en": ": I made a promise to be truthful and I intend to keep it.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 我答应过要说实话，我打算信守诺言。"
+  },
+  {
+   "en": ": Ah, and {i}speaking{/i} of promises!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 啊，{i}说到{/i}诺言！"
+  },
+  {
+   "en": ": Question two...it’s been a long time since {i}I’ve{/i} made a promise with anyone...but it’s not because I don’t want to. It’s because I’m scared.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 第二题……我已经很久没有和任何人{i}许下过{/i}诺言了……但这不是因为我不想。是因为我害怕。"
+  },
+  {
+   "en": ": It’s no secret that my trust issues run deeper than the Mariana Trench, but they only exist in the first place because my mother never brought me...where?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 众所周知，我的信任问题比马里亚纳海沟还深，而它们之所以存在，是因为我母亲从来没有带我去过……哪里？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ yumigs2 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ yumigs2 = yumigs2.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not yumigs2.lower() in [\"okinawa\", \"tokashiku beach\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump yumigswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Okinawa! Turtle place!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 冲绳！有海龟的地方！"
+  },
+  {
+   "en": ": Yumi likes turtles! Very cute!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Yumi 喜欢海龟！超可爱！"
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit19",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit19.webp",
+   "alt": "wemadeit19"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Yeah...he got it.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 嗯……他答对了。"
+  },
+  {
+   "en": ": So good at this. Bring it on, Long Maya. Will answer all question!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 这么厉害。放马过来吧，长条 Maya。所有问题我都会答！"
+  },
+  {
+   "en": ": Then I suppose we’ll go with...a-hah. This one seems a little less obvious.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那么我们就选……啊哈。这道看起来没那么明显。"
+  },
+  {
+   "en": ": What is my favorite beverage?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我最喜欢的饮料是什么？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit20",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit20.webp",
+   "alt": "wemadeit20"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Never learned! Yumi never told! Not good conversation topic!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 没学过！Yumi 从来没说过！不是好聊的话题！"
+  },
+  {
+   "en": ": Sometimes, showing is telling. Now go on, take a guess.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 有时候，做就是说的意思。来吧，猜猜看。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ yumigs3 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ yumigs3 = yumigs3.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not yumigs3.lower() in [\"water\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump yumigswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Water! Yumi drinks all the water! She is so hydrated!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 水！Yumi 一直喝水！她水分超足！"
+  },
+  {
+   "en": ": Hmmm....fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 嗯……事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit21",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit21.webp",
+   "alt": "wemadeit21"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Damn right. Though it ain’t as much of an actual “favorite” as it is a thing I just always fuckin’ have on me.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 一点没错。虽然与其说那是真正的「最爱」，不如说是我他妈随身总带着的东西。"
+  },
+  {
+   "en": ": Ain’t like I can really afford anythin’ else, though.",
+   "spk": "Yumi",
+   "spkColor": "#FF4949",
+   "zh": ": 不过，反正我也买不起别的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit22",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit22.webp",
+   "alt": "wemadeit22"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What great news! You’ve managed to pass the Yumi round!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 好消息！你成功通过了 Yumi 回合！"
+  },
+  {
+   "en": ": But coming up next is a real enigma...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 但接下来登场的，是个真正的谜团……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump tsuneyogstrivia",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "label tsuneyogswrong:",
+   "zh": ""
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit24",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit24.webp",
+   "alt": "wemadeit24"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No...that’s not right.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 不……那不对。"
+  },
+  {
+   "en": ": Ahhhhhhh!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 啊啊啊啊啊！"
+  },
+  {
+   "en": ": Are you absolutely sure?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你绝对确定吗？"
+  },
+  {
+   "en": ": I am.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 我确定。"
+  },
+  {
+   "en": ": {i}Absolutely?{/i}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}绝对？{/i}"
+  },
+  {
+   "en": ": I have never been more sure of anything in my life.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 我这辈子从没对什么事这么确定过。"
+  },
+  {
+   "en": ": How unfortunate! Because that means our protagonist is going to have to start over at the beginning of the slumber party!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 真不走运！因为这意味着我们的主角得从睡衣派对的开头重来一遍了！"
+  },
+  {
+   "en": ": The beginning?! That is so long ago!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 开头？！那可是好久以前了！"
+  },
+  {
+   "en": ": It is! But that’s the price you have to pay for not caring and valuing everyone’s time and opinions!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是啊！但这就是你不在乎、不重视大家的时间和意见所必须付出的代价！"
+  },
+  {
+   "en": ": We’re only doing this to help you, you know. Like anyone else, we want you to succeed!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我们这么做都是为了帮你，你知道的。跟任何人一样，我们也想让你成功！"
+  },
+  {
+   "en": ": Then let me try again! Will get it right this time!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那让我再试一次！这次会答对的！"
+  },
+  {
+   "en": ": You {i}can{/i} try again!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你{i}可以{/i}再试一次！"
+  },
+  {
+   "en": ": Yay!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 耶！"
+  },
+  {
+   "en": ": You’ll just have to hold down the CTRL key for a little while. Which you’re probably already familiar with if you’re getting these questions wrong.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你只需要按住 CTRL 键一小会儿。要是你连这些问题都答错，你大概对它已经很熟了。"
+  },
+  {
+   "en": ": AAHHHHH SO MEAN LONG MAYA!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 啊啊啊啊长条 Maya 好过分！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene theend",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/theend.png",
+   "alt": "theend"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Thanks for joining us on Untitled Children’s Show!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 感谢收看《无名儿童节目》！"
+  },
+  {
+   "en": ": Maybe next time, our protagonist won’t make any mistakes!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 也许下次，我们的主角不会再犯错了！"
+  },
+  {
+   "en": ": Noooooooo!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不————！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene frown",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/frown.png",
+   "alt": "frown"
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": "jump slumberreset3",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "label tsuneyogstrivia:",
+   "zh": ""
+  },
+  {
+   "en": "scene wemadeit23",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit23.webp",
+   "alt": "wemadeit23"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Tsuneyo Tojo! Pachipachipachipachipachi.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": Tsuneyo Tojo！啪啪啪啪啪啪啪。"
+  },
+  {
+   "en": ": Hello.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 你们好。"
+  },
+  {
+   "en": ": Hi Tsuneyo. What was smell.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗨 Tsuneyo。什么味儿来着。"
+  },
+  {
+   "en": ": I’m afraid that is information I do not currently possess, bro.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 恐怕那是目前我不掌握的信息，老兄。"
+  },
+  {
+   "en": ": Oh sorry didn’t know.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 哦抱歉不知道。"
+  },
+  {
+   "en": ": Fuck you.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 去你的。"
+  },
+  {
+   "en": ": Question one...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 第一题……"
+  },
+  {
+   "en": ": My knowledge of the outside world is limited due to extremely minimal exposure over the years, but that doesn’t mean I don’t know anything at all!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 由于这些年来接触极少，我对外面世界的了解十分有限，但这不代表我什么都不知道！"
+  },
+  {
+   "en": ": In fact, I consider myself a bit of a repository when it comes to vital information...and there are very few quotes I can not properly attribute to their respective sources.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实上，在重要信息这方面，我把自己当成一座储藏库……几乎没有哪句名言是我不能准确归到出处上的。"
+  },
+  {
+   "en": ": A wise man once said, “There is nothing to fear but fear itself!”",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 一位智者曾说过：「唯一值得恐惧的，就是恐惧本身！」"
+  },
+  {
+   "en": ": Who was that man?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那个人是谁？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ tsuneyogs1 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ tsuneyogs1 = tsuneyogs1.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not tsuneyogs1.lower() in [\"franklin delaware roosevelt\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump tsuneyogswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit25",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit25.webp",
+   "alt": "wemadeit25"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That is correct. Franklin Delaware Roosevelt is the man who originally said that — not to be confused with a man who went by a similar name that was very likely misspelled in the middle.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 正确。这句话最初出自 Franklin Delaware Roosevelt——别和另一个名字相似、中间大概拼错了的人混淆。"
+  },
+  {
+   "en": ": I’m not sure if I understand, but there is a great deal I’ll {i}never{/i} understand when it comes to you, Miss Tojo.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我不确定我听没听懂，但关于你，Tojo 小姐，有太多事我{i}永远{/i}都搞不懂。"
+  },
+  {
+   "en": ": If only there was some sort of window I could peer through that would allow me to see into your soul.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 要是能有某种窗户，让我能透过它窥见你的灵魂就好了。"
+  },
+  {
+   "en": ": But speaking of which, our second question is this!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 不过说到这个，我们的第二题是！"
+  },
+  {
+   "en": ": How many windows are there in Tojo Ramen?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": Tojo Ramen 里有几扇窗户？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ tsuneyogs2 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ tsuneyogs2 = tsuneyogs2.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not tsuneyogs2.lower() in [\"zero\", \"0\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump tsuneyogswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Trick question! No windows in Tojo Ramen! Very dark restaurant!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 陷阱题！Tojo Ramen 没有窗户！店里很暗！"
+  },
+  {
+   "en": ": Is this true, Tsuneyo?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是真的吗，Tsuneyo？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit26",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit26.webp",
+   "alt": "wemadeit26"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": It is. Though I am unable to confirm that things will stay that way forever as I am still contemplating investing in a window display.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 是真的。不过我无法保证永远如此，因为我还在考虑投资一个橱窗展示位。"
+  },
+  {
+   "en": ": There are no windows on the second floor either?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 二楼也没有窗户吗？"
+  },
+  {
+   "en": ": Why are you asking me questions about the second floor?",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 你为什么要问我二楼的事？"
+  },
+  {
+   "en": ": I’m just looking for confirmation.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我只是想确认一下。"
+  },
+  {
+   "en": ": I don’t believe you and am not willing to speak about this any further. Please ask the third question. You are wasting everyone’s time.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 我不相信你，也不打算再谈这个了。请问第三题吧。你在浪费所有人的时间。"
+  },
+  {
+   "en": ": Fine. No one was looking forward to having you on this segment anyway.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 好。反正也没人期待你上这个环节。"
+  },
+  {
+   "en": ": Say that again, you bastard.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 再说一遍，你这混蛋。"
+  },
+  {
+   "en": ": Question three...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 第三题……"
+  },
+  {
+   "en": ": What is the most important dish we serve at Tojo Ramen?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我们在 Tojo Ramen 供应的最重要的菜品是什么？"
+  },
+  {
+   "en": ": Easy. The answer to that question is “ramen.” Please move on to question four now.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 简单。答案是「拉面」。请现在就进行第四题。"
+  },
+  {
+   "en": ": The questions aren’t for you and I’d really appreciate it if you’d be able to step out of character while I’m reading the cards.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这些问题不是给你答的，在我念卡片的时候，我很希望你能别演角色。"
+  },
+  {
+   "en": ": Also, the answer you gave isn't correct as it needs to match the card {i}exactly.{/i}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 另外，你给的答案不正确，因为它必须与卡片{i}完全一致{/i}。"
+  },
+  {
+   "en": ": Impossible. I answered the question and it is time to move on.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 不可能。我回答了问题，该进行下一题了。"
+  },
+  {
+   "en": ": Do {i}you{/i} have a different answer?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}你{/i}有不同的答案吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ tsuneyogs3 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ tsuneyogs3 = tsuneyogs3.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not tsuneyogs3.lower() in [\"tori shio ramen\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump tsuneyogswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Tori shio ramen! So good! Have it on a card!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 盐味鸡汤拉面！超好吃！我记在卡片上了！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit27",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit27.webp",
+   "alt": "wemadeit27"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Tch.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 啧。"
+  },
+  {
+   "en": ": Wow, what’s that reaction for?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 哇，你这反应是为什么？"
+  },
+  {
+   "en": ": Could it be there is a little more to that dish than you’re letting on?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 会不会是那道菜里，还有你没说出来的东西？"
+  },
+  {
+   "en": ": Of course not. Noodles are noodles. They are all equally important.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 当然没有。面条就是面条。它们全都一样重要。"
+  },
+  {
+   "en": ": I am reacting this way as I am disappointed in myself for forgetting the answer. There is nothing more to it.",
+   "spk": "Tsuneyo",
+   "spkColor": "#C8B330",
+   "zh": ": 我之所以这样反应，是因为我为自己忘了答案而失望。没有别的意思。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit22",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit22.webp",
+   "alt": "wemadeit22"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Well, whatever the case, it looks like the Tsuneyo Tojo round is now complete!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 好吧，不管怎样，看起来 Tsuneyo Tojo 回合到此结束了！"
+  },
+  {
+   "en": ": Congratulations on making it halfway through the segment and reaching the first and only checkpoint!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 恭喜你走完一半环节，抵达了第一个、也是唯一一个存档点！"
+  },
+  {
+   "en": ": It is at this point that we’d like to say thank you to our sponsors in the form of a quick commercial break! But not before asking one more {i}bonus{/i} question...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 在这个节点上，我们想用一段简短的广告时间来对赞助商说声谢谢！但在此之前，还有一道{i}奖励{/i}题……"
+  },
+  {
+   "en": ": You’ll only have one chance to answer this, so think {i}very{/i} carefully...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这道题你只有一次机会，所以{i}非常{/i}仔细地想清楚……"
+  },
+  {
+   "en": ": Below the egg and dancing three, a picture book sits peacefully.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 在鸡蛋之下、跳舞的三之下，一本画册静静地躺着。"
+  },
+  {
+   "en": ": You'd hide something beneath your bed...do you remember what the caption said?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你会在床底下藏点什么……你还记得那行说明文字写的是什么吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ gsbonus = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ gsbonus = gsbonus.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not gsbonus.lower() in [\"cute puppy\"]:",
+   "zh": ""
+  },
+  {
+   "en": "scene youidiot",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/youidiot.webp",
+   "alt": "youidiot"
+  },
+  {
+   "en": "$ mothersmiss = True",
+   "zh": ""
+  },
+  {
+   "en": "jump gstriviaround2",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": "jump mothersmilk",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "label mayagswrong:",
+   "zh": ""
+  },
+  {
+   "en": ": Fact checker, is that correct?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员，那对吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit29",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit29.webp",
+   "alt": "wemadeit29"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No...it’s not.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 不……不对。"
+  },
+  {
+   "en": ": Oooh, too bad! Thankfully, you did manage to reach the checkpoint after completing Miss Tojo’s round. So at least you won’t have to go {i}too{/i}far back.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 噢，太可惜了！好在你在完成 Tojo 小姐的回合后抵达了存档点。所以至少你不用退回去{i}太远{/i}。"
+  },
+  {
+   "en": ": Don’t wanna go back at all! Hurts my head! Wanna keep going!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 一点也不想回去！头疼！想继续！"
+  },
+  {
+   "en": ": Unfortunately, continuing on {i}without{/i} reverting to an older state may result in some...unfortunate side effects for the girls in question.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 遗憾的是，{i}不{/i}回到更早的状态就继续下去，可能会给相关女孩们带来一些……不幸的副作用。"
+  },
+  {
+   "en": ": They’re all directly connected to what’s going on right now, and every incorrect answer you provide actually inflicts extreme harm on them in their own personal trials!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 她们都和眼下正在发生的事直接相连，你给出的每一个错误答案，都会真真切切地重伤她们各自的试炼！"
+  },
+  {
+   "en": ": Don’t wanna hurt! Wanna hug!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不想伤人！想抱抱！"
+  },
+  {
+   "en": ": Then be a {b}GOOD BOY{/b} and start over, okay?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那就做个{b}乖孩子{/b}，从头再来，好吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene theend",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/theend.png",
+   "alt": "theend"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Thanks for joining us on Untitled Children’s Show!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 感谢收看《无名儿童节目》！"
+  },
+  {
+   "en": ": Maybe next time, our protagonist won’t make any mistakes!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 也许下次，我们的主角不会再犯错了！"
+  },
+  {
+   "en": ": Noooooooo!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不————！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene frown",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/frown.png",
+   "alt": "frown"
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": "jump gstriviaround2",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "label gstriviaround2:",
+   "zh": ""
+  },
+  {
+   "en": "scene wemadeit13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit13.webp",
+   "alt": "wemadeit13"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Welcome back to Untitled Children’s Show. I’m your stand-in host, 〄.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 欢迎回到《无名儿童节目》。我是你们的代班主持人，〄。"
+  },
+  {
+   "en": ": If you’re just joining us now, our contestant has made it halfway through his trial without managing to ruin everything, like he so commonly does.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 如果你是刚打开电视，我们的参赛者已经走完了一半试炼，还没有像他常做的那样把一切搞砸。"
+  },
+  {
+   "en": ": Will he make it through the next two rounds as well? Text your votes to the letter X and to let us know what you, the viewer, think!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 他能顺利通过后两轮吗？把你的投票发短信给字母 X，让我们知道你——观众——怎么想！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit28",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit28.webp",
+   "alt": "wemadeit28"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Round three begins with none other than {b}HER.{/b}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 第三轮由{b}她{/b}开场。"
+  },
+  {
+   "en": ": Can we make this quick? I’d really prefer not almost sleeping through the apocalypse again and I’ve been noticing a disturbing pattern throughout the last several resets.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 能快点吗？我可真不想再差一点就在末日里睡过去了，而且我注意到前几次重置里有一种令人不安的模式。"
+  },
+  {
+   "en": ": Our first question about {b}HER{/b} includes a character detail that has seemed mostly unimportant up to this point in the story, but may one day help you remember something!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 关于{b}她{/b}的第一道题，包含一个到目前为止在故事里看似无关紧要的人物细节，但也许有一天能帮你想起什么！"
+  },
+  {
+   "en": ": {b}SHE{/b} plays an instrument. What is it?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {b}她{/b}会演奏一种乐器。是什么？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ mayags1 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ mayags1 = mayags1.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not mayags1.lower() in [\"violin\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump mayagswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Violin! Has one on a box but never touches it! Always wonder why!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 小提琴！盒子里有一把，但从不碰！一直想知道为什么！"
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit30",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit30.webp",
+   "alt": "wemadeit30"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That is correct. But the reason I no longer play it is of no concern to you right now.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 正确。但我不再拉琴的原因，现在与你无关。"
+  },
+  {
+   "en": ": That’s okay. Will wait for emotional violin scene. Gonna happen.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 没关系。会等到感人的小提琴场景的。会有的。"
+  },
+  {
+   "en": ": Let’s focus on getting out of here before thinking about what the future may hold...because it’s quite possible there will {i}be{/i} no future if we remain trapped in here.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我们先专注于离开这里，别去想未来会怎样……因为要是我们一直困在这儿，很可能{i}根本{/i}没有未来。"
+  },
+  {
+   "en": ": Saying you’re “trapped” isn’t all that accurate as you’d be here regardless of the program, but we can look past that right now for the sake of brevity.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 说你「被困住」并不太准确，因为不管有没有这个节目你都会在这儿，不过为了简洁起见，我们现在可以先不谈这个。"
+  },
+  {
+   "en": ": Ask me favorite food! Know that one! Won’t get wrong!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 问我最喜欢的食物！那个我知道！不会答错！"
+  },
+  {
+   "en": ": I’m afraid that one would be a bit too easy. What I’m looking for is...ah. Found it.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 恐怕那道太简单了。我要找的是……啊。找到了。"
+  },
+  {
+   "en": ": I’ve always been a girl of many faces...and for every common-knowledge hobby of mine, like my love for manga or tendency to {i}also{/i} masturbate while thinking of you-",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我一直是个有着许多副面孔的女孩……除了那些人尽皆知的爱好，比如我对漫画的热爱，或者{i}也{/i}会一边想着你一边自慰的习惯——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit31",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit31.webp",
+   "alt": "wemadeit31"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Is it really necessary to keep bringing that-",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 有必要一直提那——"
+  },
+  {
+   "en": ": True or false, fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 真的还是假的，事实核查员？"
+  },
+  {
+   "en": ": I don’t have to-",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我没有必——"
+  },
+  {
+   "en": ": True? Or false?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 真的？还是假的？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": ..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit32",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit32.webp",
+   "alt": "wemadeit32"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": True...even though it pains me to admit it.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 真的……虽然承认这点让我很痛苦。"
+  },
+  {
+   "en": ": There’s nothing to be ashamed of. I often fill my sex crevice with pens and pretend that they are all tinier, thinner versions of him. I’m sure you do the same.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 没什么好羞耻的。我经常拿笔塞满我的性裂缝，假装它们都是更小、更细的版本的他。我确定你也一样。"
+  },
+  {
+   "en": ": I don’t.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我不。"
+  },
+  {
+   "en": ": Fact checker, please fact check yourself.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员，请你把自己也核查一下。"
+  },
+  {
+   "en": ": False. Maya doesn’t- {i}I{/i} don’t do that.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 假的。Maya 不会——{i}我{/i}不会做那种事。"
+  },
+  {
+   "en": ": You don’t do that {i}yet...{/i}but I digress.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你只是{i}还没{/i}做而已……不过我扯远了。"
+  },
+  {
+   "en": ": In addition to my wealth of hobbies, there is something I collect. What is it?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 除了我丰富的爱好之外，我还收藏一样东西。是什么？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ mayags2 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ mayags2 = mayags2.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not mayags2.lower() in [\"masks\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump mayagswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Masks! She is a mask girl! See those in her room too! On the wall!",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 面具！她是面具女孩！她房间里也有！挂在墙上！"
+  },
+  {
+   "en": ": Fact che-",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核——"
+  },
+  {
+   "en": ": Correct. Next question.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 正确。下一题。"
+  },
+  {
+   "en": ": Wow. {i}Someone{/i} is in a hurry, aren’t they?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 哇。{i}有人{/i}很着急啊，是不是？"
+  },
+  {
+   "en": ": As I said, I want to get out of here. I can’t do that if you’re going to keep stalling and asking unrelated personal questions.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我说过了，我想离开这儿。你要是继续拖时间、问些不相干的私人问题，我就走不了。"
+  },
+  {
+   "en": ": I don’t do this to take advantage of people’s memories, you know. I do it because-",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我做这些不是为了利用别人的记忆，你知道的。我做这些是因为——"
+  },
+  {
+   "en": ": It doesn’t matter {i}why{/i} you do it, just that you {i}do.{/i}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你为什么做{i}并不重要{/i}，重要的只是你{i}在做{/i}。"
+  },
+  {
+   "en": ": I’ll go ahead and ask the next question, but it’s not because I sympathize with you. It’s because we’re running out of time and there is a new soap opera scheduled after this.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我会接着问下一题，但不是因为我同情你。是因为我们时间快不够了，这之后还排了一部新肥皂剧。"
+  },
+  {
+   "en": ": I should also check on Moyo in the operating room. The doctors don’t have as much experience with the inside of her uterus as I do.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我还得去看看手术室里的 Moyo。医生们对她的子宫内部，可没有我这么有经验。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": ..."
+  },
+  {
+   "en": ": {i}Ahem...{/i}Question three...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}咳……{/i}第三题……"
+  },
+  {
+   "en": ": While I may be conceited, there will always be...{i}limits{/i} to that. Just like any other girl, or any other {i}person,{/i} I have things that I can’t help but feel insecure about sometimes.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 虽然我很自负，但这种自负总会有{i}界限{/i}。就像任何别的女孩、或者任何别的{i}人{/i}一样，我也有时会忍不住感到不安。"
+  },
+  {
+   "en": ": You’re constantly surrounded by girls...and all of them feel at times like {i}they{/i} are the front runner for your heart.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你身边总是围着一堆女孩……而她们每个人在某些时刻都觉得自己{i}才是{/i}你心中的第一名。"
+  },
+  {
+   "en": ": But that should be {i}me.{/i} I’m the one you’re supposed to love, not {i}them.{/i}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 但那应该是{i}我{/i}。我才是你该爱的人，不是{i}她们{/i}。"
+  },
+  {
+   "en": ": But even with that being said...there is one other person I can’t help but feel jealous of. Even {i}if{/i} I think I am superior to them in basically every single way.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 可即便如此……还有一个人让我忍不住嫉妒。{i}就算{/i}我觉得自己在基本上每一个方面都比她强。"
+  },
+  {
+   "en": ": Who is that person?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那个人是谁？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ mayags3 = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ mayags3 = mayags3.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if not mayags3.lower() in [\"niki\", \"niki nakayama\"]:",
+   "zh": ""
+  },
+  {
+   "en": "jump mayagswrong",
+   "zh": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Hard think. Brain is soup.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 好难想。脑子是汤。"
+  },
+  {
+   "en": ": Is it...Niki?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 是……Niki 吗？"
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit33",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit33.webp",
+   "alt": "wemadeit33"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": ...",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": {i}Ahem...{/i}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}咳……{/i}"
+  },
+  {
+   "en": ": That’s correct.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 正确。"
+  },
+  {
+   "en": ": I wasn’t your first love...{i}or{/i} your second, but...",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我不是你的初恋……{i}也不是{/i}你的第二个，但……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": ..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump gscompletehooray",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "label gscompletehooray:",
+   "zh": ""
+  },
+  {
+   "en": "scene wemadeit34",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit34.webp",
+   "alt": "wemadeit34"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I can’t do this anymore. I have to bail out.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我受够了。我得撤了。"
+  },
+  {
+   "en": ": It’s one thing getting inside the head of Yumi or Tsuneyo, but do you have any idea just how much is going on in this one? I can barely make sense of any of it.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 钻进 Yumi 或者 Tsuneyo 的脑袋是一回事，但你知不知道这个人的脑子里有多少东西？我自己都几乎理不清。"
+  },
+  {
+   "en": ": You can’t leave yet. We still have one more round of questions.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你还不能走。我们还有一轮问题。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit35",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit35.webp",
+   "alt": "wemadeit35"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You’re going to make me do {i}her{/i} too?!",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 你还要让我做{i}她{/i}的？！"
+  },
+  {
+   "en": ": Was that not obvious from the beginning? I specifically stated there were twelve questions.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 从一开始不就很明显吗？我特意说过一共十二道题。"
+  },
+  {
+   "en": ": There are stipulations in my contract that {i}specifically{/i} list her as an exception. I can’t.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我的合同里有条款{i}明确{/i}把她列为例外。我做不了。"
+  },
+  {
+   "en": ": Can’t? Or {i}won’t?{/i}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 做不了？还是{i}不想做？{/i}"
+  },
+  {
+   "en": ": Why does it matter?! You’ve got answers on your cards, don’t you? Just read those and go without a fact checker. I can’t do it.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 这有什么关系？！你手上有答案，不是吗？就照着念，别要事实核查员了。我做不了。"
+  },
+  {
+   "en": ": Okay, but...it would be a real shame if we accidentally damaged him as a result of this.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 好吧，可是……要是我们因此不小心弄坏了他，那就太可惜了。"
+  },
+  {
+   "en": ": Damaged him {i}how?{/i} What does that even mean? Haven’t you already done enough?",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 弄坏他{i}怎么弄{/i}？那到底是什么意思？你们做的还不够多吗？"
+  },
+  {
+   "en": ": Feeding someone incorrect information can cause more damage than torture at times.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 给一个人灌输错误的信息，有时比拷问造成的伤害更大。"
+  },
+  {
+   "en": ": I’m an unbiased reporter. I just want to make sure he has the facts.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我是无偏见的报道者。我只想确保他掌握事实。"
+  },
+  {
+   "en": ": All of those facts just happen to belong to you.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 而那些事实恰好全都属于你。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": ..."
+  },
+  {
+   "en": ": How about this...we’re already running over on time, so why don't we cut two of the questions out and finish after just one more?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这样吧……我们已经超时了，不如砍掉两道题，再答完最后一道就收工？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit36",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit36.webp",
+   "alt": "wemadeit36"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Just one?",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 就一道？"
+  },
+  {
+   "en": ": Just one.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 就一道。"
+  },
+  {
+   "en": ": What is it?",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是什么？"
+  },
+  {
+   "en": ": I choose...this one.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我选……这道。"
+  },
+  {
+   "en": ": What is it? Tell me. And I’m not answering anything gross anymore, so you can forget it if it’s something like that.",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是什么？告诉我。而且我再也不回答恶心的问题了，如果是那种的话你就死了这条心。"
+  },
+  {
+   "en": ": I can’t read the question until you change...but what I {i}can{/i} tell you...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 在你改变之前，我没法念出题目……但我{i}能{/i}告诉你的……"
+  },
+  {
+   "en": ": Is it may very well change the future.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是它很可能会改变未来。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit37",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit37.webp",
+   "alt": "wemadeit37"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": ...",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": ..."
+  },
+  {
+   "en": ": You’re sick.",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你有病。"
+  },
+  {
+   "en": ": You’re {i}all{/i} sick. I don’t understand how you can do this to someone so...helpless. He’s broken. Can’t you see that?",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你们{i}全都{/i}有病。我不明白你们怎么能对这么……无助的人做这种事。他已经坏掉了。你们看不出来吗？"
+  },
+  {
+   "en": ": He can be fixed.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 他可以被修好。"
+  },
+  {
+   "en": ": They can always be fixed.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 他们永远都可以被修好。"
+  },
+  {
+   "en": ": I’m done after this. I’m not coming back.",
+   "spk": "???",
+   "spkColor": "#e6e6e6",
+   "zh": ": 做完这个我就不干了。我不会再回来了。"
+  },
+  {
+   "en": ": Moyo will be very upset to hear that. She likes you very much.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": Moyo 听到这个会很伤心。她很喜欢你。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit38",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit38.webp",
+   "alt": "wemadeit38"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Final question...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 最后一题……"
+  },
+  {
+   "en": ": You got me pregnant, but I never told you about it because I am a coward.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你让我怀了孕，但我从来没告诉过你，因为我是个懦夫。"
+  },
+  {
+   "en": ": Something happened that made the baby go away.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 后来发生了一些事，让孩子没了。"
+  },
+  {
+   "en": ": I remember, but I pretend that I don’t because it makes it hurt less.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我记得，但我假装不记得，因为那样没那么疼。"
+  },
+  {
+   "en": ": I picked out a name for her.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我给她取好了名字。"
+  },
+  {
+   "en": ": It was one I knew you’d like.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是我知道你会喜欢的那一个。"
+  },
+  {
+   "en": ": What was it?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是什么？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ whatyousaid = renpy.input(\"The answer is...\")",
+   "zh": ""
+  },
+  {
+   "en": "$ whatyousaid = whatyousaid.strip()",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": [whatyousaid].",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": [whatyousaid]."
+  },
+  {
+   "en": ": ...",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": Fact checker?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 事实核查员？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": I’m going to need an answer.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我需要一个答案。"
+  },
+  {
+   "en": ": I...",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我……"
+  },
+  {
+   "en": ": I can’t give you one.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我给不了你。"
+  },
+  {
+   "en": ": You can’t? How strange. Why do you think that is?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你给不了？真奇怪。你觉得这是为什么？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": ..."
+  },
+  {
+   "en": ": Perhaps...you’re afraid of what will happen if you do?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 也许……你是害怕说出答案之后会发生什么？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": ..."
+  },
+  {
+   "en": ": Of what will happen to {i}you.{/i}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 害怕{i}你{/i}会怎么样。"
+  },
+  {
+   "en": ": I’m sorry.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 对不起。"
+  },
+  {
+   "en": ": I can’t protect you.",
+   "spk": "Ayane",
+   "spkColor": "#00BAB1",
+   "zh": ": 我保护不了你。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit39",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit39.webp",
+   "alt": "wemadeit39"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oooh, too bad! It looks like we’ll have to send you back to the beginning of everything after all!",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 噢，太可惜了！看来我们终究还是得把你送回一切的开头！"
+  },
+  {
+   "en": ": I’ll remember you always, [mayamaster]. The feeling of your cock still lingers in my-",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我会永远记得你的，[mayamaster]。你的阴茎的感觉还残留在我——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit40",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit40.webp",
+   "alt": "wemadeit40"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What? What happened?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 什么？发生了什么？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": {i}Now? But I was informed that wasn’t possible.{/i}",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}现在？但我得到的通知是那不可能。{/i}"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": Does It know yet?",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 它知道了吗？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": I see...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我明白了……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if cheater == True:",
+   "zh": ""
+  },
+  {
+   "en": ": ...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": ..."
+  },
+  {
+   "en": ": Yes. Adjustments have already been made and precautionary measures have been taken to ensure it does not happen again.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 是的。已经做了调整，并采取了预防措施，确保它不会再发生。"
+  },
+  {
+   "en": ": ...",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": ..."
+  },
+  {
+   "en": ": Understood.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 明白了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit41",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit41.webp",
+   "alt": "wemadeit41"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": It appears that there has been an interruption in today’s broadcast.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 看来今天的广播出现了中断。"
+  },
+  {
+   "en": ": If your connection has not yet been severed and you are still watching this program, thank you. But it is with a heavy heart that I must sign off.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 如果你的连接还没被切断、你依然在收看本节目，谢谢你们。但我必须怀着沉痛的心情在此签退。"
+  },
+  {
+   "en": ": Thank you again to our sponsors and to all of the people who-",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 再次感谢我们的赞助商，以及所有——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene wemadeit42",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/wemadeit42.webp",
+   "alt": "wemadeit42"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh no.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 哦不。"
+  },
+  {
+   "en": ": He popped.",
+   "spk": "79 6f 75 64 69 64 69 74",
+   "spkColor": "#e6e6e6",
+   "zh": ": 他爆了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ slumberreset4 = True",
+   "zh": ""
+  },
+  {
+   "en": "jump slumberreset5",
+   "zh": ""
+  }
+ ]
 }

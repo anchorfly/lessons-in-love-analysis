@@ -31,7 +31,7 @@
       "zh": ": 嗨!我回来了。Imani 呢?她终于意识到自己酷得配不上我们了?"
     },
     {
-      "en": ": Not yet. But there’s always a chance she has a spontaneous epiphany and vanishes without a trace when she does realize it. I think we’re safe for now, though.",
+      "en": ": Not yet. But there’s always a chance she has a spontaneous epiphany and vanishes without a trace when she {i}does{/i} realize it. I think we’re safe for now, though.",
       "spk": "Sensei",
       "spkColor": "#969696",
       "zh": ": 还没有。但她随时可能灵光乍现、然后人间蒸发。不过我觉得,眼下我们是安全的。"
@@ -299,10 +299,10 @@
       "en": ""
     },
     {
-      "en": ": Hm?",
+      "en": ": {i}{size=-5}Hm?{/i}{/size}",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 嗯?"
+      "zh": ": {i}{size=-5}嗯?{/size}{/i}"
     },
     {
       "en": ": Oh boy. Here we go.",
@@ -326,10 +326,10 @@
       "en": ""
     },
     {
-      "en": ": AHHPGHPGBPGGHGPTHTHGHTGHGPAGAHAHAHH!!?!?!!!",
+      "en": ": {i}{size=-5}AHHPGHPGBPGGHGPTHTHGHTGHGPAGAHAHAHH!!?!?!!!{/i}{/size}",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 啊噗呸噗噗噗呸嗯嗯嗯嗯哈啊哈!!?!?!!!"
+      "zh": ": {i}{size=-5}啊噗呸噗噗噗呸嗯嗯嗯嗯哈啊哈!!?!?!!!{/size}{/i}"
     },
     {
       "en": ": You have...some pretty weird sex moans, Akira! But I’m...still kind of into it!",
@@ -365,10 +365,10 @@
       "en": ""
     },
     {
-      "en": ": Oh, you know! Just the girl you came here with! The one you’ve now done this to twice in twenty four hours!",
+      "en": ": Oh, you know! Just the girl you came here with! The one you’ve now done this to {i}twice{/i} in twenty four hours!",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 哦,你猜!就是跟你一起来的那个女孩!你二十四小时内对她犯下这种事的第二回!"
+      "zh": ": 哦,你猜!就是跟你一起来的那个女孩!你二十四小时内对她犯下这种事的{i}第二回{/i}!"
     },
     {
       "en": ": H...Hi, Imani! I’m just...showing Akira how to use the showers!",
@@ -425,10 +425,10 @@
       "zh": ": 我戴很多饰品,行吗?!你刚才说追你女朋友的事呢?!现在每次我一眨眼,你们就要来这一出?!"
     },
     {
-      "en": ": Not on purpose! But...holy fuck is he good...",
+      "en": ": Not on purpose! But...holy {i}fuck{/i} is he good...",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 不是故意的!但是……天哪他也太会了……"
+      "zh": ": 不是故意的!但是……{i}天哪{/i}他也太会了……"
     },
     {
       "en": ": I’m well aware of how good he is! Why else would I drag him into the bathroom of a bar on a near weekly basis?!",
@@ -458,10 +458,10 @@
       "en": ""
     },
     {
-      "en": ": Don’t even get me started with you, Senpai!",
+      "en": ": Don’t even get me started with {i}you,{/i} Senpai! ",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 轮到你还早,学姐!"
+      "zh": ": 轮到{i}你{/i}还早,学姐!"
     },
     {
       "en": ": I can’t believe we could have such a serious, intimate moment just to have you screwing Rika five minutes later! How does your brain even work?!",
@@ -476,16 +476,16 @@
       "zh": ": 它……大部分时候……不长!"
     },
     {
-      "en": ": Well, knock it off! Because, while this might be more in-line with what I thought Rika had planned for you earlier, it feels very, very wrong in this context!",
+      "en": ": Well, knock it off! Because, while this might be more in-line with what I {i}thought{/i} Rika had planned for you earlier, it feels very, very wrong in this context!",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 好了,住手!因为,虽然这大概更接近 Rika 之前给你安排的路线,但在这个语境下,它让人感觉非常、非常不对!"
+      "zh": ": 好了,住手!因为,虽然这{i}大概{/i}更接近 Rika 之前给你安排的路线,但在这个语境下,它让人感觉非常、非常不对!"
     },
     {
-      "en": ": Jesus fucking...ugh! Harder, Akira! Harder! Make me forget what...I was even suspicious about!",
+      "en": ": Jesus fucking...ugh! Harder, Akira! {i}Harder!{/i} Make me forget what...I was even suspicious about!",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 老天该死……唔!更用力,Akira!更用力!让我忘记我刚才……到底在怀疑什么!"
+      "zh": ": 老天该死……唔!更用力,Akira!{i}更用力!{/i}让我忘记我刚才……到底在怀疑什么!"
     },
     {
       "en": ": This guy and his sexual proclivities! And how he apparently thinks he can keep fucking himself out of every conflict he encounters!",
@@ -551,16 +551,16 @@
       "en": ""
     },
     {
-      "en": "So, it turns out I really can just fuck myself out of every quagmire I find myself stuck in. And that these two can be suspicious of me while still lusting after me. Nice.",
-      "zh": ": 原来,我真的可以靠做爱从每一个困住我的泥沼里干出来。而且这两位可以一边怀疑我,一边对我欲火焚身。不错。"
+      "en": "So, it turns out I really {i}can{/i} just fuck myself out of every quagmire I find myself stuck in. And that these two can be suspicious of me while {i}still{/i} lusting after me. Nice.",
+      "zh": ": 原来,我真的{i}可以{/i}靠做爱从每一个困住我的泥沼里干出来。而且这两位可以一边怀疑我,{i}一边{/i}对我欲火焚身。不错。"
     },
     {
-      "en": "Maybe I should just try this on everyone when they’re even remotely disappointed in me? I imagine that will be very good for both my self-esteem as well as the value I assign to myself on an individual level.",
-      "zh": ": 也许我该对每一个「哪怕有一丁点失望」的人都来这一套?我想象这对我的自尊,以及我给自己估的身价,都会大有好处。"
+      "en": "{size=-2}Maybe I should just try this on everyone when they’re even remotely disappointed in me? I imagine that will be very good for both my self-esteem as well as the value I assign to myself on an individual level.{/size}",
+      "zh": ": {size=-2}也许我该对每一个「哪怕有一丁点失望」的人都来这一套?我想象这对我的自尊,以及我给自己估的身价,都会大有好处。{/size}"
     },
     {
-      "en": "Or maybe I really should just do porn. I don’t know.",
-      "zh": ": 又或者,我真的该去拍片。我不知道。"
+      "en": "Or maybe I really {i}should{/i} just do porn. I don’t know.",
+      "zh": ": 又或者,我真的{i}该{/i}去拍片。我不知道。"
     },
     {
       "en": ""
@@ -605,10 +605,10 @@
       "en": ""
     },
     {
-      "en": ": Wha- what do you mean?! What do you want me to do in this position?!",
+      "en": ": Wha- what do you mean?! What do you {i}want{/i} me to do in this position?!",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 什——你什么意思?!这种姿势下你想让我做什么?!"
+      "zh": ": 什——你什么意思?!这种姿势下你{i}想{/i}让我做什么?!"
     },
     {
       "en": ": I’m just saying, shouldn’t you be the most perky and energetic person here given your age? All you’re really doing is just propping yourself up against the wall while he rails you.",
@@ -650,16 +650,16 @@
       "en": ""
     },
     {
-      "en": ": I’m just saying, I shouldn’t be the more exciting one to watch when I’m in my forties and you only escaped puberty a few years ago.",
+      "en": ": I’m just saying, I shouldn’t be the more exciting one to watch when {i}I’m{/i} in my forties and {i}you{/i} only escaped puberty a few years ago.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 我只是说,我都四十多岁了,不该由我来当更精彩的那一个——你脱离青春期才几年。"
+      "zh": ": 我只是说,{i}我{/i}都四十多岁了,不该由我来当更精彩的那一个——{i}你{/i}脱离青春期才几年。"
     },
     {
-      "en": ": You have...way more experience than me! And Senpai...doesn’t mind me at all...do you, Senpai?!",
+      "en": ": You have...{i}way{/i} more experience than me! And Senpai...doesn’t mind me at all...do you, Senpai?!",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 你的……经验比我丰富多了!而且学姐……完全不介意我……对吧,学姐?!"
+      "zh": ": 你的……经验比我{i}丰富多了{/i}!而且学姐……完全不介意我……对吧,学姐?!"
     },
     {
       "en": ": You’re fine...she just wants to get under your skin...",
@@ -695,10 +695,10 @@
       "zh": ": 啊啊啊哈!!!等!不!别在我……努力装凶的时候……把我弄出怪声!哈啊……啊……学姐!不!住……手!"
     },
     {
-      "en": ": You want to almost like playfully resist while he fucks you from behind. Not all the way. Just enough to not make you look like a helpless sex doll.",
+      "en": ": You want to almost like playfully resist while he fucks you from behind. Not {i}all{/i} the way. Just enough to not make you look like a helpless sex doll. ",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 你要做的,是「表面上带点俏皮地反抗」,同时他从后面干你。不用真反抗。只要够让你看起来不像一个无助的充气娃娃就行。"
+      "zh": ": 你要做的,是「表面上带点俏皮地反抗」,同时他从后面干你。不用{i}真{/i}反抗。只要够让你看起来不像一个无助的充气娃娃就行。"
     },
     {
       "en": ""
@@ -749,16 +749,16 @@
       "en": ""
     },
     {
-      "en": ": It was the only way we were ever going to win her back. And it works as a good apology for sleeping with you right next to her last night.",
+      "en": ": It was the only way we were ever going to win her back. {i}And{/i} it works as a good apology for sleeping with you right next to her last night. ",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 那是把她赢回来的唯一办法。而且它还能顺便为「昨晚当着她干你」赔罪。"
+      "zh": ": 那是把她赢回来的唯一办法。{i}而且{/i}它还能顺便为「昨晚当着她干你」赔罪。"
     },
     {
-      "en": ": All of my sins are now forgiven. Which I think is great because I am going to be sinning a lot more over the next thirty to sixty minutes.",
+      "en": ": All of my sins are now forgiven. Which {i}I{/i} think is great because I am going to be sinning a lot more over the next thirty to sixty minutes.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 我的全部罪孽如今都被赦免了。我觉得很好——因为在接下来的三十到六十分钟里,我打算犯下更多罪。"
+      "zh": ": 我的全部罪孽如今都被赦免了。{i}我{/i}觉得很好——因为在接下来的三十到六十分钟里,我打算犯下更多罪。"
     },
     {
       "en": ": Anything over that is simply just not possible for me in my forties.",
@@ -797,10 +797,10 @@
       "zh": ": 他……怎么……还在……继续?!?!?!"
     },
     {
-      "en": ": How...are you still going?! You said you’d...top out at sixty minutes!",
+      "en": ": How...are {i}you{/i} still going?! You said you’d...top out at sixty minutes!",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 你……怎么还在继续?!你说你……六十分钟就到头了!"
+      "zh": ": {i}你{/i}……怎么还在继续?!你说你……六十分钟就到头了!"
     },
     {
       "en": ": If I...stop now...it makes all that stuff I said about you not trying hard enough look meaningless!",
@@ -848,10 +848,10 @@
       "zh": ": 啊啊!AKIRA!别停,别停,别停!哈嗯!"
     },
     {
-      "en": ": Can you actually cum this time instead of just almost getting there and holding back, please?! I want another turn with him!",
+      "en": ": Can you actually cum this time instead of just {i}almost{/i} getting there and holding back, please?! I want another turn with him!",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 这次你能不能真的去,而不是每次都差一点然后硬憋着,拜托?!我还想跟他再来一轮!"
+      "zh": ": 这次你能不能真的去,而不是每次都{i}差一点{/i}然后硬憋着,拜托?!我还想跟他再来一轮!"
     },
     {
       "en": ": You...agreed...to the orgasm rotation! It is not...my fault...if you now regret your choice!",
@@ -866,10 +866,10 @@
       "zh": ": 学姐iiiii!叫 Rika 别再霸占你了!她最近分到的关注比我多太多了!"
     },
     {
-      "en": ": I mean...you did agree to the orgasm rotation...",
+      "en": ": I mean...you {i}did{/i} agree to the orgasm rotation...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我是说……你确实同意了高潮轮换制……"
+      "zh": ": 我是说……你{i}确实{/i}同意了高潮轮换制……"
     },
     {
       "en": ""
@@ -906,8 +906,8 @@
       "zh": ": 和昨晚一样,Rika 精力充沛。"
     },
     {
-      "en": "Unlike last night, so is Imani. But this time, neither one of them is drunk and I don’t have to feel bad about what I’m doing.",
-      "zh": ": 不像昨晚,Imani 也一样。但这一次,她们俩都没醉,我也不必为我在做的事内疚。"
+      "en": "{i}Unlike{/i} last night, so is Imani. But this time, neither one of them is drunk and I don’t have to feel bad about what I’m doing.",
+      "zh": ": {i}不像{/i}昨晚,Imani 也一样。但这一次,她们俩都没醉,我也不必为我在做的事内疚。"
     },
     {
       "en": "Which never really stops me anyway, but it’s definitely a plus. It just remains to be seen what sort of impact this is going to have moving forward.",
@@ -918,20 +918,20 @@
       "zh": ": 因为,尽管我今天已经向自己证明:做爱可以是一种拖延手段,但我要是相信这能永远持续,那就是蠢。"
     },
     {
-      "en": "Or maybe not, actually. Because all the girls I’ve been fucking since I magically became myself again haven’t gotten bored of me yet. So maybe I really am just good?",
-      "zh": ": 又或者不会。因为自我神奇地「变回自己」以来,我睡过的那些女孩,还没有一个对我厌倦。所以说不定,我真的就是很行?"
+      "en": "Or maybe not, actually. Because all the girls I’ve been fucking since I magically became myself again haven’t gotten bored of me yet. So maybe I really {i}am{/i} just good?",
+      "zh": ": 又或者不会。因为自我神奇地「变回自己」以来,我睡过的那些女孩,还没有一个对我厌倦。所以说不定,我真的{i}就是{/i}很行?"
     },
     {
       "en": "Regardless, Imani is smart enough to know that this is one more method of avoiding confrontation at the end of the day. And Rika-",
       "zh": ": 无论如何,Imani 足够聪明,知道归根结底这只是「逃避对峙」的又一种手段。而 Rika——"
     },
     {
-      "en": "Well, I think Rika’s just happy to finally be having sex with someone. And I don’t really think it matters that it’s me at all if she’s not planning on using this against Rin.",
-      "zh": ": 嗯,我想 Rika 只是终于能和人做爱了,所以很高兴。至于对象是我这一点,只要她没打算拿这个对付 Rin,我觉得根本无关紧要。"
+      "en": "Well, I think Rika’s just happy to finally be having sex with someone. And I don’t really think it matters that it’s {i}me{/i} at all if she’s not planning on using this against Rin.",
+      "zh": ": 嗯,我想 Rika 只是终于能和人做爱了,所以很高兴。至于对象是{i}我{/i}这一点,只要她没打算拿这个对付 Rin,我觉得根本无关紧要。"
     },
     {
-      "en": "And while I don’t want to say she is because that’s not like her, I also don’t want to say she’s not since she is clearly desperate for some clarity right now.",
-      "zh": ": 而虽然我不想说她「有打算」——那不像她——我也不敢说她没有,因为她显然此刻极度渴求一个「答案」。"
+      "en": "And while I don’t want to say she {i}is{/i} because that’s not like her, I also don’t want to say she’s {i}not{/i} since she is clearly desperate for some clarity right now.",
+      "zh": ": 而虽然我不想说她「{i}有打算{/i}」——那不像她——我也不敢说她{i}没有{/i},因为她显然此刻极度渴求一个「答案」。"
     },
     {
       "en": "Just “clarity” is something I eternally despise providing.",
@@ -1066,10 +1066,10 @@
       "zh": ": 啊!什么——啊!它是不是……又变大了?!怎么会?!"
     },
     {
-      "en": ": Senpai! Don’t you want to cum inside a girl who hasn’t gone through menopause yet? Just think of all the cute interracial babies we could have.",
+      "en": ": Senpai! Don’t you want to cum inside a girl who {i}hasn’t{/i} gone through menopause yet? Just think of all the cute interracial babies we could have.",
       "spk": "Imani",
       "spkColor": "#80C9DC",
-      "zh": ": 学姐!你不想去在一个还没停经的女孩体内吗?想想我们能生下多可爱的混血宝宝。"
+      "zh": ": 学姐!你不想去在一个{i}还没{/i}停经的女孩体内吗?想想我们能生下多可爱的混血宝宝。"
     },
     {
       "en": ": A...AKIRA...S...SLOW DOWN...I’M...TOO OLD FOR...THIS KIND OF TREATMENT!",
@@ -1078,10 +1078,10 @@
       "zh": ": 阿……AKIRA……慢……慢一点……我……太老了……经不起……这种对待!"
     },
     {
-      "en": ": Just...giving my precious Onee-chan what she deserves...",
+      "en": ": Just...giving my precious {i}Onee-chan{/i} what she deserves...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 只是……给我珍贵的 Onee-chan 一份她应得的……"
+      "zh": ": 只是……给我珍贵的 {i}Onee-chan{/i} 一份她应得的……"
     },
     {
       "en": ": AHHAH! FUCK! WHY IS THAT...SO EMBARRASSING?!",
@@ -1171,10 +1171,10 @@
       "zh": ": 学……学姐……如果你……那样做……我……"
     },
     {
-      "en": ": Haaah...aaah! This...sounds like...the perfect chance...for all of us to...finish together!",
+      "en": ": Haaah...aaah! This...sounds like...the perfect chance...for all of us to...finish {i}together!{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 哈啊……啊!这……听起来……正是让我们所有人……一起抵达终点的……完美机会!"
+      "zh": ": 哈啊……啊!这……听起来……正是让我们所有人……{i}一起抵达终点{/i}的……完美机会!"
     },
     {
       "en": ": But what...will that do to the rotation?!",
@@ -1345,10 +1345,10 @@
       "en": ""
     },
     {
-      "en": ": Do you want to see for yourself?...Maybe I could cure you of all those feelings you have for Akira?",
+      "en": ": Do you want to see for yourself?...Maybe I could {i}cure{/i} you of all those feelings you have for Akira? ",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 要亲自验证吗?……说不定我能治好你对 Akira 的那些感情?"
+      "zh": ": 要亲自验证吗?……说不定我能{i}治好{/i}你对 Akira 的那些感情?"
     },
     {
       "en": ": My feelings for Senpai don’t need to be cured...Studied by a team of professionals, maybe. But cured? Never.",

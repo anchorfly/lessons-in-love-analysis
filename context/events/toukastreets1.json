@@ -1,6 +1,6 @@
 {
   "label": "toukastreets1",
-  "title_zh": "贩卖机咒语",
+  "title_zh": "试用期",
   "lines": [
     {
       "en": ""
@@ -542,10 +542,10 @@
       "zh": ": 我，月山家的 Touma Tsukiyama——"
     },
     {
-      "en": ": I, Touka Tsukioka of the Tsukioka family-",
+      "en": ": I, {b}Touka Tsukioka{/b} of the Tsukioka family-",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 我，月冈家的 Touka Tsukioka——"
+      "zh": ": 我，月冈家的 {b}Touka Tsukioka{/b}——"
     },
     {
       "en": ": Ask for nourishment-",
@@ -878,10 +878,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 哈……"
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ": Move over.",
@@ -1020,10 +1020,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": Sip...",
+      "en": ": {i}Sip...{/i}",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 啜……"
+      "zh": ": {i}啜……{/i}"
     },
     {
       "en": ": This is normally the part where you say “Thank you.”",
@@ -1038,10 +1038,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": Sip...",
+      "en": ": {i}Sip...{/i}",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 啜……"
+      "zh": ": {i}啜……{/i}"
     },
     {
       "en": ": Well fuck you then.",
@@ -1206,10 +1206,10 @@
       "en": ""
     },
     {
-      "en": ": Sip...",
+      "en": ": {i}Sip...{/i}",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 啜……"
+      "zh": ": {i}啜……{/i}"
     },
     {
       "en": ": You feel pretty awkward right now, don’t you?",
@@ -1437,10 +1437,10 @@
       "zh": ": 那么……要是我们哪天各自的晨间散步又撞上了……我不介意再多做点这样的事。"
     },
     {
-      "en": ": Since we are both curious about each others’ lifestyles, of course. Not because we’re interested in each other as people.",
+      "en": ": Since we are both curious about each others’ lifestyles, of course. Not because we’re interested in each other as {i}people{/i}.",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 当然，是鉴于我们都对彼此的生活方式感到好奇。而不是因为我们对「彼此这个人」有意思。"
+      "zh": ": 当然，是鉴于我们都对彼此的生活方式感到好奇。而不是因为我们对「彼此这个{i}人{/i}」有意思。"
     },
     {
       "en": ": I don’t really need to know much about your lifestyle, but I wouldn’t mind showing you a little more about how “commoners” live.",
@@ -1588,16 +1588,16 @@
       "zh": ": 所以，只要你方便的时候愿意继续指点我……我就愿意接受。"
     },
     {
-      "en": ": I can’t say I’ll be particularly happy about it since your methods are still rather confusing to me...",
+      "en": ": I can’t say I’ll be particularly {i}happy{/i} about it since your methods are still rather confusing to me...",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 我不能说我会多开心，因为你的法子还是让我很费解……"
+      "zh": ": 我不能说我会多{i}开心{/i}，因为你的法子还是让我很费解……"
     },
     {
-      "en": ": But I suppose that nothing has gotten dramatically worse since I’ve started learning under you just yet.",
+      "en": ": But I suppose that nothing has gotten {i}dramatically{/i} worse since I’ve started learning under you just yet.",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ": 但我想，自从开始受你指点以来，情况至少没有明显变糟。"
+      "zh": ": 但我想，自从开始受你指点以来，情况至少没有{i}明显{/i}变糟。"
     },
     {
       "en": ": I’m sure it will. That’s normally how things go.",
@@ -1764,8 +1764,8 @@
       "en": ""
     },
     {
-      "en": "Touka’s affection has increased to [touka_love]!",
-      "zh": "Touka 的好感度上升到了 [touka_love]！"
+      "en": "{i}Touka’s affection has increased to [touka_love]!{/i}",
+      "zh": "{i}Touka 的好感度上升到了 [touka_love]！{/i}"
     },
     {
       "en": ".........",

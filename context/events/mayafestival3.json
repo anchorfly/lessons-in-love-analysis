@@ -30,8 +30,8 @@
       "zh": "有时候，我分不清自己是醒着还是没醒。"
     },
     {
-      "en": "I can’t tell if what is happening is actually happening or if it’s just more light filtering in through the glass.",
-      "zh": "我分不清正在发生的事是真的在发生，还是只是更多光从玻璃里透进来。"
+      "en": "I can’t tell if what is happening is {i}actually{/i} happening or if it’s just more light filtering in through the glass.",
+      "zh": "我分不清正在发生的事是{i}真的{/i}在发生，还是只是更多光从玻璃里透进来。"
     },
     {
       "en": "I can’t tell what I should or shouldn’t believe.",
@@ -82,8 +82,8 @@
       "zh": "某种美妙的东西？"
     },
     {
-      "en": "Something so wonderful that, the moment you feast your eyes upon it, you understand that it’s far too good to be true.",
-      "zh": "美妙到，你一眼望见它的瞬间，就明白它好得根本不可能是真的。"
+      "en": "Something {i}so{/i} wonderful that, the moment you feast your eyes upon it, you understand that it’s far too good to be true.",
+      "zh": "{i}美妙{/i}到，你一眼望见它的瞬间，就明白它好得根本不可能是真的。"
     },
     {
       "en": "Maybe the reason I can’t ever tell if I’m awake or not has something to do with that.",
@@ -250,10 +250,10 @@
       "zh": ": 因为她们不是你。"
     },
     {
-      "en": ": I’m surprised you even need to ask at this point, what with all of your alluding to my alleged true feelings and whatnot.",
+      "en": ": I’m surprised you even need to ask at this point, what with all of your alluding to my alleged {i}true feelings{/i} and whatnot.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我很惊讶你到这个地步还需要问，毕竟你一直在暗示我那些所谓的真实感情什么的。"
+      "zh": ": 我很惊讶你到这个地步还需要问，毕竟你一直在暗示我那些所谓的{i}真实感情{/i}什么的。"
     },
     {
       "en": ": Can I take that as a confession?",
@@ -325,10 +325,10 @@
       "zh": ": 你什么意思？"
     },
     {
-      "en": ": If I were to start spending more time with you, something I’ve made you extremely aware that I don’t want to do in the past...what would happen next?",
+      "en": ": If I were to start spending more time with you, something I’ve made you extremely aware that I {i}don’t{/i} want to do in the past...what would happen next?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 如果我开始花更多时间陪你——我过去可是让你非常清楚我并不想这么做——接下来会发生什么？"
+      "zh": ": 如果我开始花更多时间陪你——我过去可是让你非常清楚我{i}并不{/i}想这么做——接下来会发生什么？"
     },
     {
       "en": ": Well...we’d get closer.",
@@ -337,10 +337,10 @@
       "zh": ": 嗯……我们会变得更亲近。"
     },
     {
-      "en": ": Uh-huh. And then what?",
+      "en": ": {i}Uh-huh.{/i} And then what?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 嗯哼。然后呢？"
+      "zh": ": {i}嗯哼{/i}。然后呢？"
     },
     {
       "en": ": Well, considering you already seem to know how quickly I move in relationships-",
@@ -370,10 +370,10 @@
       "zh": ": 不。我绝对不是在说这个。"
     },
     {
-      "en": ": Do I really need to remind you why we can’t get closer anymore than I already have? Because it’s getting extremely repetitive and I’m kind of good at dealing with repetition.",
+      "en": ": Do I really need to remind you why we can’t get closer anymore than I already have? Because it’s getting extremely repetitive and I’m {i}kind of{/i} good at dealing with repetition.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我真的需要再提醒你一遍为什么我们不能更亲近吗？因为这已经重复得要命，而我恰好很擅长应付重复。"
+      "zh": ": 我真的需要再提醒你一遍为什么我们不能更亲近吗？因为这已经重复得要命，而我{i}恰好{/i}很擅长应付重复。"
     },
     {
       "en": ": It’s not fair that you have to live like this.",
@@ -484,10 +484,10 @@
       "zh": ": 不过在我的情况下，我比动物还蠢。"
     },
     {
-      "en": ": There’s been a stick tied to my back for longer than I can remember and I’m still chasing after it.",
+      "en": ": There’s been a stick tied to my back for longer than I can remember and I’m {i}still{/i} chasing after it.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我背上的那根棍子，绑了比我记忆所及更久的时间，而我还在追。"
+      "zh": ": 我背上的那根棍子，绑了比我记忆所及更久的时间，而我{i}还{/i}在追。"
     },
     {
       "en": ": I’m just moving a little slower than I used to while doing that.",
@@ -529,16 +529,16 @@
       "zh": ": 反正这座城市里也没别的事可做。"
     },
     {
-      "en": ": Anyway, please stop worrying about why I do the things I do and instead try to accept them.",
+      "en": ": Anyway, please stop worrying about {i}why{/i} I do the things I do and instead try to accept them.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 总之，别再操心我为什么做这些事，试着接受就好。"
+      "zh": ": 总之，别再操心我{i}为什么{/i}做这些事，试着接受就好。"
     },
     {
-      "en": ": There’s nothing you can actively do to help with my weird...cosmic curse thing or whatever it is that caused me to persist but no one else.",
+      "en": ": There’s nothing you can actively do to help with my weird...cosmic curse thing or whatever it is that caused {i}me{/i} to persist but no one else.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 对我这个奇怪的……宇宙诅咒什么的、或者说不管是什么让我得以留存而别人不能的东西，你主动也帮不上什么忙。"
+      "zh": ": 对我这个奇怪的……宇宙诅咒什么的、或者说不管是什么让{i}我{/i}得以留存而别人不能的东西，你主动也帮不上什么忙。"
     },
     {
       "en": ": You can passively help, though. By just being around and not doing anything stupid.",
@@ -897,10 +897,10 @@
       "zh": ": 那我们要进去吗？还是漫画就在这儿完结？"
     },
     {
-      "en": ": I think we kind of have to go in at this point. We’ve stood here for long enough that this is now an important story beat.",
+      "en": ": I think we kind of {i}have{/i} to go in at this point. We’ve stood here for long enough that this is now an important story beat.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我觉得事到如今只能进去了。我们在这儿站得够久，这已经成了一个重要的剧情节拍。"
+      "zh": ": 我觉得事到如今{i}只能{/i}进去了。我们在这儿站得够久，这已经成了一个重要的剧情节拍。"
     },
     {
       "en": ": Should I lead the way?",
@@ -909,10 +909,10 @@
       "zh": ": 那我带路？"
     },
     {
-      "en": ": Probably. You are the self-proclaimed protagonist after all.",
+      "en": ": Probably. You {i}are{/i} the self-proclaimed protagonist after all.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 大概吧。毕竟你是自称的主角。"
+      "zh": ": 大概吧。毕竟你{i}是{/i}自称的主角。"
     },
     {
       "en": ": Do you want to hold hands on the way up the stairs?",
@@ -1081,16 +1081,16 @@
       "zh": ": 我怎么知道？"
     },
     {
-      "en": ": I mean...you are a shrine maiden.",
+      "en": ": I mean...you {i}are{/i} a shrine maiden.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我说……你可是巫女啊。"
+      "zh": ": 我说……你可{i}是{/i}巫女啊。"
     },
     {
-      "en": ": I’m only a shrine maiden out of necessity. And in my many, many years of service, I have not once had to put an “Out of order” sign on anything.",
+      "en": ": I’m only a shrine maiden out of necessity. And in my many, {i}many{/i} years of service, I have not once had to put an “Out of order” sign on anything.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我只是出于需要才当巫女的。而且在我漫长、漫长的职业生涯里，我还从来没有在任何东西上贴过“暂停使用”的牌子。"
+      "zh": ": 我只是出于需要才当巫女的。而且在我漫长、{i}漫长{/i}的职业生涯里，我还从来没有在任何东西上贴过“暂停使用”的牌子。"
     },
     {
       "en": ": I’m beginning to understand why there’s not anyone here.",
@@ -1227,8 +1227,8 @@
       "zh": "或者说，我不喜欢那些只因为觉得自己应该，就把自己献给某个人或某样东西的人。"
     },
     {
-      "en": "I don’t like the immediate acceptance and refusal to question why the focus of their feverish passion doesn’t ever actually do anything.",
-      "zh": "我不喜欢那种不加思考的接受、那种拒绝追问——为什么他们狂热崇拜的对象从来没有真的做过什么。"
+      "en": "I don’t like the immediate acceptance and refusal to question why the focus of their feverish passion doesn’t ever actually {i}do{/i} anything.",
+      "zh": "我不喜欢那种不加思考的接受、那种拒绝追问——为什么他们狂热崇拜的对象从来没有真的{i}做过{/i}什么。"
     },
     {
       "en": "And yet every morning, I put on this blazer and make my way across town.",
@@ -1251,8 +1251,8 @@
       "zh": "而我也配不上，直到我做出配得上它的事为止。"
     },
     {
-      "en": "But god will I drink it down anyway.",
-      "zh": "但老天作证，我照样会把那些赞美一饮而尽。"
+      "en": "But {i}god{/i} will I drink it down anyway.",
+      "zh": "但{i}老天{/i}作证，我照样会把那些赞美一饮而尽。"
     },
     {
       "en": ""
@@ -1300,10 +1300,10 @@
       "zh": ": 那么久以前的细枝末节本来就不容易记得清。但我知道是在 [high_school] 之前。"
     },
     {
-      "en": ": As for why...",
+      "en": ": As for {i}why{/i}...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 至于为什么……"
+      "zh": ": 至于{i}为什么{/i}……"
     },
     {
       "en": ""
@@ -1408,16 +1408,16 @@
       "zh": ": 但有多少去处能让我继续做我正在做的事？"
     },
     {
-      "en": ": I’ve toyed with the idea of leaving before. Especially when I was getting a new you every four months or so.",
+      "en": ": I’ve toyed with the idea of leaving before. Especially when I was getting a new {i}you{/i} every four months or so.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我以前也动过离开的念头。尤其是那阵子每四个月左右就换一个新的你的时候。"
+      "zh": ": 我以前也动过离开的念头。尤其是那阵子每四个月左右就换一个新的{i}你{/i}的时候。"
     },
     {
-      "en": ": But I ultimately decided against it because, on the off chance that there is something about being a shrine maiden allowing me to persist through each reset-",
+      "en": ": But I ultimately decided against it because, on the off chance that there is {i}something{/i} about being a shrine maiden allowing me to persist through each reset-",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 但我最终还是决定不走了，因为万一当巫女这件事里真有什么能让我在每次重置后留存下来——"
+      "zh": ": 但我最终还是决定不走了，因为万一当巫女这件事里真有{i}什么{/i}能让我在每次重置后留存下来——"
     },
     {
       "en": ": Well, I don’t want to risk severing that.",
@@ -1513,10 +1513,10 @@
       "zh": ": ……完。"
     },
     {
-      "en": ": Why you’re in love with me is still far beyond my comprehension, though.",
+      "en": ": {i}Why{/i} you’re in love with me is still far beyond my comprehension, though.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不过你为什么会爱上我，依然远远超出我的理解范围。"
+      "zh": ": 不过你{i}为什么{/i}会爱上我，依然远远超出我的理解范围。"
     },
     {
       "en": ": That is literally the exact thing I was saying.",
@@ -1525,10 +1525,10 @@
       "zh": ": 我刚刚说的就是这个意思。"
     },
     {
-      "en": ": Does that count as a confession?",
+      "en": ": Does {i}that{/i} count as a confession?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 这能算告白吗？"
+      "zh": ": {i}这{/i}能算告白吗？"
     },
     {
       "en": ": Do you feel your brain liquefying?",
@@ -1702,10 +1702,10 @@
       "zh": ": 我为什么会介意？"
     },
     {
-      "en": ": Sorry, you might be fine with it now. But who knows what would happen if another pink-haired girl were to show up out of nowhere and profess her love to you while we’re on the way?",
+      "en": ": Sorry, you might be fine with it {i}now.{/i} But who knows what would happen if another pink-haired girl were to show up out of nowhere and profess her love to you while we’re on the way?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 抱歉，你现在可能不介意。但谁知道呢，万一路上又有个粉头发的姑娘凭空冒出来，向你表白呢？"
+      "zh": ": 抱歉，你{i}现在{/i}可能不介意。但谁知道呢，万一路上又有个粉头发的姑娘凭空冒出来，向你表白呢？"
     },
     {
       "en": ": I’d have to tell her I’m already on a date tonight.",
@@ -1884,8 +1884,8 @@
       "en": ""
     },
     {
-      "en": "Maya’s affection has increased to [maya_love]!",
-      "zh": "Maya 的好感度提升到了 [maya_love]!"
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]!{/i}"
     },
     {
       "en": ".........",

@@ -1,0 +1,1641 @@
+{
+  "label": "littlegirlx",
+  "title_zh": "小女孩",
+  "lines": [
+    {
+      "en": "label littlegirlx:",
+      "zh": ""
+    },
+    {
+      "en": ": Well, at least you're not dead already.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，至少你还没死。"
+    },
+    {
+      "en": ": When is breakfast?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 早饭什么时候好？"
+    },
+    {
+      "en": ": I don't...think I can make breakfast today, Sensei...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我……觉得今天做不了早饭了，老师……"
+    },
+    {
+      "en": ": I'm really sorry...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 真的很抱歉……"
+    },
+    {
+      "en": ": Yeah...I was kind of expecting that to be the answer. But that doesn't mean I can't be upset about it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……我大概猜到会是这个答案。但这不妨碍我为此难过。"
+    },
+    {
+      "en": ": I'll make you...two breakfasts tomorrow to make up for it...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我明天……给你做两份早饭补上……"
+    },
+    {
+      "en": ": Don't even worry about it, Ami. Just...get some rest and...stop being sick.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 别担心这个了，Ami。就……好好休息，然后……别再生病了。"
+    },
+    {
+      "en": ": I don't think you would make a very good doctor...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我觉得你当医生肯定不怎么样……"
+    },
+    {
+      "en": ": I don't think I would make a very good anything, so that's fair.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得我干什么都不会太怎么样，所以这话说得公平。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "So, as you may have noticed, the reason Ami wasn’t able to wake me up this morning is because she’s suddenly fallen ill.",
+      "zh": "那么，正如你可能已经注意到的，Ami 今早没能叫醒我，是因为她突然病倒了。"
+    },
+    {
+      "en": "The part I {i}don't{/i} get is why she'd decide to be sick {i}out here{/i} instead of in her room.",
+      "zh": "我{i}不{/i}明白的是，她为什么会选择在{i}这里{/i}生病，而不是在自己房间里。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": This is it, Sensei...I'm really going to die...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 就是现在了，老师……我真的要死了……"
+    },
+    {
+      "en": ": You're not going to die, Ami...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你不会死的，Ami……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch2.webp",
+      "alt": "amicouch2"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Please don’t...forget me when I’m gone...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我走了以后……请别……忘了我……"
+    },
+    {
+      "en": ": I'll never forget you. Not until I get my last two breakfasts.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我永远不会忘记你。至少在我拿到欠我的那两份早饭之前不会。"
+    },
+    {
+      "en": ": Hahah...hah...hah...so...funny...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哈哈……哈……哈……真……真好笑……"
+    },
+    {
+      "en": ": What's wrong, exactly? Is it anything medicine could fix? Or...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 到底是什么毛病？吃药能解决的吗？还是……"
+    },
+    {
+      "en": ": My everything hurts and I have a fever.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我浑身都疼，而且还发烧。"
+    },
+    {
+      "en": ": You took your temperature already?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你已经量过体温了？"
+    },
+    {
+      "en": ": Yes...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ": And what was it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 多少度？"
+    },
+    {
+      "en": ": Six million.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 六百万。"
+    },
+    {
+      "en": ": Did you take your temperature on the sun?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你是在太阳上量的体温吗？"
+    },
+    {
+      "en": ": The real answer is...102...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 真正的答案是……102……"
+    },
+    {
+      "en": ": I think it's probably the flu or something...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我觉得大概是流感什么的……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch1.webp",
+      "alt": "amicouch1"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It took every bit of strength I had to even pick up the thermometer...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 光是把体温计拿起来，就花光了我所有的力气……"
+    },
+    {
+      "en": ": Sensei...what am I supposed to do? If I can't take care of you, what am I even good for?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 老师……我该怎么办？如果我连照顾你都做不到，我还能有什么用？"
+    },
+    {
+      "en": ": Hey, I'm sure there's plenty of other stuff you're good for. I'm just blissfully unaware of it right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嘿，我敢肯定你擅长的事还有很多。只是我现在幸福地一无所知罢了。"
+    },
+    {
+      "en": ": Plus, it would only be fair if {i}I{/i} took care of you sometimes in return, right?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 再说，偶尔换{i}我{/i}来照顾你，才公平吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch3.webp",
+      "alt": "amicouch3"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I can't ask you to do that...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我不能要求你那样做……"
+    },
+    {
+      "en": ": Why not?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 为什么不能？"
+    },
+    {
+      "en": ": Because that's...not how this goes...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 因为那……不是我们之间的相处方式……"
+    },
+    {
+      "en": ": Well, that's how it goes today. What can I do? What do you need?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，今天就按我的方式来。我能做什么？你需要什么？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch1.webp",
+      "alt": "amicouch1"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You have to go to[school], Sensei...You can't stay here with me.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你得去[school]啊，老师……你不能待在这儿陪我。"
+    },
+    {
+      "en": ": I’ll call the school and let them know that neither of us will be coming in today.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会给学校打电话，告诉他们我们两个今天都不去了。"
+    },
+    {
+      "en": ": If it really is the flu, I've already been exposed to it by talking to you, so we're both screwed either way.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果真是流感，我跟你说了这么久的话，早就已经被传染了，所以不管怎样我们都完蛋了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch4.webp",
+      "alt": "amicouch4"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are...you really okay with that?...Staying here with me?...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你……真的不介意吗？……陪我待在这儿？……"
+    },
+    {
+      "en": ": Of course. The quicker you recover, the quicker I can eat again.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。你越早好起来，我就能越早吃上饭。"
+    },
+    {
+      "en": ": That {i}and{/i} I don’t like seeing you acting like you're on the brink of death. It’s depressing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": {i}还有{/i}就是，我不喜欢看你一副快死的样子。太丧了。"
+    },
+    {
+      "en": ": Well...it’s not like I really enjoy feeling this way either...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯……我也不是真的喜欢这种感觉啊……"
+    },
+    {
+      "en": ": But you don't have to take care of me, Sensei...What will you do if you actually {i}do{/i} get sick and have to miss more than one day of[school]?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 可你不用照顾我啊，老师……万一你{i}真的{/i}病倒了，得请不止一天[school]的假，你怎么办？"
+    },
+    {
+      "en": ": You should...abandon me while you have the chance...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你应该……趁还有机会赶紧抛弃我……"
+    },
+    {
+      "en": ": If that happens I'll just...miss more days, I guess. It's not a big deal.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 要是真那样，我就……多请几天假呗。没什么大不了的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Now that I think about it, I’m not really sure how time off even works at my job.",
+      "zh": "现在想想，我其实不太清楚我这份工作的休假到底是怎么算的。"
+    },
+    {
+      "en": "Do I even get time off? How does calling out sick as a teacher work, exactly?",
+      "zh": "我到底有没有休假？当老师的请病假，具体是怎么个流程？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, on the bright side...if I actually {i}do{/i} get sick, that means you can take care of me next. And that doesn’t sound all that bad, does it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嘿，往好处想……要是我{i}真{/i}病了，那下次就轮到你照顾我了。听起来也不赖吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch5.webp",
+      "alt": "amicouch5"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Unless we’re {i}both{/i} sick...Then Maya and Ayane will have to come over and take care of us.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 除非我们{i}两个都{/i}病了……那就得让 Maya 和 Ayane 过来照顾我们了。"
+    },
+    {
+      "en": ": I doubt Maya will touch me so she'll probably be with you and Ayane will probably be with me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我怀疑 Maya 不会碰我，所以她大概会去照顾你，Ayane 大概会来照顾我。"
+    },
+    {
+      "en": ": I’m...kind of worried about how Ayane would take care of you, to be totally honest...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 说实话……我有点担心 Ayane 会怎么「照顾」你……"
+    },
+    {
+      "en": ": So am I, Ami. So am I...But let’s not worry about that for now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我也是，Ami。我也是……不过现在先别操心那个了。"
+    },
+    {
+      "en": ": Instead, how about you tell me what I can do to make things more comfortable for you. Are you hungry?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不如你告诉我，我怎么做能让你舒服点。你饿吗？"
+    },
+    {
+      "en": ": Hungry, no...Maybe a little thirsty, though...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不饿……不过可能有点渴……"
+    },
+    {
+      "en": ": Do you think you could get me a glass of water?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你能给我倒杯水吗？"
+    },
+    {
+      "en": ": Sure. I’ll be right back.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。我马上回来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene lr_day",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with fade",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I move to the kitchen and remove a thick plastic cup from one of the cabinets.",
+      "zh": "我走到厨房，从其中一个柜子里拿出一个厚实的塑料杯。"
+    },
+    {
+      "en": "There's a design on the cup that has become cracked and splintered from a mixture of age and being washed an ungodly amount of times.",
+      "zh": "杯身上的图案因为年头太久、又被洗了无数次，已经开裂剥落。"
+    },
+    {
+      "en": "It's barely visible anymore...but I'm pretty certain that, at some point, it was a sakura tree.",
+      "zh": "现在几乎看不清了……但我很确定，那原本是一棵樱花树。"
+    },
+    {
+      "en": "I fill the cup with filtered water from a pitcher in the fridge and grab a sleeve of crackers as well, just in case Ami wants to put anything in her stomach.",
+      "zh": "我从冰箱里的水壶倒了些过滤水把杯子装满，又顺手拿了一包饼干，以防 Ami 想往胃里垫点东西。"
+    },
+    {
+      "en": "After quickly calling the[school] to let them know we won't be coming in today, I return to the couch and save Ami's life.",
+      "zh": "迅速给[school]打完电话、说明我们今天不去之后，我回到沙发前，救了 Ami 一命。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch2.webp",
+      "alt": "amicouch2"
+    },
+    {
+      "en": "with fade",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahhh...this is the worst...I feel so useless.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 啊啊……糟透了……我觉得自己好没用。"
+    },
+    {
+      "en": ": Less complaining, more hydrating. Drink this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 少抱怨，多喝水。把这个喝了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch5.webp",
+      "alt": "amicouch5"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I place the water and crackers on the table in front of Ami and she slowly but surely begins to sip from the glass.",
+      "zh": "我把水和饼干放在 Ami 面前的桌上，她慢慢地、但确实地开始小口喝起来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Thank you, Sensei...I promise to get better as quickly as I can, okay?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 谢谢你，老师……我保证会尽快好起来的，好吗？"
+    },
+    {
+      "en": ": Don’t worry about that for now. Just try and get some sleep.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 现在别操心这个。先试着睡一会儿。"
+    },
+    {
+      "en": ": That’s what I’ve been trying to do all morning...as you can see, it’s not exactly working.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我一早上都在努力睡啊……你也看到了，根本不管用。"
+    },
+    {
+      "en": ": I even tried sleeping out here because my bed was starting to feel uncomfortable from how much I was rolling around.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我甚至跑到外面来睡，因为我在床上翻来覆去，连床都开始变得不舒服了。"
+    },
+    {
+      "en": ": Well, I can't imagine that couch feels much better.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，我可不觉得那张沙发能好到哪儿去。"
+    },
+    {
+      "en": ": It doesn't...but at least trying to go to sleep out here gave me the chance to see you...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 确实不好……但至少试着在外面睡，让我有机会见到你……"
+    },
+    {
+      "en": ": You know I would have gone into your room anyway, right? I was pretty sure you were killed when I wasn't woken up this morning.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你知道就算那样，我也会进你房间去的吧？今早没被叫醒的时候，我基本断定你被人杀了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch6.webp",
+      "alt": "amicouch6"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heheh...sorry about that...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嘿嘿……抱歉啊……"
+    },
+    {
+      "en": ": I knew you'd find me either way...but every second counts, Sensei...especially now that I am fading away once and for all...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我知道你总会找到我的……但每一秒都很宝贵，老师……尤其现在我正在一去不返地消逝……"
+    },
+    {
+      "en": ": If you fade away in the next half hour, I might be able to retract my call out from work.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 要是你在半小时内消逝，我说不定还能撤回我请的假。"
+    },
+    {
+      "en": ": Heheh...in that case...I guess I'll just have to hang on for as long as I can...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嘿嘿……那样的话……看来我只能尽量撑久一点了……"
+    },
+    {
+      "en": ": Good call. You just beat out nine other girls in a battle for my time, so it's probably safe to say I have a bit of a soft spot for you and {i}don't{/i} want you to die just yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说得对。你刚刚在一场争夺我时间的战斗中击败了另外九个女孩，所以大概可以肯定，我对你还是有点偏心的，暂时还{i}不想{/i}让你死。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch5.webp",
+      "alt": "amicouch5"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heheh...I did beat them all...didn't I?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嘿嘿……我真的赢了她们所有人……对吧？"
+    },
+    {
+      "en": ": I guess...family comes first for both of us...huh?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我想……对我们两个来说，家人都是第一位的……嗯？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "You know...",
+      "zh": "你知道吗……"
+    },
+    {
+      "en": "Maybe keeping up this whole ‘family’ facade won’t be as hard as I initially thought.",
+      "zh": "也许继续维持这层「家人」的伪装，并没有我一开始想的那么难。"
+    },
+    {
+      "en": "I mean...I really {i}do{/i} feel like Ami’s guardian. And that's even more true now that I'm finally seeing her at her most vulnerable.",
+      "zh": "我是说……我{i}真的{/i}觉得自己就是 Ami 的监护人。而在我终于看到她最脆弱的样子之后，这种感觉就更强烈了。"
+    },
+    {
+      "en": "There are no impure thoughts at all right now- just the true desire for her to get better so I won't have to look at her like this anymore.",
+      "zh": "此刻我脑子里没有任何龌龊的念头——只有真心希望她快点好起来，好让我不用再看着她这副模样。"
+    },
+    {
+      "en": "I'm sure the fantasies will float right back in once she's able to do things on her own again...but for now...",
+      "zh": "我敢肯定，等她又能自己做事的时候，那些幻想就会立刻飘回来……但此刻……"
+    },
+    {
+      "en": "I'm content just being near her.",
+      "zh": "我只要待在她身边就满足了。"
+    },
+    {
+      "en": "And that's not something I think or say very often.",
+      "zh": "而这可不是我经常会想、会说的话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch6.webp",
+      "alt": "amicouch6"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey...umm...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 那个……嗯……"
+    },
+    {
+      "en": ": I just thought of...something else that might make me feel a little better...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我刚想到……还有一件事也许能让我好受点……"
+    },
+    {
+      "en": ": Oh yeah? What now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哦？这回又是什么？"
+    },
+    {
+      "en": ": Well, I'll tell you, but...you'll be pretty much {i}asking{/i} to get sick if you actually go along with it.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯，我可以告诉你，不过……你要是真照做了，基本等于主动{i}求着{/i}被传染。"
+    },
+    {
+      "en": ": I don't really mind that. Shoot.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不在乎。说吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch5.webp",
+      "alt": "amicouch5"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Would you...maybe want to lay here with me for a little while?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你……愿不愿意在这里陪我躺一会儿？"
+    },
+    {
+      "en": ": Are you sure that won't make you even more uncomfortable? You have a fever, don't you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你确定那不会让你更难受吗？你还在发烧吧？"
+    },
+    {
+      "en": ": Yeah, but...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯，但是……"
+    },
+    {
+      "en": ": I can't imagine having you so close to me would ever make me more uncomfortable...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我无法想象你离我这么近，会让我更难受……"
+    },
+    {
+      "en": ": Well, I guess I don't really have a choice then. Move over.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，那我大概是别无选择了。过去点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch7.webp",
+      "alt": "amicouch7"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You mean...you're actually going to do it?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你是说……你真的要做？"
+    },
+    {
+      "en": ": Of course. We're going to have to squeeze together since the couch is so small, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。不过沙发太小，我们得挤一挤。"
+    },
+    {
+      "en": ": Yeah...of course! I don’t mind at all! Here...get in behind me...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 好……当然！我一点都不介意！来……从后面进来……"
+    },
+    {
+      "en": ": I wanna be the little spoon today...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 今天我想当小勺子……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami slides both herself and the pillow up a few inches and stops right before falling off of the couch.",
+      "zh": "Ami 把自己和枕头往上挪了几英寸，停在了差点从沙发上掉下去的地方。"
+    },
+    {
+      "en": "She's close enough to the edge that I have to step over her very carefully so as to not knock her off the couch entirely and speed up her descent into the underworld.",
+      "zh": "她离边缘太近了，我必须非常小心地跨过她，才不会把她整个从沙发上撞下去，加速她坠入冥界。"
+    },
+    {
+      "en": "Once I'm in place, I attempt to level my head with hers and drape one of my arms over her body to protect her from falling.",
+      "zh": "等我躺好，我试着把头与她的头对齐，并把一只手臂搭在她身上，防止她掉下去。"
+    },
+    {
+      "en": "In the act of doing so, though, I may be unintentionally assisting her in...falling in different fashion.",
+      "zh": "但在做这个动作的过程中，我可能无意间在帮她……以另一种方式坠落。"
+    },
+    {
+      "en": "But at least the hurt that will come with that will be all in her head.",
+      "zh": "不过至少随之而来的伤害，全都会发生在她的脑子里。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch8.webp",
+      "alt": "amicouch8"
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heheh...I feel kinda like a little girl again...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嘿嘿……我感觉自己又像个小孩了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch9.webp",
+      "alt": "amicouch9"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Remember how I used to not be able to fall asleep unless you cuddled me at night?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 还记得吗，以前你要是不抱着我，我就睡不着。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Or...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 还是说……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch10.webp",
+      "alt": "amicouch10"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Or is that gone too?...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 还是说那段记忆也没了？……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It's times like this when I wish I could have inherited the memories of this body along with its skin.",
+      "zh": "这种时候，我真希望自己能连同这具身体的皮肤一起，把记忆也继承下来。"
+    },
+    {
+      "en": "I don't even care that they'd belong to someone else- I just want to understand and connect the way I'm supposed to be able to.",
+      "zh": "我甚至不在乎那些记忆属于别人——我只想能够理解、能够建立起我本该能建立的联结。"
+    },
+    {
+      "en": "Call it envy if you like- this desire to absorb the life before me...",
+      "zh": "你想把这叫嫉妒也行——这种想要把眼前的人生吸收进去的渴望……"
+    },
+    {
+      "en": "But I don't think it's envy at all.",
+      "zh": "但我根本不觉得那是嫉妒。"
+    },
+    {
+      "en": "I think that if I am going to keep living this life, I deserve everything that is supposed to be packaged with it.",
+      "zh": "我觉得，既然我要继续过这一生，我就该得到本该与它配套的一切。"
+    },
+    {
+      "en": "There is no point in cracking open a shell with nothing inside of it. And right now, I'm afraid that “Yes, I remember that” will cause a series of cracks to begin splintering across the surface of my conscience.",
+      "zh": "敲开一个空无一物的壳没有任何意义。而此刻我害怕的是，「嗯，我记得」这句话会让我的良心表面开始裂开一道道细纹。"
+    },
+    {
+      "en": "I'm worried that, before long, the cracks will grow bigger. And that people will realize there was never anything inside of me at all.",
+      "zh": "我担心用不了多久，这些裂纹就会越变越大。担心人们终将意识到，我里面从头到尾什么都没有。"
+    },
+    {
+      "en": "And yet-",
+      "zh": "然而——"
+    },
+    {
+      "en": "I'm going to lie anyway.",
+      "zh": "我还是要撒谎。"
+    },
+    {
+      "en": "I'm going to lie because that is the easiest thing to do right now.",
+      "zh": "我要撒谎，因为那是此刻最容易做到的事。"
+    },
+    {
+      "en": "And because it's the thing that will hurt this girl the least.",
+      "zh": "也因为那是对这个女孩伤害最小的做法。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ": I remember that, Ami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我记得，Ami。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch9.webp",
+      "alt": "amicouch9"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Good...I knew there were some bits and pieces of me left in there.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 太好了……我就知道里面还留着一点关于我的碎片。"
+    },
+    {
+      "en": ": In fact, I'm still not entirely convinced this whole amnesia thing isn't just some really long prank you can't figure out how to end.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 事实上，我到现在都不太相信这个失忆的破事，不是你自己都收不了场的一个超长恶作剧。"
+    },
+    {
+      "en": ": That would require a level of dedication I simply do not have, Ami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那得需要一种我压根不具备的执着，Ami。"
+    },
+    {
+      "en": ": Sensei...do you think I’ve changed at all in the last few years?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 老师……你觉得我这几年来有变化吗？"
+    },
+    {
+      "en": ": Changed? What do you mean?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 变化？什么意思？"
+    },
+    {
+      "en": ": Like...do I maybe seem more...grown up now?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 比如……我是不是看起来更……成熟了？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch10.webp",
+      "alt": "amicouch10"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Because...I’ve been trying really hard, you know?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 因为……我一直很努力啊，你知道吗？"
+    },
+    {
+      "en": ": To grow up?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 努力长大？"
+    },
+    {
+      "en": ": Maybe not...{i}specifically {/i}that...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 也许……{i}不完全{/i}是那个……"
+    },
+    {
+      "en": ": It's more like I'm just trying to be someone that you can rely on...for everything.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 更像是，我只想成为一个你可以依靠的人……在任何事上。"
+    },
+    {
+      "en": ": You saved me when I had nowhere else to go...so ever since then, I've been trying to do the same for you.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 在我走投无路的时候，是你救了我……所以从那以后，我一直想为你做同样的事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch9.webp",
+      "alt": "amicouch9"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And sometimes...I really think I'm doing that.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 有时候……我真的觉得自己做到了。"
+    },
+    {
+      "en": ": But other times...it's like you don't need me at all.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 但另一些时候……就好像你根本不需要我。"
+    },
+    {
+      "en": ": Those are the moments I'm most afraid of.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 那些时刻是我最害怕的。"
+    },
+    {
+      "en": ": I know it probably sounds selfish to {i}want{/i} you to be useless without me, but...I mean...{i}I'm{/i} useless without you, you know?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我知道{i}希望{/i}没有我你就一无是处，听起来可能很自私，但是……我的意思是……没有你{i}我{/i}就一无是处啊，你知道的吧？"
+    },
+    {
+      "en": ": So...I don't think it would be a bad thing if you just so happened to lean on me a little more. All you really need to do is-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 所以……如果你能多依赖我一点，我觉得也不是坏事。你真正需要做的就只是——"
+    },
+    {
+      "en": ": Ami, aren’t you supposed to be trying to sleep right now? Staying awake and talking to me isn't going to make you feel any better.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Ami，你现在不是应该努力睡觉吗？醒着跟我说话不会让你好受一点的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch8.webp",
+      "alt": "amicouch8"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hehehe...you're right...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嘿嘿嘿……你说得对……"
+    },
+    {
+      "en": ": I'm sorry, Sensei...will you ever forgive me?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 对不起，老师……你会原谅我吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami slides closer to me, breaking the gap between us and pushing her butt up against my crotch.",
+      "zh": "Ami 贴得更近了，消除了我们之间的缝隙，把屁股顶在了我的裆部。"
+    },
+    {
+      "en": "I do my best to harken back to my earlier thoughts of wanting nothing more than to be close to her, but I'm forced to abandon that in order to prevent myself from getting aroused instead.",
+      "zh": "我努力回想先前那个「只想靠近她」的念头，但不得不放弃它，以免自己起了反应。"
+    },
+    {
+      "en": "Turns out I'm weaker than I thought.",
+      "zh": "事实证明我比自己想象的更没用。"
+    },
+    {
+      "en": "I'm only able to survive for about two or three minutes before I get hard and wind up {i}accidentally{/i} sandwiching my erect dick between Ami's butt cheeks.",
+      "zh": "我只撑了两三分钟就硬了，结果{i}不小心{/i}把勃起的阴茎夹进了 Ami 的臀缝里。"
+    },
+    {
+      "en": "After it happens, though...she doesn't move at all.",
+      "zh": "但事情发生之后……她一动都没动。"
+    },
+    {
+      "en": "She just...accepts it like it's second nature- which is honestly a little shocking since I expected at least {i}some{/i} sort of reaction.",
+      "zh": "她只是……像理所当然一样接受了——说实话这有点让人震惊，因为我本以为至少会{i}有点{/i}反应。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She notices. She has to. There's no way she doesn't.",
+      "zh": "她注意到了。她肯定注意到了。她不可能没注意到。"
+    },
+    {
+      "en": "Every few minutes or so, she’ll readjust, sometimes pushing slightly harder into me...but never anything more than that.",
+      "zh": "每隔几分钟左右，她就会调整一下姿势，有时会更用力地往我这边顶一点……但从没有更进一步。"
+    },
+    {
+      "en": "Is she waiting for me to do something?",
+      "zh": "她在等我做点什么吗？"
+    },
+    {
+      "en": "{i}Should{/i} I do something?",
+      "zh": "我{i}该{/i}做点什么吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Sensei?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 老师？"
+    },
+    {
+      "en": ": Yeah?...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯？……"
+    },
+    {
+      "en": ": I really love you, you know.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我真的很爱你，你知道吗。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Like...more than anything in the whole world.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 就是……胜过这世上的一切。"
+    },
+    {
+      "en": ": And I’m not just saying that cause we’re family.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 而且我不只是因为我们是家人才这么说。"
+    },
+    {
+      "en": ": I’m saying that because it’s something I want you to remember any time you’re feeling down.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我这么说，是因为我希望你在任何时候心情低落时都能记起这句话。"
+    },
+    {
+      "en": ": I want you to know that I’m totally fine with you always relying on me in any way you need to.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我想让你知道，我完全愿意让你在任何需要的时候依赖我。"
+    },
+    {
+      "en": ": I know I’m not feeling well now...but I promise to get better soon so I can go back to taking care of you. Okay?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我知道我现在身体不舒服……但我保证会快点好起来，好回去继续照顾你。好吗？"
+    },
+    {
+      "en": ": Yeah...okay...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……好……"
+    },
+    {
+      "en": ": I...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": I love you too, Ami.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我也爱你，Ami。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene amicouch8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/amicouch8.webp",
+      "alt": "amicouch8"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heheh...it always makes me happy to hear you say that...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嘿嘿……听到你这么说，我总是很开心……"
+    },
+    {
+      "en": ": I feel like that's the first time in a while, though...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不过我觉得，已经有一阵子没听你说过了……"
+    },
+    {
+      "en": ": Yeah...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ": Yeah, it is...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，是啊……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "For me, it's the first time ever.",
+      "zh": "对我来说，这是有生以来第一次。"
+    },
+    {
+      "en": "At least the first time with her.",
+      "zh": "至少是和她之间的第一次。"
+    },
+    {
+      "en": "I'm sure I uttered those words in my previous life...but for whatever reason, the memory of ever doing that is just as black as everything else.",
+      "zh": "我确信我在上辈子说过这句话……但不知为何，关于说这话的记忆，跟其他一切一样漆黑一片。"
+    },
+    {
+      "en": "But...I said it.",
+      "zh": "但是……我说了。"
+    },
+    {
+      "en": "It might not be true. In fact, it probably {i}isn't{/i} true...I'm not even sure if I fully understand what love {i}is.{/i}",
+      "zh": "那也许不是真的。事实上，大概就{i}不是{/i}真的……我甚至不确定自己是否真的懂得什么{i}是{/i}爱。"
+    },
+    {
+      "en": "But I said it.",
+      "zh": "但我说了。"
+    },
+    {
+      "en": "And I will now have to suffer the consequences for saying it.",
+      "zh": "而现在，我必须为说出这句话承受后果。"
+    },
+    {
+      "en": "But...",
+      "zh": "但是……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The words worked like a lullaby and put Ami to sleep just minutes later.",
+      "zh": "这句话像摇篮曲一样奏效，几分钟后就把 Ami 哄睡了。"
+    },
+    {
+      "en": "As for me-",
+      "zh": "至于我——"
+    },
+    {
+      "en": "My erection remained and I spent the next several minutes trying to prod her out of her dreams.",
+      "zh": "我的勃起还在，接下来的好几分钟里，我都在试图把她从梦里戳醒。"
+    },
+    {
+      "en": "It didn't work.",
+      "zh": "没成功。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene bedroom_day",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "So I returned to my bedroom and pleasured myself to the thought of her.",
+      "zh": "于是我回到自己房间，靠着对她的想象解决了自己。"
+    },
+    {
+      "en": "I imagined pulling her pajama pants down while she was still asleep.",
+      "zh": "我想象着在她还睡着的时候，把她的睡裤褪下来。"
+    },
+    {
+      "en": "I imagined warming her up with my fingers.",
+      "zh": "我想象着用手指把她暖起来。"
+    },
+    {
+      "en": "I imagined parting her legs, tainting her thighs with the residual juices I forced her body into creating in its fit of ill unconsciousness-",
+      "zh": "我想象着分开她的双腿，用在她病中昏睡时逼她身体分泌出的残液玷污她的大腿——"
+    },
+    {
+      "en": "And I imagined the words “I love you” being spoken once more- this time between the gasps and moans she'd make as my cock sinks into her.",
+      "zh": "我还想象着「我爱你」这句话被再次说出——这一次，是在我的阴茎沉进她身体时，她喘息与呻吟的间隙里。"
+    },
+    {
+      "en": "I would never say it back.",
+      "zh": "我绝不会回应那句话。"
+    },
+    {
+      "en": "But I would prove my love regardless.",
+      "zh": "但无论如何，我会证明我的爱。"
+    },
+    {
+      "en": "I imagine it dripping down her back like morning dew on a bed of flowers.",
+      "zh": "我想象它顺着她的背脊滴落，像花床上的晨露。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami slept through the rest of the day.",
+      "zh": "Ami 睡过了剩下的一整天。"
+    },
+    {
+      "en": "I pleasured myself five more times.",
+      "zh": "我又自己解决了五次。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.end_replay()",
+      "zh": ""
+    },
+    {
+      "en": "$ day48 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day == 1:",
+      "zh": ""
+    },
+    {
+      "en": "jump advancetotues",
+      "zh": ""
+    },
+    {
+      "en": "if day == 2:",
+      "zh": ""
+    },
+    {
+      "en": "jump advancetowed",
+      "zh": ""
+    },
+    {
+      "en": "if day == 3:",
+      "zh": ""
+    },
+    {
+      "en": "jump advancetothurs",
+      "zh": ""
+    },
+    {
+      "en": "if day == 4:",
+      "zh": ""
+    },
+    {
+      "en": "jump advancetofri",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump advancetosat",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "label": "kaoridate15p3",
-  "title_zh": "悲伤云",
+  "title_zh": "云",
   "lines": [
     {
       "en": ""
@@ -22,7 +22,7 @@
       "en": ""
     },
     {
-      "en": "It’s funny how you can gradually drift from one place to somewhere on the complete opposite side of the world town without ever realizing it until it’s time to go home.",
+      "en": "It’s funny how you can gradually drift from one place to somewhere on the complete opposite side of the {s}world{/s} town without ever realizing it until it’s time to go home.",
       "zh": "有趣的是，你能够从一个地方一点点漂到这座小镇完全相反的另一头，却直到该回家的时候才意识到。"
     },
     {
@@ -62,8 +62,8 @@
       "zh": "我们想出来的这些奇怪的、虚构的生物，听起来相当不错。"
     },
     {
-      "en": "And it ultimately leads me to the idea of a world in which I could just replace everyone and everything with a mechanized version.",
-      "zh": "而这最终让我想到了这样一个世界：我可以把所有人和所有东西都换成机械版本。"
+      "en": "And it ultimately leads me to the idea of a world in which I could just replace {i}everyone{/i} and {i}everything{/i} with a mechanized version.",
+      "zh": "而这最终让我想到了这样一个世界：我可以把{i}所有人{/i}和{i}所有东西{/i}都换成机械版本。"
     },
     {
       "en": "That way, I’d never have to worry about doing something that breaks them.",
@@ -241,8 +241,8 @@
       "zh": "从某种意义上说，坏掉也可以是很美的。"
     },
     {
-      "en": "It doesn’t make me happy to see people in bad conditions, but it does make everything around me feel kind of like Kaori’s eye flaps after she opens her mouth really wide.",
-      "zh": "看到别人处境糟糕，我并不会开心，但这确实让我周围的一切，感觉有点像 Kaori 把嘴张得很大之后的那对眼皮。"
+      "en": "It doesn’t make me {i}happy{/i} to see people in bad conditions, but it does make everything around me feel kind of like Kaori’s eye flaps after she opens her mouth really wide.",
+      "zh": "看到别人处境糟糕，我并不会{i}开心{/i}，但这确实让我周围的一切，感觉有点像 Kaori 把嘴张得很大之后的那对眼皮。"
     },
     {
       "en": "It all gets lighter.",
@@ -685,10 +685,10 @@
       "zh": ": 我一个人跑这场说话马拉松一点也不好玩，而且你的脑子因为里面那朵悲伤云，一直在 BZZZ BZZZ 地响。"
     },
     {
-      "en": ": The cloud normally hangs over a person’s head, not inside of it.",
+      "en": ": The cloud normally hangs {i}over{/i} a person’s head, not inside of it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 云一般是悬在人的头顶上，不是在人的脑袋里的。"
+      "zh": ": 云一般是悬在人的{i}头顶{/i}上，不是在人的脑袋里的。"
     },
     {
       "en": ": The sky is naked tonight and there are no clouds anywhere! So you must have eaten them!",
@@ -802,10 +802,10 @@
       "zh": ": 自私的人会做这种事吗？"
     },
     {
-      "en": ": It’s definitely not a thing I would normally do.",
+      "en": ": It’s definitely not a thing {i}I{/i} would normally do. ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 这绝对不是我平时会做的事。"
+      "zh": ": 这绝对不是{i}我{/i}平时会做的事。"
     },
     {
       "en": ": I just have a bit of a soft spot for you, I guess.",
@@ -1004,8 +1004,8 @@
       "zh": "不过光是把我请回她家，就已经足够还清这份人情了。"
     },
     {
-      "en": "I’m just hoping she may have heard a little more about what normally happens after inviting someone in, though.",
-      "zh": "我只是希望，她对「把人请进门之后通常会发生什么」能多了解那么一点点。"
+      "en": "I’m just hoping she may have heard a little more about what normally happens {i}after{/i} inviting someone in, though.",
+      "zh": "我只是希望，她对「把人请进门{i}之后{/i}通常会发生什么」能多了解那么一点点。"
     },
     {
       "en": ".........",
@@ -1360,8 +1360,8 @@
       "en": ""
     },
     {
-      "en": "Actually...what is the name of the maid cafe?",
-      "zh": "话说回来……那家女仆咖啡厅到底叫什么名字来着？"
+      "en": "Actually...what {i}is{/i} the name of the maid cafe?",
+      "zh": "话说回来……那家女仆咖啡厅{i}到底{/i}叫什么名字来着？"
     },
     {
       "en": ""
@@ -1460,10 +1460,10 @@
       "en": ""
     },
     {
-      "en": ": Bestnight, Friend. It is better than good.",
+      "en": ": {i}Best{/i}night, Friend. It is better than good.",
       "spk": "Kaori",
       "spkColor": "#969696",
-      "zh": ": Bestnight，朋友。它比 Goodnight 更好。"
+      "zh": ": {i}Best{/i}night，朋友。它比 Goodnight 更好。"
     },
     {
       "en": ": Sure...",
@@ -1513,8 +1513,8 @@
       "zh": "我是说，我现在知道 Kaori 住在哪儿了。"
     },
     {
-      "en": "And it looked exceedingly normal apart from the giant chicken, so that in itself was a huge surprise.",
-      "zh": "而且除了那只巨大的鸡之外，那地方看起来异常正常，光是这一点就已经是个巨大的惊喜了。"
+      "en": "And it looked exceedingly {i}normal{/i} apart from the giant chicken, so that in itself was a huge surprise.",
+      "zh": "而且除了那只巨大的鸡之外，那地方看起来异常{i}正常{/i}，光是这一点就已经是个巨大的惊喜了。"
     },
     {
       "en": "I just hope that I can actually spend more than thirty seconds in there some day.",
@@ -1525,8 +1525,8 @@
       "zh": "不过现在这样……也说得通。"
     },
     {
-      "en": "She might not make sense, but the situation does.",
-      "zh": "她这个人可能说不通，但这件事说得通。"
+      "en": "{i}She{/i} might not make sense, but the situation does.",
+      "zh": "{i}她{/i}这个人可能说不通，但这件事说得通。"
     },
     {
       "en": "And I should probably learn a little more about her before I expect her to start “properly upholding any time honored traditions” with me...",
@@ -1547,8 +1547,8 @@
       "en": ""
     },
     {
-      "en": "Kaori’s affection has increased to [kaori_love]!",
-      "zh": "Kaori 的好感度提升到了 [kaori_love]!"
+      "en": "{i}Kaori’s affection has increased to [kaori_love]!{/i}",
+      "zh": "{i}Kaori 的好感度提升到了 [kaori_love]!{/i}"
     },
     {
       "en": ".........",

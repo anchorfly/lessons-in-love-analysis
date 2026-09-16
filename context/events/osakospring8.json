@@ -30,8 +30,8 @@
       "zh": "这不是说你不能在后室里自慰。你大概可以。而且大概会很爽。但大概也会很吓人。而宿舍也是这么个感觉。也许吧。吓人。"
     },
     {
-      "en": "Or at least scary-adjacent. Because, when you sit down and think about nightmares or sorrow or any of the other negative stuff you’ve come to associate with this game, the greatest concentration of it has occurred within these walls.",
-      "zh": "或者至少,和「吓人」沾亲带故。因为,当你坐下来想想噩梦、悲伤、或任何你已将其与这款游戏关联起来的负面事物,它们最浓密的聚集地,就发生在这四面墙之内。"
+      "en": "{size=-4}Or at least scary-adjacent. Because, when you sit down and think about nightmares or sorrow or any of the other negative stuff you’ve come to associate with this game, the greatest concentration of it has occurred within these walls.{/size}",
+      "zh": "{size=-4}或者至少,和「吓人」沾亲带故。因为,当你坐下来想想噩梦、悲伤、或任何你已将其与这款游戏关联起来的负面事物,它们最浓密的聚集地,就发生在这四面墙之内。{/size}"
     },
     {
       "en": "There are twenty girls in here. Not right now, but as a whole. Sometimes even more when the world breaks. And each one of them has their own troubles, trials, and tribadism. Err...tribulations.",
@@ -50,8 +50,8 @@
       "zh": "当然,除了我。但这说明不了什么,因为我又不是 Akira Arakawa。"
     },
     {
-      "en": "In fact, I’m not really here at all! And selecting the dorms today was just the trigger you needed to activate a completely unrelated event! Congratulations!",
-      "zh": "事实上,我根本就不在这里!而今天选择宿舍这个地点,只是你需要的一个扳机,用来触发一场毫不相干的事件!恭喜!"
+      "en": "In fact, I’m not really {i}here{/i} at all! And selecting the dorms today was just the trigger you needed to activate a completely unrelated event! Congratulations!",
+      "zh": "事实上,我根本就不在{i}这里{/i}!而今天选择宿舍这个地点,只是你需要的一个扳机,用来触发一场毫不相干的事件!恭喜!"
     },
     {
       "en": "Here’s more melancholy.",
@@ -64,10 +64,10 @@
       "en": ""
     },
     {
-      "en": ": Hm? Coming! One sec!",
+      "en": ": {i}Hm? Coming! One sec!{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 嗯?来啦!稍等!"
+      "zh": ": {i}嗯?来啦!稍等!{/i}"
     },
     {
       "en": ""
@@ -172,10 +172,10 @@
       "en": ""
     },
     {
-      "en": ": I’m not. This is all a dream. I was never actually here and, in a few minutes, you’re going to wake up and forget all about it.",
+      "en": ": I’m not. This is {i}all{/i} a dream. I was never actually here and, in a few minutes, you’re going to wake up and forget all about it.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 我没有出事。这一切都是梦。我根本没来过,几分钟后你就会醒来,把这一切忘得一干二净。"
+      "zh": ": 我没有出事。这{i}一切{/i}都是梦。我根本没来过,几分钟后你就会醒来,把这一切忘得一干二净。"
     },
     {
       "en": ": Oh. Well...okay then? Not very believable given what my dreams have been like lately, but I guess nice surprises aren’t ever really out of the question.",
@@ -259,10 +259,10 @@
       "en": ""
     },
     {
-      "en": ": Cool. Well, they’re non-refundable, so I think you should take them anyway. And, in the event that you stop feeling fine, look at them and remember someone cares.",
+      "en": ": Cool. Well, they’re non-refundable, so I think you should take them anyway. And, in the event that you {i}stop{/i} feeling fine, look at them and remember someone cares.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 酷。嗯,这花不能退货,所以我觉得你还是收下吧。还有,万一你哪天不再觉得挺好,就看看它们,记住有个人在乎你。"
+      "zh": ": 酷。嗯,这花不能退货,所以我觉得你还是收下吧。还有,万一你哪天{i}不再{/i}觉得挺好,就看看它们,记住有个人在乎你。"
     },
     {
       "en": ": Or just let them die. That’s fine too. They were kind of cheap, to be honest. I got them from the convenience store.",
@@ -331,16 +331,16 @@
       "zh": ": 嗯,应该的。你不用谢我。就是……跟我说说。我是说,如果你想的话。只是……假装没事对你一点帮助都没有,而我最近真的很担心。"
     },
     {
-      "en": ": I don’t know how to talk about it, that’s the problem.",
+      "en": ": I don’t know {i}how{/i} to talk about it, that’s the problem. ",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 问题就在于,我不知道该怎么谈。"
+      "zh": ": 问题就在于,我不知道{i}该怎么{/i}谈。"
     },
     {
-      "en": ": Is it really that? Or is it just...not having someone to talk to?",
+      "en": ": Is it really {i}that?{/i} Or is it just...not having someone to talk {i}to?{/i}",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 真的是那样吗?还是只是……没有一个可以说话的人?"
+      "zh": ": 真的是{i}那样{/i}吗?还是只是……没有一个可以说话的人?"
     },
     {
       "en": ": A little of both I guess...I can talk to Sensei, but you know how he is. There’s Sara too but that doesn’t feel right either. And all my friends are just...",
@@ -370,10 +370,10 @@
       "zh": ": 等等,你到底是怎么知道我住哪的?我从没告诉过你我的地址或房间号。"
     },
     {
-      "en": ": Akira told me after I asked him what was going on with you. And don’t give me too much credit for coming since he was the one who ultimately pushed me to do this.",
+      "en": ": Akira told me after I asked him what was going on with you. And don’t give me {i}too{/i} much credit for coming since he was the one who ultimately pushed me to do this.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 我问他你最近怎么了之后,他告诉我的。也别把我的前来想得太高尚——最终推我一把的人是他。"
+      "zh": ": 我问他你最近怎么了之后,他告诉我的。也别把我的前来想得{i}太{/i}高尚——最终推我一把的人是他。"
     },
     {
       "en": ""
@@ -391,16 +391,16 @@
       "en": ""
     },
     {
-      "en": ": Oh...so you didn’t really want to-",
+      "en": ": Oh...so you didn’t really {i}want{/i} to-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 哦……所以你其实并不是真的想——"
+      "zh": ": 哦……所以你其实并不是真的{i}想{/i}——"
     },
     {
-      "en": ": No! No, no, no. Not like that. I just...you know...I’m your karate instructor. We’re not, like...close or...you know, right? Like, its probably weird for me to chase you down to...do stuff.",
+      "en": ": No! No, no, no. Not like that. I just...you know...I’m your karate instructor. We’re not, like...{i}close{/i} or...you know, right? Like, its probably weird for me to chase you down to...do stuff.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 不!不不不。不是那个意思。我只是……你懂的……我是你的空手道教官。我们并不算……亲近,或者……你懂的,对吧?就是说,我跑来追着你……做这种事,大概挺怪的。"
+      "zh": ": 不!不不不。不是那个意思。我只是……你懂的……我是你的空手道教官。我们并不算……{i}亲近{/i},或者……你懂的,对吧?就是说,我跑来追着你……做这种事,大概挺怪的。"
     },
     {
       "en": ": It’s not weird...",
@@ -463,10 +463,10 @@
       "en": ""
     },
     {
-      "en": ": Okay, now you’re just acting like him. Show me you know better than that, please.",
+      "en": ": Okay, now you’re just acting like {i}him.{/i} Show me you know better than that, please.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 好了,你现在净学他那一套。请让我看看,你比这有分寸得多,拜托。"
+      "zh": ": 好了,你现在净学{i}他{/i}那一套。请让我看看,你比这有分寸得多,拜托。"
     },
     {
       "en": ": MMMMHNGHMNMHMNMHMM!!!",
@@ -535,10 +535,10 @@
       "zh": ": 你要的话我还有多的。带相框的。你连店都不用去,也不用量尺寸什么的。"
     },
     {
-      "en": ": Is now a good time to remind you I’m the only girl in this city that doesn’t want to sleep with him?",
+      "en": ": Is now a good time to remind you I’m the only girl in this city that {i}doesn’t{/i} want to sleep with him?",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 现在是不是提醒你的好时机——我是这座城市里唯一不想和他上床的女孩?"
+      "zh": ": 现在是不是提醒你的好时机——我是这座城市里唯一{i}不想{/i}和他上床的女孩?"
     },
     {
       "en": ": Oh, right. Because you love me instead.",
@@ -568,10 +568,10 @@
       "zh": ": Ayane,你想告诉我出了什么事吗?而「你想吗」的真正意思是「我能缠着你让我说吗」——因为我知道你自己绝不会开口。"
     },
     {
-      "en": ": I do, I just...it’s hard. And not just because I’m already bad at doing that. I just feel kind of...empty.",
+      "en": ": I do, I just...it’s hard. And not {i}just{/i} because I’m already bad at doing that. I just feel kind of...empty.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我想,只是……很难。而且不光是因为我本来就不擅长这个。我只是觉得有点……空。"
+      "zh": ": 我想,只是……很难。而且不{i}光{/i}是因为我本来就不擅长这个。我只是觉得有点……空。"
     },
     {
       "en": ": Liiiiiike...depression?",
@@ -607,16 +607,16 @@
       "zh": ": 这不一样。就像……你跳下电车之后,一直觉得自己好像不小心落下了什么东西的那种感觉。"
     },
     {
-      "en": ": I get it. Just, when I feel that way, it’s normally because I did forget something.",
+      "en": ": I get it. Just, when I feel that way, it’s normally because I {i}did{/i} forget something.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 我懂。只不过我有那种感觉的时候,通常是真的忘了东西。"
+      "zh": ": 我懂。只不过我有那种感觉的时候,通常是{i}真的{/i}忘了东西。"
     },
     {
-      "en": ": It’s possible I did too. I just can’t remember what. And so now, every second that goes by, I’m trying to figure out what that something is.",
+      "en": ": It’s possible I did too. I just can’t remember {i}what.{/i} And so now, every second that goes by, I’m trying to figure out what that something {i}is.{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我可能也是。只是我想不起来是什么。所以现在,每过一秒,我都在试图弄清那个东西到底是什么。"
+      "zh": ": 我可能也是。只是我想不起来是{i}什么{/i}。所以现在,每过一秒,我都在试图弄清那个东西到底是{i}什么{/i}。"
     },
     {
       "en": ""
@@ -667,10 +667,10 @@
       "zh": ": 我不知道……我想,既然那些感觉最终消失了,那我应该是想通了吧。只是这一次,事情的感觉有点不一样。"
     },
     {
-      "en": ": Like...kind of like how I just forgot how to actually be happy in general. To the point where even thinking about happiness makes me feel kind of...guilty, I guess?",
+      "en": ": Like...kind of like how I just forgot how to actually be {i}happy{/i} in general. To the point where even thinking about happiness makes me feel kind of...guilty, I guess?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 就像……好像我干脆忘记了该怎么真正快乐。到了一种连「想到快乐」都会让我觉得有点……愧疚的程度,我猜?"
+      "zh": ": 就像……好像我干脆忘记了该怎么真正{i}快乐{/i}。到了一种连「想到快乐」都会让我觉得有点……愧疚的程度,我猜?"
     },
     {
       "en": ": So, in a sense, you’re lacking something that makes you feel whole.",
@@ -700,10 +700,10 @@
       "zh": ": 是……这么说通吗?"
     },
     {
-      "en": ": Of course. I’m the same way too, you know. Just with purpose as a concept instead of some vague article or idea I can’t remember.",
+      "en": ": Of course. I’m the same way too, you know. Just with {i}purpose{/i} as a concept instead of some vague article or idea I can’t remember.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 当然说得通。你知道吗,我也一样。只是我缺的是「目的」这个概念,而不是某件想不起来的模糊物件或想法。"
+      "zh": ": 当然说得通。你知道吗,我也一样。只是我缺的是{i}「目的」{/i}这个概念,而不是某件想不起来的模糊物件或想法。"
     },
     {
       "en": ": Really? You’ve always seemed so cool to me, though.",
@@ -772,10 +772,10 @@
       "zh": ": 我知道这听起来像什么。但他真正待在「爸爸」这个角色里的时间其实不长,很快我就开始把他看成别的东西了。"
     },
     {
-      "en": ": The time he did spend in it, though?...I think you’d be surprised to see just how well he did. He can be pretty amazing when he actually tries to be. He just...doesn’t.",
+      "en": ": The time he {i}did{/i} spend in it, though?...I think you’d be surprised to see just how well he did. He can be pretty amazing when he actually tries to be. He just...doesn’t.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 可他待在那个角色里的那段日子?……我想你会惊讶于他做得有多好。只要他真心想做,他可以相当了不起。他只是……不做。"
+      "zh": ": 可他待在那个角色里的那段日子?……我想你会惊讶于他做得有多好。只要他{i}真{/i}心想做,他可以相当了不起。他只是……不做。"
     },
     {
       "en": ""
@@ -793,16 +793,16 @@
       "en": ""
     },
     {
-      "en": ": But what’s weird is that even that thought makes me sad now when it used to make me feel so comfortable.",
+      "en": ": But what’s weird is that even {i}that{/i} thought makes me sad now when it used to make me feel so comfortable. ",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 但怪就怪在,连这个念头如今都让我难过,而它从前是让我感到安心的。"
+      "zh": ": 但怪就怪在,连{i}这个{/i}念头如今都让我难过,而它从前是让我感到安心的。"
     },
     {
-      "en": ": Like all the things that brought me joy are gone. And all that’s left is the faint sound of birds in the back of my mind.",
+      "en": ": Like {i}all{/i} the things that brought me joy are gone. And all that’s left is the faint sound of birds in the back of my mind.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 好像所有曾带给我快乐的东西都不见了。只剩下脑海深处隐约的鸟鸣。"
+      "zh": ": 好像{i}所有{/i}曾带给我快乐的东西都不见了。只剩下脑海深处隐约的鸟鸣。"
     },
     {
       "en": ": How long will it be until they sing something happy, I wonder?",
@@ -838,10 +838,10 @@
       "zh": ": 抱歉,我……最近就是……这样。我……算是有点破碎。哈哈……"
     },
     {
-      "en": ": Well, what can I do?",
+      "en": ": Well, what can {i}I{/i} do?",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 那么,我能做什么?"
+      "zh": ": 那么,{i}我{/i}能做什么?"
     },
     {
       "en": ""
@@ -898,10 +898,10 @@
       "zh": ": 有种直觉告诉我,你已经做到你能做的极限了。"
     },
     {
-      "en": ": Huh...Well, then either you really like flowers or I’m even less cut out for this than I thought.",
+      "en": ": Huh...Well, then either you really like flowers or {i}I’m{/i} even less cut out for this than I thought.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 呃……那,要么你是真的喜欢花,要么我干这个比自以为的还不在行。"
+      "zh": ": 呃……那,要么你是真的喜欢花,要么{i}我{/i}干这个比自以为的还不在行。"
     },
     {
       "en": ""
@@ -919,10 +919,10 @@
       "en": ""
     },
     {
-      "en": ": I think I just really like flowers. And I think you should stop doubting yourself.",
+      "en": ": I think I just really like flowers. And I think {i}you{/i} should stop doubting yourself. ",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我觉得我只是真的喜欢花。另外我觉得,你该停止怀疑自己了。"
+      "zh": ": 我觉得我只是真的喜欢花。另外我觉得,{i}你{/i}该停止怀疑自己了。"
     },
     {
       "en": ": Noted. I’ll get on that as soon as you remember what it is you’re looking for.",
@@ -955,10 +955,10 @@
       "zh": ": 你知道你直接叫我 Osako 我也不介意,对吧?我都进你卧室了,想必很明显,我早就搬出「只是个老师」那个角色了吧。"
     },
     {
-      "en": ": Right, sorry. I’ve only just started calling Sensei by his real name, so...maybe I’m just slow with that?",
+      "en": ": Right, sorry. I’ve only just started calling Sensei by {i}his{/i} real name, so...maybe I’m just slow with that?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 好,抱歉。我也是才开始叫 Sensei 的真名,所以……可能我就是在这方面比较慢热?"
+      "zh": ": 好,抱歉。我也是才开始叫 Sensei 的{i}真名{/i},所以……可能我就是在这方面比较慢热?"
     },
     {
       "en": ": Nothing wrong with being slow. Especially with how quickly life tries to backhand you sometimes. Patience gives you a little more breathing room between all the pain.",
@@ -973,10 +973,10 @@
       "zh": ": 你这话听起来,像是喘息的余地里就没有痛苦了。而我最近发现,事情恰恰相反。"
     },
     {
-      "en": ": Nice. All I’ve discovered lately is that my favorite student has become just as cynical and miserable as the guy who should be raising her instead of romancing her.",
+      "en": ": Nice. All I’ve discovered lately is that my favorite student has become just as cynical and miserable as the guy who {i}should{/i} be raising her instead of romancing her.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 妙。我最近发现的只有:我最喜欢的学生,变得和那个本该养育她、而不是跟她谈恋爱的家伙一样愤世、一样悲惨。"
+      "zh": ": 妙。我最近发现的只有:我最喜欢的学生,变得和那个{i}本该{/i}养育她、而不是跟她谈恋爱的家伙一样愤世、一样悲惨。"
     },
     {
       "en": ""
@@ -1012,10 +1012,10 @@
       "zh": ": 你能教教我怎么才能当他是死了吗?"
     },
     {
-      "en": ": Probably not. But I could give you a crash course on how to make your family think you are. And all you need is a closet.",
+      "en": ": Probably not. But I could give you a crash course on how to make your family think {i}you{/i} are. And all you need is a closet.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 大概不能。但我可以给你开一门速成课,教你怎么让家人以为你死了。你需要的只是一柜衣柜。"
+      "zh": ": 大概不能。但我可以给你开一门速成课,教你怎么让家人以为{i}你{/i}死了。你需要的只是一柜衣柜。"
     },
     {
       "en": ""
@@ -1039,10 +1039,10 @@
       "zh": ": 嚯。"
     },
     {
-      "en": ": Just a little joke. My parents have always accepted me. Always knew it too. Can’t say the same for extended family but, hey — that’s just how it goes sometimes.",
+      "en": ": Just a little joke. My parents have always accepted me. Always {i}knew{/i} it too. Can’t say the same for extended family but, hey — that’s just how it goes sometimes.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 开个小玩笑。我父母一直接受我。而且一直都知道。亲戚那边就不能同日而语了,不过嘛——有些事本来就是这样。"
+      "zh": ": 开个小玩笑。我父母一直接受我。而且一直都{i}知道{/i}。亲戚那边就不能同日而语了,不过嘛——有些事本来就是这样。"
     },
     {
       "en": ""
@@ -1117,10 +1117,10 @@
       "en": ""
     },
     {
-      "en": ": Me? Who needed to be convinced to just come talk to you? Thanks, but no. I’m not cut out for something like that. You need confidence to be a mother and I just...don’t have that. At all.",
+      "en": ": Me? Who needed to be convinced to just come talk to {i}you?{/i} Thanks, but no. I’m not cut out for something like that. You need confidence to be a mother and I just...don’t have that. At all.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 我?一个光是来和你聊聊都需要别人劝的人?谢了,还是算了。我干不来那种事。当妈妈需要自信,而我根本……没有那东西。一点都没有。"
+      "zh": ": 我?一个光是来和{i}你{/i}聊聊都需要别人劝的人?谢了,还是算了。我干不来那种事。当妈妈需要自信,而我根本……没有那东西。一点都没有。"
     },
     {
       "en": ": But confidence is something you can develop. And, for all you know, the you five years from now might be unrecognizable from the you you are now.",
@@ -1129,16 +1129,16 @@
       "zh": ": 可自信是可以培养的东西。而且谁知道呢,五年后的你,说不定和现在的你判若两人。"
     },
     {
-      "en": ": Again, maybe. But that’s still not taking into account just how drastically a child would change my life. And that’s not even touching on how Wakana feels.",
+      "en": ": Again, maybe. But that’s still not taking into account just how drastically a child would change my life. And that’s not even {i}touching{/i} on how Wakana feels.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 又来了,也许吧。但这依然没算上一个孩子会把我的生活改变得有多剧烈。更别提 Wakana 的感受了。"
+      "zh": ": 又来了,也许吧。但这依然没算上一个孩子会把我的生活改变得有多剧烈。更{i}别提{/i} Wakana 的感受了。"
     },
     {
-      "en": ": I don’t even know how you feel yet, though. You keep deflecting the question with different potential obstacles.",
+      "en": ": I don’t even know how {i}you{/i} feel yet, though. You keep deflecting the question with different potential obstacles.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 可我连你的真实感受都还不知道呢。你一直在用各种假想障碍岔开问题。"
+      "zh": ": 可我连{i}你{/i}的真实感受都还不知道呢。你一直在用各种假想障碍岔开问题。"
     },
     {
       "en": ""
@@ -1156,10 +1156,10 @@
       "en": ""
     },
     {
-      "en": ": It’s not an easy question, Ayane. Not everyone is born like you. Someone who just knows they want to be a mother one day.",
+      "en": ": It’s not an easy question, Ayane. Not everyone is born like you. Someone who just {i}knows{/i} they want to be a mother one day.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 这不是个容易回答的问题,Ayane。不是每个人都像你一样,生下来就知道自己有一天想当妈妈。"
+      "zh": ": 这不是个容易回答的问题,Ayane。不是每个人都像你一样,生下来就{i}知道{/i}自己有一天想当妈妈。"
     },
     {
       "en": ": Sorry, I...I wasn’t trying to offend you or anything...",
@@ -1183,16 +1183,16 @@
       "en": ""
     },
     {
-      "en": ": I’m not offended, it’s just...",
+      "en": ": I’m not {i}offended,{/i} it’s just...",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 我没被冒犯,只是……"
+      "zh": ": 我没{i}被冒犯{/i},只是……"
     },
     {
-      "en": ": It’s not something I grew up thinking...would ever really happen. Like....going on a trip to Hawaii or something. Just...way more dramatic and scary than that.",
+      "en": ": It’s not something I grew up thinking...would ever really happen. Like....going on a trip to Hawaii or something. Just...way more dramatic and {i}scary{/i} than that.",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 那不是我从小到大认为……真的会发生的事。就像……去夏威夷旅行什么的。只是……比那戏剧化得多、吓人得多。"
+      "zh": ": 那不是我从小到大认为……真的会发生的事。就像……去夏威夷旅行什么的。只是……比那戏剧化得多、{i}吓人{/i}得多。"
     },
     {
       "en": ": So...a dream.",
@@ -1201,16 +1201,16 @@
       "zh": ": 所以……是个梦。"
     },
     {
-      "en": ": Or lack thereof? Like, sure...poor people can dream about Hawaii too. But it’s not like they ever expect it to actually happen.",
+      "en": ": Or lack thereof? Like, sure...poor people can dream about Hawaii too. But it’s not like they ever expect it to actually {i}happen.{/i}",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 或者是梦的缺席?就是说,当然……穷人也可以梦见夏威夷。但他们从来不会指望它真的发生。"
+      "zh": ": 或者是梦的缺席?就是说,当然……穷人也可以梦见夏威夷。但他们从来不会指望它真的{i}发生{/i}。"
     },
     {
-      "en": ": But...they want it to happen. And you still won’t even say that.",
+      "en": ": But...they {i}want{/i} it to happen. And you still won’t even say that.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 可是……他们希望它发生。而你连这个都不肯说。"
+      "zh": ": 可是……他们{i}希望{/i}它发生。而你连这个都不肯说。"
     },
     {
       "en": ": ...",
@@ -1246,16 +1246,16 @@
       "zh": ": Ayane,我不算太喜欢我自己。我也没兴趣把一个孩子,交给一个连自己是谁、是什么都还没搞明白的我。"
     },
     {
-      "en": ": I’m a lesbian. I’m young. I live in a small apartment. Wakana and I are both extremely busy. We don’t have the time or energy for a dog, let alone a kid.",
+      "en": ": I’m a lesbian. I’m young. I live in a small apartment. Wakana and I are both extremely busy. We don’t have the time or energy for a {i}dog,{/i} let alone a kid. ",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 我是个蕾丝边。我还年轻。我住一间小公寓。我和 Wakana 都忙得要死。我们连养条狗的时间精力都没有,更别说一个孩子。"
+      "zh": ": 我是个蕾丝边。我还年轻。我住一间小公寓。我和 Wakana 都忙得要死。我们连养条{i}狗{/i}的时间精力都没有,更别说一个孩子。"
     },
     {
-      "en": ": We have to think about ourselves before anyone else. And besides, Wakana hates children with a burning passion. She can barely tolerate you guys and you’re not even that much younger than us.",
+      "en": ": {size=-2}We have to think about ourselves before anyone else. And besides, Wakana hates children with a burning passion. She can barely tolerate {i}you{/i} guys and you’re not even {i}that{/i} much younger than us.{/size}",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 我们得先考虑自己,再考虑别人。而且,Wakana 对小孩恨之入骨。她连你们都勉强忍受,而你们也没比我们小多少。"
+      "zh": ": {size=-2}我们得先考虑自己,再考虑别人。而且,Wakana 对小孩恨之入骨。她连{i}你们{/i}都勉强忍受,而你们也没比我们小多少。{/size}"
     },
     {
       "en": ": She’d never agree to this. She’d be signing her life away, and I don’t blame her for that at all.",
@@ -1357,16 +1357,16 @@
       "en": ""
     },
     {
-      "en": ": You probably shouldn’t, but...fine.",
+      "en": ": You probably shouldn’t, but...{i}fine.{/i}",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 你最好别说,但……行吧。"
+      "zh": ": 你最好别说,但……{i}行吧{/i}。"
     },
     {
-      "en": ": If you do want to be a mom...but Miss Watabe doesn’t...maybe you two are-",
+      "en": ": If you {i}do{/i} want to be a mom...but Miss Watabe {i}doesn’t...{/i}maybe you two are-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 如果你其实想当妈妈……但 Watabe 老师不想……也许你们俩可以——"
+      "zh": ": 如果你{i}其实{/i}想当妈妈……但 Watabe 老师{i}不想……{/i}也许你们俩可以——"
     },
     {
       "en": ""

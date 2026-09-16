@@ -67,10 +67,10 @@
       "zh": ": 我记得我是要跟 Ami 去看电影的。"
     },
     {
-      "en": ": We are going to the movies! I just need to kick Ayane’s butt in a cooking competition first!",
+      "en": ": We {i}are{/i} going to the movies! I just need to kick Ayane’s butt in a cooking competition first!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我们是要去看电影啊！只是我得先在一场厨艺比赛里把 Ayane 打得落花流水！"
+      "zh": ": 我们是要去看电影啊！只是我得先{i}在{/i}一场厨艺比赛里把 Ayane 打得落花流水！"
     },
     {
       "en": ": Oh, please! As if I’d let you win a competition as important as this!",
@@ -104,8 +104,8 @@
       "zh": "于是，我们就到了这里……Ami 与 Ayane 的终极对决——两个[teenage]女孩倾尽所有，想用厨艺打动我们三个人（不过主要是我）。"
     },
     {
-      "en": "I'm a little worried about giving Ayane access to so many knives during a battle in which my love is the prize...but I figure I’ll be able to step in if she does decide to get all...’Ayane.’",
-      "zh": "让 Ayane 在一场以我的爱为奖品的比拼中接触那么多刀，我多少有点担心……不过我想，要是她真打算「Ayane 附体」的话，我应该还来得及出手制止。"
+      "en": "I'm a little worried about giving Ayane access to so many knives during a battle in which my {i}love{/i} is the prize...but I figure I’ll be able to step in if she does decide to get all...’Ayane.’",
+      "zh": "让 Ayane 在一场以我的{i}爱{/i}为奖品的比拼中接触那么多刀，我多少有点担心……不过我想，要是她真打算「Ayane 附体」的话，我应该还来得及出手制止。"
     },
     {
       "en": ""
@@ -141,10 +141,10 @@
       "zh": ": 没关系。就当自己家。"
     },
     {
-      "en": ": And what is this? When did you two start warming up to one another? Why are so many strange things happening today?",
+      "en": ": And what is {i}this?{/i} When did you two start warming up to one another? Why are so many strange things happening today?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 这又是什么情况？你们俩什么时候开始这么亲近了？今天怎么尽出些奇怪的事？"
+      "zh": ": {i}这{/i}又是什么情况？你们俩什么时候开始这么亲近了？今天怎么尽出些奇怪的事？"
     },
     {
       "en": ""
@@ -246,10 +246,10 @@
       "zh": ": 那部分非说不可吗？"
     },
     {
-      "en": ": So...because you’ve only cried a couple times, you think he’s doing a good job?",
+      "en": ": So...because you’ve only cried {i}a couple times{/i}, you think he’s doing a good job?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 所以……就因为你只哭过几次，你就觉得他干得不错？"
+      "zh": ": 所以……就因为你只哭过{i}几次{/i}，你就觉得他干得不错？"
     },
     {
       "en": ": See? Now she's just going to use that against us and you're never going to learn how to talk.",
@@ -285,10 +285,10 @@
       "en": ""
     },
     {
-      "en": ": We're trying to teach her how to talk to other people, not how to make them feel insignificant and unwelcome.",
+      "en": ": We're trying to teach her how to {i}talk{/i} to other people, not how to make them feel insignificant and unwelcome.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我们是要教她怎么跟别人说话，不是教她怎么让别人觉得自己无足轻重、不受欢迎。"
+      "zh": ": 我们是要教她怎么跟别人{i}说话{/i}，不是教她怎么让别人觉得自己无足轻重、不受欢迎。"
     },
     {
       "en": ": I...think Sensei...is doing a good job...and um...I think...I'm going to stay...with him...",
@@ -328,12 +328,12 @@
       "zh": "Ami 在厨房里喊了一嗓子，把我和 Maya 之间的关系总结得相当到位。"
     },
     {
-      "en": "I don’t know if I’d go as far as saying that we’ll never get along, though...",
-      "zh": "不过我大概还不会说我们「永远合不来」这么绝对……"
+      "en": "I don’t know if I’d go as far as saying that we’ll {i}never{/i} get along, though...",
+      "zh": "不过我大概还不会说我们「{i}永远{/i}合不来」这么绝对……"
     },
     {
-      "en": "Maya will have to warm up to me some day, right?",
-      "zh": "总有一天 Maya 会对我改观的，对吧？"
+      "en": "Maya will {i}have{/i} to warm up to me some day, right?",
+      "zh": "总有一天 Maya {i}会{/i}对我改观的，对吧？"
     },
     {
       "en": "...",
@@ -359,10 +359,10 @@
       "en": ""
     },
     {
-      "en": ": How much longer do we need to wait until this competition actually begins? I'm starving and I envisioned myself with several buckets full of popcorn by now.",
+      "en": ": How much longer do we need to wait until this {i}competition{/i} actually begins? I'm starving and I envisioned myself with several buckets full of popcorn by now.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 这场比赛到底还要等多久才开始？我快饿死了，我本来想象中的自己这会儿已经抱着好几桶爆米花了。"
+      "zh": ": 这场{i}比赛{/i}到底还要等多久才开始？我快饿死了，我本来想象中的自己这会儿已经抱着好几桶爆米花了。"
     },
     {
       "en": ": You're gonna have to ask Ayane. She's the one who's supposed to be going-",
@@ -398,16 +398,16 @@
       "zh": ": 今天我们先从清淡的开始，品味一下我们美妙的文化中几乎每道日式料理都离不开的主角……米饭。"
     },
     {
-      "en": ": While it may not be the most exciting food item you will be eating today, it's important to remember that good rice can elevate a dish to unbelievable levels!",
+      "en": ": While it may not be the most {i}exciting{/i} food item you will be eating today, it's important to remember that good rice can elevate a dish to unbelievable levels!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 虽然它大概算不上你们今天要吃的最让人兴奋的东西，但请记住，好米能把一道菜提升到难以置信的高度！"
+      "zh": ": 虽然它大概算不上你们今天要吃的最{i}让人兴奋{/i}的东西，但请记住，好米能把一道菜提升到难以置信的高度！"
     },
     {
-      "en": ": And even though it may seem simple, there are countless different ways to use it and even more ways to-",
+      "en": ": And even though it may {i}seem{/i} simple, there are countless different ways to use it and even more ways to-",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 而且尽管它看似简单，用法却有无数种，而且更有——"
+      "zh": ": 而且尽管它{i}看似{/i}简单，用法却有无数种，而且更有——"
     },
     {
       "en": ": I'm sorry, is the monologue part of the dish? Or am I allowed to eat now?",
@@ -765,10 +765,10 @@
       "zh": ": 说实话我不懂你们俩激动个什么劲。我只是跟平时一样而已。"
     },
     {
-      "en": ": You are...always like this?...",
+      "en": ": You are...{i}always{/i} like this?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 你……一直都这样吗？……"
+      "zh": ": 你……{i}一直{/i}都这样吗？……"
     },
     {
       "en": ": Just leave it alone, Sana. She's a monster...",
@@ -979,10 +979,10 @@
       "en": ""
     },
     {
-      "en": ": So! Now that I've already won the first round, I’ll be counting on you guys to support my love- err...food at least one more time to lock in a victory for me!",
+      "en": ": So! Now that I've already won the first round, I’ll be counting on you guys to support my love- err...{i}food{/i} at least one more time to lock in a victory for me!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 那么！既然第一轮我已经赢了，接下来就指望你们再支持一次我的爱——呃……我的菜，好让我锁定胜局！"
+      "zh": ": 那么！既然第一轮我已经赢了，接下来就指望你们再支持一次我的爱——呃……我的{i}菜{/i}，好让我锁定胜局！"
     },
     {
       "en": ": For the main course, we have a-",
@@ -1491,10 +1491,10 @@
       "zh": ": 我选 Ami。"
     },
     {
-      "en": ": You know...maybe there is a god after all?",
+      "en": ": You know...maybe there {i}is{/i} a god after all?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你知道吗……也许这世上真的有神？"
+      "zh": ": 你知道吗……也许这世上{i}真的有{/i}神？"
     },
     {
       "en": ""
@@ -1575,10 +1575,10 @@
       "zh": ": 让你们的眼睛享用这道永恒的经典吧！"
     },
     {
-      "en": ": You know it! I know it! We all know it!",
+      "en": ": {i}You{/i} know it! {i}I{/i} know it! We {i}all{/i} know it!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 你们知道！我知道！我们都知道！"
+      "zh": ": {i}你们{/i}知道！{i}我{/i}知道！我们{i}都{/i}知道！"
     },
     {
       "en": ": It’s-",
@@ -1989,20 +1989,20 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]！"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]！{/i}"
     },
     {
-      "en": "Ayane’s affection has increased to [ayane_love]!",
-      "zh": "Ayane 的好感度提升到了 [ayane_love]！"
+      "en": "{i}Ayane’s affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]！{/i}"
     },
     {
-      "en": "Sana’s affection has increased to [sana_love]!",
-      "zh": "Sana 的好感度提升到了 [sana_love]！"
+      "en": "{i}Sana’s affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]！{/i}"
     },
     {
-      "en": "Maya’s affection has increased to [maya_love]!",
-      "zh": "Maya 的好感度提升到了 [maya_love]！"
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]！{/i}"
     },
     {
       "en": ".........",

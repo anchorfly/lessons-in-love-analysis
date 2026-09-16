@@ -469,8 +469,8 @@
       "zh": "她在斟酌如何回应我时，眼睛整整闭了七秒——这证明比起那时，我们已经走了多远。"
     },
     {
-      "en": "And perhaps proof of how far she will fall if this reset isn’t as successful as the last.",
-      "zh": "也许也证明着，如果这次重置不如上次成功，她会跌得有多惨。"
+      "en": "And perhaps proof of how far she will fall if this {i}reset{/i} isn’t as successful as the last.",
+      "zh": "也许也证明着，如果这次{i}重置{/i}不如上次成功，她会跌得有多惨。"
     },
     {
       "en": ""
@@ -683,10 +683,10 @@
       "zh": ": 我们不是朋友。"
     },
     {
-      "en": ": We’re no closer than we were the first time you came to the shrine.",
+      "en": ": We’re no closer than we were the first time {i}you{/i} came to the shrine.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 比起你第一次来神社的时候，我们并没有更亲近。"
+      "zh": ": 比起{i}你{/i}第一次来神社的时候，我们并没有更亲近。"
     },
     {
       "en": ": You just know slightly more about me.",
@@ -701,10 +701,10 @@
       "zh": ": 但用你自己的话来说，就连那些也只不过是你那张不断变长的「遗忘清单」上的新增条目。"
     },
     {
-      "en": ": Aren’t they, Sensei?",
+      "en": ": Aren’t they, {i}Sensei?{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 不是吗，Sensei？"
+      "zh": ": 不是吗，{i}Sensei{/i}？"
     },
     {
       "en": ""
@@ -1293,10 +1293,10 @@
       "zh": ": 您要是能抽出空，至少试着跟她谈谈行吗？您不用告诉她我来过什么的。"
     },
     {
-      "en": ": Just have it be a you thing.",
+      "en": ": Just have it be a {i}you{/i} thing.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 就当成是您自己想去找她。"
+      "zh": ": 就当成是{i}您{/i}自己想去找她。"
     },
     {
       "en": ": I’m super duper worried and I just want her to go back to normal so I can go back to bein’ all hyper and stuff.",
@@ -1417,8 +1417,8 @@
       "zh": "Miku 冲出房间的速度，连足球训练时我都没怎么见她使出来过。"
     },
     {
-      "en": "It’s good knowing that she cares that much about her friend, but...",
-      "zh": "知道她这么在乎自己的朋友是件好事，不过……"
+      "en": "It’s good knowing that she cares {i}that much{/i} about her friend, but...",
+      "zh": "知道她{i}这么{/i}在乎自己的朋友是件好事，不过……"
     },
     {
       "en": "I hope she hasn’t placed too much faith in me.",
@@ -1526,8 +1526,8 @@
       "en": ""
     },
     {
-      "en": "Miku’s affection has increased to [miku_love]!",
-      "zh": "Miku 的好感度提升到了 [miku_love]！"
+      "en": "{i}Miku’s affection has increased to [miku_love]!{/i}",
+      "zh": "{i}Miku 的好感度提升到了 [miku_love]！{/i}"
     },
     {
       "en": ".........",

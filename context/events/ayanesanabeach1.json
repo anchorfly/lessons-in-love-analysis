@@ -1,6 +1,6 @@
 {
   "label": "ayanesanabeach1",
-  "title_zh": "逃离一切",
+  "title_zh": "世界如何运转",
   "lines": [
     {
       "en": ""
@@ -14,8 +14,8 @@
       "zh": "我在手机上点下 Ayane 的名字，等她接听。"
     },
     {
-      "en": "Given that she’s normally out and about early in the morning, I figure that meeting up with her might be the start to my day I need after the SERIES OF HORRIBLE NIGHTMARES uninteresting dreams I had last night.",
-      "zh": "考虑到她平时一大早就在外面到处跑，我想，在经历了昨晚那一连串 SERIES OF HORRIBLE NIGHTMARES——我是说，无聊的梦之后，跟她见一面也许正是我这一天需要的开场。"
+      "en": "Given that she’s normally out and about early in the morning, I figure that meeting up with her might be the start to my day I need after the {s}SERIES OF HORRIBLE NIGHTMARES{/s} uninteresting dreams I had last night.",
+      "zh": "考虑到她平时一大早就在外面到处跑，我想，在经历了昨晚那一连串 {s}SERIES OF HORRIBLE NIGHTMARES{/s}——我是说，无聊的梦之后，跟她见一面也许正是我这一天需要的开场。"
     },
     {
       "en": "Here’s hoping that she is still alive.",
@@ -364,10 +364,10 @@
       "zh": ": 等等，Geoffrey 多大了？"
     },
     {
-      "en": ": That doesn’t matter. What does matter is that we’re going to the beach!",
+      "en": ": That doesn’t matter. What {i}does{/i} matter is that we’re going to the beach!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 那不重要。重要的是我们要去海边了！"
+      "zh": ": 那不重要。{i}重要{/i}的是我们要去海边了！"
     },
     {
       "en": ": Yeah, I kind of figured as much. Why so early, though?",
@@ -415,10 +415,10 @@
       "zh": ": Sana 的 Switch 上多了个新游戏，一早上眼睛都不肯离开屏幕。"
     },
     {
-      "en": ": Originally, the plan was for just the two of us to go to the beach together, hence her uncharacteristically showy outfit. But, seeing as she has abandoned me, it looks like it’s the two of us now.",
+      "en": ": Originally, the plan was for just the two of us to go to the beach together, hence her uncharacteristically showy outfit. But, seeing as she has abandoned me, it looks like it’s the two of {i}us{/i} now.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 本来计划是我俩单独去海边的，所以她才穿了那身反常地招摇的衣服。不过，既然她把我抛下了，现在看来就是我们俩了。"
+      "zh": ": 本来计划是我俩单独去海边的，所以她才穿了那身反常地招摇的衣服。不过，既然她把我抛下了，现在看来就是{i}我们{/i}俩了。"
     },
     {
       "en": ""
@@ -478,10 +478,10 @@
       "zh": ": 那件旧泳衣糟透了。我现在喜欢新的了。"
     },
     {
-      "en": ": Just make sure you stare a little more at me than you stare at Sana, okay? Because she got a new one too and I don’t want my painstaking selection process to have been for nothing.",
+      "en": ": Just make sure you stare a little more at {i}me{/i} than you stare at Sana, okay? Because she got a new one too and I don’t want my painstaking selection process to have been for nothing.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 那你保证，盯着我看的时间要比盯着 Sana 看的时间多一点，好吗？因为她也买了件新的，我可不想我那费尽心思的挑选过程白费。"
+      "zh": ": 那你保证，盯着{i}我{/i}看的时间要比盯着 Sana 看的时间多一点，好吗？因为她也买了件新的，我可不想我那费尽心思的挑选过程白费。"
     },
     {
       "en": ": I’m pretty sure Sana wouldn’t even know that I’m staring at her at this point, but...sure. For your sake, I’ll make sure to spend the bulk of my time looking at you.",
@@ -532,10 +532,10 @@
       "en": ""
     },
     {
-      "en": ": JUST SPLATOON?!",
+      "en": ": {i}JUST{/i} SPLATOON?!",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 只是 SPLATOON？！"
+      "zh": ": {i}只是{/i} SPLATOON？！"
     },
     {
       "en": ": DO YOU HAVE ANY IDEA WHAT YOU JUST SAID?!",
@@ -544,10 +544,10 @@
       "zh": ": 你知不知道你刚才说了什么？！"
     },
     {
-      "en": ": THIS IS SPLATOON 3! IT’S THE SECOND SEQUEL, AYANE! THE THIRD INSTALLMENT OF A TRILOGY! COME ON!",
+      "en": ": THIS IS SPLATOON {i}3!{/i} IT’S THE {i}SECOND SEQUEL,{/i} AYANE! THE THIRD INSTALLMENT OF A TRILOGY! COME ON!",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 这是 SPLATOON 3！是第二部续作，Ayane！三部曲的第三部！拜托！"
+      "zh": ": 这是 SPLATOON {i}3！{/i}是{i}第二部续作，{/i}Ayane！三部曲的第三部！拜托！"
     },
     {
       "en": ": R...Right...",
@@ -639,10 +639,10 @@
       "zh": ": 我觉得这件新的效果好多了。而且不，这不是我有偏见，也不是我一味偏袒任何能让我一次看到你更多身体的东西。"
     },
     {
-      "en": ": I’d ask for a more in-depth description of your thoughts on my body but, unfortunately, it appears that Sana is taking a short break from Splatoon 3 to hear what you have to say about her swimsuit.",
+      "en": ": I’d ask for a more in-depth description of your thoughts on my body but, unfortunately, it appears that Sana is taking a short break from Splatoon {i}3{/i} to hear what you have to say about {i}her{/i} swimsuit.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我本来还想让你更深入地描述一下对我身体的看法，可惜，Sana 似乎正从《Splatoon 3》里短暂抽身，来听听你对她泳衣的评价。"
+      "zh": ": 我本来还想让你更深入地描述一下对我身体的看法，可惜，Sana 似乎正从《Splatoon {i}3{/i}》里短暂抽身，来听听你对{i}她{/i}泳衣的评价。"
     },
     {
       "en": ": I...I don’t really...have to know what Sensei thinks...",
@@ -747,10 +747,10 @@
       "zh": ": 不行！我不会这么轻易放过你的，Sensei。你要是不偶尔补点维生素 D，会早死的。我可不想在咱们三十周年纪念之前就得埋了你。"
     },
     {
-      "en": ": I’ve got some vitamin D for you right here.",
+      "en": ": I’ve got some vitamin {i}D{/i} for you right here.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我这儿就有点维生素 D 给你。"
+      "zh": ": 我这儿就有点维生素 {i}D{/i} 给你。"
     },
     {
       "en": ": God, I wish.",
@@ -828,8 +828,8 @@
       "zh": "不过这一次温柔多了，也没那么急切了——像是她不用开口、也不用张开腿，就能离我更近一点的方式。"
     },
     {
-      "en": "And while methods like that last one are a lot easier for me to understand and feel, I don’t hate the sensation of her small hand slowly inching closer to mine.",
-      "zh": "虽然像最后那种方式对我来说更容易理解、也更容易感受，但我并不讨厌她那只小手慢慢往我手上蹭过来的触感。"
+      "en": "And while methods like that last one are a lot easier for me to understand and {i}feel,{/i} I don’t hate the sensation of her small hand slowly inching closer to mine. ",
+      "zh": "虽然像最后那种方式对我来说更容易理解、也更容易{i}感受，{/i}但我并不讨厌她那只小手慢慢往我手上蹭过来的触感。"
     },
     {
       "en": "Nor the scent of her sunscreen or the shape of her silhouette as it slithers across the sand like a snake.",
@@ -851,8 +851,8 @@
       "en": ""
     },
     {
-      "en": "We come to a halt where the water meets the land and I try to wrap my head around why God the gods? GOD god can’t just make it a few degrees colder.",
-      "zh": "我们在水与陆相接的地方停下，我努力想弄明白，为什么 God the gods? GOD god 就不能把温度调低个几度。"
+      "en": "We come to a halt where the water meets the land and I try to wrap my head around why {s}God{/i} {s}the gods?{/s} {s}GOD{/s} god can’t just make it a few degrees colder.",
+      "zh": "我们在水与陆相接的地方停下，我努力想弄明白，为什么 {s}God{/s} {s}the gods?{/s} {s}GOD{/s} god 就不能把温度调低个几度。"
     },
     {
       "en": "You know- enough to keep us all alive but not enough to scorch our skin or give us cancer if we stay beneath it for too long.",
@@ -986,16 +986,16 @@
       "zh": ": 真的只有我们两个和 Maya 明白这一点吗？"
     },
     {
-      "en": ": Saying we understand it might be a bit too generous as neither of us have any idea what that even means.",
+      "en": ": Saying we {i}understand{/i} it might be a bit too generous as neither of us have any idea what that even means.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 说我们“明白”可能有点抬举自己了，毕竟我们俩连这到底意味着什么都不知道。"
+      "zh": ": 说我们{i}“明白”{/i}可能有点抬举自己了，毕竟我们俩连这到底意味着什么都不知道。"
     },
     {
-      "en": ": True. But we know it’s happening- which is more than most can say.",
+      "en": ": True. But we know it’s {i}happening-{/i} which is more than most can say.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 也是。但我们知道它在发生——这已经比大多数人说得出口的多了。"
+      "zh": ": 也是。但我们知道它在{i}发生{/i}——这已经比大多数人说得出口的多了。"
     },
     {
       "en": ": You’re...really taking in a lot of information about this whole reset thing, aren’t you?",
@@ -1010,10 +1010,10 @@
       "zh": ": 我天生就好奇……对各种各样的事都好奇。而且我觉得，被扔进这么个处境里还不去试着搞明白点什么的人，那才叫疯了。"
     },
     {
-      "en": ": Is any of it real? Are we real?",
+      "en": ": Is any of it real? Are {i}we{/i} real? ",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 这些有哪一样是真的吗？我们是真的吗？"
+      "zh": ": 这些有哪一样是真的吗？{i}我们{/i}是真的吗？"
     },
     {
       "en": ": Just how deep does all of this go?",
@@ -1022,10 +1022,10 @@
       "zh": ": 这一切到底有多深？"
     },
     {
-      "en": ": At this rate, you’ll be telling all of us and we won’t even need Maya anymore.",
+      "en": ": At this rate, you’ll be telling all of us and we won’t even {i}need{/i} Maya anymore.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 照这个势头，你很快就能把这些讲给我们所有人听，那我们就连 Maya 都不需要了。"
+      "zh": ": 照这个势头，你很快就能把这些讲给我们所有人听，那我们就连 Maya 都{i}不需要{/i}了。"
     },
     {
       "en": ": Maybe we don’t need her to begin with?",
@@ -1076,16 +1076,16 @@
       "zh": ": Maya 不太喜欢改变。"
     },
     {
-      "en": ": I don’t think any of us do. I mean, if I liked this, I wouldn’t be losing sleep over it. I wouldn’t feel like I’m the only one going insane for realizing things everyone around me just...ignores.",
+      "en": ": I don’t think any of us do. I mean, if I {i}liked{/i} this, I wouldn’t be losing sleep over it. I wouldn’t feel like I’m the only one going insane for realizing things everyone around me just...ignores.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我觉得我们谁都不喜欢。我是说，如果我喜欢这种事，我就不会为它失眠了。我也不会因为想明白了周围所有人都……直接无视的事情，就觉得自己是唯一一个快疯掉的人。"
+      "zh": ": 我觉得我们谁都不喜欢。我是说，如果我{i}喜欢{/i}这种事，我就不会为它失眠了。我也不会因为想明白了周围所有人都……直接无视的事情，就觉得自己是唯一一个快疯掉的人。"
     },
     {
-      "en": ": You still have me. And despite your tendency to take pictures of me when I’m sleeping, I still think you’re surprisingly sane.",
+      "en": ": You still have me. And despite your tendency to take pictures of me when I’m sleeping, I still think you’re surprisingly {i}sane.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你还有我啊。而且尽管你有在我睡着时偷拍我的癖好，我还是觉得你出奇地清醒。"
+      "zh": ": 你还有我啊。而且尽管你有在我睡着时偷拍我的癖好，我还是觉得你出奇地{i}清醒{/i}。"
     },
     {
       "en": ": ...",
@@ -1181,10 +1181,10 @@
       "zh": ": 那些人回来了吗？"
     },
     {
-      "en": ": I’m pretty sure we were among them, so...I’m going to say yes.",
+      "en": ": I’m pretty sure {i}we{/i} were among them, so...I’m going to say yes.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我很确定我们就在他们之中，所以……我会说，回来了。"
+      "zh": ": 我很确定{i}我们{/i}就在他们之中，所以……我会说，回来了。"
     },
     {
       "en": ": Does that mean Makoto’s dad might come back too?",
@@ -1211,22 +1211,22 @@
       "zh": ": 希望如此吧。"
     },
     {
-      "en": ": It’s so weird how time is moving both forward and backward at the same time.",
+      "en": ": It’s so weird how time is moving both forward {i}and{/i} backward at the same time.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 时间同时在向前走又向后走，这真是太怪了。"
+      "zh": ": 时间同时在向前走{i}又{/i}向后走，这真是太怪了。"
     },
     {
-      "en": ": How people who should be gone wind up coming back...how our memories get reverted...and how new things are still happening every day according to Maya.",
+      "en": ": How people who should be gone wind up coming back...how our memories get reverted...and how new things are {i}still{/i} happening every day according to Maya.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 本该消失的人最后又回来了……我们的记忆被倒回……而按 Maya 的说法，每天又仍有新的事情在发生。"
+      "zh": ": 本该消失的人最后又回来了……我们的记忆被倒回……而按 Maya 的说法，每天又{i}仍有{/i}新的事情在发生。"
     },
     {
-      "en": ": How do we know that this hasn’t ever even happened before? That we’ve never had this conversation?",
+      "en": ": How do we know that {i}this{/i} hasn’t ever even happened before? That we’ve never had this conversation?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我们怎么知道这一切从来没有发生过？我们从来没有过这段对话？"
+      "zh": ": 我们怎么知道{i}这一切{/i}从来没有发生过？我们从来没有过这段对话？"
     },
     {
       "en": ": We...don’t.",
@@ -1274,10 +1274,10 @@
       "zh": ": 我知道我怕。而且已经有人反复警告过我，查出任何关于我过去的事都可能导致我的大脑爆炸，所以……是啊。"
     },
     {
-      "en": ": I guess it would be kind of hard to not worry about something like that, yeah.",
+      "en": ": I guess it would be kind of hard to {i}not{/i} worry about something like that, yeah.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我想，这种事想不担心也难吧。"
+      "zh": ": 我想，这种事想{i}不{/i}担心也难吧。"
     },
     {
       "en": ": What if we all have something like that? Key memories that whatever is controlling this world doesn’t want us to have back?",
@@ -1437,8 +1437,8 @@
       "zh": "她依然年轻。"
     },
     {
-      "en": "That she still has the rest of her school life ahead of her and that she shouldn’t have to worry about caring for me or Maya when all that should matter to her is herself.",
-      "zh": "她的校园生活还剩下一大半，她本不该操心照顾我或 Maya，她唯一该在乎的人就是她自己。"
+      "en": "That she still has the rest of her school life ahead of her and that she shouldn’t have to worry about caring for {i}me{/i} or {i}Maya{/i} when all that should matter to her is {i}herself.{/i}",
+      "zh": "她的校园生活还剩下一大半，她本不该操心照顾{i}我{/i}或 {i}Maya{/i}，她唯一该在乎的人就是{i}她自己{/i}。"
     },
     {
       "en": "But that is just the type of person she is.",
@@ -1453,8 +1453,8 @@
       "zh": "为什么？"
     },
     {
-      "en": "Why does she have no regard for the way she feels?",
-      "zh": "为什么她一点都不顾及自己的感受？"
+      "en": "Why does she have no regard for the way {i}she{/i} feels?",
+      "zh": "为什么她一点都不顾及{i}自己{/i}的感受？"
     },
     {
       "en": "Why would she sacrifice this brief respite for the chance to reflect on how there is no respite for those like us at all?",
@@ -1491,8 +1491,8 @@
       "en": ""
     },
     {
-      "en": "Ayane’s affection has increased to [ayane_love]!",
-      "zh": "Ayane 的好感度提升到了 [ayane_love]！"
+      "en": "{i}Ayane’s affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]！{/i}"
     },
     {
       "en": ".........",
@@ -1547,8 +1547,8 @@
       "en": ""
     },
     {
-      "en": "Ayane’s affection has increased to [ayane_love]!",
-      "zh": "Ayane 的好感度提升到了 [ayane_love]！"
+      "en": "{i}Ayane’s affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]！{/i}"
     },
     {
       "en": ".........",

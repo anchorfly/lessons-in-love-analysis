@@ -1,6 +1,6 @@
 {
   "label": "chikasummer2nightgen",
-  "title_zh": "夏夜阳台",
+  "title_zh": "chikasummer2nightgen",
   "lines": [
     {
       "en": ""
@@ -104,14 +104,14 @@
     },
     {
       "en": "$ chika_love += 1",
-      "zh": "Chika 的好感度上升到了 [chika_love]！"
+      "zh": ""
     },
     {
       "en": ""
     },
     {
-      "en": "Chika’s affection has increased to [chika_love]!",
-      "zh": "Chika 的好感度提升到了 [chika_love]！"
+      "en": "{i}Chika’s affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]！{/i}"
     },
     {
       "en": ".........",

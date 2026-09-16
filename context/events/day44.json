@@ -50,8 +50,8 @@
       "zh": "好问题。"
     },
     {
-      "en": "I feel like just the other day, I was being lectured by my niece about the variety of locations I'd need to memorize in order to survive here.",
-      "zh": "感觉就在前几天，我还被我的[niece]念叨过，要想在这里活下去，得记住哪些地方。"
+      "en": "I feel like just the other day, I was being lectured by my {i}niece{/i} about the variety of locations I'd need to memorize in order to survive here.",
+      "zh": "感觉就在前几天，我还被我的{i}[niece]{/i}念叨过，要想在这里活下去，得记住哪些地方。"
     },
     {
       "en": "But this location was omitted from the list.",
@@ -264,10 +264,10 @@
       "zh": ": 嗨，Yumi。见到你真高兴。"
     },
     {
-      "en": ": No it ain't. And I asked you a question, numnuts. What are you doing here?...",
+      "en": ": No it ain't. And I asked you a question, numnuts. {i}What are you doing here?...{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 高兴个屁。我问你话呢，蠢货。你在这儿干什么？……"
+      "zh": ": 高兴个屁。我问你话呢，蠢货。{i}你在这儿干什么{/i}？……"
     },
     {
       "en": ": Just...walking around. Is that a problem?",
@@ -303,10 +303,10 @@
       "en": ""
     },
     {
-      "en": ": Because there’s no fucking reason for you to be here...and there will never be a reason for that in the first place.",
+      "en": ": Because there’s no fucking reason for you to be here...and there will never {i}be{/i} a reason for that in the first place.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 因为你他妈根本没有任何理由待在这儿……而且一开始就不可能有理由。"
+      "zh": ": 因为你他妈根本没有任何理由待在这儿……而且一开始就不可能{i}有{/i}理由。"
     },
     {
       "en": ": The fuck even is this? Don't tell me you're stalking me again or some shit, because I swear to-",
@@ -368,10 +368,10 @@
       "en": ""
     },
     {
-      "en": ": You...don't even know why I'm here, do you?",
+      "en": ": You...don't even know {i}why{/i} I'm here, do you?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 你……根本不知道我为什么在这儿，对吧？"
+      "zh": ": 你……根本不知道我{i}为什么{/i}在这儿，对吧？"
     },
     {
       "en": ": Why would I?",
@@ -572,16 +572,16 @@
       "en": ""
     },
     {
-      "en": ": You're right. We're not on the best terms.",
+      "en": ": You're right. We're {i}not{/i} on the best terms.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 你说得对。我们关系是不好。"
+      "zh": ": 你说得对。我们关系是{i}不{/i}好。"
     },
     {
-      "en": ": And everything is definitely not okay.",
+      "en": ": And everything is definitely not {i}okay.{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 而且一切绝对算不上好。"
+      "zh": ": 而且一切绝对算不上{i}好{/i}。"
     },
     {
       "en": ": You piss me the fuck off...and it pisses me off even more that you don’t understand that.",
@@ -590,10 +590,10 @@
       "zh": ": 你他妈快把我气死了……而你居然连这都不明白，就更让人生气了。"
     },
     {
-      "en": ": It's not my fault that you act so...abrasive all the time, is it?",
+      "en": ": It's not {i}my{/i} fault that you act so...abrasive all the time, is it?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你总是这么……刺儿头，总不能是我的错吧？"
+      "zh": ": 你总是这么……刺儿头，总不能是{i}我的{/i}错吧？"
     },
     {
       "en": ": Maybe not entirely, but you sure as hell don't help at all.",
@@ -777,10 +777,10 @@
       "zh": ": 这个周末我看见你了，你知道吗。"
     },
     {
-      "en": ": Saw me doing what exactly?",
+      "en": ": Saw me doing {i}what{/i} exactly?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 看见我干什么？"
+      "zh": ": 看见我干{i}什么{/i}？"
     },
     {
       "en": ": Goin' on some cutesy fucking date in the park with that blindly loyal teacher's pet of yours.",
@@ -838,10 +838,10 @@
       "en": ""
     },
     {
-      "en": ": It matters because you’re way too fucking old to be hanging out with your goddamn students in your spare time! Let alone going for romantic walks in the park with them!",
+      "en": ": It {i}matters{/i} because you’re way too fucking old to be hanging out with your goddamn students in your spare time! Let alone going for romantic walks in the park with them!",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 重要是因为你他妈年纪都那么大了，还好意思在业余时间跟你的学生混在一起！更别说还跟她们在公园里浪漫散步！"
+      "zh": ": {i}重要{/i}是因为你他妈年纪都那么大了，还好意思在业余时间跟你的学生混在一起！更别说还跟她们在公园里浪漫散步！"
     },
     {
       "en": ": Are you two fucking?",
@@ -862,16 +862,16 @@
       "zh": ": 因为天知道她肯定求之不得。从你第一次走进教室起，那丫头的心思就全在你那根鸡巴上了。"
     },
     {
-      "en": ": And with the way you look at literally all of us I can’t imagine you wouldn’t jump all over her the second the opportunity arose.",
+      "en": ": And with the way you look at literally {i}all{/i} of us I can’t imagine you wouldn’t jump all over her the second the opportunity arose.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 再看看你他妈看我们所有人的眼神，我简直无法想象，一有机会你会不立刻扑上去。"
+      "zh": ": 再看看你他妈看我们{i}所有{/i}人的眼神，我简直无法想象，一有机会你会不立刻扑上去。"
     },
     {
-      "en": ": It’s fucking creepy, dude! And what makes it even creepier is that everyone seems to be okay with it except me!",
+      "en": ": It’s fucking creepy, dude! And what makes it even creepier is that everyone seems to be {i}okay{/i} with it except me!",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 这他妈太恶心了，老兄！而更恶心的是，除了我以外，所有人似乎都觉得没问题！"
+      "zh": ": 这他妈太恶心了，老兄！而更恶心的是，除了我以外，所有人似乎都觉得{i}没问题{/i}！"
     },
     {
       "en": ": Why aren't you okay with it, Yumi?",
@@ -955,10 +955,10 @@
       "en": ""
     },
     {
-      "en": ": I think the problem is that you wish you were in Makoto's place at the park.",
+      "en": ": I think the problem is that you wish {i}you{/i} were in Makoto's place at the park.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我觉得问题在于，你希望当时在公园里，站在 Makoto 位置上的人是你。"
+      "zh": ": 我觉得问题在于，{i}你{/i}希望当时在公园里，站在 Makoto 位置上的人是你。"
     },
     {
       "en": ""
@@ -1054,10 +1054,10 @@
       "zh": ": 要是你看见我们接吻呢？"
     },
     {
-      "en": ": What would I do? I'd fucking puke. That's what.",
+      "en": ": What would I {i}do?{/i} I'd fucking puke. That's what.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 我会怎么做？我会他妈吐出来。就这样。"
+      "zh": ": 我会{i}怎么做{/i}？我会他妈吐出来。就这样。"
     },
     {
       "en": ": Really?",
@@ -1158,16 +1158,16 @@
       "zh": ": 你想在空闲时间去操那个班长？！随你的便！但把我他妈排除在外，别在别人看得见的地方搞！恶心死了！"
     },
     {
-      "en": ": Are you afraid of people seeing us right now?",
+      "en": ": Are you afraid of people seeing {i}us{/i} right now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你怕别人现在看见我们？"
+      "zh": ": 你怕别人现在看见{i}我们{/i}？"
     },
     {
-      "en": ": I'm afraid of you, dipshit! Let go!",
+      "en": ": I'm afraid of {i}you,{/i} dipshit! Let go!",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 我怕的是你，蠢货！放开！"
+      "zh": ": 我怕的是{i}你{/i}，蠢货！放开！"
     },
     {
       "en": ": You're lucky I'm not screaming for help!",
@@ -1403,10 +1403,10 @@
       "en": ""
     },
     {
-      "en": ": Fuck no this is not what I want! How delusional are you?!",
+      "en": ": Fuck no this is not {i}what I want!{/i} How delusional are you?!",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 我想要个屁！你是有多妄想？！"
+      "zh": ": {i}我想要{/i}个屁！你是有多妄想？！"
     },
     {
       "en": ": It would hurt if you fell from here, wouldn't it?",
@@ -1644,8 +1644,8 @@
       "zh": "这是个烂答案，但很真诚。"
     },
     {
-      "en": "I don’t know why I’m doing this.",
-      "zh": "我不知道自己为什么要这么做。"
+      "en": "I {i}don’t{/i} know why I’m doing this.",
+      "zh": "我{i}不{/i}知道自己为什么要这么做。"
     },
     {
       "en": "I just am.",
@@ -2012,10 +2012,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": Why?...",
+      "en": ": {i}Why?...{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 为什么？……"
+      "zh": ": {i}为什么？……{/i}"
     },
     {
       "en": ": Why?...",
@@ -2096,10 +2096,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": Why?...",
+      "en": ": {i}Why?...{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 为什么？……"
+      "zh": ": {i}为什么？……{/i}"
     },
     {
       "en": ": Why aren’t you saying anything?...",
@@ -2339,28 +2339,28 @@
       "zh": "我觉得这里只会发生坏事。"
     },
     {
-      "en": "Oh no! It looks like you’ve left an emotional scar on Yumi!",
-      "zh": "哦不好！你似乎在 Yumi 身上留下了一道情感创伤！"
+      "en": "{i}Oh no! It looks like you’ve left an emotional scar on Yumi!{/i}",
+      "zh": "{i}哦不好！你似乎在 Yumi 身上留下了一道情感创伤！{/i}"
     },
     {
-      "en": "You are a horrible person!",
-      "zh": "你是个可怕的人！"
+      "en": "{i}You are a horrible person!{/i}",
+      "zh": "{i}你是个可怕的人！{/i}"
     },
     {
-      "en": "But that's okay!",
-      "zh": "不过没关系！"
+      "en": "{i}But that's okay!{/i}",
+      "zh": "{i}不过没关系！{/i}"
     },
     {
       "en": "Nothing is real!",
       "zh": "一切都不是真的！"
     },
     {
-      "en": "None of this ever happened!",
-      "zh": "这些从来都没发生过！"
+      "en": "{i}None of this ever happened!{/i}",
+      "zh": "{i}这些从来都没发生过！{/i}"
     },
     {
-      "en": "Now, go back to being happy!",
-      "zh": "那么，继续开心起来吧！"
+      "en": "{i}Now, go back to being happy!{/i}",
+      "zh": "{i}那么，继续开心起来吧！{/i}"
     },
     {
       "en": ".........",

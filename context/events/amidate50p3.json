@@ -22,8 +22,8 @@
       "en": ""
     },
     {
-      "en": "The portion of the day we spend in the entertainment district is mostly negligible, so I guess I can find solace in the fact that Ami isn’t suddenly lying to me about everything.",
-      "zh": "今天我们待在娱乐街区的部分基本可以忽略不计,所以我还能从「Ami 并没有突然开始对我撒一切谎」这件事里找到一点安慰。"
+      "en": "The portion of the day we spend in the entertainment district is mostly negligible, so I guess I can find solace in the fact that Ami isn’t suddenly lying to me about {i}everything.{/i}",
+      "zh": "今天我们待在娱乐街区的部分基本可以忽略不计,所以我还能从「Ami 并没有突然开始对我撒{i}一切{/i}谎」这件事里找到一点安慰。"
     },
     {
       "en": "I can also find solace in the fact that she has offered to pay for me despite me telling her multiple times that it isn’t necessary.",
@@ -65,10 +65,10 @@
       "en": ""
     },
     {
-      "en": ": Forget what happened between Molly and me. For a second back there, I thought you two were going to run away together.",
+      "en": ": Forget what happened between Molly and {i}me.{/i} For a second back there, I thought you two were going to run away together.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Molly 和我之间的事就别管了。刚才那一瞬间,我还以为你们俩要私奔了。"
+      "zh": ": Molly 和{i}我{/i}之间的事就别管了。刚才那一瞬间,我还以为你们俩要私奔了。"
     },
     {
       "en": ""
@@ -146,16 +146,16 @@
       "en": ""
     },
     {
-      "en": ": You know I don’t have to tell you everything, right?",
+      "en": ": You know I don’t {i}have{/i} to tell you everything, right?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你知道的,我没有义务事事都向你汇报,对吧?"
+      "zh": ": 你知道的,我没有{i}义务{/i}事事都向你汇报,对吧?"
     },
     {
-      "en": ": Yeah, but I tell you everything so it only seems fair if you maybe tell me some things every once in a while.",
+      "en": ": Yeah, but I tell {i}you{/i} everything so it only seems fair if you maybe tell me {i}some{/i} things every once in a while.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 是,但我不都告诉你了吗?所以偶尔也许告诉我一点点,才算公平吧?"
+      "zh": ": 是,但我不都告诉{i}你{/i}了吗?所以偶尔也许告诉我{i}一点点{/i},才算公平吧?"
     },
     {
       "en": ": Nah. I'm good.",
@@ -179,10 +179,10 @@
       "en": ""
     },
     {
-      "en": ": Fine. I’ll just ask her then since we’re making plans to hang out soon. She’ll tell me.",
+      "en": ": Fine. I’ll just ask {i}her{/i} then since we’re making plans to hang out soon. {i}She’ll{/i} tell me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 好。那我就去问她了,反正我们约好近期一起玩。她会告诉我的。"
+      "zh": ": 好。那我就去问{i}她{/i}了,反正我们约好近期一起玩。{i}她会{/i}告诉我的。"
     },
     {
       "en": ": Just leave it alone, Ami. Please.",
@@ -299,10 +299,10 @@
       "zh": ": 那她看起来最需要你的时候,你为什么躲着她躲得那么厉害?这可不太像朋友。"
     },
     {
-      "en": ": Here’s a better idea- how about we eat and get back to our date? Doesn’t that sound good, Ami?",
+      "en": ": Here’s a better idea- how about we eat and get back to our {i}date?{/i} Doesn’t that sound good, Ami?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我有个更好的主意——我们吃饭,然后继续约会,怎么样?听起来不错吧,Ami?"
+      "zh": ": 我有个更好的主意——我们吃饭,然后继续{i}约会{/i},怎么样?听起来不错吧,Ami?"
     },
     {
       "en": ": No. You two stopped talking for two months and are now back to acting like nothing ever happened. I want to know what caused it.",
@@ -317,16 +317,16 @@
       "zh": ": 而我想要你管好你自己的事。"
     },
     {
-      "en": ": But your business is my business. I can’t make you happy if I don’t know how to get rid of what’s making you sad.",
+      "en": ": But your business {i}is{/i} my business. I can’t make you happy if I don’t know how to get rid of what’s making you sad.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 可你的事就是我的事。我要是不知道怎么除掉让你难过的东西,就没法让你开心。"
+      "zh": ": 可你的事{i}就是{/i}我的事。我要是不知道怎么除掉让你难过的东西,就没法让你开心。"
     },
     {
-      "en": ": Molly was never making me sad. I just...needed time to think about some things.",
+      "en": ": Molly was never {i}making me sad.{/i} I just...needed time to think about some things.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Molly 从来没有让我难过。我只是……需要时间想一些事情。"
+      "zh": ": Molly 从来没有{i}让我难过{/i}。我只是……需要时间想一些事情。"
     },
     {
       "en": ": ...",
@@ -542,10 +542,10 @@
       "zh": ": 我知道,我知道。突然提到他们,我就会乱。"
     },
     {
-      "en": ": Like, it doesn’t completely register that they’re gone until after the sentence registers.",
+      "en": ": Like, it doesn’t completely register that they’re gone until {i}after{/i} the sentence registers. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 就是说,话都说完了,我才反应过来他们已经不在了。"
+      "zh": ": 就是说,话都说完了,我{i}才{/i}反应过来他们已经不在了。"
     },
     {
       "en": ": It’s like there’s another mini accident inside of my mind each time I- nope. Nope. Don’t want to think about this anymore.",
@@ -1160,7 +1160,7 @@
       "zh": ": 但你这么说,只是因为你原本毫无期待吧?我随便念点什么,都会比你的预期好。"
     },
     {
-      "en": ": But you’re only saying that because you expected literally nothing, right? Like I could have said anything and it would have been better than what you were expecting.",
+      "en": ": But you’re only saying that because you expected literally nothing, right? Like I could have said {i}anything{/i} and it would have been better than what you were expecting.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
       "zh": ": 不,我是真心喜欢,而且我很佩服你能写出那个。"
@@ -1325,7 +1325,7 @@
       "zh": ": 我敢肯定,它一定会显得我的诗特别烂,毕竟她基本上是专业人士,但是——"
     },
     {
-      "en": ": I’m sure that it’ll make my poem sound like, really bad since she was basically a pro, but-",
+      "en": ": I’m sure that it’ll make my poem sound like, {i}really{/i} bad since she was basically a pro, but-",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
       "zh": ": 啊。"

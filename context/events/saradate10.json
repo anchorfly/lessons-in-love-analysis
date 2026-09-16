@@ -306,10 +306,10 @@
       "zh": ": 对我们来说？是。对你女儿来说？不是。"
     },
     {
-      "en": ": Well I think it’s great.",
+      "en": ": Well {i}I{/i} think it’s great.",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 哎呀，我觉得很棒啊。"
+      "zh": ": 哎呀，{i}我{/i}觉得很棒啊。"
     },
     {
       "en": ": Don't you think it’s like...about time we told her, though?",
@@ -566,8 +566,8 @@
       "en": ""
     },
     {
-      "en": "Will that stop me from thinking about it? Of course not.",
-      "zh": "这就能阻止我去想吗？当然不能。"
+      "en": "Will that {i}stop{/i} me from thinking about it? Of course not. ",
+      "zh": "这就能{i}阻止{/i}我去想吗？当然不能。"
     },
     {
       "en": "My mind lands on that almost every time I walk into her room.",
@@ -801,10 +801,10 @@
       "en": ""
     },
     {
-      "en": ": The only power I have is determining whether a handful of [teenage]girls will make it through their first year of [high_school] or not.",
+      "en": ": The only power {i}I{/i} have is determining whether a handful of [teenage]girls will make it through their first year of [high_school] or not.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我唯一的权力，就是决定那么几个[teenage]女孩能不能熬过 [high_school] 一年级。"
+      "zh": ": {i}我{/i}唯一的权力，就是决定那么几个[teenage]女孩能不能熬过 [high_school] 一年级。"
     },
     {
       "en": ""
@@ -1412,10 +1412,10 @@
       "zh": ": 你怎么不说话？"
     },
     {
-      "en": ": Don’t tell me that...you wanted to look like that one day, too?...",
+      "en": ": Don’t tell me that...{i}you{/i} wanted to look like that one day, too?...",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 该不会……你自己也曾希望有一天变成那样吧？……"
+      "zh": ": 该不会……{i}你自己{/i}也曾希望有一天变成那样吧？……"
     },
     {
       "en": ": That...",
@@ -1457,10 +1457,10 @@
       "en": ""
     },
     {
-      "en": ": Oh, come on! Like I’d ever believe that you dated Niki.",
+      "en": ": Oh, come on! Like I’d ever believe that you dated {i}Niki.{/i}",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 拜托！我怎么可能信你跟 Niki 交往过。"
+      "zh": ": 拜托！我怎么可能信你跟 {i}Niki{/i} 交往过。"
     },
     {
       "en": ": She’s like...an icon in Kumon-mi.",
@@ -1586,10 +1586,10 @@
       "zh": ": 嘻嘻~ 抱歉啊，小姐！刚才是我的经纪人在电话里。"
     },
     {
-      "en": ": Would you mind putting your friend on the line for sec? There's something I need to talk to him about~",
+      "en": ": Would you mind putting your {i}friend{/i} on the line for sec? There's something I need to talk to him about~",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ": 能让你朋友接一下电话吗？我有点事要跟他谈~"
+      "zh": ": 能让你{i}朋友{/i}接一下电话吗？我有点事要跟他谈~"
     },
     {
       "en": ""
@@ -1835,8 +1835,8 @@
       "en": ""
     },
     {
-      "en": "Sara’s affection has increased to [sara_love]!",
-      "zh": "Sara 的好感度提升到了 [sara_love]!"
+      "en": "{i}Sara’s affection has increased to [sara_love]!{/i}",
+      "zh": "{i}Sara 的好感度提升到了 [sara_love]!{/i}"
     },
     {
       "en": ".........",

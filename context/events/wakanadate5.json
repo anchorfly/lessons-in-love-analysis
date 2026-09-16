@@ -17,8 +17,8 @@
       "zh": "我在手机上点了 Wakana 的名字等她接，心里祈祷着，不管她在哪儿，别是在[school]。"
     },
     {
-      "en": "I really don’t like the idea of her using my friendship for the sole purpose of grading papers faster, but I have a creeping suspicion that last time was not actually the last.",
-      "zh": "我很不喜欢她把我当朋友的目的只是为了让卷子改得更快，可我有种越来越强的怀疑：上一次并不是最后一次。"
+      "en": "I really don’t like the idea of her using my friendship for the sole purpose of grading papers faster, but I have a creeping suspicion that last time was not {i}actually{/i} the last.",
+      "zh": "我很不喜欢她把我当朋友的目的只是为了让卷子改得更快，可我有种越来越强的怀疑：上一次{i}并不是{/i}最后一次。"
     },
     {
       "en": ""
@@ -57,10 +57,10 @@
       "zh": ": 很好。你上次对那些卷子做的事，本来就算不上「批改」。"
     },
     {
-      "en": ": In my defense, you never told me to grade them correctly.",
+      "en": ": In my defense, you never told me to grade them {i}correctly{/i}.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 说句公道话，你从没要求我改对。"
+      "zh": ": 说句公道话，你从没要求我改{i}对{/i}。"
     },
     {
       "en": ": I hope you choke and die on the next thing you eat.",
@@ -211,7 +211,7 @@
       "zh": "我朝一个随机的方向开始走，希望方向是对的。"
     },
     {
-      "en": "Thankfully, I do receive a text from Wakana several minutes later with the address of her apartment complex and begin to make my way there...",
+      "en": "Thankfully, I {i}do{/i} receive a text from Wakana several minutes later with the address of her apartment complex and begin to make my way there...",
       "zh": "谢天谢地，几分钟后 Wakana 发来短信，给了她公寓的地址，我开始往那边走……"
     },
     {
@@ -261,12 +261,12 @@
       "zh": "结果证明，我最喜欢的非我本人的老师，是我最喜欢的女服务员的隔壁邻居。"
     },
     {
-      "en": "I knew the address looked familiar when Wakana sent it to me, but I didn’t really expect it to be this familiar.",
-      "zh": "Wakana 把地址发给我时我就觉得眼熟，但真没料到会眼熟到这个程度。"
+      "en": "I knew the address looked familiar when Wakana sent it to me, but I didn’t really expect it to be {i}this{/i} familiar. ",
+      "zh": "Wakana 把地址发给我时我就觉得眼熟，但真没料到会眼熟到{i}这个程度{/i}。"
     },
     {
-      "en": "If I had known she lived next to Kaori, I would have just asked her to help Wakana cook.",
-      "zh": "要是我早知道她住在 Kaori 隔壁，我就会直接叫 Kaori 来帮 Wakana 做饭了。"
+      "en": "If I had known she lived next to Kaori, I would have just asked {i}her{/i} to help Wakana cook.",
+      "zh": "要是我早知道{i}她{/i}住在 Kaori 隔壁，我就会直接叫 Kaori 来帮 Wakana 做饭了。"
     },
     {
       "en": "If...Kaori even knows how to cook and isn’t just strictly a waitress.",
@@ -526,10 +526,10 @@
       "en": ""
     },
     {
-      "en": ": Wonderful. Except you omitted the detail where you were the one who called me.",
+      "en": ": Wonderful. Except you omitted the detail where {i}you{/i} were the one who called {i}me{/i}.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 好极了。除了你漏掉了「是你先打给我的」这个细节。"
+      "zh": ": 好极了。除了你漏掉了「是{i}你{/i}先打给{i}我{/i}的」这个细节。"
     },
     {
       "en": ": As if I’d ever stoop so low as to contact you first. Please.",
@@ -863,10 +863,10 @@
       "zh": ": 我想着我负责卧室，你负责厨房。"
     },
     {
-      "en": ": I sleep in that room. And rather frequently, might I add.",
+      "en": ": I {i}sleep{/i} in that room. And rather frequently, might I add.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 我睡在那屋里。而且补充一句，睡得还挺频繁。"
+      "zh": ": 我{i}睡{/i}在那屋里。而且补充一句，睡得还挺频繁。"
     },
     {
       "en": ": Now the entire thing needs to be professionally cleaned before I can even set foot inside.",
@@ -887,10 +887,10 @@
       "zh": ": 我就踏进去了一点点。"
     },
     {
-      "en": ": I’d need it professionally cleaned if you even thought about stepping inside.",
+      "en": ": I’d need it professionally cleaned if you even {i}thought{/i} about stepping inside.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 你哪怕只是「想」踏进去，我都得请专业的来清洁。"
+      "zh": ": 你哪怕只是{i}「想」{/i}踏进去，我都得请专业的来清洁。"
     },
     {
       "en": ": Open some cabinets. Check the freezer. Do something. Anything.",
@@ -1087,10 +1087,10 @@
       "zh": ": 谁都倒霉。人生就是悲惨的，我们都会死。"
     },
     {
-      "en": ": You know, food is nice and all, but what I think would make Osako really happy is if you were able to not hate yourself for a day.",
+      "en": ": You know, food is nice and all, but what I think would make Osako {i}really{/i} happy is if you were able to not hate yourself for a day.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你知道吗，食物什么的当然好，但我觉得真正能让 Osako 开心的，是你能不能有那么一天不讨厌自己。"
+      "zh": ": 你知道吗，食物什么的当然好，但我觉得{i}真正{/i}能让 Osako 开心的，是你能不能有那么一天不讨厌自己。"
     },
     {
       "en": ": I’m even worse at that than I am at cooking.",
@@ -1126,10 +1126,10 @@
       "zh": ": 不行。必须得是亲手做的。"
     },
     {
-      "en": ": I can avoid cooking like the plague 364 days out of the year, but on this one, I need to at least try.",
+      "en": ": I can avoid cooking like the plague 364 days out of the year, but on this one, I need to at least {i}try.{/i}",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 一年里我可以有 364 天像躲瘟疫一样躲着做饭，但就这一天，我至少得试一次。"
+      "zh": ": 一年里我可以有 364 天像躲瘟疫一样躲着做饭，但就这一天，我至少得{i}试{/i}一次。"
     },
     {
       "en": ": If I can overcome this hurdle, Osako will see that I am not just a self-loathing blob of hatred with complete control over this apartment’s interior design.",
@@ -1692,10 +1692,10 @@
       "zh": ": 我……呃……"
     },
     {
-      "en": ": I mean, I guess we could try eating it if that’s-",
+      "en": ": I mean, I guess we could {i}try{/i} eating it if that’s-",
       "spk": "Osako",
       "spkColor": "#9A6BA1",
-      "zh": ": 我是说，如果你想的话，我们可以试着吃掉它——"
+      "zh": ": 我是说，如果你想的话，我们可以{i}试着{/i}吃掉它——"
     },
     {
       "en": ": I’m joking.",
@@ -1775,8 +1775,8 @@
       "en": ""
     },
     {
-      "en": "Wakana’s affection has increased to [wakana_love]!",
-      "zh": "Wakana 的好感度提升到了 [wakana_love]！"
+      "en": "{i}Wakana’s affection has increased to [wakana_love]!{/i}",
+      "zh": "{i}Wakana 的好感度提升到了 [wakana_love]！{/i}"
     },
     {
       "en": ""

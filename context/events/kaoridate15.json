@@ -1,6 +1,6 @@
 {
   "label": "kaoridate15",
-  "title_zh": "死亡什么都不是",
+  "title_zh": "死去，睡去",
   "lines": [
     {
       "en": ""
@@ -157,10 +157,10 @@
       "zh": ": 还没有！不过等我们到了那儿我再解释！"
     },
     {
-      "en": ": Get where, Kaori?",
+      "en": ": Get {i}where{/i}, Kaori?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 到哪儿，Kaori？"
+      "zh": ": 到{i}哪儿{/i}，Kaori？"
     },
     {
       "en": ": There!",
@@ -1732,8 +1732,8 @@
       "en": ""
     },
     {
-      "en": "Kaori’s affection has increased to [kaori_love]!",
-      "zh": "Kaori 的好感度提升到了 [kaori_love]!"
+      "en": "{i}Kaori’s affection has increased to [kaori_love]!{/i}",
+      "zh": "{i}Kaori 的好感度提升到了 [kaori_love]!{/i}"
     },
     {
       "en": ".........",

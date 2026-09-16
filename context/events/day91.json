@@ -78,8 +78,8 @@
       "zh": "不过我不太担心。我是说，大家看起来都挺有信心，至少能通过大部分科目。"
     },
     {
-      "en": "I’m not sure how grading for these things goes, but I’m sure you don’t have to pass every subject, right?...",
-      "zh": "我不太清楚这种考试的评分怎么算，但我想总不至于每科都得及格吧？……"
+      "en": "I’m not sure how grading for these things goes, but I’m sure you don’t have to pass {i}every{/i} subject, right?...",
+      "zh": "我不太清楚这种考试的评分怎么算，但我想总不至于{i}每{/i}科都得及格吧？……"
     },
     {
       "en": "Oh well. They’ll be fine. It would be incredibly disruptive to the plot if they weren’t.",
@@ -270,10 +270,10 @@
       "zh": ": 这不是常有的事吗？……"
     },
     {
-      "en": ": Sana...even if people were looking at you, it shouldn’t change anything.",
+      "en": ": Sana...even if people {i}were{/i} looking at you, it shouldn’t change anything.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Sana……就算有人在看你，也不该改变什么。"
+      "zh": ": Sana……就算有人{i}在看你{/i}，也不该改变什么。"
     },
     {
       "en": "s \"The key to becoming social is just learning how to ignore everybody and adapt to conversation",
@@ -890,10 +890,10 @@
       "zh": ": Ayane，别碰我。"
     },
     {
-      "en": ": Boo...",
+      "en": ": {i}Boo...{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 啧……"
+      "zh": ": {i}啧……{/i}"
     },
     {
       "en": ": Of course!",
@@ -1296,10 +1296,10 @@
       "en": ""
     },
     {
-      "en": ": Wait...I have to be friends with everyone?...",
+      "en": ": Wait...I have to be friends with {i}everyone{/i}?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 等等……我得跟所有人都交朋友吗？……"
+      "zh": ": 等等……我得跟{i}所有人{/i}都交朋友吗？……"
     },
     {
       "en": ": That’s right. Keep working hard, Sana.",
@@ -1341,8 +1341,8 @@
       "zh": "而事实是，她确实不需要。"
     },
     {
-      "en": "It’s rare that anyone in any class is ever friends with everyone.",
-      "zh": "任何一个班里，能和所有人都成为朋友的人都很罕见。"
+      "en": "It’s rare that anyone in any class is ever friends with {i}everyone{/i}.",
+      "zh": "任何一个班里，能和{i}所有人{/i}都成为朋友的人都很罕见。"
     },
     {
       "en": "But in Sana’s case, I think it’s a good idea.",
@@ -1375,8 +1375,8 @@
       "en": ""
     },
     {
-      "en": "Sana’s affection has increased to [sana_love]!",
-      "zh": "Sana 的好感度提升到了 [sana_love]！"
+      "en": "{i}Sana’s affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]！{/i}"
     },
     {
       "en": ".........",

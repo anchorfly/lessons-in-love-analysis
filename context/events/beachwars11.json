@@ -1,6 +1,6 @@
 {
   "label": "beachwars11",
-  "title_zh": "",
+  "title_zh": "不同地方的一对对",
   "lines": [
     {
       "en": ""
@@ -10,8 +10,8 @@
       "zh": ""
     },
     {
-      "en": "You've received a new message from Futaba Fukuyama!",
-      "zh": ""
+      "en": "{i}You've received a new message from Futaba Fukuyama!{/i}",
+      "zh": "{i}你收到了一条来自 Futaba Fukuyama 的新消息!{/i}"
     },
     {
       "en": ""
@@ -30,43 +30,43 @@
     },
     {
       "en": "The second day of the beach trip begins with the customary gathering of a bunch of young girls in bathing suits around a breakfast table.",
-      "zh": ""
+      "zh": "海滩之旅的第二天,以一群穿着泳装的年轻女孩围在早餐桌旁这个惯例性的画面开始。"
     },
     {
       "en": "And while Touka’s family graciously catered this for us, Touka herself could not be any more distraught if she tried.",
-      "zh": ""
+      "zh": "虽然 Touka 家慷慨地为我们包办了这顿饭,但 Touka 本人就算再怎么努力,也不可能比现在更心烦意乱了。"
     },
     {
-      "en": "This is evidenced by the fact that she has already begun to make phone calls for a helicopter or something as her surrogate daughter has still not returned from the woods.",
-      "zh": ""
+      "en": "This is evidenced by the fact that she has already begun to make phone calls for a helicopter or something as her surrogate daughter has {i}still{/i} not returned from the woods.",
+      "zh": "证据就是:她那个代理女儿{i}还{/i}没从林子里回来,而她已经在打电话,好像要叫直升机什么的了。"
     },
     {
       "en": "And, distressingly, neither has mine.",
-      "zh": ""
+      "zh": "而令人不安的是,我的那位也没回来。"
     },
     {
       "en": "A few girls are feeling the effects of this, but a good portion of them seem to believe they’ll find their way back soon enough.",
-      "zh": ""
+      "zh": "有几个女孩因此受到了影响,但相当一部分人似乎相信她们很快就能找回来。"
     },
     {
-      "en": "And a few more of them aren’t even here as they’re part of a small batch who moved further down the beach for their own competitions.",
-      "zh": ""
+      "en": "And a few {i}more{/i} of them aren’t even here as they’re part of a small batch who moved further down the beach for their own competitions.",
+      "zh": "还有{i}几个{/i}人干脆不在场——她们属于往海滩更远处转移、去参加自己那一组比赛的小分队。"
     },
     {
       "en": "I wonder to myself if they even know their friends are still missing- or if they’ll wind up getting lost too and I’ll be left with a significantly smaller roster of teenagers to corrupt.",
-      "zh": ""
+      "zh": "我心里暗想,她们到底知不知道自己的朋友还下落不明——还是说她们也会迷路,最后留给我一个规模大幅缩水的、可供我带坏的少女名单。"
     },
     {
       "en": "But these thoughts are cut short.",
-      "zh": ""
+      "zh": "但这些念头被打断了。"
     },
     {
       "en": "Not just by my subconscious desire to change-",
-      "zh": ""
+      "zh": "不只是被我想要改变的那个潜意识愿望打断——"
     },
     {
       "en": "But by the unmissable rising of several heads and the clamor that accompanies them.",
-      "zh": ""
+      "zh": "更是被几颗脑袋齐刷刷抬起、以及随之而来的喧哗打断。"
     },
     {
       "en": ""
@@ -94,25 +94,25 @@
       "en": ": ...",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": I smell something sweet...",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ""
+      "zh": ": 我闻到了甜味……"
     },
     {
       "en": ": Yo, Touka! Your girl’s back! Hang up the-",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 哟,Touka!你家姑娘回来了!快挂-"
     },
     {
       "en": ": Yasu! Thank heavens you’re- wait, why in the world are you still wearing your blindfold?! I told you to take it off after I left!",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": Yasu!谢天谢地你——等等,你到底为什么还戴着你的眼罩?!我说了等我走之后就摘掉的!"
     },
     {
       "en": ""
@@ -133,19 +133,19 @@
       "en": ": Touka!",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ""
+      "zh": ": Touka!"
     },
     {
       "en": ": Don’t “Touka” me! You had me worried sick!",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": 别叫我『Touka』!你担心死我了!"
     },
     {
       "en": ": You worried about a worthless ant like me? You’re so nice!",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ""
+      "zh": ": 你居然会为我这样一只没用的蚂蚁担心?你人真好!"
     },
     {
       "en": ""
@@ -166,19 +166,19 @@
       "en": ": “Worried” barely even begins to describe the anguish I felt! What if something happened to you? What if you were abducted or...broke your leg or...other bad things like that?! Then what?!",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": 『担心』这个词根本不足以形容我所受的煎熬!万一你出了什么事怎么办?万一你被拐走了,或者……摔断了腿,或者……别的可怕的事?!那可怎么办?!"
     },
     {
       "en": ": Am I in trouble? Did I lose the game?",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ""
+      "zh": ": 我是不是惹麻烦了?我输掉比赛了吗?"
     },
     {
-      "en": ": No, Yasu. You won the stupid game. But you could have gotten hurt and-",
+      "en": ": No, Yasu. You {i}won{/i} the stupid game. But you could have gotten hurt and-",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": 没有,Yasu。你{i}赢{/i}了那场蠢比赛。可你本来可能会受伤,而且——"
     },
     {
       "en": ""
@@ -196,28 +196,28 @@
       "en": ""
     },
     {
-      "en": ": And this is all of your fault!",
+      "en": ": And this is all of {i}your{/i} fault!",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": 而且这全是{i}你们{/i}的错!"
     },
     {
       "en": ": Who are you yelling at? Makoto and Uta aren’t even here and they’re the ones who came up with the contests.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 你在冲谁吼?Makoto 和 Uta 根本不在这儿,比赛可是她们想出来的。"
     },
     {
       "en": ": Everyone! The fact that no one attempted to put a stop to this dangerous contest is a travesty and shall not be forgotten! Mark my words!",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": 所有人!竟然没有一个人试图阻止这场危险的比赛,这简直是荒唐,我绝不会忘记!记住我的话!"
     },
     {
       "en": ": Touka, yelling is bad. You’re going to damage your vocal cords and your pretty voice will start to sound more like the sand.",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ""
+      "zh": ": Touka,大吼大叫不好。你会损伤声带,你那好听的嗓音会开始变得像沙子一样。"
     },
     {
       "en": ""
@@ -238,7 +238,7 @@
       "en": ": I have more important things to care about than my pretty voice! You should all be ashamed!",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": 我有比我的好嗓音更重要的事要操心!你们都该感到羞耻!"
     },
     {
       "en": ""
@@ -256,46 +256,46 @@
       "en": ""
     },
     {
-      "en": ": Come on, Yasu! We’re going back to the room and having breakfast without any of these girls so they can better understand just how mad I am!",
+      "en": ": Come on, Yasu! We’re going back to the room and having breakfast {i}without{/i} any of these girls so they can better understand just how mad I am!",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": 走吧,Yasu!我们回房间去,{i}不带{/i}这些丫头中的任何一个吃早餐,好让她们更清楚地明白我有多生气!"
     },
     {
       "en": ": Okay, but can I have my blindfold back? It helps me see better.",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ""
+      "zh": ": 好吧,不过能把眼罩还给我吗?它能让我看得更清楚。"
     },
     {
       "en": ": Absolutely not! Never again!",
       "spk": "Touka",
       "spkColor": "#F0E68C",
-      "zh": ""
+      "zh": ": 绝对不行!永远别想!"
     },
     {
       "en": ": Never?!",
       "spk": "Yasu",
       "spkColor": "#74D9E9",
-      "zh": ""
+      "zh": ": 永远?!"
     },
     {
       "en": ": What’s wrong Maya? You seem a little out of it.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 怎么了 Maya?你看起来有点心不在焉。"
     },
     {
-      "en": ": I’m alert as ever. I’m just confused about how Yasu managed to make it back to the beach with a blindfold still on faster than Ayane has without one.",
+      "en": ": I’m alert as ever. I’m just confused about how Yasu managed to make it back to the beach with a blindfold still on faster than Ayane has {i}without{/i} one.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我一向很清醒。我只是搞不懂,为什么 Yasu 一直戴着眼罩,却比{i}没戴{/i}眼罩的 Ayane 更早回到海滩。"
     },
     {
-      "en": ": To be fair, we won’t really know if Ayane took the blindfold off until she gets back. I didn’t see her do it, so there’s really no way of knowing if she listened to my instructions or not.",
+      "en": ": To be fair, we won’t {i}really{/i} know if Ayane took the blindfold off until she gets back. I didn’t {i}see{/i} her do it, so there’s really no way of knowing if she listened to my instructions or not.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 说句公道话,在 Ayane 回来之前,我们{i}并不能{/i}确定她到底摘没摘眼罩。我没{i}看见{/i}她摘,所以真的无从判断她有没有听我的指示。"
     },
     {
       "en": ""
@@ -316,31 +316,31 @@
       "en": ": Well, now that she’s already lost...we should be able to go out looking for her, right?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 嗯,既然她已经输了……我们总该可以出去找她了吧?"
     },
     {
       "en": ": Have a little more faith in her, Maya! Ayane’s easily the smartest member of the Sensei Love Squad. I’m sure she’ll figure it out sooner rather than later.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 对她多点信心吧,Maya!Ayane 绝对是 Sensei 后援团里最聪明的成员。我相信她迟早会想出办法的。"
     },
     {
-      "en": ": First, stop putting me in your stupid squad. Second, sooner already happened. She’s been out there for like twelve hours, hasn’t she? I think this qualifies as later, Ami.",
+      "en": ": First, stop putting me in your stupid squad. Second, {i}sooner{/i} already happened. She’s been out there for like twelve hours, hasn’t she? I think this qualifies as {i}later,{/i} Ami. ",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 首先,别再把我塞进你那个破团。其次,{i}『迟早』{/i}已经过了。她在外面待了大概十二个小时了吧?我觉得这已经算{i}『晚』{/i}了,Ami。"
     },
     {
-      "en": ": And I think you should give Ayane a little more credit. I believe in her and you should too!",
+      "en": ": And {i}I{/i} think you should give Ayane a little more credit. I believe in her and you should too!",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 而且{i}我{/i}觉得你该给 Ayane 多一点信任。我相信她,你也该相信她!"
     },
     {
       "en": ": Why...are you being so positive about this?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 你为什么……对这件事这么乐观?"
     },
     {
       "en": ""
@@ -361,19 +361,19 @@
       "en": ": Good question. I was really worried all night, so it’s kinda weird that I’m just okay with it now.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 好问题。我整晚都非常担心,所以现在居然就这么接受了,还挺奇怪的。"
     },
     {
       "en": ": Maybe I’ve hit the “acceptance” phase?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 也许我进入『接受』阶段了?"
     },
     {
       "en": ": The...what?",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 什么……阶段?"
     },
     {
       "en": ""
@@ -394,7 +394,7 @@
       "en": ": Hey, are you gonna eat your omelet? It looks really good.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ""
+      "zh": ": 嘿,你的煎蛋卷还吃吗?看起来真不错。"
     },
     {
       "en": ""
@@ -415,22 +415,22 @@
       "en": ": I’m...not really hungry right now...",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ""
+      "zh": ": 我……现在不太饿……"
     },
     {
       "en": ""
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -448,40 +448,40 @@
       "en": ""
     },
     {
-      "en": ": The fuck’s got you all quiet back there? Shouldn’t you be talkin’ about how much you love little girls right now or somethin’?",
+      "en": ": The fuck’s got {i}you{/i} all quiet back there? Shouldn’t you be talkin’ about how much you love little girls right now or somethin’?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": ": {i}你{/i}他妈在后面安静个什么劲?你现在不是该聊聊你有多喜欢小姑娘之类的吗?"
     },
     {
       "en": ": I had a long night. I’m tired.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我昨晚累坏了。我很困。"
     },
     {
       "en": ": You are lucky we came to a temporary truce and allowed you to sleep. I was prepared to go all night long.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 算你走运,我们达成了临时休战,让你睡了觉。我可是准备好通宵的。"
     },
     {
       "en": ": Yeah, well...you definitely weren’t the only one.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是啊,嗯……你绝对不是唯一一个。"
     },
     {
       "en": ": You worried about Blondie still bein’ out there and shit? She’s like, your number one fan after your creepazoid niece, ain’t she?",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": ": 你还在担心金发妹在外面什么的?她算是你的头号粉丝吧,除了你那个变态侄女以外?"
     },
     {
       "en": ": Yes. This may come as a surprise to you, Yumi, but I do actually care about people sometimes. And I would like her to come back now.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是啊。Yumi,这也许会让你意外,但我有时候是真的会关心别人的。我希望她现在就回来。"
     },
     {
       "en": ""
@@ -502,31 +502,31 @@
       "en": ": Well, I definitely ain’t a fan of her. But I hope she didn’t get hurt or some shit.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": ": 嗯,我肯定不是她的粉丝。不过我希望她没受伤什么的。"
     },
     {
       "en": ": I got lost in those woods once when I was little and, let me tell you, that ain’t an easy place to escape from once you get turned around.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": ": 我小时候在那片林子里迷过一次路,我跟你说,一旦转错方向,那地方可没那么容易走出来。"
     },
     {
       "en": ": What were you doing wandering through the woods as a child?",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 你小时候在林子里乱走干什么?"
     },
     {
       "en": ": Fuck if I remember. Shit was like six million years ago at this point.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": ": 我他妈哪还记得。那都大概是六百万年前的事了。"
     },
     {
       "en": ": So, are you two planning on doing this all day again? Because I want to keep sulking, but I feel pressured not to while both of you are watching me.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 所以,你们俩打算一整天都这样吗?因为我想继续生闷气,可你们俩都盯着我看,让我觉得不该这么干。"
     },
     {
       "en": ""
@@ -544,34 +544,34 @@
       "en": ""
     },
     {
-      "en": ": That is the plan, yes. I have already been porked by the Tsukioka Foundation this morning and am prepared to go all day as well.",
+      "en": ": That is the plan, yes. I have already been porked by the Tsukioka Foundation this morning and am prepared to go all {i}day{/i} as well. ",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 是的,计划就是这样。今天早上我已经被 Tsukioka 财团给『猪』过了,我也准备好再来一{i}整天{/i}。"
     },
     {
       "en": ": If we’re lucky, it won’t last long. Think Ponytail is gettin’ fed up with this BS as well. Bitch has barely even made a pass at you and her opponent ain’t even here.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": ": 运气好的话,这事持续不了多久。马尾妹大概也受够这破事了。那婊子几乎都没对你下过手,而她的对手压根不在这儿。"
     },
     {
       "en": ": That’s kind of just how Maya is. I doubt she’ll try to win at all.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Maya 就是那种人。我怀疑她根本不会试着去赢。"
     },
     {
       "en": ": If I’ve gotta rip her arms off and make her hug you myself, I’ll do it.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": ": 如果非得把她的胳膊扯下来、让她自己来抱你,我也会干的。"
     },
     {
       "en": ": That would not count as a hug. The arms need to be attached to a body. A hug with arms alone is just a meat costume.",
       "spk": "Tsuneyo",
       "spkColor": "#C8B330",
-      "zh": ""
+      "zh": ": 那可不算拥抱。胳膊得长在身体上才叫拥抱。光用胳膊抱,那只是件肉做的戏服。"
     },
     {
       "en": ""
@@ -592,7 +592,7 @@
       "en": ": God, I hope this shit ends soon.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ""
+      "zh": ": 天哪,但愿这破事赶紧结束。"
     },
     {
       "en": ""
@@ -613,37 +613,37 @@
       "en": ": Hey. Everybody else I normally talk to is either busy or not here right now, so let’s pretend we like each other for a little while so it doesn’t look like we’re loners.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 嘿。我平时说话的那些人,不是忙着就是不在,所以咱们假装喜欢彼此一会儿吧,好让别人觉得我们不是孤独症。"
     },
     {
       "en": ": Well, that was awfully blunt.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 嗯,这话可真够直白的。"
     },
     {
       "en": ": Yeah, I’m good at that.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 是啊,我擅长这个。"
     },
     {
       "en": ": You know I don’t, like...actually have anything against you, right? That stuff when you were trying to join the club was all just jealousy.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 你知道我其实……并不讨厌你,对吧?当初你想加入社团时那些事,全都是因为嫉妒。"
     },
     {
-      "en": ": Obviously I know that. And that’s fine. But it doesn’t mean I don’t have anything against you.",
+      "en": ": Obviously I know that. And that’s fine. But it doesn’t mean I don’t have anything against {i}you.{/i}",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 我当然知道。那没关系。但这不代表我对{i}你{/i}没有意见。"
     },
     {
       "en": ": Okay. Well, since you’ve decided to sit next to and tell me this, why not just air your issues out with me now?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 好。既然你决定坐到我旁边跟我说这个,那不如现在就把你的不满都倒出来?"
     },
     {
       "en": ""
@@ -664,7 +664,7 @@
       "en": ": Sure. I don’t like how you treat Rin.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 行。我不喜欢你对待 Rin 的方式。"
     },
     {
       "en": ""
@@ -685,19 +685,19 @@
       "en": ": What’s wrong with the way I treat Rin?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 我对待 Rin 的方式有什么问题?"
     },
     {
       "en": ": The part where you try to control who she looks at and who she talks to. And how you’ll ghost her for days at a time while she cries and worries about whether or not she did something wrong.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 就是你想控制她看谁、和谁说话的那部分。还有你会一连几天不理她,而她一边哭,一边担心自己是不是做错了什么。"
     },
     {
       "en": ": The part where you don’t trust her. And the part where every time I’ve heard you say something nice to her, it’s always weirdly forced and disingenuous.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 是你不信任她那部分。还有,每次我听你对她说好话,都带着一种诡异的、刻意的、不真诚的感觉。"
     },
     {
       "en": ""
@@ -718,25 +718,25 @@
       "en": ": I also don’t like the way you look at her. Or how she feels pressured to hide the things she likes because she doesn’t want to look nerdy in front of you. Or how you took the red out of your bangs.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 我也不喜欢你看她的眼神。还有她为了在你面前显得不宅,被迫把自己喜欢的东西藏起来这件事。还有你把刘海里那撮红色染掉了这件事。"
     },
     {
-      "en": ": Basically, I don’t like how you two are approaching your relationship from different angles. And yes, you’re just teenagers. But Rin is my friend and I think she deserves someone better. That is all.",
+      "en": ": Basically, I don’t like how you two are approaching your relationship from different angles. And yes, {i}you’re just teenagers.{/i} But Rin is my friend and I think she deserves someone better. That is all.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 基本上,我不喜欢你们两个用完全不同的角度对待这段关系。是的,{i}你们都还只是高中生{/i}。可 Rin 是我的朋友,我觉得她值得更好的人。就这些。"
     },
     {
       "en": ": Well, damn. That was a lot.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 呵,好家伙。这可真不少。"
     },
     {
       "en": ": Also, if you tell her I said any of that, I will gut you.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 还有,你要是跟她说这些是我说的,我就剖了你。"
     },
     {
       "en": ""
@@ -757,31 +757,31 @@
       "en": ": Chika, can I level with you for a second?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": Chika,我能跟你说句实在话吗?"
     },
     {
       "en": ": Uhh...sure?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 呃……当然?"
     },
     {
-      "en": ": I think you’re right about, like...90%% of that. Rin does deserve someone better than me. And she’s been way more serious about this than I have from the get-go.",
+      "en": ": I think you’re right about, like...90%% of that. Rin {i}does{/i} deserve someone better than me. And she’s been way more serious about this than I have from the get-go.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 我觉得你说的那些,大概 90%% 都是对的。Rin {i}确实{/i}值得比我更好的人。而且从一开始,她就比我对这段关系认真得多。"
     },
     {
       "en": ": What is happening right now?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 现在这是在干什么?"
     },
     {
-      "en": ": What is happening is I’m being called out for the shitty things I do and the shitty things I will probably continue to do because I am a shitty person.",
+      "en": ": What is happening is I’m being called out for the shitty things I do and the shitty things I will probably {i}continue{/i} to do because I am a shitty person.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 现在发生的是:我做的那些烂事、以及我大概还会{i}继续{/i}做下去的烂事,被人当面指了出来,因为我就是个烂人。"
     },
     {
       "en": ""
@@ -802,19 +802,19 @@
       "en": ": I’m new as fuck to all of this. I started dating Rin because I thought she was chill and it kind of just...blew up into this big, huge thing I wasn’t at all prepared for.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 我对这些事他妈的新手得不能再新手了。我开始跟 Rin 交往,是因为我觉得她这人挺酷,结果它就……炸成了这么大一件事,而我完全没有准备。"
     },
     {
-      "en": ": And, like...yeah. I’ve got some feelings for her. But they’re not the same as the ones she has for me. And I have no clue if they ever will be.",
+      "en": ": And, like...yeah. I’ve got some feelings for her. But they’re not the same as the ones she has for me. And I have no clue if they ever {i}will{/i} be.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 而且,怎么说……是啊。我对她是有感情的。但那和 她对我的感情不一样。而且我也不知道它们将来{i}会不会{/i}一样。"
     },
     {
       "en": ": Then break up with her.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 那就跟她分手。"
     },
     {
       "en": ""
@@ -835,31 +835,31 @@
       "en": ": Chika, I don’t care how blunt or “defensive” you are, but it’s not your place to go up to your friend’s girlfriend and tell her to end the relationship. That’s just fucked.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": Chika,我不管你有多直白、或者多『防御性』,但你跑到你朋友的 girlfriend 面前叫她结束这段关系,这不是你该管的事。这太操蛋了。"
     },
     {
       "en": ": Like, what do you think Rin would say if she heard any of this?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 比方说,你觉得 Rin 要是听到这些会怎么说?"
     },
     {
-      "en": ": What do you think Rin would say if she heard you flat out admit to not caring about her?",
+      "en": ": What do {i}you{/i} think Rin would say if she heard you flat out admit to not caring about her?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 那{i}你{/i}觉得 Rin 要是听到你亲口承认不在乎她,会怎么说?"
     },
     {
       "en": ": She’d probably cry. And then we’d get into a fight or something. And then we’d make up. Because, like you said, we’re teenagers. We’ve got no fucking clue what we’re doing.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 她大概会哭。然后我们会吵一架之类的。然后我们会和好。因为就像你说的,我们只是高中生。我们他妈的根本不知道自己在干什么。"
     },
     {
-      "en": ": And, just to clarify, I do care about her. And I know she’d have been way better off with someone like you. But you rejected her. You fucked her up way worse than I ever have. Well, at least...so far.",
+      "en": ": And, just to clarify, I {i}do{/i} care about her. And I know she’d have been way better off with someone like you. But {i}you{/i} rejected her. {i}You{/i} fucked her up way worse than I ever have. Well, at least...so far.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 还有,先说清楚,我{i}确实{/i}在乎她。我也知道她跟一个像你这样的人在一起会好得多。可{i}你{/i}拒绝了她。{i}你{/i}把她弄得比我伤得还重。至少……到目前为止是这样。"
     },
     {
       "en": ""
@@ -877,22 +877,22 @@
       "en": ""
     },
     {
-      "en": ": That was way different, Otoha. I already had someone. If Rin had come to me a year earlier, I would have probably said yes.",
+      "en": ": That was {i}way{/i} different, Otoha. I already had someone. If Rin had come to me a year earlier, I would have probably said yes.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 那{i}完全{/i}不一样,Otoha。我当时已经有别人了。如果 Rin 早一年跟我说,我大概会答应的。"
     },
     {
-      "en": ": But she didn’t. And you didn’t. So you can dislike me all you want, but you don’t really have a say in her love life. She can date whoever she wants. And right now, that person is me.",
+      "en": ": But she didn’t. And {i}you{/i} didn’t. So you can dislike me all you want, but you don’t really have a say in her love life. She can date whoever she wants. And right now, that person is me.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 可她没有。{i}你{/i}也没有。所以你尽可以讨厌我,但你在她的感情生活里没有发言权。她爱跟谁交往就跟谁交往。而现在,那个人是我。"
     },
     {
-      "en": ": But why do you want to date her? What are you getting out of this?",
+      "en": ": But why do {i}you{/i} want to date {i}her?{/i} What are you getting out of this?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 可{i}你{/i}为什么想跟{i}她{/i}交往?你能从这当中得到什么?"
     },
     {
       "en": ""
@@ -910,28 +910,28 @@
       "en": ""
     },
     {
-      "en": ": Right now? Nothing but enemies, confusion, and a shit ton of nudes.",
+      "en": ": Right now? Nothing but enemies, confusion, and a {i}shit ton{/i} of nudes. ",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 现在?除了敌人、困惑,还有{i}一大堆{/i}裸照,什么都没有。"
     },
     {
       "en": ": You fucking-",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 你他妈的——"
     },
     {
-      "en": ": But who’s to say that’s all it’ll ever be? Maybe I actually will fall in love with her further down the line or something?",
+      "en": ": But who’s to say that’s all it’ll ever be? Maybe I actually {i}will{/i} fall in love with her further down the line or something?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 可谁说它就永远是这些呢?也许再往后我真的{i}会{/i}爱上她什么的?"
     },
     {
-      "en": ": Or maybe someone else will catch your eye and you’ll move on to a new experiment instead?",
+      "en": ": Or maybe someone {i}else{/i} will catch your eye and you’ll move on to a new {i}experiment{/i} instead?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 或者也许{i}别人{/i}会吸引你的目光,然后你就转向新的{i}实验{/i}对象了?"
     },
     {
       "en": ""
@@ -952,55 +952,55 @@
       "en": ": Maybe, yeah. But isn’t it the same for you?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 也许吧,是啊。可你不也一样吗?"
     },
     {
       "en": ": What? What are you talking about?",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 什么?你在说什么?"
     },
     {
       "en": ": Are you really going to stay interested in whoever you’re seeing now for the rest of your life? You’re a freshman.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 你真的打算对你现在交往的那个人一辈子都有兴趣吗?你才高一。"
     },
     {
-      "en": ": I’m supposed to be a sophomore. And yes, I do expect to stay interested in that person forever. That’s what a successful relationship is like.",
+      "en": ": I’m {i}supposed{/i} to be a sophomore. And yes, I {i}do{/i} expect to stay interested in that person forever. That’s what a successful relationship is like.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 我{i}本来该{/i}上高二了。而且是的,我{i}确实{/i}打算对那个人永远保持兴趣。成功的恋情就是这样的。"
     },
     {
       "en": ": Mhm. But what if that person fucked you over or cheated on you or something?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 嗯哼。可要是那个人把你甩了,或者出轨了呢?"
     },
     {
       "en": ": He wouldn’t do that.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 他不会那么做的。"
     },
     {
       "en": ": But if he did?",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 可要是他做了呢?"
     },
     {
       "en": ": He wouldn’t.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 他不会。"
     },
     {
-      "en": ": But...if he did?",
+      "en": ": But...if he {i}did?{/i}",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 可……要是他{i}做了{/i}呢?"
     },
     {
       "en": ""
@@ -1021,37 +1021,37 @@
       "en": ": Oh man. I like you even less now.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 哦天哪。我现在更不喜欢你了。"
     },
     {
-      "en": ": Well, don’t hate me too much or your plan of “making it look like we like each other” won't work very well.",
+      "en": ": Well, don’t hate me {i}too{/i} much or your plan of “making it look like we like each other” won't work very well. ",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 嗯,别{i}太{/i}恨我,不然你那个『假装我们喜欢彼此』的计划就不太好使了。"
     },
     {
       "en": ": You don’t deserve her, Otoha.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 你配不上她,Otoha。"
     },
     {
       "en": ": Thanks. I’ll keep that in mind the next time I’m fingering her.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 谢谢。下次我用手指给她弄的时候会记住这句话的。"
     },
     {
       "en": ": Fuck you.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ""
+      "zh": ": 操你的。"
     },
     {
       "en": ": Fuck me indeed, Chika.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 那就操我吧,Chika。"
     },
     {
       "en": ""
@@ -1072,22 +1072,22 @@
       "en": ": Fuck me indeed.",
       "spk": "Otoha",
       "spkColor": "#FF569D",
-      "zh": ""
+      "zh": ": 那就操我吧。"
     },
     {
       "en": ""
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1108,13 +1108,13 @@
       "en": ": Io, explain to me the rules of this contest thingy again please? The heck even is this thing?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": Io,你再给我讲一遍这个比赛什么的规则好吗?这到底是个什么鬼东西?"
     },
     {
       "en": ": It’s called “wood.” You use it to build stuff. Which is also the purpose of this competition.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 它叫『木头』。你用它来造东西。而这也是这场比赛的目的。"
     },
     {
       "en": ""
@@ -1135,25 +1135,25 @@
       "en": ": How the heck am I supposed to build stuff with just this?! I don’t have any tools!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 光靠这个我他妈怎么造东西啊?!我什么工具都没有!"
     },
     {
       "en": ": Ain’t my fault you didn’t come prepared. Rules said we had to bring our own.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 你自己没准备好可不是我的错。规则上说了要自带。"
     },
     {
       "en": ": Well...can I borrow some of yours then?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 那……我能借你的用用吗?"
     },
     {
       "en": ": Sure, once I’m done measuring everything out. I’ll even show you how to use a saw.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 当然,等我量完所有尺寸就行。我还可以教你怎么用锯子。"
     },
     {
       "en": ""
@@ -1174,19 +1174,19 @@
       "en": ": Oh! A saw is-",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 哦!锯子是——"
     },
     {
       "en": ": I know what a friggin’ saw is! I just don’t know the first thing about puttin’ a raft together!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 我知道锯子他妈的是什么!我只是完全不知道该怎么把木筏拼起来!"
     },
     {
       "en": ": What happened to that fighting spirit from yesterday? Weren’t you all like, “Gaaah. It’s not over ‘til it’s over!” and stuff?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 昨天那股斗志哪儿去了?你不是一直在喊『啊啊啊!不到最后不算完!』之类的吗?"
     },
     {
       "en": ""
@@ -1207,37 +1207,37 @@
       "en": ": Yeah, but now it’s over and I can complain as much as I want.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 是啊,可现在已经完了,我想怎么抱怨就怎么抱怨。"
     },
     {
       "en": ": I told you this wasn’t easy. But again, I’m happy to show you the ropes once I have my raft planned out.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 我说过这不容易。不过再说一次,等我把木筏规划好,我很乐意教你门道。"
     },
     {
       "en": ": Easiest course of action would be to go with a standard design, but I might try and spice things up a bit if I have the time. Maybe add like a...sail or something.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 最省事的做法是采用标准设计,不过如果时间够,我可能会加点花样。比如加个……帆什么的。"
     },
     {
       "en": ": I think it would still count as a raft if there’s a sail, right? Not sure how strict we plan on getting with nautical-craft terminology here.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 有帆的话应该还算木筏吧?我不知道我们在这儿的『航海器术语』上打算严格到什么程度。"
     },
     {
       "en": ": I, Miku Maruyama...for the first time ever...have grossly underestimated my opponent...",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 我,Miku Maruyama……有生以来第一次……严重低估了我的对手……"
     },
     {
       "en": ": Well, if you’re not gonna do anything, why not come over here and help me with mine. I could use another-",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 嗯,既然你也没事干,不如过来帮我做我的。我还需要一个——"
     },
     {
       "en": ""
@@ -1258,13 +1258,13 @@
       "en": ": Aye-aye, Captain Io! First-mate Miku reporting for service!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 遵命,Io 船长!大副 Miku 报到听令!"
     },
     {
       "en": ": Maybe wait until we have the prototype built to start calling me Captain.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 等原型造出来再叫我船长吧。"
     },
     {
       "en": ""
@@ -1285,25 +1285,25 @@
       "en": ": Prototype? You’re buildin’ two of these things? You just flexin’ on me now, Captain?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 原型?你要造两个这玩意儿?你现在是在跟我炫技吗,船长?"
     },
     {
       "en": ": Not at all. The prototype will be super small — like, only big enough for one person. The finished product should be able to fit all four of us who came out here.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 一点也没有。原型会超级小——大概只够一个人。成品应该能装下我们四个出来的人。"
     },
     {
-      "en": ": I just want to make sure what I’m making does its job and actually floats since I’ve never used this kind of wood before.",
+      "en": ": I just want to make sure what I’m making does its job and actually {i}floats{/i} since I’ve never used this kind of wood before.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 我只是想确认我做的东西能管用、真的{i}浮得起来{/i},毕竟我以前没用过这种木头。"
     },
     {
       "en": ": Are all kinds of wood not the same?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 所有的木头不都一样吗?"
     },
     {
       "en": ""
@@ -1324,13 +1324,13 @@
       "en": ": Miku, come on. That’s like asking if all wrenches are the same.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": Miku,拜托。这就跟问『所有的扳手是不是都一样』一样。"
     },
     {
       "en": ": Are...all wrenches not the same?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 所有的扳手……不是一样的吗?"
     },
     {
       "en": ""
@@ -1351,13 +1351,13 @@
       "en": ": You know what? Maybe we should just talk about something else instead? Teaching you everything from the beginning might take a little longer than I initially thought...",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 你知道吗?我们干脆聊点别的吧?从零开始教你一切,可能比我原本想的要花更长时间……"
     },
     {
       "en": ": Works for me! As somebody who’s only just now gettin’ in touch with her feminine side, I’ve been fiendin’ for a little girl talk!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 正合我意!作为一个才刚刚开始接触自己女性一面的人,我早就馋一场女生之间的悄悄话了!"
     },
     {
       "en": ""
@@ -1378,13 +1378,13 @@
       "en": ": Ew, no. I’m the last person you want to do that with.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 恶心,不行。你最不该找的人就是我。"
     },
     {
       "en": ": Are you? Just cause you’re into buildin’ and stuff doesn’t mean ya can’t be a little girly too, ya know.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 是吗?你爱捣鼓东西什么的,不代表你就不能也稍微女人味一点啊,你知道吧。"
     },
     {
       "en": ""
@@ -1405,19 +1405,19 @@
       "en": ": Yeah. It’s the “being girly” thing in general I have a problem with. Like, what even is “girl talk?” Are we supposed to gossip about like...celebrities or...TikTok or something? Pass. Hand me a hammer.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 是啊。我反感的就是『有女人味』这件事本身。话说『女生之间的悄悄话』到底是什么?我们要聊……明星还是……TikTok 什么的?免了。把锤子递给我。"
     },
     {
       "en": ": You know what a hammer is, right?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 你知道锤子是什么,对吧?"
     },
     {
       "en": ": I know what a hammer is. And I was kinda just figurin’ we’d talk about who we like or somethin’.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 我知道锤子是什么。我其实只是觉得,我们会聊聊自己喜欢谁之类的。"
     },
     {
       "en": ""
@@ -1438,31 +1438,31 @@
       "en": ": Do you have feelings for someone, Miku?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 你有喜欢的人吗,Miku?"
     },
     {
       "en": ": As a matter of fact, I do.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 事实上,有。"
     },
     {
-      "en": ": Just to be sure- we are talking about a male, right?",
+      "en": ": Just to be sure- we {i}are{/i} talking about a male, right?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 先确认一下——我们说的{i}是{/i}个男的,对吧?"
     },
     {
       "en": ": As a matter of fact, we are.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 事实上,是的。"
     },
     {
       "en": ": You see...I, the amazing Miku Maruyama...have fallen for our very own teacher. Sensei...Senseison.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 你看……我,了不起的 Miku Maruyama……爱上了我们自己的老师。Sensei……Senseison。"
     },
     {
       "en": ""
@@ -1483,19 +1483,19 @@
       "en": ": You have?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 你真的?"
     },
     {
       "en": ": I have.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 真的。"
     },
     {
-      "en": ": Wow. So is, like...everybody in our class into older guys? Because it’s starting to feel that way and it’s very weird.",
+      "en": ": Wow. So is, like...{i}everybody{/i} in our class into older guys? Because it’s starting to feel that way and it’s very weird.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 哇。所以,我们班上是不是{i}所有人{/i}都喜欢年纪大的男人?我开始有这种感觉了,而且非常诡异。"
     },
     {
       "en": ""
@@ -1516,13 +1516,13 @@
       "en": ": Wait, do you like Sensei too?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 等等,你也喜欢 Sensei?"
     },
     {
       "en": ": I’d say “like” is a bit of an understatement. I’m kind of obsessed with him in a really unhealthy way and it’s definitely going to make him hate me one day.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 我觉得『喜欢』这个词说得太轻了。我对他的痴迷到了相当不健康的程度,而且总有一天一定会让他讨厌我。"
     },
     {
       "en": ""
@@ -1543,79 +1543,79 @@
       "en": ": That’s awesome!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 那太棒了!"
     },
     {
       "en": ": It...It is?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 是……是吗?"
     },
     {
       "en": ": Well, not the hatin’ you part. But that part that you’re able to like somebody so much!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 嗯,他讨厌你那部分不算。而是你能那么喜欢一个人这件事!"
     },
     {
       "en": ": I’m confused. I thought this was the part where you start to hate me for liking the same guy as you. Isn’t that how...girl-code works or whatever?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 我糊涂了。我以为到了这个环节,你该开始因为我和你喜欢同一个人而讨厌我了。『女生守则』之类不就是这样吗?"
     },
     {
       "en": ": I don’t know anything about this “girl code” stuff. But I ain’t got any problems when it comes to somebody likin’ the same guy as me.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 我对什么『女生守则』一无所知。不过有人跟我喜欢同一个人,我一点问题都没有。"
     },
     {
       "en": ": Makoto says I’m weird for it, but I’m kinda just excited to share my happiness with people I care about, you know? And if they can be happy too, it’s even better!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": Makoto 说我这样很怪,但我就是很乐意把我的幸福分享给我在乎的人,你知道吧?如果她们也能幸福,那就更好了!"
     },
     {
       "en": ": I said something similar to Uta and she thought I was weird for it as well, so...I think I know where you’re coming from.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 我跟 Uta 说过类似的话,她也觉得我很怪,所以……我觉得我懂你的意思。"
     },
     {
       "en": ": Does that, like...expand to...physical stuff too, though?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 那这个……会延伸到……肉体上的事吗?"
     },
     {
-      "en": ": Like, in the hypothetical but realistic scenario where Sensei chooses you over me, and I am hypothetically and less realistically interested in sex in said scenario...would it bother you sharing him that way?",
+      "en": ": Like, in the hypothetical but realistic scenario where Sensei chooses you over me, and I am hypothetically and {i}less{/i} realistically interested in sex in said scenario...would it bother you sharing him that way?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 比如,在这样一个假设却现实的场景里:Sensei 选了你而不是我,而我在这个场景里又假设性地、{i}不太{/i}现实地对性感兴趣……那样分享他,你会介意吗?"
     },
     {
       "en": ": Or do you, like...not even consider that when-",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 还是说你……根本没考虑过——"
     },
     {
       "en": ": I love all that sex stuff! It wouldn’t bother me one bit!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 我超爱那些性事的!一点都不会介意!"
     },
     {
       "en": ": This is not at all the dialogue I envisioned having when I set out to build a raft this morning.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 这可完全不是我今天早上出门造木筏时预想的对话。"
     },
     {
       "en": ": Are you interested in that stuff too, Io?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 你也对那些事感兴趣吗,Io?"
     },
     {
       "en": ""
@@ -1636,31 +1636,31 @@
       "en": ": Not even a little. Where is my hammer?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 一点也没有。我的锤子呢?"
     },
     {
       "en": ": Why do you need a hammer for a screw?",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 拧螺丝你要锤子干什么?"
     },
     {
       "en": ": I need a hammer to bash my brain in before I start spiraling.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 我需要一把锤子,在精神崩溃之前先把自己的脑子砸烂。"
     },
     {
       "en": ": Forget your pills back at the inn? Want me to run and get ‘em? I’m really fast. You should time me.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 把药忘在旅馆了?要我跑回去拿吗?我跑得很快。你该给我计时。"
     },
     {
       "en": ": One...Two...Three.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": 一……二……三。"
     },
     {
       "en": ""
@@ -1681,25 +1681,25 @@
       "en": ": Gah! I wasn’t ready yet! Start over!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 啊!我还没准备好呢!重来!"
     },
     {
       "en": ": I’ll be back soon!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ""
+      "zh": ": 我很快就回来!"
     },
     {
       "en": ": ...",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": ..."
     },
     {
-      "en": ": Hah...",
+      "en": ": {i}Hah...{/i}",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ""
+      "zh": ": {i}哈……{/i}"
     },
     {
       "en": ""
@@ -1718,15 +1718,15 @@
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1747,61 +1747,61 @@
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Makoto, this is boring as shit.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": Makoto,这无聊死了。"
     },
     {
       "en": ": Tell me you don’t understand the beauty of fishing without telling me you don’t understand the beauty of fishing.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 不用开口说,就让人看出你不懂钓鱼的美妙之处。"
     },
     {
       "en": ": I will gladly tell you I don’t “understand the beauty of fishing” because, again, this is boring as shit.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 我很乐意告诉你我『不懂钓鱼的美妙之处』,因为再说一次,这无聊死了。"
     },
     {
       "en": ": Let’s go start another round of the swimsuit competition. You missed the first half yesterday and I want one of our teachers to think about fucking me.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 我们再去办一轮泳装比赛吧。昨天前半场你没赶上,而我想让我们其中一个老师想着操我。"
     },
     {
       "en": ""
@@ -1822,19 +1822,19 @@
       "en": ": You might actually enjoy this if you gave it a shot, you know.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 说不定你真的试一试,会喜欢上这个呢,你知道吧。"
     },
     {
-      "en": ": What does it look like I’m doing? You think I’d be wasting away my morning on a dock if I wasn’t open to “giving this a shot?”",
+      "en": ": What does it {i}look{/i} like I’m doing? You think I’d be wasting away my morning on a dock if I wasn’t open to “giving this a shot?”",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 我{i}看起来{/i}像在干什么?要不是愿意『试一试』,我会把一整个上午耗在码头上吗?"
     },
     {
-      "en": ": What I think is that complaining about something while you’re doing it ruins any chance you could have at enjoying yourself.",
+      "en": ": What I {i}think{/i} is that complaining about something {i}while{/i} you’re doing it ruins any chance you could have at enjoying yourself. ",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 我的{i}看法{/i}是,{i}一边{/i}做一件事一边抱怨它,会毁掉你享受它的任何可能。"
     },
     {
       "en": ""
@@ -1855,13 +1855,13 @@
       "en": ": Just close your eyes...listen to the wind and the birds...and wait for a tug on the line...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 只要闭上眼睛……听听风和鸟叫……然后等着线被扯动……"
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ""
@@ -1882,43 +1882,43 @@
       "en": ": Empty your mind...Free yourself from the worries that swarm you in your day to day life...and become one with the world itself...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 放空你的大脑……从日复一日围攻你的烦恼里挣脱出来……然后与世界本身融为一体……"
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": There should be nothing there...nothing at all...just peace...and quiet...and relaxation...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 那里应该什么都没有……什么都没有……只有平和……宁静……还有放松……"
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
-      "en": ": Now, picture something that would bring you true happiness...",
+      "en": ": Now, picture something that would bring you {i}true{/i} happiness...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 现在,想象一个能带给你{i}真正{/i}幸福的东西……"
     },
     {
       "en": ": What do you see?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 你看见了什么?"
     },
     {
       "en": ": Sensei and Imani with a strap-on double-teaming me.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": Sensei 和 Imani 戴着假阳具双管齐下地对我。"
     },
     {
       "en": ""
@@ -1939,19 +1939,19 @@
       "en": ": Why am I not surprised?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 我为什么不惊讶呢?"
     },
     {
-      "en": ": What’s actually surprising is how into this you are. Is this, like...a hobby of yours or something?",
+      "en": ": What’s {i}actually{/i} surprising is how into this you are. Is this, like...a hobby of yours or something? ",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": {i}真正{/i}让人惊讶的是你居然这么投入。这算是……你的爱好之类的吗?"
     },
     {
       "en": ": It’s just weird to pick a contest so laid-back when everything else in the Dorm Wars is normally pretty active. But if you’re into it, then...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 我只是觉得,宿舍战争里其他项目一般都很活跃,你偏挑一个这么悠闲的,挺奇怪的。不过你喜欢就好……"
     },
     {
       "en": ""
@@ -1972,25 +1972,25 @@
       "en": ": I wouldn’t say it’s a hobby. It’s been years since I’ve done this, actually. But my dad loved it and I would tag along with him when I was younger.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 我不觉得那是爱好。事实上我好多年没钓过了。但我爸很喜欢,我小时候会跟着他一起去。"
     },
     {
       "en": ": So in a sense, this is kind of therapeutic for me. Like a way to connect with him without actually being able to anymore.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 所以从某种意义上说,这对我来说有点像疗愈。像是某种与他相连的方式,尽管我已经再也做不到了。"
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Sorry if that made you uncomfortable.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 如果这让你不舒服了,我很抱歉。"
     },
     {
       "en": ""
@@ -2011,43 +2011,43 @@
       "en": ": It didn’t. I’m good.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 没有。我很好。"
     },
     {
       "en": ": Good.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 那就好。"
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": I’m sorry that happened to you, Makoto. I don’t think I ever got to say that.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 发生了那样的事我很抱歉,Makoto。我想我从来没跟你说过这句话。"
     },
     {
       "en": ": You didn’t need to. That sort of thing is just implied whenever you come back to school following a death in the family.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 你不需要说。家里有人过世后你再回学校,这种事本来就是心照不宣的。"
     },
     {
       "en": ": I know, but I still feel like I should either way. And it’s really cool you were able to recover from that.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 我知道,可我还是觉得不管怎样都该说。而且你能从那件事里走出来,真的很了不起。"
     },
     {
       "en": ""
@@ -2068,19 +2068,19 @@
       "en": ": Does this sudden niceness have something to do with Miku? Because if she’s been asking you to take pity on me or something, I’m fine. You don’t need to-",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 这份突如其来的善意和 Miku 有关系吗?因为如果是她让你来可怜我什么的,我没事。你不需要——"
     },
     {
       "en": ": Miku doesn’t have anything to do with it. But I guess I can understand why you’d think she does.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 跟 Miku 没关系。不过我大概能理解你为什么会这么想。"
     },
     {
-      "en": ": It’s weird that we have the same best friend but that every time we’ve tried to talk to each other it’s been all...confrontational for the most part.",
+      "en": ": It’s weird that we have the same best friend but that every time {i}we’ve{/i} tried to talk to each other it’s been all...confrontational for the most part. ",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 我们有同一个最好的朋友,可每次{i}我们{/i}试着跟对方说话,基本上都是……剑拔弩张的,这挺奇怪。"
     },
     {
       "en": ""
@@ -2101,43 +2101,43 @@
       "en": ": That’s on me too. I’ve been silently kicking myself for being such a bitch to you on Christmas last year when I wouldn’t let you hang out in the bedroom with us.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 那也有我的责任。去年圣诞节我不让你进卧室和我们一起玩,我对自己那么婊,一直在暗地里自责。"
     },
     {
       "en": ": Yeah, that hurt. But it’s not like I’ve been a saint either.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 是啊,那挺伤人的。不过我也不是什么圣人。"
     },
     {
       "en": ": I don’t really, like...believe in karma or anything like that. But I do think that life often takes on the colors you wind up spitting out yourself.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 我不太……相信因果报应什么的。但我确实觉得,生活往往会染上你自己吐出去的那些颜色。"
     },
     {
-      "en": ": It makes sense that nobody would like me when I don’t really give anyone a reason to.",
+      "en": ": It makes sense that nobody would like me when I don’t really give anyone a {i}reason{/i} to.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 既然我根本没给别人任何{i}理由{/i}喜欢我,没人喜欢我也很合理。"
     },
     {
       "en": ": If you somehow haven’t noticed yet, I’m not exactly the most popular girl in class either.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 如果你还没注意到的话,我在班上也不算最受欢迎的女生。"
     },
     {
-      "en": ": Yeah, but that’s because you’re too good and it pisses everybody off. All I’ve done is carve out a little niche and stick to, like...two people I’m comfortable with.",
+      "en": ": Yeah, but that’s because you’re {i}too{/i} good and it pisses everybody off. All I’ve done is carve out a little niche and stick to, like...two people I’m comfortable with. ",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 是啊,可那是因为你{i}太{/i}好了,把大家都惹毛了。我只是给自己凿出一个小角落,然后只黏着……两个我相处得来的人。"
     },
     {
       "en": ": Everyone else either hates me or thinks I’m a slut.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 其他的人要么恨我,要么觉得我是个荡妇。"
     },
     {
       "en": ""
@@ -2158,19 +2158,19 @@
       "en": ": For what it’s worth, Kirin...I don’t hate you.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 不管怎么说,Kirin……我不恨你。"
     },
     {
       "en": ": Then you probably think I’m a slut. Right?",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 那你大概觉得我是个荡妇。对吧?"
     },
     {
-      "en": ": I think you say things that make it sound that way. But I can’t imagine you actually sleeping around when it seems like you’d be happy just finding someone who understands you.",
+      "en": ": I think you say things that make it {i}sound{/i} that way. But I can’t imagine you actually sleeping around when it seems like you’d be happy just finding someone who understands you.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 我觉得你说的话{i}听起来{/i}像那么回事。但我没法想象你真的会到处乱睡,毕竟你看起来只要找到一个懂你的人就很满足了。"
     },
     {
       "en": ""
@@ -2188,28 +2188,28 @@
       "en": ""
     },
     {
-      "en": ": Also, as someone who grew up directly above a sex shop and now works in said sex-shop, I may have subconsciously ousted the word “slut” from my vocabulary.",
+      "en": ": Also, as someone who grew up directly above a sex shop and now {i}works{/i} in said sex-shop, I may have subconsciously ousted the word “slut” from my vocabulary.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 另外,作为一个从小就在情趣用品店楼上长大、现在又在店里{i}打工{/i}的人,我大概已经下意识地把『荡妇』这个词从我的词汇表里驱逐出去了。"
     },
     {
       "en": ": I think I’m supposed to call people like that “sex positive” instead or something. My mom would know better than I do.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 我觉得我该用『性积极』之类的词来称呼那样的人。我妈比我知道得更清楚。"
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Something wrong? Or are you just finally starting to understand the allure of fishing in silence?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 有什么不对吗?还是你终于开始明白在沉默中钓鱼的魅力了?"
     },
     {
       "en": ""
@@ -2230,73 +2230,73 @@
       "en": ": Nothing’s wrong. And I still think this is boring as shit.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 没什么不对。而且我依然觉得这无聊死了。"
     },
     {
       "en": ": But...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 不过……"
     },
     {
       "en": ": You can be kind of cool when...you’re not handing us worksheets.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 你有时候还挺酷的……在你不给我们发卷子的时候。"
     },
     {
       "en": ": Th...Thank you, Kirin...I appreciate that.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 谢……谢谢你,Kirin……我很感激你这么说。"
     },
     {
       "en": ": Don’t mention it.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 别客气。"
     },
     {
       "en": ": ...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": You know...you’ve seemed a little different than normal lately, now that I think about it.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 你知道吗……仔细想想,你最近看起来跟平时有点不一样。"
     },
     {
       "en": ": You’re probably just imagining it. I’m still the same person I’ve always been.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 大概是你的错觉吧。我还是我一直以来的那个人。"
     },
     {
       "en": ": If you say so, but...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 你说是就是吧,不过……"
     },
     {
-      "en": ": Change doesn’t have to be a bad thing, just so you know.",
+      "en": ": Change doesn’t have to be a {i}bad{/i} thing, just so you know. ",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 改变不一定是{i}坏{/i}事,这点你该知道。"
     },
     {
       "en": ": In fact...for people like us, who struggle to socially thrive the way Miku does...I think change is mostly good.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 事实上……对我们这种不像 Miku 那样擅长社交的人来说……我觉得改变大多是好事。"
     },
     {
       "en": ""
@@ -2317,49 +2317,49 @@
       "en": ": Something I’ve learned recently is that having strong relationships to fall back on goes a long way in helping you through the worst days of your life.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 我最近学到的一件事是:有几段牢固的关系可以依靠,对帮你熬过人生中最糟的日子大有帮助。"
     },
     {
       "en": ": And I hope, for your sake, those days are still far away...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 而我真心希望,那些日子对你来说还很遥远……"
     },
     {
       "en": ": But I wouldn’t blame you for doing whatever it is you need to do to find a few more lifelines as well.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 但如果你为了多找几条救命绳索而去做任何你需要做的事,我也不会怪你。"
     },
     {
       "en": ": Thanks, Makoto. I’ll add that to my to-do list right after getting Sensei and Imani to double-team me.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 谢谢,Makoto。我会把它加进我的待办清单——就排在让 Sensei 和 Imani 双管齐下之后。"
     },
     {
       "en": ": And to that I say — I admire your “sex positivity.”",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 对此我只能说——我佩服你的『性积极性』。"
     },
     {
-      "en": ": That’s just what your mom would want you to say.",
+      "en": ": That’s just what your {i}mom{/i} would want you to say. ",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": {i}你妈{/i}听了一定很欣慰。"
     },
     {
-      "en": ": Well, it’s not as if I can ask my dad how he’d respond on account of the whole being dead thing.",
+      "en": ": Well, it’s not as if I can ask my dad how {i}he’d{/i} respond on account of the whole being dead thing.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ""
+      "zh": ": 嗯,反正我也没法问{i}我爸{/i}该怎么回答,毕竟他已经死了。"
     },
     {
-      "en": ": Okay, now I’m uncomfortable.",
+      "en": ": Okay, {i}now{/i} I’m uncomfortable.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ""
+      "zh": ": 好了,{i}现在{/i}我不舒服了。"
     },
     {
       "en": ""

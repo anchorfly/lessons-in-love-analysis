@@ -26,8 +26,8 @@
       "zh": "我醒得很透，天已亮了——云、光和风一道来迎接我，我把它们挥开，接受了自己作为「大家最爱的半透明寄生虫」这个角色。"
     },
     {
-      "en": "Today, I will find a host. I will burrow into their flesh and take up residence in some hard-to-reach place, living off of their blood instead of my own because mine scares me sometimes.",
-      "zh": "今天，我要找一个宿主。我要钻进他们的肉里，在某个够不着的角落住下来，靠他们的血过活而不是我自己的——因为我自己的血有时候会吓到我。"
+      "en": "Today, I will find a host. I will burrow into their flesh and take up residence in some hard-to-reach place, living off of {i}their{/i} blood instead of my own because mine scares me sometimes.",
+      "zh": "今天，我要找一个宿主。我要钻进他们的肉里，在某个够不着的角落住下来，靠{i}他们的{/i}血过活而不是我自己的——因为我自己的血有时候会吓到我。"
     },
     {
       "en": "Sometimes, I feel like there’s more to it than its color. Its viscosity. How I can’t live without it and yet, how knowing it’s there makes my skin try to crawl away.",
@@ -113,10 +113,10 @@
       "zh": ": 你今天不忙吧？"
     },
     {
-      "en": ": I mean...I’m rarely busy at all these days. Aren’t you normally in school around this time, though?",
+      "en": ": I mean...{i}I’m{/i} rarely busy at all these days. Aren’t {i}you{/i} normally in school around this time, though?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我想说……我最近基本上没什么忙的。不过这个点你不是该在学校吗？"
+      "zh": ": 我想说……{i}我{/i}最近基本上没什么忙的。不过这个点{i}你{/i}不是该在学校吗？"
     },
     {
       "en": ": It’s Saturday. But I suppose you wouldn’t know that if the days of your prolonged absence have begun to congeal into some indiscernible blob.",
@@ -215,10 +215,10 @@
       "zh": ": 不，我现在就过去。行吗？"
     },
     {
-      "en": ": It doesn’t have to be now. Any time you-",
+      "en": ": It doesn’t have to be {i}now.{/i} Any time you-",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 不必现在。你随时——"
+      "zh": ": 不必{i}现在{/i}。你随时——"
     },
     {
       "en": ""
@@ -258,8 +258,8 @@
       "zh": "我挂了电话，套上那身万年不变的行头，顺便从柜子里抓了把伞——云都灰了，不防着点雨就太傻了。"
     },
     {
-      "en": "Surely, that was Wakana’s doing. And surely I shouldn’t question why when I’ve already learned the reason for the cracks in her sky.",
-      "zh": "想必那是 Wakana 的功劳。而我也不该追问为什么——既然我已经知道了她天空上的那些裂缝是怎么来的。"
+      "en": "Surely, that was Wakana’s doing. And surely I shouldn’t question {i}why{/i} when I’ve already learned the reason for the cracks in her sky.",
+      "zh": "想必那是 Wakana 的功劳。而我也不该追问{i}为什么{/i}——既然我已经知道了她天空上的那些裂缝是怎么来的。"
     },
     {
       "en": "But if I’m to keep her out of the rain, which is surely why she needs me now, it’s best that I stay dry.",
@@ -303,10 +303,10 @@
       "zh": ": 谢谢你过来。我可以泡茶答谢你，如果你想要的话。"
     },
     {
-      "en": ": I’m good. But I do take exception to the implication that you’d only offer me a drink if you owe me something.",
+      "en": ": I’m good. But I {i}do{/i} take exception to the implication that you’d only offer me a drink if you owe me something.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不用了。不过你「只有欠我东西才肯给我倒点喝的」这个暗示，我可不大乐意。"
+      "zh": ": 不用了。不过你「只有欠我东西才肯给我倒点喝的」这个暗示，我{i}可{/i}不大乐意。"
     },
     {
       "en": ": I only keep the expensive stuff in here. The kind that would be lost on someone like you. So forgive me for keeping it to myself on most occasions.",
@@ -558,10 +558,10 @@
       "en": ""
     },
     {
-      "en": ": What? Don’t be ridiculous. Osako wouldn’t fall for you even if you had the correct genitalia.",
+      "en": ": What? Don’t be ridiculous. Osako wouldn’t fall for you even {i}if{/i} you had the correct genitalia.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 什么？别犯蠢。就算你长了正确的那套器官，Osako 也不会看上你。"
+      "zh": ": 什么？别犯蠢。{i}就算{/i}你长了正确的那套器官，Osako 也不会看上你。"
     },
     {
       "en": ": Then why did you sound so forlorn when you mentioned the two of us meeting just now?",
@@ -585,28 +585,28 @@
       "en": ""
     },
     {
-      "en": ": I wasn’t trying to sound forlorn. I was just using that as a bridge to...acknowledge that you likely understand what the two of us are going through right now.",
+      "en": ": I wasn’t trying to sound {i}forlorn.{/i} I was just using that as a bridge to...acknowledge that you likely understand what the two of us are going through right now.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 我不是故意要显得凄凉。我只是拿它当个引子，好……承认你大概能理解我们俩现在正在经历什么。"
+      "zh": ": 我不是故意要显得{i}凄凉{/i}。我只是拿它当个引子，好……承认你大概能理解我们俩现在正在经历什么。"
     },
     {
-      "en": ": I’ve known since the beach trip that things haven’t been perfect. I just don’t fully understand why. But I guess that’s between you two and not me.",
+      "en": ": I’ve known since the beach trip that things haven’t been perfect. I just don’t fully understand {i}why.{/i} But I guess that’s between you two and not me.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 从海边那趟起我就知道你们之间不完美。我只是不完全明白为什么。不过我想那是你俩之间的事，不是我的。"
+      "zh": ": 从海边那趟起我就知道你们之间不完美。我只是不完全明白{i}为什么{/i}。不过我想那是你俩之间的事，不是我的。"
     },
     {
-      "en": ": Things have been...imperfect for several months now. But it wasn’t until after that trip that they...really started to change.",
+      "en": ": Things have been...{i}imperfect{/i} for several months now. But it wasn’t until after that trip that they...really started to change.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 几个月以来……一直都不完美。但直到那趟旅行之后，它们才……真的开始变了。"
+      "zh": ": 几个月以来……一直都{i}不完美{/i}。但直到那趟旅行之后，它们才……真的开始变了。"
     },
     {
-      "en": ": And I guess I’m just...so used to the way they’ve always been that seeing her trying to better herself has set off something in my brain that’s making me think all of this is wrong.",
+      "en": ": And I guess I’m just...so used to the way they’ve always {i}been{/i} that seeing her trying to better herself has set off something in my brain that’s making me think all of this is wrong.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 而我大概……太习惯它们一贯的样子了，所以看着她试图让自己变得更好，反而触发了我脑子里的某根弦，让我觉得这一切都不对。"
+      "zh": ": 而我大概……太习惯它们{i}一贯的样子{/i}了，所以看着她试图让自己变得更好，反而触发了我脑子里的某根弦，让我觉得这一切都不对。"
     },
     {
       "en": ": Well...she made it sound like she was the issue in the first place. Which is why she’s doing all of this to begin with, right?",
@@ -615,10 +615,10 @@
       "zh": ": 嗯……她自己说一开始问题出在她身上。所以她才做这一切，对吧？"
     },
     {
-      "en": ": She’s not the only issue. I have my fair share of faults as well. I just worry that...I may have been a little too harsh on her.",
+      "en": ": She’s not the {i}only{/i} issue. I have my fair share of faults as well. I just worry that...I may have been a little too harsh on her. ",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 她不是唯一的问题。我也有我那份毛病。我只是担心……我可能对她太苛刻了点。"
+      "zh": ": 她不是{i}唯一{/i}的问题。我也有我那份毛病。我只是担心……我可能对她太苛刻了点。"
     },
     {
       "en": ": So that’s what this is? Just...general worrying? No earth-shattering revelations or drama for me to help you with?",
@@ -639,10 +639,10 @@
       "zh": ": 要说的话，我反而松了口气。"
     },
     {
-      "en": ": Yes, well...I wouldn’t be too relieved if I were you.",
+      "en": ": Yes, well...I wouldn’t be {i}too{/i} relieved if I were you. ",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 嗯，不过……换作是我，我不会松那么快。"
+      "zh": ": 嗯，不过……换作是我，我不会松{i}那么{/i}快。"
     },
     {
       "en": ": From the outside, I’m sure it’s easy to look at this as the two of us “trying to work through something,” but we’ve worked through plenty of things in the past and it’s never felt like this...",
@@ -657,10 +657,10 @@
       "zh": ": 所以……也许只是我骨子里那个永恒的悲观主义者，把它当成了某种征兆。我希望是这样的。不管怎样，我需要有人替我把心加加固，所以……你来了。"
     },
     {
-      "en": ": I get it. I’m just surprised you’d trust me with something like that over Imani.",
+      "en": ": I get it. I’m just surprised you’d trust {i}me{/i} with something like that over Imani.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我懂。我只是有点意外，这种事你居然信任我而不是 Imani。"
+      "zh": ": 我懂。我只是有点意外，这种事你居然信任{i}我{/i}而不是 Imani。"
     },
     {
       "en": ""
@@ -684,16 +684,16 @@
       "zh": ": Imani 有她的长处，她比你强的地方多得数不清。"
     },
     {
-      "en": ": But you’re the one I’m more comfortable with, Arakawa.",
+      "en": ": But {i}you’re{/i} the one I’m more comfortable with, Arakawa.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 但你是我待着更舒服的那个人，荒川。"
+      "zh": ": 但{i}你{/i}是我待着更舒服的那个人，荒川。"
     },
     {
-      "en": ": Uhh...why?",
+      "en": ": Uhh...{i}why?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 呃……为什么？"
+      "zh": ": 呃……{i}为什么？{/i}"
     },
     {
       "en": ": I suppose you just feel like a brother to me. A cousin, perhaps? But I can rest my head on your shoulder like this and feel absolutely nothing.",
@@ -723,10 +723,10 @@
       "en": ""
     },
     {
-      "en": ": It was a joke, idiot. I don’t feel nothing. I feel...secure. And as great of a friend Imani is, it never really feels as if she’s watching over me, you know?",
+      "en": ": It was a joke, idiot. I don’t feel {i}nothing.{/i} I feel...secure. And as great of a friend Imani is, it never really feels as if she’s {i}watching over{/i} me, you know?",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 那是玩笑，白痴。我不是毫无感觉。我感觉……安心。而且 Imani 虽然是个很好的朋友，可从来没有那种「她在看着我」的感觉，你懂吧？"
+      "zh": ": 那是玩笑，白痴。我不是{i}毫无{/i}感觉。我感觉……安心。而且 Imani 虽然是个很好的朋友，可从来没有那种「她在{i}看着{/i}我」的感觉，你懂吧？"
     },
     {
       "en": ": ...",
@@ -741,10 +741,10 @@
       "zh": ": 抱歉我是这么个样子。你对我来说非常特别。"
     },
     {
-      "en": ": Maybe be a little less sorry if possible, though. Because if I have to deal with you and Osako going through monumental personality changes at once, I’m not sure how I’m going to process it.",
+      "en": ": Maybe be a little {i}less{/i} sorry if possible, though. Because if I have to deal with you {i}and{/i} Osako going through monumental personality changes at once, I’m not sure how I’m going to process it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不过你要是能少道歉点就更好了。因为如果你和 Osako 同时进行里程碑式的性格大改造，我真不确定该怎么消化。"
+      "zh": ": 不过你要是能{i}少{/i}道歉点就更好了。因为如果你{i}和{/i} Osako 同时进行里程碑式的性格大改造，我真不确定该怎么消化。"
     },
     {
       "en": ": I’ll go back to normal shortly. I just wanted to be vulnerable for a little while. And while all logic says I should do that as far away from you as possible, I decided to challenge it.",
@@ -898,8 +898,8 @@
       "zh": "我知道把东西憋太久、憋到压力撑不住是什么滋味。所以我不会因为她现在比平时更像个普通人而看轻她。"
     },
     {
-      "en": "I’m just thankful and...surprised that she’s willing to break in front of me.",
-      "zh": "我只是很感激、也很意外——她愿意在我面前崩溃。"
+      "en": "I’m just thankful and...{i}surprised{/i} that she’s willing to break in front of me. ",
+      "zh": "我只是很感激、也很{i}意外{/i}——她愿意在我面前崩溃。"
     },
     {
       "en": "For while I might not be good at collecting and reassembling the pieces, I love the way they look when the light hits them just right.",
@@ -1017,10 +1017,10 @@
       "zh": ": 也许吧……不过有别人在的时候不行。我可不想让任何人知道我其实很喜欢你。"
     },
     {
-      "en": ": Yeah, why do you like me anyway?",
+      "en": ": Yeah, why {i}do{/i} you like me anyway?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 话说你到底为什么喜欢我？"
+      "zh": ": 话说你{i}到底{/i}为什么喜欢我？"
     },
     {
       "en": ": Shut up, Arakawa. This is my time to be sad. We’re talking about me right now. So shower me in compliments until I stop crying. That’s an order.",
@@ -1080,10 +1080,10 @@
       "zh": ": 你……闻起来很香？"
     },
     {
-      "en": ": I just told you to be less creepy! How can you be this bad at simply hugging someone?!",
+      "en": ": I {i}just{/i} told you to be less creepy! How can you be {i}this{/i} bad at simply hugging someone?!",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 我刚说少点变态！你怎么能连「单纯抱个人」都做得这么烂？！"
+      "zh": ": 我{i}刚{/i}说少点变态！你怎么能连「单纯抱个人」都做得{i}这么{/i}烂？！"
     },
     {
       "en": ""
@@ -1148,8 +1148,8 @@
       "en": ""
     },
     {
-      "en": "Instead of pressing her about it and capitalizing on my free hug pass, though, I skip right to the point. Because, the quicker she feels normal, the quicker things become normal.",
-      "zh": "不过我没有追问她，也没有趁机兑现我的「免费拥抱券」，而是直奔主题。因为她越快觉得自己正常，一切就越快回到正轨。"
+      "en": "Instead of pressing her about it and capitalizing on my free hug pass, though, I skip right to the point. Because, the quicker she feels normal, the quicker things {i}become{/i} normal.",
+      "zh": "不过我没有追问她，也没有趁机兑现我的「免费拥抱券」，而是直奔主题。因为她越快觉得自己正常，一切就越快{i}回到正轨{/i}。"
     },
     {
       "en": "And if I’m going to be following Osako on her path to self-acceptance, I don’t want any commentary to lead me down some road less traveled.",
@@ -1230,10 +1230,10 @@
       "zh": ": 我真不敢相信自己居然让你看到了我的裸体——哪怕是在四人行的混乱之中。"
     },
     {
-      "en": ": I can’t believe Osako allowed me to see your naked body. That’s the real surprise here.",
+      "en": ": I can’t believe {i}Osako{/i} allowed me to see your naked body. That’s the real surprise here.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我真不敢相信 Osako 让我看了你的裸体。这里真正的意外是这个。"
+      "zh": ": 我真不敢相信 {i}Osako{/i} 让我看了你的裸体。这里真正的意外是这个。"
     },
     {
       "en": ""
@@ -1251,10 +1251,10 @@
       "en": ""
     },
     {
-      "en": ": Yeah, that was...odd. But I suppose it...might have been her first step?",
+      "en": ": Yeah, that was...{i}odd.{/i} But I suppose it...might have been her first step?",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 是啊，那件事……挺奇怪的。不过我想……也许那是她的第一步？"
+      "zh": ": 是啊，那件事……挺{i}奇怪{/i}的。不过我想……也许那是她的第一步？"
     },
     {
       "en": ": Not gonna lie, that is one hell of a “first step.” Usually it’s haircut first, foursome second.",
@@ -1284,10 +1284,10 @@
       "en": ""
     },
     {
-      "en": ": No, fuck it. No more of this depressing stuff. There’s enough of that to go around already. What we need is food and alcohol.",
+      "en": ": No, fuck it. No more of this depressing stuff. There’s enough of that to go around already. What {i}we{/i} need is food and alcohol.",
       "spk": "Wakana",
       "spkColor": "#FF00FF",
-      "zh": ": 不，去它的。别再说这些丧气事了。丧气事已经够多了。我们需要的是食物和酒。"
+      "zh": ": 不，去它的。别再说这些丧气事了。丧气事已经够多了。{i}我们{/i}需要的是食物和酒。"
     },
     {
       "en": ": Have we already reached that point of the recovery process?",
@@ -1355,8 +1355,8 @@
       "en": ""
     },
     {
-      "en": "Wakana’s affection has increased to [wakana_love]!",
-      "zh": "Wakana 的好感度提升到了 [wakana_love]！"
+      "en": "{i}Wakana’s affection has increased to [wakana_love]!{/i}",
+      "zh": "{i}Wakana 的好感度提升到了 [wakana_love]！{/i}"
     },
     {
       "en": ".........",

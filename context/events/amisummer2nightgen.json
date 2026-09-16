@@ -1,6 +1,6 @@
 {
   "label": "amisummer2nightgen",
-  "title_zh": "沙发上的夜晚",
+  "title_zh": "amisummer2nightgen",
   "lines": [
     {
       "en": ""
@@ -26,16 +26,16 @@
       "zh": "我打电话给 Ami，得知她正窝在家里无所事事，于是决定今晚早点收工，过去陪她。"
     },
     {
-      "en": "I’m forced asked to stop at the convenience store for what she describes as “a disgusting amount of ice cream” but get confused once I arrive as there is no amount of ice cream that I would find disgusting.",
-      "zh": "我被迫答应在便利店停一下，买她口中的「多得恶心的冰淇淋」；可我一进店就困惑了——因为冰淇淋再多，我也不觉得有什么恶心的。"
+      "en": "I’m {s}forced{/s} asked to stop at the convenience store for what she describes as “a disgusting amount of ice cream” but get confused once I arrive as there is no amount of ice cream that I would find disgusting.",
+      "zh": "我{s}被迫{/s}答应在便利店停一下，买她口中的「多得恶心的冰淇淋」；可我一进店就困惑了——因为冰淇淋再多，我也不觉得有什么恶心的。"
     },
     {
       "en": "As such, I pick up as much as I’m willing to carry and make it back home to a fresh plate of dinner that I devour almost instantaneously.",
       "zh": "于是我拎了些我扛得动的量回家，外加一盘刚做好的晚饭，我几乎是一口气吞了下去。"
     },
     {
-      "en": "Dinner is succeeded by a trip to Ami’s bedroom where the two of us sit on her couch as she shows me what I would describe as “a disgusting amount of cat videos.”",
-      "zh": "晚饭之后转场到 Ami 的卧室，我俩坐在她的小沙发上，她给我看我觉得可以说是「多得恶心的猫片」。"
+      "en": "Dinner is succeeded by a trip to Ami’s bedroom where the two of us sit on her couch as she shows me what {i}I{/i} would describe as “a disgusting amount of cat videos.”",
+      "zh": "晚饭之后转场到 Ami 的卧室，我俩坐在她的小沙发上，她给我看{i}我{/i}觉得可以说是「多得恶心的猫片」。"
     },
     {
       "en": "This goes on for almost one hour before I toss her phone across the room and drag her back out into the living room so we can watch a movie.",
@@ -73,8 +73,8 @@
       "zh": "所幸她不介意我从头说到尾，我俩东拉西扯地聊，聊她的工作，聊她开始不那么讨厌夏天的高温了。"
     },
     {
-      "en": "I have no idea how given that this summer has been so hot that even our air conditioner is struggling to keep up with it, but I guess she’s free to like whatever she wants.",
-      "zh": "我是不明白她怎么办到的——今年夏天热得连空调都快扛不住了——不过她爱喜欢什么就喜欢什么吧。"
+      "en": "I have no idea {i}how{/i} given that this summer has been so hot that even our air conditioner is struggling to keep up with it, but I guess she’s free to like whatever she wants.",
+      "zh": "我是不明白她{i}怎么{/i}办到的——今年夏天热得连空调都快扛不住了——不过她爱喜欢什么就喜欢什么吧。"
     },
     {
       "en": "We fall asleep together on the couch and I wake up about an hour later to find that the TV has already turned off.",
@@ -95,8 +95,8 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]！"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]！{/i}"
     },
     {
       "en": ".........",

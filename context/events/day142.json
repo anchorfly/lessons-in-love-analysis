@@ -742,10 +742,10 @@
       "zh": ": 我想是吧。我其实还没定下任何具体的计划。"
     },
     {
-      "en": ": Well, if you do decide on that as where you want to bring us...I’ve been to the inn there with family before.",
+      "en": ": Well, if you {i}do{/i} decide on that as where you want to bring us...I’ve been to the inn there with family before.",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 那……如果你决定带我们去那里的话……我以前和家人去过那边的旅馆。"
+      "zh": ": 那……如果你{i}决定{/i}带我们去那里的话……我以前和家人去过那边的旅馆。"
     },
     {
       "en": ": It’s not very large, but I think we should be able to fit everyone in two or three rooms.",
@@ -841,16 +841,16 @@
       "en": ""
     },
     {
-      "en": ": MY Sensei? Sleeping on a bus? Are you out of your mind?",
+      "en": ": {i}MY{/i} Sensei? Sleeping on a {i}bus{/i}? Are you out of your mind?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 我的 Sensei？睡大巴上？你疯了吗？"
+      "zh": ": {i}我的{/i} Sensei？睡{i}大巴{/i}上？你疯了吗？"
     },
     {
-      "en": ": He’s going to sleep in the bed with me. You can sleep on the bus.",
+      "en": ": He’s going to sleep in the bed with me. {i}You{/i} can sleep on the bus.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 他要和我睡床上。你睡大巴去。"
+      "zh": ": 他要和我睡床上。{i}你{/i}睡大巴去。"
     },
     {
       "en": ": If he’s actually going to be sleeping in the bed with you then yes, I will sleep on the bus.",
@@ -1447,8 +1447,8 @@
       "en": ""
     },
     {
-      "en": "Rin’s affection has increased to [rin_love]!",
-      "zh": "Rin 的好感度提升到了 [rin_love]！"
+      "en": "{i}Rin’s affection has increased to [rin_love]!{/i}",
+      "zh": "{i}Rin 的好感度提升到了 [rin_love]！{/i}"
     },
     {
       "en": ".........",

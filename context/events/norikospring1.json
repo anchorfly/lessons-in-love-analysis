@@ -65,8 +65,8 @@
       "zh": "而对我来说，某件对她而言是幸福回忆的事，也许就是一场噩梦。所以我必须小心。"
     },
     {
-      "en": "I can learn.",
-      "zh": "我可以去学。"
+      "en": "I {i}can{/i} learn.",
+      "zh": "我{i}可以{/i}去学。"
     },
     {
       "en": "I just don’t want to.",
@@ -97,10 +97,10 @@
       "en": ""
     },
     {
-      "en": ": Onii-chan?",
+      "en": ": {i}Onii-chan?{/i}",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": Onii-chan？"
+      "zh": ": {i}Onii-chan？{/i}"
     },
     {
       "en": ": Not legally or biologically, but somewhat historically. And history dictates that it’s normal for me to call him that while we’re in here!",
@@ -121,10 +121,10 @@
       "zh": ": 对，那只让它变得他妈的又怪又恶心。"
     },
     {
-      "en": ": I mean...I don’t think I’d go that far.",
+      "en": ": I mean...I don’t think I’d go {i}that{/i} far.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我是说……我觉得没到那个地步吧。"
+      "zh": ": 我是说……我觉得没到{i}那个{/i}地步吧。"
     },
     {
       "en": ""
@@ -211,10 +211,10 @@
       "zh": ": 但你和我？我们有别的事要做。主要是「联络感情」那一类的，因为你现在把我当中间那个孩子看，都不让我像以前那样爱你了。"
     },
     {
-      "en": ": So is he your brother or your dad? I don’t get this relationship.",
+      "en": ": So is he your {i}brother{/i} or your dad? I don’t get this relationship.",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 那他到底是你哥还是你爸？我搞不懂你们这关系。"
+      "zh": ": 那他到底是你{i}哥{/i}还是你爸？我搞不懂你们这关系。"
     },
     {
       "en": ""
@@ -271,10 +271,10 @@
       "en": ""
     },
     {
-      "en": ": Which means that you and I are free!",
+      "en": ": Which means that you and I are {i}free!{/i}",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 也就是说，你和我自由啦！"
+      "zh": ": 也就是说，你和我{i}自由{/i}啦！"
     },
     {
       "en": ": From your shift? Sure. From the never-ending cycle of misery that blankets this school year in doubt and misfortune like snow over the Arctic plains? Nope. No one is free from that.",
@@ -325,10 +325,10 @@
       "en": ""
     },
     {
-      "en": ": I do, actually. Purging isn’t good for your teeth. Or really anything for that matter. So keep all of that stuff inside you while we get out of your hair! Which looks very beautiful, by the way. Which shampoo do you use?",
+      "en": ": I do, actually. Purging isn’t good for your teeth. Or really anything for that matter. So keep all of that stuff inside you while {i}we{/i} get out of your hair! Which looks very beautiful, by the way. Which shampoo do you use?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我确实介意。催吐对牙齿不好。说实话对什么都不好。所以趁我们赶紧从你眼前消失，把那些东西都留在肚子里吧！顺便说一句，你的头发看起来很漂亮。你用的是哪种洗发水？"
+      "zh": ": 我确实介意。催吐对牙齿不好。说实话对什么都不好。所以趁{i}我们{/i}赶紧从你眼前消失，把那些东西都留在肚子里吧！顺便说一句，你的头发看起来很漂亮。你用的是哪种洗发水？"
     },
     {
       "en": ": Uhh...I ain’t sure. But I hope we’re havin’ another one of those fuckin’ hotel parties soon because I’m running low on whatever it is.",
@@ -349,10 +349,10 @@
       "zh": ": 总比花钱买强吧，不是吗？"
     },
     {
-      "en": ": Some may call her cheap. I call her resourceful.",
+      "en": ": Some may call her cheap. {i}I{/i} call her resourceful. ",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 有人会说她小气。我管这叫会过日子。"
+      "zh": ": 有人会说她小气。{i}我{/i}管这叫会过日子。"
     },
     {
       "en": ": She’ll look gorgeous as my maid of honor on our wedding day. And save me so much money as well.",
@@ -361,10 +361,10 @@
       "zh": ": 她在我们婚礼上当伴娘一定美极了。而且还能帮我省下好多钱。"
     },
     {
-      "en": ": Blch!...Sorry...I’ll be right back!",
+      "en": ": {i}Blch!...{/i}Sorry...I’ll be right back!",
       "spk": "Yumi",
       "spkColor": "#FF4949",
-      "zh": ": 呕哇！……抱歉……我马上回来！"
+      "zh": ": {i}呕哇{/i}！……抱歉……我马上回来！"
     },
     {
       "en": ""
@@ -394,7 +394,7 @@
       "zh": "她从不离开，因为她离不开。而只要我按对了按钮，她就会给我任何我想要的东西。"
     },
     {
-      "en": "When she looks at me, I instinctively look away. I’m not sure if it’s because I’m embarrassed or not when I don’t have anything specific to be embarrassed about, but it certainly feels that way.",
+      "en": "When she looks at me, I instinctively look away. I’m not sure if it’s because I’m embarrassed or not when I don’t have anything specific to be embarrassed {i}about,{/i} but it certainly feels that way.",
       "zh": "她看我的时候，我会本能地移开视线。我不确定这是不是因为害羞——我并没有什么具体该害羞的事——但感觉上确实就是那样。"
     },
     {
@@ -440,16 +440,16 @@
       "zh": "她的兴奋——像一只忠犬那样——在我安顿下来之后就消退了。只是最初的冲击才让她的尾巴摇了起来。"
     },
     {
-      "en": "I’m sure she’s thinking of what we’re supposed to talk about now. And I hate that she has to do that — but it’s the result of me being a terrible owner.",
-      "zh": "我敢说她正在想，我们现在该聊些什么。而我讨厌她不得不这么做——但那都是因为我这个主人当得太糟糕。"
+      "en": "I’m sure she’s thinking of what we’re supposed to talk about now. And I hate that she has to do that — but it’s the result of {i}me{/i} being a terrible owner.",
+      "zh": "我敢说她正在想，我们现在该聊些什么。而我讨厌她不得不这么做——但那都是因为{i}我{/i}这个主人当得太糟糕。"
     },
     {
-      "en": "You see, “settling in” for me is more like taking my clothes off and pulling my knees to my chest in the corner of the room. Of course a dog’s excitement would fade if it had to watch such a thing.",
-      "zh": "你要知道，对我来说「安顿下来」更像是脱掉衣服、把膝盖抱到胸前，缩在房间的角落里。一只狗要是得看着这种场面，兴奋劲儿当然会消退。"
+      "en": "You see, “settling in” for me is more like taking my clothes off and pulling my knees to my chest in the corner of the room. {i}Of course{/i} a dog’s excitement would fade if it had to watch such a thing.",
+      "zh": "你要知道，对我来说「安顿下来」更像是脱掉衣服、把膝盖抱到胸前，缩在房间的角落里。一只狗要是得看着这种场面，兴奋劲儿{i}当然{/i}会消退。"
     },
     {
-      "en": "But she’ll figure out what to do and what I need soon enough because she’s the mature one here.",
-      "zh": "但她很快就会想明白该做什么、我需要什么，因为在这段关系里，成熟的那个人是她。"
+      "en": "But she’ll figure out what to do and what I need soon enough because {i}she’s{/i} the mature one here. ",
+      "zh": "但她很快就会想明白该做什么、我需要什么，因为在这段关系里，成熟的那个人是{i}她{/i}。"
     },
     {
       "en": ""
@@ -505,10 +505,10 @@
       "zh": ": 我在努力担起父亲这个角色，但不可否认，对 Ami 来说，母亲大概会更好。而我觉得 Niki 比任何人都更适合那个位置。"
     },
     {
-      "en": ": Yeah. Guess it wouldn’t make much sense for me to be Ami’s mother figure when we’re almost the same age.",
+      "en": ": Yeah. Guess it wouldn’t make much sense for {i}me{/i} to be Ami’s mother figure when we’re almost the same age.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 是啊。我们年纪本来就差不多，让我来当 Ami 的母亲角色，确实说不通。"
+      "zh": ": 是啊。我们年纪本来就差不多，让{i}我{/i}来当 Ami 的母亲角色，确实说不通。"
     },
     {
       "en": ""
@@ -544,10 +544,10 @@
       "zh": ": 那我需要做什么？把岗位说明书扔给我吧，老师。也许我该加入战局，跟姐竞争一番，然后再输掉第一百万次？"
     },
     {
-      "en": ": Would you even want a role like that in the first place? You’re young. I thought you still wanted to figure out who you are and all that?",
+      "en": ": Would you even {i}want{/i} a role like that in the first place? You’re young. I thought you still wanted to {i}figure out who you are{/i} and all that?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你一开始真的想要那样的角色吗？你还年轻。我以为你还想弄清自己是谁之类的？"
+      "zh": ": 你一开始真的{i}想要{/i}那样的角色吗？你还年轻。我以为你还想{i}弄清自己是谁{/i}之类的？"
     },
     {
       "en": ""
@@ -586,10 +586,10 @@
       "en": ""
     },
     {
-      "en": ": So I guess maybe I really am screwed if that’s going to be part of the criteria now.",
+      "en": ": So I guess maybe I really {i}am{/i} screwed if that’s going to be part of the criteria now. ",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 那这么看来，如果这也要算进条件里，我大概是真的没戏了。"
+      "zh": ": 那这么看来，如果这也要算进条件里，我大概{i}是{/i}真的没戏了。"
     },
     {
       "en": ": Oh well. It was a good run. All that’s left to do now is wait for gay marriage to be legalized so I can marry Kirin and open a sex shop or something.",
@@ -604,10 +604,10 @@
       "zh": ": 你在镇上可是有强劲的竞争对手的，Noriko。别以为那条路会好走。要不干脆接手你爸妈的餐馆？"
     },
     {
-      "en": ": Kirin would look hot in a qipao. But again, this is all just fantasy-talk and not a thing I’m actually considering. Which I need to verbally clarify so you don’t misunderstand and think I’m actually quitting you.",
+      "en": ": Kirin {i}would{/i} look hot in a qipao. But again, this is all just fantasy-talk and not a thing I’m actually considering. Which I need to verbally clarify so you don’t misunderstand and think I’m actually quitting you.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": Kirin 穿旗袍一定很辣。不过再说一次，这些都只是幻想闲聊，不是我真的在考虑的事。我得口头澄清一下，免得你误会，以为我真的要把你甩了。"
+      "zh": ": Kirin 穿旗袍一定很辣。不过再说一次，这些都只是幻想闲聊，不是我真的在考虑的事。我得口头澄清一下，免得你误{i}会{/i}，以为我真的要把你甩了。"
     },
     {
       "en": ": I never figured you were in the first place. I’m not sure what you’d even do with yourself if you weren’t too busy chasing after me all the time.",
@@ -622,10 +622,10 @@
       "zh": ": 就像我说的，只是确认一下。我们没必要在我这个冒牌兄控这件事上纠缠太久，已经够久了。"
     },
     {
-      "en": ": Especially when there’s something I actually want to talk about tonight.",
+      "en": ": Especially when there’s something I actually {i}want{/i} to talk about tonight.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 尤其是今晚我还有一件真正想谈的事。"
+      "zh": ": 尤其是今晚我还有一件真正{i}想{/i}谈的事。"
     },
     {
       "en": ": Oh good. Late night talks always go really well for me.",
@@ -830,10 +830,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": Come on...don’t look at me like that. You make me talk about stuff I’m not 100%% comfortable with all the time. Can’t you bear with me for a second just to hear me out?",
+      "en": ": Come on...don’t look at me like that. You make me talk about stuff {i}I’m{/i} not 100%% comfortable with all the time. Can’t you bear with me for a second just to hear me out?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 拜托……别那样看我。你一直都在逼我谈论那些我不是 100%% 自在的事情。你就不能忍一忍，听我把话说完吗？"
+      "zh": ": 拜托……别那样看我。你一直都在逼我谈论那些{i}我{/i}不是 100%% 自在的事情。你就不能忍一忍，听我把话说完吗？"
     },
     {
       "en": ""
@@ -857,16 +857,16 @@
       "zh": ": 嗯，抱歉。只是……太出乎我意料了。"
     },
     {
-      "en": ": You’re still seeing her outside of school, right? Because the last thing she said to me was actually during the Dorm Wars and it was about going to look for you.",
+      "en": ": You’re still seeing her outside of school, right? Because the last thing she said to me was actually {i}during{/i} the Dorm Wars and it was about going to look for {i}you.{/i} ",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 你在校外还见她，对吧？因为她最后一次跟我说话，其实就是在宿舍大战的时候，说的是要去找你。"
+      "zh": ": 你在校外还见她，对吧？因为她最后一次跟我说话，其实就是{i}在{/i}宿舍大战的时候，说的是要去找{i}你{/i}。"
     },
     {
-      "en": ": She bailed on the whole competition to do that. And while that part of her isn’t something I’d call unusual...everything else kind of has been.",
+      "en": ": She bailed on the whole competition to do that. And while {i}that{/i} part of her isn’t something I’d call unusual...everything else kind of has been.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 她为了去找你，直接放弃了整场比赛。虽说她那一点我倒不觉得反常……可其他的一切都很反常。"
+      "zh": ": 她为了去找你，直接放弃了整场比赛。虽说她{i}那{/i}一点我倒不觉得反常……可其他的一切都很反常。"
     },
     {
       "en": ""
@@ -884,10 +884,10 @@
       "en": ""
     },
     {
-      "en": ": Maya and I...haven’t made as much progress as I would have liked since I transferred in. But we at least made something.",
+      "en": ": Maya and I...haven’t made as much progress as I would have liked since I transferred in. But we at least made {i}something.{/i}",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 自我转学过来以后，Maya 和我……取得的进展并没有我希望的那么多。但我们至少做出了一点东西。"
+      "zh": ": 自我转学过来以后，Maya 和我……取得的进展并没有我希望的那么多。但我们至少做出了{i}一点东西{/i}。"
     },
     {
       "en": ": Things changed a little bit. That...one-sided resentment she has for me never faded, but I could feel her starting to, like...I don’t know...resign herself maybe?",
@@ -902,16 +902,16 @@
       "zh": ": 有点像是那种……「你待你那边，我待我这边」的局面，可是……"
     },
     {
-      "en": ": I mean, I guess that isn’t entirely accurate either since that’s why she still hates me in the first place. I think. I don’t know.",
+      "en": ": I mean, I guess {i}that{/i} isn’t entirely accurate either since that’s why she still hates me in the first place. I think. I don’t know.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我是说，我想那也不完全准确，因为那本来就是她至今还恨我的原因。我想。我也不知道。"
+      "zh": ": 我是说，我想{i}那{/i}也不完全准确，因为那本来就是她至今还恨我的原因。我想。我也不知道。"
     },
     {
-      "en": ": She’s always hated me and I’ve never really understood why. But the point is that I felt like her hatred was starting to fade and...",
+      "en": ": She’s always hated me and I’ve never really understood {i}why.{/i} But the point is that I felt like her hatred was starting to fade and...",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 她一直都恨我，而我从来没真正搞懂为什么。但重点是，我感觉她的恨意开始淡了，然后……"
+      "zh": ": 她一直都恨我，而我从来没真正搞懂{i}为什么{/i}。但重点是，我感觉她的恨意开始淡了，然后……"
     },
     {
       "en": ""
@@ -935,10 +935,10 @@
       "zh": ": 突然之间，它又完全变回了我刚转学来时的样子。"
     },
     {
-      "en": ": So I was wondering if you’ve also noticed anything or...if I really am just going crazy.",
+      "en": ": So I was wondering if you’ve {i}also{/i} noticed anything or...if I really am just going crazy.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 所以我想知道，你是不是也注意到了什么……或者我真的只是在发疯。"
+      "zh": ": 所以我想知道，你是不是{i}也{/i}注意到了什么……或者我真的只是在发疯。"
     },
     {
       "en": ""
@@ -956,10 +956,10 @@
       "en": ""
     },
     {
-      "en": ": She is different...",
+      "en": ": She {i}is{/i} different...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 她确实不一样了……"
+      "zh": ": 她{i}确实{/i}不一样了……"
     },
     {
       "en": ": Right?! I fucking knew it! But everyone I’ve tried talking to about it has been all like, “Really? She seems the same to me.” And I’m just over here like ppfhfbfbfhfbttt?!?!! Are you BLIND?!",
@@ -974,10 +974,10 @@
       "zh": ": 去问问 Ayane……她会同意你的……"
     },
     {
-      "en": ": She’s noticed it too, then? Well, what is it? If you can tell me, I mean. If it’s something personal, I probably shouldn’t pry. It was just weird to me that she started being so...well, weird all of a sudden and-",
+      "en": ": She’s noticed it too, then? Well, what is it? If you can tell me, I mean. If it’s something personal, I probably shouldn’t pry. It was just weird to me that she started being so...well, {i}weird{/i} all of a sudden and-",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 那她也注意到了？那到底是什么？我是说，如果你能告诉我的话。如果是私事，我大概不该追问。只是我觉得很奇怪，她突然变得那么……嗯，那么怪，然后——"
+      "zh": ": 那她也注意到了？那到底是什么？我是说，如果你能告诉我的话。如果是私事，我大概不该追问。只是我觉得很奇怪，她突然变得那么……嗯，那么{i}怪{/i}，然后——"
     },
     {
       "en": ""
@@ -1013,10 +1013,10 @@
       "zh": ": 我不知道该怎么跟你谈这件事。"
     },
     {
-      "en": ": And it’s probably going to make me sound insane, but I’m beginning to wonder if I am insane and so...maybe that’s not really the worst thing possible.",
+      "en": ": And it’s probably going to make me sound insane, but I’m beginning to wonder if I {i}am{/i} insane and so...maybe that’s not really the worst thing possible.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 说出来大概会让我听起来像疯了，但我已经开始怀疑自己是不是真的疯了，所以……也许那也不算最糟的可能。"
+      "zh": ": 说出来大概会让我听起来像疯了，但我已经开始怀疑自己是不是{i}真的{/i}疯了，所以……也许那也不算最糟的可能。"
     },
     {
       "en": ": Tell me anything you’re comfortable with and not a word more. I’m not trying to play detective here, I just want an idea of what’s going on so I know how to approach her.",
@@ -1031,10 +1031,10 @@
       "zh": ": Noriko……我回到学校时提过的那个人……我失去的那个人……"
     },
     {
-      "en": ": I was talking about her.",
+      "en": ": I was talking about {i}her.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我说的是她。"
+      "zh": ": 我说的是{i}她{/i}。"
     },
     {
       "en": ""
@@ -1058,10 +1058,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": I do still see her outside of school sometimes, but it’s more like I’m seeing her reflection. Or someone walking around in her skin while the real her is just...gone.",
+      "en": ": I {i}do{/i} still see her outside of school sometimes, but it’s more like I’m seeing her reflection. Or someone walking around in her skin while the {i}real{/i} her is just...gone.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我在校外有时确实还会见到她，但那更像是看到了她的倒影。或者说是有人披着她的皮在四处走动，而真正的她已经……不在了。"
+      "zh": ": 我在校外有时{i}确实{/i}还会见到她，但那更像是看到了她的倒影。或者说是有人披着她的皮在四处走动，而{i}真正{/i}的她已经……不在了。"
     },
     {
       "en": ": Like everything we've seen and felt together over the last few years is just...",
@@ -1076,10 +1076,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": It's just...not her...",
+      "en": ": It's just...not {i}her...{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 都只是……不是她了……"
+      "zh": ": 都只是……不是{i}她{/i}了……"
     },
     {
       "en": ": Is this...",
@@ -1088,10 +1088,10 @@
       "zh": ": 这是不是……"
     },
     {
-      "en": ": Is this anything like that memory thing that happened to you?...",
+      "en": ": Is this anything like that memory thing that happened to {i}you?...{/i}",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 是不是有点像你身上发生过的那个记忆的事？……"
+      "zh": ": 是不是有点像{i}你{/i}身上发生过的那个记忆的事？……"
     },
     {
       "en": ""
@@ -1109,10 +1109,10 @@
       "en": ""
     },
     {
-      "en": ": It’s exactly like that. The same thing that happened to me happened to her. But I’m not sure if I can word it any differently than that without causing your brain to start instinctively interrupting me and-",
+      "en": ": It’s {i}exactly{/i} like that. The same thing that happened to me happened to her. But I’m not sure if I can word it any differently than that without causing your brain to start instinctively interrupting me and-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 就跟那个一模一样。发生在我身上的事，发生在了她身上。但我不确定自己还能不能换个说法，而不让你的大脑本能地开始打断我，而且——"
+      "zh": ": 就跟那个{i}一模一样{/i}。发生在我身上的事，发生在了她身上。但我不确定自己还能不能换个说法，而不让你的大脑本能地开始打断我，而且——"
     },
     {
       "en": ": But, Sensei...",
@@ -1181,10 +1181,10 @@
       "en": ""
     },
     {
-      "en": ": No...No, it’s not the same thing that happened to me then...",
+      "en": ": No...No, it’s {i}not{/i} the same thing that happened to me then...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不……不，那跟发生在我身上的事并不一样……"
+      "zh": ": 不……不，那跟发生在我身上的事并{i}不{/i}一样……"
     },
     {
       "en": ": But how do you know that?",
@@ -1346,12 +1346,12 @@
       "zh": "我不确定自己现在还走不走得动。"
     },
     {
-      "en": "And I know that Noriko would be more than happy to stay with me, but she knows me. So she knows I want to be alone.",
-      "zh": "我知道 Noriko 会很乐意留下来陪我，但她了解我。所以她知道我想一个人待着。"
+      "en": "And I know that Noriko would be more than happy to stay {i}with{/i} me, but she knows me. So she knows I want to be alone.",
+      "zh": "我知道 Noriko 会很乐意留下来{i}陪{/i}我，但她了解我。所以她知道我想一个人待着。"
     },
     {
-      "en": "But the worst part is that I didn’t even have it in me to thank her for giving me the first taste of hope I’ve had since she vanished.",
-      "zh": "但最糟的是，我连一句谢谢都说不出口——谢谢她给了我在那个人消失之后的第一丝希望。"
+      "en": "But the worst part is that I didn’t even have it in me to thank her for giving me the first taste of hope I’ve had since {i}she{/i} vanished.",
+      "zh": "但最糟的是，我连一句谢谢都说不出口——谢谢{i}她{/i}给了我在那个人消失之后的第一丝希望。"
     },
     {
       "en": "Is it really possible that she’s actually in there?...",
@@ -1362,8 +1362,8 @@
       "zh": "如果是的话……我该怎么把她带回来？"
     },
     {
-      "en": "Do I just do what she did and...ignore her until she figures it out herself?",
-      "zh": "我要不要就照她当初的做法……无视她，直到她自己想明白？"
+      "en": "Do I just do what {i}she{/i} did and...ignore her until she figures it out herself?",
+      "zh": "我要不要就照{i}她{/i}当初的做法……无视她，直到她自己想明白？"
     },
     {
       "en": "What happens if I break her again?...",
@@ -1400,30 +1400,30 @@
       "en": ""
     },
     {
-      "en": "Noriko’s affection increases to [noriko_love], but you’re too busy thinking about another girl to care!",
-      "zh": "Noriko 的好感度提升到了 [noriko_love]，可你正忙着想别的女孩，根本没心思在意！"
+      "en": "{i}Noriko’s affection increases to [noriko_love], but you’re too busy thinking about another girl to care!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]，可你正忙着想别的女孩，根本没心思在意！{/i}"
     },
     {
-      "en": "This always happens to her! You should take this moment as a sign to spend more time with her and then eventually have sex with her because she deserves it!",
-      "zh": "这种事总是发生在她身上！你该把这一刻当作一个信号，多花点时间陪她，然后最终和她做爱，因为这是她应得的！"
+      "en": "{i}This always happens to her! You should take this moment as a sign to spend more time with her and then eventually have sex with her because she deserves it!{/i}",
+      "zh": "{i}这种事总是发生在她身上！你该把这一刻当作一个信号，多花点时间陪她，然后最终和她做爱，因为这是她应得的！{/i}"
     },
     {
-      "en": "Also, she is wrong! Do not have hope! Do not pass Go! Do not collect $200!",
-      "zh": "还有，她是错的！别抱希望！别过起点！别领那两百块！"
+      "en": "{i}Also, she is wrong! Do not have hope! Do not pass Go! Do not collect $200!{/i}",
+      "zh": "{i}还有，她是错的！别抱希望！别过起点！别领那两百块！{/i}"
     },
     {
-      "en": "Go home, cum in a sock, then forget this ever happened!",
-      "zh": "回家，射进袜子里，然后把这一切忘掉！"
-    },
-    {
-      "en": ""
+      "en": "{i}Go home, cum in a sock, then forget this ever happened!{/i}",
+      "zh": "{i}回家，射进袜子里，然后把这一切忘掉！{/i}"
     },
     {
       "en": ""
     },
     {
-      "en": "Goodnight!",
-      "zh": "晚安！"
+      "en": ""
+    },
+    {
+      "en": "{i}Goodnight!{/i}",
+      "zh": "{i}晚安！{/i}"
     },
     {
       "en": ".........",

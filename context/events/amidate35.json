@@ -96,10 +96,10 @@
       "zh": ": 被你猜中了。"
     },
     {
-      "en": ": Tch...",
+      "en": ": {i}Tch...{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 嘁……"
+      "zh": ": {i}嘁……{/i}"
     },
     {
       "en": ": Was that frustration I just heard?",
@@ -807,10 +807,10 @@
       "zh": ": 明明完全不是这么回事,你为什么要说这么可疑的话?"
     },
     {
-      "en": ": Yeah, that just makes me think that’s a thing you would do, Sensei.",
+      "en": ": Yeah, that just makes me think that’s a thing you {i}would{/i} do, Sensei.",
       "spk": "Chika",
       "spkColor": "#AF7F00",
-      "zh": ": 对啊,这么一说,反倒显得这就是你会干的事,Sensei。"
+      "zh": ": 对啊,这么一说,反倒显得这就是你{i}会{/i}干的事,Sensei。"
     },
     {
       "en": ": You know, I’m really not sure why I said that.",
@@ -980,8 +980,8 @@
       "en": ""
     },
     {
-      "en": "This fucking demon...",
-      "zh": "这个该死的恶魔……"
+      "en": "{i}This fucking demon...{/i}",
+      "zh": "{i}这个该死的恶魔……{/i}"
     },
     {
       "en": ""
@@ -1211,8 +1211,8 @@
       "zh": ""
     },
     {
-      "en": "Sure, I try not to view Ami in a sexual light because of...reasons. But it’s absolutely undeniable that she appeals to me in a multitude of ways.",
-      "zh": "诚然,出于……某些原因,我尽量不用那种眼光看 Ami。但她对我的吸引力是多维度的,这一点无可否认。"
+      "en": "Sure, I {i}try{/i} not to view Ami in a sexual light because of...reasons. But it’s absolutely undeniable that she appeals to me in a multitude of ways.",
+      "zh": "诚然,出于……某些原因,我{i}尽量{/i}不用那种眼光看 Ami。但她对我的吸引力是多维度的,这一点无可否认。"
     },
     {
       "en": "There are just certain things you should always be able to say no to, though.",
@@ -1289,10 +1289,10 @@
       "zh": ": 还有……还有马尾呢?也可以吗?"
     },
     {
-      "en": ": My hair goes all over the place in the water and having it bundled up in one tail instead of two might not look as good, but-",
+      "en": ": My hair goes all over the place in the water and having it bundled up in one tail instead of two might not {i}look{/i} as good, but-",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 下水之后头发会到处乱飘,扎成一条马尾可能不如双马尾好看,但是——"
+      "zh": ": 下水之后头发会到处乱飘,扎成一条马尾可能不如双马尾{i}好看{/i},但是——"
     },
     {
       "en": ": It looks great.",
@@ -1438,10 +1438,10 @@
       "zh": ": 我什么都没做。你需要学学自控。"
     },
     {
-      "en": ": I need to learn self-control? You have sex with your [niece].",
+      "en": ": {i}I{/i} need to learn self-control? You have sex with your [niece].",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我需要学自控?你可是和自己的 [niece] 上床。"
+      "zh": ": {i}我{/i}需要学自控?你可是和自己的 [niece] 上床。"
     },
     {
       "en": ": Not that I think that's a problem or anything, obviously.",
@@ -1450,10 +1450,10 @@
       "zh": ": 当然,我不觉得那算什么问题。"
     },
     {
-      "en": ": Okay, we could both do with learning a little self control. But you are the culprit here and I am an innocent man trying to not sully the workplace of one of your peers.",
+      "en": ": Okay, we could {i}both{/i} do with learning a little self control. But you are the culprit here and I am an innocent man trying to not sully the workplace of one of your peers.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 好吧,咱俩都该学学自控。但这里 culprit 是你,而我是一个努力不玷污你同侪工作场所的无辜市民。"
+      "zh": ": 好吧,咱俩{i}都{/i}该学学自控。但这里 culprit 是你,而我是一个努力不玷污你同侪工作场所的无辜市民。"
     },
     {
       "en": ": We can’t even sully it a little bit?",
@@ -1587,8 +1587,8 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]!"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
     },
     {
       "en": ".........",
@@ -1710,10 +1710,10 @@
       "zh": ": 今天开心吗,Sensei?"
     },
     {
-      "en": ": I know it wasn’t like an actual date since we’re always spending time together and stuff...but I really like getting to do things like this with you.",
+      "en": ": I know it wasn’t like an {i}actual{/i} date since we’re always spending time together and stuff...but I really like getting to do things like this with you.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我知道这算不上真正的约会,毕竟我们反正天天黏在一起什么的……但我真的很喜欢和你做这种事。"
+      "zh": ": 我知道这算不上{i}真正的{/i}约会,毕竟我们反正天天黏在一起什么的……但我真的很喜欢和你做这种事。"
     },
     {
       "en": ""
@@ -1812,10 +1812,10 @@
       "zh": ": 你真要问吗?理由有几百个。"
     },
     {
-      "en": ": And there are hundreds of reasons you should do it.",
+      "en": ": And there are hundreds of reasons you {i}should{/i} do it.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 而理由也有几百个,支持你答应。"
+      "zh": ": 而理由也有几百个,{i}支持{/i}你答应。"
     },
     {
       "en": ": If you’re worried about everyone thinking it’s weird because we’re related, I don’t think you have to.",
@@ -1824,10 +1824,10 @@
       "zh": ": 你要是担心大家因为「我们有血缘」而觉得怪,我觉得大可不必。"
     },
     {
-      "en": ": Sure, people will probably think it’s weird at first, but once they see how happy we are, I’m sure they’ll be fine with it.",
+      "en": ": Sure, people will probably think it’s weird {i}at first,{/i} but once they see how happy we are, I’m sure they’ll be fine with it.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 当然,一开始大家多半会觉得怪,但只要看到我们有多幸福,我相信他们会接受的。"
+      "zh": ": 当然,{i}一开始{/i}大家多半会觉得怪,但只要看到我们有多幸福,我相信他们会接受的。"
     },
     {
       "en": ": You think just seeing two people happy together is enough to support them?",
@@ -1986,8 +1986,8 @@
       "zh": "像是一直渗进我的耳朵,指责我和 [niece] 约会,指责我没有像推开其他任何人那样推开她。"
     },
     {
-      "en": "For not telling her that “It won’t be one day.”",
-      "zh": "指责我没有告诉她「那一天不会来」。"
+      "en": "For not telling her that “It {i}won’t{/i} be one day.”",
+      "zh": "指责我没有告诉她「那一天{i}不会{/i}来」。"
     },
     {
       "en": "And for being afraid to steal away her smile just because I know why it looks the way it does- held together by Scotch tape and glue.",
@@ -2079,8 +2079,8 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]!"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
     },
     {
       "en": ".........",

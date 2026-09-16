@@ -1,0 +1,1432 @@
+{
+  "label": "mayachangex",
+  "title_zh": "换衣服",
+  "lines": [
+    {
+      "en": "label mayachangex:",
+      "zh": ""
+    },
+    {
+      "en": "After all, Ayane said I could enter. So it’s not like I’m in the wrong or anything.",
+      "zh": "毕竟 Ayane 说过我可以进来。所以这事也不能算我的错。"
+    },
+    {
+      "en": "I just need to confirm that Ami isn’t in trouble. She should be thanking me.",
+      "zh": "我只是想确认 Ami 没出什么事。她该谢我才对。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哦。"
+    },
+    {
+      "en": ": Sensei! What the heck?! I was trying to tell you to not come in!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 老师！搞什么啊？！我刚才一直在示意你别进来！"
+    },
+    {
+      "en": ": But...Ayane said I could.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可是……Ayane 说我可以。"
+    },
+    {
+      "en": ": Of course I did! I wanted you to see my swimsuit! Super cute, right?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我当然说了！我想让你看看我的泳衣！超可爱吧？"
+    },
+    {
+      "en": ": Yeah, you look great Ayane.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，很好看，Ayane。"
+    },
+    {
+      "en": ": Uhhhhhh...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 呃…………"
+    },
+    {
+      "en": ": Leave?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 要我出去？"
+    },
+    {
+      "en": ": Morning, Maya.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 早上好，Maya。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": “Morning, Maya?” Are you kidding me right now?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 「早上好，Maya？」你开什么玩笑啊？"
+    },
+    {
+      "en": ": Um...Sensei...I don’t...think you should be looking at her when she’s changing...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……老师……我觉得……她在换衣服，你不该看着她……"
+    },
+    {
+      "en": ": Morning, Sana.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 早上好，Sana。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...morning...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……早上好……"
+    },
+    {
+      "en": ": See, Maya? Totally normal. Just a standard greeting exchanged between two people in the morning.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 瞧见没，Maya？很正常。只是两个人在早上互致的标准问候而已。"
+    },
+    {
+      "en": ": You’re disgusting.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你真恶心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How long are you just gonna stand there for?! We’re trying to get changed!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你打算站到什么时候？！我们还要换衣服呢！"
+    },
+    {
+      "en": ": Are you? I didn’t notice.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是吗？我没注意。"
+    },
+    {
+      "en": ": You’re disgusting.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你真恶心。"
+    },
+    {
+      "en": ": You already said that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这句你已经说过了。"
+    },
+    {
+      "en": ": Saying it once didn’t properly convey my feelings on the matter.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 只说一遍不足以表达我对这件事的感受。"
+    },
+    {
+      "en": ": Want to say it a third time just to make sure I know?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 要不要再说第三遍，好让我彻底记住？"
+    },
+    {
+      "en": ": Yes. You’re disgusting.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 要。你真恶心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, umm...on the bright side...at least he didn’t see the two of us naked?",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……往好处想……至少他没看到我们俩光着的样子？"
+    },
+    {
+      "en": ": That’s a plus...right?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 这也算件好事……对吧？……"
+    },
+    {
+      "en": ": Hm? Are you that worried about being seen naked, Sana? I think you’ve got an adorable body!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 嗯？Sana，你这么怕被人看光吗？我觉得你的身材超可爱啊！"
+    },
+    {
+      "en": ": Lots of guys are into that whole “I’m tiny and precious” sort of thing.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 很多男生就吃「娇小又珍贵」这一套。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Uhh...thank you?",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 呃……谢谢？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei, can we get the ball rolling soon? I don’t know if I can wait any longer.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 老师，我们能不能快点开始？我不知道自己还能不能等下去了。"
+    },
+    {
+      "en": ": I’m going to need some clarification before I gravely misinterpret what you mean by that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 在我严重误解你的意思之前，我需要你说明一下。"
+    },
+    {
+      "en": ": She means the beach, dummy! You were supposed to take us there like an hour ago!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 她说的是海滩，笨蛋！你一个小时前就该带我们去了！"
+    },
+    {
+      "en": ": But you’re not even dressed yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可你们连衣服都还没换好。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I KNOW THAT!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我知道啊！"
+    },
+    {
+      "en": ": We {i}were{/i} ready but then got tired of waiting for you to wake up so we were showing each other our swimsuits!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我们{i}本来{/i}都准备好了，可等你起床等得不耐烦，就开始互相展示泳衣了！"
+    },
+    {
+      "en": ": Does Maya’s swimsuit not come with a top?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Maya 的泳衣不带上半截吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you not come with a sense of decency?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你就不能有点羞耻心吗？"
+    },
+    {
+      "en": ": I do not.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我没有。"
+    },
+    {
+      "en": ": You are disgusting.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你真恶心。"
+    },
+    {
+      "en": ": Yeah, you’ve mentioned that a few times now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是啊，这句话你已经说过好几遍了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...maybe it would be best if...Ayane and I talked with you outside the bedroom?",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……要不……我和 Ayane 到卧室外头跟你谈？"
+    },
+    {
+      "en": ": That way...Ami and Maya could finish getting changed and...not be stared at...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 这样……Ami 和 Maya 就能把衣服换完，也不会……被盯着看……"
+    },
+    {
+      "en": ": Yes! What a great idea, Sana! Apparently Sensei needs a reason to not ogle at my friends’ naked bodies!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 对！Sana，这主意太棒了！看来老师需要一个理由，才能不盯着朋友们的裸体看！"
+    },
+    {
+      "en": ": In my defense, no one here is completely naked.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我说句公道话，这里没人是全裸的。"
+    },
+    {
+      "en": ": I can’t even see Maya’s-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我连 Maya 的都看不见——"
+    },
+    {
+      "en": ": One more word and I’ll destroy everything you love.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 再多说一个字，我就毁掉你热爱的一切。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "That’s worrying for several different reasons because I’m pretty sure she {i}could{/i} do something like that.",
+      "zh": "这话从好几个层面都挺吓人的，因为我敢肯定她{i}真做得出{/i}这种事。"
+    },
+    {
+      "en": "I guess I’ve had my fun, though.",
+      "zh": "不过我也玩够了。"
+    },
+    {
+      "en": "If we really are starting that vacation thing today, I’m sure I’ll be seeing plenty of mildly-exposed girls in the near future.",
+      "zh": "如果我们今天真的要开始那趟度假，接下来肯定有的是半遮半露的女生可看。"
+    },
+    {
+      "en": "I shouldn’t spoil all of that fun at once.",
+      "zh": "我不该一次性把乐子都享完。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, just hurry up. We wouldn’t want to be late.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好，快点吧。我们可不想迟到。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": We’re already late!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我们已经迟到了！"
+    },
+    {
+      "en": ": Why are you like this?!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你怎么这样啊？！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": "play sound \"dooropen.mp3\"",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "That’s a good question, Ami. Why {i}am{/i} I like this?",
+      "zh": "问得好，Ami。我为什么{i}是{/i}这副德性？"
+    },
+    {
+      "en": "A better question, though, would be “Why is everyone in my life so cute?”",
+      "zh": "不过更好的问题应该是「为什么我身边的人一个个都这么可爱？」"
+    },
+    {
+      "en": "For real. Think about that for a second. ",
+      "zh": "真的。你好好想想。"
+    },
+    {
+      "en": "Every single one of my students is adorable. Even their moms are attractive.",
+      "zh": "我的每一个学生都可爱得要命。连她们的妈妈都很有魅力。"
+    },
+    {
+      "en": "What did I do to deserve such a blessed life?",
+      "zh": "我到底做了什么，才配得上这么受眷顾的人生？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "play sound \"static.mp3\"",
+      "zh": ""
+    },
+    {
+      "en": "scene whythesky",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with flash",
+      "zh": ""
+    },
+    {
+      "en": "scene beachintro11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro11.webp",
+      "alt": "beachintro11"
+    },
+    {
+      "en": "with flash",
+      "zh": ""
+    },
+    {
+      "en": "stop sound",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heya, Sensei!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 老师好呀！"
+    },
+    {
+      "en": ": Sorry to keep you waiting. We just had to change back into our normal clothes since we’d attract the prying eyes of so many strangers on the bus in our swimsuits.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 抱歉让你久等了。我们刚换回平常的衣服，因为穿泳衣坐公交会招来一堆陌生人窥探的目光。"
+    },
+    {
+      "en": ": Well...Ayane would...I don’t think many people would pay much attention to me.",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……Ayane 会啦……我觉得没多少人会注意我。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro12.webp",
+      "alt": "beachintro12"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’ve gotta stop putting yourself down like that, Sana. Confidence is the most attractive quality in a girl.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": Sana，你别老是这么贬低自己。自信是女生最有魅力的品质。"
+    },
+    {
+      "en": ": You can be a 5/10 but as long as you act like a 10/10 people will get confused and be like “Woah, maybe I {i}do{/i} wanna bone her.”",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 哪怕你只有 5 分，只要表现得有 10 分，别人就会犯迷糊，觉得「哇，好像我{i}真{/i}想上她」。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro13.webp",
+      "alt": "beachintro13"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": A five?! E-Even I thought I was higher than that...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 五分？！我、我还以为自己比这高一点呢……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro14.webp",
+      "alt": "beachintro14"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You are! You’re an 11/10! If I liked girls, I’d ask you to marry me. That’s how cute you are.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你当然不止！你是 11 分！如果我喜欢女生，我早就向你求婚了。你就是这么可爱。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro15.webp",
+      "alt": "beachintro15"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m so confused...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我好混乱……"
+    },
+    {
+      "en": ": That’s fine. The only opinion that {i}really{/i} matters belongs to Sensei anyway. And I’m sure he thought you looked super pretty in your swimsuit. Right, Sensei?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 没关系。反正{i}真正{/i}重要的只有老师的看法。我相信他一定觉得你穿泳衣特别好看。对吧，老师？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "\"Of course\":",
+      "zh": "\"当然\":"
+    },
+    {
+      "en": ": Absolutely. She was so cute that it should be illegal.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。她可爱到简直该被法律禁止。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro16.webp",
+      "alt": "beachintro16"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I-Illegal?! I don’t want to go to jail!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 法、法律禁止？！我可不想坐牢！"
+    },
+    {
+      "en": ": I’m not even done with[school] yet!",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我[school]都还没上完呢！"
+    },
+    {
+      "en": ": See what I mean? Bump up that confidence a bit. ",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 懂我意思了吧？把自信提上来一点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro17.webp",
+      "alt": "beachintro17"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But also don’t get any cuter because I get really jealous whenever Sensei looks at other girls! Hahahahaha!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 不过也别变得更可爱了，因为老师一看别的女生我就会超级吃醋！哈哈哈哈哈！"
+    },
+    {
+      "en": ": Ah! Uhh...I’ll...try...not to?",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 啊！呃……我……尽量？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "\"Eh...\":",
+      "zh": "\"呃……\":"
+    },
+    {
+      "en": ": Ehh...Developing a little more might be good for her...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 呃……再发育一点对她可能有好处……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro18.webp",
+      "alt": "beachintro18"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mmn...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯嗯……"
+    },
+    {
+      "en": ": {i}What the fuck is your problem?{/i}",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": {i}你到底有什么毛病？{/i}"
+    },
+    {
+      "en": ": {i}Sure, her boobs are tiny and she’s under 5 feet tall, but she has plenty to offer.{/i}",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": {i}她的胸是小，身高也不到五英尺，但她有的是别的本事。{/i}"
+    },
+    {
+      "en": ": I...can hear you, Ayane...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我……听得见，Ayane……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro19.webp",
+      "alt": "beachintro19"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It’s okay...Sensei...I know I’m not really the most...grown-up looking girl...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 没关系……老师……我知道自己看起来确实不太……成熟……"
+    },
+    {
+      "en": ": Someone like Ayane is much more...suited to your tastes...That’s okay...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 像 Ayane 那样的才更……合你的口味……没关系的……"
+    },
+    {
+      "en": ": Yes. That may be true. But he should still acknowledge your cuteness, Sana.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 是。也许吧。但他还是该承认你的可爱，Sana。"
+    },
+    {
+      "en": ": This is a transgression that I simply can not overlook.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 这种冒犯我实在无法坐视不理。"
+    },
+    {
+      "en": ": Or at least I will pretend to overlook it and then forget about it after a few minutes because I love him so much.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 或者至少我会假装不在意，然后过几分钟就忘掉，因为我太爱他了。"
+    },
+    {
+      "en": ": This conversation is going places I really didn’t intend.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这话题怎么跑到我完全没想到的方向上去了。"
+    },
+    {
+      "en": ": Of course Sana’s cute. She’s just...you know. Sana.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Sana 当然可爱。她就是……你知道的。Sana。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro18.webp",
+      "alt": "beachintro18"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": My heart aches...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 我的心好痛……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Anyway, sorry to keep you guys waiting. Ami normally comes and wakes me up in the morning.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 总之，抱歉让你们等了。平时早上都是 Ami 来叫醒我的。"
+    },
+    {
+      "en": ": Not sure why she just...didn’t do that today.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不知道她今天怎么就……没来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro20.webp",
+      "alt": "beachintro20"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": She probably just got a little distracted when Sana and I showed up out of nowhere.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 大概是我和 Sana 突然出现，让她有点分心了吧。"
+    },
+    {
+      "en": ": We planned on taking my father’s limo there but realized it might be a little more fun to go with everyone on the bus instead.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我们本来打算坐我爸的豪华轿车去，后来觉得跟大家一块儿坐公交可能更有趣。"
+    },
+    {
+      "en": ": How would public transportation ever be more fun than a limo?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 公共交通怎么可能比豪华轿车更有趣？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro21.webp",
+      "alt": "beachintro21"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Because you’d be there, of course! Duh!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 因为你会在车上啊，当然啦！笨！"
+    },
+    {
+      "en": ": Yeah, but couldn’t you have just asked the limo to stop here and take us all instead?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 话是这么说，可你不能让那辆轿车顺路停这儿、把我们一起捎上吗？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro22.webp",
+      "alt": "beachintro22"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! Wanna go see how comfy Sensei’s couch is?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 嘿！要不要去试试老师的沙发有多舒服？"
+    },
+    {
+      "en": ": Um...O-Okay?...",
+      "spk": "Sana",
+      "spkColor": "#00E77F",
+      "zh": ": 嗯……好、好的吧？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro23.webp",
+      "alt": "beachintro23"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane grabs Sana by the wrist and nearly throws her onto the couch.",
+      "zh": "Ayane 一把抓住 Sana 的手腕，几乎是把她扔到了沙发上。"
+    },
+    {
+      "en": "Within a matter of seconds, I can hear Ami's and Maya’s voices nearing the bedroom door...",
+      "zh": "没过几秒，我就听见 Ami 和 Maya 的声音朝卧室门口靠近……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro24.webp",
+      "alt": "beachintro24"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": "play sound \"dooropen.mp3\"",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你！"
+    },
+    {
+      "en": ": Me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是我。"
+    },
+    {
+      "en": ": What do you think you’re doing barging into my room like that?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你这样闯进我房间，到底想干什么？"
+    },
+    {
+      "en": ": I barge into your room all the time.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我平时也总是闯你房间啊。"
+    },
+    {
+      "en": ": But today I had friends over! Naked friends!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 可今天我有朋友在！还是光着的朋友！"
+    },
+    {
+      "en": ": Partially-naked. And, if anything, this is your fault for letting your friends get undressed in your room.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 半裸而已。再说，要怪也该怪你，是你让朋友在你房间里脱衣服的。"
+    },
+    {
+      "en": ": We’re girls! That’s just a thing we do!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我们是女生啊！我们就是会这样！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I was born the wrong sex.",
+      "zh": "我投错胎了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, whatever. I’m sorry. But what’s done is done.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 行吧，随你怎么说。对不起。但事情已经发生了。"
+    },
+    {
+      "en": ": What do you want me to do? Call off the vacation thing?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你想让我怎么办？取消度假？"
+    },
+    {
+      "en": ": You mean the vacation thing you forgot to wake up on time for?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你是说那个你睡过头、没准时起床的度假？"
+    },
+    {
+      "en": ": Yeah, that one.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 对，就是那个。"
+    },
+    {
+      "en": ": Well...no! But you should at least apologize to Maya!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 当、当然不行！但你至少该跟 Maya 道个歉！"
+    },
+    {
+      "en": ": She’ll just call me disgusting again.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她肯定又会骂我恶心。"
+    },
+    {
+      "en": ": Probably! But if you ever want to see me again, you’ll do the right thing and apologize!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 很有可能！但你要是还想再见到我，就乖乖道歉！"
+    },
+    {
+      "en": ": What, you’re going to run away now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 什么，你现在要跑？"
+    },
+    {
+      "en": ": Maybe!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 也许！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami seems adamant about me apologizing and Maya hasn’t even left the bedroom yet.",
+      "zh": "Ami 看起来非要我道歉不可，而 Maya 到现在都还没出卧室。"
+    },
+    {
+      "en": "Maybe she’s more upset about this than I thought?",
+      "zh": "难道她比我想的还要生气？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, fine. I’ll apologize.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧，好吧。我去道歉。"
+    },
+    {
+      "en": ": Good.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 这才对。"
+    },
+    {
+      "en": ": Maya! You can come out now.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": Maya！你可以出来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro23.webp",
+      "alt": "beachintro23"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami goes to join Ayane and Sana on the couch and, within a matter of seconds, Maya emerges from the bedroom.",
+      "zh": "Ami 走过去和 Ayane、Sana 一起坐到沙发上，没过几秒，Maya 就从卧室里出来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro25.webp",
+      "alt": "beachintro25"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": "play sound \"dooropen.mp3\"",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...So about the barging in thing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……关于我闯进来的事。"
+    },
+    {
+      "en": ": What about it?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 怎么了？"
+    },
+    {
+      "en": ": I’m...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我……"
+    },
+    {
+      "en": ": Ecstatic? Thrilled? Aroused?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 欣喜若狂？激动不已？还是性奋了？"
+    },
+    {
+      "en": ": All three, actually. But more than that, I’m sorry.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 其实三个都有。但更重要的是，我很抱歉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro26.webp",
+      "alt": "beachintro26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No you’re not. ",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你才不抱歉。"
+    },
+    {
+      "en": ": Right now you’re thinking, “Omg. Cute girls. Boobies. Yay!” or something along those lines, aren’t you?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你现在心里想的是「天哪。可爱的女生。奶子。耶！」之类的话吧？"
+    },
+    {
+      "en": ": ...Maybe.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……也许吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro27.webp",
+      "alt": "beachintro27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh. Whatever. Just forget what you saw here.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 唉。算了。把你在这儿看到的都忘掉。"
+    },
+    {
+      "en": ": I’m going to go talk to my friends now. ",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我要去跟我的朋友们说话了。"
+    },
+    {
+      "en": ": Please don’t follow me.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 别跟过来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachintro23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachintro23.webp",
+      "alt": "beachintro23"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Soon enough, I am the only person left standing in the living room as Maya, too, joins the rest of the girls on the couch.",
+      "zh": "没过多久，Maya 也去沙发上和其他女生坐到了一起，客厅里就只剩我一个人站着。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": I’m going to follow her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我要跟过去。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump restofmayachange",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

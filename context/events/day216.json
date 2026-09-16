@@ -46,8 +46,8 @@
       "zh": "我是说塞进苦难里。不是塞进那个人里。"
     },
     {
-      "en": "Forcibly inserting yourself into any person is kind of rude to do.",
-      "zh": "强行把自己塞进任何人，都有点失礼。"
+      "en": "Forcibly inserting yourself into {i}any{/i} person is kind of rude to do.",
+      "zh": "强行把自己塞进{i}任何{/i}人，都有点失礼。"
     },
     {
       "en": "Either way, if I am ever asleep, let me sleep.",
@@ -154,10 +154,10 @@
       "en": ""
     },
     {
-      "en": ": Unfortunately, yes. But what do you want with her?",
+      "en": ": Unfortunately, yes. But what do {i}you{/i} want with her?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 很不幸，见过。不过您找她干什么？"
+      "zh": ": 很不幸，见过。不过{i}您{/i}找她干什么？"
     },
     {
       "en": ": There’s something I need to talk to her about. That’s why I’m acting all suspicious and wandering around the halls right now.",
@@ -181,10 +181,10 @@
       "en": ""
     },
     {
-      "en": ": Come to think of it, she has seemed pretty out of sorts the last few days.",
+      "en": ": Come to think of it, {i}she{/i} has seemed pretty out of sorts the last few days.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 说起来，她这几天确实看起来不太对劲。"
+      "zh": ": 说起来，{i}她{/i}这几天确实看起来不太对劲。"
     },
     {
       "en": ": She left class almost immediately instead of coming over and talking to you.",
@@ -727,10 +727,10 @@
       "zh": ": 那意思是您知道发生了什么？"
     },
     {
-      "en": ": No. It’s more of me wanting to know.",
+      "en": ": No. It’s more of me {i}wanting{/i} to know.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不。更多是我想知道。"
+      "zh": ": 不。更多是我{i}想{/i}知道。"
     },
     {
       "en": ": You’ve been acting strange the last few days.",
@@ -739,10 +739,10 @@
       "zh": ": 你这几天一直很不对劲。"
     },
     {
-      "en": ": And you’ve been acting strange the last few months but I’ve never tried to change you back, have I?",
+      "en": ": And you’ve been acting strange the last few {i}months{/i} but I’ve never tried to change you back, have I?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 您这几个月来也一直很奇怪，可我从来没试着把您变回来，不是吗？"
+      "zh": ": 您这{i}几个月{/i}来也一直很奇怪，可我从来没试着把您变回来，不是吗？"
     },
     {
       "en": ""
@@ -826,16 +826,16 @@
       "zh": ": 如果是这样，我可以向您保证，把我弄坏的人根本不是您。"
     },
     {
-      "en": ": And before you go jumping any guns, let me just say that I’m perfectly aware that I’m the one who broke myself.",
+      "en": ": And before you go {b}jumping{/b} any guns, let me just say that I’m perfectly aware that I’m the one who broke myself.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 在您急着下结论之前，我先说清楚：我非常清楚，弄坏我自己的人就是我自己。"
+      "zh": ": 在您{b}急着{/b}下结论之前，我先说清楚：我非常清楚，弄坏我自己的人就是我自己。"
     },
     {
-      "en": ": Either me or God god.",
+      "en": ": Either me or {s}God{/s} god.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 要么是我，要么是 God god。"
+      "zh": ": 要么是我，要么是 {s}God{/s} god。"
     },
     {
       "en": ""
@@ -859,10 +859,10 @@
       "zh": ": 可是根本没有神！不可能有！"
     },
     {
-      "en": ": No god would let that happen!",
+      "en": ": No god would let {b}that{/b} happen!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 没有哪个神会容许那种事发生！"
+      "zh": ": 没有哪个神会容许{b}那种事{/b}发生！"
     },
     {
       "en": ""
@@ -892,8 +892,8 @@
       "zh": "不——"
     },
     {
-      "en": "She peers through my eyes.",
-      "zh": "她透过我的眼睛往里看。"
+      "en": "She peers {i}through{/i} my eyes.",
+      "zh": "她{i}透过{/i}我的眼睛往里看。"
     },
     {
       "en": "I don’t even know what she’s looking at.",
@@ -1073,10 +1073,10 @@
       "zh": ": 这世上没有快乐之地，Sensei。只有在那里，被黑暗触碰会稍微难一点。"
     },
     {
-      "en": ": Unfortunately for me, the last time we were up there, I was touched a lot.",
+      "en": ": Unfortunately for me, the last time we were up there, I was touched {i}a lot{/i}.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 可惜对我来说，上次我们在那里的时候，我被触碰了很多次。"
+      "zh": ": 可惜对我来说，上次我们在那里的时候，我被触碰了{i}很多次{/i}。"
     },
     {
       "en": ": I felt the dark all over me.",
@@ -1103,10 +1103,10 @@
       "en": ""
     },
     {
-      "en": ": And then poof. Goodbye, old Makoto.",
+      "en": ": And then {i}poof{/i}. Goodbye, old Makoto.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 然后，噗。再见了，过去的 Makoto。"
+      "zh": ": 然后，{i}噗{/i}。再见了，过去的 Makoto。"
     },
     {
       "en": ": Goodbye, everything.",
@@ -1402,8 +1402,8 @@
       "en": ""
     },
     {
-      "en": "Nothing is real.",
-      "zh": "什么都不是真的。"
+      "en": "{i}Nothing is real.{/i}",
+      "zh": "{i}什么都不是真的。{/i}"
     },
     {
       "en": ""
@@ -1442,10 +1442,10 @@
       "zh": ": 那么，我们说完了吗？还是您要硬把我拖上天台？"
     },
     {
-      "en": ": I’m not going to drag you anywhere. I just don’t want to see you like this.",
+      "en": ": I’m not going to {i}drag{/i} you anywhere. I just don’t want to see you like this.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我不会把你拖到任何地方去。我只是不想看到你变成这样。"
+      "zh": ": 我不会把你{i}拖到{/i}任何地方去。我只是不想看到你变成这样。"
     },
     {
       "en": ": That’s nice. I only had to snap for you to finally show me an ounce of compassion.",
@@ -1560,8 +1560,8 @@
       "en": ""
     },
     {
-      "en": "Makoto.",
-      "zh": "Makoto。"
+      "en": "{i}Makoto.{/i}",
+      "zh": "{i}Makoto。{/i}"
     },
     {
       "en": ".........",

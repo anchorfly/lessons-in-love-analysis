@@ -41,8 +41,8 @@
       "zh": "我不能保证自己能为此做些什么，不过……"
     },
     {
-      "en": "I should at least know.",
-      "zh": "我至少应该知道。"
+      "en": "I should at least {i}know.{/i}",
+      "zh": "我至少应该{i}知道。{/i}"
     },
     {
       "en": ""
@@ -252,10 +252,10 @@
       "en": ""
     },
     {
-      "en": ": It’s not like I don’t wanna...I just don’t really know how.",
+      "en": ": It’s not like I don’t wanna...I just don’t really know {i}how.{/i}",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 也不是我不想谈……只是我真的不知道该怎么开口。"
+      "zh": ": 也不是我不想谈……只是我真的不知道该{i}怎么开口。{/i}"
     },
     {
       "en": ": There's a lotta...bad stuff about me that I don’t like bringin’ up...so I do my best to keep it locked away, I guess...",
@@ -297,10 +297,10 @@
       "zh": ": 你……真的不恨我那样冲你吼吗？……"
     },
     {
-      "en": ": Even though I have no idea what caused it, I understand that you weren't yelling at me. I just happened to be there.",
+      "en": ": Even though I have no idea what caused it, I understand that you weren't yelling {i}at{/i} me. I just happened to be there.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 虽然我不知道是什么引起的，但我明白你不是在冲我吼。我只是碰巧在场而已。"
+      "zh": ": 虽然我不知道是什么引起的，但我明白你不是在冲{i}我{/i}吼。我只是碰巧在场而已。"
     },
     {
       "en": ""
@@ -396,10 +396,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": You are an immature loser.",
+      "en": ": You {i}are{/i} an immature loser.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你就是个幼稚的废物。"
+      "zh": ": 你{i}就是{/i}个幼稚的废物。"
     },
     {
       "en": ""
@@ -435,16 +435,16 @@
       "zh": ": 当然不是。你都没让我说完。"
     },
     {
-      "en": ": I like you because you’re an immature loser.",
+      "en": ": I like you {i}because{/i} you’re an immature loser.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我喜欢你，正是因为你是个幼稚的废物。"
+      "zh": ": 我喜欢你，正是{i}因为{/i}你是个幼稚的废物。"
     },
     {
-      "en": ": So you are here to make fun of me?!",
+      "en": ": So you {i}are{/i} here to make fun of me?!",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 所以你果然是来取笑我的？！"
+      "zh": ": 所以你果然{i}是{/i}来取笑我的？！"
     },
     {
       "en": ": Again, no. There’s nothing wrong with being immature.",
@@ -492,10 +492,10 @@
       "zh": ": Sensei……"
     },
     {
-      "en": ": But there is nothing immature about whatever happened to you in the storage room.",
+      "en": ": But there is {i}nothing{/i} immature about whatever happened to you in the storage room.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 但不管你在储藏室里发生了什么，那都跟幼稚无关。"
+      "zh": ": 但不管你在储藏室里发生了什么，那都跟幼稚{i}无关{/i}。"
     },
     {
       "en": ": At all.",
@@ -561,10 +561,10 @@
       "zh": ": 算是吧……可既然秘密已经败露，而我显然有些事没那么容易说出口，你大概会觉得跟 Makoto 亲近起来更容易。"
     },
     {
-      "en": ": At least when she yells at you, you know it’s cuz’ you forgot your homework or somethin’.",
+      "en": ": At least when {i}she{/i} yells at you, you know it’s cuz’ you forgot your homework or somethin’.",
       "spk": "Miku",
       "spkColor": "#FF8112",
-      "zh": ": 至少她冲你吼的时候，你知道那是因为你忘了写作业之类的。"
+      "zh": ": 至少{i}她{/i}冲你吼的时候，你知道那是因为你忘了写作业之类的。"
     },
     {
       "en": ": I don’t have homework. I’m the teacher.",
@@ -702,10 +702,10 @@
       "en": ""
     },
     {
-      "en": ": You are the only one who's broken. I am simply here to fix you.",
+      "en": ": {s}You are the only one who's broken. I am simply here to fix you.{/s}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": "唯一坏掉的人是你。我在这里，只是为了修好你。"
+      "zh": "{s}唯一坏掉的人是你。我在这里，只是为了修好你。{/s}"
     },
     {
       "en": ""
@@ -940,16 +940,16 @@
       "zh": "就算她再高一英尺……我也不觉得会有什么改变。"
     },
     {
-      "en": "And even though she’s talking the same way she normally does and acting the same way she normally does-",
-      "zh": "尽管她说话的方式和平时一样，举止也和平时一样——"
+      "en": "And even though she’s talking the same way she normally does and {i}acting{/i} the same way she normally does-",
+      "zh": "尽管她说话的方式和平时一样，{i}举止{/i}也和平时一样——"
     },
     {
       "en": "She feels entirely new.",
       "zh": "她给人的感觉却全然是崭新的。"
     },
     {
-      "en": "There’s much more to Miku that I’ve yet to learn. And I have no idea when I will be able to learn it.",
-      "zh": "Miku 身上还有很多我尚未了解的东西。而我也不知道自己什么时候才能了解。"
+      "en": "There’s much more to Miku that I’ve yet to learn. And I have no idea {i}when{/i} I will be able to learn it.",
+      "zh": "Miku 身上还有很多我尚未了解的东西。而我也不知道自己{i}什么时候{/i}才能了解。"
     },
     {
       "en": "But if the things we don't know about each other give us an excuse to be together like this, I’m glad.",
@@ -1006,8 +1006,8 @@
       "zh": "Miku 抓住我的衬衫，这次带着多一点的热情把自己拉得更近。"
     },
     {
-      "en": "I'm surprised by her willingness to do so on account of me being very aware throughout this entire conversation that she's not wearing a bra-",
-      "zh": "她愿意这么做让我有些意外——毕竟整段对话里，我一直非常清楚地意识到她没穿胸罩——"
+      "en": "I'm surprised by her willingness to do so on account of me being {i}very{/i} aware throughout this entire conversation that she's not wearing a bra-",
+      "zh": "她愿意这么做让我有些意外——毕竟整段对话里，我一直{i}非常{/i}清楚地意识到她没穿胸罩——"
     },
     {
       "en": "But I guess that sort of thing just doesn't pop into her mind the same way it does mine.",
@@ -1284,8 +1284,8 @@
       "zh": "我仍然不清楚 Miku 的问题到底有多严重，所以我想小心一点，别让她在她已经承受的痛苦之外再受伤害。"
     },
     {
-      "en": "If her pain is worth worrying over in the first place.",
-      "zh": "如果她的痛苦一开始值得担忧的话。"
+      "en": "{i}If{/i} her pain is worth worrying over in the first place.",
+      "zh": "{i}如果{/i}她的痛苦一开始值得担忧的话。"
     },
     {
       "en": "With the way she normally acts, it’s hard to tell.",
@@ -1310,8 +1310,8 @@
       "en": ""
     },
     {
-      "en": "Miku’s affection has increased to [miku_love]!",
-      "zh": "Miku 的好感度提升至 [miku_love]！"
+      "en": "{i}Miku’s affection has increased to [miku_love]!{/i}",
+      "zh": "{i}Miku 的好感度提升至 [miku_love]！{/i}"
     },
     {
       "en": ".........",

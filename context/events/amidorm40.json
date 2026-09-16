@@ -1,6 +1,6 @@
 {
   "label": "amidorm40",
-  "title_zh": "人血天堂",
+  "title_zh": "人血的天堂",
   "lines": [
     {
       "en": ""
@@ -40,8 +40,8 @@
       "en": ""
     },
     {
-      "en": "I knock on Ami’s door.",
-      "zh": "我敲响 Ami 的房门。"
+      "en": "{s}I knock on Ami’s door.{/s}",
+      "zh": "{s}我敲响 Ami 的房门。{/s}"
     },
     {
       "en": ""
@@ -177,10 +177,10 @@
       "zh": ": 反正你也不是没当场抓到过我,对吧?"
     },
     {
-      "en": ": True. But, to be fair, the door was locked. So it's not like that one time really counts or anything.",
+      "en": ": True. But, to be fair, the door {i}was{/i} locked. So it's not like that one time really counts or anything.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 倒也是。不过公平地说,那次门是锁着的。所以那一次其实不算数什么的。"
+      "zh": ": 倒也是。不过公平地说,那次门{i}是{/i}锁着的。所以那一次其实不算数什么的。"
     },
     {
       "en": ""
@@ -231,10 +231,10 @@
       "zh": ": 再说了……我不是说今晚会有那种事……但我很高兴你来了,因为这意味着我们可以聊天了!"
     },
     {
-      "en": ": I obviously can’t speak for you, but I personally gain a lot more pleasure from...well, pleasure than casual conversation.",
+      "en": ": I obviously can’t speak for you, but I personally gain a lot more pleasure from...well, {i}pleasure{/i} than casual conversation.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 显然我无法替你发言,但我个人从……嗯,快感中获得的乐趣,远大于闲聊。"
+      "zh": ": 显然我无法替你发言,但我个人从……嗯,{i}快感{/i}中获得的乐趣,远大于闲聊。"
     },
     {
       "en": "scene amihumanblood1",
@@ -249,10 +249,10 @@
       "en": ""
     },
     {
-      "en": ": Who says it has to be casual? Maybe I want to talk about wires what you ate for lunch today or where we go when we die what you ate for lunch today?",
+      "en": ": Who says it has to be casual? Maybe I want to talk about {s}wires{/s} what you ate for lunch today or {s}where we go when we die{/s} what you ate for lunch today?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 谁说一定得是闲聊?也许我想聊聊电线、你今天午餐吃了什么,或者我们死后去哪、你今天午餐吃了什么?"
+      "zh": ": 谁说一定得是闲聊?也许我想聊聊{s}电线{/s}、你今天午餐吃了什么,或者{s}我们死后去哪{/s}、你今天午餐吃了什么?"
     },
     {
       "en": ": That’s a good idea. Let’s talk about what I ate for lunch today.",
@@ -369,8 +369,8 @@
       "en": ""
     },
     {
-      "en": "The only thing is that I can’t personally confirm if it’s the same type of tantrum she’d throw when she was really little because her parents didn’t die until she was seven.",
-      "zh": "唯一的问题是,我无法亲自确认这是不是她真正的幼年时期会发的那种脾气——毕竟她的父母直到她七岁才去世。"
+      "en": "The only thing is that I can’t personally confirm if it’s the same type of tantrum she’d throw when she was {i}really{/i} little because her parents didn’t die until she was seven.",
+      "zh": "唯一的问题是,我无法亲自确认这是不是她{i}真正的{/i}幼年时期会发的那种脾气——毕竟她的父母直到她七岁才去世。"
     },
     {
       "en": "scene amihumanblood4",
@@ -469,10 +469,10 @@
       "zh": ": 不过你真的不想要新房吗?哪怕现在这栋房子里装满了悲伤的回忆?"
     },
     {
-      "en": ": There are good memories too. I just can’t remember most of them yet.",
+      "en": ": There are good memories too. {s}I just can’t remember most of them yet.{/s}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 也有好的回忆。只是大部分我还想不起来。"
+      "zh": ": 也有好的回忆。{s}只是大部分我还想不起来。{/s}"
     },
     {
       "en": ": I guess. But doesn’t it get annoying having people just show up all the time when we want to be alone together?",
@@ -892,10 +892,10 @@
       "zh": ": 没错。他糟透了。但你要跟他谈什么?"
     },
     {
-      "en": ": Why do you care?",
+      "en": ": {i}Why do you care?{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你为什么在乎?"
+      "zh": ": {i}你为什么在乎?{/i}"
     },
     {
       "en": ": Because if it’s something involving me, I-",
@@ -1163,10 +1163,10 @@
       "zh": ": 这两件事之间什么都没有发生。而现在一切都完全好了。"
     },
     {
-      "en": ": You’re completely okay now. Ami’s got you.",
+      "en": ": {i}You’re{/i} completely okay now. Ami’s got you.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你现在完全好了。Ami 会照顾你的。"
+      "zh": ": {i}你{/i}现在完全好了。Ami 会照顾你的。"
     },
     {
       "en": ": ...",
@@ -1196,16 +1196,16 @@
       "zh": "另外,我此刻有一种奇异的疏离感。"
     },
     {
-      "en": "Have you ever found yourself in a situation where you think you’re there, but you’re not really there?",
-      "zh": "你有没有遇到过这种情况:你觉得自己在场,但其实并不真的在场?"
+      "en": "Have you ever found yourself in a situation where you think you’re there, but you’re not {i}really{/i} there?",
+      "zh": "你有没有遇到过这种情况:你觉得自己在场,但其实并不{i}真的{/i}在场?"
     },
     {
       "en": "Like you can comprehend the things hanging around you, but all of them are swaying so rapidly that you can’t find it in yourself to burn them into your mind.",
       "zh": "你能理解周围悬着的一切,但它们晃动得太快,你没办法把它们烙进心里。"
     },
     {
-      "en": "To etch them into the gray walls of your cerebral cortex and really start to understand exactly what is happening and not just “what’s happening.”",
-      "zh": "烙进你大脑皮层的灰色墙壁上,真正开始理解「到底」发生了什么,而不只是「发生了什么」。"
+      "en": "To etch them into the gray walls of your cerebral cortex and really start to understand exactly {i}what{/i} is happening and not just “what’s happening.”",
+      "zh": "烙进你大脑皮层的灰色墙壁上,真正开始理解「{i}到底{/i}」发生了什么,而不只是「发生了什么」。"
     },
     {
       "en": "This is one of those times.",
@@ -1357,10 +1357,10 @@
       "en": ""
     },
     {
-      "en": ": You know, one of the many many many many many many many reasons I love you is because, even though you pretend not to, you really do care about everyone.",
+      "en": ": You know, one of the many many many many many many many reasons I love you is because, even though you pretend not to, you really {i}do{/i} care about everyone.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你知道吗,我爱你的理由成千上万个,其中一个就是:你虽然假装不在乎,其实你真的在乎每一个人。"
+      "zh": ": 你知道吗,我爱你的理由成千上万个,其中一个就是:你虽然假装不在乎,其实你{i}真的{/i}在乎每一个人。"
     },
     {
       "en": ": You’ve always been that way. It’s the same reason you decided to take in an orphaned girl when she had nowhere else to go.",
@@ -1474,10 +1474,10 @@
       "en": ""
     },
     {
-      "en": ": And it didn’t really occur to me until a couple years ago, but that wasn’t just because of tutoring, was it?",
+      "en": ": And it didn’t really occur to me until a couple years ago, but that wasn’t {i}just{/i} because of tutoring, was it?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 直到几年前我才隐约意识到——那不只是家教,对吧?"
+      "zh": ": 直到几年前我才隐约意识到——那不{i}只是{/i}家教,对吧?"
     },
     {
       "en": ": I...honestly have no idea.",
@@ -1546,10 +1546,10 @@
       "zh": ": 你不知道?"
     },
     {
-      "en": ": No. And why are you asking about this right now?",
+      "en": ": No. And why are you asking about {i}this{/i} right now? ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 不知道。你为什么现在问这个?"
+      "zh": ": 不知道。你为什么现在问{i}这个{/i}?"
     },
     {
       "en": ": What does what I did for work back then have to do with us?",
@@ -1810,10 +1810,10 @@
       "zh": ": 你觉得,会不会有人正利用你糟糕的记忆,让你把不存在的东西当成真的?"
     },
     {
-      "en": ": Do you know what is real, though?",
+      "en": ": Do you know what {i}is{/i} real, though?",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 可你知道什么才是真的吗?"
+      "zh": ": 可你知道什么{i}才是{/i}真的吗?"
     },
     {
       "en": ""
@@ -2029,16 +2029,16 @@
       "en": ""
     },
     {
-      "en": ": Oh. And you’re here, too.",
+      "en": ": Oh. And {i}you’re{/i} here, too.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 哦。你也在。"
+      "zh": ": 哦。{i}你{/i}也在。"
     },
     {
-      "en": ": Would you mind explaining why I had to use my key to unlock your door when you’re clearly capable of opening it on your own?",
+      "en": ": Would you mind explaining why I had to use {i}my{/i} key to unlock your door when you’re clearly capable of opening it on your own?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 你能解释一下,为什么你明明能自己开门,却害得我不得不用钥匙开你的门吗?"
+      "zh": ": 你能解释一下,为什么你明明能自己开门,却害得{i}我{/i}不得不用钥匙开你的门吗?"
     },
     {
       "en": ": It’s fine to have fights with your roommates, but dragging me into them is just a waste of my time.",
@@ -2092,10 +2092,10 @@
       "zh": ": 求之不得。"
     },
     {
-      "en": ": Please.",
+      "en": ": {i}Please.{/i}",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 拜托了。"
+      "zh": ": {i}拜托了。{/i}"
     },
     {
       "en": ": Ami...",
@@ -2240,8 +2240,8 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]!"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
     },
     {
       "en": ".........",

@@ -10,8 +10,8 @@
       "zh": ""
     },
     {
-      "en": "Some time later...",
-      "zh": "一段时间之后……"
+      "en": "{i}Some time later...{/i}",
+      "zh": "{i}一段时间之后……{/i}"
     },
     {
       "en": ""
@@ -41,12 +41,12 @@
       "zh": "见鬼，我直到大约半小时前发现家里不知道为什么停水了，才知道 Kumon-mi 还有澡堂。"
     },
     {
-      "en": "And given that it’s already the middle of the night and that the water company is closed, the four of us were left with no other option but to come here.",
-      "zh": "而鉴于现在已经是深夜，水务公司也下班了，我们四个人别无选择，只能来这儿。"
+      "en": "And given that it’s already the middle of the night and that the water company is closed, the {i}four{/i} of us were left with no other option but to come here.",
+      "zh": "而鉴于现在已经是深夜，水务公司也下班了，我们{i}四{/i}个人别无选择，只能来这儿。"
     },
     {
-      "en": "Yes, that’s right. I said four of us.",
-      "zh": "对，你没听错。我说的是四个人。"
+      "en": "Yes, that’s right. I said {i}four{/i} of us.",
+      "zh": "对，你没听错。我说的是{i}四{/i}个人。"
     },
     {
       "en": "Maya and Ayane were planning on staying the night as well.",
@@ -72,8 +72,8 @@
       "zh": "不过我性格中比较亢奋的那部分，更愿意相信是别的事。"
     },
     {
-      "en": "I guess on one hand, though, it is kind of beneficial to be in here alone.",
-      "zh": "不过话说回来，一个人在这里也有好处。"
+      "en": "I guess on one hand, though, it {i}is{/i} kind of beneficial to be in here alone.",
+      "zh": "不过话说回来，一个人在这里也{i}有{/i}好处。"
     },
     {
       "en": ""
@@ -83,8 +83,8 @@
       "zh": ""
     },
     {
-      "en": "Having both Ami and Ayane in the same bath as me might be problematic for a number of reasons.",
-      "zh": "让 Ami 和 Ayane 跟我泡在同一个池子里，可能因为种种原因会很麻烦。"
+      "en": "Having both Ami {i}and{/i} Ayane in the same bath as me might be problematic for a number of reasons.",
+      "zh": "让 Ami {i}和{/i} Ayane 跟我泡在同一个池子里，可能因为种种原因会很麻烦。"
     },
     {
       "en": "Would I like to have that happen regardless of any potential issues that might arise? Absolutely.",
@@ -102,12 +102,12 @@
       "zh": ""
     },
     {
-      "en": "Having Ayane in the same bath as me might be a bit of an issue when it comes to hiding the, uhh, nature of our relationship from Ami and Maya.",
-      "zh": "让 Ayane 跟我泡在同一个池子里，在向 Ami 和 Maya 隐瞒我们关系的，呃，性质这件事上，可能会有点麻烦。"
+      "en": "Having Ayane in the same bath as me might be a bit of an issue when it comes to hiding the, uhh, {i}nature{/i} of our relationship from Ami and Maya.",
+      "zh": "让 Ayane 跟我泡在同一个池子里，在向 Ami 和 Maya 隐瞒我们关系的，呃，{i}性质{/i}这件事上，可能会有点麻烦。"
     },
     {
-      "en": "Sure, I’m positive that they’re well aware of her feelings by now, but I doubt they’d want to be around when she attempts to capitalize on them.",
-      "zh": "当然，我敢肯定她们现在早就清楚她的感情了，但我不觉得她们愿意在她试图把感情兑现的时候还待在旁边。"
+      "en": "Sure, I’m positive that they’re well aware of {i}her{/i} feelings by now, but I doubt they’d want to be around when she attempts to capitalize on them.",
+      "zh": "当然，我敢肯定她们现在早就清楚{i}她{/i}的感情了，但我不觉得她们愿意在她试图把感情兑现的时候还待在旁边。"
     },
     {
       "en": "scene black",
@@ -343,10 +343,10 @@
       "zh": ": 这跟青霉素过敏有什么关系？……"
     },
     {
-      "en": ": Everything, Maya. Everything.",
+      "en": ": Everything, Maya. {i}Everything.{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 全都有关系，Maya。全部。"
+      "zh": ": 全都有关系，Maya。{i}全部{/i}。"
     },
     {
       "en": ": What’s the point of having friends if you can’t share every single thought you have with them?",
@@ -547,10 +547,10 @@
       "en": ""
     },
     {
-      "en": ": Woah. You don’t normally get this defensive whenever I talk about this kind of stuff.",
+      "en": ": Woah. You don’t normally get {i}this{/i} defensive whenever I talk about this kind of stuff.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 哇哦。平时我聊这种事，你不会这么有防御心的。"
+      "zh": ": 哇哦。平时我聊这种事，你不会{i}这么{/i}有防御心的。"
     },
     {
       "en": ": Did something happen between you and Sensei?",
@@ -672,10 +672,10 @@
       "zh": ""
     },
     {
-      "en": ":  I wouldn’t be so annoyed if that wasn’t true.",
+      "en": ": {size=-15} I wouldn’t be so annoyed if that wasn’t true.{/size}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 如果那不是真的，我也不会这么生气。"
+      "zh": ": {size=-15}如果那不是真的，我也不会这么生气。{/size}"
     },
     {
       "en": ""
@@ -831,10 +831,10 @@
       "zh": ": 你该不会告诉他你的心意了吧？"
     },
     {
-      "en": ": Ami...This is your [uncle] we’re talking about...Do you really think I would do something like that?",
+      "en": ": {i}Ami...{/i}This is your {i}[uncle]{/i} we’re talking about...Do you really think I would do something like that?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": Ami……我们在说的是你的[uncle]……你真觉得我会做那种事？"
+      "zh": ": {i}Ami……{/i}我们在说的是你的{i}[uncle]{/i}……你真觉得我会做那种事？"
     },
     {
       "en": ": Yes. Now tell me what you did.",
@@ -1035,10 +1035,10 @@
       "zh": ": Ami，我真的什么都没偷，我保证。"
     },
     {
-      "en": ": Even I know how crazy it is to imagine that Sensei would actually devote himself to someone like me.",
+      "en": ": Even I know how crazy it is to imagine that Sensei would actually devote himself to someone like {i}me{/i}.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 就连我也知道，幻想 Sensei 会真心对我这样的人有多疯狂。"
+      "zh": ": 就连我也知道，幻想 Sensei 会真心对{i}我{/i}这样的人有多疯狂。"
     },
     {
       "en": ""
@@ -1074,10 +1074,10 @@
       "zh": ": 谁说我要出手了？"
     },
     {
-      "en": ": I’m pretty sure you have like, eight hundred times by now.",
+      "en": ": I’m pretty sure {i}you{/i} have like, eight hundred times by now. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我敢肯定到现在的你已经出手大概八百次了。"
+      "zh": ": 我敢肯定到现在的{i}你{/i}已经出手大概八百次了。"
     },
     {
       "en": ": You literally told me you were gonna name your baby after me a few minutes ago.",
@@ -1092,10 +1092,10 @@
       "zh": ": 我开玩笑的。再说，你自己不是说了 Ami 有上限吗？"
     },
     {
-      "en": ": It wouldn’t be right of me to steal your [uncle] and your name. So if it’ll make you happy, I’ll stay away from both.",
+      "en": ": It wouldn’t be right of me to steal your [uncle] {i}and{/i} your name. So if it’ll make you happy, I’ll stay away from both.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 把你的[uncle]和你的名字都抢走，这样不合适。所以如果这样能让你开心，我两个都不碰。"
+      "zh": ": 把你的[uncle]{i}和{/i}你的名字都抢走，这样不合适。所以如果这样能让你开心，我两个都不碰。"
     },
     {
       "en": ": Well...thank you Ay-",
@@ -1119,10 +1119,10 @@
       "en": ""
     },
     {
-      "en": ": There is one condition though.",
+      "en": ": There is {i}one{/i} condition though.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 不过有一个条件。"
+      "zh": ": 不过有{i}一个{/i}条件。"
     },
     {
       "en": ": Huh?",
@@ -1131,28 +1131,28 @@
       "zh": ": 哈？"
     },
     {
-      "en": ": And I’ll stay quiet in case you don’t want Maya to hear.",
+      "en": ": {i}And I’ll stay quiet in case you don’t want Maya to hear.{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 如果你不想让 Maya 听见，我就小声说。"
+      "zh": ": {i}如果你不想让 Maya 听见，我就小声说。{/i}"
     },
     {
-      "en": ": Um...it feels kind of weird whispering when she’s right there...but what do you want?",
+      "en": ": {i}Um...it feels kind of weird whispering when she’s right there...but what do you want?{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 嗯……她就在这儿还窃窃私语，感觉有点怪……不过你想要什么？"
+      "zh": ": {i}嗯……她就在这儿还窃窃私语，感觉有点怪……不过你想要什么？{/i}"
     },
     {
-      "en": ": It’s simple.",
+      "en": ": {i}It’s simple.{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 很简单。"
+      "zh": ": {i}很简单。{/i}"
     },
     {
-      "en": ": I’ll stay away from Sensei if you tell me you like him too.",
+      "en": ": {i}I’ll stay away from Sensei if you tell me you like him too.{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 只要你告诉我你也喜欢他，我就离 Sensei 远点。"
+      "zh": ": {i}只要你告诉我你也喜欢他，我就离 Sensei 远点。{/i}"
     },
     {
       "en": ""
@@ -1170,22 +1170,22 @@
       "en": ""
     },
     {
-      "en": ": What are you talking about? He’s my [uncle]...",
+      "en": ": {i}What are you talking about? He’s my [uncle]...{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 你在说什么啊？他是我[uncle]……"
+      "zh": ": {i}你在说什么啊？他是我[uncle]……{/i}"
     },
     {
-      "en": ": Of course I don’t like him that way...",
+      "en": ": {i}Of course I don’t like him that way...{/i}",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我当然不是那种喜欢他……"
+      "zh": ": {i}我当然不是那种喜欢他……{/i}"
     },
     {
-      "en": ": So the only reason you feel weird about me liking him is because you guys are related? Not because you don’t want to be my love-rival?",
+      "en": ": {i}So the only reason you feel weird about me liking him is because you guys are related? Not because you don’t want to be my love-rival?{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ": 所以你对我喜欢他感到别扭的唯一原因，就是你们有血缘关系？而不是因为你不想成为我的情敌？"
+      "zh": ": {i}所以你对我喜欢他感到别扭的唯一原因，就是你们有血缘关系？而不是因为你不想成为我的情敌？{/i}"
     },
     {
       "en": ": ...",
@@ -1266,10 +1266,10 @@
       "zh": ": ..."
     },
     {
-      "en": ": Those two have a weird relationship.",
+      "en": ": {i}Those two have a weird relationship.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 那两个人的关系真够怪的。"
+      "zh": ": {i}那两个人的关系真够怪的。{/i}"
     },
     {
       "en": ""

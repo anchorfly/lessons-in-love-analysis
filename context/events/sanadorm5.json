@@ -17,8 +17,8 @@
       "zh": "我敲了敲门，等了片刻，看有没有人应声。"
     },
     {
-      "en": "Well, to see if Sana responds.",
-      "zh": "好吧，是看 Sana 会不会应声。"
+      "en": "Well, to see if {i}Sana{/i} responds.",
+      "zh": "好吧，是看 {i}Sana{/i} 会不会应声。"
     },
     {
       "en": "If anyone other than her or Ayane answered, I'd probably just leave.",
@@ -71,10 +71,10 @@
       "zh": ": 你……"
     },
     {
-      "en": ": Dropping by...my room?...",
+      "en": ": Dropping by...my {i}room?...{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 顺路……来我的房间？……"
+      "zh": ": 顺路……来我的{i}房间{/i}？……"
     },
     {
       "en": ""
@@ -259,10 +259,10 @@
       "zh": ": 谢谢你让我进来。我知道这大概让你觉得有点怪。"
     },
     {
-      "en": ": It's...more than just...a little...",
+      "en": ": It's...more than just...a {i}little...{/i}",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 不止……一点点……"
+      "zh": ": 不止……{i}一点点{/i}……"
     },
     {
       "en": ": But...um...here we are...",
@@ -335,10 +335,10 @@
       "en": ""
     },
     {
-      "en": ": I'm going to go out on a second limb here and assume you’ve also never been alone with a guy before, have you?",
+      "en": ": I'm going to go out on a {i}second{/i} limb here and assume you’ve also never been alone with a guy before, have you?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我再大胆猜一下，你应该也从来没有跟男生独处过吧？"
+      "zh": ": 我{i}再{/i}大胆猜一下，你应该也从来没有跟男生独处过吧？"
     },
     {
       "en": ": R-Right...",
@@ -568,10 +568,10 @@
       "zh": ": 谢……谢谢……Sensei……我……我完全同意……"
     },
     {
-      "en": ": If you want...maybe we...could play together sometime?...",
+      "en": ": If you want...maybe we...{i}could{/i} play together sometime?...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 如果你愿意……也许我们……什么时候可以一起玩？……"
+      "zh": ": 如果你愿意……也许我们……什么时候{i}可以{/i}一起玩？……"
     },
     {
       "en": ": Sounds good to me. What sorts of games are you into, exactly?",
@@ -679,8 +679,8 @@
       "en": ""
     },
     {
-      "en": "Sana begins to fiddle with a bow wrapped around the neck of an ugly stuffed animal- admitting things to it since admitting them to me would be much harder.",
-      "zh": "Sana 开始摆弄一只丑陋毛绒玩具脖子上系的蝴蝶结——她把这些话说给它听，因为说给我听要难得多。"
+      "en": "Sana begins to fiddle with a bow wrapped around the neck of an ugly stuffed animal- admitting things to {i}it{/i} since admitting them to {i}me{/i} would be much harder.",
+      "zh": "Sana 开始摆弄一只丑陋毛绒玩具脖子上系的蝴蝶结——她把这些话说给{i}它{/i}听，因为说给{i}我{/i}听要难得多。"
     },
     {
       "en": ""
@@ -719,10 +719,10 @@
       "zh": ": 听着也许不像，不过……"
     },
     {
-      "en": ": I...do like talking to you, Sensei...",
+      "en": ": I...{i}do{/i} like talking to you, Sensei...",
       "spk": "Sana",
       "spkColor": "#00E77F",
-      "zh": ": 我……确实喜欢跟你说话，Sensei……"
+      "zh": ": 我……{i}确实{/i}喜欢跟你说话，Sensei……"
     },
     {
       "en": ": Or...trying to, at least...",
@@ -794,10 +794,10 @@
       "zh": ": 不过我敢肯定……总有一天会变的……"
     },
     {
-      "en": ": Good. Because a little piece of my heart broke off earlier when you said you didn’t even think of me as a guy.",
+      "en": ": Good. Because a little piece of my heart broke off earlier when you said you didn’t even think of me as a {i}guy.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 很好。因为刚才你说你根本没把我当成男人，我的一小块心都碎了。"
+      "zh": ": 很好。因为刚才你说你根本没把我当成{i}男人{/i}，我的一小块心都碎了。"
     },
     {
       "en": ""
@@ -942,10 +942,10 @@
       "zh": ": 嗯。我觉得今天已经进展够多了。"
     },
     {
-      "en": ": You helped me kill some time and I got to see your room. Those are two solid victories.",
+      "en": ": You helped me kill some time {i}and{/i} I got to see your room. Those are two solid victories.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你帮我打发了点时间，我也参观了你的房间。这可是两场实打实的胜利。"
+      "zh": ": 你帮我打发了点时间，我{i}也{/i}参观了你的房间。这可是两场实打实的胜利。"
     },
     {
       "en": ""
@@ -1062,8 +1062,8 @@
       "en": ""
     },
     {
-      "en": "Sana’s affection has increased to [sana_love]! You can now spend time with her in her room!",
-      "zh": "Sana 的好感度提升到了 [sana_love]！你现在可以去她房间陪她了！"
+      "en": "{i}Sana’s affection has increased to [sana_love]! You can now spend time with her in her room!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]！你现在可以去她房间陪她了！{/i}"
     },
     {
       "en": ""

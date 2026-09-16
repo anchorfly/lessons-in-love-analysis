@@ -396,10 +396,10 @@
       "zh": ": 吃我的醋?得了吧,Maya 怎么可能吃「你能离我这么近」的醋。"
     },
     {
-      "en": ": Nonono, I mean she’s jealous that you get to be so close to me.",
+      "en": ": Nonono, I mean she’s jealous that {i}you{/i} get to be so close to {i}me{/i}. ",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 不不不,我是说她吃醋——「你居然能离我这么近」。"
+      "zh": ": 不不不,我是说她吃醋——「{i}你{/i}居然能离{i}我{/i}这么近」。"
     },
     {
       "en": ": Have you even noticed how adorable I am? It’s not my fault if my roommate winds up falling in love with me.",
@@ -417,10 +417,10 @@
       "zh": ": 到时候我只好告诉她,我的心已有所属。而那个人,或许正是从小把我拉扯大的那一位。"
     },
     {
-      "en": ": You still kind of are a little girl, Ami.",
+      "en": ": You still kind of {i}are{/i} a little girl, Ami.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你现在多少也还是个小女孩,Ami。"
+      "zh": ": 你现在多少也{i}还是{/i}个小女孩,Ami。"
     },
     {
       "en": ""
@@ -444,10 +444,10 @@
       "zh": ": 呵呵~ 你说得对。"
     },
     {
-      "en": ": I’m your little girl.",
+      "en": ": I’m {i}your{/i} little girl.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我是你的小女孩。"
+      "zh": ": 我是{i}你的{/i}小女孩。"
     },
     {
       "en": ": Now come on. Cuddle with me on the couch for a little while.",
@@ -573,8 +573,8 @@
       "zh": "我不觉得出了什么事。她的情绪向来写在脸上。"
     },
     {
-      "en": "And I mean very apparent.",
-      "zh": "我是说,写得明明白白。"
+      "en": "And I mean {i}very{/i} apparent.",
+      "zh": "我是说,写得{i}明明白白{/i}。"
     },
     {
       "en": "At this point, I can normally tell how she’s feeling by just paying attention to the inflection of her voice or the volume she’s speaking at.",
@@ -669,10 +669,10 @@
       "zh": ": 不过我有点紧张。怎么说呢,我原本已经准备好,把你需要的每一件事、每一个瞬间都承包下来,过完这辈子。"
     },
     {
-      "en": ": But the more time we spend together, the less I feel like you actually need me.",
+      "en": ": But the more time we spend together, the less I feel like you actually {i}need{/i} me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 可我们在一起的时间越久,我越觉得……你其实没那么需要我。"
+      "zh": ": 可我们在一起的时间越久,我越觉得……你其实没那么{i}需要{/i}我。"
     },
     {
       "en": ": But who would-",
@@ -681,10 +681,10 @@
       "zh": ": 可是谁来——"
     },
     {
-      "en": ": I’m not talking about cooking and cleaning and all of that house-wifey stuff. I’m talking about like...needing me, needing me.",
+      "en": ": I’m not talking about cooking and cleaning and all of that house-wifey stuff. I’m talking about like...{i}needing me{/i}, needing me.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我说的不是做饭打扫那些「贤妻」活儿。我说的是……需要我,真正意义上的需要。"
+      "zh": ": 我说的不是做饭打扫那些「贤妻」活儿。我说的是……{i}需要我{/i},真正意义上的需要。"
     },
     {
       "en": ""
@@ -714,10 +714,10 @@
       "zh": ": 是,那确实让我难过了好一阵。但这些年我学到的一件事是:长大,有时候就是挺难的。"
     },
     {
-      "en": ": So if this is what you think I’ve gotta do to become the type of girl you want me to be...which is apparently a maid...I’ll try it out.",
+      "en": ": So if this is what you think I’ve gotta do to become the type of girl you want me to be...{i}which is apparently a maid{/i}...I’ll try it out.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 所以,如果这就是你认为我必须做的、才能变成你想要的那种女孩……看起来是个女仆……那我就试试。"
+      "zh": ": 所以,如果这就是你认为我必须做的、才能变成你想要的那种女孩……{i}看起来是个女仆{/i}……那我就试试。"
     },
     {
       "en": ": ...",
@@ -753,10 +753,10 @@
       "zh": ": 完全正确!这只是让你亲口承认你有多需要我的最后手段。"
     },
     {
-      "en": ": Last ditch effort. Not stitch.",
+      "en": ": Last {i}ditch{/i} effort. Not stitch.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 是 last ditch effort。不是 stitch。"
+      "zh": ": 是 last {i}ditch{/i} effort。不是 stitch。"
     },
     {
       "en": ""
@@ -1233,10 +1233,10 @@
       "zh": ": 真是太 [teenage] 女孩行为了。"
     },
     {
-      "en": ": Well, we are [teenage]girls, so...yeah. It kind of is.",
+      "en": ": Well, we {i}are{/i} [teenage]girls, so...yeah. It kind of is.",
       "spk": "Ami",
       "spkColor": "#FF4DD2",
-      "zh": ": 我们本来就是 [teenage] 女孩,所以……嗯。还真就是。"
+      "zh": ": 我们{i}本来就是{/i} [teenage] 女孩,所以……嗯。还真就是。"
     },
     {
       "en": ""
@@ -1414,8 +1414,8 @@
       "zh": "真搞不懂。她是个奇怪的女孩。"
     },
     {
-      "en": "But she’s my weird girl.",
-      "zh": "但她是「我的」奇怪女孩。"
+      "en": "But she’s {i}my{/i} weird girl.",
+      "zh": "但她是「{i}我的{/i}」奇怪女孩。"
     },
     {
       "en": "Or at least she is now.",
@@ -1452,8 +1452,8 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "zh": "Ami 的好感度提升到了 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      "en": "{i}Ami’s affection has increased to xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx{/i}",
+      "zh": "{i}Ami 的好感度提升到了 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx{/i}"
     },
     {
       "en": "///////////////////////???????????????",
@@ -1739,8 +1739,8 @@
       "en": ""
     },
     {
-      "en": "Ami’s affection has increased to [ami_love]!",
-      "zh": "Ami 的好感度提升到了 [ami_love]!"
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
     },
     {
       "en": ".........",

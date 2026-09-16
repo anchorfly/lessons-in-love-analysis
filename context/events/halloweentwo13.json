@@ -69,8 +69,8 @@
       "zh": "我们都是围绕着你建造的！"
     },
     {
-      "en": "It’s all built around you...",
-      "zh": "全都是围绕着你建造的……"
+      "en": "{i}It’s{/i} all built around you...",
+      "zh": "{i}全都{/i}是围绕着你建造的……"
     },
     {
       "en": "Why, in this room full of things designed to make you happy, do you still struggle to find your place?",
@@ -391,10 +391,10 @@
       "en": ""
     },
     {
-      "en": ": Just forget it then! I mean, if you say it was nothing, it was definitely nothing. And I’m not going to make a big deal out of something that is literally nothing you know? Hahah...",
+      "en": ": Just forget it then! I mean, if you say it was nothing, it was definitely nothing. And I’m not going to make a big deal out of something that is literally {i}nothing{/i} you know? Hahah...",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 那就当我没说！我是说，既然你说是没什么，那肯定就是没什么。我也不会为了一件字面意义上什么都不是的事大做文章，你知道吧？哈哈……"
+      "zh": ": 那就当我没说！我是说，既然你说是没什么，那肯定就是没什么。我也不会为了一件字面意义上{i}什么都不是{/i}的事大做文章，你知道吧？哈哈……"
     },
     {
       "en": ": ...",
@@ -442,10 +442,10 @@
       "zh": ": 不是所有事都跟你有关，Io。"
     },
     {
-      "en": ": In fact, most things aren’t about you.",
+      "en": ": In fact, {i}most{/i} things aren’t about you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 事实上，大多数事都跟你无关。"
+      "zh": ": 事实上，{i}大多数{/i}事都跟你无关。"
     },
     {
       "en": ": So before you go and start over analyzing however I look or...how I’m acting right now, run that through your head a few times and see if it sticks.",
@@ -637,10 +637,10 @@
       "zh": ": 你是说「如履薄冰」地踩在蛋壳上吗？"
     },
     {
-      "en": ": No. I mean being eggshells.",
+      "en": ": No. I mean {i}being{/i} eggshells.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 不。我的意思是「当」蛋壳。"
+      "zh": ": 不。我的意思是「{i}当{/i}」蛋壳。"
     },
     {
       "en": ": The good parts of us have already been spilled out and used up by somebody else, and all that’s left is the useless white part.",
@@ -877,10 +877,10 @@
       "en": ""
     },
     {
-      "en": ": Guess what I just did.",
+      "en": ": Guess what {i}I{/i} just did.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ": 猜猜我刚做了什么。"
+      "zh": ": 猜猜{i}我{/i}刚做了什么。"
     },
     {
       "en": ": Probably something evil or mischievous.",
@@ -910,10 +910,10 @@
       "zh": ": 不，其实不是。"
     },
     {
-      "en": ": I just finished walking Noriko to the bus stop because someone made her cry.",
+      "en": ": I just finished walking Noriko to the bus stop because {i}someone{/i} made her cry.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ": 我刚把 Noriko 送到公交站，因为有个人把她弄哭了。"
+      "zh": ": 我刚把 Noriko 送到公交站，因为有个{i}人{/i}把她弄哭了。"
     },
     {
       "en": ": That someone is you. You are the someone.",
@@ -955,16 +955,16 @@
       "zh": ": 明明你每周都想找我说话，却一直这么叫我，真够奇怪的。"
     },
     {
-      "en": ": You’d think that if you really wanted to talk to me, you’d learn my name.",
+      "en": ": You’d think that if you {i}really{/i} wanted to talk to me, you’d learn my name.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 你要是真想跟我说话，我还以为你会记住我的名字呢。"
+      "zh": ": 你要是{i}真{/i}想跟我说话，我还以为你会记住我的名字呢。"
     },
     {
-      "en": ": Do you know my name?",
+      "en": ": Do you know {i}my{/i} name?",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ": 你知道我的名字吗？"
+      "zh": ": 你知道{i}我的{/i}名字吗？"
     },
     {
       "en": ": Kirin.",
@@ -1039,10 +1039,10 @@
       "en": ""
     },
     {
-      "en": ": What’s up your ass? Don’t tell me the news about Noriko hit you that hard.",
+      "en": ": What’s up {i}your{/i} ass? Don’t tell me the news about Noriko hit you that hard.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ": 你吃错什么药了？别告诉我 Noriko 那消息对你打击那么大。"
+      "zh": ": {i}你{/i}吃错什么药了？别告诉我 Noriko 那消息对你打击那么大。"
     },
     {
       "en": ": Actually, do tell me if that’s what it is. I’m sure she’d be happy to hear that you’re thinking about her in literally...any sense of the word.",
@@ -1131,19 +1131,19 @@
       "en": ""
     },
     {
-      "en": ": Like...away from the party? I literally just got back.",
+      "en": ": Like...away from the party? I literally {i}just{/i} got back. ",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ": 比如……离开派对？我可是刚回来。"
+      "zh": ": 比如……离开派对？我可是{i}刚{/i}回来。"
     },
     {
       "en": ""
     },
     {
-      "en": ": Plus, it is fucking freezing out there and my nipples are going to cut holes in my lingerie if they get any harder.",
+      "en": ": {i}Plus{/i}, it is fucking freezing out there and my nipples are going to cut holes in my lingerie if they get any harder.",
       "spk": "Kirin",
       "spkColor": "#9C8080",
-      "zh": ": 再说了，外面冻死了，我乳头要是再硬下去，就要把我的内衣戳出洞来了。"
+      "zh": ": {i}再说{/i}了，外面冻死了，我乳头要是再硬下去，就要把我的内衣戳出洞来了。"
     },
     {
       "en": ": I’d be happy to go somewhere else with you, Sensei. I just don’t see the need for Kirin to come as well.",
@@ -1377,28 +1377,28 @@
       "en": ""
     },
     {
-      "en": ": Hhiy...is molly",
+      "en": ": {i}Hhiy...is molly{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 嗨呀……我是 molly"
+      "zh": ": {i}嗨呀……我是 molly{/i}"
     },
     {
-      "en": ": I got youe number from Futa",
+      "en": ": {i}I got youe number from Futa{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 我从 Futa 那儿拿到你号码的"
+      "zh": ": {i}我从 Futa 那儿拿到你号码的{/i}"
     },
     {
-      "en": ": Futa",
+      "en": ": {i}Futa{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": Futa"
+      "zh": ": {i}Futa{/i}"
     },
     {
-      "en": ": lol autosuggest",
+      "en": ": {i}lol autosuggest{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": lol 自动联想"
+      "zh": ": {i}lol 自动联想{/i}"
     },
     {
       "en": ""
@@ -1415,10 +1415,10 @@
       "en": ""
     },
     {
-      "en": ": Did yo leave???",
+      "en": ": {i}Did yo leave???{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 你走了吗？？？"
+      "zh": ": {i}你走了吗？？？{/i}"
     },
     {
       "en": ": ...",
@@ -1427,16 +1427,16 @@
       "zh": ": ..."
     },
     {
-      "en": ": Come back Sir",
+      "en": ": {i}Come back Sir{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 回来吧 先生"
+      "zh": ": {i}回来吧 先生{/i}"
     },
     {
-      "en": ": need to know whst happened",
+      "en": ": {i}need to know whst happened{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 得知道发生了什么"
+      "zh": ": {i}得知道发生了什么{/i}"
     },
     {
       "en": ": ...",
@@ -1456,20 +1456,20 @@
       "zh": "我的手机不再震动了。"
     },
     {
-      "en": "I bring Molly Kirin and Io back to the dorm.",
-      "zh": "我把 Molly、Kirin 和 Io 带回了宿舍。"
+      "en": "I bring {s}Molly{/s} Kirin and Io back to the dorm.",
+      "zh": "我把 {s}Molly{/s}、Kirin 和 Io 带回了宿舍。"
     },
     {
       "en": "Why am I thinking about Molly?",
       "zh": "我为什么在想 Molly？"
     },
     {
-      "en": "I don’t want to think about MOLLY anyone.",
-      "zh": "我一点都不想再想 MOLLY。"
+      "en": "I don’t want to think about {s}MOLLY{/s} anyone.",
+      "zh": "我一点都不想再想 {s}MOLLY{/s}。"
     },
     {
-      "en": "I DON’T WANT TO THINK",
-      "zh": "我不想思考"
+      "en": "{s}I DON’T WANT TO THINK{/s}",
+      "zh": "{s}我不想思考{/s}"
     },
     {
       "en": "What did I want to be when I was younger?",
@@ -1521,10 +1521,10 @@
       "en": ""
     },
     {
-      "en": ": Was I a good protagonist?",
+      "en": ": {i}Was I a good protagonist?{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 我算是个好主角吗？"
+      "zh": ": {i}我算是个好主角吗？{/i}"
     },
     {
       "en": ""
@@ -1537,8 +1537,8 @@
       "en": ""
     },
     {
-      "en": "You have unlocked Molly’s phone number!",
-      "zh": "你已解锁 Molly 的电话号码！"
+      "en": "{i}You have unlocked Molly’s phone number!{/i}",
+      "zh": "{i}你已解锁 Molly 的电话号码！{/i}"
     },
     {
       "en": ""

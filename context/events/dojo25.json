@@ -1,6 +1,6 @@
 {
   "label": "dojo25",
-  "title_zh": "",
+  "title_zh": "常规节目",
   "lines": [
     {
       "en": ""
@@ -22,16 +22,16 @@
       "en": ""
     },
     {
-      "en": "Somewhere...in a far-off, distant land...",
-      "zh": ""
+      "en": "{i}Somewhere...in a far-off, distant land...{/i}",
+      "zh": "{i}在某个地方……在一片遥远而遥远的土地上……{/i}"
     },
     {
-      "en": "The war rages on...",
-      "zh": ""
+      "en": "{i}The war rages on...{/i}",
+      "zh": "{i}战火仍在燃烧……{/i}"
     },
     {
-      "en": "Previously, on the Battle for Kumon-mi...",
-      "zh": ""
+      "en": "{i}Previously, on the Battle for Kumon-mi...{/i}",
+      "zh": "{i}上一集，《Kumon-mi 之战》……{/i}"
     },
     {
       "en": ""
@@ -49,16 +49,16 @@
       "en": ""
     },
     {
-      "en": "Ayane Amamiya of the famed Amamiya dynasty made her run at a lifelong adversary in hopes of reclaiming the land that was rightfully given to her at birth.",
-      "zh": ""
+      "en": "{i}Ayane Amamiya of the famed Amamiya dynasty made her run at a lifelong adversary in hopes of reclaiming the land that was rightfully given to her at birth.{/i}",
+      "zh": "{i}名门 Amamiya 家的 Ayane Amamiya 向她一生的宿敌发起了挑战，只为夺回那片在她出生时便理所应当属于她的土地。{/i}"
     },
     {
-      "en": "But after a long and painstaking series of setbacks, it finally set in that this battle might not be as easy as she originally thought!",
-      "zh": ""
+      "en": "{i}But after a long and painstaking series of setbacks, it finally set in that this battle might not be as easy as she originally thought!{/i}",
+      "zh": "{i}然而在经历了一连串漫长而痛苦的挫折之后，她终于意识到：这场战斗，也许并不像她最初以为的那么轻松！{/i}"
     },
     {
-      "en": "With a fire in her heart and the determination to finish out the fight and reclaim her holy land, will she be able to summon the strength needed to defeat her arch-nemesis?!",
-      "zh": ""
+      "en": "{i}With a fire in her heart and the determination to finish out the fight and reclaim her holy land, will she be able to summon the strength needed to defeat her arch-nemesis?!{/i}",
+      "zh": "{i}心中燃着火焰，怀着打完这一仗、夺回圣地的决心，她能否唤来击败宿敌所需的力量？！{/i}"
     },
     {
       "en": ""
@@ -76,20 +76,20 @@
       "en": ""
     },
     {
-      "en": "Or will that nemesis simply be too powerful for her to overcome?",
-      "zh": ""
+      "en": "{i}Or will that nemesis simply be too powerful for her to overcome?{/i}",
+      "zh": "{i}还是说，那个宿敌强大到她根本无法战胜？{/i}"
     },
     {
-      "en": "The leader of the Arakawa clan has no intention of giving up the land he has worked so hard to refine and reconstruct over the course of his anguish-filled life!",
-      "zh": ""
+      "en": "{i}The leader of the Arakawa clan has no intention of giving up the land he has worked so hard to refine and reconstruct over the course of his anguish-filled life!{/i}",
+      "zh": "{i}Arakawa 家族的首领绝无意交出这片土地——那是他在这充满痛苦的一生中，拼了命才经营、重建起来的！{/i}"
     },
     {
-      "en": "Can one battle truly decide the fate of everything he loves?!",
-      "zh": ""
+      "en": "{i}Can one battle truly decide the fate of everything he loves?!{/i}",
+      "zh": "{i}一场战斗，真的能决定他所爱的一切的命运吗？！{/i}"
     },
     {
-      "en": "Can one battle turn the tide and restore the land to its original state, long before the endless wars and all of the lives lost?!",
-      "zh": ""
+      "en": "{i}Can one battle turn the tide and restore the land to its original state, long before the endless wars and all of the lives lost?!{/i}",
+      "zh": "{i}一场战斗，能否扭转局势，让这片土地回到最初的模样——回到那无休止的战争和无数逝去的生命之前？！{/i}"
     },
     {
       "en": ""
@@ -107,16 +107,16 @@
       "en": ""
     },
     {
-      "en": "Two hearts become one!",
-      "zh": ""
+      "en": "{i}Two hearts become one!{/i}",
+      "zh": "{i}两颗心合而为一！{/i}"
     },
     {
-      "en": "Two lost souls with nothing but regret and heavy expectations on their shoulders must set aside their love for one another to fight for the greater good!",
-      "zh": ""
+      "en": "{i}Two lost souls with nothing but regret and heavy expectations on their shoulders must set aside their love for one another to fight for the greater good!{/i}",
+      "zh": "{i}两个迷失的灵魂，肩上只有悔恨与沉重的期望，却必须放下彼此之间的爱，为更大的善而战！{/i}"
     },
     {
-      "en": "Who will win?!",
-      "zh": ""
+      "en": "{i}Who will win?!{/i}",
+      "zh": "{i}谁会获胜？！{/i}"
     },
     {
       "en": ""
@@ -137,7 +137,7 @@
       "en": ": I will...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我会赢的……"
     },
     {
       "en": ""
@@ -158,13 +158,13 @@
       "en": ": No...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不……"
     },
     {
       "en": ": I will.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我会赢。"
     },
     {
       "en": ""
@@ -182,24 +182,24 @@
       "en": ""
     },
     {
-      "en": "The following program is brought to you in part by Koi Cafe! Home of the [[copyrighted frozen beverage]!",
-      "zh": ""
+      "en": "{i}The following program is brought to you in part by Koi Cafe! Home of the [[copyrighted frozen beverage]!{/i}",
+      "zh": "{i}以下节目由 Koi Cafe 部分赞助播出！[[copyrighted frozen beverage]的故乡！{/i}"
     },
     {
-      "en": "Long day? Short night? Come to Koi Cafe and try our specialty handcrafted drinks made by adorable girls!",
-      "zh": ""
+      "en": "{i}Long day? Short night? Come to Koi Cafe and try our specialty handcrafted drinks made by adorable girls!{/i}",
+      "zh": "{i}白天太长？夜晚太短？来 Koi Cafe 尝尝我们可爱的女孩们手工特调的饮品吧！{/i}"
     },
     {
-      "en": "We will now return to our regularly scheduled programming.",
-      "zh": ""
+      "en": "{i}We will now return to our regularly scheduled programming.{/i}",
+      "zh": "{i}现在，我们将回到常规节目。{/i}"
     },
     {
-      "en": "Please enjoy the show!",
-      "zh": ""
+      "en": "{i}Please enjoy the show!{/i}",
+      "zh": "{i}敬请欣赏！{/i}"
     },
     {
-      "en": "Pluuuuus...EXTRA!",
-      "zh": ""
+      "en": "{i}Pluuuuus...EXTRA!{/i}",
+      "zh": "{i}另————外……加映！{/i}"
     },
     {
       "en": ""
@@ -220,13 +220,13 @@
       "en": ": You haven’t learned a thing, have you?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你什么都没学到，是吧？"
     },
     {
       "en": ": You’d think that after our last battle ended in a near-truce, you’d be a lot more welcoming today...father.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你大概会以为，既然上一战以近乎停战收场，你今天该热情得多才对……父亲。"
     },
     {
       "en": ""
@@ -247,31 +247,31 @@
       "en": ": That’s right. I am your father. This was a necessary plot development.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 没错。我就是你的父亲。这是剧情发展的必要一环。"
     },
     {
       "en": ": I didn’t want you to find out like this, but I suppose it needed to happen eventually.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我本不想让你以这种方式发现，不过我想这事迟早要发生。"
     },
     {
       "en": ": So what do you say, Ayane?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那么你怎么说，Ayane？"
     },
     {
       "en": ": Will you join forces with me and rule this land in the name of the Arakawas?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你愿意与我联手，以 Arakawa 之名统治这片土地吗？"
     },
     {
       "en": ": Or will you resign yourself to the cowardly Amamiyas? The same family who raised you and never told you of my existence...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 还是说，你要继续屈从于那群懦弱的 Amamiya 家的人？就是那个把你养大、却从未向你提过我的存在的家族……"
     },
     {
       "en": ""
@@ -292,19 +292,19 @@
       "en": ": They only hid you from me because they knew it would hurt!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 他们把你藏起来，只是因为他们知道那会伤人！"
     },
     {
       "en": ": But what hurts even more is knowing we are in love!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可更伤人的是，我们居然相爱了！"
     },
     {
       "en": ": Which I am totally okay with, by the way, but other people will probably think it’s weird!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 顺便说一句，我对此完全没问题，不过别人大概会觉得这很奇怪！"
     },
     {
       "en": ""
@@ -325,19 +325,19 @@
       "en": ": Yes! Tap into those feelings!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 对！去感受那份情绪！"
     },
     {
       "en": ": Use them to become stronger, sudden-daughter of mine!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 用它们让自己变得更强，我这个突然冒出来的女儿！"
     },
     {
       "en": ": If the two of us join forces, we’ll be able to activate the hidden Arakawa-technique! The one that can only be used when father and daughter are united!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 只要我们父女联手，就能发动 Arakawa 家的隐藏奥义！那招只有在父女合心时才用得出来！"
     },
     {
       "en": ""
@@ -358,13 +358,13 @@
       "en": ": The hidden Arakawa-technique?! Do you mean the ultra-hyper-mega-drive-flame-tornado wheel-dropkick-of-unity?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": Arakawa 家的隐藏奥义？！你是指那个究极-超绝-百万驱动-烈焰龙卷-车轮回旋踢-团结版？！"
     },
     {
       "en": ": Heh...I guess the technique wasn’t as hidden as I thought, was it?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 呵……看来这招也没我想的那么「隐藏」啊，是吧？"
     },
     {
       "en": ""
@@ -385,13 +385,13 @@
       "en": ": Tch!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 啧！"
     },
     {
       "en": ": Is it really okay for me to abandon the parents who raised me in order to reunite with my biological father? Especially when both of them are dying from an unidentified disease?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 为了和亲生父亲团聚，就抛弃把我养大的父母，这样真的好吗？更何况他们还都患上了一种不明疾病，命在旦夕？"
     },
     {
       "en": ""
@@ -412,25 +412,25 @@
       "en": ": Unidentified, you say?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你说不明疾病？"
     },
     {
       "en": ": Well that’s just simply not true.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那可完全不是那么回事。"
     },
     {
       "en": ": In fact, I’m the one who created the disease that’s destroying their bodies as we speak.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 事实上，那正在摧毁他们身体的病，就是我造出来的。"
     },
     {
       "en": ": And what’s even better-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 而且更妙的是——"
     },
     {
       "en": ""
@@ -451,7 +451,7 @@
       "en": ": Is that they only have three weeks left to live!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 他们只剩三个星期可活了！"
     },
     {
       "en": ""
@@ -472,25 +472,25 @@
       "en": ": Only three weeks?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 只有三个星期？！"
     },
     {
       "en": ": How could you do this, father?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你怎么能做出这种事，父亲？！"
     },
     {
       "en": ": It’s one thing to abandon me by floating my body down the river-of-lost-hope, but to create a life-threatening disease in order to kill my adoptive parents?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 把我放进「失却希望之河」顺水漂走、抛弃我，那也就算了，可为了杀掉我的养父母，居然还造出一种致命的疾病？！"
     },
     {
       "en": ": That’s simply too much!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 这实在太过分了！"
     },
     {
       "en": ""
@@ -511,31 +511,31 @@
       "en": ": Funny. Some say “too much” while others say “not enough.”",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 真有意思。有人说「太过分」，也有人说「还不够」。"
     },
     {
       "en": ": Frankly, I thought about killing them much longer ago.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 说实话，我很久以前就想杀他们了。"
     },
     {
       "en": ": But six years ago, after I saw you training with a wooden sword next to your above-ground pool in the backyard, I decided I couldn’t.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 可六年前，我在后院看到你在地上泳池旁边拿着木剑练功之后，就决定下不了手。"
     },
     {
       "en": ": That was you?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那是你？！"
     },
     {
       "en": ": That was me.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 就是我。"
     },
     {
       "en": ""
@@ -556,13 +556,13 @@
       "en": ": And to think that all of this time I’d been hoping to meet that man...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 想想看，这么多年来我一直盼着能见到那个人……"
     },
     {
       "en": ": Never did I once expect him to be the leader of the Arakawa clan who is also coincidentally my father and the man who poisoned my non-biological parents.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我万万没想到，他竟是 Arakawa 家族的首领，又恰好是我的父亲，还是那个毒害了我非亲生父母的人。"
     },
     {
       "en": ""
@@ -583,25 +583,25 @@
       "en": ": And that’s not all...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 而且还不止这些……"
     },
     {
       "en": ": It’s not?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 还不止？！"
     },
     {
       "en": ": How much more convoluted can this get?!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 这剧情还能再绕一点吗？！"
     },
     {
       "en": ": You see, [young]Amamiya. I am also...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你听好了，[young]Amamiya。我还是……"
     },
     {
       "en": ""
@@ -622,7 +622,7 @@
       "en": ": You from another timeline!!!!111111111",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 来自另一条时间线的你！！！！111111111"
     },
     {
       "en": ""
@@ -643,25 +643,25 @@
       "en": ": NOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!111111",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": NOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!111111"
     },
     {
       "en": ": I’m my own dad!!!!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我是我自己的爸爸！！！！"
     },
     {
       "en": ": And I killed my parents!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 而且我杀了我的父母！"
     },
     {
       "en": ": Well, almost!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 嗯，差不多！"
     },
     {
       "en": ""
@@ -682,19 +682,19 @@
       "en": ": This means that the only way to prevent their demise is to take back Kumon-mi by going into the past and destroying my future self before I can create me.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 也就是说，要阻止他们死去，唯一的办法就是夺回 Kumon-mi——回到过去，在我创造出我自己之前，先毁掉未来的我。"
     },
     {
       "en": ": But how?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 可要怎么做？"
     },
     {
       "en": ": I haven’t learned the ability to time travel yet.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我还没学会时空穿越的能力。"
     },
     {
       "en": ""
@@ -715,13 +715,13 @@
       "en": ": Wait...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 等等……"
     },
     {
       "en": ": What about...him?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那……他呢？"
     },
     {
       "en": ""
@@ -742,31 +742,31 @@
       "en": ": Him?...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 他？……"
     },
     {
       "en": ": Who are you talking about, exactly?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你到底在说谁？"
     },
     {
       "en": ": This is a battle between father and daughter. And also father and self.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 这是一场父与女之间的战斗。也是父亲与自己之间的战斗。"
     },
     {
       "en": ": And daughter and self.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 还有女儿与自己。"
     },
     {
       "en": ": And Amamiya and Arakawa.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 还有 Amamiya 家与 Arakawa 家。"
     },
     {
       "en": ""
@@ -784,16 +784,16 @@
       "en": ""
     },
     {
-      "en": ": It was...",
+      "en": ": It {i}was...{/i}",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 本来{i}是……{/i}"
     },
     {
       "en": ": Until now.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 直到现在。"
     },
     {
       "en": ""
@@ -814,25 +814,25 @@
       "en": ": What do you mean by that?...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你这么说是什么意思？……"
     },
     {
       "en": ": We’re the only two people here.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 这里只有我们两个人啊。"
     },
     {
       "en": ": People, yes...But why not take a look behind you?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 人是只有两个……不过你为什么不回头看看？"
     },
     {
       "en": ": Behind me? But what-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我身后？可什么——"
     },
     {
       "en": ""
@@ -853,49 +853,49 @@
       "en": ": BACAWK! (Prepare to be eliminated!)",
       "spk": "Todd the Chicken",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": BACAWK！（准备受死吧！）"
     },
     {
       "en": ": I-It...It can’t be!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 这、这……不可能！"
     },
     {
       "en": ": Todd! Attack!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": Todd！上！"
     },
     {
       "en": ": Todd?!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Todd？！"
     },
     {
       "en": ": You should be dead!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你不是该死了吗！"
     },
     {
       "en": ": Todd is immortal in this timeline!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 在这条时间线里，Todd 是不死之身！"
     },
     {
       "en": ": BACAWK! (I can never die!)",
       "spk": "Todd the Chicken",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": BACAWK！（我永远不死！）"
     },
     {
       "en": ": I-Impossible!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不、不可能！"
     },
     {
       "en": ""
@@ -916,31 +916,31 @@
       "en": ": Little did you know, that girl who you saw training with her sword in the backyard was also an expert chicken-tamer!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你不知道吧，你在后院看到那个练剑的女孩，同时也是个驯鸡高手！"
     },
     {
       "en": ": I didn’t even know that was a thing!",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我都不知道还有这种职业！"
     },
     {
       "en": ": So what’ll it be, Master Arakawa? Are you ready to concede to Todd, the only person who has ever bested you in battle?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 那么，你打算怎么办，Arakawa 大人？你准备好向 Todd 认输了吗——他可是唯一一个在战斗中战胜过你的人？"
     },
     {
       "en": ": Or will you fight to the death, ultimately killing me in the process because we’re the same person?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 还是说你要决一死战，而因为我们本是同一个人，最终会连我一起杀掉？"
     },
     {
       "en": ": Or something.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 大概吧。"
     },
     {
       "en": ""
@@ -961,49 +961,49 @@
       "en": ": BACAWK! (Bow before me, mortal! It is I! Todd!)",
       "spk": "Todd the Chicken",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": BACAWK！（跪下吧，凡人！是我！Todd！）"
     },
     {
       "en": ": Can he...drain my energy?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 他能……吸走我的能量？"
     },
     {
       "en": ": Oh? You’re feeling it already?",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 哦？你这么快就感觉到了？"
     },
     {
       "en": ": And here I was thinking you were stronger than that.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我还以为你比这更强呢。"
     },
     {
       "en": ": The only reason Todd is immortal is because he can consume the life essence of others by simply looking at them.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": Todd 之所以不死，唯一的原因就是他只要看着别人，就能吞噬对方的生命精华。"
     },
     {
       "en": ": So much...power...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好强……的力量……"
     },
     {
       "en": ": My legs are...getting weaker...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我的腿……越来越没力气了……"
     },
     {
       "en": ": I...don’t think I can stand much longer...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我……觉得自己快站不住了……"
     },
     {
       "en": ""
@@ -1024,37 +1024,37 @@
       "en": ": Don’t worry. You won’t have to.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 别担心。你用不着再站了。"
     },
     {
-      "en": ": Lucky for you, which basically means lucky for us, I’ve thought up a way to defeat you without killing you.",
+      "en": ": Lucky for you, which basically means lucky for {i}us{/i}, I’ve thought up a way to defeat you without killing you.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 算你走运——而这基本上也等于算{i}我们{/i}走运——我想出了一个能击败你、又不用杀你的办法。"
     },
     {
       "en": ": Without...killing me?...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不用……杀我？……"
     },
     {
       "en": ": But...how?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 可……怎么做？"
     },
     {
       "en": ": Don’t worry about that, future-me.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 这个你就别操心了，未来的我。"
     },
     {
       "en": ": Just close your eyes and everything will be okay...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 只要闭上眼睛，一切就都会好起来的……"
     },
     {
       "en": ""
@@ -1075,13 +1075,13 @@
       "en": ": AMAMIYA FAMILY HIDDEN-TECHNIQUE! THROW!",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": AMAMIYA 家隐藏奥义！扔出去！"
     },
     {
       "en": ": Your hidden technique is “Throw?!”",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你们的隐藏奥义是「扔出去」？！"
     },
     {
       "en": ""
@@ -1102,19 +1102,19 @@
       "en": ": Pray to whichever god you believe in, Master Arakawa...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 向你信仰的随便哪个神祈祷吧，Arakawa 大人……"
     },
     {
       "en": ": Your time on this planet ends now...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 你在这个星球上的时间，到此为止了……"
     },
     {
       "en": ": No...Not like this...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不……不要是这样……"
     },
     {
       "en": ""
@@ -1133,7 +1133,7 @@
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1152,7 +1152,7 @@
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1171,7 +1171,7 @@
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1180,25 +1180,25 @@
       "en": ": ...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": ...",
       "spk": "Todd the Chicken",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": ..."
     },
     {
       "en": ": Ouch.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好痛。"
     },
     {
       "en": ": That actually kind of hurt.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 说真的，还挺疼的。"
     },
     {
       "en": ""
@@ -1216,24 +1216,24 @@
       "en": ""
     },
     {
-      "en": "And so the battle comes to a close!",
-      "zh": ""
+      "en": "{i}And so the battle comes to a close!{/i}",
+      "zh": "{i}于是，这场战斗就此落下帷幕！{/i}"
     },
     {
-      "en": "Ayane Amamiya of the Amamiya clan was able to defeat her arch-nemesis, the future version of herself, alongside her trusted chicken-companion, Todd!",
-      "zh": ""
+      "en": "{i}Ayane Amamiya of the Amamiya clan was able to defeat her arch-nemesis, the future version of herself, alongside her trusted chicken-companion, Todd!{/i}",
+      "zh": "{i}Amamiya 家的 Ayane Amamiya 在她信赖的鸡伙伴 Todd 的协助下，成功击败了她的宿敌——来自未来的自己！{/i}"
     },
     {
-      "en": "But even though the battle has been won...things do not end here.",
-      "zh": ""
+      "en": "{i}But even though the battle has been won...things do not end here.{/i}",
+      "zh": "{i}然而，即便战斗已经取胜……事情并没有就此结束。{/i}"
     },
     {
-      "en": "What will happen next?! Has Ayane truly reclaimed the land of Kumon-mi?!",
-      "zh": ""
+      "en": "{i}What will happen next?! Has Ayane truly reclaimed the land of Kumon-mi?!{/i}",
+      "zh": "{i}接下来会发生什么？！Ayane 真的夺回了 Kumon-mi 的土地吗？！{/i}"
     },
     {
-      "en": "Or is there an even greater evil lurking somewhere in the shadows?...",
-      "zh": ""
+      "en": "{i}Or is there an even greater evil lurking somewhere in the shadows?...{/i}",
+      "zh": "{i}还是说，有更强大的邪恶正潜伏在某处的阴影之中？……{/i}"
     },
     {
       "en": ""
@@ -1251,24 +1251,24 @@
       "en": ""
     },
     {
-      "en": "This episode of The Battle for Kumon-mi was brought to you in part by Koi Cafe!",
-      "zh": ""
+      "en": "{i}This episode of The Battle for Kumon-mi was brought to you in part by Koi Cafe!{/i}",
+      "zh": "{i}本期《Kumon-mi 之战》由 Koi Cafe 部分赞助播出！{/i}"
     },
     {
-      "en": "Long day? Short night? Come to Koi Cafe and try our specialty handcrafted drinks made by adorable girls!",
-      "zh": ""
+      "en": "{i}Long day? Short night? Come to Koi Cafe and try our specialty handcrafted drinks made by adorable girls!{/i}",
+      "zh": "{i}白天太长？夜晚太短？来 Koi Cafe 尝尝我们可爱的女孩们手工特调的饮品吧！{/i}"
     },
     {
-      "en": "Thank you for watching our regularly scheduled broadcast!",
-      "zh": ""
+      "en": "{i}Thank you for watching our regularly scheduled broadcast!{/i}",
+      "zh": "{i}感谢您收看我们的常规播出节目！{/i}"
     },
     {
-      "en": "See you next time!",
-      "zh": ""
+      "en": "{i}See you next time!{/i}",
+      "zh": "{i}下次再见！{/i}"
     },
     {
-      "en": "PLUUUUUS...EXTRA!",
-      "zh": ""
+      "en": "{i}PLUUUUUS...EXTRA!{/i}",
+      "zh": "{i}另————外……加映！{/i}"
     },
     {
       "en": ""
@@ -1278,15 +1278,15 @@
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""
@@ -1307,61 +1307,61 @@
       "en": ": Well fought today, Sensei.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 今天打得不错，Sensei。"
     },
     {
       "en": ": I had no idea you were really me this entire time.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我完全不知道，你从头到尾居然就是我。"
     },
     {
       "en": ": But I guess it makes sense given how much the two of us have in common.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不过想想我们俩有那么多共同点，倒也说得通。"
     },
     {
       "en": ": Yeah, I figured you might like that part.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是啊，我猜你会喜欢那一段。"
     },
     {
       "en": ": Also, I had no idea you owned a chicken.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 还有，我都不知道你养了一只鸡。"
     },
     {
       "en": ": Really? He follows me around all the time.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 真的吗？他成天跟在我屁股后面。"
     },
     {
       "en": ": Sometimes, I don’t even realize he’s there.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 有时候，我根本没意识到他在。"
     },
     {
       "en": ": He’s a good boy, though.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不过他是个好孩子。"
     },
     {
       "en": ": Why did you name him Todd? Is he American?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你为什么给他取名叫 Todd？他是美国人吗？"
     },
     {
       "en": ": No, he’s a chicken. Idiot.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不，他是只鸡。笨蛋。"
     },
     {
       "en": ""
@@ -1382,13 +1382,13 @@
       "en": ": It’s kind of sad that we might not be able to do stuff like this anymore soon, though...",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 不过有点伤感的是，我们可能很快就不能再做这种事了……"
     },
     {
       "en": ": What do you mean? The dojo isn’t closing down, is it?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你什么意思？道场该不会要关门吧？"
     },
     {
       "en": ""
@@ -1409,43 +1409,43 @@
       "en": ": I’m not sure, to be honest.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 说实话，我也不确定。"
     },
     {
       "en": ": I heard the instructor talking about how someone was looking into buying it.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我听教练说，有人在考虑买下这里。"
     },
     {
       "en": ": I don’t have any idea what would happen to it after that.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我完全不知道那之后这里会变成什么样。"
     },
     {
       "en": ": Well I can’t imagine they’d buy a dojo to just make it...not a dojo anymore.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我想，他们总不至于买下一座道场，就为了让它……不再是道场吧。"
     },
     {
       "en": ": Sounds like we’ll just have new management or something.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 听起来大概只是换个管理层什么的。"
     },
     {
       "en": ": I don’t think we’ll be impacted that much.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我觉得我们受的影响不会太大。"
     },
     {
-      "en": ": Besides, couldn’t you just buy it if things really came to that? You’re rich.",
+      "en": ": Besides, couldn’t {i}you{/i} just buy it if things really came to that? You’re rich.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 再说了，真到那一步，{i}你{/i}不能直接把它买下来吗？你可是有钱人。"
     },
     {
       "en": ""
@@ -1466,31 +1466,31 @@
       "en": ": True. But just because I’m rich doesn’t mean I could buy an entire dojo without any problems.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 话是没错。可就算我有钱，也不代表我能毫无困难地买下一整座道场。"
     },
     {
       "en": ": I can’t just put it on my credit card and my dad is the one with the actual bank-access and stuff.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我又不能就这么刷信用卡，而且真正掌握银行账户之类东西的人是我爸。"
     },
     {
       "en": ": I’m pretty sure if I asked him to buy a dojo when we already have a nicer one on the premises, he'd say no.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 我敢肯定，要是我们家宅子里已经有一座更好的道场，我却求他再买一座，他一定不会答应。"
     },
     {
       "en": ": Good point.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 有道理。"
     },
     {
       "en": ": I don’t think we need to worry, though. I can’t imagine anything will happen to this place in the end.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不过我觉得我们不必担心。我想不出这地方最后会出什么事。"
     },
     {
       "en": ""
@@ -1511,25 +1511,25 @@
       "en": ": Hopefully you’re right. All of the times we’ve spent here have become really important memories to me.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 希望你说得对。我们在这里度过的所有时光，对我来说都成了非常重要的回忆。"
     },
     {
       "en": ": Seeing them taken away would be kind of devastating.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 眼睁睁看着它们被夺走，会挺让人崩溃的。"
     },
     {
       "en": ": Worse comes to worst, we just hang out at your house, I guess.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 真到了最坏的一步，那我们就改去你家玩吧，我想。"
     },
     {
       "en": ": Yeah...Let’s hope it doesn’t come to that, though.",
       "spk": "Ayane",
       "spkColor": "#00BAB1",
-      "zh": ""
+      "zh": ": 是啊……不过还是希望别走到那一步。"
     },
     {
       "en": ""
@@ -1548,26 +1548,26 @@
     },
     {
       "en": "Ayane and I remain in the dojo for another half hour or so, reminiscing about all of the times we’ve spent here over the last few months.",
-      "zh": ""
+      "zh": "我和 Ayane 又在道场里待了大约半个小时，回忆着过去几个月我们在这里度过的所有时光。"
     },
     {
       "en": ""
     },
     {
       "en": "The reminiscing turns to something slightly more suggestive once she starts recollecting how far we've come since then.",
-      "zh": ""
+      "zh": "而当她开始回想自那以后我们走了多远时，这份回忆就变得稍微有点暧昧了。"
     },
     {
       "en": "But at least it got her mind off of the sudden potential for our normal hang-out spot to become a thing of the past.",
-      "zh": ""
+      "zh": "不过至少，这让她暂时不去想：我们平日里那个聚点，可能会突然变成过去式。"
     },
     {
       "en": "I really hope that rumor doesn’t wind up actually being true.",
-      "zh": ""
+      "zh": "我真心希望那个传言最后别成真。"
     },
     {
       "en": "I’m finally starting to get used to this...",
-      "zh": ""
+      "zh": "我终于开始习惯这一切了……"
     },
     {
       "en": ""
@@ -1584,20 +1584,20 @@
       "en": ""
     },
     {
-      "en": "Ayane’s affection has increased to [ayane_love]!",
-      "zh": ""
+      "en": "{i}Ayane’s affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]！{/i}"
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""

@@ -31,12 +31,12 @@
       "en": ""
     },
     {
-      "en": "I’ve lived here for how long now and I’m just finding out there’s a spare key?",
-      "zh": "我都在这儿住了多久了，居然现在才知道还有备用钥匙？"
+      "en": "I’ve lived here for how long now and I’m {i}just{/i} finding out there’s a spare key?",
+      "zh": "我都在这儿住了多久了，居然现在{i}才{/i}知道还有备用钥匙？"
     },
     {
-      "en": "I guess it makes locking this door pointless, but I might as well do something while Noriko composes herself.",
-      "zh": "这么说锁门是没什么意义了，不过趁 Noriko 平复情绪的时候，我总得干点什么。"
+      "en": "I guess it makes locking this door pointless, but I might as well do {i}something{/i} while Noriko composes herself.",
+      "zh": "这么说锁门是没{i}什么{/i}意义了，不过趁 Noriko 平复情绪的时候，我总得干点什么。"
     },
     {
       "en": "As soon as we heard the door close, she sprinted out of Ami’s room and ran off, presumably to the bathroom, saying that she needed a minute and will be gone before I know it.",
@@ -47,8 +47,8 @@
       "zh": "坦白说，我觉得整件事有点小题大做。"
     },
     {
-      "en": "I still have no idea what happened between her and Maya, but I at least hope it was something big if simply being found inside of my house is enough to worry everyone.",
-      "zh": "我还是不知道她和 Maya 之间发生过什么，但如果仅仅是被发现在我家就足以让大家这么紧张，那我至少希望那是件不小的事。"
+      "en": "I still have no idea what happened between her and Maya, but I at least hope it was something {i}big{/i} if simply being found inside of my house is enough to worry everyone.",
+      "zh": "我还是不知道她和 Maya 之间发生过什么，但如果仅仅是被发现在我家就足以让{i}大{/i}家这么紧张，那我至少希望那是件不小的事。"
     },
     {
       "en": ""
@@ -160,12 +160,12 @@
       "zh": "而你那时太小，还不懂科学或者空间推理（如果那玩意儿也把云算作物体，而不是某种完全无关的东西的话），所以你根本懒得去想——"
     },
     {
-      "en": "Well, they’re not actually following you.",
-      "zh": "嗯，它们其实并没有跟着你。"
+      "en": "Well, they’re {i}not{/i} actually following you.",
+      "zh": "嗯，它们其实并{i}没有{/i}跟着你。"
     },
     {
-      "en": "But they are following you.",
-      "zh": "可它们就是在跟着你。"
+      "en": "But they {i}are{/i} following you.",
+      "zh": "可它们{i}就是{/i}在跟着你。"
     },
     {
       "en": "The sky follows you!",
@@ -247,8 +247,8 @@
       "en": ""
     },
     {
-      "en": "When SUDDENLY something from the past or the present or the future or somewhere in between wraps its invisible arms around me and pulls me back.",
-      "zh": "突然之间，某个来自过去、现在、未来，或者其间某处的东西，用它无形的手臂环住我，把我拽了回去。"
+      "en": "When {s}SUDDENLY{/s} something from the past or the present or the future or somewhere in between wraps its invisible arms around me and pulls me back.",
+      "zh": "{s}突然{/s}之间，某个来自过去、现在、未来，或者其间某处的东西，用它无形的手臂环住我，把我拽了回去。"
     },
     {
       "en": "Or maybe it’s a wire that’s wrapped around me.",
@@ -534,10 +534,10 @@
       "zh": ": 也许只有一丁丁点。"
     },
     {
-      "en": ": But after she’s been so mean to me for so long...it’s hard to not wish a little ill will upon her.",
+      "en": ": But after she’s been {i}so{/i} mean to me for so long...it’s hard to not wish a little ill will upon her.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 可她对我刻薄了这么久……很难不对她生出一点恶意。"
+      "zh": ": 可她对我刻薄了{i}这么{/i}久……很难不对她生出一点恶意。"
     },
     {
       "en": ": Is that something you want me to stop doing?",
@@ -630,10 +630,10 @@
       "zh": ": 可是几分钟前，我一边擦眼泪一边补眼线的时候，突然想明白了一件事。"
     },
     {
-      "en": ": Why do I have to be the one to hurt after I’ve already been hurting for so long?",
+      "en": ": Why do {i}I{/i} have to be the one to hurt after I’ve already been hurting for so long?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我已经痛了这么久，为什么还得是我来承受这份痛？"
+      "zh": ": {i}我{/i}已经痛了这么久，为什么还得是我来承受这份痛？"
     },
     {
       "en": ": Why not let someone else carry some of the burden for a little while?",
@@ -693,10 +693,10 @@
       "zh": ": 再看多一点。"
     },
     {
-      "en": ": Noriko, I invited you to the house knowing my [niece] was going to be here today.",
+      "en": ": Noriko, I invited you to the house {i}knowing{/i} my [niece] was going to be here today.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Noriko，我明知道我 [niece] 今天会在家，还是邀请你来了。"
+      "zh": ": Noriko，我明{i}知道{/i}我 [niece] 今天会在家，还是邀请你来了。"
     },
     {
       "en": ": That’s not a thing I do for just anyone.",
@@ -759,10 +759,10 @@
       "zh": ": 我还想要其他每一个梦想和你做这些事的女孩，都认命地把自己急切的小穴，永远蹭在你桌子的边角上。"
     },
     {
-      "en": ": I want you.",
+      "en": ": I want {i}you.{/i}",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我想要你。"
+      "zh": ": 我想要{i}你{/i}。"
     },
     {
       "en": ": All of you.",
@@ -771,10 +771,10 @@
       "zh": ": 全部的你。"
     },
     {
-      "en": ": Every. Inch. Of. You.",
+      "en": ": {i}Every. Inch. Of. You.{/i}",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 你身上。每一。寸。"
+      "zh": ": {i}你身上。每一。寸。{/i}"
     },
     {
       "en": ": ...",
@@ -969,10 +969,10 @@
       "zh": ": 如果你想让我爱你，就别再做那些会让我觉得你疯了的事。"
     },
     {
-      "en": ": It’s not like I’m trying to do anything like that. Those things just happen.",
+      "en": ": It’s not like I’m {i}trying{/i} to do anything like that. Those things just happen.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我也不是故意要做那种事的。那些事就是会自己发生。"
+      "zh": ": 我也不是{i}故意{/i}要做那种事的。那些事就是会自己发生。"
     },
     {
       "en": ": I love you so much that my brain broke.",
@@ -1044,10 +1044,10 @@
       "zh": ": 我知道她想。"
     },
     {
-      "en": ": I can win over Ami...but I can’t win over her.",
+      "en": ": I can win over Ami...but I can’t win over {i}her.{/i}",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我能赢得 Ami……但我赢不了她。"
+      "zh": ": 我能赢得 Ami……但我赢不了{i}她{/i}。"
     },
     {
       "en": ": Which is why...I’ll give you anything you want...whenever you want it.",
@@ -1089,10 +1089,10 @@
       "zh": ": 你就是从这里开始误解的。"
     },
     {
-      "en": ": Because I do want to give it to you.",
+      "en": ": Because I {i}do{/i} want to give it to you.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 因为我是真的想给你。"
+      "zh": ": 因为我是{i}真的{/i}想给你。"
     },
     {
       "en": ""
@@ -1325,10 +1325,10 @@
       "zh": ": 不是……不过 Ami 和 Maya 不会离开太久的。"
     },
     {
-      "en": ": And now that you’ve mostly returned to your senses, don’t you think it might be smart to...you know...postpone this?",
+      "en": ": And now that you’ve {i}mostly{/i} returned to your senses, don’t you think it might be smart to...you know...postpone this?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 而且你现在差不多也恢复理智了，你不觉得……嗯……推迟一下会比较明智吗？"
+      "zh": ": 而且你现在{i}差不多{/i}也恢复理智了，你不觉得……嗯……推迟一下会比较明智吗？"
     },
     {
       "en": ": You seem really worried about getting caught for someone who messes around with students in his office.",
@@ -1394,10 +1394,10 @@
       "zh": ": 你难道没发现，我已经「有兴致」了吗？"
     },
     {
-      "en": ": Do you not realize that I am also in “the mood” and that I got on top of you to capitalize on this sudden, shared state of mind?",
+      "en": ": Do you not realize that I am also in “the mood” and that I got on top of you to capitalize on this {i}sudden,{i} shared state of mind?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 你难道没发现，我也「有兴致」，而且我骑到你身上，就是要趁着我们这突然共通的心思好好利用一下？"
+      "zh": ": 你难道没发现，我也「有兴致」，而且我骑到你身上，就是要趁着我们这{i}突然{/i}共通的心思好好利用一下？"
     },
     {
       "en": ""
@@ -1503,10 +1503,10 @@
       "zh": ": 往好处想……我的内裤还在你那儿吧？"
     },
     {
-      "en": ": I’ll text you something to give you the extra push you need to relieve yourself on my way home, okay?",
+      "en": ": I’ll text you something to give you the extra {i}push{/i} you need to relieve yourself on my way home, okay?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ": 我回家路上会发点东西给你，给你加把劲，让你自己解决一下，好吗？"
+      "zh": ": 我回家路上会发点东西给你，给你{i}加把劲{/i}，让你自己解决一下，好吗？"
     },
     {
       "en": ": You’re a real life saver.",
@@ -1687,8 +1687,8 @@
       "zh": "Noriko 总算把上衣穿了回去，在 Ami 和 Maya 到家之前离开了。"
     },
     {
-      "en": "The two of them burst into my room as soon as they get back to find me just sitting there, wondering exactly how my life managed to get even more complicated over the last several weeks.",
-      "zh": "她们俩一回来就冲进我的房间，发现我只是坐在那儿，琢磨着自己的人生到底是怎么在这几周里变得更复杂的。"
+      "en": "The two of them burst into my room as soon as they get back to find me just sitting there, wondering exactly how my life managed to get even {i}more{/i} complicated over the last several weeks.",
+      "zh": "她们俩一回来就冲进我的房间，发现我只是坐在那儿，琢磨着自己的人生到底是怎么在这几周里变得{i}更{/i}复杂的。"
     },
     {
       "en": "There’s no ending to it, really.",
@@ -1711,8 +1711,8 @@
       "zh": "我也不知道。"
     },
     {
-      "en": "What I do know, though...",
-      "zh": "不过我唯一清楚的是……"
+      "en": "What I {i}do{/i} know, though...",
+      "zh": "不过我唯一清楚的{i}是{/i}……"
     },
     {
       "en": "Is that I probably shouldn’t invite Noriko over again for at least a little while longer...",
@@ -1733,16 +1733,16 @@
       "en": ""
     },
     {
-      "en": "Noriko’s affection has increased to [noriko_love]!",
-      "zh": "Noriko 的好感度提升到了 [noriko_love]!"
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
     },
     {
-      "en": "Congratulations! You received 1 new picture from Noriko!",
-      "zh": "恭喜！你收到了 1 张来自 Noriko 的新照片！"
+      "en": "{i}Congratulations! You received 1 new picture from Noriko!{/i}",
+      "zh": "{i}恭喜！你收到了 1 张来自 Noriko 的新照片！{/i}"
     },
     {
-      "en": "It can be viewed through the phone menu in her character profile!",
-      "zh": "可以在她的角色档案中通过手机菜单查看！"
+      "en": "{i}It can be viewed through the phone menu in her character profile!{/i}",
+      "zh": "{i}可以在她的角色档案中通过手机菜单查看！{/i}"
     },
     {
       "en": ".........",

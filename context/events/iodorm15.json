@@ -1,6 +1,6 @@
 {
   "label": "iodorm15",
-  "title_zh": "除了其他种种",
+  "title_zh": "其他种种之中",
   "lines": [
     {
       "en": ""
@@ -162,10 +162,10 @@
       "zh": ": 你还好吗？"
     },
     {
-      "en": ": Was that you who fell just now?",
+      "en": ": Was that {i}you{/i} who fell just now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 刚才是你摔倒了吗？"
+      "zh": ": 刚才是{i}你{/i}摔倒了吗？"
     },
     {
       "en": ": ...Probably.",
@@ -330,10 +330,10 @@
       "zh": ": 但我觉得你要是不舒服，就不该勉强自己。"
     },
     {
-      "en": ": I’m not sick sick. I’m Io sick.",
+      "en": ": I’m not {i}sick{/i} sick. I’m Io sick.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 我不是普通的生病。我是「Io 式生病」。"
+      "zh": ": 我不是{i}普通{/i}的生病。我是「Io 式生病」。"
     },
     {
       "en": ": Is that some new form of debilitating disease?",
@@ -402,10 +402,10 @@
       "zh": ": 我真更希望你能直接告诉我怎么了，这样我就不用去搜一个我连念都念不出来的复杂药名。"
     },
     {
-      "en": ": I mean, if it was just one thing, I wouldn’t have so many different bottles, right?",
+      "en": ": I mean, if it was just {i}one{/i} thing, I wouldn’t have so many different bottles, right?",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 我是说，如果只是一种病，我也不会有一堆不同的药瓶了吧？"
+      "zh": ": 我是说，如果只是{i}一种{/i}病，我也不会有一堆不同的药瓶了吧？"
     },
     {
       "en": ": I’m all sorts of broken. I already told you this.",
@@ -420,10 +420,10 @@
       "zh": ": 我看着你可没那么坏。"
     },
     {
-      "en": ": And you don’t look that broken to me. So we’re either really good at judging each other or really bad at it.",
+      "en": ": And {i}you{/i} don’t look that broken to me. So we’re either really good at judging each other or really bad at it.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 我看着你也没那么坏。所以我们要么都很会看人，要么都很不会看人。"
+      "zh": ": 我看着{i}你{/i}也没那么坏。所以我们要么都很会看人，要么都很不会看人。"
     },
     {
       "en": ": Why are you still standing?",
@@ -693,8 +693,8 @@
       "en": ""
     },
     {
-      "en": "Ahh, so it wasn't anything physical.",
-      "zh": "啊，所以不是身体上的问题。"
+      "en": "Ahh, so it {i}wasn't{/i} anything physical.",
+      "zh": "啊，所以{i}不是{/i}身体上的问题。"
     },
     {
       "en": "Shocker.",
@@ -734,10 +734,10 @@
       "zh": ": 嗯，谢谢您突然变得这么体贴。"
     },
     {
-      "en": ": Maybe I should just always invite you over before I take my meds to reap the benefits of being your student.",
+      "en": ": Maybe I should just always invite you over before I take my meds to reap the benefits of being {i}your{/i} student.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 也许我该每次吃药前都把你叫来，好享受当你的学生的好处。"
+      "zh": ": 也许我该每次吃药前都把你叫来，好享受当{i}你{/i}的学生的好处。"
     },
     {
       "en": ": What’s with the emphasis on “your?”",
@@ -758,10 +758,10 @@
       "zh": ": 是啊。换成 Watabe 老师可绝不会让你这么干。"
     },
     {
-      "en": ": Good. Because I wouldn’t want to do this with Ms. Watabe.",
+      "en": ": Good. Because I wouldn’t {i}want{/i} to do this with Ms. Watabe.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 很好。因为我也不想跟 Watabe 老师这样。"
+      "zh": ": 很好。因为我也{i}不想{/i}跟 Watabe 老师这样。"
     },
     {
       "en": ": You, on the other hand...",
@@ -1351,10 +1351,10 @@
       "zh": ": 我恨死这一点了。"
     },
     {
-      "en": ": But I also love her so much.",
+      "en": ": But I also {i}love{/i} her so much.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 可我也爱死她了。"
+      "zh": ": 可我也{i}爱死{/i}她了。"
     },
     {
       "en": ": And I probably wouldn’t be here without her.",
@@ -1420,10 +1420,10 @@
       "zh": ": 她是最好的朋友。"
     },
     {
-      "en": ": I just wish I could give her more than me, you know? Like, I suck. She can do so much better.",
+      "en": ": I just wish I could give her more than {i}me{/i}, you know? Like, I suck. She can do so much better.",
       "spk": "Io",
       "spkColor": "#BBE3A1",
-      "zh": ": 我只是希望自己能给她的不止「我」这个人，你懂吧？比如，我很烂。她值得更好的。"
+      "zh": ": 我只是希望自己能给她的不止「{i}我{/i}」这个人，你懂吧？比如，我很烂。她值得更好的。"
     },
     {
       "en": ": Yeah, you’re pretty terrible.",
@@ -1662,8 +1662,8 @@
       "zh": "可她这么不为自己着想，迟早会害死她。"
     },
     {
-      "en": "In fact, thinking too much about herself will also wind up killing her.",
-      "zh": "事实上，为自己想得太多，同样会害死她。"
+      "en": "In fact, thinking {i}too much{/i} about herself will also wind up killing her.",
+      "zh": "事实上，为自己想得{i}太多{/i}，同样会害死她。"
     },
     {
       "en": "Io is practically dead already.",
@@ -1700,8 +1700,8 @@
       "en": ""
     },
     {
-      "en": "Io’s affection has increased to [io_love]!",
-      "zh": "Io 的好感度提升到了 [io_love]!"
+      "en": "{i}Io’s affection has increased to [io_love]!{/i}",
+      "zh": "{i}Io 的好感度提升到了 [io_love]!{/i}"
     },
     {
       "en": ".........",

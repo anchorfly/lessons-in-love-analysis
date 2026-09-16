@@ -44,8 +44,8 @@
       "zh": "我后退一步，等 Futaba 收拾好。"
     },
     {
-      "en": "I also hope that getting ready doesn't constitute anything out of the ordinary- because if she were to get dressed up for this, I'd feel at least a little bad for looking...entirely normal.",
-      "zh": "我也希望她所谓的“准备”不包括什么特别的环节——因为如果她为这次出门特意打扮，我至少会为自己穿得……再普通不过而感到有点过意不去。"
+      "en": "I also hope that {i}getting ready{/i} doesn't constitute anything out of the ordinary- because if she were to get dressed up for this, I'd feel at least a little bad for looking...entirely normal.",
+      "zh": "我也希望她所谓的“{i}准备{/i}”不包括什么特别的环节——因为如果她为这次出门特意打扮，我至少会为自己穿得……再普通不过而感到有点过意不去。"
     },
     {
       "en": "Not that I have anything else to wear in the first place, but yeah.",
@@ -230,10 +230,10 @@
       "zh": ": 对……对！是啊！抱歉……我想我只是有点紧张……"
     },
     {
-      "en": ": But if you're okay with me- Uhh...if you're okay with going, we can leave now...",
+      "en": ": But if you're okay with me- Uhh...if you're okay with {i}going,{/i} we can leave now...",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 不过如果你不介意我——呜……如果你可以出发了，我们现在就可以走……"
+      "zh": ": 不过如果你不介意我——呜……如果你可以{i}出发{/i}了，我们现在就可以走……"
     },
     {
       "en": ": Good save, Futaba. Lead the way, I guess. I'm ready when you are.",
@@ -428,10 +428,10 @@
       "zh": ": 和你在一个……基本陌生的地方迷路……听起来好像还挺有意思的。"
     },
     {
-      "en": ": Sure. Except this isn't really a random place and we both have GPS apps on our phones. Actually being lost around here seems unlikely.",
+      "en": ": Sure. Except this isn't really a {i}random{/i} place and we both have GPS apps on our phones. Actually being {i}lost{/i} around here seems unlikely.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 是啊。只不过这地方其实也不算陌生，而且我们俩手机里都有 GPS。在这儿真的迷路的可能性不大。"
+      "zh": ": 是啊。只不过这地方其实也不算{i}陌生{/i}，而且我们俩手机里都有 GPS。在这儿真的{i}迷路{/i}的可能性不大。"
     },
     {
       "en": ""
@@ -502,8 +502,8 @@
       "zh": "就像我看到她穿睡衣时的样子。"
     },
     {
-      "en": "But that's probably not a thing I should be having an inner monologue about when my date is running around inside of a book store.",
-      "zh": "不过，当我的约会对象正在书店里跑来跑去时，我大概不该在心里独白这种事。"
+      "en": "But that's probably not a thing I should be having an inner monologue about when my {i}date{/i} is running around inside of a book store.",
+      "zh": "不过，当我的{i}约会{/i}对象正在书店里跑来跑去时，我大概不该在心里独白这种事。"
     },
     {
       "en": ".........",
@@ -679,10 +679,10 @@
       "en": ""
     },
     {
-      "en": ": I mean...It’s not like I’d try to stop you if you did do something like that, though...Hahahah...",
+      "en": ": I mean...It’s not like I’d try to stop you if you {i}did{/i} do something like that, though...Hahahah...",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 我的意思是……要是你真的那么做了，我也不会拦你就是了……哈哈哈哈……"
+      "zh": ": 我的意思是……要是你{i}真的{/i}那么做了，我也不会拦你就是了……哈哈哈哈……"
     },
     {
       "en": ""
@@ -774,10 +774,10 @@
       "zh": ": 这让你意外吗？"
     },
     {
-      "en": ": A little bit, yeah...I figured you would probably buy at least one thing...",
+      "en": ": A little bit, yeah...I figured you would probably buy at least {i}one{/i} thing...",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 有一点，嗯……我以为你至少会买一样东西……"
+      "zh": ": 有一点，嗯……我以为你至少会买{i}一样{/i}东西……"
     },
     {
       "en": ": And hearing you say this was all to spend time with me...made my heart skip a beat or two.",
@@ -855,16 +855,16 @@
       "en": ""
     },
     {
-      "en": ": But...I guess you’re probably right. My heart does seem to be skipping a lot lately.",
+      "en": ": But...I guess you’re probably right. My heart {i}does{/i} seem to be skipping a lot lately.",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 不过……我想你大概是对的。最近我的心跳确实经常漏拍。"
+      "zh": ": 不过……我想你大概是对的。最近我的心跳{i}确实{/i}经常漏拍。"
     },
     {
-      "en": ": I’m sure you have at least some part in that.",
+      "en": ": I’m sure you have at least {i}some{/i} part in that.",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 我敢说，其中至少有一部分是因为你。"
+      "zh": ": 我敢说，其中至少有{i}一部分{/i}是因为你。"
     },
     {
       "en": ": Wow, who could have ever predicted this?",
@@ -979,16 +979,16 @@
       "en": ""
     },
     {
-      "en": ": And I know you’re probably only spending time with me because I don’t say no to doing that kind of stuff with you...",
+      "en": ": And I know you’re probably only spending time with me because I don’t say no to doing {i}that{/i} kind of stuff with you...",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 我也知道，你大概只是因为我不拒绝和你做那种事，才愿意陪我……"
+      "zh": ": 我也知道，你大概只是因为我不拒绝和你做{i}那种{/i}事，才愿意陪我……"
     },
     {
-      "en": ": And...I’m honestly okay with that as long as it means that, at least every once in a while...we can do things like this together.",
+      "en": ": And...I’m honestly okay with that as long as it means that, at least every once in a while...we can do things like {i}this{/i} together.",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 而且……老实说，只要这意味着我们至少偶尔能……一起做这样的事，我就无所谓。"
+      "zh": ": 而且……老实说，只要这意味着我们至少偶尔能……一起做{i}这样{/i}的事，我就无所谓。"
     },
     {
       "en": ""
@@ -1024,10 +1024,10 @@
       "en": ""
     },
     {
-      "en": ": Ugh...What am I even saying right now?",
+      "en": ": {i}Ugh...What am I even saying right now?{/i}",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 呜……我到底在说些什么啊？"
+      "zh": ": {i}呜……我到底在说些什么啊？{/i}"
     },
     {
       "en": ": ...",
@@ -1162,10 +1162,10 @@
       "zh": ": 而且我在努力去理解……真的……"
     },
     {
-      "en": ": I just never really expected someone as amazing as you to take the time to actually listen to me.",
+      "en": ": I just never really expected someone as amazing as you to take the time to actually {i}listen{/i} to me.",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 我只是从没想过，像你这么出色的人会真的花时间听我说话。"
+      "zh": ": 我只是从没想过，像你这么出色的人会真的花时间{i}听{/i}我说话。"
     },
     {
       "en": ": I always think that my...feelings fall on deaf ears or that...I’ll be bothering someone if I open up to them.",
@@ -1189,10 +1189,10 @@
       "en": ""
     },
     {
-      "en": ": And...while I admit that you’re a lot...umm...hornier than I thought you’d be...I still know that you listen.",
+      "en": ": And...while I admit that you’re a lot...umm...{i}hornier{/i} than I thought you’d be...I still know that you listen.",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 而且……虽然我承认你比我想象中要……嗯……好色得多……可我知道你有在听。"
+      "zh": ": 而且……虽然我承认你比我想象中要……嗯……{i}好色{/i}得多……可我知道你有在听。"
     },
     {
       "en": ": I’m sure there’s some sort of motive for it, whether it be l-l-liking me back or not, but...It’s still kind of hard to believe when I really think about it.",
@@ -1201,10 +1201,10 @@
       "zh": ": 我敢说这背后总有某种动机，不管是不是……喜……喜欢我，不过……真要仔细想，我还是很难相信。"
     },
     {
-      "en": ": And I feel like even if you did tell me a million times that's not the case...there’d be a voice in the back of my head saying, “Don’t do it, Futaba! It’s a trap!”",
+      "en": ": And I feel like even if you {i}did{/i} tell me a million times that's not the case...there’d be a voice in the back of my head saying, “Don’t do it, Futaba! It’s a trap!”",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 而且我觉得，就算你对我说了一百万遍不是那样……我脑子里还是会有一个声音在说：“别上当，Futaba！这是陷阱！”"
+      "zh": ": 而且我觉得，就算你对我{i}说了{/i}一百万遍不是那样……我脑子里还是会有一个声音在说：“别上当，Futaba！这是陷阱！”"
     },
     {
       "en": ""
@@ -1228,10 +1228,10 @@
       "zh": ": 不过……我决定了——"
     },
     {
-      "en": ": Even if this is a trap...and you are just using me for weird stuff-",
+      "en": ": Even if this is a trap...and you {i}are{/i} just using me for weird stuff-",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 就算这是陷阱……就算你只是把我拿来干些奇怪的事——"
+      "zh": ": 就算这是陷阱……就算你{i}只是{/i}把我拿来干些奇怪的事——"
     },
     {
       "en": ": I’m not.",
@@ -1240,10 +1240,10 @@
       "zh": ": 我不是。"
     },
     {
-      "en": ": Right. But if you are...I’m fine with it.",
+      "en": ": Right. But if you {i}are{/i}...I’m fine with it.",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 对。但如果你是……我也无所谓。"
+      "zh": ": 对。但如果你{i}是{/i}……我也无所谓。"
     },
     {
       "en": ": That’s just how much I like you.",
@@ -1589,10 +1589,10 @@
       "zh": ": 哦。那个，嗯……谢谢？"
     },
     {
-      "en": ": No, thank you.",
+      "en": ": No, thank {i}you{/i}. ",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": 不，该说谢谢的是我。"
+      "zh": ": 不，该说谢谢的是{i}我{/i}。"
     },
     {
       "en": ": For everything...",
@@ -1666,10 +1666,10 @@
       "en": ""
     },
     {
-      "en": ": *Sniff* Okay!",
+      "en": ": {i}*Sniff*{/i} Okay!",
       "spk": "Futaba",
       "spkColor": "#E73CFF",
-      "zh": ": *抽鼻子* 好！"
+      "zh": ": {i}*抽鼻子*{/i} 好！"
     },
     {
       "en": ": But please bear with me! This might take a while~",
@@ -1719,8 +1719,8 @@
       "en": ""
     },
     {
-      "en": "Futaba’s affection has increased to [futaba_love]!",
-      "zh": "Futaba 的好感度提升到了 [futaba_love]！"
+      "en": "{i}Futaba’s affection has increased to [futaba_love]!{/i}",
+      "zh": "{i}Futaba 的好感度提升到了 [futaba_love]！{/i}"
     },
     {
       "en": ".........",

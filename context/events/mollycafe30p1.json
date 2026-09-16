@@ -1,6 +1,6 @@
 {
   "label": "mollycafe30p1",
-  "title_zh": "鱼钩",
+  "title_zh": "钩子",
   "lines": [
     {
       "en": ""
@@ -178,10 +178,10 @@
       "en": ""
     },
     {
-      "en": ": Supreme Overlord? When did you come in? Actually, better question- why did you come in? We’re closed. And we’ve been closed for about half an hour.",
+      "en": ": Supreme Overlord? When did you come in? Actually, better question- {i}why{/i} did you come in? We’re closed. And we’ve {i}been{/i} closed for about half an hour.",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 至高霸主？您什么时候进来的？其实，更好的问题是——您为什么进来？我们打烊了。而且已经打烊半个多小时了。"
+      "zh": ": 至高霸主？您什么时候进来的？其实，更好的问题是——您{i}为什么{/i}进来？我们打烊了。而且{i}已经{/i}打烊半个多小时了。"
     },
     {
       "en": ": Did Molly forget to flip the sign again?",
@@ -202,10 +202,10 @@
       "zh": ": 我其实没怎么注意那块牌子。我只是觉得，反正这地方基本上是我的，我想什么时候进来都行。"
     },
     {
-      "en": ": But...I own the place.",
+      "en": ": But...{i}I{/i} own the place.",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 可是……这地方是我的。"
+      "zh": ": 可是……这地方是{i}我{/i}的。"
     },
     {
       "en": ": Yeah, but we’re best friends. Which means I pretty much own the place too.",
@@ -247,16 +247,16 @@
       "zh": ": 瞧，你把 Molly 惹得撅嘴了。Molly 从不撅嘴的。"
     },
     {
-      "en": ": You’re both important to me.",
+      "en": ": You’re {i}both{/i} important to me. ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你们两个对我来说都重要。"
+      "zh": ": 你们两个对我来说{i}都{/i}重要。"
     },
     {
-      "en": ": It’s just that my friendship with Haruka is more important because it brings me one step closer to a lifetime of free coffee. No offense, Molly.",
+      "en": ": It’s just that my friendship with Haruka is {i}more{/i} important because it brings me one step closer to a lifetime of free coffee. No offense, Molly.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 只是我和 Haruka 的友谊更重要一些，因为它让我离「一辈子免费喝咖啡」又近了一步。无意冒犯，Molly。"
+      "zh": ": 只是我和 Haruka 的友谊{i}更{/i}重要一些，因为它让我离「一辈子免费喝咖啡」又近了一步。无意冒犯，Molly。"
     },
     {
       "en": ""
@@ -331,10 +331,10 @@
       "zh": ": 我是说……还行。挺忙的。所以今天我才留下来帮 Molly 打烊，平时这个点我早走了。"
     },
     {
-      "en": ": Yeah, I stopped by the other night and this place was packed. And, I know this might be a little hard to believe, but Molly was actually working that night.",
+      "en": ": Yeah, I stopped by the other night and this place was packed. And, I know this might be a little hard to believe, but Molly was actually {i}working{/i} that night.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 是啊，前几天晚上我来过一趟，这地方挤满了人。而且，我知道这话可能有点难信，但 Molly 那天晚上居然真的在工作。"
+      "zh": ": 是啊，前几天晚上我来过一趟，这地方挤满了人。而且，我知道这话可能有点难信，但 Molly 那天晚上居然真的{i}在工作{/i}。"
     },
     {
       "en": ""
@@ -385,16 +385,16 @@
       "en": ""
     },
     {
-      "en": ": Wait...maybe I am an NPC. That would certainly explain why things progress for everyone else while I’m stuck here with the same habits and search history I’ve had since I was ten.",
+      "en": ": Wait...maybe I {i}am{/i} an NPC. That would certainly explain why things progress for everyone else while I’m stuck here with the same habits and search history I’ve had since I was ten.",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 等等……也许我真是个 NPC。这倒确实能解释，为什么别人都在往前走，我却困在原地，带着从十岁起就没变过的习惯和搜索记录。"
+      "zh": ": 等等……也许我真{i}是{/i}个 NPC。这倒确实能解释，为什么别人都在往前走，我却困在原地，带着从十岁起就没变过的习惯和搜索记录。"
     },
     {
-      "en": ": I know Molly was working that night. I thought she made a typo when she sent me the numbers after closing. I’m surprised she was able to handle that on her own.",
+      "en": ": I {i}know{/i} Molly was working that night. I thought she made a typo when she sent me the numbers after closing. I’m surprised she was able to handle that on her own.",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 我知道 Molly 那天晚上在工作。她打烊后把数字发给我时，我还以为她打错了。她居然能一个人扛下来，我很意外。"
+      "zh": ": 我{i}知道{/i} Molly 那天晚上在工作。她打烊后把数字发给我时，我还以为她打错了。她居然能一个人扛下来，我很意外。"
     },
     {
       "en": ""
@@ -496,10 +496,10 @@
       "zh": ": 不算……不过这看起来确实像是某种奖励事件的开端，会让我们三个人的关系从此彻底改变。"
     },
     {
-      "en": ": Molly works hard and I benefit from it? Count me in.",
+      "en": ": Molly works hard and {i}I{/i} benefit from it? Count me in.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Molly 卖力干活，我坐享其成？算我一个。"
+      "zh": ": Molly 卖力干活，{i}我{/i}坐享其成？算我一个。"
     },
     {
       "en": ": But I haven’t even said yes. There are three harems and a mech drama waiting for me in my dorm room right now.",
@@ -646,10 +646,10 @@
       "zh": ": 我不知道……我说的那部机甲动漫上周停在一个相当大的悬念上，我可不想再被剑道公主不小心剧透了……"
     },
     {
-      "en": ": Bonus event...",
+      "en": ": {i}Bonus event...{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 奖励事件……"
+      "zh": ": {i}奖励事件……{/i}"
     },
     {
       "en": ""
@@ -717,8 +717,8 @@
       "zh": "坐了一小段车，我们在 Haruka 家附近下车，这样等她喝多了、双腿失去知觉之后，就不用走太远。"
     },
     {
-      "en": "This is never verbalized, but I know it to be true as she has gotten hammered on several occasions now and has consistently been a bad drunk.",
-      "zh": "这话从没人说出口，但我知道是真的，因为她已经烂醉过好几次了，而且每次醉相都很难看。"
+      "en": "This is never verbalized, but I know it to be true as she has gotten hammered on several occasions now and has {i}consistently{/i} been a bad drunk.",
+      "zh": "这话从没人说出口，但我知道是真的，因为她已经烂醉过好几次了，而且{i}每次{/i}醉相都很难看。"
     },
     {
       "en": "In fact, so has Molly.",
@@ -793,10 +793,10 @@
       "zh": ": 您不喝吗，先生？"
     },
     {
-      "en": ": Are you not going to drink, Molly? The waitress didn’t seem to mind that you were underage based on...well, the fact that she offered you a drink as well.",
+      "en": ": Are {i}you{/i} not going to drink, Molly? The waitress didn’t seem to mind that you were underage based on...well, the fact that she offered you a drink as well.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那你不喝吗，Molly？看样子服务员并不介意你未成年……嗯，光是她也给你上了酒这点就能看出来。"
+      "zh": ": 那{i}你{/i}不喝吗，Molly？看样子服务员并不介意你未成年……嗯，光是她也给你上了酒这点就能看出来。"
     },
     {
       "en": ": I’ve decided it’s best for everyone if I just don’t drink anymore.",
@@ -883,10 +883,10 @@
       "zh": ": 总之，谢谢您的晚饭！我们别聊 NPC 生命里的前几个阶段了！"
     },
     {
-      "en": ": How about the future stages then?",
+      "en": ": How about the {i}future{/i} stages then?",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 那聊聊未来的阶段怎么样？"
+      "zh": ": 那聊聊{i}未来{/i}的阶段怎么样？"
     },
     {
       "en": ""
@@ -910,10 +910,10 @@
       "zh": ": 你们两个明显才是可操作角色，为什么非得聊 NPC 呢？"
     },
     {
-      "en": ": Because you’re not an “NPC.” You’re a good girl who’s passionate about her interests and has just fallen on some hard times. That’s all.",
+      "en": ": Because you’re {i}not{/i} an “NPC.” You’re a good girl who’s passionate about her interests and has just fallen on some hard times. That’s all.",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 因为你不是什么「NPC」。你是个对自己的爱好充满热情的好女孩，只是碰巧遇上了一段难熬的日子。仅此而已。"
+      "zh": ": 因为你{i}不是{/i}什么「NPC」。你是个对自己的爱好充满热情的好女孩，只是碰巧遇上了一段难熬的日子。仅此而已。"
     },
     {
       "en": ""
@@ -943,10 +943,10 @@
       "zh": ": 大概是因为酒在说话。又或者因为这其实是一场约会，而我只是在这儿当她的僚机。"
     },
     {
-      "en": ": It’s neither of those things. I can be nice sometimes too, you know. If Molly was really a thorn in my side, I wouldn’t let her work for me anymore.",
+      "en": ": It’s neither of those things. I can be nice sometimes too, you know. If Molly was {i}really{/i} a thorn in my side, I wouldn’t let her work for me anymore.",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 这两样都不是。我也是会温柔一下的，你知道吧。如果 Molly 真是我眼里的一根刺，我早就不让她在我这儿干了。"
+      "zh": ": 这两样都不是。我也是会温柔一下的，你知道吧。如果 Molly {i}真是{/i}我眼里的一根刺，我早就不让她在我这儿干了。"
     },
     {
       "en": ""
@@ -1021,10 +1021,10 @@
       "zh": ": 嘿，别把我扯进来。我只是来吃饭、看你们俩调情的。"
     },
     {
-      "en": ": Why would I be the one to flirt with Molly when you’re obviously next in line for her heart now that Rin’s out of the picture?",
+      "en": ": Why would {i}I{/i} be the one to flirt with Molly when you’re obviously next in line for her heart now that Rin’s out of the picture?",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 既然 Rin 已经出局了，明摆着排队等着她芳心的人是你，我干嘛还要去跟 Molly 调情？"
+      "zh": ": 既然 Rin 已经出局了，明摆着排队等着她芳心的人是你，{i}我{/i}干嘛还要去跟 Molly 调情？"
     },
     {
       "en": ": Next in line? There is no queue for my feelings. This isn’t the Sims and I didn’t just go around right clicking on “flirt” with everyone in my line of sight.",
@@ -1033,10 +1033,10 @@
       "zh": ": 排队？我的感情又不排队。这又不是《模拟人生》，我也没有到处对着视线里的每个人点右键选「调情」。"
     },
     {
-      "en": ": I’m not saying you did. But if you were to pursue romance with anyone right now, who would it be?",
+      "en": ": I’m not saying you did. But if you {i}were{/i} to pursue romance with anyone right now, who would it be?",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 我又没说你做了。不过如果你现在要跟谁谈恋爱，那个人会是谁？"
+      "zh": ": 我又没说你做了。不过如果你现在{i}要{/i}跟谁谈恋爱，那个人会是谁？"
     },
     {
       "en": ": Haruka, you’re making her un-",
@@ -1093,10 +1093,10 @@
       "en": ""
     },
     {
-      "en": ": That...uhh...doesn’t mean I’m planning on moving out of the common route or anything, though! I’m just simply stating that there isn’t really anyone else in the make-believe feeling queue!",
+      "en": ": That...uhh...doesn’t mean I’m planning on moving out of the common route or anything, though! I’m just simply stating that there isn’t really anyone else {i}in{/i} the make-believe feeling queue!",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 那……呃……也不代表我打算走出共通路线什么的！我只是想说，在那条虚构的感情队伍里，确实没有别人了！"
+      "zh": ": 那……呃……也不代表我打算走出共通路线什么的！我只是想说，在那条虚构的感情队伍{i}里{/i}，确实没有别人了！"
     },
     {
       "en": ": And that if this were a game, which it is because everything is a game and that is why life is worth living, you would just so happen to be the closest person I have to...you know...a romance route...",
@@ -1171,10 +1171,10 @@
       "zh": ": 是，可要是一个女孩在你面前开始自我贬低，你就该说点什么。而不是坐在那儿，看着她往自己挖的洞里越陷越深。"
     },
     {
-      "en": ": And you’re not supposed to put people on the spot like that. What did you think was going to happen? That I’d jump over the table and kiss her?",
+      "en": ": And {i}you’re{/i} not supposed to put people on the spot like that. What did you think was going to happen? That I’d jump over the table and kiss her?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 那你也不该那样把人逼到台面上。你以为会发生什么？我会翻过桌子去亲她？"
+      "zh": ": 那{i}你{/i}也不该那样把人逼到台面上。你以为会发生什么？我会翻过桌子去亲她？"
     },
     {
       "en": ": Weird...the event’s turning sour and we didn’t even have any options to choose from...",
@@ -1198,16 +1198,16 @@
       "en": ""
     },
     {
-      "en": ": I’m just saying, that’s how it is for everyone in your class. They all feel that way about you — not just Molly. It’s obvious to anyone that you’d be next in line for her.",
+      "en": ": I’m just saying, that’s how it is for {i}everyone{/i} in your class. They {i}all{/i} feel that way about you — not just Molly. It’s obvious to anyone that you’d be next in line for her.",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 我只是说，你班上所有人都是这样。她们全都对你有那种感觉——不只是 Molly。谁都看得出来，你会是排在她心里的下一个。"
+      "zh": ": 我只是说，你班上{i}所有人{/i}都是这样。她们{i}全都{/i}对你有那种感觉——不只是 Molly。谁都看得出来，你会是排在她心里的下一个。"
     },
     {
-      "en": ": I didn’t mean anything bad by it and I didn’t mean to put either of you on the spot. I just figured it might be a boost in confidence for her to know that the guy she’s interested in is at least somewhat-",
+      "en": ": I didn’t mean anything bad by it and I didn’t mean to put either of you on the spot. I just figured it might be a boost in confidence for her to know that the guy she’s {i}interested{/i} in is at least somewhat-",
       "spk": "Haruka",
       "spkColor": "#FF48DC",
-      "zh": ": 我没有恶意，也没想把你们两个任何一个逼到台面上。我只是觉得，让她知道自己喜欢的男人至少还有那么一点——应该能给她增加点信心。"
+      "zh": ": 我没有恶意，也没想把你们两个任何一个逼到台面上。我只是觉得，让她知道自己{i}喜欢{/i}的男人至少还有那么一点——应该能给她增加点信心。"
     },
     {
       "en": ": He’s not, though.",
@@ -1231,10 +1231,10 @@
       "en": ""
     },
     {
-      "en": ": Why would he be?",
+      "en": ": Why {i}would{/i} he be? ",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 他为什么会呢？"
+      "zh": ": 他为什么{i}会{/i}呢？"
     },
     {
       "en": ": What do you get for falling in love with an NPC? They never change. Their whole purpose in the game is to move the actual players forward.",
@@ -1282,16 +1282,16 @@
       "zh": ": 别放在心上，司政官。缺乏先见之明可不是您的错。关于我，有些事连您也不明白。"
     },
     {
-      "en": ": Let’s just...get back to talking about non-Molly things because Molly-centric things always seem to bring everybody down! But that’s a problem with her, not everyone else.",
+      "en": ": Let’s just...get back to talking about non-Molly things because Molly-{i}centric{/i} things always seem to bring everybody down! But that’s a problem with {i}her,{/i} not everyone else.",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 我们……还是回去聊点跟 Molly 无关的事吧，因为一切以 Molly 为中心的话题，好像总能让所有人心情低落！不过那是她的问题，不是别人的。"
+      "zh": ": 我们……还是回去聊点跟 Molly 无关的事吧，因为一切以 Molly {i}为中心{/i}的话题，好像总能让所有人心情低落！不过那是{i}她{/i}的问题，不是别人的。"
     },
     {
-      "en": ": It’s not a problem with you.",
+      "en": ": It’s not a problem with {i}you.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 这不是你的问题。"
+      "zh": ": 这不是{i}你{/i}的问题。"
     },
     {
       "en": ""
@@ -1309,10 +1309,10 @@
       "en": ""
     },
     {
-      "en": ": You’re not doing anything wrong. You’ve never been doing anything wrong.",
+      "en": ": You’re not doing anything wrong. You’ve never {i}been{/i} doing anything wrong.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你没有做错任何事。你从来都没有做错过什么。"
+      "zh": ": 你没有做错任何事。你{i}从来{/i}都没有做错过什么。"
     },
     {
       "en": ": The game you’re playing is just really hard.",
@@ -1327,16 +1327,16 @@
       "zh": ": 您说得太对了，先生。我连操作都还没摸清呢。"
     },
     {
-      "en": ": Me neither, and you haven’t been playing even half as long as I have.",
+      "en": ": Me neither, and you haven’t been playing even {i}half{/i} as long as I have.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我也没有，而你玩的时间连我的一半都不到。"
+      "zh": ": 我也没有，而你玩的时间连我的{i}一半{/i}都不到。"
     },
     {
-      "en": ": It’s a weird situation when Haruka is the one at the table who has the most of her shit together.",
+      "en": ": It’s a weird situation when {i}Haruka{/i} is the one at the table who has the most of her shit together.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 一桌人里居然是 Haruka 最把自己的生活收拾得井井有条，这情况可真够奇怪的。"
+      "zh": ": 一桌人里居然是 {i}Haruka{/i} 最把自己的生活收拾得井井有条，这情况可真够奇怪的。"
     },
     {
       "en": ""
@@ -1476,8 +1476,8 @@
       "en": ""
     },
     {
-      "en": "Molly’s affection has increased to [molly_love]!",
-      "zh": "Molly 的好感度提升到了 [molly_love]!"
+      "en": "{i}Molly’s affection has increased to [molly_love]!{/i}",
+      "zh": "{i}Molly 的好感度提升到了 [molly_love]!{/i}"
     },
     {
       "en": ".........",

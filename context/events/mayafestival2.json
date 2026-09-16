@@ -252,10 +252,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": Fine. I will be taking your credit card, please.",
+      "en": ": Fine. I will be taking your credit card, {i}please.{/i}",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 好吧。请——把你的信用卡给我。"
+      "zh": ": 好吧。{i}请{/i}——把你的信用卡给我。"
     },
     {
       "en": ": ...",
@@ -402,10 +402,10 @@
       "zh": ": 好看，没错。但我觉得你可能高估了自己的有趣程度。"
     },
     {
-      "en": ": I think you might be overestimating how fun a goldfish is. Card, please.",
+      "en": ": I think {i}you{/i} might be overestimating how fun a goldfish is. Card, please.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我觉得你可能高估了金鱼的有趣程度。卡，谢谢。"
+      "zh": ": 我觉得{i}你{/i}可能高估了金鱼的有趣程度。卡，谢谢。"
     },
     {
       "en": ": ...",
@@ -581,10 +581,10 @@
       "en": ""
     },
     {
-      "en": ": We’ve got normal melons! We’ve got square melons! We’ve got triangle melons! Any kinda melon you can dream of!",
+      "en": ": We’ve got normal melons! We’ve got {i}square{/i} melons! We’ve got {i}triangle{/i} melons! Any kinda melon you can dream of!",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ": 我们有普通形状的瓜！有方瓜！有三角瓜！你能想到的任何形状的瓜都有！"
+      "zh": ": 我们有普通形状的瓜！有{i}方{/i}瓜！有{i}三角{/i}瓜！你能想到的任何形状的瓜都有！"
     },
     {
       "en": ": So long as it’s one of those three shapes. Anything else, you’re gonna have to join the waitlist for.",
@@ -697,10 +697,10 @@
       "en": ""
     },
     {
-      "en": ": So, is it melon time? Or is it not melon time? I’ve got a very limited supply, you know.",
+      "en": ": So, is it melon time? Or is it {i}not{/i} melon time? I’ve got a very limited supply, you know.",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ": 那么，现在是买瓜时间吗？还是不是？我存货可不多，你知道吗。"
+      "zh": ": 那么，现在是买瓜时间吗？还是{i}不是{/i}？我存货可不多，你知道吗。"
     },
     {
       "en": ": It is most certainly “melon time,” but I think I should ask you to confirm the quality of said melons since the girl I’m here with today is a bit of a connoisseur.",
@@ -1030,10 +1030,10 @@
       "zh": ": ……"
     },
     {
-      "en": ": This is the part where you tell me yours.",
+      "en": ": {i}This is the part where you tell me yours.{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 现在该你告诉我你的名字了。"
+      "zh": ": {i}现在该你告诉我你的名字了。{/i}"
     },
     {
       "en": ""
@@ -1114,10 +1114,10 @@
       "zh": ": 你没在上学？我只是觉得你看起来有点小。"
     },
     {
-      "en": ": Oooooh, is that why you’re flirting with me? Cause I remind you of your students?",
+      "en": ": Oooooh, is {i}that{/i} why you’re flirting with me? Cause I remind you of your students?",
       "spk": "???",
       "spkColor": "#e6e6e6",
-      "zh": ": 哦哦哦，所以你才跟我搭讪？因为我让你想起你的学生？"
+      "zh": ": 哦哦哦，{i}所以{/i}你才跟我搭讪？因为我让你想起你的学生？"
     },
     {
       "en": ": That’s not-",
@@ -1421,10 +1421,10 @@
       "en": ""
     },
     {
-      "en": ": There’s...croquettes...taiyaki...some weird potato-on-a-stick thing...whatever this is...some other things I don’t know the name of...and a live squid.",
+      "en": ": There’s...croquettes...taiyaki...some weird potato-on-a-stick thing...whatever {i}this{/i} is...some other things I don’t know the name of...and a live squid.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 有……可乐饼……鲷鱼烧……某种奇怪的串签土豆……这玩意儿叫什么来着……还有些我叫不出名字的东西……还有一只活鱿鱼。"
+      "zh": ": 有……可乐饼……鲷鱼烧……某种奇怪的串签土豆……{i}这{/i}玩意儿叫什么来着……还有些我叫不出名字的东西……还有一只活鱿鱼。"
     },
     {
       "en": ""
@@ -1460,10 +1460,10 @@
       "zh": ": 你能不能去……把它杀了之类的？"
     },
     {
-      "en": ": Asking me for my credit card is one thing. But asking me to kill? You’re better than this, Maya.",
+      "en": ": Asking me for my credit card is one thing. But asking me to {i}kill?{/i} You’re better than this, Maya.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 问我要信用卡是一回事。可让我去杀生？你不至于这样吧，Maya。"
+      "zh": ": 问我要信用卡是一回事。可让我去{i}杀生{/i}？你不至于这样吧，Maya。"
     },
     {
       "en": ": Am I? Because I’m pretty sure I’ve asked you to kill Noriko on several occasions and, if anything, I think I’d prefer to keep the squid alive if I had to choose between the two of them.",
@@ -1499,10 +1499,10 @@
       "zh": ": 呕，别说了。至少等我吃完再说这种话。"
     },
     {
-      "en": ": Maya, there is so much food here that it is going to take you the rest of the festival to eat it all even if you manage to eat at your normal breakneck pace.",
+      "en": ": Maya, there is so much food here that it is going to take you the rest of the festival to eat it all even {i}if{/i} you manage to eat at your normal breakneck pace.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Maya，这儿的食物太多了，就算你用平时那种拼命的速度吃，也得吃到祭典结束才吃得完。"
+      "zh": ": Maya，这儿的食物太多了，{i}就算{/i}你用平时那种拼命的速度吃，也得吃到祭典结束才吃得完。"
     },
     {
       "en": ""
@@ -1565,10 +1565,10 @@
       "zh": ": 因为我知道你不会因为这样就看轻我。"
     },
     {
-      "en": ": I literally can not think any less of you.",
+      "en": ": I literally can {i}not{/i} think any less of you.",
       "spk": "Maya",
       "spkColor": "#20EF00",
-      "zh": ": 我已经不可能再看轻你了。"
+      "zh": ": 我已经{i}不{/i}可能再看轻你了。"
     },
     {
       "en": ": Yeah, exactly.",
@@ -1614,24 +1614,24 @@
       "zh": "Maya 一盘接一盘地扫荡过去，然后——"
     },
     {
-      "en": "Well, I guess tear probably isn’t the right word since she somehow manages to look graceful even while consuming more than some villages do in an entire week.",
-      "zh": "好吧，“扫荡”这个词大概不太合适，因为就算吃下比某些村庄一整周还多的量，她看上去依然优雅。"
+      "en": "Well, I guess {i}tear{/i} probably isn’t the right word since she somehow manages to look graceful even while consuming more than some villages do in an entire week.",
+      "zh": "好吧，“{i}扫荡{/i}”这个词大概不太合适，因为就算吃下比某些村庄一整周还多的量，她看上去依然优雅。"
     },
     {
       "en": "But she eats everything without lessening her pace even once.",
       "zh": "但她把每一样都吃了下去，速度一次都没慢下来。"
     },
     {
-      "en": "The sun begins to set as she does so, and the air begins to turn a bit colder- but that’s to be expected since it is technically still winter.",
-      "zh": "她吃的时候太阳开始西沉，空气也渐渐转凉——不过这也是意料之中的，毕竟严格来说现在还是冬天。"
+      "en": "The sun begins to set as she does so, and the air begins to turn a bit colder- but that’s to be expected since it is {i}technically{/i} still winter.",
+      "zh": "她吃的时候太阳开始西沉，空气也渐渐转凉——不过这也是意料之中的，毕竟{i}严格来说{/i}现在还是冬天。"
     },
     {
       "en": "Sure, the two of us were gifted a relatively warm day by Mother Nature, but only until it was time for her to go out and party with her other cougar friends.",
       "zh": "大自然母亲确实赏了我们一个相对暖和的日子，但只到她要出门跟她的美洲狮姐妹们狂欢为止。"
     },
     {
-      "en": "As Maya eats, well, everything- I slowly pick at a bowl of ramen that, at least to my unrefined palate, doesn’t compare much to what Tsuneyo makes.",
-      "zh": "Maya 吃着——好吧，吃着一切——我则慢慢挑着一碗拉面，至少以我这不讲究的舌头来说，它比不上 Tsuneyo 做的。"
+      "en": "As Maya eats, well, {i}everything-{/i} I slowly pick at a bowl of ramen that, at least to my unrefined palate, doesn’t compare much to what Tsuneyo makes.",
+      "zh": "Maya 吃着——好吧，吃着{i}一切{/i}——我则慢慢挑着一碗拉面，至少以我这不讲究的舌头来说，它比不上 Tsuneyo 做的。"
     },
     {
       "en": "But it’s warm enough to battle the encroaching cold and gives me something to do while waiting for the first stage of Maya’s favorite day of the year to end.",
@@ -1682,8 +1682,8 @@
       "zh": "Maya 如她所说，把瓜留到了最后当甜点。"
     },
     {
-      "en": "And yes, she did finish everything- including the remainder of my ramen which, despite my worsening hunger, I was not able to finish.",
-      "zh": "没错，她真的全都吃完了——包括我那碗没吃完的拉面，尽管我越来越饿，还是没能吃完。"
+      "en": "And yes, she did finish {i}everything-{/i} including the remainder of my ramen which, despite my worsening hunger, I was not able to finish.",
+      "zh": "没错，她真的{i}全都{/i}吃完了——包括我那碗没吃完的拉面，尽管我越来越饿，还是没能吃完。"
     },
     {
       "en": "I recall her saying in the past that she doesn’t like being watched while she eats and, this isn’t me being weird or...fetishy, but I’m glad she seemingly abandoned that insecurity today.",
@@ -1820,10 +1820,10 @@
       "zh": ": 不是。只是在你的帮助下加固这个信念罢了。"
     },
     {
-      "en": ": I guess we can get our fortunes while we’re there too. That seems like another...festivaly thing to do.",
+      "en": ": I guess we can get our fortunes while we’re there too. That seems like another...{i}festivaly{/i} thing to do.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我想我们还能顺便在那儿抽个签。那看起来也是件……很有祭典感的事。"
+      "zh": ": 我想我们还能顺便在那儿抽个签。那看起来也是件……很{i}有祭典感{/i}的事。"
     },
     {
       "en": ": Not necessary.",
@@ -1887,8 +1887,8 @@
       "en": ""
     },
     {
-      "en": "Maya’s affection has increased to [maya_love]!",
-      "zh": "Maya 的好感度提升到了 [maya_love]!"
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]!{/i}"
     },
     {
       "en": ".........",

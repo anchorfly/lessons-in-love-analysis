@@ -17,8 +17,8 @@
       "zh": "我决定把 Makoto 叫过来，在手机上点了她的名字。"
     },
     {
-      "en": "Being that last time didn’t exactly go well, I figure that I might need to do something about Ami if I want tonight to end in success.",
-      "zh": "鉴于上次不太顺利，我想如果今晚想有个好结果，我大概得对 Ami 做点什么。"
+      "en": "Being that last time didn’t exactly go {i}well{/i}, I figure that I might need to do something about Ami if I want tonight to end in success.",
+      "zh": "鉴于上次不太{i}顺利{/i}，我想如果今晚想有个好结果，我大概得对 Ami 做点什么。"
     },
     {
       "en": "But I need to at least figure out if Makoto is able to get out of work first.",
@@ -60,10 +60,10 @@
       "zh": ": 嘿。你现在有空吗，碰巧？"
     },
     {
-      "en": ": Umm...I could be free, I suppose. My mom and I are both in the shop right now.",
+      "en": ": Umm...I {i}could{/i} be free, I suppose. My mom and I are both in the shop right now.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 嗯……我应该有空吧。我妈和我现在都在店里。"
+      "zh": ": 嗯……我{i}应该{/i}有空吧。我妈和我现在都在店里。"
     },
     {
       "en": ": Does she know that I'm the one calling you?",
@@ -84,10 +84,10 @@
       "zh": ": 好。跟她说你又要学习什么的。"
     },
     {
-      "en": ": Just to clarify, you are inviting me over...Correct?",
+      "en": ": Just to clarify, you {i}are{/i} inviting me over...Correct?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 确认一下，你是在邀请我过去……对吧？"
+      "zh": ": 确认一下，你{i}是{/i}在邀请我过去……对吧？"
     },
     {
       "en": ": Correct.",
@@ -105,13 +105,13 @@
       "en": ": She isn’t a demon-spawn...but probably. I’ll figure out a way to deal with her, though.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 她不是恶魔[niece]……不过大概在。我会想办法对付她的。"
+      "zh": ": 她不是什么恶魔崽子……不过大概在吧。我会想办法对付她的。"
     },
     {
-      "en": ": Good. Because I’d very much like to actually be alone with you if we’re going to be in your house.",
+      "en": ": Good. Because I’d very much like to actually be {i}alone{/i} with you if we’re going to be in your house.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 好。因为如果在你家，我非常希望能真的跟你独处。"
+      "zh": ": 好。因为如果在你家，我非常希望能真的跟你{i}独处{/i}。"
     },
     {
       "en": ": Are you trying to seduce me over the phone?",
@@ -120,10 +120,10 @@
       "zh": ": 你是想在电话里勾引我吗？"
     },
     {
-      "en": ": N-No! I just...you know! It’s your house!",
+      "en": ": N-No! I just...you know! It’s {i}your{/i} house! ",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 不……不是！我只是……你知道的！那是你家！"
+      "zh": ": 不……不是！我只是……你知道的！那是{i}你家{/i}！"
     },
     {
       "en": ": I’m obviously going to...expect certain things if you invite me over.",
@@ -230,10 +230,10 @@
       "zh": ": 如果你是个正常的成年人、有辆车能来接我，那会好得多。"
     },
     {
-      "en": ": If I had a car to pick you up in, there wouldn’t be much of a reason for us to come here in the first place.",
+      "en": ": If I had a car to pick you up in, there wouldn’t be much of a reason for us to come {i}here{/i} in the first place.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 如果我有车去接你，我们一开始就没多少理由要来这儿了。"
+      "zh": ": 如果我有车去接你，我们一开始就没多少理由要来{i}这儿{/i}了。"
     },
     {
       "en": ": I’m not sure what you mean by that, Sensei. Please clarify.",
@@ -275,10 +275,10 @@
       "zh": ": 没意义。你够聪明，知道我如果不想从你这儿要点什么，就不会把 Ami 支开。"
     },
     {
-      "en": ": From me? Or with me?",
+      "en": ": {i}From{/i} me? Or {i}with{/i} me?",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 从我这儿要什么？还是跟我一起做什么？"
+      "zh": ": {i}从我这儿{/i}要什么？还是{i}跟我一起{/i}做什么？"
     },
     {
       "en": ": Whichever. It doesn’t really matter to me.",
@@ -472,16 +472,16 @@
       "zh": ""
     },
     {
-      "en": "It’s not like I’m opposed to the living room, but that is a good point.",
-      "zh": "我又不是反对客厅，但这话说得对。"
+      "en": "It’s not like I’m {i}opposed{/i} to the living room, but that is a good point.",
+      "zh": "我又不是{i}反对{/i}客厅，但这话说得对。"
     },
     {
       "en": "Not because of impoliteness, obviously, but because of how easy it would be to get caught here.",
       "zh": "显然不是因为失礼，而是因为在这儿太容易被撞见。"
     },
     {
-      "en": "If we take this to my bedroom, I’ll at least be able to lock the door and not let Ami see anything if she gives up on her scavenger hunt early.",
-      "zh": "如果我们去我卧室，我至少能锁上门，万一 Ami 提前放弃她的寻宝任务回来，也看不到什么。"
+      "en": "If we take this to my bedroom, I’ll at least be able to lock the door and not let Ami {i}see{/i} anything if she gives up on her scavenger hunt early.",
+      "zh": "如果我们去我卧室，我至少能锁上门，万一 Ami 提前放弃她的寻宝任务回来，也{i}看不到{/i}什么。"
     },
     {
       "en": "Though, if she hears anything, I imagine she’ll just break down the door anyway.",
@@ -653,8 +653,8 @@
       "zh": "她是这么想的吗？"
     },
     {
-      "en": "I’ll be honest in saying that I don’t not feel anything, but I didn’t expect her to directly accuse me of falling for her or whatever she’s insinuating right now.",
-      "zh": "老实说，我不是毫无感觉，但我没料到她会直接指控我爱上她，或者随便她现在在暗示什么。"
+      "en": "I’ll be honest in saying that I don’t {i}not{/i} feel anything, but I didn’t expect her to directly accuse me of falling for her or whatever she’s insinuating right now.",
+      "zh": "老实说，我{i}不是毫无{/i}感觉，但我没料到她会直接指控我爱上她，或者随便她现在在暗示什么。"
     },
     {
       "en": "The fact is that I just like spending time with her and it makes sense for two people to capitalize on their carnal desires if they share them.",
@@ -779,10 +779,10 @@
       "zh": ": 你叫谁慕男狂？！我他妈还是处女好不好！"
     },
     {
-      "en": ": And also! I’m only a virgin because a certain someone refuses to have sex with me! I’m completely ready! I’ve always been ready!",
+      "en": ": And also! I’m only a virgin because a certain {i}someone{/i} refuses to have sex with me! I’m completely ready! I’ve always been ready!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 还有！我之所以还是处女，只是因为某个人不肯跟我做爱！我完全准备好了！我一直都准备好了！"
+      "zh": ": 还有！我之所以还是处女，只是因为{i}某个人{/i}不肯跟我做爱！我完全准备好了！我一直都准备好了！"
     },
     {
       "en": ": I was born ready!",
@@ -791,10 +791,10 @@
       "zh": ": 我生下来就准备好了！"
     },
     {
-      "en": ": Well, not born! But you know what I mean!",
+      "en": ": Well, not {i}born{/i}! But you know what I mean!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 嗯，不是生下来！但你懂我意思！"
+      "zh": ": 嗯，不是{i}生下来{/i}！但你懂我意思！"
     },
     {
       "en": ": So, if I take your virginity today, you’re fine with it?",
@@ -863,16 +863,16 @@
       "en": ""
     },
     {
-      "en": ": Why? So you can not have sex with me again? I respectfully decline.",
+      "en": ": Why? So you can {i}not{/i} have sex with me again? I respectfully decline.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 为什么？好让你又不跟我做爱？我恭敬地拒绝。"
+      "zh": ": 为什么？好让你{i}又不{/i}跟我做爱？我恭敬地拒绝。"
     },
     {
-      "en": ": Actually, no. I disrespectfully decline. I’m tired of seeing your penis outside of me when it should be inside of me.",
+      "en": ": Actually, no. I {i}disrespectfully{/i} decline. I’m tired of seeing your penis outside of me when it should be inside of me.",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 实际上，不。我无礼地拒绝。我看够了你的阴茎在外面，它该在里面。"
+      "zh": ": 实际上，不。我{i}无礼地{/i}拒绝。我看够了你的阴茎在外面，它该在里面。"
     },
     {
       "en": ": See? Sentences like this are why I call you a nymphomaniac.",
@@ -971,10 +971,10 @@
       "zh": ": 你为什么要走神？！"
     },
     {
-      "en": ": Also, again, I'm a virgin! There’s no way it would just slide in without any resistance!",
+      "en": ": Also, again, I'm a {i}virgin{/i}! There’s no way it would just {i}slide in{/i} without any resistance!",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 还有，再说一次，我是处女！它不可能毫无阻力地就这么滑进去！"
+      "zh": ": 还有，再说一次，我是{i}处女{/i}！它不可能毫无阻力地就这么{i}滑进去{/i}！"
     },
     {
       "en": ": I’m not so sure about that. I’ve seen how turned on you get.",
@@ -1031,10 +1031,10 @@
       "zh": ": 不……也许没有。"
     },
     {
-      "en": ": But just think of how it would feel for you, [makotomaster]...",
+      "en": ": But just think of how it would feel for {i}you{/i}, [makotomaster]...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 可你想想那对你来说会是什么感觉，[makotomaster]……"
+      "zh": ": 可你想想那对{i}你{/i}来说会是什么感觉，[makotomaster]……"
     },
     {
       "en": ": A studious,[teen]virgin grinding back and forth on your big, hard cock...",
@@ -1169,10 +1169,10 @@
       "zh": ": 那么只要不把它放进我里面，我想干什么都行？"
     },
     {
-      "en": ": Well, not anything. Even I have limits.",
+      "en": ": Well, not {i}anything{/i}. Even I have limits.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 嗯，不是什么都能。连我都是有底线的。"
+      "zh": ": 嗯，不是{i}什么都能{/i}。连我都是有底线的。"
     },
     {
       "en": ": I’m starting to think you’re just afraid of virgins.",
@@ -1582,10 +1582,10 @@
       "zh": ": 可是……嗯……真的……我一点都不介意……"
     },
     {
-      "en": ": In fact, I want your cum...[makotomaster]...",
+      "en": ": In fact, I {i}want{/i} your cum...[makotomaster]...",
       "spk": "Makoto",
       "spkColor": "#5D84FF",
-      "zh": ": 事实上，我想要你的精液……[makotomaster]……"
+      "zh": ": 事实上，我{i}想要{/i}你的精液……[makotomaster]……"
     },
     {
       "en": ": I want you to...hah...push it...all the way in...and...mmn...let it all out...",
@@ -2321,12 +2321,12 @@
       "en": ""
     },
     {
-      "en": "Makoto’s lust has increased to [makoto_lust]!",
-      "zh": "Makoto 的情欲提升到了 [makoto_lust]！"
+      "en": "{i}Makoto’s lust has increased to [makoto_lust]!{/i}",
+      "zh": "{i}Makoto 的情欲提升到了 [makoto_lust]！{/i}"
     },
     {
-      "en": "You can now choose between affection and lust when inviting her over!",
-      "zh": "现在邀请她上门时可以在好感度和情欲之间选择了！"
+      "en": "{i}You can now choose between affection and lust when inviting her over!{/i}",
+      "zh": "{i}现在邀请她上门时可以在好感度和情欲之间选择了！{/i}"
     },
     {
       "en": ".........",

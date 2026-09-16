@@ -1,0 +1,759 @@
+{
+  "label": "dressingx",
+  "title_zh": "试衣间",
+  "lines": [
+    {
+      "en": "label dressingx:",
+      "zh": ""
+    },
+    {
+      "en": ": You’re not gonna try and sneak into our dressing rooms, are you?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 你不会想偷偷溜进我们的试衣间吧？"
+    },
+    {
+      "en": ": Probably not. I imagine I look strange enough accompanying three girls in[school] uniforms to the mall.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 大概不会。我光是陪三个穿[school]制服的女孩逛商场，看起来就已经够奇怪了。"
+    },
+    {
+      "en": ": But you {i}want{/i} to, right? ",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 但你{i}想{/i}，对吧？"
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 想。"
+    },
+    {
+      "en": ": Are you really that perverted?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 你真的那么变态吗？"
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 想。"
+    },
+    {
+      "en": ": I’m...having a hard time remembering why I agreed to this.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……已经想不起来自己当初为什么答应这件事了。"
+    },
+    {
+      "en": ": Um...don’t go expectin’ too much, okay? It’s embarrassin’ enough havin’ to be seen next to these two overinflated bimbos.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 呃……别抱太大期望啊？光是站在这两个充气过头的花瓶旁边被人看见，就已经够丢人的了。"
+    },
+    {
+      "en": ": Are you excited, Sensei? Does this get your blood pumping?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 你兴奋吗，Sensei？这有没有让你血脉偾张？"
+    },
+    {
+      "en": ": Uta, just to clarify, are you {i}trying{/i} to turn me on right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Uta，我确认一下，你现在是在{i}试图{/i}让我兴奋吗？"
+    },
+    {
+      "en": ": {i}Me?{/i} Uta Ushibori? Trying to get my teacher riled up? Do you really think I would do something like that?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": {i}我？{/i}Uta Ushibori？试图挑逗我的老师？你真觉得我会干那种事吗？"
+    },
+    {
+      "en": ": I don’t really know how else to interpret this strange level of assertion you have today.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你今天这股莫名的主动劲儿，我真不知道还能怎么解释。"
+    },
+    {
+      "en": ": Maybe I just really like the beach?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 也许我只是真的很喜欢海滩呢？"
+    },
+    {
+      "en": ": I’ll tell ya what. If you agree to not go peepin’ on me, I won’t tell anyone if you decide to peep on either of them. How does that sound?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 这么说吧。如果你答应不来偷看我，那你要是偷看她们俩任何一个，我也不会告诉别人。怎么样？"
+    },
+    {
+      "en": ": Bad...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 不怎么样……"
+    },
+    {
+      "en": ": We can hear you...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我们听得见……"
+    },
+    {
+      "en": ": I like ya a lot, Sensei...but even I wouldn’t want ya watchin’ me try on a new swimsuit.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 我很喜欢你啦，Sensei……但就算是我，也不想让你看我试新泳衣。"
+    },
+    {
+      "en": ": I don’t even know if it’ll fit yet.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 我都还不知道合不合身呢。"
+    },
+    {
+      "en": ": She says, as if she’s grown at all since she was a little kid.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 说得好像她从小屁孩那会儿起长大过似的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip26.webp",
+      "alt": "impromptumalltrip26"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": WELL SORRY WE’RE NOT ALL LUCKY ENOUGH TO GET FRIGGIN’ TRIPLE F’S BEFORE WE’RE EVEN FIVE FEET TALL.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 那对不起了，谁让我们没有那么好的运气，还没长到五英尺高就长出该死的 F 罩杯呢。"
+    },
+    {
+      "en": ": Those aren’t actually-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那其实不是——"
+    },
+    {
+      "en": ": Nope.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 不是。"
+    },
+    {
+      "en": ": I didn’t think so.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我想也是。"
+    },
+    {
+      "en": ": I’m...going to get changed now.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……去换衣服了。"
+    },
+    {
+      "en": ": Me too! And I hope I don’t need assistance since I’m apparently still just a kid!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 我也是！既然我显然还只是个小孩，希望我不需要人帮忙！"
+    },
+    {
+      "en": ": If you {i}do{/i}, you know where to-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 要{i}是{/i}需要的话，你知道该找——"
+    },
+    {
+      "en": ": Shut up!",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 闭嘴！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip27.webp",
+      "alt": "impromptumalltrip27"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Miku and Futaba disappear behind the curtains and I’m left alone and totally clothed with Uta.",
+      "zh": "Miku 和 Futaba 消失在帘子后面，只剩我一个人和 Uta 待着，而我衣服穿得整整齐齐。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are you not going to follow them?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你不跟着她们进去吗？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Really don’t peek, okay?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 真的不许偷看，好不好？"
+    },
+    {
+      "en": ": After all of that you’re really not going to let me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 闹了这么半天，你还真不打算让我看？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip28",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip28.webp",
+      "alt": "impromptumalltrip28"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Not without my parents’ permission.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 没有我父母的许可就不行。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta joins Futaba in her dressing room, immediately prompting a gasp as I’m sure Futaba thought it was me sneaking in or something like that.",
+      "zh": "Uta 走进 Futaba 的试衣间，立刻引来一声倒吸凉气——我敢肯定 Futaba 以为是我偷偷溜进去了之类的。"
+    },
+    {
+      "en": "The three girls then proceed to spend an alarming amount of time inside, which is quite strange to me considering that they’re only trying on swimsuits.",
+      "zh": "三个女孩接着在里面待了长得吓人的一段时间，考虑到她们只是试泳衣，我觉得相当奇怪。"
+    },
+    {
+      "en": "But I guess I did see them grab a fair amount of them before going in and-",
+      "zh": "不过我想我确实看到她们进去前抓了不少件，而且——"
+    },
+    {
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "en": "I don’t really care how long I have to wait now that I think of it.",
+      "zh": "想想看，要等多久我其实根本不在乎。"
+    },
+    {
+      "en": "Because if I’m fortunate enough to watch these three expose themselves to me in what would be commonly cited as the most tame form of exhibitionism possible, time does not matter.",
+      "zh": "因为如果我有幸能看到这三个在我面前展露自己——用大家公认最温和的那种暴露方式——那时间就不重要了。"
+    },
+    {
+      "en": "All that matters is swimsuits.",
+      "zh": "唯一重要的就是泳衣。"
+    },
+    {
+      "en": "Swimsuits that may or may not lead to several of my students falling ill and dying in the very near future.",
+      "zh": "这些泳衣说不定会导致我的几个学生在不久的将来染病身亡。"
+    },
+    {
+      "en": "I will make sure to etch the images of their bodies into my mind so I can properly remember them if that does actually happen.",
+      "zh": "我会把她们身体的影像刻进脑子里，万一真有那么一天，我好能好好怀念。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip29",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip29.webp",
+      "alt": "impromptumalltrip29"
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I open my eyes several minutes later after hearing the curtains pulled back and realized that I must have died and gone to Heaven.",
+      "zh": "几分钟后，听见帘子被拉开的声音，我睁开眼睛，意识到自己一定是死了、上了天堂。"
+    },
+    {
+      "en": "I feel a little upset that I didn’t get to say goodbye to everyone, but if this is what the afterlife brings, I apologize for any horrible things I may have said about {s}god{/s} God throughout my life.",
+      "zh": "没能跟大家道别让我有点失落，不过如果来世是这样的话，那我为我这辈子对上帝说过的任何大不敬的话道歉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip30",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip30.webp",
+      "alt": "impromptumalltrip30"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip31.webp",
+      "alt": "impromptumalltrip31"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip32.webp",
+      "alt": "impromptumalltrip32"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": I’m goin’ back in the dressing room.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 我回试衣间去了。"
+    },
+    {
+      "en": ": All {i}three{/i} of you look great.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你们{i}三个{/i}都很好看。"
+    },
+    {
+      "en": ": Two and a half. ",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 两个半吧。"
+    },
+    {
+      "en": ": We all know it’s the chest that makes a woman and I’m about as much of a woman as the bench I left my blazer on.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 谁都知道胸才是女人的本钱，而我大概跟我搁外套的那条长凳一样有女人味。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip33",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip33.webp",
+      "alt": "impromptumalltrip33"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s not true! You’re super cute, Miku! And what you don’t have in boobies, you make up for in abs!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 才不是！你超可爱的，Miku！胸部上缺的，你用腹肌补回来了啊！"
+    },
+    {
+      "en": ": You...really think this looks okay on me?...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你……真觉得我穿这个好看吗？……"
+    },
+    {
+      "en": ": I...wanted to keep the stripes because of what they say about them being slimming, but...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……想留下条纹，因为都说条纹显瘦，不过……"
+    },
+    {
+      "en": ": I...wasn’t sure if I liked the...black and white or not.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 我……不确定自己喜不喜欢这个……黑白配。"
+    },
+    {
+      "en": ": Like I said, it’s great.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我说过了，很好看。"
+    },
+    {
+      "en": ": Now, everyone turn around and bend over so I can see the rest of the swimsuits for a more accurate judgement of them.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好了，现在所有人转过去弯下腰，好看清泳衣剩下的部分，做出更准确的评判。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip34",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip34.webp",
+      "alt": "impromptumalltrip34"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You actually a butt guy after all, Sensei? Or are you just tryin’ to make me feel better because I’ve actually got a little more to offer down there?",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": Sensei，你其实原来是屁股派的？还是说你只是想让我好受点，因为我下面其实还有点料？"
+    },
+    {
+      "en": ": Please be more embarrassed, Miku.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 请再害羞一点，Miku。"
+    },
+    {
+      "en": ": Why? You see my legs all the time at soccer practice. You’d probably be able to choose my butt out of a police lineup if ya had to.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 为什么？足球训练的时候你天天看我的腿。要是让你从列队指认里挑我的屁股，你大概都挑得出来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I don’t yet think I’m at that level of familiarity with Miku’s ass, but I would be lying if I said I did not want to be.",
+      "zh": "我觉得自己还没跟 Miku 的屁股熟到那个地步，不过要说我并不想熟到那个地步，那就是在撒谎了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So...we all set then? None of us look weird or ugly or anything?",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 那么……都定下来了？我们没谁看起来奇怪或者丑什么的吧？"
+    },
+    {
+      "en": ": Not at all. Though, I’m a little surprised that you seem to be the most embarrassed out of everyone, Uta.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 完全没有。不过我有点意外，Uta，你似乎是所有人里最害羞的那个。"
+    },
+    {
+      "en": ": Hm? What are you talkin’ about? I’m not embarrassed at all.",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 嗯？你在说什么？我一点都不害羞啊。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip35",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip35.webp",
+      "alt": "impromptumalltrip35"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Your face is really...flushed right now.",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 你的脸现在真的……很红。"
+    },
+    {
+      "en": ": Yeah. You’re in full-on tomato mode.",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 是啊。你现在完全就是个番茄。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip36",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip36.webp",
+      "alt": "impromptumalltrip36"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It...was hot in the dressing room! ",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 试衣间里……很热嘛！"
+    },
+    {
+      "en": ": And there were two of us, so...it was even hotter than it was supposed to be!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 而且里面有我们两个人，所以……比本来该有的温度还要热！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene impromptumalltrip37",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/impromptumalltrip37.webp",
+      "alt": "impromptumalltrip37"
+    },
+    {
+      "en": "with dissolve",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m totally fine! And I’m glad you think we’re all {i}totally fine{/i} as well, Sensei!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 我完全没事！而且我很高兴你也觉得我们{i}完全没问题{/i}，Sensei！"
+    },
+    {
+      "en": ": Don’t mention it...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不客气……"
+    },
+    {
+      "en": ": So, girls! Are we ready to empty our wallets into the cash register in the name of looking cute?!",
+      "spk": "Uta",
+      "spkColor": "#EF61BF",
+      "zh": ": 好了姑娘们！准备好为了变可爱把钱包倒进收银机了吗？！"
+    },
+    {
+      "en": ": As long as Sensei thinks I don’t look silly...",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 只要 Sensei 觉得我看起来不傻就行……"
+    },
+    {
+      "en": ": You really don’t think somethin’ like this is a little too girly for me?",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 你真不觉得这种东西对我来说太女孩子气了点？"
+    },
+    {
+      "en": ": Of course not. You’re a girl.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然不。你就是女孩子啊。"
+    },
+    {
+      "en": ": Yeah, but...it’s not really my style...",
+      "spk": "Miku",
+      "spkColor": "#FF8112",
+      "zh": ": 是倒是，不过……这不太像我的风格……"
+    },
+    {
+      "en": ": Just buy the fucking swimsuits already. You’re all adorable.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 赶紧他妈的把泳衣买了吧。你们都很可爱。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "en": "with dissolve2",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump dressingafter",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

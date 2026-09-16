@@ -46,8 +46,8 @@
       "zh": ": 它开始开花了。"
     },
     {
-      "en": "This is spring, after all. It was only a matter of time until that scent and those colors found their way back to me.",
-      "zh": ": 毕竟是春天。那股香气、那些颜色,迟早会重新找到我。"
+      "en": "This {i}is{/i} spring, after all. It was only a matter of time until that scent and those colors found their way back to me.",
+      "zh": ": 毕竟{i}是{/i}春天。那股香气、那些颜色,迟早会重新找到我。"
     },
     {
       "en": "Just like she did.",
@@ -104,10 +104,10 @@
       "zh": ": 喂?"
     },
     {
-      "en": ": Hey, Akira. Any chance you could meet up tonight? There’s something I want to talk to you about.",
+      "en": ": {i}Hey, Akira. Any chance you could meet up tonight? There’s something I want to talk to you about.{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 嘿,Akira。今晚有概率见一面吗?有件事我想和你聊聊。"
+      "zh": ": {i}嘿,Akira。今晚有概率见一面吗?有件事我想和你聊聊。{/i}"
     },
     {
       "en": ": Am I allowed to know what it is beforehand? Or is this one of those things where I get blindsided by drama and thrown into a lake of sorrow where I must either sink or swim?",
@@ -116,10 +116,10 @@
       "zh": ": 我有资格提前知道是什么吗?还是说,这又是那种「被剧情偷袭、被扔进悲伤之湖,不沉底就得扑腾」的事?"
     },
     {
-      "en": ": Lake of Sorrow is an album by Sins of Thy Beloved.",
+      "en": ": {i}Lake of Sorrow is an album by Sins of Thy Beloved.{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 《Lake of Sorrow(悲伤之湖)》是 Sins of Thy Beloved 乐队的专辑。"
+      "zh": ": {i}《Lake of Sorrow(悲伤之湖)》是 Sins of Thy Beloved 乐队的专辑。{/i}"
     },
     {
       "en": ": Cool. That doesn’t answer my question, though.",
@@ -128,10 +128,10 @@
       "zh": ": 酷。但这没回答我的问题。"
     },
     {
-      "en": ": It’s about Rin. Just come over and I’ll tell you more, okay?",
+      "en": ": {i}It’s about Rin. Just come over and I’ll tell you more, okay?{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 是关于 Rin 的。你过来,我再细说,好吗?"
+      "zh": ": {i}是关于 Rin 的。你过来,我再细说,好吗?{/i}"
     },
     {
       "en": ": Rin? Did something happen to her? Is everything-",
@@ -140,10 +140,10 @@
       "zh": ": Rin?她出什么事了?一切都——"
     },
     {
-      "en": ": Just come over...and I will tell you more. Okay?",
+      "en": ": {i}Just come over...and I will tell you more. Okay?{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 你过来……我再细说。好吗?"
+      "zh": ": {i}你过来……我再细说。好吗?{/i}"
     },
     {
       "en": ": Oh...yeah. I’ll head over now.",
@@ -152,10 +152,10 @@
       "zh": ": 哦……好。我这就过去。"
     },
     {
-      "en": ": Bring cheese, if you can. It’s important.",
+      "en": ": {i}Bring cheese, if you can. It’s important.{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 顺便带点奶酪,如果方便的话。这很重要。"
+      "zh": ": {i}顺便带点奶酪,如果方便的话。这很重要。{/i}"
     },
     {
       "en": ": You don’t...still have that rat. Do-",
@@ -164,10 +164,10 @@
       "zh": ": 你不会……还养着那只老鼠吧。难——"
     },
     {
-      "en": ": Bye, Akira! See you soon!",
+      "en": ": {i}Bye, Akira! See you soon!{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 拜拜,Akira!回头见!"
+      "zh": ": {i}拜拜,Akira!回头见!{/i}"
     },
     {
       "en": ""
@@ -237,10 +237,10 @@
       "en": ""
     },
     {
-      "en": ": Come in! It’s open!",
+      "en": ": {i}Come in! It’s open!{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 进来!没锁!"
+      "zh": ": {i}进来!没锁!{/i}"
     },
     {
       "en": ""
@@ -336,10 +336,10 @@
       "en": ""
     },
     {
-      "en": ": It’s a work in progress. But all I really need is a futon and a table to eat stuff at.",
+      "en": ": It’s a work in progress. But all I really {i}need{/i} is a futon and a table to eat stuff at. ",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 一切都在进行中。但我真正需要的,就是一张蒲团和一张吃饭的桌子。"
+      "zh": ": 一切都在进行中。但我真正{i}需要{/i}的,就是一张蒲团和一张吃饭的桌子。"
     },
     {
       "en": ": I see you kept the chalk outlines too.",
@@ -603,16 +603,16 @@
       "en": ""
     },
     {
-      "en": ": Which was not a lie, actually. I did do that when I got back. But only for a couple minutes before I realized I could just use my own phone for that and yours was dying from Ami calling it so many times.",
+      "en": ": Which was {i}not{/i} a lie, actually. I {i}did{/i} do that when I got back. But only for a couple minutes before I realized I could just use my own phone for that and yours was dying from Ami calling it so many times.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 倒也不算撒谎。我回去后确实找过。但只找了几分钟——因为我意识到用自己的手机就行,而你的手机被 Ami 打到快没电了。"
+      "zh": ": 倒也{i}不算{/i}撒谎。我回去后{i}确实{/i}找过。但只找了几分钟——因为我意识到用自己的手机就行,而你的手机被 Ami 打到快没电了。"
     },
     {
-      "en": ": The full truth, though...",
+      "en": ": The {i}full{/i} truth, though...",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 可完整的真相是……"
+      "zh": ": 可{i}完整{/i}的真相是……"
     },
     {
       "en": ""
@@ -666,16 +666,16 @@
       "zh": ": 你……看了我的短信?"
     },
     {
-      "en": ": Not all of them. I do respect your privacy despite the whole...thievery thing. It was only the stuff Rin sent that night that I got rid of. That’s all I saw.",
+      "en": ": Not all of them. I {i}do{/i} respect your privacy despite the whole...thievery thing. It was only the stuff Rin sent that night that I got rid of. That’s all I saw.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 没全看。尽管发生了整个……盗窃事件,我还是尊重你的隐私的。我只删了 Rin 那晚发来的东西。我看到的也只有那些。"
+      "zh": ": 没全看。尽管发生了整个……盗窃事件,我还是{i}尊重{/i}你的隐私的。我只删了 Rin 那晚发来的东西。我看到的也只有那些。"
     },
     {
-      "en": ": Rika, I get why you’d be worried about that, and...you know, I guess it is technically inappropriate for me to have her number. But it’s not like I’m using it for nefarious purposes or anything.",
+      "en": ": Rika, I get why you’d be worried about that, and...you know, I guess it {i}is{/i} technically inappropriate for me to have her number. But it’s not like I’m using it for {i}nefarious purposes{/i} or anything.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Rika,我理解你为什么会担心这个,而且……你知道,严格来说,我有她的号码确实不妥。但我并没有拿它做什么见不得人的事。"
+      "zh": ": Rika,我理解你为什么会担心这个,而且……你知道,严格来说,我有她的号码{i}确实{/i}不妥。但我并没有拿它做什么{i}见不得人的事{/i}。"
     },
     {
       "en": ": You already know I hang out at the dorms sometimes. And-",
@@ -750,10 +750,10 @@
       "zh": ": 露骨到什么程度,Rika?什么意思?"
     },
     {
-      "en": ": Hah. Fine. I told you we should be blunt, so I’m going to be blunt. We can be mature about this.",
+      "en": ": {i}Hah.{/i} Fine. I told you we should be blunt, so I’m going to be blunt. We can be mature about this.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 哈。行。我说过我们要直来直去,那我就直说。我们可以成熟地谈这件事。"
+      "zh": ": {i}哈。{/i}行。我说过我们要直来直去,那我就直说。我们可以成熟地谈这件事。"
     },
     {
       "en": ": She sent you basically an entire essay about wanting to have sex with you, complete with a five minute video of her...you know.",
@@ -777,10 +777,10 @@
       "en": ""
     },
     {
-      "en": ": Rin did? You’re sure it was her?",
+      "en": ": {i}Rin{/i} did? You’re sure it was her?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": Rin 发的?你确定是她?"
+      "zh": ": {i}Rin{/i} 发的?你确定是她?"
     },
     {
       "en": ": Yeah. I think I know my daughter when I see her.",
@@ -789,10 +789,10 @@
       "zh": ": 确定。我认得自己的女儿。"
     },
     {
-      "en": ": Why?",
+      "en": ": {i}Why?{/i}",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 为什么?"
+      "zh": ": {i}为什么?{/i}"
     },
     {
       "en": ": You’ve really...never gotten anything like that from her before?",
@@ -839,10 +839,10 @@
       "zh": ": 我懂了……"
     },
     {
-      "en": ": I guess she wasn’t lying about literally everything then.",
+      "en": ": I guess she wasn’t lying about literally {i}everything{/i} then.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 我猜,她那句「一切都很假」宣言里,倒也不全是假话。"
+      "zh": ": 我猜,她那句「{i}一切{/i}都很假」宣言里,倒也不全是假话。"
     },
     {
       "en": ": So you just...believe me then? That’s it?",
@@ -878,10 +878,10 @@
       "en": ""
     },
     {
-      "en": ": Well, after she invited you over to pound her with the intensity of a western silverback, which is a type of gorilla, I sent her a text from your phone saying I was on the way.",
+      "en": ": {i}Well,{/i} after she invited you over to pound her with the intensity of a western silverback, which is a type of gorilla, I sent her a text from your phone saying I was on the way.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 嗯,在她邀请你过去、要用「西部银背」的力度干她之后——那是一种大猩猩——我用你的手机回了条短信,说你在路上了。"
+      "zh": ": {i}嗯,{/i}在她邀请你过去、要用「西部银背」的力度干她之后——那是一种大猩猩——我用你的手机回了条短信,说你在路上了。"
     },
     {
       "en": ": Once I got there, she opened the door and...it was like a flip switched inside of me.",
@@ -905,16 +905,16 @@
       "en": ""
     },
     {
-      "en": ": I don’t get serious often. It hurts my head. But this girl, a girl I have nurtured and supported and admired for so many years...turned me into, like...a discipline robot with the snap of her fingers.",
+      "en": ": I don’t get serious often. It hurts my head. But this girl, a girl I have nurtured and supported and {i}admired{/i} for so many years...turned me into, like...a discipline robot with the snap of her fingers.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 我很少严肃。严肃让我头疼。但这个女孩,这个我养育、支持、欣赏了这么多年的女孩……一个响指,就把我变成了一个……纪律机器人。"
+      "zh": ": 我很少严肃。严肃让我头疼。但这个女孩,这个我养育、支持、{i}欣赏{/i}了这么多年的女孩……一个响指,就把我变成了一个……纪律机器人。"
     },
     {
-      "en": ": I took her phone...tried to warn her about what she was doing and how much trouble she could get you in by sending that stuff, but I don’t even know if I got through in the end.",
+      "en": ": I took her phone...tried to warn her about what she was doing and how much trouble she could get {i}you{/i} in by sending that stuff, but I don’t even know if I got through in the end.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 我拿走了她的手机……试着警告她,让她明白自己在做什么、发那种东西会给你惹来多大麻烦,但我甚至不确定最后她听进去了没有。"
+      "zh": ": 我拿走了她的手机……试着警告她,让她明白自己在做什么、发那种东西会给{i}你{/i}惹来多大麻烦,但我甚至不确定最后她听进去了没有。"
     },
     {
       "en": ""
@@ -938,10 +938,10 @@
       "zh": ": 那很吓人,你知道吗?我是说,她暗恋自己的老师,我不会因此看轻她。我们都干过。但我万万没想到,她会主动……设法把你拖下水。"
     },
     {
-      "en": ": Like, where the hell did she get that from?",
+      "en": ": Like, where the hell did she get {i}that{/i} from? ",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 就是说,她那套到底是从哪学来的?"
+      "zh": ": 就是说,她{i}那套{/i}到底是从哪学来的?"
     },
     {
       "en": ": I...",
@@ -1036,16 +1036,16 @@
       "zh": ": 你根本知道她对你有这种感觉吗?"
     },
     {
-      "en": ": I thought she felt the exact opposite way about me. She’s been obsessed with girls the entire time I’ve known her.",
+      "en": ": I thought she felt the exact {i}opposite{/i} way about me. She’s been obsessed with girls the entire time I’ve known her.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 我一直以为她对我的感觉截然相反。自我认识她起,她眼里就只有女孩。"
+      "zh": ": 我一直以为她对我的感觉{i}截然相反{/i}。自我认识她起,她眼里就只有女孩。"
     },
     {
-      "en": ": Well, I guess it’s your turn then. Because I doubt this is going to just go away overnight. Rin has so much love to give, that’s why it always, like...overflows whenever she finds somebody.",
+      "en": ": Well, I guess it’s {i}your{/i} turn then. Because I doubt this is going to just go away overnight. Rin has so much love to give, that’s why it always, like...overflows whenever she finds somebody.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 嗯,那我猜该轮到你了。因为我不觉得这会一夜之间烟消云散。Rin 有那么多的爱要给,所以每次她找到某个人,那些爱总是……泛滥成灾。"
+      "zh": ": 嗯,那我猜该轮到{i}你{/i}了。因为我不觉得这会一夜之间烟消云散。Rin 有那么多的爱要给,所以每次她找到某个人,那些爱总是……泛滥成灾。"
     },
     {
       "en": ""
@@ -1063,16 +1063,16 @@
       "en": ""
     },
     {
-      "en": ": At the very least, she knows it’s wrong. You know it’s wrong. That’s not going to stop the way she feels, though. She needs...I don’t know. She needs something.",
+      "en": ": At the very least, she knows it’s wrong. {i}You{/i} know it’s wrong. That’s not going to stop the way she feels, though. She needs...I don’t know. She needs {i}something.{/i}",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 至少,她知道这是错的。你也知道这是错的。但那不会阻止她的感受。她需要……我不知道。她需要某样东西。"
+      "zh": ": 至少,她知道这是错的。{i}你{/i}也知道这是错的。但那不会阻止她的感受。她需要……我不知道。她需要{i}某样东西{/i}。"
     },
     {
-      "en": ": Like, I don’t want to tell you go break the girl’s heart or anything because I don’t want her, like...romantically traumatized or stunted by a grown man telling her to back off. She doesn’t even know you know yet.",
+      "en": ": Like, I don’t want to tell you go break the girl’s heart or anything because I don’t want her, like...romantically traumatized or stunted by a grown man telling her to back off. She doesn’t even know you {i}know{/i} yet.",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 比如我不想让你去伤这姑娘的心什么的,因为我不希望她……被一个成年男人叫她退开而留下浪漫创伤、或者发育受阻。她甚至不知道你已经知道了。"
+      "zh": ": 比如我不想让你去伤这姑娘的心什么的,因为我不希望她……被一个成年男人叫她退开而留下浪漫创伤、或者发育受阻。她甚至不知道你已经{i}知道{/i}了。"
     },
     {
       "en": ""
@@ -1174,10 +1174,10 @@
       "zh": ": 比这更重要的是,我想念的是「被一整个爱的人围绕」的感觉。"
     },
     {
-      "en": ": Wakana has Osako. Imani has you. Who does that leave me with? A rat? Who’s going to love me this late in life, Akira? Nobody.",
+      "en": ": Wakana has Osako. Imani has you. Who does that leave {i}me{/i} with? A rat? Who’s going to love me this late in life, Akira? Nobody. ",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": Wakana 有 Osako。Imani 有你。那还剩下谁?一只老鼠?到了人生这个阶段,还有谁会爱我,Akira?没有人。"
+      "zh": ": Wakana 有 Osako。Imani 有你。那还剩下谁?一只老鼠?到了人生这个阶段,还有谁会爱{i}我{/i},Akira?没有人。"
     },
     {
       "en": ": Question — have you tried witchcraft?",
@@ -1312,10 +1312,10 @@
       "zh": ": 为你高兴,Rika。也为你的胸高兴。"
     },
     {
-      "en": ": Awww! Are you actually smiling?!",
+      "en": ": Awww! Are you actually {i}smiling?!{/i} ",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 哎呀!你居然在笑?!"
+      "zh": ": 哎呀!你居然在{i}笑?!{/i}"
     },
     {
       "en": ": Trying to. I’m still learning.",
@@ -1336,10 +1336,10 @@
       "zh": ": 我们从来都不会停止学习,对吧?"
     },
     {
-      "en": ": Even now, at 42 years old, I’m learning things about my daughter. About how to deal with new...weird problems I never expected. And I’ve already dealt with so much for her, you know?",
+      "en": ": Even now, at 42 years old, I’m learning things about my daughter. About how to deal with new...{i}weird{/i} problems I never expected. And I’ve already dealt with so much for her, you know?",
       "spk": "Rika",
       "spkColor": "#D18E77",
-      "zh": ": 直到今天,42 岁的我还在了解我的女儿。在学习怎么应对从没料到的新……怪问题。而我已经为她操了那么多心,你知道吗?"
+      "zh": ": 直到今天,42 岁的我还在了解我的女儿。在学习怎么应对从没料到的新……{i}怪{/i}问题。而我已经为她操了那么多心,你知道吗?"
     },
     {
       "en": ": Depression’s no joke, dude. It took us so long to find a therapist that she actually clicked with. It was like one of those...what do you call it, again? Oh! Noodle in a haystack.",
@@ -1582,10 +1582,10 @@
       "zh": ": 这就说明我是认真的。"
     },
     {
-      "en": ": Are you serious?",
+      "en": ": {i}Are{/i} you serious? ",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你是认真的?"
+      "zh": ": 你{i}是{/i}认真的?"
     },
     {
       "en": ": If I said yes, what would you do?",

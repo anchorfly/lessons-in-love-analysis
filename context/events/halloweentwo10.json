@@ -67,10 +67,10 @@
       "en": ""
     },
     {
-      "en": ": *Hic*",
+      "en": ": {i}*Hic*{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": *嗝*"
+      "zh": ": {i}*嗝*{/i}"
     },
     {
       "en": ": Whadr’ye lookin’ at, Sensei?",
@@ -160,10 +160,10 @@
       "zh": ": 我为什么要花钱买你半空的啤酒，况且在这个地方我很可能想拿多少就有多少，还免费？"
     },
     {
-      "en": ": ‘Alf empty?...Or 'alf full?",
+      "en": ": ‘Alf empty?...Or 'alf {i}full?{/i}",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 半空？……还是半满？"
+      "zh": ": 半空？……还是半{i}满{/i}？"
     },
     {
       "en": ": Do I look like an optimist to you? Of course it’s half empty.",
@@ -248,10 +248,10 @@
       "zh": ": 当然是*嗝*从酒水房里拿的啊。"
     },
     {
-      "en": ": Obviously. But that doesn’t explain-",
+      "en": ": {i}Obviously.{/i} But that doesn’t explain-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 当然。可这解释不了——"
+      "zh": ": {i}当然{/i}。可这解释不了——"
     },
     {
       "en": ": Sensei. Nooooobody’s tryin’ to stop me from doin’ anything.",
@@ -281,10 +281,10 @@
       "en": ""
     },
     {
-      "en": ": She here now? Or is she a...*hic* traitor who left me all alone to go talk to my arch nemesis?",
+      "en": ": She here now? Or is she a...*hic* {i}traitor{/i} who left me all alone to go talk to my arch nemesis?",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 她现在人呢？还是说她是个*嗝*叛徒，丢下我一个人跑去跟我的死对头说话了？"
+      "zh": ": 她现在人呢？还是说她是个*嗝*{i}叛徒{/i}，丢下我一个人跑去跟我的死对头说话了？"
     },
     {
       "en": ": Rin is your nemesis now?",
@@ -308,10 +308,10 @@
       "en": ""
     },
     {
-      "en": ": Juss look at her! Holdin’ hands with a girl.",
+      "en": ": Juss {i}look{/i} at her! Holdin’ hands with a {i}girl{/i}. ",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 你看看她！跟个女生牵着手。"
+      "zh": ": 你{i}看看{/i}她！跟个{i}女生{/i}牵着手。"
     },
     {
       "en": ""
@@ -373,12 +373,12 @@
       "zh": "这算是朝正确的方向迈了一步。"
     },
     {
-      "en": "Or at least...a direction.",
-      "zh": "或者至少……算是个方向。"
+      "en": "Or at least...{i}a{/i} direction.",
+      "zh": "或者至少……{i}算是{/i}个方向。"
     },
     {
-      "en": "I don’t think either one of those things is a particularly good thing to yell about while inebriated beyond belief in a room full of your peers.",
-      "zh": "我觉得这两样，都不太适合在满屋子同龄人面前、醉得不省人事的时候扯着嗓子喊。"
+      "en": "I don’t think either one of those things is a particularly {i}good{/i} thing to yell about while inebriated beyond belief in a room full of your peers.",
+      "zh": "我觉得这两样，都不太{i}适合{/i}在满屋子同龄人面前、醉得不省人事的时候扯着嗓子喊。"
     },
     {
       "en": "But, again, at least she’s standing.",
@@ -433,10 +433,10 @@
       "zh": ": 我……"
     },
     {
-      "en": ": Can you hear me? I don’t really...know.",
+      "en": ": {s}Can you hear me?{/s} I don’t really...know.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 你能听见我说话吗？我真的……不知道。"
+      "zh": ": {s}你能听见我说话吗{/s}？我真的……不知道。"
     },
     {
       "en": ": Ay! If you’ve got sometin’ ta say, ye best say it before I start yellin’!",
@@ -445,16 +445,16 @@
       "zh": ": 哎！你有啥话要说，趁我还没开始喊赶紧说！"
     },
     {
-      "en": ": Everything is better where it’s dark. You’re already yelling, though.",
+      "en": ": {s}Everything is better where it’s dark.{/s} You’re already yelling, though.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 在黑暗的地方，一切都会更好。不过你已经在喊了。"
+      "zh": ": {s}在黑暗的地方，一切都会更好{/s}。不过你已经在喊了。"
     },
     {
-      "en": ": GO! RUN! I just wanted to know what-",
+      "en": ": {s}GO! RUN!{/s} I just wanted to know what-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 冲啊！跑啊！我只是想知道——"
+      "zh": ": {s}冲啊！跑啊{/s}！我只是想知道——"
     },
     {
       "en": ""
@@ -472,24 +472,24 @@
       "en": ""
     },
     {
-      "en": "/////////////////////////SUCCESSFULLY CONNECTED TO “HALLOWEEN SPECIAL”",
-      "zh": "/////////////////////////SUCCESSFULLY CONNECTED TO “HALLOWEEN SPECIAL”"
+      "en": "{b}/////////////////////////SUCCESSFULLY CONNECTED TO “HALLOWEEN SPECIAL”{/b}",
+      "zh": "{b}/////////////////////////SUCCESSFULLY CONNECTED TO “HALLOWEEN SPECIAL”{/b}"
     },
     {
-      "en": "/////////////////////////CHECKING FOR FLAG “mollyhalloween2win”",
-      "zh": "/////////////////////////CHECKING FOR FLAG “mollyhalloween2win”"
+      "en": "{b}/////////////////////////CHECKING FOR FLAG “mollyhalloween2win”{/b}",
+      "zh": "{b}/////////////////////////CHECKING FOR FLAG “mollyhalloween2win”{/b}"
     },
     {
-      "en": "/////////////////////////...",
-      "zh": "/////////////////////////..."
+      "en": "{b}/////////////////////////...{/b}",
+      "zh": "{b}/////////////////////////...{/b}"
     },
     {
-      "en": "/////////////////////////...",
-      "zh": "/////////////////////////..."
+      "en": "{b}/////////////////////////...{/b}",
+      "zh": "{b}/////////////////////////...{/b}"
     },
     {
-      "en": "/////////////////////////...",
-      "zh": "/////////////////////////..."
+      "en": "{b}/////////////////////////...{/b}",
+      "zh": "{b}/////////////////////////...{/b}"
     },
     {
       "en": ""
@@ -499,24 +499,24 @@
       "zh": ""
     },
     {
-      "en": "/////////////////////////FLAG LOCATED",
-      "zh": "/////////////////////////FLAG LOCATED"
+      "en": "{b}/////////////////////////FLAG LOCATED{/b}",
+      "zh": "{b}/////////////////////////FLAG LOCATED{/b}"
     },
     {
-      "en": "/////////////////////////ACCESSING ADDITIONAL PROFILE INFORMATION",
-      "zh": "/////////////////////////ACCESSING ADDITIONAL PROFILE INFORMATION"
+      "en": "{b}/////////////////////////ACCESSING ADDITIONAL PROFILE INFORMATION{/b}",
+      "zh": "{b}/////////////////////////ACCESSING ADDITIONAL PROFILE INFORMATION{/b}"
     },
     {
-      "en": "/////////////////////////...",
-      "zh": "/////////////////////////..."
+      "en": "{b}/////////////////////////...{/b}",
+      "zh": "{b}/////////////////////////...{/b}"
     },
     {
-      "en": "/////////////////////////...",
-      "zh": "/////////////////////////..."
+      "en": "{b}/////////////////////////...{/b}",
+      "zh": "{b}/////////////////////////...{/b}"
     },
     {
-      "en": "/////////////////////////...",
-      "zh": "/////////////////////////..."
+      "en": "{b}/////////////////////////...{/b}",
+      "zh": "{b}/////////////////////////...{/b}"
     },
     {
       "en": ""
@@ -531,24 +531,24 @@
       "alt": "mollyspecialstats"
     },
     {
-      "en": "/////////////////////////ACCESSED",
-      "zh": "/////////////////////////ACCESSED"
+      "en": "{b}/////////////////////////ACCESSED{/b}",
+      "zh": "{b}/////////////////////////ACCESSED{/b}"
     },
     {
-      "en": "/////////////////////////PLEASE TAKE YOUR TIME IN FAMILIARIZING YOURSELF WITH THIS INFORMATION",
-      "zh": "/////////////////////////PLEASE TAKE YOUR TIME IN FAMILIARIZING YOURSELF WITH THIS INFORMATION"
+      "en": "{b}/////////////////////////PLEASE TAKE YOUR TIME IN FAMILIARIZING YOURSELF WITH THIS INFORMATION{/b}",
+      "zh": "{b}/////////////////////////PLEASE TAKE YOUR TIME IN FAMILIARIZING YOURSELF WITH THIS INFORMATION{/b}"
     },
     {
-      "en": "/////////////////////////MOLLY MACCORMACK IS A [[MANDATORY] ROMANCEABLE CHARACTER",
-      "zh": "/////////////////////////MOLLY MACCORMACK IS A [[MANDATORY] ROMANCEABLE CHARACTER"
+      "en": "{b}/////////////////////////MOLLY MACCORMACK IS A [[MANDATORY] ROMANCEABLE CHARACTER{/b}",
+      "zh": "{b}/////////////////////////MOLLY MACCORMACK IS A [[MANDATORY] ROMANCEABLE CHARACTER{/b}"
     },
     {
-      "en": "/////////////////////////PLEASE CONTINUE TO RAISE YOUR AFFECTION WITH MOLLY MACCORMACK",
-      "zh": "/////////////////////////PLEASE CONTINUE TO RAISE YOUR AFFECTION WITH MOLLY MACCORMACK"
+      "en": "{b}/////////////////////////PLEASE CONTINUE TO RAISE YOUR AFFECTION WITH MOLLY MACCORMACK{/b}",
+      "zh": "{b}/////////////////////////PLEASE CONTINUE TO RAISE YOUR AFFECTION WITH MOLLY MACCORMACK{/b}"
     },
     {
-      "en": "/////////////////////////PLEASE CONTINUE TO SPEND TIME WITH MOLLY MACCORMACK",
-      "zh": "/////////////////////////PLEASE CONTINUE TO SPEND TIME WITH MOLLY MACCORMACK"
+      "en": "{b}/////////////////////////PLEASE CONTINUE TO SPEND TIME WITH MOLLY MACCORMACK{/b}",
+      "zh": "{b}/////////////////////////PLEASE CONTINUE TO SPEND TIME WITH MOLLY MACCORMACK{/b}"
     },
     {
       "en": ""
@@ -558,8 +558,8 @@
       "zh": ""
     },
     {
-      "en": "/////////////////////////FLAG NOT LOCATED",
-      "zh": "/////////////////////////FLAG NOT LOCATED"
+      "en": "{b}/////////////////////////FLAG NOT LOCATED{/b}",
+      "zh": "{b}/////////////////////////FLAG NOT LOCATED{/b}"
     },
     {
       "en": ""
@@ -580,8 +580,8 @@
       "en": ""
     },
     {
-      "en": "/////////////////////////CONNECTION TERMINATED",
-      "zh": "/////////////////////////CONNECTION TERMINATED"
+      "en": "{b}/////////////////////////CONNECTION TERMINATED{/b}",
+      "zh": "{b}/////////////////////////CONNECTION TERMINATED{/b}"
     },
     {
       "en": ""
@@ -605,10 +605,10 @@
       "zh": ": 说真的！她们*嗝*到底以为自己是谁啊？！"
     },
     {
-      "en": ": What is this? A love hotel? Have some tact!",
+      "en": ": What is this? A {i}love{/i} hotel? Have some tact! ",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 这算什么？情人旅馆吗？有点分寸行不行！"
+      "zh": ": 这算什么？{i}情人{/i}旅馆吗？有点分寸行不行！"
     },
     {
       "en": ": They’re just...holding hands.",
@@ -671,10 +671,10 @@
       "zh": ": ……什么？"
     },
     {
-      "en": ": You got ta nerve...ta come over ta me...and not be on my side? Whaddya tink tis is? AMOGUS?!",
+      "en": ": You got ta nerve...ta come over ta me...and {i}not{/i} be on my side? Whaddya tink tis is? AMOGUS?!",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 你倒是有脸……过来找我……还不站我这边？你以为这是啥？AMOGUS？！"
+      "zh": ": 你倒是有脸……过来找我……还{i}不{/i}站我这边？你以为这是啥？AMOGUS？！"
     },
     {
       "en": ": I...have no idea what you’re talking about.",
@@ -854,10 +854,10 @@
       "en": ""
     },
     {
-      "en": ": If it makes you feel strange, imagine how I feel!",
+      "en": ": If it makes {i}you{/i} feel strange, imagine how I feel!",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 你觉得怪，那你想想我什么感觉！"
+      "zh": ": 你觉得怪，那{i}你{/i}想想我什么感觉！"
     },
     {
       "en": ": S’like when ya die to th’frickin’ dance on Council of Blood and have to sit there watchin’ everyone else boogie down while ya ask yer death knight for a b-res!",
@@ -954,10 +954,10 @@
       "zh": ": 你知道吗，我开口之前大概该先想好的，因为我真的什么都没有。"
     },
     {
-      "en": ": But hey. I’m here. And I’ve been diffusing problems left and right since I showed up.",
+      "en": ": But hey. {i}I’m{/i} here. And I’ve been diffusing problems left and right since I showed up.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 但是嘿。我在这儿啊。而且从我出现到现在，我一直在左一个右一个地化解问题。"
+      "zh": ": 但是嘿。{i}我{/i}在这儿啊。而且从我出现到现在，我一直在左一个右一个地化解问题。"
     },
     {
       "en": ""
@@ -1048,16 +1048,16 @@
       "en": ""
     },
     {
-      "en": ": Like...look!",
+      "en": ": Like...{i}look!{/i} ",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 就……你看！"
+      "zh": ": 就……你{i}看{/i}！"
     },
     {
-      "en": ": Is she tryin’ to make me jealous or d’she literally forget I exist? Which one is it, Sir?!",
+      "en": ": Is she {i}tryin’{/i} to make me jealous or d’she literally forget I exist? Which one is it, Sir?!",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 她是想让我吃醋，还是压根就忘了我这号人？到底是哪一种，先生？！"
+      "zh": ": 她{i}是想{/i}让我吃醋，还是压根就忘了我这号人？到底是哪一种，先生？！"
     },
     {
       "en": ": ...Neither?",
@@ -1087,10 +1087,10 @@
       "en": ""
     },
     {
-      "en": ": I wanna be the new girlfriend...",
+      "en": ": {i}I{/i} wanna be the new girlfriend...",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 我也想当那个新女朋友……"
+      "zh": ": {i}我{/i}也想当那个新女朋友……"
     },
     {
       "en": ": You’re not even succeeding at being Molly right now.",
@@ -1159,10 +1159,10 @@
       "zh": ": 你又不比我聪明！"
     },
     {
-      "en": ": Maybe not, but I am sober- which allows me to do this thing where I say words correctly.",
+      "en": ": Maybe not, but I {i}am{/i} sober- which allows me to do this thing where I say words correctly.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 也许没有，但我很清醒——这让我能做到一件事：把话说对。"
+      "zh": ": 也许没有，但我很{i}清醒{/i}——这让我能做到一件事：把话说对。"
     },
     {
       "en": ": You’ve been on my case ta whole night! Why aren’t ya makin’ me feel better?!",
@@ -1177,10 +1177,10 @@
       "zh": ": 你想让我怎么做？去硬逼 Rin 跟你说话？"
     },
     {
-      "en": ": The last time we tried that, she not only made you cry, but made me sit there holding her arm closed so she didn’t bleed out.",
+      "en": ": The last time we tried that, she not only made you cry, but made {i}me{/i} sit there holding her arm closed so she didn’t bleed out.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 上次我们试过，结果她不光把你弄哭了，还让我坐在那儿按住她的胳膊不让她失血过多。"
+      "zh": ": 上次{i}我{/i}们试过，结果她不光把你弄哭了，还让我坐在那儿按住她的胳膊不让她失血过多。"
     },
     {
       "en": ""
@@ -1198,10 +1198,10 @@
       "en": ""
     },
     {
-      "en": ": Bet her new girlfriend doesn’t even know about that yet.",
+      "en": ": Bet her new {i}girlfriend{/i} doesn’t even know about that yet.",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 我打赌她那个新女朋友还不知道这事呢。"
+      "zh": ": 我打赌她那个新{i}女朋友{/i}还不知道这事呢。"
     },
     {
       "en": ": F’I know Rin, she’s just gonna hide it and hide it and hide it and pretend everyting’s okay ‘til she gets caught.",
@@ -1321,10 +1321,10 @@
       "en": ""
     },
     {
-      "en": ": You are on her side...",
+      "en": ": You {i}are{/i} on her side...",
       "spk": "Molly",
       "spkColor": "#4FCB80",
-      "zh": ": 你站她那边……"
+      "zh": ": 你{i}站{/i}她那边……"
     },
     {
       "en": ": Molly, there are no sides. You’re both [teenager]s with little to no impulse control who are going to get hurt and make stupid decisions because that is the part of life you’re in right now.",
@@ -1513,8 +1513,8 @@
       "zh": "大概吧。"
     },
     {
-      "en": "That’s not a real statistic, but it sounds believable enough and I know for a fact that it does happen sometimes.",
-      "zh": "这不是什么真实统计数据，但听起来足够可信，而且我确实知道这种事有时候会发生。"
+      "en": "That’s not a real statistic, but it sounds believable enough and I know for a fact that it does happen {i}sometimes{/i}.",
+      "zh": "这不是什么真实统计数据，但听起来足够可信，而且我确实知道这种事{i}有时候{/i}会发生。"
     },
     {
       "en": ""
@@ -1656,10 +1656,10 @@
       "zh": ": 我们是在玩。"
     },
     {
-      "en": ": Well...we are.",
+      "en": ": Well...we {i}are{/i}.",
       "spk": "Uta",
       "spkColor": "#EF61BF",
-      "zh": ": 嗯……我们在玩。"
+      "zh": ": 嗯……我们{i}在{/i}玩。"
     },
     {
       "en": ": Which is...",
@@ -1933,12 +1933,12 @@
       "zh": "我穿过厅堂走过去，回头看见 Uta 正在跟几个女生解释发生了什么。"
     },
     {
-      "en": "Well, it’s probably something closer to attempting to explain what is going on since I, a person who was there for the entire exchange, do not fully understand.",
-      "zh": "嗯，与其说是「解释」，不如说是在「试图解释」，因为连我这个全程在场的人都没完全搞明白。"
+      "en": "Well, it’s probably something closer to {i}attempting{/i} to explain what is going on since I, a person who was there for the entire exchange, do not fully understand.",
+      "zh": "嗯，与其说是「解释」，不如说是在「{i}试图{/i}解释」，因为连我这个全程在场的人都没完全搞明白。"
     },
     {
-      "en": "So, let’s recap what I do know.",
-      "zh": "那么，来复盘一下我确实知道的事。"
+      "en": "So, let’s recap what I {i}do{/i} know.",
+      "zh": "那么，来复盘一下我{i}确实{/i}知道的事。"
     },
     {
       "en": ""
@@ -2138,8 +2138,8 @@
       "en": ""
     },
     {
-      "en": "Molly’s affection has increased to [molly_love]! I want to take her costume off.",
-      "zh": "Molly 的好感度提升到了 [molly_love]！我想把她的装扮脱掉。"
+      "en": "{s}{i}Molly’s affection has increased to [molly_love]!{/s} I want to take her costume off.{/i}",
+      "zh": "{s}Molly 的好感度提升到了 [molly_love]！{/s}{i}我想把她的装扮脱掉{/i}。"
     },
     {
       "en": ".........",

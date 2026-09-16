@@ -1,6 +1,6 @@
 {
   "label": "secondbeach12",
-  "title_zh": "",
+  "title_zh": "被遗落在光里",
   "lines": [
     {
       "en": ""
@@ -24,12 +24,12 @@
       "en": ""
     },
     {
-      "en": "You manage to sleep through the night.",
-      "zh": ""
+      "en": "{i}You manage to sleep through the night.{/i}",
+      "zh": "{i}你总算一觉睡到了天亮。{/i}"
     },
     {
-      "en": "But you dream of nothing.",
-      "zh": ""
+      "en": "{i}But you dream of nothing.{/i}",
+      "zh": "{i}但你什么梦也没做。{/i}"
     },
     {
       "en": ""
@@ -48,31 +48,31 @@
     },
     {
       "en": "I walk outside to be met with a rather mysterious temperature given how the air felt in this exact place less than twelve hours ago.",
-      "zh": ""
+      "zh": "我走出门，迎面撞上一个相当神秘的气温——考虑到不到十二个小时之前，同一个地方的空气还是另一副模样。"
     },
     {
       "en": "It’s actually warm out this morning.",
-      "zh": ""
+      "zh": "今天早上居然挺暖和的。"
     },
     {
       "en": "And while I don’t know if this is just some strange coincidence or a sign from a god I don’t believe in, I accept it.",
-      "zh": ""
+      "zh": "我不知道这究竟只是个奇怪的巧合，还是某个我并不相信的神明给的启示，总之我照单全收。"
     },
     {
-      "en": "Also, if this is a sign, whoever that god may be is making a pretty good argument for itself right now.",
-      "zh": ""
+      "en": "Also, if this {i}is{/i} a sign, whoever that god may be is making a pretty good argument for itself right now. ",
+      "zh": "另外，如果这{i}真是{/i}启示的话，那位不知姓名的神明此刻正替自己攒下了一个相当有说服力的论据。"
     },
     {
       "en": "I applaud him or her or it for waiting for such a good opportunity to grant us warmth, for I now have a significantly higher likelihood of seeing girls in less clothing for the duration of the day.",
-      "zh": ""
+      "zh": "我要为他、她或者它挑中这么好的时机才赐下暖意而鼓掌——因为这样一来，我今天一整天看到女生穿得少一些的概率就大大提高了。"
     },
     {
       "en": "But then the wind blows and sprays my blazer with a thin layer of mist and I go back to hating any and all gods that may or may not exist or whatever.",
-      "zh": ""
+      "zh": "可紧接着一阵风刮来，给我的西装外套喷上一层薄薄的水雾，于是我又重新恨起了所有可能存在、也可能不存在的神明，随便吧。"
     },
     {
       "en": "Oh, and then Noriko shows up.",
-      "zh": ""
+      "zh": "哦，然后 Noriko 出现了。"
     },
     {
       "en": ""
@@ -93,13 +93,13 @@
       "en": ": Hey! Good morning!",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 嘿！早上好！"
     },
     {
       "en": ": Did you sleep well?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 昨晚睡得好吗？"
     },
     {
       "en": ""
@@ -112,13 +112,13 @@
       "en": ": Kind of, I guess.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 算是吧，大概。"
     },
     {
       "en": ": I was a little surprised to not see you there when I woke up, though.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不过醒来的时候没看见你在旁边，我还有点意外。"
     },
     {
       "en": ""
@@ -139,7 +139,7 @@
       "en": ": Yeaaaaaah...as it turns out, I may have cuddled you a little too hard and some of the girls thought it was kind of weird and asked me to stop.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 是——啊……看来我可能抱你抱得太狠了，有几个女生觉得有点奇怪，就让我别这样了。"
     },
     {
       "en": ""
@@ -160,25 +160,25 @@
       "en": ": But, on the bright side, I didn’t drug you this time! You were totally knocked out by your own doing and I, in no way, had anything to do with you sleeping in so late and so heavily.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 不过往好处想，这次我可没给你下药！你完全是靠自己睡死的，至于你睡到这么晚、睡得这么沉，跟我一点关系都没有。"
     },
     {
       "en": ": Saying it like that does make you seem a little suspicious, though.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 可你这么一说，反而显得你更可疑了。"
     },
     {
       "en": ": I tend to say a lot of stuff that makes me seem more suspicious than I actually am. It’s kind of my thing.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 我这个人就是会说一大堆让自己显得比实际更可疑的话。这也算是我的特色吧。"
     },
     {
       "en": ": So, what then? You all just decided to let me stay in there by myself instead of swarming me?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 所以呢？你们就这么决定让我一个人待在屋里，不来围攻我了？"
     },
     {
       "en": ""
@@ -199,37 +199,37 @@
       "en": ": Pretty much, yeah.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 基本上就是这样，嗯。"
     },
     {
       "en": ": Touka got up first to go for her morning walk or something and then came back in telling us all how nice it was outside.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": Touka 第一个起床，说是去晨走什么的，回来就跟我们说外面有多舒服。"
     },
     {
       "en": ": The rest is pretty much history, I guess.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 后面的事，基本上就是历史了，我想。"
     },
     {
-      "en": ": Io kicked you a few times to see if you’d wake up, but you were like out of it out of it, if you know what I mean.",
+      "en": ": Io kicked you a few times to see if you’d wake up, but you were like {i}out of it{/i} out of it, if you know what I mean.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": Io 还踢了你几脚，看你会不会醒，结果你那是睡得{i}死死的{/i}死死的，你懂我意思吧。"
     },
     {
       "en": ": I’m pretty sure you mean I was out of it.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我很确定，你想说的只是「睡得死死的」。"
     },
     {
       "en": ": Yup! That!",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 对！就是这个！"
     },
     {
       "en": ""
@@ -242,7 +242,7 @@
       "en": ": Kind of, I guess.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 算是吧，大概。"
     },
     {
       "en": ""
@@ -251,7 +251,7 @@
       "en": ": Ami and Ayane had a little trouble sharing me and I’m pretty sure Chika wound up staying awake the entire night to make sure neither of them went too far.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Ami 和 Ayane 为了抢我起了点小争执，而且我敢肯定 Chika 整晚都没睡，就为了确保她们俩谁都别太过分。"
     },
     {
       "en": "scene norikowakeup5",
@@ -269,25 +269,25 @@
       "en": ": Really? That’s super cool of her.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 真的吗？她这也太够意思了。"
     },
     {
       "en": ": I’m sure she had her own reasons that I would be very upset to hear, but I’ll still probably thank her anyway.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 我敢肯定她有她自己的理由，而且我要是听了肯定会气得不行——但就算这样，我还是大概会去谢谢她。"
     },
     {
-      "en": ": I realized again last night just how much Ayane likes you, so it makes me a little happy knowing nothing really intense went on during the sleepover thingy.",
+      "en": ": I realized again last night just how much Ayane likes you, so it makes me a little happy knowing nothing {i}really{/i} intense went on during the sleepover thingy.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 昨晚我又一次意识到 Ayane 有多喜欢你，所以知道留宿那晚没什么{i}太出格{/i}的事发生，我还挺开心的。"
     },
     {
       "en": ": You were with Ayane last night?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你昨晚跟 Ayane 在一起？"
     },
     {
       "en": ""
@@ -296,19 +296,19 @@
       "en": ": Yeah. We talked about masturbating and stuff.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 嗯。我们聊了聊自慰什么的。"
     },
     {
       "en": ": I can very much see how that would lead to you reaffirming her feelings about me.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我完全能看出来，这怎么会让你重新确认她对我的感情。"
     },
     {
       "en": ": You’re not worried about Ami, though?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 不过你不担心 Ami 吗？"
     },
     {
       "en": ""
@@ -317,43 +317,43 @@
       "en": ": Not really. Ami’s part of the family and will never marry you or have your babies or anything, so if you two want to secretly go at it without anybody knowing, I guess that’s fine.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 不太担心。Ami 是自家人，反正也不会嫁给你、不会给你生孩子什么的，所以如果你们俩想背着所有人偷偷搞在一起，我觉得也无所谓。"
     },
     {
       "en": ": Luckily for you, I can’t see that happening anytime soon.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 算你走运，我看这事短期内是没什么可能的。"
     },
     {
       "en": ": Or...ever, for that matter.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 或者……应该说，永远都不可能。"
     },
     {
-      "en": ": That is lucky for me! But very unfortunate for Ami.",
+      "en": ": That {i}is{/i} lucky for me! But very unfortunate for Ami. ",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 那我可太走运了！但对 Ami 来说就太不幸了。"
     },
     {
       "en": ": Here’s hoping she doesn’t wind up resorting to the same thing I did when I was little and the person I liked was already interested in somebody else.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 只希望她最后别走上我小时候那条路——我小时候喜欢的人，已经喜欢上别人了。"
     },
     {
       "en": ": What did you do when you were little, exactly?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 你小时候到底做了什么？"
     },
     {
       "en": ": Not telling. But something tells me you probably would have found out if my floor won the dorm war.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 不告诉你。不过我有种感觉，如果当时宿舍大战是我们这层楼赢了，你大概早就知道了。"
     },
     {
       "en": ""
@@ -374,19 +374,19 @@
       "en": ": Wait, why are we even talking about this? Tell me about the rest of the night.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 等等，我们干嘛要聊这个？跟我说说后半夜的事吧。"
     },
     {
       "en": ": I thought about coming to visit, but Makoto caught me as I opened the door and said a whole bunch of stuff about “accepting defeat” and then kicked me out.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 我本来想去看你的，结果我刚开门就被 Makoto 逮住了，她跟我说了一大堆关于「接受失败」的话，然后就把我赶出来了。"
     },
     {
       "en": ": It was...fine. A little anticlimactic, but fine.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那晚……还行吧。有点虎头蛇尾，但还行。"
     },
     {
       "en": ""
@@ -407,37 +407,37 @@
       "en": ": I see...",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 这样啊……"
     },
     {
       "en": ": Well...maybe we’ll get to do this again some day and you’ll wind up staying with us next time?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 嗯……说不定哪天我们还能再来一次，下次你就会待在我们那边了？"
     },
     {
       "en": ": I wonder if...by then, we’ll be...",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 我在想……到那时候，我们会不会就……"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ": ...",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ": Be what? Finish your sentence.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 会怎样？把话说完。"
     },
     {
       "en": ""
@@ -458,19 +458,19 @@
       "en": ": Nah. I’ll just show you what I mean soon instead.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 不要。我很快就会让你亲眼看到我是什么意思。"
     },
     {
       "en": ": Right...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好吧……"
     },
     {
       "en": ": So, that aside, what’s the plan for today?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 先不说这个，今天有什么计划？"
     },
     {
       "en": ""
@@ -491,31 +491,31 @@
       "en": ": Plan? Are we supposed to have one of those?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 计划？我们还得有那玩意儿吗？"
     },
     {
       "en": ": I think we were just gonna do whatever.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 我觉得大家就是随便玩玩吧。"
     },
     {
       "en": ": I know a lot of the girls are back over where they keep the picnic tables and stuff, so I was gonna head over there soon if you wanted to come.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 我知道好多女生都回到放野餐桌那类的地方去了，你要是想来，我一会儿就往那边走。"
     },
     {
       "en": ": I’m sure basically all of them would be happy to see you.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 我敢肯定她们基本上所有人看到你都会很高兴。"
     },
     {
       "en": ": Sure, that sounds-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 好啊，听起来——"
     },
     {
       "en": ""
@@ -536,31 +536,31 @@
       "en": ": ...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ……"
     },
     {
-      "en": ": Hm? That sounds what? Why did you stop?",
+      "en": ": Hm? That sounds {i}what?{/i} Why did you stop?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 嗯？听起来{i}什么{/i}？你怎么不说了？"
     },
     {
       "en": ": There’s, uhh...an idol behind you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 呃……你背后有个偶像。"
     },
     {
       "en": ": An...idol?",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 偶……像？"
     },
     {
       "en": ""
@@ -581,31 +581,31 @@
       "en": ": Ah! Nee-chan! I didn’t know you were here!",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 啊！姐！我不知道你在这儿！"
     },
     {
       "en": ": Are you fucking kidding me? Yes you did.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你他妈在跟我开玩笑吧？你知道。"
     },
     {
       "en": ": How many beaches do you think there are in Kumon-mi?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你以为 Kumon-mi 有几片海滩？"
     },
     {
       "en": ": More than one? I don’t know. I’ve never counted them before.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 不止一片？我不知道。我又没数过。"
     },
     {
       "en": ": What’s going on here?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 这是怎么回事？"
     },
     {
       "en": ""
@@ -626,13 +626,13 @@
       "en": ": That’s what I should be asking you, dick!",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 这话该我问你才对，混蛋！"
     },
     {
-      "en": ": This is why you couldn’t see me this weekend? Because you were going on a romantic getaway with my little sister?",
+      "en": ": {i}This{/i} is why you couldn’t see me this weekend? Because you were going on a romantic getaway with my little sister?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 所以你这个周末见不了我，{i}就是因为{/i}要跟我妹妹来一场浪漫之旅？"
     },
     {
       "en": ""
@@ -641,13 +641,13 @@
       "en": ": You realize how old-",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你知道她多大——"
     },
     {
       "en": ": Yup! Sensei knows so there’s no reason to continue that sentence.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 知道！Sensei 也知道，所以那句话没必要接着往下说了。"
     },
     {
       "en": "scene norikowakeup12",
@@ -665,7 +665,7 @@
       "en": ": You are playing a dangerous game, Noriko. Remember who’s paying for your phone.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你在玩一场危险的游戏，Noriko。别忘了是谁在给你付电话费。"
     },
     {
       "en": ""
@@ -674,13 +674,13 @@
       "en": ": Oh, come on. You hogged him for the first like...six million years of our lives. It’s my turn to get some time with him now that I’m not in training bras anymore.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 哎呀，拜托。我们这辈子前面那……六百万年都是你霸占着他。现在我又不是还在穿训练胸罩的小屁孩了，该轮到我跟他待一会儿了吧。"
     },
     {
       "en": ": If it’s any consolation, Niki, I am also paying for the phone bill of several [high_school]ers.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": Niki，如果说这能让你好受一点的话——我也在给好几个 [high_school] 生付电话费。"
     },
     {
       "en": ""
@@ -701,14 +701,14 @@
       "en": ": How is that consolation?! That’s fucking weird!",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 这算哪门子安慰？！这他妈也太怪了！"
     },
     {
       "en": ""
     },
     {
       "en": "Niki takes off her fancy sunglasses and tosses them into a bag positioned off screen. I promise it is there.",
-      "zh": ""
+      "zh": "Niki 摘下她那副高级墨镜，随手丢进一个摆在画面外的包里。我保证那个包真的在。"
     },
     {
       "en": ""
@@ -717,7 +717,7 @@
       "en": ": Also, no one has told me why you two are together yet!",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 还有，你们俩为什么会在一起，到现在还没人告诉我！"
     },
     {
       "en": ""
@@ -726,7 +726,7 @@
       "en": ": You guessed it correctly the first time, Nee-chan. Sensei and I are on a romantic getaway and were moments away from christening every room in this here inn.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 姐，你第一次就猜对了。Sensei 和我正在度浪漫假期，再过几分钟就要把这间旅馆的每个房间都开光一遍了。"
     },
     {
       "en": "scene norikowakeup14",
@@ -744,19 +744,19 @@
       "en": ": There better be a good fucking explanation for this or neither of you two are leaving here alive.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你们最好能给我一个像样的解释，否则你们俩谁都别想活着离开这儿。"
     },
     {
       "en": ": It’s just some[school] trip thing. Don’t kill me.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 就是个 [school] 的旅行活动而已。别杀我。"
     },
     {
-      "en": ": A better question is why you are here. Don’t you have like...idol stuff to do or whatever?",
+      "en": ": A better question is why {i}you{/i} are here. Don’t you have like...idol stuff to do or whatever?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 更好的问题是{i}你{/i}为什么在这儿。你不是应该……有偶像的工作要做之类的吗？"
     },
     {
       "en": ""
@@ -777,25 +777,25 @@
       "en": ": Why yes, I do. Thank you for asking and acknowledging my...awesomeness.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 哦，还真有。谢谢你还问、还承认我的……牛逼之处。"
     },
     {
-      "en": ": I’m actually here because of “idol stuff.”",
+      "en": ": I’m actually here {i}because{/i} of “idol stuff.”",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我确实是来干「{i}偶像的工作{/i}」的。"
     },
     {
       "en": ": I have a photoshoot for a swimsuit calendar this afternoon and the agency managed to snatch up a room at this inn from some rich family who bought the rest of them.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我今天下午有个泳装日历的写真拍摄，事务所从某个把其余房间全包下来的有钱人家手里，抢到了这间旅馆的一间房。"
     },
     {
       "en": ": I see. And where will I be able to purchase this calendar?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 明白了。那这本日历我上哪儿能买到？"
     },
     {
       "en": ""
@@ -813,16 +813,16 @@
       "en": ""
     },
     {
-      "en": ": Heh. I’ll see if I can use one of my many, many connections to get you one once it’s printed.",
+      "en": ": Heh. I’ll see if I can use one of my many, {i}many{/i} connections to get you one once it’s printed.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 呵呵。等印出来之后，我看看能不能动用我那{i}众多{/i}的人脉给你弄一本。"
     },
     {
-      "en": ": Um, hello? Cute girl literally in a swimsuit right next to you two in search of praise. Send help.",
+      "en": ": Um, hello? Cute girl literally {i}in{/i} a swimsuit right next to you two in search of praise. Send help.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 那个，打扰一下？一个{i}穿着{/i}泳衣的可爱女生就站在你们俩旁边，正在求夸奖。救命。"
     },
     {
       "en": ""
@@ -843,19 +843,19 @@
       "en": ": Not much I can do until you grow a little bit more, Noriko. Don’t blame me for being significantly more attractive and adored by all.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 在你再长大一点之前我也没什么办法，Noriko。别怪我天生就比你好看得多、也更招人喜欢。"
     },
     {
-      "en": ": I know where you sleep, bitch.",
+      "en": ": {i}I know where you sleep, bitch.{/i}",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": {i}我知道你睡哪儿，贱人。{/i}"
     },
     {
       "en": ": So, since you’re going to be doing a photoshoot or whatever, does this mean you won’t have any free time?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 所以，既然你要去拍写真什么的，是不是意味着你一点空闲时间都没有？"
     },
     {
       "en": ""
@@ -876,13 +876,13 @@
       "en": ": The only free time I have is literally right now. I’m on a tight schedule- which is exactly why I tried to tell you about this ahead of time.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我唯一有空的时候就是现在。我的行程排得很紧——所以当初我才想提前跟你说这件事。"
     },
     {
       "en": ": But no. You already made plans with my sister because you subconsciously want to be reminded of me without having to admit that you were wrong for abandoning me years ago.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 可你没有。你早就跟我妹妹约好了，因为你潜意识里想被提醒起我，又不想承认多年前抛下我是你的错。"
     },
     {
       "en": ""
@@ -891,30 +891,30 @@
       "en": ": Or...and hear me out here...maybe his tastes just haven’t changed since he was a [teenager].",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 或者……你听我说完……也许只是他的口味从他还是个 [teenager] 的时候起就没变过。"
     },
     {
       "en": ": They sure fucking better have.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 他最好他妈的没变。"
     },
     {
       "en": ": Can you at least come say hi to a few of the girls? I know at least two of them would be really excited to see someone as...awesome and amazing as you.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那你能不能至少去跟几个女生打个招呼？我知道至少有两个人，看到像你这么……又牛又厉害的人会超级兴奋。"
     },
     {
       "en": ""
     },
     {
-      "en": "I obviously don’t remember much about Niki (Assuming any of my background is true) but, the one thing I absolutely do know is that her ego is very easily stroked.",
-      "zh": ""
+      "en": "I obviously don’t remember much about Niki (Assuming any of my background is true) but, the one thing I absolutely {i}do{/i} know is that her ego is very easily stroked.",
+      "zh": "我显然不太记得 Niki 的事（假设我那些背景来历有半句是真的），但有一件事我{i}绝对{/i}清楚，那就是她的虚荣心特别好哄。"
     },
     {
       "en": "And, just like with the whole thing about paying for[teen]phone bills, I can relate.",
-      "zh": ""
+      "zh": "而且，就像给 [teen] 付电话费那件事一样，这点我感同身受。"
     },
     {
       "en": ""
@@ -932,22 +932,22 @@
       "en": ""
     },
     {
-      "en": ": Well, duh. I’m Niki Nakayama. It would be weirder if there weren’t girls excited to see me.",
+      "en": ": Well, duh. I’m Niki Nakayama. It would be weirder if there {i}weren’t{/i} girls excited to see me.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 那还用说。我是 Niki Nakayama。要是{i}没有{/i}女生看到我会兴奋，那才奇怪呢。"
     },
     {
-      "en": ": But even though I have a little free time, it’s not like I can just go wherever you want to take me and-",
+      "en": ": But even though I have a {i}little{/i} free time, it’s not like I can just go wherever you want to take me and-",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 可就算我有{i}一点{/i}空闲，也不代表你想把我带到哪儿我就能去哪儿，而且——"
     },
     {
       "en": ": Ami should be there, Nee-chan.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": Ami 应该也在那儿，姐。"
     },
     {
       "en": ""
@@ -968,13 +968,13 @@
       "en": ": Ah...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 啊……"
     },
     {
       "en": ": She’s a big fan, too. She’s been listening to you this whole time.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 她也是你的大粉丝。这段时间她一直在听你的歌。"
     },
     {
       "en": ""
@@ -995,37 +995,37 @@
       "en": ": Mnh...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 嗯……"
     },
     {
       "en": ": Is that really all it takes to sway her?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 就这么容易就能说动她？"
     },
     {
       "en": ": Nee-chan spent years worrying about you and Ami after what happened.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 那件事之后，姐担心你和 Ami 担心了好多年。"
     },
     {
       "en": ": Even though you couldn't have cared any fucking less about what I was or wasn’t worrying about.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 尽管我当时到底在担心什么、没在担心什么，你他妈根本一点都不在乎。"
     },
     {
-      "en": ": Besides, it’s not like she’ll remember me as me when I only met her once or twice. She’ll just see me as...Niki.",
+      "en": ": Besides, it’s not like she’ll remember me as {i}me{/i} when I only met her once or twice. She’ll just see me as...Niki.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 再说，{i}我{/i}只见过她一两次，她也不会记得「我」这个人的。她只会把我当成……Niki。"
     },
     {
       "en": ": But...you are Niki.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 可……你就是 Niki 啊。"
     },
     {
       "en": ""
@@ -1046,13 +1046,13 @@
       "en": ": You know that’s not what I mean.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你知道我不是那个意思。"
     },
     {
       "en": ": Sure, she’ll probably ask you for an autograph and...cry or something. But if you really were worried about her, wouldn’t you want to at least see who she is or...what she looks like now?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 是啊，她大概会找你要签名，然后……哭什么的。但如果你真的担心她，难道你就不想至少看看她现在是什么样的人、长什么样吗？"
     },
     {
       "en": ""
@@ -1073,31 +1073,31 @@
       "en": ": I’m with Sensei on this one.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 这点我站 Sensei。"
     },
     {
       "en": ": In fact, I’m enforcing the Nakayama Sisters’ Rule #74 at this very moment. You are unable to refuse.",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 事实上，我现在就要启动《中山姐妹法》第 74 条。你没有拒绝的权利。"
     },
     {
       "en": ": Rule #74 at a time like this? But...what would I even say?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 这种时候用第 74 条？可……我该说什么啊？"
     },
     {
       "en": ": “Hi, Ami. I’m a famous idol you listen to on the radio, but I’m also your [uncle]’s ex and have been worried about you for years. Want to take a selfie together?”",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 「嗨，Ami。我是你在收音机里听的那个著名偶像，但我同时也是你 [uncle] 的前女友，还为你担心了好多年。要不要一起拍张自拍？」"
     },
     {
       "en": ": Can I just quickly touch on the fact that you two have an absurd amount of rules? What does rule #74 even do?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我能先插一句吗——你们俩的规则是不是多得离谱了点？第 74 条到底是干什么的？"
     },
     {
       "en": ""
@@ -1118,19 +1118,19 @@
       "en": ": Nakayama Sisters’ Rule #74: If a Nakayama sister believes the other is making a decision they will regret, they can enact this rule to strip them of free will and force one to act for the other.",
       "spk": "Noriko & Niki",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 《中山姐妹法》第 74 条：若中山姐妹中的一方认定另一方正在做出会令其后悔的决定，即可启动本条，剥夺对方的自由意志，强制其中一方代另一方行动。"
     },
     {
       "en": ": Okay, first off- you two are creepy.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 行，首先——你们俩真够吓人的。"
     },
     {
       "en": ": Secondly, how old were you when you came up with that? I thought this was going to be a kid thing at first, but that was a very professionally worded rule.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 其次，你们几岁的时候想出这玩意儿的？我一开始还以为是小孩子过家家，可那条规则写得也太正式了。"
     },
     {
       "en": ""
@@ -1151,25 +1151,25 @@
       "en": ": It’s more like a law, I guess. But it wouldn’t exist if there wasn't a reason for it, so...",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我觉得与其说是规则，不如说是法律。不过要不是有理由，它也不会存在，所以……"
     },
     {
       "en": ": If Noriko is going to enact Rule #74 now, I don’t really have a choice other than to go along with it.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 既然 Noriko 现在要启动第 74 条，那我除了照办也没别的选择。"
     },
     {
       "en": ": Having a sister sounds exhausting.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 有个妹妹听着就累人。"
     },
     {
       "en": ": It is.",
       "spk": "Noriko & Niki",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 确实很累。"
     },
     {
       "en": ""
@@ -1190,13 +1190,13 @@
       "en": ": Pfft...",
       "spk": "Noriko & Niki",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 噗……"
     },
     {
       "en": ": ...?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ……？"
     },
     {
       "en": ""
@@ -1215,99 +1215,99 @@
     },
     {
       "en": "The Nakayama sisters erupt into a fit of laughter as I am left to stand beside them, wondering how far back this goes and whether or not it’s something I ever found out about.",
-      "zh": ""
+      "zh": "中山姐妹爆发出一阵大笑，而我只能站在旁边，心里想着这事到底要追溯到多久以前，以及我是不是曾经知道过。"
     },
     {
       "en": "Perhaps in a previous life-",
-      "zh": ""
+      "zh": "也许在上一辈子——"
     },
     {
       "en": "Perhaps then, I would have understood more about their silly rules.",
-      "zh": ""
+      "zh": "也许那时，我会更懂她们那些傻乎乎的规则。"
     },
     {
       "en": "About what their relationship is with not only each other, but with me and the girl Niki was apparently so worried about for years.",
-      "zh": ""
+      "zh": "会更懂她们之间的关系——不只是她们彼此之间的，还有她们与我、与那个 Niki 显然担心了多年的女孩之间的关系。"
     },
     {
       "en": "It must have been hard having to live with those thoughts.",
-      "zh": ""
+      "zh": "带着那些念头过日子，一定很不容易。"
     },
     {
       "en": "I wonder why, if that person from back then was actually me-",
-      "zh": ""
+      "zh": "我在想，如果那时候的那个人真的是我——"
     },
     {
       "en": "I wonder why they locked her out.",
-      "zh": ""
+      "zh": "我在想，她们为什么把她关在了门外。"
     },
     {
       "en": "She seems kind enough.",
-      "zh": ""
+      "zh": "她看起来足够善良。"
     },
     {
       "en": "Sure, she’s a stuck up princess but, if what I understand about her is correct, isn’t she only like that because of me?",
-      "zh": ""
+      "zh": "没错，她是个傲慢的公主，但如果我对她的理解没错的话，她这副样子不正是因为我是吗？"
     },
     {
       "en": "If so, why did I leave her behind?",
-      "zh": ""
+      "zh": "如果是这样，我当初为什么要抛下她？"
     },
     {
       "en": "Everything I learn about those two makes the past seem brighter-",
-      "zh": ""
+      "zh": "我了解到的关于她们俩的一切，都让过去显得更明亮——"
     },
     {
       "en": "But perhaps the issue is that it’s becoming so bright that it’s too blinding to see anything else.",
-      "zh": ""
+      "zh": "但问题也许在于，它变得太亮了，亮到刺眼，反倒让人看不见别的任何东西。"
     },
     {
       "en": "And perhaps the reason Maya is so hesitant to me finding out any more about it is because its inescapable light will consume the world I’m in now.",
-      "zh": ""
+      "zh": "也许 Maya 之所以这么不愿意让我知道更多，就是因为那无处可逃的光会把我现在的这个世界吞噬掉。"
     },
     {
       "en": "Maya is in that world, so I don’t blame her for not wanting to be consumed.",
-      "zh": ""
+      "zh": "Maya 就活在那个世界里，所以我不怪她不想被吞噬。"
     },
     {
       "en": "But I also shouldn’t be blamed for occasionally quelling the misery of others when it requires minimal effort on my end in order to do so.",
-      "zh": ""
+      "zh": "但我也不该因为偶尔抚平别人的痛苦而受责怪——何况要做到这一点，我只需要付出一点点力气就够了。"
     },
     {
       "en": "All I’m doing is walking down the beach with two cute girls who love me.",
-      "zh": ""
+      "zh": "我做的全部事情，不过就是和两个爱我的可爱女生一起走在海滩上。"
     },
     {
       "en": "Well, one cute girl who loves me and one other cute girl who hates me.",
-      "zh": ""
+      "zh": "好吧，是一个爱我的可爱女生，和另一个恨我的可爱女生。"
     },
     {
       "en": "But also loves me.",
-      "zh": ""
+      "zh": "但她也爱我。"
     },
     {
       "en": "Probably.",
-      "zh": ""
+      "zh": "大概吧。"
     },
     {
       "en": "And if the three of us happen to bump into one more girl who loves me-",
-      "zh": ""
+      "zh": "如果我们三个碰巧又撞上一个爱我的女生——"
     },
     {
       "en": "One more girl who goes back just as long as the two of them, if not longer-",
-      "zh": ""
+      "zh": "一个跟她们俩一样、甚至更早就认识我的女生——"
     },
     {
       "en": "If that happens, it will just be a coincidence.",
-      "zh": ""
+      "zh": "如果真发生了，那也只是个巧合。"
     },
     {
       "en": "It will not be my fault.",
-      "zh": ""
+      "zh": "那不是我的错。"
     },
     {
       "en": "Nothing is ever my fault.",
-      "zh": ""
+      "zh": "什么都不是我的错。"
     },
     {
       "en": ""
@@ -1328,19 +1328,19 @@
       "en": ": Onward! To [niece]hood!",
       "spk": "Noriko",
       "spkColor": "#FF61A9",
-      "zh": ""
+      "zh": ": 出发！奔向 [niece] 之路！"
     },
     {
       "en": ": Are you really just going to let her pull you along like that?",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 你就这么任由她拉着走？"
     },
     {
       "en": ": I...guess so?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 我……大概是吧？"
     },
     {
       "en": ""
@@ -1361,19 +1361,19 @@
       "en": ": Hah...you’ve always been too nice to her. You just let her do whatever she wants.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 哈……你对她总是太好了。她想干什么你就让她干什么。"
     },
     {
       "en": ": No wonder she’s this obsessed with you now instead of chasing after someone actually worth the time and effort.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 难怪她现在这么迷恋你，而不是去追一个真正值得她花时间和心思的人。"
     },
     {
       "en": ": Sorry, but aren’t you the same Niki Nakayama who tried to invite me on a work trip because she couldn’t get enough of me?",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 抱歉，你不就是那个因为太想我、才想拉我一起去出差的 Niki Nakayama 吗？"
     },
     {
       "en": ""
@@ -1394,25 +1394,25 @@
       "en": ": Of course not.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 当然不是。"
     },
     {
       "en": ": I’m the Niki Nakayama who tried to invite you on a work trip because I didn’t want to carry my own luggage.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 我是那个因为不想自己搬行李、才想拉你一起去出差的 Niki Nakayama。"
     },
     {
       "en": ": But it’s fine now. I just got one of the people from the agency to do it instead. I don’t need you anymore.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 不过现在没事了。我让事务所的一个人去搬了。我不需要你了。"
     },
     {
       "en": ": Then I guess I’ll just go back to enjoying my romantic getaway with your little sister and-",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": 那我就回去继续跟你妹妹度我的浪漫假期，然后——"
     },
     {
       "en": ""
@@ -1433,19 +1433,19 @@
       "en": ": Yeah, yeah. Do whatever you want. I know you’ll come crawling back soon enough.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 行行行。爱干嘛干嘛。我知道你很快就会爬回来的。"
     },
     {
       "en": ": Just keep on walking, [nikitemp]. You have a grand total of roughly ten minutes with me and you shouldn’t be wasting them on your textbook sarcasm.",
       "spk": "Niki",
       "spkColor": "#FF00C2",
-      "zh": ""
+      "zh": ": 继续走就是了，[nikitemp]。你跟我总共就十分钟左右的时间，别浪费在你那教科书式的讽刺上。"
     },
     {
       "en": ": ...",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ""
+      "zh": ": ……"
     },
     {
       "en": ""
@@ -1464,15 +1464,15 @@
     },
     {
       "en": "I begrudgingly do as I’m told and shut my mouth, though I’m not sure why.",
-      "zh": ""
+      "zh": "我老大不情愿地照她说的做了，闭上了嘴，虽然我也不知道为什么。"
     },
     {
       "en": "We continue walking along the shoreline together until the entrance of the beach and its accompanying picnic tables come into view.",
-      "zh": ""
+      "zh": "我们继续一起沿着海岸线走，直到海滩的入口和那些配套的野餐桌进入视野。"
     },
     {
       "en": "And in the hundreds of seconds it takes to get there, not one feels out of place.",
-      "zh": ""
+      "zh": "而在走到那儿所需的几百秒里，没有一秒让人觉得哪里不对劲。"
     },
     {
       "en": ""
@@ -1493,24 +1493,24 @@
       "en": ""
     },
     {
-      "en": "Noriko’s affection has increased to [noriko_love]!",
-      "zh": ""
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
     },
     {
-      "en": "Niki’s affection has increased to [niki_love]!",
-      "zh": ""
+      "en": "{i}Niki’s affection has increased to [niki_love]!{/i}",
+      "zh": "{i}Niki 的好感度提升到了 [niki_love]!{/i}"
     },
     {
       "en": ".........",
-      "zh": ""
+      "zh": "........."
     },
     {
       "en": "......",
-      "zh": ""
+      "zh": "......"
     },
     {
       "en": "...",
-      "zh": ""
+      "zh": "..."
     },
     {
       "en": ""

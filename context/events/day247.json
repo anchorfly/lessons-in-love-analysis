@@ -1,1718 +1,1718 @@
 {
- "label": "day247",
- "title_zh": "毛毛虫",
- "lines": [
-  {
-   "en": ""
-  },
-  {
-   "en": "label day247:",
-   "zh": ""
-  },
-  {
-   "en": "scene iointro1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro1.webp",
-   "alt": "iointro1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I wound up getting a call from Makoto sometime last night about how Io was approved for switching classes today-",
-   "zh": "昨天夜里某个时候我接到了 Makoto 的电话，说 Io 转班的事今天批下来了——"
-  },
-  {
-   "en": "And, as such, I’m meeting up with her in the hall beforehand to give her the crash course on my, uhh, teaching methods.",
-   "zh": "所以，我现在提前在走廊上跟她碰面，好给她速成讲解一下我的……呃，教学方法。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": So, you’re telling me that all I’m going to have to do every day is just...show up?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 所以您是说，我每天要做的就只是……来上学？"
-  },
-  {
-   "en": ": Pretty much.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 差不离。"
-  },
-  {
-   "en": ": I think my original plan was more along the lines of “Show up and don’t be an asshole,” but we have one girl who wouldn’t even be allowed to come any more if that were the case.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我最初的方针大概是「来上学，别当混蛋」，但按那个标准，我们班有个女生估计连门都进不了。"
-  },
-  {
-   "en": ": Can’t you just kick her out if you don’t want her?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您不想要她的话，直接把她踢出去不就行了？"
-  },
-  {
-   "en": ": Maybe?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 也许吧？"
-  },
-  {
-   "en": ": She’s been getting better, though. Which I’m mildly surprised about since I haven’t done anything to really change her as of yet.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不过她最近好多了。这让我有点意外，因为到目前为止我根本没做什么来改变她。"
-  },
-  {
-   "en": ": That’s good, I guess.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 那大概挺好的。"
-  },
-  {
-   "en": ": I probably wasn’t ever going to talk to her anyway, but I feel a little safer now knowing you’ve already begun her rehabilitation process.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 反正我大概也不会跟她说话，不过知道您已经开始对她进行「改造」了，我还是安心一点。"
-  },
-  {
-   "en": ": Still sticking to your plan of just breezing by as a loner?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 还打算继续当个独行侠、就这么混过去？"
-  },
-  {
-   "en": ": Kinda just gonna play the field, if you know what I mean.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 差不多就是先观望一下，您懂我意思吧。"
-  },
-  {
-   "en": ": Feel things out. See who’s worth my time and who’s just another face in the hall.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 先试探试探。看看谁值得我花时间，谁只是走廊里又一张脸。"
-  },
-  {
-   "en": ": I can relate to that.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 这我能理解。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Or at least I feel like I could have related to that at some point.",
-   "zh": "至少我觉得，在某个时候我是能理解的。"
-  },
-  {
-   "en": "My life’s become a vast departure from what I imagined it would be.",
-   "zh": "我的人生已经和我原本想象的相去甚远。"
-  },
-  {
-   "en": "I’ve gotten to know so many people over the last few seasons and, honestly?",
-   "zh": "过去这几季里我认识了那么多人，说实话？"
-  },
-  {
-   "en": "I feel like I can even say I’ve enjoyed many parts of it.",
-   "zh": "我觉得我甚至可以说，其中很多部分我是享受的。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Particularly the parts where I get to have sex, but other parts have been good too.",
-   "zh": "尤其是能上床的那部分，不过其他部分也不赖。"
-  },
-  {
-   "en": ": So, ready to do this?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那么，准备好了吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro2.webp",
-   "alt": "iointro2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I’m fine with just hanging out in the hall instead.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我觉得就这么在走廊上待着挺好的。"
-  },
-  {
-   "en": ": In fact, want to ditch class and go get breakfast or something? I’ll treat you.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 说真的，要不要翘课去吃点早饭什么的？我请客。"
-  },
-  {
-   "en": ": Getting cold feet, Io?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 临阵退缩了，Io？"
-  },
-  {
-   "en": ": ...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Something like that.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 差不多吧。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro1.webp",
-   "alt": "iointro1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sensei, do you remember all that stuff I was saying about how I would try not to be “too me” when I joined the class?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": Sensei，您还记得我说过，进了班以后会尽量不「太像我自己」吗？"
-  },
-  {
-   "en": ": I do remember you saying something along those lines, yes.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我记得你确实说过类似的话。"
-  },
-  {
-   "en": ": Good.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 很好。"
-  },
-  {
-   "en": ": Now, what if I told you the reason I said that was that the real “me” isn’t fun or exciting to be around?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 那么，如果我告诉您，我那么说是因为真正的「我」相处起来既不有趣也不刺激呢？"
-  },
-  {
-   "en": ": I’d say that there are plenty of people just like that.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我会说，那样的人多的是。"
-  },
-  {
-   "en": ": You think so?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您这么觉得？"
-  },
-  {
-   "en": ": Of course. I’m not particularly fun or exciting either and people keep gravitating toward me.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 当然。我也不是什么有趣或刺激的人，可大家还是一个劲地往我身边凑。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You’re an attractive guy in a[school] full of hormonal [teenager]s. Of course that’s going to happen.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您是个有魅力的男人，而这所[school]里全是荷尔蒙过剩的[teenager]。当然会这样。"
-  },
-  {
-   "en": ": So, what? You’re worried everyone will think you’re boring?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 所以呢？你是担心大家觉得你无聊？"
-  },
-  {
-   "en": ": Not boring. Inherently unlikable and unwilling to change.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 不是无聊。是骨子里讨人厌，而且不愿意改。"
-  },
-  {
-   "en": ": Kind of like the one asshole girl you were talking about before.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 有点像您之前说的那个混蛋女生。"
-  },
-  {
-   "en": ": If I come across as anything less than what you want me to be, will you try to change me as well?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 如果我表现出来的样子达不到您的期望，您也会试着改变我吗？"
-  },
-  {
-   "en": ": That depends.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那要看情况。"
-  },
-  {
-   "en": ": On?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 看什么？"
-  },
-  {
-   "en": ": Whether you want to change or not.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 看你自己想不想改。"
-  },
-  {
-   "en": ": Do you want me to change?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您希望我改变吗？"
-  },
-  {
-   "en": ": I don’t even know you yet. We’ve had three conversations so far and they’ve all been completely different from one another.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我根本还不了解你。我们到目前为止只谈过三次，而且三次完全不一样。"
-  },
-  {
-   "en": ": It’s not too late to back out, you know. I read the transfer thing and it doesn’t formally go through until the end of the[school] day.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您知道吗，现在反悔还来得及。我看过转学文件，正式生效要到今天[school]放学才成。"
-  },
-  {
-   "en": ": If you want to throw me out, you have every right to do that.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 如果您想把我赶走，您完全有这个权利。"
-  },
-  {
-   "en": ": And I won’t blame you if you do.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 就算您这么做，我也不会怪您。"
-  },
-  {
-   "en": ": I’m trash. This[school] is trash. Everything is trash.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我是垃圾。这所[school]是垃圾。一切都是垃圾。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro3.webp",
-   "alt": "iointro3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Heheh~ Here I go again.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 嘿嘿~我又来了。"
-  },
-  {
-   "en": ": You should have taken me up on that breakfast thing when I offered it.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我提吃早饭的时候，您就该答应的。"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Uhh.",
-   "zh": "呃。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Are you okay?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你还好吗？"
-  },
-  {
-   "en": ": ...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Sensei?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": Sensei？"
-  },
-  {
-   "en": ": Yeah?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 怎么？"
-  },
-  {
-   "en": ": I’m going to try to go in there and put on a smile.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我会尽量走进去，脸上挂着笑。"
-  },
-  {
-   "en": ": I’m gonna try to introduce myself to all of those girls-",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我会试着向那些女生做自我介绍——"
-  },
-  {
-   "en": ": But I want you to know that I might just wind up walking out halfway through.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 但我想让您知道，我很可能说到一半就走出去。"
-  },
-  {
-   "en": ": That’s where our new relationship comes in handy, then.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那我们的新关系就派上用场了。"
-  },
-  {
-   "en": ": Most teachers wouldn’t allow something like that. But you’re free to walk out whenever you want in my class.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 大多数老师是不会允许的。但在我的课上，你想什么时候走就什么时候走。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro4",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro4.webp",
-   "alt": "iointro4"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": And you're not even gonna let me finish building the wall...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您连让我把墙砌完都不肯……"
-  },
-  {
-   "en": ": You sure you don’t want to get breakfast with me? I’ll tell you all about why I am the way I am.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您真的不跟我一起去吃早饭吗？我会把我是怎样变成现在这样的全都告诉您。"
-  },
-  {
-   "en": ": I think it might be a little better for me to actually figure out what “the way you are” is first.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我觉得，我最好还是先弄清楚「你现在的样子」到底是什么样。"
-  },
-  {
-   "en": ": Well damn. I guess that’s my cue to go say a bunch of stuff about myself then, huh?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 好吧，见鬼。看来这就是要我进去说一大堆关于自己的事的信号了，是吧？"
-  },
-  {
-   "en": ": Think you’re going to be able to handle it?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你觉得你能撑得住吗？"
-  },
-  {
-   "en": ": Of course. Assimilation isn’t optional.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 当然。同化不是可选项。"
-  },
-  {
-   "en": ": If I need to blend in in order to get by, I’ll giggle and gossip the way good girls are groomed to.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 如果为了混下去必须融入，我会像那些被调教好的乖女孩一样咯咯笑、聊八卦。"
-  },
-  {
-   "en": ": I’ll fake some interests and laugh at their horrible jokes.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我会装出一些兴趣爱好，为她们烂透了的笑话发笑。"
-  },
-  {
-   "en": ": Heck, maybe I’ll intentionally trip on the way to my desk to show everyone that I’m clumsy and lovable.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 见鬼，说不定我还会故意在走到座位之前绊一跤，好让大家觉得我笨手笨脚、挺可爱的。"
-  },
-  {
-   "en": ": They’ll write me off as another normal girl-",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 她们会把我当成又一个普通女生——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro5.webp",
-   "alt": "iointro5"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": And never realize how broken I actually am.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 永远也不会发现我其实已经坏掉了。"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Watch me, Sensei.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 看着我，Sensei。"
-  },
-  {
-   "en": ": Watch me assimilate.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 看着我融入进去。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro6",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro6.webp",
-   "alt": "iointro6"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Io slides the door open and moves into the classroom before I’m able to think up a reasonable response.",
-   "zh": "我还没想出一个像样的回应，Io 就拉开门走进了教室。"
-  },
-  {
-   "en": "But what would a reasonable response to that even be?",
-   "zh": "可那样的话，什么才算像样的回应？"
-  },
-  {
-   "en": "I hate ruling out peoples’ troubles from the get-go...but what could be going on in that head of hers that would make her be so openly self-deprecating without any desire to change?",
-   "zh": "我不喜欢一上来就否定别人的烦恼……但她脑子里到底在想什么，才会让她这么公开地自我贬低，却一点都不想改变？"
-  },
-  {
-   "en": "If you’re going to complain about being trash, why not just...stop being trash?",
-   "zh": "既然要抱怨自己是垃圾，为什么不干脆……不再当垃圾？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": "It isn’t until I set foot into Class-A that I realize I’m like that, too.",
-   "zh": "直到我踏进 A 班，我才意识到我自己也是这样。"
-  },
-  {
-   "en": "How many times have I pointed out the flaws in myself, only to shrug them off and cast them aside?",
-   "zh": "我有多少次指出自己的缺点，然后耸耸肩就把它们丢到一边？"
-  },
-  {
-   "en": "Perhaps Io is the same way?",
-   "zh": "也许 Io 也是这样？"
-  },
-  {
-   "en": "Or perhaps she’s a victim of circumstance-",
-   "zh": "又或者她是环境的受害者——"
-  },
-  {
-   "en": "Not some guy with poor morals who was dropped into a world in which they’d run rampant.",
-   "zh": "而不是某个道德败坏、被丢进一个可以任其横行的世界里的家伙。"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro9",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro9.webp",
-   "alt": "iointro9"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Everyone, Everywhere",
-   "spkColor": "#e6e6e6",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "In the event that this girl is, as she suggests, trash, it probably isn’t a good idea to display her in front of a group of her peers and shine a light on her.",
-   "zh": "万一这个女生真像她自己说的是垃圾，那把她推到一群同龄人面前、让聚光灯打在她身上，大概不是什么好主意。"
-  },
-  {
-   "en": "If that were you up there, far away from your safe little cubby in the back of the room, would you be happy?",
-   "zh": "如果站在上面的是你，离教室后面那个安全的小角落那么远，你会开心吗？"
-  },
-  {
-   "en": "If you had knowingly informed someone that you were uncomfortable with yourself as a person and that someone immediately said “Go show everyone who you really are,” you’d hate them, right?",
-   "zh": "如果你明确告诉过某个人，你对自己这个人感到不适，而那个人立刻说「去让大家看看真正的你」，你会恨他吧？"
-  },
-  {
-   "en": "In hindsight, that’s how I felt.",
-   "zh": "事后想来，我当时就是那种感觉。"
-  },
-  {
-   "en": "Or rather, that’s how I feel.",
-   "zh": "或者不如说，我现在就是这种感觉。"
-  },
-  {
-   "en": "Because I can not resign myself to a small wooden box.",
-   "zh": "因为我没法认命地待在一个小木盒里。"
-  },
-  {
-   "en": "I must watch a lovely caterpillar squirm.",
-   "zh": "我必须看着一条可爱的毛毛虫扭动。"
-  },
-  {
-   "en": "Trying desperately to cocoon itself.",
-   "zh": "拼命地想要结成茧。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro10.webp",
-   "alt": "iointro10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "And become something beautiful.",
-   "zh": "然后变成某种美丽的东西。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Everyone, Everywhere",
-   "spkColor": "#e6e6e6",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I give you another poem.",
-   "zh": "我再送你们一首诗。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro11.webp",
-   "alt": "iointro11"
-  },
-  {
-   "en": "window hide",
-   "zh": ""
-  },
-  {
-   "en": "scene iointro7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro7.webp",
-   "alt": "iointro7"
-  },
-  {
-   "en": "scene iointro8",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro8.webp",
-   "alt": "iointro8"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Does this ever happen to you?",
-   "zh": "你有过这种体验吗？"
-  },
-  {
-   "en": "If not, you live a life to be envied.",
-   "zh": "如果没有，那你过的是让人羡慕的人生。"
-  },
-  {
-   "en": "Steady, now.",
-   "zh": "稳住，现在。"
-  },
-  {
-   "en": "Calm your beating heart.",
-   "zh": "让你狂跳的心平静下来。"
-  },
-  {
-   "en": "For even when their faces disappear-",
-   "zh": "因为即便她们的面孔消失——"
-  },
-  {
-   "en": "Their voices cry out.",
-   "zh": "她们的声音仍在呼喊。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "If you pay close attention, they sound something like this.",
-   "zh": "如果你仔细听，它们听起来大概是这样的。"
-  },
-  {
-   "en": "A mix of all your favorite things and a touch of what you hate.",
-   "zh": "所有你最喜欢的东西，混上一点你讨厌的东西。"
-  },
-  {
-   "en": "Some train themselves to tune the voices out.",
-   "zh": "有些人会训练自己把这些声音屏蔽掉。"
-  },
-  {
-   "en": "And others-",
-   "zh": "而另一些人——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro10.webp",
-   "alt": "iointro10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I’m Io.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我叫 Io。"
-  },
-  {
-   "en": ": I don’t feel good.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我不舒服。"
-  },
-  {
-   "en": ": See you.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 走了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene hallnoonwinter",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/BGs/hallnoonwinter.png",
-   "alt": "hallnoonwinter"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I open the door and begin to look for Io.",
-   "zh": "我推开门，开始找 Io。"
-  },
-  {
-   "en": "Uta jumped up and immediately started trying to quell the confusion the second she left.",
-   "zh": "她一走，Uta 就跳起来，立刻开始试图平息大家的困惑。"
-  },
-  {
-   "en": "And I...actually did something for once.",
-   "zh": "而我……这次居然真的做了点什么。"
-  },
-  {
-   "en": "Why is that, I wonder?",
-   "zh": "这是为什么呢，我在想。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Looking for me?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 在找我？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro12",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro12.webp",
-   "alt": "iointro12"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Well you didn’t run far.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯，你也没跑多远。"
-  },
-  {
-   "en": ": Just needed some air.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 只是需要透透气。"
-  },
-  {
-   "en": ": Guess my normal-girl act isn’t as polished as I thought it would be.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 看来我的普通女生演技没有我以为的那么纯熟。"
-  },
-  {
-   "en": ": I’ll work on it.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我会练的。"
-  },
-  {
-   "en": ": The hard part is already over. You can just do whatever you want from now on.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 最难的部分已经过去了。从现在起你想干什么就干什么。"
-  },
-  {
-   "en": ": Gotta say, though, that was definitely a strong first impression.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不过我得说，这第一印象确实够强烈。"
-  },
-  {
-   "en": ": I personally liked the part where I stood there and looked like an idiot for ten whole minutes.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我个人最喜欢的是我站在那儿、像个白痴一样足足十分钟的部分。"
-  },
-  {
-   "en": ": I think it was closer to like fifteen seconds, but yeah.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我觉得大概只有十五秒左右，不过，嗯。"
-  },
-  {
-   "en": ": Really? It felt a lot longer to me.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 真的吗？我感觉得久多了。"
-  },
-  {
-   "en": ": That tends to happen when you’re the center of attention.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 当你成为焦点的时候，往往就会这样。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro13",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro13.webp",
-   "alt": "iointro13"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ugh. Now people are probably going to try and ask me if everything is okay or if I’m nervous or blah blah blah.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 呃。这下大家大概要跑来问我没事吧、是不是紧张了之类的吧啦吧啦。"
-  },
-  {
-   "en": ": Is that really such a bad thing?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那真的是坏事吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro14",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro14.webp",
-   "alt": "iointro14"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Io fact number-one. Get your notebook ready.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": Io 小知识第一条。把笔记本拿出来准备好。"
-  },
-  {
-   "en": ": I should probably just commit whatever this is to memory. I don’t want to break out a notebook each time I see you.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我大概该把这事直接背下来。我可不想每次见你都掏出个笔记本。"
-  },
-  {
-   "en": ": Previously on “Io Opens Up to a Guy She Just Met,” we learned that Io does not like people.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 上集回顾《Io 向一个刚认识的男人敞开心扉》：我们了解到 Io 不喜欢人。"
-  },
-  {
-   "en": ": This was a lie.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 这是谎话。"
-  },
-  {
-   "en": ": Io specifically does not like girls.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": Io 具体是不喜欢女生。"
-  },
-  {
-   "en": ": Also, Io is going to stop talking in third person now because she feels like a moron.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 另外，Io 现在要停止用第三人称说话了，因为她觉得自己像个傻子。"
-  },
-  {
-   "en": ": Why just girls?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 为什么只是女生？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro15",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro15.webp",
-   "alt": "iointro15"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Is that even a question?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 这也算个问题吗？"
-  },
-  {
-   "en": ": Girls are messed up, Sensei.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 女生都很扭曲，Sensei。"
-  },
-  {
-   "en": ": Just look at me.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 看看我就知道了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Me...and the rest of them...we’re all at that age where everything is just a big fucking project.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我……还有她们其他人……我们都处在那个年纪，什么都是一桩他妈的大工程。"
-  },
-  {
-   "en": "scene iointro16",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro16.webp",
-   "alt": "iointro16"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": And I love projects, don’t get me wrong.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 别误会，我很喜欢工程。"
-  },
-  {
-   "en": ": I've built so many things.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我造过很多东西。"
-  },
-  {
-   "en": ": But sometimes, you can just take one look at something and know that it’s beyond fixing.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 但有时候，你只要看某样东西一眼，就知道它已经修不好了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro17",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro17.webp",
-   "alt": "iointro17"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Getting to know people means getting to know what ails them.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 认识一个人，就意味着要了解他的病根在哪。"
-  },
-  {
-   "en": ": Which means trying to help them fix it.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 也就意味着要试着帮他修好。"
-  },
-  {
-   "en": ": Which means figuring out how to fix it.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 也就意味着得想出怎么修。"
-  },
-  {
-   "en": ": Then, before long, you’re spending more time on someone else than yourself.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 然后不知不觉，你花在别人身上的时间就比花在自己身上的还多。"
-  },
-  {
-   "en": ": How many friends does a normal [teenage]girl have?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 一个普通的[teenage]女生有多少朋友？"
-  },
-  {
-   "en": ": Four? Five?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 四个？五个？"
-  },
-  {
-   "en": ": Probably a lot more, to be honest.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 说实话，大概要多得多。"
-  },
-  {
-   "en": ": Ugh. That’s even worse.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 呃。那更糟了。"
-  },
-  {
-   "en": ": The more people you know, the more burdens you're forced to carry.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 你认识的人越多，被迫背上的负担就越多。"
-  },
-  {
-   "en": ": But some people have big frickin’ burdens, you know?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 可有些人的负担是他妈的大啊，您知道吗？"
-  },
-  {
-   "en": ": So maybe you can say that I’m afraid of being weighed down, or even that I'm afraid I’d weigh somebody else down-",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 所以也许您可以说我害怕被压垮，甚至害怕自己会压垮别人——"
-  },
-  {
-   "en": ": But the fact of the matter is, I think it’s easier to just stay away from people like that.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 但事实是，我觉得离那种人远一点更容易。"
-  },
-  {
-   "en": ": I’ll surround myself with projects that won’t judge me or stab me in the back if I can’t do anything about them.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我要让围绕我的都是些就算我拿它们没办法、也不会评判我、不会背后捅刀的工程。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro18",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro18.webp",
-   "alt": "iointro18"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Or maybe I’ll just waste away my days with someone like you- who will sit there like a big old sponge and soak up all of my complaints.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 或者我就干脆把日子浪费在像你这样的人身上——你会像块又大又旧的海绵一样坐在那儿，把我所有的抱怨都吸进去。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "The walls crumble once more.",
-   "zh": "墙又一次塌了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": So, can we go get breakfast now?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 那么，我们现在能去吃早饭了吗？"
-  },
-  {
-   "en": ": Before that...I want to point out a little hypocrisy in your logic, Io.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 在那之前……我想指出你逻辑里的一点矛盾，Io。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro19",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro19.webp",
-   "alt": "iointro19"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Which part?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 哪一点？"
-  },
-  {
-   "en": ": Your key complaint about girls is that they’re all projects. But don’t you think you’re making yourself sound like a bit of a project, too?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你对女生最大的抱怨是她们全都是工程。但你不觉得自己听起来也有点像个工程吗？"
-  },
-  {
-   "en": ": Oh, I’m like ten projects. I know that.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 哦，我大概是十个工程。这我知道。"
-  },
-  {
-   "en": ": It’s why I gave you that warning about how you might not like me once you get to know me.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 所以我才提醒过您，等您了解我之后可能就不会喜欢我了。"
-  },
-  {
-   "en": ": And if that’s true?...And I don’t come to like you once I figure you out?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 如果真是那样呢？……如果我把你看透之后，还是没能喜欢上你呢？"
-  },
-  {
-   "en": ": You can throw me away.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 那您可以把我扔掉。"
-  },
-  {
-   "en": ": I’ll probably cry for a day or two. Maybe a week. But I’ll get over it.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我大概会哭上一两天。也许一周。但我会熬过去的。"
-  },
-  {
-   "en": ": Worse things have happened to me.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 更糟的事我都经历过。"
-  },
-  {
-   "en": ": I just have a good feeling about the two of us.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我只是对我们两个有种好的预感。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro20",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro20.webp",
-   "alt": "iointro20"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": But there’s a good chance that feeling is just hormones.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 不过那感觉很有可能只是荷尔蒙作祟。"
-  },
-  {
-   "en": ": And there’s a good chance that I’m already well beyond repair.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 也很有可能我早就修不好了。"
-  },
-  {
-   "en": ": But, in the event I’m not-",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 但是，万一我还修得好——"
-  },
-  {
-   "en": ": Do you want to try?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您想试试吗？"
-  },
-  {
-   "en": ": Do you want to keep getting to know me even after I’ve done nothing but say things that would scare a normal person away the last few days?",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 这几天我说的尽是些能把正常人吓跑的话，即便如此，您还想继续了解我吗？"
-  },
-  {
-   "en": ": Cause I think...if you turn me down now, I can manage to not get hurt.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 因为我觉得……如果您现在拒绝我，我还撑得住，不会受伤。"
-  },
-  {
-   "en": ": There’s still a little bit of the wall left.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 墙还剩那么一点点。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I find myself thinking this a lot but-",
-   "zh": "我发现自己经常这么想，不过——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Teenagers really are exhausting.",
-   "zh": "青少年真是累人。"
-  },
-  {
-   "en": "How do you even develop a perspective like Io’s this early on in life?",
-   "zh": "一个人在这么早的人生阶段，到底是怎么形成 Io 这种看法的？"
-  },
-  {
-   "en": "It’s only her first year in [high_school] and she’s already acting like she’s given up on associating with anyone for the rest of eternity.",
-   "zh": "她才刚上[high_school]一年级，就已经摆出一副永远放弃与人来往的样子了。"
-  },
-  {
-   "en": "Where does she expect to go?",
-   "zh": "她以为自己能走到哪儿去？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro21",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro21.webp",
-   "alt": "iointro21"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": ..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "And why...do I want to go with her?",
-   "zh": "还有，为什么……我想跟她一起走？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Of course I still want to get to know you.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我当然还是想了解你。"
-  },
-  {
-   "en": ": I can’t let you just only have Uta for the rest of your [high_school] career.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我不能眼睁睁看你整个[high_school]生涯只有 Uta 一个人。"
-  },
-  {
-   "en": ": Maybe I can even get you to add a few more of the girls into the mix. Hiding from them forever isn’t going to do you any favors.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 也许我还能让你再接纳几个女生。永远躲着她们对你没好处。"
-  },
-  {
-   "en": ": I’ve got a lot of baggage, Sensei...You’re opening a real can of worms here.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我身上包袱很重，Sensei……您这是捅了个马蜂窝啊。"
-  },
-  {
-   "en": ": Are you really trying to talk me out of this while looking like that?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你顶着这副表情，是真的想劝我打退堂鼓吗？"
-  },
-  {
-   "en": ": How do I look? I can’t see my face.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我什么表情？我又看不见自己的脸。"
-  },
-  {
-   "en": ": I don’t know. Desperate?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我说不好。绝望？"
-  },
-  {
-   "en": ": Desperate?...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 绝望？……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene iointro22",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/iointro22.webp",
-   "alt": "iointro22"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Yeah...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 嗯……"
-  },
-  {
-   "en": ": That might not be too far off.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 也许还真差不多。"
-  },
-  {
-   "en": ": You’re a real weirdo, Sensei.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您真是个怪人，Sensei。"
-  },
-  {
-   "en": ": I thought my “Throw everything at him and pray something sticks” strategy was going to backfire for sure, but...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我本来以为我那套「什么都往他身上扔、祈祷总有一条管用」的策略肯定会弄巧成拙，但是……"
-  },
-  {
-   "en": ": You don't seem scared of me at all.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 您看起来一点都不怕我。"
-  },
-  {
-   "en": ": Let’s just say I’ve gotten pretty good at handling girls with issues over the last few months.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 只能说这几个月来，我对付有问题的女生已经相当拿手了。"
-  },
-  {
-   "en": ": Well, please handle mine gently if you’re going to handle them at all.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 那请您处理我的问题时温柔点，如果您真要处理的话。"
-  },
-  {
-   "en": ": I’m a lot more delicate than I let on...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 我比表现出来的要脆弱得多……"
-  },
-  {
-   "en": ": So please...",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 所以请……"
-  },
-  {
-   "en": ": Don't let me break.",
-   "spk": "Io",
-   "spkColor": "#BBE3A1",
-   "zh": ": 别让我碎掉。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "One thing I don’t think Io realizes is that, after a few short conversations-",
-   "zh": "有一件事我觉得 Io 没意识到，那就是，仅仅经过短短几次交谈——"
-  },
-  {
-   "en": "She already feels more delicate than almost anyone I've ever met.",
-   "zh": "她在我眼里已经比我见过的几乎任何人都更脆弱。"
-  },
-  {
-   "en": "But her self-perception is clearly all out of sorts.",
-   "zh": "但她的自我认知显然完全错乱了。"
-  },
-  {
-   "en": "It’s strange how someone so self-centered can be so unaware of who they are or how they appear to others.",
-   "zh": "奇怪的是，一个这么以自我为中心的人，竟会如此不清楚自己是谁、在别人眼里是什么样子。"
-  },
-  {
-   "en": "You’d think that focusing everything around your own interests or disinterests would help you avoid that.",
-   "zh": "你本以为把一切都围绕自己的好恶转，反而能避免这种事。"
-  },
-  {
-   "en": "But I guess, in some rare cases-",
-   "zh": "但我想，在极少数情况下——"
-  },
-  {
-   "en": "That exact mindset can warp you.",
-   "zh": "正是这种心态会把人扭曲。"
-  },
-  {
-   "en": "Io Ichimonji does not exist.",
-   "zh": "Io Ichimonji 并不存在。"
-  },
-  {
-   "en": "She has already lost herself.",
-   "zh": "她早就把自己弄丢了。"
-  },
-  {
-   "en": "And, I can’t say this for sure right now-",
-   "zh": "而这一点我现在还不敢肯定——"
-  },
-  {
-   "en": "But I’m pretty sure that whoever this girl is-",
-   "zh": "但我很确定，不管这个女生到底是谁——"
-  },
-  {
-   "en": "Needs my help finding her.",
-   "zh": "都需要我帮她找回来。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Congratulations! Uta and Io have been added to the second floor of the dorms!",
-   "zh": "恭喜！Uta 和 Io 已入住宿舍二楼！"
-  },
-  {
-   "en": "They’re staying in Room 7 and are now available to spend free time with on nights and weekends.",
-   "zh": "她们住在 7 号房，现在可以在晚上和周末与她们共度自由时间！"
-  },
-  {
-   "en": "Additionally, Uta can be found at the Maid Cafe at night and Io can be found at the Bathhouse on afternoons!",
-   "zh": "此外，晚上可以在女仆咖啡店找到 Uta，下午可以在澡堂找到 Io！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ day247 = True",
-   "zh": ""
-  },
-  {
-   "en": "$ io_love += 1",
-   "zh": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Io’s affection has increased to [io_love]!",
-   "zh": "Io 的好感度提升到了 [io_love]！"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "jump afterschoolevent",
-   "zh": ""
-  }
- ]
+  "label": "day247",
+  "title_zh": "毛毛虫",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day247:",
+      "zh": ""
+    },
+    {
+      "en": "scene iointro1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro1.webp",
+      "alt": "iointro1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wound up getting a call from Makoto sometime last night about how Io was approved for switching classes today-",
+      "zh": "昨天夜里某个时候我接到了 Makoto 的电话，说 Io 转班的事今天批下来了——"
+    },
+    {
+      "en": "And, as such, I’m meeting up with her in the hall beforehand to give her the crash course on my, uhh, {i}teaching{/i} methods.",
+      "zh": "所以，我现在提前在走廊上跟她碰面，好给她速成讲解一下我的……呃，{i}教学{/i}方法。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, you’re telling me that all I’m going to have to do every day is just...show up?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 所以您是说，我每天要做的就只是……来上学？"
+    },
+    {
+      "en": ": Pretty much.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 差不离。"
+    },
+    {
+      "en": ": I think my original plan was more along the lines of “Show up and don’t be an asshole,” but we have one girl who wouldn’t even be allowed to come any more if that were the case.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我最初的方针大概是「来上学，别当混蛋」，但按那个标准，我们班有个女生估计连门都进不了。"
+    },
+    {
+      "en": ": Can’t you just kick her out if you don’t want her?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您不想要她的话，直接把她踢出去不就行了？"
+    },
+    {
+      "en": ": Maybe?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 也许吧？"
+    },
+    {
+      "en": ": She’s been getting better, though. Which I’m mildly surprised about since I haven’t done anything to really change her as of yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不过她最近好多了。这让我有点意外，因为到目前为止我根本没做什么来改变她。"
+    },
+    {
+      "en": ": That’s good, I guess.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 那大概挺好的。"
+    },
+    {
+      "en": ": I probably wasn’t ever going to talk to her anyway, but I feel a little safer now knowing you’ve already begun her rehabilitation process.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 反正我大概也不会跟她说话，不过知道您已经开始对她进行「改造」了，我还是安心一点。"
+    },
+    {
+      "en": ": Still sticking to your plan of just breezing by as a loner?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 还打算继续当个独行侠、就这么混过去？"
+    },
+    {
+      "en": ": Kinda just gonna play the field, if you know what I mean.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 差不多就是先观望一下，您懂我意思吧。"
+    },
+    {
+      "en": ": Feel things out. See who’s worth my time and who’s just another face in the hall.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 先试探试探。看看谁值得我花时间，谁只是走廊里又一张脸。"
+    },
+    {
+      "en": ": I can relate to that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这我能理解。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Or at least I feel like I could have related to that at some point.",
+      "zh": "至少我觉得，在某个时候我是能理解的。"
+    },
+    {
+      "en": "My life’s become a vast departure from what I imagined it would be.",
+      "zh": "我的人生已经和我原本想象的相去甚远。"
+    },
+    {
+      "en": "I’ve gotten to know so many people over the last few seasons and, honestly?",
+      "zh": "过去这几季里我认识了那么多人，说实话？"
+    },
+    {
+      "en": "I feel like I can even say I’ve enjoyed many parts of it.",
+      "zh": "我觉得我甚至可以说，其中很多部分我是享受的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Particularly the parts where I get to have sex, but other parts have been good too.",
+      "zh": "尤其是能上床的那部分，不过其他部分也不赖。"
+    },
+    {
+      "en": ": So, ready to do this?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那么，准备好了吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro2.webp",
+      "alt": "iointro2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m fine with just hanging out in the hall instead.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我觉得就这么在走廊上待着挺好的。"
+    },
+    {
+      "en": ": In fact, want to ditch class and go get breakfast or something? I’ll treat you.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 说真的，要不要翘课去吃点早饭什么的？我请客。"
+    },
+    {
+      "en": ": Getting cold feet, Io?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 临阵退缩了，Io？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Something like that.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 差不多吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro1.webp",
+      "alt": "iointro1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei, do you remember all that stuff I was saying about how I would try not to be “too {i}me{/i}” when I joined the class?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": Sensei，您还记得我说过，进了班以后会尽量不「太像{i}我自己{/i}」吗？"
+    },
+    {
+      "en": ": I do remember you saying something along those lines, yes.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我记得你确实说过类似的话。"
+    },
+    {
+      "en": ": Good.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 很好。"
+    },
+    {
+      "en": ": Now, what if I told you the reason I said that was that the real “me” isn’t fun or exciting to be around?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 那么，如果我告诉您，我那么说是因为真正的「我」相处起来既不有趣也不刺激呢？"
+    },
+    {
+      "en": ": I’d say that there are plenty of people just like that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会说，那样的人多的是。"
+    },
+    {
+      "en": ": You think so?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您这么觉得？"
+    },
+    {
+      "en": ": Of course. I’m not particularly fun or exciting either and people keep gravitating toward me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。我也不是什么有趣或刺激的人，可大家还是一个劲地往我身边凑。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re an attractive guy in a[school] full of hormonal [teenager]s. Of course that’s going to happen.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您是个有魅力的男人，而这所[school]里全是荷尔蒙过剩的[teenager]。当然会这样。"
+    },
+    {
+      "en": ": So, what? You’re worried everyone will think you’re boring?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 所以呢？你是担心大家觉得你无聊？"
+    },
+    {
+      "en": ": Not boring. Inherently unlikable and unwilling to change.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 不是无聊。是骨子里讨人厌，而且不愿意改。"
+    },
+    {
+      "en": ": Kind of like the one asshole girl you were talking about before.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 有点像您之前说的那个混蛋女生。"
+    },
+    {
+      "en": ": If I come across as anything less than what you want me to be, will you try to change me as well?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 如果我表现出来的样子达不到您的期望，您也会试着改变我吗？"
+    },
+    {
+      "en": ": That depends.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那要看情况。"
+    },
+    {
+      "en": ": On?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 看什么？"
+    },
+    {
+      "en": ": Whether you want to change or not.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 看你自己想不想改。"
+    },
+    {
+      "en": ": Do you {i}want{/i} me to change?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您{i}希望{/i}我改变吗？"
+    },
+    {
+      "en": ": I don’t even {i}know{/i} you yet. We’ve had three conversations so far and they’ve all been completely different from one another.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我根本还不{i}了解{/i}你。我们到目前为止只谈过三次，而且三次完全不一样。"
+    },
+    {
+      "en": ": It’s not too late to back out, you know. I read the transfer thing and it doesn’t formally go through until the end of the[school] day.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您知道吗，现在反悔还来得及。我看过转学文件，正式生效要到今天[school]放学才成。"
+    },
+    {
+      "en": ": If you want to throw me out, you have every right to do that.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 如果您想把我赶走，您完全有这个权利。"
+    },
+    {
+      "en": ": And I won’t blame you if you do.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 就算您这么做，我也不会怪您。"
+    },
+    {
+      "en": ": I’m trash. This[school] is trash. Everything is trash.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我是垃圾。这所[school]是垃圾。一切都是垃圾。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro3.webp",
+      "alt": "iointro3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heheh~ Here I go again.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 嘿嘿~我又来了。"
+    },
+    {
+      "en": ": You should have taken me up on that breakfast thing when I offered it.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我提吃早饭的时候，您就该答应的。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uhh.",
+      "zh": "呃。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are you okay?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你还好吗？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Sensei?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": Sensei？"
+    },
+    {
+      "en": ": Yeah?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 怎么？"
+    },
+    {
+      "en": ": I’m going to try to go in there and put on a smile.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我会尽量走进去，脸上挂着笑。"
+    },
+    {
+      "en": ": I’m gonna try to introduce myself to all of those girls-",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我会试着向那些女生做自我介绍——"
+    },
+    {
+      "en": ": But I want you to know that I might just wind up walking out halfway through.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 但我想让您知道，我很可能说到一半就走出去。"
+    },
+    {
+      "en": ": That’s where our new relationship comes in handy, then.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那我们的新关系就派上用场了。"
+    },
+    {
+      "en": ": Most teachers wouldn’t allow something like that. But you’re free to walk out whenever you want in my class.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 大多数老师是不会允许的。但在我的课上，你想什么时候走就什么时候走。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro4.webp",
+      "alt": "iointro4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And you're not even gonna let me finish building the wall...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您连让我把墙砌完都不肯……"
+    },
+    {
+      "en": ": You sure you don’t want to get breakfast with me? I’ll tell you all about why I am the way I am.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您真的不跟我一起去吃早饭吗？我会把我是怎样变成现在这样的全都告诉您。"
+    },
+    {
+      "en": ": I think it might be a little better for me to actually figure out what “the way you are” is first.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得，我最好还是先弄清楚「你现在的样子」到底是什么样。"
+    },
+    {
+      "en": ": Well damn. I guess that’s my cue to go say a bunch of stuff about myself then, huh?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 好吧，见鬼。看来这就是要我进去说一大堆关于自己的事的信号了，是吧？"
+    },
+    {
+      "en": ": Think you’re going to be able to handle it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你觉得你能撑得住吗？"
+    },
+    {
+      "en": ": Of course. Assimilation isn’t optional.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 当然。同化不是可选项。"
+    },
+    {
+      "en": ": If I need to blend in in order to get by, I’ll giggle and gossip the way good girls are groomed to.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 如果为了混下去必须融入，我会像那些被调教好的乖女孩一样咯咯笑、聊八卦。"
+    },
+    {
+      "en": ": I’ll fake some interests and laugh at their horrible jokes.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我会装出一些兴趣爱好，为她们烂透了的笑话发笑。"
+    },
+    {
+      "en": ": Heck, maybe I’ll intentionally trip on the way to my desk to show everyone that I’m clumsy and lovable.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 见鬼，说不定我还会故意在走到座位之前绊一跤，好让大家觉得我笨手笨脚、挺可爱的。"
+    },
+    {
+      "en": ": They’ll write me off as another normal girl-",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 她们会把我当成又一个普通女生——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro5.webp",
+      "alt": "iointro5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And never realize how broken I actually am.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 永远也不会发现我其实已经坏掉了。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Watch me, Sensei.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 看着我，Sensei。"
+    },
+    {
+      "en": ": Watch me assimilate.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 看着我融入进去。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro6.webp",
+      "alt": "iointro6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Io slides the door open and moves into the classroom before I’m able to think up a reasonable response.",
+      "zh": "我还没想出一个像样的回应，Io 就拉开门走进了教室。"
+    },
+    {
+      "en": "But what would a reasonable response to that even be?",
+      "zh": "可那样的话，什么才算像样的回应？"
+    },
+    {
+      "en": "I hate ruling out peoples’ troubles from the get-go...but what could be going on in that head of hers that would make her be so openly self-deprecating without any desire to change?",
+      "zh": "我不喜欢一上来就否定别人的烦恼……但她脑子里到底在想什么，才会让她这么公开地自我贬低，却一点都不想改变？"
+    },
+    {
+      "en": "If you’re going to complain about being trash, why not just...stop being trash?",
+      "zh": "既然要抱怨自己是垃圾，为什么不干脆……不再当垃圾？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "It isn’t until I set foot into Class-A that I realize I’m like that, too.",
+      "zh": "直到我踏进 A 班，我才意识到我自己也是这样。"
+    },
+    {
+      "en": "How many times have I pointed out the flaws in myself, only to shrug them off and cast them aside?",
+      "zh": "我有多少次指出自己的缺点，然后耸耸肩就把它们丢到一边？"
+    },
+    {
+      "en": "Perhaps Io is the same way?",
+      "zh": "也许 Io 也是这样？"
+    },
+    {
+      "en": "Or perhaps she’s a victim of circumstance-",
+      "zh": "又或者她是环境的受害者——"
+    },
+    {
+      "en": "Not some guy with poor morals who was dropped into a world in which they’d run rampant.",
+      "zh": "而不是某个道德败坏、被丢进一个可以任其横行的世界里的家伙。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro9.webp",
+      "alt": "iointro9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Everyone, Everywhere",
+      "spkColor": "#e6e6e6",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "In the event that this girl {i}is{/i}, as she suggests, trash, it probably isn’t a good idea to display her in front of a group of her peers and shine a light on her.",
+      "zh": "万一这个女生{i}真{/i}像她自己说的是垃圾，那把她推到一群同龄人面前、让聚光灯打在她身上，大概不是什么好主意。"
+    },
+    {
+      "en": "If that were you up there, far away from your safe little cubby in the back of the room, would you be happy?",
+      "zh": "如果站在上面的是你，离教室后面那个安全的小角落那么远，你会开心吗？"
+    },
+    {
+      "en": "If you had knowingly informed someone that you were uncomfortable with yourself as a person and that someone immediately said “Go show everyone who you really are,” you’d hate them, right?",
+      "zh": "如果你明确告诉过某个人，你对自己这个人感到不适，而那个人立刻说「去让大家看看真正的你」，你会恨他吧？"
+    },
+    {
+      "en": "In hindsight, that’s how I felt.",
+      "zh": "事后想来，我当时就是那种感觉。"
+    },
+    {
+      "en": "Or rather, that’s how I feel.",
+      "zh": "或者不如说，我现在就是这种感觉。"
+    },
+    {
+      "en": "Because I can not resign myself to a small wooden box.",
+      "zh": "因为我没法认命地待在一个小木盒里。"
+    },
+    {
+      "en": "I must watch a lovely caterpillar squirm.",
+      "zh": "我必须看着一条可爱的毛毛虫扭动。"
+    },
+    {
+      "en": "Trying desperately to cocoon itself.",
+      "zh": "拼命地想要结成茧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro10.webp",
+      "alt": "iointro10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And become something beautiful.",
+      "zh": "然后变成某种美丽的东西。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Everyone, Everywhere",
+      "spkColor": "#e6e6e6",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give you another poem.",
+      "zh": "我再送你们一首诗。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro11.webp",
+      "alt": "iointro11"
+    },
+    {
+      "en": "window hide",
+      "zh": "window hide"
+    },
+    {
+      "en": "scene iointro7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro7.webp",
+      "alt": "iointro7"
+    },
+    {
+      "en": "scene iointro8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro8.webp",
+      "alt": "iointro8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Does this ever happen to you?",
+      "zh": "你有过这种体验吗？"
+    },
+    {
+      "en": "If not, you live a life to be envied.",
+      "zh": "如果没有，那你过的是让人羡慕的人生。"
+    },
+    {
+      "en": "Steady, now.",
+      "zh": "稳住，现在。"
+    },
+    {
+      "en": "Calm your beating heart.",
+      "zh": "让你狂跳的心平静下来。"
+    },
+    {
+      "en": "For even when their faces disappear-",
+      "zh": "因为即便她们的面孔消失——"
+    },
+    {
+      "en": "Their voices cry out.",
+      "zh": "她们的声音仍在呼喊。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "If you pay close attention, they sound something like this.",
+      "zh": "如果你仔细听，它们听起来大概是这样的。"
+    },
+    {
+      "en": "A mix of all your favorite things and a touch of what you hate.",
+      "zh": "所有你最喜欢的东西，混上一点你讨厌的东西。"
+    },
+    {
+      "en": "Some train themselves to tune the voices out.",
+      "zh": "有些人会训练自己把这些声音屏蔽掉。"
+    },
+    {
+      "en": "And others-",
+      "zh": "而另一些人——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro10.webp",
+      "alt": "iointro10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m Io.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我叫 Io。"
+    },
+    {
+      "en": ": I don’t feel good.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我不舒服。"
+    },
+    {
+      "en": ": See you.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 走了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene hallnoonwinter",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/hallnoonwinter.png",
+      "alt": "hallnoonwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I open the door and begin to look for Io.",
+      "zh": "我推开门，开始找 Io。"
+    },
+    {
+      "en": "Uta jumped up and immediately started trying to quell the confusion the second she left.",
+      "zh": "她一走，Uta 就跳起来，立刻开始试图平息大家的困惑。"
+    },
+    {
+      "en": "And I...actually did something for once.",
+      "zh": "而我……这次居然真的做了点什么。"
+    },
+    {
+      "en": "Why is that, I wonder?",
+      "zh": "这是为什么呢，我在想。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Looking for me?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 在找我？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro12.webp",
+      "alt": "iointro12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well you didn’t run far.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，你也没跑多远。"
+    },
+    {
+      "en": ": Just needed some air.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 只是需要透透气。"
+    },
+    {
+      "en": ": Guess my normal-girl act isn’t as polished as I thought it would be.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 看来我的普通女生演技没有我以为的那么纯熟。"
+    },
+    {
+      "en": ": I’ll work on it.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我会练的。"
+    },
+    {
+      "en": ": The hard part is already over. You can just do whatever you want from now on.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 最难的部分已经过去了。从现在起你想干什么就干什么。"
+    },
+    {
+      "en": ": Gotta say, though, that was definitely a strong first impression.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不过我得说，这第一印象确实够强烈。"
+    },
+    {
+      "en": ": I personally liked the part where I stood there and looked like an idiot for ten whole minutes.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我个人最喜欢的是我站在那儿、像个白痴一样足足十分钟的部分。"
+    },
+    {
+      "en": ": I think it was closer to like fifteen seconds, but yeah.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得大概只有十五秒左右，不过，嗯。"
+    },
+    {
+      "en": ": Really? It felt a lot longer to me.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 真的吗？我感觉得久多了。"
+    },
+    {
+      "en": ": That tends to happen when you’re the center of attention.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当你成为焦点的时候，往往就会这样。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro13.webp",
+      "alt": "iointro13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh. Now people are probably going to try and ask me if everything is okay or if I’m nervous or blah blah blah.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 呃。这下大家大概要跑来问我没事吧、是不是紧张了之类的吧啦吧啦。"
+    },
+    {
+      "en": ": Is that really such a bad thing?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那真的是坏事吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro14.webp",
+      "alt": "iointro14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Io fact number-one. Get your notebook ready.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": Io 小知识第一条。把笔记本拿出来准备好。"
+    },
+    {
+      "en": ": I should probably just commit whatever this is to memory. I don’t want to break out a notebook each time I see you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我大概该把这事直接背下来。我可不想每次见你都掏出个笔记本。"
+    },
+    {
+      "en": ": Previously on “Io Opens Up to a Guy She Just Met,” we learned that Io does not like people.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 上集回顾《Io 向一个刚认识的男人敞开心扉》：我们了解到 Io 不喜欢人。"
+    },
+    {
+      "en": ": This was a lie.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 这是谎话。"
+    },
+    {
+      "en": ": Io specifically does not like girls.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": Io 具体是不喜欢女生。"
+    },
+    {
+      "en": ": Also, Io is going to stop talking in third person now because she feels like a moron.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 另外，Io 现在要停止用第三人称说话了，因为她觉得自己像个傻子。"
+    },
+    {
+      "en": ": Why just girls?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 为什么只是女生？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro15.webp",
+      "alt": "iointro15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is that even a question?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 这也算个问题吗？"
+    },
+    {
+      "en": ": Girls are messed up, Sensei.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 女生都很扭曲，Sensei。"
+    },
+    {
+      "en": ": Just look at me.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 看看我就知道了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Me...and the rest of them...we’re all at that age where everything is just a big fucking project.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我……还有她们其他人……我们都处在那个年纪，什么都是一桩他妈的大工程。"
+    },
+    {
+      "en": "scene iointro16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro16.webp",
+      "alt": "iointro16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And I love projects, don’t get me wrong.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 别误会，我很喜欢工程。"
+    },
+    {
+      "en": ": I've built so many things.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我造过很多东西。"
+    },
+    {
+      "en": ": But sometimes, you can just take one look at something and know that it’s beyond fixing.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 但有时候，你只要看某样东西一眼，就知道它已经修不好了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro17.webp",
+      "alt": "iointro17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Getting to know people means getting to know what ails them.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 认识一个人，就意味着要了解他的病根在哪。"
+    },
+    {
+      "en": ": Which means trying to help them fix it.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 也就意味着要试着帮他修好。"
+    },
+    {
+      "en": ": Which means {i}figuring out{/i} how to fix it.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 也就意味着得{i}想出{/i}怎么修。"
+    },
+    {
+      "en": ": Then, before long, you’re spending more time on someone else than yourself.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 然后不知不觉，你花在别人身上的时间就比花在自己身上的还多。"
+    },
+    {
+      "en": ": How many friends does a normal [teenage]girl have?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 一个普通的[teenage]女生有多少朋友？"
+    },
+    {
+      "en": ": Four? Five?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 四个？五个？"
+    },
+    {
+      "en": ": Probably a lot more, to be honest.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说实话，大概要多得多。"
+    },
+    {
+      "en": ": Ugh. That’s even worse.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 呃。那更糟了。"
+    },
+    {
+      "en": ": The more people you know, the more burdens you're forced to carry.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 你认识的人越多，被迫背上的负担就越多。"
+    },
+    {
+      "en": ": But some people have {i}big{/i} frickin’ burdens, you know?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 可有些人的负担是他妈的{i}大{/i}啊，您知道吗？"
+    },
+    {
+      "en": ": So maybe you can say that I’m afraid of being weighed down, or even that I'm afraid I’d weigh somebody {i}else{/i} down-",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 所以也许您可以说我害怕被压垮，甚至害怕自己会压垮{i}别人{/i}——"
+    },
+    {
+      "en": ": But the fact of the matter is, I think it’s easier to just stay away from people like that.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 但事实是，我觉得离那种人远一点更容易。"
+    },
+    {
+      "en": ": I’ll surround myself with projects that won’t judge me or stab me in the back if I can’t do anything about them.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我要让围绕我的都是些就算我拿它们没办法、也不会评判我、不会背后捅刀的工程。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro18.webp",
+      "alt": "iointro18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Or maybe I’ll just waste away my days with someone like you- who will sit there like a big old sponge and soak up all of my complaints.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 或者我就干脆把日子浪费在像你这样的人身上——你会像块又大又旧的海绵一样坐在那儿，把我所有的抱怨都吸进去。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The walls crumble once more.",
+      "zh": "墙又一次塌了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, can we go get breakfast now?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 那么，我们现在能去吃早饭了吗？"
+    },
+    {
+      "en": ": Before that...I want to point out a little hypocrisy in your logic, Io.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 在那之前……我想指出你逻辑里的一点矛盾，Io。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro19.webp",
+      "alt": "iointro19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Which part?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 哪一点？"
+    },
+    {
+      "en": ": Your key complaint about girls is that they’re all projects. But don’t you think you’re making yourself sound like a bit of a project, too?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你对女生最大的抱怨是她们全都是工程。但你不觉得自己听起来也有点像个工程吗？"
+    },
+    {
+      "en": ": Oh, I’m like ten projects. I know that.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 哦，我大概是十个工程。这我知道。"
+    },
+    {
+      "en": ": It’s why I gave you that warning about how you might not like me once you get to know me.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 所以我才提醒过您，等您了解我之后可能就不会喜欢我了。"
+    },
+    {
+      "en": ": And if that’s true?...And I don’t come to like you once I figure you out?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果真是那样呢？……如果我把你看透之后，还是没能喜欢上你呢？"
+    },
+    {
+      "en": ": You can throw me away.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 那您可以把我扔掉。"
+    },
+    {
+      "en": ": I’ll probably cry for a day or two. Maybe a week. But I’ll get over it.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我大概会哭上一两天。也许一周。但我会熬过去的。"
+    },
+    {
+      "en": ": Worse things have happened to me.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 更糟的事我都经历过。"
+    },
+    {
+      "en": ": I just have a good feeling about the two of us.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我只是对我们两个有种好的预感。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro20.webp",
+      "alt": "iointro20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But there’s a good chance that feeling is just hormones.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 不过那感觉很有可能只是荷尔蒙作祟。"
+    },
+    {
+      "en": ": And there’s a good chance that I’m already well beyond repair.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 也很有可能我早就修不好了。"
+    },
+    {
+      "en": ": But, in the event I’m not-",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 但是，万一我还修得好——"
+    },
+    {
+      "en": ": Do you want to try?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您想试试吗？"
+    },
+    {
+      "en": ": Do you want to keep getting to know me even after I’ve done nothing but say things that would scare a normal person away the last few days?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 这几天我说的尽是些能把正常人吓跑的话，即便如此，您还想继续了解我吗？"
+    },
+    {
+      "en": ": Cause I think...if you turn me down now, I can manage to not get hurt.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 因为我觉得……如果您现在拒绝我，我还撑得住，不会受伤。"
+    },
+    {
+      "en": ": There’s still a little bit of the wall left.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 墙还剩那么一点点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I find myself thinking this a lot but-",
+      "zh": "我发现自己经常这么想，不过——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Teenagers really are exhausting.",
+      "zh": "青少年真是累人。"
+    },
+    {
+      "en": "How do you even develop a perspective like Io’s this early on in life?",
+      "zh": "一个人在这么早的人生阶段，到底是怎么形成 Io 这种看法的？"
+    },
+    {
+      "en": "It’s only her first year in [high_school] and she’s already acting like she’s given up on associating with anyone for the rest of eternity.",
+      "zh": "她才刚上[high_school]一年级，就已经摆出一副永远放弃与人来往的样子了。"
+    },
+    {
+      "en": "Where does she expect to go?",
+      "zh": "她以为自己能走到哪儿去？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro21.webp",
+      "alt": "iointro21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And why...do I want to go with her?",
+      "zh": "还有，为什么……我想跟她一起走？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course I still want to get to know you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我当然还是想了解你。"
+    },
+    {
+      "en": ": I can’t let you just {i}only{/i} have Uta for the rest of your [high_school] career.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不能眼睁睁看你整个[high_school]生涯{i}只{/i}有 Uta 一个人。"
+    },
+    {
+      "en": ": Maybe I can even get you to add a few more of the girls into the mix. Hiding from them forever isn’t going to do you any favors.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 也许我还能让你再接纳几个女生。永远躲着她们对你没好处。"
+    },
+    {
+      "en": ": I’ve got a lot of baggage, Sensei...You’re opening a real can of worms here.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我身上包袱很重，Sensei……您这是捅了个马蜂窝啊。"
+    },
+    {
+      "en": ": Are you really trying to talk me out of this while looking like {i}that{/i}?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你顶着{i}这副表情{/i}，是真的想劝我打退堂鼓吗？"
+    },
+    {
+      "en": ": How do I look? I can’t see my face.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我什么表情？我又看不见自己的脸。"
+    },
+    {
+      "en": ": I don’t know. Desperate?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我说不好。绝望？"
+    },
+    {
+      "en": ": Desperate?...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 绝望？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iointro22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/iointro22.webp",
+      "alt": "iointro22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ": That might not be too far off.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 也许还真差不多。"
+    },
+    {
+      "en": ": You’re a real weirdo, Sensei.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您真是个怪人，Sensei。"
+    },
+    {
+      "en": ": I thought my “Throw everything at him and pray something sticks” strategy was going to backfire for sure, but...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我本来以为我那套「什么都往他身上扔、祈祷总有一条管用」的策略肯定会弄巧成拙，但是……"
+    },
+    {
+      "en": ": You don't seem scared of me at all.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 您看起来一点都不怕我。"
+    },
+    {
+      "en": ": Let’s just say I’ve gotten pretty good at handling girls with issues over the last few months.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 只能说这几个月来，我对付有问题的女生已经相当拿手了。"
+    },
+    {
+      "en": ": Well, please handle mine gently if you’re going to handle them at all.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 那请您处理我的问题时温柔点，如果您真要处理的话。"
+    },
+    {
+      "en": ": I’m a lot more delicate than I let on...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 我比表现出来的要脆弱得多……"
+    },
+    {
+      "en": ": So please...",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 所以请……"
+    },
+    {
+      "en": ": Don't let me break.",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 别让我碎掉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "One thing I don’t think Io realizes is that, after a few short conversations-",
+      "zh": "有一件事我觉得 Io 没意识到，那就是，仅仅经过短短几次交谈——"
+    },
+    {
+      "en": "She already feels more delicate than almost anyone I've ever met.",
+      "zh": "她在我眼里已经比我见过的几乎任何人都更脆弱。"
+    },
+    {
+      "en": "But her self-perception is clearly all out of sorts.",
+      "zh": "但她的自我认知显然完全错乱了。"
+    },
+    {
+      "en": "It’s strange how someone so self-centered can be so unaware of who they are or how they appear to others.",
+      "zh": "奇怪的是，一个这么以自我为中心的人，竟会如此不清楚自己是谁、在别人眼里是什么样子。"
+    },
+    {
+      "en": "You’d think that focusing everything around your own interests or disinterests would help you avoid that.",
+      "zh": "你本以为把一切都围绕自己的好恶转，反而能避免这种事。"
+    },
+    {
+      "en": "But I guess, in some rare cases-",
+      "zh": "但我想，在极少数情况下——"
+    },
+    {
+      "en": "That exact mindset can warp you.",
+      "zh": "正是这种心态会把人扭曲。"
+    },
+    {
+      "en": "Io Ichimonji does not exist.",
+      "zh": "Io Ichimonji 并不存在。"
+    },
+    {
+      "en": "She has already lost herself.",
+      "zh": "她早就把自己弄丢了。"
+    },
+    {
+      "en": "And, I can’t say this for sure right now-",
+      "zh": "而这一点我现在还不敢肯定——"
+    },
+    {
+      "en": "But I’m pretty sure that whoever this girl is-",
+      "zh": "但我很确定，不管这个女生到底是谁——"
+    },
+    {
+      "en": "Needs my help finding her.",
+      "zh": "都需要我帮她找回来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Congratulations! Uta and Io have been added to the second floor of the dorms!{/i}",
+      "zh": "{i}恭喜！Uta 和 Io 已入住宿舍二楼！{/i}"
+    },
+    {
+      "en": "{i}They’re staying in Room 7 and are now available to spend free time with on nights and weekends.{/i}",
+      "zh": "{i}她们住在 7 号房，现在可以在晚上和周末与她们共度自由时间！{/i}"
+    },
+    {
+      "en": "{i}Additionally, Uta can be found at the Maid Cafe at night and Io can be found at the Bathhouse on afternoons!{/i}",
+      "zh": "{i}此外，晚上可以在女仆咖啡店找到 Uta，下午可以在澡堂找到 Io！{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day247 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ io_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Io’s affection has increased to [io_love]!{/i}",
+      "zh": "{i}Io 的好感度提升到了 [io_love]！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
 }

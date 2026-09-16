@@ -1,1448 +1,1448 @@
 {
-  "label": "mall20",
-  "title_zh": "",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label mall20:",
-      "zh": ""
-    },
-    {
-      "en": "scene mall2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/BGs/Mall2.png",
-      "alt": "mall2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I show up at the mall around the usual time and head directly over to Chika’s store when I notice she’s not on her normal bench.",
-      "zh": ""
-    },
-    {
-      "en": "The only issue is...she’s not at the store either.",
-      "zh": ""
-    },
-    {
-      "en": "Instead, some random girl around the same age as me is. Chika’s manager, maybe?",
-      "zh": ""
-    },
-    {
-      "en": "Either way, I'm forced to look around the store for a few minutes so that it doesn't seem like I'm just some random guy who came in looking for a specific [teenage]girl.",
-      "zh": ""
-    },
-    {
-      "en": "And now I’m forced to look around the mall to find Chika...if she’s even here.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ".........",
-      "zh": ""
-    },
-    {
-      "en": "......",
-      "zh": ""
-    },
-    {
-      "en": "...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene mall1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/BGs/Mall1.png",
-      "alt": "mall1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Huh...No Chika anywhere to be found.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Maybe she’s just off today?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Chika having the day off is a thought that never even crossed my mind.",
-      "zh": ""
-    },
-    {
-      "en": "I mean, she’s been here virtually every weekend since I woke up in Kumon-mi.",
-      "zh": ""
-    },
-    {
-      "en": "But I guess that even scripted events sometimes-",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Okay, Chinami. Remember what I told you?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Hm?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone1.webp",
-      "alt": "chinamisphone1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": No talking to strangers!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": Good girl. And what else?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": No microtransactions!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": What’s going on here?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone2.webp",
-      "alt": "chinamisphone2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Hm? What do you-",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone3.webp",
-      "alt": "chinamisphone3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh, Sensei! I didn’t expect to see you here so late in the day.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Late in the day? It’s basically the same time it always is when I show up.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": That’s not true. It’s like, almost thirty minutes later.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": That’s only because I’ve been scouring the place looking for you.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone4.webp",
-      "alt": "chinamisphone4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh, crap! I totally forgot to tell you I have the day off today.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": If you have the day off, what are you doing at the mall?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Chinami is getting a phone!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone5.webp",
-      "alt": "chinamisphone5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Yup. Just like she said, I caved and I’m letting her get a phone.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": She’s been having to stay at home alone a lot more lately and I figured it would be good for her to be able to keep in touch with me at all times of the day.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Especially since our house-phone was just deactivated and stuff.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Deactivated? Why?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone6.webp",
-      "alt": "chinamisphone6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Money, obviously.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Adults have so many bills that it’s kinda hard to keep up with all of ‘em.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": So when I missed the payment for the landline I figured I could just add Chinami to my cell-plan.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I figured it was something along those lines. I honestly feel a little foolish for even asking.",
-      "zh": ""
-    },
-    {
-      "en": "It makes sense that she’s not able to keep up with all of her bills just working part-time at a boutique in the mall.",
-      "zh": ""
-    },
-    {
-      "en": "Hell, it would probably be hard no matter how many hours she worked here every week.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": How much is it to add Chinami to your plan?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone7.webp",
-      "alt": "chinamisphone7"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I looked it up online and I think it was somewhere around another 4,000 yen. And I imagine that will go up a bit after convenience fees or whatever.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": And you’re able to afford that?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone6.webp",
-      "alt": "chinamisphone6"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I don’t really have a choice. It’s either fork over another 4,000 yen or leave my sister high and dry in the event of an emergency.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": ...What? Why are you looking at me like that?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I think it’s time to activate good-person mode for the week.",
-      "zh": ""
-    },
-    {
-      "en": "I figure I might as well get my one good deed out of the way while I have the chance to.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Chika.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Sensei.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Let me pay your phone bill from now on.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone8.webp",
-      "alt": "chinamisphone8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What?! Absolutely not. There’s no way I could let you do something like that.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Why not? I make significantly more money than you.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Well, duh. You’re a teacher and I’m a [teenage]girl working at the mall.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": But that doesn’t mean you should be friggin’ payin’ my bills for me and stuff.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Just think of it as an early Christmas present or something.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": What kind of crazy Christmas present is a whole friggin’ phone plan?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Chinami likes this idea!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone9.webp",
-      "alt": "chinamisphone9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Chinami, you stay out of this. This is between me and Sensei.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Woof!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone10.webp",
-      "alt": "chinamisphone10"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Chinami barks and sends Chika into emotional overload as she shows a rare moment of defeat, taking a deep breath as she closes her eyes.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Listen...I’m flattered that you would even offer something like that...But this is my problem.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": And besides, I’m already paying for half of Yumi’s bill as well. She’s on my plan, too.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Yeah, an extra 4,000 yen a month is kind of rough for me, but I’ll figure something out.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Why are you even trying to argue this? I’ve already made my decision.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone11.webp",
-      "alt": "chinamisphone11"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Your decision sucks. And it’ll make me feel like, a trillion times worse about everything.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": There’s literally nothing I’d be able to do to pay you back.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": You don’t need to pay me back. I wouldn’t be offering this if I didn’t want to do it.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Plus...there’s absolutely no way I could put Chinami in a situation like that.",
-      "zh": ""
-    },
-    {
-      "en": "If she’s going to be alone, I’d be a lot more comfortable knowing she has a reliable service plan.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone12.webp",
-      "alt": "chinamisphone12"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Sensei...It’s fine. Really. I’ll figure it out.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": I’ve already figured it out. I’ll pay for you, Chinami, and Yumi.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I’m already paying for Ami’s bill. A few more won’t make much of a difference to me, but it’s a world of difference to you.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Use that money to buy more food or something. You guys deserve it.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone13.webp",
-      "alt": "chinamisphone13"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Stop trying to be so cool in front of my little sister.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": I’m trying to be cool in front of you, too, you know.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I already think you’re really cool, though.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": But I bet you think I’m even cooler now, right?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I don’t know. What do you think?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Chinami thinks she doesn’t care who pays! She just wants a phone!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": Quiet, Chinami.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Woof!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone14.webp",
-      "alt": "chinamisphone14"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You’re really okay with doing something like this for me?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Of course.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": And you’re not gonna try and extort me for something or whatever, right?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Uhh...That wasn’t something I was planning on, no.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": And Yumi, too?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Yumi, too.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": It would probably be best not to tell her about it, though.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I feel like she’d throw her phone into the river if she found out I was the one paying for it.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone15",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone15.webp",
-      "alt": "chinamisphone15"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That’s sad because it’s true.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": It really is...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone16",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone16.webp",
-      "alt": "chinamisphone16"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Heheh...",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Chinami, can you cover your ears for a second?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone17",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone17.webp",
-      "alt": "chinamisphone17"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Chinami isn’t sure if this will do anything, but she will listen to her sister!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": Good girl, Chinami.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Woof!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": Sensei. Can you come here for a sec?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone18",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone18.webp",
-      "alt": "chinamisphone18"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What’s up?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Are you really sure you’re okay with this?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Of course.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": And you don’t expect anything in return?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Nope. Just doing my good deed for the week.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": I think a deed this good counts for the whole year.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": That’s even better. It means I can go back to being an asshole again after this.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Hahaha, yeah, I guess it does.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": So, I’m assuming the store right behind you is the one where-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone19",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone19.webp",
-      "alt": "chinamisphone19"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh! Umm, one more thing.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": What is it?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone20",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone20.webp",
-      "alt": "chinamisphone20"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Are we like, allowed to kiss in public yet? Or is that still a no-go?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Cause I kinda wanna squeeze the life out of you right now and stuff.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I take a quick look around the mall to find that it’s actually rather busy today.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "And apart from Chika being my student, there’s still a considerable age gap between us.",
-      "zh": ""
-    },
-    {
-      "en": "I can’t imagine something like kissing her in broad daylight not attracting attention to us, so...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I don’t think we should just yet...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone21",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone21.webp",
-      "alt": "chinamisphone21"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Yeeeeah, I figured as much.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I’ll just have to make it up to you some other time then, huh?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": The whole sticking your tongue out thing makes that seem pretty suggestive, Chika.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone22",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone22.webp",
-      "alt": "chinamisphone22"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Oh? Does it?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Maybe I should be a little more careful with my expressions then?",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": I wouldn’t want you thinking I’m suggesting something.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Chinami’s arms are getting tired. Can we buy her a phone now?",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Let’s continue this some other time.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Heheh...sure~",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "The three of us enter the cell-phone store and let Chinami pick out whichever phone she wants.",
-      "zh": ""
-    },
-    {
-      "en": "Fortunately, she winds up choosing an older model that isn’t extremely expensive, and after signing a few forms, she’s ready to go.",
-      "zh": ""
-    },
-    {
-      "en": "Chika hugs me from behind at the checkout counter while the clerk is distracted filling things out and whispers her thanks to me once again.",
-      "zh": ""
-    },
-    {
-      "en": "...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone23",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone23.webp",
-      "alt": "chinamisphone23"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": At last! Chinami’s true power can now be unleashed!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Chinami holds the key to her true power (IE: A cell phone) above her head and screams loud enough for the entire mall to hear.",
-      "zh": ""
-    },
-    {
-      "en": "She’s so happy that neither of us have the heart to tell her to stop, though.",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Remember to take good care of that, Chinami. Sensei bought it for you, so you need to be super careful to not break it.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone24",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone24.webp",
-      "alt": "chinamisphone24"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Chinami will be very careful. She will protect this phone with her life.",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": Good girl, now thank Sensei or I’m going to take it away.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Thank you Sensei! Chinami will never forget this moment! Not even when you become her new daddy!",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone25",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone25.webp",
-      "alt": "chinamisphone25"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Hey, Chinami! No one is becoming anyone’s new daddy!",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": What is Chinami’s phone number? She wants to make her first friend.",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone26",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone26.webp",
-      "alt": "chinamisphone26"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Hm? You can’t give your number to Sensei, Chinami. He’s-",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": I don’t mind.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone27",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone27.webp",
-      "alt": "chinamisphone27"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Wait, what? I don’t even have your number yet and you’re going to give it to my little sister? She doesn’t even know how to use a phone yet.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": Lies. Chinami has destroyed many pigs in the bird-game. She is a master of the phone.",
-      "spk": "Chinami (Dog Form)",
-      "spkColor": "#FF9999",
-      "zh": ""
-    },
-    {
-      "en": ": Give me your number then. And besides, wouldn’t it be good for me to have Chinami’s number in case there’s ever some sort of emergency?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ": Well, yeah but...It still seems kind of weird.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": It’s not weird at all, I promise.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene chinamisphone28",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/chinamisphone28.webp",
-      "alt": "chinamisphone28"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Well...if you insist...I guess there's no fighting it.",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ": I’m more than happy to give you my number, at the very least...",
-      "spk": "Chika",
-      "spkColor": "#AF7F00",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Chika walks over to me and swipes my phone out of my hand, entering hers and Chinami’s phone numbers into it with lightning-quick speed.",
-      "zh": ""
-    },
-    {
-      "en": "I expected no less from the cell-phone goddess of Kumon-mi.",
-      "zh": ""
-    },
-    {
-      "en": "Chika hands my phone back to me and I find that she’s added a heart next to it and...",
-      "zh": ""
-    },
-    {
-      "en": "And a dog emoji next to Chinami’s...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ chikanumber = True",
-      "zh": ""
-    },
-    {
-      "en": "$ chinaminumber = True",
-      "zh": ""
-    },
-    {
-      "en": "$ chika_love += 1",
-      "zh": ""
-    },
-    {
-      "en": "$ mall20 = True",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Congratulations! You now have the phone numbers of the Chosokabe sisters!",
-      "zh": ""
-    },
-    {
-      "en": "Feel free to call them after[school] and on weekends to see what they’re up to!",
-      "zh": ""
-    },
-    {
-      "en": "Chika's affection has increased to [chika_love]!",
-      "zh": ""
-    },
-    {
-      "en": ".........",
-      "zh": ""
-    },
-    {
-      "en": "......",
-      "zh": ""
-    },
-    {
-      "en": "...",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump saturdaynight",
-      "zh": ""
-    }
-  ]
+ "label": "mall20",
+ "title_zh": "真正的力量：解放",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label mall20:",
+   "zh": ""
+  },
+  {
+   "en": "scene mall2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/BGs/Mall2.png",
+   "alt": "mall2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I show up at the mall around the usual time and head directly over to Chika’s store when I notice she’s not on her normal bench.",
+   "zh": "我照常在差不多的时间来到商场，发现 Chika 不在她平时的长椅上，就直接往她店里去了。"
+  },
+  {
+   "en": "The only issue is...she’s not at the store either.",
+   "zh": "唯一的问题是……她也不在店里。"
+  },
+  {
+   "en": "Instead, some random girl around the same age as me is. Chika’s manager, maybe?",
+   "zh": "取而代之的是个跟我年纪相仿的陌生女孩。也许是 Chika 的店长？"
+  },
+  {
+   "en": "Either way, I'm forced to look around the store for a few minutes so that it doesn't seem like I'm just some random guy who came in looking for a specific [teenage]girl.",
+   "zh": "不管怎样，我被迫在店里逛了几分钟，免得看起来像个专程进来找某个[teenage]女孩的怪男人。"
+  },
+  {
+   "en": "And {i}now{/i} I’m forced to look around the mall to find Chika...if she’s even here.",
+   "zh": "而{i}现在{/i}我被迫在整个商场里找 Chika……如果她真的在这儿的话。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene mall1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/BGs/Mall1.png",
+   "alt": "mall1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Huh...No Chika anywhere to be found.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗯……到处都找不到 Chika。"
+  },
+  {
+   "en": ": Maybe she’s just off today?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 也许她今天休息？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Chika having the day off is a thought that never even crossed my mind.",
+   "zh": "「Chika 今天休息」这个念头，我从来没想过。"
+  },
+  {
+   "en": "I mean, she’s been here virtually every weekend since I woke up in Kumon-mi.",
+   "zh": "我是说，自从我在 Kumon-mi 醒来之后，她几乎每个周末都在这儿。"
+  },
+  {
+   "en": "But I guess that even scripted events sometimes-",
+   "zh": "不过我想，就算是脚本事件，有时候也-"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Okay, Chinami. Remember what I told you?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 好的，Chinami。还记得我跟你说过什么吗？"
+  },
+  {
+   "en": ": Hm?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗯？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone1.webp",
+   "alt": "chinamisphone1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": No talking to strangers!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": 不许跟陌生人说话！"
+  },
+  {
+   "en": ": Good girl. And what else?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 好孩子。还有呢？"
+  },
+  {
+   "en": ": No microtransactions!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": 不许内购！"
+  },
+  {
+   "en": ": What’s going on here?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 这是怎么回事？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone2.webp",
+   "alt": "chinamisphone2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Hm? What do you-",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 嗯？什么意思-"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone3.webp",
+   "alt": "chinamisphone3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh, Sensei! I didn’t expect to see you here so late in the day.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 哦，Sensei！没想到这天都快黑了还能在这儿碰到你。"
+  },
+  {
+   "en": ": Late in the day? It’s basically the same time it always is when I show up.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 天快黑了？我来的时间跟平时基本一样啊。"
+  },
+  {
+   "en": ": That’s not true. It’s like, almost thirty minutes later.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 不对。都晚了快三十分钟了。"
+  },
+  {
+   "en": ": That’s only because I’ve been scouring the place looking for you.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那只是因为我为了找你把这地方翻了个遍。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone4.webp",
+   "alt": "chinamisphone4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh, crap! I totally forgot to tell you I have the day off today.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 啊，糟了！我完全忘了跟你说我今天休息。"
+  },
+  {
+   "en": ": If you have the day off, what are you doing at the mall?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 既然你休息，那你来商场干嘛？"
+  },
+  {
+   "en": ": Chinami is getting a phone!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 要买手机啦！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone5.webp",
+   "alt": "chinamisphone5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Yup. Just like she said, I caved and I’m letting her get a phone.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 对。就像她说的，我让步了，要给她买个手机。"
+  },
+  {
+   "en": ": She’s been having to stay at home alone a lot more lately and I figured it would be good for her to be able to keep in touch with me at all times of the day.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 最近她一个人在家的时候越来越多了，我想让她能随时联系上我会比较好。"
+  },
+  {
+   "en": ": Especially since our house-phone was just deactivated and stuff.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 尤其是我们家座机刚被停机了什么的。"
+  },
+  {
+   "en": ": Deactivated? Why?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 停机？为什么？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone6.webp",
+   "alt": "chinamisphone6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Money, obviously.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 当然是钱啊。"
+  },
+  {
+   "en": ": Adults have so many bills that it’s kinda hard to keep up with all of ‘em.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 大人的账单多到有点顾不过来。"
+  },
+  {
+   "en": ": So when I missed the payment for the landline I figured I could just add Chinami to my cell-plan.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 所以固话的账单我漏缴了，我想干脆把 Chinami 加到我的手机套餐里。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I figured it was something along those lines. I honestly feel a little foolish for even asking.",
+   "zh": "我猜就是这类原因。说实话，我甚至觉得自己问这话有点蠢。"
+  },
+  {
+   "en": "It makes sense that she’s not able to keep up with all of her bills just working part-time at a boutique in the mall.",
+   "zh": "她只在商场的精品店打零工，跟不上所有账单也很正常。"
+  },
+  {
+   "en": "Hell, it would probably be hard no matter how many hours she worked here every week.",
+   "zh": "见鬼，不管她每周在这儿干多少小时，大概都很难。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": How much is it to add Chinami to your plan?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 把 Chinami 加到你的套餐里要多少钱？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone7.webp",
+   "alt": "chinamisphone7"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I looked it up online and I think it was somewhere around another 4,000 yen. And I imagine that will go up a bit after convenience fees or whatever.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 我在网上查了，大概又得 4000 日元左右。我想加上手续费什么的还会再涨一点。"
+  },
+  {
+   "en": ": And you’re able to afford that?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你付得起吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone6.webp",
+   "alt": "chinamisphone6"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I don’t really have a choice. It’s either fork over another 4,000 yen or leave my sister high and dry in the event of an emergency.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 我也没得选。要么再掏 4000 日元，要么万一家里有急事，就只能把我妹妹晾在那儿。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...What? Why are you looking at me like that?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": ……什么？你干嘛这么看着我？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I think it’s time to activate good-person mode for the week.",
+   "zh": "我想，是时候开启本周的好人模式了。"
+  },
+  {
+   "en": "I figure I might as well get my one good deed out of the way while I have the chance to.",
+   "zh": "我想，不如趁现在把这一周的好事给做了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Chika.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Chika。"
+  },
+  {
+   "en": ": Sensei.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": Sensei。"
+  },
+  {
+   "en": ": Let me pay your phone bill from now on.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 从现在起，让我来替你付电话费吧。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone8.webp",
+   "alt": "chinamisphone8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What?! Absolutely not. There’s no way I could let you do something like that.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 什么？！绝对不行。我怎么能让你做这种事。"
+  },
+  {
+   "en": ": Why not? I make significantly more money than you.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 为什么不行？我挣的钱比你多得多。"
+  },
+  {
+   "en": ": Well, duh. You’re a teacher and I’m a [teenage]girl working at the mall.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 废话。你是老师，我是个在商场打工的[teenage]女孩。"
+  },
+  {
+   "en": ": But that doesn’t mean you should be friggin’ payin’ my bills for me and stuff.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 可那也不代表你该替我付账单什么的啊。"
+  },
+  {
+   "en": ": Just think of it as an early Christmas present or something.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 就当是提前送的圣诞礼物什么的。"
+  },
+  {
+   "en": ": What kind of crazy Christmas present is a whole friggin’ phone plan?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 哪个疯子会把一整个手机套餐当圣诞礼物啊？"
+  },
+  {
+   "en": ": Chinami likes this idea!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 喜欢这个主意！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone9.webp",
+   "alt": "chinamisphone9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Chinami, you stay out of this. This is between me and Sensei.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": Chinami，你别插嘴。这是我和 Sensei 之间的事。"
+  },
+  {
+   "en": ": Woof!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": 汪！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone10.webp",
+   "alt": "chinamisphone10"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Chinami barks and sends Chika into emotional overload as she shows a rare moment of defeat, taking a deep breath as she closes her eyes.",
+   "zh": "Chinami 叫了一声，把 Chika 的情绪直接冲爆，她罕见地露出认输的表情，闭上眼睛深吸了一口气。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Listen...I’m flattered that you would even offer something like that...But this is {i}my{/i} problem.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 听着……你会提出这种事，我已经很受宠若惊了……但这是{i}我{/i}的问题。"
+  },
+  {
+   "en": ": And besides, I’m already paying for half of Yumi’s bill as well. She’s on my plan, too.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 而且，Yumi 的账单我也已经付一半了。她也在我的套餐里。"
+  },
+  {
+   "en": ": Yeah, an extra 4,000 yen a month is kind of rough for me, but I’ll figure something out.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 是啊，一个月多 4000 日元对我来说确实挺吃力，但我会想办法的。"
+  },
+  {
+   "en": ": Why are you even trying to argue this? I’ve already made my decision.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你干嘛还要跟我争？我已经决定了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone11.webp",
+   "alt": "chinamisphone11"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Your decision sucks. And it’ll make me feel like, a trillion times worse about everything.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 你的决定糟透了。而且会让我对所有事的感觉都糟上一万亿倍。"
+  },
+  {
+   "en": ": There’s literally nothing I’d be able to do to pay you back.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 我根本没有办法回报你。"
+  },
+  {
+   "en": ": You don’t need to pay me back. I wouldn’t be offering this if I didn’t want to do it.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你不需要回报我。如果不是心甘情愿，我不会提出来的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Plus...there’s absolutely no way I could put Chinami in a situation like that.",
+   "zh": "而且……我绝对不可能让 Chinami 陷入那种境地。"
+  },
+  {
+   "en": "If she’s going to be alone, I’d be a lot more comfortable knowing she has a reliable service plan.",
+   "zh": "既然她要一个人待着，知道她有个可靠的通讯套餐，我会放心得多。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone12.webp",
+   "alt": "chinamisphone12"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Sensei...It’s fine. Really. I’ll figure it out.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": Sensei……没事的。真的。我会想办法。"
+  },
+  {
+   "en": ": I’ve already figured it out. I’ll pay for you, Chinami, {i}and{/i} Yumi.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我已经想好了。我会替你、Chinami，{i}还有{/i} Yumi 付。"
+  },
+  {
+   "en": ": I’m already paying for Ami’s bill. A few more won’t make much of a difference to me, but it’s a world of difference to you.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Ami 的账单我已经在付了。多加几个对我来说差别不大，但对你来说就是天壤之别。"
+  },
+  {
+   "en": ": Use that money to buy more food or something. You guys deserve it.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 拿那笔钱多买点吃的什么的。你们值得。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone13.webp",
+   "alt": "chinamisphone13"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Stop trying to be so cool in front of my little sister.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 别在我妹妹面前耍帅了。"
+  },
+  {
+   "en": ": I’m trying to be cool in front of you, too, you know.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我也想在你面前耍帅啊。"
+  },
+  {
+   "en": ": I already think you’re really cool, though.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 可我本来就觉得你很帅了。"
+  },
+  {
+   "en": ": But I bet you think I’m even cooler now, right?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 但我猜你现在觉得我更帅了，对吧？"
+  },
+  {
+   "en": ": I don’t know. What do you think?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 不知道。你觉得呢？"
+  },
+  {
+   "en": ": Chinami thinks she doesn’t care who pays! She just wants a phone!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 觉得她不在乎谁付钱！她只想要手机！"
+  },
+  {
+   "en": ": Quiet, Chinami.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 闭嘴，Chinami。"
+  },
+  {
+   "en": ": Woof!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": 汪！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone14.webp",
+   "alt": "chinamisphone14"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You’re really okay with doing something like this for me?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 你真的愿意为我做这种事？"
+  },
+  {
+   "en": ": Of course.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 当然。"
+  },
+  {
+   "en": ": And you’re not gonna try and extort me for something or whatever, right?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 而且你不会借此勒索我什么的，对吧？"
+  },
+  {
+   "en": ": Uhh...That wasn’t something I was planning on, no.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 呃……我没打算那么做，不会。"
+  },
+  {
+   "en": ": And Yumi, too?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 那 Yumi 也算？"
+  },
+  {
+   "en": ": Yumi, too.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Yumi 也算。"
+  },
+  {
+   "en": ": It would probably be best not to tell her about it, though.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不过最好别告诉她。"
+  },
+  {
+   "en": ": I feel like she’d throw her phone into the river if she found out I was the one paying for it.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我觉得她要是知道是我付的钱，会直接把手机扔进河里。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone15",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone15.webp",
+   "alt": "chinamisphone15"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That’s sad because it’s true.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 这话说得可真悲哀，因为是事实。"
+  },
+  {
+   "en": ": It really is...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 确实是……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone16",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone16.webp",
+   "alt": "chinamisphone16"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Heheh...",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 嘿嘿……"
+  },
+  {
+   "en": ": Chinami, can you cover your ears for a second?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": Chinami，你能捂一下耳朵吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone17",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone17.webp",
+   "alt": "chinamisphone17"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Chinami isn’t sure if this will do anything, but she will listen to her sister!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 不确定这样做有没有用，但她会听姐姐的话！"
+  },
+  {
+   "en": ": Good girl, Chinami.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 好孩子，Chinami。"
+  },
+  {
+   "en": ": Woof!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": 汪！"
+  },
+  {
+   "en": ": Sensei. Can you come here for a sec?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": Sensei。你能过来一下吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone18",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone18.webp",
+   "alt": "chinamisphone18"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What’s up?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 怎么了？"
+  },
+  {
+   "en": ": Are you really sure you’re okay with this?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 你真的确定没问题吗？"
+  },
+  {
+   "en": ": Of course.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 当然。"
+  },
+  {
+   "en": ": And you don’t expect anything in return?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 而且你不图任何回报？"
+  },
+  {
+   "en": ": Nope. Just doing my good deed for the week.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不图。就当是我这周做的好事。"
+  },
+  {
+   "en": ": I think a deed this good counts for the whole year.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 我觉得这么好的事，够抵一整年了。"
+  },
+  {
+   "en": ": That’s even better. It means I can go back to being an asshole again after this.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那更好。这意味着过了这阵我又能回去当混蛋了。"
+  },
+  {
+   "en": ": Hahaha, yeah, I guess it does.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 哈哈哈，是啊，大概吧。"
+  },
+  {
+   "en": ": So, I’m assuming the store right behind you is the one where-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那么，我猜你身后那家店就是-"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone19",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone19.webp",
+   "alt": "chinamisphone19"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh! Umm, one more thing.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 哦！嗯，还有一件事。"
+  },
+  {
+   "en": ": What is it?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 什么事？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone20",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone20.webp",
+   "alt": "chinamisphone20"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Are we like, allowed to kiss in public yet? Or is that still a no-go?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 我们……现在可以在公开场合接吻了吗？还是说这事依然不行？"
+  },
+  {
+   "en": ": Cause I kinda wanna squeeze the life out of you right now and stuff.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 因为我现在有点想把你勒得喘不过气来什么的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I take a quick look around the mall to find that it’s actually rather busy today.",
+   "zh": "我快速环顾了一下商场，发现今天其实挺热闹的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "And apart from Chika being my student, there’s still a considerable age gap between us.",
+   "zh": "而且除了 Chika 是我的学生之外，我们之间还有相当大的年龄差距。"
+  },
+  {
+   "en": "I can’t imagine something like kissing her in broad daylight {i}not{/i} attracting attention to us, so...",
+   "zh": "我想象不出在大白天吻她{i}不{/i}引来注意的样子，所以……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I don’t think we should just yet...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我觉得现在还不行……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone21",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone21.webp",
+   "alt": "chinamisphone21"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Yeeeeah, I figured as much.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 是————啊，我就知道会这样。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I’ll just have to make it up to you some other time then, huh?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 那我只好改天用别的方式补偿你了，是吧？"
+  },
+  {
+   "en": ": The whole sticking your tongue out thing makes that seem pretty suggestive, Chika.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你吐舌头那一下，让这话听起来相当有暗示性啊，Chika。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone22",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone22.webp",
+   "alt": "chinamisphone22"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Oh? Does it?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 哦？是吗？"
+  },
+  {
+   "en": ": Maybe I should be a little more careful with my expressions then?",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 那我是不是该更小心一点自己的表情？"
+  },
+  {
+   "en": ": I wouldn’t want you thinking I’m {i}suggesting{/i} something.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 我可不想让你觉得我在{i}暗示{/i}什么。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Chinami’s arms are getting tired. Can we buy her a phone now?",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 的手举累了。我们现在能给她买手机了吗？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": Let’s continue this some other time.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 这个我们改天再继续。"
+  },
+  {
+   "en": ": Heheh...sure~",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 嘿嘿……好呀~"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "The three of us enter the cell-phone store and let Chinami pick out whichever phone she wants.",
+   "zh": "我们三个人走进手机店，让 Chinami 自己挑她想要的手机。"
+  },
+  {
+   "en": "Fortunately, she winds up choosing an older model that isn’t extremely expensive, and after signing a few forms, she’s ready to go.",
+   "zh": "幸运的是，她最后选了一台不算太贵的旧款，签了几张表之后，她就可以走了。"
+  },
+  {
+   "en": "Chika hugs me from behind at the checkout counter while the clerk is distracted filling things out and whispers her thanks to me once again.",
+   "zh": "在收银台前，趁着店员低头填东西，Chika 从背后抱住我，又一次小声向我道谢。"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone23",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone23.webp",
+   "alt": "chinamisphone23"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": At last! Chinami’s true power can now be unleashed!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": 终于！Chinami 真正的力量可以解放了！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Chinami holds the key to her true power (IE: A cell phone) above her head and screams loud enough for the entire mall to hear.",
+   "zh": "Chinami 把她真正力量的钥匙（也就是：一部手机）高举过头顶，尖叫得整个商场都听得见。"
+  },
+  {
+   "en": "She’s so happy that neither of us have the heart to tell her to stop, though.",
+   "zh": "不过她太开心了，我们俩谁都不忍心叫她停下来。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Remember to take good care of that, Chinami. Sensei bought it for you, so you need to be super careful to not break it.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 记得好好爱护它，Chinami。这是 Sensei 给你买的，所以你要非常小心，别弄坏了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone24",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone24.webp",
+   "alt": "chinamisphone24"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Chinami will be very careful. She will protect this phone with her life.",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 会非常小心的。她会用生命保护这部手机。"
+  },
+  {
+   "en": ": Good girl, now thank Sensei or I’m going to take it away.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 好孩子，现在谢谢 Sensei，不然我就把它没收了。"
+  },
+  {
+   "en": ": Thank you Sensei! Chinami will never forget this moment! Not even when you become her new daddy!",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": 谢谢 Sensei！Chinami 永远不会忘记这一刻！就算你变成她的新爸爸也不会！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone25",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone25.webp",
+   "alt": "chinamisphone25"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Hey, Chinami! No one is becoming anyone’s new daddy!",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 喂，Chinami！谁也不会变成谁的新爸爸！"
+  },
+  {
+   "en": ": What is Chinami’s phone number? She wants to make her first friend.",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": Chinami 的电话号码是多少？她想交第一个朋友。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone26",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone26.webp",
+   "alt": "chinamisphone26"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Hm? You can’t give your number to Sensei, Chinami. He’s-",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 嗯？Chinami，你不能把号码给 Sensei。他是-"
+  },
+  {
+   "en": ": I don’t mind.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我不介意。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone27",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone27.webp",
+   "alt": "chinamisphone27"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Wait, what? I don’t even have your number yet and you’re going to give it to my little sister? She doesn’t even know how to use a phone yet.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 等等，什么？我还没给你我的号码呢，你就要把它给我妹妹？她连手机都还不会用。"
+  },
+  {
+   "en": ": Lies. Chinami has destroyed many pigs in the bird-game. She is a master of the phone.",
+   "spk": "Chinami (Dog Form)",
+   "spkColor": "#FF9999",
+   "zh": ": 谎话。Chinami 在打鸟游戏里消灭过很多猪。她是手机大师。"
+  },
+  {
+   "en": ": Give me your number then. And besides, wouldn’t it be good for me to have Chinami’s number in case there’s ever some sort of emergency?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那把你的号码给我。再说，万一有什么紧急情况，我有 Chinami 的号码不是更好吗？"
+  },
+  {
+   "en": ": Well, yeah but...It still seems kind of weird.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 嗯，话是这么说，可是……总感觉有点怪。"
+  },
+  {
+   "en": ": It’s not weird at all, I promise.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 一点都不怪，我保证。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene chinamisphone28",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/chinamisphone28.webp",
+   "alt": "chinamisphone28"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Well...if you insist...I guess there's no fighting it.",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 那……既然你坚持……看来是拗不过你了。"
+  },
+  {
+   "en": ": I’m more than happy to give you my number, at the very least...",
+   "spk": "Chika",
+   "spkColor": "#AF7F00",
+   "zh": ": 至少，我很乐意把我的号码给你……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Chika walks over to me and swipes my phone out of my hand, entering hers and Chinami’s phone numbers into it with lightning-quick speed.",
+   "zh": "Chika 走过来，一把抽走我手里的手机，以闪电般的速度把她和 Chinami 的号码输了进去。"
+  },
+  {
+   "en": "I expected no less from the cell-phone goddess of Kumon-mi.",
+   "zh": "不愧是 Kumon-mi 的手机女神，我一点都不意外。"
+  },
+  {
+   "en": "Chika hands my phone back to me and I find that she’s added a heart next to it and...",
+   "zh": "Chika 把手机还给我，我发现她在自己号码旁边加了个爱心，还有……"
+  },
+  {
+   "en": "And a dog emoji next to Chinami’s...",
+   "zh": "在 Chinami 的号码旁边加了个狗的表情符号……"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ chikanumber = True",
+   "zh": ""
+  },
+  {
+   "en": "$ chinaminumber = True",
+   "zh": ""
+  },
+  {
+   "en": "$ chika_love += 1",
+   "zh": ""
+  },
+  {
+   "en": "$ mall20 = True",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "{i}Congratulations! You now have the phone numbers of the Chosokabe sisters!{/i}",
+   "zh": "{i}恭喜！你现在拥有 Chosokabe 姐妹的电话号码了！{/i}"
+  },
+  {
+   "en": "{i}Feel free to call them after[school] and on weekends to see what they’re up to!{/i}",
+   "zh": "{i}欢迎在[school]之后和周末打电话给她们，看看她们在干什么！{/i}"
+  },
+  {
+   "en": "{i}Chika's affection has increased to [chika_love]!{/i}",
+   "zh": "{i}Chika 的好感度提升到了 [chika_love]！{/i}"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump saturdaynight",
+   "zh": ""
+  }
+ ]
 }

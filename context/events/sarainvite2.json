@@ -1,6 +1,6 @@
 {
   "label": "sarainvite2",
-  "title_zh": "空荡荡的家",
+  "title_zh": "大半空着的家",
   "lines": [
     {
       "en": ""
@@ -21,8 +21,8 @@
       "zh": "上次她来家里的结果堪称空前成功，所以这次我也希望能有同样的收获。"
     },
     {
-      "en": "Well, in the broad sense at least. I’d much prefer if I actually got to spend time with her instead of her and my [niece].",
-      "zh": "至少广义上是这样。不过我更希望这次是真的和她待在一起，而不是她和我 [niece] 待在一起。"
+      "en": "Well, in the broad sense at least. I’d much prefer if I actually got to spend time with {i}her{/i} instead of her and my [niece].",
+      "zh": "至少广义上是这样。不过我更希望这次是真的和{i}她{/i}待在一起，而不是她和我 [niece] 待在一起。"
     },
     {
       "en": ""
@@ -142,8 +142,8 @@
       "zh": "她在回家路上给我发了短信，说她和另外几个人今晚要去看电影。"
     },
     {
-      "en": "But it’s not like it’s entirely empty in the fact that-",
-      "zh": "不过要说完全空，倒也不至于——"
+      "en": "But it’s not like it’s {i}entirely{/i} empty in the fact that-",
+      "zh": "不过要说{i}完全{/i}空，倒也不至于——"
     },
     {
       "en": "Well, I’m here.",
@@ -544,10 +544,10 @@
       "zh": ": 如果你还是不想把这段关系往前推，我理解。"
     },
     {
-      "en": ": But, on the off chance that you maybe...you know...want to spend some quality time together, I am more than willing.",
+      "en": ": But, on the off chance that you maybe...you know...want to spend some quality time together, I am {i}more than willing{/i}.",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 不过，万一你……嗯……想一起度过点高质量的时光，我可太愿意了。"
+      "zh": ": 不过，万一你……嗯……想一起度过点高质量的时光，我可{i}太愿意{/i}了。"
     },
     {
       "en": ": It’s up to you...",
@@ -633,10 +633,10 @@
       "zh": ": 哈……"
     },
     {
-      "en": ": And boys are always saying how girls are the confusing ones...",
+      "en": ": And boys are always saying how {i}girls{/i} are the confusing ones...",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 男生总说女生才让人摸不着头脑……"
+      "zh": ": 男生总说{i}女生{/i}才让人摸不着头脑……"
     },
     {
       "en": ""
@@ -863,16 +863,16 @@
       "en": ""
     },
     {
-      "en": "Somewhere far away, a red string snaps.",
-      "zh": "在某个遥远的地方，一根红线断了。"
+      "en": "{i}Somewhere far away, a red string snaps.{/i}",
+      "zh": "{i}在某个遥远的地方，一根红线断了。{/i}"
     },
     {
-      "en": "Sara is no longer romanceable.",
-      "zh": "Sara 不再可攻略。"
+      "en": "{i}Sara is no longer romanceable.{/i}",
+      "zh": "{i}Sara 不再可攻略。{/i}"
     },
     {
-      "en": "You will still be able to view some of her future scenes, but will be locked out of others.",
-      "zh": "你仍然可以看到她未来的部分剧情，但另一些会被锁上。"
+      "en": "{i}You will still be able to view some of her future scenes, but will be locked out of others.{/i}",
+      "zh": "{i}你仍然可以看到她未来的部分剧情，但另一些会被锁上。{/i}"
     },
     {
       "en": ""
@@ -889,8 +889,8 @@
       "en": ""
     },
     {
-      "en": "Regardless, her affection has increased to [sara_love]!",
-      "zh": "无论如何，她的好感度提升到了 [sara_love]!"
+      "en": "{i}Regardless, her affection has increased to [sara_love]!{/i}",
+      "zh": "{i}无论如何，她的好感度提升到了 [sara_love]!{/i}"
     },
     {
       "en": ".........",
@@ -1256,10 +1256,10 @@
       "zh": ": 为你做什么都行，[saramaster]~"
     },
     {
-      "en": ": As long as you’ll continue to have me, I’ll be happy to make you feel good about yourself...or just good in general whenever you like.",
+      "en": ": As long as you’ll continue to have me, I’ll be happy to make you feel good about yourself...or just {i}good{/i} in general whenever you like.",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 只要你还要我，我随时都乐意让你自我感觉良好……或者干脆就是让你舒服，什么时候都行。"
+      "zh": ": 只要你还要我，我随时都乐意让你自我感觉良好……或者干脆就是让你{i}舒服{/i}，什么时候都行。"
     },
     {
       "en": ": Whenever I like? I'm not sure if you’ve realized this but I have a pretty high sex drive.",
@@ -1537,16 +1537,16 @@
       "zh": ": 喜欢你看到的吗，[saramaster]？"
     },
     {
-      "en": ": I’m not sure if like fully describes what I'm feeling.",
+      "en": ": I’m not sure if {i}like{/i} fully describes what I'm feeling.",
       "spk": "Sensei",
       "spkColor": "#969696",
-      "zh": ": 「喜欢」这个词恐怕不足以完全形容我现在的感觉。"
+      "zh": ": {i}「喜欢」{/i}这个词恐怕不足以完全形容我现在的感觉。"
     },
     {
-      "en": ": Maybe you’ll have a little more luck showing me how it makes you feel, then?",
+      "en": ": Maybe you’ll have a little more luck {i}showing{/i} me how it makes you feel, then?",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 那你直接做给我看，我是不是就能更明白你的感觉了？"
+      "zh": ": 那你直接{i}做给我看{/i}，我是不是就能更明白你的感觉了？"
     },
     {
       "en": ""
@@ -1556,8 +1556,8 @@
       "zh": "Sara 把屁股又撅出来一些，招呼我过去，我则开始脱裤子。"
     },
     {
-      "en": "I’m so distracted by her beauty that I have a bit of trouble kicking them off of my ankles.",
-      "zh": "我被她的美貌分神得厉害，连把裤子从脚踝上踢下来都有点费劲。"
+      "en": "I’m so distracted by her {i}beauty{/i} that I have a bit of trouble kicking them off of my ankles.",
+      "zh": "我被她的{i}美貌{/i}分神得厉害，连把裤子从脚踝上踢下来都有点费劲。"
     },
     {
       "en": ""
@@ -1590,10 +1590,10 @@
       "en": ""
     },
     {
-      "en": ": That thing? You mean my butt?",
+      "en": ": That {i}thing?{/i} You mean my butt?",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 那东西？你是说我的屁股？"
+      "zh": ": {i}那东西？{/i}你是说我的屁股？"
     },
     {
       "en": ": Cute, isn’t it?",
@@ -1635,8 +1635,8 @@
       "en": ""
     },
     {
-      "en": "I finish sliding my pants off and join Sara on the bed to do whatever I want to her...",
-      "zh": "我把裤子彻底脱掉，上床加入 Sara，对她为所欲为……"
+      "en": "I finish sliding my pants off and join Sara on the bed to {i}do whatever I want{/i} to her...",
+      "zh": "我把裤子彻底脱掉，上床加入 Sara，对她{i}为所欲为{/i}……"
     },
     {
       "en": ""
@@ -1698,10 +1698,10 @@
       "zh": ": 我的感想是，对于一个才被碰了几下的女生来说，你发情得挺厉害的。"
     },
     {
-      "en": ": You’re one to talk, mister. You look ready to go yourself, if you catch my drift.",
+      "en": ": You’re one to talk, mister. You look {i}ready to go{/i} yourself, if you catch my drift.",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 你还好意思说我，先生。你自己看起来也蓄势待发了，懂我意思吧。"
+      "zh": ": 你还好意思说我，先生。你自己看起来也{i}蓄势待发{/i}了，懂我意思吧。"
     },
     {
       "en": ": I’ve been gifted with the power to use you as I please. That would make any man hard.",
@@ -2308,8 +2308,8 @@
       "zh": "一个男人埋在一位熟女能容纳的最深处时，能撑多久是有极限的。"
     },
     {
-      "en": "And with the girl before me- No, on me about to climax herself, I abandon the idea of holding on altogether and start approaching the final lap.",
-      "zh": "而身上的这个女人——不，是骑在我身上的这个女人自己也快高潮了，我干脆放弃了忍耐的念头，开始冲向最后一圈。"
+      "en": "And with the girl before me- No, {i}on{/i} me about to climax herself, I abandon the idea of holding on altogether and start approaching the final lap.",
+      "zh": "而身上的这个女人——不，是{i}骑在我身上{/i}的这个女人自己也快高潮了，我干脆放弃了忍耐的念头，开始冲向最后一圈。"
     },
     {
       "en": ""
@@ -2398,10 +2398,10 @@
       "zh": ": 发生……发生什么了？……"
     },
     {
-      "en": ": Where...am I?...",
+      "en": ": {i}Where{/i}...am I?...",
       "spk": "Sara",
       "spkColor": "#66B090",
-      "zh": ": 我……我在哪儿？……"
+      "zh": ": 我……我在{i}哪儿{/i}？……"
     },
     {
       "en": ": Are you okay?",
@@ -2584,12 +2584,12 @@
       "en": ""
     },
     {
-      "en": "Sara’s lust has increased to [sara_lust]!",
-      "zh": "Sara 的欲望提升到了 [sara_lust]!"
+      "en": "{i}Sara’s lust has increased to [sara_lust]!{/i}",
+      "zh": "{i}Sara 的欲望提升到了 [sara_lust]!{/i}"
     },
     {
-      "en": "You can now choose between affection and lust when inviting her over!",
-      "zh": "现在邀请她来家里时，你可以在好感和欲望之间选择了！"
+      "en": "{i}You can now choose between affection and lust when inviting her over!{/i}",
+      "zh": "{i}现在邀请她来家里时，你可以在好感和欲望之间选择了！{/i}"
     },
     {
       "en": ".........",
