@@ -9,7 +9,9 @@
  *       `context/events/evtver.json` 全量版本清单，与本地 lastSeen 比对，只 delete
  *       哈希对不上的那几条缓存条目（精准+有界，不涨不漏）；没改的事件永久秒出。
  *   - guide.html 等 HTML 外壳（白屏修复在 <html> 上）：
- *       swr（cache-first 秒出深色页，后台静默刷新保证内容新鲜），独立缓存 lil-doc-vX。
+ *       v25 起改为「网络优先 + 1.2s 超时兜底缓存」（原来 swr = 先吐旧版，
+ *       导致改完必须刷新两次才生效，逼得让人去 Unregister —— 绝不允许）。
+ *       现在正常刷新一次就是新内容；断网/极慢时自动落回缓存。独立缓存 lil-doc-vX。
  *       v1 用 SWR（先吐旧白底→每回闪）、v2 用 network-first（每回等地等网络→每回闪）都仍闪；
  *       v3 改 cache-first 但仍闪一次（v3 激活删旧缓存→头几次点击缓存空→现拉网络）。
  *       故 v4 在【安装阶段即预缓存深色 guide.html】，v4 接管后首次点开即命中、零白闪。
@@ -30,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v24';   // HTML 外壳等：swr 后台刷新。
+const CACHE_DOC = 'lil-doc-v25';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v25=HTML/其它资源改网络优先(1.2s超时回退缓存)，刷新一次即生效，不再需要手动清缓存
                                   //       v24=guide_i18n 转正为 guide.html（正式发布）
                                   //       v23=切语言保持正文阅读位置（锚点行）
                                   //       v22=上下事件导航标题随语言切换：补齐 prev/next 的 label
@@ -103,8 +106,9 @@ self.addEventListener('fetch', (e) => {
 
   if (IMG_RE.test(url.pathname))   return e.respondWith(cacheFirst(req, CACHE_IMG));
   if (EVENT_RE.test(url.pathname)) return e.respondWith(cacheFirst(req, CACHE_EVT));
-  if (isHtmlShell(url))            return e.respondWith(swr(req, CACHE_DOC)); // HTML：秒出深色，后台刷新
-  return e.respondWith(swr(req, CACHE_DOC)); // sw.js 等其它同源资源
+  // HTML 外壳 + sw.js + context/_missed_zh.json 等：网络优先（1.2s 超时回退缓存）。
+  // 目的：普通用户「刷新一次」就能看到新内容，不需要任何开发者工具操作。
+  return e.respondWith(netFirst(req, CACHE_DOC, 1200));
 });
 
 async function cacheFirst(req, name) {
@@ -128,4 +132,25 @@ async function swr(req, name) {
     return res;
   }).catch(() => hit);
   return hit || net;
+}
+
+/* 网络优先 + 超时回退缓存（v25）：
+   先发网络请求，timeout 毫秒内回来就用网络的（= 最新内容），并顺手更新缓存；
+   超时/失败则用缓存（离线可用）；既没网络又没缓存才 504。
+   ⚠️ 这是「改完刷新一次就生效」的关键：旧版 swr 会先吐旧缓存，导致必须刷新两次。 */
+async function netFirst(req, name, timeout) {
+  const c = await caches.open(name);
+  const net = fetch(req).then(res => {
+    if (res && res.status === 200) c.put(req, res.clone());
+    return res;
+  }).catch(() => null);
+  const hit = await c.match(req);
+  const win = await Promise.race([
+    net,
+    new Promise(r => setTimeout(() => r(null), timeout || 1200))
+  ]);
+  if (win) { if (win.status === 200 || !hit) return win; }   // 网络成功（或没缓存可用）→ 用网络
+  if (hit) return hit;                                        // 网络慢/非 200 → 回退缓存
+  const late = await net;                                     // 没缓存：继续等网络
+  return late || new Response('', { status: 504 });
 }
