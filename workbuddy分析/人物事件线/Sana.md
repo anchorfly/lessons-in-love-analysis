@@ -402,7 +402,7 @@ lust 线在功能上是一台可无限重入的往复机：sanainvite2 的结算
 
 ## 五、未解伏笔
 
-1. **生父之谜**。bar40 里 Sana 说父亲年纪比母亲大很多、不忠、在她出生后母亲才发现他另有女人；bar20 里 Sara 承认自己高中时和老师有过一段秘密恋情。两条信息从未在文本里被确认为同一个人，那具从未露面的身体仍只有一个轮廓。
+1. **生父之谜**。bar40 里 Sana 说父亲年纪比母亲大很多、不忠、在她出生后母亲才发现他另有女人；bar20 里 Sara 承认自己高中时和老师有过一段秘密恋情。两条信息从未在文本里被确认为同一个人，那具从未露面的身体仍只有一个轮廓。外部社区（4chan /vg/ LiL General，2026-09-07）提出过 "Sana 父亲 = Nozomu" 的猜测，详见**第六节**。
 2. **Shota 的死因与规则**。哥哥怎么死的、Knife Boy 说的 "Mom broke the rules" 究竟指什么——Sara 极力掩埋的过去至今没有下文。bar50 里叙述者一度猜测"如果她哥是在回家路上被杀的"，但那只是他的推测，没有任何角色确认过。
 3. **q 拒绝变成 Ayane 的原因**。"Don't like feeling what she feels."——Ayane 身上有什么感觉是它不愿承受的？
 4. **附身还是成长**。sanaspring2 的 "Either that or she's been possessed." 从未获得裁决；电影之夜被那一眼打断的亲吻、Halloween 的断片，都是悬案。
@@ -414,6 +414,35 @@ lust 线在功能上是一台可无限重入的往复机：sanainvite2 的结算
 10. **Sana 与 Ami**。sanainvite1 里 Niki 追问之下，Sana 说"Ami 愿意的话我不介意和她交往，只是想慢慢来"；sanaspring2 里 Ami 在课上发表"要把其他女生肢解掉"的演说。这两条线至今没有交集。
 11. **bar45 的记忆分歧**。Sana 记得的过夜与 Ayane、Sensei 的记忆不一致——究竟是谁的记忆被改写，还是被重置抹掉的那一次另有版本？
 
+
+## 六、外部社区推测（来源：4chan /vg/ LiL General，供回头查阅）
+
+> **性质**：本节**不是源文分析**，而是社区（4chan /vg/ Lessons in Love General）玩家提出的**未经证实的推测**，由日报归档。凡引用均标注为"社区认为/发帖人认为"，与上方源文事实分开。原始贴文见 `C:\Users\anke\Desktop\class\网页信息总结\4chan-lessons-in-love\2026-09-07.md` 第三节「Sana 父亲 = Nozomu 理论」；四张证据截图存于 `C:\Users\anke\Desktop\class\网页信息总结\4chan-lessons-in-love\work\images\`（见下文文件名）。
+
+### 1. 理论概述
+
+- **提出时间**：2026-09-06 深夜～09-07 凌晨（General #11，`lil-finally-visited-bonertown-edition`，串 #579321916）。
+- **核心主张**：Sana 的生父是 **Arakawa Nozomu**（Sekai 的丈夫/血亲，即 Ami 那一侧的关键人物）。若成立，则 Sana 与 Ami 为同父异母姐妹。
+- **起头方式**：最初是半玩笑发帖（"the reveal that sana's father is nozomu in .73 will be crazy"），被追问"有证据还是整活"后，发帖人甩出四张游戏内截图，称"证据相当多"，并声称这类伏笔"最早在第一章就有"。
+- **当前状态**：**社区推测，官方从未确认**。发帖人自己也说"晚点展开"，且四张截图都存在更平淡的替代解释（见下）。
+
+### 2. 四张证据截图（社区标注）
+
+| # | 串内帖号 | 游戏内文本（截图所见） | 社区读法 | 截图文件名 |
+|---|---|---|---|---|
+| 1 | [#580069030](https://boards.4chan.org/vg/thread/579321916#p580069030) | *"She is survived by her mother, Sara Sakakibara, and one other."*（她身后留下母亲 Sara，与"另外一人"。） | 讣告式台词只点名母亲，父亲处刻意留白→暗示"另外一人"即未明说的父亲 | `1788708024397946.jpg` |
+| 2 | [#580070804](https://boards.4chan.org/vg/thread/579321916#p580070804) | Sekai 视角台词：*"And of course her father is the mirror image of me. Great."*（她父亲果然是照我镜子画出来的。太棒了。） | 读成 Sekai 自陈 Sana 的父亲与 Sekai 同源/互为镜像（即 Nozomu） | `1788709360212178.jpg` |
+| 3 | [#580071570](https://boards.4chan.org/vg/thread/579321916#p580071570) | Yasu 群像场景，Yasu 语：*"Where you are is the front porch of salvation...a place that you would not be able to see at all if it were not for two and a half of us."* | 认为有多处场景暗示 Yasu"知道 Sana 的这层身世"，她也理应知情 | `1788709961966348.jpg` |
+| 4 | [#580072559](https://boards.4chan.org/vg/thread/579321916#p580072559) | Yasu/Sana/Ayane 回放，Yasu 收尾：*"Enjoy the show, Father. I hope it's as nostalgic as you want it to be."*（好好欣赏这出戏吧，Father。） | 把 "Father" 读成在称呼某位神父/父辈关键人物，认为"放进这个理论里就通了" | `1788710735148021.png` |
+
+- 附带花絮：同串 #580072468 补刀"Yasu 自己也好乱伦这口，跟 Akira、Ami、Nodoka 一样"；#580062271 感慨"若 Sana 真是 Sensei 的亲侄女而非 Ami，前文很多话会有第二层含义"。
+
+### 3. 与源文事实的张力（回头查时务必对照）
+
+- **源文本就给了两条父亲信息，且从未合并为一人**：bar40 描述父亲"年纪比母亲大很多、不忠、Sana 出生后母亲才发现他另有女人"；bar20 是 Sara 自述高中时与老师有一段秘密恋情。证据二那句 "mirror image of me" 完全可能是 Sekai 的自嘲修辞，而非指认 Nozomu；证据一"one other"也可能是纯叙事留白。
+- **"Nozomu = Sana 生父"若成立**：Sana 与 Ami 同父异母，与本节"q 明确把 Sana 排除在 shapeshifter 嫌疑人之外""sanainvite1 里 Sana 对 Ami 关系含糊"等线索暂无直接冲突，但也无任何源文正面支撑。
+- **时间线未定**：发帖人信口说的 "in .73" 只是玩笑式版本号，不能作为情报对待。
+- **结论**：记录下来供未来交叉验证。等 v0.62 维护更新 / 后续章节看是否回收"生父""one other""Father"等词，再判断是刻意伏笔还是巧合修辞。
 
 ### 0.61.0：第七次海滩（主章中的 Sana）
 
