@@ -257,6 +257,39 @@ function renderSmsItem(sms, i, k){
   return '<div class="item" onclick="openSms('+i+','+k+')">'
     + '<span class="t" data-lab="'+escA(sms.label)+'">'+dispTitle(sms)+'</span></div>';
 }
+/* 短信正文的结构回填（2026-09-16）：
+   events/{label}.json 的 lines 是「纯对白」，只有 en/zh，**没有 scene-cap / 图片行**；
+   而 sms.content 这个英文骨架里是有 <img> 和 scene-cap 的。直接用 json 覆盖正文
+   → 47 条短信的图片会全部消失（guide.html 不做覆盖，所以只有 i18n 页会丢图）。
+   这里按骨架顺序把「空行 / scene-cap / 图片」插回译文序列，对白仍取 json 的译文。
+   ⚠️ 若将来 json 自带 img 行则原样返回，绝不重复插图。
+   ⚠️ 选项行（.opt）没有译文，保持现状不补，免得冒出没有中文的英文。 */
+function smsMergeStructure(skeletonHtml, lines){
+  if(!skeletonHtml || !lines || !lines.length) return lines;
+  for(const L of lines){ if(L && L.img) return lines; }      // 已自带图片 → 不处理
+  const out = [];
+  let j = 0;
+  const re = /<div class="([^"]*)"[^>]*>([\s\S]*?)<\/div>|<img[^>]*>/g;
+  let m;
+  while((m = re.exec(skeletonHtml))){
+    const raw = m[0];
+    if(raw.indexOf('<img') === 0){
+      const src = (raw.match(/src="([^"]*)"/) || [])[1] || '';
+      const alt = (raw.match(/alt="([^"]*)"/) || [])[1] || '';
+      if(src) out.push({img: src, alt: alt});
+      continue;
+    }
+    const cls = m[1];
+    const txt = m[2].replace(/<[^>]*>/g, '').replace(/&nbsp;/g, '').trim();
+    if(cls === 'scene-cap'){ out.push({en: txt, zh: '', cap: true}); continue; }
+    if(cls === 'opt') continue;                              // 选项行：没有译文，不补
+    if(!txt){ out.push({en: '', zh: ''}); continue; }        // 空行
+    out.push(j < lines.length ? lines[j] : {en: txt, zh: ''});  // 对白/旁白：按顺序取译文
+    j++;
+  }
+  while(j < lines.length) out.push(lines[j++]);              // 骨架没覆盖到的译文补在末尾
+  return out;
+}
 // 短信第三层：图片 + 对话（内容与事件同款标注，但不进入全局 prev/next 链）
 // 支持三语：sms.content 为英文骨架；若 context/events/{label}.json 存在则优先用其三语 lines 渲染
 function openSms(i, k){
@@ -274,7 +307,7 @@ function openSms(i, k){
   const fill = (d) => {
     if(!contentBox || !contentBox.isConnected) return;
     if(d && d.lines && d.lines.length){
-      renderLinesChunked(d.lines, contentBox);
+      renderLinesChunked(smsMergeStructure(sms.content, d.lines), contentBox);
       const meta = main.querySelector('.meta');
       if(meta){ const b = meta.querySelector('b'); if(b) b.innerHTML = dispTitle(sms); }
     }
@@ -1039,6 +1072,63 @@ if ('serviceWorker' in navigator) {
   /* 预载完成后 ZH_TITLE 可能有更新 → 再补一次并就地刷新标题 */
   try{ if(window.requestIdleCallback) requestIdleCallback(function(){ fillNavLabels(); try{refreshTitles();}catch(e){} }); }catch(e){}
   setTimeout(function(){ fillNavLabels(); try{refreshTitles();}catch(e){} }, 3000);
+})();
+</script>
+
+
+<script>
+/* ===== 切语言保持正文阅读位置（2026-09-16）=====
+   zh/en → 对照(bi) 时正文里 en-l+zh-l 同时显示、高度约翻倍，
+   容器 scrollTop 不变但"读到哪一行"会飘。这里用锚点行把位置拉回来。
+   DOM 在切语言时不重建（只改 CSS display），所以子元素下标稳定。
+   ⚠️ en-l / zh-l 是成对的（同一逻辑行两个 div），切换语言会隐藏其中一个，
+      故恢复时按「距离顺序」找最近的可见行（0,-1,+1,-2,+2…），
+      优先取同一行的另一半，避免偏一行。 */
+(function(){
+  if (typeof setLang !== 'function') return;
+  var _origSetLang = setLang;
+
+  function _box(){ return document.querySelector('.content'); }
+
+  function _capture(){
+    var box = _box();
+    if (!box || !box.children.length) return null;
+    var kids = box.children, top = box.scrollTop;
+    for (var i = 0; i < kids.length; i++){
+      var el = kids[i];
+      if (el.offsetHeight === 0) continue;
+      if (el.offsetTop + el.offsetHeight > top){
+        return { box: box, idx: i, delta: el.offsetTop - top,
+                 vTop: el.getBoundingClientRect().top };
+      }
+    }
+    return null;
+  }
+
+  function _nearestVisible(kids, idx){
+    var order = [0,-1,1,-2,2,-3,3,-4,4];
+    for (var q = 0; q < order.length; q++){
+      var i = idx + order[q];
+      if (i >= 0 && i < kids.length && kids[i].offsetHeight > 0) return kids[i];
+    }
+    return null;
+  }
+
+  function _restore(a){
+    if (!a || !a.box || !a.box.isConnected) return;
+    var el = _nearestVisible(a.box.children, a.idx);
+    if (!el) return;
+    a.box.scrollTop = Math.max(0, el.offsetTop - a.delta);
+    var dy = el.getBoundingClientRect().top - a.vTop;
+    if (Math.abs(dy) > 1) window.scrollBy(0, dy);
+  }
+
+  window.setLang = function(l){
+    if (l === LANG) return;
+    var a = _capture();
+    _origSetLang(l);
+    _restore(a);
+  };
 })();
 </script>
 </body>
