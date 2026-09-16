@@ -501,6 +501,7 @@ goHome();
   var _or2 = openRelease;
   var _ovs2 = openVersions;
   var _ov2 = openVersion;
+  var _os2 = openSms;
   var catScroll = {};   // 分类索引 -> 离开第二层时的滚动位置(px)
   var curCat = null;    // 当前第二层显示的分类索引；离开第二层后即置空
   function curY(){
@@ -529,6 +530,13 @@ goHome();
       curCat = null;
     }
     var r = _oe2.apply(null, arguments);
+    toTop();
+    return r;
+  };
+  // 短信三级页：与 openEvent 同款——记录并清空 curCat（返回列表一律回顶部，与事件一致）+ 回顶部
+  openSms = function(){
+    if(curCat !== null){ catScroll[curCat] = curY(); curCat = null; }
+    var r = _os2.apply(null, arguments);
     toTop();
     return r;
   };
