@@ -30,7 +30,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v6';   // HTML 外壳等：swr 后台刷新。
+const CACHE_DOC = 'lil-doc-v7';   // HTML 外壳等：swr 后台刷新。
+                                  //       v7=CJK+组合符字形兜底：.content 加 LilCjk @font-face(unicode-range)，修中文 Zalgo 显示缺字形方框
                                   //       v6=事件缓存 lil-evt-v6→v7（+两个页面同步硬编码缓存名），修 roomwithclocks 中文译文不刷新
                                   // ⚠️ 铁律：每改一次 guide.html / guide_i18n.html 就必须 +1（v3→v4→…），
                                   // 否则浏览器一直吃 SW 缓存的旧 HTML，用户必须手动清缓存才能看到改动。
