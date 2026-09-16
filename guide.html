@@ -998,6 +998,9 @@ function renderLines(lines){
     }
     const en = L.en || "";
     const zh = L.zh || "";
+    /* Ren'Py 引擎指令行不显示（如 `$ renpy.config.rtl = True`，只是把文本切成 RTL 的开关，
+       对读者是噪音）。⚠️ 只过滤配置类开关，其它 `$` 代码行保持原样。 */
+    if(/^\s*\$\s*renpy\.config\./.test(en.trim())) continue;
     // 空行：原版是 <div class="c">&nbsp;</div>
     if(!en && !zh){
       h += '<div class="c">&nbsp;</div>';

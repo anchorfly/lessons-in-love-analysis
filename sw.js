@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v36';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v37';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v37=阿拉伯语行补原文+括号译文；过滤 $ renpy.config.rtl
                                   //       v36=修 [[ 多一个方括号（Ren'Py 反转义）+ [REDACTED] 译为中文
                                   //       v35=日文行全量改为「原文 + 半角括号中文」（77 处）
                                   //       v34=修正 86 处说话人 id 泄漏进正文（six/Maki/??? 等）
