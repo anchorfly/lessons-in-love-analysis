@@ -30,7 +30,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v23';   // HTML 外壳等：swr 后台刷新。
+const CACHE_DOC = 'lil-doc-v24';   // HTML 外壳等：swr 后台刷新。
+                                  //       v24=guide_i18n 转正为 guide.html（正式发布）
                                   //       v23=切语言保持正文阅读位置（锚点行）
                                   //       v22=上下事件导航标题随语言切换：补齐 prev/next 的 label
                                   //       v21=短信三级页也回顶部 + 与事件一致清空 curCat（返回列表回顶部）
