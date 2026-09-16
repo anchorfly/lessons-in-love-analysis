@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v27';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v28';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v28=图片加载自愈：img onerror 换 URL 重试 + SW 只缓存真图片、不再吐空 504
                                   //       v27=加 .nojekyll 让 Pages 跳过 Jekyll（修 _ 前缀文件被过滤）+ 上下文忘了更新
                                   //       v26=删除 guide_i18n.html（已转正为 guide.html）；sw.js PRECACHE 只留 guide.html
                                   //       v25=HTML/其它资源改网络优先(1.2s超时回退缓存)，刷新一次即生效，不再需要手动清缓存
@@ -106,22 +107,32 @@ self.addEventListener('fetch', (e) => {
   // 版本清单绕过 SW：不进任何缓存，由页面用 no-store 直连拿最新（保证开机比对永远新鲜）
   if (MANIFEST_RE.test(url.pathname)) return;
 
-  if (IMG_RE.test(url.pathname))   return e.respondWith(cacheFirst(req, CACHE_IMG));
+  if (IMG_RE.test(url.pathname))   return e.respondWith(cacheFirst(req, CACHE_IMG, true));
   if (EVENT_RE.test(url.pathname)) return e.respondWith(cacheFirst(req, CACHE_EVT));
   // HTML 外壳 + sw.js + context/_missed_zh.json 等：网络优先（1.2s 超时回退缓存）。
   // 目的：普通用户「刷新一次」就能看到新内容，不需要任何开发者工具操作。
   return e.respondWith(netFirst(req, CACHE_DOC, 1200));
 });
 
-async function cacheFirst(req, name) {
+/* 判断响应是否真的是图片：没有 content-type 或不是 image/* 一律视为坏响应。
+   目的：防止「200 但内容是 HTML 错误页/空响应」被当图片缓存下来，之后一直吐坏图。 */
+function isGoodImage(res) {
+  if (!res || res.status !== 200) return false;
+  const ct = (res.headers.get('content-type') || '').toLowerCase();
+  if (!ct) return true;
+  return ct.indexOf('image/') === 0;
+}
+
+async function cacheFirst(req, name, isImg) {
   const c = await caches.open(name);
   const hit = await c.match(req);
-  if (hit) return hit;
+  if (hit && !(isImg && !isGoodImage(hit))) return hit;
   try {
     const res = await fetch(req);
-    if (res && res.status === 200) c.put(req, res.clone());
+    if (res && res.status === 200 && !(isImg && !isGoodImage(res))) c.put(req, res.clone());
     return res;
   } catch (err) {
+    if (isImg) throw err;
     return hit || new Response('', { status: 504 });
   }
 }
