@@ -748,7 +748,7 @@ function fetchEvent(label){
  * 开机拉全量版本清单 evtver.json（no-store 直连最新），与本地 lastSeen 比对，
  * 只删除「哈希对不上 / 已被移除」的事件 SW 缓存条目；没改的永久秒出。
  * 缓存有界（一份/事件）、不涨不漏。图片缓存(lil-img)永不碰。
- * 注意：缓存名 'lil-evt-v6' 必须与 sw.js 的 CACHE_EVT 保持一致。 */
+ * 注意：缓存名 'lil-evt-v7' 必须与 sw.js 的 CACHE_EVT 保持一致。 */
 const _EVT_VER_KEY = "lil_evt_lastseen";
 function _syncEvtCache(){
   if(!('caches' in window)) return;
@@ -762,7 +762,7 @@ function _syncEvtCache(){
     for(const id in ver)  if(seen[id] !== ver[id]) dirty.push(id);  // 译文变了 → 该条目失效
     for(const id in seen) if(!(id in ver))        dirty.push(id);  // 事件被删 → 清残留
     if(!dirty.length){ localStorage.setItem(_EVT_VER_KEY, JSON.stringify(ver)); return; }
-    caches.open('lil-evt-v6').then(c => {
+    caches.open('lil-evt-v7').then(c => {
       Promise.all(dirty.map(id =>
         c.delete(EVENTS_BASE + "/" + encodeURIComponent(id) + ".json").catch(function(){})
       )).then(function(){ localStorage.setItem(_EVT_VER_KEY, JSON.stringify(ver)); }).catch(function(){});

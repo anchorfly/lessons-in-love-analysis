@@ -23,10 +23,15 @@
  *   - v8：弃用 bump（整库删除 = 粗粒度、且旧策略会连图片一起清）。改用「开机全量版本
  *       清单比对 + 条目级精准删除」：译文更新只重算 evtver.json，SW 缓存名保持不变，
  *       线上仅重拉改动的文件。图片缓存名 lil-img-vX 永不改、永不失效。
+ *   - v9（事件缓存兜底）：v8 的 evtver 精准失效在个别客户端未生效（译文已更新、
+ *       线上 JSON 已是新内容，用户仍看到旧译文），故把 CACHE_EVT v6→v7 整表重建一次。
+ *       ⚠️ 铁律：CACHE_EVT 改名时，必须同步改 guide.html 与 guide_i18n.html 里
+ *       硬编码的 caches.open('lil-evt-vN')，否则精准失效会指向一张死缓存、永久失效。
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
-const CACHE_EVT = 'lil-evt-v6';   // 事件译文 JSON：稳定名，不再 bump；失效靠 guide.html 开机精准删条目
-const CACHE_DOC = 'lil-doc-v5';   // HTML 外壳等：swr 后台刷新。
+const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
+const CACHE_DOC = 'lil-doc-v6';   // HTML 外壳等：swr 后台刷新。
+                                  //       v6=事件缓存 lil-evt-v6→v7（+两个页面同步硬编码缓存名），修 roomwithclocks 中文译文不刷新
                                   // ⚠️ 铁律：每改一次 guide.html / guide_i18n.html 就必须 +1（v3→v4→…），
                                   // 否则浏览器一直吃 SW 缓存的旧 HTML，用户必须手动清缓存才能看到改动。
                                   // 历史：v3=_syncEvtCache 缓存失效+undefined/滚动修复；
