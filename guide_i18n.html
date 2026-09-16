@@ -1004,5 +1004,42 @@ if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js').catch(function(){});
 }
 </script>
+
+<script>
+/* ===== 上下事件导航：补齐 prev/next 的 label（2026-09-16）=====
+   build_nav.py 注入的 ORDER 里 prev/next 只有 {ci,idx,title}，缺 label，
+   导致导航按钮 data-lab 为空 → 切语言时标题不刷新、且永远显示英文。
+   这里按 ci:idx 建全局 label 索引并回填；不动数据源、不改 build_nav.py。 */
+(function(){
+  function fillNavLabels(){
+    var map = {};
+    function reg(e){ if(e && e.label && map[e.ci+':'+e.idx]===undefined) map[e.ci+':'+e.idx]=e.label; }
+    function regList(l){ (l||[]).forEach(reg); }
+    function patch(e){
+      if(!e) return;
+      if(e.prev && !e.prev.label) e.prev.label = map[e.prev.ci+':'+e.prev.idx] || '';
+      if(e.next && !e.next.label) e.next.label = map[e.next.ci+':'+e.next.idx] || '';
+    }
+    function patchList(l){ (l||[]).forEach(patch); }
+    try{
+      DATA.forEach(function(c){ regList(c.items); regList(c.sms); });
+      if(typeof ORDER    !== 'undefined') regList(ORDER);
+      if(typeof FLAT     !== 'undefined') regList(FLAT);
+      if(typeof RELEASE  !== 'undefined') regList(RELEASE.items);
+      if(typeof VERSIONS !== 'undefined') VERSIONS.forEach(function(v){ regList(v.items); });
+      DATA.forEach(function(c){ patchList(c.items); patchList(c.sms); });
+      if(typeof ORDER    !== 'undefined') patchList(ORDER);
+      if(typeof FLAT     !== 'undefined') patchList(FLAT);
+      if(typeof RELEASE  !== 'undefined') patchList(RELEASE.items);
+      if(typeof VERSIONS !== 'undefined') VERSIONS.forEach(function(v){ patchList(v.items); });
+    }catch(e){}
+  }
+  fillNavLabels();
+  window._fillNavLabels = fillNavLabels;
+  /* 预载完成后 ZH_TITLE 可能有更新 → 再补一次并就地刷新标题 */
+  try{ if(window.requestIdleCallback) requestIdleCallback(function(){ fillNavLabels(); try{refreshTitles();}catch(e){} }); }catch(e){}
+  setTimeout(function(){ fillNavLabels(); try{refreshTitles();}catch(e){} }, 3000);
+})();
+</script>
 </body>
 </html>
