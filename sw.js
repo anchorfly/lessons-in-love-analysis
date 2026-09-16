@@ -30,7 +30,9 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v14';   // HTML 外壳等：swr 后台刷新。
+const CACHE_DOC = 'lil-doc-v16';   // HTML 外壳等：swr 后台刷新。
+                                  //       v16=页面英文 title 统一改 avn 真名（22 条，中英对齐）
+                                  //       v15=移除内嵌 Zalgo 字体，乱码行统一改为「原文 + 半角括号中文」
                                   //       v14=短信标题/面包屑随语言切换（_itemByLabel 补索引 c.sms；openSms meta 挂 data-lab）
                                   //       v13=历史版本事件/首页等换页后回到顶部（原来保留原滚动位置）
                                   //       v12=25 条专名：知名/历史人物译出、造语按理解译、编号不动
