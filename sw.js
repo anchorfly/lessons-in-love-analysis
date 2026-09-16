@@ -30,7 +30,12 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v9';   // HTML 外壳等：swr 后台刷新。
+const CACHE_DOC = 'lil-doc-v14';   // HTML 外壳等：swr 后台刷新。
+                                  //       v14=短信标题/面包屑随语言切换（_itemByLabel 补索引 c.sms；openSms meta 挂 data-lab）
+                                  //       v13=历史版本事件/首页等换页后回到顶部（原来保留原滚动位置）
+                                  //       v12=25 条专名：知名/历史人物译出、造语按理解译、编号不动
+                                  //       v11=i18n 页内嵌标题刷新（Number Girl->编号女孩）
+                                  //       v10=中文标题全量内嵌（ZH_TITLES_BUILTIN），events json 移除 title_zh
                                   //       v9=字体改为 data URI 内嵌(22KB base64)+独立字体族 LilZalgoCJK，彻底消除路径依赖
                                   //       v8=自托管 Noto Sans SC 子集修中文 Zalgo(16KB,含 CJK+U+0300-036F 全组合符),国内离线可用
                                   //       v7=CJK+组合符字形兜底：.content 加 LilCjk @font-face(unicode-range)，修中文 Zalgo 显示缺字形方框
