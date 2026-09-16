@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v28';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v29';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v29=历史版本事件内「上一个/下一个」改组内闭环（只在本版本列表内走，头尾禁用）
                                   //       v28=图片加载自愈：img onerror 换 URL 重试 + SW 只缓存真图片、不再吐空 504
                                   //       v27=加 .nojekyll 让 Pages 跳过 Jekyll（修 _ 前缀文件被过滤）+ 上下文忘了更新
                                   //       v26=删除 guide_i18n.html（已转正为 guide.html）；sw.js PRECACHE 只留 guide.html
@@ -124,16 +125,24 @@ function isGoodImage(res) {
 }
 
 async function cacheFirst(req, name, isImg) {
-  const c = await caches.open(name);
-  const hit = await c.match(req);
-  if (hit && !(isImg && !isGoodImage(hit))) return hit;
+  /* ⚠️ caches.open / match 也必须在 try 内：一旦 reject（配额、存储异常等），
+     respondWith 收到 rejected promise 会被浏览器当成网络错误 → 图片直接碎且不回源。
+     这里任何缓存层异常一律降级为直接走网络。 */
+  let hit = null;
   try {
-    const res = await fetch(req);
-    if (res && res.status === 200 && !(isImg && !isGoodImage(res))) c.put(req, res.clone());
-    return res;
-  } catch (err) {
-    if (isImg) throw err;
-    return hit || new Response('', { status: 504 });
+    const c = await caches.open(name);
+    hit = await c.match(req);
+    if (hit && !(isImg && !isGoodImage(hit))) return hit;   // 命中坏条目则视为 miss，回源
+    try {
+      const res = await fetch(req);
+      if (res && res.status === 200 && !(isImg && !isGoodImage(res))) c.put(req, res.clone());
+      return res;
+    } catch (err) {
+      if (isImg) throw err;      // 图片：交浏览器原生处理 + 触发页面 onerror 重试
+      return hit || new Response('', { status: 504 });
+    }
+  } catch (e) {
+    return fetch(req);           // 缓存层出问题：直接回源，绝不返回空响应
   }
 }
 

@@ -630,6 +630,15 @@ goHome();
       if(gt) openEvent(gt.ci, gt.idx, 2);
       return;
     }
+    if(curOpen.rel === 3 && curVer >= 0 && VERSIONS[curVer]){
+      // 历史版本组内闭环：版本列表项没有 prev/next 字段，按数组下标取邻居
+      var vs = VERSIONS[curVer].items;
+      var vp = vs.findIndex(function(e){ return e.ci === curOpen.ci && e.idx === curOpen.idx; });
+      if(vp < 0) return;
+      var vt = dir < 0 ? vs[vp - 1] : vs[vp + 1];
+      if(vt) openEvent(vt.ci, vt.idx, 3);
+      return;
+    }
     if(curOpen.rel === 1 && RELEASE && RELEASE.items.length){
       pos = RELEASE.items.findIndex(function(e){ return e.ci === curOpen.ci && e.idx === curOpen.idx; });
       arr = RELEASE.items;
@@ -868,9 +877,18 @@ function _collectLabels(){
 }
 /* 有限并发预载：恒定 12 个在飞，完成一个补一个。
    12 远低于 Chrome 单主机 ~200 连接上限，不挤占图片/其它资源，不触发限流。 */
-const _PRELOAD_CONCURRENCY = 12;
+const _PRELOAD_CONCURRENCY = 4;   // 慢网：12 -> 4，别跟正文图片抢带宽
 let _preloadActive = 0;
 function _preloadPump(){
+  if(_preloadIdx >= _allLabels.length && _preloadActive === 0) return;
+  /* 慢网优先保证正文图片：可见区还有图没下完就先让路，别抢带宽 */
+  if(_imagesBusy()){
+    if(!window._pumpWait){
+      window._pumpWait = true;
+      setTimeout(function(){ window._pumpWait = false; _ric(_preloadPump); }, 1000);
+    }
+    return;
+  }
   while(_preloadActive < _PRELOAD_CONCURRENCY && _preloadIdx < _allLabels.length){
     const label = _allLabels[_preloadIdx++];
     _preloadActive++;
@@ -948,7 +966,7 @@ function renderLines(lines){
   for(const L of lines){
     // 图片行：中英共用，不参与切换
     if(L.img){
-      h += '<img class="scene-img" loading="lazy" src="'+_esc(L.img)+'" alt="'+_esc(L.alt||"")+'" onerror="__imgRetry(this)">';
+      h += '<img class="scene-img" loading="lazy" decoding="async" src="'+_esc(L.img)+'" alt="'+_esc(L.alt||"")+'" onerror="__imgRetry(this)">';
       continue;
     }
     const en = L.en || "";
@@ -1168,8 +1186,79 @@ window.__imgRetry = function(el){
   el.dataset.retry = String(n + 1);
   var base = (el.getAttribute('src') || '').split('?')[0];
   if (!base) return;
+  /* 先把 SW 图片缓存里这条坏条目定点删掉（只删出错的那张，不整库重下），
+     再换 URL 回源。否则坏条目会一直留在缓存里，下次进同一事件还会再中一次。 */
+  try {
+    if (window.caches && caches.keys) {
+      caches.keys().then(function(ks){
+        ks.forEach(function(k){
+          if (k.indexOf('lil-img') !== 0) return;
+          caches.open(k).then(function(c){ c.delete(base).catch(function(){}); }).catch(function(){});
+        });
+      }).catch(function(){});
+    }
+  } catch (e) {}
   el.src = base + '?r=' + (n + 1) + '-' + Date.now();
 };
+</script>
+
+<script>
+/* ===== 慢网图片优化（2026-09-16）=====
+   ① _imagesBusy()：可见区附近还有图片没下完 → JSON 全量预载主动让路。
+   ② __imgPrefetch()：正文渲染完后，后台**逐张**预取本事件视口下方的图片
+      （并发 1、priority:low），经 SW 缓存后滚动到即秒出。
+      ⚠️ 只取视口下方的：视口附近的浏览器正在加载，重复 fetch 反而抢带宽。 */
+function _imagesBusy(){
+  const box = document.querySelector('.content');
+  if(!box) return false;
+  const bt = box.getBoundingClientRect();
+  const imgs = box.querySelectorAll('img');
+  for(let i = 0; i < imgs.length; i++){
+    const im = imgs[i];
+    if(im.complete) continue;
+    const r = im.getBoundingClientRect();
+    if(r.bottom > bt.top - 300 && r.top < bt.bottom + 300) return true;
+  }
+  return false;
+}
+
+let __imgPrefetchToken = 0;
+function __imgPrefetch(box){
+  if(!box) return;
+  const token = ++__imgPrefetchToken;          // 换事件即作废旧任务
+  const run = function(){
+    if(token !== __imgPrefetchToken || !box.isConnected) return;
+    const imgs = Array.from(box.querySelectorAll('img'));
+    if(!imgs.length) return;
+    const bt = box.getBoundingClientRect();
+    let i = 0;
+    (function step(){
+      if(token !== __imgPrefetchToken || !box.isConnected) return;
+      if(i >= imgs.length) return;
+      const el = imgs[i++];
+      const r = el.getBoundingClientRect();
+      if(r.top < bt.bottom + 300 || el.complete){ setTimeout(step, 0); return; }  // 视口附近的跳过
+      const src = el.getAttribute('src');
+      if(!src){ setTimeout(step, 0); return; }
+      let pr;
+      try { pr = fetch(src, {priority: 'low'}); } catch(e){ pr = fetch(src); }
+      pr.then(function(){ setTimeout(step, 150); })
+        .catch(function(){ setTimeout(step, 400); });   // 失败就慢点再试下一张，不卡死
+    })();
+  };
+  /* 等首屏可见图先下完，再开始后台预取 */
+  setTimeout(function(){ try { _ric(run); } catch(e){ run(); } }, 2000);
+}
+
+/* 包装 renderLinesChunked：正文渲染完成后自动安排图片预取（覆盖事件/短信等所有渲染入口） */
+(function(){
+  if(typeof renderLinesChunked !== 'function') return;
+  const _orig = renderLinesChunked;
+  window.renderLinesChunked = function(lines, contentBox){
+    _orig(lines, contentBox);
+    try { __imgPrefetch(contentBox); } catch(e){}
+  };
+})();
 </script>
 </body>
 </html>
