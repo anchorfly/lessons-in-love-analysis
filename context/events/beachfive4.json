@@ -1,1734 +1,1733 @@
 {
- "label": "beachfive4",
- "title_zh": "作战：睡眠时间",
- "lines": [
-  {
-   "en": ""
-  },
-  {
-   "en": "label beachfive4:",
-   "zh": ""
-  },
-  {
-   "en": "//////////PLAY “MELANCHOLIC BEACH MUSIC”",
-   "zh": "//////////播放「MELANCHOLIC BEACH MUSIC」"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene goodmorning3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/goodmorning3.webp",
-   "alt": "goodmorning3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ day = 6",
-   "zh": ""
-  },
-  {
-   "en": "$ totaldays += 1",
-   "zh": ""
-  },
-  {
-   "en": "show saturday",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/Saturday.png",
-   "alt": "saturday"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hey.",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 嘿。"
-  },
-  {
-   "en": ": Ah. So this is gonna be one of “those” days, isn’t it?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 啊。看来今天会是「那种」日子了，是吧？"
-  },
-  {
-   "en": ": Guess so. How’s my replacement doing?",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 大概吧。我的替代品怎么样了？"
-  },
-  {
-   "en": ": She’s nice. I hate it.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 她人很好。我讨厌这点。"
-  },
-  {
-   "en": ": You won’t hate it for long. Soon enough, you’ll be gazing into her eyes from the missionary position, pretending I’m still in there somewhere, but I’m {i}not.{/i}",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 你不会讨厌太久的。很快你就会用传教士体位凝视着她的眼睛，假装我还藏在里面某个地方，但我{i}并不在{/i}。"
-  },
-  {
-   "en": ": I’m gone. And the only way you’re ever going to get me back is by giving up on food and water until you shrivel up and die, yo.",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 我已经走了。而你想让我回来的唯一办法，就是放弃食物和水，直到你干瘪而死，哟。"
-  },
-  {
-   "en": ": Maya never said “yo.”",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Maya 从来不会说「哟」。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene goodmorning3d",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/goodmorning3d.webp",
-   "alt": "goodmorning3d"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": okay but like, what if she did? she’d be way cooler.",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 可是话说回来，要是她会呢？那她可就酷多了。"
-  },
-  {
-   "en": ": What do you want this time?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 这次你想要什么？"
-  },
-  {
-   "en": ": who says i want anything?",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 谁说我就想要什么了？"
-  },
-  {
-   "en": ": You probably will in the following text box.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你大概在下一个文本框里就会说了。"
-  },
-  {
-   "en": ": yeah, you’re right. i want you to take ami to the beach. she deserves a nice vacation, don’t you think?",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 是啊，你说得对。我想要你带 Ami 去海边。她值得一个像样的假期，你不觉得吗？"
-  },
-  {
-   "en": ": I do. But I already told Ayane I’d leave her here. I don’t want to mess with her plan.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我确实这么觉得。但我已经跟 Ayane 说过会把她留在家里。我不想打乱她的计划。"
-  },
-  {
-   "en": ": her “plan” is a load of delusionally optimistic bullshit that’s good for one thing and one thing only — enabling a sweet teen orgy later tonight that you’ll run away from since you’re a little pussy bitch boy.",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 她的「计划」就是一堆妄想乐观的狗屁，只有唯一一个用处——促成今晚晚些时候一场美妙的少女群交，而你会临阵脱逃，因为你就是个没种的小怂包。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Okay, {i}Maya.{/i} Goodnight.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好吧，{i}Maya{/i}。晚安。"
-  },
-  {
-   "en": ": wait, no. open your eyes. i want to show you something.",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 等等，别。睁开眼睛。我想给你看样东西。"
-  },
-  {
-   "en": ": Is it just going to be another weird vision involving the same person I’ve been unsuccessfully trying to purge from my mind ever since you started speaking to me?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 又是那种诡异的幻象吗？还是关于那个自从你开始跟我说话起、我一直想从脑子里清除却始终失败的人？"
-  },
-  {
-   "en": ": no, i promise. it’s something way cooler.",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 不，我保证。是酷得多的东西。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive1.webp",
-   "alt": "beachdayfive1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": it’s luca signorelli’s “resurrection of the flesh” but slightly elongated and grunge-ified. i also included a special message just for you.",
-   "spk": "Maya",
-   "spkColor": "#20EF00",
-   "zh": ": 是 Luca Signorelli 的《肉身复活》，只是稍微拉长了一点，还加了点垃圾摇滚味。我还专门给你留了一句特别留言。"
-  },
-  {
-   "en": ": Thanks. It’s beautiful. Can I go back to sleep now?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 谢了。很美。现在我可以继续睡了吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive2.webp",
-   "alt": "beachdayfive2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "{b}sure, but you might want to make it to your room first or ayane will think you’re being rude.{/b}",
-   "zh": "{b}当然，不过你最好先挪回自己房间，不然 Ayane 会觉得你很失礼。{/b}"
-  },
-  {
-   "en": "Oh. I guess I’m already here.",
-   "zh": "哦。看来我已经在这儿了。"
-  },
-  {
-   "en": "{b}yeah you are. i didn’t want to sit through some long-ass flowery monologue about the {i}ocean{/i} and how it {i}relates to your state of mind{/i} or whatever.",
-   "zh": "{b}对，你已经在了。我可不想听你念一长串关于{i}大海{/i}、以及它{i}如何映射你心境{/i}之类的华丽独白。{/b}"
-  },
-  {
-   "en": "{b}so i went ahead and skipped forward. i hope you don’t mind.",
-   "zh": "{b}所以我就直接快进了。希望你不介意。{/b}"
-  },
-  {
-   "en": "If you can skip forward, would you mind taking me to the part where I live happily ever after?",
-   "zh": "既然你能快进，那能不能带我跳到从此幸福快乐地活下去的那一段？"
-  },
-  {
-   "en": "{b}lmao{/b}",
-   "zh": "{b}哈哈{/b}"
-  },
-  {
-   "en": "Fitting response. I’m going to tune you out now if that’s okay.",
-   "zh": "真符合你的风格。如果可以的话，我现在要把你屏蔽了。"
-  },
-  {
-   "en": "{b}okaaaaay. but shit might get preeeeeetty messy later on if you forget i’m here.{/b}",
-   "zh": "{b}好嘞嘞嘞。不过你要是忘了我还在这儿，后面的事可能会变得相——当——一团糟哦。{/b}"
-  },
-  {
-   "en": "I think I’ll take my chances if it means not having to talk to myself anymore.",
-   "zh": "如果这意味着我终于不用再跟自己说话，我愿意赌一把。"
-  },
-  {
-   "en": "{b}fair enough. i just hope your ayane lust is in the forties since you’re going to need it for her bonus scene later.{/b}",
-   "zh": "{b}说的也是。我只是希望你那个「对 Ayane 的欲望值」在四十几，因为等下她的奖励场景要用到。{/b}"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Okay. Looks like the coast is clear. Engage...Operation: Sleepytime.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 好了。看来四下无人。启动……作战：睡眠时间。"
-  },
-  {
-   "en": ": By any chance, we didn’t just {i}appear{/i} here together like we did after the Dorm Wars that one time, did we?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 话说，我们该不会又像那次宿舍战争之后那样，直接一起{i}出现{/i}在这里了吧？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive3.webp",
-   "alt": "beachdayfive3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oh, good! You’re back. That makes things way easier.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 哦，太好了！你回来了。这样事情就简单多了。"
-  },
-  {
-   "en": ": How long was I {i}gone{/i} for?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我{i}走神{/i}了多久？"
-  },
-  {
-   "en": ": Since you woke up. You thought I was Maya, said some stuff about some guy named Luca Signorelli, and then silently whispered some stuff to yourself in the limo on the way over.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 从你醒过来开始。你把我当成了 Maya，说了些关于某个叫 Luca Signorelli 的人的事，然后在过来的豪华轿车上一边无声地跟自己嘀咕。"
-  },
-  {
-   "en": ": And Ami?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那 Ami 呢？"
-  },
-  {
-   "en": ": Yeah, you mentioned her a few times too.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 嗯，你也提了她几次。"
-  },
-  {
-   "en": ": No, I meant is she taken care of? Did Niki show up?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不，我是问她有人照顾吗？Niki 来了吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive4",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive4.webp",
-   "alt": "beachdayfive4"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oh, yeah. She pulled up at the same time as me. Our drivers knew each other.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 哦，来了。她和我同时到的。我们的司机认识。"
-  },
-  {
-   "en": ": But did she-",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 但她有没有——"
-  },
-  {
-   "en": ": Sensei, everything is fine. I took care of it. {i}And{/i} I managed to get you here safe and sound without anyone questioning your mental state, so it’d be nice if you could tell me how good of a wife I am now.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": Sensei，一切都没问题。我都安排好了。{i}而且{/i}我还把你安然无恙地弄到这里，没有任何人质疑你的精神状态，所以你要是能夸夸我这个妻子有多称职就好了。"
-  },
-  {
-   "en": ": Did you also legally marry me while I was mostly unconscious?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你该不会也在我基本没意识的时候跟我合法结婚了吧？"
-  },
-  {
-   "en": ": Who do I look like? Makoto?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 你把我当谁了？Makoto？"
-  },
-  {
-   "en": ": Thank you, Ayane. I promise to try and be more “present” for the slumber party thing later.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 谢谢你，Ayane。我保证会努力在今晚的睡衣派对上更「投入」一些。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive5.webp",
-   "alt": "beachdayfive5"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Let’s just worry about getting you to the inn first, shall we? Here comes our liaison now.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 我们先操心把你送到旅馆吧，好吗？我们的联络人来了。"
-  },
-  {
-   "en": ": Liaison?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 联络人？"
-  },
-  {
-   "en": ": Ah, you’ve arrived right on time.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 啊，你们来得正是时候。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive6",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive6.webp",
-   "alt": "beachdayfive6"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Touka? Yasu? But I thought we were trying to keep my presence-",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Touka？Yasu？我还以为我们要尽量隐瞒我到场这件事——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive7.webp",
-   "alt": "beachdayfive7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Touka’s part of the plan. With her help, we managed to rent out the entire beach this year — inn included. And right now, everyone should be getting settled into their rooms.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": Touka 是计划的一部分。有她帮忙，我们今年把整片海滩都包了下来——连旅馆也是。这会儿大家应该都在各自安顿房间了。"
-  },
-  {
-   "en": ": Out of...{i}respect{/i} for you, Sensei, we’ve set aside a private room for {i}you{/i} and put everyone {i}else{/i} into groups of four. ",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 出于……对您的{i}尊重{/i}，Sensei，我们为{i}您{/i}留了一间单人房，{i}其他{/i}人则是四人一间。"
-  },
-  {
-   "en": ": The lone exception is Miss Imai, who {i}also{/i} has a private room right next to yours. I understand you’re trying to keep this visit relatively {i}low-key,{/i} correct? For your...{i}mental health?{/i}",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 唯一的例外是 Imai 小姐，她{i}也{/i}有一间单人房，就在您隔壁。我听说您想让这次行程尽量{i}低调{/i}，对吧？为了您的……{i}精神健康{/i}？"
-  },
-  {
-   "en": ": Why do you sound so skeptical of that?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你为什么听起来这么怀疑？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive8",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive8.webp",
-   "alt": "beachdayfive8"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": No reason. I know {i}you{/i} of all people would never even {i}think{/i} of using such an opportunity to do anything {i}inappropriate,{/i} correct?",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 没什么理由。我知道{i}您{/i}这样的人绝不会{i}想到{/i}利用这种机会做什么{i}不合适{/i}的事，对吧？"
-  },
-  {
-   "en": ": Bad behavior under the sky of seven stars will result in infinite pain. He is watching closely, even with eyes sewn shut.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 在七星的天空之下行恶，将招致无尽的痛苦。他正密切注视着，即便双目被缝合。"
-  },
-  {
-   "en": ": Hahah...hah...",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 哈哈……哈……"
-  },
-  {
-   "en": ": Either way, thank you. But I can almost guarantee that there is no way my presence here is going to remain unknown for very long.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不管怎样，谢谢你们。但我几乎可以打包票，我在这儿的事不可能保密太久。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive9",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive9.webp",
-   "alt": "beachdayfive9"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Why do you say that?",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 您为什么这么说？"
-  },
-  {
-   "en": ": Because there are like five hundred of you and my sheer existence attracts teenage girls.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 因为你们大概有五百号人，而我这副存在本身就吸引少女。"
-  },
-  {
-   "en": ": And bugs. Bugs {i}love{/i} you, Sensei.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 还有虫子。虫子很{i}喜欢{/i}您，Sensei。"
-  },
-  {
-   "en": ": Thanks, Yasu. I’ve always wondered about that.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 谢谢，Yasu。我一直挺好奇这件事。"
-  },
-  {
-   "en": ": Praise be.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 赞美圣名。"
-  },
-  {
-   "en": ": I’ve already taken all that into account, Sensei. The idea wasn’t ever to keep your presence here entirely secret, but to have everyone sort of understand that you’d like to be...alone for the most part.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 这些我都已经考虑进去了，Sensei。我们的目的从来不是让你在这儿的事完全保密，而是让大家大致明白你希望……大部分时间一个人待着。"
-  },
-  {
-   "en": ": You can still go out and talk to the other girls if you want. Just...make sure to set aside some {i}alone time{/i} once it gets dark, okay?",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 你想的话，还是可以出去和其他女孩聊聊。只是……天黑之后记得留出一点{i}独处时间{/i}，好吗？"
-  },
-  {
-   "en": ": Right...got it.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好……明白了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive10.webp",
-   "alt": "beachdayfive10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Great! So, now that that’s settled, I’m going to go check in with my roommates and see if they’re on for tonight.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 太好了！那么，既然这些都说定了，我要去和室友们确认一下，看她们今晚愿不愿参加。"
-  },
-  {
-   "en": ": Touka, if you could keep Sensei here for another few minutes before sending him back, that’d be great.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": Touka，能不能请你再让 Sensei 在这里多待几分钟再放他回去？那就太好了。"
-  },
-  {
-   "en": ": Understood. Yours is the room just down the hall from Miss Imai’s, as requested.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 明白。按您的要求，您的房间就在走廊那一头，Imai 小姐房间的旁边。"
-  },
-  {
-   "en": ": Thanks, Touka. I owe you one.",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 谢了，Touka。我欠你一个人情。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive11.webp",
-   "alt": "beachdayfive11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I’ll see you later, Sensei! And remember! {i}Alone time{/i} is good for you!",
-   "spk": "Ayane",
-   "spkColor": "#00BAB1",
-   "zh": ": 待会儿见，Sensei！记住！{i}独处{/i}对你有好处！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive12",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive12.webp",
-   "alt": "beachdayfive12"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Ayane wanders off and...I guess I’m with these two now?",
-   "zh": "Ayane 走开了，然后……看来我现在是跟这两位在一起了？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I have to admit, Sensei, that girl’s admiration for you seems to rival even Ami’s — and I’m not yet convinced that Ami isn’t actually a psychopathic killer.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 不得不承认，Sensei，那女孩对您的倾慕似乎连 Ami 都比不上——而我到现在还没能确信 Ami 不是个变态杀人狂。"
-  },
-  {
-   "en": ": I think Ami is a good girl. Her heart is so quiet and her scent is so pure.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我觉得 Ami 是个好女孩。她的心很安静，她的气味很纯净。"
-  },
-  {
-   "en": ": Ayane didn’t cause any trouble for you, did she? I’m worried she might be working herself a little too hard for my sake right now.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Ayane 没给你们添什么麻烦吧？我担心她现在为了我有点把自己逼得太紧了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive13",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive13.webp",
-   "alt": "beachdayfive13"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": None at all. I was glad to help in any way I could the moment I found out you’d be coming to the beach this year. I’m sure I speak for everyone when I say that we’ve all eagerly been awaiting your return.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 一点也没有。一听说您今年来海边，我就很乐意尽我所能地帮忙。我想我代表大家说出这句话一定没错——我们都在热切地盼着您回来。"
-  },
-  {
-   "en": ": And I will speak for the bugs. They agree.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 那我就代表虫子发言。它们同意。"
-  },
-  {
-   "en": ": Thank you again, Yasu. That’s very nice.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 再次谢谢你，Yasu。真贴心。"
-  },
-  {
-   "en": ": In regard to being {i}over-worked{/i} though...I’m inclined to agree.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 不过关于她{i}操劳过度{/i}这点……我倾向认同。"
-  },
-  {
-   "en": ": Like my mother, I’ve always prided myself as a bit of an...observer. And Ayane, while she may seem composed and focused at the moment, may very well be hanging on by a thread.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 和我母亲一样，我向来以自己算是个……观察者为傲。而 Ayane，尽管眼下看起来从容又专注，却很可能只是悬在一根细线上。"
-  },
-  {
-   "en": ": Fraying and tearing and falling apart! Just like the branches that spread through her heart!",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 磨损、撕裂、分崩离析！就像蔓延过她心脏的那些树枝一样！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive14",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive14.webp",
-   "alt": "beachdayfive14"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Excellent rhyming, Yasu! I’m very impressed!",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 押韵押得太棒了，Yasu！我太佩服了！"
-  },
-  {
-   "en": ": I am a cheerleader now! Y-A-S-U! Who is very cute? It’s you!",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 我现在是啦啦队员了！Y-A-S-U！谁最可爱？是你！"
-  },
-  {
-   "en": ": Has she said anything to you {i}apart{/i} from whatever she said to convince you to rent out the entire beach? Anything directly {i}indicating{/i} how “frayed” that rope is?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": {i}除了{/i}说服你包下整片海滩时说的那些话，她还跟你说了什么吗？有没有什么直接{i}表明{/i}那根绳子「磨损」得有多严重？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive15",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive15.webp",
-   "alt": "beachdayfive15"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Of course not. A girl that strong-willed would sooner die than admit weakness. I simply urge you to do with that what you will, for you know her much better than I do.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 当然没有。像她那样意志坚强的女孩，宁愿死也不会承认软弱。我只是建议您自行斟酌这件事，毕竟您比我了解她得多。"
-  },
-  {
-   "en": ": And while she {i}may{/i} be a bit of a rival in...{i}more ways than one{/i} now...I trust that you’ll take good care of her. She deserves it.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 虽然在……{i}不止一个方面{/i}上，她现在{i}也算{/i}个对手……但我相信您会好好照顾她。她值得。"
-  },
-  {
-   "en": ": I will. And thanks, Touka. I’ll try and make some time for you before the weekend’s over.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我会的。谢谢你，Touka。这个周末结束前，我会尽量给你腾出点时间。"
-  },
-  {
-   "en": ": Don’t make promises you can’t keep, Sensei. The last thing you need is me asking for you to {i}grovel{/i} again.",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 别许下兑现不了的承诺，Sensei。您最不需要的，就是我再要求您{i}跪地求饶{/i}一次。"
-  },
-  {
-   "en": ": Who is Luca Signorelli?",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": Luca Signorelli 是谁？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive16",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive16.webp",
-   "alt": "beachdayfive16"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": How do you-",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你怎么——"
-  },
-  {
-   "en": ": A Renaissance painter from Tuscany. But why would you ask such a random question to {i}Sensei{/i} of all people when I’m an expert on fine art who-",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 一位来自托斯卡纳的文艺复兴画家。可你为什么要向 {i}Sensei{/i} 问这么随机的问题，明明我才是美术方面的专家——"
-  },
-  {
-   "en": ": Yasu, what am I thinking right now?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Yasu，我现在在想什么？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive17",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive17.webp",
-   "alt": "beachdayfive17"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sensei?",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": Sensei？"
-  },
-  {
-   "en": ": Right now?...",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 现在吗？……"
-  },
-  {
-   "en": ": Yeah. I want to see something.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 对。我想验证一件事。"
-  },
-  {
-   "en": ": Hmm...",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 嗯……"
-  },
-  {
-   "en": ": Sensei, are you implying that you were actually thinking of-",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": Sensei，您是在暗示您其实正在想——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive18",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive18.webp",
-   "alt": "beachdayfive18"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You’re thinking that Touka’s breasts are very large and nice.",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 你在想 Touka 的胸部又大又棒。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive19",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive19.webp",
-   "alt": "beachdayfive19"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ...",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Right?...",
-   "spk": "Yasu",
-   "spkColor": "#74D9E9",
-   "zh": ": 对吧？……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene sky",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/BGs/sky.png",
-   "alt": "sky"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Anyway, I should probably start heading over to the inn.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 总之，我大概该动身去旅馆了。"
-  },
-  {
-   "en": ": Oh, you {i}lecherous{/i} man. ",
-   "spk": "Touka",
-   "spkColor": "#F0E68C",
-   "zh": ": 哦，您这个{i}好色{/i}的男人。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "I should...probably watch what I think around Yasu from now on.",
-   "zh": "从今往后，我大概……该注意一下自己在 Yasu 面前想什么。"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Wha...Senpai?!",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 什……Senpai？！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive20",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive20.webp",
-   "alt": "beachdayfive20"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": What are you doing here?! No one told me you were coming!",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 你怎么会在这儿？！没人跟我说你要来啊！"
-  },
-  {
-   "en": ": Who cares?! This is the best possible surprise we could have gotten! But I mean that in an entirely platonic student-teacher kind of way!",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 谁在乎啊？！这可是我们能收到的最棒的惊喜！不过我说这话完全是出于纯洁的师生情谊！"
-  },
-  {
-   "en": ": Yeah! And I meant my thing in a totally platonic teacher-teacher kind of way!",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 对！我那句话也是出于完全纯洁的老师对老师的情谊！"
-  },
-  {
-   "en": ": Well, as expected, it didn’t take me very long at all to start bumping into people.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯，果然不出所料，我很快就又开始撞见人了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive21",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive21.webp",
-   "alt": "beachdayfive21"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Are you here on like...recon or something? Are you making sure I’m doing my job? Am I {i}fired?{/i} Is it because of the {i}last{/i} time we were here? Because I don’t want to say “worth it,” but-",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 你是来……踩点还是什么的？在检查我有没有好好干活？我{i}被炒{/i}了吗？是因为{i}上次{/i}我们来这儿的事吗？因为我不想说「值了」，不过——"
-  },
-  {
-   "en": ": Just...call it a surprise or something. I wasn’t planning on coming until yesterday, but...I’m here.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 就……当成是个惊喜之类的吧。我直到昨天才打算要来，不过……我来了。"
-  },
-  {
-   "en": ": But, just as an FYI, I can’t imagine I’ll be as...{i}present{/i} as I normally am. ",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不过先说一声，我大概没法像平时那样……{i}投入{/i}。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive22",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive22.webp",
-   "alt": "beachdayfive22"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I still need a little time to, like...you know...{i}get readjusted{/i} and whatnot.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我还需要点时间，就是……你懂的……{i}重新适应{/i}之类的。"
-  },
-  {
-   "en": ": No worries, Senpai. {i}I got you.{/i} You just relax and take all the time you-",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 别担心，Senpai。{i}我罩着你。{/i}你尽管放松，需要多少时间就——"
-  },
-  {
-   "en": ": Hasn’t it been long enough?",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 时间还不够久吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive23",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive23.webp",
-   "alt": "beachdayfive23"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Chi-",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": Chi——"
-  },
-  {
-   "en": ": {i}Hasn’t it?{/i}",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": {i}还不够吗？{/i}"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Uhhhh...",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 呃呃呃……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive24",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive24.webp",
-   "alt": "beachdayfive24"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Uhh...S-Sorry...Ignore that.",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 呃……对、对不起……当我没说。"
-  },
-  {
-   "en": ": I’m just...uhh...you know......hormones?",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 我只是……呃……你懂的……激素作祟？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive25",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive25.webp",
-   "alt": "beachdayfive25"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I’m gonna...go for a walk! Ignore that! I didn’t say anything!",
-   "spk": "Chika",
-   "spkColor": "#AF7F00",
-   "zh": ": 我要……去散个步！别当回事！我什么都没说！"
-  },
-  {
-   "en": ": Whaaaaaaat...{i}the fuck was that about?{/i}",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 什—————么……{i}到底是怎么回事{/i}？"
-  },
-  {
-   "en": ": Something for me to handle later. You don’t have to worry about it.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 这是我之后要处理的事。你不用担心。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive26",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive26.webp",
-   "alt": "beachdayfive26"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You know I, like...{i}can{/i} worry about it if you want me to, right? Cause I don’t know how much {i}you{/i} know about girls — probably a lot since you’re a cunnilingus magician — but those tears were-",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 你知道我……{i}也可以{/i}替你操心这事的，对吧？因为我不知道{i}你{/i}对女生了解多少——大概了解得挺多，毕竟你是个舔穴魔术师——但那个眼泪是——"
-  },
-  {
-   "en": ": I know what they were, Imani. I’m not an idiot.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我知道那是什么，Imani。我不是白痴。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive27",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive27.webp",
-   "alt": "beachdayfive27"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": And I’ve known Chika way longer than you have, so let me handle it at my own pace and don’t even worry about it. Okay?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 而且我认识 Chika 的时间比你长得多，所以让我按自己的节奏处理，你别操心了。好吗？"
-  },
-  {
-   "en": ": If that’s what you think is best, Senpai. I just don’t want you getting into any hot water and girls like Chika can...{i}sway{/i} people, if you know what I mean.",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 如果你觉得这样最好，Senpai。我只是不想让你惹上麻烦，像 Chika 这样的女生……是能{i}左右{/i}别人的，你懂我的意思吧。"
-  },
-  {
-   "en": ": Right. But anyway, it’s just you this time? No Wakana?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好吧。话说回来，这次就你一个人？Wakana 没来？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive28",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive28.webp",
-   "alt": "beachdayfive28"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": No Wakana. But we’ve got activities and shit planned for this year’s trip. So if you’re trying to get it in, it’s gonna have to be at like...2:00 AM. And I ain’t sure how awake I’ll be at that point so-",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 没有 Wakana。不过这次旅行我们安排了活动什么的。所以你要是想「办事」，恐怕得等到凌晨两点左右。而且我到那时候也不确定自己还醒不醒得过来——"
-  },
-  {
-   "en": ": You know we can, like...wait, right? We don’t {i}have{/i} to have sex tonight.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你知道我们可以……等等的，对吧？我们不{i}一定{/i}要今晚就做爱。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive29",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive29.webp",
-   "alt": "beachdayfive29"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Yeaaaaaaaah, but we didn’t have sex {i}last{/i} time either and I’m getting impatient, man! You have any idea how long it’s been?",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 是—————啊，可我们{i}上次{/i}也没做啊，我都快等不及了，老兄！你知道多久没做了吗？"
-  },
-  {
-   "en": ": Soon, okay? I’m just going to take it easy this weekend.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 快了，好吗？这个周末我只想轻松一点。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive30",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive30.webp",
-   "alt": "beachdayfive30"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Then what? Are you coming back to school after this? What about Ami? Because I’ve been covering for her, but I don’t know if I can do that {i}forever,{/i} Senpai. She’s gonna {i}have{/i} to-",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 然后呢？这之后你会回学校吗？Ami 怎么办？因为我一直在替她打掩护，但我不知道还能撑{i}多久{/i}，Senpai。她{i}总得{/i}——"
-  },
-  {
-   "en": ": Imani, I don’t know. Okay? I don’t know. But this is a step.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Imani，我不知道。好吗？我不知道。但这是迈出的一步。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive31",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive31.webp",
-   "alt": "beachdayfive31"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Y...Yeah. It’s a step. Sorry.",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 是……是啊。是一步。抱歉。"
-  },
-  {
-   "en": ": I’m glad you’re here. I’m sure everybody else will be too. Or at least...whoever you {i}want{/i} to find out? Still ain’t really sure if this is supposed to be like, a...{i}secret{/i} or...",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 我很高兴你来了。其他人肯定也一样。至少……你{i}希望{/i}知道的人会吧？我还是不太确定这算不算……{i}保密{/i}之类的……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I’m sure I’ll bump into everyone in due time.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我相信迟早会撞见所有人的。"
-  },
-  {
-   "en": ": Well, of {i}course{/i} you’re gonna bump into people if you wind up just randomly walking away from active conversations like that! Where do you think you’re going?!",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": 那{i}当然{/i}了，你要是这样动不动就从正在进行的对话里走开，肯定会撞见人啊！你以为你要去哪儿？！"
-  },
-  {
-   "en": ": Somewhere no one will find me...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 一个没人找得到我的地方……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive32",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive32.webp",
-   "alt": "beachdayfive32"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ahh! Onii-chan spotted!",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 啊！发现 Onii-chan！"
-  },
-  {
-   "en": ": Shit.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 糟了。"
-  },
-  {
-   "en": ": {i}See?! Ain’t no way to just wander off all cool like that without gettin’ sucked into another fated meeting! Don’t you know how this shit works by now?!{/i}",
-   "spk": "Imani",
-   "spkColor": "#80C9DC",
-   "zh": ": {i}看吧？！想这么潇洒地随便乱走，不可能不被卷进另一场命中注定的相遇！你到现在还不懂这玩意儿的套路吗？！{/i}"
-  },
-  {
-   "en": ": Uhh...surprise?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 呃……惊喜？"
-  },
-  {
-   "en": ": ...",
-   "spk": "Kirin",
-   "spkColor": "#9C8080",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Kirin, get the handcuffs! We still have time before our roommates show up to bind Sensei and keep him in the-",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": Kirin，拿手铐来！室友们回来之前还有时间，我们把 Sensei 绑起来关在——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive33",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive33.webp",
-   "alt": "beachdayfive33"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Kirin? Our room is the other way. Did you-",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": Kirin？我们房间在另一边。你是不是——"
-  },
-  {
-   "en": ": I’m gonna go relax in the onsen for a little while. Just text me when you want to meet up.",
-   "spk": "Kirin",
-   "spkColor": "#9C8080",
-   "zh": ": 我要去温泉里放松一会儿。想碰头的时候发消息给我就行。"
-  },
-  {
-   "en": ": Uhh...okay?",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 呃……好吧？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive34",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive34.webp",
-   "alt": "beachdayfive34"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Uhh...did you and Kirin get into a fight or something? I’ve never seen her just ignore you like that before.",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 呃……你和 Kirin 吵架了还是怎么的？我从没见过她那样无视你。"
-  },
-  {
-   "en": ": Almost. I defused it by fucking her in a karaoke booth.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 差一点。我在卡拉OK包厢里上了她，算是拆了引信。"
-  },
-  {
-   "en": ": Kinky. When will it be my turn?",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 好刺激。什么时候轮到我？"
-  },
-  {
-   "en": ": Maybe tonight. Have you talked to Ayane yet?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 也许今晚吧。你跟 Ayane 谈过了吗？"
-  },
-  {
-   "en": ": Yeah, but I didn’t realize she was inviting me to an orgy. Am I going to have to sign a thing again?",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 谈过了，但我没想到她是在邀我参加群交。我又得签什么东西吗？"
-  },
-  {
-   "en": ": Again?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 又？"
-  },
-  {
-   "en": ": Long story. But, Akira- what’s this all about? Ayane’s never-",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 说来话长。不过，Akira——这到底是怎么回事？Ayane 从来没有——"
-  },
-  {
-   "en": ": It’s more stuff like we talked about at your work the other day. We’ll explain more later on.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 还是那天在你工作的地方聊的那些事。我们晚点再详细解释。"
-  },
-  {
-   "en": ": Like at my...so...stuff about Maya? Is she coming? Is this some kind of intervention? When does the sexy part happen?",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 在我……所以……是关于 Maya 的事？她会来吗？这是某种干预行动吗？色色的部分什么时候开始？"
-  },
-  {
-   "en": ": Please come, Noriko. I want you there.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 请你来吧，Noriko。我希望你能在场。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene beachdayfive35",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/beachdayfive35.webp",
-   "alt": "beachdayfive35"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You-",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 你——"
-  },
-  {
-   "en": ": And {i}please...{/i}try your hardest to listen, okay?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 而且{i}请你……{/i}尽最大努力去听，好吗？"
-  },
-  {
-   "en": ": I...",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 我……"
-  },
-  {
-   "en": ": Okay...",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 好吧……"
-  },
-  {
-   "en": ": Anything...for you.",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 为了你……什么都行。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Thanks. Want to help me find my room?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 谢谢。要帮我找房间吗？"
-  },
-  {
-   "en": ": Huh?...Oh! Y-Yeah! Which one are...you in?",
-   "spk": "Noriko",
-   "spkColor": "#FF61A9",
-   "zh": ": 啊？……哦！好、好啊！你住哪一间……来着？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Noriko and I set off down the hallway and, by now, I’ve already given up hope on this being an even remotely {i}private{/i} getaway. But that’s fine as Ayane expected as much as well. ",
-   "zh": "Noriko 和我沿着走廊出发，而到现在，我已经彻底放弃把这当成一场哪怕只有一点{i}私密性{/i}的旅行了。不过没关系，Ayane 本来就料到了。"
-  },
-  {
-   "en": "The thing is, though...even with people like Chika and Kirin floating around...people I {i}need{/i} to try and right some of my “wrongs” with, I can’t find the motivation to do so. ",
-   "zh": "但问题是……即便 Chika 和 Kirin 这样的人就在身边晃悠……那些我{i}需要{/i}试图去弥补一些「过错」的人，我也提不起劲。"
-  },
-  {
-   "en": "I don’t {i}want{/i} to see them because I know that any amount of confrontation will only lead to their forgiveness.",
-   "zh": "我{i}不想{/i}见她们，因为我知道任何形式的对峙最终只会换来她们的原谅。"
-  },
-  {
-   "en": "So maybe it’s best if they {i}stay{/i} mad at me for a little while.",
-   "zh": "所以也许最好让她们{i}再{/i}对我生一阵子气。"
-  },
-  {
-   "en": "Maybe it’s best if they {i}don’t{/i} want to see me, because it will give me more time to focus on the root of all of this. ",
-   "zh": "也许最好让她们{i}不想{/i}见我，因为这样我就能有更多时间专注于这一切的根源。"
-  },
-  {
-   "en": "That dragon that follows us.",
-   "zh": "那条跟随着我们的龙。"
-  },
-  {
-   "en": "That heartless bitch, time.",
-   "zh": "那个无情的婊子，时间。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ beachfive4 = True",
-   "zh": ""
-  },
-  {
-   "en": "$ ayane_love += 1",
-   "zh": ""
-  },
-  {
-   "en": "$ noriko_love += 1",
-   "zh": ""
-  },
-  {
-   "en": "$ imani_love += 1",
-   "zh": ""
-  },
-  {
-   "en": "$ touka_love += 1",
-   "zh": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "{i}Noriko, Imani, Touka, and Ayane’s affection has increased by 1!{/i}",
-   "zh": "{i}Noriko、Imani、Touka 和 Ayane 的好感度提升了 1！{/i}"
-  },
-  {
-   "en": ".........",
-   "zh": "........."
-  },
-  {
-   "en": "......",
-   "zh": "......"
-  },
-  {
-   "en": "...",
-   "zh": "..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "jump beachfive5",
-   "zh": ""
-  }
- ]
+  "label": "beachfive4",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label beachfive4:",
+      "zh": ""
+    },
+    {
+      "en": "//////////PLAY “MELANCHOLIC BEACH MUSIC”",
+      "zh": "//////////播放「MELANCHOLIC BEACH MUSIC」"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene goodmorning3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/goodmorning3.webp",
+      "alt": "goodmorning3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day = 6",
+      "zh": ""
+    },
+    {
+      "en": "$ totaldays += 1",
+      "zh": ""
+    },
+    {
+      "en": "show saturday",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/Saturday.png",
+      "alt": "saturday"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 嘿。"
+    },
+    {
+      "en": ": Ah. So this is gonna be one of “those” days, isn’t it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 啊。看来今天会是「那种」日子了，是吧？"
+    },
+    {
+      "en": ": Guess so. How’s my replacement doing?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 大概吧。我的替代品怎么样了？"
+    },
+    {
+      "en": ": She’s nice. I hate it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她人很好。我讨厌这点。"
+    },
+    {
+      "en": ": You won’t hate it for long. Soon enough, you’ll be gazing into her eyes from the missionary position, pretending I’m still in there somewhere, but I’m {i}not.{/i}",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你不会讨厌太久的。很快你就会用传教士体位凝视着她的眼睛，假装我还藏在里面某个地方，但我{i}并不在{/i}。"
+    },
+    {
+      "en": ": I’m gone. And the only way you’re ever going to get me back is by giving up on food and water until you shrivel up and die, yo.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我已经走了。而你想让我回来的唯一办法，就是放弃食物和水，直到你干瘪而死，哟。"
+    },
+    {
+      "en": ": Maya never said “yo.”",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Maya 从来不会说「哟」。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene goodmorning3d",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/goodmorning3d.webp",
+      "alt": "goodmorning3d"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": okay but like, what if she did? she’d be way cooler.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 可是话说回来，要是她会呢？那她可就酷多了。"
+    },
+    {
+      "en": ": What do you want this time?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这次你想要什么？"
+    },
+    {
+      "en": ": who says i want anything?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 谁说我就想要什么了？"
+    },
+    {
+      "en": ": You probably will in the following text box.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你大概在下一个文本框里就会说了。"
+    },
+    {
+      "en": ": yeah, you’re right. i want you to take ami to the beach. she deserves a nice vacation, don’t you think?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 是啊，你说得对。我想要你带 Ami 去海边。她值得一个像样的假期，你不觉得吗？"
+    },
+    {
+      "en": ": I do. But I already told Ayane I’d leave her here. I don’t want to mess with her plan.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我确实这么觉得。但我已经跟 Ayane 说过会把她留在家里。我不想打乱她的计划。"
+    },
+    {
+      "en": ": her “plan” is a load of delusionally optimistic bullshit that’s good for one thing and one thing only — enabling a sweet teen orgy later tonight that you’ll run away from since you’re a little pussy bitch boy.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 她的「计划」就是一堆妄想乐观的狗屁，只有唯一一个用处——促成今晚晚些时候一场美妙的少女群交，而你会临阵脱逃，因为你就是个没种的小怂包。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, {i}Maya.{/i} Goodnight.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧，{i}Maya{/i}。晚安。"
+    },
+    {
+      "en": ": wait, no. open your eyes. i want to show you something.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 等等，别。睁开眼睛。我想给你看样东西。"
+    },
+    {
+      "en": ": Is it just going to be another weird vision involving the same person I’ve been unsuccessfully trying to purge from my mind ever since you started speaking to me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 又是那种诡异的幻象吗？还是关于那个自从你开始跟我说话起、我一直想从脑子里清除却始终失败的人？"
+    },
+    {
+      "en": ": no, i promise. it’s something way cooler.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 不，我保证。是酷得多的东西。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive1.webp",
+      "alt": "beachdayfive1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": it’s luca signorelli’s “resurrection of the flesh” but slightly elongated and grunge-ified. i also included a special message just for you.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 是 Luca Signorelli 的《肉身复活》，只是稍微拉长了一点，还加了点垃圾摇滚味。我还专门给你留了一句特别留言。"
+    },
+    {
+      "en": ": Thanks. It’s beautiful. Can I go back to sleep now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 谢了。很美。现在我可以继续睡了吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive2.webp",
+      "alt": "beachdayfive2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{b}sure, but you might want to make it to your room first or ayane will think you’re being rude.{/b}",
+      "zh": "{b}当然，不过你最好先挪回自己房间，不然 Ayane 会觉得你很失礼。{/b}"
+    },
+    {
+      "en": "Oh. I guess I’m already here.",
+      "zh": "哦。看来我已经在这儿了。"
+    },
+    {
+      "en": "{b}yeah you are. i didn’t want to sit through some long-ass flowery monologue about the {i}ocean{/i} and how it {i}relates to your state of mind{/i} or whatever.",
+      "zh": "{b}对，你已经在了。我可不想听你念一长串关于{i}大海{/i}、以及它{i}如何映射你心境{/i}之类的华丽独白。{/b}"
+    },
+    {
+      "en": "{b}so i went ahead and skipped forward. i hope you don’t mind.",
+      "zh": "{b}所以我就直接快进了。希望你不介意。{/b}"
+    },
+    {
+      "en": "If you can skip forward, would you mind taking me to the part where I live happily ever after?",
+      "zh": "既然你能快进，那能不能带我跳到从此幸福快乐地活下去的那一段？"
+    },
+    {
+      "en": "{b}lmao{/b}",
+      "zh": "{b}哈哈{/b}"
+    },
+    {
+      "en": "Fitting response. I’m going to tune you out now if that’s okay.",
+      "zh": "真符合你的风格。如果可以的话，我现在要把你屏蔽了。"
+    },
+    {
+      "en": "{b}okaaaaay. but shit might get preeeeeetty messy later on if you forget i’m here.{/b}",
+      "zh": "{b}好嘞嘞嘞。不过你要是忘了我还在这儿，后面的事可能会变得相——当——一团糟哦。{/b}"
+    },
+    {
+      "en": "I think I’ll take my chances if it means not having to talk to myself anymore.",
+      "zh": "如果这意味着我终于不用再跟自己说话，我愿意赌一把。"
+    },
+    {
+      "en": "{b}fair enough. i just hope your ayane lust is in the forties since you’re going to need it for her bonus scene later.{/b}",
+      "zh": "{b}说的也是。我只是希望你那个「对 Ayane 的欲望值」在四十几，因为等下她的奖励场景要用到。{/b}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay. Looks like the coast is clear. Engage...Operation: Sleepytime.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 好了。看来四下无人。启动……作战：睡眠时间。"
+    },
+    {
+      "en": ": By any chance, we didn’t just {i}appear{/i} here together like we did after the Dorm Wars that one time, did we?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 话说，我们该不会又像那次宿舍战争之后那样，直接一起{i}出现{/i}在这里了吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive3.webp",
+      "alt": "beachdayfive3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, good! You’re back. That makes things way easier.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 哦，太好了！你回来了。这样事情就简单多了。"
+    },
+    {
+      "en": ": How long was I {i}gone{/i} for?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我{i}走神{/i}了多久？"
+    },
+    {
+      "en": ": Since you woke up. You thought I was Maya, said some stuff about some guy named Luca Signorelli, and then silently whispered some stuff to yourself in the limo on the way over.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 从你醒过来开始。你把我当成了 Maya，说了些关于某个叫 Luca Signorelli 的人的事，然后在过来的豪华轿车上一边无声地跟自己嘀咕。"
+    },
+    {
+      "en": ": And Ami?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那 Ami 呢？"
+    },
+    {
+      "en": ": Yeah, you mentioned her a few times too.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 嗯，你也提了她几次。"
+    },
+    {
+      "en": ": No, I meant is she taken care of? Did Niki show up?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不，我是问她有人照顾吗？Niki 来了吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive4.webp",
+      "alt": "beachdayfive4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, yeah. She pulled up at the same time as me. Our drivers knew each other.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 哦，来了。她和我同时到的。我们的司机认识。"
+    },
+    {
+      "en": ": But did she-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 但她有没有——"
+    },
+    {
+      "en": ": Sensei, everything is fine. I took care of it. {i}And{/i} I managed to get you here safe and sound without anyone questioning your mental state, so it’d be nice if you could tell me how good of a wife I am now.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": Sensei，一切都没问题。我都安排好了。{i}而且{/i}我还把你安然无恙地弄到这里，没有任何人质疑你的精神状态，所以你要是能夸夸我这个妻子有多称职就好了。"
+    },
+    {
+      "en": ": Did you also legally marry me while I was mostly unconscious?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你该不会也在我基本没意识的时候跟我合法结婚了吧？"
+    },
+    {
+      "en": ": Who do I look like? Makoto?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你把我当谁了？Makoto？"
+    },
+    {
+      "en": ": Thank you, Ayane. I promise to try and be more “present” for the slumber party thing later.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 谢谢你，Ayane。我保证会努力在今晚的睡衣派对上更「投入」一些。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive5.webp",
+      "alt": "beachdayfive5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Let’s just worry about getting you to the inn first, shall we? Here comes our liaison now.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我们先操心把你送到旅馆吧，好吗？我们的联络人来了。"
+    },
+    {
+      "en": ": Liaison?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 联络人？"
+    },
+    {
+      "en": ": Ah, you’ve arrived right on time.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 啊，你们来得正是时候。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive6.webp",
+      "alt": "beachdayfive6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Touka? Yasu? But I thought we were trying to keep my presence-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Touka？Yasu？我还以为我们要尽量隐瞒我到场这件事——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive7.webp",
+      "alt": "beachdayfive7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Touka’s part of the plan. With her help, we managed to rent out the entire beach this year — inn included. And right now, everyone should be getting settled into their rooms.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": Touka 是计划的一部分。有她帮忙，我们今年把整片海滩都包了下来——连旅馆也是。这会儿大家应该都在各自安顿房间了。"
+    },
+    {
+      "en": ": Out of...{i}respect{/i} for you, Sensei, we’ve set aside a private room for {i}you{/i} and put everyone {i}else{/i} into groups of four. ",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 出于……对您的{i}尊重{/i}，Sensei，我们为{i}您{/i}留了一间单人房，{i}其他{/i}人则是四人一间。"
+    },
+    {
+      "en": ": The lone exception is Miss Imai, who {i}also{/i} has a private room right next to yours. I understand you’re trying to keep this visit relatively {i}low-key,{/i} correct? For your...{i}mental health?{/i}",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 唯一的例外是 Imai 小姐，她{i}也{/i}有一间单人房，就在您隔壁。我听说您想让这次行程尽量{i}低调{/i}，对吧？为了您的……{i}精神健康{/i}？"
+    },
+    {
+      "en": ": Why do you sound so skeptical of that?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你为什么听起来这么怀疑？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive8.webp",
+      "alt": "beachdayfive8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No reason. I know {i}you{/i} of all people would never even {i}think{/i} of using such an opportunity to do anything {i}inappropriate,{/i} correct?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 没什么理由。我知道{i}您{/i}这样的人绝不会{i}想到{/i}利用这种机会做什么{i}不合适{/i}的事，对吧？"
+    },
+    {
+      "en": ": Bad behavior under the sky of seven stars will result in infinite pain. He is watching closely, even with eyes sewn shut.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 在七星的天空之下行恶，将招致无尽的痛苦。他正密切注视着，即便双目被缝合。"
+    },
+    {
+      "en": ": Hahah...hah...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 哈哈……哈……"
+    },
+    {
+      "en": ": Either way, thank you. But I can almost guarantee that there is no way my presence here is going to remain unknown for very long.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不管怎样，谢谢你们。但我几乎可以打包票，我在这儿的事不可能保密太久。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive9.webp",
+      "alt": "beachdayfive9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why do you say that?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 您为什么这么说？"
+    },
+    {
+      "en": ": Because there are like five hundred of you and my sheer existence attracts teenage girls.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 因为你们大概有五百号人，而我这副存在本身就吸引少女。"
+    },
+    {
+      "en": ": And bugs. Bugs {i}love{/i} you, Sensei.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 还有虫子。虫子很{i}喜欢{/i}您，Sensei。"
+    },
+    {
+      "en": ": Thanks, Yasu. I’ve always wondered about that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 谢谢，Yasu。我一直挺好奇这件事。"
+    },
+    {
+      "en": ": Praise be.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 赞美圣名。"
+    },
+    {
+      "en": ": I’ve already taken all that into account, Sensei. The idea wasn’t ever to keep your presence here entirely secret, but to have everyone sort of understand that you’d like to be...alone for the most part.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 这些我都已经考虑进去了，Sensei。我们的目的从来不是让你在这儿的事完全保密，而是让大家大致明白你希望……大部分时间一个人待着。"
+    },
+    {
+      "en": ": You can still go out and talk to the other girls if you want. Just...make sure to set aside some {i}alone time{/i} once it gets dark, okay?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你想的话，还是可以出去和其他女孩聊聊。只是……天黑之后记得留出一点{i}独处时间{/i}，好吗？"
+    },
+    {
+      "en": ": Right...got it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好……明白了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive10.webp",
+      "alt": "beachdayfive10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Great! So, now that that’s settled, I’m going to go check in with my roommates and see if they’re on for tonight.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 太好了！那么，既然这些都说定了，我要去和室友们确认一下，看她们今晚愿不愿参加。"
+    },
+    {
+      "en": ": Touka, if you could keep Sensei here for another few minutes before sending him back, that’d be great.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": Touka，能不能请你再让 Sensei 在这里多待几分钟再放他回去？那就太好了。"
+    },
+    {
+      "en": ": Understood. Yours is the room just down the hall from Miss Imai’s, as requested.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 明白。按您的要求，您的房间就在走廊那一头，Imai 小姐房间的旁边。"
+    },
+    {
+      "en": ": Thanks, Touka. I owe you one.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 谢了，Touka。我欠你一个人情。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive11.webp",
+      "alt": "beachdayfive11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’ll see you later, Sensei! And remember! {i}Alone time{/i} is good for you!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 待会儿见，Sensei！记住！{i}独处{/i}对你有好处！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive12.webp",
+      "alt": "beachdayfive12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane wanders off and...I guess I’m with these two now?",
+      "zh": "Ayane 走开了，然后……看来我现在是跟这两位在一起了？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I have to admit, Sensei, that girl’s admiration for you seems to rival even Ami’s — and I’m not yet convinced that Ami isn’t actually a psychopathic killer.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 不得不承认，Sensei，那女孩对您的倾慕似乎连 Ami 都比不上——而我到现在还没能确信 Ami 不是个变态杀人狂。"
+    },
+    {
+      "en": ": I think Ami is a good girl. Her heart is so quiet and her scent is so pure.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我觉得 Ami 是个好女孩。她的心很安静，她的气味很纯净。"
+    },
+    {
+      "en": ": Ayane didn’t cause any trouble for you, did she? I’m worried she might be working herself a little too hard for my sake right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Ayane 没给你们添什么麻烦吧？我担心她现在为了我有点把自己逼得太紧了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive13.webp",
+      "alt": "beachdayfive13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": None at all. I was glad to help in any way I could the moment I found out you’d be coming to the beach this year. I’m sure I speak for everyone when I say that we’ve all eagerly been awaiting your return.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 一点也没有。一听说您今年来海边，我就很乐意尽我所能地帮忙。我想我代表大家说出这句话一定没错——我们都在热切地盼着您回来。"
+    },
+    {
+      "en": ": And I will speak for the bugs. They agree.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 那我就代表虫子发言。它们同意。"
+    },
+    {
+      "en": ": Thank you again, Yasu. That’s very nice.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 再次谢谢你，Yasu。真贴心。"
+    },
+    {
+      "en": ": In regard to being {i}over-worked{/i} though...I’m inclined to agree.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 不过关于她{i}操劳过度{/i}这点……我倾向认同。"
+    },
+    {
+      "en": ": Like my mother, I’ve always prided myself as a bit of an...observer. And Ayane, while she may seem composed and focused at the moment, may very well be hanging on by a thread.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 和我母亲一样，我向来以自己算是个……观察者为傲。而 Ayane，尽管眼下看起来从容又专注，却很可能只是悬在一根细线上。"
+    },
+    {
+      "en": ": Fraying and tearing and falling apart! Just like the branches that spread through her heart!",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 磨损、撕裂、分崩离析！就像蔓延过她心脏的那些树枝一样！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive14.webp",
+      "alt": "beachdayfive14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Excellent rhyming, Yasu! I’m very impressed!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 押韵押得太棒了，Yasu！我太佩服了！"
+    },
+    {
+      "en": ": I am a cheerleader now! Y-A-S-U! Who is very cute? It’s you!",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我现在是啦啦队员了！Y-A-S-U！谁最可爱？是你！"
+    },
+    {
+      "en": ": Has she said anything to you {i}apart{/i} from whatever she said to convince you to rent out the entire beach? Anything directly {i}indicating{/i} how “frayed” that rope is?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": {i}除了{/i}说服你包下整片海滩时说的那些话，她还跟你说了什么吗？有没有什么直接{i}表明{/i}那根绳子「磨损」得有多严重？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive15.webp",
+      "alt": "beachdayfive15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course not. A girl that strong-willed would sooner die than admit weakness. I simply urge you to do with that what you will, for you know her much better than I do.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 当然没有。像她那样意志坚强的女孩，宁愿死也不会承认软弱。我只是建议您自行斟酌这件事，毕竟您比我了解她得多。"
+    },
+    {
+      "en": ": And while she {i}may{/i} be a bit of a rival in...{i}more ways than one{/i} now...I trust that you’ll take good care of her. She deserves it.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 虽然在……{i}不止一个方面{/i}上，她现在{i}也算{/i}个对手……但我相信您会好好照顾她。她值得。"
+    },
+    {
+      "en": ": I will. And thanks, Touka. I’ll try and make some time for you before the weekend’s over.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会的。谢谢你，Touka。这个周末结束前，我会尽量给你腾出点时间。"
+    },
+    {
+      "en": ": Don’t make promises you can’t keep, Sensei. The last thing you need is me asking for you to {i}grovel{/i} again.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 别许下兑现不了的承诺，Sensei。您最不需要的，就是我再要求您{i}跪地求饶{/i}一次。"
+    },
+    {
+      "en": ": Who is Luca Signorelli?",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": Luca Signorelli 是谁？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive16.webp",
+      "alt": "beachdayfive16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How do you-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你怎么——"
+    },
+    {
+      "en": ": A Renaissance painter from Tuscany. But why would you ask such a random question to {i}Sensei{/i} of all people when I’m an expert on fine art who-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 一位来自托斯卡纳的文艺复兴画家。可你为什么要向 {i}Sensei{/i} 问这么随机的问题，明明我才是美术方面的专家——"
+    },
+    {
+      "en": ": Yasu, what am I thinking right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Yasu，我现在在想什么？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive17.webp",
+      "alt": "beachdayfive17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": Sensei？"
+    },
+    {
+      "en": ": Right now?...",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 现在吗？……"
+    },
+    {
+      "en": ": Yeah. I want to see something.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 对。我想验证一件事。"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ": Sensei, are you implying that you were actually thinking of-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": Sensei，您是在暗示您其实正在想——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive18.webp",
+      "alt": "beachdayfive18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re thinking that Touka’s breasts are very large and nice.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 你在想 Touka 的胸部又大又棒。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive19.webp",
+      "alt": "beachdayfive19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Right?...",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 对吧？……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sky",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/sky.png",
+      "alt": "sky"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Anyway, I should probably start heading over to the inn.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 总之，我大概该动身去旅馆了。"
+    },
+    {
+      "en": ": Oh, you {i}lecherous{/i} man. ",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 哦，您这个{i}好色{/i}的男人。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I should...probably watch what I think around Yasu from now on.",
+      "zh": "从今往后，我大概……该注意一下自己在 Yasu 面前想什么。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wha...Senpai?!",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 什……Senpai？！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive20.webp",
+      "alt": "beachdayfive20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What are you doing here?! No one told me you were coming!",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 你怎么会在这儿？！没人跟我说你要来啊！"
+    },
+    {
+      "en": ": Who cares?! This is the best possible surprise we could have gotten! But I mean that in an entirely platonic student-teacher kind of way!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 谁在乎啊？！这可是我们能收到的最棒的惊喜！不过我说这话完全是出于纯洁的师生情谊！"
+    },
+    {
+      "en": ": Yeah! And I meant my thing in a totally platonic teacher-teacher kind of way!",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 对！我那句话也是出于完全纯洁的老师对老师的情谊！"
+    },
+    {
+      "en": ": Well, as expected, it didn’t take me very long at all to start bumping into people.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，果然不出所料，我很快就又开始撞见人了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive21.webp",
+      "alt": "beachdayfive21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are you here on like...recon or something? Are you making sure I’m doing my job? Am I {i}fired?{/i} Is it because of the {i}last{/i} time we were here? Because I don’t want to say “worth it,” but-",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 你是来……踩点还是什么的？在检查我有没有好好干活？我{i}被炒{/i}了吗？是因为{i}上次{/i}我们来这儿的事吗？因为我不想说「值了」，不过——"
+    },
+    {
+      "en": ": Just...call it a surprise or something. I wasn’t planning on coming until yesterday, but...I’m here.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就……当成是个惊喜之类的吧。我直到昨天才打算要来，不过……我来了。"
+    },
+    {
+      "en": ": But, just as an FYI, I can’t imagine I’ll be as...{i}present{/i} as I normally am. ",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不过先说一声，我大概没法像平时那样……{i}投入{/i}。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive22.webp",
+      "alt": "beachdayfive22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I still need a little time to, like...you know...{i}get readjusted{/i} and whatnot.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我还需要点时间，就是……你懂的……{i}重新适应{/i}之类的。"
+    },
+    {
+      "en": ": No worries, Senpai. {i}I got you.{/i} You just relax and take all the time you-",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 别担心，Senpai。{i}我罩着你。{/i}你尽管放松，需要多少时间就——"
+    },
+    {
+      "en": ": Hasn’t it been long enough?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 时间还不够久吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive23.webp",
+      "alt": "beachdayfive23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chi-",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": Chi——"
+    },
+    {
+      "en": ": {i}Hasn’t it?{/i}",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": {i}还不够吗？{/i}"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Uhhhh...",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 呃呃呃……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive24.webp",
+      "alt": "beachdayfive24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhh...S-Sorry...Ignore that.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 呃……对、对不起……当我没说。"
+    },
+    {
+      "en": ": I’m just...uhh...you know......hormones?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我只是……呃……你懂的……激素作祟？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive25.webp",
+      "alt": "beachdayfive25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m gonna...go for a walk! Ignore that! I didn’t say anything!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我要……去散个步！别当回事！我什么都没说！"
+    },
+    {
+      "en": ": Whaaaaaaat...{i}the fuck was that about?{/i}",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 什—————么……{i}到底是怎么回事{/i}？"
+    },
+    {
+      "en": ": Something for me to handle later. You don’t have to worry about it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这是我之后要处理的事。你不用担心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive26.webp",
+      "alt": "beachdayfive26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You know I, like...{i}can{/i} worry about it if you want me to, right? Cause I don’t know how much {i}you{/i} know about girls — probably a lot since you’re a cunnilingus magician — but those tears were-",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 你知道我……{i}也可以{/i}替你操心这事的，对吧？因为我不知道{i}你{/i}对女生了解多少——大概了解得挺多，毕竟你是个舔穴魔术师——但那个眼泪是——"
+    },
+    {
+      "en": ": I know what they were, Imani. I’m not an idiot.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我知道那是什么，Imani。我不是白痴。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive27.webp",
+      "alt": "beachdayfive27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And I’ve known Chika way longer than you have, so let me handle it at my own pace and don’t even worry about it. Okay?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 而且我认识 Chika 的时间比你长得多，所以让我按自己的节奏处理，你别操心了。好吗？"
+    },
+    {
+      "en": ": If that’s what you think is best, Senpai. I just don’t want you getting into any hot water and girls like Chika can...{i}sway{/i} people, if you know what I mean.",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 如果你觉得这样最好，Senpai。我只是不想让你惹上麻烦，像 Chika 这样的女生……是能{i}左右{/i}别人的，你懂我的意思吧。"
+    },
+    {
+      "en": ": Right. But anyway, it’s just you this time? No Wakana?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧。话说回来，这次就你一个人？Wakana 没来？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive28",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive28.webp",
+      "alt": "beachdayfive28"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No Wakana. But we’ve got activities and shit planned for this year’s trip. So if you’re trying to get it in, it’s gonna have to be at like...2:00 AM. And I ain’t sure how awake I’ll be at that point so-",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 没有 Wakana。不过这次旅行我们安排了活动什么的。所以你要是想「办事」，恐怕得等到凌晨两点左右。而且我到那时候也不确定自己还醒不醒得过来——"
+    },
+    {
+      "en": ": You know we can, like...wait, right? We don’t {i}have{/i} to have sex tonight.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你知道我们可以……等等的，对吧？我们不{i}一定{/i}要今晚就做爱。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive29",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive29.webp",
+      "alt": "beachdayfive29"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeaaaaaaaah, but we didn’t have sex {i}last{/i} time either and I’m getting impatient, man! You have any idea how long it’s been?",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 是—————啊，可我们{i}上次{/i}也没做啊，我都快等不及了，老兄！你知道多久没做了吗？"
+    },
+    {
+      "en": ": Soon, okay? I’m just going to take it easy this weekend.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 快了，好吗？这个周末我只想轻松一点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive30",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive30.webp",
+      "alt": "beachdayfive30"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Then what? Are you coming back to school after this? What about Ami? Because I’ve been covering for her, but I don’t know if I can do that {i}forever,{/i} Senpai. She’s gonna {i}have{/i} to-",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 然后呢？这之后你会回学校吗？Ami 怎么办？因为我一直在替她打掩护，但我不知道还能撑{i}多久{/i}，Senpai。她{i}总得{/i}——"
+    },
+    {
+      "en": ": Imani, I don’t know. Okay? I don’t know. But this is a step.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Imani，我不知道。好吗？我不知道。但这是迈出的一步。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive31.webp",
+      "alt": "beachdayfive31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Y...Yeah. It’s a step. Sorry.",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 是……是啊。是一步。抱歉。"
+    },
+    {
+      "en": ": I’m glad you’re here. I’m sure everybody else will be too. Or at least...whoever you {i}want{/i} to find out? Still ain’t really sure if this is supposed to be like, a...{i}secret{/i} or...",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 我很高兴你来了。其他人肯定也一样。至少……你{i}希望{/i}知道的人会吧？我还是不太确定这算不算……{i}保密{/i}之类的……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m sure I’ll bump into everyone in due time.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我相信迟早会撞见所有人的。"
+    },
+    {
+      "en": ": Well, of {i}course{/i} you’re gonna bump into people if you wind up just randomly walking away from active conversations like that! Where do you think you’re going?!",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": 那{i}当然{/i}了，你要是这样动不动就从正在进行的对话里走开，肯定会撞见人啊！你以为你要去哪儿？！"
+    },
+    {
+      "en": ": Somewhere no one will find me...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 一个没人找得到我的地方……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive32.webp",
+      "alt": "beachdayfive32"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahh! Onii-chan spotted!",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 啊！发现 Onii-chan！"
+    },
+    {
+      "en": ": Shit.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 糟了。"
+    },
+    {
+      "en": ": {i}See?! Ain’t no way to just wander off all cool like that without gettin’ sucked into another fated meeting! Don’t you know how this shit works by now?!{/i}",
+      "spk": "Imani",
+      "spkColor": "#80C9DC",
+      "zh": ": {i}看吧？！想这么潇洒地随便乱走，不可能不被卷进另一场命中注定的相遇！你到现在还不懂这玩意儿的套路吗？！{/i}"
+    },
+    {
+      "en": ": Uhh...surprise?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 呃……惊喜？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Kirin, get the handcuffs! We still have time before our roommates show up to bind Sensei and keep him in the-",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": Kirin，拿手铐来！室友们回来之前还有时间，我们把 Sensei 绑起来关在——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive33",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive33.webp",
+      "alt": "beachdayfive33"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Kirin? Our room is the other way. Did you-",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": Kirin？我们房间在另一边。你是不是——"
+    },
+    {
+      "en": ": I’m gonna go relax in the onsen for a little while. Just text me when you want to meet up.",
+      "spk": "Kirin",
+      "spkColor": "#9C8080",
+      "zh": ": 我要去温泉里放松一会儿。想碰头的时候发消息给我就行。"
+    },
+    {
+      "en": ": Uhh...okay?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 呃……好吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive34",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive34.webp",
+      "alt": "beachdayfive34"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhh...did you and Kirin get into a fight or something? I’ve never seen her just ignore you like that before.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 呃……你和 Kirin 吵架了还是怎么的？我从没见过她那样无视你。"
+    },
+    {
+      "en": ": Almost. I defused it by fucking her in a karaoke booth.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 差一点。我在卡拉OK包厢里上了她，算是拆了引信。"
+    },
+    {
+      "en": ": Kinky. When will it be my turn?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 好刺激。什么时候轮到我？"
+    },
+    {
+      "en": ": Maybe tonight. Have you talked to Ayane yet?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 也许今晚吧。你跟 Ayane 谈过了吗？"
+    },
+    {
+      "en": ": Yeah, but I didn’t realize she was inviting me to an orgy. Am I going to have to sign a thing again?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 谈过了，但我没想到她是在邀我参加群交。我又得签什么东西吗？"
+    },
+    {
+      "en": ": Again?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 又？"
+    },
+    {
+      "en": ": Long story. But, Akira- what’s this all about? Ayane’s never-",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 说来话长。不过，Akira——这到底是怎么回事？Ayane 从来没有——"
+    },
+    {
+      "en": ": It’s more stuff like we talked about at your work the other day. We’ll explain more later on.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 还是那天在你工作的地方聊的那些事。我们晚点再详细解释。"
+    },
+    {
+      "en": ": Like at my...so...stuff about Maya? Is she coming? Is this some kind of intervention? When does the sexy part happen?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 在我……所以……是关于 Maya 的事？她会来吗？这是某种干预行动吗？色色的部分什么时候开始？"
+    },
+    {
+      "en": ": Please come, Noriko. I want you there.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 请你来吧，Noriko。我希望你能在场。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachdayfive35",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/beachdayfive35.webp",
+      "alt": "beachdayfive35"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You-",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 你——"
+    },
+    {
+      "en": ": And {i}please...{/i}try your hardest to listen, okay?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 而且{i}请你……{/i}尽最大努力去听，好吗？"
+    },
+    {
+      "en": ": I...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 我……"
+    },
+    {
+      "en": ": Okay...",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 好吧……"
+    },
+    {
+      "en": ": Anything...for you.",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 为了你……什么都行。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Thanks. Want to help me find my room?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 谢谢。要帮我找房间吗？"
+    },
+    {
+      "en": ": Huh?...Oh! Y-Yeah! Which one are...you in?",
+      "spk": "Noriko",
+      "spkColor": "#FF61A9",
+      "zh": ": 啊？……哦！好、好啊！你住哪一间……来着？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Noriko and I set off down the hallway and, by now, I’ve already given up hope on this being an even remotely {i}private{/i} getaway. But that’s fine as Ayane expected as much as well. ",
+      "zh": "Noriko 和我沿着走廊出发，而到现在，我已经彻底放弃把这当成一场哪怕只有一点{i}私密性{/i}的旅行了。不过没关系，Ayane 本来就料到了。"
+    },
+    {
+      "en": "The thing is, though...even with people like Chika and Kirin floating around...people I {i}need{/i} to try and right some of my “wrongs” with, I can’t find the motivation to do so. ",
+      "zh": "但问题是……即便 Chika 和 Kirin 这样的人就在身边晃悠……那些我{i}需要{/i}试图去弥补一些「过错」的人，我也提不起劲。"
+    },
+    {
+      "en": "I don’t {i}want{/i} to see them because I know that any amount of confrontation will only lead to their forgiveness.",
+      "zh": "我{i}不想{/i}见她们，因为我知道任何形式的对峙最终只会换来她们的原谅。"
+    },
+    {
+      "en": "So maybe it’s best if they {i}stay{/i} mad at me for a little while.",
+      "zh": "所以也许最好让她们{i}再{/i}对我生一阵子气。"
+    },
+    {
+      "en": "Maybe it’s best if they {i}don’t{/i} want to see me, because it will give me more time to focus on the root of all of this. ",
+      "zh": "也许最好让她们{i}不想{/i}见我，因为这样我就能有更多时间专注于这一切的根源。"
+    },
+    {
+      "en": "That dragon that follows us.",
+      "zh": "那条跟随着我们的龙。"
+    },
+    {
+      "en": "That heartless bitch, time.",
+      "zh": "那个无情的婊子，时间。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ beachfive4 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ noriko_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ imani_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Noriko, Imani, Touka, and Ayane’s affection has increased by 1!{/i}",
+      "zh": "{i}Noriko、Imani、Touka 和 Ayane 的好感度提升了 1！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump beachfive5",
+      "zh": ""
+    }
+  ]
 }

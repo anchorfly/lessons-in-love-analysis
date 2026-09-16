@@ -1,1445 +1,1444 @@
 {
- "label": "tsuneyospring5",
- "title_zh": "大和抚子",
- "lines": [
-  {
-   "en": ""
-  },
-  {
-   "en": "label tsuneyospring5:",
-   "zh": ""
-  },
-  {
-   "en": "scene specialsky",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/BGs/specialsky.png",
-   "alt": "specialsky"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "{b}/////////A POEM, A POLYP, PARASITES//////A PLACE TO REST YOUR BONES//////{b}",
-   "zh": "{b}/////////A POEM, A POLYP, PARASITES//////A PLACE TO REST YOUR BONES//////{/b}"
-  },
-  {
-   "en": "{b}/////////A BREAK FROM THE INSANITY//////A HOUSE TO CALL YOUR HOME//////{b}",
-   "zh": "{b}/////////A BREAK FROM THE INSANITY//////A HOUSE TO CALL YOUR HOME//////{/b}"
-  },
-  {
-   "en": "{b}/////////A ROOM FOR YOU TO ROT IN//////SOME FOOD TO HEAL YOUR SOUL//////{b}",
-   "zh": "{b}/////////A ROOM FOR YOU TO ROT IN//////SOME FOOD TO HEAL YOUR SOUL//////{/b}"
-  },
-  {
-   "en": "{b}/////////A HOLE TO KEEP A GOD IN//////HALF HUMAN AND HALF MOLE//////{b}",
-   "zh": "{b}/////////A HOLE TO KEEP A GOD IN//////HALF HUMAN AND HALF MOLE//////{/b}"
-  },
-  {
-   "en": "{b}IT’S NOODLE TIME AGAIN{/b}",
-   "zh": "{b}又到吃面的时间了{/b}"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry1.webp",
-   "alt": "tsuneyodontpry1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Oh. Hey, Tsuneyo.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 哦。嘿，Tsuneyo。"
-  },
-  {
-   "en": ": Hello.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 你好。"
-  },
-  {
-   "en": ": What are you doing outside of the store?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你在店外面干什么？"
-  },
-  {
-   "en": ": I believe they call it “standing.” This is a word that you should probably know as a disgraced former teacher.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我相信这叫做“站着”。作为一个被扫地出门的前教师，这个词你大概应该认识。"
-  },
-  {
-   "en": ": Yeah, that’s why they don’t keep me around anymore. Too many standard words I just never bothered learning.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 是啊，所以他们才不留我了。有太多常用词我根本懒得学。"
-  },
-  {
-   "en": ": At last, someone has finally learned the truth. That someone is me. I will carry this message to those who need to hear it.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 终于有人认清了真相。那个人就是我。我会把这个消息带给需要听到它的人。"
-  },
-  {
-   "en": ": Really though, why are you out here? Aren’t you normally working around this time?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 不过说真的，你为什么在外面？这个时间你不都应该在干活吗？"
-  },
-  {
-   "en": ": Yes.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 是的。"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Are you going to answer the other question too or do I just need to guess?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 另一个问题你也打算回答一下，还是我得自己猜？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry2",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry2.webp",
-   "alt": "tsuneyodontpry2"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I have been given what is called a “night off.” But this is a concept I do not understand, so I have decided to just stand and wait.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我得到了所谓的“一晚休假”。但这是个我无法理解的概念，所以我决定就这么站着等。"
-  },
-  {
-   "en": ": You’ve had plenty of nights off before. But I guess you- wait.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你以前也有过很多个晚上的休假吧。不过我想你——等等。"
-  },
-  {
-   "en": ": You were {i}given{/i} the night off?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你是“{i}被给{/i}”了一晚休假？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry1.webp",
-   "alt": "tsuneyodontpry1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I apologize if you do not understand that word as well. I will do my best to talk slowly and simply so you are able to follow along.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 如果你也不懂那个词，我很抱歉。我会尽量放慢语速、说得简单些，好让你跟上。"
-  },
-  {
-   "en": ": I know what “given” means. But isn’t your father the only person with the authority to grant you freedom like this? I thought he was out of commission?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我知道“被给”是什么意思。可你父亲不是唯一有权给你这种自由的人吗？我以为他已经不能动了呢。"
-  },
-  {
-   "en": ": As did I. But it appears that times have changed. So drastically, in fact, that I must now wait outside of the store while he tends to the customers.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我也是这么以为的。但看来时代变了。而且变得如此彻底，以至于他招待客人的时候，我必须在外面等着。"
-  },
-  {
-   "en": ": Well...congrats, I guess. I’m happy for you.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯……那恭喜了，我想。我为你高兴。"
-  },
-  {
-   "en": ": Why?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 为什么？"
-  },
-  {
-   "en": ": Why...am I happy for you?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 为什么……我为你高兴？"
-  },
-  {
-   "en": ": Yes. I didn’t believe happiness was an emotion you were capable of feeling.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 是的。我不认为你能感受到“高兴”这种情绪。"
-  },
-  {
-   "en": ": Not for myself. I can feel it for other people, though. I think.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 对我自己不行。不过我可以为别人感到高兴。大概吧。"
-  },
-  {
-   "en": ": Strange.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 真奇怪。"
-  },
-  {
-   "en": ": Guess so. Anyway, did you want to head inside with me? I was planning on getting dinner before aimlessly wandering around again and waiting for some sort of event to trigger.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 大概是吧。总之，你要不要跟我一起进去？我本来打算先吃个晚饭，然后再漫无目的地瞎逛，等着某个事件触发。"
-  },
-  {
-   "en": ": No.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 不。"
-  },
-  {
-   "en": ": Just...going to wait out here then?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 那……就在外面等着？"
-  },
-  {
-   "en": ": Yes. Same as you.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 是的。和你一样。"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Am I not allowed to go inside while your father is working?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你父亲在干活的时候，我不能进去吗？"
-  },
-  {
-   "en": ": That is correct.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 没错。"
-  },
-  {
-   "en": ": Why?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 为什么？"
-  },
-  {
-   "en": ": Because my father does not wish to meet the man who has fucked me so many times. I have failed him as a daughter. It is all your fault.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 因为我父亲不想见到那个操了我那么多次的男人。作为女儿，我让他失望了。这都是你的错。"
-  },
-  {
-   "en": ": He doesn’t know what I look like, though. I can just eat and leave.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 可他不知道我长什么样啊。我可以吃完就走。"
-  },
-  {
-   "en": ": He knows.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 他知道。"
-  },
-  {
-   "en": ": How?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 怎么知道的？"
-  },
-  {
-   "en": ": He knows everything. Even words like “given” and “standing.” It is he who should be teaching a class of juveniles, not you.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 他什么都知道。连“被给”和“站着”这种词都知道。该去给一帮少年上课的是他，不是你。"
-  },
-  {
-   "en": ": I don’t teach anyone anymore.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我已经不教任何人了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry3",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry3.webp",
-   "alt": "tsuneyodontpry3"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You never have to begin with.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 你从来就没教过。"
-  },
-  {
-   "en": ": Well...do you want to just hang out then? I...can eat when I get home later, I guess.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯……那你要不要就一起逛逛？我……晚饭可以晚点回家再吃，我想。"
-  },
-  {
-   "en": ": I suppose that would be a more valuable use of my time. But know that I will not carry you there if you fall unconscious due to fatigue and/or hunger.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我想那会是对我时间更有价值的利用。但你要知道，如果你因为疲劳和／或饥饿而昏倒，我是不会背你去的。"
-  },
-  {
-   "en": ": Works for me. I can’t really say that won’t happen though based on just how many times I {i}have{/i} “passed out” here.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我没问题。不过考虑到我在这里“昏倒”{i}过{/i}那么多次，我还真不敢说不会发生。"
-  },
-  {
-   "en": ": It must be something in the air. I am also feeling the effects of it.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 一定是空气里有什么东西。我也感觉到了它的影响。"
-  },
-  {
-   "en": ": How long have you been out here exactly?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你到底在外面待了多久？"
-  },
-  {
-   "en": ": Five hours.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 五个小时。"
-  },
-  {
-   "en": ": Yeah, I think you might just be feeling the effects of prolonged exposure to the sun more than anything else.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯，我觉得你更可能是被太阳晒了太久，而不是别的什么原因。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry1",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry1.webp",
-   "alt": "tsuneyodontpry1"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Possibly. I must ask though, where do you plan to fuck me this time? Because I have also been told to not leave this half of town, meaning you can not fuck me in your house.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 有可能。不过我必须问一句，这次你打算在哪儿操我？因为我也被吩咐不许离开这一半城区，也就是说你不能在你家操我。"
-  },
-  {
-   "en": ": You know what that word means now, Tsuneyo. Are you really going to keep using it that way?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你现在知道那个词的意思了，Tsuneyo。你真打算一直这么用它吗？"
-  },
-  {
-   "en": ": Are you really going to tell me how to properly fuck, bro?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 你真打算教我该怎么操吗，兄弟？"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": ...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": ..."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Okay. I guess we’ll just walk around the old district then. That’s never backfired in any capacity for me before.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 好吧。那我们就在老城区转转吧。这种事对我来说从来没出过任何岔子。"
-  },
-  {
-   "en": ": I accept your fucking proposal. Please stay close so I can protect you from the homeless. They can be quite ravenous in the spring.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我接受你的操之邀约。请跟紧点，好让我保护你不被流浪汉伤到。春天的时候他们可是相当饥渴的。"
-  },
-  {
-   "en": ": Really? Why?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 真的？为什么？"
-  },
-  {
-   "en": ": There is a hallucinogenic flower here that blooms only when the weather rapidly switches between cold and hot. They grind them up and use them to brush their teeth.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 这里有一种致幻的花，只有在天气于冷热之间急剧切换时才会绽放。他们把它磨碎，用来刷牙。"
-  },
-  {
-   "en": ": That’s good. Some woman threw one of her teeth at me here once. Maybe the use of hallucinogens can prevent that from happening again?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 挺好。曾经有个女人在这儿把一颗牙朝我扔过来。也许用了致幻剂就能防止这种事再发生？"
-  },
-  {
-   "en": ": Perhaps. Or perhaps they will capture you and dissect you and bring the remains to Tojo Ramen to be turned into soup. There is only one way to find out.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 也许。或者也许他们会抓住你、把你解剖，然后把残骸送到 Tojo Ramen 做成汤。只有一种办法能知道答案。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry4",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry4.webp",
-   "alt": "tsuneyodontpry4"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "Tsuneyo and I do a few laps around the old district before coming to a stop at the overlook I almost threw myself over during one of many strange encounters with Yumi.",
-   "zh": "Tsuneyo 和我绕着老城区走了几圈，最后停在那处观景台——我曾经在和 Yumi 的诸多奇怪遭遇中，差点从那里跳下去。"
-  },
-  {
-   "en": "I’ve had a lot of time to think about myself since then. To really just stand back and reflect on who I am and what I’m doing with my life.",
-   "zh": "从那以后，我有很多时间思考我自己。真正地退后一步，反思我是谁、我这一生在做什么。"
-  },
-  {
-   "en": "The problem is, I hate my reflection — so I haven’t been able to get very much done on that front despite the amount of time I’ve spent on it.",
-   "zh": "问题是，我讨厌自己的倒影——所以尽管花了那么多时间，我在这方面也没能取得什么进展。"
-  },
-  {
-   "en": "That’s probably a strange thing to hear coming from the self-proclaimed “world’s worst narcissist.” But hey, I’m forced to be honest over in this part of town.",
-   "zh": "从一个自称“世界上最糟糕的自恋狂”的人嘴里听到这种话，大概挺奇怪的。不过话说回来，在城的这一边，我被迫变得诚实。"
-  },
-  {
-   "en": "And when I get to hang over a railing looking at rays from the toxic sun dyeing the sky an uncomfortable shade of brownish orange, that honesty really has a way of just spewing out uncontrollably.",
-   "zh": "而当我趴在栏杆上，看着那有毒的太阳的光芒把天空染成一种令人不适的棕橙色时，那份诚实真的会不受控制地喷涌而出。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": It’s hideous, don’t you think?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 很丑陋，你不觉得吗？"
-  },
-  {
-   "en": ": The sky? The buildings? The...everything else?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 天空？那些楼？还是……其他的一切？"
-  },
-  {
-   "en": ": The everything else, yes.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 其他的一切，对。"
-  },
-  {
-   "en": ": Before moving into the dorms, I worried that commuting from here to the newer half of Kumon-mi every day would do strange things to my head considering the constant scenery changes.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 搬进宿舍之前，我担心每天从这儿通勤到 Kumon-mi 的新城区，会因为景色不断变化而让我的脑子出问题。"
-  },
-  {
-   "en": ": To be fair, you still move between both districts every day to check on your father and run the shop.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 说句公道话，你现在依然每天往返于两个城区，去照看父亲、打理店铺。"
-  },
-  {
-   "en": ": This is true. But there’s a real chance it becomes less true going forward now that he seems to be okay.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 确实。不过既然他看起来没事了，往后这件事说不定就不那么成立了。"
-  },
-  {
-   "en": ": Perhaps my usefulness has finally worn off and I can resign myself to the life and duties of a housewife. But what sort of house would marry a girl? I simply do not know.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 也许我的用处终于耗尽了，我可以认命去过一个家庭主妇的生活、履行她的职责。可什么样的房子会娶一个女孩呢？我实在不知道。"
-  },
-  {
-   "en": ": I’m sure there are plenty of houses out there that would love to have you, Tsuneyo. But in the event that there aren’t, I’ll gladly go back to being your husband.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我相信有很多房子会很乐意拥有你，Tsuneyo。不过万一没有，我也很乐意回去当你的丈夫。"
-  },
-  {
-   "en": ": Thank you for your kind consideration. I will get back to you if I am unable to find anything or anyone else.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 谢谢你的好意。如果我找不到别的什么或别的人，会再联系你的。"
-  },
-  {
-   "en": ": Yeah, I don’t blame you for that at all. I find I’m a better backup plan than someone a person should aspire to be with.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯，这一点我一点都不怪你。我发现自己更适合当个备胎，而不是某个值得别人向往的人。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry5",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry5.webp",
-   "alt": "tsuneyodontpry5"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": {b}.Yamato Nadeshiko detsaerb-llams a revo em esoohc dluow ohw snamuh ro sesuoh ynam t’nera erehT .yaw emas eht m’I enigami I{/b}",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": {b}.Yamato Nadeshiko detsaerb-llams a revo em esoohc dluow ohw snamuh ro sesuoh ynam t’nera erehT .yaw emas eht m’I enigami I{/b}"
-  },
-  {
-   "en": ": Why do you say that?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你为什么这么说？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry6",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry6.webp",
-   "alt": "tsuneyodontpry6"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": {b}.essam ne erutluc eht ot laeppa ot namow laedi s’elam esenapaJ lacipyt eht morf tnereffid oot ma I taht yrrow tsuj I{/b}",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": {b}.essam ne erutluc eht ot laeppa ot namow laedi s’elam esenapaJ lacipyt eht morf tnereffid oot ma I taht yrrow tsuj I{/b}"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry7.webp",
-   "alt": "tsuneyodontpry7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": But I suppose that may just be my worries getting the best of me.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 不过我想，那大概只是我的担忧占了上风罢了。"
-  },
-  {
-   "en": ": Knowing you have worries like that at all really helps humanize you, though.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 可知道你也有这样的烦恼，真的让你更像个普通人了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry8",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry8.webp",
-   "alt": "tsuneyodontpry8"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": What do you mean?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 什么意思？"
-  },
-  {
-   "en": ": Just that, with how...{i}eccentric{/i} you are, it’s easy to look at you differently than a lot of other girls your age. I imagine that’s just due to your unusual upbringing, though.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 只是说，你有多么……{i}古怪{/i}，很容易让人用不同于其他同龄女孩的眼光看你。不过我想，那只是因为你不同寻常的成长经历。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry9",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry9.webp",
-   "alt": "tsuneyodontpry9"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I suppose that makes sense. From the information I’ve gathered recently, it seems as if most other girls my age are not tantalized by paranormal necrophilia. To each their own.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我想有道理。从我最近收集到的信息来看，似乎我这个年纪的其他女孩大多不会被超自然的恋尸癖所诱惑。各有所好吧。"
-  },
-  {
-   "en": ": Uh...{i}what?{/i}",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 呃……{i}什么{/i}？"
-  },
-  {
-   "en": ": Oh, I suppose I haven’t told you yet. But I recently had my first physically intimate experience with the ghost of Ami’s mother.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 哦，我想我还没告诉过你。我最近有了第一次实质性的亲密体验，对象是 Ami 母亲的鬼魂。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry10",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry10.webp",
-   "alt": "tsuneyodontpry10"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ..............you what?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ………………你说什么？"
-  },
-  {
-   "en": ": I fell into her golden noodle trap while you were having your way with the Emerald Guardian. She then proceeded to tie me to a wooden cross and violate me against my will.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 你正对翡翠守护者为所欲为的时候，我掉进了她的金色面条陷阱。接着她把我绑在木十字架上，违背我的意愿侵犯了我。"
-  },
-  {
-   "en": ": ................................",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ................................"
-  },
-  {
-   "en": ": I understand now that it was all just a dream, though.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 不过我现在明白了，那一切都只是一场梦。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry7",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry7.webp",
-   "alt": "tsuneyodontpry7"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Yet, that doesn’t change how real and enticing all of it felt. Perhaps I truly am an exhibitionist after all?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 然而，这并不改变它感觉起来有多真实、多诱人。也许我真的是个暴露狂？"
-  },
-  {
-   "en": ": ...............",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..............."
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry8",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry8.webp",
-   "alt": "tsuneyodontpry8"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Supreme Overlord?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 至高霸主？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry11",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry11.webp",
-   "alt": "tsuneyodontpry11"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Yes?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯？"
-  },
-  {
-   "en": ": I believe this is a moment where you are meant to thrust your years worth of experience upon me in an effort to help me rationalize this strange and impure vision.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我想，此刻你该把你多年积累的经验倾倒在我身上，好帮我理性化这个奇怪而不洁的幻象。"
-  },
-  {
-   "en": ": How...do you know it was her?",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你……怎么知道是她？"
-  },
-  {
-   "en": ": She told me. But even if she hadn’t, I likely would have known. They look nearly identical. Both with perfect legs.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 她告诉我的。不过就算她没说，我大概也认得出来。她们长得几乎一模一样。都有着完美的腿。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry12",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry12.webp",
-   "alt": "tsuneyodontpry12"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": I wonder how different it feels for men and women? Would I have taken pleasure in sinking my fingers into her as well? Is there joy to be had in such a thing?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我在想，男人和女人的感觉会有多大不同？如果我把手指探进她体内，我也会感到愉悦吗？这种事里也有快乐可言吗？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry13",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry13.webp",
-   "alt": "tsuneyodontpry13"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": You must have ejaculated inside of her hundreds of times, haven’t you? What was she like? As a person and not just a sexual partner.",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 你一定在她体内射过几百次了吧？她是个什么样的人？作为一个人，而不只是性伴侣。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry14",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry14.webp",
-   "alt": "tsuneyodontpry14"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": ............................",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ............................"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "It was a curious situation for [[guy] — only emphasized by the somewhat distant sound of oldweather.mp3 and its evil counterpart.",
-   "zh": "对 [[guy] 来说，这是个奇特的处境——只有 oldweather.mp3 和它那邪恶的对应物那略显遥远的声音，更凸显了这一点。"
-  },
-  {
-   "en": "So as his gaze broke the barrier of an extreme closeup and angled slightly downward to a girl that was very tall for her age and country, he didn’t know what to say.",
-   "zh": "于是，当他的目光突破那道特写的壁垒、略微向下落在一个以她的年龄和国度而言十分高挑的女孩身上时，他不知道该说什么。"
-  },
-  {
-   "en": "This was NTR in like, two ways at once. His ghost love got to the half-Egyptian beauty before {i}he{/i} did. So now he was supposed to compete with {i}her?{/i} What if his penis wasn’t good enough?",
-   "zh": "这简直是双重意义上的 NTR。他的幽魂爱人先{i}他{/i}一步得到了那位半埃及美人。所以现在他要去和{i}她{/i}竞争？万一他的鸡巴不够好呢？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Tsuneyo.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": Tsuneyo。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry15",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry15.webp",
-   "alt": "tsuneyodontpry15"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": .....................",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": ....................."
-  },
-  {
-   "en": ": I...don’t know...how to explain any of this to you because it’s going to sound insane no matter what...but I’m not sure if that was a {i}dream.{/i}",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我……不知道……该怎么跟你解释这些，因为不管怎么说都会听起来像疯话……但我不确定那是不是一场{i}梦{/i}。"
-  },
-  {
-   "en": ": I see her too. It’s like...being haunted. And for years now, I’ve-",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我也能看见她。就像……被鬼缠上了。而且这么多年来，我一直——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "While [[guy] drones on in the background about his life and how sad it is, let’s focus on something else. Like why Tsuneyo Tojo is acting and appearing so strange right now.",
-   "zh": "[[guy] 在背景里喋喋不休地讲着他的人生、讲它有多可悲，我们不妨把注意力放到别的事上。比如 Tsuneyo Tojo 此刻为什么举止和样子都这么奇怪。"
-  },
-  {
-   "en": "Did she contract a ghostly STD from her MILFtastic lesbian abuser that was now eating away at {i}her{/i} brain — similar to the ways in which [[guy]’s brain was being eaten? (If that’s even what’s happening)",
-   "zh": "她是不是从那个极品的熟女同性恋施暴者那里感染了幽灵性病，正一点点侵蚀{i}她{/i}的大脑——就像 [[guy] 的大脑正在被侵蚀那样？（如果那真的在发生的话）"
-  },
-  {
-   "en": "Or did some kind of weird god thing find its way inside to fuck her brainhole with its big godcock? (If that’s even what’s happening)",
-   "zh": "还是说某种诡异的神性之物钻进了她体内，用它的大神鸡巴操她的脑洞？（如果那真的在发生的话）"
-  },
-  {
-   "en": "Whatever the case, she looked prettier like this. And easier to penetrate as there’d be less fight and more flight. And we all know everyone wants to cum in the air.",
-   "zh": "不管怎样，她这样看起来更漂亮了。而且更容易进入，因为反抗会更少、逃跑会更多。众所周知，所有人都想射在空中。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": So yeah...I just think it’d be best for everyone if-",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 所以呢……我只是觉得对大家来说最好——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "menu:",
-   "zh": ""
-  },
-  {
-   "en": "Pry",
-   "zh": "掰开"
-  },
-  {
-   "en": "scene tsuneyodontpry16",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry16.webp",
-   "alt": "tsuneyodontpry16"
-  },
-  {
-   "en": "Leave her alone",
-   "zh": "别管她"
-  },
-  {
-   "en": "scene tsuneyodontpry16",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry16.webp",
-   "alt": "tsuneyodontpry16"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Mnh??????????????",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 嗯？？？？？？？？？？？？"
-  },
-  {
-   "en": ": Mmh...mm....mmnh!",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 嗯……嗯……嗯嗯！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "The fire within her burned bright! Brighter than the toxic sun! And as her tongue explored a vicious cave that countless others have dared to venture into, she finally felt free! Cured, even!",
-   "zh": "她体内的火烧得明亮！比那有毒的太阳还亮！当她的舌头探索着一个曾有无数人敢闯入的凶险洞穴时，她终于感到了自由！甚至是被治愈了！"
-  },
-  {
-   "en": "Like the voices had been silenced now that they could not use either mouth to scream. And if she stayed like this forever, she would never be forced to hear them again.",
-   "zh": "就像那些声音被封了口，因为再也用不上任何一张嘴来尖叫。如果她永远这样下去，就再也不会被迫听到它们了。"
-  },
-  {
-   "en": "{size=-5}Here, in this world full of shit, she was finally getting a taste of {b}CLEANLINESS.{/b} Saliva that seeped into her tongue, becoming a part of her that would not only come to {i}expect{/i} these momentary lapses, but {b}love{/b} them.{/size}",
-   "zh": "{size=-5}在这个满是狗屎的世界里，她终于尝到了“{b}洁净{/b}”的滋味。渗进她舌头的唾液，成为了她的一部分，不仅让她开始{i}期待{/i}这些短暂的失神，还让她{b}爱上{/b}了它们。{/size}"
-  },
-  {
-   "en": "Yet she would not love them because they were happy. She would love them because they would allow her to taste and feel things that she’d never be able to through rational or conventional means.",
-   "zh": "可她爱它们，并不是因为它们快乐。她爱它们，是因为它们让她尝到、感受到那些她通过理性或常规方式永远无法触及的东西。"
-  },
-  {
-   "en": "There was a problem, though.",
-   "zh": "不过，有个问题。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry17",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry17.webp",
-   "alt": "tsuneyodontpry17"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Ngh! No! No, no, no!",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 嗯啊！不！不，不，不！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "The human mind is a complex machine — full of wires and tunnels and meat and all sorts of other things that aren’t really {i}meant{/i} to go together but {i}do.{/i}",
-   "zh": "人类的大脑是一台复杂的机器——满是电线、隧道、肉，以及各种本来不{i}该{/i}凑在一起、却{i}偏偏凑在了一起{/i}的东西。"
-  },
-  {
-   "en": "It’s so complex, actually, that not even the most powerful beings in this world and others know how to {i}fully{/i} control it as free will can not be erased.",
-   "zh": "它实在太复杂了，复杂到即便是这个世界和其他世界中最强大的存在，也无法{i}完全{/i}掌控它，因为自由意志无法被抹除。"
-  },
-  {
-   "en": "They can tap into it, sure. They can give you a push, {i}sure.{/i} ",
-   "zh": "它们当然可以接入它。{i}当然可以{/i}推你一把。"
-  },
-  {
-   "en": "But that’s the extent of it. And they will {i}always{/i} give you the chance to take back what they have borrowed from you. ",
-   "zh": "但也就到此为止了。而且它们{i}总会{/i}给你机会，把从你身上借走的东西拿回来。"
-  },
-  {
-   "en": "If they didn’t, they’d die.",
-   "zh": "如果它们不这么做，它们就会死。"
-  },
-  {
-   "en": "It’s just that simple.",
-   "zh": "就是这么简单。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": What’s happening to me?...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我身上发生了什么？……"
-  },
-  {
-   "en": ": I can’t see inside of your head, but I can make a guess. Because this same thing happens to me, Tsuneyo. Right here, in this exact spot, I have {i}lived{/i} this moment of your life.",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 我看不见你的脑子里，但我可以猜一猜。因为同样的事也发生在我身上，Tsuneyo。就在这里，就在这个位置，我{i}经历过{/i}你生命中的这一刻。"
-  },
-  {
-   "en": ": How...can I stop it?",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 我该怎么……让它停下？"
-  },
-  {
-   "en": ": You can’t...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你做不到……"
-  },
-  {
-   "en": ": You just-",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": 你只要——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry18",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry18.webp",
-   "alt": "tsuneyodontpry18"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Mmnch! Mnh! Mmh! Mmmmfff! Mmnghh!! I’m sorry...I’m sorry! I’m...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 嗯嗯！嗯！嗯嗯！嗯嗯嗯！嗯嗯啊！！对不起……对不起！我……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry19",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry19.webp",
-   "alt": "tsuneyodontpry19"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Mm!...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 嗯！……"
-  },
-  {
-   "en": ": Mmh.....",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 嗯嗯……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "There was no need to apologize — and he would make her know that in the only way he knew how.",
-   "zh": "没有必要道歉——而他会用他唯一知道的方式让她明白这一点。"
-  },
-  {
-   "en": "It was similar to the way in which the one {i}he{/i} forced himself on did back then. And while it had never before made sense to him why the Yakuza princess did that, he understood now.",
-   "zh": "这和{i}他{/i}当年强迫自己的那个人的方式很像。虽然他以前始终不明白那位黑道公主为什么要那么做，但现在他懂了。"
-  },
-  {
-   "en": "Kissing just felt too good.",
-   "zh": "接吻的感觉实在太好了。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Mlm...mhnm....mmm! Mmmn....mmm~",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 嗯嗯……嗯嗯嗯……嗯嗯！嗯嗯嗯……嗯嗯~"
-  },
-  {
-   "en": ": Mhhmmnnnn!!!!!!!",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 嗯嗯嗯嗯嗯！！！！！！！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry20",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry20.webp",
-   "alt": "tsuneyodontpry20"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": No! Stop! Get off of me! This isn’t-",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 不！停下！从我身上滚开！这不是——"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry21",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry21.webp",
-   "alt": "tsuneyodontpry21"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": {b}TAKE ME HOME AND FUCK THE ABSTINENCE OUT OF ME, BRO! I WANT MY FATHER TO WATCH!{/b}",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": {b}带我回家，把禁欲从我身体里操出来，兄弟！我想让我父亲看着！{/b}"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene 5",
-   "zh": ""
-  },
-  {
-   "en": "scene 4",
-   "zh": ""
-  },
-  {
-   "en": "scene 3",
-   "zh": ""
-  },
-  {
-   "en": "scene 2",
-   "zh": ""
-  },
-  {
-   "en": "scene 3",
-   "zh": ""
-  },
-  {
-   "en": "scene tsuneyodontpry23",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry23.webp",
-   "alt": "tsuneyodontpry23"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Mngh! Mnh! My head! I...aaah! It hurts! It...hurts!",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 嗯啊！嗯！我的头！我……啊啊！好痛！好……好痛！"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry24",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry24.webp",
-   "alt": "tsuneyodontpry24"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": It...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 它在……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": ..."
-  },
-  {
-   "en": ": It’s...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 它在……"
-  },
-  {
-   "en": ": Stopping?...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 停下？……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry25",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry25.webp",
-   "alt": "tsuneyodontpry25"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "A chance to strike while the iron is hot.",
-   "zh": "趁热打铁的时机。"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Hah...hah...hah...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 哈……哈……哈……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene tsuneyodontpry26",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Events/tsuneyodontpry26.webp",
-   "alt": "tsuneyodontpry26"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "If {i}he{/i} were to black out too, who {i}knows{/i} what would happen right now?",
-   "zh": "如果{i}他{/i}也昏过去了，{i}谁知道{/i}现在会发生什么？"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Sensei?...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": Sensei？……"
-  },
-  {
-   "en": ": ...",
-   "spk": "Sensei",
-   "spkColor": "#969696",
-   "zh": ": ..."
-  },
-  {
-   "en": ": Something...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 有什么……"
-  },
-  {
-   "en": ": Is...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 正在……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "scene black",
-   "cap": true,
-   "zh": ""
-  },
-  {
-   "img": "游戏图片/Misc/black.png",
-   "alt": "black"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": ": Coming...",
-   "spk": "Tsuneyo",
-   "spkColor": "#C8B330",
-   "zh": ": 到来……"
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "$ tsuneyospring5 = True",
-   "zh": ""
-  },
-  {
-   "en": ""
-  },
-  {
-   "en": "jump tsuneyospring6",
-   "zh": ""
-  }
- ]
+  "label": "tsuneyospring5",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label tsuneyospring5:",
+      "zh": ""
+    },
+    {
+      "en": "scene specialsky",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/BGs/specialsky.png",
+      "alt": "specialsky"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{b}/////////A POEM, A POLYP, PARASITES//////A PLACE TO REST YOUR BONES//////{b}",
+      "zh": "{b}/////////A POEM, A POLYP, PARASITES//////A PLACE TO REST YOUR BONES//////{/b}"
+    },
+    {
+      "en": "{b}/////////A BREAK FROM THE INSANITY//////A HOUSE TO CALL YOUR HOME//////{b}",
+      "zh": "{b}/////////A BREAK FROM THE INSANITY//////A HOUSE TO CALL YOUR HOME//////{/b}"
+    },
+    {
+      "en": "{b}/////////A ROOM FOR YOU TO ROT IN//////SOME FOOD TO HEAL YOUR SOUL//////{b}",
+      "zh": "{b}/////////A ROOM FOR YOU TO ROT IN//////SOME FOOD TO HEAL YOUR SOUL//////{/b}"
+    },
+    {
+      "en": "{b}/////////A HOLE TO KEEP A GOD IN//////HALF HUMAN AND HALF MOLE//////{b}",
+      "zh": "{b}/////////A HOLE TO KEEP A GOD IN//////HALF HUMAN AND HALF MOLE//////{/b}"
+    },
+    {
+      "en": "{b}IT’S NOODLE TIME AGAIN{/b}",
+      "zh": "{b}又到吃面的时间了{/b}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry1.webp",
+      "alt": "tsuneyodontpry1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh. Hey, Tsuneyo.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哦。嘿，Tsuneyo。"
+    },
+    {
+      "en": ": Hello.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 你好。"
+    },
+    {
+      "en": ": What are you doing outside of the store?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你在店外面干什么？"
+    },
+    {
+      "en": ": I believe they call it “standing.” This is a word that you should probably know as a disgraced former teacher.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我相信这叫做“站着”。作为一个被扫地出门的前教师，这个词你大概应该认识。"
+    },
+    {
+      "en": ": Yeah, that’s why they don’t keep me around anymore. Too many standard words I just never bothered learning.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是啊，所以他们才不留我了。有太多常用词我根本懒得学。"
+    },
+    {
+      "en": ": At last, someone has finally learned the truth. That someone is me. I will carry this message to those who need to hear it.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 终于有人认清了真相。那个人就是我。我会把这个消息带给需要听到它的人。"
+    },
+    {
+      "en": ": Really though, why are you out here? Aren’t you normally working around this time?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不过说真的，你为什么在外面？这个时间你不都应该在干活吗？"
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 是的。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Are you going to answer the other question too or do I just need to guess?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 另一个问题你也打算回答一下，还是我得自己猜？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry2.webp",
+      "alt": "tsuneyodontpry2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I have been given what is called a “night off.” But this is a concept I do not understand, so I have decided to just stand and wait.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我得到了所谓的“一晚休假”。但这是个我无法理解的概念，所以我决定就这么站着等。"
+    },
+    {
+      "en": ": You’ve had plenty of nights off before. But I guess you- wait.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你以前也有过很多个晚上的休假吧。不过我想你——等等。"
+    },
+    {
+      "en": ": You were {i}given{/i} the night off?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你是“{i}被给{/i}”了一晚休假？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry1.webp",
+      "alt": "tsuneyodontpry1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I apologize if you do not understand that word as well. I will do my best to talk slowly and simply so you are able to follow along.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 如果你也不懂那个词，我很抱歉。我会尽量放慢语速、说得简单些，好让你跟上。"
+    },
+    {
+      "en": ": I know what “given” means. But isn’t your father the only person with the authority to grant you freedom like this? I thought he was out of commission?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我知道“被给”是什么意思。可你父亲不是唯一有权给你这种自由的人吗？我以为他已经不能动了呢。"
+    },
+    {
+      "en": ": As did I. But it appears that times have changed. So drastically, in fact, that I must now wait outside of the store while he tends to the customers.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我也是这么以为的。但看来时代变了。而且变得如此彻底，以至于他招待客人的时候，我必须在外面等着。"
+    },
+    {
+      "en": ": Well...congrats, I guess. I’m happy for you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……那恭喜了，我想。我为你高兴。"
+    },
+    {
+      "en": ": Why?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 为什么？"
+    },
+    {
+      "en": ": Why...am I happy for you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 为什么……我为你高兴？"
+    },
+    {
+      "en": ": Yes. I didn’t believe happiness was an emotion you were capable of feeling.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 是的。我不认为你能感受到“高兴”这种情绪。"
+    },
+    {
+      "en": ": Not for myself. I can feel it for other people, though. I think.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 对我自己不行。不过我可以为别人感到高兴。大概吧。"
+    },
+    {
+      "en": ": Strange.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 真奇怪。"
+    },
+    {
+      "en": ": Guess so. Anyway, did you want to head inside with me? I was planning on getting dinner before aimlessly wandering around again and waiting for some sort of event to trigger.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 大概是吧。总之，你要不要跟我一起进去？我本来打算先吃个晚饭，然后再漫无目的地瞎逛，等着某个事件触发。"
+    },
+    {
+      "en": ": No.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 不。"
+    },
+    {
+      "en": ": Just...going to wait out here then?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那……就在外面等着？"
+    },
+    {
+      "en": ": Yes. Same as you.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 是的。和你一样。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Am I not allowed to go inside while your father is working?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你父亲在干活的时候，我不能进去吗？"
+    },
+    {
+      "en": ": That is correct.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 没错。"
+    },
+    {
+      "en": ": Why?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 为什么？"
+    },
+    {
+      "en": ": Because my father does not wish to meet the man who has fucked me so many times. I have failed him as a daughter. It is all your fault.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 因为我父亲不想见到那个操了我那么多次的男人。作为女儿，我让他失望了。这都是你的错。"
+    },
+    {
+      "en": ": He doesn’t know what I look like, though. I can just eat and leave.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可他不知道我长什么样啊。我可以吃完就走。"
+    },
+    {
+      "en": ": He knows.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 他知道。"
+    },
+    {
+      "en": ": How?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 怎么知道的？"
+    },
+    {
+      "en": ": He knows everything. Even words like “given” and “standing.” It is he who should be teaching a class of juveniles, not you.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 他什么都知道。连“被给”和“站着”这种词都知道。该去给一帮少年上课的是他，不是你。"
+    },
+    {
+      "en": ": I don’t teach anyone anymore.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我已经不教任何人了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry3.webp",
+      "alt": "tsuneyodontpry3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You never have to begin with.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 你从来就没教过。"
+    },
+    {
+      "en": ": Well...do you want to just hang out then? I...can eat when I get home later, I guess.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯……那你要不要就一起逛逛？我……晚饭可以晚点回家再吃，我想。"
+    },
+    {
+      "en": ": I suppose that would be a more valuable use of my time. But know that I will not carry you there if you fall unconscious due to fatigue and/or hunger.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我想那会是对我时间更有价值的利用。但你要知道，如果你因为疲劳和／或饥饿而昏倒，我是不会背你去的。"
+    },
+    {
+      "en": ": Works for me. I can’t really say that won’t happen though based on just how many times I {i}have{/i} “passed out” here.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我没问题。不过考虑到我在这里“昏倒”{i}过{/i}那么多次，我还真不敢说不会发生。"
+    },
+    {
+      "en": ": It must be something in the air. I am also feeling the effects of it.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 一定是空气里有什么东西。我也感觉到了它的影响。"
+    },
+    {
+      "en": ": How long have you been out here exactly?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你到底在外面待了多久？"
+    },
+    {
+      "en": ": Five hours.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 五个小时。"
+    },
+    {
+      "en": ": Yeah, I think you might just be feeling the effects of prolonged exposure to the sun more than anything else.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，我觉得你更可能是被太阳晒了太久，而不是别的什么原因。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry1.webp",
+      "alt": "tsuneyodontpry1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Possibly. I must ask though, where do you plan to fuck me this time? Because I have also been told to not leave this half of town, meaning you can not fuck me in your house.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 有可能。不过我必须问一句，这次你打算在哪儿操我？因为我也被吩咐不许离开这一半城区，也就是说你不能在你家操我。"
+    },
+    {
+      "en": ": You know what that word means now, Tsuneyo. Are you really going to keep using it that way?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你现在知道那个词的意思了，Tsuneyo。你真打算一直这么用它吗？"
+    },
+    {
+      "en": ": Are you really going to tell me how to properly fuck, bro?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 你真打算教我该怎么操吗，兄弟？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay. I guess we’ll just walk around the old district then. That’s never backfired in any capacity for me before.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧。那我们就在老城区转转吧。这种事对我来说从来没出过任何岔子。"
+    },
+    {
+      "en": ": I accept your fucking proposal. Please stay close so I can protect you from the homeless. They can be quite ravenous in the spring.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我接受你的操之邀约。请跟紧点，好让我保护你不被流浪汉伤到。春天的时候他们可是相当饥渴的。"
+    },
+    {
+      "en": ": Really? Why?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 真的？为什么？"
+    },
+    {
+      "en": ": There is a hallucinogenic flower here that blooms only when the weather rapidly switches between cold and hot. They grind them up and use them to brush their teeth.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 这里有一种致幻的花，只有在天气于冷热之间急剧切换时才会绽放。他们把它磨碎，用来刷牙。"
+    },
+    {
+      "en": ": That’s good. Some woman threw one of her teeth at me here once. Maybe the use of hallucinogens can prevent that from happening again?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 挺好。曾经有个女人在这儿把一颗牙朝我扔过来。也许用了致幻剂就能防止这种事再发生？"
+    },
+    {
+      "en": ": Perhaps. Or perhaps they will capture you and dissect you and bring the remains to Tojo Ramen to be turned into soup. There is only one way to find out.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 也许。或者也许他们会抓住你、把你解剖，然后把残骸送到 Tojo Ramen 做成汤。只有一种办法能知道答案。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry4.webp",
+      "alt": "tsuneyodontpry4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo and I do a few laps around the old district before coming to a stop at the overlook I almost threw myself over during one of many strange encounters with Yumi.",
+      "zh": "Tsuneyo 和我绕着老城区走了几圈，最后停在那处观景台——我曾经在和 Yumi 的诸多奇怪遭遇中，差点从那里跳下去。"
+    },
+    {
+      "en": "I’ve had a lot of time to think about myself since then. To really just stand back and reflect on who I am and what I’m doing with my life.",
+      "zh": "从那以后，我有很多时间思考我自己。真正地退后一步，反思我是谁、我这一生在做什么。"
+    },
+    {
+      "en": "The problem is, I hate my reflection — so I haven’t been able to get very much done on that front despite the amount of time I’ve spent on it.",
+      "zh": "问题是，我讨厌自己的倒影——所以尽管花了那么多时间，我在这方面也没能取得什么进展。"
+    },
+    {
+      "en": "That’s probably a strange thing to hear coming from the self-proclaimed “world’s worst narcissist.” But hey, I’m forced to be honest over in this part of town.",
+      "zh": "从一个自称“世界上最糟糕的自恋狂”的人嘴里听到这种话，大概挺奇怪的。不过话说回来，在城的这一边，我被迫变得诚实。"
+    },
+    {
+      "en": "And when I get to hang over a railing looking at rays from the toxic sun dyeing the sky an uncomfortable shade of brownish orange, that honesty really has a way of just spewing out uncontrollably.",
+      "zh": "而当我趴在栏杆上，看着那有毒的太阳的光芒把天空染成一种令人不适的棕橙色时，那份诚实真的会不受控制地喷涌而出。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It’s hideous, don’t you think?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 很丑陋，你不觉得吗？"
+    },
+    {
+      "en": ": The sky? The buildings? The...everything else?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 天空？那些楼？还是……其他的一切？"
+    },
+    {
+      "en": ": The everything else, yes.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 其他的一切，对。"
+    },
+    {
+      "en": ": Before moving into the dorms, I worried that commuting from here to the newer half of Kumon-mi every day would do strange things to my head considering the constant scenery changes.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 搬进宿舍之前，我担心每天从这儿通勤到 Kumon-mi 的新城区，会因为景色不断变化而让我的脑子出问题。"
+    },
+    {
+      "en": ": To be fair, you still move between both districts every day to check on your father and run the shop.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说句公道话，你现在依然每天往返于两个城区，去照看父亲、打理店铺。"
+    },
+    {
+      "en": ": This is true. But there’s a real chance it becomes less true going forward now that he seems to be okay.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 确实。不过既然他看起来没事了，往后这件事说不定就不那么成立了。"
+    },
+    {
+      "en": ": Perhaps my usefulness has finally worn off and I can resign myself to the life and duties of a housewife. But what sort of house would marry a girl? I simply do not know.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 也许我的用处终于耗尽了，我可以认命去过一个家庭主妇的生活、履行她的职责。可什么样的房子会娶一个女孩呢？我实在不知道。"
+    },
+    {
+      "en": ": I’m sure there are plenty of houses out there that would love to have you, Tsuneyo. But in the event that there aren’t, I’ll gladly go back to being your husband.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我相信有很多房子会很乐意拥有你，Tsuneyo。不过万一没有，我也很乐意回去当你的丈夫。"
+    },
+    {
+      "en": ": Thank you for your kind consideration. I will get back to you if I am unable to find anything or anyone else.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 谢谢你的好意。如果我找不到别的什么或别的人，会再联系你的。"
+    },
+    {
+      "en": ": Yeah, I don’t blame you for that at all. I find I’m a better backup plan than someone a person should aspire to be with.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，这一点我一点都不怪你。我发现自己更适合当个备胎，而不是某个值得别人向往的人。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry5.webp",
+      "alt": "tsuneyodontpry5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {b}.Yamato Nadeshiko detsaerb-llams a revo em esoohc dluow ohw snamuh ro sesuoh ynam t’nera erehT .yaw emas eht m’I enigami I{/b}",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": {b}.Yamato Nadeshiko detsaerb-llams a revo em esoohc dluow ohw snamuh ro sesuoh ynam t’nera erehT .yaw emas eht m’I enigami I{/b}"
+    },
+    {
+      "en": ": Why do you say that?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你为什么这么说？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry6.webp",
+      "alt": "tsuneyodontpry6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {b}.essam ne erutluc eht ot laeppa ot namow laedi s’elam esenapaJ lacipyt eht morf tnereffid oot ma I taht yrrow tsuj I{/b}",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": {b}.essam ne erutluc eht ot laeppa ot namow laedi s’elam esenapaJ lacipyt eht morf tnereffid oot ma I taht yrrow tsuj I{/b}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry7.webp",
+      "alt": "tsuneyodontpry7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But I suppose that may just be my worries getting the best of me.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 不过我想，那大概只是我的担忧占了上风罢了。"
+    },
+    {
+      "en": ": Knowing you have worries like that at all really helps humanize you, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可知道你也有这样的烦恼，真的让你更像个普通人了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry8.webp",
+      "alt": "tsuneyodontpry8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What do you mean?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 什么意思？"
+    },
+    {
+      "en": ": Just that, with how...{i}eccentric{/i} you are, it’s easy to look at you differently than a lot of other girls your age. I imagine that’s just due to your unusual upbringing, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 只是说，你有多么……{i}古怪{/i}，很容易让人用不同于其他同龄女孩的眼光看你。不过我想，那只是因为你不同寻常的成长经历。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry9.webp",
+      "alt": "tsuneyodontpry9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I suppose that makes sense. From the information I’ve gathered recently, it seems as if most other girls my age are not tantalized by paranormal necrophilia. To each their own.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我想有道理。从我最近收集到的信息来看，似乎我这个年纪的其他女孩大多不会被超自然的恋尸癖所诱惑。各有所好吧。"
+    },
+    {
+      "en": ": Uh...{i}what?{/i}",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 呃……{i}什么{/i}？"
+    },
+    {
+      "en": ": Oh, I suppose I haven’t told you yet. But I recently had my first physically intimate experience with the ghost of Ami’s mother.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 哦，我想我还没告诉过你。我最近有了第一次实质性的亲密体验，对象是 Ami 母亲的鬼魂。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry10.webp",
+      "alt": "tsuneyodontpry10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ..............you what?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ………………你说什么？"
+    },
+    {
+      "en": ": I fell into her golden noodle trap while you were having your way with the Emerald Guardian. She then proceeded to tie me to a wooden cross and violate me against my will.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 你正对翡翠守护者为所欲为的时候，我掉进了她的金色面条陷阱。接着她把我绑在木十字架上，违背我的意愿侵犯了我。"
+    },
+    {
+      "en": ": ................................",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ................................"
+    },
+    {
+      "en": ": I understand now that it was all just a dream, though.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 不过我现在明白了，那一切都只是一场梦。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry7.webp",
+      "alt": "tsuneyodontpry7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yet, that doesn’t change how real and enticing all of it felt. Perhaps I truly am an exhibitionist after all?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 然而，这并不改变它感觉起来有多真实、多诱人。也许我真的是个暴露狂？"
+    },
+    {
+      "en": ": ...............",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..............."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry8.webp",
+      "alt": "tsuneyodontpry8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Supreme Overlord?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 至高霸主？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry11.webp",
+      "alt": "tsuneyodontpry11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯？"
+    },
+    {
+      "en": ": I believe this is a moment where you are meant to thrust your years worth of experience upon me in an effort to help me rationalize this strange and impure vision.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我想，此刻你该把你多年积累的经验倾倒在我身上，好帮我理性化这个奇怪而不洁的幻象。"
+    },
+    {
+      "en": ": How...do you know it was her?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你……怎么知道是她？"
+    },
+    {
+      "en": ": She told me. But even if she hadn’t, I likely would have known. They look nearly identical. Both with perfect legs.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 她告诉我的。不过就算她没说，我大概也认得出来。她们长得几乎一模一样。都有着完美的腿。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry12.webp",
+      "alt": "tsuneyodontpry12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I wonder how different it feels for men and women? Would I have taken pleasure in sinking my fingers into her as well? Is there joy to be had in such a thing?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我在想，男人和女人的感觉会有多大不同？如果我把手指探进她体内，我也会感到愉悦吗？这种事里也有快乐可言吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry13.webp",
+      "alt": "tsuneyodontpry13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You must have ejaculated inside of her hundreds of times, haven’t you? What was she like? As a person and not just a sexual partner.",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 你一定在她体内射过几百次了吧？她是个什么样的人？作为一个人，而不只是性伴侣。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry14.webp",
+      "alt": "tsuneyodontpry14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ............................",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ............................"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It was a curious situation for [[guy] — only emphasized by the somewhat distant sound of oldweather.mp3 and its evil counterpart.",
+      "zh": "对 [[guy] 来说，这是个奇特的处境——只有 oldweather.mp3 和它那邪恶的对应物那略显遥远的声音，更凸显了这一点。"
+    },
+    {
+      "en": "So as his gaze broke the barrier of an extreme closeup and angled slightly downward to a girl that was very tall for her age and country, he didn’t know what to say.",
+      "zh": "于是，当他的目光突破那道特写的壁垒、略微向下落在一个以她的年龄和国度而言十分高挑的女孩身上时，他不知道该说什么。"
+    },
+    {
+      "en": "This was NTR in like, two ways at once. His ghost love got to the half-Egyptian beauty before {i}he{/i} did. So now he was supposed to compete with {i}her?{/i} What if his penis wasn’t good enough?",
+      "zh": "这简直是双重意义上的 NTR。他的幽魂爱人先{i}他{/i}一步得到了那位半埃及美人。所以现在他要去和{i}她{/i}竞争？万一他的鸡巴不够好呢？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Tsuneyo.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Tsuneyo。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry15.webp",
+      "alt": "tsuneyodontpry15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": .....................",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": ....................."
+    },
+    {
+      "en": ": I...don’t know...how to explain any of this to you because it’s going to sound insane no matter what...but I’m not sure if that was a {i}dream.{/i}",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我……不知道……该怎么跟你解释这些，因为不管怎么说都会听起来像疯话……但我不确定那是不是一场{i}梦{/i}。"
+    },
+    {
+      "en": ": I see her too. It’s like...being haunted. And for years now, I’ve-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我也能看见她。就像……被鬼缠上了。而且这么多年来，我一直——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "While [[guy] drones on in the background about his life and how sad it is, let’s focus on something else. Like why Tsuneyo Tojo is acting and appearing so strange right now.",
+      "zh": "[[guy] 在背景里喋喋不休地讲着他的人生、讲它有多可悲，我们不妨把注意力放到别的事上。比如 Tsuneyo Tojo 此刻为什么举止和样子都这么奇怪。"
+    },
+    {
+      "en": "Did she contract a ghostly STD from her MILFtastic lesbian abuser that was now eating away at {i}her{/i} brain — similar to the ways in which [[guy]’s brain was being eaten? (If that’s even what’s happening)",
+      "zh": "她是不是从那个极品的熟女同性恋施暴者那里感染了幽灵性病，正一点点侵蚀{i}她{/i}的大脑——就像 [[guy] 的大脑正在被侵蚀那样？（如果那真的在发生的话）"
+    },
+    {
+      "en": "Or did some kind of weird god thing find its way inside to fuck her brainhole with its big godcock? (If that’s even what’s happening)",
+      "zh": "还是说某种诡异的神性之物钻进了她体内，用它的大神鸡巴操她的脑洞？（如果那真的在发生的话）"
+    },
+    {
+      "en": "Whatever the case, she looked prettier like this. And easier to penetrate as there’d be less fight and more flight. And we all know everyone wants to cum in the air.",
+      "zh": "不管怎样，她这样看起来更漂亮了。而且更容易进入，因为反抗会更少、逃跑会更多。众所周知，所有人都想射在空中。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So yeah...I just think it’d be best for everyone if-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 所以呢……我只是觉得对大家来说最好——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu:",
+      "zh": ""
+    },
+    {
+      "en": "Pry",
+      "zh": "掰开"
+    },
+    {
+      "en": "scene tsuneyodontpry16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry16.webp",
+      "alt": "tsuneyodontpry16"
+    },
+    {
+      "en": "Leave her alone",
+      "zh": "别管她"
+    },
+    {
+      "en": "scene tsuneyodontpry16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry16.webp",
+      "alt": "tsuneyodontpry16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mnh??????????????",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯？？？？？？？？？？？？"
+    },
+    {
+      "en": ": Mmh...mm....mmnh!",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 嗯……嗯……嗯嗯！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The fire within her burned bright! Brighter than the toxic sun! And as her tongue explored a vicious cave that countless others have dared to venture into, she finally felt free! Cured, even!",
+      "zh": "她体内的火烧得明亮！比那有毒的太阳还亮！当她的舌头探索着一个曾有无数人敢闯入的凶险洞穴时，她终于感到了自由！甚至是被治愈了！"
+    },
+    {
+      "en": "Like the voices had been silenced now that they could not use either mouth to scream. And if she stayed like this forever, she would never be forced to hear them again.",
+      "zh": "就像那些声音被封了口，因为再也用不上任何一张嘴来尖叫。如果她永远这样下去，就再也不会被迫听到它们了。"
+    },
+    {
+      "en": "{size=-5}Here, in this world full of shit, she was finally getting a taste of {b}CLEANLINESS.{/b} Saliva that seeped into her tongue, becoming a part of her that would not only come to {i}expect{/i} these momentary lapses, but {b}love{/b} them.{/size}",
+      "zh": "{size=-5}在这个满是狗屎的世界里，她终于尝到了“{b}洁净{/b}”的滋味。渗进她舌头的唾液，成为了她的一部分，不仅让她开始{i}期待{/i}这些短暂的失神，还让她{b}爱上{/b}了它们。{/size}"
+    },
+    {
+      "en": "Yet she would not love them because they were happy. She would love them because they would allow her to taste and feel things that she’d never be able to through rational or conventional means.",
+      "zh": "可她爱它们，并不是因为它们快乐。她爱它们，是因为它们让她尝到、感受到那些她通过理性或常规方式永远无法触及的东西。"
+    },
+    {
+      "en": "There was a problem, though.",
+      "zh": "不过，有个问题。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry17.webp",
+      "alt": "tsuneyodontpry17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ngh! No! No, no, no!",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 嗯啊！不！不，不，不！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The human mind is a complex machine — full of wires and tunnels and meat and all sorts of other things that aren’t really {i}meant{/i} to go together but {i}do.{/i}",
+      "zh": "人类的大脑是一台复杂的机器——满是电线、隧道、肉，以及各种本来不{i}该{/i}凑在一起、却{i}偏偏凑在了一起{/i}的东西。"
+    },
+    {
+      "en": "It’s so complex, actually, that not even the most powerful beings in this world and others know how to {i}fully{/i} control it as free will can not be erased.",
+      "zh": "它实在太复杂了，复杂到即便是这个世界和其他世界中最强大的存在，也无法{i}完全{/i}掌控它，因为自由意志无法被抹除。"
+    },
+    {
+      "en": "They can tap into it, sure. They can give you a push, {i}sure.{/i} ",
+      "zh": "它们当然可以接入它。{i}当然可以{/i}推你一把。"
+    },
+    {
+      "en": "But that’s the extent of it. And they will {i}always{/i} give you the chance to take back what they have borrowed from you. ",
+      "zh": "但也就到此为止了。而且它们{i}总会{/i}给你机会，把从你身上借走的东西拿回来。"
+    },
+    {
+      "en": "If they didn’t, they’d die.",
+      "zh": "如果它们不这么做，它们就会死。"
+    },
+    {
+      "en": "It’s just that simple.",
+      "zh": "就是这么简单。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s happening to me?...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我身上发生了什么？……"
+    },
+    {
+      "en": ": I can’t see inside of your head, but I can make a guess. Because this same thing happens to me, Tsuneyo. Right here, in this exact spot, I have {i}lived{/i} this moment of your life.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我看不见你的脑子里，但我可以猜一猜。因为同样的事也发生在我身上，Tsuneyo。就在这里，就在这个位置，我{i}经历过{/i}你生命中的这一刻。"
+    },
+    {
+      "en": ": How...can I stop it?",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 我该怎么……让它停下？"
+    },
+    {
+      "en": ": You can’t...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你做不到……"
+    },
+    {
+      "en": ": You just-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你只要——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry18.webp",
+      "alt": "tsuneyodontpry18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mmnch! Mnh! Mmh! Mmmmfff! Mmnghh!! I’m sorry...I’m sorry! I’m...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 嗯嗯！嗯！嗯嗯！嗯嗯嗯！嗯嗯啊！！对不起……对不起！我……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry19.webp",
+      "alt": "tsuneyodontpry19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm!...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 嗯！……"
+    },
+    {
+      "en": ": Mmh.....",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 嗯嗯……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "There was no need to apologize — and he would make her know that in the only way he knew how.",
+      "zh": "没有必要道歉——而他会用他唯一知道的方式让她明白这一点。"
+    },
+    {
+      "en": "It was similar to the way in which the one {i}he{/i} forced himself on did back then. And while it had never before made sense to him why the Yakuza princess did that, he understood now.",
+      "zh": "这和{i}他{/i}当年强迫自己的那个人的方式很像。虽然他以前始终不明白那位黑道公主为什么要那么做，但现在他懂了。"
+    },
+    {
+      "en": "Kissing just felt too good.",
+      "zh": "接吻的感觉实在太好了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mlm...mhnm....mmm! Mmmn....mmm~",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 嗯嗯……嗯嗯嗯……嗯嗯！嗯嗯嗯……嗯嗯~"
+    },
+    {
+      "en": ": Mhhmmnnnn!!!!!!!",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 嗯嗯嗯嗯嗯！！！！！！！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry20.webp",
+      "alt": "tsuneyodontpry20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No! Stop! Get off of me! This isn’t-",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 不！停下！从我身上滚开！这不是——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry21.webp",
+      "alt": "tsuneyodontpry21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {b}TAKE ME HOME AND FUCK THE ABSTINENCE OUT OF ME, BRO! I WANT MY FATHER TO WATCH!{/b}",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": {b}带我回家，把禁欲从我身体里操出来，兄弟！我想让我父亲看着！{/b}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene 5",
+      "zh": ""
+    },
+    {
+      "en": "scene 4",
+      "zh": ""
+    },
+    {
+      "en": "scene 3",
+      "zh": ""
+    },
+    {
+      "en": "scene 2",
+      "zh": ""
+    },
+    {
+      "en": "scene 3",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyodontpry23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry23.webp",
+      "alt": "tsuneyodontpry23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mngh! Mnh! My head! I...aaah! It hurts! It...hurts!",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 嗯啊！嗯！我的头！我……啊啊！好痛！好……好痛！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry24.webp",
+      "alt": "tsuneyodontpry24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 它在……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": ..."
+    },
+    {
+      "en": ": It’s...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 它在……"
+    },
+    {
+      "en": ": Stopping?...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 停下？……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry25.webp",
+      "alt": "tsuneyodontpry25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A chance to strike while the iron is hot.",
+      "zh": "趁热打铁的时机。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...hah...hah...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 哈……哈……哈……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsuneyodontpry26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/tsuneyodontpry26.webp",
+      "alt": "tsuneyodontpry26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "If {i}he{/i} were to black out too, who {i}knows{/i} what would happen right now?",
+      "zh": "如果{i}他{/i}也昏过去了，{i}谁知道{/i}现在会发生什么？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei?...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": Sensei？……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Something...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 有什么……"
+    },
+    {
+      "en": ": Is...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 正在……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Coming...",
+      "spk": "Tsuneyo",
+      "spkColor": "#C8B330",
+      "zh": ": 到来……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ tsuneyospring5 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump tsuneyospring6",
+      "zh": ""
+    }
+  ]
 }
