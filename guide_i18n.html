@@ -211,7 +211,7 @@ function chapterGroups(catName, grouped){
   return out.length ? out : null;
 }
 function renderItem(g, i, catName){
-  let hint = g.missedTitles.length ? '<span class="hint">错过时显示「<b>'+esc(g.missedTitles.join(' / '))+'</b>」</span>' : '';
+  let hint = g.missedTitles.length ? '<span class="hint" data-miss="'+escA(g.label)+'" data-missen="'+escA(g.missedTitles.join(' / '))+'" title="'+escA(g.missedTitles.join(' / '))+'">错过时显示「<b>'+missHtml(g.label, g.missedTitles.join(' / '))+'</b>」</span>' : '';
   let badge = (g.missed && !g.missedTitles.length) ? '<span class="badge">⚠ 错过</span>' : '';
   let cat = catName ? '<span class="cat">'+esc(catName)+'</span>' : '';
   let cls = (g.missed && !g.missedTitles.length) ? 'item miss' : 'item';
@@ -308,8 +308,8 @@ function renderVerItem(e){
   const hasAlt = titles.length > 0;
   let badge = (e.missed && !hasAlt) ? '<span class="badge">⚠ 可错过事件</span>' : '';
   let hint = hasAlt
-    ? '<span class="hint"><span class="p">错过时显示「</span><b>'
-      + esc(titles.join(' / ')) + '</b><span class="p">」</span></span>' : '';
+    ? '<span class="hint" data-miss="'+escA(e.label)+'" data-missen="'+escA(titles.join(' / '))+'" title="'+escA(titles.join(' / '))+'"><span class="p">错过时显示「</span><b>'
+      + missHtml(e.label, titles.join(' / ')) + '</b><span class="p">」</span></span>' : '';
   return '<div class="item'+(e.missed && !hasAlt ? ' miss':'')+'" onclick="openEvent('+e.ci+','+e.idx+',3)">'
     + '<span class="t" data-lab="'+escA(e.label)+'">'+dispTitle(e)+'</span>'+badge+hint
     + '<span class="relcat">'+esc(e.cat)+'</span></div>';
@@ -578,6 +578,39 @@ const EVENTS_BASE = "context/events";
 let LANG = localStorage.getItem("lil_lang") || "zh";
 const _evCache = {};   // label -> Promise<json>
 var ZH_TITLE = {};     // label -> 中文标题（fetchEvent 解析后填充；无译文则留空，回退英文）
+var ZH_MISSED = {};    // label -> 「错过时显示」标题中文（_missed_zh.json；无译文则回退英文）
+(function(){
+  try{
+    fetch("context/_missed_zh.json", {cache:"no-store"})
+      .then(function(r){ return r.json(); })
+      .then(function(j){ ZH_MISSED = j || {}; try{ refreshTitles(); }catch(e){} })  // 到货后补刷一次（渲染早于 fetch 的情况）
+      .catch(function(){});           // 失败（如 file:// 协议）则静默回退英文
+  }catch(e){}
+})();
+/* 「错过时显示」红字：与主标题同一套切换规则（zh→中文，无译文回退英文 / en→英文 / bi→中文为主+英文副行）
+   注意：ZH_MISSED 是异步 fetch 的，切语言时若还没到，会短暂显示英文；到货后下次 refreshTitles 即正常。 */
+function missTxt(label, en){          // 纯文本版（搜索、title 提示用）
+  const zh = (ZH_MISSED && ZH_MISSED[label]) || "";
+  if(LANG === 'en') return en;
+  if(LANG === 'bi') return (zh || en) + ((zh && zh !== en) ? ' ('+en+')' : '');
+  return zh || en;
+}
+function missHtml(label, en){         // 已转义的 HTML 版，供 <b> 内直接插入（不要再 esc）
+  const zh = (ZH_MISSED && ZH_MISSED[label]) || "";
+  if(LANG === 'en') return _esc(en);
+  if(LANG === 'bi'){
+    const main = zh || en;
+    const sec = (zh && zh !== en) ? ' <span class="ttl-en" style="color:var(--muted);font-weight:normal">'+_esc(en)+'</span>' : '';
+    return _esc(main) + sec;
+  }
+  return _esc(zh || en);
+}
+function missOf(label){               // 取该事件的英文错过标题（供 refreshTitles 重绘）
+  const it = _itemByLabel(label);
+  if(!it) return "";
+  if((it.missedTitles || []).length) return it.missedTitles.join(' / ');
+  return it.missedAlt || "";          // 旧字段回退：missedTitles 是运行时构建的，原始数据可能只有 missedAlt
+}
 let _curView = function(){ goHome(); };   // 当前视图重绘闭包，供语言切换时刷新标题
 
 function setLang(l){
@@ -589,6 +622,31 @@ function setLang(l){
   refreshTitles();
 }
 function _esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+/* Ren'Py 文本标签 → HTML（与 build_nav.py 的 esc_html_rpy 对齐）
+   {i}斜体 {b}粗体 {s}删除线 {u}下划线 {size=±N}字号 {color=#xxx}颜色 {font=}字体
+   先转义再转标签，故标签不会破坏 HTML；行尾未闭合的按计数补齐（每行独立 div，不外溢）。
+   未知标签（{w}{nw}{fast}{cps}{k}…）一律剥除，避免裸标签露出。 */
+function _fmt(s){
+  let t = _esc(s||"");
+  t = t.replace(/\{i\}/g,"<i>").replace(/\{\/i\}/g,"</i>");
+  t = t.replace(/\{b\}/g,"<b>").replace(/\{\/b\}/g,"</b>").replace(/\{\/B\}/g,"</b>");
+  t = t.replace(/\{s\}/g,"<s>").replace(/\{\/s\}/g,"</s>");
+  t = t.replace(/\{u\}/g,"<u>").replace(/\{\/u\}/g,"</u>");
+  t = t.replace(/\{size=([+-]?\d+)\}/g, function(_m,v){
+    if(v.charAt(0)==='+') return '<span style="font-size:calc(var(--cfs,13px) + '+v.slice(1)+'px)">';
+    if(v.charAt(0)==='-') return '<span style="font-size:max(9px, calc(var(--cfs,13px) - '+v.slice(1)+'px))">';
+    return '<span style="font-size:'+v+'px">';
+  });
+  t = t.replace(/\{color=([^}]*)\}/g, '<span style="color:$1">').replace(/\{\/color\}/g,"</span>");
+  t = t.replace(/\{\/?(?:size|font)(?:=([^}]*))?\}/g, function(m){ return m.charAt(1)==='/' ? '</span>' : ''; });
+  t = t.replace(/\{\/?[a-zA-Z]+(?:=[^}]*)?\}/g, "");   // 残留未知标签剥除
+  const pairs = [["<i>","</i>"],["<b>","</b>"],["<s>","</s>"],["<u>","</u>"],["<span","</span>"]];
+  for(let p=0;p<pairs.length;p++){
+    const no = t.split(pairs[p][0]).length - 1, nc = t.split(pairs[p][1]).length - 1;
+    if(no > nc) t += pairs[p][1].repeat(no - nc);
+  }
+  return t;
+}
 
 /* 事件标题按 LANG 切换：zh→中文(无译文回退英文) / en→英文 / bi→中文为主+英文副行 */
 function dispTitle(item){
@@ -614,9 +672,10 @@ function titleMatches(g, q){
   const en = (g.title||"").toLowerCase();
   const zh = (g.label ? (ZH_TITLE[g.label]||"") : "").toLowerCase();
   const alt = (g.missedTitles||[]).map(t=>t.toLowerCase());
+  const altZh = (g.label ? ((ZH_MISSED && ZH_MISSED[g.label]) || "") : "").toLowerCase();   // 错过标题的中文
   if(LANG === 'en') return en.includes(q) || alt.some(t=>t.includes(q));
-  if(LANG === 'bi') return en.includes(q) || zh.includes(q) || alt.some(t=>t.includes(q));
-  return (zh ? zh.includes(q) : en.includes(q)) || alt.some(t=>t.includes(q));
+  if(LANG === 'bi') return en.includes(q) || zh.includes(q) || alt.some(t=>t.includes(q)) || (!!altZh && altZh.includes(q));
+  return (zh ? zh.includes(q) : en.includes(q)) || alt.some(t=>t.includes(q)) || (!!altZh && altZh.includes(q));
 }
 
 /* label -> 事件对象 查找表（懒构建），供就地刷新标题用 */
@@ -646,6 +705,13 @@ function refreshTitles(){
     } else {
       el.innerHTML = dispTitle(it);
     }
+  });
+  /* 「错过时显示」红字同步切换（只换 <b> 内容，外层 hint 结构与 title 提示保留） */
+  document.querySelectorAll('[data-miss]').forEach(el => {
+    // 英文优先读渲染时写进 DOM 的 data-missen；没有再回 missOf（含 missedAlt 回退）
+    const en = el.dataset.missen || missOf(el.dataset.miss);
+    const b = el.querySelector('b');
+    if(b && en) b.innerHTML = missHtml(el.dataset.miss, en);   // en 为空则保留原样，绝不刷成空白
   });
 }
 
@@ -766,6 +832,26 @@ else window.addEventListener("load", _boot);
 /* 渲染完整克隆的行序列（100% 还原原版 DOM 结构）：
    图片行 {img} / 对话行 {spk,en,zh} / 旁白代码行 {en,zh} / 空行 {en:""}
    中文行 = 英文行镜像（图片除外，图片中英共用） */
+/* 正文净化：去掉 Ren'Py 的 label 声明行（如 `label chikadorm5:`）以及它前后残留的开头空行。
+   只影响渲染，不改动 events/*.json（en 是译文锚点，不能动数据）。 */
+function stripLeadingCode(lines){
+  const src = lines || [];
+  const out = [];
+  for(const L of src){
+    const en = (L.en || "").trim();
+    if(/^label\s+\S/.test(en)) continue;        // label 声明行，无阅读价值
+    out.push(L);
+  }
+  let i = 0;                                    // 再去掉开头连续的空行
+  while(i < out.length){
+    const L = out[i];
+    if(L.img || L.cap) break;
+    if((L.en || "").trim() || (L.zh || "").trim()) break;
+    i++;
+  }
+  return out.slice(i);
+}
+
 function renderLines(lines){
   let h = "";
   for(const L of lines){
@@ -792,19 +878,19 @@ function renderLines(lines){
       // 对话行：原版 .l > .s[颜色] + .d
       const col = L.spkColor || "";
       const spkHtml = '<span class="s"'+(col?' style="color:'+col+'"':'')+'>'+_esc(L.spk)+'</span>';
-      h += '<div class="l en-l'+nozh+'">'+spkHtml+'<span class="d">'+_esc(en)+'</span></div>';
-      h += '<div class="l zh-l'+nozh+'">'+spkHtml+'<span class="d">'+_esc(zh)+'</span></div>';
+      h += '<div class="l en-l'+nozh+'">'+spkHtml+'<span class="d">'+_fmt(en)+'</span></div>';
+      h += '<div class="l zh-l'+nozh+'">'+spkHtml+'<span class="d">'+_fmt(zh)+'</span></div>';
     } else if(L.opt){
       // 选项行：原版 .opt
-      h += '<div class="opt en-l'+nozh+'">'+_esc(en)+'</div>';
-      h += '<div class="opt zh-l'+nozh+'">'+_esc(zh)+'</div>';
+      h += '<div class="opt en-l'+nozh+'">'+_fmt(en)+'</div>';
+      h += '<div class="opt zh-l'+nozh+'">'+_fmt(zh)+'</div>';
     } else if(!hasZh && /^(label\s|scene\s|jump\s|call\s|show\s|play\s|stop\s|if\s|\$|menu|pause|return|with\s|hide\s)/.test(en.trim())){
       // 代码/指令行（无中文翻译价值）：中英共用，只显示一次
       h += '<div class="c">'+_esc(en)+'</div>';
     } else {
       // 旁白叙述行：原版 .c，中英对照
-      h += '<div class="c en-l'+nozh+'">'+_esc(en)+'</div>';
-      h += '<div class="c zh-l'+nozh+'">'+_esc(zh)+'</div>';
+      h += '<div class="c en-l'+nozh+'">'+_fmt(en)+'</div>';
+      h += '<div class="c zh-l'+nozh+'">'+_fmt(zh)+'</div>';
     }
   }
   return h || '<span class="loading">（无正文数据）</span>';
@@ -812,6 +898,7 @@ function renderLines(lines){
 
 /* 分段渲染：大事件分批插入 DOM，首帧先出，避免整页卡住 */
 function renderLinesChunked(lines, contentBox){
+  lines = stripLeadingCode(lines);      // 去掉 label 声明行 + 开头空行（仅渲染层，不动数据）
   const CHUNK = 300;
   const total = lines.length;
   if(total <= CHUNK){ contentBox.innerHTML = renderLines(lines); return; }

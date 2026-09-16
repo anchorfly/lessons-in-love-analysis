@@ -26,7 +26,12 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v6';   // 事件译文 JSON：稳定名，不再 bump；失效靠 guide.html 开机精准删条目
-const CACHE_DOC = 'lil-doc-v3';   // HTML 外壳等：swr 后台刷新；v3 bump 强制重预缓存新版 guide_i18n.html（含 _syncEvtCache 缓存失效 + undefined/滚动修复；旧版被 SW 缓存导致改动不生效）
+const CACHE_DOC = 'lil-doc-v5';   // HTML 外壳等：swr 后台刷新。
+                                  // ⚠️ 铁律：每改一次 guide.html / guide_i18n.html 就必须 +1（v3→v4→…），
+                                  // 否则浏览器一直吃 SW 缓存的旧 HTML，用户必须手动清缓存才能看到改动。
+                                  // 历史：v3=_syncEvtCache 缓存失效+undefined/滚动修复；
+                                  //       v4=「错过时显示」红字中文三态切换（missTxt/missHtml/missOf + ZH_MISSED）
+                                  //          + 正文过滤 rpy `label xxx:` 声明行（stripLeadingCode）。
 const PRECACHE_HTML = ['guide.html', 'guide_i18n.html'];
 const IMG_RE = /\.(?:webp|png|jpe?g|gif|avif|svg|bmp|ico)(?:[?#]|$)/i;
 const EVENT_RE = /\/context\/events\/[^?#]+\.json(?:[?#]|$)/i;
