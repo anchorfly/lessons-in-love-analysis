@@ -721,6 +721,9 @@ function _esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").repla
    未知标签（{w}{nw}{fast}{cps}{k}…）一律剥除，避免裸标签露出。 */
 function _fmt(s){
   let t = _esc(s||"");
+  /* Ren'Py 里 `[[` / `]]` 是字面量方括号的转义（源码写 [[redacted]，游戏显示 [redacted]）。
+     数据里保留的是原始转义形态，这里反转义，否则会多出一个方括号。 */
+  t = t.replace(/\[\[/g,"[").replace(/\]\]/g,"]");
   t = t.replace(/\{i\}/g,"<i>").replace(/\{\/i\}/g,"</i>");
   t = t.replace(/\{b\}/g,"<b>").replace(/\{\/b\}/g,"</b>").replace(/\{\/B\}/g,"</b>");
   t = t.replace(/\{s\}/g,"<s>").replace(/\{\/s\}/g,"</s>");

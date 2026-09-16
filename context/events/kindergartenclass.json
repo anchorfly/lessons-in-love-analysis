@@ -1,1491 +1,1491 @@
 {
-  "label": "kindergartenclass",
-  "lines": [
-    {
-      "en": ""
-    },
-    {
-      "en": "label kindergartenclass:",
-      "zh": ""
-    },
-    {
-      "en": "scene l",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/l.png",
-      "alt": "l"
-    },
-    {
-      "en": "scene e",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/e.png",
-      "alt": "e"
-    },
-    {
-      "en": "scene t",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/t.png",
-      "alt": "t"
-    },
-    {
-      "en": "scene m",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/m.png",
-      "alt": "m"
-    },
-    {
-      "en": "scene e",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/e.png",
-      "alt": "e"
-    },
-    {
-      "en": "scene o",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/o.png",
-      "alt": "o"
-    },
-    {
-      "en": "scene u",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/u.png",
-      "alt": "u"
-    },
-    {
-      "en": "scene t",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/t.png",
-      "alt": "t"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone1.webp",
-      "alt": "lessonone1"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Okay, kids!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 好了，孩子们！"
-    },
-    {
-      "en": ": Settle down, settle down.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 安静，安静。"
-    },
-    {
-      "en": ": Today, we’re going to talk about something very important.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 今天，我们要聊一件非常重要的事。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone2.webp",
-      "alt": "lessonone2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Life comes with its share of hardships. We all know this.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 人生难免有苦难。这一点我们都知道。"
-    },
-    {
-      "en": ": But what are we supposed to do when those hardships become too much to handle and we just want to curl into a ball and cry?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 可当那些苦难沉重到我们承受不住，只想蜷成一团大哭一场的时候，我们该怎么办呢？"
-    },
-    {
-      "en": ": Oh! Oh! I know!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 哦！哦！我知道！"
-    },
-    {
-      "en": ": Sure! Go ahead, Ami!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 当然！你说吧，Ami！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone3.webp",
-      "alt": "lessonone3"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Well...when I’m sad, I normally ask daddy to make me a peanut butter and jelly sandwich.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 嗯……我难过的时候，通常会让爸爸给我做一个花生酱果酱三明治。"
-    },
-    {
-      "en": ": That always cheers me right up.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 那总能让我马上开心起来。"
-    },
-    {
-      "en": ": So is the answer...peanut butter and jelly sandwiches?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 所以答案是……花生酱果酱三明治？"
-    },
-    {
-      "en": ": I think she’s looking for a more realistic answer, Ami. One like-",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 我觉得老师想要的是一个更现实的答案，Ami。像是——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone2.webp",
-      "alt": "lessonone2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Great job, Ami!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 答得好，Ami！"
-    },
-    {
-      "en": ": We can all find happiness in different things.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 我们都可以在不同的事物里找到幸福。"
-    },
-    {
-      "en": ": For some people, it might be peanut butter and jelly sandwiches.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 对有些人来说，也许是花生酱果酱三明治。"
-    },
-    {
-      "en": ": But for other people, it might be something like a puppy! Or Jesus!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 但对另一些人来说，也许是一只小狗！或者耶稣！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene t",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/t.png",
-      "alt": "t"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Jesus?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 耶稣？"
-    },
-    {
-      "en": ": Yes! Isn’t he handsome?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 没错！他是不是很帅？"
-    },
-    {
-      "en": ": It doesn’t have to be just Jesus either.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 也不一定非得是耶稣。"
-    },
-    {
-      "en": ": There are plenty of religious icons that we can choose from in the world! And every single one of them has a chance to lead us to happiness in some way or another.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 这世上有许许多多的宗教偶像供我们选择！而它们中的每一个，都有机会以某种方式把我们引向幸福。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone2.webp",
-      "alt": "lessonone2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": But that’s probably a lesson for another day.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 不过那大概是改天的课程了。"
-    },
-    {
-      "en": ": Since today is all about happiness, how about we do a little experimentation on different things that make us happy?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 既然今天讲的是幸福，那我们不如来做个小实验，试试各种能让我们幸福的东西？"
-    },
-    {
-      "en": ": I have a question.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 我有个问题。"
-    },
-    {
-      "en": ": So, is everyone ready to start?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 那么，大家都准备好开始了吗？"
-    },
-    {
-      "en": ": Yeah!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 好！"
-    },
-    {
-      "en": ": Wait, I-",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 等等，我——"
-    },
-    {
-      "en": ": Great!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 太好了！"
-    },
-    {
-      "en": ": Snap your fingers and your props for today’s lab should appear right in front of you.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 打个响指，你们今天的实验道具就会出现在眼前。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone4.webp",
-      "alt": "lessonone4"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I recall a story about a girl who got lost wandering home from a net cafe one night.",
-      "zh": "我想起一个故事，关于一个女孩，某天夜里从网吧回家的路上迷了路。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "She’d been previously exposed to the evils of man in the form of a distant relative, but had since forced it out of her mind like an unfortunate mother would with a miscarried child.",
-      "zh": "她曾经在某位远房亲戚身上见识过男人的邪恶，但早已把它从脑海里驱逐出去，就像一个不幸的母亲对待一个流产的孩子那样。"
-    },
-    {
-      "en": "The sky was clear that night and the weather was hot.",
-      "zh": "那天夜里天空晴朗，天气很热。"
-    },
-    {
-      "en": "She could feel her debatably nubile flesh moistening and sticking to the fabric of her shirt, prompting her to use her fingers to pluck it off and fan herself down every several minutes.",
-      "zh": "她能感觉到自己那具说不上算不算妙龄的身体正渗出汗水，黏在衬衫的布料上，逼得她每隔几分钟就得用手指把衣服扯开、给自己扇风。"
-    },
-    {
-      "en": "She passed a total of nineteen vending machines along the way, but did not have enough money on her to purchase anything from even one.",
-      "zh": "一路上她总共经过了十九台自动售货机，可她身上的钱连买一样东西都不够。"
-    },
-    {
-      "en": "Her lips had gone dry in vast contradiction to every other inch of skin on her body.",
-      "zh": "她的嘴唇干裂，与她身上其他每一寸皮肤形成了强烈的反差。"
-    },
-    {
-      "en": "She was dehydrated.",
-      "zh": "她脱水了。"
-    },
-    {
-      "en": "A man called out from a bench, asking her if she’d like him to buy her a drink, but she refused.",
-      "zh": "一个男人从长椅上朝她喊，问她想不想让他给她买杯喝的，但她拒绝了。"
-    },
-    {
-      "en": "He had no ill intentions, but she was smart enough to pay no mind to strangers on account of all of the evil things she had heard in the past.",
-      "zh": "他并无恶意，可她足够聪明，不会去理会陌生人——因为她过去听说了太多邪恶的事。"
-    },
-    {
-      "en": "She never made it home that night because she didn’t have one.",
-      "zh": "那天夜里她没能回到家里，因为她根本没有家。"
-    },
-    {
-      "en": "Some say she’s still wandering around to this day.",
-      "zh": "有人说，她至今还在四处游荡。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/subscribestar/lessonone5.webp",
-      "alt": "lessonone5"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Woah! What are these things?! They’re huge!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 哇哦！这些东西是什么？！好大！"
-    },
-    {
-      "en": ": Those are your props for the happiness experiment!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 那就是你们的幸福实验道具！"
-    },
-    {
-      "en": ": Aren’t these-",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 这些该不会是——"
-    },
-    {
-      "en": ": Those are your props for the happiness experiment!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 那就是你们的幸福实验道具！"
-    },
-    {
-      "en": ": What are we supposed to do with them?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 我们该拿它们做什么呢？"
-    },
-    {
-      "en": ": Whatever you want, Ami! That’s how happiness is made!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你想做什么都行，Ami！幸福就是这么造出来的！"
-    },
-    {
-      "en": ": No one is forcing you to do anything.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 没有人逼你做任何事。"
-    },
-    {
-      "en": ": But if you do, it would make me really happy and bring us a lot closer together.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 不过如果你做了，我会非常开心，我们也会亲近很多。"
-    },
-    {
-      "en": ": Well...I do want you to be happy...",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 嗯……我确实想让你开心……"
-    },
-    {
-      "en": ": And I don’t want to get in trouble for not being a good student...so I guess I can try and figure out something.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 而且我也不想因为不是个好学生而惹上麻烦……所以我想我可以试着想点办法。"
-    },
-    {
-      "en": ": Good girl!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 好孩子！"
-    },
-    {
-      "en": ": [[redacted], why don’t you give her a hand?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": [[redacted]，你去帮帮她怎么样？"
-    },
-    {
-      "en": ": dof pz tpul zohwlk kpmmlyluasf?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": dof pz tpul zohwlk kpmmlyluasf? (为什么我的形状不一样？)"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Because boys and girls find happiness in different ways.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 因为男孩和女孩找到幸福的方式不同。"
-    },
-    {
-      "en": ": There are some people out there who feel empty inside, and other people who are so full of life that they need to share it with the world!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 有些人内心空虚，而另一些人充实得满溢出来，必须和这个世界分享！"
-    },
-    {
-      "en": ": You’re a special boy, [[redacted]! And you have so much to give!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你是个特别的男孩，[[redacted]！你有那么多东西可以给予！"
-    },
-    {
-      "en": ": So maybe you might want to use your prop to try and share some of yourself with everyone else?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 所以，也许你可以用你的道具，试着把自己的一部分分享给大家？"
-    },
-    {
-      "en": ": p kvua buklyzahuk.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": p kvua buklyzahuk. (我不明白。)"
-    },
-    {
-      "en": ": That’s okay! It’s always fine to ask for help if you’re feeling a little confused.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 没关系！感到有点困惑的时候，寻求帮助永远都是可以的。"
-    },
-    {
-      "en": ": In fact, how about you stay after class and I help give you a few ideas?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 事实上，你不如放学后留下来，我给你出几个主意？"
-    },
-    {
-      "en": ": Just don’t tell anyone about it.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 只是别告诉任何人。"
-    },
-    {
-      "en": ": It will be a little secret between you and me, okay?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 这会是你和我之间的小秘密，好吗？"
-    },
-    {
-      "en": ": tf ivkf mllsz zayhunl.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": tf ivkf mllsz zayhunl. (我的身体感觉很奇怪。)"
-    },
-    {
-      "en": "scene lessonone6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/subscribestar/lessonone6.webp",
-      "alt": "lessonone6"
-    },
-    {
-      "en": "I recall a story about a swarm of flies that went out exploring one day.",
-      "zh": "我想起一个故事，关于一群有一天出门探险的苍蝇。"
-    },
-    {
-      "en": "It’s unrelated to the lesson at hand, but I would like to tell you about it anyway.",
-      "zh": "这故事和眼前的课没什么关系，但我还是想讲给你们听。"
-    },
-    {
-      "en": "You see, the flies actually weren’t flies at all.",
-      "zh": "你看，那些苍蝇其实根本不是苍蝇。"
-    },
-    {
-      "en": "They were flowers.",
-      "zh": "它们是花。"
-    },
-    {
-      "en": "And they didn’t go out exploring because flowers are not mobile creatures.",
-      "zh": "而且它们之所以没有出门探险，是因为花不是会移动的生物。"
-    },
-    {
-      "en": "But they were beautiful nonetheless, the same way flies and all other living creatures are beautiful.",
-      "zh": "但它们依然美丽，就像苍蝇和所有其他生物一样美丽。"
-    },
-    {
-      "en": "Everything was going fine and they were living happily until some guy showed up and stepped on all of them.",
-      "zh": "一切都很顺利，它们过着幸福的日子，直到某个家伙出现，把它们统统踩烂。"
-    },
-    {
-      "en": "He had no true purpose or motive to do so, he just wanted to have some fun.",
-      "zh": "他这么做并没有什么真正的目的或动机，他只是想找点乐子。"
-    },
-    {
-      "en": "And his idea of fun had become twisted after being forced at his parents' behest to hide his true sexuality from everyone around him.",
-      "zh": "而他对于「乐子」的理解，在迫于父母之命、不得不对身边所有人隐瞒自己真实性取向后，已经扭曲了。"
-    },
-    {
-      "en": "If he could not find happiness the only way he wanted to, why should anyone {i}else{/i} be able to find happiness?",
-      "zh": "如果他没法用自己唯一想要的方式找到幸福，那凭什么{i}别人{/i}就能找到幸福？"
-    },
-    {
-      "en": "He knew that there were many people who liked flowers, so he trampled over all of them and made sure that no one would ever be able to see them or touch them or feel them again.",
-      "zh": "他知道有很多人喜欢花，于是他把它们全都踩烂，确保再也没有人能看到它们、触碰它们、感受它们。"
-    },
-    {
-      "en": "Then, he went home and hung himself.",
-      "zh": "然后，他回到家，上吊自杀了。"
-    },
-    {
-      "en": "The end.",
-      "zh": "故事结束。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/subscribestar/lessonone7.webp",
-      "alt": "lessonone7"
-    },
-    {
-      "en": ": Are you guys getting the hang of it yet?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你们找到窍门了吗？"
-    },
-    {
-      "en": ": Um...I don’t think so.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 嗯……我觉得没有。"
-    },
-    {
-      "en": ": There aren’t really many things I can think of doing with this thing.",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 我真想不出能拿这玩意儿做些什么。"
-    },
-    {
-      "en": ": There aren’t many things {i}to{/i} do with this thing. It really only serves one purpose.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 这东西{i}能做{/i}的事本来就不多。它真的只有一个用途。"
-    },
-    {
-      "en": ": [[redacted], you haven’t even touched yours yet! How come?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": [[redacted]，你连自己的都还没碰过呢！为什么？"
-    },
-    {
-      "en": ": How are you supposed to ever be happy if you’re not willing to put in a little bit of work for it?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 如果你不肯为幸福付出一点努力，你怎么可能幸福得起来？"
-    },
-    {
-      "en": ": pt zjhylk.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": pt zjhylk. (我很害怕。)"
-    },
-    {
-      "en": ": Hmm...hmmm...hmmmmmm~",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 嗯……嗯嗯……嗯嗯嗯嗯~"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone2.webp",
-      "alt": "lessonone2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": In that case, how about a more hands on experiment?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 那样的话，不如我们来做一个更手把手的实验？"
-    },
-    {
-      "en": ": You’re my favorite student after all, so I wouldn’t mind helping you out a little if you can’t find happiness on your own!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你毕竟是我最喜欢的学生，所以如果你自己找不到幸福，我不介意帮你一把！"
-    },
-    {
-      "en": ": I used to be the same as you, you know.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你知道吗，我以前也和你一样。"
-    },
-    {
-      "en": ": But after years and years of experimentation, I realized that some people just aren’t built to be happy at all!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 但经过年复一年的实验，我意识到，有些人根本就不是生来能幸福的！"
-    },
-    {
-      "en": ": Which is totally okay. People are different.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 这完全没关系。人是不同的。"
-    },
-    {
-      "en": ": And maybe you’re one of them, too.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 说不定你也是其中之一。"
-    },
-    {
-      "en": ": But we’ll never really know until we try, okay?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 可要是不试一试，我们永远也不会知道，对吧？"
-    },
-    {
-      "en": ": Uhh...teacher?",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 呃……老师？"
-    },
-    {
-      "en": ": ...",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": ..."
-    },
-    {
-      "en": ": Teacher?",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 老师？"
-    },
-    {
-      "en": ": What.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 干什么。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/subscribestar/lessonone8.webp",
-      "alt": "lessonone8"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": There’s this weird white stuff coming out of mine.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 我的那个里面流出一种奇怪的白色东西。"
-    },
-    {
-      "en": ": Awesome. Good for you.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 好极了。真有你的。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone9.webp",
-      "alt": "lessonone9"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": It tastes a little weird, but it’s not bad.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 味道有点怪，不过不难吃。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Hey! How come Maya’s is doing something different but mine isn't doing anything at all?! This isn’t fair!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 嘿！为什么 Maya 的那个有反应，我的却一点动静都没有？！这不公平！"
-    },
-    {
-      "en": ": Some people are just lucky, Ami! Keep working at it and you’ll get it there for sure.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 有些人就是运气好，Ami！继续努力，你一定也能做到。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Just don’t put any of the white stuff in your mouth or you might get sick and die.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 只是千万别把那些白色的东西放进嘴里，不然你可能会生病死掉。"
-    },
-    {
-      "en": ": What?",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 什么？"
-    },
-    {
-      "en": "scene lessonone2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone2.webp",
-      "alt": "lessonone2"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That’s right!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 没错！"
-    },
-    {
-      "en": ": Happiness has limits.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 幸福是有极限的。"
-    },
-    {
-      "en": ": For example, how do you feel after you help an old lady cross the street?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 比如说，你扶一位老太太过马路之后，感觉怎么样？"
-    },
-    {
-      "en": ": Good!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 很好！"
-    },
-    {
-      "en": ": Right! Good!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 对！很好！"
-    },
-    {
-      "en": ": But what if the old lady tells you after you finish helping her that she’s on her way to an animal shelter to euthanize a bunch of puppies?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 可如果老太太在你扶完她之后告诉你，她正要去动物收容所把一群小狗安乐死呢？"
-    },
-    {
-      "en": ": How would you feel then?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 那时候你会是什么感觉？"
-    },
-    {
-      "en": ": Good!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 很好！"
-    },
-    {
-      "en": ": Nope! Try again, Ami.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 不对！再猜一次，Ami。"
-    },
-    {
-      "en": ": Um...bad?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 嗯……不好？"
-    },
-    {
-      "en": ": Great job!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 答得好！"
-    },
-    {
-      "en": ": Why wouldn’t we want them to be younger, though?",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 可我们为什么不想让它们变年轻呢？"
-    },
-    {
-      "en": ": ...What?",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": ……什么？"
-    },
-    {
-      "en": ": Oh, I see what happened! You thought “euthanize” meant “make them youthful.” A simple mistake!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 哦，我明白是怎么回事了！你以为「euthanize」是「让它们变得年轻」。一个简单的误会！"
-    },
-    {
-      "en": ": It means to kill them, Ami.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 那是杀掉它们的意思，Ami。"
-    },
-    {
-      "en": ": I’m sorry, are you the teacher now?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 抱歉，现在老师是你来当吗？"
-    },
-    {
-      "en": ": No, I just-",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 不，我只是——"
-    },
-    {
-      "en": ": Why don’t you just go home for the day?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你不如今天就回家去吧？"
-    },
-    {
-      "en": ": I don’t have a ride.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 我没车回去。"
-    },
-    {
-      "en": ": Well you should have thought about that before calling out in class.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 那你当初在课堂上插嘴之前，就该想到这一点。"
-    },
-    {
-      "en": ": jhu p nv ovtl?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": jhu p nv ovtl? (我能回家了吗？)"
-    },
-    {
-      "en": ": Not yet! The day has only just begun!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 还不行！这一天才刚刚开始！"
-    },
-    {
-      "en": ": We still have plenty more lessons after this.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 这之后我们还有好多课要上呢。"
-    },
-    {
-      "en": ": But since we seem to be having a little bit of trouble, I’ll come over and help you right now.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 不过既然我们好像遇到了一点困难，那我现在就过去帮帮你吧。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/subscribestar/lessonone10.webp",
-      "alt": "lessonone10"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I’m here!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 我来了！"
-    },
-    {
-      "en": ": [[redacted], sometimes, in order to truly understand what it means to be happy, you have to try a bunch of things you normally wouldn’t.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": [[redacted]，有时候，为了真正理解幸福的含义，你得尝试一堆平时不会去做的事。"
-    },
-    {
-      "en": ": And since this will be our first time trying it together, maybe it will make {i}me{/i} happy, too!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 而且既然这是{i}我{/i}们第一次一起尝试，说不定也会让我幸福起来！"
-    },
-    {
-      "en": ": There’s really no way of knowing unless we try, right?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 不试一试，就真的无从得知，对吧？"
-    },
-    {
-      "en": ": doha ht p zbwwvzlk av kv? (what am i supposed to do?)",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": doha ht p zbwwvzlk av kv? (我该做什么？)"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You can start by touching my SUNFLOWER.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你可以先摸一摸我的向日葵。"
-    },
-    {
-      "en": ": Feel around the different petals however you want.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 想怎么摸那些花瓣都行。"
-    },
-    {
-      "en": ": Think of it as a replacement prop since yours was entirely useless!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 把它当成一件替代道具吧，毕竟你自己那件完全没用！"
-    },
-    {
-      "en": ": Ooh! Can I try next?!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 哦！那下一个能让我试试吗？！"
-    },
-    {
-      "en": ": No.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 不行。"
-    },
-    {
-      "en": ": Can-",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 我可不可以——"
-    },
-    {
-      "en": ": Why are you still here?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你怎么还在这儿？"
-    },
-    {
-      "en": ": I don’t really have anywhere else to go...",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 我也没别的地方可去……"
-    },
-    {
-      "en": ": Are you still scared, [[redacted]?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 你还在害怕吗，[[redacted]？"
-    },
-    {
-      "en": ": p qbza dhua aopz av zavw. (i just want this to stop.)",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": p qbza dhua aopz av zavw. (我只想让这一切停下来。)"
-    },
-    {
-      "en": ": I know it can be a little intimidating at first, but I can promise you that BEING HAPPY feels like nothing you’ve ever felt before.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 我知道一开始可能会有点让人发怵，但我可以向你保证，「变得幸福」的感觉，是你从未体验过的。"
-    },
-    {
-      "en": ": In fact, some people get so desperate that they wind up going to jail for a really long time just so they can BE HAPPY once!",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 事实上，有些人会绝望到甘愿为了「幸福一次」而坐上很久很久的牢！"
-    },
-    {
-      "en": ": Silly people! They should have just asked their dads to make them peanut butter and jelly sandwiches!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": 好傻的人！他们只要让爸爸给做花生酱果酱三明治就好了呀！"
-    },
-    {
-      "en": ": Hahahahahahahahahahahahahahahahahahahahahaha yes.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 是啊。"
-    },
-    {
-      "en": ": They should have done just that, Ami.",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 他们就该那么做，Ami。"
-    },
-    {
-      "en": ": So...are you going to keep me waiting, [[redacted]?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 那么……你打算让我一直等下去吗，[[redacted]？"
-    },
-    {
-      "en": ": Or are we going to find ourselves together?",
-      "spk": "Teacher",
-      "spkColor": "#969696",
-      "zh": ": 还是说，我们打算一起找到自我？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/subscribestar/lessonone11.webp",
-      "alt": "lessonone11"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "What do we do when happiness is unachievable?",
-      "zh": "当幸福无法实现的时候，我们该怎么办？"
-    },
-    {
-      "en": "When even the most drastic of measures can not propel us toward the section of life with more smiles than the others?",
-      "zh": "当即便是最极端的手段，也无法把我们推向人生中笑容比其他段落更多的那一节时？"
-    },
-    {
-      "en": "The answer is simple!",
-      "zh": "答案很简单！"
-    },
-    {
-      "en": "Smile anyway!",
-      "zh": "照样微笑！"
-    },
-    {
-      "en": "Turn everything into one giant facade, meticulously constructed to remind you at every single moment that you are special!",
-      "zh": "把一切变成一具巨大的假象，精心搭建，时时刻刻提醒你——你是特别的！"
-    },
-    {
-      "en": "You are a good guy!",
-      "zh": "你是个好人！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "You have a huge penis!",
-      "zh": "你有一根巨大的阴茎！"
-    },
-    {
-      "en": "Everyone likes you!",
-      "zh": "大家都喜欢你！"
-    },
-    {
-      "en": "Do sex to girls to make you feel better about yourself!",
-      "zh": "去和女孩做爱，好让你对自己感觉好一点！"
-    },
-    {
-      "en": "Because something everyone knows and ignores is that you, the protagonist of your own life, are also a victim of circumstance!",
-      "zh": "因为有一件人人都知道、却人人都忽略的事：你，你自己人生的主角，同样是环境的受害者！"
-    },
-    {
-      "en": "No one knows your deepest feelings because they are all locked away, just as they should be!",
-      "zh": "没有人知道你最深的感受，因为它们全都锁了起来，本该如此！"
-    },
-    {
-      "en": "And if they escape, people will fear you.",
-      "zh": "而一旦它们逃出来，人们就会惧怕你。"
-    },
-    {
-      "en": "The same goes for all of the other protagonists.",
-      "zh": "其他所有主角也是一样。"
-    },
-    {
-      "en": "Everyone has things they can’t share with others.",
-      "zh": "每个人都有无法与人分享的东西。"
-    },
-    {
-      "en": "Sometimes, it becomes hard to even accept or understand those things yourself.",
-      "zh": "有时候，连你自己都很难接受或理解那些东西。"
-    },
-    {
-      "en": "Are you hiding anything from me?",
-      "zh": "你有什么事瞒着我吗？"
-    },
-    {
-      "en": "If so, what is it?",
-      "zh": "如果有，那是什么？"
-    },
-    {
-      "en": "Think about it now!",
-      "zh": "现在就想一想！"
-    },
-    {
-      "en": "Dredge up those horrible memories and surrender yourself to the underlying misery in all things!",
-      "zh": "把那些可怕的记忆翻搅出来，把自己交给潜藏在万事万物之下的那份痛苦！"
-    },
-    {
-      "en": "It’s all fake! The whole world is fake!",
-      "zh": "全是假的！整个世界都是假的！"
-    },
-    {
-      "en": "Nothing is real!",
-      "zh": "没有什么是真的！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Do sex to girls!",
-      "zh": "去和女孩做爱！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/subscribestar/lessonone12.webp",
-      "alt": "lessonone12"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": You’re hitting my womb! It’s splitting wide open!",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 你顶到我的子宫了！它要裂开了！"
-    },
-    {
-      "en": ": I am internally bleeding and henceforth incapable of pleasure to the dismay of many readers with zero sexual experience or knowledge of the female anatomy!",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 我正在内出血，因此再也无法感受到快乐——这让许多毫无性经验、也对女性解剖学一无所知的读者大为失望！"
-    },
-    {
-      "en": ": Do sex to me with your giant penis in complete disregard for my safety, destroying the possibility of further sex doing in the future!",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 用你的巨大阴茎和我做爱吧，完全不顾我的安危，把未来再做爱的可能性彻底毁掉！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "Did you hear that?",
-      "zh": "听到了吗？"
-    },
-    {
-      "en": "You won!",
-      "zh": "你赢了！"
-    },
-    {
-      "en": "Your penis defeated a girl!",
-      "zh": "你的鸡巴打败了一个女孩！"
-    },
-    {
-      "en": "Go tell all of your friends about it!",
-      "zh": "去告诉你的所有朋友吧！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone13.webp",
-      "alt": "lessonone13"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": .........................................................",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": ........................................................."
-    },
-    {
-      "en": ": ..............................",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": .............................."
-    },
-    {
-      "en": ": ..........................................",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": .........................................."
-    },
-    {
-      "en": ": !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-    },
-    {
-      "en": ": .......................................",
-      "spk": "Ami",
-      "spkColor": "#FF4DD2",
-      "zh": ": ......................................."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene lessonone14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/lessonone14.webp",
-      "alt": "lessonone14"
-    },
-    {
-      "en": "scene colorbars",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/colorbars.png",
-      "alt": "colorbars"
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/black.png",
-      "alt": "black"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "You won!",
-      "zh": "你赢了！"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene l",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/l.png",
-      "alt": "l"
-    },
-    {
-      "en": "scene e",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/e.png",
-      "alt": "e"
-    },
-    {
-      "en": "scene t",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/t.png",
-      "alt": "t"
-    },
-    {
-      "en": "scene m",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/m.png",
-      "alt": "m"
-    },
-    {
-      "en": "scene e",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/e.png",
-      "alt": "e"
-    },
-    {
-      "en": "scene o",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/o.png",
-      "alt": "o"
-    },
-    {
-      "en": "scene u",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/u.png",
-      "alt": "u"
-    },
-    {
-      "en": "scene t",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Misc/t.png",
-      "alt": "t"
-    },
-    {
-      "en": "scene bedroom_normal",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/BGs/bedroom_normal.png",
-      "alt": "bedroom_normal"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ lesson1 = True",
-      "zh": ""
-    },
-    {
-      "en": "$ persistent.lesson1 = True",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump survivemenu",
-      "zh": ""
-    }
-  ]
+ "label": "kindergartenclass",
+ "lines": [
+  {
+   "en": ""
+  },
+  {
+   "en": "label kindergartenclass:",
+   "zh": ""
+  },
+  {
+   "en": "scene l",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/l.png",
+   "alt": "l"
+  },
+  {
+   "en": "scene e",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/e.png",
+   "alt": "e"
+  },
+  {
+   "en": "scene t",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/t.png",
+   "alt": "t"
+  },
+  {
+   "en": "scene m",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/m.png",
+   "alt": "m"
+  },
+  {
+   "en": "scene e",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/e.png",
+   "alt": "e"
+  },
+  {
+   "en": "scene o",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/o.png",
+   "alt": "o"
+  },
+  {
+   "en": "scene u",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/u.png",
+   "alt": "u"
+  },
+  {
+   "en": "scene t",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/t.png",
+   "alt": "t"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone1.webp",
+   "alt": "lessonone1"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Okay, kids!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 好了，孩子们！"
+  },
+  {
+   "en": ": Settle down, settle down.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 安静，安静。"
+  },
+  {
+   "en": ": Today, we’re going to talk about something very important.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 今天，我们要聊一件非常重要的事。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone2.webp",
+   "alt": "lessonone2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Life comes with its share of hardships. We all know this.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 人生难免有苦难。这一点我们都知道。"
+  },
+  {
+   "en": ": But what are we supposed to do when those hardships become too much to handle and we just want to curl into a ball and cry?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 可当那些苦难沉重到我们承受不住，只想蜷成一团大哭一场的时候，我们该怎么办呢？"
+  },
+  {
+   "en": ": Oh! Oh! I know!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 哦！哦！我知道！"
+  },
+  {
+   "en": ": Sure! Go ahead, Ami!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 当然！你说吧，Ami！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone3.webp",
+   "alt": "lessonone3"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Well...when I’m sad, I normally ask daddy to make me a peanut butter and jelly sandwich.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 嗯……我难过的时候，通常会让爸爸给我做一个花生酱果酱三明治。"
+  },
+  {
+   "en": ": That always cheers me right up.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 那总能让我马上开心起来。"
+  },
+  {
+   "en": ": So is the answer...peanut butter and jelly sandwiches?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 所以答案是……花生酱果酱三明治？"
+  },
+  {
+   "en": ": I think she’s looking for a more realistic answer, Ami. One like-",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我觉得老师想要的是一个更现实的答案，Ami。像是——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone2.webp",
+   "alt": "lessonone2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Great job, Ami!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 答得好，Ami！"
+  },
+  {
+   "en": ": We can all find happiness in different things.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 我们都可以在不同的事物里找到幸福。"
+  },
+  {
+   "en": ": For some people, it might be peanut butter and jelly sandwiches.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 对有些人来说，也许是花生酱果酱三明治。"
+  },
+  {
+   "en": ": But for other people, it might be something like a puppy! Or Jesus!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 但对另一些人来说，也许是一只小狗！或者耶稣！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene t",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/t.png",
+   "alt": "t"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Jesus?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 耶稣？"
+  },
+  {
+   "en": ": Yes! Isn’t he handsome?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 没错！他是不是很帅？"
+  },
+  {
+   "en": ": It doesn’t have to be just Jesus either.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 也不一定非得是耶稣。"
+  },
+  {
+   "en": ": There are plenty of religious icons that we can choose from in the world! And every single one of them has a chance to lead us to happiness in some way or another.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 这世上有许许多多的宗教偶像供我们选择！而它们中的每一个，都有机会以某种方式把我们引向幸福。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone2.webp",
+   "alt": "lessonone2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": But that’s probably a lesson for another day.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 不过那大概是改天的课程了。"
+  },
+  {
+   "en": ": Since today is all about happiness, how about we do a little experimentation on different things that make us happy?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 既然今天讲的是幸福，那我们不如来做个小实验，试试各种能让我们幸福的东西？"
+  },
+  {
+   "en": ": I have a question.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我有个问题。"
+  },
+  {
+   "en": ": So, is everyone ready to start?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 那么，大家都准备好开始了吗？"
+  },
+  {
+   "en": ": Yeah!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 好！"
+  },
+  {
+   "en": ": Wait, I-",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 等等，我——"
+  },
+  {
+   "en": ": Great!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 太好了！"
+  },
+  {
+   "en": ": Snap your fingers and your props for today’s lab should appear right in front of you.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 打个响指，你们今天的实验道具就会出现在眼前。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone4.webp",
+   "alt": "lessonone4"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I recall a story about a girl who got lost wandering home from a net cafe one night.",
+   "zh": "我想起一个故事，关于一个女孩，某天夜里从网吧回家的路上迷了路。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "She’d been previously exposed to the evils of man in the form of a distant relative, but had since forced it out of her mind like an unfortunate mother would with a miscarried child.",
+   "zh": "她曾经在某位远房亲戚身上见识过男人的邪恶，但早已把它从脑海里驱逐出去，就像一个不幸的母亲对待一个流产的孩子那样。"
+  },
+  {
+   "en": "The sky was clear that night and the weather was hot.",
+   "zh": "那天夜里天空晴朗，天气很热。"
+  },
+  {
+   "en": "She could feel her debatably nubile flesh moistening and sticking to the fabric of her shirt, prompting her to use her fingers to pluck it off and fan herself down every several minutes.",
+   "zh": "她能感觉到自己那具说不上算不算妙龄的身体正渗出汗水，黏在衬衫的布料上，逼得她每隔几分钟就得用手指把衣服扯开、给自己扇风。"
+  },
+  {
+   "en": "She passed a total of nineteen vending machines along the way, but did not have enough money on her to purchase anything from even one.",
+   "zh": "一路上她总共经过了十九台自动售货机，可她身上的钱连买一样东西都不够。"
+  },
+  {
+   "en": "Her lips had gone dry in vast contradiction to every other inch of skin on her body.",
+   "zh": "她的嘴唇干裂，与她身上其他每一寸皮肤形成了强烈的反差。"
+  },
+  {
+   "en": "She was dehydrated.",
+   "zh": "她脱水了。"
+  },
+  {
+   "en": "A man called out from a bench, asking her if she’d like him to buy her a drink, but she refused.",
+   "zh": "一个男人从长椅上朝她喊，问她想不想让他给她买杯喝的，但她拒绝了。"
+  },
+  {
+   "en": "He had no ill intentions, but she was smart enough to pay no mind to strangers on account of all of the evil things she had heard in the past.",
+   "zh": "他并无恶意，可她足够聪明，不会去理会陌生人——因为她过去听说了太多邪恶的事。"
+  },
+  {
+   "en": "She never made it home that night because she didn’t have one.",
+   "zh": "那天夜里她没能回到家里，因为她根本没有家。"
+  },
+  {
+   "en": "Some say she’s still wandering around to this day.",
+   "zh": "有人说，她至今还在四处游荡。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/subscribestar/lessonone5.webp",
+   "alt": "lessonone5"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Woah! What are these things?! They’re huge!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 哇哦！这些东西是什么？！好大！"
+  },
+  {
+   "en": ": Those are your props for the happiness experiment!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 那就是你们的幸福实验道具！"
+  },
+  {
+   "en": ": Aren’t these-",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 这些该不会是——"
+  },
+  {
+   "en": ": Those are your props for the happiness experiment!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 那就是你们的幸福实验道具！"
+  },
+  {
+   "en": ": What are we supposed to do with them?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 我们该拿它们做什么呢？"
+  },
+  {
+   "en": ": Whatever you want, Ami! That’s how happiness is made!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你想做什么都行，Ami！幸福就是这么造出来的！"
+  },
+  {
+   "en": ": No one is forcing you to do anything.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 没有人逼你做任何事。"
+  },
+  {
+   "en": ": But if you do, it would make me really happy and bring us a lot closer together.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 不过如果你做了，我会非常开心，我们也会亲近很多。"
+  },
+  {
+   "en": ": Well...I do want you to be happy...",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 嗯……我确实想让你开心……"
+  },
+  {
+   "en": ": And I don’t want to get in trouble for not being a good student...so I guess I can try and figure out something.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 而且我也不想因为不是个好学生而惹上麻烦……所以我想我可以试着想点办法。"
+  },
+  {
+   "en": ": Good girl!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 好孩子！"
+  },
+  {
+   "en": ": [[redacted], why don’t you give her a hand?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": [已编辑]，你去帮帮她怎么样？"
+  },
+  {
+   "en": ": dof pz tpul zohwlk kpmmlyluasf?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": dof pz tpul zohwlk kpmmlyluasf? (为什么我的形状不一样？)"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Because boys and girls find happiness in different ways.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 因为男孩和女孩找到幸福的方式不同。"
+  },
+  {
+   "en": ": There are some people out there who feel empty inside, and other people who are so full of life that they need to share it with the world!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 有些人内心空虚，而另一些人充实得满溢出来，必须和这个世界分享！"
+  },
+  {
+   "en": ": You’re a special boy, [[redacted]! And you have so much to give!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你是个特别的男孩，[已编辑]！你有那么多东西可以给予！"
+  },
+  {
+   "en": ": So maybe you might want to use your prop to try and share some of yourself with everyone else?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 所以，也许你可以用你的道具，试着把自己的一部分分享给大家？"
+  },
+  {
+   "en": ": p kvua buklyzahuk.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": p kvua buklyzahuk. (我不明白。)"
+  },
+  {
+   "en": ": That’s okay! It’s always fine to ask for help if you’re feeling a little confused.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 没关系！感到有点困惑的时候，寻求帮助永远都是可以的。"
+  },
+  {
+   "en": ": In fact, how about you stay after class and I help give you a few ideas?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 事实上，你不如放学后留下来，我给你出几个主意？"
+  },
+  {
+   "en": ": Just don’t tell anyone about it.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 只是别告诉任何人。"
+  },
+  {
+   "en": ": It will be a little secret between you and me, okay?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 这会是你和我之间的小秘密，好吗？"
+  },
+  {
+   "en": ": tf ivkf mllsz zayhunl.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": tf ivkf mllsz zayhunl. (我的身体感觉很奇怪。)"
+  },
+  {
+   "en": "scene lessonone6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/subscribestar/lessonone6.webp",
+   "alt": "lessonone6"
+  },
+  {
+   "en": "I recall a story about a swarm of flies that went out exploring one day.",
+   "zh": "我想起一个故事，关于一群有一天出门探险的苍蝇。"
+  },
+  {
+   "en": "It’s unrelated to the lesson at hand, but I would like to tell you about it anyway.",
+   "zh": "这故事和眼前的课没什么关系，但我还是想讲给你们听。"
+  },
+  {
+   "en": "You see, the flies actually weren’t flies at all.",
+   "zh": "你看，那些苍蝇其实根本不是苍蝇。"
+  },
+  {
+   "en": "They were flowers.",
+   "zh": "它们是花。"
+  },
+  {
+   "en": "And they didn’t go out exploring because flowers are not mobile creatures.",
+   "zh": "而且它们之所以没有出门探险，是因为花不是会移动的生物。"
+  },
+  {
+   "en": "But they were beautiful nonetheless, the same way flies and all other living creatures are beautiful.",
+   "zh": "但它们依然美丽，就像苍蝇和所有其他生物一样美丽。"
+  },
+  {
+   "en": "Everything was going fine and they were living happily until some guy showed up and stepped on all of them.",
+   "zh": "一切都很顺利，它们过着幸福的日子，直到某个家伙出现，把它们统统踩烂。"
+  },
+  {
+   "en": "He had no true purpose or motive to do so, he just wanted to have some fun.",
+   "zh": "他这么做并没有什么真正的目的或动机，他只是想找点乐子。"
+  },
+  {
+   "en": "And his idea of fun had become twisted after being forced at his parents' behest to hide his true sexuality from everyone around him.",
+   "zh": "而他对于「乐子」的理解，在迫于父母之命、不得不对身边所有人隐瞒自己真实性取向后，已经扭曲了。"
+  },
+  {
+   "en": "If he could not find happiness the only way he wanted to, why should anyone {i}else{/i} be able to find happiness?",
+   "zh": "如果他没法用自己唯一想要的方式找到幸福，那凭什么{i}别人{/i}就能找到幸福？"
+  },
+  {
+   "en": "He knew that there were many people who liked flowers, so he trampled over all of them and made sure that no one would ever be able to see them or touch them or feel them again.",
+   "zh": "他知道有很多人喜欢花，于是他把它们全都踩烂，确保再也没有人能看到它们、触碰它们、感受它们。"
+  },
+  {
+   "en": "Then, he went home and hung himself.",
+   "zh": "然后，他回到家，上吊自杀了。"
+  },
+  {
+   "en": "The end.",
+   "zh": "故事结束。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/subscribestar/lessonone7.webp",
+   "alt": "lessonone7"
+  },
+  {
+   "en": ": Are you guys getting the hang of it yet?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你们找到窍门了吗？"
+  },
+  {
+   "en": ": Um...I don’t think so.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 嗯……我觉得没有。"
+  },
+  {
+   "en": ": There aren’t really many things I can think of doing with this thing.",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 我真想不出能拿这玩意儿做些什么。"
+  },
+  {
+   "en": ": There aren’t many things {i}to{/i} do with this thing. It really only serves one purpose.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 这东西{i}能做{/i}的事本来就不多。它真的只有一个用途。"
+  },
+  {
+   "en": ": [[redacted], you haven’t even touched yours yet! How come?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": [已编辑]，你连自己的都还没碰过呢！为什么？"
+  },
+  {
+   "en": ": How are you supposed to ever be happy if you’re not willing to put in a little bit of work for it?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 如果你不肯为幸福付出一点努力，你怎么可能幸福得起来？"
+  },
+  {
+   "en": ": pt zjhylk.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": pt zjhylk. (我很害怕。)"
+  },
+  {
+   "en": ": Hmm...hmmm...hmmmmmm~",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 嗯……嗯嗯……嗯嗯嗯嗯~"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone2.webp",
+   "alt": "lessonone2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": In that case, how about a more hands on experiment?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 那样的话，不如我们来做一个更手把手的实验？"
+  },
+  {
+   "en": ": You’re my favorite student after all, so I wouldn’t mind helping you out a little if you can’t find happiness on your own!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你毕竟是我最喜欢的学生，所以如果你自己找不到幸福，我不介意帮你一把！"
+  },
+  {
+   "en": ": I used to be the same as you, you know.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你知道吗，我以前也和你一样。"
+  },
+  {
+   "en": ": But after years and years of experimentation, I realized that some people just aren’t built to be happy at all!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 但经过年复一年的实验，我意识到，有些人根本就不是生来能幸福的！"
+  },
+  {
+   "en": ": Which is totally okay. People are different.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 这完全没关系。人是不同的。"
+  },
+  {
+   "en": ": And maybe you’re one of them, too.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 说不定你也是其中之一。"
+  },
+  {
+   "en": ": But we’ll never really know until we try, okay?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 可要是不试一试，我们永远也不会知道，对吧？"
+  },
+  {
+   "en": ": Uhh...teacher?",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 呃……老师？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": Teacher?",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 老师？"
+  },
+  {
+   "en": ": What.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 干什么。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/subscribestar/lessonone8.webp",
+   "alt": "lessonone8"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": There’s this weird white stuff coming out of mine.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我的那个里面流出一种奇怪的白色东西。"
+  },
+  {
+   "en": ": Awesome. Good for you.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 好极了。真有你的。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone9.webp",
+   "alt": "lessonone9"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": It tastes a little weird, but it’s not bad.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 味道有点怪，不过不难吃。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Hey! How come Maya’s is doing something different but mine isn't doing anything at all?! This isn’t fair!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 嘿！为什么 Maya 的那个有反应，我的却一点动静都没有？！这不公平！"
+  },
+  {
+   "en": ": Some people are just lucky, Ami! Keep working at it and you’ll get it there for sure.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 有些人就是运气好，Ami！继续努力，你一定也能做到。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Just don’t put any of the white stuff in your mouth or you might get sick and die.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 只是千万别把那些白色的东西放进嘴里，不然你可能会生病死掉。"
+  },
+  {
+   "en": ": What?",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 什么？"
+  },
+  {
+   "en": "scene lessonone2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone2.webp",
+   "alt": "lessonone2"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That’s right!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 没错！"
+  },
+  {
+   "en": ": Happiness has limits.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 幸福是有极限的。"
+  },
+  {
+   "en": ": For example, how do you feel after you help an old lady cross the street?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 比如说，你扶一位老太太过马路之后，感觉怎么样？"
+  },
+  {
+   "en": ": Good!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 很好！"
+  },
+  {
+   "en": ": Right! Good!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 对！很好！"
+  },
+  {
+   "en": ": But what if the old lady tells you after you finish helping her that she’s on her way to an animal shelter to euthanize a bunch of puppies?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 可如果老太太在你扶完她之后告诉你，她正要去动物收容所把一群小狗安乐死呢？"
+  },
+  {
+   "en": ": How would you feel then?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 那时候你会是什么感觉？"
+  },
+  {
+   "en": ": Good!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 很好！"
+  },
+  {
+   "en": ": Nope! Try again, Ami.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 不对！再猜一次，Ami。"
+  },
+  {
+   "en": ": Um...bad?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 嗯……不好？"
+  },
+  {
+   "en": ": Great job!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 答得好！"
+  },
+  {
+   "en": ": Why wouldn’t we want them to be younger, though?",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 可我们为什么不想让它们变年轻呢？"
+  },
+  {
+   "en": ": ...What?",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": ……什么？"
+  },
+  {
+   "en": ": Oh, I see what happened! You thought “euthanize” meant “make them youthful.” A simple mistake!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 哦，我明白是怎么回事了！你以为「euthanize」是「让它们变得年轻」。一个简单的误会！"
+  },
+  {
+   "en": ": It means to kill them, Ami.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 那是杀掉它们的意思，Ami。"
+  },
+  {
+   "en": ": I’m sorry, are you the teacher now?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 抱歉，现在老师是你来当吗？"
+  },
+  {
+   "en": ": No, I just-",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 不，我只是——"
+  },
+  {
+   "en": ": Why don’t you just go home for the day?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你不如今天就回家去吧？"
+  },
+  {
+   "en": ": I don’t have a ride.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我没车回去。"
+  },
+  {
+   "en": ": Well you should have thought about that before calling out in class.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 那你当初在课堂上插嘴之前，就该想到这一点。"
+  },
+  {
+   "en": ": jhu p nv ovtl?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": jhu p nv ovtl? (我能回家了吗？)"
+  },
+  {
+   "en": ": Not yet! The day has only just begun!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 还不行！这一天才刚刚开始！"
+  },
+  {
+   "en": ": We still have plenty more lessons after this.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 这之后我们还有好多课要上呢。"
+  },
+  {
+   "en": ": But since we seem to be having a little bit of trouble, I’ll come over and help you right now.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 不过既然我们好像遇到了一点困难，那我现在就过去帮帮你吧。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/subscribestar/lessonone10.webp",
+   "alt": "lessonone10"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I’m here!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 我来了！"
+  },
+  {
+   "en": ": [[redacted], sometimes, in order to truly understand what it means to be happy, you have to try a bunch of things you normally wouldn’t.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": [已编辑]，有时候，为了真正理解幸福的含义，你得尝试一堆平时不会去做的事。"
+  },
+  {
+   "en": ": And since this will be our first time trying it together, maybe it will make {i}me{/i} happy, too!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 而且既然这是{i}我{/i}们第一次一起尝试，说不定也会让我幸福起来！"
+  },
+  {
+   "en": ": There’s really no way of knowing unless we try, right?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 不试一试，就真的无从得知，对吧？"
+  },
+  {
+   "en": ": doha ht p zbwwvzlk av kv? (what am i supposed to do?)",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": doha ht p zbwwvzlk av kv? (我该做什么？)"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You can start by touching my SUNFLOWER.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你可以先摸一摸我的向日葵。"
+  },
+  {
+   "en": ": Feel around the different petals however you want.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 想怎么摸那些花瓣都行。"
+  },
+  {
+   "en": ": Think of it as a replacement prop since yours was entirely useless!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 把它当成一件替代道具吧，毕竟你自己那件完全没用！"
+  },
+  {
+   "en": ": Ooh! Can I try next?!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 哦！那下一个能让我试试吗？！"
+  },
+  {
+   "en": ": No.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 不行。"
+  },
+  {
+   "en": ": Can-",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我可不可以——"
+  },
+  {
+   "en": ": Why are you still here?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你怎么还在这儿？"
+  },
+  {
+   "en": ": I don’t really have anywhere else to go...",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我也没别的地方可去……"
+  },
+  {
+   "en": ": Are you still scared, [[redacted]?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 你还在害怕吗，[已编辑]？"
+  },
+  {
+   "en": ": p qbza dhua aopz av zavw. (i just want this to stop.)",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": p qbza dhua aopz av zavw. (我只想让这一切停下来。)"
+  },
+  {
+   "en": ": I know it can be a little intimidating at first, but I can promise you that BEING HAPPY feels like nothing you’ve ever felt before.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 我知道一开始可能会有点让人发怵，但我可以向你保证，「变得幸福」的感觉，是你从未体验过的。"
+  },
+  {
+   "en": ": In fact, some people get so desperate that they wind up going to jail for a really long time just so they can BE HAPPY once!",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 事实上，有些人会绝望到甘愿为了「幸福一次」而坐上很久很久的牢！"
+  },
+  {
+   "en": ": Silly people! They should have just asked their dads to make them peanut butter and jelly sandwiches!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": 好傻的人！他们只要让爸爸给做花生酱果酱三明治就好了呀！"
+  },
+  {
+   "en": ": Hahahahahahahahahahahahahahahahahahahahahaha yes.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 是啊。"
+  },
+  {
+   "en": ": They should have done just that, Ami.",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 他们就该那么做，Ami。"
+  },
+  {
+   "en": ": So...are you going to keep me waiting, [[redacted]?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 那么……你打算让我一直等下去吗，[已编辑]？"
+  },
+  {
+   "en": ": Or are we going to find ourselves together?",
+   "spk": "Teacher",
+   "spkColor": "#969696",
+   "zh": ": 还是说，我们打算一起找到自我？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/subscribestar/lessonone11.webp",
+   "alt": "lessonone11"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "What do we do when happiness is unachievable?",
+   "zh": "当幸福无法实现的时候，我们该怎么办？"
+  },
+  {
+   "en": "When even the most drastic of measures can not propel us toward the section of life with more smiles than the others?",
+   "zh": "当即便是最极端的手段，也无法把我们推向人生中笑容比其他段落更多的那一节时？"
+  },
+  {
+   "en": "The answer is simple!",
+   "zh": "答案很简单！"
+  },
+  {
+   "en": "Smile anyway!",
+   "zh": "照样微笑！"
+  },
+  {
+   "en": "Turn everything into one giant facade, meticulously constructed to remind you at every single moment that you are special!",
+   "zh": "把一切变成一具巨大的假象，精心搭建，时时刻刻提醒你——你是特别的！"
+  },
+  {
+   "en": "You are a good guy!",
+   "zh": "你是个好人！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "You have a huge penis!",
+   "zh": "你有一根巨大的阴茎！"
+  },
+  {
+   "en": "Everyone likes you!",
+   "zh": "大家都喜欢你！"
+  },
+  {
+   "en": "Do sex to girls to make you feel better about yourself!",
+   "zh": "去和女孩做爱，好让你对自己感觉好一点！"
+  },
+  {
+   "en": "Because something everyone knows and ignores is that you, the protagonist of your own life, are also a victim of circumstance!",
+   "zh": "因为有一件人人都知道、却人人都忽略的事：你，你自己人生的主角，同样是环境的受害者！"
+  },
+  {
+   "en": "No one knows your deepest feelings because they are all locked away, just as they should be!",
+   "zh": "没有人知道你最深的感受，因为它们全都锁了起来，本该如此！"
+  },
+  {
+   "en": "And if they escape, people will fear you.",
+   "zh": "而一旦它们逃出来，人们就会惧怕你。"
+  },
+  {
+   "en": "The same goes for all of the other protagonists.",
+   "zh": "其他所有主角也是一样。"
+  },
+  {
+   "en": "Everyone has things they can’t share with others.",
+   "zh": "每个人都有无法与人分享的东西。"
+  },
+  {
+   "en": "Sometimes, it becomes hard to even accept or understand those things yourself.",
+   "zh": "有时候，连你自己都很难接受或理解那些东西。"
+  },
+  {
+   "en": "Are you hiding anything from me?",
+   "zh": "你有什么事瞒着我吗？"
+  },
+  {
+   "en": "If so, what is it?",
+   "zh": "如果有，那是什么？"
+  },
+  {
+   "en": "Think about it now!",
+   "zh": "现在就想一想！"
+  },
+  {
+   "en": "Dredge up those horrible memories and surrender yourself to the underlying misery in all things!",
+   "zh": "把那些可怕的记忆翻搅出来，把自己交给潜藏在万事万物之下的那份痛苦！"
+  },
+  {
+   "en": "It’s all fake! The whole world is fake!",
+   "zh": "全是假的！整个世界都是假的！"
+  },
+  {
+   "en": "Nothing is real!",
+   "zh": "没有什么是真的！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Do sex to girls!",
+   "zh": "去和女孩做爱！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/subscribestar/lessonone12.webp",
+   "alt": "lessonone12"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": You’re hitting my womb! It’s splitting wide open!",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你顶到我的子宫了！它要裂开了！"
+  },
+  {
+   "en": ": I am internally bleeding and henceforth incapable of pleasure to the dismay of many readers with zero sexual experience or knowledge of the female anatomy!",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我正在内出血，因此再也无法感受到快乐——这让许多毫无性经验、也对女性解剖学一无所知的读者大为失望！"
+  },
+  {
+   "en": ": Do sex to me with your giant penis in complete disregard for my safety, destroying the possibility of further sex doing in the future!",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 用你的巨大阴茎和我做爱吧，完全不顾我的安危，把未来再做爱的可能性彻底毁掉！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "Did you hear that?",
+   "zh": "听到了吗？"
+  },
+  {
+   "en": "You won!",
+   "zh": "你赢了！"
+  },
+  {
+   "en": "Your penis defeated a girl!",
+   "zh": "你的鸡巴打败了一个女孩！"
+  },
+  {
+   "en": "Go tell all of your friends about it!",
+   "zh": "去告诉你的所有朋友吧！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone13.webp",
+   "alt": "lessonone13"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": .........................................................",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": ........................................................."
+  },
+  {
+   "en": ": ..............................",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": .............................."
+  },
+  {
+   "en": ": ..........................................",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": .........................................."
+  },
+  {
+   "en": ": !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  },
+  {
+   "en": ": .......................................",
+   "spk": "Ami",
+   "spkColor": "#FF4DD2",
+   "zh": ": ......................................."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene lessonone14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/lessonone14.webp",
+   "alt": "lessonone14"
+  },
+  {
+   "en": "scene colorbars",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/colorbars.png",
+   "alt": "colorbars"
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/black.png",
+   "alt": "black"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "You won!",
+   "zh": "你赢了！"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene l",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/l.png",
+   "alt": "l"
+  },
+  {
+   "en": "scene e",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/e.png",
+   "alt": "e"
+  },
+  {
+   "en": "scene t",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/t.png",
+   "alt": "t"
+  },
+  {
+   "en": "scene m",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/m.png",
+   "alt": "m"
+  },
+  {
+   "en": "scene e",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/e.png",
+   "alt": "e"
+  },
+  {
+   "en": "scene o",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/o.png",
+   "alt": "o"
+  },
+  {
+   "en": "scene u",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/u.png",
+   "alt": "u"
+  },
+  {
+   "en": "scene t",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Misc/t.png",
+   "alt": "t"
+  },
+  {
+   "en": "scene bedroom_normal",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/BGs/bedroom_normal.png",
+   "alt": "bedroom_normal"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ lesson1 = True",
+   "zh": ""
+  },
+  {
+   "en": "$ persistent.lesson1 = True",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump survivemenu",
+   "zh": ""
+  }
+ ]
 }
