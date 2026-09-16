@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v40';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v41';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v41=「God of XXX」称号统一译为「XX之神」（13 个神名 / 341 处）
                                   //       v40=全库密文破解收尾：凯撒 5 处 + 格式统一（en 补明文/全角改半角）
                                   //       v39=chapthree2 凯撒密文 zdnh xs -> wake up（13 行）
                                   //       v38=重做 springend1 补丁：保持原文件 2 空格缩进 + LF（上次 indent=1 导致整文件 diff）
