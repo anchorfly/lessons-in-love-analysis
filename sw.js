@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v25';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v26';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v26=删除 guide_i18n.html（已转正为 guide.html）；sw.js PRECACHE 只留 guide.html
                                   //       v25=HTML/其它资源改网络优先(1.2s超时回退缓存)，刷新一次即生效，不再需要手动清缓存
                                   //       v24=guide_i18n 转正为 guide.html（正式发布）
                                   //       v23=切语言保持正文阅读位置（锚点行）
@@ -58,7 +59,7 @@ const CACHE_DOC = 'lil-doc-v25';   // HTML 外壳等：网络优先(1.2s 超时�
                                   // 历史：v3=_syncEvtCache 缓存失效+undefined/滚动修复；
                                   //       v4=「错过时显示」红字中文三态切换（missTxt/missHtml/missOf + ZH_MISSED）
                                   //          + 正文过滤 rpy `label xxx:` 声明行（stripLeadingCode）。
-const PRECACHE_HTML = ['guide.html', 'guide_i18n.html'];
+const PRECACHE_HTML = ['guide.html'];
 const IMG_RE = /\.(?:webp|png|jpe?g|gif|avif|svg|bmp|ico)(?:[?#]|$)/i;
 const EVENT_RE = /\/context\/events\/[^?#]+\.json(?:[?#]|$)/i;
 const MANIFEST_RE = /\/context\/events\/evtver\.json(?:\?[^#]*)?$/i; // 版本清单：绕过 SW 缓存，页面用 no-store 直连最新
