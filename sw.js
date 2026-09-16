@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v26';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v27';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v27=加 .nojekyll 让 Pages 跳过 Jekyll（修 _ 前缀文件被过滤）+ 上下文忘了更新
                                   //       v26=删除 guide_i18n.html（已转正为 guide.html）；sw.js PRECACHE 只留 guide.html
                                   //       v25=HTML/其它资源改网络优先(1.2s超时回退缓存)，刷新一次即生效，不再需要手动清缓存
                                   //       v24=guide_i18n 转正为 guide.html（正式发布）
