@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v31';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v32';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v32=sweetmeats 统一为「糖果」（朱生豪莎译）；标题同步为麦鲸记（给我的海豚的糖果）
                                   //       v31=预载并发改为自适应(按实测耗时 2~12 自动调)，修 fetchEvent 失败卡死泵
                                   //       v30=慢网图片优化：预载让路+后台逐张预取+异步解码；SW 图片缓存加固
                                   //       v29=历史版本事件内「上一个/下一个」改组内闭环（只在本版本列表内走，头尾禁用）
