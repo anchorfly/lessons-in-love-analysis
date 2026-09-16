@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v32';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v33';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v33=运行时数据去掉 _ 前缀（missed_zh.json / zh_titles.json），避开 Jekyll 过滤
                                   //       v32=sweetmeats 统一为「糖果」（朱生豪莎译）；标题同步为麦鲸记（给我的海豚的糖果）
                                   //       v31=预载并发改为自适应(按实测耗时 2~12 自动调)，修 fetchEvent 失败卡死泵
                                   //       v30=慢网图片优化：预载让路+后台逐张预取+异步解码；SW 图片缓存加固
@@ -113,7 +114,7 @@ self.addEventListener('fetch', (e) => {
 
   if (IMG_RE.test(url.pathname))   return e.respondWith(cacheFirst(req, CACHE_IMG, true));
   if (EVENT_RE.test(url.pathname)) return e.respondWith(cacheFirst(req, CACHE_EVT));
-  // HTML 外壳 + sw.js + context/_missed_zh.json 等：网络优先（1.2s 超时回退缓存）。
+  // HTML 外壳 + sw.js + context/missed_zh.json 等：网络优先（1.2s 超时回退缓存）。
   // 目的：普通用户「刷新一次」就能看到新内容，不需要任何开发者工具操作。
   return e.respondWith(netFirst(req, CACHE_DOC, 1200));
 });
