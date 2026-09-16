@@ -509,7 +509,12 @@ goHome();
   // 换页后统一回到顶部（等一帧，确保 innerHTML 已布局完成再滚动）。
   // 背景：整页 innerHTML 被替换时浏览器会保留原 scrollY，而「历史版本事件」卡片在首页最底部，
   // 点进去就停在列表最下面。除 openCat（回分类列表会还原上次位置）外，所有导航都回顶部。
-  function toTop(){ requestAnimationFrame(function(){ window.scrollTo(0, 0); }); }
+  // ⚠️ window._skipScrollTop：全量预载完成时 _curView() 会重绘当前视图刷标题，
+  //    那不是用户主动换页，不该把人从阅读位置拽回顶部 —— 重绘前会置上这个标记。
+  function toTop(){
+    if(window._skipScrollTop) return;
+    requestAnimationFrame(function(){ window.scrollTo(0, 0); });
+  }
   openCat = function(i){
     var r = _oc2.apply(null, arguments);
     curCat = (typeof i === 'number') ? i : null;
@@ -808,7 +813,10 @@ function _preloadPump(){
       _preloadActive--;
       if(_preloadIdx >= _allLabels.length && _preloadActive === 0 && !_preloadDone){
         _preloadDone = true;
-        _curView && _curView();   // 全量预载完成 → 用最新 ZH_TITLE 重绘当前视图标题
+        /* 全量预载完成 → 用最新 ZH_TITLE 重绘当前视图标题。
+           这是自动重绘（不是用户换页），置 _skipScrollTop 免得把正在阅读的人拽回顶部。 */
+        window._skipScrollTop = true;
+        try { _curView && _curView(); } finally { window._skipScrollTop = false; }
       }
       _ric(_preloadPump);
     });
