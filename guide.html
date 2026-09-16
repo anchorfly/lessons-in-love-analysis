@@ -487,6 +487,11 @@ goHome();
   function curY(){
     return window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
   }
+  // 换页后统一回到顶部（等一帧，确保 innerHTML 已布局完成再滚动）。
+  // 背景：整页 innerHTML 被替换时浏览器会保留原 scrollY，而「历史版本事件」卡片在首页最底部，
+  // 点进去就停在列表最下面。除 openCat（回分类列表会还原上次位置）外，所有导航都回顶部。
+  // （与 guide_i18n.html 同步：同一份修复）
+  function toTop(){ requestAnimationFrame(function(){ window.scrollTo(0, 0); }); }
   openCat = function(i){
     var r = _oc2.apply(null, arguments);
     curCat = (typeof i === 'number') ? i : null;
@@ -500,12 +505,14 @@ goHome();
       catScroll[curCat] = curY();
       curCat = null;
     }
-    return _oe2.apply(null, arguments);
+    var r = _oe2.apply(null, arguments);
+    toTop();
+    return r;
   };
-  goHome      = function(){ curCat = null; return _gh2.apply(null, arguments); };
-  openRelease = function(){ curCat = null; return _or2.apply(null, arguments); };
-  openVersions = function(){ curCat = null; return _ovs2.apply(null, arguments); };
-  openVersion = function(k){ curCat = null; return _ov2.apply(null, arguments); };
+  goHome      = function(){ curCat = null; var r = _gh2.apply(null, arguments);  toTop(); return r; };
+  openRelease = function(){ curCat = null; var r = _or2.apply(null, arguments);  toTop(); return r; };
+  openVersions = function(){ curCat = null; var r = _ovs2.apply(null, arguments); toTop(); return r; };
+  openVersion = function(k){ curCat = null; var r = _ov2.apply(null, arguments);  toTop(); return r; };
 })();
 </script>
 <script>
