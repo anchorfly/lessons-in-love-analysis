@@ -875,9 +875,26 @@ function _collectLabels(){
   if(_allLabels.length) return;
   for(const c of DATA) for(const it of (c.items||[])) if(it.hasContent) _allLabels.push(it.label);
 }
-/* 有限并发预载：恒定 12 个在飞，完成一个补一个。
-   12 远低于 Chrome 单主机 ~200 连接上限，不挤占图片/其它资源，不触发限流。 */
-const _PRELOAD_CONCURRENCY = 4;   // 慢网：12 -> 4，别跟正文图片抢带宽
+/* 自适应并发预载：按**实测耗时**自动调，快网跑满、慢网让路。
+   - 起点 6；每 16 个样本评估一次实测平均耗时
+   - 平均 > 1500ms（慢网）→ 降 2（最低 2）：高并发在带宽受限时只是让每个请求更晚完成，
+     总耗时不变，却会抢走正文图片的带宽
+   - 平均 <  400ms（快网）→ 升 2（最高 12）：低并发在快网上跑不满带宽，预载总耗时反而变长
+   - 再叠加 _imagesBusy()：可见区还有图没下完时整体让路 */
+let _PRELOAD_CONCURRENCY = 6;
+const _PC_MIN = 2, _PC_MAX = 12;
+let _pcSamples = [];
+function _pcNote(ms){
+  _pcSamples.push(ms);
+  if(_pcSamples.length < 16) return;
+  let sum = 0; for(const v of _pcSamples) sum += v;
+  const avg = sum / _pcSamples.length;
+  _pcSamples = [];
+  if(avg > 1500 && _PRELOAD_CONCURRENCY > _PC_MIN)
+    _PRELOAD_CONCURRENCY = Math.max(_PC_MIN, _PRELOAD_CONCURRENCY - 2);
+  else if(avg < 400 && _PRELOAD_CONCURRENCY < _PC_MAX)
+    _PRELOAD_CONCURRENCY = Math.min(_PC_MAX, _PRELOAD_CONCURRENCY + 2);
+}
 let _preloadActive = 0;
 function _preloadPump(){
   if(_preloadIdx >= _allLabels.length && _preloadActive === 0) return;
@@ -892,7 +909,9 @@ function _preloadPump(){
   while(_preloadActive < _PRELOAD_CONCURRENCY && _preloadIdx < _allLabels.length){
     const label = _allLabels[_preloadIdx++];
     _preloadActive++;
+    const _t0 = Date.now();
     fetchEvent(label).then(() => {
+      _pcNote(Date.now() - _t0);
       _preloadActive--;
       if(_preloadIdx >= _allLabels.length && _preloadActive === 0 && !_preloadDone){
         _preloadDone = true;
@@ -901,6 +920,11 @@ function _preloadPump(){
         window._skipScrollTop = true;
         try { _curView && _curView(); } finally { window._skipScrollTop = false; }
       }
+      _ric(_preloadPump);
+    }).catch(() => {
+      /* 失败也要回减，否则 _preloadActive 不减、预载泵永久卡死 */
+      _pcNote(Date.now() - _t0);
+      _preloadActive--;
       _ric(_preloadPump);
     });
   }
