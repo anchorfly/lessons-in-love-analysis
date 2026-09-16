@@ -1,1857 +1,1859 @@
 {
-  "label": "specialclassx",
-  "lines": [
-    {
-      "en": "label specialclassx:",
-      "zh": ""
-    },
-    {
-      "en": "scene 5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "$ renpy.pause(0.2, hard=True)",
-      "zh": ""
-    },
-    {
-      "en": "scene 4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "$ renpy.pause(0.2, hard=True)",
-      "zh": ""
-    },
-    {
-      "en": "scene 3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "$ renpy.pause(0.2, hard=True)",
-      "zh": ""
-    },
-    {
-      "en": "scene 2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "$ renpy.pause(0.2, hard=True)",
-      "zh": ""
-    },
-    {
-      "en": "scene 1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "$ renpy.pause(0.2, hard=True)",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene whereareyou",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene amibreak4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene whygodwhy",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene specialclassroom3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/specialclassroom3.webp",
-      "alt": "specialclassroom3"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What makes you think I can’t hear the things you do in my room while I’m away?",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 你凭什么认为，我不在的时候听不到你在我房间里干的事？"
-    },
-    {
-      "en": ": Excuse me?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你说什么？"
-    },
-    {
-      "en": ": I know what you do with your [niece] just steps away from where I lay my head at night.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 我知道你跟你的[niece]在离我晚上枕着头睡觉的地方只有几步远的地方干了什么。"
-    },
-    {
-      "en": ": And I will never be able to sleep again after all I've heard.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 听完那些，我再也睡不着了。"
-    },
-    {
-      "en": ": You are a pig. It’s truly disgusting. I can’t believe I even have to associate with you.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 你是头猪。真叫人恶心。我真不敢相信自己还得跟你扯上关系。"
-    },
-    {
-      "en": ": You heard us?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你听到了？"
-    },
-    {
-      "en": ": I didn’t only hear you, I had to wash your semen out of her bedsheets. It was degrading.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 我不光听到了，我还得把她床单上的精液洗掉。那简直是侮辱。"
-    },
-    {
-      "en": ": People like you should be castrated.",
-      "spk": "Maya",
-      "spkColor": "#20EF00",
-      "zh": ": 你这种人就该被阉了。"
-    },
-    {
-      "en": ": That seems a little extreme...don’t you think, Maya?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 这话说得有点过了吧……你不觉得吗，Maya？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene whygodwhy",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene specialclassroom4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/specialclassroom4.webp",
-      "alt": "specialclassroom4"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": MAYA?",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": MAYA？"
-    },
-    {
-      "en": ": I AM NOT MAYA.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 我不是 MAYA。"
-    },
-    {
-      "en": ": HAVE YOU FORGOTTEN ABOUT ME ALREADY?",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 你已经把我忘了吗？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "My teeth melt and I am reminded of another, happier room.",
-      "zh": "我的牙齿融化了，我想起了另一间更快乐的房间。"
-    },
-    {
-      "en": "\"It’s just like how it was the {s}first second third fourth",
-      "zh": "“就和{s}第一 第二 第三 第四"
-    },
-    {
-      "en": "fifth sixth seventh{/s} time I visited the {b}ROOM WITH CLOCKS{/b}.\"",
-      "zh": "第五 第六 第七{/s}次踏进那间{b}摆满钟的房间{/b}时一模一样。“"
-    },
-    {
-      "en": "Thankfully, I have been secretly concealing wings beneath my flesh this entire time, so I am able to push them out of my skin without much effort and fly away.",
-      "zh": "谢天谢地，我这一路上都偷偷在血肉之下藏着翅膀，所以能毫不费力地把它们从皮肤里挤出来，然后飞走。"
-    },
-    {
-      "en": "Just kidding.",
-      "zh": "开玩笑的。"
-    },
-    {
-      "en": "I stay here and let my organs wrap around themselves.",
-      "zh": "我留在这儿，任由我的内脏把自己缠起来。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene specialclassroom5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/specialclassroom5.webp",
-      "alt": "specialclassroom5"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": What is wrong, 世界? ",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 怎么了，世界？"
-    },
-    {
-      "en": ": Afraid of going an extra hour without BURYING YOUR PENIS INSIDE OF A FAMILY MEMBER?",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 怕多熬一个小时不把你的鸡巴埋进某个家庭成员体内？"
-    },
-    {
-      "en": ": There are PLENTY OF {b}ALTERNATIVES{/b} you know!",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 你明明有{b}大把{/b}替代品可以选择啊！"
-    },
-    {
-      "en": ": For example-",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 比如说——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene happy9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene happy2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene happy9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene happy2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene specialclassroom6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/specialclassroom6.webp",
-      "alt": "specialclassroom6"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Have you ever tried one of these?",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 你试过这玩意儿吗？"
-    },
-    {
-      "en": "six \"Legend has it that the universe was formed after GOD spent a little too",
-      "zh": "six “传说宇宙是在 GOD 花了太多时间"
-    },
-    {
-      "en": "much time dumping his semen into one of them.\"",
-      "zh": "往其中一个里面倒精液之后形成的。“"
-    },
-    {
-      "en": ": Perhaps you should try it?",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 也许你该试试？"
-    },
-    {
-      "en": ": I can only imagine the wonderful things that could be made out of you.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 我已经能想象出，用你能做出多么美妙的东西。"
-    },
-    {
-      "en": ": After all, you [[redacted]",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 毕竟，你 [[redacted]"
-    },
-    {
-      "en": ": [[redacted]",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": [[redacted]"
-    },
-    {
-      "en": ": Which is why [[redacted]",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 这就是为什么 [[redacted]"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "I feel like the girl is offering me something strange right now, but I can’t figure out what it is.",
-      "zh": "我感觉这女孩现在在向我推销什么奇怪的东西，但我想不出那是什么。"
-    },
-    {
-      "en": "Some words just don’t click in my head for some reason.",
-      "zh": "有些词不知道为什么，就是在我脑子里对不上号。"
-    },
-    {
-      "en": "These words include but are not limited to:",
-      "zh": "这些词包括但不限于："
-    },
-    {
-      "en": "Rape. Albatross. Iodine. Sustenance. Enigma.",
-      "zh": "强奸。信天翁。碘。养料。谜。"
-    },
-    {
-      "en": "Year. Oblong. Uranus. Riot.",
-      "zh": "年。长条形。天王星。暴动。"
-    },
-    {
-      "en": "Heaven. Entry. Albatross (Again). And my personal favorite-",
-      "zh": "天堂。入口。信天翁（再次）。还有我个人最喜欢的——"
-    },
-    {
-      "en": "Death.",
-      "zh": "死亡。"
-    },
-    {
-      "en": "None of these things make sense. Please stop looking for answers.",
-      "zh": "这些东西没有一样说得通。别再找答案了。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": So, [mayamaster], can I watch you stick your big dick in my onahole? For old time’s sake?",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 那么，[mayamaster]，我能看你把大鸡巴插进我的飞机杯里吗？看在往日的情分上？"
-    },
-    {
-      "en": ": {s}I’ll wear the shrine maiden outfit so we can be closer to GOD{/s}",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": {s}我会穿上巫女服，这样我们就能更接近 GOD{/s}"
-    },
-    {
-      "en": ": I can’t. I’m a shadow.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 不行。我是一道影子。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene specialclassroom7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/specialclassroom7.webp",
-      "alt": "specialclassroom7"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Then all we have to do is make you {i}not{/i} a shadow, right?",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 那我们只要让你{i}不再是{/i}影子就行了，对吧？"
-    },
-    {
-      "en": ": I think I can do that as long as you believe in me.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 只要你相信我，我觉得我能做到。"
-    },
-    {
-      "en": ": {i}And give me lots of your cum once I learn how to breathe again.{/i}",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": {i}还有，等我学会呼吸之后，你要给我很多很多精液。{/i}"
-    },
-    {
-      "en": ": I’ve missed out on {b}A LOT{/b} over the years, so you’re gonna need to pay me back with all you’ve got.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 这些年来我错过了{b}太多{/b}，所以你得倾尽所有来补偿我。"
-    },
-    {
-      "en": ": Which also means not fucking your little slut of a [niece] anymore, okay? ",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 这也意味着你不能再操你那个小婊子[niece]了，明白吗？"
-    },
-    {
-      "en": ": The angels don’t like [incest] very much. And I’m an honorary one.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 天使们不太喜欢[incest]。而我可是个名誉天使。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene whereareyou",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene specialclassroom1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/specialclassroom1.webp",
-      "alt": "specialclassroom1"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "stop music",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": TURN OFF THE LIGHTS.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 把灯关掉。"
-    },
-    {
-      "en": ": SOMETHING WONDERFUL IS ABOUT TO HAPPEN.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 有什么美妙的事即将发生。"
-    },
-    {
-      "en": ": PLEASE TAKE THE NEXT TEN SECONDS TO THINK ABOUT ALL OF THE THINGS YOU LOVE.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 请用接下来的十秒钟，想想所有你爱的事物。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "play music \"sweetvermouth.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break1.webp",
-      "alt": "break1"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"cameraflash.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break2.webp",
-      "alt": "break2"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"dooropen.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break5.webp",
-      "alt": "break5"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break3.webp",
-      "alt": "break3"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break4.webp",
-      "alt": "break4"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"lock.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break6.webp",
-      "alt": "break6"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"phonebeep.wav\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"imscared.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"knock.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break11.webp",
-      "alt": "break11"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break1.webp",
-      "alt": "break1"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"cameraflash.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break2.webp",
-      "alt": "break2"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"dooropen.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break5.webp",
-      "alt": "break5"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break3.webp",
-      "alt": "break3"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break4.webp",
-      "alt": "break4"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"lock.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break6.webp",
-      "alt": "break6"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"phonebeep.wav\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"imscared.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"knock.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break11.webp",
-      "alt": "break11"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break1.webp",
-      "alt": "break1"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"cameraflash.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break2.webp",
-      "alt": "break2"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"dooropen.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break5.webp",
-      "alt": "break5"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break3.webp",
-      "alt": "break3"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break4.webp",
-      "alt": "break4"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"lock.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break6.webp",
-      "alt": "break6"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"phonebeep.wav\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"imscared.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"knock.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break11.webp",
-      "alt": "break11"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break1",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break1.webp",
-      "alt": "break1"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"cameraflash.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break2",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break2.webp",
-      "alt": "break2"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"dooropen.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break5",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break5.webp",
-      "alt": "break5"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break3",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break3.webp",
-      "alt": "break3"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break4",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break4.webp",
-      "alt": "break4"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"lock.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break6",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break6.webp",
-      "alt": "break6"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"phonebeep.wav\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break7",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"imscared.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break9",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"knock.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break10",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break11",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/break11.webp",
-      "alt": "break11"
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"alert.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": "scene break8",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break12",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break13",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "scene break14",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with flash",
-      "zh": ""
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "stop music",
-      "zh": ""
-    },
-    {
-      "en": "play sound \"static.mp3\"",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ renpy.pause(5, hard=True)",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Fuck me until I bleed.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 肏我，直到我出血为止。"
-    },
-    {
-      "en": ": Put me out of my misery.",
-      "spk": "61 6d 20 69 20 6f 6b 61 79",
-      "spkColor": "#e6e6e6",
-      "zh": ": 让我从这痛苦里解脱吧。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "menu:",
-      "zh": ""
-    },
-    {
-      "en": "\"Okay\":",
-      "zh": "“好的”:"
-    },
-    {
-      "en": "stop sound",
-      "zh": ""
-    },
-    {
-      "en": "$ renpy.end_replay()",
-      "zh": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ specialclassroomtrack = True",
-      "zh": ""
-    },
-    {
-      "en": "$ specialclassroom = False",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump saturdaynight",
-      "zh": ""
-    },
-    {
-      "en": ""
-    }
-  ]
+ "label": "specialclassx",
+ "lines": [
+  {
+   "en": "label specialclassx:",
+   "zh": ""
+  },
+  {
+   "en": "scene 5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "$ renpy.pause(0.2, hard=True)",
+   "zh": ""
+  },
+  {
+   "en": "scene 4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "$ renpy.pause(0.2, hard=True)",
+   "zh": ""
+  },
+  {
+   "en": "scene 3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "$ renpy.pause(0.2, hard=True)",
+   "zh": ""
+  },
+  {
+   "en": "scene 2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "$ renpy.pause(0.2, hard=True)",
+   "zh": ""
+  },
+  {
+   "en": "scene 1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "$ renpy.pause(0.2, hard=True)",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene whereareyou",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene amibreak4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene whygodwhy",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene specialclassroom3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/specialclassroom3.webp",
+   "alt": "specialclassroom3"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What makes you think I can’t hear the things you do in my room while I’m away?",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 你凭什么认为，我不在的时候听不到你在我房间里干的事？"
+  },
+  {
+   "en": ": Excuse me?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你说什么？"
+  },
+  {
+   "en": ": I know what you do with your [niece] just steps away from where I lay my head at night.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我知道你跟你的[niece]在离我晚上枕着头睡觉的地方只有几步远的地方干了什么。"
+  },
+  {
+   "en": ": And I will never be able to sleep again after all I've heard.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 听完那些，我再也睡不着了。"
+  },
+  {
+   "en": ": You are a pig. It’s truly disgusting. I can’t believe I even have to associate with you.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 你是头猪。真叫人恶心。我真不敢相信自己还得跟你扯上关系。"
+  },
+  {
+   "en": ": You heard us?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你听到了？"
+  },
+  {
+   "en": ": I didn’t only hear you, I had to wash your semen out of her bedsheets. It was degrading.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 我不光听到了，我还得把她床单上的精液洗掉。那简直是侮辱。"
+  },
+  {
+   "en": ": People like you should be castrated.",
+   "spk": "Maya",
+   "spkColor": "#20EF00",
+   "zh": ": 你这种人就该被阉了。"
+  },
+  {
+   "en": ": That seems a little extreme...don’t you think, Maya?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 这话说得有点过了吧……你不觉得吗，Maya？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene whygodwhy",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene specialclassroom4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/specialclassroom4.webp",
+   "alt": "specialclassroom4"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": MAYA?",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": MAYA？"
+  },
+  {
+   "en": ": I AM NOT MAYA.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我不是 MAYA。"
+  },
+  {
+   "en": ": HAVE YOU FORGOTTEN ABOUT ME ALREADY?",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你已经把我忘了吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "My teeth melt and I am reminded of another, happier room.",
+   "zh": "我的牙齿融化了，我想起了另一间更快乐的房间。"
+  },
+  {
+   "en": "\"It’s just like how it was the {s}first second third fourth",
+   "zh": "“就和{s}第一 第二 第三 第四"
+  },
+  {
+   "en": "fifth sixth seventh{/s} time I visited the {b}ROOM WITH CLOCKS{/b}.\"",
+   "zh": "第五 第六 第七{/s}次踏进那间{b}摆满钟的房间{/b}时一模一样。“"
+  },
+  {
+   "en": "Thankfully, I have been secretly concealing wings beneath my flesh this entire time, so I am able to push them out of my skin without much effort and fly away.",
+   "zh": "谢天谢地，我这一路上都偷偷在血肉之下藏着翅膀，所以能毫不费力地把它们从皮肤里挤出来，然后飞走。"
+  },
+  {
+   "en": "Just kidding.",
+   "zh": "开玩笑的。"
+  },
+  {
+   "en": "I stay here and let my organs wrap around themselves.",
+   "zh": "我留在这儿，任由我的内脏把自己缠起来。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene specialclassroom5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/specialclassroom5.webp",
+   "alt": "specialclassroom5"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": What is wrong, 世界? ",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 怎么了，世界？"
+  },
+  {
+   "en": ": Afraid of going an extra hour without BURYING YOUR PENIS INSIDE OF A FAMILY MEMBER?",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 怕多熬一个小时不把你的鸡巴埋进某个家庭成员体内？"
+  },
+  {
+   "en": ": There are PLENTY OF {b}ALTERNATIVES{/b} you know!",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你明明有{b}大把{/b}替代品可以选择啊！"
+  },
+  {
+   "en": ": For example-",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 比如说——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene happy9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene happy2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene happy9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene happy2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene specialclassroom6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/specialclassroom6.webp",
+   "alt": "specialclassroom6"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Have you ever tried one of these?",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 你试过这玩意儿吗？"
+  },
+  {
+   "en": ": Legend has it that the universe was formed after GOD spent a little too",
+   "zh": ": 传说宇宙是在 GOD 花了太多时间",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6"
+  },
+  {
+   "en": "much time dumping his semen into one of them.\"",
+   "zh": "往其中一个里面倒精液之后形成的。“"
+  },
+  {
+   "en": ": Perhaps you should try it?",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 也许你该试试？"
+  },
+  {
+   "en": ": I can only imagine the wonderful things that could be made out of you.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 我已经能想象出，用你能做出多么美妙的东西。"
+  },
+  {
+   "en": ": After all, you [[redacted]",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 毕竟，你 [[redacted]"
+  },
+  {
+   "en": ": [[redacted]",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": [[redacted]"
+  },
+  {
+   "en": ": Which is why [[redacted]",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这就是为什么 [[redacted]"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "I feel like the girl is offering me something strange right now, but I can’t figure out what it is.",
+   "zh": "我感觉这女孩现在在向我推销什么奇怪的东西，但我想不出那是什么。"
+  },
+  {
+   "en": "Some words just don’t click in my head for some reason.",
+   "zh": "有些词不知道为什么，就是在我脑子里对不上号。"
+  },
+  {
+   "en": "These words include but are not limited to:",
+   "zh": "这些词包括但不限于："
+  },
+  {
+   "en": "Rape. Albatross. Iodine. Sustenance. Enigma.",
+   "zh": "强奸。信天翁。碘。养料。谜。"
+  },
+  {
+   "en": "Year. Oblong. Uranus. Riot.",
+   "zh": "年。长条形。天王星。暴动。"
+  },
+  {
+   "en": "Heaven. Entry. Albatross (Again). And my personal favorite-",
+   "zh": "天堂。入口。信天翁（再次）。还有我个人最喜欢的——"
+  },
+  {
+   "en": "Death.",
+   "zh": "死亡。"
+  },
+  {
+   "en": "None of these things make sense. Please stop looking for answers.",
+   "zh": "这些东西没有一样说得通。别再找答案了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": So, [mayamaster], can I watch you stick your big dick in my onahole? For old time’s sake?",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那么，[mayamaster]，我能看你把大鸡巴插进我的飞机杯里吗？看在往日的情分上？"
+  },
+  {
+   "en": ": {s}I’ll wear the shrine maiden outfit so we can be closer to GOD{/s}",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": {s}我会穿上巫女服，这样我们就能更接近 GOD{/s}"
+  },
+  {
+   "en": ": I can’t. I’m a shadow.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 不行。我是一道影子。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene specialclassroom7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/specialclassroom7.webp",
+   "alt": "specialclassroom7"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Then all we have to do is make you {i}not{/i} a shadow, right?",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 那我们只要让你{i}不再是{/i}影子就行了，对吧？"
+  },
+  {
+   "en": ": I think I can do that as long as you believe in me.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 只要你相信我，我觉得我能做到。"
+  },
+  {
+   "en": ": {i}And give me lots of your cum once I learn how to breathe again.{/i}",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": {i}还有，等我学会呼吸之后，你要给我很多很多精液。{/i}"
+  },
+  {
+   "en": ": I’ve missed out on {b}A LOT{/b} over the years, so you’re gonna need to pay me back with all you’ve got.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这些年来我错过了{b}太多{/b}，所以你得倾尽所有来补偿我。"
+  },
+  {
+   "en": ": Which also means not fucking your little slut of a [niece] anymore, okay? ",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 这也意味着你不能再操你那个小婊子[niece]了，明白吗？"
+  },
+  {
+   "en": ": The angels don’t like [incest] very much. And I’m an honorary one.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 天使们不太喜欢[incest]。而我可是个名誉天使。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene whereareyou",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene specialclassroom1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/specialclassroom1.webp",
+   "alt": "specialclassroom1"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "stop music",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": TURN OFF THE LIGHTS.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 把灯关掉。"
+  },
+  {
+   "en": ": SOMETHING WONDERFUL IS ABOUT TO HAPPEN.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 有什么美妙的事即将发生。"
+  },
+  {
+   "en": ": PLEASE TAKE THE NEXT TEN SECONDS TO THINK ABOUT ALL OF THE THINGS YOU LOVE.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 请用接下来的十秒钟，想想所有你爱的事物。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "play music \"sweetvermouth.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break1.webp",
+   "alt": "break1"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"cameraflash.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break2.webp",
+   "alt": "break2"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"dooropen.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break5.webp",
+   "alt": "break5"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break3.webp",
+   "alt": "break3"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break4.webp",
+   "alt": "break4"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"lock.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break6.webp",
+   "alt": "break6"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"phonebeep.wav\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"imscared.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"knock.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break11.webp",
+   "alt": "break11"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break1.webp",
+   "alt": "break1"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"cameraflash.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break2.webp",
+   "alt": "break2"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"dooropen.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break5.webp",
+   "alt": "break5"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break3.webp",
+   "alt": "break3"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break4.webp",
+   "alt": "break4"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"lock.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break6.webp",
+   "alt": "break6"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"phonebeep.wav\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"imscared.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"knock.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break11.webp",
+   "alt": "break11"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break1.webp",
+   "alt": "break1"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"cameraflash.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break2.webp",
+   "alt": "break2"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"dooropen.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break5.webp",
+   "alt": "break5"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break3.webp",
+   "alt": "break3"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break4.webp",
+   "alt": "break4"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"lock.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break6.webp",
+   "alt": "break6"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"phonebeep.wav\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"imscared.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"knock.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break11.webp",
+   "alt": "break11"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break1",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break1.webp",
+   "alt": "break1"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"cameraflash.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break2",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break2.webp",
+   "alt": "break2"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"dooropen.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break5",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break5.webp",
+   "alt": "break5"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break3",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break3.webp",
+   "alt": "break3"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break4",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break4.webp",
+   "alt": "break4"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"lock.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break6",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break6.webp",
+   "alt": "break6"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"phonebeep.wav\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break7",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"imscared.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break9",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"knock.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break10",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break11",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/break11.webp",
+   "alt": "break11"
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"alert.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": "scene break8",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break12",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break13",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "scene break14",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with flash",
+   "zh": ""
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "stop music",
+   "zh": ""
+  },
+  {
+   "en": "play sound \"static.mp3\"",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ renpy.pause(5, hard=True)",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Fuck me until I bleed.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 肏我，直到我出血为止。"
+  },
+  {
+   "en": ": Put me out of my misery.",
+   "spk": "61 6d 20 69 20 6f 6b 61 79",
+   "spkColor": "#e6e6e6",
+   "zh": ": 让我从这痛苦里解脱吧。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "menu:",
+   "zh": ""
+  },
+  {
+   "en": "\"Okay\":",
+   "zh": "“好的”:"
+  },
+  {
+   "en": "stop sound",
+   "zh": ""
+  },
+  {
+   "en": "$ renpy.end_replay()",
+   "zh": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ specialclassroomtrack = True",
+   "zh": ""
+  },
+  {
+   "en": "$ specialclassroom = False",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump saturdaynight",
+   "zh": ""
+  },
+  {
+   "en": ""
+  }
+ ]
 }

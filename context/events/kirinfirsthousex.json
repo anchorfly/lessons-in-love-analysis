@@ -1,755 +1,757 @@
 {
-  "label": "kirinfirsthousex",
-  "lines": [
-    {
-      "en": "label kirinfirsthousex:",
-      "zh": ""
-    },
-    {
-      "en": ": You’re not like, {i}in love{/i} with anybody, are you?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 你该不会，那个，{i}爱上了{/i}什么人吧？"
-    },
-    {
-      "en": ": You’re just messing around with a bunch of girls for the fun of it, right?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 你只是跟一堆女生玩玩找乐子，对吧？"
-    },
-    {
-      "en": ": Am I allowed to ask a question as well?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我也能问个问题吗？"
-    },
-    {
-      "en": ": I guess. You have to answer mine first, though.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 大概吧。不过你得先回答我的。"
-    },
-    {
-      "en": ": Well, in that case-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 那么，既然这样——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "menu:",
-      "zh": ""
-    },
-    {
-      "en": "\"I don’t know how I feel\":",
-      "zh": "\"我不知道自己是什么感觉\"："
-    },
-    {
-      "en": ": I don’t really know how I feel.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我不太清楚自己是什么感觉。"
-    },
-    {
-      "en": ": I don’t tend to think about love or romance or anything like that. And I guess it would be weird for someone in my position {i}to{/i} do that.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我不太会去想爱情、浪漫之类的东西。而且我想，处在我这个位置的人{i}去{/i}想那些，大概也挺怪的。"
-    },
-    {
-      "en": ": But it’s not like I’m opposed. ",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 但我也不是反对。"
-    },
-    {
-      "en": ": I’m just not really sure if I’m capable of feeling something that extreme right now.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我只是不太确定自己现在能不能感受到那么极端的感情。"
-    },
-    {
-      "en": ": Hmm...Okay. I guess that makes sense.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 嗯……好吧。我觉得说得通。"
-    },
-    {
-      "en": ": Kind of a boring answer, but not a bad one.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 答案挺无聊，但不算坏。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "\"I’m just trying to have fun\":",
-      "zh": "\"我只是想找乐子\"："
-    },
-    {
-      "en": ": I’m just trying to have some fun. ",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我只是想找点乐子。"
-    },
-    {
-      "en": "s \"There’s no one I’m in love with. But if there’s a cute girl who wants to mess",
-      "zh": "s \"我没有爱上任何人。但如果有可爱的女生想跟我"
-    },
-    {
-      "en": "around with me, who would I be to say no?\"",
-      "zh": "鬼混，我凭什么拒绝呢？\""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate20",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate20.webp",
-      "alt": "kirinfirstdate20"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Gotta give us girls what we want, don’t you, Sensei?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 总得给我们女生想要的东西吧，对吧，老师？"
-    },
-    {
-      "en": ": That’s basically my mission in life, yeah.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 那基本上就是我的人生使命，是啊。"
-    },
-    {
-      "en": ": Well at least you’re up front about it. People that dance around their feelings really piss me off.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 嗯，至少你很坦率。那些绕着自己感情打转的人真让我火大。"
-    },
-    {
-      "en": ": It’s like, if you want to do it, just do it. Right? What’s the point of getting all weird about it?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 就像，你要想做，就去做啊。对吧？为这种事扭扭捏捏有什么意义？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate21",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate21.webp",
-      "alt": "kirinfirstdate21"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": That’s like, the one thing I really respect about Ayane.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 那大概是我唯一真的很佩服 Ayane 的地方。"
-    },
-    {
-      "en": ": She saw what she wanted in you and she took it.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 她在你身上看到了自己想要的东西，然后就拿走了。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "if ayane_virgin == False:",
-      "zh": ""
-    },
-    {
-      "en": "I think it’s closer to me taking {i}her{/i}, but I guess I see where Kirin is coming from. ",
-      "zh": "我觉得更接近是我拿走了{i}她{/i}，不过我想我明白 Kirin 的意思。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "else:",
-      "zh": ""
-    },
-    {
-      "en": ": Ayane hasn’t taken anything. I’m a free man.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": Ayane 什么都没拿走。我是个自由人。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate22",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate22.webp",
-      "alt": "kirinfirstdate22"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Right. Like I’m gonna believe that. Didn’t you just say you were trying to have fun?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 对。我信你才怪。你不是刚说你只是想找乐子吗？"
-    },
-    {
-      "en": ": Well, yeah...But-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 嗯，是啊……不过——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Basically, all I’m trying to say is that I think we should do whatever we want to do, whenever we want to do it.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 基本上，我想说的就是，我觉得我们该想做什么就做什么，想什么时候做就什么时候做。"
-    },
-    {
-      "en": ": That being said-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 话虽如此——"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Can I ask my question now?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 现在我能问我的问题了吗？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate17",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate17.webp",
-      "alt": "kirinfirstdate17"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Yeah, I guess you humored me well enough. What’s up?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 行，我想你也算把我哄够了。怎么了？"
-    },
-    {
-      "en": ": Okay, well-",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 好，那个——"
-    },
-    {
-      "en": ": Are you sure you’re ready to lose your virginity?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你确定你准备好失去初夜了吗？"
-    },
-    {
-      "en": ": Because I {i}want{/i} to say you are, but there are a few things about the way you act that confuse me.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 因为我{i}很想{/i}说你准备好了，但你有些行为方式让我困惑。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate23",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate23.webp",
-      "alt": "kirinfirstdate23"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Huh? What are you talking about? I've been dropping hints for like the past hour. What would make you think I’m not ready?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 哈？你在说什么？我都暗示了快一个小时了。你凭什么觉得我没准备好？"
-    },
-    {
-      "en": ": Well, I kind of expected things to lead to that today, and all we’ve really done is sit on the couch and just...talk about stuff.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 嗯，我多少以为今天会顺理成章地走到那一步，可我们真正做的就只是坐在沙发上……聊了些东西。"
-    },
-    {
-      "en": ": I’m not disappointed by that, don’t get me wrong. It’s just weird when you’re so forward about it one minute and then don’t actually do anything about it.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 别误会，我并没有失望。只是你前一分钟还那么主动、下一分钟却什么都没做，这很怪。"
-    },
-    {
-      "en": ": You say all these things about just 'doing whatever we want,' but it's like you're not even taking your own advice.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 你说了那么多“想做什么就做什么”的话，可你自己好像根本没听进去。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate24",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate24.webp",
-      "alt": "kirinfirstdate24"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Ugh...It's really annoying when you put it that way.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 啧……被你这么一说，真的很烦。"
-    },
-    {
-      "en": ": And it's even more annoying cause I know you're right.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 更烦的是，我知道你是对的。"
-    },
-    {
-      "en": ": I...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 我……"
-    },
-    {
-      "en": ": I definitely do wanna do it...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 我当然很想做……"
-    },
-    {
-      "en": ": I just...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 我只是……"
-    },
-    {
-      "en": ": ...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": ..."
-    },
-    {
-      "en": ": ...can’t right now.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": ……现在不行。"
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ..."
-    },
-    {
-      "en": ": ...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": ..."
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ..."
-    },
-    {
-      "en": ": ...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": ..."
-    },
-    {
-      "en": ": {i}Ooooooooooooh...{/i}",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": {i}哦——————————……{/i}"
-    },
-    {
-      "en": ": {i}Oh...{/i}",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": {i}哦……{/i}"
-    },
-    {
-      "en": ": Yup.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 嗯。"
-    },
-    {
-      "en": ": Woe is me for being born with two X chromosomes.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 生来带着两条 X 染色体，我可真倒霉。"
-    },
-    {
-      "en": ": Please forget everything you may have thought up in the last five minutes before I die of embarrassment and regret.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 在我尴尬和后悔到死之前，请把你过去五分钟里可能想到的一切都忘掉。"
-    },
-    {
-      "en": ": Done. I’ve already forgotten everything.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 好。我已经全忘光了。"
-    },
-    {
-      "en": ": Okay, good.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 好，很好。"
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ..."
-    },
-    {
-      "en": ": ...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": ..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate25",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate25.webp",
-      "alt": "kirinfirstdate25"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": I really...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 我真的……"
-    },
-    {
-      "en": ": Do want to try it soon, though...",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 不过还是想尽快试试……"
-    },
-    {
-      "en": ": Is that weird? Wanting to do it with someone you barely know?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 这很怪吗？想跟一个自己几乎不了解的人做？"
-    },
-    {
-      "en": ": Or someone so much older?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 或者一个年纪大这么多的人？"
-    },
-    {
-      "en": ": I kind of just threw out the idea in your office because I felt like it might be easy to get you to do something for me, but-",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 我当初在你办公室里抛出那个主意，只是觉得要让你为我做点什么大概很容易，不过——"
-    },
-    {
-      "en": ": The more I think about it, the more I start {i}actually{/i} getting excited.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 我越想，就越{i}真的{/i}开始兴奋起来。"
-    },
-    {
-      "en": ": Sooooo yeah. That's weird, right?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 所——以，是啊。那很怪，对吧？"
-    },
-    {
-      "en": ": I don’t think it's weird at all...Life is all about having fun, isn’t it?",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我觉得一点也不怪……人生就是要开心嘛，不是吗？"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate26",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate26.webp",
-      "alt": "kirinfirstdate26"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Right. That's exactly what life is all about.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 对。人生就是这么回事。"
-    },
-    {
-      "en": ": I just wish everything wasn’t so boring.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 我只是希望一切别那么无聊。"
-    },
-    {
-      "en": ": Amen.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 阿门。"
-    },
-    {
-      "en": ": So, what do you say, Sensei?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 那么，你觉得呢，老师？"
-    },
-    {
-      "en": ": Are you willing to be my partner in crime?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 你愿意当我的犯罪搭档吗？"
-    },
-    {
-      "en": ": Do you wanna watch the rest of the world burn while we fuck like rabbits in my parents' bed?",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 你想不想看着这世界剩下的部分烧成灰，而我们就在我爸妈的床上像兔子一样交配？"
-    },
-    {
-      "en": ": ...",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": ..."
-    },
-    {
-      "en": ": I don’t think I’ve ever been this turned on by a single sentence before.",
-      "spk": "Sensei",
-      "spkColor": "#969696",
-      "zh": ": 我觉得自己从没被单独一句话弄得这么兴奋过。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene kirinfirstdate27",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "img": "游戏图片/Events/kirinfirstdate27.webp",
-      "alt": "kirinfirstdate27"
-    },
-    {
-      "en": "with dissolve",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": ": Heheh~ Well hopefully I break that record again sometime in the future.",
-      "spk": "Kirin",
-      "spkColor": "#9C8080",
-      "zh": ": 嘿嘿~希望我以后还能再打破这个纪录。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "scene black",
-      "cap": true,
-      "zh": ""
-    },
-    {
-      "en": "with dissolve2",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": "Okay, then.",
-      "zh": "那么，好吧。"
-    },
-    {
-      "en": "First date with Kirin was a complete success.",
-      "zh": "跟 Kirin 的第一次约会圆满成功。"
-    },
-    {
-      "en": "I think. ",
-      "zh": "我想是吧。"
-    },
-    {
-      "en": "A lot of what she says is still a little hard for me to interpret...But it’s the rationale behind everything that confuses me even more.",
-      "zh": "她说的很多话我依然有点难以解读……但更让我困惑的，是她一切言行背后的逻辑。"
-    },
-    {
-      "en": "I feel like it might be a while before I truly understand her.",
-      "zh": "我觉得，要真正理解她，可能还得等上一段时间。"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": "Kirin and I wind up watching something on TV for the next couple hours before Karin tells her she’s on the way home.",
-      "zh": "接下来几个小时，Kirin 和我一起看了点电视，直到 Karin 告诉她自己正在回家的路上。"
-    },
-    {
-      "en": "Not wanting to start a feud or misunderstanding between the two of them, I decide it’s best to leave. ",
-      "zh": "不想在她们姐妹之间挑起争端或误会，我决定最好还是离开。"
-    },
-    {
-      "en": "Kirin asks me to stay, but I’m pretty sure she just wants to make her sister jealous.",
-      "zh": "Kirin 让我留下，但我敢肯定，她只是想让她姐姐吃醋。"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": "Here’s hoping I can see more of her in the future.",
-      "zh": "希望以后还能多见见她。"
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "$ renpy.end_replay()",
-      "zh": ""
-    },
-    {
-      "en": "$ kirin_love += 1",
-      "zh": ""
-    },
-    {
-      "en": "$ kirindate1 = True",
-      "zh": ""
-    },
-    {
-      "en": "stop music fadeout 5.0",
-      "zh": ""
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "{i}Kirin’s affection has increased to [kirin_love]!{/i}",
-      "zh": "{i}Kirin 的好感度提升到了 [kirin_love]!{/i}"
-    },
-    {
-      "en": ".........",
-      "zh": "........."
-    },
-    {
-      "en": "......",
-      "zh": "......"
-    },
-    {
-      "en": "...",
-      "zh": "..."
-    },
-    {
-      "en": ""
-    },
-    {
-      "en": "jump saturdaynight",
-      "zh": ""
-    },
-    {
-      "en": ""
-    }
-  ]
+ "label": "kirinfirsthousex",
+ "lines": [
+  {
+   "en": "label kirinfirsthousex:",
+   "zh": ""
+  },
+  {
+   "en": ": You’re not like, {i}in love{/i} with anybody, are you?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 你该不会，那个，{i}爱上了{/i}什么人吧？"
+  },
+  {
+   "en": ": You’re just messing around with a bunch of girls for the fun of it, right?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 你只是跟一堆女生玩玩找乐子，对吧？"
+  },
+  {
+   "en": ": Am I allowed to ask a question as well?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我也能问个问题吗？"
+  },
+  {
+   "en": ": I guess. You have to answer mine first, though.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 大概吧。不过你得先回答我的。"
+  },
+  {
+   "en": ": Well, in that case-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那么，既然这样——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "menu:",
+   "zh": ""
+  },
+  {
+   "en": "\"I don’t know how I feel\":",
+   "zh": "\"我不知道自己是什么感觉\"："
+  },
+  {
+   "en": ": I don’t really know how I feel.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我不太清楚自己是什么感觉。"
+  },
+  {
+   "en": ": I don’t tend to think about love or romance or anything like that. And I guess it would be weird for someone in my position {i}to{/i} do that.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我不太会去想爱情、浪漫之类的东西。而且我想，处在我这个位置的人{i}去{/i}想那些，大概也挺怪的。"
+  },
+  {
+   "en": ": But it’s not like I’m opposed. ",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 但我也不是反对。"
+  },
+  {
+   "en": ": I’m just not really sure if I’m capable of feeling something that extreme right now.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我只是不太确定自己现在能不能感受到那么极端的感情。"
+  },
+  {
+   "en": ": Hmm...Okay. I guess that makes sense.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 嗯……好吧。我觉得说得通。"
+  },
+  {
+   "en": ": Kind of a boring answer, but not a bad one.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 答案挺无聊，但不算坏。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "\"I’m just trying to have fun\":",
+   "zh": "\"我只是想找乐子\"："
+  },
+  {
+   "en": ": I’m just trying to have some fun. ",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我只是想找点乐子。"
+  },
+  {
+   "en": ": There’s no one I’m in love with. But if there’s a cute girl who wants to mess",
+   "zh": ": 我没有爱上任何人。但如果有可爱的女生想跟我",
+   "spk": "Sensei",
+   "spkColor": "#969696"
+  },
+  {
+   "en": "around with me, who would I be to say no?\"",
+   "zh": "鬼混，我凭什么拒绝呢？\""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate20",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate20.webp",
+   "alt": "kirinfirstdate20"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Gotta give us girls what we want, don’t you, Sensei?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 总得给我们女生想要的东西吧，对吧，老师？"
+  },
+  {
+   "en": ": That’s basically my mission in life, yeah.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 那基本上就是我的人生使命，是啊。"
+  },
+  {
+   "en": ": Well at least you’re up front about it. People that dance around their feelings really piss me off.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 嗯，至少你很坦率。那些绕着自己感情打转的人真让我火大。"
+  },
+  {
+   "en": ": It’s like, if you want to do it, just do it. Right? What’s the point of getting all weird about it?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 就像，你要想做，就去做啊。对吧？为这种事扭扭捏捏有什么意义？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate21",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate21.webp",
+   "alt": "kirinfirstdate21"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": That’s like, the one thing I really respect about Ayane.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 那大概是我唯一真的很佩服 Ayane 的地方。"
+  },
+  {
+   "en": ": She saw what she wanted in you and she took it.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 她在你身上看到了自己想要的东西，然后就拿走了。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "if ayane_virgin == False:",
+   "zh": ""
+  },
+  {
+   "en": "I think it’s closer to me taking {i}her{/i}, but I guess I see where Kirin is coming from. ",
+   "zh": "我觉得更接近是我拿走了{i}她{/i}，不过我想我明白 Kirin 的意思。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "else:",
+   "zh": ""
+  },
+  {
+   "en": ": Ayane hasn’t taken anything. I’m a free man.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": Ayane 什么都没拿走。我是个自由人。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate22",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate22.webp",
+   "alt": "kirinfirstdate22"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Right. Like I’m gonna believe that. Didn’t you just say you were trying to have fun?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 对。我信你才怪。你不是刚说你只是想找乐子吗？"
+  },
+  {
+   "en": ": Well, yeah...But-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗯，是啊……不过——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Basically, all I’m trying to say is that I think we should do whatever we want to do, whenever we want to do it.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 基本上，我想说的就是，我觉得我们该想做什么就做什么，想什么时候做就什么时候做。"
+  },
+  {
+   "en": ": That being said-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 话虽如此——"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Can I ask my question now?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 现在我能问我的问题了吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate17",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate17.webp",
+   "alt": "kirinfirstdate17"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Yeah, I guess you humored me well enough. What’s up?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 行，我想你也算把我哄够了。怎么了？"
+  },
+  {
+   "en": ": Okay, well-",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 好，那个——"
+  },
+  {
+   "en": ": Are you sure you’re ready to lose your virginity?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你确定你准备好失去初夜了吗？"
+  },
+  {
+   "en": ": Because I {i}want{/i} to say you are, but there are a few things about the way you act that confuse me.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 因为我{i}很想{/i}说你准备好了，但你有些行为方式让我困惑。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate23",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate23.webp",
+   "alt": "kirinfirstdate23"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Huh? What are you talking about? I've been dropping hints for like the past hour. What would make you think I’m not ready?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 哈？你在说什么？我都暗示了快一个小时了。你凭什么觉得我没准备好？"
+  },
+  {
+   "en": ": Well, I kind of expected things to lead to that today, and all we’ve really done is sit on the couch and just...talk about stuff.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 嗯，我多少以为今天会顺理成章地走到那一步，可我们真正做的就只是坐在沙发上……聊了些东西。"
+  },
+  {
+   "en": ": I’m not disappointed by that, don’t get me wrong. It’s just weird when you’re so forward about it one minute and then don’t actually do anything about it.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 别误会，我并没有失望。只是你前一分钟还那么主动、下一分钟却什么都没做，这很怪。"
+  },
+  {
+   "en": ": You say all these things about just 'doing whatever we want,' but it's like you're not even taking your own advice.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 你说了那么多“想做什么就做什么”的话，可你自己好像根本没听进去。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate24",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate24.webp",
+   "alt": "kirinfirstdate24"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Ugh...It's really annoying when you put it that way.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 啧……被你这么一说，真的很烦。"
+  },
+  {
+   "en": ": And it's even more annoying cause I know you're right.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 更烦的是，我知道你是对的。"
+  },
+  {
+   "en": ": I...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 我……"
+  },
+  {
+   "en": ": I definitely do wanna do it...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 我当然很想做……"
+  },
+  {
+   "en": ": I just...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 我只是……"
+  },
+  {
+   "en": ": ...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...can’t right now.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": ……现在不行。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": ..."
+  },
+  {
+   "en": ": {i}Ooooooooooooh...{/i}",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": {i}哦——————————……{/i}"
+  },
+  {
+   "en": ": {i}Oh...{/i}",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": {i}哦……{/i}"
+  },
+  {
+   "en": ": Yup.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 嗯。"
+  },
+  {
+   "en": ": Woe is me for being born with two X chromosomes.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 生来带着两条 X 染色体，我可真倒霉。"
+  },
+  {
+   "en": ": Please forget everything you may have thought up in the last five minutes before I die of embarrassment and regret.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 在我尴尬和后悔到死之前，请把你过去五分钟里可能想到的一切都忘掉。"
+  },
+  {
+   "en": ": Done. I’ve already forgotten everything.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 好。我已经全忘光了。"
+  },
+  {
+   "en": ": Okay, good.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 好，很好。"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": ...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": ..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate25",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate25.webp",
+   "alt": "kirinfirstdate25"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": I really...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 我真的……"
+  },
+  {
+   "en": ": Do want to try it soon, though...",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 不过还是想尽快试试……"
+  },
+  {
+   "en": ": Is that weird? Wanting to do it with someone you barely know?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 这很怪吗？想跟一个自己几乎不了解的人做？"
+  },
+  {
+   "en": ": Or someone so much older?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 或者一个年纪大这么多的人？"
+  },
+  {
+   "en": ": I kind of just threw out the idea in your office because I felt like it might be easy to get you to do something for me, but-",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 我当初在你办公室里抛出那个主意，只是觉得要让你为我做点什么大概很容易，不过——"
+  },
+  {
+   "en": ": The more I think about it, the more I start {i}actually{/i} getting excited.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 我越想，就越{i}真的{/i}开始兴奋起来。"
+  },
+  {
+   "en": ": Sooooo yeah. That's weird, right?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 所——以，是啊。那很怪，对吧？"
+  },
+  {
+   "en": ": I don’t think it's weird at all...Life is all about having fun, isn’t it?",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我觉得一点也不怪……人生就是要开心嘛，不是吗？"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate26",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate26.webp",
+   "alt": "kirinfirstdate26"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Right. That's exactly what life is all about.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 对。人生就是这么回事。"
+  },
+  {
+   "en": ": I just wish everything wasn’t so boring.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 我只是希望一切别那么无聊。"
+  },
+  {
+   "en": ": Amen.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 阿门。"
+  },
+  {
+   "en": ": So, what do you say, Sensei?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 那么，你觉得呢，老师？"
+  },
+  {
+   "en": ": Are you willing to be my partner in crime?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 你愿意当我的犯罪搭档吗？"
+  },
+  {
+   "en": ": Do you wanna watch the rest of the world burn while we fuck like rabbits in my parents' bed?",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 你想不想看着这世界剩下的部分烧成灰，而我们就在我爸妈的床上像兔子一样交配？"
+  },
+  {
+   "en": ": ...",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": ..."
+  },
+  {
+   "en": ": I don’t think I’ve ever been this turned on by a single sentence before.",
+   "spk": "Sensei",
+   "spkColor": "#969696",
+   "zh": ": 我觉得自己从没被单独一句话弄得这么兴奋过。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene kirinfirstdate27",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "img": "游戏图片/Events/kirinfirstdate27.webp",
+   "alt": "kirinfirstdate27"
+  },
+  {
+   "en": "with dissolve",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": ": Heheh~ Well hopefully I break that record again sometime in the future.",
+   "spk": "Kirin",
+   "spkColor": "#9C8080",
+   "zh": ": 嘿嘿~希望我以后还能再打破这个纪录。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "scene black",
+   "cap": true,
+   "zh": ""
+  },
+  {
+   "en": "with dissolve2",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": "Okay, then.",
+   "zh": "那么，好吧。"
+  },
+  {
+   "en": "First date with Kirin was a complete success.",
+   "zh": "跟 Kirin 的第一次约会圆满成功。"
+  },
+  {
+   "en": "I think. ",
+   "zh": "我想是吧。"
+  },
+  {
+   "en": "A lot of what she says is still a little hard for me to interpret...But it’s the rationale behind everything that confuses me even more.",
+   "zh": "她说的很多话我依然有点难以解读……但更让我困惑的，是她一切言行背后的逻辑。"
+  },
+  {
+   "en": "I feel like it might be a while before I truly understand her.",
+   "zh": "我觉得，要真正理解她，可能还得等上一段时间。"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": "Kirin and I wind up watching something on TV for the next couple hours before Karin tells her she’s on the way home.",
+   "zh": "接下来几个小时，Kirin 和我一起看了点电视，直到 Karin 告诉她自己正在回家的路上。"
+  },
+  {
+   "en": "Not wanting to start a feud or misunderstanding between the two of them, I decide it’s best to leave. ",
+   "zh": "不想在她们姐妹之间挑起争端或误会，我决定最好还是离开。"
+  },
+  {
+   "en": "Kirin asks me to stay, but I’m pretty sure she just wants to make her sister jealous.",
+   "zh": "Kirin 让我留下，但我敢肯定，她只是想让她姐姐吃醋。"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": "Here’s hoping I can see more of her in the future.",
+   "zh": "希望以后还能多见见她。"
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "$ renpy.end_replay()",
+   "zh": ""
+  },
+  {
+   "en": "$ kirin_love += 1",
+   "zh": ""
+  },
+  {
+   "en": "$ kirindate1 = True",
+   "zh": ""
+  },
+  {
+   "en": "stop music fadeout 5.0",
+   "zh": ""
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "{i}Kirin’s affection has increased to [kirin_love]!{/i}",
+   "zh": "{i}Kirin 的好感度提升到了 [kirin_love]!{/i}"
+  },
+  {
+   "en": ".........",
+   "zh": "........."
+  },
+  {
+   "en": "......",
+   "zh": "......"
+  },
+  {
+   "en": "...",
+   "zh": "..."
+  },
+  {
+   "en": ""
+  },
+  {
+   "en": "jump saturdaynight",
+   "zh": ""
+  },
+  {
+   "en": ""
+  }
+ ]
 }
