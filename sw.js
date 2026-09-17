@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v48';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v49';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v49=去掉页面 head 里标注统计用途的中文注释（源码不再出现「统计」字样）
                                   //       v48=事件点击埋点：openEvent 上报 open_event 事件（带 label）
                                   //       v47=补录漏掉的通用场景宿舍事件 rindorm6to9 / futabadorm6to9
                                   //       v46=修复中文模式搜索误命中英文错过文案（搜 dorm 命中「这就是生活」）
