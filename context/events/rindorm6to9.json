@@ -1,0 +1,144 @@
+{
+  "label": "rindorm6to9",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label rindorm6to9:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come in!",
+      "spk": "Rin",
+      "spkColor": "#FF00AE",
+      "zh": ": 请进！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene rindormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/rindormgen.webp",
+      "alt": "rindormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Rin invites me in again and the two of us kill time together in her room.",
+      "zh": "Rin 又把我请了进去，我俩在她房间里一起消磨时间。"
+    },
+    {
+      "en": "She shows me some of the music she’s been into lately and a lot of it seems eerily depressing.",
+      "zh": "她给我听了一些她最近迷上的音乐，其中不少都阴郁得有点瘆人。"
+    },
+    {
+      "en": "I’m surprised that someone as cheerful as her listens to things like this, but",
+      "zh": "像她这么开朗的人居然会听这种东西，我挺意外的——不过"
+    },
+    {
+      "en": "I guess it’s never good to judge a book by its cover.",
+      "zh": "我想，果然还是不能以貌取人。"
+    },
+    {
+      "en": "Plus, she collects human skulls so it’s not like she’s exactly “normal.”",
+      "zh": "再说了，她还收藏人类的头骨，所以她也谈不上多「正常」。"
+    },
+    {
+      "en": "Eventually, Futaba sends her a text that she’s on her way back and",
+      "zh": "后来 Futaba 发短信说她正在往回走，于是"
+    },
+    {
+      "en": "the two of us decide it’s best for me to head out.",
+      "zh": "我俩一致认为，我最好还是先撤。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ rin_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Rin’s affection has increased to [rin_love]!{/i}",
+      "zh": "{i}Rin 的好感度提升到了 [rin_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:"
+    },
+    {
+      "en": "if day >= 6:"
+    },
+    {
+      "en": "jump endofsatch4"
+    },
+    {
+      "en": "else:"
+    },
+    {
+      "en": "jump endofweekdaych4"
+    },
+    {
+      "en": "else:"
+    },
+    {
+      "en": "if day < 6:"
+    },
+    {
+      "en": "jump endofweekday"
+    },
+    {
+      "en": "else:"
+    },
+    {
+      "en": "jump endofsat"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "label": "futabadorm6to9",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label futabadorm6to9:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come in!",
+      "spk": "Futaba",
+      "spkColor": "#E73CFF",
+      "zh": ": 请进！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabadormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Events/futabadormgen.webp",
+      "alt": "futabadormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba lets me in and the two of us spend some time together.",
+      "zh": "Futaba 让我进了门，我俩一起待了一会儿。"
+    },
+    {
+      "en": "Apparently, she was planning on spending the night studying.",
+      "zh": "看样子，她本来打算今晚用来学习的。"
+    },
+    {
+      "en": "I feel kind of bad for interrupting her, so I decide to help her out to the best of my ability.",
+      "zh": "打断了她让我有点过意不去，所以我决定尽我所能帮她一把。"
+    },
+    {
+      "en": "It never ceases to amaze me how diligent and dedicated she is when it comes to[school].",
+      "zh": "一牵扯到[school]，她就有多勤勉、多投入——这一点总让我惊叹不已。"
+    },
+    {
+      "en": "I’m glad that she’s able to stay motivated despite her lack of confidence in herself...",
+      "zh": "我很高兴她虽然对自己没什么信心，却还能一直保持干劲……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "游戏图片/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ futaba_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Futaba’s affection has increased to [futaba_love]!{/i}",
+      "zh": "{i}Futaba 的好感度提升到了 [futaba_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:"
+    },
+    {
+      "en": "if day >= 6:"
+    },
+    {
+      "en": "jump endofsatch4"
+    },
+    {
+      "en": "else:"
+    },
+    {
+      "en": "jump endofweekdaych4"
+    },
+    {
+      "en": "else:"
+    },
+    {
+      "en": "if day < 6:"
+    },
+    {
+      "en": "jump endofweekday"
+    },
+    {
+      "en": "else:"
+    },
+    {
+      "en": "jump endofsat"
+    }
+  ]
+}
