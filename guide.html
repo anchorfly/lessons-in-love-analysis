@@ -763,7 +763,8 @@ function dispTitleText(item){
   if(LANG === 'bi') return (zh || en) + ((zh && zh !== en) ? ' ('+en+')' : '');
   return zh || en;
 }
-/* 双语搜索：当前语言下「事件标题」是否命中查询 q（en/bi 含英文；zh 含中文，无译文则英文可搜；missedTitles 始终参与） */
+/* 双语搜索：当前语言下「事件标题」是否命中查询 q。
+   en = 英文标题 + 英文错过文案；bi = 中英都搜；zh = 只搜中文（无中文译文才回退英文） */
 function titleMatches(g, q){
   const en = (g.title||"").toLowerCase();
   const zh = (g.label ? (ZH_TITLE[g.label]||"") : "").toLowerCase();
@@ -771,7 +772,12 @@ function titleMatches(g, q){
   const altZh = (g.label ? ((ZH_MISSED && ZH_MISSED[g.label]) || "") : "").toLowerCase();   // 错过标题的中文
   if(LANG === 'en') return en.includes(q) || alt.some(t=>t.includes(q));
   if(LANG === 'bi') return en.includes(q) || zh.includes(q) || alt.some(t=>t.includes(q)) || (!!altZh && altZh.includes(q));
-  return (zh ? zh.includes(q) : en.includes(q)) || alt.some(t=>t.includes(q)) || (!!altZh && altZh.includes(q));
+  /* zh：只匹配界面上看得见的文字 —— 中文标题 + 错过时文案的中文版。
+     只有没有任何中文译文时（界面上显示的那行本身就是英文）才回退匹配英文，
+     否则会被「看不见的英文错过文案」误命中：
+     例：futabalust15「这就是生活」的 missedAlt 是法语 Mourir. Dormir.，搜 dorm 会莫名命中它。 */
+  const missHit = altZh ? altZh.includes(q) : alt.some(t=>t.includes(q));
+  return (zh ? zh.includes(q) : en.includes(q)) || missHit;
 }
 
 /* label -> 事件对象 查找表（懒构建），供就地刷新标题用 */

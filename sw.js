@@ -32,7 +32,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v7';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v45';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v46';   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v46=修复中文模式搜索误命中英文错过文案（搜 dorm 命中「这就是生活」）
                                   //       v45=tsuneyospring3 中文标题 這丕昰義 -> 這丕昰莪（義加笔过多，改加 3 画的莪）
                                   //       v44=tsuneyospring3 中文标题 -> 這丕昰義
                                   //       v43=tsuneyospring3 标题 TH15 15NT M3 -> 這丕昰義（中文 leet：形近异体替换）
