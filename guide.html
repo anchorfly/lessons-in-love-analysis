@@ -378,6 +378,19 @@ function openVersion(k){
 }
 function openEvent(i,idx,rel){
   const c = DATA[i], it = c.items[idx];
+  /* GA4 埋点：每打开一个事件上报一次 open_event，参数带 label（如 firsttimestreets）。
+     ⚠️ 后台需在「管理 → 自定义定义」把 event_label 注册成自定义维度（范围=事件），
+     才能在报告里按 label 分组；注册当天起才开始收集，不回溯。
+     typeof 判空：GA 脚本被拦截时 gtag 未定义，不能让它影响页面功能。 */
+  try {
+    if (typeof gtag === 'function') {
+      gtag('event', 'open_event', {
+        event_label: (it && it.label) || '',
+        event_category: (c && c.name) || '',
+        event_rel: rel || 0
+      });
+    }
+  } catch (e) {}
   const relPos = RELEASE && RELEASE.items.length
     ? RELEASE.items.findIndex(e => e.ci === i && e.idx === idx) : -1;
   const inRel = rel === 1 && relPos >= 0;
