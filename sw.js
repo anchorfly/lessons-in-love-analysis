@@ -31,11 +31,16 @@
  *       新 key 未命中时先查旧 key（游戏图片/…）缓存 → 命中即秒回并迁移条目，
  *       让已有 5GB 缓存不白费、用户不重新下载；都没有才回图片仓库取。
  *       ⚠️ CACHE_IMG 保持 lil-img-v1 不变 —— 一旦 bump 就是全员重下 5GB。
+ *   - v12（HTML 改 cache-first）：实测发现 netFirst 的 4s 超时会让每次打开
+ *       **先返回旧缓存**、网络在后台才更新缓存 ⇒ 永远慢一个版本（用户反复报
+ *       「推了线上没变」的根因）。改为缓存优先：bump CACHE_DOC 即新建缓存 +
+ *       install 预缓存新 HTML，新版必命中、旧版作废，既快又不会落后。
  *   - v9（事件缓存兜底）：v8 的 evtver 精准失效在个别客户端未生效（译文已更新、
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v125';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v126';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v126=HTML 改 cache-first
                                   //       v125=人物头像填满格子
                                   //       v124=人物头像填满格子
                                   //       v123=首页人物卡去掉名字
@@ -160,7 +165,7 @@ self.addEventListener('fetch', (e) => {
   if (EVENT_RE.test(url.pathname)) return e.respondWith(cacheFirst(req, CACHE_EVT));
   // HTML 外壳 + sw.js + context/missed_zh.json 等：网络优先（1.2s 超时回退缓存）。
   // 目的：普通用户「刷新一次」就能看到新内容，不需要任何开发者工具操作。
-  return e.respondWith(netFirst(req, CACHE_DOC, 4000));   // 网络优先：4s 内拿到就用新的（=刷新一次即生效），超时才回退缓存
+  return e.respondWith(cacheFirstDoc(req, CACHE_DOC));   // 缓存优先（bump 即换新缓存=自动失效），彻底消除「永远慢一拍」
 });
 
 /* 判断响应是否真的是媒体：没有 content-type、或既不是 image/* 也不是 video/* 一律视为坏响应。
@@ -224,6 +229,23 @@ async function cacheFirstImg(req) {
     if (hit) return hit;                 // 取失败但缓存里有（哪怕不是好图）→ 有总比没有强
     return fetch(req).catch(function () { throw e; });
   }
+}
+
+/* HTML 外壳：缓存优先（2026-10-03 改）。
+   为什么不用 netFirst：实测证据 —— 网络慢时 netFirst 的 4s 超时会**先返回旧缓存**，
+   而网络在后台完成后才更新缓存 ⇒ **每次打开都比线上慢一个版本**。
+   用户反复报「推了但线上没变」就是这个原因（实测缓存里已是新文件、页面却是旧的）。
+
+   为什么缓存优先是安全的：本项目铁律「改 HTML 必须 bump CACHE_DOC」——
+   bump 会新建一张缓存、install 阶段预缓存新 HTML ⇒ 新版必命中、旧版自然作废。
+   于是既没有「慢一拍」，也依旧「刷新一次就是新内容」。 */
+async function cacheFirstDoc(req, name) {
+  const c = await caches.open(name);
+  const hit = await c.match(req);
+  if (hit) return hit;                    // 命中即秒回，零等待
+  const net = await fetch(req);
+  if (net && net.status === 200) { try { c.put(req, net.clone()); } catch (_) {} }
+  return net;
 }
 
 async function cacheFirst(req, name, isImg) {
