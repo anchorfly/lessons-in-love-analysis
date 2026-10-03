@@ -1258,12 +1258,16 @@ function renderLines(lines){
   // 反复切到同一张图的写法，连排几张一样的图对读者是噪音。同一张图在最近 5 行内
   // 出现过就不再渲染（文本照常保留），不改数据。
   let _lastImg = null, _lastImgAt = -99, _ln = -1;
+  /* 图片后的空行不渲染（2026-10-04 用户要求）：数据里 38% 的空行紧跟在图片之后，
+     渲染出来就是图片与下一段文字之间多一行回车。只跳过紧邻图片的，其余空行保留
+     （那是游戏的节奏停顿，删掉会改变阅读节奏）。 */
+  let _lastWasImg = false;
   for(const L of lines){
     _ln++;
     // 图片行：中英共用，不参与切换
     if(L.img){
       if(L.img === _lastImg && (_ln - _lastImgAt) <= 5) continue;
-      _lastImg = L.img; _lastImgAt = _ln;
+      _lastImg = L.img; _lastImgAt = _ln; _lastWasImg = true;
       // 视频（webm/mp4/mov）用 <video> 播放；图片照旧 <img>
       if(/\.(webm|mp4|mov)$/i.test(L.img)){
         h += '<video class="scene-img" controls loop muted playsinline preload="metadata" src="'+_esc(L.img)+'" onerror="__imgRetry(this)"></video>';
@@ -1285,9 +1289,12 @@ function renderLines(lines){
     if(!zh.trim() && /^\s*\$|^\s*(image|hide|play|stop|with|window|pause|transform|camera|nvl|voice|queue)\b/.test(en.trim())) continue;
     // 空行：原版是 <div class="c">&nbsp;</div>
     if(!en && !zh){
+      if(_lastWasImg) continue;              // 紧跟在图片之后 → 不渲染
+      _lastWasImg = false;
       h += '<div class="c">&nbsp;</div>';
       continue;
     }
+    _lastWasImg = false;
     const hasZh = zh.trim().length > 0;
     const nozh = hasZh ? "" : " no-zh";
     // scene-cap 场景说明行（不参与三语切换，中英共用——英文是 scene 指令）
