@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v143';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v144';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v144=SW 三处 fetch 绕过 HTTP 缓存
                                   //       v143=SW fetch 绕过 HTTP 缓存
                                   //       v142=同步注释
                                   //       v141=删掉首页标题
@@ -140,7 +141,7 @@ self.addEventListener('install', (e) => {
     await Promise.all(PRECACHE_HTML.map(async (u) => {
       if (await c.match(u)) return;
       try {
-        const r = await fetch(u);
+        const r = await fetch(u, { cache: 'reload' });   /* 绕过 HTTP 缓存 */
         if (r && r.status === 200) await c.put(u, r.clone());
       } catch (_) {}
     }));
@@ -260,7 +261,7 @@ async function cacheFirstDoc(req, name) {
   const c = await caches.open(name);
   const hit = await c.match(req);
   if (hit) return hit;                    // 命中即秒回，零等待
-  const net = await fetch(req);
+  const net = await fetch(req, { cache: 'reload' });   /* 绕过 HTTP 缓存 */
   if (net && net.status === 200) { try { c.put(req, net.clone()); } catch (_) {} }
   return net;
 }
@@ -275,7 +276,7 @@ async function cacheFirst(req, name, isImg) {
     hit = await c.match(req);
     if (hit && !(isImg && !isGoodImage(hit))) return hit;   // 命中坏条目则视为 miss，回源
     try {
-      const res = await fetch(req);
+      const res = await fetch(req, { cache: 'reload' });   /* 事件 JSON 也绕过 HTTP 缓存 */
       if (res && res.status === 200 && !(isImg && !isGoodImage(res))) c.put(req, res.clone());
       return res;
     } catch (err) {
