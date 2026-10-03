@@ -35,7 +35,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v113';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v114';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v114=scene 指令行漏标 cap 的兜底渲染
                                   //       v113=图片路径 游戏图片/ → pic/，SW 加旧 key 别名
                                   //       v111=SW 自动更新：controllerchange 自动 reload
                                   //       v110=事件缓存 v8 + lastSeen 不提前提交（治译文不刷新）
