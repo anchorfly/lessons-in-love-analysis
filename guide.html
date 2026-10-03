@@ -1208,9 +1208,16 @@ function stripLeadingCode(lines){
 
 function renderLines(lines){
   let h = "";
+  // 抑制连续重复图片（2026-10-03）：游戏里常有 `scene X / 文本 / scene X / 文本` 这种
+  // 反复切到同一张图的写法，连排几张一样的图对读者是噪音。同一张图在最近 5 行内
+  // 出现过就不再渲染（文本照常保留），不改数据。
+  let _lastImg = null, _lastImgAt = -99, _ln = -1;
   for(const L of lines){
+    _ln++;
     // 图片行：中英共用，不参与切换
     if(L.img){
+      if(L.img === _lastImg && (_ln - _lastImgAt) <= 5) continue;
+      _lastImg = L.img; _lastImgAt = _ln;
       // 视频（webm/mp4/mov）用 <video> 播放；图片照旧 <img>
       if(/\.(webm|mp4|mov)$/i.test(L.img)){
         h += '<video class="scene-img" controls loop muted playsinline preload="metadata" src="'+_esc(L.img)+'" onerror="__imgRetry(this)"></video>';
@@ -1559,6 +1566,10 @@ function __imgPrefetch(box){
   function collect(){
     // 只收正文里的图片（排除大图自身的 img）
     list = Array.prototype.slice.call(document.querySelectorAll('img.scene-img'));
+    // 去掉相邻的同一张（渲染层已抑制大部分，这里再兜一层）
+    list = list.filter(function(el, i){
+      return i === 0 || el.getAttribute('src') !== list[i-1].getAttribute('src');
+    });
     return list.length;
   }
   function show(i){
