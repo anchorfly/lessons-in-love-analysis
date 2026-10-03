@@ -27,10 +27,10 @@
   .section-title{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1.2px;margin:18px 0 8px}
   .section-title:first-child{margin-top:4px}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}
-  /* 人物区：紧凑网格，目标是「一眼看全 35 个人物」。
-     列宽自适应（auto-fill + 76px 下限）：宽屏排得多、窄屏自动少，
-     头像填满格子但整体高度可控。 */
-  .grid.char-grid{grid-template-columns:repeat(auto-fill,minmax(76px,1fr));gap:8px}
+  /* 人物区：固定 5 列 × 7 行 = 35，正好排满全部人物（用户指定规格）。
+     整块限宽 560px（每列约 112px），保证 7 行能在一屏内看全，
+     而不是被宽屏拉成超大格子。 */
+  .grid.char-grid{grid-template-columns:repeat(5,1fr);gap:8px;max-width:560px}
   .char-grid .card{padding:4px;min-height:0;gap:0}
   .char-grid .cicon{width:100%;height:auto;aspect-ratio:1/1;border-radius:6px}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 8px;cursor:pointer;transition:.15s;display:flex;flex-direction:column;align-items:center;gap:6px;min-height:88px;justify-content:center}
@@ -168,7 +168,7 @@ function goHome(){
   const happy = DATA.filter(c=>isHappy(c.name));
   const chars = DATA.filter(c=>!isChapter(c.name) && !isHappy(c.name) && c.name !== "通用场景" && c.name !== "扩展包" && c.name !== "Nothing is Beautiful");
   let h = '';
-  h += '<div class="section-title">章节</div><div class="grid">';
+  h += '<div class="grid">';
   // 版本更新卡片接在章节行最左侧（Chapter 1 左边），与章节同一行，不单独占一行
   if(RELEASE && RELEASE.items && RELEASE.items.length){
     h += '<div class="card rel-card" onclick="openRelease()">'
@@ -181,7 +181,7 @@ function goHome(){
   // —— 让最下面的「附加内容」行一眼就能看到
   for(const c of happy) h += catCard(c);
   h += '</div>';
-  h += '<div class="section-title">人物</div><div class="grid char-grid">';
+  h += '<div class="grid char-grid">';
   for(const c of chars) h += charCard(c);
   h += '</div>';
   // 附加内容：① §3.6 历史版本事件（按 wiki 版本浏览）② §2.63 通用场景(*gen) 仅供查阅
