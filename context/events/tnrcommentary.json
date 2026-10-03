@@ -1,0 +1,1557 @@
+{
+  "label": "tnrcommentary",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The following commentary centers around a scene that relies heavily upon symbolism in order to get its themes and atmosphere across.",
+      "zh": "以下解说围绕一个大量依赖象征手法来传达主题与氛围的场景。"
+    },
+    {
+      "en": "If you do {i}not{/i} want to hear my perspective on these symbols as you fear they may negatively impact your personal interpretation of the event, leave now. You are not obligated or expected to read this.",
+      "zh": "如果你{i}不{/i}想听我对这些象征的解读，因为你担心它们会影响你自己对这个事件的诠释，那就现在离开。你没有义务、也没有必要读下去。"
+    },
+    {
+      "en": "It is just me wanting to share what certain stuff means with people who want to {i}know{/i} what certain stuff means. ",
+      "zh": "这只是我想跟那些{i}想{/i}知道某些东西含义的人，分享某些东西的含义。"
+    },
+    {
+      "en": "And anyone who would sooner elect to remain in their own room instead is well within their rights to make that choice. This is not an event you {i}have{/i} to understand to appreciate the game.",
+      "zh": "而任何宁可待在自己房间里的人，完全有权做这个选择。这个事件不是你欣赏这款游戏所{i}必须{/i}理解的。"
+    },
+    {
+      "en": "And I feel like a lot of its allure comes from the fact that you {i}wouldn’t{/i} know what any of this means without putting on the protagonist’s shoes and trying to walk in them for a little while.",
+      "zh": "而且我觉得它的魅力很大一部分就在于：如果不穿上主角的鞋、试着走上一段，你{i}不会{/i}知道这些意味着什么。"
+    },
+    {
+      "en": "If you’re still reading this, though, I suppose you’re one of those people who {i}does{/i} want to try walking.",
+      "zh": "不过如果你还在读，我想你就是那种{i}确实{/i}想试着走走的人。"
+    },
+    {
+      "en": "Which means...I suppose we should begin the tour now.",
+      "zh": "也就是说……我想我们该开始导览了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment1.webp",
+      "alt": "tnrcomment1"
+    },
+    {
+      "en": "$ renpy.pause(8, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene tnrcomment2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment2.webp",
+      "alt": "tnrcomment2"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "A man enters the room to cheers and praise despite merely going about his day — the same way he would if he was not being watched.",
+      "zh": "一个男人走进房间，迎接他的是欢呼与赞美，尽管他只是像平常一样过日子，就像没人在看他时那样。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment3.webp",
+      "alt": "tnrcomment3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "He notices you in the corner of the room and tilts his head quizzically — wondering who invited you here and why you wanted to come in the first place.",
+      "zh": "他注意到你在房间的角落里，疑惑地歪了歪头，想知道是谁邀请你来的，以及你一开始为什么要来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment4.webp",
+      "alt": "tnrcomment4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "He then remembers it was {i}he{/i} who invited you here. So he raises his hand somewhere between reluctantly and fearfully and approaches a camera situated in the center of the room.",
+      "zh": "然后他想起，邀请你来的正是{i}他{/i}。于是他半是不情愿、半是畏惧地抬起手，走向房间正中央的一台摄影机。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment5",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment5.webp",
+      "alt": "tnrcomment5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "You can’t make out the expression on his face. You can merely make assumptions based on what you’ve read. And he knows this. So he looks into the camera and greets you warmly.",
+      "zh": "你看不清他脸上的表情。你只能根据读过的东西去推测。而他知道这一点。于是他看向镜头，热情地跟你打招呼。"
+    },
+    {
+      "en": "Is this an illusion too?",
+      "zh": "这也是幻觉吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hello! And thanks for taking the time out of your day to join me in my infinity house.",
+      "spk": "Selebus",
+      "zh": ": 你好！谢谢你从一天里抽出时间来，到我的无限之屋做客。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Times New Roman is perhaps the most unique event in all of Lessons in Love. But more than that, it’s one of the most {i}meaningful{/i} events in Lessons in Love.",
+      "spk": "Selebus",
+      "zh": ": 《Times New Roman》也许是《Lessons in Love》里最独特的事件。但更重要的是，它是《Lessons in Love》里最有{i}意义{/i}的事件之一。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I’m sure this might sound silly given it’s the same event where you collect fish off the floor and talk to magical creatures in trash cans, but it’s true. ",
+      "spk": "Selebus",
+      "zh": ": 我知道这话听起来可能有点蠢，毕竟这是同一个你会从地上捡鱼、还跟垃圾桶里的魔法生物说话的事件。但这是真的。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": So I figured it might be nice if I give you a little tour of the {i}room where it happened{/i} to help you better understand where you were and, perhaps, {i}why{/i} you were.",
+      "spk": "Selebus",
+      "zh": ": 所以我想，带你参观一下{i}事情发生的那个房间{/i}可能不错，好让你更明白你当时身在何处，也许还有{i}为什么{/i}在那里。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment6",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment6.webp",
+      "alt": "tnrcomment6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The scene begins in an unfamiliar room that, despite its few scattered absurdities, feels lived in and welcoming. A quiet, somewhat complacent song plays in the background designed to emphasize this.",
+      "spk": "Selebus",
+      "zh": ": 场景开始于一个陌生的房间。尽管有几处零散的荒诞之处，它却显得有人居住、令人安心。背景里放着一首安静、略带自满的歌，就是为了强调这一点。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Something feels off, though — and it’s not just those absurdities. Those curiosities. It’s the fact that you can’t tell {i}when{/i} this is happening. ",
+      "spk": "Selebus",
+      "zh": ": 但有哪里不对劲，而且不只是那些荒诞之处、那些古怪玩意。而是你分不清这件事发生在{i}什么时候{/i}。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": This makes you wonder if it’s real or just one more puzzle designed to test if you’ve been trying your hardest to climb deeper into a world that doesn’t want you there.",
+      "spk": "Selebus",
+      "zh": ": 这让你怀疑它是真实的，还是又一个谜题，用来测试你有没有竭尽全力往一个不欢迎你的世界深处爬。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s not, though.",
+      "spk": "Selebus",
+      "zh": ": 可并没有。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Well...it {i}is{/i} on a technical level. You can’t move forward if you don’t get out of this room. ",
+      "spk": "Selebus",
+      "zh": ": 嗯……从技术层面上说，它{i}确实{/i}是。你不出这个房间就没法往前走。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But it’s also the future. Or {i}a{/i} future, as the player should hopefully be able to surmise by the time it takes to leave should they elect to.",
+      "spk": "Selebus",
+      "zh": ": 但它同时是未来。或者说{i}一个{/i}未来，如果玩家选择离开，等他们走到那一步，应该就能推断出来。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": This isn’t like A Life of Prizes or There is Nothing — things that happen strictly inside of Sensei’s head with little factual resemblance to the real world. ",
+      "spk": "Selebus",
+      "zh": ": 这不像《A Life of Prizes》或《There is Nothing》，那些严格发生在 Sensei 脑内、与现实世界几乎没什么事实关联的东西。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s an augmented reality where he can no longer effectively distinguish the difference between what has happened, what is currently {i}happening{/i}, and what he wishes {i}would{/i} happen.",
+      "spk": "Selebus",
+      "zh": ": 这是一个增强现实，他已经无法有效区分已经发生的事、正在{i}发生{/i}的事，以及他{i}希望{/i}发生的事。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": To put it plainly, it’s a reality where {i}everything{/i} has turned into a reset puzzle of his own creation. And he lives contently inside of it because that space between reality and fiction keeps him from being afraid.",
+      "spk": "Selebus",
+      "zh": ": 说白了，这是一个{i}一切都{/i}变成了他自己造的重置谜题的现实。而他在其中安居自得，因为现实与虚构之间的那片空隙让他不必害怕。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment7",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment7.webp",
+      "alt": "tnrcomment7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sound familiar?",
+      "spk": "Selebus",
+      "zh": ": 听着耳熟吗？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come on, I’ll show you the schedule. It’s just over here where-",
+      "spk": "Selebus",
+      "zh": ": 来吧，我带你看看日程表。就在这边——",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene tnrcomment8",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment8.webp",
+      "alt": "tnrcomment8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m sorry, Selebus. But I’m afraid I can’t let you do that.",
+      "spk": "Voice Over PA",
+      "zh": ": 抱歉，Selebus。但恐怕我不能让你这么做。"
+    },
+    {
+      "en": ": Ugh, hold on. What do you want, PA? Why can’t I give the people a tour of my own creation?",
+      "spk": "Selebus",
+      "zh": ": 呃，等等。你想干什么，PA？我为什么不能带大家参观我自己的作品？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Something about the death of the author. Explaining your intentions is not a useful utilization of your time when you want to reach people like yourself. You would never read something like this, would you?",
+      "spk": "Voice Over PA",
+      "zh": ": 关于「作者已死」那套。当你想打动像你自己那样的人时，解释你的意图并不是有效利用时间的方式。你永远不会读这种东西，对吧？"
+    },
+    {
+      "en": ": No, probably not. But I’m not going to let some voice inside of my head prevent me from talking about my feelings when I {i}want{/i} to feel them.",
+      "spk": "Selebus",
+      "zh": ": 不会，大概不会。但当我{i}想{/i}感受自己的感受时，我不会让脑子里某个声音阻止我谈论它。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But you’ll let me prevent you from feeling what others {i}want{/i} you to feel. Does this hiltless, double-sided blade of hypocrisy not pry open the flesh of your hands with the way you so recklessly hold it? ",
+      "spk": "Voice Over PA",
+      "zh": ": 但你却让我阻止你感受别人{i}想{/i}让你感受的东西。你如此不计后果地握着这把没有护手、双刃的伪善之剑，它难道没有割开你手上的血肉吗？"
+    },
+    {
+      "en": ": I am {i}busy,{/i} PA. ",
+      "spk": "Selebus",
+      "zh": ": 我{i}很忙{/i}，PA。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": You are a lost cause. It is no wonder your income has plateaued. ",
+      "spk": "Voice Over PA",
+      "zh": ": 你没救了。难怪你的收入已经停滞了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment9 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment9.webp",
+      "alt": "tnrcomment9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ignore her. We were talking about symbolism, right?",
+      "spk": "Selebus",
+      "zh": ": 别理她。我们在聊象征手法，对吧？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment10 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment10.webp",
+      "alt": "tnrcomment10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, here’s Sensei’s schedule. As it turns out, the free-form flow of chapter four didn’t really work out for him in the end. ",
+      "spk": "Selebus",
+      "zh": ": 那么，这是 Sensei 的日程表。结果证明，第四章那种自由流动的形式最后对他并不管用。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": He wanted a little structure back, and labeling each and every day help him knew what to expect and when.",
+      "spk": "Selebus",
+      "zh": ": 他想要找回一点结构感，而给每一天都贴上标签，能帮他预知会发生什么、什么时候发生。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It prevented him from ever being blindsided by the RNG of life while, at the same time, providing a schedule to the player they could build their actions around.",
+      "spk": "Selebus",
+      "zh": ": 这让他不会再被人生的随机数打个措手不及，同时也给玩家提供了一份可以据此安排行动的日程。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Beside that schedule were three numbers he could use to fill the recurring gaps in his life. One for faith, one for hunger, one for love. ",
+      "spk": "Selebus",
+      "zh": ": 日程表旁边有三个数字，用来填补他生活中反复出现的空缺。一个代表信仰，一个代表饥渴，一个代表爱。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And while they were not technically baked into the schedule, they may as well have been as the two forces combined to create an outline for his existence. It’s a great strategy, I swear.",
+      "spk": "Selebus",
+      "zh": ": 虽然从技术上它们并没有被写进日程表里，但这两股力量合起来勾画出了他生存的轮廓，效果也差不多。我发誓，这是很棒的设计。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment11",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment11.webp",
+      "alt": "tnrcomment11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": To the left of that, there was a microwave — reflecting back at him the sorry state of his being while a warning about how to maintain a peaceful life hovered menacingly above him. ",
+      "spk": "Selebus",
+      "zh": ": 那左边有台微波炉，映照出他自身那副凄惨的样子，而一条关于如何维持平静生活的警告，则在他上方不祥地悬着。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": When he’d open the door, though — this message would go away. And it would allow him to both symbolically {i}and{/i} literally peer {i}through{/i} a mirror to the grotesque.",
+      "spk": "Selebus",
+      "zh": ": 不过他一打开炉门，那条信息就会消失。而这也让他能在象征意义{i}和{/i}字面意义上，都{i}透过{/i}一面镜子窥见那丑陋之物。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment12 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment12.webp",
+      "alt": "tnrcomment12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The inside of the microwave contained several things — the focal point being a group of maggots that gorged themselves on semen and memories. ",
+      "spk": "Selebus",
+      "zh": ": 微波炉里放着好几样东西，最显眼的是一群蛆，它们在精液和记忆上大快朵颐。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": They were his children in a way. They kept him company and offered a welcome surprise each time he’d open the microwave — which seldom saw use at all given the other objects he kept inside of it.",
+      "spk": "Selebus",
+      "zh": ": 某种意义上它们就是他的孩子。它们陪伴他，每次打开微波炉都给他一个令人欣喜的惊喜，考虑到他往里面放的其他东西，这台微波炉其实很少真正用来加热。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Some extra cash to feed himself and his pets and a phone that he’d keep out of sight whenever he could as he was afraid it would consume him the way his babies consumed cum and sausage noodles.",
+      "spk": "Selebus",
+      "zh": ": 一些用来养活自己和宠物的额外现金，还有一部他尽量藏起来的手机，因为他怕它像他的宝贝们吞噬精液和香肠面那样把自己吞掉。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment13 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment13.webp",
+      "alt": "tnrcomment13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Speaking of babies, I’d like to introduce you to Parrot the Parrot, who echoes back phrases like “Miss her!” and “Sacrifice!” as those are the terms he hears most often.",
+      "spk": "Selebus",
+      "zh": ": 说到孩子，我想给你介绍鹦鹉「鹦鹉」，它会学舌般重复「想她！」和「献祭！」这样的短语，因为那是它最常听到的词。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment14 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment14.webp",
+      "alt": "tnrcomment14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And Squirrel the Dog — a small non-dog animal that crawled in through the vents just to be captured and shoved into an alleged “smart cabinet” where she would live out the rest of her days.",
+      "spk": "Selebus",
+      "zh": ": 还有狗「松鼠」，一只小小的、其实不是狗的小动物，从通风口爬进来，只为了被抓住、塞进一个所谓的「智能柜」，在那里度过余生。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": This repeated motif of living things kept locked behind doors and improperly cared for is meant to emphasize a few things, with the main idea being Sensei’s desire to {i}love{/i} something, just {i}incorrectly.{/i}",
+      "spk": "Selebus",
+      "zh": ": 这个反复出现的母题，活物被锁在门后、得不到妥善照料，意在强调几点，其中最核心的是：Sensei 想{i}爱{/i}点什么，只是{i}爱错了方式{/i}。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Deprived of his students and separated from the outside world, he’d latch onto anything he could. He’d become a zookeeper, because it helped validate his existence and gave him some sort of purpose.",
+      "spk": "Selebus",
+      "zh": ": 失去了学生、与外界隔绝之后，他会抓住任何能抓住的东西。他成了个动物园管理员，因为那能让他觉得自己存在有价值，也给了他某种目标。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Swarmed and overwhelmed by his thoughts and regrets, however, these impulsive decisions to capture and raise animals ultimately led to disjointedly kindhearted neglect and, eventually, their demise.",
+      "spk": "Selebus",
+      "zh": ": 然而，被自己的思绪和悔恨围困、压垮之后，这些一时冲动抓来养动物的决定，最终变成了支离破碎的、好心的疏忽，并最终导致它们的死亡。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s a mirror of sorts — meant to show the viewer through a new lens Sensei’s ill-preparedness to care for {i}anything{/i} as he does not yet know how to care for himself. ",
+      "spk": "Selebus",
+      "zh": ": 这算是一面镜子，用新的视角向观看者展示：Sensei 还没学会照顾自己，因此也没准备好照顾{i}任何东西{/i}。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": He {i}does{/i} know how to care, though. And the fact that the calendar beside Squirrel the Dog remained stuck on Ami’s birthday is one more way to show this. ",
+      "spk": "Selebus",
+      "zh": ": 不过他{i}确实{/i}懂得怎么在乎。狗「松鼠」旁边那本日历一直停在 Ami 的生日上，就是展示这一点的又一个方式。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": However, it’s a way that would become necessarily muddied by several other factors spread throughout the room.",
+      "spk": "Selebus",
+      "zh": ": 然而，这种方式必然会被散布在房间里其他几个因素搅得模糊不清。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment15 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment15.webp",
+      "alt": "tnrcomment15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The hand in the fridge.",
+      "spk": "Selebus",
+      "zh": ": 冰箱里的那只手。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment16 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment16.webp",
+      "alt": "tnrcomment16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The sudden, seemingly random fascination with weaponry seen in boxes and cabinets and freezers throughout the room.",
+      "spk": "Selebus",
+      "zh": ": 房间里各个箱子、柜子和冰柜中突然冒出的、看似随机的对武器的迷恋。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment17 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment17.webp",
+      "alt": "tnrcomment17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": This chalk outline placed just in front of the refrigerator.",
+      "spk": "Selebus",
+      "zh": ": 这个就画在冰箱前面的粉笔人形。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment18 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment18.webp",
+      "alt": "tnrcomment18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And that gory mess in the kitchen — where limbs are stuffed into the oven and a bloodied corpse seemingly hangs from the ceiling, dripping onto the surface below.",
+      "spk": "Selebus",
+      "zh": ": 还有厨房里那摊血腥的乱象，四肢被塞进烤箱，一具血淋淋的尸体像是从天花板垂下，往下滴血。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": These things aren’t actually {i}there.{/i} They’re the physical manifestations of Sensei’s guilt and how he blames himself for the death of his niece-turned-daughter.",
+      "spk": "Selebus",
+      "zh": ": 这些东西其实并不{i}在那里{/i}。它们是 Sensei 内疚的具象化，是他因那个「从侄女变成女儿」的女孩之死而自责的体现。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Times New Roman is a future where the events of the End of the World are {i}not{/i} rewritten. It takes place ten years later — when his mind is broken and basically everyone he ever loved is gone. ",
+      "spk": "Selebus",
+      "zh": ": 《Times New Roman》是一个「世界末日」那些事件{i}没有{/i}被改写的未来。它发生在十年之后，那时他的心智已经崩溃，他爱过的人基本都不在了。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s also why he still has her laptop. It’s why it lives on the counter, serving as a memento and a reminder of her existence. One that can be unlocked with the simplest of passwords that he can’t bring himself to enter.",
+      "spk": "Selebus",
+      "zh": ": 这也是他为什么还留着她的笔记本电脑，为什么它一直摆在台面上，作为纪念品、也作为她存在过的提醒。而它只要用最简单的密码就能解开，可他却无法让自己输入那个密码。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Having a door he doesn’t know how to open {i}so close{/i} to him is like a never ending taunt that eats him alive and pushes him into an even {i}deeper{/i} state of despair and guilt.",
+      "spk": "Selebus",
+      "zh": ": 一扇他不知如何打开的门就{i}近在咫尺{/i}，这就像永无止境的嘲弄，把他一点点吞噬，推入更{i}深{/i}的绝望与内疚之中。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": If he could not protect her, he can not protect anyone.",
+      "spk": "Selebus",
+      "zh": ": 如果他保护不了她，他就保护不了任何人。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment19 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment19.webp",
+      "alt": "tnrcomment19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But that doesn’t mean there aren’t people who don’t want to protect him. That doesn’t mean that everyone would just {i}let{/i} him slip away. Especially those who fought so hard to find him before.",
+      "spk": "Selebus",
+      "zh": ": 但这并不意味着没有想保护他的人。并不意味着所有人都会任由他{i}就这么{/i}滑走。尤其是那些曾经拼命寻找过他的人。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Niki never stops loving Akira in this world. In any world. She’s a constant. But it’s {i}because{/i} she’s a constant that he tries to distance himself from her because he doesn’t want to hurt {i}her{/i} next.",
+      "spk": "Selebus",
+      "zh": ": 在这个世界里，Niki 从未停止爱 Akira。在任何世界里都是。她是个恒量。可正是{i}因为{/i}她是恒量，他才想跟她保持距离，因为他不想下一个受伤的是{i}她{/i}。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": All the while, though, he never lets her go. She remains in his mind as not just an important piece of his story, but as one more warning to never open the door because {i}everyone{/i} is safer here.",
+      "spk": "Selebus",
+      "zh": ": 但与此同时，他从未放开她。她留在他心里，不仅是他故事里的重要一环，更是一个警告：永远不要打开那扇门，因为{i}所有人{/i}待在这里才更安全。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "scene tnrcomment20 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment20.webp",
+      "alt": "tnrcomment20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Times New Roman is a disturbingly intimate and personal look into the complete and utter deprecation of a haunted man’s resolve.",
+      "spk": "Selebus",
+      "zh": ": 《Times New Roman》是一次令人不安的、极其私密的凝视，看向一个被往事纠缠的男人，其意志如何被彻底消磨殆尽。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s like I said before — an augmented reality. Where the ghosts of Sensei’s past consume the bodies of various character figurines and haunt him through pointed commentary and audiovisual hallucinations.",
+      "spk": "Selebus",
+      "zh": ": 就像我之前说的，一个增强现实。在那里，Sensei 过去的幽灵占据各种角色手办的身体，用尖锐的评论和视听幻觉纠缠他。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": He drinks and jerks his days away while waiting for the next “event” to trigger. But nowadays, events are little things like receiving mail or collecting a paycheck.",
+      "spk": "Selebus",
+      "zh": ": 他喝酒、撸管，一天天消磨过去，等待下一个「事件」触发。但如今，事件不过就是收信、领工资这类小事。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Only one person ever comes to see him now — and it’s someone he’d have never expected at the start of all of this. There’s more about her later, though.",
+      "spk": "Selebus",
+      "zh": ": 现在只有一个人会来看他，而这人在这一切开始的时候，他根本想不到。不过关于她的事后面还会讲。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": For now, I {i}really{/i} just want to get it across that the events of Times New Roman are a distorted look at a potential outcome rather than just a {i}puzzle,{/i} for a puzzle exists to be solved.",
+      "spk": "Selebus",
+      "zh": ": 现在，我{i}真的{/i}只是想说清楚：《Times New Roman》里的事件是对一种可能结局的扭曲呈现，而不只是一个{i}谜题{/i}，因为谜题是为了被解开而存在的。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": This event exists to teach and stand on its own. It exists to blur the lines between a character, a player, and a writer as the event changes based on whichever lens you consume it through.",
+      "spk": "Selebus",
+      "zh": ": 这个事件的存在是为了说教，也是为了独立成立。它存在，是为了模糊角色、玩家与作者之间的界线，因为你透过哪一种视角去消费它，它就会随之改变。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": You could just as easily look at this shot or the preceding one with signed pictures from Niki and make some assumption about {i}all{/i} of Lessons in Love being some big hallucination. An endless daydream, even.",
+      "spk": "Selebus",
+      "zh": ": 你完全可以把这一格、或者前面那格有 Niki 签名照的画面，当成依据去猜测{i}整个{/i}《Lessons in Love》都是某种巨大的幻觉。甚至是一场无尽的白日梦。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And you know, maybe it is. Or maybe it {i}can{/i} be if you only read the lines themselves rather than the spaces between them.",
+      "spk": "Selebus",
+      "zh": ": 而且说不定它真是。或者，如果你只读那些字句、而不读字句之间的空隙，它{i}也可以{/i}是。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Or maybe you have an even cooler idea! If you do, go with that instead! You can do {i}anything{/i} you want in here! ",
+      "spk": "Selebus",
+      "zh": ": 或者你有更酷的想法！如果有，就照那个来！在这里你想{i}做什么{/i}都行！",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Well, almost anything.",
+      "spk": "Selebus",
+      "zh": ": 嗯，几乎什么都行。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": You can not rewrite the past.",
+      "spk": "Selebus",
+      "zh": ": 你无法改写过去。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": You can not wish for all your troubles to be reset.",
+      "spk": "Selebus",
+      "zh": ": 你无法许愿让所有烦恼被重置。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Because when you break down the fourth wall separating fiction from non-fiction, what you’re left with is an unintelligible amalgamation of different ideas that mix like oil and water.",
+      "spk": "Selebus",
+      "zh": ": 因为当你打破隔开虚构与非虚构的第四面墙之后，剩下的只是一团难以理解的混合物，不同的想法像油和水一样混不到一起。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Searching for an escape is fine, but can you ever {i}really{/i} escape from that layer that exists between what’s real and what’s make believe? ",
+      "spk": "Selebus",
+      "zh": ": 寻找出口没有错，可你真的{i}能{/i}逃离真实与虚构之间那一层吗？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": If so, how?",
+      "spk": "Selebus",
+      "zh": ": 如果是，那怎么做到的？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Can you show me?",
+      "spk": "Selebus",
+      "zh": ": 能给我看看吗?",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Can you knock on that door like Niki knocks for {i}him?{/i} Can you love me unconditionally despite my endless supply of flaws, the way Sana loves {i}him?{/i} ",
+      "spk": "Selebus",
+      "zh": ": 你能像 Niki 为{i}他{/i}敲门那样敲那扇门吗？你能像 Sana 爱{i}他{/i}那样，不计较我那无穷无尽的缺点、无条件地爱我吗？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Can you survive the endless barrage of time like Maya? Or shoulder the burdens of everyone like Ayane? Can you admire like Noriko or trust someone with your entire heart like Chika?",
+      "spk": "Selebus",
+      "zh": ": 你能像 Maya 那样挺过时间无休止的轰击吗？或者像 Ayane 那样把所有人的重担扛在肩上？你能像 Noriko 那样仰慕，或者像 Chika 那样把整颗心托付给一个人吗？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": No. ",
+      "spk": "Selebus",
+      "zh": ": 不用。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": You can’t.",
+      "spk": "Selebus",
+      "zh": ": 管不着。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Because {i}they{/i} exist in a story. And surely you would too if you put that pen to paper and told us all about it.",
+      "spk": "Selebus",
+      "zh": ": 因为{i}他们{/i}存在于一个故事里。而如果你拿起笔、把一切写下来告诉我们，你也一定会如此。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": At the end of the day, it really {i}is{/i} all just lines, you know? It’s {i}tomorrow{/i} you have to worry about.",
+      "spk": "Selebus",
+      "zh": ": 说到底，这一切真的{i}只是{/i}一些字句，你知道吗？你该担心的是{i}明天{/i}。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s ten years from now. Twenty. Even more if you’re lucky or young! Or maybe you’re lucky {i}and{/i} young and plan on changing the world!",
+      "spk": "Selebus",
+      "zh": ": 是十年后。二十年后。如果你运气好或者年轻，甚至更久！又或者你既运气好{i}又{/i}年轻，还打算改变世界！",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": That’s just a plan, though.",
+      "spk": "Selebus",
+      "zh": ": 不过，那只是个计划。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": You don’t need to follow through.",
+      "spk": "Selebus",
+      "zh": ": 你不必真的去完成它。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Because giving up might {i}look{/i} ugly — and those on the outside looking in might feel disgusted or pitiful.",
+      "spk": "Selebus",
+      "zh": ": 因为放弃可能{i}看起来{/i}很难看，旁观的人也许会感到厌恶或可怜。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But if {i}you{/i} feel happy and {i}you{/i} feel safe...",
+      "spk": "Selebus",
+      "zh": ": 但如果{i}你{/i}觉得快乐、{i}你{/i}觉得安全……",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Maybe this is where you’re meant to be?",
+      "spk": "Selebus",
+      "zh": ": 也许这里就是你该待的地方？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tnrcomment21",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment21.webp",
+      "alt": "tnrcomment21"
+    },
+    {
+      "en": "$ renpy.pause(5, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "scene tnrcomment22",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tnrcomment22.webp",
+      "alt": "tnrcomment22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So — now that I’ve successfully managed to convey about 5%% of everything I wanted to say, I guess it’s time to answer some questions from the audience.",
+      "spk": "Selebus",
+      "zh": ": 那么，既然我已经成功传达出我想说的内容的 5%% 左右，我想该回答一些观众提问了。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Question 1: Do you feel like you raised the bar too high for the next reset events?{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}问题一：你觉得你为后续的重置事件把标准抬得太高了吗？{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Yes, but I also feel like that’s exactly what I was shooting for.",
+      "spk": "Selebus",
+      "zh": ": 是抬高了，但我觉得那正是我追求的目标。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": For five years now, Lessons in Love has come with a promise upon immediately starting the game that new updates will feature better content.",
+      "spk": "Selebus",
+      "zh": ": 五年来，《Lessons in Love》在一开始游戏时就带着一个承诺：新的更新会带来更好的内容。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And I believe that, for the most point, I have kept this promise. But the way stories work as a thing sort of just prevent them from {i}always{/i} improving as lows are needed for highs and vice versa.",
+      "spk": "Selebus",
+      "zh": ": 我相信在大多数情况下我守住了这个承诺。但故事这种东西本身的性质，就注定它们不可能{i}一直{/i}在进步，因为有低谷才有高峰，反之亦然。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Times New Roman took longer to make than {i}any{/i} other event in the game by far. Replicating that for every single reset just really isn’t feasible unless people would be willing to accept like five-event updates.",
+      "spk": "Selebus",
+      "zh": ": 《Times New Roman》的制作时间远远超过游戏里{i}任何{/i}其他事件。要在每一次重置里都复刻这种做法根本不现实，除非大家愿意接受一次更新只出五个事件。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": There’s just far too much story to tell to be able to spend that amount of time on everything. Which isn’t even taking into account how insane it would drive me.",
+      "spk": "Selebus",
+      "zh": ": 要讲的故事实在太多了，不可能在每件事上都花那么多时间。这还没算上那会把我逼得多疯。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Despite this, however, I’d change nothing about Times New Roman and believe that each subsequent reset is just as interesting and unique.",
+      "spk": "Selebus",
+      "zh": ": 尽管如此，我对《Times New Roman》一点也不想改，而且我相信之后的每一次重置都同样有趣、同样独特。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Question 2: The song “I Am Home” that is used in TNR fits the vibe of the event brilliantly. Did you have it in mind beforehand?{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}问题二：TNR 里用的那首《I Am Home》跟事件的氛围契合得极好。你是事先就想到它了吗？{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I actually believe I found this song shortly after creating the room as I didn’t have anything in my music library that fit the tone I was going for. ",
+      "spk": "Selebus",
+      "zh": ": 其实我是在做好那个房间之后不久才找到这首歌的，因为我的曲库里没有符合我想要的那种调子的东西。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": That said, the moment I heard it, I knew what I wanted to do. And I knew that I couldn’t do it {i}without{/i} this song as just listening to it on its own now takes me back there.",
+      "spk": "Selebus",
+      "zh": ": 话虽如此，我一听到它就知道自己想做什么了。而且我知道{i}没有{/i}这首歌就做不成，因为现在光是听它，就能把我带回那里。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Question 3: Is the home supposed to represent Sensei’s childhood home? Or is that not relevant in any way?{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}问题三：那栋房子是代表 Sensei 童年的家吗？还是说这完全不相干？{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": That’s not really relevant. The home itself isn’t supposed to represent anything hyper-specific and is mostly just a shell used to make him feel protected and safe.",
+      "spk": "Selebus",
+      "zh": ": 那倒不相干。这栋房子本身并不代表什么特别具体的东西，主要只是个用来让他感到被保护、感到安全的壳。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It is the objects and creatures {i}inside{/i} of the home that mean something. ",
+      "spk": "Selebus",
+      "zh": ": 真正有意义的，是房子{i}里面{/i}那些物件和生物。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And the reason a new structure was used instead of his old home was just to better emphasize change, isolation, and the passage of time.",
+      "spk": "Selebus",
+      "zh": ": 之所以用一栋新建筑而不是他原来的家，只是为了更好地强调变化、孤立和时间的流逝。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Question 4: Is there any reason for the specific characters chosen in the porn videos on Sensei’s computer? And would others have been done if there was time for more?{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}问题四：Sensei 电脑里那些色情影片选用的角色有什么特别理由吗？如果有更多时间，还会做其他人吗？{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Times New Roman involves a lot of Sensei {i}seeing things.{/i} ",
+      "spk": "Selebus",
+      "zh": ": 《Times New Roman》里有很多 Sensei {i}看到东西{/i}的情节。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": The characters chosen for the porn videos he watches were merely meant to mimic the voices he, whether it be intentionally or {i}unintentionally,{/i} attributes to the actors in those videos.",
+      "spk": "Selebus",
+      "zh": ": 他看的那些影片里选用的角色，只是为了模仿他，无论有意还是{i}无意{/i}，加在片中演员身上的那些声音。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": He sees a promiscuous mother-daughter duo — he envisions Makoto and Maki. He sees a girl who just turned 18 trying to make some cash by doing porn? Chinami.",
+      "spk": "Selebus",
+      "zh": ": 他看到一对淫乱的母女，脑中浮现的是 Makoto 和 Maki。他看到一个刚满 18 岁、想靠拍片挣点钱的女孩？那就是 Chinami。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And despite none of those people being active participants in his life anymore, they still exist within his mind — which finds a way to remind him of them whether he likes it or not. ",
+      "spk": "Selebus",
+      "zh": ": 尽管那些人都不再是他生活中的参与者，他们仍活在他心里，而他的脑子总会想办法提醒他想起他们，不管他愿不愿意。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s not supposed to be a “Oh, everybody grows up and does porn” thing. That would be dumb.",
+      "spk": "Selebus",
+      "zh": ": 这不是要表达「哦，每个人长大后都会去拍片」那种意思。那太蠢了。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Question 5: Did you always intend for Sana to still be with Sensei at the end of the world? Or did that come to you mid-writing?{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}问题五：你从一开始就打算让 Sana 在世界末日时还留在 Sensei 身边吗？还是写到一半才想到的？{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": First and foremost, I think it’s important to distinguish that this isn’t “the end of the world” as there are characters like Yasu who appear to be doing really well in the context of this event.",
+      "spk": "Selebus",
+      "zh": ": 首先，我觉得有必要澄清：这并不是「世界末日」，因为在这个事件的语境里，像 Yasu 这样的角色看起来过得相当不错。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And saying I {i}always{/i} intended to do anything with Times New Roman seems like a lie in itself since it wasn’t planned all that long in advance. ",
+      "spk": "Selebus",
+      "zh": ": 而且说我{i}从一开始{/i}就打算对《Times New Roman》做什么，本身就像是在撒谎，因为它并没有提前那么久规划。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I can’t remember if I went into the creation of the event thinking that Sana would still be in contact with Sensei but, while I was writing, it just made {i}sense{/i} that she was.",
+      "spk": "Selebus",
+      "zh": ": 我不记得开始创作这个事件时是否就想过 Sana 还和 Sensei 保持联系，但在写的过程中，她还在联系这件事就是{i}说得通{/i}。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Sana is many, {i}many{/i} things — a lot of which are not currently understood by the player base right now as you’d have no reason {i}to{/i} presently understand most of them.",
+      "spk": "Selebus",
+      "zh": ": Sana 是{i}很多很多{/i}东西，其中许多目前还没被玩家群体理解，因为你现在{i}本来{/i}就没理由理解其中大部分。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But one thing I think {i}should{/i} be understood is just how much of an independent she is. And just how far she’s willing to go to seize the things she wants.",
+      "spk": "Selebus",
+      "zh": ": 但有一点我觉得{i}应该{/i}被理解：她有多独立。以及为了抓住想要的东西，她愿意走多远。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Times New Roman is a future where Sensei has either lost or severed connections with everyone who was once extremely important to him. ",
+      "spk": "Selebus",
+      "zh": ": 《Times New Roman》是一个 Sensei 已经失去、或者主动切断与所有曾经对他极其重要之人联系的未来。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And while it shouldn’t be clear {i}how{/i} Sana took up that mantle, it could be (and hopefully was) ascertained that she’d have been somewhere in the background waiting for the chance to.",
+      "spk": "Selebus",
+      "zh": ": 虽然不该明确{i}她如何{/i}接下了这个位置，但应该可以（也希望已经）推断出：她一直在背景里等着这个机会。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s really just the combination of her not being the type of person who would give up on him and {i}him{/i} not seeing a need to ever cut her off in the first place that planted her {i}here.{/i}",
+      "spk": "Selebus",
+      "zh": ": 真正让她{i}留在这里{/i}的，只是这两件事的结合：她不是那种会放弃他的人，而{i}他{/i}也从不觉得有必要切断她。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": So it should be assumed that their relationship sort of snowballed into some weird and mutually beneficial collage of codependency.",
+      "spk": "Selebus",
+      "zh": ": 所以可以推测，他们的关系就这样越滚越大，变成了一种古怪而互利的、相互依赖的拼贴。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Sensei has someone to take care of him, and Sana has someone who develops a need for her. Maybe that’s love, maybe it’s not. I don’t know. ",
+      "spk": "Selebus",
+      "zh": ": Sensei 有了照顾他的人，而 Sana 有了一个逐渐需要她的人。也许那是爱，也许不是。我不知道。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But it felt {i}right.{/i} And it felt like she should be there.",
+      "spk": "Selebus",
+      "zh": ": 但感觉{i}就是对的{/i}。感觉她就该在那里。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Question 6: What was your thinking around putting LiL’s first “real” alternate ending here?{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}问题六：把 LiL 第一个「真正的」替代结局放在这里，你是怎么想的？{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I think this was the perfect place for it for a number of reasons, but the primary one is that giving up and calling it quits here was important to the theme of the event as a whole.",
+      "spk": "Selebus",
+      "zh": ": 我觉得这里是放它的完美位置，理由有好几个，但最主要的是：在这里放弃、就此收手，对整个事件的主题很重要。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": We’ve already jumped way into the future and seen an Akira who has isolated himself from essentially everything due to the fear of what waits for him outside. So the player is awarded that choice as well.",
+      "spk": "Selebus",
+      "zh": ": 我们已经跳到了很久之后的未来，看到一个因为害怕外面等着他的东西、而把自己与几乎一切隔绝的 Akira。所以玩家也被赋予了这个选择。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Most people who were paying attention knew what was coming. They knew that progressing any further would put Maya in danger. But would that fear be enough to keep them away from it?",
+      "spk": "Selebus",
+      "zh": ": 大多数留心的人都知道接下来会发生什么。他们知道再往前推进就会让 Maya 陷入危险。但那份恐惧足以让他们远离吗？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": In most cases, no — because people are compelled by curiosity. And a lot of what LiL is revolves around pushing the boundaries of just how much pain and misery we’re willing to accept.",
+      "spk": "Selebus",
+      "zh": ": 大多数情况下不会，因为人会被好奇心驱使。而 LiL 的很大一部分，就是在不断试探我们愿意接受多少痛苦和不幸的边界。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Giving people the opportunity to end the game here is a way to tell them that it’s {i}okay{/i} to be afraid. It’s okay to quit when you’ve felt too much or to back out when certain things have hit too close to home.",
+      "spk": "Selebus",
+      "zh": ": 给人们在这里结束游戏的机会，是想告诉他们：害怕是{i}可以的{/i}。当你感受得太多时退出、当某些事触动得太深时抽身，都是可以的。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And seeing as this exact sentiment rang true to Sensei’s present life, pairing that choice with his “fate” just made the most sense to me and felt like a way to give both him {i}and{/i} the player a complete ending.",
+      "spk": "Selebus",
+      "zh": ": 而考虑到这种心境正契合 Sensei 现在的生活，把那个选择与他的「命运」配在一起，在我看来最合理，也像是给他{i}和{/i}玩家一个完整的结局。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I feel like it’s kind of beautiful in a way — the idea of giving up here. Melancholic, sure. But it’s {i}peaceful.{/i}",
+      "spk": "Selebus",
+      "zh": ": 我觉得这某种程度上挺美的，在这里放弃这个想法。忧郁，当然。但它是{i}平静的{/i}。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s predictable.",
+      "spk": "Selebus",
+      "zh": ": 它是可以预见的。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And it’s so, so different from what it’s like to go outside and allow others into your world.",
+      "spk": "Selebus",
+      "zh": ": 而它与走出去、让别人进入你的世界，是那么、那么不同。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I’d never hold that fear against anyone.",
+      "spk": "Selebus",
+      "zh": ": 我绝不会因为那份恐惧而责怪任何人。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Question 7: What was your main inspiration? And did you intend to have a calming mood here as opposed to the uncomfortable feeling throughout the rest of the chain?{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}问题七：你的主要灵感来自哪里？还有，你是故意在这里营造一种平静的氛围，与整条链其余部分的不适感形成对比吗？{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": There were a few “main inspirations” for Times New Roman, and since I’m not sure if you’re talking about gameplay or theme, I figure I’ll just answer for both as they’re connected anyway.",
+      "spk": "Selebus",
+      "zh": ": 《Times New Roman》有几个「主要灵感」，我不确定你问的是玩法还是主题，那就两个都答吧，反正它们本来是相连的。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": In terms of theme, isolation and nostalgia were the keys to creating the atmosphere I wanted — and the first thing that came to mind when I thought of this were early 2000’s Flash-based escape games.",
+      "spk": "Selebus",
+      "zh": ": 就主题而言，孤立与怀旧是营造我想要的那种氛围的关键——而当我想到这一点时，第一个跳进脑子里的就是 2000 年代初的 Flash 逃脱游戏。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I played a ton of those when I was younger. And even back then, they felt claustrophobic. But it was a comfortable sort of claustrophobia. The kind you could stay trapped in for hours.",
+      "spk": "Selebus",
+      "zh": ": 我年轻时玩过一大堆那种游戏。就算在那时候，它们也让人觉得幽闭。但那是种舒服的幽闭感。就是那种你可以在里面困上好几个小时的感觉。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Long enough to develop some sort of familiarity with the environment — something I wanted to evoke and add a narrative layer to in Times New Roman through the addition of an actual character’s point of view.",
+      "spk": "Selebus",
+      "zh": ": 久到足以对那个环境产生某种熟悉感——而这种感觉正是我想在《Times New Roman》里唤起的，并通过加入一个真实角色的视角，给它添上一层叙事。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Each section in the event had history and purpose. And even if those things didn’t make sense to the player, they’d be presented in a way that was meant to reassure them and make them feel safe.",
+      "spk": "Selebus",
+      "zh": ": 事件里的每个区域都有自己的来历和用途。就算这些东西对玩家来说说不通，它们的呈现方式也是为了让人安心、让人感到安全。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And looking back on that, I believe I accomplished this. I believe people can vividly remember that room. And they’re {i}supposed{/i} to remember that room — because it’s not {i}just{/i} a room. It’s an escape.",
+      "spk": "Selebus",
+      "zh": ": 回头再看，我相信我做到了。我相信人们能清晰地记住那个房间。而他们{i}本就该{/i}记住那个房间——因为它{i}不只是{/i}一个房间。它是一场逃脱。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": A little ironic, isn’t it? Escaping {i}to{/i} something you’re expected to escape {i}from.{/i} ",
+      "spk": "Selebus",
+      "zh": ": 有点讽刺，对吧？逃{i}向{/i}一个你本该从中逃{i}离{/i}的东西。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But then that raises the question — was it the payoff that made me love those games back then? Or was it the way I felt when I was trapped?",
+      "spk": "Selebus",
+      "zh": ": 但这就引出一个问题——当年让我爱上那些游戏的，是通关的回报吗？还是被困住时的那种感觉？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": In terms of the mood compared to the rest of the chain, it was {i}absolutely{/i} intended to be entirely different. ",
+      "spk": "Selebus",
+      "zh": ": 就氛围而言，与这条链上的其余部分相比，它{i}绝对{/i}是有意要完全不同的。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s like purgatory in a way. Or a liminal space. Something transitory that bridges the gap between two different sections of reality — where the length of your stay is unclear and uncertain.",
+      "spk": "Selebus",
+      "zh": ": 某种意义上它像炼狱。或者说一个阈限空间。某种过渡性的东西，架在现实两个不同部分之间的缝隙上——在那里，你要待多久既不清楚也不确定。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And the fact that it comes after what I’d call the most chaotic section of the game thus far is really meant to hammer in that stark contrast and even further exaggerate the extent of the feelings on display.",
+      "spk": "Selebus",
+      "zh": ": 而它出现在我所谓「游戏至今最混乱的一段」之后，正是为了把这种强烈反差砸进你脑子里，并进一步放大所呈现情感的浓度。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Time is supposed to feel as if it’s standing still while you’re inside of that room because, in a sense, it {i}is.{/i} At least for Sensei. ",
+      "spk": "Selebus",
+      "zh": ": 在那间屋子里的时候，时间本该让人感觉是静止的，因为从某种意义上说，它{i}确实{/i}是静止的。至少对 Sensei 来说是这样。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And I felt like having what was essentially an interactive pause button of a scene was a great way to emphasize that.",
+      "spk": "Selebus",
+      "zh": ": 而我觉得，用一个本质上就是「互动式暂停键」的场景来强调这一点，是再好不过的办法。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Question 8: Is there something behind the name of the event being a font? Or is it a name for a name to exist?",
+      "spk": "Selebus",
+      "zh": ": {b}问题八：这个事件以字体命名，背后有什么讲究吗？还是说它只是个为了有个名字而存在的名字？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I love this question because I think the name of the event itself perfectly encapsulates just {i}what{/i} Times New Roman really is in the grand scheme of Lessons in Love.",
+      "spk": "Selebus",
+      "zh": ": 我很喜欢这个问题，因为我觉得这个事件的名字本身就完美概括了《Times New Roman》在《Lessons in Love》整个格局里到底{i}是{/i}什么。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I talk to myself in this game. A lot. And practically all of this event was written in a dark, cold, roach-filled room at a Red Roof Inn where I slowly drove myself insane over five days.",
+      "spk": "Selebus",
+      "zh": ": 我在这款游戏里自言自语。经常。而这个事件几乎全部是在一家 Red Roof Inn、一间又黑又冷、爬满蟑螂的房间里写出来的，我在那儿用五天时间慢慢把自己逼疯。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": There’s a section of the event that’s entirely meaningless from a gameplay perspective. It’s not necessary for progression, nor does it offer anything more than a few lines of text and a quick fade to black.",
+      "spk": "Selebus",
+      "zh": ": 这个事件里有一段，从玩法角度看毫无意义。推进剧情不需要它，它提供的东西也不比几行文字加一次快速淡出多。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": So few in fact, that I can repeat them right now in barely any time at all. They go like this...",
+      "spk": "Selebus",
+      "zh": ": 少到我现在几乎不费什么时间就能把它们复述出来。它们是这样的……",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}I open up Microsoft Word and attempt to put my feelings into poetry.{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}我打开 Microsoft Word，试着把感受写成诗。{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}But with no one to share it with, all it does is remind me of my flaws.{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}可无人可分享，它唯一的作用就是提醒我自己的种种缺陷。{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}Sometimes, it feels like there’s no point to any of this. That I’m only writing to keep myself a step or two away from death.{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}有时候，这一切都像是毫无意义。我写作只是为了让自己离死亡还有一两步远。{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}I know it will catch up to me some day.{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}我知道它总有一天会追上我。{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}But for now, this is all I can do.{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}但现在，这是我唯一能做的。{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}...{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}……{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}This is all I can do.{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}这是我唯一能做的。{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}{i}You write until you’re half-asleep, then give up and close your eyes.{/i}{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}{i}你写到半睡半醒，然后放弃，闭上眼。{/i}{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}{i}When you wake up, you realize you’ve accomplished nothing. That the night was spent on someone else’s words instead of yours.{/i}{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}{i}醒来时你发现什么也没完成。那一夜花在了别人的字句上，而不是你自己的。{/i}{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}{i}What remains on the screen is a mirror-image of what they once felt — all dressed up in Times New Roman.{/i}{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}{i}留在屏幕上的，是他们曾经感受的镜像——全都穿着 Times New Roman 的衣裳。{/i}{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}{i}You hear her footsteps in your head.{/i}{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}{i}你在脑子里听见她的脚步声。{/i}{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {b}{i}It’s like they never go away.{/i}{/b}",
+      "spk": "Selebus",
+      "zh": ": {b}{i}它们像是永远都不会消失。{/i}{/b}",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Those may {i}look{/i} like Sensei’s words. And sometimes, I think they might be. But more than that, this is me — communicating with myself {i}through{/i} the game as that’s the only reason I started writing in the first place.",
+      "spk": "Selebus",
+      "zh": ": 那些话{i}看起来{/i}也许像 Sensei 的话。有时候我觉得它们可能就是。但更重要的是，那是我——{i}通过{/i}这款游戏在跟自己对话，因为这本来就是我最初开始写作的唯一理由。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": That segment about spending the night on someone else’s words and honing in on the font of them is just a flowery way to trick myself into remembering that the spawn of my thoughts {i}isn’t{/i} just a blur.",
+      "spk": "Selebus",
+      "zh": ": 那段关于把一夜花在别人的字句上、并盯住它们所用字体的内容，只是一种花哨的方式，用来骗自己去记住：我思绪的产物{i}并非{/i}只是一团模糊。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s beautiful. Even when it doesn’t look like it or feel like it. It {i}is.{/i} Because it has to be. Otherwise, what am I doing this for?",
+      "spk": "Selebus",
+      "zh": ": 它是美的。哪怕看起来不像、感觉也不像。它{i}就是{/i}。因为它必须是。不然我做这些是为了什么？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Times New Roman {i}is{/i} a font. Yes. But it’s also the shape of my imagination.",
+      "spk": "Selebus",
+      "zh": ": Times New Roman {i}确实{/i}是一种字体。是的。但它也是我想象力的形状。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": It’s what my words look like when I get them out. It’s familiar. It’s safe. It’s just like the room. But, at the same time, it’s sad. It’s plain.",
+      "spk": "Selebus",
+      "zh": ": 它是我把字句拿出来时它们的样子。它熟悉。它安全。就像那个房间。但与此同时，它悲哀。它平淡。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And when it’s all you see for days on end, it’s easy to lose track of who and where you are. ",
+      "spk": "Selebus",
+      "zh": ": 而当连着好几天你看到的只有它时，很容易就搞不清自己是谁、身在何处。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": {i}Especially{/i} when you do it through the voice of someone else. But there will always be times where reality bleeds through. ",
+      "spk": "Selebus",
+      "zh": ": {i}尤其{/i}当你借用别人的声音来做这件事的时候。但总有些时候，现实会渗进来。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": That small section of Times New Roman that means so much to me but so little to anyone else is one of those things. It’s something that should not exist, but {i}does{/i} because I put it there.",
+      "spk": "Selebus",
+      "zh": ": 《Times New Roman》里那个对我意义重大、对别人却无足轻重的小段落就是其中之一。它是本不该存在的东西，却{i}确实{/i}存在，因为是我把它放在那儿的。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And so long as it’s wearing the same costume as everything else, no one will ever know of its significance. ",
+      "spk": "Selebus",
+      "zh": ": 而只要它穿着和其他所有东西一样的戏服，就没人会知道它的意义。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But that’s okay, I think. Because people still wonder what those words look like {i}beneath{/i} the costumes. ",
+      "spk": "Selebus",
+      "zh": ": 但我觉得那没关系。因为人们依然会好奇，那些字句在戏服{i}底下{/i}是什么样子。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And they’ll have a lot more to gain through their own interpretations than they would by asking {i}me{/i} what to feel.",
+      "spk": "Selebus",
+      "zh": ": 而他们从自己的解读里得到的，会比问{i}我{/i}该感受什么多得多。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": So yeah, I get a little lost sometimes. And it’s harder than it used to be to drop the illusion and remember that there’s a reason I do this.",
+      "spk": "Selebus",
+      "zh": ": 所以是啊，我有时候会有点迷失。而且现在比过去更难放下那层幻觉、想起我做这件事是有理由的。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": Just please forgive me for the breadcrumbs I leave myself.",
+      "spk": "Selebus",
+      "zh": ": 只是请原谅我给自己留的那些面包屑。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": This event is one of them.",
+      "spk": "Selebus",
+      "zh": ": 这个事件就是其中之一。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I have more to say about Times New Roman than probably any other scene in the game. So much that I could probably do like ten more of these and not get tired of it.",
+      "spk": "Selebus",
+      "zh": ": 关于《Times New Roman》，我要说的话大概比游戏里任何其他场景都多。多到我就算再做十个这样的解说也不会腻。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I think it’s the crown jewel of Lessons in Love and the perfect example of just what I’m capable of when I {i}really{/i} push myself.",
+      "spk": "Selebus",
+      "zh": ": 我觉得它是《Lessons in Love》的镇店之宝，也是当我{i}真正{/i}逼自己一把时能做出什么的完美范例。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But I know I shouldn’t do that too often — because it {i}did{/i} take a toll on me.",
+      "spk": "Selebus",
+      "zh": ": 但我知道我不该太频繁地那么干——因为它{i}确实{/i}让我付出了代价。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": You see, I’m still in that room. ",
+      "spk": "Selebus",
+      "zh": ": 你看，我还在那个房间里。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": And I don’t know if I can leave. ",
+      "spk": "Selebus",
+      "zh": ": 而我不知道自己能不能离开。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I don’t think I {i}want{/i} to leave.",
+      "spk": "Selebus",
+      "zh": ": 我觉得我并不{i}想{/i}离开。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": But I know that, one day, I will probably have to.",
+      "spk": "Selebus",
+      "zh": ": 但我知道，总有一天，我大概不得不离开。",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": ...",
+      "spk": "Selebus",
+      "zh": ": ...",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ": I wonder if they’ll like me out there?",
+      "spk": "Selebus",
+      "zh": ": 不知道到了外面，他们会不会喜欢我？",
+      "spkColor": "#96001B"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}The scene commentary comes to an end, but there’s a song still playing in the background that reminds you of where you are.{/i}",
+      "zh": "{i}场景解说结束了，但背景里还有一首歌在放，提醒着你身在何处。{/i}"
+    },
+    {
+      "en": "{i}You are home.{/i}",
+      "zh": "{i}你到家了。{/i}"
+    },
+    {
+      "en": "{i}Even when you’re not.{/i}",
+      "zh": "{i}哪怕你并没有。{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump march2025packmenu",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

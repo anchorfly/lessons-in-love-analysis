@@ -1,0 +1,1351 @@
+{
+  "label": "nib_candy",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I finally get off of the bed.",
+      "zh": "我终于从床上下来了。"
+    },
+    {
+      "en": "My left foot stings as it comes into contact with the floor.",
+      "zh": "左脚一碰到地板就刺痛。"
+    },
+    {
+      "en": "I put all of the pressure onto my right foot to alleviate the pain.",
+      "zh": "我把全部重量压到右脚上，以减轻疼痛。"
+    },
+    {
+      "en": "I wonder if this is how Reina feels?",
+      "zh": "我在想，Reina 是不是就是这种感觉？"
+    },
+    {
+      "en": "You won’t understand that if you decided to neglect her in the beginning of the game.",
+      "zh": "要是你当初决定疏远她，你就不会懂的。"
+    },
+    {
+      "en": "Carefully, I hobble my way over to the candy shelf.",
+      "zh": "我小心翼翼地一瘸一拐挪到糖果架前。"
+    },
+    {
+      "en": "I take two and shove them into my mouth.",
+      "zh": "我拿了两颗塞进嘴里。"
+    },
+    {
+      "en": "A delicious breakfast.",
+      "zh": "一份美味的早餐。"
+    },
+    {
+      "en": "Any more than two would be dangerous to my health.",
+      "zh": "超过两颗就会危害我的健康。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Let’s greet the world.",
+      "spk": "Yuu",
+      "zh": ": 来跟世界打个招呼吧。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/bedroom_day.jpg",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahh, I guess it’s daytime after all.",
+      "spk": "Yuu",
+      "zh": ": 啊，看来现在果然是白天。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": I wonder if Saki is coming over today?",
+      "spk": "Yuu",
+      "zh": ": 我在想，Saki 今天会不会过来？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": She is! I can see her heading this way now!",
+      "spk": "Josh",
+      "zh": ": 她会！我现在就能看见她往这边来了！",
+      "spkColor": "#90EE90"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "My window-plant is talking to me. He sounds excited.",
+      "zh": "我的窗台植物在跟我说话。他听起来很兴奋。"
+    },
+    {
+      "en": "Probably because he can convert sunlight into oxygen.",
+      "zh": "大概是因为他能把阳光转化成氧气吧。"
+    },
+    {
+      "en": "That would excite me too.",
+      "zh": "那也会让我很兴奋。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Good morning, Josh. I promise I will water you soon.",
+      "spk": "Yuu",
+      "zh": ": 早上好，Josh。我保证很快就给你浇水。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": All good, bro. Thanks.",
+      "spk": "Josh",
+      "zh": ": 没事，兄弟。谢了。",
+      "spkColor": "#90EE90"
+    },
+    {
+      "en": ": I got you.",
+      "spk": "Yuu",
+      "zh": ": 我懂你。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We bump fists.",
+      "zh": "我们碰了碰拳。"
+    },
+    {
+      "en": "Josh falls over. His guts spill everywhere.",
+      "zh": "Josh 倒了下去。他的内脏洒了一地。"
+    },
+    {
+      "en": "I didn’t mean for this to happen.",
+      "zh": "我不是故意要这样的。"
+    },
+    {
+      "en": "I’m sorry.",
+      "zh": "对不起。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yuu? Are you awake?",
+      "spk": "Saki",
+      "zh": ": Yuu？你醒着吗？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": I’m coming in.",
+      "spk": "Saki",
+      "zh": ": 我进来了。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_worried",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_worried.png",
+      "alt": "saki_worried"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey- what are you doing to Josh?",
+      "spk": "Saki",
+      "zh": ": 喂 —— 你在对 Josh 做什么？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_angry",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_angry.png",
+      "alt": "saki_angry"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why are his guts all over your desk?",
+      "spk": "Saki",
+      "zh": ": 为什么他的内脏洒了你一桌？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": I made a terrible mistake.",
+      "spk": "Yuu",
+      "zh": ": 我犯了一个可怕的错误。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": Jeez...It’s like you’re {i}trying{/i} to kill him.",
+      "spk": "Saki",
+      "zh": ": 天啊……简直像是你{i}故意{/i}要杀他。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Saki walks over to Josh.",
+      "zh": "Saki 走向 Josh。"
+    },
+    {
+      "en": "She takes a water bottle out of her bag and pours the contents into his bed.",
+      "zh": "她从包里拿出一个水瓶，把里面的东西倒进"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_happy",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_happy.png",
+      "alt": "saki_happy"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Here you go, little buddy.",
+      "spk": "Saki",
+      "zh": ": 给你，小家伙。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": This will make you grow big and strong.",
+      "spk": "Saki",
+      "zh": ": 这会让你长得又高又壮。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": I LIVE! LIFE IS BEAUTIFUL!",
+      "spk": "Josh",
+      "zh": ": 我活了！人生真美好！",
+      "spkColor": "#90EE90"
+    },
+    {
+      "en": ": Yes it is, Josh. Yes it is.",
+      "spk": "Yuu",
+      "zh": ": 是啊，Josh。是啊。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_surprised",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_surprised.png",
+      "alt": "saki_surprised"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh? Did you say something?",
+      "spk": "Saki",
+      "zh": ": 啊？你说什么了吗？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Who, me?",
+      "spk": "Yuu",
+      "zh": ": 谁，我吗？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_worried",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_worried.png",
+      "alt": "saki_worried"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Who else would I be talking to?",
+      "spk": "Saki",
+      "zh": ": 不然我还能在跟谁说话？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I look at Josh. He has gone to sleep.",
+      "zh": "我看向 Josh。他已经睡着了。"
+    },
+    {
+      "en": "Traitor.",
+      "zh": "叛徒。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Just talking to myself again.",
+      "spk": "Yuu",
+      "zh": ": 又是在自言自语而已。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_curious",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_curious.png",
+      "alt": "saki_curious"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Internal monologue?",
+      "spk": "Saki",
+      "zh": ": 内心独白？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Something like that.",
+      "spk": "Yuu",
+      "zh": ": 差不多吧。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_normal",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_normal.png",
+      "alt": "saki_normal"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I see.",
+      "spk": "Saki",
+      "zh": ": 原来如此。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Have you eaten breakfast yet?",
+      "spk": "Saki",
+      "zh": ": 你吃过早饭了吗？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": I brought you some things from the store, so feel free to eat whatever you'd like.",
+      "spk": "Saki",
+      "zh": ": 我从店里给你带了点东西，想吃就吃吧。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Saki dumps the contents of her bag onto my bed.",
+      "zh": "Saki 把包里的东西全倒在了我床上。"
+    },
+    {
+      "en": "Several things fall onto the floor in the process.",
+      "zh": "过程中有几样东西掉到了地上。"
+    },
+    {
+      "en": "She bends down to pick them up.",
+      "zh": "她弯下腰去捡。"
+    },
+    {
+      "en": "I see her underwear.",
+      "zh": "我看到了她的内裤。"
+    },
+    {
+      "en": "A victory for all of mankind.",
+      "zh": "全人类的胜利。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_surprised",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_surprised.png",
+      "alt": "saki_surprised"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, so they were all out of the shoyu flavor cup-noodles and I had to buy you something else instead.",
+      "spk": "Saki",
+      "zh": ": 哦，酱油味的杯面卖光了，所以我",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": ...Define “Something else.”",
+      "spk": "Yuu",
+      "zh": ": ……请你先定义一下「别的东西」。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_happy",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_happy.png",
+      "alt": "saki_happy"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": This!",
+      "spk": "Saki",
+      "zh": ": 这个！",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Saki reveals a large head of cabbage she had been hiding in a separate bag and tosses it to me.",
+      "zh": "Saki 掏出一整颗大卷心菜 —— 一直藏在她包里的。"
+    },
+    {
+      "en": "This is the most unexciting surprise-gift I have ever received.",
+      "zh": "这是我这辈子收到过的最不让人惊喜的惊喜礼物。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What the hell am I supposed to do with this?",
+      "spk": "Yuu",
+      "zh": ": 我到底该拿这个干什么？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_normal",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_normal.png",
+      "alt": "saki_normal"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The same thing you would do with shoyu ramen.",
+      "spk": "Saki",
+      "zh": ": 跟你对酱油拉面做的一样。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": ...Fill it with water and microwave it for sixty seconds?",
+      "spk": "Yuu",
+      "zh": ": ……倒水进去，微波六十秒？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_angry",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_angry.png",
+      "alt": "saki_angry"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": …",
+      "spk": "Saki",
+      "zh": ": ……",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": …",
+      "spk": "Yuu",
+      "zh": ": ……",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": Ugh, okay. Fine.",
+      "spk": "Yuu",
+      "zh": ": 唔，好吧。行吧。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I bite into the head of cabbage.",
+      "zh": "我朝那颗卷心菜咬了下去。"
+    },
+    {
+      "en": "Josh watches in horror as I devour a distant relative.",
+      "zh": "Josh 惊恐地看着我吞食他的远亲。"
+    },
+    {
+      "en": "This is what you get for abandoning me when I needed you most.",
+      "zh": "这就是你在我最需要你的时候抛弃我的下场。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_surprised",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_surprised.png",
+      "alt": "saki_surprised"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re...supposed to wash it first.",
+      "spk": "Saki",
+      "zh": ": 你……应该先洗一下的。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_worried",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_worried.png",
+      "alt": "saki_worried"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And people don’t normally eat cabbage right off of the head…",
+      "spk": "Saki",
+      "zh": ": 而且一般人不会直接对着整颗卷心菜啃……",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Well how was I supposed to know that?",
+      "spk": "Yuu",
+      "zh": ": 那我怎么知道啊？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": This is a whole new world for me.",
+      "spk": "Yuu",
+      "zh": ": 对我来说，这是个全新的世界。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_normal",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_normal.png",
+      "alt": "saki_normal"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Pfft- Heh…",
+      "spk": "Saki",
+      "zh": ": 噗 —— 嘿……",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_happy",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_happy.png",
+      "alt": "saki_happy"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hahahahahahahah~",
+      "spk": "Saki",
+      "zh": ": Hahahahahahahah~",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Hahahahahahah.",
+      "zh": "Hahahahahahah."
+    },
+    {
+      "en": "Hahahahahahah.",
+      "zh": "Hahahahahahah."
+    },
+    {
+      "en": "Hahah~",
+      "zh": "Hahah~"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_normal",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_normal.png",
+      "alt": "saki_normal"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You can be pretty ridiculous sometimes, you know that?",
+      "spk": "Saki",
+      "zh": ": 你有时候真的挺离谱的，你自己知道吗？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Oh, I know. You remind me every chance you get.",
+      "spk": "Yuu",
+      "zh": ": 哦，我知道。你一有机会就提醒我。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": And I’m going to keep reminding you until the day we die.",
+      "spk": "Saki",
+      "zh": ": 而且我会一直提醒你，直到我们死去的那一天。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Wait, until the day we die?",
+      "spk": "Yuu",
+      "zh": ": 等等，直到我们死去的那一天？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": You’re planning on putting up with me for that long?",
+      "spk": "Yuu",
+      "zh": ": 你打算忍受我那么久？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_surprised",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_surprised.png",
+      "alt": "saki_surprised"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course. Why wouldn’t I?",
+      "spk": "Saki",
+      "zh": ": 当然。为什么不呢？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Aren’t we engaged now?",
+      "spk": "Saki",
+      "zh": ": 我们现在不是已经订婚了吗？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "What?!",
+      "zh": "什么？！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What?!",
+      "spk": "Yuu",
+      "zh": ": 什么？！",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I repeat the words inside of my head.",
+      "zh": "我在脑子里把这句话重复了一遍。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Didn’t you propose yesterday?",
+      "spk": "Saki",
+      "zh": ": 你昨天不是求婚了吗？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": You asked me to marry you in the storage- Err, {i}club{/i} room. Right after I brought up hamburger steak.",
+      "spk": "Saki",
+      "zh": ": 你在储藏 —— 呃，{i}社团{/i}室里求我嫁给你的。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Weren’t you paying attention to my answer?",
+      "spk": "Saki",
+      "zh": ": 你没在听我的回答吗？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene club_sepia",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/club_sepia.png",
+      "alt": "club_sepia"
+    },
+    {
+      "en": "show saki_sepia",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_sepia.png",
+      "alt": "saki_sepia"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I...don’t think he did. But okay.",
+      "spk": "Saki",
+      "zh": ": 我……不觉得他求过。不过好吧。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/bedroom_day.jpg",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "show saki_surprised",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_surprised.png",
+      "alt": "saki_surprised"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That was you agreeing to my hamburger steak proposal?!",
+      "spk": "Yuu",
+      "zh": ": 那是你答应我的汉堡肉排求婚？！",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_happy",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_happy.png",
+      "alt": "saki_happy"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes!",
+      "spk": "Saki",
+      "zh": ": 是啊！",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_normal",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_normal.png",
+      "alt": "saki_normal"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you have any idea how long I’ve been waiting to hear you say that?",
+      "spk": "Saki",
+      "zh": ": 你知道我等你说这句话等了多久吗？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Oh God.",
+      "zh": "天哪。"
+    },
+    {
+      "en": "What have I gotten myself into?",
+      "zh": "我把自己卷进什么了？"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Saki, I…",
+      "spk": "Yuu",
+      "zh": ": Saki，我……",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": I know, I know.",
+      "spk": "Saki",
+      "zh": ": 我知道，我知道。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": You don’t really want to get married, right?",
+      "spk": "Saki",
+      "zh": ": 你其实并不想结婚，对吧？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": …",
+      "spk": "Yuu",
+      "zh": ": ……",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": Oh come on, don’t get all weird on me now.",
+      "spk": "Saki",
+      "zh": ": 哦，别这样，别现在突然变得怪怪的。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": I knew you were joking.",
+      "spk": "Saki",
+      "zh": ": 我就知道你在开玩笑。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": It’s fine.",
+      "spk": "Saki",
+      "zh": ": 没关系。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_happy",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_happy.png",
+      "alt": "saki_happy"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "s \"Just remember who it is that handles all of your laundry and food-shopping",
+      "zh": "s \"只要记住，是谁在帮你洗所有的衣服，还有"
+    },
+    {
+      "en": "when it comes time to decide for real, okay?\"",
+      "zh": "等到真要决定的时候，好吗？\""
+    },
+    {
+      "en": ": ...Okay.",
+      "spk": "Yuu",
+      "zh": ": ……好吧。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": Deal.",
+      "spk": "Yuu",
+      "zh": ": 成交。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": "y \"If it’s any consolation, though- If I was forced to choose someone to marry right now,",
+      "zh": "y \"如果这能让你好受一点 —— 如果我被迫要选的话"
+    },
+    {
+      "en": "you would definitely be in the top five.\"",
+      "zh": "你肯定能排进前五。\""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_angry",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_angry.png",
+      "alt": "saki_angry"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Top five?!",
+      "spk": "Saki",
+      "zh": ": 前五？！",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": After all that I’m not even number one?!",
+      "spk": "Saki",
+      "zh": ": 说了那么多，我居然连第一都不是？！",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": Ugh...You’re the worst, Yuu.",
+      "spk": "Saki",
+      "zh": ": 唔……你最差劲了，Yuu。",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Saki stays for another twenty minutes or so and then heads to school.",
+      "zh": "Saki 又待了大约二十分钟，然后动身去学校。"
+    },
+    {
+      "en": "She tries to talk me into going as well.",
+      "zh": "她试着劝我也一起去。"
+    },
+    {
+      "en": "I almost fall for it, but I chicken out and she eventually agrees to go by herself.",
+      "zh": "我差点就被说动了，但还是退缩了，她最终也同意了。"
+    },
+    {
+      "en": "My stomach begins to hurt as she leaves.",
+      "zh": "她离开时，我的胃开始疼起来。"
+    },
+    {
+      "en": "She notices I’m in pain and tries to feed me candy.",
+      "zh": "她注意到我在疼，就想喂我吃糖果。"
+    },
+    {
+      "en": "I tell her I’ve already had some and she pats me on the head.",
+      "zh": "我告诉她我已经吃过了，她便拍了拍我的头。"
+    },
+    {
+      "en": "“Good boy. I’ll see you tonight.”",
+      "zh": "「乖孩子。今晚见。」"
+    },
+    {
+      "en": "Good boy…",
+      "zh": "乖孩子……"
+    },
+    {
+      "en": "What am I? A dog?",
+      "zh": "我是什么？狗吗？"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "I miss her.",
+      "zh": "我想她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sky_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/sky_day.png",
+      "alt": "sky_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I open the window to let some air in.",
+      "zh": "我打开窗户透透气。"
+    },
+    {
+      "en": "It feels nice.",
+      "zh": "感觉不错。"
+    },
+    {
+      "en": "The weather has been getting hotter lately.",
+      "zh": "最近天气越来越热了。"
+    },
+    {
+      "en": "I always get worse in the heat.",
+      "zh": "天一热，我就会变得更糟。"
+    },
+    {
+      "en": "Sometimes, it gets so bad that I won’t leave my room for days.",
+      "zh": "有时候严重到我会好几天不出房间。"
+    },
+    {
+      "en": "The school already knows this.",
+      "zh": "学校已经知道这件事了。"
+    },
+    {
+      "en": "That’s why they don’t mind me being absent so much.",
+      "zh": "所以他们才不介意我缺勤这么多。"
+    },
+    {
+      "en": "I hope it’s not like that this time.",
+      "zh": "希望这次不会那样。"
+    },
+    {
+      "en": "I want to see my friends.",
+      "zh": "我想见我的朋友。"
+    },
+    {
+      "en": "I want to go to the dessert shop with Reina.",
+      "zh": "我想和 Reina 一起去那家甜品店。"
+    },
+    {
+      "en": "I want to go swimming in that filthy lake with Miu.",
+      "zh": "我想和 Miu 一起在那个脏兮兮的湖里游泳。"
+    },
+    {
+      "en": "I want to do laundry with Saki.",
+      "zh": "我想和 Saki 一起洗衣服。"
+    },
+    {
+      "en": "I want so many things.",
+      "zh": "我想要的东西太多了。"
+    },
+    {
+      "en": "But-",
+      "zh": "但是 ——"
+    },
+    {
+      "en": "I can't have any of them.",
+      "zh": "我一个都得不到。"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "I’m cursed.",
+      "zh": "我被诅咒了。"
+    },
+    {
+      "en": "I truly am.",
+      "zh": "我真的被诅咒了。"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "God-",
+      "zh": "上帝 ——"
+    },
+    {
+      "en": "If you are listening right now-",
+      "zh": "如果你现在正在听 ——"
+    },
+    {
+      "en": "(Which you probably aren’t)",
+      "zh": "（虽然你大概没在听）"
+    },
+    {
+      "en": "Please fix me.",
+      "zh": "请把我修好。"
+    },
+    {
+      "en": "Please make me normal.",
+      "zh": "请让我变得正常。"
+    },
+    {
+      "en": "I'll do anything.",
+      "zh": "我什么都愿意做。"
+    },
+    {
+      "en": "Please-",
+      "zh": "求你了 ——"
+    },
+    {
+      "en": "Just-",
+      "zh": "只要 ——"
+    },
+    {
+      "en": "Let me...",
+      "zh": "让我……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene live",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/live.png",
+      "alt": "live"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.pause(8.0, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "scene staytuned",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.pause(10.0, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "# Return ends the game",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "return",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

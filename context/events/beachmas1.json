@@ -1,0 +1,1360 @@
+{
+  "label": "beachmas1",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label beachmas1:",
+      "zh": ""
+    },
+    {
+      "en": "Something is wrong.",
+      "zh": "有什么不对劲。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene scenetransition",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/scenetransition.webp",
+      "alt": "scenetransition"
+    },
+    {
+      "en": "scene beachmasintro1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro1.webp",
+      "alt": "beachmasintro1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane and Maya quickly rush me behind the bathroom after...",
+      "zh": "在……刚才发生的那件事之后，Ayane 和 Maya 迅速把我带到了浴室后面。"
+    },
+    {
+      "en": "After...whatever it was that just happened.",
+      "zh": "在……不管刚才发生了什么之后。"
+    },
+    {
+      "en": "And while it certainly is not the {i}first{/i} time I’ve ever seemingly teleported somewhere else in the middle of a conversation, it is...perhaps the most jarring.",
+      "zh": "虽然这肯定不是我{i}第一次{/i}在谈话途中莫名瞬移到别处，但这……大概是最令人错愕的一次。"
+    },
+    {
+      "en": "Especially considering that it was more like the world itself is what teleported rather than just me.",
+      "zh": "尤其是考虑到，这次更像是整个世界瞬移了，而不只是我一个。"
+    },
+    {
+      "en": "But then...that wouldn’t explain all of the outfit changes and-",
+      "zh": "但那样的话……就解释不了那些换装和——"
+    },
+    {
+      "en": "We didn’t reset, did we?",
+      "zh": "我们没有重置，对吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Did-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 没有。"
+    },
+    {
+      "en": ": But you haven’t even heard what I was going to say yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可你都还没听到我要说什么呢。"
+    },
+    {
+      "en": ": I don’t have to because it was the first thing {i}I{/i} thought as well.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我不需要听，因为那也是{i}我{/i}第一个想到的。"
+    },
+    {
+      "en": ": Well, there goes my five seconds of feeling smart.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧，我那五秒钟的聪明劲就这么没了。"
+    },
+    {
+      "en": ": It seems like...we all kind of just went through the same thing then, huh?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 看来……我们三个都差不多经历了同一件事，是吧？"
+    },
+    {
+      "en": ": I don’t like this...",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我不喜欢这样……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro2.webp",
+      "alt": "beachmasintro2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I mean...yeah, it’s scary. And...shocking. But, on the bright side, at least...we’re at the beach now!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我是说……是啊，很吓人。而且……很震惊。不过，往好的方面想，至少……我们现在在海滩上了！"
+    },
+    {
+      "en": ": Your perpetual optimism makes you both an invaluable asset and incredibly annoying. Why is being {i}here{/i} some sort of bright side? We don’t even know how much time we’ve lost yet.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你那永不熄灭的乐观让你既是无价的财富，又烦人至极。身{i}在这里{/i}算哪门子好的方面？我们还不知道损失了多少时间呢。"
+    },
+    {
+      "en": ": Can we ever really {i}lose{/i} time at this point?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 到这个地步，我们真的还谈得上「{i}损失时间{/i}」吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro3.webp",
+      "alt": "beachmasintro3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You know what I mean.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你懂我的意思。"
+    },
+    {
+      "en": ": So...just to recap, you two were also minding your own business when this happened?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那么……复盘一下，事情发生的时候你们俩也是在忙自己的事？"
+    },
+    {
+      "en": ": The two of us and Ami were talking about our plans for Christmas and...all of a sudden, we were just... here.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我和 Ami 正在聊圣诞节的计划，然后……突然之间，我们就……在这里了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro4.webp",
+      "alt": "beachmasintro4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And...I guess Maya and I are close enough at this point that we were able to figure out what each other was thinking in just a single glance, so...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 而且……我觉得我和 Maya 到这个地步已经足够默契，一个眼神就能明白对方在想什么，所以……"
+    },
+    {
+      "en": ": Yes, hooray. Friendship. But what comes {i}next?{/i} What do we do {i}now?{/i}",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 是啊，万岁。友情。可{i}接下来{/i}呢？我们{i}现在{/i}该怎么办？"
+    },
+    {
+      "en": ": I don’t know. Maybe go play volleyball or something? We {i}are{/i} at the beach.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我不知道。也许去打打排球什么的？我们{i}毕竟{/i}在海滩上。"
+    },
+    {
+      "en": ": This isn’t the time to be playing around, Ayane. Not when we should be worrying about {i}how{/i} this happened.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 现在不是玩闹的时候，Ayane。我们该担心的是这事是{i}怎么{/i}发生的。"
+    },
+    {
+      "en": ": Well, what’s worrying even going to do? It’s not like we can sit down for five minutes and come up with a rational explanation for a sudden...group teleportation.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可是担心又能怎样？我们又不可能坐下来五分钟，就给一次突然的……集体传送想出一个合理的解释。"
+    },
+    {
+      "en": ": How do you know it wasn’t a reset? Why are you so sure?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你怎么知道那不是一次重置？你为什么这么确定？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro5.webp",
+      "alt": "beachmasintro5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, I don’t know. Maybe it was the part where I’m always able to feel when they’re coming. Or the part where we weren’t on the roof. Or the part where we didn’t all get annoyingly close to one another.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 噢，我不知道。也许是因为我向来能感觉到它们要来。也许是因为我们当时不在天台上。也许是因为我们没有全都烦人地凑到一起。"
+    },
+    {
+      "en": ": Or the part where Ayane is still here when I’m almost certain that {i}not{/i} sleeping with you for an entire cycle will get her reverted back to her normal, less-informed self.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 也许是因为 Ayane 还在这里——而我几乎可以肯定，只要整整一个周期{i}不{/i}和你上床，她就会被打回她那个正常、所知更少的自己。"
+    },
+    {
+      "en": ": It really hurts when you say things like that about me, Maya.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你那样说我，真的很伤人，Maya。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro6.webp",
+      "alt": "beachmasintro6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, please. It’s not as if I’m unaware of the fact that you two talk about me behind my back. At least I’m courteous enough to not hide anything from you.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 噢，得了吧。我又不是不知道你们两个在背后议论我。至少我还算客气，什么都没瞒着你。"
+    },
+    {
+      "en": ": You mean other than the fact that you’ve been hiding the true nature of this world from me for what could be millions of years by now?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你是说，除了你把这世界的真相瞒了我——到如今可能有几百万年了吧——这件事之外？"
+    },
+    {
+      "en": ": Yes, please forgive me for saving you from the countless existential crises I have prevented over the years. I am very sorry. Now, can we get back to formulating a plan that isn’t just playing {i}volleyball?{/i}",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 对，请原谅我这些年让你免于无数次存在主义危机。我非常抱歉。现在，我们能不能回到正题，想个不只是打{i}排球{/i}的计划？"
+    },
+    {
+      "en": ": You can be a little nicer to Ayane, you know. It’s not like she wanted to get involved in any of this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你可以对 Ayane 好一点，你知道的。她又不是自己想卷进这些事的。"
+    },
+    {
+      "en": ": What, and {i}I{/i} did?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 什么，难道{i}我{/i}是？"
+    },
+    {
+      "en": ": I don’t think there’s anything we {i}can{/i} do, Maya. ",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我觉得我们什么都{i}做不了{/i}，Maya。"
+    },
+    {
+      "en": ": There has to be something.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 总得有点什么能做吧。"
+    },
+    {
+      "en": ": Has there ever been something before?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 以前有过能做的吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro7.webp",
+      "alt": "beachmasintro7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No, but {i}this{/i} has never happened before! ",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 没有，但{i}这种事{/i}以前从没发生过！"
+    },
+    {
+      "en": ": I’m sorry if it’s not exactly normal for me to be talking to someone one second, and then in a completely different place the next!",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 如果前一秒还在跟人说话、下一秒就到了一个完全不同的地方，这不太正常，那我很抱歉！"
+    },
+    {
+      "en": ": Well, if it’s any consolation, that sort of thing is pretty par for the course for me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧，如果这算安慰的话，这种事对我来说基本是家常便饭了。"
+    },
+    {
+      "en": ": That’s not-",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 那不是——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro8.webp",
+      "alt": "beachmasintro8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait...there might actually be something there. I need to think.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 等等……那里面说不定真有点门道。我得想想。"
+    },
+    {
+      "en": ": You don’t have your phone on you...do you, Sensei?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你身上没带手机吧……Sensei？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I reach into my pockets to find that...no. I do not have my phone. But that’s fine. I probably just left it {i}further back in time.{/i}",
+      "zh": "我伸手摸向口袋，发现……没有。我没带手机。不过没关系。我大概只是把它落在{i}更久以前的时间线里{/i}了。"
+    },
+    {
+      "en": "Or...forward.",
+      "zh": "或者……更往后。"
+    },
+    {
+      "en": "Or in a different location.",
+      "zh": "或者在别的什么地方。"
+    },
+    {
+      "en": "I have no idea. It’s not everyday that everyone else is just as lost as I am.",
+      "zh": "我不知道。别人跟我一样一头雾水，这种日子可不常有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t, no.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 没有，我没带。"
+    },
+    {
+      "en": ": I guess we’ll just have to figure out the...circumstances of this trip from the other girls then.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 那看来我们只能从其他女孩那里问出这次「旅行」的……情况了。"
+    },
+    {
+      "en": ": But, if it’s anything like our {i}previous{/i} beach trips...wouldn’t that mean that it should be {i}before{/i} Halloween, then?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 不过，如果和{i}之前{/i}几次海滩之行差不多……那岂不是意味着现在应该在万圣节{i}之前{/i}？"
+    },
+    {
+      "en": ": We always do our beach trip around August. Christmas should be our next big holiday and none of this seems very...you know, {i}Christmassy{/i} to me.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我们的海滩旅行一向安排在八月左右。圣诞节应该是我们下一个大节日，而这一切看起来都不太……你知道的，不太有{i}圣诞味儿{/i}。"
+    },
+    {
+      "en": ": Yeah. Bathing suits aren’t normally a thing I associate with that holiday. But I’m open to changing that if everyone else is on board.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是啊。我一般不会把泳装和那个节日联系在一起。不过要是大家都愿意，我倒不介意改改这个印象。"
+    },
+    {
+      "en": ": Can you maybe tone down the insatiable lust for a moment while I figure out what we’re supposed to do?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你能不能把你那永不满足的欲火稍微压一压，等我想清楚我们该做什么？"
+    },
+    {
+      "en": ": Sure. Am I allowed to have sex with Ayane again?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。那我可以再和 Ayane 做爱了吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro9.webp",
+      "alt": "beachmasintro9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhhhhhh...no.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 呃……不行。"
+    },
+    {
+      "en": ": I think it would be best for all of us if we could make a one time exception.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我觉得，如果我们能破例一次，对大家都好。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro10.webp",
+      "alt": "beachmasintro10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How would that be best for me?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 这对我有什么好的？"
+    },
+    {
+      "en": ": Because you’d get your peace-and-quiet slash lonely pondering time and Sensei and I could finally relieve ourselves of the pent-up feelings we’ve been keeping in for {i}your{/i} sake alone.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 因为你能得到你要的清净加孤独思考的时间，而 Sensei 和我终于能释放一下那些单单为了{i}你{/i}才憋着的感情。"
+    },
+    {
+      "en": ": Well, that {i}I’ve{/i} been keeping in for your sake alone. Who {i}knows{/i} what Sensei does behind closed doors?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 呃，是{i}我{/i}单单为了你才憋着的。谁{i}知道{/i} Sensei 关起门来都干些什么？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "You do. I literally told you just the other day.",
+      "zh": "你知道。我前两天刚跟你说过。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’ll take a little extra noise over the greater chance of an apocalyptic meltdown and the mental image of whatever sorts of ungodly things you two would do to each other.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 比起末日崩溃的更大几率、以及你们俩会对彼此做出什么伤天害理的事的那种画面，我宁愿多听点噪音。"
+    },
+    {
+      "en": ": I don’t know. That sounds a little bit like jealousy to me, Maya.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我可不知道。听起来倒有点像嫉妒了，Maya。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro11.webp",
+      "alt": "beachmasintro11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re disgusting.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你真恶心。"
+    },
+    {
+      "en": ": Hey. Those words are supposed to be for me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嘿。这话应该是留给我的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro12.webp",
+      "alt": "beachmasintro12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you really intend to side with Ayane over me in regard to all of this?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 关于这些事，你真的打算站在 Ayane 那边，而不是我这边？"
+    },
+    {
+      "en": ": I didn’t even realize there were actual sides yet considering all you’ve done is think. At least Ayane’s plan will get our minds off of stuff.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我还不知道这事真的有「阵营」呢，毕竟你除了思考什么都没干。至少 Ayane 的计划能让我们别再想这些。"
+    },
+    {
+      "en": ": We do not have the {i}time{/i} for-",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我们没有{i}时间{/i}——"
+    },
+    {
+      "en": ": Actually, if we {i}did{/i} go back in time and this is all happening prior to Halloween, we {i}would{/i} have the time to goof off for a little while!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 话说回来，如果我们{i}真的{/i}回到了过去、这一切都发生在万圣节之前，那我们{i}确实{/i}有时间去疯上一阵子！"
+    },
+    {
+      "en": ": Maybe.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 也许吧。"
+    },
+    {
+      "en": ": Or we could all die. I never really know anymore.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 或者我们全都会死。现在我真说不准了。"
+    },
+    {
+      "en": ": Maya, can I weigh in without the fear of you yelling at me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Maya，我能说说我的看法而不怕你冲我吼吗？"
+    },
+    {
+      "en": ": I can neither confirm nor deny the possibility of that.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 这个可能性我既不能确认也不能否认。"
+    },
+    {
+      "en": ": Well, I’m going to do it anyway.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那我还是要说。"
+    },
+    {
+      "en": ": I think Ayane is right. I think the best thing we can do right now is just play it cool and not think too much about any of this.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得 Ayane 说得对。我觉得我们现在最该做的就是保持冷静，别把这些事想得太多。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "There’s also someone I should probably clear things up with if I’m ever able to track her down...",
+      "zh": "另外还有一个人，如果我能找到她的话，大概该跟她把事情说清楚……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Point is, we’ll learn a lot more about what’s going on from the other girls than we will from each other.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 重点是，从其他女孩那里我们能打听到的，会比我们互相之间能琢磨出来的多得多。"
+    },
+    {
+      "en": ": And honestly, I need a break following the Dorm Wars. You might not believe it, but all of that attention is actually very exhausting for me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 而且说实话，宿舍战争之后我需要喘口气。你可能不信，但那种被人关注的感觉对我来说其实非常累。"
+    },
+    {
+      "en": ": Yeah, I don’t believe that at all.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 是啊，我一点都不信。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro13.webp",
+      "alt": "beachmasintro13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But...fine. It does seem like that is the only reasonable course of action for now. But only until we get some sort of lead or...idea of what could have possibly happened.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 但是……好吧。看起来目前确实只有这一个合理的做法。但只能持续到我们拿到某种线索，或者……搞清楚到底可能发生过什么为止。"
+    },
+    {
+      "en": ": I can’t tell if you’re actually paranoid or if you’re just really excited that different things are finally happening in a life that has been extremely repetitive thus far.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我真分不清你是真的疑神疑鬼，还是单纯因为一段迄今为止极度重复的人生里终于有了不一样的事，而感到兴奋。"
+    },
+    {
+      "en": ": It’s cute. Like you’re trying to be a detective or something.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 挺可爱的。像你在试着当侦探什么的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro14.webp",
+      "alt": "beachmasintro14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ayane, I say this with the utmost sincerity.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": Ayane，我以下这句话是出于最真挚的诚意说的。"
+    },
+    {
+      "en": ": Fuck you.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 操你的。"
+    },
+    {
+      "en": ": Now you’re just jealous again because Sensei wants to hang out and relax instead of going all {i}film noire{/i} at the beach with you and discovering the secrets of the universe underneath the stars.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 现在你又嫉妒了，因为 Sensei 想的是出去玩、放松一下，而不是陪你在海滩上搞什么{i}黑色电影{/i}那一套、在星空下发掘宇宙的秘密。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro15.webp",
+      "alt": "beachmasintro15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is it just me or is she actively going out of her way to try and egg me on today?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 是我多心了，还是她今天在故意找茬激我？"
+    },
+    {
+      "en": ": I think she’s just fed up with your ingrained need to be controlling.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得她只是受够了你骨子里那种掌控欲。"
+    },
+    {
+      "en": ": You think I’m controlling?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你觉得我有掌控欲？"
+    },
+    {
+      "en": ": Either that or certain information that was recently revealed to her has somehow made her reevaluate the nature of our relationship. I think it could go either way.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 要么是这个，要么是最近透露给她的某些信息让她重新评估了我们关系的本质。我觉得两者都有可能。"
+    },
+    {
+      "en": ": I am not {i}controlling.{/i} I am just smarter and more experienced than you.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我没有{i}掌控欲{/i}。我只是比你更聪明、更有经验。"
+    },
+    {
+      "en": ": {i}Are you,{/i} though?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": {i}是吗{/i}？"
+    },
+    {
+      "en": ": Okay, I think it was the latter of the two things I said.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好吧，我觉得是我说的第二种。"
+    },
+    {
+      "en": ": It was a little of both.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 两者都有一点。"
+    },
+    {
+      "en": ": I have no idea what is going on. But, before this meeting is adjourned and we split apart to go “act natural” or whatever it was, I have a demand. You know, since I’m so “controlling” and whatnot.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我不知道现在是什么情况。不过，在这次会议散会、我们分头去「装作若无其事」还是什么的之前，我有一个要求。毕竟我都这么「有掌控欲」了什么的。"
+    },
+    {
+      "en": ": Uh-huh. And that demand is?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯哼。那要求是？"
+    },
+    {
+      "en": ": Take me on a date tonight.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 今晚带我去约会。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro16.webp",
+      "alt": "beachmasintro16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 什么？"
+    },
+    {
+      "en": ": {i}What?{/i}",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": {i}什么？{/i}"
+    },
+    {
+      "en": ": A date. You do know what that is, correct?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 约会。你知道那是什么，对吧？"
+    },
+    {
+      "en": ": I do, but...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我知道，但是……"
+    },
+    {
+      "en": ": But what? Is there an issue?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 但是什么？有问题吗？"
+    },
+    {
+      "en": ": There are...several. But I figured the fact that Ayane is right there would have been-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 有……好几个。不过我以为「Ayane 就在旁边」这一点就已经——"
+    },
+    {
+      "en": ": If I had waited any longer, she would have asked you the same thing I did.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 如果我再等等，她就会问你和我一样的问题。"
+    },
+    {
+      "en": ": You’re right...I was just about to ask...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你说对了……我正要问……"
+    },
+    {
+      "en": ": See? This way, {i}I{/i} win and {i}she{/i} is now the one who is jealous.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 看吧？这样一来，{i}我{/i}赢了，现在轮到{i}她{/i}嫉妒了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro17.webp",
+      "alt": "beachmasintro17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Take that, nerd. Thank you for the suggestion that we all utilize our time for the sake of “fun.”",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 接招吧，书呆子。谢谢你提议让我们把时间都用来「玩」。"
+    },
+    {
+      "en": ": Uhh...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 呃……"
+    },
+    {
+      "en": ": Does 8:00 PM sound okay?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 晚上八点可以吗？"
+    },
+    {
+      "en": ": Uhh-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 呃——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro18.webp",
+      "alt": "beachmasintro18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wonderful. I’ll see you then.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 太好了。到时候见。"
+    },
+    {
+      "en": ": Wait. Just to clarify, this {i}does{/i} mean what I think it means, right?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 等等。确认一下，这{i}意思就是{/i}我想的那个意思，对吧？"
+    },
+    {
+      "en": ": Probably not. But you’re going to think whatever you want to regardless of my response to that. And to that, I say this.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 大概不是。但不管我怎么回答，你都会照自己想的去想。对此，我只想说这一句。"
+    },
+    {
+      "en": ": Screw you guys. I’m going to find a melon.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 去你们的。我要去找个蜜瓜。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro19.webp",
+      "alt": "beachmasintro19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, and if we actually did somehow go back in time and the second annual Dorm Wars has yet to begin, please make sure Tsuneyo doesn’t participate in stand-up comedy again. That was revolting.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 噢，另外，如果我们真的莫名其妙回到了过去、第二届宿舍战争还没开始，请务必别让 Tsuneyo 再去搞单口喜剧了。那场面真够恶心的。"
+    },
+    {
+      "en": ": You’re just going to ask me out on a date and leave?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你就这么约完会就走人了？"
+    },
+    {
+      "en": ": Yes. That was the climax of our conversation and everything after that will be boring. So I am going to find a melon. Please stop talking to me.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 对。那是我们对话的高潮，之后的一切都会很无聊。所以我要去找个蜜瓜。别再跟我说话了。"
+    },
+    {
+      "en": ": Maya-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Maya-"
+    },
+    {
+      "en": ": Walking away.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 我走了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro20.webp",
+      "alt": "beachmasintro20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": ..."
+    },
+    {
+      "en": ": She shut you up really quick, didn’t she?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她让你闭嘴闭得真快，是吧？"
+    },
+    {
+      "en": ": I didn’t think she was going to come out and just...openly invite you on a date.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 我没想过她会这么直接地……公开约你出去。"
+    },
+    {
+      "en": ": Well, it {i}was{/i} more like a demand. But yes, that’s never really happened so...directly before.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，与其说是约，不如说是要求。不过，这么……{i}直接{/i}确实是以前从来没有过的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro21.webp",
+      "alt": "beachmasintro21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What...{i}are{/i} you two, exactly? Because at first I thought you were secretly seeing each other...and then I changed my mind...and then I thought that {i}again.{/i} And {i}then{/i} you showed me the list and...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 你们两个……到底{i}是{/i}什么关系？一开始我以为你们在偷偷交往……后来我又改了主意……然后又{i}那么想{/i}了一遍。{i}再后来{/i}你给我看了那份名单，然后……"
+    },
+    {
+      "en": ": That was an accurate list, right? You didn’t...maybe forget to add anyone amidst the sea of other girls you’ve been seeing alongside me?",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 那份名单是准确的，对吧？你没……在你身边那群女孩的汪洋里漏掉谁吧？"
+    },
+    {
+      "en": ": I’ve never so much as touched Maya.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我连碰都没碰过 Maya。"
+    },
+    {
+      "en": ": But...if you were given the opportunity...which it very much sounds like you will be tonight...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 但是……如果给你机会……听上去今晚你很可能会有……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": ..."
+    },
+    {
+      "en": ": I don’t really know if I’d even be {i}able{/i} to.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我真不知道自己{i}能不能{/i}做到。"
+    },
+    {
+      "en": ": That sounds...complicated.",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 听起来……挺复杂的。"
+    },
+    {
+      "en": ": Yeah...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是啊……"
+    },
+    {
+      "en": ": It really is.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 确实是。"
+    },
+    {
+      "en": ": Yasu?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": Yasu？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro22.webp",
+      "alt": "beachmasintro22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What are you doing over here? Didn’t you require my assistance putting your floaties on?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你在这边做什么？你不是需要我帮你套游泳圈吗？"
+    },
+    {
+      "en": ": I remembered the way water feels when it slides off of my skin and it dragged me closer to the darkness. I’m sorry for betraying your trust.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我想起了水从皮肤上滑落的感觉，它把我拽向了黑暗。很抱歉辜负了你的信任。"
+    },
+    {
+      "en": ": You haven’t betrayed me at all. I just find it rather concerning seeing you over here...leaning up against a wall as one of our classmates and our teacher engage in what is very obviously a private discussion.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你一点都没有辜负我。我只是觉得，看到你在这儿……靠在墙上，而我们的一位同学和我们的老师正在进行一场明显是私密的谈话，这挺让人在意的。"
+    },
+    {
+      "en": ": If I didn’t know any better, I’d take you for some sort of peeping tom or eavesdropper.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 如果我不了解你，我会把你当成某种偷窥狂或者偷听者。"
+    },
+    {
+      "en": ": Voices bounce off of the water, Touka. Words slip off of them the way {i}it{/i} slips off of me. And sometimes, slipping shows you more than anything else ever could.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 声音会从水面上弹回来，Touka。话语从它们上面滑落，就像{i}水{/i}从我身上滑落一样。而有时候，滑落能让你看到比其他任何方式都更多的东西。"
+    },
+    {
+      "en": ": Right...and in terms that someone unfamiliar with your ideology would understand?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 好吧……那么换成不熟悉你那套思想的人能听懂的说法？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro23.webp",
+      "alt": "beachmasintro23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The vines still grow in places we thought they died.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 藤蔓仍在我们以为它们已经枯死的地方生长着。"
+    },
+    {
+      "en": ": Why are you doing that with your face? Stop it. It’s unbefitting of a lady.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你脸怎么回事？别做了。那不像个淑女。"
+    },
+    {
+      "en": ": I am not a lady. I am a droplet of water gliding across the surface of inflated plastic. A blade of grass with holes drilled into it by the mandibles of a grasshopper.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我不是淑女。我是一滴在充气塑料表面滑过的水珠。一片被蚱蜢的口器钻出洞的草叶。"
+    },
+    {
+      "en": ": {i}Noooo...{/i}You are Yasu Yasui. A young lady who needs to put her floaties on so she does not drown when she absentmindedly walks too far out into the water.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": {i}不不不……{/i}你是 Yasu Yasui。一位需要套上游泳圈的年轻小姐，免得你心不在焉地走得太远、在水里淹着。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro24.webp",
+      "alt": "beachmasintro24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And if I tell you I am already happily submerged?",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 那如果我告诉你，我已经快乐地沉在水里了呢？"
+    },
+    {
+      "en": ": I would respond with the fact that, whether it be intentional or not, you can be extremely unsettling at times and I really wish you would let me take you to the doctor.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 那我会回答你：不管你是不是有意的，你有时候真的非常让人不安，我真心希望你能让我带你去看医生。"
+    },
+    {
+      "en": ": The only doctor I need is Him.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 我唯一需要的医生就是祂。"
+    },
+    {
+      "en": ": And yet I question {i}His{/i} qualifications as you grow more and more worrisome by the day.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 可随着你一天比一天让人担忧，我越来越质疑{i}祂{/i}的资质。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene beachmasintro25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/beachmasintro25.webp",
+      "alt": "beachmasintro25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come! We only have until the end of Christmas to enjoy our time here!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 来吧！我们只有到圣诞节结束之前的这点时间可以在这里享受了！"
+    },
+    {
+      "en": ": Though...I suppose we could always use one of my family’s private beaches if- oh, you get the point. Now, come!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 不过……我想我们随时可以用我家的一处私人海滩，如果——噢，你懂的。现在，来吧！"
+    },
+    {
+      "en": ": He’s here.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 他在这里。"
+    },
+    {
+      "en": ": He is on the beach.",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 他在海滩上。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ beachmas1 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ maya_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ayane’s affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]!{/i}"
+    },
+    {
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump beachmas2",
+      "zh": ""
+    }
+  ]
+}

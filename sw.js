@@ -1,0 +1,258 @@
+/* LIL 事件导航 Service Worker
+ * 目的：用 Cache Storage（容量远大于浏览器 HTTP 磁盘缓存、跨天持久）解决
+ *   GitHub Pages 只给 10 分钟新鲜度 + 浏览器磁盘缓存装不下 4.76GB 图片
+ *   导致的"每次打开都全量重下"问题。
+ * 策略（图片 / 译文 JSON / HTML 三张独立缓存，互不牵连）：
+ *   - 图片（版本锁定、不会变）：cache-first，一次缓存永久秒开。独立缓存 lil-img-vX，永不 bump。
+ *   - 事件 JSON（译文会更新）：cache-first，命中即秒读、无后台重取噪点。
+ *       独立缓存 lil-evt-vX，名字稳定、不再靠 bump。译文刷新由 guide.html 开机拉
+ *       `context/events/evtver.json` 全量版本清单，与本地 lastSeen 比对，只 delete
+ *       哈希对不上的那几条缓存条目（精准+有界，不涨不漏）；没改的事件永久秒出。
+ *   - guide.html 等 HTML 外壳（白屏修复在 <html> 上）：
+ *       v25 起改为「网络优先 + 1.2s 超时兜底缓存」（原来 swr = 先吐旧版，
+ *       导致改完必须刷新两次才生效，逼得让人去 Unregister —— 绝不允许）。
+ *       现在正常刷新一次就是新内容；断网/极慢时自动落回缓存。独立缓存 lil-doc-vX。
+ *       v1 用 SWR（先吐旧白底→每回闪）、v2 用 network-first（每回等地等网络→每回闪）都仍闪；
+ *       v3 改 cache-first 但仍闪一次（v3 激活删旧缓存→头几次点击缓存空→现拉网络）。
+ *       故 v4 在【安装阶段即预缓存深色 guide.html】，v4 接管后首次点开即命中、零白闪。
+ *   - v5：guide.html 补 `color-scheme:dark`（浏览器起手就用深色画布，治跨页跳转白闪）；
+ *       并 bump 缓存版本以重新预缓存「带 color-scheme 的新版 HTML」。
+ *   - v6：事件 JSON 由 swr（每次打开后台发刷新请求、Network 面板现 200/304 噪点）改回 cache-first，
+ *       与图片一致——命中即秒读、无后台重取；译文更新靠 bump 缓存版本触发刷新。
+ *   - v7：把原先「图片+JSON+HTML 共用一个 lil-nav-vX」拆成三张独立缓存
+ *       （lil-img / lil-evt / lil-doc）。刷新译文只 bump lil-evt，
+ *       再也不会顺手清空 4.76GB 图片缓存、逼用户重下图片。
+ *   - v8：弃用 bump（整库删除 = 粗粒度、且旧策略会连图片一起清）。改用「开机全量版本
+ *       清单比对 + 条目级精准删除」：译文更新只重算 evtver.json，SW 缓存名保持不变，
+ *       线上仅重拉改动的文件。图片缓存名 lil-img-vX 永不改、永不失效。
+ *   - v10：HTML 外壳曾一度改 SWR 治「4 秒白等」，后确认那只是用户当时的网络差
+ *   - v11（图片仓库拆分）：图片实体移到 anchorfly/lessons-in-love-pic（目录 pic/），
+ *       站内路径 游戏图片/… → pic/…。SW 加「旧 key 别名」兼容层：
+ *       新 key 未命中时先查旧 key（游戏图片/…）缓存 → 命中即秒回并迁移条目，
+ *       让已有 5GB 缓存不白费、用户不重新下载；都没有才回图片仓库取。
+ *       ⚠️ CACHE_IMG 保持 lil-img-v1 不变 —— 一旦 bump 就是全员重下 5GB。
+ *   - v9（事件缓存兜底）：v8 的 evtver 精准失效在个别客户端未生效（译文已更新、
+ */
+const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
+const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
+const CACHE_DOC = 'lil-doc-v113';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v113=图片路径 游戏图片/ → pic/，SW 加旧 key 别名
+                                  //       v111=SW 自动更新：controllerchange 自动 reload
+                                  //       v110=事件缓存 v8 + lastSeen 不提前提交（治译文不刷新）
+                                  //       v49=去掉页面 head 里标注统计用途的中文注释（源码不再出现「统计」字样）
+                                  //       v48=事件点击埋点：openEvent 上报 open_event 事件（带 label）
+                                  //       v47=补录漏掉的通用场景宿舍事件 rindorm6to9 / futabadorm6to9
+                                  //       v46=修复中文模式搜索误命中英文错过文案（搜 dorm 命中「这就是生活」）
+                                  //       v45=tsuneyospring3 中文标题 這丕昰義 -> 這丕昰莪（義加笔过多，改加 3 画的莪）
+                                  //       v44=tsuneyospring3 中文标题 -> 這丕昰義
+                                  //       v43=tsuneyospring3 标题 TH15 15NT M3 -> 這丕昰義（中文 leet：形近异体替换）
+                                  //       v42=字面方括号补充 [xxx] 漏译修补（16 处）
+                                  //       v41=「God of XXX」称号统一译为「XX之神」（13 个神名 / 341 处）
+                                  //       v40=全库密文破解收尾：凯撒 5 处 + 格式统一（en 补明文/全角改半角）
+                                  //       v39=chapthree2 凯撒密文 zdnh xs -> wake up（13 行）
+                                  //       v38=重做 springend1 补丁：保持原文件 2 空格缩进 + LF（上次 indent=1 导致整文件 diff）
+                                  //       v37=阿拉伯语行补原文+括号译文；过滤 $ renpy.config.rtl
+                                  //       v36=修 [[ 多一个方括号（Ren'Py 反转义）+ [REDACTED] 译为中文
+                                  //       v35=日文行全量改为「原文 + 半角括号中文」（77 处）
+                                  //       v34=修正 86 处说话人 id 泄漏进正文（six/Maki/??? 等）
+                                  //       v33=运行时数据去掉 _ 前缀（missed_zh.json / zh_titles.json），避开 Jekyll 过滤
+                                  //       v32=sweetmeats 统一为「糖果」（朱生豪莎译）；标题同步为麦鲸记（给我的海豚的糖果）
+                                  //       v31=预载并发改为自适应(按实测耗时 2~12 自动调)，修 fetchEvent 失败卡死泵
+                                  //       v30=慢网图片优化：预载让路+后台逐张预取+异步解码；SW 图片缓存加固
+                                  //       v29=历史版本事件内「上一个/下一个」改组内闭环（只在本版本列表内走，头尾禁用）
+                                  //       v28=图片加载自愈：img onerror 换 URL 重试 + SW 只缓存真图片、不再吐空 504
+                                  //       v27=加 .nojekyll 让 Pages 跳过 Jekyll（修 _ 前缀文件被过滤）+ 上下文忘了更新
+                                  //       v26=删除 guide_i18n.html（已转正为 guide.html）；sw.js PRECACHE 只留 guide.html
+                                  //       v25=HTML/其它资源改网络优先(1.2s超时回退缓存)，刷新一次即生效，不再需要手动清缓存
+                                  //       v24=guide_i18n 转正为 guide.html（正式发布）
+                                  //       v23=切语言保持正文阅读位置（锚点行）
+                                  //       v22=上下事件导航标题随语言切换：补齐 prev/next 的 label
+                                  //       v21=短信三级页也回顶部 + 与事件一致清空 curCat（返回列表回顶部）
+                                  //       v20=预载完成自动重绘时豁免回顶部（_skipScrollTop），避免打断阅读
+                                  //       v19=撤销误加的内嵌 Zalgo 字体（v15 是刻意移除）+ 正式页换页回顶部
+                                  //       v18=ayanedorm20 英文改 bonus=True 真名 Still Young（bonus 规则：True=非和谐）
+                                  //       v17=正式页 guide.html 同步换页回顶部修复（与 i18n 页同一份）
+                                  //       v16=页面英文 title 统一改 avn 真名（22 条，中英对齐）
+                                  //       v15=移除内嵌 Zalgo 字体，乱码行统一改为「原文 + 半角括号中文」
+                                  //       v14=短信标题/面包屑随语言切换（_itemByLabel 补索引 c.sms；openSms meta 挂 data-lab）
+                                  //       v13=历史版本事件/首页等换页后回到顶部（原来保留原滚动位置）
+                                  //       v12=25 条专名：知名/历史人物译出、造语按理解译、编号不动
+                                  //       v11=i18n 页内嵌标题刷新（Number Girl->编号女孩）
+                                  //       v10=中文标题全量内嵌（ZH_TITLES_BUILTIN），events json 移除 title_zh
+                                  //       v9=字体改为 data URI 内嵌(22KB base64)+独立字体族 LilZalgoCJK，彻底消除路径依赖
+                                  //       v8=自托管 Noto Sans SC 子集修中文 Zalgo(16KB,含 CJK+U+0300-036F 全组合符),国内离线可用
+                                  //       v7=CJK+组合符字形兜底：.content 加 LilCjk @font-face(unicode-range)，修中文 Zalgo 显示缺字形方框
+                                  //       v6=事件缓存 lil-evt-v6→v7（+两个页面同步硬编码缓存名），修 roomwithclocks 中文译文不刷新
+                                  // ⚠️ 铁律：每改一次 guide.html / guide_i18n.html 就必须 +1（v3→v4→…），
+                                  // 否则浏览器一直吃 SW 缓存的旧 HTML，用户必须手动清缓存才能看到改动。
+                                  // 历史：v3=_syncEvtCache 缓存失效+undefined/滚动修复；
+                                  //       v4=「错过时显示」红字中文三态切换（missTxt/missHtml/missOf + ZH_MISSED）
+                                  //          + 正文过滤 rpy `label xxx:` 声明行（stripLeadingCode）。
+const PRECACHE_HTML = ['guide.html', 'guide_test.html'];   // guide_test 也要预缓存，否则它只能靠 netFirst 的 1.2s 超时，慢网下永远吐旧缓存
+const IMG_RE = /\.(?:webp|png|jpe?g|gif|avif|svg|bmp|ico|webm|mp4|mov)(?:[?#]|$)/i;
+const EVENT_RE = /\/context\/events\/[^?#]+\.json(?:[?#]|$)/i;
+const MANIFEST_RE = /\/context\/events\/evtver\.json(?:\?[^#]*)?$/i; // 版本清单：绕过 SW 缓存，页面用 no-store 直连最新
+
+function isHtmlShell(url) {
+  const p = url.pathname;
+  return p.endsWith('.html') || p === '/' || p === '';
+}
+
+self.addEventListener('install', (e) => {
+  e.waitUntil((async () => {
+    const c = await caches.open(CACHE_DOC);
+    // 安装即预缓存深色 HTML：v4 接管后首次点开即缓存命中，零网络等待、零白闪。
+    // 已缓存则跳过，避免重复预缓存 1.3MB 的 guide.html。
+    await Promise.all(PRECACHE_HTML.map(async (u) => {
+      if (await c.match(u)) return;
+      try {
+        const r = await fetch(u);
+        if (r && r.status === 200) await c.put(u, r.clone());
+      } catch (_) {}
+    }));
+    self.skipWaiting();
+  })());
+});
+
+self.addEventListener('activate', (e) => {
+  e.waitUntil((async () => {
+    // 只保留当前三张缓存；其余（含旧版 lil-nav-vX、旧带数字版本缓存）一律删除。
+    // v8 起缓存名稳定、不再 bump；译文失效靠 guide.html 开机精准删条目，不在此清。
+    const KEEP = new Set([CACHE_IMG, CACHE_EVT, CACHE_DOC]);
+    const keys = await caches.keys();
+    await Promise.all(keys.filter(k => !KEEP.has(k)).map(k => caches.delete(k)));
+    await self.clients.claim();
+  })());
+});
+
+self.addEventListener('fetch', (e) => {
+  const req = e.request;
+  if (req.method !== 'GET') return;
+  const url = new URL(req.url);
+  if (url.origin !== self.location.origin) return; // 仅处理同源（google 统计等跨域跳过）
+
+  // 版本清单绕过 SW：不进任何缓存，由页面用 no-store 直连拿最新（保证开机比对永远新鲜）
+  if (MANIFEST_RE.test(url.pathname)) return;
+
+  if (IMG_RE.test(url.pathname))   return e.respondWith(cacheFirstImg(req));   // 图片仓库已拆分：带旧 key 别名，避免重新下载
+  if (EVENT_RE.test(url.pathname)) return e.respondWith(cacheFirst(req, CACHE_EVT));
+  // HTML 外壳 + sw.js + context/missed_zh.json 等：网络优先（1.2s 超时回退缓存）。
+  // 目的：普通用户「刷新一次」就能看到新内容，不需要任何开发者工具操作。
+  return e.respondWith(netFirst(req, CACHE_DOC, 4000));   // 网络优先：4s 内拿到就用新的（=刷新一次即生效），超时才回退缓存
+});
+
+/* 判断响应是否真的是媒体：没有 content-type、或既不是 image/* 也不是 video/* 一律视为坏响应。
+   （video/* 是 2026-09-28 补的：扩展包里的 webm 动画要走同一条缓存链路，否则每次都被当坏图回源。）
+   目的：防止「200 但内容是 HTML 错误页/空响应」被当图片缓存下来，之后一直吐坏图。 */
+function isGoodImage(res) {
+  if (!res || res.status !== 200) return false;
+  const ct = (res.headers.get('content-type') || '').toLowerCase();
+  if (!ct) return true;
+  return ct.indexOf('image/') === 0 || ct.indexOf('video/') === 0;   // webm/mp4 也算好响应
+}
+
+/* ===== 图片仓库拆分后的兼容层（2026-10-03）=====
+   图片实体已移到 https://github.com/anchorfly/lessons-in-love-pic （目录 pic/），
+   站内路径统一为同源 `pic/…`。为了**不浪费用户已有的 5GB 图片缓存**：
+     ① 新 key 命中 → 直接用
+     ② 旧 key（游戏图片/…）命中 → 秒回 + 迁移条目到新 key（一次性，越用越少）
+     ③ 都没有 → 去图片仓库取，按新 key 缓存
+   ⚠️ CACHE_IMG 永远不要 bump：bump 会整表清空，等于让所有人重下 5GB。 */
+const IMG_REPO_BASE = 'https://anchorfly.github.io/lessons-in-love-pic/';
+const IMG_OLD_DIR = '游戏图片';
+
+function _imgParts(req) {
+  const u = new URL(req.url);
+  const m = u.pathname.match(/^(.*?)\/pic\/(.+)$/);
+  if (!m) return null;
+  return { origin: u.origin, prefix: m[1], rest: m[2] };
+}
+function _imgOldReq(req) {
+  const p = _imgParts(req);
+  if (!p) return null;
+  return new Request(p.origin + p.prefix + '/' + IMG_OLD_DIR + '/' + p.rest, { method: 'GET' });
+}
+function _imgRepoUrl(req) {
+  const p = _imgParts(req);
+  if (!p) return null;
+  return IMG_REPO_BASE + 'pic/' + p.rest;
+}
+
+async function cacheFirstImg(req) {
+  let c = null, hit = null;
+  try {
+    c = await caches.open(CACHE_IMG);
+    hit = await c.match(req);
+    if (hit && isGoodImage(hit)) return hit;
+    // ② 旧 key 别名：迁移前缓存的那份，直接复用，避免重新下载
+    const oldReq = _imgOldReq(req);
+    if (oldReq) {
+      const old = await c.match(oldReq);
+      if (old && isGoodImage(old)) {
+        try { await c.put(req, old.clone()); await c.delete(oldReq); } catch (_) {}
+        return old;
+      }
+    }
+    // ③ 回图片仓库取
+    const target = _imgRepoUrl(req);
+    const res = await fetch(target || req, target ? { mode: 'cors' } : undefined);
+    if (res && res.status === 200 && isGoodImage(res)) { try { c.put(req, res.clone()); } catch (_) {} }
+    return res;
+  } catch (e) {
+    if (hit) return hit;                 // 取失败但缓存里有（哪怕不是好图）→ 有总比没有强
+    return fetch(req).catch(function () { throw e; });
+  }
+}
+
+async function cacheFirst(req, name, isImg) {
+  /* ⚠️ caches.open / match 也必须在 try 内：一旦 reject（配额、存储异常等），
+     respondWith 收到 rejected promise 会被浏览器当成网络错误 → 图片直接碎且不回源。
+     这里任何缓存层异常一律降级为直接走网络。 */
+  let hit = null;
+  try {
+    const c = await caches.open(name);
+    hit = await c.match(req);
+    if (hit && !(isImg && !isGoodImage(hit))) return hit;   // 命中坏条目则视为 miss，回源
+    try {
+      const res = await fetch(req);
+      if (res && res.status === 200 && !(isImg && !isGoodImage(res))) c.put(req, res.clone());
+      return res;
+    } catch (err) {
+      if (isImg) throw err;      // 图片：交浏览器原生处理 + 触发页面 onerror 重试
+      return hit || new Response('', { status: 504 });
+    }
+  } catch (e) {
+    return fetch(req);           // 缓存层出问题：直接回源，绝不返回空响应
+  }
+}
+
+async function swr(req, name) {
+  const c = await caches.open(name);
+  const hit = await c.match(req);
+  const net = fetch(req).then(res => {
+    if (res && res.status === 200) c.put(req, res.clone());
+    return res;
+  }).catch(() => hit);
+  return hit || net;
+}
+
+/* 网络优先 + 超时回退缓存（v25）：
+   先发网络请求，timeout 毫秒内回来就用网络的（= 最新内容），并顺手更新缓存；
+   超时/失败则用缓存（离线可用）；既没网络又没缓存才 504。
+   ⚠️ 这是「改完刷新一次就生效」的关键：旧版 swr 会先吐旧缓存，导致必须刷新两次。 */
+async function netFirst(req, name, timeout) {
+  const c = await caches.open(name);
+  const net = fetch(req).then(res => {
+    if (res && res.status === 200) c.put(req, res.clone());
+    return res;
+  }).catch(() => null);
+  const hit = await c.match(req);
+  const win = await Promise.race([
+    net,
+    new Promise(r => setTimeout(() => r(null), timeout || 1200))
+  ]);
+  if (win) { if (win.status === 200 || !hit) return win; }   // 网络成功（或没缓存可用）→ 用网络
+  if (hit) return hit;                                        // 网络慢/非 200 → 回退缓存
+  const late = await net;                                     // 没缓存：继续等网络
+  return late || new Response('', { status: 504 });
+}

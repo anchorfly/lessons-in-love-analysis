@@ -1,0 +1,2158 @@
+{
+  "label": "foreveryoungep1",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "In a world not far detached from a world that {i}was{/i} far detached, there were three people.",
+      "zh": "在一个与某个早已远离的世界并不太远的世界上，有三个人。"
+    },
+    {
+      "en": "Three {i}very{/i} unfortunate people — who had found themselves unstuck in time.",
+      "zh": "三个{i}非常{/i}不幸的人——他们发现自己脱离了时间的束缚。"
+    },
+    {
+      "en": "Not quite like Billy Pilgrim, yet not entirely different either. ",
+      "zh": "不完全像 Billy Pilgrim，却也并非全然不同。"
+    },
+    {
+      "en": "Yet, despite the constant twists and turns and all those times they believed that {i}this time,{/i} it really was the end...despite all those times, they never gave up hope.",
+      "zh": "然而，尽管波折不断，尽管有那么多次他们以为{i}这一次{/i}真的就是终点……尽管经历了那么多次，他们从未放弃希望。"
+    },
+    {
+      "en": "They always found a way to pull through.",
+      "zh": "他们总能找到撑过去的办法。"
+    },
+    {
+      "en": "But that was only because they never had to deal with anything like {i}this.{/i}",
+      "zh": "但那只是因为他们从来不必应付像{i}这样{/i}的东西。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone1.webp",
+      "alt": "fyepone1"
+    },
+    {
+      "en": "$ renpy.pause(4, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene fyepone2 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone2.webp",
+      "alt": "fyepone2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, gang! It looks like it’s time for another rooftop classic. The weather’s great! The sky is...red! And we’ve once again managed to make it all the way here without being reset! Who’s ready to hug?!",
+      "spk": "Ayane",
+      "zh": ": 好啦，伙伴们！看来又到了天台经典环节。天气好极了！天空是……红色的！而且我们又一次一路走到这里、没被重置！谁准备好拥抱了？！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": I remain entirely unsurprised and somewhat disgusted at the fact that you can approach situations like this with such an irritating brand of optimism. ",
+      "spk": "Maya",
+      "zh": ": 你能用那种惹人烦的乐观来面对这种局面，我对此一点都不意外，甚至还有些恶心。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": You’d think after 5,632 times, she might be getting a little tired of this.",
+      "spk": "Sensei",
+      "zh": ": 你会以为过了 5,632 次，她总该有点腻了吧。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone3.webp",
+      "alt": "fyepone3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahem! That’s {i}5,633{/i} times, Sensei. You’re forgetting the one where everyone got reset {i}except{/i} me and I needed to save both of you with exorbitant amounts of sex.",
+      "spk": "Ayane",
+      "zh": ": 咳咳！是{i}5,633{/i}次，Sensei。你漏了那次所有人都被重置、{i}只有{/i}我没有，而我得用海量的性爱来救你们两个。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": But I’m the one who saved Maya with exorbitant amounts of sex.",
+      "spk": "Sensei",
+      "zh": ": 可是用海量性爱救下 Maya 的人是我啊。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Sex you would not have been able to have with her if I did not save you first, mind you. So yeah, I’m kind of a hero.",
+      "spk": "Ayane",
+      "zh": ": 不过你别忘了，要不是我先救了你，你根本没机会和她做那些。所以啊，我算是个英雄。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Sorry, if I knew we were planning on discussing our sex lives up here, I probably would have just let myself get reset again.",
+      "spk": "Maya",
+      "zh": ": 抱歉，如果我早知道我们上来是要讨论彼此的性生活，我大概会干脆让自己再被重置一次。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone4.webp",
+      "alt": "fyepone4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’d think after 21,327 threesomes, you might be a little more open to discussing sex with us.",
+      "spk": "Ayane",
+      "zh": ": 你会以为搞了 21,327 次三人行之后，你总该更愿意跟我们聊聊性了吧。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Just out of curiosity, is there anything you’re {i}not{/i} keeping explicit track of? Are you counting my orgasms too?",
+      "spk": "Maya",
+      "zh": ": 只是好奇一下，你有什么是{i}没有{/i}在清清楚楚记账的吗？连我的高潮次数你也在数？",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": No, just Sensei’s. With just my mouth alone, I’ve made him cum 541,821-",
+      "spk": "Ayane",
+      "zh": ": 没有，只记 Sensei 的。光是用嘴，我就让他射了 541,821——",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone5",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone5.webp",
+      "alt": "fyepone5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay. Moving on.",
+      "spk": "Maya",
+      "zh": ": 行吧。下一个话题。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Why doesn’t anyone ever want to hear my cum number?! It’s because I’m in the lead, isn’t it?!",
+      "spk": "Ayane",
+      "zh": ": 为什么谁都不想听我的射精次数？！就因为我是第一名，对吧？！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": So...what’s the plan, Ayane? Anything new this time? Or...are we just going to leave it up to fate again?",
+      "spk": "Sensei",
+      "zh": ": 那么……什么计划，Ayane？这次有什么新花样吗？还是……又要交给命运？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone6",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone6.webp",
+      "alt": "fyepone6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re asking me?",
+      "spk": "Ayane",
+      "zh": ": 你在问我？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": It’s your turn. Sensei made the rules last time, and {i}I{/i} went before him — which means it’s up to you to handle the reset this time. ",
+      "spk": "Maya",
+      "zh": ": 轮到你了。上次是 Sensei 定规则，{i}我{/i}排在他前面——也就是说这次该由你来负责重置的事。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Just know that I {i}will{/i} leave if you make me watch the two of you copulate again.",
+      "spk": "Maya",
+      "zh": ": 先说好，如果你又让我看着你们两个交配，我{i}绝对{/i}走人。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": What if we just hugged? Like old times?",
+      "spk": "Ayane",
+      "zh": ": 那如果我们只是拥抱呢？像以前那样？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone7",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone7.webp",
+      "alt": "fyepone7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That...takes me back. We haven’t done it that way in years. ",
+      "spk": "Maya",
+      "zh": ": 那……真是让人怀念。我们已经好多年没那样做过了。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": I was going through some of our notebook earlier and it made me feel a little nostalgic. Does hugging work for you two? Or should we just take all of our clothes off now and get this party started?",
+      "spk": "Ayane",
+      "zh": ": 我刚才翻了翻我们的笔记本，有点怀念。你们俩觉得抱抱够用吗？还是我们现在就把衣服全脱了、直接开场？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone8",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone8.webp",
+      "alt": "fyepone8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What do you think, Sensei? I know you have hug-based PTSD from that one alternate timeline converging with ours a few centuries ago.",
+      "spk": "Maya",
+      "zh": ": 你觉得呢，Sensei？我知道你有「拥抱型创伤后应激」——来自几百年前那条平行时间线与我们的世界交汇那次。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": I...will do my best.",
+      "spk": "Sensei",
+      "zh": ": 我......会尽力的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I suppose that settles it then!",
+      "spk": "Ayane",
+      "zh": ": 那就这么定了吧！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Bring it in, Apocalypse Squad!",
+      "spk": "Ayane",
+      "zh": ": 靠过来，末日小队！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": We’re not much of a {i}squad{/i} if there’s just the three of us, are we?",
+      "spk": "Maya",
+      "zh": ": 要是只有我们三个，那也算不上什么{i}小队{/i}了吧？",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Maybe not now! But we just need to hold out hope that someone else will join us one day.",
+      "spk": "Ayane",
+      "zh": ": 现在也许不算！但我们只需要抱着希望，总有一天会有别人加入我们。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": You’ve been saying that for two thousand years.",
+      "spk": "Sensei",
+      "zh": ": 你这句话已经说了两千年了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": And I’ll say it for two thousand more! After that though, I’m hanging up the towel and letting Ami take over.",
+      "spk": "Ayane",
+      "zh": ": 而且我还会再讲两千年！不过在那之后，我就要挂毛巾退役、让 Ami 接手了。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": God, not again. It was so hard to shake her the last time she found- Sensei, what are you doing?",
+      "spk": "Maya",
+      "zh": ": 天哪，别又来。上次她找过来的时候，甩掉她可太难了——Sensei，你在干什么？",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": I can’t do it. I can’t hug you. It’s too scary.",
+      "spk": "Sensei",
+      "zh": ": 我做不到。我没法拥抱你。太吓人了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": How are you still this pathetic?",
+      "spk": "Maya",
+      "zh": ": 你怎么到现在还是这么没出息？",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Come on, Sensei! Mommy Ayane will be nice and gentle with you! Just like she was last night.",
+      "spk": "Ayane",
+      "zh": ": 来嘛，Sensei！Ayane 妈妈会很温柔地对你哦！就像昨晚那样。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": {i}Hah...{/i}why’d you have to go and say that?",
+      "spk": "Sensei",
+      "zh": ": {i}哈……{/i}你非得说那句吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": You told me you were {i}busy{/i} last night, Sensei. I didn’t realize your plan involved {i}her.{/i} I see how it is.",
+      "spk": "Maya",
+      "zh": ": 你昨晚跟我说你{i}很忙{/i}，Sensei。我没想到你的计划里还有{i}她{/i}。我明白了。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Just wait until you find out who else was there.",
+      "spk": "Ayane",
+      "zh": ": 等你发现还有谁在场再说吧。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": You fucking didn’t! Noriko?! Again?! There’s no way she’s preferable to me!",
+      "spk": "Maya",
+      "zh": ": 你他妈没有吧！Noriko？！又来？！她怎么可能比我更合你意！",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": You’re too intense. But I will hug you now if it gets Ayane to shut the fuck up.",
+      "spk": "Sensei",
+      "zh": ": 你太强势了。不过如果抱你一下能让 Ayane 闭嘴，我现在就抱。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Ugh! Fine. But you {i}will{/i} be making it up to me once we’re through with this round of apocalyptic bullshit. ",
+      "spk": "Maya",
+      "zh": ": 呃！行吧。但等我们熬过这轮末日般的狗屁，你{i}必须{/i}补偿我。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Hug time! Hug time! Hug time!",
+      "spk": "Ayane",
+      "zh": ": 拥抱时间！拥抱时间！拥抱时间！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Ready, team?",
+      "spk": "Ayane",
+      "zh": ": 准备好了吗，队员们？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Ready.",
+      "spk": "Sensei",
+      "zh": ": 准备好了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...Ready.",
+      "spk": "Maya",
+      "zh": ": ……准备好了。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Okay...",
+      "spk": "Ayane",
+      "zh": ": 好吧......",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I wish to start over.",
+      "spk": "Ayane",
+      "zh": ": 我想重新开始。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene happy1 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy1.png",
+      "alt": "happy1"
+    },
+    {
+      "en": "scene helpme with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/helpme.png",
+      "alt": "helpme"
+    },
+    {
+      "en": "scene happy2 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy2.png",
+      "alt": "happy2"
+    },
+    {
+      "en": "scene helpme with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/helpme.png",
+      "alt": "helpme"
+    },
+    {
+      "en": "scene happy3 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy3.png",
+      "alt": "happy3"
+    },
+    {
+      "en": "scene helpme with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/helpme.png",
+      "alt": "helpme"
+    },
+    {
+      "en": "scene happy4 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy4.png",
+      "alt": "happy4"
+    },
+    {
+      "en": "scene helpme with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/helpme.png",
+      "alt": "helpme"
+    },
+    {
+      "en": "scene happy5 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy5.png",
+      "alt": "happy5"
+    },
+    {
+      "en": "scene helpme with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/helpme.png",
+      "alt": "helpme"
+    },
+    {
+      "en": "scene happy6 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy6.png",
+      "alt": "happy6"
+    },
+    {
+      "en": "scene helpme with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/helpme.png",
+      "alt": "helpme"
+    },
+    {
+      "en": "scene happy7 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy7.png",
+      "alt": "happy7"
+    },
+    {
+      "en": "scene helpme with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/helpme.png",
+      "alt": "helpme"
+    },
+    {
+      "en": "scene happy8 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy8.png",
+      "alt": "happy8"
+    },
+    {
+      "en": "scene helpme with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/helpme.png",
+      "alt": "helpme"
+    },
+    {
+      "en": "scene happy9 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/happy9.png",
+      "alt": "happy9"
+    },
+    {
+      "en": "scene fyepone9 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone9.webp",
+      "alt": "fyepone9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "zh": ": ...",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "zh": ": ...",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Is everyone still here?",
+      "spk": "Ayane",
+      "zh": ": 大家都还在吗？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Present.",
+      "spk": "Maya",
+      "zh": ": 到。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Darn. Now I can’t have Sensei tonight too.",
+      "spk": "Ayane",
+      "zh": ": 可恶。这下我今晚也没法和 Sensei 在一起了。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": He owes me. And this cycle is mine, so you’re just going to have to wait your turn.",
+      "spk": "Maya",
+      "zh": ": 他欠我的。而且这一轮归我，所以你就乖乖排队等着吧。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Sensei, are you here too?",
+      "spk": "Ayane",
+      "zh": ": Sensei，你也在吗？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "zh": ": ...",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Uhh...",
+      "spk": "Sensei",
+      "zh": ": 呃......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone10",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone10.webp",
+      "alt": "fyepone10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s weird. Your voice sounds-",
+      "spk": "Ayane",
+      "zh": ": 好奇怪。你的声音听起来——",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone11",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone11.webp",
+      "alt": "fyepone11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wha...",
+      "spk": "Ayane",
+      "zh": ": 什......",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone12",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone12.webp",
+      "alt": "fyepone12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong? Did he-",
+      "spk": "Maya",
+      "zh": ": 怎么了？他是不是——",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone13",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone13.webp",
+      "alt": "fyepone13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "zh": ": ...",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": ...",
+      "spk": "Ayane",
+      "zh": ": ...",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone14 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone14.webp",
+      "alt": "fyepone14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What the fuck happened to me?!",
+      "spk": "Sensei",
+      "zh": ": 我到底怎么了？！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh...my...God...",
+      "spk": "Ayane",
+      "zh": ": 哦……我的……天……",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Uhhhhhhhhhhh...",
+      "spk": "Maya",
+      "zh": ": 呃呃呃呃呃......",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone15 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone15.webp",
+      "alt": "fyepone15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It...appears that you...have turned back into a child.",
+      "spk": "Maya",
+      "zh": ": 看来……你……变回小孩了。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Yeah! I can tell by the fact that I have to look up at you! Why?! Where’d my adult body go?! How is anyone supposed to reach the top shelf in my house if I look like this?!",
+      "spk": "Sensei",
+      "zh": ": 废话！我要抬头看你才看得见，这点我还分得出来！为什么？！我的成年身体去哪儿了？！变成这样，我家最上面那层架子谁够得着？！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Maya...has this...happened before?",
+      "spk": "Ayane",
+      "zh": ": Maya……这种事……以前发生过吗？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": No...it certainly has not.",
+      "spk": "Maya",
+      "zh": ": 没有……绝对没有。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone16",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone16.webp",
+      "alt": "fyepone16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But I changed my mind. You can have him tonight. I...have other plans.",
+      "spk": "Maya",
+      "zh": ": 不过我改主意了。今晚他归你。我……另有安排。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": How can you make jokes at a time like this?! My life is over!",
+      "spk": "Sensei",
+      "zh": ": 这种时候你还有心情开玩笑？！我的人生完了！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone17",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone17.webp",
+      "alt": "fyepone17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Technically speaking, I’d say it’s just beginning.",
+      "spk": "Maya",
+      "zh": ": 严格来说，我觉得它才刚开始。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": What are we supposed to do now? People are obviously going to notice that Sensei is suddenly like two feet shorter and twenty years younger.",
+      "spk": "Ayane",
+      "zh": ": 现在我们该怎么办？大家肯定会注意到 Sensei 突然矮了两英尺、年轻了二十岁。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": I am going to kill myself.",
+      "spk": "Sensei",
+      "zh": ": 我要去自杀。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": But you still have your whole life ahead of you.",
+      "spk": "Maya",
+      "zh": ": 可你的人生还长着呢。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": {b}AHHHHHHHH!{/b}",
+      "spk": "Sensei",
+      "zh": ": {b}啊啊啊啊啊啊！{/b}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone18",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone18.webp",
+      "alt": "fyepone18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Awwww! You’re even {i}acting{/i} like a kid! Do you still love me, Sensei? No...Akira! Do you still love me, Akira-kun? You do, right?!",
+      "spk": "Ayane",
+      "zh": ": 哇——！你连{i}举止{/i}都像个小孩子了！你还爱我吗，Sensei？不对……Akira！你还爱我吗，Akira 君？你当然还爱，对吧？！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Yes! I love both of you! Which is one more reason I can’t stay trapped in this body!",
+      "spk": "Sensei",
+      "zh": ": 爱！你们两个我都爱！这也正是我不能困在这具身体里的又一个理由！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Ayane, I know how much you want a child for...whatever ungodly reason you’ve come up with. But I’d like to remind you that you have {i}sex{/i} with this human. You are not its mother.",
+      "spk": "Maya",
+      "zh": ": Ayane，我知道你有多想要个孩子，不管你编出什么不着调的理由。但我得提醒你，你是和这个人{i}做爱{/i}。你不是他妈。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": I’m not an {i}it!{/i} I’m me!",
+      "spk": "Sensei",
+      "zh": ": 我不是{i}它{/i}！我就是我！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone19 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone19.webp",
+      "alt": "fyepone19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How am I supposed to face anybody like this? I’m supposed to be cool and mysterious.",
+      "spk": "Sensei",
+      "zh": ": 这副样子我怎么见人？我本来该是又酷又神秘的大人。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, I certainly think you’re a bit {i}more{/i} mysterious now, if anything.",
+      "spk": "Maya",
+      "zh": ": 嗯，要我说，你现在反而{i}更{/i}神秘了一点。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": So...do you remember everything, Sensei? About the resets and...your relationships with everyone and...all that?",
+      "spk": "Ayane",
+      "zh": ": 那么……你什么都还记得吗，Sensei？关于那些重置、关于你和每个人的关系……那些？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone20",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone20.webp",
+      "alt": "fyepone20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah...I think so.",
+      "spk": "Sensei",
+      "zh": ": 嗯……我想是的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": How about everything else? You’re already more emotive than usual. Could it be like...hormones setting in? Do you...know how old you {i}feel?{/i} Are you going through {i}changes?{/i} Do you-",
+      "spk": "Ayane",
+      "zh": ": 别的呢？你现在已经比平时更情绪化了。会不会是……荷尔蒙上来了？你……知道自己{i}感觉{/i}自己多大吗？你在经历{i}变化{/i}吗？你有没有——",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone21",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone21.webp",
+      "alt": "fyepone21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Maya, help! Ayane’s not equipped for this!",
+      "spk": "Sensei",
+      "zh": ": Maya，救命！Ayane 处理不来这个！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone22 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone22.webp",
+      "alt": "fyepone22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What, and you think {i}I{/i} am? I am a known child-hater. This is one of the only hard truths about me.",
+      "spk": "Maya",
+      "zh": ": 什么，你以为{i}我{/i}处理得来？我是出了名的讨厌小孩。这是我为数不多的铁律之一。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": There’s gotta be {i}something{/i} you can do! You’re the one who knows stuff, aren’t you?!",
+      "spk": "Sensei",
+      "zh": ": 总有什么你能做的吧！你不是那个什么都懂的人吗？！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Only one thing comes to mind, sadly.",
+      "spk": "Maya",
+      "zh": ": 遗憾的是，我只想到一件事。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Well, what is it?!",
+      "spk": "Sensei",
+      "zh": ": 那是什么？！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone23",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone23.webp",
+      "alt": "fyepone23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yoshi, yoshi.",
+      "spk": "Maya",
+      "zh": ": 乖，乖。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": DON’T PAT MY HEAD!",
+      "spk": "Sensei",
+      "zh": ": 别摸我的头！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I’m pretty sure it’s a school day, Maya. How are we supposed to show him to everyone else?",
+      "spk": "Ayane",
+      "zh": ": 我记得今天是上学的日子，Maya。我们该怎么把他介绍给其他人？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Honestly? I doubt they’ll even notice.",
+      "spk": "Maya",
+      "zh": ": 说实话？我怀疑他们根本不会注意到。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone24",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone24.webp",
+      "alt": "fyepone24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}How?!{/i} Look at me! I’m a shell of my former self!",
+      "spk": "Sensei",
+      "zh": ": {i}怎么会注意不到？！{/i}看看我！我现在只剩一副空壳！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yeah...even assuming they {i}do{/i} somehow manage to overlook the change in his physical, he is {i}much{/i} louder now.",
+      "spk": "Ayane",
+      "zh": ": 是啊……就算他们{i}真的{/i}能想办法忽略他外貌上的变化，他现在也{i}吵{/i}太多了。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Yes. {i}Much{/i} louder. Enough that I want to throw him off this building.",
+      "spk": "Maya",
+      "zh": ": 对。{i}吵{/i}太多了。多到我想把他从这栋楼上扔下去。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Go ahead! I welcome it!",
+      "spk": "Sensei",
+      "zh": ": 扔吧！我求之不得！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}But,{/i} this would not be the first time that something entirely {i}abnormal{/i} has been immediately accepted due to the inner workings of the world. This {i}could{/i} just be normal to everyone else.",
+      "spk": "Maya",
+      "zh": ": {i}不过，{/i}由于这个世界的内部机制，某种完全{i}异常{/i}的东西被立刻接受，这也不是第一次了。对其他人来说，这{i}也许{/i}就是正常的。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone25",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone25.webp",
+      "alt": "fyepone25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And if it’s not?",
+      "spk": "Ayane",
+      "zh": ": 如果不是呢？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": He’s doomed until the universe decides to make him “normal” again. Whatever that means.",
+      "spk": "Maya",
+      "zh": ": 那他就完了，直到宇宙决定把他变回「正常」为止。管它是什么意思。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": You can’t let Yumi see me like this. She’s wanted to beat me up for thousands of years and now she finally {i}can.{/i}",
+      "spk": "Sensei",
+      "zh": ": 你不能让 Yumi 看到我这样。她想揍我都想了几千年了，现在她终于{i}能{/i}了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, you should have thought about that before turning back into a child.",
+      "spk": "Maya",
+      "zh": ": 嗯，你变回小孩之前就该想到这一点。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone26",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone26.webp",
+      "alt": "fyepone26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’M NOT A CHILD! I’M AN ADULT! I’M JUST TRAPPED IN THE WRONG BODY!",
+      "spk": "Sensei",
+      "zh": ": 我不是小孩！我是大人！我只是被困在了错的身体里！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": That’s life, buddy. Yoshi, yoshi.",
+      "spk": "Maya",
+      "zh": ": 这就是命啊，老兄。乖，乖。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": AAAAAAAHHHHH!",
+      "spk": "Sensei",
+      "zh": ": AAAAAAAHHHHH!",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I guess there’s...only one way to find out how everyone else sees him when you really think about.",
+      "spk": "Ayane",
+      "zh": ": 我想……真要仔细想的话，只有一个办法能知道别人到底怎么看他。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone27 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone27.webp",
+      "alt": "fyepone27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": By throwing him right into the fire?",
+      "spk": "Maya",
+      "zh": ": 把他直接扔进火里？",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": I mean, what else are we going to do? He’s kind of our responsibility now.",
+      "spk": "Ayane",
+      "zh": ": 我是说，我们还能怎么办？他现在算是我们俩的责任了。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Please don’t adopt him. He has a bad track record with moms.",
+      "spk": "Maya",
+      "zh": ": 拜托别收养他。他和「妈妈」这种角色的关系一向很糟。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone28",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone28.webp",
+      "alt": "fyepone28"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Not for long! This is my son now! And {i}I{/i} am going to treat him right!",
+      "spk": "Ayane",
+      "zh": ": 不会太久了！他现在是我儿子！而且{i}我{/i}会好好对他的！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Kill me.",
+      "spk": "Sensei",
+      "zh": ": 杀了我吧。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I still think you’re putting too much faith in the idea that this isn’t just going to be perceived as normal by everyone around us.",
+      "spk": "Maya",
+      "zh": ": 我还是觉得，你太相信「这事不会被周围所有人当成正常」这个想法了。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": It is my belief that there is a high likelihood everyone will just {i}remember{/i} Sensei as a young, obnoxious teacher who managed to secure a job despite his ill preparedness.",
+      "spk": "Maya",
+      "zh": ": 我认为很有可能，大家只会{i}记得{/i} Sensei 是个年轻又讨人厌的老师，尽管准备不足还是混到了这份工作。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": So the way he normally is! Just younger.",
+      "spk": "Ayane",
+      "zh": ": 所以他平时的样子啊！只是更年轻。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": {i}And{/i} more obnoxious, yes. In fact, I’m willing to put money on it.",
+      "spk": "Maya",
+      "zh": ": {i}而且{/i}更讨人厌，对。事实上，我愿意为此下注。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Fine. I’ll take that bet.",
+      "spk": "Ayane",
+      "zh": ": 行。这个赌我接了。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Deal.",
+      "spk": "Maya",
+      "zh": ": 成交。",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Amamiya. Makinami. What are you doing out of class and- is that a child?",
+      "spk": "Wakana",
+      "zh": ": Amamiya。Makinami。你们怎么不在教室里——还有，那是个小孩？",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone29 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone29.webp",
+      "alt": "fyepone29"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Fuck! Why am I always wrong?!",
+      "spk": "Maya",
+      "zh": ": 操！为什么我每次都猜错？！",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Makinami, language. Volume. Detention.",
+      "spk": "Wakana",
+      "zh": ": Makinami，注意用词。还有音量。去留堂。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone30",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone30.webp",
+      "alt": "fyepone30"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Fine! Anything to get me away from whatever the hell is going on here!",
+      "spk": "Maya",
+      "zh": ": 行！只要能让我离开这见鬼的场面，干什么都行！",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Hi, Miss Watabe! Yes. This is a child.",
+      "spk": "Ayane",
+      "zh": ": 你好，Watabe 老师！是的。这是个小孩。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone31",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone31.webp",
+      "alt": "fyepone31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Arakawa’s...nephew, perhaps? Does he have one of those?",
+      "spk": "Maya",
+      "zh": ": 是 Arakawa 的……侄子吧？他有那种亲戚吗？",
+      "spkColor": "#18B500"
+    },
+    {
+      "en": ": Aaaactually...",
+      "spk": "Ayane",
+      "zh": ": 其……其实吧……",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Hi, Wakana...",
+      "spk": "Sensei",
+      "zh": ": 你好啊，Wakana……",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone32",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone32.webp",
+      "alt": "fyepone32"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ew. Why does it know my name?",
+      "spk": "Wakana",
+      "zh": ": 咦。它怎么会知道我的名字？",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": Becaaaaaaause this is actually Sensei! Surprise!",
+      "spk": "Ayane",
+      "zh": ": 因——为——这其实就是 Sensei！惊喜吧！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": And why exactly should I believe such an outlandish claim?",
+      "spk": "Wakana",
+      "zh": ": 我凭什么要相信这么离谱的说法？",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": Because if you don’t, I’ll tell everyone what goes on between our entire group in the dive bar bathroom on Fridays.",
+      "spk": "Sensei",
+      "zh": ": 因为如果你不信，我就把我们整个团体周五在小酒吧洗手间里干的事全抖出去。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone33 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone33.webp",
+      "alt": "fyepone33"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, let me get this straight- you, Arakawa, and Makinami are caught up in some sort of timeloop that managed to misfire and somehow...revert Arakawa back to his younger self?",
+      "spk": "Wakana",
+      "zh": ": 那么，我理一下——你、Arakawa 和 Makinami 卷进了某种时间循环，结果循环出错，不知怎么……把 Arakawa 变回了小时候的自己？",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": What the heck do you guys do in the bathroom on Fridays?",
+      "spk": "Ayane",
+      "zh": ": 你们周五到底在洗手间里干什么啊？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": The topic at hand. Stick to it.",
+      "spk": "Wakana",
+      "zh": ": 回到正题。别跑题。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": That’s right. It happens all the time, but never like this. This is just {i}hell.{/i}",
+      "spk": "Sensei",
+      "zh": ": 没错。这种事时常发生，但从来没这样过。这简直就是{i}地狱{/i}。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Look on the bright side, Arakawa. At least now you’ll be able to act your age. Though, I regret to inform you that you’re uninvited from the Friday Night Fuckfest for the immediate future.",
+      "spk": "Wakana",
+      "zh": ": 往好处想，Arakawa。至少现在你可以做回你这个年纪该做的事了。不过我很遗憾地通知你，近期「周五之夜狂欢」就不带你了。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": That’s what it is?! How come I’ve never been invited?!",
+      "spk": "Ayane",
+      "zh": ": 就是那个？！那我怎么从来没被邀请过？！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": The same reason Arakawa can’t come anymore, obviously.",
+      "spk": "Wakana",
+      "zh": ": 显然跟 Arakawa 不能再来的理由一样。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone34",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone34.webp",
+      "alt": "fyepone34"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wakana, what am I supposed to do? I can’t teach like this.",
+      "spk": "Sensei",
+      "zh": ": Wakana，我该怎么办？这样我没法教书。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": You can’t teach normally either.",
+      "spk": "Wakana",
+      "zh": ": 你正常的时候也教不好。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": Yeah, but now I {i}really{/i} can’t.",
+      "spk": "Sensei",
+      "zh": ": 是啊，但现在我{i}真的{/i}没法教了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I’m afraid of what will happen if Ami finds out too. She’s clingy enough normally. Can you even {i}imagine{/i} how she’d act with a mini version of Sensei?",
+      "spk": "Ayane",
+      "zh": ": 我也怕 Ami 知道后会怎么样。她平时就够黏人了。你能{i}想象{/i}她对一个迷你版 Sensei 会是什么反应吗？",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": I can’t say I {i}want{/i} to. And, unfortunately, I can’t say much at all in any {i}other{/i} regard either as essentially every single part of this defies all logic.",
+      "spk": "Wakana",
+      "zh": ": 我不能说我{i}想{/i}。而且很遗憾，在{i}其他{/i}方面我也说不出什么，因为这件事的每一部分基本上都违背逻辑。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": You accepted the whole timeloop thing pretty easily, though.",
+      "spk": "Ayane",
+      "zh": ": 可你接受时间循环那套接受得挺容易的。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Only because I’ve been waiting to get sucked into some sort of Vonnegut-esque scenario my whole life. Could be worse, Arakawa. You could be on display in a Tralfamadorian zoo right now.",
+      "spk": "Wakana",
+      "zh": ": 那只是因为我这辈子一直在等自己被卷进某种冯内古特式的境况。还不算最糟，Arakawa。你现在本可能被摆在特拉法玛多人的动物园里展览。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": At least I wouldn’t have to talk to anyone if I was on display in a zoo.",
+      "spk": "Sensei",
+      "zh": ": 要真被摆在动物园里展览，至少我不用跟任何人说话。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone35",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone35.webp",
+      "alt": "fyepone35"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It’ll be okay, Sensei! I’ll take good care of you! You can even come stay in the dorm with Sana and me! That way, Ami won’t be able to tie you up and do unspeakable things to you!",
+      "spk": "Ayane",
+      "zh": ": 没事的，Sensei！我会好好照顾你！你甚至可以来宿舍跟我和 Sana 一起住！这样 Ami 就没法把你绑起来做那些说不出口的事了！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": You’ll keep me there until I turn back?",
+      "spk": "Sensei",
+      "zh": ": 你会把我留在那儿直到我变回来？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": She most assuredly won’t. Amamiya knows better than to allow a male to move into the girls’ dorm, {i}regardless{/i} of that male’s...{i}current{/i} age.",
+      "spk": "Wakana",
+      "zh": ": 她肯定不会。Amamiya 清楚得很，不能让男性住进女生宿舍，{i}不管{/i}那个男性……{i}现在{/i}多大。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": Amamiya also knows about Friday Night Fuckfest now, so she thinks Miss Watabe should let her do as she pleases or HR will hear about interpersonal workplace relationships.",
+      "spk": "Ayane",
+      "zh": ": 而且 Amamiya 现在也知道「周五之夜狂欢」了，所以她觉得 Watabe 老师该让她想怎样就怎样，否则人事部就会听说一些职场人际关系的事。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Tch. I got too caught up in the sci-fi excitement and let something slip that I shouldn’t have.",
+      "spk": "Wakana",
+      "zh": ": 啧。我太沉浸在科幻的兴奋里，说漏了不该说的话。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone36",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone36.webp",
+      "alt": "fyepone36"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Regardless, Arakawa — it is absolutely imperative that you stay {i}away{/i} from any hospitals or scientists for the immediate future. They’d have an utter field day with someone like you. You’d be dissected.",
+      "spk": "Wakana",
+      "zh": ": 总之，Arakawa，短期内你{i}绝对{/i}要远离任何医院和科学家。遇到你这样的人，他们能乐疯。你会被解剖的。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": I don’t want to be dissected! I want to be old again and have sex with girls!",
+      "spk": "Sensei",
+      "zh": ": 我不想被解剖！我想变回大人，跟女孩们做爱！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Please excuse him. He’s going through changes.",
+      "spk": "Ayane",
+      "zh": ": 请见谅。他正在经历身体变化。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I hope the next one involves keeping his mouth shut so I don’t have to hear something so unbearably unpleasant again.",
+      "spk": "Wakana",
+      "zh": ": 我希望下一个变化包括让他闭嘴，这样我就不用再听到那么让人难以忍受的话了。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": Akira, are you in here? I had something I-",
+      "spk": "Nodoka",
+      "zh": ": Akira，你在这儿吗？我有件事——",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone37 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone37.webp",
+      "alt": "fyepone37"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...............",
+      "spk": "Nodoka",
+      "zh": ": …………………",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Even in spin-offs, the door won’t stay locked...",
+      "spk": "Sensei",
+      "zh": ": 就算是外传，门也锁不住……",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": H...Heeeey, Nodoka!",
+      "spk": "Ayane",
+      "zh": ": 嗨……嗨——，Nodoka！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": I, uhh...know what it looks like, but...uhh...",
+      "spk": "Ayane",
+      "zh": ": 我，呃……我知道这看起来像什么，但……呃……",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Stop. I’ll be back in fifteen seconds.",
+      "spk": "Nodoka",
+      "zh": ": 别说了。我十五秒后回来。",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone38 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone38.webp",
+      "alt": "fyepone38"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Please don’t tell anyone! It’s suppose to stay a secret for now!",
+      "spk": "Ayane",
+      "zh": ": 拜托别告诉任何人！这事暂时要保密的！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Honestly, it might be {i}good{/i} to let Nagasawa in on this — as much as it pains me to say that. You wouldn’t have to worry about being dissected at least, Arakawa.",
+      "spk": "Wakana",
+      "zh": ": 说实话，让 Nagasawa 知道也许是{i}好事{/i}，虽然我很不情愿这么说。至少你不用再担心被解剖了，Arakawa。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone39",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone39.webp",
+      "alt": "fyepone39"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I can’t vouch for how safe you’d be in any {i}other{/i} regard though.",
+      "spk": "Wakana",
+      "zh": ": 不过{i}其他{/i}方面有多安全，我可不敢保证。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": Nodoka {i}is{/i} good at figuring things out...",
+      "spk": "Sensei",
+      "zh": ": Nodoka{i}确实{/i}很擅长把事情搞明白……",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Or{/i} you could stay away from her entirely and take the {i}safe{/i} route. You can stay by {i}my{/i} side and we can figure this out together. Like we figure everything {i}else{/i} out.",
+      "spk": "Ayane",
+      "zh": ": {i}或者{/i}你干脆离她远远的，走{i}安全{/i}路线。你留在我{i}身边{/i}，我们一起把这事弄清楚。就像我们弄清{i}别的{/i}所有事那样。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": We {i}never{/i} figure anything out, though. We’ve been doing this reset stuff for thousands of years now and have gotten {i}nowhere.{/i} Now look at me.",
+      "spk": "Sensei",
+      "zh": ": 可我们{i}从来{/i}没弄清过任何事。这套重置我们搞了几千年，还是{i}毫无进展{/i}。看看我现在这样。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone40",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone40.webp",
+      "alt": "fyepone40"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": True! But hey! On the bright side, our ages are actually closer together now! That’s gotta count for something, right?!",
+      "spk": "Ayane",
+      "zh": ": 没错！但是嘿！往好处想，我们的年龄现在更接近了！这总该算点什么吧？！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Right?",
+      "spk": "Ayane",
+      "zh": ": 对吧?",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone41 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone41.webp",
+      "alt": "fyepone41"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Dude! What’s the big deal? Why the hell did you drag me all the way to-",
+      "spk": "Otoha",
+      "zh": ": 老兄！有什么大不了的？你他妈干嘛把我一路拽到——",
+      "spkColor": "#B83A6A"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone42",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone42.webp",
+      "alt": "fyepone42"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Otoha",
+      "zh": ": ...",
+      "spkColor": "#B83A6A"
+    },
+    {
+      "en": ": I...suddenly feel very worried for some reason.",
+      "spk": "Ayane",
+      "zh": ": 我……突然莫名觉得很担心。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Nagasawa, please keep your incessant desire for chaos to a minimum and {i}stop{/i} informing others of Arakawa’s condition. He’s clearly struggling right now.",
+      "spk": "Wakana",
+      "zh": ": Nagasawa，请把你那股没完没了的制造混乱的欲望收敛一点，{i}别再{/i}把 Arakawa 的状况告诉别人。他现在明显很不好受。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": Apologies, my queen. I solemnly swear that no one else will hear a word of this from me.",
+      "spk": "Nodoka",
+      "zh": ": 抱歉，我的女王。我郑重发誓，不会再有人从我这里听到半个字。",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Ara...kawa?...",
+      "spk": "Otoha",
+      "zh": ": 荒......川？......",
+      "spkColor": "#B83A6A"
+    },
+    {
+      "en": ": That’s...Sensei?...",
+      "spk": "Otoha",
+      "zh": ": 那是……Sensei？……",
+      "spkColor": "#B83A6A"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone43 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone43.webp",
+      "alt": "fyepone43"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}Now{/i} do you see why I dragged you here?",
+      "spk": "Nodoka",
+      "zh": ": {i}现在{/i}你明白我为什么把你拽来了吧？",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": How?...What?...Explain?...",
+      "spk": "Otoha",
+      "zh": ": 怎么？……什么？……解释一下？……",
+      "spkColor": "#B83A6A"
+    },
+    {
+      "en": ": Ask questions later. {i}Act{/i} now. You may never get another chance to live out your full potential.",
+      "spk": "Nodoka",
+      "zh": ": 问题以后再说。{i}现在{/i}就动手。你可能再也不会有机会发挥你的全部潜能了。",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Timeloop. Misery. The end.",
+      "spk": "Sensei",
+      "zh": ": 时间循环。痛苦。完。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone44",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone44.webp",
+      "alt": "fyepone44"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ayane — may we {i}borrow{/i} Akira for a-",
+      "spk": "Nodoka",
+      "zh": ": Ayane——我们能{i}借{/i} Akira 一会儿——",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": No.",
+      "spk": "Ayane",
+      "zh": ": 不用。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": No?",
+      "spk": "Nodoka",
+      "zh": ": 没有吗？",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": No! You’re being super creepy right now and I don’t want you to do anything weird to him! Sensei should stay with me. Right, Miss Watabe.",
+      "spk": "Ayane",
+      "zh": ": 不行！你现在超级瘆人，我不想你对他做什么奇怪的事！Sensei 该留在我这儿。对吧，Watabe Sensei。",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": All things considered, I believe it would make the most sense for Arakawa to decide.",
+      "spk": "Wakana",
+      "zh": ": 综合来看，我觉得让 Arakawa 自己决定最合理。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone45",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone45.webp",
+      "alt": "fyepone45"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What?! Why?!",
+      "spk": "Ayane",
+      "zh": ": 什么？！为什么？！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": Well, like I was saying — Nagasawa is unfortunately more equipped to get to the root of such a complex issue than you are.",
+      "spk": "Wakana",
+      "zh": ": 嗯，就像我刚说的，很遗憾，Nagasawa 比你更有能力摸清这种复杂问题的根源。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": So while remaining with you would most assuredly be {i}safer,{/i} it should be up to Arakawa to determine the level of risk he wants to take to attempt to remedy all of this.",
+      "spk": "Wakana",
+      "zh": ": 所以，尽管留在你身边{i}肯定{/i}更安全，但该由 Arakawa 自己决定，为了尝试解决这一切，他愿意冒多大的风险。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ": What do you say, Otoha? Shall we seek a {i}remedy{/i} together?",
+      "spk": "Nodoka",
+      "zh": ": 你怎么说，Otoha？我们一起去寻个{i}解药{/i}吧？",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Nodoka...I hate you. But I also love you.",
+      "spk": "Otoha",
+      "zh": ": Nodoka……我恨你。但我也爱你。",
+      "spkColor": "#B83A6A"
+    },
+    {
+      "en": ": {i}That’s{/i} my girl.",
+      "spk": "Nodoka",
+      "zh": ": {i}这才{/i}是我的好女孩。",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone46",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone46.webp",
+      "alt": "fyepone46"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei should come with us!",
+      "spk": "Otoha",
+      "zh": ": Sensei 该跟我们一起走！",
+      "spkColor": "#B83A6A"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone47 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone47.webp",
+      "alt": "fyepone47"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! Just {i}think{/i} about this, okay?! While it’s definitely true that Nodoka is smarter than me, I have way more {i}experience{/i} with all this weird stuff! Also, I love you! Let me be your mom!",
+      "spk": "Ayane",
+      "zh": ": Sensei！你{i}想想{/i}清楚，好吗？！Nodoka 确实比我聪明，但这种怪事我{i}经验{/i}多得多！还有，我爱你！让我当你的妈妈吧！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ": A mother sounds nice and all, but I believe that Akira might benefit more from an...older sister or two at the present moment.",
+      "spk": "Nodoka",
+      "zh": ": 妈妈听着是不错，但我觉得眼下 Akira 可能更需要……一两个姐姐。",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Alternatively, you could just kill yourself.",
+      "spk": "Wakana",
+      "zh": ": 或者，你也可以干脆去死。",
+      "spkColor": "#540087"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene fyepone48",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone48.webp",
+      "alt": "fyepone48"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You’re a teacher! Aren’t you supposed to be helping us?!",
+      "spk": "Ayane",
+      "zh": ": 你是老师！你不是该帮我们吗？！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}The time has come to make a choice...{/i}",
+      "zh": "{i}做出选择的时刻到了……{/i}"
+    },
+    {
+      "en": "scene fyepone49",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fyepone49.webp",
+      "alt": "fyepone49"
+    },
+    {
+      "en": "$ renpy.pause(5, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "scene fycont",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/fycont.webp",
+      "alt": "fycont"
+    },
+    {
+      "en": "$ renpy.pause(10, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump march2025packmenu",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

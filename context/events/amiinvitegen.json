@@ -1,0 +1,220 @@
+{
+  "label": "amiinvitegen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amiinvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Ami's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Ami 的名字，等她接起来。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, [amimaster]! I was just thinking about you.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗨，[amimaster]！我刚还在想你呢。"
+    },
+    {
+      "en": ": You're literally always thinking about me, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不过你可是时时刻刻都在想我吧。"
+    },
+    {
+      "en": ": I see no problem with this.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我看这没什么问题呀。"
+    },
+    {
+      "en": ": What's up?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 怎么啦？"
+    },
+    {
+      "en": ": Gonna invite me to my own house again?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 又要邀请我去我自己家？"
+    },
+    {
+      "en": ": Yes. Would you like to come hang out at the place you are inside of right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 对。你愿意来你现在正待着的那个地方一起玩吗？"
+    },
+    {
+      "en": ": I was gonna go hang out with Maya, but I can stay here as long as you're coming home~",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我本来要去找 Maya 玩的，不过你要回家的话，我也可以留在这儿~"
+    },
+    {
+      "en": ": In that case, I'll be there shortly.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那我很快就到。"
+    },
+    {
+      "en": ": Yay!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 耶！"
+    },
+    {
+      "en": ": I'll see you soon, [amimaster]!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 待会儿见，[amimaster]！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if halloweenfive17 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene amiinvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/amiinvitehub.webp",
+      "alt": "amiinvitehub"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene amiinvitehub2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/amiinvitehub2.webp",
+      "alt": "amiinvitehub2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, what did you want to do today?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 那么，今天你想做什么？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Ami?",
+      "zh": "我该怎么跟 Ami 度过这段时间呢？"
+    },
+    {
+      "en": "menu amiinvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": "一起玩（提升好感）"
+    },
+    {
+      "en": "jump amiinviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Thighjob (Raise Lust)",
+      "zh": "腿交（提升欲望）"
+    },
+    {
+      "en": "jump amiinvitethighjob",
+      "zh": ""
+    },
+    {
+      "en": "Reverse Cowgirl (Raise Lust)",
+      "zh": "反向女上位（提升欲望）"
+    },
+    {
+      "en": "jump amiinvitereverse",
+      "zh": ""
+    },
+    {
+      "en": "Hug (Raise Lust)",
+      "zh": "拥抱（提升欲望）"
+    },
+    {
+      "en": "jump amiinvitethighjob",
+      "zh": ""
+    },
+    {
+      "en": "Hold Hands (Raise Lust)",
+      "zh": "牵手（提升欲望）"
+    },
+    {
+      "en": "jump amiinvitereverse",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": "摸头"
+    },
+    {
+      "en": "jump amiheadpat",
+      "zh": ""
+    }
+  ]
+}

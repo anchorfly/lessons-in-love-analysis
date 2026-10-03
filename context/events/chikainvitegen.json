@@ -1,0 +1,242 @@
+{
+  "label": "chikainvitegen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikainvitegen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Chika's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点下 Chika 的名字，等她接听。"
+    },
+    {
+      "en": ".........",
+      "zh": "……………"
+    },
+    {
+      "en": "......",
+      "zh": "………"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hihi~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗨嗨～"
+    },
+    {
+      "en": ": What's going on, [chikamaster]?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 怎么啦，[chikamaster]？"
+    },
+    {
+      "en": ": Trying to get me to come over?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 想让我过去吗？"
+    },
+    {
+      "en": ": Wow. It's almost like you read my mind.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哇。你简直像会读心一样。"
+    },
+    {
+      "en": ": Nahh. I was actually just about to text you to see if you wanted to hang out anyway sooo...yeah.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 没啦。我其实刚想发短信问你要不要出来玩呢，所以嘛……对。"
+    },
+    {
+      "en": ": I'll get dressed and head on over.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我换好衣服就过去。"
+    },
+    {
+      "en": ": Better yet, don't get dressed at all. Just head over now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 更好的是，干脆别穿了。现在就过来。"
+    },
+    {
+      "en": ": Nice try, loser~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 想得美，笨蛋～"
+    },
+    {
+      "en": ": I'll see you soon.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 待会儿见。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "……………"
+    },
+    {
+      "en": "......",
+      "zh": "………"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if halloweenfive17 == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikainvitehub2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikainvitehub2.webp",
+      "alt": "chikainvitehub2"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikainvitehub",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikainvitehub.webp",
+      "alt": "chikainvitehub"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heya!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗨呀！"
+    },
+    {
+      "en": ": So, what's going on tonight?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那么，今晚干嘛呢？"
+    },
+    {
+      "en": ": We're all alone, so we can do whatever we want~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 就我们俩，想干嘛就干嘛～"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "How should I spend my time with Chika?",
+      "zh": "我要怎么跟 Chika 度过这段时间呢？"
+    },
+    {
+      "en": "menu chikainvmenu:",
+      "zh": ""
+    },
+    {
+      "en": "Hang Out (Raise Affection)",
+      "zh": "一起玩（提升好感度）"
+    },
+    {
+      "en": "jump chikainviteaff",
+      "zh": ""
+    },
+    {
+      "en": "Almost-Fellatio (Raise Lust)",
+      "zh": "差点口交（提升欲望）"
+    },
+    {
+      "en": "jump chikainvitelicking",
+      "zh": ""
+    },
+    {
+      "en": "Handjob (Raise Lust)",
+      "zh": "用手（提升欲望）"
+    },
+    {
+      "en": "jump chikainvitehandjob",
+      "zh": ""
+    },
+    {
+      "en": "Missionary Sex (Raise Lust)",
+      "zh": "传教士体位（提升欲望）"
+    },
+    {
+      "en": "jump chikainvitemissionary",
+      "zh": ""
+    },
+    {
+      "en": "Almost-Hug (Raise Lust)",
+      "zh": "差点拥抱（提升欲望）"
+    },
+    {
+      "en": "jump chikainvitelicking",
+      "zh": ""
+    },
+    {
+      "en": "Actually Hug (Raise Lust)",
+      "zh": "真的拥抱（提升欲望）"
+    },
+    {
+      "en": "jump chikainvitehandjob",
+      "zh": ""
+    },
+    {
+      "en": "Hug Hard (Raise Lust)",
+      "zh": "用力抱（提升欲望）"
+    },
+    {
+      "en": "jump chikainvitemissionary",
+      "zh": ""
+    },
+    {
+      "en": "Headpat",
+      "zh": "摸头"
+    },
+    {
+      "en": "jump chikaheadpat",
+      "zh": ""
+    }
+  ]
+}

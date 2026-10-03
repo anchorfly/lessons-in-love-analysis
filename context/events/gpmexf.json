@@ -1,0 +1,476 @@
+{
+  "label": "gpmexf",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexf == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexf1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf1.webp",
+      "alt": "gpmexf1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexf2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf2.webp",
+      "alt": "gpmexf2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexf1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf1.webp",
+      "alt": "gpmexf1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexf2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf2.webp",
+      "alt": "gpmexf2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Holy smokes! These flowers are so huge and fragrant! And so beautiful that I only {i}kind{/i} of want to set this field on fire.",
+      "spk": "Amy",
+      "zh": ": 我的天！这些花又大又香！而且美到我只{i}有那么一点{/i}想把这整片田野点着。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Think about the frog, Amy. I can’t imagine he’d be very happy knowing that the meadow inside of his stomach was set ablaze by a girl with only half of her appendages.",
+      "spk": "Sensei",
+      "zh": ": 想想那只青蛙，Amy。我可想象不出，知道自己肚子里的草地被一个只剩一半肢体的女孩点着了，他会多高兴。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, if you won’t let me set anything on fire, what if we just frolicked together?",
+      "spk": "Amy",
+      "zh": ": 那好吧，既然你不让我点火，那我们干脆一起在草地上撒欢怎么样？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh! Or we could have a picnic! Some of these flowers look really tasty, right? Like that big triangular one off in the distance.",
+      "spk": "Amy",
+      "zh": ": 哦！或者我们可以野餐！有些花看起来真的很好吃，对吧？比如远处那个大大的三角形。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": The tree? You can’t eat trees, Amy.",
+      "spk": "Sensei",
+      "zh": ": 那棵树？树不能吃，Amy。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, really? That’s sad. They look so tasty. And I always find myself enjoying triangular food the most.",
+      "spk": "Amy",
+      "zh": ": 哦，真的？好可惜。它们看起来那么好吃。而且我向来最喜欢吃三角形的食物。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Like...pizza? I’m struggling to really think of any other triangular food at the moment.",
+      "spk": "Sensei",
+      "zh": ": 比如……披萨？我现在真想不出还有别的什么三角形食物。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": There are those little sandwiches people serve you at special events too! Which, come to think of it, we should probably be eating right now!",
+      "spk": "Amy",
+      "zh": ": 还有那种在特别活动上招待的小三明治！说起来，我们现在大概就该在吃那个！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What kind of grand opening doesn’t come with tiny triangular sandwiches to- oh!",
+      "spk": "Amy",
+      "zh": ": 哪有开业典礼不配小三明治来——哦！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": They must {i}want{/i} us to eat the trees! Or maybe the sandwiches are growing on the trees!",
+      "spk": "Amy",
+      "zh": ": 他们肯定是{i}想{/i}让我们吃那些树！或者说不定三明治就长在树上！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexf3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf3.webp",
+      "alt": "gpmexf3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {size=-10}Come on, Akira! Let’s go check together!{/size}",
+      "spk": "Amy",
+      "zh": ": {size=-10}来嘛，Akira！我们一起去看看！{/size}",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Sandwiches don’t grow on trees, Amy.",
+      "spk": "Sensei",
+      "zh": ": 三明治不长在树上，Amy。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {size=-10}But this isn’t a normal tree! And I think it’s reasonable to assume that some of the bugs swallowed by the frog could get stuck on them since they’re the pointiest thing around!{/size}",
+      "spk": "Amy",
+      "zh": ": {size=-10}但这可不是普通的树！而且我觉得可以合理假设，被青蛙吞下去的虫子有些会卡在上面，因为它们是附近最尖的东西！{/size}",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I don’t want to eat bugs, though.",
+      "spk": "Sensei",
+      "zh": ": 不过我不想吃虫子。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexf4 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf4.webp",
+      "alt": "gpmexf4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why? They’re super good for you. And they’ll do wonders for what’s happening to your skin.",
+      "spk": "Amy",
+      "zh": ": 为什么？它们对你特别有好处。而且对你皮肤上正在发生的事会有奇效。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Wait, what’s happening to my skin?",
+      "spk": "Sensei",
+      "zh": ": 等等，我皮肤怎么了？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Nothing {i}bad!{/i} You’re just becoming more like me the longer you spend in here.",
+      "spk": "Amy",
+      "zh": ": 不是{i}坏事！{/i}你只是在这儿待得越久，就越变得像我。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Like, who knows? Maybe soon, I’ll have to go into your mouth and remove some of {i}your{/i} teeth as well! Hahah!",
+      "spk": "Amy",
+      "zh": ": 谁知道呢？说不定很快我也得钻进你嘴里，把{i}你{/i}的牙也拔掉几颗！哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I guess it wouldn’t be {i}that{/i} bad becoming more like you. I {i}am{/i} really enjoying my time in the mall so far.",
+      "spk": "Sensei",
+      "zh": ": 我想变得像你也不算{i}那么{/i}糟。到目前为止我在商场里确实{i}很{/i}开心。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Right?! Like, it already {i}had{/i} everything a person could ever need, and now we’ve got a whole {i}other{/i} section that feels just like some other world!",
+      "spk": "Amy",
+      "zh": ": 对吧？！它本来就{i}有{/i}一个人可能需要的所有东西，而现在我们又多了一整块{i}另外的{/i}区域，感觉就像另一个世界！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": To think that this place is still growing even {i}now...{/i}",
+      "spk": "Amy",
+      "zh": ": 想想这地方{i}现在{/i}都还在生长……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It just makes me so happy.",
+      "spk": "Amy",
+      "zh": ": 这真让我太开心了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": But the best part of all is being able to experience it with you.",
+      "spk": "Amy",
+      "zh": ": 但最棒的部分是能跟你一起体验它。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...",
+      "spk": "Amy",
+      "zh": ": ...",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexf5",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf5.webp",
+      "alt": "gpmexf5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You wouldn’t want to, like...",
+      "spk": "Amy",
+      "zh": ": 你不会想，那个……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": {i}Kiss{/i} me...",
+      "spk": "Amy",
+      "zh": ": {i}吻{/i}我吧……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Would you?",
+      "spk": "Amy",
+      "zh": ": 真的会吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...",
+      "spk": "Amy",
+      "zh": ": ...",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexf2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf2.webp",
+      "alt": "gpmexf2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": S-Sorry! That was stupid of me. The first date is still too early for stuff like that, obviously! Hahahah...haha........hah.",
+      "spk": "Amy",
+      "zh": ": 抱……抱歉！我太蠢了。第一次约会做那种事当然还太早！哈哈哈……哈哈…………哈。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Aaaaaaaah!",
+      "spk": "Amy",
+      "zh": ": Aaaaaaaah!",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexf3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexf3.webp",
+      "alt": "gpmexf3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {size=-10}I’m so embarrassed! I’ll be over near the tree if you need me!{/size}",
+      "spk": "Amy",
+      "zh": ": {size=-10}我太丢脸了！如果你需要我，我就在树那边！{/size}",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Amy’s really cute when she wants something...",
+      "zh": "Amy 想要什么东西的时候真的很可爱……"
+    },
+    {
+      "en": "But there are people outside of here...where {i}I{/i} come from...that I need to be thinking about instead.",
+      "zh": "但这里外面……{i}我{/i}来的那个地方……有我需要去想的人。"
+    },
+    {
+      "en": "I can’t get {i}too{/i} distracted or I’ll never want to leave.",
+      "zh": "我不能{i}太{/i}分心，不然我就再也不想离开了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {size=-10}J...Just let me know when you’re ready to go somewhere else!{/size}",
+      "spk": "Amy",
+      "zh": ": {size=-10}你……你准备好去别的地方就告诉我一声！{/size}",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexf = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump",
+      "zh": "",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexd",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump",
+      "zh": "",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexi",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "lump",
+      "zh": "土包",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexh",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "stump",
+      "zh": "树桩",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexa",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

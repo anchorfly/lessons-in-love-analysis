@@ -1,0 +1,464 @@
+{
+  "label": "gpmexm",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexm == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexm1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexm1.webp",
+      "alt": "gpmexm1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexm2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexm2.webp",
+      "alt": "gpmexm2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexm1 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexm1.webp",
+      "alt": "gpmexm1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexm2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexm2.webp",
+      "alt": "gpmexm2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Akira! Are you okay down there?! You fell into a mysterious hole out of seemingly nowhere!",
+      "spk": "Amy",
+      "zh": ": Akira！你在下面没事吧？！你不知怎么就掉进了一个神秘的洞里！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I could have sworn I felt somebody push me-",
+      "spk": "Sensei",
+      "zh": ": 我敢发誓我感觉有人推了我——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Nuh-uh! I saw it with my own eyes! It was like you forgot how to walk all of a sudden! Super scary stuff!",
+      "spk": "Amy",
+      "zh": ": 才不是！我亲眼看到的！就像你突然忘了怎么走路一样！超吓人的！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Just hold on a second! I’ll come and-",
+      "spk": "Amy",
+      "zh": ": 就等一下！我来——",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexm3 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexm3.webp",
+      "alt": "gpmexm3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ack!",
+      "spk": "Amy",
+      "zh": ": 呃啊！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy? Are you okay?",
+      "spk": "Sensei",
+      "zh": ": Amy？你没事吧？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexm4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexm4.webp",
+      "alt": "gpmexm4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes. Just pretend you didn’t see that, please.",
+      "spk": "Amy",
+      "zh": ": 没事。就当你没看到，拜托。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Did someone push you too?",
+      "spk": "Sensei",
+      "zh": ": 也有人推了你？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": You know, now that you mention it, I think so! I wonder if it’s the same person who keeps pushing all of my ex-boyfriends into various holes?",
+      "spk": "Amy",
+      "zh": ": 你知道吗，你这么一说，我觉得是的！不知道是不是同一个人，一直在把我那些前男友推进各种洞里？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Wait, that happened more than once?",
+      "spk": "Sensei",
+      "zh": ": 等等，那种事发生过不止一次？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": This place is crazy, isn’t it? What do you think all of the water they’re keeping down here is for?",
+      "spk": "Amy",
+      "zh": ": 这地方真疯，对吧？你觉得他们在这下面存的那些水是干什么用的？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You didn’t answer my question...",
+      "spk": "Sensei",
+      "zh": ": 你没回答我的问题……",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Ooooh! There’s an echo when you talk too! Creepy...",
+      "spk": "Amy",
+      "zh": ": 哦哦哦！你说话也有回声！好瘆人……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": How are we supposed to get out, though? The ladder’s all the way up there.",
+      "spk": "Sensei",
+      "zh": ": 不过我们该怎么出去？梯子在上面好远的地方。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": There’s probably some kind of maintenance tunnel or something. It’s unfair to force maintenance workers to dive in just to check up on this place.",
+      "spk": "Amy",
+      "zh": ": 大概有什么维修隧道之类的。逼维修工潜水进来检查这地方也太不公平了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s gotta be some sort of reservoir, right? Like, maybe this is special water they use to take care of all of the plants?",
+      "spk": "Amy",
+      "zh": ": 这里肯定是某种蓄水池吧？比如，说不定这是他们用来养所有植物的特殊水？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Or maybe it’s part of the frog’s digestive system and we’re about to become nutrients.",
+      "spk": "Sensei",
+      "zh": ": 或者它是青蛙消化系统的一部分，而我们马上就要变成养分了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oof. That’d be pretty bad, huh? Not exactly the ending to a date {i}I{/i} had in mind, for sure.",
+      "spk": "Amy",
+      "zh": ": 哎哟。那可挺糟的，是吧？肯定不是{i}我{/i}脑子里约会的那种结局。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": But I guess since we might be on the brink of death, there’s nothing for us to do but take off each other’s clothes and go to town! Oh well!",
+      "spk": "Amy",
+      "zh": ": 不过我想，既然我们可能快死了，那我们除了脱光彼此的衣服放开手脚大干一场也没别的事可做了！算了！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": There’s gotta be a way out of here somewhere...",
+      "spk": "Sensei",
+      "zh": ": 这附近一定有出去的路……",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexm5",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexm5.webp",
+      "alt": "gpmexm5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Or I can just dunk myself in the water again until my heart stops beating so fast. That works too.",
+      "spk": "Amy",
+      "zh": ": 或者我可以再把自己泡进水里，泡到心跳不那么快为止。那样也行。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Do you think we should split up and look?",
+      "spk": "Sensei",
+      "zh": ": 你觉得我们要不要分头去找？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexm4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexm4.webp",
+      "alt": "gpmexm4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No. In fact, I’ve never {i}not{/i} thought something so hard in my life.",
+      "spk": "Amy",
+      "zh": ": 不要。事实上，我这辈子从没这么用力地{i}反对{/i}过一件事。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You can’t leave me alone in here, Akira! I’m afraid of the dark!",
+      "spk": "Amy",
+      "zh": ": 你不能把我一个人留在这儿，Akira！我怕黑！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Since when?",
+      "spk": "Sensei",
+      "zh": ": 从什么时候开始的？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Always! My eyesight is poor enough as-is! I always just walk into stuff and it’s really not great for my self-esteem {i}or{/i} skull.",
+      "spk": "Amy",
+      "zh": ": 一直都怕！我视力本来就够差了！我总是撞到东西，这对我的自尊{i}和{/i}头骨都不太好。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": The mall is kind of dark too, though. And you seem totally fine up there.",
+      "spk": "Sensei",
+      "zh": ": 可商场里也挺暗的。而你在上面看起来完全没事。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yeah, because I remembered the layout! I’m still scared of the dark! But I’d...I’d probably be a little {i}less{/i} scared if you like...latched arms with me or something.",
+      "spk": "Amy",
+      "zh": ": 对，因为我记得布局！我还是怕黑！不过如果你……你像……挽着我的胳膊之类的，我大概会{i}没那么{/i}怕。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Or just...gave me a piggyback ride. I think that’d probably help too.",
+      "spk": "Amy",
+      "zh": ": 或者……干脆背着我。我觉得那样大概也有用。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Aww, man! It’s such a huge inconvenience that we wound up all alone down here together! I seriously can’t believe somebody would just {i}push{/i} us like that!",
+      "spk": "Amy",
+      "zh": ": 哎呀，天哪！我们居然就这么孤零零地一起掉到下面来了，真是太不方便了！我真不敢相信有人会这么{i}推{/i}我们！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Oh, I think I see a door behind you.",
+      "spk": "Sensei",
+      "zh": ": 哦，我觉得我看到你身后有扇门。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No you don’t. There’s no way out. We’re being digested, remember?",
+      "spk": "Amy",
+      "zh": ": 你没看到。没有出路。我们正在被消化，记得吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, come on. Let’s see what else we can find.",
+      "spk": "Sensei",
+      "zh": ": Amy，走吧。我们看看还能找到什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I can’t! I’m feeling faint. I need to rest somewhere. Can we sit down, Akira? You can help keep my head above the water by letting me rest it on you. If you don’t, I’ll drown and die.",
+      "spk": "Amy",
+      "zh": ": 我不行！我有点晕。我需要找个地方休息。我们能坐下吗，Akira？你可以让我把头靠在你身上，帮我保持头在水面以上。如果你不让我靠，我就会淹死。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Just a little further, Amy. You can rest your head on me once we’re no longer at risk of being digested.",
+      "spk": "Sensei",
+      "zh": ": 再走一小段，Amy。等我们不再有被消化的风险，你就可以把头靠在我身上。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": But we’re always at risk of that.",
+      "spk": "Amy",
+      "zh": ": 可我们一直都有那个风险啊。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What?",
+      "spk": "Sensei",
+      "zh": ": 什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Nothing! Just another rumor. Hahah!",
+      "spk": "Amy",
+      "zh": ": 没什么！又是一个传言而已。哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": But you said-",
+      "spk": "Sensei",
+      "zh": ": 可你说了——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Come on, Akira! Last one out of the reservoir has to kiss the other person! Wooo!",
+      "spk": "Amy",
+      "zh": ": 来嘛，Akira！最后爬出蓄水池的人得亲另一个！哇哦！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexm = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "don’t do it",
+      "zh": "别这么做",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexa",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "explore the frog",
+      "zh": "探索青蛙",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexf",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "lie down",
+      "zh": "躺下",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexi",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "escape",
+      "zh": "逃出去",
+      "opt": true
+    },
+    {
+      "en": "jump gpmc",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

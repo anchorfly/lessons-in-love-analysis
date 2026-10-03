@@ -1,0 +1,481 @@
+{
+  "label": "gpmexi",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexi == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexi1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi1.webp",
+      "alt": "gpmexi1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexi2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi2.webp",
+      "alt": "gpmexi2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexi1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi1.webp",
+      "alt": "gpmexi1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexi2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi2.webp",
+      "alt": "gpmexi2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Holy smokes! Is that decrepit and forgotten rectangle over there what I {i}think{/i} it is?",
+      "spk": "Amy",
+      "zh": ": 我的天！那边那个破旧又被遗忘的长方形，是不是我{i}以为{/i}的那个东西？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What do you think it is?",
+      "spk": "Sensei",
+      "zh": ": 你觉得它是什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Cheese!",
+      "spk": "Amy",
+      "zh": ": 茄子！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Then no, Amy. I believe that is a door.",
+      "spk": "Sensei",
+      "zh": ": 那就不是，Amy。我认为那是一扇门。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Ah, you know what? Now that I’m looking a little closer, I can definitely see it.",
+      "spk": "Amy",
+      "zh": ": 啊，你知道吗？我现在凑近一点看，确实能看出来了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Guess I’m just a little too hungry to be looking at rectangles! Hahaha!",
+      "spk": "Amy",
+      "zh": ": 看来我只是太饿了，饿到看不了长方形！哈哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Well, this is a mall. So we’ll probably bump into a concession stand sooner or later.",
+      "spk": "Sensei",
+      "zh": ": 嗯，这里是商场。所以我们迟早会碰到一个餐饮摊的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, there’s no need!",
+      "spk": "Amy",
+      "zh": ": 哦，没必要！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexi3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi3.webp",
+      "alt": "gpmexi3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Remember that plaque I read when we first got here? It said the entire Blissful Biosphere is edible! Except for the parts that aren’t.",
+      "spk": "Amy",
+      "zh": ": 记得我们刚到的时候我读的那块牌子吗？上面说整个极乐生物圈都是可以吃的！除了那些不能吃的部分。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It never really specified what those parts are, though. So I guess there’s a little bit of guessing involved.",
+      "spk": "Amy",
+      "zh": ": 不过它从没明确说那些部分是哪些。所以我想得稍微猜一猜。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I imagine flowers should be safe, right? They’re made of organic matter, aren’t they?",
+      "spk": "Amy",
+      "zh": ": 我猜花应该是安全的，对吧？它们是有机物做的，不是吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Sure, but so are humans and I wouldn’t recommend eating them.",
+      "spk": "Sensei",
+      "zh": ": 当然，但人也是有机物，而我不会推荐吃人。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I mean, if you’re {i}volunteering{/i} to let me eat you, I can promise I’d only take a {i}little{/i} bite. Of something that would grow back! Hahaha!",
+      "spk": "Amy",
+      "zh": ": 我是说，如果你{i}自愿{/i}让我吃你，我可以保证我只咬{i}一小口{/i}。咬会重新长出来的地方！哈哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I wasn’t volunteering for that at all. In fact, that’s basically the opposite of what I said.",
+      "spk": "Sensei",
+      "zh": ": 我根本没有自愿那个。事实上，那跟我说的基本上正好相反。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Aww, really? But I’d let you eat whatever part of me you’d want if you were starving! I bet it would slide right off without any issue either!",
+      "spk": "Amy",
+      "zh": ": 哎呀，真的？但如果你快饿死了，我会让你吃我身上你想吃的任何部位！我打赌它还会毫无问题地整块滑下来！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’ll just wait until we find a food court. But you can go ahead and eat the flowers if it makes you happy.",
+      "spk": "Sensei",
+      "zh": ": 我还是等到我们找到美食广场吧。但如果吃花让你开心，你可以去吃。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Okay! Wait right there. I’m gonna find a really big one!",
+      "spk": "Amy",
+      "zh": ": 好！你在这儿等着。我去找一朵特别大的！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexi1 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi1.webp",
+      "alt": "gpmexi1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Amy runs off and starts picking flowers out of the ground with her teeth. And I can’t help but take pride in the fact that her dental hygiene is what it is because of me.",
+      "zh": "Amy 跑开了，开始用牙把花从地里拔出来。而我不禁为她如今的牙齿卫生状况是由我造成的而感到自豪。"
+    },
+    {
+      "en": "You’re welcome, Amy. I hope you enjoy the flora.",
+      "zh": "不用谢，Amy。希望你享用这些植物。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Akira! Akira! I found one! I’m gonna take a bite out of it! Are you ready?!",
+      "spk": "Amy",
+      "zh": ": Akira！Akira！我找到一朵了！我要咬一口！你准备好了吗？！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Why would I need to be ready? We don’t share a-",
+      "spk": "Sensei",
+      "zh": ": 我为什么需要准备好？我们又没共享一个——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexi4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi4.webp",
+      "alt": "gpmexi4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Woaaaaaaah........",
+      "spk": "Sensei",
+      "zh": ": Woaaaaaaah........",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Whaaaaaat’s.......haaaaappening??????",
+      "spk": "Sensei",
+      "zh": ": 到……底……发……生……什……么……了？？？？？？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexi5",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi5.webp",
+      "alt": "gpmexi5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Akiraaaaaaa!!!! The floooower was a hallucinogeeeeeniiiiic!!!!!",
+      "spk": "Amy",
+      "zh": ": Akiraaaaaaa！！！！那朵花花花花是致幻剂啊啊啊啊啊！！！！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Loooooook at my skiiiiiiin! It’s so briiiiiiight!",
+      "spk": "Amy",
+      "zh": ": 快看我的皮肤肤肤肤！好亮亮亮亮啊！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": But...why am I high too?! That’s not how this is supposed to work!",
+      "spk": "Sensei",
+      "zh": ": 可……为什么我也嗨了？！这不该是这么运作的！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": It must be a Room of Shared Consumption! I thought these were illegal! There’s probably some kind of frog law that allows it!",
+      "spk": "Amy",
+      "zh": ": 这一定是「共享摄食室」！我还以为这些是非法的！大概有什么青蛙法律允许它吧！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": A Room of...Shaaaaared Consumption?",
+      "spk": "Sensei",
+      "zh": ": 「共享……享享享摄食室」？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": That’s right! A few decades ago, the government started cracking down on drugs {i}really{/i} hard! But it was making too many people sad, so they created a new type of business as a solution!",
+      "spk": "Amy",
+      "zh": ": 没错！几十年前，政府开始{i}非常{/i}严厉地打击毒品！但那让太多人难过，所以他们创造了一种新型生意作为解决办法！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": The Room of Shared Consumption is a small enclosed space where everyone’s internal systems are linked. Meaning if one person eats or drinks something, everyone else in the room shares the benefits!",
+      "spk": "Amy",
+      "zh": ": 共享摄食室是一个封闭的小空间，里面所有人的内部系统都是连通的。也就是说，如果一个人吃了或喝了什么，房间里的其他人都会共享它的效果！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It helped solve the overcrowding of orphanages too when the government bought up basically every single child and strapped them all to special chairs inside of these rooms.",
+      "spk": "Amy",
+      "zh": ": 它还顺便解决了孤儿院过度拥挤的问题，当时政府几乎把所有孩子都买了下来，把他们绑在这些房间里的特制椅子上。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": After that, they’d feed them all {i}types{/i} of drugs on an hourly basis and anyone who entered the room could share the effects of it without worrying about the long-term effects on their bodies.",
+      "spk": "Amy",
+      "zh": ": 在那之后，他们每小时都给这些孩子喂{i}各种{/i}毒品，而任何进入房间的人都能共享它的效果，还不用担心对自己身体有长期影响。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Overdoses dropped by nearly 100%%! The only downside was it became harder for couples to adopt children since all the orphans were gone. Cool, right?",
+      "spk": "Amy",
+      "zh": ": 用药过量的案例下降了将近 100%%！唯一的缺点是，因为孤儿全没了，夫妻想收养孩子变得更难了。很酷吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I guess. I’m starting to understand why those rooms were outlawed, though.",
+      "spk": "Sensei",
+      "zh": ": 大概吧。不过我开始明白那些房间为什么被禁了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexi2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexi2.webp",
+      "alt": "gpmexi2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah. Not exactly the most morally great thing humans have ever done. It beats the vore room, though!",
+      "spk": "Amy",
+      "zh": ": 是啊。不算是人类做过的最道德高尚的事。不过总比「吞食室」强！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": The what?",
+      "spk": "Sensei",
+      "zh": ": 什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I don’t want to talk about it. I learned too many things about myself that day.",
+      "spk": "Amy",
+      "zh": ": 我不想谈那个。那天我对自己了解到了太多东西。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...",
+      "spk": "Amy",
+      "zh": ": ...",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Are you still high?",
+      "spk": "Amy",
+      "zh": ": 你还嗨着吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": No, I think I’m good now.",
+      "spk": "Sensei",
+      "zh": ": 不，我想我现在好了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Great! Let’s keep going then!",
+      "spk": "Amy",
+      "zh": ": 太好了！那我们继续走吧！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexi = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go",
+      "zh": "走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexg",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "keep going",
+      "zh": "继续走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexc",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "proceed",
+      "zh": "前进",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexm",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

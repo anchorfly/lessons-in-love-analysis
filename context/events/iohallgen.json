@@ -1,0 +1,137 @@
+{
+  "label": "iohallgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label iohallgen:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene iosummer2hallgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/iosummer2hallgen.webp",
+      "alt": "iosummer2hallgen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene iohall10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/iohall10.webp",
+      "alt": "iohall10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, Sensei. What are you up to?",
+      "spk": "Io",
+      "spkColor": "#BBE3A1",
+      "zh": ": 嘿，Sensei。你在忙什么呢？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I spend the night in the hallway with Io.",
+      "zh": "我和 Io 在走廊里待了一晚上。"
+    },
+    {
+      "en": "It isn't a particularly exciting time, but it's a time nonetheless.",
+      "zh": "这段时间算不上多有意思，但好歹也是一段时光。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "We talk more about potential non-college plans for her and I'm, once again, surprised by how much she seems to know about post-[high_school] life.",
+      "zh": "我们又聊了些她不上大学之后的打算，而我再一次惊讶于她对高中毕业后的生活竟了解得如此之多。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Eventually, it gets late and I decide to head back.",
+      "zh": "最后天色已晚，我决定回去了。"
+    },
+    {
+      "en": "Io has some stuff she wants to do tonight anyway, so we mutually part ways and I quickly find myself on the way back home...",
+      "zh": "Io 今晚本来也有些自己的事要做，于是我们分头行动，我很快便踏上了回家的路……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ io_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Io's affection has increased to [io_love]!{/i}",
+      "zh": "{i}Io 的好感度提升到了 [io_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

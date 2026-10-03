@@ -1,0 +1,139 @@
+{
+  "label": "churchgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label churchgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene yasuchurchgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/yasuchurchgen.webp",
+      "alt": "yasuchurchgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way through the late night smog of the urban district and wind up inside one of the worst places in Kumon-mi.",
+      "zh": "我穿过城区深夜的烟雾，最后走进了 Kumon-mi 最糟糕的地方之一。"
+    },
+    {
+      "en": "Yasu greets me with outstretched arms, as if wanting to embrace me.",
+      "zh": "Yasu 张开双臂迎接我，像是想拥抱我。"
+    },
+    {
+      "en": "But the second I move closer to her, she jumps back and begins to laugh maniacally.",
+      "zh": "可我一靠近，她就跳了回去，开始疯笑起来。"
+    },
+    {
+      "en": "Apparently, she does not feel the presence or the warmth of her god tonight, so physical contact is strictly forbidden.",
+      "zh": "看来她今晚感受不到她的神的存在与温暖，所以身体接触是绝对禁止的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "I'm not really sure what I was expecting, to be totally honest. But I'm not really all that fond of hugging anyway.",
+      "zh": "说实话，我也不太确定自己本来在期待什么。反正我也不是特别喜欢拥抱。"
+    },
+    {
+      "en": "If the two of us are going to touch, I'd prefer it to be as loveless and passionately violent as possible.",
+      "zh": "如果我们俩非要接触，我倒希望它尽可能没有爱意、只有激烈的暴力。"
+    },
+    {
+      "en": "There is no place for {s}God{/s} god in my relationship with her, despite what she both wants and believes.",
+      "zh": "在我和她之间的关系里，{s}上帝{/s} 神没有立足之地——无论她多么想要、多么相信。"
+    },
+    {
+      "en": "But still, I continue to sate her appetite to be heard and swallow each and every faithful lie she spits out at me.",
+      "zh": "但我还是继续满足她「想被听见」的胃口，把她吐给我的每一句虔诚的谎言都咽下去。"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I'm a little upset that this includes hugging, but I still feel kind of weird about hugging Yasu anyway...so I guess it's okay.",
+      "zh": "其中也包括拥抱，这让我有点不爽，不过我本来就对抱 Yasu 这件事感觉怪怪的……所以也算还行。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{s}Praise be.{/s}",
+      "zh": "{s}赞美主。{/s}"
+    },
+    {
+      "en": "I go home.",
+      "zh": "我回家了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yasu_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Yasu's affection has increased to [yasu_love]!{/i}",
+      "zh": "{i}Yasu 的好感度提升到了 [yasu_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

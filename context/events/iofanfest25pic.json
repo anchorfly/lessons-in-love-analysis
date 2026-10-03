@@ -1,0 +1,751 @@
+{
+  "label": "iofanfest25pic",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iofanfest25nude",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/subscribestar/images2/iofanfest25nude.png",
+      "alt": "iofanfest25nude"
+    },
+    {
+      "en": "$ renpy.pause ()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Would you like to respond?",
+      "zh": "要回复吗?"
+    },
+    {
+      "en": "Yes",
+      "zh": "愿意。",
+      "opt": true
+    },
+    {
+      "en": "What would you like to say?",
+      "zh": "你想说什么?"
+    },
+    {
+      "en": "You're going to choke",
+      "zh": "你会呛到的。",
+      "opt": true
+    },
+    {
+      "en": ": {i}Io, you're going to choke.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}Io，你会呛到的。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Sometimes, I wish I would.{/i}",
+      "spk": "Io",
+      "zh": ": {i}有时候，我倒希望会。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I'm kind of busy right now, so just pretend I said something about how important it is for you to stay alive here.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我现在有点忙，你就当我说了些「你在这里活着很重要」之类的话吧。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Busy doing what? I bought you fries.{/i}",
+      "spk": "Io",
+      "zh": ": {i}忙什么？我给你买了薯条。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Picking up an entire forest worth of lumber because my wife wants to add another room to the house.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}在搬够盖一整座森林的木材，因为我老婆想给房子再加一间屋。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Oh, I forgot that was today :O{/i}",
+      "spk": "Io",
+      "zh": ": {i}哦，我忘了是今天了 :O{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}More fries for me.{/i}",
+      "spk": "Io",
+      "zh": ": {i}那薯条归我了。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Thank you, husband. You will soon reap the benefits of my wiener practice.{/i}",
+      "spk": "Io",
+      "zh": ": {i}谢谢你，老公。你很快就会尝到我练习香肠的成果。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}You've been saying that for like ten years now and I have yet to reap anything at all.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}这话你都说了快十年了，我到现在什么成果都没尝到。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I need more practice. I keep biting the wiener in half and if I do that to you, you'll get mad at me and file for divorce.{/i}",
+      "spk": "Io",
+      "zh": ": {i}我还得多练。我总是把香肠咬成两半，要是我对你这么干，你会生气然后申请离婚。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I can't risk you taking half of my lumber. You need to stay married to me until the annex is finished at least.{/i}",
+      "spk": "Io",
+      "zh": ": {i}我可不能冒险让你分走我一半木材。至少得等那间附楼盖完，你才能跟我离婚。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Am I allowed to know what it's for yet? Or is that still a secret for some reason?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我现在能知道那是用来干什么的吗？还是说因为某种原因还得保密？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I'll tell you when it's done. It's supposed to be a surprise.{/i}",
+      "spk": "Io",
+      "zh": ": {i}等做完我就告诉你。本来是想给你个惊喜。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Also, don't ask Uta because she'll spill the beans. You know how she is with beans.{/i}",
+      "spk": "Io",
+      "zh": ": {i}还有，别去问 Uta，她会说漏嘴。你知道她跟「豆子」是什么关系。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}What does that even mean?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那到底是什么意思？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}She just always spills them. What do you want from me?{/i}",
+      "spk": "Io",
+      "zh": ": {i}她就是老把它们洒出来啊。你还想让我怎么样？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Some more wiener practice pictures would be nice.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}再来几张练习香肠的照片就好了。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I would under normal circumstances, but I just bit it in half again. What is wrong with me?{/i}",
+      "spk": "Io",
+      "zh": ": {i}正常情况下我会拍，但我刚又把它咬成两半了。我到底有什么毛病？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}A lot. But your massive list of flaws is why we work so well together. You're the only other person who can keep up with me in that department.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}毛病多了。可正是你那一长串毛病，才让我们这么合得来。在那个方面，只有你一个人能跟上我的节奏。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Oh, stop. You haven't done anything wrong since high school. When are you going to outgrow all that self-hate?{/i}",
+      "spk": "Io",
+      "zh": ": {i}哎呀，别说了。你从高中以后就没做错过什么事。你什么时候才能不再那么自我厌恶？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Whenever I'm allowed to fuck my wife.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}等我能操我老婆的那天。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}We can do it tonight :) You deserve a reward for driving all the way up to Gifu for me.{/i}",
+      "spk": "Io",
+      "zh": ": {i}今晚就可以 :) 你为了我一路开到岐阜，该得点奖励。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Just us this time?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}这次只有我们俩？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Is just me enough for you?{/i}",
+      "spk": "Io",
+      "zh": ": {i}只有我，对你够吗？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Of course. I've been saying that for a decade now.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}当然够。这话我已经说了十年了。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}And I still don't believe it :){/i}",
+      "spk": "Io",
+      "zh": ": {i}我还是不信 :) {/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Guess I have some growing to do too.{/i}",
+      "spk": "Io",
+      "zh": ": {i}看来我也有得长进呢。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Be gentle with me? :){/i}",
+      "spk": "Io",
+      "zh": ": {i}对我温柔点？ :) {/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Kiss me lots? :){/i}",
+      "spk": "Io",
+      "zh": ": {i}多亲亲我？ :) {/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Cuddle with me when we're done? :){/i}",
+      "spk": "Io",
+      "zh": ": {i}做完之后抱抱我？ :) {/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Io, this is so much wood.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}Io，这木材也太多了。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I know. That's why I asked you to be gentle.{/i}",
+      "spk": "Io",
+      "zh": ": {i}我知道。所以我才让你温柔点。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}No, like actual wood. I only brought the Kei truck.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}不是，我说的是真的木材。我只开了辆轻卡来。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Just try to fit as much of it in as you can without breaking it. In both regards.{/i}",
+      "spk": "Io",
+      "zh": ": {i}尽量多装，别弄断就行。两方面都是。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Wood. Am I right?{/i}",
+      "spk": "Io",
+      "zh": ": {i}木头。我说得对吧？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I'll see you in a few hours I guess. Keep on practicing until then.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那几小时后见吧。在那之前继续练。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Okay! Thank you again. I love you.{/i}",
+      "spk": "Io",
+      "zh": ": {i}好！再次谢谢你。我爱你。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I love you too. Later.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我也爱你。回头见。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "jump march2025packmenu",
+      "zh": ""
+    },
+    {
+      "en": "Why are you naked?",
+      "zh": "你怎么光着身子？",
+      "opt": true
+    },
+    {
+      "en": ": {i}Do the two of you always get naked as soon as I leave the house?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我一出门你们俩就脱光？每次都这样？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}In the summer, yeah. Nara's way hotter than Kumon-mi. And Uta can't be in her underwear around you without wanting to do it.{/i}",
+      "spk": "Io",
+      "zh": ": {i}夏天是这样。奈良比 Kumon-mi 热多了。而且 Uta 只要穿着内衣在你旁边，就忍不住想做。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I see no problem with this.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我觉得这没什么问题。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Yeah, because you're not the one who has to sit in the cuck chair.{/i}",
+      "spk": "Io",
+      "zh": ": {i}是啊，因为坐在「绿帽椅」上的不是你。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}You built that chair yourself, Io. You don't have to watch. I don't get why you subject yourself to it.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那把椅子是你自己做的，Io。你不必看的。我不懂你为什么非要让自己受这个。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Training! Like wiener practice.{/i}",
+      "spk": "Io",
+      "zh": ": {i}训练啊！跟练香肠一样。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}One day, I will be a wife you can have sex with whenever you want. Until then, I am but a mass of flesh and assorted medications.{/i}",
+      "spk": "Io",
+      "zh": ": {i}总有一天，我会成为一个你随时想做就能做的妻子。在那之前，我只是一团肉和一堆杂七杂八的药。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Well, I hope casually sucking on hot dogs and watching your best friend fuck your husband gets you there.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}嗯，希望随便含着热狗、看着你最好的朋友操你老公，能帮你达成那个目标。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Me too! You seem to have way more fun with her than you do with me.{/i}",
+      "spk": "Io",
+      "zh": ": {i}我也希望！你跟她在一起好像比跟我在一起开心多了。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Is this one of those moments where I'm supposed to reassure you that I actually do enjoy being physically intimate with you and not just Uta?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}这又是那种时刻吗——我该安抚你，说我真的很享受跟你、而不只是跟 Uta 的身体亲密？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I know :) Marrying me did a lot to convince me of that.{/i}",
+      "spk": "Io",
+      "zh": ": {i}我知道 :) 跟我结婚这件事就很能说服我了。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}It still just feels a little too good to be true sometimes.{/i}",
+      "spk": "Io",
+      "zh": ": {i}只是有时候还是觉得好得不太真实。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}That's what I think of when I sit in the cuck chair.{/i}",
+      "spk": "Io",
+      "zh": ": {i}我坐在绿帽椅上的时候想的就是这个。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Then don't fucking sit in it, weirdo.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那就他妈别坐上去啊，怪人。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}It's really only weird when Uta maintains eye contact with me for more than five seconds.{/i}",
+      "spk": "Io",
+      "zh": ": {i}只有 Uta 跟我对视超过五秒的时候才真的怪。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}She probably wants you to join in.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}她大概是想让你加入。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I guess it wouldn't hurt to bring the chair a little closer to the action.{/i}",
+      "spk": "Io",
+      "zh": ": {i}把椅子往战场那边挪一点，大概也没什么坏处。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Maybe not until it gets a little colder though. The AC here struggles enough as is. I don't even want to think of how hot it'd be during a two-point-fivesome.{/i}",
+      "spk": "Io",
+      "zh": ": {i}不过还是等天气再凉点吧。这儿空调本来就很吃力。我连想都不敢想「两点五人行」的时候会有多热。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Either way, I humbly ask that you remain the way you are and don't put your clothes back on as soon as I pull into the driveway.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}不管怎样，我恳请你保持现状，别等我一开进车道你就把衣服穿回去。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Okay. It'll probably just be me when you get home anyway since Uta has work.{/i}",
+      "spk": "Io",
+      "zh": ": {i}好。反正你回来的时候大概只有我，Uta 要上班。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Is this picture message your way of foreshadowing what's to come for me tonight then?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那这条图片短信是在给我预告今晚会发生什么吗？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}No, this picture message is my lunch. And a subtle jab at your rampant desire to have sex with my mouth.{/i}",
+      "spk": "Io",
+      "zh": ": {i}不是，这条图片短信是我的午饭。顺便小小地讽刺一下你对我的嘴那点旺盛的欲望。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}It's a good mouth. It's the things that come out of it that aren't.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那张嘴是好嘴。从里面出来的东西才不是。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Your penis comes out of it sometimes. And I know for a fact that your penis is good, so why are you lying to me?{/i}",
+      "spk": "Io",
+      "zh": ": {i}你的阴茎有时候也会从里面出来。而且我确知你的阴茎很好，那你为什么要骗我？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}How can you rate my penis when you're asexual?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你一个无性恋，怎么给我的阴茎打分？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}My sexuality has nothing to do with it. It's a long, straight, strong penis. It's objectively good by all penis-rating criteria. Uta agrees. So does my aunt.{/i}",
+      "spk": "Io",
+      "zh": ": {i}这跟我的性取向无关。它又长又直又硬。按所有阴茎评分标准来看，客观上就是好。Uta 也这么认为。我姑姑也是。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Why is your aunt in on this now? Didn't she move to Germany?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你姑姑怎么也被拉进来了？她不是搬到德国去了吗？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Uta sent her a picture of yours once. It was meant for me.{/i}",
+      "spk": "Io",
+      "zh": ": {i}Uta 有一次把你的照片发给她了。本来是发给我的。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Your aunt has seen my penis?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你姑姑看过我的阴茎？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Yes. And has confirmed to me personally that it's a long, straight, strong penis. You should be proud of yourself.{/i}",
+      "spk": "Io",
+      "zh": ": {i}是的。而且她亲口向我确认过，那是根又长又直又硬的阴茎。你该为自己骄傲。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I am going to turn off my phone now. Goodbye, Io.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我现在要关机了。再见，Io。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Goodbye, penis.{/i}",
+      "spk": "Io",
+      "zh": ": {i}再见，阴茎。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I mean husband*{/i}",
+      "spk": "Io",
+      "zh": ": {i}我是说老公＊{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "jump march2025packmenu",
+      "zh": ""
+    },
+    {
+      "en": "Uta thicc",
+      "zh": "Uta 好肉感",
+      "opt": true
+    },
+    {
+      "en": ": {i}GYATT.",
+      "spk": "Sensei",
+      "zh": ": {i}我操，好翘。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Did you just sit on your phone?{/i}",
+      "spk": "Io",
+      "zh": ": {i}你刚才是坐在手机上了吗？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}No, I just want Uta to sit on me.",
+      "spk": "Sensei",
+      "zh": ": {i}不是，我只是想让 Uta 坐在我身上。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I show you my wiener and this is how you repay me? By complimenting Uta instead?{/i}",
+      "spk": "Io",
+      "zh": ": {i}我给你看我的香肠，你就这么回报我？反过来夸 Uta？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I want you to sit on me too. I just know that you don't like to.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我也想让你坐在我身上。我只是知道你不喜欢那样。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I still like attention, though! Look, bra. You like bras, don't you?{/i}",
+      "spk": "Io",
+      "zh": ": {i}可我还是喜欢被关注啊！看，胸罩。你喜欢胸罩的吧？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I like what they conceal more.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我更喜欢它们遮住的东西。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Alas, mine does not conceal much. At least not compared to Uta, who you clearly prefer despite your flat-leaning sexual history.{/i}",
+      "spk": "Io",
+      "zh": ": {i}可惜我这对遮不住什么。至少跟 Uta 比起来是这样——尽管你过去偏好平胸，但现在明显更偏爱她。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}You're not flat anymore, Io. Your body exists in the realm of perfection between small and large.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你现在不平了，Io。你的身体处在小与大之间的完美境界里。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}They're still pretty small, but thank you for calling me perfect regardless. Even if you are wrong in virtually every way possible.{/i}",
+      "spk": "Io",
+      "zh": ": {i}它们还是挺小的，不过还是谢谢你夸我完美。哪怕你几乎在每一个方面都说错了。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Would you like me to remove it, dearest husband? May I provide you with sexual fuel to power the rest of your day and subsequent journey home?{/i}",
+      "spk": "Io",
+      "zh": ": {i}要我给你脱掉吗，最亲爱的老公？要不要我为你提供性方面的燃料，给你接下来一天和回家路上供能？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Yes, dearest wife. As a matter of fact, I would appreciate that very much.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}要，最亲爱的老婆。事实上，我会非常感激。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Shall I ask Uta to remove hers as well?{/i}",
+      "spk": "Io",
+      "zh": ": {i}要不要我也让 Uta 脱掉她的？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Would you like the two of us to press our chests against one another, bringing our faces within centimeters of each other as we bite our lips and seductively gaze into the camera?{/i}",
+      "spk": "Io",
+      "zh": ": {i}要不要我们俩把胸口贴在一起，脸凑到只差几厘米，一边咬着嘴唇一边挑逗地盯着镜头？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Okay. Now, you're just teasing me.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}好了。你现在纯粹是在逗我。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Shall we share this wiener together as the best of friends? Gaze lovingly into each other's eyes as our tongues inch closer and closer? Would you like that, husband?{/i}",
+      "spk": "Io",
+      "zh": ": {i}要不要我们像最好的朋友那样一起分享这根香肠？深情对视，舌头一点点靠近？你喜欢那样吗，老公？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}If anything, I would like to be the wiener.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}要说的话，我更想当那根香肠。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}You will always be my wiener.{/i}",
+      "spk": "Io",
+      "zh": ": {i}你永远都是我的香肠。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Please choose a new pet name for me.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}请给我换个新昵称。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Wiener daddy.{/i}",
+      "spk": "Io",
+      "zh": ": {i}香肠爸爸。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}That's the kind of dirty talk you sex people like, right?{/i}",
+      "spk": "Io",
+      "zh": ": {i}你们这些有性欲的人就喜欢这种脏话吧？{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Give me all that cum, wiener daddy. I'm so very moist for you.{/i}",
+      "spk": "Io",
+      "zh": ": {i}把你的精液全给我，香肠爸爸。我为你湿得不行。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}You know, I've gotten a lot of weird text messages from both of you in the past. But I think that one might be the worst yet.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你知道吗，过去你们俩给我发过不少奇怪的短信。但我觉得刚才那条可能是最糟的。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I'm pregnant.{/i}",
+      "spk": "Io",
+      "zh": ": {i}我怀孕了。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I changed my mind. That's the worst one.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我改主意了。这条才是最糟的。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Uta's also pregnant. Look what you've done to us, wiener daddy!{/i}",
+      "spk": "Io",
+      "zh": ": {i}Uta 也怀孕了。看看你把我们弄成什么样了，香肠爸爸！{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Are you tormenting me right now because you like it? Or because you're still jealous I commented on Uta before you?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你现在折磨我是因为你喜欢，还是因为你还在嫉妒我先评论了 Uta？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Your sexual desire for my mega-thicc bff means little now that I bear your last name, wiener daddy, for that is something she will never have.{/i}",
+      "spk": "Io",
+      "zh": ": {i}现在你对我那位超丰满闺蜜的性欲已经不算什么了，香肠爸爸，因为我现在冠着你的姓，而那是她永远得不到的。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}Unless you leave me for her. Which is probable.{/i}",
+      "spk": "Io",
+      "zh": ": {i}除非你为了她离开我。而那很有可能。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}We've been married for nearly a decade.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我们都结婚快十年了。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}That just means it's overdue :({/i}",
+      "spk": "Io",
+      "zh": ": {i}那只能说明它早该发生了 :({/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}I love you, Io. Even if you hate sex and keep calling me wiener daddy.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我爱你，Io。哪怕你讨厌性，还一直叫我香肠爸爸。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I love you too, wiener daddy. Even if you like sex and can't name more than four types of wood.{/i}",
+      "spk": "Io",
+      "zh": ": {i}我也爱你，香肠爸爸。哪怕你喜欢性，还叫不出四种以上的木材。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": {i}That's a trick, isn't it? There's no way there are more than three types of wood.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}这是在坑我吧？木材怎么可能超过三种。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}You know, maybe it would be better if we did get a divorce.{/i}",
+      "spk": "Io",
+      "zh": ": {i}你知道吗，也许我们真的离婚会更好。{/i}",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "jump march2025packmenu",
+      "zh": ""
+    },
+    {
+      "en": "No",
+      "zh": "否",
+      "opt": true
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "jump march2025packmenu",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

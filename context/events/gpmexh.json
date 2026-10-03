@@ -1,0 +1,459 @@
+{
+  "label": "gpmexh",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexh == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexh1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexh1.webp",
+      "alt": "gpmexh1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexh2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexh2.webp",
+      "alt": "gpmexh2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I told you to stop looking at that.",
+      "spk": "Amy",
+      "zh": ": 我叫过你别看那个。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m sorry. I must’ve gotten lost or something.",
+      "spk": "Sensei",
+      "zh": ": 抱歉。我大概是走神了之类的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexh1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexh1.webp",
+      "alt": "gpmexh1"
+    },
+    {
+      "en": "$ renpy.pause(8, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexh2 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexh2.webp",
+      "alt": "gpmexh2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Stop looking at that.",
+      "spk": "Amy",
+      "zh": ": 别看那个。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What even {i}was{/i} that?",
+      "spk": "Sensei",
+      "zh": ": 那到底{i}是什么{/i}？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": What was what?",
+      "spk": "Amy",
+      "zh": ": 什么是哪个？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": The thing you just told me to stop looking at, obviously.",
+      "spk": "Sensei",
+      "zh": ": 显然是你刚叫我别看的那东西。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I have no idea what you’re talking about. We just got here.",
+      "spk": "Amy",
+      "zh": ": 我完全不知道你在说什么。我们才刚到。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Look behind you. Either that or step aside for a second. There’s-",
+      "spk": "Sensei",
+      "zh": ": 看看你身后。或者让开一下。那里有——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No.",
+      "spk": "Amy",
+      "zh": ": 不用。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, come on.",
+      "spk": "Sensei",
+      "zh": ": Amy，别这样。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Akira, just trust me! I’ve been here enough times to know what is and isn’t safe, okay? Your best bet is to just do what I say.",
+      "spk": "Amy",
+      "zh": ": Akira，你就信我吧！我来过这里够多次，知道什么安全什么不安全，行吗？你最好的选择就是照我说的做。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": How have you been here so many times if the Blissful Biosphere only just opened, though?",
+      "spk": "Sensei",
+      "zh": ": 可极乐生物圈才刚开，你怎么会来过这么多次？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I...I obviously meant the mall, silly! If I knew {i}that thing{/i} was here, I’d have never let you follow the road that brought us to it in the first place! Hahaha!",
+      "spk": "Amy",
+      "zh": ": 我……我当然是指这个商场，傻瓜！要是我早知道{i}那东西{/i}在这儿，我根本不会让你顺着那条把我们带过来的路走！哈哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": So you acknowledge its existence after all?",
+      "spk": "Sensei",
+      "zh": ": 所以你还是承认它存在了？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Hah...{/i}fine. Yes, I acknowledge its existence. But I probably {i}shouldn’t!{/i} Because now it knows {i}you{/i} exist too. And that opens up a brand new can of snakes. And not the good kind either!",
+      "spk": "Amy",
+      "zh": ": {i}哈……{/i}好吧。对，我承认它存在。但我大概{i}不该{/i}承认！因为现在它也知道{i}你{/i}存在了。而这会打开一罐全新的蛇。而且不是好的那种！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s sentient? It just looked like a black square to me. Or maybe even one of those temporal rift things.",
+      "spk": "Sensei",
+      "zh": ": 它有知觉？在我眼里它只是个黑色方块。或者甚至像是那种时间裂隙。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": It looks different to everybody. That’s the problem.",
+      "spk": "Amy",
+      "zh": ": 它在每个人眼里都不一样。这就是问题所在。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You remember those old cartoons where somebody would be wandering through the desert and then start hallucinating some sort of massive oasis with a bunch of water? It’s like that.",
+      "spk": "Amy",
+      "zh": ": 你记得那些老卡通吧，有人会在沙漠里游荡，然后开始幻觉出某种有一大堆水的大绿洲？就跟那个一样。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s a mirage, then?",
+      "spk": "Sensei",
+      "zh": ": 那它就是海市蜃楼？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Not exactly. Mirages are just a visual hallucination at the end of the day. {i}This{/i} is a thing that’s actually real. It just makes itself look like something else. Usually whatever you want to see the most.",
+      "spk": "Amy",
+      "zh": ": 不完全是。说到底，海市蜃楼只是一种视觉幻觉。{i}这{/i}东西是真实存在的。它只是把自己伪装成别的东西。通常是你最想看到的东西。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What do you see then?",
+      "spk": "Sensei",
+      "zh": ": 那你看到的是什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": You, of course!",
+      "spk": "Amy",
+      "zh": ": 当然是你啊！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": So there’s just another me behind you right now?",
+      "spk": "Sensei",
+      "zh": ": 所以现在你身后就站着另一个我？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hey, I had a dream about that once. Boy, do I regret waking up.",
+      "spk": "Amy",
+      "zh": ": 嘿，我做过一次关于这个的梦。天啊，我真后悔醒过来。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, be serious.",
+      "spk": "Sensei",
+      "zh": ": Amy，认真点。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Sorry! Hahah! Yes, there’s another you back there. Just...standing around and staring off into the distance.",
+      "spk": "Amy",
+      "zh": ": 抱歉！哈哈！对，你身后还有另一个你。就……站在那儿，盯着远处发呆。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": How do you know I’m the real one then? Maybe the real me is back there and I’m the mirage?",
+      "spk": "Sensei",
+      "zh": ": 那你怎么知道我是真的那个？说不定真的我在后面，而我是那个幻象？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, that’s easy. The fake one’s like a really weak vacuum. It kind of like...sucks you in. But really gently. And you haven’t tried sucking me in yet, so you’re definitely the real you!",
+      "spk": "Amy",
+      "zh": ": 哦，那很简单。假的就像个特别弱的吸尘器。它会有点……把你吸进去。但非常轻。而你还没试着把我吸进去，所以你绝对是真的你！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I guess I’ll be a little more careful about how intensely I inhale while you’re over here.",
+      "spk": "Sensei",
+      "zh": ": 那我想，你在这边的时候，我吸气会小心一点。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Just don’t be {i}too{/i} careful! There haven’t been any tests on prolonged exposure to the Blissful Biosphere’s air yet. So there’s a chance we might need more of it and you could be suffocating yourself!",
+      "spk": "Amy",
+      "zh": ": 只是别{i}太{/i}小心！目前还没人测过长时间暴露在极乐生物圈空气下的影响。所以有可能我们需要更多这种空气，而你是在把自己闷死！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": If that happens, can I have your feet?",
+      "spk": "Amy",
+      "zh": ": 如果真那样，你的脚能给我吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": For what?",
+      "spk": "Sensei",
+      "zh": ": 拿来干嘛?",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I don’t know. Just to have them, I guess.",
+      "spk": "Amy",
+      "zh": ": 不知道。大概就是想要而已。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You just want to wear them so you stop falling over, don’t you?",
+      "spk": "Sensei",
+      "zh": ": 你就是想穿上它们好不再摔倒，对吧？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Wha...nuh-uh! Maybe I just really like feet! You have a problem with that, Akira?",
+      "spk": "Amy",
+      "zh": ": 什……才不是！说不定我就是特别喜欢脚！你有意见吗，Akira？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": No, I don’t. I get it. I kind of like them too.",
+      "spk": "Sensei",
+      "zh": ": 没有，我没意见。我懂。我也挺喜欢的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Guh! Curse the way this body is shaped!",
+      "spk": "Amy",
+      "zh": ": 呃！诅咒这身体的形状！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": {i}Maybe I can steal a pair off somebody else and...{/i}huh?",
+      "spk": "Amy",
+      "zh": ": {i}说不定我能从别人身上偷一双，然后……{/i}嗯？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy? Is something wrong?",
+      "spk": "Sensei",
+      "zh": ": Amy？出什么事了吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Do you feel that?",
+      "spk": "Amy",
+      "zh": ": 你感觉到了吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I don’t feel anything other than the soft vibration of the floor. That’s been a constant the whole time we’ve been here, though.",
+      "spk": "Sensei",
+      "zh": ": 除了地板轻微的震动，我什么都没感觉到。不过那从我们到这儿起就一直是这样。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I think the thing is trying to suck us in! Come on, Akira!",
+      "spk": "Amy",
+      "zh": ": 我觉得那东西在试着把我们吸进去！快，Akira！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": We’ve gotta get out of here!",
+      "spk": "Amy",
+      "zh": ": 我们得离开这儿！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexh1 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexh1.webp",
+      "alt": "gpmexh1"
+    },
+    {
+      "en": "$ renpy.pause(5, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexh2 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexh2.webp",
+      "alt": "gpmexh2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Akira! I said “come on!”",
+      "spk": "Amy",
+      "zh": ": Akira！我说了「快走」！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Oh, sorry. I forgot what I was doing for a second.",
+      "spk": "Sensei",
+      "zh": ": 哦，抱歉。我有一瞬间忘了自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexh = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "not forward",
+      "zh": "不往前走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexd",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "not forward",
+      "zh": "不往前走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexg",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "sideways",
+      "zh": "横着走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexe",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "wayside",
+      "zh": "路边",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexk",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "wayside",
+      "zh": "路边",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexf",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

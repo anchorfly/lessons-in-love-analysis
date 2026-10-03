@@ -1,0 +1,147 @@
+{
+  "label": "chikasummer2nightgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikasummer2nightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikasummer2nightgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikasummer2nightgen.webp",
+      "alt": "chikasummer2nightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if yumiblock == False:",
+      "zh": ""
+    },
+    {
+      "en": "I make my way over to Chika’s apartment to spend the night with her while Yumi and Chinami sit in the living room reading manga together.",
+      "zh": "我前往 Chika 的公寓陪她过夜，Yumi 和 Chinami 坐在客厅里一起看漫画。"
+    },
+    {
+      "en": "Neither of them pay any attention to me (Likely because a certain someone asked them not to), so I’m free to spend a wholesome night out on the balcony with my fake girlfriend while she longingly gazes up at the sky.",
+      "zh": "她们俩都没理我（多半是某个人叫她们别理我）。"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I make my way over to Chika’s apartment to spend the night with her while Chinami sits in the living room watching TV.",
+      "zh": "我前往 Chika 的公寓陪她过夜，Chinami 坐在客厅里看电视。"
+    },
+    {
+      "en": "She doesn't pay any attention to us, so I'm free to spend a wholesome night out on the balcony with my fake girlfriend while she longingly gazes up at the sky.",
+      "zh": "她没注意我们，于是我可以跟我的假女朋友在阳台上度过一个清清白白的夜晚，她则怅然地仰望天空。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It feels a little odd spending time together when I know that we’re being secretly spectated at all times, but I guess that sort of family dynamic is exactly what Chika wants in the first place.",
+      "zh": "明知我们时刻都在被偷偷旁观，相处起来还是有点怪，不过我想这种家庭氛围本来就是 Chika 想要的。"
+    },
+    {
+      "en": "She’s not the type to mind the ones close to her knowing her feelings.",
+      "zh": "她不是那种会在意亲近的人知道自己心事的人。"
+    },
+    {
+      "en": "She’s the exact opposite of me.",
+      "zh": "她跟我正好相反。"
+    },
+    {
+      "en": "But as long as she keeps those feelings away from everyone else...I think that’s okay.",
+      "zh": "但只要她把那些感情对其他人藏好……我觉得那就没问题。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We don’t need to be the same to want each other. We can just...do it.",
+      "zh": "我们不需要一样才能渴望彼此。我们可以就……去做。"
+    },
+    {
+      "en": "And if and when things self-destruct, less people will get caught in the blast.",
+      "zh": "而且如果、当事情自我毁灭的时候，被卷进爆炸的人会少一些。"
+    },
+    {
+      "en": "We’ll crawl away with some skin still left on our bones and pick ourselves up as if nothing ever happened.",
+      "zh": "我们会带着骨头上的一点皮爬走，然后若无其事地重新站起来。"
+    },
+    {
+      "en": "But for now, we’ll remain like this- two bodies on a balcony under a sky full of stars.",
+      "zh": "但现在，我们就保持这样——满天繁星下，阳台上的两具身体。"
+    },
+    {
+      "en": "We head back inside and I leave when they all fall asleep.",
+      "zh": "我们回到屋里，等她们都睡着了我就离开了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Chika’s affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "……………"
+    },
+    {
+      "en": "......",
+      "zh": "………"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

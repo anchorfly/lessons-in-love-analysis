@@ -1,0 +1,174 @@
+{
+  "label": "mayadormgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mayadormgen:",
+      "zh": ""
+    },
+    {
+      "en": ": Hey, Maya. Are you around right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嘿，Maya。你现在在吗？"
+    },
+    {
+      "en": ": Why are you here? Please leave.",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你为什么在这儿？请离开。"
+    },
+    {
+      "en": ": What's that? You want me to come in?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你说什么？你想让我进去？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene mayadormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/mayadormgen.webp",
+      "alt": "mayadormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why do you do things like this?",
+      "spk": "Maya",
+      "spkColor": "#20EF00",
+      "zh": ": 你为什么要做这种事？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maya begrudgingly hangs out in her room with me as she 'doesn't have enough energy to leave.'",
+      "zh": "Maya 勉为其难地在屋里陪我待着，因为「她没力气离开」。"
+    },
+    {
+      "en": "Of course, she spends most of this time either ignoring me or trying to educate me about the universe.",
+      "zh": "当然，这段时间她大部分时候要么无视我，要么试图给我讲宇宙的道理。"
+    },
+    {
+      "en": "I'm unable to follow any of it, but I'm at least glad that she isn't calling the police.",
+      "zh": "我一句都跟不上，但至少我挺高兴她没报警。"
+    },
+    {
+      "en": "It has become a personal goal to have Maya accept me, and I feel like moments like this will get us there one step at a time...",
+      "zh": "让 Maya 接纳我成了我的个人目标，而我觉得这样的时刻会让我们一次前进一小步……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...But as soon as I finish thinking that, she kicks me out of the room and I am forced to walk back home alone...",
+      "zh": "……可我刚想完，她就把我踢出了房间，我只好一个人走回家……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maya_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Maya's affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "label": "gpmexe",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexe == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexe1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexe1.webp",
+      "alt": "gpmexe1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexe2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexe2.webp",
+      "alt": "gpmexe2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexe1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexe1.webp",
+      "alt": "gpmexe1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexe2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexe2.webp",
+      "alt": "gpmexe2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oooh! This place reminds me of that movie about the wizard from Oz! I think it needs a few more bricks, though. I’m not sure if this really constitutes a {i}road.{/i}",
+      "spk": "Amy",
+      "zh": ": 哦哦！这地方让我想起那部关于奥兹国巫师的电影！不过我觉得它还差几块砖。我不确定这到底算不算一条{i}路{/i}。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": More of a trail, I’d say.",
+      "spk": "Sensei",
+      "zh": ": 要我说，更像条小径。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yeah, something like that. It’s kind of sad that we won’t be able to walk on it, though.",
+      "spk": "Amy",
+      "zh": ": 对，差不多。不过有点可惜，我们没法在上面走。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": We won’t? Why?",
+      "spk": "Sensei",
+      "zh": ": 没法？为什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hmm...it’d probably just make more sense to show you. Watch.",
+      "spk": "Amy",
+      "zh": ": 嗯……大概直接给你看更好懂。看着。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexe3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexe3.webp",
+      "alt": "gpmexe3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ouch!",
+      "spk": "Amy",
+      "zh": ": 哎哟！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, are you okay? You immediately fell on those rocks before you could even show me why we can’t walk on them.",
+      "spk": "Sensei",
+      "zh": ": Amy，你没事吧？你还没来得及给我演示为什么不能在上面走，就直接摔在那堆石头上了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": It’s because they aren’t {i}rocks{/i} at all! They’re slimy gallstones from the mall frog! My legs aren’t built for traversing them!",
+      "spk": "Amy",
+      "zh": ": 因为那根本不是{i}石头{/i}！那是商场青蛙身上滑溜溜的胆结石！我的腿不是用来在这种东西上行走的！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Yeah, I guess that rules out using them to go anywhere else then. Unfortunate.",
+      "spk": "Sensei",
+      "zh": ": 是啊，那我想用它们去别处这条路也断了。真不巧。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Could you give me a hand, Akira? I seem to have misplaced mine!",
+      "spk": "Amy",
+      "zh": ": 能拉我一把吗，Akira？我好像把自己的手放丢了！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Promise you won’t keep it?",
+      "spk": "Sensei",
+      "zh": ": 你保证不会留着不还？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hahah! No.",
+      "spk": "Amy",
+      "zh": ": 哈哈！不行。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m kind of reluctant to help you up then. I imagine I’m going to need these hands eventually.",
+      "spk": "Sensei",
+      "zh": ": 那我还真有点不想拉你起来了。我想我迟早还得用上这两只手。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Awww, come on! I was only kidding! It’s been so long since I’ve taken anybody’s hands in an attempt to sew them onto myself!",
+      "spk": "Amy",
+      "zh": ": 哎呀，别这样！我只是开玩笑！我都好久没抢别人的手来缝到自己身上了！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": If only I remembered you need hands in order to sew...",
+      "spk": "Amy",
+      "zh": ": 要是我记得缝东西需要手就好了……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": If I learned how to sew, could I do it for you? Or do the hands just not work since they never belonged to you in the first place?",
+      "spk": "Sensei",
+      "zh": ": 如果我学会缝纫，能替你缝吗？还是说那些手因为本来就不属于你，所以根本用不了？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": We could try! Worst case scenario, I just keep being me.",
+      "spk": "Amy",
+      "zh": ": 可以试试！最坏的情况也就是我继续当我自己。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I like you the way you are, though, Amy. So that just sounds like the best case scenario to me.",
+      "spk": "Sensei",
+      "zh": ": 不过我就喜欢你现在的样子，Amy。所以对我来说那听起来反而是最好的情况。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": A...Akira...",
+      "spk": "Amy",
+      "zh": ": A……Akira……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s no fair if you say that while I’m still lying on the ground! Come and help me up!",
+      "spk": "Amy",
+      "zh": ": 我还躺在地上呢，你这么说太不公平了！过来拉我起来！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Unless...you plan on...{i}taking advantage of me?{/i}",
+      "spk": "Amy",
+      "zh": ": 除非……你打算……{i}占我便宜？{/i}",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Ohhh nooooo! Whatever will I do?! I can barely move on all these slippery gallstones! I sure hope {i}nobody named Akira{/i} does anything to my {i}helpless{/i} body!",
+      "spk": "Amy",
+      "zh": ": 哦哦哦不不不！我该怎么办啊？！在这些滑溜溜的胆结石上我几乎动不了！我真希望{i}没有哪个叫 Akira 的人{/i}对我这具{i}无助的{/i}身体做什么！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, you’re making a scene. The people in the trees are watching us.",
+      "spk": "Sensei",
+      "zh": ": Amy，你在闹场。树上的人在看着我们。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": The people in the trees are {i}always{/i} watching us. Now get over here and-",
+      "spk": "Amy",
+      "zh": ": 树上的人{i}永远{/i}都在看着我们。现在过来，然后——",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexe2 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexe2.webp",
+      "alt": "gpmexe2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah!",
+      "spk": "Amy",
+      "zh": ": 啊！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Woah. I didn’t even have to do anything.",
+      "spk": "Sensei",
+      "zh": ": 哇哦。我什么都还没做呢。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yeah, I think I just respawned. They think of {i}everything{/i} here, don’t they? The regular mall {i}never{/i} respawns me when I get stuck on my back like that.",
+      "spk": "Amy",
+      "zh": ": 是啊，我想我刚刚刷新了。他们这儿真是{i}什么都{/i}想到了，对吧？我像那样背朝下卡住的时候，普通商场{i}从来不{/i}给我刷新。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re enjoying the Blissful Biosphere then?",
+      "spk": "Sensei",
+      "zh": ": 那你挺喜欢极乐生物圈？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, yeah! I love it!",
+      "spk": "Amy",
+      "zh": ": 哦，当然！我超爱！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": But there’s still so much to explore!",
+      "spk": "Amy",
+      "zh": ": 但还有好多东西要探索！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Just don’t make me walk on the gallstones again, please...",
+      "spk": "Amy",
+      "zh": ": 只是别再让我走那些胆结石了，拜托……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexe = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go left",
+      "zh": "往左走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexf",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go leeeeft",
+      "zh": "往左左左走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexk",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go leeeeft",
+      "zh": "往左左左走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexa",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go leeeeeeeeft",
+      "zh": "往左左左左左左左走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexl",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

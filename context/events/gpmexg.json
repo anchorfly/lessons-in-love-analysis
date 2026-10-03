@@ -1,0 +1,369 @@
+{
+  "label": "gpmexg",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexg == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexg1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexg1.webp",
+      "alt": "gpmexg1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexg2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexg2.webp",
+      "alt": "gpmexg2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexg1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexg1.webp",
+      "alt": "gpmexg1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexg2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexg2.webp",
+      "alt": "gpmexg2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Akira! What are you doing down there? You need to be careful or you’ll be impaled by the Drooping Lycoperdon and have your insides liquefied!",
+      "spk": "Amy",
+      "zh": ": Akira！你在那下面干什么？你得小心，不然会被下垂马勃刺穿，内脏都化成水！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I think a better question is how you managed to get up there in the first place. I’m not allowed to be upside down yet.",
+      "spk": "Sensei",
+      "zh": ": 我觉得更好的问题是，你当初是怎么上到那儿的。我还不被允许倒过来。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I know! Which is exactly why I’m so worried! I’m here on the ground and you’re floating around like some sort of humanoid bird. Didn’t you read the signs?",
+      "spk": "Amy",
+      "zh": ": 我知道！所以我才这么担心！我在地面上，你却像某种人形鸟一样到处飘。你没看那些告示牌吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Amy points to a sign near where we walked in that says “no birds.” I’m not sure if I’m breaking any rules or not.",
+      "zh": "Amy 指着我们进来处附近的一块牌子，上面写着「禁止飞鸟」。我不确定自己有没有违规。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t want you doing anything that might taint the ecosystem, Akira. The Blissful Biosphere is still brand new!",
+      "spk": "Amy",
+      "zh": ": 我不想你做任何可能污染生态系统的事，Akira。极乐生物圈还是全新的！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": We should at least let other people experience it before we do anything that might ruin an eternity worth of potential fun.",
+      "spk": "Amy",
+      "zh": ": 我们至少该让别人先体验一下，再做任何可能毁掉永恒乐趣的事。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Which doesn’t mean the regular mall isn’t fun too! It’s just...you know. This is so different and exciting! And way unlike anything you can see outside of the frog.",
+      "spk": "Amy",
+      "zh": ": 这不是说普通商场就不好玩！只是……你知道的。这里太不一样、太刺激了！而且跟青蛙外面能看到的东西完全不像。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexg3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexg3.webp",
+      "alt": "gpmexg3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That does make me a little curious about how they managed to get so much Drooping Lycoperdon inside of here in the first place, though. Or how they even came across it.",
+      "spk": "Amy",
+      "zh": ": 不过这确实让我有点好奇，他们当初是怎么把这么多下垂马勃弄进来的。或者他们是怎么发现它的。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What even is that? Apart from some sort of plant thing that liquefies insides, I mean.",
+      "spk": "Sensei",
+      "zh": ": 那到底是什么？我是说，除了是某种会把内脏化成水的植物之外。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": A relic of the old world, really. Some say that the first appearance of these plants is what sparked the downfall of civilization in the first place. I have another theory, though.",
+      "spk": "Amy",
+      "zh": ": 其实是旧世界的遗物。有人说这些植物最早出现，正是文明崩塌的起因。不过我另有一套理论。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What, about how all of this started?",
+      "spk": "Sensei",
+      "zh": ": 什么理论，关于这一切是怎么开始的？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": More or less. You see, Drooping Lycoperdon only grows in the shadow of humanity. Which would mean that there {i}had{/i} to be other people upside down for it to grow in the first place!",
+      "spk": "Amy",
+      "zh": ": 差不多。你看，下垂马勃只生长在人类的阴影下。那就意味着，它要长起来，当初{i}一定{/i}有别的「倒过来的人」存在！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": And I don’t know how much you remember about life outside of the mall now that all of the fun we’re having has probably consumed your other memories, but-",
+      "spk": "Amy",
+      "zh": ": 而且我不知道，既然我们玩的这些大概已经把你别的记忆都吃掉了，你对商场外面的生活还记得多少，不过——",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I still have my other memories, Amy.",
+      "spk": "Sensei",
+      "zh": ": 我别的记忆还在，Amy。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Really? Are you sure?",
+      "spk": "Amy",
+      "zh": ": 真的？你确定？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Yeah, I’m sure. And I still intend to go back to my world eventually.",
+      "spk": "Sensei",
+      "zh": ": 对，我确定。而且我最终还是打算回我的世界去。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, that just means we need to have more fun! Or that you are lying to me. And if you are lying to me, I’m going to be very sad and do a series of very mean but also very cute things!",
+      "spk": "Amy",
+      "zh": ": 那这就说明我们需要玩得更开心！或者说明你在骗我。而如果你在骗我，我会非常难过，然后做一连串非常恶劣但也非常可爱的事！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You say that, but I know you’d never be mean to me, Amy.",
+      "spk": "Sensei",
+      "zh": ": 你这么说，但我知道你永远不会对我恶劣，Amy。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, of course. I was just going to do mean things to everyone else. But you’d perceive them as cute and it would ultimately bring us even closer together than we already are! Yay!",
+      "spk": "Amy",
+      "zh": ": 哦，当然。我只是打算对别的所有人做恶劣的事。但你会觉得那些很可爱，而最终这会让我们比现在更亲近！耶！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Please be careful, Amy. I don’t want them kicking you out of the mall for insubordination when you seem to like it so much.",
+      "spk": "Sensei",
+      "zh": ": 请小心点，Amy。你这么喜欢这个商场，我可不想他们因为你抗命就把你赶出去。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Says the guy breaking the “no birds” rule! You need to hurry up and get down from there, Akira! You’re floating further and further away every second!",
+      "spk": "Amy",
+      "zh": ": 说这话的可是正在违反「禁止飞鸟」规定的人！你快从那上面下来，Akira！你每一秒都飘得越来越远！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I would love to. I just can’t figure out how.",
+      "spk": "Sensei",
+      "zh": ": 我很想。我只是想不出办法。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Close your eyes and inhale. The mist coming out of those vents up there should seep into your lungs and weigh your body down. Then we can be together on the same plane again!",
+      "spk": "Amy",
+      "zh": ": 闭上眼睛，吸气。上面那些通风口喷出来的雾会渗进你的肺里，把你的身体压下来。然后我们就能重新待在同一个平面上了！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": How does closing my eyes help with-",
+      "spk": "Sensei",
+      "zh": ": 闭眼对这件事有什么帮助——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexg4 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexg4.webp",
+      "alt": "gpmexg4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Guh!",
+      "spk": "Sensei",
+      "zh": ": 呃啊！",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yay! You’re back!",
+      "spk": "Amy",
+      "zh": ": 耶！你回来了！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Closing your eyes was just to make sure none of the astro-turf got inside of them. It’s made of real fiberglass, you know!",
+      "spk": "Amy",
+      "zh": ": 让你闭眼只是为了防止有人造草皮跑进眼睛里。那玩意儿是真玻璃纤维做的，你知道吗！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": My face hurts...",
+      "spk": "Sensei",
+      "zh": ": 我的脸好痛……",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hahah! Well, hey! Maybe we’ll find an infirmary somewhere around here.",
+      "spk": "Amy",
+      "zh": ": 哈哈！不过，嘿！说不定我们能在附近找到一间医务室。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Come on, Akira! Let’s keep exploring!",
+      "spk": "Amy",
+      "zh": ": 来嘛，Akira！我们继续探索！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexg = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go left",
+      "zh": "往左走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexc",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go up",
+      "zh": "往上。",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexj",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "spin",
+      "zh": "转个圈",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexm",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

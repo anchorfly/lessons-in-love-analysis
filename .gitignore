@@ -1,0 +1,45 @@
+# 本地工作目录
+.workbuddy/
+.workbuddy-ai/
+
+# 中间产物与本地工具（用户指定不同步）
+_tools/
+_杂项脚本/
+_tmp_digest/
+.digest/
+context/_tmp/
+context/_zh_src/
+context/_reaudit/
+context/events_bak_fixnames/
+context/events_x/
+context/_字体格式待修*/
+# 根目录 agent 临时脚本与 dump
+/_tmp*/
+/_mem_*.py
+/_mem_*.md
+/_*.txt
+
+# 备份文件
+*.bak
+*.bak2
+*.bak_*
+guide_backup_*.html
+
+# 回收站目录
+_trash_*/
+
+# 仅从仓库移除、本地保留（2026-09-04 用户拍板，不再跟踪）
+avn_order.json
+guide_pre_rebuild.html
+增量内容总结.md
+增量内容提交说明.md
+search/
+
+# 原版单文件备份（61MB，勿上传）
+guide_monolithic_backup.html
+guide_i18n.html.bak
+启动三语预览.bat.bak
+
+# 图片实体已迁到独立仓库 lessons-in-love-pic（目录 pic/）
+# 本地 pic/ 仅用于本地预览，不进主仓库
+pic/

@@ -1,0 +1,541 @@
+{
+  "label": "gpmexd",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexd == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexd1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd1.webp",
+      "alt": "gpmexd1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd2.webp",
+      "alt": "gpmexd2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexd1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd1.webp",
+      "alt": "gpmexd1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexd2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd2.webp",
+      "alt": "gpmexd2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmmmmm...",
+      "spk": "Amy",
+      "zh": ": Hmmmmm...",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Is something wrong, Amy?",
+      "spk": "Sensei",
+      "zh": ": 出什么事了吗，Amy？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I don’t know if I’d say anything is {i}wrong.{/i} But the sky seems kind of off in here, doesn’t it?",
+      "spk": "Amy",
+      "zh": ": 我不知道能不能说有哪里{i}不对劲{/i}。但这里的天空好像有点怪，对吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I guess it does when you put it that way. Maybe it’s because it’s missing clouds?",
+      "spk": "Sensei",
+      "zh": ": 你这么说的话确实有点。也许是因为没有云？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Ahh! That’s definitely it. I haven’t seen the sky in so long that I kind of forget how it’s supposed to look sometimes.",
+      "spk": "Amy",
+      "zh": ": 啊！绝对是这个。我太久没看过天空了，有时候都忘了它该长什么样。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s easy to notice if I’m reading a picture book or something. But I feel like any time there’s just a bunch of faded blue within my line of sight, I find myself sort of zoning out.",
+      "spk": "Amy",
+      "zh": ": 如果我在看图画书之类的，就很容易注意到。但我觉得只要视野里出现一大片褪色的蓝，我就会有点走神。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Is that some sort of medical condition?",
+      "spk": "Sensei",
+      "zh": ": 那是某种病症吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Maybe! It’s been that way since I was a baby, though. So chances are I was probably born with it if that’s the case.",
+      "spk": "Amy",
+      "zh": ": 也许吧！不过我从婴儿时期就这样了。所以如果是的话，我很可能是天生的。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Do you have any birth defects, Akira? The fun kind. Not the sad kind like SIDS.",
+      "spk": "Amy",
+      "zh": ": 你有什么先天缺陷吗，Akira？好玩的那种。不是像婴儿猝死症那种悲伤的。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Just the ever-present sadness that thrives and blooms inside of me.",
+      "spk": "Sensei",
+      "zh": ": 只有那份永远存在、在我体内滋长绽放的悲伤。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Is SIDS even a birth defect? It’s not, is it? Let me go ask an employee!",
+      "spk": "Amy",
+      "zh": ": 婴儿猝死症算先天缺陷吗？不算吧？我去问问员工！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd3.webp",
+      "alt": "gpmexd3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Excuse me!",
+      "spk": "Amy",
+      "zh": ": 打扰一下！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, we shouldn’t disturb the employees here. They’re probably busy with the grand opening of-",
+      "spk": "Sensei",
+      "zh": ": Amy，我们不该打扰这里的员工。他们大概正忙着开业典礼——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd4.webp",
+      "alt": "gpmexd4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hi! My name’s Harmony. Welcome to the Blissful Biosphere! How can I help you?",
+      "spk": "Harmony",
+      "zh": ": 你好！我叫 Harmony。欢迎来到极乐生物圈！有什么能帮你的吗？",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Is SIDS a birth defect?",
+      "spk": "Amy",
+      "zh": ": 婴儿猝死症算先天缺陷吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": SIDS? No, that’s a syndrome. It’s not really a thing people can be born with.",
+      "spk": "Harmony",
+      "zh": ": 婴儿猝死症？不算，那是一种综合征。并不是人一出生就会带的东西。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Okay! Thank you, Harmony. You can leave now.",
+      "spk": "Amy",
+      "zh": ": 好！谢谢你，Harmony。你可以走了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m glad to have been of service!",
+      "spk": "Harmony",
+      "zh": ": 很高兴能帮上忙！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd5",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd5.webp",
+      "alt": "gpmexd5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Great news, Dad! It looks like we don’t have to worry about either of us dying from SIDS!",
+      "spk": "Amy",
+      "zh": ": 好消息，爸！看来我们俩都不用担心会死于婴儿猝死症了！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What did you just call me?",
+      "spk": "Sensei",
+      "zh": ": 你刚叫我什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Nothing.",
+      "spk": "Amy",
+      "zh": ": 没什么。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy...",
+      "spk": "Sensei",
+      "zh": ": Amy……",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It was a slip of the tongue, okay?! Like when you accidentally call your teacher “Mom!”",
+      "spk": "Amy",
+      "zh": ": 那只是口误，行吗？！就像你不小心把老师叫成「妈！」那样！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Which I did a bunch of times when I was younger since my mom {i}was{/i} my teacher. But it was still embarrassing either way! And I won’t let you make me feel bad about it!",
+      "spk": "Amy",
+      "zh": ": 我小时候就干过好多次，因为我妈{i}就是{/i}我老师。但不管怎么说那还是很尴尬！而且我不会让你拿这事让我难受的！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You should know by now that I don’t want to make you feel bad about anything.",
+      "spk": "Sensei",
+      "zh": ": 你现在该知道了，我不想让你因为任何事难受。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": .....................",
+      "spk": "Amy",
+      "zh": ": .....................",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy?",
+      "spk": "Sensei",
+      "zh": ": Amy？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, sorry. I was zoning out from looking at all of the blue again.",
+      "spk": "Amy",
+      "zh": ": 哦，抱歉。我又盯着那片蓝看走神了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Do you want a drink? I heard a rumor about them storing water inside the planks on all of the benches. We just need to crack one open first!",
+      "spk": "Amy",
+      "zh": ": 你想喝点东西吗？我听到个传言，说他们把水储存在所有长椅的木板里。我们只要先撬开一块就行！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": There you go about “rumors” again. Seriously, what’s going on here?",
+      "spk": "Sensei",
+      "zh": ": 你又说「传言」了。说真的，这儿到底怎么回事？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I didn’t mean it like that! That was more of a rumor about wood in general. I don’t know anything about how dangerous this place is. Seriously.",
+      "spk": "Amy",
+      "zh": ": 我不是那个意思！那更算是关于木头的一般性传言。我一点都不知道这地方有多危险。说真的。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Just like you seriously didn’t push your ex-boyfriend into a hole in the wall.",
+      "spk": "Sensei",
+      "zh": ": 就像你「说真的」没把你前男友推进墙上的洞里一样。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Exactly! Now, you’re starting to get it.",
+      "spk": "Amy",
+      "zh": ": 没错！你开始懂了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Come on! Let’s go remove some bench panels together!",
+      "spk": "Amy",
+      "zh": ": 来嘛！我们一起去拆几块长椅的板子！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd6",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd6.webp",
+      "alt": "gpmexd6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Amy runs off and begins to try and pull one of the panels off of a wooden bench.",
+      "zh": "Amy 跑开了，开始试着把一块木板从长木椅上扯下来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd7",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd7.webp",
+      "alt": "gpmexd7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! Leave those alone! That water is for VIPs only!",
+      "spk": "Harmony",
+      "zh": ": 嘿！别动那些！那些水只给 VIP 用！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Ah! Akira, run! They’re onto us!",
+      "spk": "Amy",
+      "zh": ": 啊！Akira，快跑！他们发现我们了！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd8",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd8.webp",
+      "alt": "gpmexd8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No! Get back here, you vandal! You need to spend at least nineteen days in a septic tank to pay for this!",
+      "spk": "Harmony",
+      "zh": ": 不行！给我回来，你这个破坏公物的！你得在化粪池里待至少十九天来抵这笔账！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Make an exception for me! I’m on a date!",
+      "spk": "Amy",
+      "zh": ": 给我破个例吧！我在约会！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd9",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd9.webp",
+      "alt": "gpmexd9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You! Regular guy! Are you on a date with that girl?",
+      "spk": "Harmony",
+      "zh": ": 你！那个普通男的！你在跟那个女孩约会吗？",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Nope. In fact, I’ve never even seen her before.",
+      "spk": "Sensei",
+      "zh": ": 没有。事实上，我之前根本没见过她。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hmm...I guess she’s talking about an imaginary friend then. Maybe it’s the fumes.",
+      "spk": "Harmony",
+      "zh": ": 嗯……那我想她说的是想象出来的朋友了。也许是这些气味闹的。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Okay! Carry on!",
+      "spk": "Harmony",
+      "zh": ": 好！你们继续吧！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexd1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexd1.webp",
+      "alt": "gpmexd1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Suddenly, I am all alone again.",
+      "zh": "忽然间，我又只剩一个人了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexd = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go straight",
+      "zh": "直走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexg",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go right",
+      "zh": "往右走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexh",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go left",
+      "zh": "往左走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexb",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

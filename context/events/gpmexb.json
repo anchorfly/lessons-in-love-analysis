@@ -1,0 +1,338 @@
+{
+  "label": "gpmexb",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexb == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexb1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexb1.webp",
+      "alt": "gpmexb1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexb2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexb2.webp",
+      "alt": "gpmexb2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexb1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexb1.webp",
+      "alt": "gpmexb1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexb2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexb2.webp",
+      "alt": "gpmexb2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wow! Check out the level of detail on that painting over there! It’s so real, I nearly walked into it!",
+      "spk": "Amy",
+      "zh": ": 哇！你看那边那幅画的细节！太逼真了，我差点撞上去！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Why does this room smell like chlorine?",
+      "spk": "Sensei",
+      "zh": ": 这房间为什么有股氯的味道？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hm? Does it? I don’t really smell anything. ",
+      "spk": "Amy",
+      "zh": ": 嗯？有吗？我没闻到什么。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Do you think it could be those fire hydrants? There’s a small leak in one now that I’m looking a little closer at it.",
+      "spk": "Amy",
+      "zh": ": 你觉得会不会是那些消防栓？我凑近看的话，有一个在漏一点水。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I think it’s the astro-turf. It’s kind of squishy when I step on it.",
+      "spk": "Sensei",
+      "zh": ": 我觉得是人造草皮。我踩上去软软的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, that. Yeah, that’s just how we do it here. I guess I’m just used to the smell.",
+      "spk": "Amy",
+      "zh": ": 哦，那个。对，我们这儿就是这么弄的。大概是我已经习惯这味道了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You make astro-turf wet on purpose?",
+      "spk": "Sensei",
+      "zh": ": 你们故意把人造草皮弄湿？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yes! It’s great for preventing the spread of fires. Which makes me think that hydrant might actually be leaking on purpose. Like an...automatic sprinkler, kind of!",
+      "spk": "Amy",
+      "zh": ": 对！防火灾蔓延特别有效。所以我觉得那个消防栓可能其实是故意漏的。有点像……自动洒水器那种！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I guess it could be some sort of frog-related issue too, though. I can’t imagine the builders are accustomed to setting up environments in a place as...squishy as this one.",
+      "spk": "Amy",
+      "zh": ": 不过也可能是什么跟青蛙有关的问题。我想那些建造者也不习惯在这么……软的地方搭环境吧。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexb3 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexb3.webp",
+      "alt": "gpmexb3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh! Speaking of that, one of the rumors I heard about this place is that there’s an entire park dedicated to one of the ingredients in marshmallows!",
+      "spk": "Amy",
+      "zh": ": 哦！说到这个，我听到的关于这地方的传言之一，是这里有一整座公园是专门为棉花糖的其中一种原料建的！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I knew you heard rumors about this place.",
+      "spk": "Sensei",
+      "zh": ": 我就知道你听过关于这地方的传言。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah! I mean...no! I just...have an instinctive and strange feeling about the marshmallow park!",
+      "spk": "Amy",
+      "zh": ": 啊！我是说……不是！我只是……对那座棉花糖公园有种本能的、奇怪的感觉！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I sure hope it’s not full of animal bones...",
+      "spk": "Amy",
+      "zh": ": 我真希望它里面不是堆满了动物骨头……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, why are you lying to me?",
+      "spk": "Sensei",
+      "zh": ": Amy，你为什么要骗我？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...",
+      "spk": "Amy",
+      "zh": ": ...",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I need you to be honest if we’re going to continue this date.",
+      "spk": "Sensei",
+      "zh": ": 如果我们要继续这次约会，我需要你老实说。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I know, I know...",
+      "spk": "Amy",
+      "zh": ": 我知道，我知道......",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m just...",
+      "spk": "Amy",
+      "zh": ": 我只是......",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m afraid you might not want to spend any more time exploring with me if I tell you all I know...",
+      "spk": "Amy",
+      "zh": ": 我怕要是我把知道的都告诉你，你可能就不想再跟我一起探索了……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m having so much fun. And I never want it to end, so...",
+      "spk": "Amy",
+      "zh": ": 我玩得太开心了。我一点都不想让它结束，所以……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": If it’s okay with you, can you please just not ask me about the rumors anymore? You’re not in danger. I promise.",
+      "spk": "Amy",
+      "zh": ": 如果你不介意的话，能不能别再问我那些传言了？你没有危险。我保证。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Is that a lie too?",
+      "spk": "Sensei",
+      "zh": ": 这也是谎话?",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Amy",
+      "zh": ": 去。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, come on.",
+      "spk": "Sensei",
+      "zh": ": Amy，别这样。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": We’re inside of a sentient creature! Of course you’re in danger! But {i}I’m{/i} in danger too! So those things cancel each other out probably.",
+      "spk": "Amy",
+      "zh": ": 我们在一个是有知觉的生物体内！你当然有危险！但{i}我{/i}也有危险！所以这两件事大概就互相抵消了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Come on! Let’s keep exploring!",
+      "spk": "Amy",
+      "zh": ": 来嘛！我们继续探索！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexb = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go straight",
+      "zh": "直走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexf",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go left",
+      "zh": "往左走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexl",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go lefter",
+      "zh": "往更左边走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexm",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "label": "ayanedormgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayanedormgen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come in!",
+      "spk": "Ayane",
+      "spkColor": "#00BAB1",
+      "zh": ": 进来吧！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "scene ayanedormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/ayanedormgen.webp",
+      "alt": "ayanedormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane and I spend the night hanging out in her dorm.",
+      "zh": "Ayane 和我在她宿舍里待了一晚上。"
+    },
+    {
+      "en": "\"She proceeds to tell me all about the 'master plan' she's made for our lives together and I decide to",
+      "zh": "她开始跟我细讲她为我们俩的共同生活制定的那份「总体规划」，而我决定顺着她聊下去。"
+    },
+    {
+      "en": "go along with it for the sake of conversation.\"",
+      "zh": "顺着她聊下去。"
+    },
+    {
+      "en": "To be honest, there's no way I'm ready to start seriously talking about the future right now.",
+      "zh": "说实话，我现在根本没准备好认真聊未来。"
+    },
+    {
+      "en": "But she looks so happy whenever {i}she{/i} does that it would be borderline painful to stop her...",
+      "zh": "可{i}她{/i}每次说起那个都那么开心，拦着她简直近乎残忍……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ayane's affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

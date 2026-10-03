@@ -1,0 +1,482 @@
+{
+  "label": "gpmexl",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexl == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexl1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl1.webp",
+      "alt": "gpmexl1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexl2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl2.webp",
+      "alt": "gpmexl2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Aww man...",
+      "spk": "Amy",
+      "zh": ": 哎呀......",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It doesn’t look like anybody is working yet...",
+      "spk": "Amy",
+      "zh": ": 看起来还没有人在工作……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s okay. We can always try again later.",
+      "spk": "Sensei",
+      "zh": ": 没关系。我们晚点可以再来试。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexl1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl1.webp",
+      "alt": "gpmexl1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexl2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl2.webp",
+      "alt": "gpmexl2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wow! There’s a rollercoaster here too?! The Blissful Biosphere seriously has everything, doesn’t it?!",
+      "spk": "Amy",
+      "zh": ": 哇！这里还有过山车？！极乐生物圈真的什么都有，对吧？！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It doesn’t seem like anyone is working here, though. Maybe it’s not done being built yet?",
+      "spk": "Sensei",
+      "zh": ": 不过看起来这里也没人在工作。也许它还没建完？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hmm...Well, it {i}is{/i} a big place. So there’s a chance the employees just haven’t found it yet! Do you want to ride it together, maybe? I promise I won’t push you off if that’s what you’re worried about.",
+      "spk": "Amy",
+      "zh": ": 嗯……好吧，它{i}确实{/i}是个很大的地方。所以有可能员工还没找到它！要不要一起坐？如果你担心的是这个的话，我保证不会把你推下去。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You know, Amy, there are a lot of things you say that make it very hard to not be at least {i}slightly{/i} suspicious about your intentions here.",
+      "spk": "Sensei",
+      "zh": ": 你知道吗，Amy，你说的很多话都让人很难不至少{i}稍微{/i}怀疑一下你的意图。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I know, I know. But, just so we’re on the same page, even if I {i}did{/i} push you off for some reason, it definitely wouldn’t be because I’m trying to paralyze you so I can take care of you forever.",
+      "spk": "Amy",
+      "zh": ": 我知道，我知道。不过，咱们把话说清楚，就算我{i}真的{/i}因为某种原因把你推下去了，也绝对不是想让你瘫痪好让我照顾你一辈子。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It would be for fun.",
+      "spk": "Amy",
+      "zh": ": 那只是为了好玩。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Right.",
+      "spk": "Sensei",
+      "zh": ": 对。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Which obviously isn’t going to happen because I’m {i}already{/i} having fun!",
+      "spk": "Amy",
+      "zh": ": 而这显然不会发生，因为我{i}现在就{/i}玩得很开心！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": How about you, though? You seem a little more...interested here than you are in the regular mall. Are you secretly one of those outdoorsy types, Akira?",
+      "spk": "Amy",
+      "zh": ": 那你呢？你好像……对这里比对普通商场更有兴趣一点。你该不会其实是个户外派吧，Akira？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Not really. In fact, I probably enjoy being inside more than the other way around. I think I just like experiencing all of this at the same time as you.",
+      "spk": "Sensei",
+      "zh": ": 不太算。事实上，我可能更喜欢待在室内而不是反过来。我想我只是喜欢跟你同时体验这一切。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": You know so much about the regular mall, Amy. And it’s been cute watching you freak out about stuff you’ve never seen before.",
+      "spk": "Sensei",
+      "zh": ": 你对普通商场懂得太多了，Amy。而看你因为从没见过的东西大惊小怪，一直都很可爱。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexl3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl3.webp",
+      "alt": "gpmexl3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hahah! Hahah...hah...{i}cute...{/i}huh?...",
+      "spk": "Amy",
+      "zh": ": 哈哈哈！哈哈哈……哈……{i}可爱……{/i}是吗？……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexl4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl4.webp",
+      "alt": "gpmexl4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You really, um...",
+      "spk": "Amy",
+      "zh": ": 你真的，那个……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You really feel that way about me, Akira?",
+      "spk": "Amy",
+      "zh": ": 你真的这么觉得我吗，Akira？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexl5",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl5.webp",
+      "alt": "gpmexl5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": B...Because they’re still opening new stuff all the time here! And if you promise to stay forever, you’ll be able to see me act cute over and over and over again!",
+      "spk": "Amy",
+      "zh": ": 因……因为这里一直在开新的东西！如果你答应永远留下来，你就能一遍又一遍又一遍地看我卖萌！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": P-Plus! I have a stamp card for baby deliveries! Which means that the eleventh baby gets extracted for free! Sounds like great incentive to me, right?! Hahahahah!",
+      "spk": "Amy",
+      "zh": ": 再……再说！我还有一张婴儿接生的集点卡！也就是说第十一个婴儿是免费取出的！对我来说这激励很大吧，对吧？！哈哈哈哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, I’m going to need you to calm down and not mention baby stamp cards anymore.",
+      "spk": "Sensei",
+      "zh": ": Amy，我需要你冷静下来，别再提什么婴儿集点卡了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexl6",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl6.webp",
+      "alt": "gpmexl6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Good idea. I’ll just go drown myself in the rollercoaster water so you won’t have to listen to me anymore.",
+      "spk": "Amy",
+      "zh": ": 好主意。那我就去过山车的水里把自己淹死，这样你就不用再听我说话了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": No, no. Come back over here.",
+      "spk": "Sensei",
+      "zh": ": 不，不。你回来这边。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexl5",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexl5.webp",
+      "alt": "gpmexl5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mmm...fine. But only because I like looking at you. Not because I want to have eleven babies.",
+      "spk": "Amy",
+      "zh": ": 嗯……好吧。但只是因为我喜欢看你。不是因为我想生十一个宝宝。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s only our first date. Remember that. Don’t come on too strong.",
+      "spk": "Sensei",
+      "zh": ": 我们才第一次约会。记住这点。别太用力了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I know! I just feel like I {i}have{/i} to come on strong or you won’t remember me!",
+      "spk": "Amy",
+      "zh": ": 我知道！我只是觉得我{i}必须{/i}主动一点，不然你不会记得我！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": A girl doesn’t get many opportunities with the guy of her dreams, you know. I’m just afraid of messing it up.",
+      "spk": "Amy",
+      "zh": ": 一个女孩遇到梦中情人的机会可不多，你知道吗。我只是怕搞砸了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Tell you what — let’s walk around for a little while longer and then come back here to see if anyone is operating the rollercoaster yet.",
+      "spk": "Sensei",
+      "zh": ": 这样吧——我们再去逛一会儿，然后回这儿看看有没有人在开过山车了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": And if they are...you’ll ride it with me?",
+      "spk": "Amy",
+      "zh": ": 如果有的话……你会陪我一起坐吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I will.",
+      "spk": "Sensei",
+      "zh": ": 我会的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": And we can take a cute picture together at the top where we both pretend to be really scared of what’s about to happen?!",
+      "spk": "Amy",
+      "zh": ": 然后我们还可以在最高点一起拍张可爱的照片，两个人一起假装很害怕接下来要发生的事？！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Right.",
+      "spk": "Sensei",
+      "zh": ": 对。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": And then the alligator comes.",
+      "spk": "Amy",
+      "zh": ": 然后鳄鱼就来了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Right.",
+      "spk": "Sensei",
+      "zh": ": 对。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Wait, what?",
+      "spk": "Sensei",
+      "zh": ": 等等,什么?",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Out of the sky. To {i}hunt{/i} us! And ruin our picture!",
+      "spk": "Amy",
+      "zh": ": 从天上。来{i}捕猎{/i}我们！还毁了我们的照片！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, have you ever been on a rollercoaster before?",
+      "spk": "Sensei",
+      "zh": ": Amy，你以前坐过过山车吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": There’s no alligator, is there?",
+      "spk": "Amy",
+      "zh": ": 没有鳄鱼，对吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": No. Probably not.",
+      "spk": "Sensei",
+      "zh": ": 没有。大概不是。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": So you’re saying there’s a chance.",
+      "spk": "Amy",
+      "zh": ": 所以你是说还有可能。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I mean...the whole {i}coming from the sky{/i} part really makes it a lot less likely, I’m not going to lie. But-",
+      "spk": "Sensei",
+      "zh": ": 我是说……{i}从天上来{/i}那部分确实让可能性小了很多，我不骗你。不过——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Don’t ruin the surprise with your superior intellect, Akira! I’ll just keep looking forward to it in my own way!",
+      "spk": "Amy",
+      "zh": ": 别用你那过人的智商毁掉惊喜，Akira！我会用自己的方式继续期待的！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": In the meantime, though, why don’t we go check some other place out?",
+      "spk": "Amy",
+      "zh": ": 不过在那之前，我们要不要去别的地方看看？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Works for me, Amy. I wonder where we should go, though?",
+      "spk": "Sensei",
+      "zh": ": 我没意见，Amy。不过我在想我们该去哪儿？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexl = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "spring forward",
+      "zh": "春天往前拨",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexi",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "fall back",
+      "zh": "秋天往后拨",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexc",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "winter",
+      "zh": "冬天",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexk",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "winter",
+      "zh": "冬天",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexh",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "label": "tsubasajune2023pic",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsubasajunenude",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/subscribestar/images2/tsubasajunenude.png",
+      "alt": "tsubasajunenude"
+    },
+    {
+      "en": "$ renpy.pause ()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Would you like to respond?",
+      "zh": "要回复吗?"
+    },
+    {
+      "en": "Yes",
+      "zh": "愿意。",
+      "opt": true
+    },
+    {
+      "en": "What would you like to say?",
+      "zh": "你想说什么?"
+    },
+    {
+      "en": "That doesn’t look very ethical",
+      "zh": "这看起来不太道德",
+      "opt": true
+    },
+    {
+      "en": ": {i}Something about the way she’s kicking and screaming makes me feel like this wasn’t a very “ethical” abduction.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}她那样又踢又叫的样子，让我觉得这次绑架不太「道德」。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}The idea of an ethical abduction is inherently flawed. There will always be some level of risk associated with our service.{/i}",
+      "spk": "???",
+      "zh": ": {i}「道德绑架」这个概念本身就有缺陷。我们的服务总会伴随一定程度的风险。{/i}"
+    },
+    {
+      "en": ": {i}Might want to change your advertisement, then.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那你们可能该改改广告词。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}This product was obtained as ethically as possible and intercepted as part of an arranged marriage. {/i}",
+      "spk": "???",
+      "zh": ": {i}该货品已尽可能以道德的方式获得，并且是在一桩包办婚姻中截取的。{/i}"
+    },
+    {
+      "en": ": {i}She’s married?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}她结婚了？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Our interception has caused the arrangement to fall through prior to consummation and the product is now in our custody instead.{/i}",
+      "spk": "???",
+      "zh": ": {i}我们的截取使该婚约在圆房之前就破裂了，货品现在改由我们保管。{/i}"
+    },
+    {
+      "en": ": {i}She would make an excellent addition to any household, but may lack understanding of certain middle class traditions.{/i}",
+      "spk": "???",
+      "zh": ": {i}她会给任何家庭增色不少，但可能不太理解某些中产阶级的传统。{/i}"
+    },
+    {
+      "en": ": {i}Why is this being sent to me? I’m not rich. That amount is pretty out of reach and I figured you’d kind of know that based on my profile.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}为什么发给我？我并不富有。那个价钱我基本够不着，我还以为你们看我的资料会大概知道这点。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Price is not factored into our targeted marketing as we find many customers figure out creative ways to obtain money for the things they desire most.{/i}",
+      "spk": "???",
+      "zh": ": {i}价格并不在我们的定向营销考量内 —— 因为我们发现，很多顾客会想出各种有创意的方式，去弄钱买他们最渴望的东西。{/i}"
+    },
+    {
+      "en": ": {i}This product is being forwarded to you as it is tagged with the primary interest on your profile: virgin.{/i}",
+      "spk": "???",
+      "zh": ": {i}这件商品之所以推送给您，是因为它带有您档案上的首要兴趣标签：处女。{/i}"
+    },
+    {
+      "en": ": {i}How often do you obtain “products” that aren’t virgins?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你们多常弄到不是处女的「商品」？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Frequently. Our stock is not limited to children, but we have found they do sell the quickest.{/i}",
+      "spk": "???",
+      "zh": ": {i}很频繁。我们的库存并不限于儿童，但我们发现儿童确实卖得最快。{/i}"
+    },
+    {
+      "en": ": {i}I don't know. I’ll have to get back to you on this one.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我不知道。这个我得回头再答复你。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}The number you have texted is deactivated.{/i}",
+      "spk": "???",
+      "zh": ": {i}您所发短信的号码已停用。{/i}"
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "jump june2023packmenu",
+      "zh": ""
+    },
+    {
+      "en": "Any chance for a discount?",
+      "zh": "有可能打折吗？",
+      "opt": true
+    },
+    {
+      "en": ": {i}Any chance you could take a few 0’s off that price? This one is a little too rich for my blood.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那个价格能去掉几个 0 吗？这个对我来说有点太贵了。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}We are willing to negotiate with regular customers or platinum members, but you have not used our service enough to acquire either of those titles.{/i}",
+      "spk": "???",
+      "zh": ": {i}我们愿意与老顾客或白金会员协商，但您使用我们服务的次数还不足以获得其中任何一个身份。{/i}"
+    },
+    {
+      "en": ": {i}What do I need to do to become a platinum member?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}要成为白金会员我需要做什么？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Platinum status is granted to any customer who cumulatively spends over 100,000,000 yen on our merchandise.{/i}",
+      "spk": "???",
+      "zh": ": {i}凡在我们商品上累计消费超过一亿日元的顾客，均可获得白金身份。{/i}"
+    },
+    {
+      "en": ": {i}Well, that doesn’t help me at all. How do I become a regular?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那对我一点用都没有。怎么才能成为老顾客？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}By making a total of three purchases, regardless of the amount spent.{/i}",
+      "spk": "???",
+      "zh": ": {i}累计购买三次即可，金额不限。{/i}"
+    },
+    {
+      "en": ": {i}However, given the quality of this product, we can not guarantee it will still be available once this status is reached. {/i}",
+      "spk": "???",
+      "zh": ": {i}不过，鉴于这件商品的品质，我们无法保证在您达到该身份时它仍在售。{/i}"
+    },
+    {
+      "en": ": {i}Our records show you have only made one purchase through our platform, so two more would be required before negotiations could be opened regarding this product.{/i}",
+      "spk": "???",
+      "zh": ": {i}记录显示，您只在我们平台上购买过一次，因此要就这件商品开启协商，还需再买两次。{/i}"
+    },
+    {
+      "en": ": {i}What are the two cheapest products you have?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你们最便宜的两件商品是什么？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Thank you for inquiring about additional products. Someone will contact you with the information you’ve requested shortly.{/i}",
+      "spk": "???",
+      "zh": ": {i}感谢您咨询其他商品。很快就会有人联系您，提供您所要求的信息。{/i}"
+    },
+    {
+      "en": ": {i}Please be advised that I am only able to discuss the product advertised in this thread.{/i}",
+      "spk": "???",
+      "zh": ": {i}请注意，我只能讨论本帖中推广的这件商品。{/i}"
+    },
+    {
+      "en": ": {i}Then...what else can you tell me about her?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}那……关于她，你还能告诉我什么？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}She has not yet adjusted to life inside of the box and will take fine-tuning to properly adapt to a new lifestyle.{/i}",
+      "spk": "???",
+      "zh": ": {i}她尚未适应箱子里的生活，需要细细调教才能真正适应新的生活方式。{/i}"
+    },
+    {
+      "en": ": {i}Our patented anatomical analysis shows that she will eventually grow to be rather buxom, but we are unable to advise specifically when.{/i}",
+      "spk": "???",
+      "zh": ": {i}我们专利的解剖学分析显示，她最终会长得相当丰满，但具体何时我们无法告知。{/i}"
+    },
+    {
+      "en": ": {i}Additionally, the product has been sexually stimulated several times prior to arriving here, but has yet to receive penetrative sex.{/i}",
+      "spk": "???",
+      "zh": ": {i}此外，这件商品在送到这里之前已被多次性刺激，但尚未接受过插入式性交。{/i}"
+    },
+    {
+      "en": ": {i}The product has a minor temporary defect in a persistent plea for its guardian, but this should not remain an issue going forward.{/i}",
+      "spk": "???",
+      "zh": ": {i}该商品有一处轻微的暂时性缺陷：会不断呼唤其监护人。但此后应该不再是问题。{/i}"
+    },
+    {
+      "en": ": {i}How can you be so sure?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你怎么能这么确定？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I am unable to provide the specifics.{/i}",
+      "spk": "???",
+      "zh": ": {i}我无法提供细节。{/i}"
+    },
+    {
+      "en": ": {i}That’s not very comforting as a consumer.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}作为消费者，这可不太让人安心。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}The number you have texted is deactivated.{/i}",
+      "spk": "???",
+      "zh": ": {i}您所发短信的号码已停用。{/i}"
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "jump june2023packmenu",
+      "zh": ""
+    },
+    {
+      "en": "Top shelf?",
+      "zh": "顶级货？",
+      "opt": true
+    },
+    {
+      "en": ": {i}What exactly do you mean by “top shelf?”{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}你说的「顶级货」到底是什么意思？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Thank you for inquiring. {/i}",
+      "spk": "???",
+      "zh": ": {i}感谢您的咨询。{/i}"
+    },
+    {
+      "en": ": {i}Any product of ours that has the potential to generate interest apart from direct tangibility is labeled “top shelf” in our system.{/i}",
+      "spk": "???",
+      "zh": ": {i}在我们的系统中，凡是在直接可触性之外还有潜力产生兴趣的商品，都会被标为「顶级货」。{/i}"
+    },
+    {
+      "en": ": {i}Meaning...she’s good for more than just sex?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}意思是……她不只是用来做爱的？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}This product’s origin is traced to an influential family without knowledge of the product’s current status.{/i}",
+      "spk": "???",
+      "zh": ": {i}这件商品的来源可追溯到一个有影响力的家庭，而他们并不知晓该商品的现状。{/i}"
+    },
+    {
+      "en": ": {i}The product may be used as bargaining chip or resold by the consumer at a higher price, though this is ill-advised due to the risk involved.{/i}",
+      "spk": "???",
+      "zh": ": {i}该商品可被消费者用作筹码，或以更高价格转售 —— 不过鉴于其中的风险，我们不建议这么做。{/i}"
+    },
+    {
+      "en": ": {i}Why don’t you just sell her at a higher price if you’re going to pitch it like that?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}既然你这么推销，为什么不干脆把她卖贵一点？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Due to the product’s notoriety, we are unable to hold it for the extended duration many of our less notable products are held for.{/i}",
+      "spk": "???",
+      "zh": ": {i}由于该商品名声在外，我们无法像对待许多不那么起眼的商品那样长期持有它。{/i}"
+    },
+    {
+      "en": ": {i}So...what you’re saying is that people might be looking for her?{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}所以……你的意思是，可能有人在找她？{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}That is possible with all of our products, but the risk involved with this one is fractionally higher.{/i}",
+      "spk": "???",
+      "zh": ": {i}我们所有商品都有这种可能，但这一件涉及的风险要略高一些。{/i}"
+    },
+    {
+      "en": ": {i}And while the rate may be inflated because of this, the potential return is much greater.{/i}",
+      "spk": "???",
+      "zh": ": {i}虽然因此价格可能被抬高，但潜在的回报也大得多。{/i}"
+    },
+    {
+      "en": ": {i}We recommend that only serious buyers consider this product and act quickly as we can not be sure when or if another like it will arrive.{/i}",
+      "spk": "???",
+      "zh": ": {i}我们建议只有认真的买家才考虑这件商品，并且要尽快行动 —— 因为我们无法确定何时、甚至是否还会有类似的货到来。{/i}"
+    },
+    {
+      "en": ": {i}I’m just...not sure if this is something I’m after at the moment. It sounds too dangerous.{/i}",
+      "spk": "Sensei",
+      "zh": ": {i}我只是……不太确定这是不是我目前想要的。听起来太危险了。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}The number you have texted is deactivated.{/i}",
+      "spk": "???",
+      "zh": ": {i}您所发短信的号码已停用。{/i}"
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "jump june2023packmenu",
+      "zh": ""
+    },
+    {
+      "en": "No",
+      "zh": "否",
+      "opt": true
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/bedroom_day.png",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": "jump june2023packmenu",
+      "zh": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

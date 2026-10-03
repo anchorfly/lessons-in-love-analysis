@@ -1,0 +1,132 @@
+{
+  "label": "saraspringbargen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label saraspringbargen:",
+      "zh": ""
+    },
+    {
+      "en": "scene saraspringbargen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/saraspringbargen.webp",
+      "alt": "saraspringbargen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I'm finally starting to understand just how effective Sara's methods are when it comes to dealing with grief.",
+      "zh": "我终于开始明白，Sara 那套对付悲伤的办法有多有效。"
+    },
+    {
+      "en": "Because, while drinking won't ever make the things I don't want to think about go {i}away,{/i} it {i}does{/i} confuse me after I spend enough time doing it.",
+      "zh": "因为，虽然喝酒永远不会让那些我不想面对的东西{i}消失{/i}，但喝得够久，它{i}确实{/i}能把我搞糊涂。"
+    },
+    {
+      "en": "And hey, I'll take what I can get at this point. Especially when I'm getting it from someone who would probably let me fuck her daughter if I asked her nicely.",
+      "zh": "嘿，事到如今，有总比没有强。尤其这些东西还是从某个——我要是好声好气地求她，她大概连女儿都肯让我睡——的人手里拿到的。"
+    },
+    {
+      "en": "Not like I'd need to, though. Both Sakakibaras want me as the centerpiece of their world, and it's making me question just how dark those worlds must be if {i}I{/i} can somehow light them up.",
+      "zh": "不过我也用不着。Sakakibara 母女都想让我成为她们世界的中心，这让我不禁想问，那两个世界到底得有多暗，才轮得到{i}我{/i}来照亮。"
+    },
+    {
+      "en": "There's a point during the night where Sara stares at me for an extended period of time.",
+      "zh": "夜里有一阵子，Sara 盯着我很久。"
+    },
+    {
+      "en": "I can tell she wants to say something. But she never does.",
+      "zh": "我看得出她有话想说。可她始终没有说出口。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She just smiles and walks away, grabbing me another beer out of the cooler before taking a break to tend to a few other customers.",
+      "zh": "她只是笑了笑就走开了，从冷藏柜里又给我拿了瓶啤酒，顺便抽空去照应另外几位客人。"
+    },
+    {
+      "en": "I observe her while she does this. And I confirm that I'm the only person she smiles like that for.",
+      "zh": "她忙活的时候我就看着她。我确认了一件事——她那样笑，只对我一个人。"
+    },
+    {
+      "en": "But strangely enough, in complete contrast to the way things used to be, it's not a smile I want to protect. It's one I want to decimate.",
+      "zh": "可奇怪的是，和从前完全相反，这不是一个我想守护的笑容。而是一个我想毁掉的笑容。"
+    },
+    {
+      "en": "Because I know that destroying the happiness she's able to get from me now will let her smile for someone else one day.",
+      "zh": "因为我知道，把她现在能从我这里得到的幸福毁掉，总有一天她就能对别人笑。"
+    },
+    {
+      "en": "But I am selfish.",
+      "zh": "可我很自私。"
+    },
+    {
+      "en": "So I drink. And I wind up confusing myself.",
+      "zh": "所以我喝。喝到最后把自己搞糊涂。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sara_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Sara’s affection has increased to [sara_love]!{/i}",
+      "zh": "{i}Sara 的好感度提升到了 [sara_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
+}

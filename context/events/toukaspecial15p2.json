@@ -1,0 +1,2520 @@
+{
+  "label": "toukaspecial15p2",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label toukaspecial15p2:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsukiokaarcade1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade1.webp",
+      "alt": "tsukiokaarcade1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What?! Where are we?! This doesn’t look like a place that’s made for poor people at all!",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 什么？！这是哪儿？！这地方看着压根不像给穷人准备的！"
+    },
+    {
+      "en": ": Did we perhaps go...{i}under{/i} the outer barrier instead of through it? Have we accidentally discovered a loophole in the isolation policy?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我们是不是……从「外围屏障」{i}底下{/i}钻过去、而不是穿过去的？我们是不是无意中发现了「隔离政策」的漏洞？"
+    },
+    {
+      "en": ": No, Mother. I believe we’re still in Kumon-mi. I’ve overheard several of my classmates speaking about a place like this, but I had no idea it was so...large. And colorful.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 不，母亲。我想我们还在公文美。我无意中听几个同学提起过这样的地方，但我不知道它这么……大。还这么色彩斑斓。"
+    },
+    {
+      "en": ": Why, this is actually quite impressive.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 哎呀，这其实还挺气派的。"
+    },
+    {
+      "en": ": Mother! Mother! There is a sign for something called a “Maid cafe!” Poor people {i}can{/i} have maids after all!",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 母亲！母亲！那儿有个招牌写着什么「女仆咖啡厅」！原来穷人也{i}能{/i}有女仆！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "As much as I’d like to say that Kumon-mi keeps getting larger, I actually know where we are now.",
+      "zh": "尽管我很想说公文美一直在变大，但我其实知道我们现在在哪儿了。"
+    },
+    {
+      "en": "Well, vaguely.",
+      "zh": "嗯，大概知道。"
+    },
+    {
+      "en": "I’m pretty sure this place isn’t far off from the arcade I visited with Rin a while ago. The...architecture looks the same, at the very least.",
+      "zh": "我很确定这地方离我之前跟 Rin 去过的那家游戏厅不远。至少……建筑风格是一样的。"
+    },
+    {
+      "en": "I’m pretty sure I’ve heard Ami and company talk about this area as well, but those conversations have always been riddled with terminology I don’t understand, so I never paid much attention.",
+      "zh": "我很确定我也听 Ami 她们聊起过这片区域，只是那些对话里全是我听不懂的术语，所以我从没上心。"
+    },
+    {
+      "en": "Either way, as you can see, the Tsukioka family is currently struggling to come to terms with the expansion of their world and has gone into a bit of a collective state of shock.",
+      "zh": "不管怎样，如你所见，月冈一家此刻正难以消化「她们的世界变大了」这个事实，陷入了一种集体震惊状态。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade2.webp",
+      "alt": "tsukiokaarcade2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei...we {i}are{/i} still in Kumon-mi, correct? Do you have any idea what this part of the city is called?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": Sensei……我们还{i}在{/i}公文美，对吧？你知道城里这片叫什么吗？"
+    },
+    {
+      "en": ": We are and no. I have no idea what this place is called. Just keep an eye out for a sign if you’re that curious.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 在，而且不知道。我不知道这地方叫什么。你真那么好奇的话，就自己留意招牌。"
+    },
+    {
+      "en": ": Well aren’t you as unhelpful as ever.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你可真是一如既往地帮不上忙。"
+    },
+    {
+      "en": ": I’d like to take this opportunity to remind you that you’re technically the one who brought {i}me{/i} here. Well, your sister at least.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我要借这个机会提醒你：严格说，是你把{i}我{/i}带到这儿来的。好吧，至少是你妹妹。"
+    },
+    {
+      "en": ": This place is crazy! Super crazy!",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 这地方太疯狂了！超级疯狂！"
+    },
+    {
+      "en": ": Why’s that man over there dressed like a woman?! And why is that woman dressed like a cat?! And why is that cat- wait, no. That’s just a normal cat.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 那边那个男人为什么穿得像女人？！那个女人为什么穿得像猫？！还有那只猫——等等，不对。那就是只普通的猫。"
+    },
+    {
+      "en": ": Mother! Put Father on Facetime! He must see this!",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 母亲！快跟父亲开视频！他必须看看这个！"
+    },
+    {
+      "en": ": This isn’t one of those “Red light districts” I’ve heard about, is it?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 这不是我听说过的那种「红灯区」吧？"
+    },
+    {
+      "en": ": The lights {i}do{/i} seem rather red-{i}ish.{/i}",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 灯{i}确实{/i}看着有点{i}偏{/i}红。"
+    },
+    {
+      "en": ": I’m sure there’s nothing you have to worry about during the day. Things might be a little different at night, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 白天肯定没什么好担心的。不过晚上可能就有点不一样了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I’ll have to make sure I stop by and check some time. In the interest of keeping my students out of harm’s way, of course. There are absolutely no “personal” reasons for my sudden desire to spend more time here.",
+      "zh": "改天我得抽空来转转。当然，纯粹是为了让我的学生们远离危险。我突然想多来这儿，绝对没有任何「私人」原因。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade3.webp",
+      "alt": "tsukiokaarcade3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mother! Do you think the reason commoners are able to tolerate the subway as effectively as they do is because they know where it is taking them?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 母亲！你说平民之所以能把地铁坐得那么习以为常，是不是因为他们知道地铁要把他们带往哪儿？"
+    },
+    {
+      "en": ": No, dear. I think they just have a completely different standard of living than we’re used to. But I’m sure a place like this {i}would{/i} provide some sort of...incentive.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 不，亲爱的。我想他们只是过着一种跟我们完全不同的生活水准。不过我敢说，这样的地方确实{i}能{/i}提供某种……「动力」。"
+    },
+    {
+      "en": ": Tsukasa, will you be choosing where we head from here as well? You know, since our tour guide would rather {i}tour{/i} than {i}guide.{/i}",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": Tsukasa，接下来去哪儿也由你定吗？毕竟我们的「导游」只顾着{i}「游」{/i}，不{i}「导」{/i}。"
+    },
+    {
+      "en": ": I’ll have you know that there is actually one building over here that I have been inside and that is infinitely more than any of you have exposure to.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 告诉你，这边其实有一栋楼是我进去过的，这就比你们任何一个人的「见识」都多得多了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade4.webp",
+      "alt": "tsukiokaarcade4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is that true? What in the world brought you over to this part of town, Sensei? All that I’ve heard about it involves otaku culture, scantily clad women and-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 真的吗？你当初到底为什么跑进城这一片来，Sensei？我听说的关于这儿的一切，都离不开宅文化、衣着暴露的女人和——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade5.webp",
+      "alt": "tsukiokaarcade5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh. I believe I understand now.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 哦。我想我懂了。"
+    },
+    {
+      "en": ": You’re absolutely sure there’s nothing...you know, {i}inappropriate{/i} around here, Sensei? ",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 你百分百确定这附近没什么……你懂的，{i}不合适{/i}的东西吧，Sensei？"
+    },
+    {
+      "en": ": Touka is one thing, but I shouldn’t be exposing Tsukasa to such...aspects of the world at her age. Especially with her inherent curiosity about everything.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": Touka 是一回事，可 Tsukasa 这个年纪，我不该让她接触世界的这些……方面。尤其她天生对什么都好奇。"
+    },
+    {
+      "en": ": Nonsense, Mother. I’m just as much of an adult as Touka.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 别瞎说，母亲。我跟 Touka 一样是大人。"
+    },
+    {
+      "en": ": You’re really not, dear.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 你还真不是，亲爱的。"
+    },
+    {
+      "en": ": I have no idea what is or isn’t inappropriate about this part of town. The building I alluded to a minute ago should be fine, though.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不知道城里这片什么算「不合适」、什么不算。不过我刚才提到的那栋楼应该没问题。"
+    },
+    {
+      "en": ": It’s just some arcade thing I’ve been to with another girl from class.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就是我跟班上另一个女孩去过的一家游戏厅。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade6.webp",
+      "alt": "tsukiokaarcade6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well aren’t you the most popular man around?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 你可真是这一带最受欢迎的男人。"
+    },
+    {
+      "en": ": Strangely enough, I kind of am.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说来也怪，我好像还真是。"
+    },
+    {
+      "en": ": Who did you come here with, Sensei?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你跟谁来的这儿，Sensei？"
+    },
+    {
+      "en": ": Was it the Irish girl? Molly? This seems like the sort of place she’d enjoy.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 是那个爱尔兰女孩吗？Molly？这地方看着就像她会喜欢的。"
+    },
+    {
+      "en": ": I bet {i}I{/i} know who it was.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": {i}我{/i}敢说我猜得到是谁。"
+    },
+    {
+      "en": ": It was Rin.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是 Rin。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade7.webp",
+      "alt": "tsukiokaarcade7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Nevermind. This is what I get for thinking I’m “in the loop.”",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 当我没说。我自以为「消息灵通」，结果就这。"
+    },
+    {
+      "en": ": I suppose you two are rather friendly with one another, so that makes sense.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你们俩关系倒是挺好，那就说得通了。"
+    },
+    {
+      "en": ": What would we do at an arcade, though? Tsukasa and I have very little exposure to video games since they’re known to rot away at the brain.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 可我们在游戏厅能干嘛呢？Tsukasa 和我很少碰电子游戏，因为据说那玩意会腐蚀大脑。"
+    },
+    {
+      "en": ": I think that’s just a thing parents say to keep their children away from having fun for whatever reason. There’s not really any truth to it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得那只是家长们随口编来让孩子别去玩的说法。没什么真凭实据。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade8.webp",
+      "alt": "tsukiokaarcade8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You know, dear, your mother used to be rather excellent at pinball when she was your age.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 你知道吗，亲爱的，你母亲我在你这个年纪时，弹球玩得相当好。"
+    },
+    {
+      "en": ": I’m not sure if I’d call that a {i}video{/i} game per se, but I’m not opposed to reliving some of the old days with my two favorite girls by my side.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我不太确定那算不算「{i}电子{/i}游戏」，不过有我最爱的两个女孩陪在身边，我倒不反对重温一下旧日时光。"
+    },
+    {
+      "en": ": Is that true, Mother? I had no idea. I’d assumed those old pinball machines in our seventh basement were just valuable antiques of some sort.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 真的吗，母亲？我都不知道。我还以为我们地下七层那些旧弹球机只是些值钱的古董。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade9.webp",
+      "alt": "tsukiokaarcade9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What? No! Don’t call them antiques! That makes me feel old!",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 什么？才不是！别叫它们古董！那样显得我好老！"
+    },
+    {
+      "en": ": Mr. Teacher Man, does this “arcade” have the pig-killing game that my new friend Chinami has been telling me about?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 老师先生，这个「游戏厅」里有我新朋友 Chinami 一直跟我说的那个「杀猪游戏」吗？"
+    },
+    {
+      "en": ": She has been raving quite a bit about it and I must train in order to knock her off her shoddy, immunocompromised pedestal and show her who the true champion of the world is.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 她把它夸上天了，我必须加紧练习，好把她从那个又破又「免疫力低下」的神坛上拽下来，让她看看谁才是真正的世界冠军。"
+    },
+    {
+      "en": ": Probably not, but there’s only one way to find out.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 多半没有，不过只有一个办法能知道。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade10.webp",
+      "alt": "tsukiokaarcade10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I vote for the commoner arcade! I see enough maids at home! A cafe full of them does not interest me!",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 我投「平民游戏厅」一票！我在家看女仆都看腻了！一屋子全是女仆的咖啡厅勾不起我的兴趣！"
+    },
+    {
+      "en": ": I also think that might be fun. I’m not sure I’m as good with my hands as I used to be, but I’d certainly like to give them a bit of a workout if you catch my drift.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我也觉得那可能挺好玩。我不确定我的手还像不像以前那么灵活，不过我很想让它们「锻炼锻炼」——你懂我意思。"
+    },
+    {
+      "en": ": I...don’t know if I do? Because that sounded a lot like-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我……不知道我懂不懂？因为那话听着很像——"
+    },
+    {
+      "en": ": With Mother’s blessing, I’d be delighted to go as well.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 只要母亲同意，我也很乐意去。"
+    },
+    {
+      "en": ": It might not be a public pool or a beach vacation, but this {i}does{/i} seem like a summer activity of sorts. So it’s almost like the purpose of our visit here is actually being fulfilled!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 这也许算不上公共泳池或海滩度假，但{i}确实{/i}像某种夏日活动。所以我们来这儿的目的，差不多算真的达成了！"
+    },
+    {
+      "en": ": Congratulations, Sensei! You have achieved a very rare success!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 恭喜你，Sensei！你取得了一次罕见的成功！"
+    },
+    {
+      "en": ": Who is it that’s been teaching you sarcasm? Because I really don’t like this side of you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是谁教你反讽的？因为我真不喜欢你这样。"
+    },
+    {
+      "en": ": What side are you speaking of? I am but a naive, young woman- ignorant to the harshness of a commoner summer and all of the activities that accompany it.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你说我哪样？我只是个天真的年轻姑娘——不懂平民夏天的艰苦、也不懂随之而来的种种活动。"
+    },
+    {
+      "en": ": And I’m her mother: An ex-pinball expert who is definitely not “old.”",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 而我是她母亲：一位前弹球高手，绝对不「老」。"
+    },
+    {
+      "en": ": And I’m bored! Arcade! Now! Go!",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 我无聊死了！游戏厅！现在！快走！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I search for the word “arcade” on my GPS app only to be flooded with a list of at least twenty of them that I must now cycle through until I find the one I’m actually familiar with.",
+      "zh": "我在 GPS 应用里搜「游戏厅」，结果被至少二十家的列表淹没，只得挨个翻，直到找到我真正熟悉的那家。"
+    },
+    {
+      "en": "After a fair bit of navigation, the name “Couch Potato” jumps out at me and I confirm that it’s the correct one.",
+      "zh": "导航了好一阵，「沙发土豆」这个名字跳进眼帘，我确认就是它了。"
+    },
+    {
+      "en": "The arcade is about a mile away, so I’m sure it’s more walking than any of the Tsukiokas have ever done while not on some sort of...rich person hike or something.",
+      "zh": "游戏厅大约一英里外，所以我敢肯定，这走路的量超过了月冈家任何人在不搞什么……富人远足之类的情况下走过的。"
+    },
+    {
+      "en": "If that’s even a thing rich people do.",
+      "zh": "如果「富人远足」真存在的话。"
+    },
+    {
+      "en": "Huh.",
+      "zh": "咦。"
+    },
+    {
+      "en": "I guess I really would be lost if I were to enter Touka’s world.",
+      "zh": "看来我要真进了 Touka 的世界，会彻底迷失。"
+    },
+    {
+      "en": "But for now, she and her family are a part of mine.",
+      "zh": "但眼下，她和她的家人是我世界的一部分。"
+    },
+    {
+      "en": "Just...one that I don’t often explore.",
+      "zh": "只是……一个我不常涉足的部分。"
+    },
+    {
+      "en": "Either way, I coerce them into following me without the assistance of a limo and, after a short while, we arrive at the arcade.",
+      "zh": "不管怎样，我不用豪车就哄她们跟着我走，没过多久，我们就到了游戏厅。"
+    },
+    {
+      "en": ".........",
+      "zh": "…………"
+    },
+    {
+      "en": "......",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade11.webp",
+      "alt": "tsukiokaarcade11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You know, I was a little worried about where you were leading us once we started moving further and further away from the nice looking buildings, but I will admit that this is nicer than I was expecting.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 你知道吗，当我们越走越远离那些看着不错的楼时，我有点担心你要把我们带往哪儿，不过我得承认，这儿比我预想的要好。"
+    },
+    {
+      "en": ": Thanks? Maybe?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 谢谢？大概？"
+    },
+    {
+      "en": ": It’s just an interesting choice. That’s all. I’m sure this arcade has just as much to offer as all of the ones we passed that were ten times the size of it.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 这只是个有意思的选择。仅此而已。我敢肯定，这家游戏厅跟我们路过的那些比它大十倍的，一样有得玩。"
+    },
+    {
+      "en": ": Really. Who taught you this?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说真的。谁教你这么说话的？"
+    },
+    {
+      "en": ": There are certain things a person just...picks up after spending enough time with you.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 有些东西，一个人只要跟你处久了……自然就「沾染」上了。"
+    },
+    {
+      "en": ": Anyway, {i}I’m{/i} not the one who actively {i}chose{/i} this arcade. It’s just the only one that I’ve physically been to.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 总之，不是{i}我{/i}特意{i}挑{/i}的这家。只是我 physically 只来过这一家。"
+    },
+    {
+      "en": ": Take it up with Rin if you have a problem with it. This is just the one where cool people hang out at according to her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你要有意见找 Rin 说去。据她说，酷的人都来这家玩。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade12.webp",
+      "alt": "tsukiokaarcade12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What? Cool people? I would like to be “cool.”",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 什么？酷的人？我也想当「酷」的。"
+    },
+    {
+      "en": ": Then go play a game or something. I don’t know.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那就去玩个游戏什么的。我不知道。"
+    },
+    {
+      "en": ": Enjoy your pretend summer vacation while it’s technically still winter.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 趁现在名义上还是冬天，好好享受你这场「假暑假」。"
+    },
+    {
+      "en": ": What are you going to do, though?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 不过你要干嘛？"
+    },
+    {
+      "en": ": Me? Probably zone out for a few minutes and then choose which one of you to spend time with.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我？大概先发几分钟呆，再决定跟你们哪一个待一会儿。"
+    },
+    {
+      "en": ": Well {i}I{/i} am going to get a drink. I was not expecting there to be a bar here. ",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 那{i}我{/i}去喝一杯。我没想到这儿居然有吧台。"
+    },
+    {
+      "en": ": I was also expecting there to be maybe {i}one{/i} pinball machine, but...alas.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我本以为这儿好歹会有{i}一{/i}台弹球机，可……唉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade11.webp",
+      "alt": "tsukiokaarcade11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And I suppose I will make my way over to a random machine and pretend to know what I am doing.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 至于我，就走到某台机器前，假装知道自己在干嘛吧。"
+    },
+    {
+      "en": ": Feel free to come teach me if you’d be so obliged, Sensei. Since that {i}is{/i} your job and all, I mean.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你要乐意的话，欢迎来教我，Sensei。毕竟那{i}是{/i}你的「工作」嘛。"
+    },
+    {
+      "en": ": Uh-huh. We’ll see.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯哼。再说吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The Tsukiokas disperse and, after a moment of self-reflection and mild confusion about yet another situation I’ve found myself in, the time comes to make a choice.",
+      "zh": "月冈家的人散开了。我又一次自我反省、对自己又卷进的这摊子事略感困惑之后，到了做选择的时候。"
+    },
+    {
+      "en": "Who do I want to spend time with first?",
+      "zh": "我想先陪谁？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "menu tsukiokaarcade:",
+      "zh": ""
+    },
+    {
+      "en": "Touka",
+      "zh": "Touka"
+    },
+    {
+      "en": "scene tsukiokaarcade13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade13.webp",
+      "alt": "tsukiokaarcade13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, good. You’re here.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 哦，好。你来了。"
+    },
+    {
+      "en": ": Can you tell me what the purpose of this game is exactly? I can’t seem to make it past the first level.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你能告诉我这游戏到底要干嘛吗？我连第一关都过不去。"
+    },
+    {
+      "en": ": Touka, that’s the start menu.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Touka，那是开始菜单。"
+    },
+    {
+      "en": ": Does it not count as a level? I’m very confused.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 那不算一关吗？我很困惑。"
+    },
+    {
+      "en": ": You just have to hit the start button.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你只要按开始键就行。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade14.webp",
+      "alt": "tsukiokaarcade14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": The...oh. Okay. I see it. Can I not just use this knobby thing to control the video game? Using multiple buttons {i}and{/i} a knobby thing sounds very hard for a beginner like me.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 那……哦。好。我看见了。我不能就用这个「圆圆的东西」来控制游戏吗？又要按好几个键{i}又要{/i}用「圆圆的东西」，对我这种新手来说太难了。"
+    },
+    {
+      "en": ": I’m pretty sure this is one of the easiest games to control here. You’ve just got two buttons and a joystick.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我很确定，这是这儿最容易操作的游戏之一了。就两个键加一个摇杆。"
+    },
+    {
+      "en": ": Most of the modern games Ami and her friends play require all sorts of buttons and multiple joysticks, so if you’re going to learn, this is probably the place to do it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Ami 和她朋友们玩的大多数现代游戏，要按一大堆键、还好几个摇杆。所以你要学，这儿大概是最佳起点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade15.webp",
+      "alt": "tsukiokaarcade15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you also play games like this in your spare time, Sensei? Or is all of it spent wandering into the rooms of unsuspecting [teenager]s?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你闲暇时也玩这种游戏吗，Sensei？还是全用来「闯进毫无防备的[未成年]的房间」了？"
+    },
+    {
+      "en": ": I don’t really do anything like this, no. Knowing how arcade machines work is kind of just ingrained into the lower middle class, I guess.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不怎么玩这个。大概就是，「懂游戏机厅机器怎么用」已经刻进了中下阶层的骨子里。"
+    },
+    {
+      "en": ": I see.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 这样。"
+    },
+    {
+      "en": ": If only they could find that same level of ingrained passion for exercising or eating anything other than junk food.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 要是他们能把这份「刻进骨子里的热情」分点给锻炼、或「吃点垃圾食品以外的东西」就好了。"
+    },
+    {
+      "en": ": Yeah, if only.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是啊，要是那样就好了。"
+    },
+    {
+      "en": ": Anyway, do you want to give this a try? It’s a fighting game, so you can just mash a bunch of those buttons and hopefully hit me or something.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 总之，你想试试吗？这是格斗游戏，你随便猛按那几个键就行，说不定能打到我什么的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade16.webp",
+      "alt": "tsukiokaarcade16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes! That sounds wonderful.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 好！听起来棒极了。"
+    },
+    {
+      "en": ": Let’s see...um...start!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我看看……呃……开始！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka slams down on the start button and finally makes it past the opening menu.",
+      "zh": "Touka 猛地砸下开始键，总算过了开场菜单。"
+    },
+    {
+      "en": "A fit of paid applause rings out in the distance as she conquers what is probably the biggest challenge she has faced to date.",
+      "zh": "远处响起一阵「付费掌声」，庆祝她攻克了大概是有生以来最大的挑战。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Please go easy on me, Sensei. It is my first time and I don’t know what I’m doing.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 请对我手下留情，Sensei。这是我第一次，我完全不知道自己在干嘛。"
+    },
+    {
+      "en": ": Can you say that again, but with direct eye contact and a slightly redder face?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你能再说一遍吗？这次要直视我的眼睛，脸再红一点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade17.webp",
+      "alt": "tsukiokaarcade17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ha ha ha. Sexual harassment is no joke, Sensei.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 哈哈哈。性骚扰可不是闹着玩的，Sensei。"
+    },
+    {
+      "en": ": Then why did you just laugh?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那你刚才笑什么？"
+    },
+    {
+      "en": ": Because that...wasn’t a real...",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 因为那……又不是真的……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade18.webp",
+      "alt": "tsukiokaarcade18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You know what?! I do not need to defeat you with words! I will defeat you in combat instead!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你够了！我不用嘴皮子赢你！我要在战斗中打败你！"
+    },
+    {
+      "en": ": Engarde!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 接招！"
+    },
+    {
+      "en": ": You haven’t selected a fighter yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你还没选角色呢。"
+    },
+    {
+      "en": ": How do I do that?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 怎么选？"
+    },
+    {
+      "en": ": Just move your joystick until the character you want to play as is highlighted. Then hit one of the two buttons you’re hovering over.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 推动摇杆，把你想用的角色高亮出来，然后按你手边的两个键之一。"
+    },
+    {
+      "en": ": Okay. But if this is a trick and your method causes me to lose before the game even begins, I will be incredibly upset with you.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 好。不过要是这是个圈套、你的方法害我在游戏开始前就输了，我会非常非常生你的气。"
+    },
+    {
+      "en": ": This is one of the rare times I’m actually being honest.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这是我难得的几次说真话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka cycles through all of the characters for a moment while I just select the “Random” option since I have no idea how any of them work and don’t really care.",
+      "zh": "Touka 把所有角色轮了一遍，我则直接选了「随机」——反正我不知道哪个好用，也不在乎。"
+    },
+    {
+      "en": "Eventually, she makes up her mind and slams down on the button with way too much vigor, prompting the round to start.",
+      "zh": "她终于拿定主意，用一股大得离谱的劲儿砸下按键，对战开始。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}Now{/i} engarde!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": {i}现在{/i}，接招！"
+    },
+    {
+      "en": ": How do I attack? Which of these two buttons inflicts the most pain upon my enemy?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我怎么攻击？这两个键里，哪个能给我敌人造成最大痛苦？"
+    },
+    {
+      "en": ": Well, you’re going to want to walk over to my character first.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这个嘛，你得先走到我的角色面前。"
+    },
+    {
+      "en": ": Which one is your character?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 哪个是你的角色？"
+    },
+    {
+      "en": ": Literally the only other character on the screen besides yours.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 就是屏幕上除了你的角色之外，唯一的那一个。"
+    },
+    {
+      "en": ": I see. Do not move. I am coming to eliminate you.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 明白了。别动。我来消灭你了。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka eventually manages to move her character over to mine and stops him dead in his tracks before actually attacking.",
+      "zh": "Touka 总算把她的角色挪到了我的跟前，却没真的攻击，先把他钉在原地。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade19.webp",
+      "alt": "tsukiokaarcade19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you have any last words, Sensei?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你有什么遗言吗，Sensei？"
+    },
+    {
+      "en": ": Yes. Are we actually fighting? Or am I supposed to stand here and let you kill me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 有。我们是真在打？还是我该站着不动任你杀？"
+    },
+    {
+      "en": ": Do you think you can defeat {i}me?{/i} Touka Tsukioka of the esteemed Tsukioka family?",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你以为你打得过{i}我{/i}？显赫的月冈家的 Touka Tsukioka？"
+    },
+    {
+      "en": ": I have practiced a bit of Judo, you know. I was never very good, but I do believe it will give me a bit of an advantage when it comes to-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我可是练过一点柔道的。虽然从来没练好，但我相信这会让我在……占点优势——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade20.webp",
+      "alt": "tsukiokaarcade20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait! What was that noise?! What happened to my little green bar at the top of the screen?!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 等等！刚才那是什么声音？！我屏幕上方那条绿色的小血条怎么了？！"
+    },
+    {
+      "en": ": I punched you while you weren’t looking.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我趁你没看的时候打了你一拳。"
+    },
+    {
+      "en": ": The {i}audacity!{/i} How dare you!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": {i}岂有此理{/i}！你竟敢！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade21.webp",
+      "alt": "tsukiokaarcade21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hi-yah!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 嗨——呀！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka presses one of her buttons and manages to punch my character as well.",
+      "zh": "Touka 按下一个键，也总算打到了我的角色一拳。"
+    },
+    {
+      "en": "This means war.",
+      "zh": "这下开战了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hi-yah! Hi-yah! Hi-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 嗨呀！嗨呀！嗨——"
+    },
+    {
+      "en": ": Wait. No. Stop it. Let me hit you. My flurry of blows is not yet complete.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 等等。不。住手。让我打你。我那套连环击还没打完呢。"
+    },
+    {
+      "en": ": I’m good. I don’t really like losing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不干。我不太喜欢输。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade22.webp",
+      "alt": "tsukiokaarcade22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And you think {i}I{/i} do?! Absolutely not! I will not be defeated by my-",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你以为{i}我{/i}喜欢吗？！绝对不！我可不会败给我的——"
+    },
+    {
+      "en": ": You just lost.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你刚输了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade23.webp",
+      "alt": "tsukiokaarcade23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Already?!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 这么快？！"
+    },
+    {
+      "en": ": You liar! You heathen! You’re an expert at video games, aren’t you?! Is this what it means to be hustled?!",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 你骗人！你个异教徒！你是电子游戏高手，对吧？！这就是被人「下套」的感觉吗？！"
+    },
+    {
+      "en": ": No. This is what it means to stop paying attention when you’re competing against someone.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不是。这叫「跟人较量时走神」。"
+    },
+    {
+      "en": ": You let your guard down and I just took advantage of that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你放松了警惕，我就趁虚而入了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade24.webp",
+      "alt": "tsukiokaarcade24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But my character was so much larger than yours. He should have been able to live for much longer than that.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 可我的角色比你的大那么多。他本该活得比那久得多。"
+    },
+    {
+      "en": ": This game is entirely unrealistic.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 这游戏完全不真实。"
+    },
+    {
+      "en": ": You know, I think you’re going to find that that’s a recurring aspect of video games. The vast majority of them don’t really pride themselves on their realism.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你知道吗，我觉得你会发现这是电子游戏的通病。绝大多数游戏都不以「真实」为傲。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade25.webp",
+      "alt": "tsukiokaarcade25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I demand a rematch immediately. I refuse to leave this machine until I defeat you.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 我要求立刻再战。不赢你，我绝不离开这台机器。"
+    },
+    {
+      "en": ": But we could be here for years.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可那我们得在这儿耗好几年。"
+    },
+    {
+      "en": ": Nonsense. I just need several more rounds to familiarize myself with the form of martial arts my character uses.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 胡说。我只需再来几局，熟悉一下我角色用的武术流派。"
+    },
+    {
+      "en": ": I will be mopping the floor with you in no time at all, good Sir.",
+      "spk": "Touka",
+      "spkColor": "#F0E68C",
+      "zh": ": 很快我就能把你打得满地找牙，好先生。"
+    },
+    {
+      "en": ": Sure thing, Touka. Whatever you say.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 行行，Touka。都听你的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Touka and I proceed to play several more rounds of the fighting game.",
+      "zh": "Touka 和我接着又玩了好几局格斗游戏。"
+    },
+    {
+      "en": "Then several more.",
+      "zh": "又好几局。"
+    },
+    {
+      "en": "Then...several more.",
+      "zh": "然后……又好几局。"
+    },
+    {
+      "en": "She is very, very bad. Even by beginner standards.",
+      "zh": "她打得非常非常烂。哪怕以新手标准看都烂。"
+    },
+    {
+      "en": "Eventually, I get so tired of winning that I put on an act to make it seem like she defeats me fair and square, freeing me once and for all from my prison of incessant victory.",
+      "zh": "最后，我赢腻味了，索性演了场戏，让她「名正言顺」地打败我——把我从「连胜牢笼」里彻底解放了出来。"
+    },
+    {
+      "en": "And while it does hurt my pride a bit losing to Touka (Even if it’s on purpose), that pride is quickly healed by the sight of her literally jumping for joy.",
+      "zh": "输给 Touka 确实有点伤自尊（哪怕是故意的），但看到她真的高兴得蹦起来，那点自尊瞬间就被治愈了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I curse whatever innovations in fashion manage to keep her dress secured to her chest before sighing to myself and returning to the center of the arcade.",
+      "zh": "我暗暗咒骂那些把她裙子牢牢固定在她胸前的服装工艺创新，然后对自己叹了口气，回到游戏厅中央。"
+    },
+    {
+      "en": ".........",
+      "zh": "…………"
+    },
+    {
+      "en": "......",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ toukaarcade = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if toukaarcade == True and tsubasaarcade == True and tsukasaarcade == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump endoftoukaarcade",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump tsukiokaarcade",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsubasa",
+      "zh": "Tsubasa"
+    },
+    {
+      "en": "scene tsukiokaarcade26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade26.webp",
+      "alt": "tsukiokaarcade26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way over to Tsubasa at the bar and feel very proud of myself for once again actively seeking out someone closer to my age group.",
+      "zh": "我走向吧台边的 Tsubasa，为自己又一次主动接近了「跟我同龄段」的人而颇为得意。"
+    },
+    {
+      "en": "Honestly, though, Tsubasa isn’t really that different from Touka in...any way whatsoever. So it’s kind of just like hanging out with Touka 2.0.",
+      "zh": "不过说实话，Tsubasa 跟 Touka 在……任何方面都没什么两样。所以跟她待着，有点像跟「Touka 2.0」待在一起。"
+    },
+    {
+      "en": "Or...1.0 depending on your preferences, I guess.",
+      "zh": "或者说……1.0，看你喜好。"
+    },
+    {
+      "en": "Either way, I take my place beside her at the bar and order a beer that, hopefully, Tsubasa will pay for on account of both her immense wealth and the invasion of what was supposed to be a thing for Touka and me.",
+      "zh": "总之，我在她身边坐下，点了杯啤酒——但愿 Tsubasa 会买单，毕竟她既有万贯家财，又「入侵」了这场本该属于我和 Touka 的活动。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, hello there.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 哎呀，你好啊。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if toukaarcade == True:",
+      "zh": ""
+    },
+    {
+      "en": ": Does this mean you and Touka are done {i}combating{/i} one another?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 这是说你和 Touka {i}打{/i}完了？"
+    },
+    {
+      "en": ": Yes. Though, I did have to take a dive in order to get away.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 对。不过我为了脱身，不得不故意输了一局。"
+    },
+    {
+      "en": ": She refused to leave the machine until she beat me and she is incredibly bad at video games.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她不赢我就不肯离开那台机器，而她玩电子游戏又烂得不行。"
+    },
+    {
+      "en": ": Look at you, taking a fall to please a young girl. How noble.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 瞧瞧你，为讨一个小姑娘欢心故意放水。真高尚。"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": I’m a little surprised to see you come over to me before Touka. What with me intruding on your little “field trip” and whatnot.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我有点意外，你居然先来找我、而不是 Touka。毕竟我「入侵」了你们的「实地考察」什么的。"
+    },
+    {
+      "en": ": It is what it is. I don’t really care one way or the other.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 事已至此。我倒无所谓。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m honestly kind of surprised you even wanted to tag along for this. It doesn’t really seem like a thing you’d be into.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说实话，我有点意外你居然愿意跟来。这看着不像你会感兴趣的事。"
+    },
+    {
+      "en": ": Well it’s not as if I {i}knew{/i} what I’d be getting into. But I doubt I would have refused even if I’d known where we were going from the start.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 这个嘛，我事先又不{i}知道{/i}会碰上什么。不过就算一开始就知道要去哪儿，我多半也不会拒绝。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade27.webp",
+      "alt": "tsukiokaarcade27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": This may come as a bit of a surprise to you, but I don’t particularly “get out” often.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 说出来你可能有点意外，我其实不怎么「出门」。"
+    },
+    {
+      "en": ": {i}What? No.{/i}",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": {i}什么？才不会。{/i}"
+    },
+    {
+      "en": ": Okay. So it might be {i}overwhelmingly apparent{/i} that I don’t get out often. ",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 好吧。所以说，我「不怎么出门」这事{i}明显得不行{/i}。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade26.webp",
+      "alt": "tsukiokaarcade26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But that doesn’t mean I’ve always been this way.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 但这不代表我一直都这样。"
+    },
+    {
+      "en": ": I used to do a fair bit of “sneaking away” when I was Touka’s age, you know. And that led to all sorts of wild experiences.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我在 Touka 那个年纪时，也挺常「偷溜出去」的。那让我经历了不少疯狂的体验。"
+    },
+    {
+      "en": ": How wild are we talking here?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 多疯狂？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade28",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade28.webp",
+      "alt": "tsukiokaarcade28"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hahah~ Maybe {i}wild{/i} wasn’t the right word, exactly. I’m sure it was really nothing compared to what [teenage]girls are doing nowadays.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 哈哈～也许{i}「疯狂」{/i}这个词不太准。我敢说，跟现在的[未成年]女孩们干的事比，那根本不算什么。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade26.webp",
+      "alt": "tsukiokaarcade26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But for my girlfriends and I, it was wonderful. And I often wish those experiences weren’t so few and far between when looking back on them.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 但对我和我的闺蜜们来说，那就足够美好了。回头再看，我常希望那样的经历别那么稀少。"
+    },
+    {
+      "en": ": It oftentimes feels that I may have...wasted away my youth to some extent.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我时常觉得，我在某种程度上……荒废了青春。"
+    },
+    {
+      "en": ": Coming from a wealthy family is certainly an advantage in life, but that doesn’t mean it’s without its setbacks.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 出身富贵固然是人生的优势，但不代表它没有代价。"
+    },
+    {
+      "en": ": Well, at least you’re getting to experience more of {i}this{/i} life now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这个嘛，至少你现在开始多体验{i}这种{/i}生活了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade29",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade29.webp",
+      "alt": "tsukiokaarcade29"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": True. But {i}this{/i} is only happening because I followed my daughter out. It’s not really a thing I’d be able to do on my own with my lack of knowledge or...connections outside of the business world.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 是。可{i}这{/i}之所以发生，只是因为我跟着女儿出来了。凭我自己那点见识、以及生意场之外……几乎为零的人脉，这种事我自己是办不到的。"
+    },
+    {
+      "en": ": Well, you’ve got me. I’m outside of the business world.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这不，你还有我。我就在生意场之外。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade30",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade30.webp",
+      "alt": "tsukiokaarcade30"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Careful, Sensei. Saying it that way makes it sound like we might be {i}friends.{/i}",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 当心点，Sensei。你这话听着，好像我们要成{i}朋友{/i}了。"
+    },
+    {
+      "en": ": I mean...we {i}can{/i} be?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我是说……我们{i}可以{/i}是啊？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade31.webp",
+      "alt": "tsukiokaarcade31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": We...can? You and me? But we have virtually nothing in common.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我们……可以？你和我？可我们俩几乎毫无共同点。"
+    },
+    {
+      "en": ": And Touka’s already advised you that I don’t have much time to really do things with her- let alone someone outside of the family.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 而且 Touka 已经跟你说过，我连陪她干点什么的工夫都不多——更别说陪家族之外的人了。"
+    },
+    {
+      "en": ": Sure. And I’m not really expecting that to change. Just letting you know that there is {i}someone{/i} outside your circle of insanely rich people who wouldn’t mind spending time with you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 对。我也没指望这会变。我只是想让你知道，在你那个「富得流油的圈子」之外，有个{i}人{/i}不介意陪你待会儿。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade32.webp",
+      "alt": "tsukiokaarcade32"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s very kind of you. And...",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 你真好。而且……"
+    },
+    {
+      "en": ": And perhaps I {i}will{/i} take you up on that sometime.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 也许哪天我真{i}会{/i}找你。"
+    },
+    {
+      "en": ": It’s been years since I’ve “snuck away” for anything. Just thinking about doing something like that again is actually getting me quite excited.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 我好多年没「偷溜出去」过了。光是想想再做一次那种事，我就已经挺兴奋的了。"
+    },
+    {
+      "en": ": Perhaps we should share contact information?",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 也许我们该交换下联系方式？"
+    },
+    {
+      "en": ": Sure. But only as long as you can promise me your husband isn’t going to use his citywide influence to spy on us or tap your phone.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 行。不过前提是你得保证，你丈夫不会动用他全城的影响力来监视我们、或窃听你的电话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade27.webp",
+      "alt": "tsukiokaarcade27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Or perhaps it would be best if we didn’t share that information with one another at all.",
+      "spk": "Tsubasa",
+      "spkColor": "#EAE6AA",
+      "zh": ": 又或许，我们干脆别交换联系方式才是最好的。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I realize soon after that Tsubasa is [[probably] just kidding and the two of us swap numbers.",
+      "zh": "没过多久我才反应过来，Tsubasa 多半只是开玩笑，于是我们俩互换了号码。"
+    },
+    {
+      "en": "I chug down my beer as soon as it arrives and, just like I wished, Tsubasa offers to pay for it.",
+      "zh": "啤酒一上桌我就一口闷了，而如我所愿，Tsubasa 主动买了单。"
+    },
+    {
+      "en": "Here’s hoping that whatever sorts of things the two of us do when she manages to sneak out are worth the price of that.",
+      "zh": "但愿等她哪天「偷溜出来」时，我俩干的事值回这杯酒钱。"
+    },
+    {
+      "en": "And, if they’re not, I’m even more boring than I thought.",
+      "zh": "要是不值，那我比我想的还无趣。"
+    },
+    {
+      "en": "Either way, I make my way back to the center of the arcade and begin to look around and see if there’s anything else I’ve missed...",
+      "zh": "不管怎样，我回到游戏厅中央，开始四下看看还有什么我错过的……"
+    },
+    {
+      "en": ".........",
+      "zh": "…………"
+    },
+    {
+      "en": "......",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ tsubasaarcade = True",
+      "zh": ""
+    },
+    {
+      "en": "$ tsubasanumber = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if toukaarcade == True and tsubasaarcade == True and tsukasaarcade == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump endoftoukaarcade",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump tsukiokaarcade",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsukasa",
+      "zh": "Tsukasa"
+    },
+    {
+      "en": "scene tsukiokaarcade33",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade33.webp",
+      "alt": "tsukiokaarcade33"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "For some reason that I don’t fully understand, I make my way over to Tsukasa at some tabletop arcade machine.",
+      "zh": "出于某种我不太理解的原因，我走向某台桌面游戏机前的 Tsukasa。"
+    },
+    {
+      "en": "She stops fiddling with a joystick in a compartment underneath the table long enough to look up and lock eyes with me.",
+      "zh": "她停下摆弄桌下隔舱里的摇杆，抬起头，跟我对上了眼。"
+    },
+    {
+      "en": "Through the harsh judgement and pity and disgust and a bunch of other things I can tell she is feeling regarding my existence as a human, however, I can tell she needs help.",
+      "zh": "不过，透过那针对「我作为一个人类存在」的严厉评判、怜悯、嫌恶、以及一堆别的情绪，我看得出来——她需要帮忙。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I need help.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 我需要帮忙。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "This is subsequently confirmed.",
+      "zh": "这随后得到了证实。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What do you need help with?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你需要什么帮忙？"
+    },
+    {
+      "en": ": Everything.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 所有事。"
+    },
+    {
+      "en": ": That’s too many things.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那也太多了。"
+    },
+    {
+      "en": ": I don’t know how to get this game to work. Or what the pig killing game even looks like.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 我不知道怎么让这游戏动起来。也不知道那个「杀猪游戏」到底长什么样。"
+    },
+    {
+      "en": ": Or where we are or what the song on the radio is or who I need to talk to for a glass of water.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 也不知道我们在哪儿、收音机里放的是什么歌、或者要杯水得找谁。"
+    },
+    {
+      "en": ": So, yeah. Everything.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 所以，对。所有事。"
+    },
+    {
+      "en": ": Sucks to be you, I guess.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那只能怪你自己倒霉了。"
+    },
+    {
+      "en": ": Hey. Do you wanna be my new butler? The one I have right now knows nothing about peasant life, so our interests really aren’t aligning at this current point in time.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 喂。你想当我的新管家吗？我现在那个对平民生活一窍不通，所以我们目前的兴趣爱好完全对不上。"
+    },
+    {
+      "en": ": I don’t think I’d make a very good butler.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得我当不好管家。"
+    },
+    {
+      "en": ": Why not?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 为什么？"
+    },
+    {
+      "en": ": Because I am bad with children and you seem...extremely high maintenance.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 因为我对付不了小孩，而你看着……极其难伺候。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade34",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade34.webp",
+      "alt": "tsukiokaarcade34"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I probably am. But wouldn’t living in a giant mansion and getting your own swimming pool and pretty much anything else you want make up for that?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 我大概是难伺候。可住进一座大豪宅、有自己的游泳池、还有几乎任何你想要的东西，难道还弥补不了吗？"
+    },
+    {
+      "en": ": This offer suddenly sounds a lot more interesting.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 这提议突然变得有意思多了。"
+    },
+    {
+      "en": ": Is that a yes?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 那是答应了？"
+    },
+    {
+      "en": ": I’ll have to consult with my business partner. Who also happens to be my [niece]. If I move out, she’ll probably die.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我得跟我的「生意搭档」商量一下。她恰好也是我[侄女]。我要是搬走，她多半会死。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade35",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade35.webp",
+      "alt": "tsukiokaarcade35"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh well. One less mouth to feed.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 哦，好吧。少一张要喂的嘴。"
+    },
+    {
+      "en": ": Tsukasa, why are you...the way you are?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Tsukasa，你为什么……是这副德行？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade36",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade36.webp",
+      "alt": "tsukiokaarcade36"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You mean awesome?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 你是说「超棒」？"
+    },
+    {
+      "en": ": I mean awful.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我是说「超烂」。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade37",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade37.webp",
+      "alt": "tsukiokaarcade37"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s not a very butlery thing to say, Jeeves.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 这可不像个管家该说的话，Jeeves。"
+    },
+    {
+      "en": ": My name isn’t Jeeves.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不叫 Jeeves。"
+    },
+    {
+      "en": ": It is now. All of my butlers are named Jeeves. It’s the most butlery name. You have to fit the role.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 现在就是了。我所有的管家都叫 Jeeves。那是最「管家」的名字。你得配得上这个角色。"
+    },
+    {
+      "en": ": I haven’t even agreed yet.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我都还没答应呢。"
+    },
+    {
+      "en": ": What do you mean you haven’t agreed? I’m Tsurumikasa Tsukioka. You have to listen to me or I’ll hire a team of assassins to...well, assassinate you.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 什么叫你还没答应？我是 Tsurumikasa Tsukioka。你必须听我的，不然我就雇一队刺客去……嗯，刺杀你。"
+    },
+    {
+      "en": ": I suppose that is a bridge I’ll cross when I come to it.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那我只能到时候再想办法了。"
+    },
+    {
+      "en": ": Hm...",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 哼……"
+    },
+    {
+      "en": ": What do you mean “Hm?”",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你「哼」什么？"
+    },
+    {
+      "en": ": I’m just trying to figure out why my sister likes you so much. You seem pretty boring and lame to me if you don’t even want to come live in a fancy mansion.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 我只是在想，我姐姐到底为什么那么喜欢你。你连住进大豪宅都不愿意，在我看来又无聊又逊。"
+    },
+    {
+      "en": ": Has Touka really told you she likes me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Touka 真跟你说过她喜欢我？"
+    },
+    {
+      "en": ": Mhm. She says you’re the best teacher she’s ever had. But she’s never really liked any of her other teachers, so I guess that’s not saying much.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 嗯哼。她说你是她遇过最好的老师。不过她从来没真正喜欢过别的老师，所以这大概也说明不了什么。"
+    },
+    {
+      "en": ": Either way, I don’t see it. If you were {i}my{/i} teacher, I would have fired you by now. But I fire all of my teachers so, again, that’s not saying much.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 反正我看不出来。你要是{i}我的{/i}老师，我早就把你开了。不过我把所有老师都开了，所以，这同样说明不了什么。"
+    },
+    {
+      "en": ": Can you teach me how to play this game now?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 你现在能教我怎么玩这个游戏了吗？"
+    },
+    {
+      "en": ": Immediately after insulting me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 刚羞辱完我立刻就？"
+    },
+    {
+      "en": ": Well, who else is gonna teach me? {i}Someone{/i} has to.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 不然谁教我？总得{i}有人{/i}教。"
+    },
+    {
+      "en": ": Just figure it out on your own like you did with the subway. It’s really not that hard.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 自己琢磨去，就像你琢磨地铁那样。其实没那么难。"
+    },
+    {
+      "en": ": I don’t want to figure it out on my own. I want you to teach me.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 我不想自己琢磨。我要你教我。"
+    },
+    {
+      "en": ": But I’m an annoying, boring commoner.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 可我是个讨人厌又无聊的平民。"
+    },
+    {
+      "en": ": You are. But it’s no fun doing things on my own. And Papa won’t teach me things like this because of how they’re bad for me.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 你确实是。可一个人玩没意思。而且 Papa 不教我这种东西，因为它们对我不好。"
+    },
+    {
+      "en": ": In fact, he doesn’t really have time to teach me anything anymore.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 其实，他现在也没什么时间教我任何东西了。"
+    },
+    {
+      "en": ": So that’s why I want you to do it.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 所以，我才想让你教我。"
+    },
+    {
+      "en": ": It would be better if you were my butler, but I have to take what I can get at this point. Good help is hard to come by around here.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 要是你能当我的管家就更好了，不过到这地步我也只能凑合了。这儿「好帮手」可不好找。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade38",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade38.webp",
+      "alt": "tsukiokaarcade38"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Jeez! Hasn’t anybody ever told you that time is money?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 天！就没任何人告诉过你「时间就是金钱」吗？"
+    },
+    {
+      "en": ": No wonder you’re so poor if you’re just going silent in the middle of conversations like that.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 难怪你这么穷，聊天聊到一半还能说走神就走神。"
+    },
+    {
+      "en": ": If I teach you how to play this game, you’re going to owe me a favor in the future.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 要是我教你玩这个游戏，你将来就得欠我一个人情。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade39",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade39.webp",
+      "alt": "tsukiokaarcade39"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": A trade offer? I can do that.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 做个交易？可以。"
+    },
+    {
+      "en": ": What are you after? A luxury car? One of Touka’s horses? Name it and it will be yours.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 你想要什么？豪车？Touka 的一匹马？你开口，就归你。"
+    },
+    {
+      "en": ": I don’t know what I want yet. I just think it will be useful for a person of your status to owe me a favor that I can call upon when I need it most.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我还没想好要什么。我只是觉得，让你这种身份的人欠我一个「人情」，在我最需要的时候能派上用场。"
+    },
+    {
+      "en": ": Like if you have to bury a body?",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 比如等你需要埋一具尸体的时候？"
+    },
+    {
+      "en": ": What? No. I-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 什么？不。我——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade40",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade40.webp",
+      "alt": "tsukiokaarcade40"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Say no more. I agree to these terms and will help find you an experienced burial crew the moment you need it.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 不必多说。我接受这些条款，并且，你一旦有埋尸体的需要，我立刻帮你找一支经验丰富的「掩埋小队」。"
+    },
+    {
+      "en": ": Tsukasa-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Tsukasa——"
+    },
+    {
+      "en": ": Silence. The terms have been accepted. The deal is complete.",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 住口。条款已接受。交易达成。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene tsukiokaarcade41",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/tsukiokaarcade41.webp",
+      "alt": "tsukiokaarcade41"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Now, let’s play, Jeeves!",
+      "spk": "Tsukasa",
+      "spkColor": "#F0CA8C",
+      "zh": ": 现在，我们玩吧，Jeeves！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I spend a few minutes learning how to play the tabletop game so I can teach Tsukasa, and it’s easy enough that we’re both able to pick it up without any issue.",
+      "zh": "我花了几分钟自己先学会怎么玩这个桌面游戏，好教 Tsukasa——它挺简单的，我俩都没费什么劲就上手了。"
+    },
+    {
+      "en": "It’s multiplayer as well, so I’m able to stay on the opposite side of the table and play against her once we have things figured out.",
+      "zh": "而且是多人的，所以等我俩弄明白了，我还能待在桌子另一头跟她对打。"
+    },
+    {
+      "en": "Surprisingly, she’s actually pretty good at it. But I guess reflexes are better when you’re young and...well, she {i}is{/i} allegedly some sort of gifted kid.",
+      "zh": "意外的是，她其实打得挺好。不过年轻人的反应力{i}就是{/i}快……再说，她据称是某种天才儿童。"
+    },
+    {
+      "en": "I get tired of playing eventually, though, and decide to head back to the center of the arcade.",
+      "zh": "不过我最后玩腻了，决定回游戏厅中央去。"
+    },
+    {
+      "en": "As I leave, I spot Tsukasa frowning out of the corner of my eye.",
+      "zh": "离开时，我瞥见 Tsukasa 皱着眉。"
+    },
+    {
+      "en": ".........",
+      "zh": "…………"
+    },
+    {
+      "en": "......",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ tsukasaarcade = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if toukaarcade == True and tsubasaarcade == True and tsukasaarcade == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump endoftoukaarcade",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump tsukiokaarcade",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "label endoftoukaarcade:",
+      "zh": ""
+    },
+    {
+      "en": "$ toukaspecial15p2 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ touka_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ tsubasa_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ tsukasa_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Your affection with the entire Tsukioka family has increased by 1!{/i}",
+      "zh": "{i}你与月冈家全体成员的好感度各上升了 1！{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump toukaspecial15p3",
+      "zh": ""
+    }
+  ]
+}

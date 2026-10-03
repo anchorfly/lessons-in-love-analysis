@@ -1,0 +1,1293 @@
+{
+  "label": "day138",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label day138:",
+      "zh": ""
+    },
+    {
+      "en": "scene premolly1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly1.webp",
+      "alt": "premolly1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Another[school] day comes to a close as I sit in my office and try to figure out why this part of the job even exists.",
+      "zh": "又一个学校的日子接近尾声，我坐在自己的办公室里，试图想明白这岗位为什么还要存在。"
+    },
+    {
+      "en": "If the[school] is able to hire new janitors every time Ayane destroys one, how come they can’t hire a normal guidance counselor?",
+      "zh": "既然每当 Ayane 弄坏一个清洁工，学校都能再雇新的，那为什么他们就不能雇一个正经的心理咨询师？"
+    },
+    {
+      "en": "I’m entirely unqualified for this.",
+      "zh": "我完全不够格。"
+    },
+    {
+      "en": "In fact, I’m entirely unqualified for virtually everything I do.",
+      "zh": "事实上，我做的几乎每一件事都不够格。"
+    },
+    {
+      "en": "Has no one in the staff really figured that out by now?",
+      "zh": "难道教职工里到现在真没人发现这一点吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Senseiiiiii~ Can I come in?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": Senseiiiiii~ 我能进来吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami knocks on the door, probably to see if I can...love her or something. I don't know.",
+      "zh": "Ami 敲了敲门，大概是为了看看我能不能……爱她之类的。我不知道。"
+    },
+    {
+      "en": "It’s not often that she actually comes in here for counseling.",
+      "zh": "她其实很少来这儿做咨询。"
+    },
+    {
+      "en": "In fact, she’s {i}never{/i} come in here for counseling, so I don’t really know what else it would be.",
+      "zh": "事实上，她{i}从没{/i}来这儿做过咨询，所以我真不知道还会是因为什么。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah, you can. Door’s open.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，进来吧。门开着。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly2.webp",
+      "alt": "premolly2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami enters the room and stops directly in front of my desk with a smirk on her face that says she's here for a little more than just {i}love.{/i}",
+      "zh": "Ami 走进房间，直接停在我的办公桌前，脸上挂着意味深长的坏笑，说明她来这儿可不只是为了{i}爱{/i}。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You want something, don’t you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你是有所求吧？"
+    },
+    {
+      "en": ": Me? What gave you that idea?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我？你怎么会这么想？"
+    },
+    {
+      "en": ": Your face. You don’t smile like that unless you want something from me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你那张脸。你只有在想从我这儿得到什么的时候才会那么笑。"
+    },
+    {
+      "en": ": That’s not true. I don’t want anything other than some quality time with my [uncle].",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 才不是。我什么都不要，只想和我叔叔共度美好时光。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are you coming on to me right now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你现在是在勾引我吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if ami_virgin == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene premolly3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly3.webp",
+      "alt": "premolly3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": If I say yes, can we do it on your desk?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 如果我说「是」，我们能在你的办公桌上做吗？"
+    },
+    {
+      "en": ": Sure.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly4.webp",
+      "alt": "premolly4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait, really?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 等等，真的？"
+    },
+    {
+      "en": ": I know you're not a great teacher, but I didn’t think you’d agree to something like that so easily.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我知道你不是什么好老师，但没想到你这么轻易就答应这种事。"
+    },
+    {
+      "en": ": That seems like a pretty horrible idea, Sensei.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 这听起来是个相当糟糕的主意，Sensei。"
+    },
+    {
+      "en": ": It would be bad enough for you to get caught doing something like that in general...but I think it takes on a new level of ‘bad’ if it’s your [niece] that you’re, you know, doing stuff with.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 一般来说，干这种事被抓就已经够糟了……但我觉得如果对象是你的侄女，那可就是升级版的「糟」了，你懂的。"
+    },
+    {
+      "en": ": Sometimes, life is about taking risks, Ami. This is something you’ll come to learn with age.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 有时候，人生就是要冒险，Ami。这是你长大后会明白的事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly5.webp",
+      "alt": "premolly5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I’m sure I will. But that’s really not why I’m here today.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我肯定会明白的。不过我今天真不是为这个来的。"
+    },
+    {
+      "en": ": Then why {i}are{/i} you here today?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那你今天{i}来{/i}干什么？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene premolly6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly6.webp",
+      "alt": "premolly6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Whaaaat? {i}Me{/i} coming on to my {i}[uncle]{/i}? As if something like that would ever happen.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 什、什么？{i}我{/i}勾引我{i}叔叔{/i}？这种事怎么可能发生。"
+    },
+    {
+      "en": ": Hahahahah...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哈哈哈哈……"
+    },
+    {
+      "en": ": Hahaha...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哈哈哈……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly7.webp",
+      "alt": "premolly7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哈……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Well, it’s nice to see that Ami is just as bad at hiding things as ever.",
+      "zh": "嗯，很高兴看到 Ami 藏不住事的老毛病一点没变。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": If you’re not coming on to me...what is it then?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果你不是在勾引我……那又是什么？"
+    },
+    {
+      "en": ": You normally just walk in and ask for whatever it is you want, so it seems a little weird that you’re not doing that today.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你平时都是直接走进来要你想要的东西，所以今天不这么做，看起来有点怪。"
+    },
+    {
+      "en": "scene premolly8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly8.webp",
+      "alt": "premolly8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, Sensei...I, Ami Arakawa, have come to your office on this fine day to inform you that I have heard a rumor circulating that may or may not involve you and our class.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 嗯，Sensei……我，荒川 Ami，在这个美好的日子里来到你的办公室，是要通知你——我听到了一个传闻，可能和你和我们班有关，也可能无关。"
+    },
+    {
+      "en": ": I...do not like the sound of that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我……不喜欢这话的开头。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why? Have you been doing anything {i}naughty{/i} with any of them?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 为什么？你该不会和她们中的谁干了什么{i}坏事{/i}吧？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly9.webp",
+      "alt": "premolly9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait, why are you staying quiet?! That was a joke!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 等等，你为什么不说话？！那是个玩笑！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if ami_virgin == False:",
+      "zh": ""
+    },
+    {
+      "en": ": You’re supposed to be like “Of course not! I would never do something like that with anyone but you, Ami!”",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你应该说「当然没有！除了你，Ami，我绝不会和别人做那种事！」"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": You’re supposed to be like “Of course not! I would never do something like that with a student!”",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你应该说「当然没有！我绝不会和学生做那种事！」"
+    },
+    {
+      "en": ": Of course I wouldn’t do anything like that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我当然不会做那种事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...and admit to it.",
+      "zh": "……然后承认。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly10.webp",
+      "alt": "premolly10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t like the tone of your voice, Sensei...But I’m going to ignore it because I’m such a great [niece] and want to tell you about the thing I heard.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我不喜欢你的语气，Sensei……不过我要忽略它，因为我是个超棒的侄女，还想把我听到的事告诉你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Well...at least it seems like whatever this rumor is doesn’t involve anything that could get me fired- which is great news.",
+      "zh": "嗯……至少看起来这传闻不涉及任何能让我被开除的事——这可是好消息。"
+    },
+    {
+      "en": "It would be one thing to lose my job over something like that, but I’m actually a little more terrified of what Ami would do to me if she ever found out.",
+      "zh": "因为这种事丢工作是一回事，但我其实更怕的是，如果 Ami 发现了会怎么对我。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, Ami...What is it you heard?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好了，Ami……你听到了什么？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly8.webp",
+      "alt": "premolly8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, right.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哦，对。"
+    },
+    {
+      "en": ": I have heard that-",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我听到说——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly11.webp",
+      "alt": "premolly11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei? Are you in there right now?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": Sensei？你现在在里面吗？"
+    },
+    {
+      "en": ": Y-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 呃——"
+    },
+    {
+      "en": ": Good. I’m coming in. Pardon the intrusion.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 很好。我进来了。打扰了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly12",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly12.webp",
+      "alt": "premolly12"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, hello Ami. I didn’t realize you were in here as well.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 哦，你好，Ami。我不知道你也在这儿。"
+    },
+    {
+      "en": ": I just wanted to stop by to discuss the details of the upcoming transfer students.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我只是想过来讨论一下即将到来的转校生的细节。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly13.webp",
+      "alt": "premolly13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AAAAAAAH!!! THAT’S WHAT I WAS HERE TO TALK ABOUT!! YOU STOLE MY BIG REVEAL!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 啊啊啊啊啊！！！我就是要来说这个的！！你抢走了我的大爆料！"
+    },
+    {
+      "en": ": I’m sorry...what transfer students?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 抱歉……什么转校生？"
+    },
+    {
+      "en": ": Why would {i}you{/i} come here to discuss that? Official classroom business is my territory. I don’t understand how you’d be involved.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": {i}你{/i}为什么会来讨论这个？正式的班级事务是我的地盘。我不明白你为什么要掺和。"
+    },
+    {
+      "en": ": I’m involved because Sensei is my [uncle] and I love him!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我掺和是因为 Sensei 是我叔叔，而我爱他！"
+    },
+    {
+      "en": ": That doesn’t have anything to do with[school] whatsoever.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 这和学校一点关系都没有。"
+    },
+    {
+      "en": ": Sure it does! I go to[school] and so does Sensei!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 当然有！我在学校上学，Sensei 也在学校！"
+    },
+    {
+      "en": ": Is anyone going to tell me what’s going on here or do I just need to figure it out on my own?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 有没有人能告诉我到底怎么回事，还是说我只能自己搞清楚？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly14.webp",
+      "alt": "premolly14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": New girls! Class! Soon!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 新女生！插班！很快！"
+    },
+    {
+      "en": ": Makoto. Please translate.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Makoto。请翻译一下。"
+    },
+    {
+      "en": ": It’s more or less as Ami said.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 大体上和 Ami 说的差不多。"
+    },
+    {
+      "en": ": It seems that the principal caught on to the fact that our class has significantly less students than most of the others, and so two girls will soon be transferring in.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 校长似乎注意到我们班的人数明显比其他班少，所以很快会有两个女孩转进来。"
+    },
+    {
+      "en": ": Oh. So they’re not like, technically {i}transfer students.{/i} They’re just switching classes.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哦。所以严格来说她们不算{i}转校生{/i}，只是换个班。"
+    },
+    {
+      "en": ": Sure. If that makes it easier for you to understand.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 对。如果这样更好理解的话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Lame.",
+      "zh": "没劲。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you have any questions regarding the process?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 关于流程你有什么问题吗？"
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are they cute?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她们可爱吗？"
+    },
+    {
+      "en": "scene premolly15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly15.webp",
+      "alt": "premolly15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": ..."
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": ..."
+    },
+    {
+      "en": ": Aww. You two look like twins now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哇哦。你们俩现在看起来像双胞胎了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I can’t help but feel like I asked the wrong question.",
+      "zh": "我忍不住觉得我问错了问题。"
+    },
+    {
+      "en": "But in all fairness, what else was I supposed to ask there?",
+      "zh": "不过说句公道话，我还能问什么呢？"
+    },
+    {
+      "en": "I just got straight to the point and I should be respected as a man for that. I don’t need to beat around the bush.",
+      "zh": "我只是直奔主题，作为一个男人，我该因此受到尊重。我不需要拐弯抹角。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is that...really the only question you have?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 这……真的就是你唯一的问题吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yes, Sensei. Is that {i}really{/i} the only question you have? Especially with an adorable girl already standing right in front of you?",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 对啊，Sensei。这{i}真的{/i}就是你唯一的问题吗？尤其是一个可爱的女孩已经站在你面前的时候？"
+    },
+    {
+      "en": ": Thank you, Ami. I didn’t realize you looked at me that way.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 谢谢，Ami。我不知道你是这么看我的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly16.webp",
+      "alt": "premolly16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t. I think you’re ugly and stupid. I was talking about me.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我可没有。我觉得你又丑又蠢。我说的是我自己。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, I see. You’re trying to get your [uncle] to notice how attractive you think you are. That is not at all abnormal.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 哦，我明白了。你是想让你叔叔注意到你觉得你自己多有魅力。这一点都不反常。"
+    },
+    {
+      "en": ": It would make much more sense for Sensei to be attracted to someone he isn’t related to. And since I am the only other girl in this room, that would have to be me.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": Sensei 被一个和他没有血缘关系的人吸引，才更说得通。而既然这房间里除了我就没别的女孩了，那就只能是我了。"
+    },
+    {
+      "en": ": Oh, please. The only person who would ever be attracted to you is like...a...weird person...or something.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哦，得了吧。会对你有感觉的人大概只有……某个……怪人……之类的。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": ..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Is that really all you can come up with?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 你就只能想出这个？"
+    },
+    {
+      "en": ": Shut up. I’m cute and you’re gross.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 闭嘴。我可爱，而你恶心。"
+    },
+    {
+      "en": ": If you two wouldn’t mind, I’d really like to hear more about this transfer situation now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果你们俩不介意的话，我现在真的很想多听听转班这件事。"
+    },
+    {
+      "en": ": I can’t help but feel like it’s something I should be at least slightly prepared for.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我总觉得这件事我至少该稍微准备一下。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly18.webp",
+      "alt": "premolly18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Right. Apologies, Sensei. Let me get back to the matter at hand.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 好的。抱歉，Sensei。让我回到正题。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}My name’s Makoto. I’m a grown woman trapped in a [teenage]girl’s body. My eyesight is bad. Blah blah blah.{/i}",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": {i}我叫 Makoto。我是个被困在少女身体里的成年女性。我视力不好。巴拉巴拉。{/i}"
+    },
+    {
+      "en": ": Ami. Stop.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Ami。别闹。"
+    },
+    {
+      "en": ": Hmph...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哼……"
+    },
+    {
+      "en": ": I wish I had more details to share with you, but all I really know right now is that two girls are going to be transferring over from Ms. Watabe’s class in the near future.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我希望我能告诉你更多细节，但我现在真正知道的只有，近期会有两个女孩从 Watabe 老师的班上转过来。"
+    },
+    {
+      "en": ": Ms. Watabe is a bit...closed-off. So she was only willing to discuss {i}some{/i} of the situation with me.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": Watabe 老师有点……封闭。所以她只愿意和我谈{i}一部分{/i}情况。"
+    },
+    {
+      "en": ": Regardless, I think we can expect at least one of them in the next few days. I just haven't been notified of which one yet.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 不管怎样，我想我们在这几天内至少能迎来其中一个。只是还没人通知我是哪一个。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly19.webp",
+      "alt": "premolly19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait, is it really Ms. Watabe’s class that the girls are transferring from? I heard it was a different teacher.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 等等，那两个女孩真的是从 Watabe 老师的班上转过来的吗？我听说是另一个老师。"
+    },
+    {
+      "en": ": I’m not quite sure {i}where{/i} you would have heard anything. My information came directly from the principal. ",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我不太清楚你从{i}哪儿{/i}听来的。我的信息直接来自校长。"
+    },
+    {
+      "en": ": Oh, sorry. I forgot you spend too much time studying to know what ‘rumors’ are.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 哦，抱歉。我忘了你把太多时间花在学习上，不知道「传闻」是什么。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly20.webp",
+      "alt": "premolly20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": O-Of course I know what rumors are! Forgive me for caring more about my education than my social circle!",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我、我当然知道传闻是什么！原谅我更关心自己的学业而不是社交圈！"
+    },
+    {
+      "en": ": So basically, I’m going to get two random girls just thrown into my class in the middle of the[school] year and I can’t do anything about it?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 所以基本上，我会在学校学年中途被随便塞两个女孩进班里，而我什么都做不了？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly21.webp",
+      "alt": "premolly21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": In layman’s terms, yes.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 用通俗的话说，是的。"
+    },
+    {
+      "en": ": Are they aware of my...teaching methods?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 她们知道我的……教学方式吗？"
+    },
+    {
+      "en": ": Your original ones or your current ones?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 你原来那套，还是现在这套？"
+    },
+    {
+      "en": ": Current ones.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 现在这套。"
+    },
+    {
+      "en": ": Absolutely not.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 完全不知道。"
+    },
+    {
+      "en": ": They are in for a rude awakening if they are actually trying to learn.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 如果她们真打算学点东西，那可有得受了。"
+    },
+    {
+      "en": ": But on the bright side, if they’re normal girls who don’t care about that sort of thing, you’ll be a-okay.",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 不过往好处想，如果她们是不在乎那种事的普通女孩，你就完全没事。"
+    },
+    {
+      "en": ": I like to believe that normal girls at least slightly care about their futures, so I don’t know if I’d count on that, Sensei.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我愿意相信普通女孩至少会稍微关心一下自己的未来，所以我可不指望这个，Sensei。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Unfortunately for Makoto, I think I’d much prefer Ami’s type rather than hers in the class.",
+      "zh": "对 Makoto 来说不幸的是，我更希望班上来的是 Ami 那种类型，而不是她那种。"
+    },
+    {
+      "en": "That’s not to say I don’t like Makoto. In fact, I think it’s pretty obvious that I like her a lot.",
+      "zh": "这不是说我不喜欢 Makoto。事实上，很明显我很喜欢她。"
+    },
+    {
+      "en": "But more than one of her would just be way too much for me. I can barely keep up with her wealth of knowledge as-is.",
+      "zh": "但再来一个她那样的，我可吃不消。光是跟上她一个人那海量的知识就已经够呛了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, I guess we’ll just have to see what happens then, right?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，那我们就等着看会发生什么吧，对吧？"
+    },
+    {
+      "en": ": Correct. I’ll handle most of the legwork for you, so all you really need to do is just have them introduce themselves once they transfer in.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 没错。大部分跑腿的事我会帮你处理，所以你真正需要做的就是等她们转进来时让她们做个自我介绍。"
+    },
+    {
+      "en": ": Really? Does the staff really trust you enough to handle that sort of thing instead of me?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 真的吗？校方真的信任你到让你来处理这种事，而不是我？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly22",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly22.webp",
+      "alt": "premolly22"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Of course. If anything, I’d even say they trust me {i}more{/i} than you.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 当然。要说的话，我甚至觉得他们信任我{i}胜过{/i}信任你。"
+    },
+    {
+      "en": ": Yeah...that makes sense.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 是啊……有道理。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Guess I can’t really blame them for that.",
+      "zh": "这倒也不能怪他们。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Exactly. So, I suppose you can just keep doing what you always do and just deal with things as they come up.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 没错。那么，我想你只要继续做你一直在做的事，遇到什么再处理什么就行了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": And in the meantime, I’ll see if there are any strings I can pull to get you one of the cuter girls.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 同时，我会看看能不能动用一些人脉，给你争取一个更可爱的女孩。"
+    },
+    {
+      "en": "scene premolly24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly24.webp",
+      "alt": "premolly24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wait a minute! Whose side are you even on?!",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 等一下！你到底站哪边的？！"
+    },
+    {
+      "en": ": The side that makes him happy.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 让他开心的那一边。"
+    },
+    {
+      "en": ": I figured you’d be on that side too, Ami. Given how much you claim to care about him and all.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 我觉得你也该站那边，Ami。毕竟你口口声声说自己有多在乎他。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly25.webp",
+      "alt": "premolly25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You...did NOT just say what I think you said, did you?...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 你……该不会真的说了我以为你说的话吧？……"
+    },
+    {
+      "en": ": And with that, I shall take my leave. It’s been nice talking with you, Sensei.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 那么，我就此告辞。和你聊天很愉快，Sensei。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly26.webp",
+      "alt": "premolly26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto suddenly vanishes from the office, leaving Ami in a fit of rage that she is unable to cope with.",
+      "zh": "Makoto 突然从办公室消失，留下 Ami 一团无处发泄的怒火。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": Sensei……"
+    },
+    {
+      "en": ": I’ll be right back...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我马上回来……"
+    },
+    {
+      "en": ": I need to go commit a felony...",
+      "spk": "Ami",
+      "spkColor": "#FF4DD2",
+      "zh": ": 我得去犯个重罪……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene premolly1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/premolly1.webp",
+      "alt": "premolly1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "And then Ami disappears as well.",
+      "zh": "然后 Ami 也消失了。"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "That’s interesting, though.",
+      "zh": "不过这挺有意思的。"
+    },
+    {
+      "en": "Two new students out of virtually nowhere.",
+      "zh": "凭空冒出两个新学生。"
+    },
+    {
+      "en": "I feel like the normal reaction for someone in my shoes would be something along the lines of, “Oh no. Extra work.”",
+      "zh": "我觉得处在我这个位置的人，正常反应大概是「哦不。又多活儿。」"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But, being a man of culture and little-to-no-ethics...",
+      "zh": "但作为一个有文化、又几乎没什么道德底线的人……"
+    },
+    {
+      "en": "I’m still just hoping they’re cute.",
+      "zh": "我还是只希望她们可爱。"
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ day138 = True",
+      "zh": ""
+    },
+    {
+      "en": "$ ticktock = True",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump afterschoolevent",
+      "zh": ""
+    }
+  ]
+}

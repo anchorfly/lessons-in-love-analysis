@@ -1,0 +1,386 @@
+{
+  "label": "gpmexj",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexj == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexj1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexj1.webp",
+      "alt": "gpmexj1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexj2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexj2.webp",
+      "alt": "gpmexj2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexj1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexj1.webp",
+      "alt": "gpmexj1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexj2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexj2.webp",
+      "alt": "gpmexj2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Amy",
+      "zh": ": 嗯......",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Is something wrong, Amy?",
+      "spk": "Sensei",
+      "zh": ": 出什么事了吗，Amy？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Nothing {i}specific.{/i} I just can’t help but feel like there’s something a little {i}weird{/i} about this room. You know?",
+      "spk": "Amy",
+      "zh": ": 没有{i}具体{/i}的什么。我只是忍不住觉得这房间有点{i}怪{/i}。你懂吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Is it the fact that it’s sideways?",
+      "spk": "Sensei",
+      "zh": ": 是因为它是横过来的吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No, I don’t think so. It’s probably just that voice I hear coming from that sewer thingy over there.",
+      "spk": "Amy",
+      "zh": ": 不，我觉得不是。大概只是我从那边那个下水道玩意儿里听到的声音。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m gonna go look!",
+      "spk": "Amy",
+      "zh": ": 我去看看！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexj1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexj1.webp",
+      "alt": "gpmexj1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are you sure that’s a good idea? There could be some sort of weird person in there who-",
+      "spk": "Sensei",
+      "zh": ": 你确定那是个好主意？里面可能有某种奇怪的人，他会——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexj3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexj3.webp",
+      "alt": "gpmexj3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Helloooooooo? Is anyone home?",
+      "spk": "Amy",
+      "zh": ": 喂喂喂喂喂喂？有人在家吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": If you’re an employee who got stuck while doing repairs or something, let me know and I can go find you a rope!",
+      "spk": "Amy",
+      "zh": ": 如果你是修东西时卡在里面的员工之类的，跟我说一声，我可以去给你找根绳子！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I guess you’d have to be a really tiny employee to get inside there in the first place, though.",
+      "spk": "Amy",
+      "zh": ": 不过我想，你得是个特别小的员工才进得去那里。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I don’t even think {i}I{/i} could fit and I’m so small that I fall through cracks in the floor sometimes! Hahah!",
+      "spk": "Amy",
+      "zh": ": 我甚至觉得{i}我{/i}都钻不进去，而我小到有时候会从地板缝里掉下去！哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I don’t think it’s a person you hear in there, Amy. It probably {i}couldn’t{/i} be now that I’m seeing the size of the opening a little better.",
+      "spk": "Sensei",
+      "zh": ": 我觉得你听到的不是人，Amy。既然我把那个开口的大小看得更清楚了些，那大概{i}不可能{/i}是人。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": It’s possible, Akira! Child labor laws are a little different here than they are in your world, I think.",
+      "spk": "Amy",
+      "zh": ": 有可能的，Akira！我想这里的童工法跟你那个世界的不太一样。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s totally normal for people to exploit babies here in order to build things we can’t on our own. Think of it like giving them wooden blocks to play with! Just for the benefit of everyone this time.",
+      "spk": "Amy",
+      "zh": ": 在这里，人们为了建造我们自己建不了的东西而剥削婴儿是完全正常的。就当是给他们木块玩！只不过这次是为了大家的利益。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I don’t like babies, though. And I don’t really want to be spending our date helping you find a rope to rescue one.",
+      "spk": "Sensei",
+      "zh": ": 不过我不喜欢婴儿。而且我不太想在我们约会的时候帮你找绳子去救一个。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexj4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexj4.webp",
+      "alt": "gpmexj4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Fair enough! We can just let it find its own way back home then.",
+      "spk": "Amy",
+      "zh": ": 有道理！那我们就让它自己找路回家吧。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I wasn’t really looking forward to helping either, to be honest. I just...wanted to try and and look cool in front of you or whatever. Hahah...hah...",
+      "spk": "Amy",
+      "zh": ": 说实话，我也没那么想帮忙。我只是……想在你面前装酷还是什么的。哈哈哈……哈……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": B-Besides! It probably wasn’t even a baby I heard in there. It’s probably just a vent or something that leads out of the frog.",
+      "spk": "Amy",
+      "zh": ": 再……再说！我听到的很可能根本不是婴儿。那大概只是个通向青蛙外面的通风口之类的。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Like an emergency exit, you mean?",
+      "spk": "Sensei",
+      "zh": ": 你的意思是，像紧急出口？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Either that or it’s for air circulation. It’d sure be nice if the mall started to smell like it smells in here, right? Maybe that’s their plan?",
+      "spk": "Amy",
+      "zh": ": 要么就是用来通风的。要是商场开始变得跟这里一个味道，那可真不错，对吧？说不定那就是他们的计划？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I think an emergency exit makes a little more sense, personally.",
+      "spk": "Sensei",
+      "zh": ": 我个人觉得紧急出口更合理一点。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Sure, but that’s only because {i}your{/i} world hasn’t gotten rid of emergencies yet!",
+      "spk": "Amy",
+      "zh": ": 当然，但那只是因为{i}你{/i}的世界还没把紧急情况消灭掉！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Nothing bad ever happens at the mall, Akira. That’s why we’re all still happily roaming around while the world outside of it crumbles into nothingness! Hahah!",
+      "spk": "Amy",
+      "zh": ": 商场里从来不会发生坏事，Akira。所以我们才能全都开心地到处晃，而外面的世界崩塌成虚无！哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Okay...but if there’s a sudden emergency that breaks your perpetual winning streak, I know where I’m coming first.",
+      "spk": "Sensei",
+      "zh": ": 好吧……但如果突然有紧急情况打断你那永久的连胜纪录，我知道我第一个会去哪儿。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": And I’ll be {i}right{/i} there behind you! Because...",
+      "spk": "Amy",
+      "zh": ": 而我会{i}就{/i}跟在你身后！因为……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Because there’s no one else I’d rather see when things are getting bad...",
+      "spk": "Amy",
+      "zh": ": 因为情况变糟的时候，我最想见到的人就是你……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...",
+      "spk": "Amy",
+      "zh": ": ...",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": S...Sorry! Let’s keep going!",
+      "spk": "Amy",
+      "zh": ": 抱……抱歉！我们继续走吧！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexj = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "turn right",
+      "zh": "右转",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexl",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "turn left",
+      "zh": "左转",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexd",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "turn left",
+      "zh": "左转",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexb",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "turn straight",
+      "zh": "直着转",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexa",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

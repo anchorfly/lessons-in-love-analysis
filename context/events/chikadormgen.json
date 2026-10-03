@@ -1,0 +1,146 @@
+{
+  "label": "chikadormgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikadormgen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ": Come in!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 进来吧！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormgen.webp",
+      "alt": "chikadormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika and I spend our free time hanging out in her room.",
+      "zh": "Chika 和我用空闲时间在她的房间里待着。"
+    },
+    {
+      "en": "\"We watch a few TV shows and I listen to her ramble on about how she's tired of working at the mall and",
+      "zh": "\"我们看了几集电视剧，我听她絮絮叨叨说她在商场工作有多累，还说"
+    },
+    {
+      "en": "wants to start a business or something.\"",
+      "zh": "想自己创业什么的。\""
+    },
+    {
+      "en": "\"But in order to start a business, you need money. And Chika seems to be using the money she earns on",
+      "zh": "\"但创业是要本钱的。而 Chika 赚的钱似乎都花在了"
+    },
+    {
+      "en": "something else.\"",
+      "zh": "别的地方。\""
+    },
+    {
+      "en": "It gets late pretty quickly and the two of us decide that it would be best if I head back before Yumi gets home.",
+      "zh": "天色很快就晚了，我们俩决定我最好在 Yumi 回来之前先走。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I can't help but feel a bit upset that we didn't get to spend more time together...",
+      "zh": "没能多待一会儿，我忍不住有点失落……"
+    },
+    {
+      "en": "{i}Chika's affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "……………"
+    },
+    {
+      "en": "......",
+      "zh": "………"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "label": "nib_start3",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sky_splash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/sky_splash.png",
+      "alt": "sky_splash"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sky_smile",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/sky_smile.png",
+      "alt": "sky_smile"
+    },
+    {
+      "en": "$ renpy.pause(4, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene crazy1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/crazy1.jpg",
+      "alt": "crazy1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wake up for the first time.",
+      "zh": "我第一次醒来。"
+    },
+    {
+      "en": "A wonderful start to life.",
+      "zh": "一段美妙的生命开端。"
+    },
+    {
+      "en": "Hello, world.",
+      "zh": "你好，世界。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ssssssssssssssssssssssssssssssssssss.",
+      "spk": "World",
+      "zh": ": ssssssssssssssssssssssssssssssssssss.",
+      "spkColor": "#A39E9F"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "My mouth is a mouth.",
+      "zh": "我的嘴就是一张嘴。"
+    },
+    {
+      "en": "I grab an empty water bottle off of the floor.",
+      "zh": "我从地上抓起一个空水瓶。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "({i}Yuu has obtained a {b}water bottle{/b}!{/i})",
+      "zh": "（{i}Yuu 获得了 {b}水瓶{/b}！{/i}）"
+    },
+    {
+      "en": "My stats go up.",
+      "zh": "我的属性值上升了。"
+    },
+    {
+      "en": "Goodbye, new friends.",
+      "zh": "再见了，新朋友们。"
+    },
+    {
+      "en": "Who am I talking to?",
+      "zh": "我到底在跟谁说话？"
+    },
+    {
+      "en": "My organs feel thankless.",
+      "zh": "我的器官似乎毫不领情。"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "I think forever.",
+      "zh": "我思考了很久很久。"
+    },
+    {
+      "en": "What use are organs anyway?",
+      "zh": "器官到底有什么用？"
+    },
+    {
+      "en": "They're just going to atrophy one day.",
+      "zh": "它们总有一天会萎缩掉的。"
+    },
+    {
+      "en": "I don't need these.",
+      "zh": "我不需要这些东西。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": sssssssssssssssssssssss.",
+      "spk": "Yuu",
+      "zh": ": sssssssssssssssssssssss.",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I hiss at them.",
+      "zh": "我对它们发出嘶嘶声。"
+    },
+    {
+      "en": "No reply. As expected.",
+      "zh": "没有回应。意料之中。"
+    },
+    {
+      "en": "Organs don’t talk.",
+      "zh": "器官不会说话。"
+    },
+    {
+      "en": "I remove them from my body.",
+      "zh": "我把它们从身体里取了出来。"
+    },
+    {
+      "en": "({i}Yuu has discarded {b}organs{/b}!{/i})",
+      "zh": "（{i}Yuu 丢弃了 {b}器官{/b}！{/i}）"
+    },
+    {
+      "en": "My stats go down.",
+      "zh": "我的属性值下降了。"
+    },
+    {
+      "en": "Goodbye, old friends.",
+      "zh": "再见了，老朋友们。"
+    },
+    {
+      "en": "Oh, right. I should introduce myself.",
+      "zh": "哦，对了。我该自我介绍一下。"
+    },
+    {
+      "en": "My name is [[redacted].",
+      "zh": "我叫 [[已编辑]。"
+    },
+    {
+      "en": "I’m the [[redacted] of this [[redacted].",
+      "zh": "我是这个 [[已编辑] 的 [[已编辑]。"
+    },
+    {
+      "en": "Welcome to {s}my room!{/s} {b}HEAVEN.{/b}",
+      "zh": "欢迎来到{s}我的房间！{/s} {b}天堂。{/b}"
+    },
+    {
+      "en": "˙ǝɯ ʇnq sllɐɟ ǝuo oN",
+      "zh": "˙ǝɯ ʇnq sllɐɟ ǝuo oN (No one falls but me)"
+    },
+    {
+      "en": "Every once in a while, my childhood friend will come over and I’ll have to tidy things up.",
+      "zh": "偶尔，我的青梅竹马会过来，而我"
+    },
+    {
+      "en": "Her name is Saki.",
+      "zh": "她叫 Saki。"
+    },
+    {
+      "en": "Her parents are dead.",
+      "zh": "她的父母都死了。"
+    },
+    {
+      "en": "So are mine. Lol.",
+      "zh": "我的也是。哈哈。"
+    },
+    {
+      "en": "Maybe that's why we get along so well.",
+      "zh": "也许这就是我们相处得这么好的原因。"
+    },
+    {
+      "en": "{s}Sometimes I masturbate while thinking about her.{/s}",
+      "zh": "{s}有时候我会一边想着她一边自慰。{/s}"
+    },
+    {
+      "en": "Shhhhhhhhhh.",
+      "zh": "Shhhhhhhhhh."
+    },
+    {
+      "en": "Don't tell her I said that.",
+      "zh": "别告诉她我说过这话。"
+    },
+    {
+      "en": "She will cut my hands off.",
+      "zh": "她会砍掉我的手。"
+    },
+    {
+      "en": "It has happened before.",
+      "zh": "以前发生过。"
+    },
+    {
+      "en": "Saki sounds like this:",
+      "zh": "Saki 的声音听起来是这样的："
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(0.1, 0.0, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.pause(3.8, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(1.0, 0.3, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Let's hear it again!",
+      "zh": "再来听一次！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(0.1, 0.0, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.pause(3.8, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(1.0, 0.3, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "=) =) =) =) =) =) =) =) =) =) =) =)",
+      "zh": "=) =) =) =) =) =) =) =) =) =) =) =)"
+    },
+    {
+      "en": "The most beautiful sound in the whole world.",
+      "zh": "全世界最美妙的声音。"
+    },
+    {
+      "en": "˙ʇᴉ oʇ ǝʇɐqɹnʇsɐɯ I",
+      "zh": "˙ʇᴉ oʇ ǝʇɐqɹnʇsɐɯ I (I masturbate to it)"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Saki...",
+      "spk": "Yuu, Son of God",
+      "zh": ": Saki……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I picture her.",
+      "zh": "我在脑中描绘她的样子。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show saki_what",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/saki_what.png",
+      "alt": "saki_what"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "ikaS",
+      "zh": ": ……",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She watches me with wide eyes.",
+      "zh": "她睁大眼睛看着我。"
+    },
+    {
+      "en": "She is beautiful.",
+      "zh": "她很美。"
+    },
+    {
+      "en": "She is a child of God.",
+      "zh": "她是上帝的孩子。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": How does it feel?",
+      "spk": "doG fo dlihC ,ikaS",
+      "zh": ": 感觉怎么样？",
+      "spkColor": "#A96CC7"
+    },
+    {
+      "en": ": ...",
+      "spk": "Yuu, Son of God",
+      "zh": ": ……"
+    },
+    {
+      "en": ": {s}Like Heaven.{/s}",
+      "spk": "Yuu, Son of God",
+      "zh": ": {s}像天堂一样。{/s}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(0.1, 0.0, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.pause(3.8, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(1.0, 0.3, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(0.1, 0.0, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.pause(3.8, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(1.0, 0.3, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yuu! Stop masturbating to girls with dead parents!",
+      "spk": "Mom [[Dead]",
+      "zh": ": Yuu！别再对着父母双亡的女孩子自慰了！",
+      "spkColor": "#A39E9F"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...Is what my mom would probably be saying right now if she could.",
+      "zh": "……如果我妈妈还能说话，她现在大概会这么说。"
+    },
+    {
+      "en": "She was killed by aliens a few years ago.",
+      "zh": "几年前她被外星人杀死了。"
+    },
+    {
+      "en": "It was a horrifying sight to behold.",
+      "zh": "那景象惨不忍睹。"
+    },
+    {
+      "en": "Hahah, just kidding.",
+      "zh": "哈哈，开玩笑的。"
+    },
+    {
+      "en": "She died of cancer.",
+      "zh": "她死于癌症。"
+    },
+    {
+      "en": "Hahahahahahahahahahaha.",
+      "zh": "Hahahahahahahahahahaha."
+    },
+    {
+      "en": "Hahahahahahaha.",
+      "zh": "Hahahahahahaha."
+    },
+    {
+      "en": "Hahahahahahahahahahaha.",
+      "zh": "Hahahahahahahahahahaha."
+    },
+    {
+      "en": "HahahahahahahahahahaAHAGGGGHHHAAAAHHha.",
+      "zh": "HahahahahahahahahahaAHAGGGGHHHAAAAHHha."
+    },
+    {
+      "en": "HahahahahahahahahaasjkdghsgfipfgsdfdfhSSSSSSSSSSSaha.",
+      "zh": "HahahahahahahahahaasjkdghsgfipfgsdfdfhSSSSSSSSSSSaha."
+    },
+    {
+      "en": "sssssssssssssssssssssssssss.",
+      "zh": "sssssssssssssssssssssssssss."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ngh...",
+      "spk": "Yuu, Son of God",
+      "zh": ": Ngh..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(0.1, 0.0, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.pause(3.8, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(1.0, 0.3, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I cum.",
+      "zh": "我射了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Saki is gone.",
+      "zh": "Saki 不见了。"
+    },
+    {
+      "en": "Nothing is beautiful.",
+      "zh": "没有什么是美丽的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sky_splash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/sky_splash.png",
+      "alt": "sky_splash"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sky_77",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/sky_77.png",
+      "alt": "sky_77"
+    },
+    {
+      "en": "$ renpy.pause(4, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene bedroom_night",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/bedroom_night.jpg",
+      "alt": "bedroom_night"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ngh...My head hurts.",
+      "spk": "Yuu",
+      "zh": ": 嗯……我的头好痛。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": What time is it?",
+      "spk": "Yuu",
+      "zh": ": 现在几点了？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I reach for the alarm clock.",
+      "zh": "我伸手去够闹钟。"
+    },
+    {
+      "en": "The time is “nothing.”",
+      "zh": "时间是「什么都没有」。"
+    },
+    {
+      "en": "The power has now been turned off as well.",
+      "zh": "现在连电也被切断了。"
+    },
+    {
+      "en": "So it goes.",
+      "zh": "事情就是这样。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": …",
+      "spk": "Yuu",
+      "zh": ": ……",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maybe it’s time to move somewhere else?",
+      "zh": "也许该搬去别的地方了？"
+    },
+    {
+      "en": "I wonder if any of the neighbors have abandoned their houses?",
+      "zh": "我在想，会不会有邻居已经抛弃了自己的房子？"
+    },
+    {
+      "en": "I guess it wouldn’t hurt to check.",
+      "zh": "去看看应该也没什么损失。"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "I can’t convince my body to move.",
+      "zh": "我没办法说服自己的身体动起来。"
+    },
+    {
+      "en": "I guess I’ll just lay here, then.",
+      "zh": "那看来我就只能躺在这儿了。"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "This is fun.",
+      "zh": "这挺有意思的。"
+    },
+    {
+      "en": "There is candy near the door.",
+      "zh": "门边有糖果。"
+    },
+    {
+      "en": "Should I eat some?",
+      "zh": "我该吃点吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yes",
+      "zh": "要",
+      "opt": true
+    },
+    {
+      "en": "jump candy",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yes",
+      "zh": "要",
+      "opt": true
+    },
+    {
+      "en": "jump candy",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

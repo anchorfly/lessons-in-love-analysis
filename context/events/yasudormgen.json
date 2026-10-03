@@ -1,0 +1,156 @@
+{
+  "label": "yasudormgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label yasudormgen:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Come in!",
+      "spk": "Yasu",
+      "spkColor": "#74D9E9",
+      "zh": ": 进来！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene yasudormgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/yasudormgen.webp",
+      "alt": "yasudormgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to spend the night hanging out in the dark with Yasu.",
+      "zh": "我决定今晚就摸黑跟 Yasu 待在一起。"
+    },
+    {
+      "en": "I ask her to turn the lights on because I feel incredibly uncomfortable just watching her stand there smiling, but she refuses.",
+      "zh": "我让她把灯打开，因为光看着她站在那儿对我笑让我极不舒服，可她拒绝了。"
+    },
+    {
+      "en": "Apparently, even artificial light stings her eyes and it isn't just the sun that manages to do that.",
+      "zh": "显然，连人造光都刺痛她的眼睛，不只是太阳才有这本事。"
+    },
+    {
+      "en": "My discomfort grows, but is quelled by the fact that, unlike some of the other residents of this dorm, she does not possess any weapons.",
+      "zh": "我的不适在增长，不过被一个事实安抚了：跟这宿舍里另外几个住户不同，她身上没有任何武器。"
+    },
+    {
+      "en": "That being said, I absolutely would not be surprised if there were some weird religious ritual tools tucked away under her bed or something like that.",
+      "zh": "话虽如此，要是她床底下藏着什么奇怪的宗教仪式用具之类的东西，我是一点都不会意外。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make it through the night without dying, which is a thing a lot of unfortunate people out there aren't able to say.",
+      "zh": "我熬过了这一夜没死——外面很多不幸的人可说不出这句话。"
+    },
+    {
+      "en": "Yasu probably makes it through the night without dying as well, but I can't say that definitively as I'm not there to watch her fall asleep.",
+      "zh": "Yasu 大概也熬过了这一夜没死，不过我没法确定，因为我不在那儿看她睡着。"
+    },
+    {
+      "en": "For all I know, she could be sacrificing herself right now in the name of her god.",
+      "zh": "说不定她这会儿正在以她神的名义把自己献祭掉。"
+    },
+    {
+      "en": "But I'm just going to assume that doesn't happen and hopefully run into her again tomorrow.",
+      "zh": "不过我就当那不会发生，然后指望明天还能再撞见她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yasu_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Yasu's affection has increased to [yasu_love]!{/i}",
+      "zh": "{i}Yasu 的好感度提升到了 [yasu_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

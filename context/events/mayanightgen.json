@@ -1,0 +1,128 @@
+{
+  "label": "mayanightgen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mayanightgen:",
+      "zh": ""
+    },
+    {
+      "en": "scene mayanightcallgen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/mayanightcallgen.webp",
+      "alt": "mayanightcallgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give Maya a call and ask her to come over to my secret apartment so the two of us can {i}not{/i} have sex with each other.",
+      "zh": "我给 Maya 打电话，叫她来我的秘密公寓，好让我俩{i}不{/i}跟对方上床。"
+    },
+    {
+      "en": "Boring, I know. But given that she actually cares about me and doesn't want my brain to melt, this is really all we can do.",
+      "zh": "无聊，我知道。但既然她是真的在乎我、不想让我的脑子化掉，我们也只能做到这一步。"
+    },
+    {
+      "en": "Am I willing to risk that for what I have come to personally refer to as “The forbidden vagina?” Probably. But alas, I remain unwillingly abstinent in the face of greater peril.",
+      "zh": "我愿意为了那个我私下称之为「禁忌之穴」的东西冒那个险吗？大概愿意。但可惜，面对更大的危险，我依然不情不愿地保持着禁欲。"
+    },
+    {
+      "en": "Incessant innuendo aside, this is fine. It's {i}good{/i} that we can be together now without the constant bickering and references to how disgusting I am.",
+      "zh": "没完没了的黄腔放一边，这样也挺好。我们现在能待在一起，不再不停地拌嘴、不再反复提我有多恶心，这{i}很好{/i}。"
+    },
+    {
+      "en": "Which isn't to say we {i}are{/i} together without those things. They still happen.",
+      "zh": "不是说我们{i}在{/i}一起时没有那些东西。它们还是有。"
+    },
+    {
+      "en": "But they don't have to.",
+      "zh": "但它们不是非有不可。"
+    },
+    {
+      "en": "And they only {i}do{/i} because that's what “normal” is for us.",
+      "zh": "而它们之所以{i}还有{/i}，只是因为那对我俩来说就是「正常」。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We spend the night out on the balcony, looking up at the stars and the moon.",
+      "zh": "我们在阳台上过了一夜，抬头看星星和月亮。"
+    },
+    {
+      "en": "And every time I try to touch her, my hand is slapped away.",
+      "zh": "而每次我想碰她，我的手就被拍开。"
+    },
+    {
+      "en": "It stings, but not due to the sensation.",
+      "zh": "很刺痛，但不是因为那触感。"
+    },
+    {
+      "en": "It stings because she's the one thing I want that I'm not allowed to have.",
+      "zh": "痛是因为她是我唯一想要、却不被允许拥有的东西。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maya_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Maya's affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

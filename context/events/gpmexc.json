@@ -1,0 +1,400 @@
+{
+  "label": "gpmexc",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexc == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexc1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexc1.webp",
+      "alt": "gpmexc1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexc2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexc2.webp",
+      "alt": "gpmexc2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexc1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexc1.webp",
+      "alt": "gpmexc1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexc2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexc2.webp",
+      "alt": "gpmexc2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Woooooooow! I haven’t seen a tunnel {i}this{/i} huge since I got stuck in the Infinite Waterslide!",
+      "spk": "Amy",
+      "zh": ": 哇哦哦哦哦哦！自从我被卡在无限滑水道里那次之后，我就没见过{i}这么{/i}大的隧道！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Do they have tunnels where you come from, Akira?",
+      "spk": "Amy",
+      "zh": ": 你来的地方有隧道吗，Akira？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": They do. Waterslides, too. Though, I don’t think any of ours are infinite.",
+      "spk": "Sensei",
+      "zh": ": 有。滑水道也有。不过我想我们的没一个是无限的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": The one in the mall isn’t technically {i}infinite{/i} either. It just goes on for about ten miles with speeds gradually increasing the longer you’re falling.",
+      "spk": "Amy",
+      "zh": ": 商场里那个严格来说也{i}不是{/i}无限的。它只是大约有十英里长，而且你落得越久速度越快。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": The only reason I managed to make it out unscathed is because I encountered a temporal rift along the way.",
+      "spk": "Amy",
+      "zh": ": 我能毫发无伤地出来，唯一的原因是我在路上遇到了一道时间裂隙。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m glad I did too! Because I was starting to zone out from all of the colors. Hahah!",
+      "spk": "Amy",
+      "zh": ": 我也很高兴遇上了！因为我开始被那些颜色晃得走神了。哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": This would be a much nicer place to get stuck in, I think. Especially since I have you with-",
+      "spk": "Amy",
+      "zh": ": 我觉得这地方困在里面会好得多。尤其是有你陪——",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AAAHHH!",
+      "spk": "Amy",
+      "zh": ": AAAHHH!",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy? What’s wrong?",
+      "spk": "Sensei",
+      "zh": ": Amy？怎么了？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Look through the vines! Quick!",
+      "spk": "Amy",
+      "zh": ": 透过那些藤蔓看！快！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexc1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexc1.webp",
+      "alt": "gpmexc1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I make my way over to the mesh wire holding the tunnel in place and peer through the gaps in the vines to find countless mechanical birds perched on man-made branches.",
+      "zh": "我走到固定住隧道的铁丝网边，透过藤蔓的缝隙往里看，看到数不清的机械鸟停在人造的枝头上。"
+    },
+    {
+      "en": "They notice our presence and look our way, pausing for a moment before opening their beaks in unison and singing a song together.",
+      "zh": "它们察觉到我们，朝这边看过来，停了一瞬，然后齐齐张开喙，一起唱起一首歌。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexc3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexc3.webp",
+      "alt": "gpmexc3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh my God...I think I {i}know{/i} this song. My mom used to hum it to me when I was just a baby.",
+      "spk": "Amy",
+      "zh": ": 我的天……我觉得我{i}听过{/i}这首歌。我还是婴儿的时候，我妈常哼给我听。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I think...mine did too. It feels familiar.",
+      "spk": "Sensei",
+      "zh": ": 我想……我妈也是。感觉很熟悉。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Heheh, it’d be funny if we were actually related, wouldn’t it?",
+      "spk": "Amy",
+      "zh": ": 嘿嘿，要是我们其实是亲戚，那就好笑了，对吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Yeah. We’d probably have to stop our date, though.",
+      "spk": "Sensei",
+      "zh": ": 是啊。不过那样我们大概就得中止这次约会了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I don’t mind if you don’t, Akira! Even if we were brother and sister, I’d want to keep being together. Plus, we could even share STD medications!",
+      "spk": "Amy",
+      "zh": ": 你不介意我就不介意，Akira！就算我们是兄妹，我也想继续在一起。而且我们还能共用治性病的药！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": That does sound nice. Talking about STDs is sort of ruining the birds’ song, though. Can we focus for a second?",
+      "spk": "Sensei",
+      "zh": ": 那听起来确实不错。不过聊性病有点毁掉这些鸟的歌了。我们能专心一会儿吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yeah, you’re right. I’m sorry. Let’s keep listening.",
+      "spk": "Amy",
+      "zh": ": 对，你说得对。对不起。我们继续听吧。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...",
+      "spk": "Amy",
+      "zh": ": ...",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": So about us maybe possibly being related or something-",
+      "spk": "Amy",
+      "zh": ": 所以关于我们可能也许算是亲戚之类的——",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, the song’s still going.",
+      "spk": "Sensei",
+      "zh": ": Amy，歌还在唱呢。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I know, I know! But thinking about this has gotten me all excited! And we’ll be able to hear their song the whole time we’re in this tunnel.",
+      "spk": "Amy",
+      "zh": ": 我知道，我知道！但一想到这个我就好兴奋！而且我们在隧道里的整段时间都能听到它们的歌。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexc2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexc2.webp",
+      "alt": "gpmexc2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You know, they have family discounts at a {i}bunch{/i} of stores here! Vending machines too. You just have to scan your Family Badge.",
+      "spk": "Amy",
+      "zh": ": 你知道吗，这里{i}好多{/i}店都有家庭折扣！自动贩卖机也是。你只要扫一下你的家庭徽章就行。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Family Badge?",
+      "spk": "Sensei",
+      "zh": ": 家庭徽章？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Mhm! It’s like a credit card thingy you can sign up for in the Family Office, but there’s no money on it and you really just use it to get discounts on stuff.",
+      "spk": "Amy",
+      "zh": ": 嗯！那是个像信用卡一样的东西，可以在家庭办事处办，但里面没钱，你就是拿它来打折买东西。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Think of it like a stamp card, but without all of the stamps. Buy a hundred sodas, get one free! That kind of stuff.",
+      "spk": "Amy",
+      "zh": ": 就当它是张集点卡，只不过不用集点。买一百瓶汽水，送一瓶！就那种。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You can get it in microchip form too if you don’t mind the needle. They put it in the back of your neck like you’re a cat. You can barely feel it.",
+      "spk": "Amy",
+      "zh": ": 如果你不怕打针，也可以做成芯片。他们把它打进你后颈，像给猫打那样。你几乎感觉不到。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Do you have one already? For you and your mom?",
+      "spk": "Sensei",
+      "zh": ": 你已经有了吗？你和你妈的？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No. But I used to sell discount chips to people who didn’t want to pay the monthly fee. I made my own needle and everything! Wanna see?",
+      "spk": "Amy",
+      "zh": ": 没有。不过我从前会卖折扣芯片给那些不想付月费的人。针都是我自己做的，什么都是！要看吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": No thank you, Amy. Let’s just continue down the tunnel.",
+      "spk": "Sensei",
+      "zh": ": 不用了，Amy。我们就继续往隧道里走吧。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Okay! Whatever you want is fine with me, Akira!",
+      "spk": "Amy",
+      "zh": ": 好！你想怎样我都行，Akira！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexc = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "continue",
+      "zh": "继续",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexj",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "turn back",
+      "zh": "往回走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexi",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "dig",
+      "zh": "挖",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexa",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

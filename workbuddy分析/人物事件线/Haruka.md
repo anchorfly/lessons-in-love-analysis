@@ -1,0 +1,99 @@
+# Haruka 事件线全析
+
+> 源文件：游戏文本/HarukaEvents.rpy（共 44 个 label）。
+> 定位：Haruka Hamasaki 是本作成人侧的核心配角——Koi Cafe 老板娘、已婚却深陷不伦的孤独成年女性、Rin 的 "work mom"。她的线是全作中"成年角色如何被 Sensei 一步步拖入深渊"的最完整样本，也是元叙事介入最频繁的角色线之一。
+
+### 0.61.0：第七次海滩（主章中的 Haruka）
+
+本版本的 Haruka 由三条支线包围：其一，Rika 的 "Operation: Jim Halpert"——把她与 Sensei 反锁一房的撮合局（WakanaEvents.rpy:5148；轻音部"除 Chika 外全员"是共犯，5177），一夜之后她清晨破防出逃（"RIKA!!!!!! YOU BETTER HOPE TO GOD I DO NOT SEE YOU ON MY WAY OUT OF HERE!"，5668-5669），随后从海滩消失、不回短信（RinEvents.rpy:9883）；Imani 事后被 Rika 定性为 "essentially tricking two drunk people into having sex with each other"（10215），Rika 纠正 "Akira wasn't drunk at all."（10216）。其二，Karin 以"性侵救助"为由在 Koi Cafe 日日蹲守（详见 Karin.md），Haruka 的抵抗核心是 "I'm not a victim, Karin. I'm the exact opposite of that."（KarinEvents.rpy:6194）。其三，Touka 家的餐桌戏里 Touka 之母对 Yasu 牢房之夜的全知（"It happened in a fucking jail cell underground!"——Touka 的惊问，chap4part2.rpy:7353）。
+> 阅读提示：love 线呈现"孤独→友情→自我重建→再度崩塌"的完整弧光；lust 线则是一部加速堕落的编年史，两线在 harukadate30 处汇合为"堕落契约"。文中以 label 名为锚点，可在 HarukaEvents.rpy 中检索核实。
+
+## 一、角色基本盘
+
+- **姓名与身份**：全名 Haruka Hamasaki，Kumon-mi 咖啡馆 Koi Cafe 的创办者兼老板（"Just a bunch of part timers at a cafe I own about a mile away from here"）。开店是她从小到大的梦想（"You've wanted that cafe since you were a kid?" / "It was practically my dream"）。
+- **婚姻状态**：有丈夫，但丈夫长期不在场——叙事将其处理为"去了太空/外星人任务"，且 Sensei 内心独白怀疑这个世界根本不会让他回来（"despite her being fully aware that her husband is safe and sound"、"this world won't let him come back"、"Unless everyone in space is somehow exempt from these strange timeloops"）。
+- **社交圈**：与 Maki、Sara 组成三人闺蜜团；是 Rin、Molly 等店员的 "work mom"（"I'm just as much of her work-mom as I am her boss"）；与 Sensei 从炮友逐渐演变为"主人/奴隶"关系。
+- **性格底色**：话痨、戏剧女王式的过度敏感（"I'm kind of an overly sensitive piece of shit drama queen"）；极度害怕孤独（"Bold claim for someone who gets lonely the second no one's looking at her"）；自我认知清醒而残忍——她主动承认自己是坏人（"Do you think I'm a bad person?" / "I agree. I am a bad person"）。
+- **核心创伤**：丈夫离岗后的空虚。她对 Chika 自陈："Being lonely is terrifying. And Sensei makes me feel a little less alone sometimes." 这句话是她整条线的钥匙。
+
+## 二、love 线逐事件脉络
+
+### 2.1 日常入口与店铺事件（call / harucafe / invite 系）
+- `callharukamorning`、`callharukaafternoon`、`callharukanight`、`callharukanighthang` 构成按时段呼叫 Haruka 的入口组，是好感度系统的日常维护面。
+- `harukacafe` 与 gen 系（`harukainvitegen`、`harukainviteaff`、`harukacafegen` 等）提供店铺场景的基础互动与好感分支。
+- `harukareverse`、`harukanightgen2`、`harukamorninggen2`、`harukagennight` 为夜间/晨间通用桥段，负责把"老板娘"身份钉进玩家日常。
+
+### 2.2 约会系列：从客套到交心（date1 → date20）
+- `harukadate1`、`harukadate5`、`harukadate10` 为递进式约会事件，逐步建立两人"能说真话的朋友"关系。
+- `harukadate15`：Sensei 受邀到 Haruka 家看电影，Sara 临阵放鸽子，Molly 留店看铺——这场"半成型的家庭夜晚"是 Haruka 第一次把私人空间向 Sensei 打开。
+- `harukadate20`：以醉酒夜谈收束。Haruka 吐露真心："I feel less alone tonight than I have in a long time."，并以调侃提及 "the man who defeated Dr. Badguy"——她在 Sensei 面前第一次卸下表演。
+
+### 2.3 sadgirls 系列：Maki 丧夫支线中的 Haruka
+- `sadgirls2`、`sadgirls4`、`sadgirls5` 是挂在 Haruka 文件下的 Maki/Sara 群像支线：Maki 的丈夫 Masahiro 突然去世，最后一句话竟是 "Don't fuck too many aliens!"。
+- 花店段落中，一名自称不常如此疯狂的陌生女人（源文以 q/"???" 指代）强行塞给 Haruka 一束蓝花，Narrator 以"森林倒下"的寓言预告了即将到来的痛哭。
+- Maki 的总爆发直指 Haruka 的失职："Your husband is still alive and mine has been dead for two fucking months!"、"YOU CALLED ONE TIME!"。
+- Haruka 的道歉是其 love 线少有的高光："I wasn't there for you when I should have been... because beneath the selfishness and inability to look forward, I love you." 和解落在细节上——蓝色恰好是 Maki 最爱的颜色（"Blue is my favorite color..."）。
+
+### 2.4 makihornytrip：以"修复朋友"为名的自我重建
+- `makihornytrip1`：Maki 丧夫后性欲全无，Haruka 组织度假村一日游试图"修好她"。车上她罕见地自我检讨："I have made out with you behind my husband's back... and then abandoned Maki when she needed me most. I've been kind of a bitch."
+- `makihornytrip4`：旅行失败收场，但 Maki 反过来肯定了她："Stop putting yourself down. You've been great lately and I'm happy to have you by my side."——love 线给过她一次真实的救赎机会。
+
+### 2.5 harukacamp1：露营夜谈与 Koi Cafe 的意义
+- 篝火边 Haruka 与 Sensei 交换人生史：她坦白自己"标准 upbringing"之下的溃烂——"I'm insanely lonely. I'm a borderline nymphomaniac. I send naked pictures of myself to teenage girls and pretend I never meant to."。
+- 她讲述 Koi Cafe 的诞生：小学商业计划书里的 "Rainbow Cafe"，以及锦鲤命名的原因——"they've always stood for accomplishment. Or courage. Strength, even... choosing a symbol for the qualities I lack seemed like a way for me to trick myself into believing I might actually have them"。
+- Sensei 回以全作罕见的真诚："I'm really proud of you." Haruka 的反应揭示了她的软肋："It's different when it comes from someone else, obviously. Especially someone you look up to."（"But...it makes me really happy."）
+- 星空下的并肩（"And we both close our eyes."）是 love 线的情感顶点——也是此后一切坠落的参照物。
+
+### 2.6 harukaspring4：work-mom 的最后一职
+- 深夜的 Koi Cafe，Rin 向 "第三位妈妈" 求助感情问题（"you're practically a third mom to me"）。Haruka 听完 Rin 在 Chika 与 Sensei 之间的摇摆后给出建议："You two are clearly compatible despite the age difference... So...love now...consequences later?"。
+- 打烊后她深夜致电 Sensei："She's falling for you, Akira. And if you don't act quickly, you might lose your chance."——她把自己得不到的东西亲手推给别人。
+- 结尾旁白撕开伪装："She thinks about how lonely she is. And how there is only one person she's met who would choose her over anyone else. He's so far away now." 注意：这里的"他"指向丈夫而非 Sensei，是她线上最冷的一刀。
+
+## 三、lust 线概貌
+
+lust 线是一条不可逆的下坡路：从初次欲望事件，到酒店三人行，再到"堕落契约"与其后的连环事故。截断段在本线中承担双重功能——既压缩露骨描写，又通过留白凸显场景的失控感与重复感（性事越来越频繁，情感含量越来越稀薄）。
+
+### 3.1 起点与过渡
+- `harukafirstlust`：lust 线的首次点火事件，确立两人越界关系的开端。
+- `harukalust25intro` / `harukalust25`：班级旅店夜，Imani 被安排同房又识趣让位（"Looks like there's only one bed in here anyway"），随后 Sara 与 Haruka 联手的截断场景以 dorm war 积分结算——lust 线在此已带有"收集/竞赛"的游戏化色彩。
+
+### 3.2 harukadate30：堕落契约（两线的分水岭）
+- 开场即虚无："Part of me wants to feel bad that we're still doing this despite her being fully aware that her husband is safe and sound"。
+- 事后床上，Haruka 提出双重请求：其一，"I want to give you full control over my body... Anything you ask me to do... I'll do it without a question."；其二，"I want you to help me fuck someone in your class." 理由是 "if I'm going to be bad...I want to be bad."（"I want to feel as free as you."）
+- Sensei 承认厌恶却接受，Haruka 一语封喉："You'll agree because you're like me. You're fucking scum."
+- 结算界面直接授予成就："Haruka has gained the 'Predator' trait!"——游戏系统亲自为她盖章。
+
+### 3.3 契约之后：spring 系列的连环坠落
+- `harukaspring1`：Haruka 受命把 Molli 引入浴室的企图失败（"based on the lack of perverted shrieking, I can only assume the mission ended in failure"）；转而以"惩罚"为名在柜台发生关系，被陌生顾客当场撞破（"What the fuck is going on in here?"），她甚至在围观中达到高潮并报出全名与婚姻状况。
+- `harukaspring2`：BBB 投诉送达，Cafe 面临调查与停业。Rin 得知"完全控制权"协议。Haruka 的恐惧点不在羞耻而在店："I love this place. And without it, I wouldn't just be broke. I'd be lost."
+- `harukaspring3`：复业电话；枕边情报交换中 Sensei 透露对 Sana 的所作所为（"Took her virginity on my couch the other day"），Haruka 则立誓要证明 "Sara 会和女儿上床" 的猜想——她的欲望已经全面转向学生群体。
+- `harukachristmalloween1`：浴室里安慰哭泣的 Chika，却在共情铺垫后突然发出邀约（"if you need someone to cheer you up right now, the same way you cheered up Rin, I'd do it with no questions asked"），遭 Chika 怒斥 "Touch me again and I will fucking kill you!"，以哀求 "Don't tell anyone" 收场。
+- `harukachristmalloween2`：转而猎取 Kirin，被 Sana 撞见；Sana 以 "I was never here...and I never saw anything." 完成一次意味深长的包庇。
+- `harukaspring5`：Sana 主动摊牌与 Sara 的三人行（由 Sana 自己发起："Of course it was my idea. She was never going to invite me into any of the fun {i}she{/i} gets to have with Sensei."，HarukaEvents.rpy:9438），并点破 Haruka 与 Kirin 的事（"Did you have fun with Kirin at the party?"，9442）——她撞见时就知道一切，包括 Kirin 的不情愿（"when push comes to shove, I guess she's kind of innocent too, huh?"，9449）。Sana 的交换条件是互守秘密而非勒索："I just wanted to tell somebody about my threesome and I know we'll keep each other's secrets safe."（9465），真实目的是让 Sensei 选她（9519），并撂下对 Sara 的判断 "{s}Besides,{/s} she'll do anything I ask her to. That's what {i}love{/i} is."（9517）。开场旁白则把 Haruka 的历史直接定性："Which is why she sometimes raped girls at Christmalloween parties."（9331）——"猎取"一词实为强奸。Sara 回来前 Sana 瞬间切换回纯真女儿态（9542），Sara 读出 Haruka 的脸红："you only get this red when you're horny"（9562）。Narrator 以 golem/guilt 与 dragon/lust 的战斗作结："In the end, the dragon won because the dragon always wins. That's how it became {i}ancient{/i} in the first place."（9579）。事件结算提示："{i}But she doesn't make any character progress because this is the route where she only gets worse and everything ends horribly.{/i}"（9590）。另有两处世界观碎屑：物资来自 "Monday's mysterious supply drop"（9366）；Sara 自嘲 "Our main export was Niki until she started sleeping with Sensei every night"（9344）。
+- `harukaspring6`：全线的谷底。开场是 Sensei 的大字独白 "I DON'T WANT TO HANG OUT. I WANT TO FUCK SOMEBODY'S WIFE."（9604）。Hoshimachi 车站，Haruka 致电 Sensei 自陈："I think I'm sad."——"Because I'm not only repeatedly cheating on the only person who's ever loved me, but perpetuating a never ending cycle of abuse by also going out of my way to try and fuck teenagers probably."（9652）；"It's not like I want to {i}die{/i} or anything, but just...I think I kind of want to, like...{i}be{/i} dead tonight?"（9716）；"It's not like I've done anything lately that would make me {i}want{/i} to be dead. I just {i}do{/i} want to be dead."（9723）。她把最后的 existential 问句抛给 Sensei："Do you think there's any helping people like us?...Why hasn't it been fun for me?...Why am I here?"（9735-9739）——回应她的是 "Just shut the fuck up and take your tits out already."（9742）与随后的主奴场景（"That's {i}all{/i} I'm good for?"——"That's right."，9754-9755）。接到电话后 Sensei 以一声 pop 音效瞬移到场（"Did you walk here? We're almost two hours from my place."——"Not really."，9677-9678，pop.mp3 与 Maya 被消除的音效同名）。场景中段作者层全面入侵：TRANSLATION NOTE 里 "Selebus" 自称就在车站现场转录、却"什么机械噪音也压不住台词"（9814-9815），随即自我否定 "I promise I am a liar and I promise I am someone else now and there is no mechanical noise."（9820）、"There is no Selebus either"（9826）；叙述者一面确认事件为真，一面承认 "whether or not it's actually even happening when I've already told you it is"（9836），并命令玩家 "This isn't supposed to be {i}hot!{/i} This is a SAD sex scene. Be SAD."（9838）。场景中 Ami 的声部（a）插入一句 "Rain king."（9857）——rainking 之名在此被 Ami 亲口点名。事后旁白宣布 "Haruka was dying"（9832）、无人会为此偿命（9833-9834），并把她的状态钉死在 5% 意识（9914）；"This felt nothing like love. And some days, that is what she wanted — somehow not realizing it's something she already has."（9917）。救助者的答案是 "yes"：Karin 撞见（"What the- oh my god!"，9923），Haruka 只留下 "Leave...me...I don't deserve your help"（9935）。当夜 Sensei 回家被 Niki 逼问行踪，他的回答是 "I can't really remember."（9952）。
+
+## 四、与主线/元叙事咬合点
+
+1. **重置循环层的窗口**：Sensei 关于丈夫的独白是玩家层世界观的直接泄露——"this world won't let him come back"、"strange timeloops"。Haruka 的婚姻悲剧因此不只是个人不幸，而是循环机制的产物。
+2. **Narrator 的人格化登场**：`sadgirls5` 中 Narrator 两度直接向玩家喊话——先念出署名 "The girl who cannot breathe" 的诗，再借"森林中的树"寓言预告悲剧（"Does it happen? Does it not? You will never know!"）。
+3. **Tebiso 事件**（`harukaspring3` 内）：Sensei 踩死又救活一只名为 Tebiso 的虫子，虫子质问 "You've been here for so long and have accomplished nothing"，并精准报出 "How many times did she call you last night? Six. You answered none of them."——超自然存在对循环内行为的监察。
+4. **作者现身与自我抹除**：`harukaspring6` 的巴士站场景中段突然插入 "TRANSLATION NOTE: Hey guys, Selebus here."，作者自称在现场转录却受"机械噪音"干扰（9814-9815）；随后叙述者连续否认——"I promise I am a liar and I promise I am someone else now and there is no mechanical noise."（9820）、"There is no Selebus either"（9826），同时声明 "This was all very real"（9820）又质疑 "whether or not it's actually even happening when I've already told you it is"（9836）。并以诗句自白 "It's your misery that lifts me up! I'm the key and you're the kite."（9854）——痛苦本身就是叙事者的燃料。叙述者还首次自认能力边界："my powers are limited. I can not see into this girl's mind."（9619）。
+5. **Ami 的跨线点名**：场景高潮处 Ami 的声部（a）插入一词 "Rain king."（9857）——rainking（finalwarning 密室电脑场景）中 Ami 对玩家的称呼在此被她提前/再次说出，把 Haruka 的受难场景接入 rainking 的雨之母题链（且发生在 Kumon-mi 常年无雨的世界里）。
+6. **路线警告**：`harukaspring5` 结尾系统提示明言 "But she doesn't make any character progress because this is the route where she only gets worse and everything ends horribly."＋"Narrator casts [[FLAME BREATH]!"（9590-9591）——Haruka 线被官方标注为无救赎路线，narrator 亲自向她喷火。
+6. **世界观谜题**：Haruka 在酒吧发问 Kumon-mi 作为封闭城镇的物资来源，Sara 猜测 "helipad supply drops"——小镇封闭性与主线设定互文。
+7. **玩家层自白**：Sensei 的小字独白 "This game is awesome... none of these characters are actually real people" 把 Haruka 的苦难明码标价为玩家的娱乐内容。
+
+## 五、未解伏笔
+
+1. **丈夫的命运**：他是真的在太空，还是循环机制抹除的存在？Sensei 自己也承认这只是假设（"That would sure be a trip."）。他若归来将直接引爆 Haruka 线（"Imagine he just comes back one day..."）。
+2. **Nodoka 悬念**：Cafe 中 Haruka 突然变色后含糊地说 "Maybe we could talk about that the next time you come over?"——她与 Nodoka 之间有一段未揭开的对话。
+3. **BBP 调查余波**：周边商铺的监控是否拍到当晚始终未结案；丑闻若扩散，Haruka 的反应令人不安地期待（"I'd never stop being wet again."）。
+4. **Makoto 问题**：Maki 发现女儿与 Sensei 的关系后的谈话悬而未决，Haruka 已被卷入并为自己的钱包索赔。
+5. **Sana 的 "favor"**：Sana 明言将来会要求回报（"I might call in a favor eventually... I don't know yet."）——这是悬在 Haruka 头上的勒索。
+6. **Karin 目击**：`harukaspring6` 结尾 Karin 撞见瘫痪的 Haruka，此事是否会传开、由谁处理，均未落地。
+7. **Kirin 秘密**：Christmalloween 浴室未遂事件是 Kirin 与 Haruka 之间的共同秘密，随时可能成为新的爆点。
+8. **"everything ends horribly"**：官方路线警告预示 Haruka 线尚有一个灾难性的终点尚未到来。
+9. **她的孤独终局**：结尾旁白提出的问题——那个"愿意选她的人"是否永远遥远——是全线的终极悬念。
+10. **"something she already has"**：旁白说她"没意识到自己已经拥有"爱（9917）——是谁的爱（女儿 Sana？早已异化的挚友 Sara？Maki？）文本不答。
+11. **Sensei 的记忆缺口**：harukaspring6 当夜他面对 Niki 说 "I can't really remember."（9952）——不知道是无法编造还是真的失忆；这是继 halloweenfour14 忘记 Sekai 之名后又一处记忆异常，且发生在人妻线剧情之后。
+12. **pop 音效的瞬移**：Sensei 两小时路程瞬间抵达（9677-9678），音效与 Maya 被"爆掉"的 pop.mp3 同名——他的移动能力是否带有系统级属性，悬置。

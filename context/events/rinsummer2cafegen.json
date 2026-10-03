@@ -1,0 +1,146 @@
+{
+  "label": "rinsummer2cafegen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label rinsummer2cafegen:",
+      "zh": ""
+    },
+    {
+      "en": "scene rinsummer2cafegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/rinsummer2cafegen.webp",
+      "alt": "rinsummer2cafegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head over to the cafe to drink a random combination of syrups and espresso and hang out with a girl who would rather sleep with {i}another{/i} girl than me.",
+      "zh": "我去咖啡馆把糖浆和浓缩咖啡随便兑在一起喝，顺便陪一个宁愿跟{i}别的{/i}女孩上床也不愿跟我上床的女孩。"
+    },
+    {
+      "en": "Why I have decided to be so unabashedly confrontational about that via inner monologue, I don’t know. Especially since I, too, would rather sleep with a girl than myself.",
+      "zh": "我为什么要在内心独白里这么毫不掩饰地针锋相对，我自己也不知道。尤其是我自己也宁愿跟女孩上床，而不是跟自己。"
+    },
+    {
+      "en": "But I digress.",
+      "zh": "不过我扯远了。"
+    },
+    {
+      "en": "The morning proceeds normally and Rin fills me in on all of the latest happenings of her life that I may have missed over the last 24 hours.",
+      "zh": "上午照常过去，Rin 把她过去二十四小时里我可能错过的近况统统补给我。"
+    },
+    {
+      "en": "As you may have guessed, all of them involve either Otoha or music. Or both of those things.",
+      "zh": "你大概猜得到，全都跟 Otoha 或者音乐有关。或者两者都有。"
+    },
+    {
+      "en": "And while I’m happy that she’s getting to dive face first into the things she loves as of late, I can’t help but wish there was some piece of me in there.",
+      "zh": "虽然我很高兴她最近能一头扎进自己热爱的事物里，可我还是忍不住希望其中有我的一席之地。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if rinbetrayed == True:",
+      "zh": ""
+    },
+    {
+      "en": "I understand why there’s not, though.",
+      "zh": "不过我明白为什么没有。"
+    },
+    {
+      "en": "And at this point, I honestly doubt there ever will be.",
+      "zh": "而且事到如今，我真怀疑以后也不会有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "It doesn’t have to be a big piece. Even a sliver would be fine.",
+      "zh": "也不需要多大的位置。哪怕只是一小片也行。"
+    },
+    {
+      "en": "I just feel like we’re moving backwards all of a sudden.",
+      "zh": "我只是突然觉得我们在倒退。"
+    },
+    {
+      "en": "And the idea of that hits me harder than it should.",
+      "zh": "而这个念头对我的打击，比它本该有的还要重。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A flood of customers all decide to caffeinate at the same time and I seize the opportunity to bail out before I get wrapped up in the mess.",
+      "zh": "一大群客人不约而同地决定在同一时间来补充咖啡因，我趁乱开溜，免得被卷进这团混乱里。"
+    },
+    {
+      "en": "Rin notices me leaving and stops what she’s doing to say goodbye, causing the customer she’s currently helping to get pissed off-",
+      "zh": "Rin 注意到我要走，停下手里的事跟我道别，害得她正在接待的那位顾客很生气——"
+    },
+    {
+      "en": "But allowing {i}me{/i} to leave the building knowing I haven’t been completely forgotten yet.",
+      "zh": "但也让{i}我{/i}走出店门时知道自己还没有被彻底遗忘。"
+    },
+    {
+      "en": "And that the thought of me may just cross her mind while her tongue is in her girlfriend’s mouth.",
+      "zh": "也知道当她的舌头伸进她女朋友嘴里的时候，说不定会闪过我的念头。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ rin_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Rin’s affection has increased to [rin_love]!{/i}",
+      "zh": "{i}Rin 的好感度提升到了 [rin_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

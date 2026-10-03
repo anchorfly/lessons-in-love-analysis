@@ -1,0 +1,2908 @@
+{
+  "label": "chikadorm20",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikadorm20:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chika. We’re hanging out tonight.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Chika。我们今晚要一起玩。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I knock on Chika’s door and wait for her to answer.",
+      "zh": "我敲了敲 Chika 的门，等她来应门。"
+    },
+    {
+      "en": "Not like it will make any difference, though, since I've already verbally confirmed that we will be hanging out.",
+      "zh": "不过敲不敲也没什么区别，因为我早就口头确认过我们要一起玩了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Who's there?~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 谁呀～？"
+    },
+    {
+      "en": ": The only male figure in your life.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你生命中唯一的男性形象。"
+    },
+    {
+      "en": ": Dad?! You came back?!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 爸爸？！你回来了？！"
+    },
+    {
+      "en": ": Why did you have to make this weird?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你非要把气氛搞得这么怪吗？"
+    },
+    {
+      "en": ": Oh, stop. I know it's you, Sensei. Now, are you gonna come in or are you just gonna stand out there and look weird?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦，得了吧。我知道是你，Sensei。那么，你是要进来，还是打算继续站在外面犯傻？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day > 5:",
+      "zh": ""
+    },
+    {
+      "en": ": Look weird in front of who? No one’s out here.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 在谁面前犯傻？外面又没人。"
+    },
+    {
+      "en": ": Correction: No one is out there {i}right now{/i}. You never know when someone is gonna show up.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 更正：是{i}现在{/i}外面没人。你永远不知道什么时候会有人冒出来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": Well, no one’s said anything yet. So I’ll probably be fine out here for another few minutes.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，目前也没人说什么。所以我在外面再站几分钟应该也没事。"
+    },
+    {
+      "en": ": Are you really denying an invite into my room so you can continue to...what, {i}not{/i} look weird in front of the other girls?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你真要拒绝进我房间的邀请，就为了……什么，为了在其他女生面前{i}不{/i}显得奇怪？"
+    },
+    {
+      "en": ": It certainly looks that way right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 现在看来确实是这样。"
+    },
+    {
+      "en": ": Sensei. Come on.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Sensei。拜托。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay, fine. I’m coming in.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 好，行。我进来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "……………"
+    },
+    {
+      "en": "......",
+      "zh": "………"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty1",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty1.webp",
+      "alt": "chikadormtwenty1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Geez, took you long enough.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 天哪，你可真够慢的。"
+    },
+    {
+      "en": ": Yeah, hey.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，嗨。"
+    },
+    {
+      "en": ": Did you miss me?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 想我了吗？"
+    },
+    {
+      "en": ": I guess.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 大概吧。"
+    },
+    {
+      "en": ": You {i}guess?{/i}",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": {i}大概{/i}？"
+    },
+    {
+      "en": ": Am I being interrogated now?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我现在是在被审问吗？"
+    },
+    {
+      "en": ": Maybe~ I've just gotta make sure we're on the same wavelength before anything else happens tonight, and I {i}certainly{/i} missed you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 也许哦～今晚别的事发生之前，我得先确认我们频率一致嘛，而且我{i}确实{/i}想你了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty2.webp",
+      "alt": "chikadormtwenty2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But only because it's kinda tough going long periods of time without a babysitter.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 但只是因为长时间没有保姆在身边，日子有点难过。"
+    },
+    {
+      "en": ": Yeah, so...about that- I don’t really think it was a great idea for me to walk around the mall with your little sister.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，那个……说起这个——我觉得我带你妹妹逛商场这事，实在不算个好主意。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty3.webp",
+      "alt": "chikadormtwenty3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh? Why? She didn’t bother you or anything, did she? I know that she can be a little much sometimes but she promised that-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊？为什么？她没给你添麻烦什么的吧？我知道她有时候是有点闹，但她答应过——"
+    },
+    {
+      "en": ": I may or may not have run into Ami and Maya while I was with her.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我跟她在一起的时候，可能碰上了 Ami 和 Maya。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty4",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty4.webp",
+      "alt": "chikadormtwenty4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What? Oh my God, no way. How did you get out of {i}that?{/i} What did you tell them?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 什么？我的天，不会吧。你怎么{i}圆的场{/i}？跟她们怎么说的？"
+    },
+    {
+      "en": ": That she was a dog.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说她是只狗。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ": It kind of hasn't shown up in discussion since then, and I'm hoping it will remain that way.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 从那以后这事就没再被提起过，我希望一直这样。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty5",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty5.webp",
+      "alt": "chikadormtwenty5"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Pfft-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 噗——"
+    },
+    {
+      "en": ": Don’t you dare laugh at my misfortune, Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你敢笑我的倒霉事，Chika。"
+    },
+    {
+      "en": ": Sorry, sorry, sorry! It’s just...you really tried to pretend she was a normal dog? That was the best thing you could come up with?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 对不起对不起对不起！只是……你真的试图把她装成一只普通的狗？你能想到的最好的借口就是这个？"
+    },
+    {
+      "en": ": What could anyone have possibly done in my situation that would have had a better outcome?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 换作任何人处在我那个处境，能想出什么更好的结果？"
+    },
+    {
+      "en": ": {i}That she was a dog...{/i}Oh my God. The look on your face when you said that-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": {i}说她是只狗……{/i}我的天。你说那句话时的表情——"
+    },
+    {
+      "en": ": Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Chika。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty6",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty6.webp",
+      "alt": "chikadormtwenty6"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Whaaaaat? I'm not laughing {i}at{/i} you, I'm laughing {i}with{/i} you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 什——么？我又不是在{i}笑你{/i}，我是{i}陪你{/i}一起笑。"
+    },
+    {
+      "en": ": No, you are very much laughing at me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不，你就是在笑我。"
+    },
+    {
+      "en": ": There’s a weird German word for having fun at someone else’s expense, you know. I don’t know how to say it or spell it, but it’s definitely a thing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 德语里有个奇怪的词，专门形容拿别人的倒霉取乐，你知道吗。我不会念也不会拼，但肯定有这个词。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty2.webp",
+      "alt": "chikadormtwenty2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Schadenfreude. It means pleasure derived from someone else’s misfortune.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Schadenfreude。意思是从别人的不幸中获得快乐。"
+    },
+    {
+      "en": ": How were you able to say that extremely specific foreign word without even a moment's hesitation?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你怎么能把这个特别生僻的外来词，连一秒钟都没犹豫就说出来了？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty7.webp",
+      "alt": "chikadormtwenty7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Who knows? Maybe I'm into that sort of thing?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 谁知道呢？也许我就好这口？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That would be quite the plot twist for a self-proclaimed {i}innocent{/i} girl.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 对一个自称{i}清纯{/i}的女孩来说，这可算得上神转折了。"
+    },
+    {
+      "en": ": Hey, just because I haven’t actually {i}done{/i} anything doesn’t mean I don’t think of stuff like that. What if I’m some sort of, like...closet-dominatrix or something?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嘿，我没真的{i}做过{/i}，又不代表我没想过那种事。万一我是个……深藏不露的抖 S 女王什么的呢？"
+    },
+    {
+      "en": ": My opinion of you is rapidly changing tonight.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我对你的看法今晚正在迅速改变。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty8",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty8.webp",
+      "alt": "chikadormtwenty8"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, please. We both know there’s only one perv in this room and it’s you.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦，拜托。我们都清楚这屋里只有一个变态，那就是你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chikatownfirst == True:",
+      "zh": ""
+    },
+    {
+      "en": ": Correct me if I’m wrong here, Chika, but wasn't it just the other day that {i}you{/i} decided it was time for us to start making out in the middle of the second half of town?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果我记错了你纠正我，Chika——就在前几天，是不是{i}你{/i}认定我们该在城南的正中央开始亲热了？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty9.webp",
+      "alt": "chikadormtwenty9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Who? Me? I’ve never kissed anyone before. I don't have any idea what you're talking about.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 谁？我？我可从没吻过任何人。我不知道你在说什么。"
+    },
+    {
+      "en": ": Really? Because my memory of that night is a little different.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 真的吗？因为我对那晚的记忆有点不一样。"
+    },
+    {
+      "en": ": R-Really? Well, uhh...what do you remember, then?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 真——真的吗？那，呃……那你记得什么？……"
+    },
+    {
+      "en": ": Actually, now that I think about it, maybe that was someone else.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 其实，现在想想，也许是别人吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty10",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty10.webp",
+      "alt": "chikadormtwenty10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! Who else are you making out with behind my back?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嘿！你背着我还在跟谁亲热？"
+    },
+    {
+      "en": ": Behind your back? But I thought there wasn’t anything going on between us?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 背着你？可我以为我们之间没什么啊？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty9.webp",
+      "alt": "chikadormtwenty9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Well, uhh...there's {i}technically{/i} not...but I think it should be pretty obvious that I-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 呃……{i}严格来说{/i}是没有……但我觉得很明显我——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": Well, you’re not {i}wrong{/i}...But you’re the one not wearing any pants despite knowing that. And that kind of makes you a pervert by association.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 嗯，你说得{i}没错{/i}……但你明知如此还是没穿裤子。这让你在连带意义上也算个变态。"
+    },
+    {
+      "en": ": Okay, first off, what the hell is a pervert by association? That's not a thing.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 好，首先，什么鬼叫连带变态？根本没有这种说法。"
+    },
+    {
+      "en": ": Second, how was I supposed to know you were coming over? I was just trying to get comfy.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 其次，我哪知道你要过来？我只是想舒服一点而已。"
+    },
+    {
+      "en": ": Please don’t let me get in the way of that, then. In fact, if you want to take even more clothes off to get comfier, I promise not to stop you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那请千万别让我碍着你。事实上，要是你想脱得更光更舒服，我保证不会拦你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty7",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty7.webp",
+      "alt": "chikadormtwenty7"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Suuuuure. So I just strip while you stand there and watch. How come I feel like that’s not exactly how things would go?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 当——然啦。所以我脱衣服，你站那儿看。怎么我感觉事情不会是这么发展的？"
+    },
+    {
+      "en": ": Probably because I'm a healthy, adult male who is heavily attracted to you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 大概因为我是一个身心健康的成年男性，而且对你非常着迷。"
+    },
+    {
+      "en": ": Oh yeah? Then how come-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦是吗？那怎么——"
+    },
+    {
+      "en": ": Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": Chika。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty3",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty3.webp",
+      "alt": "chikadormtwenty3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh? What? I wasn't finished talking.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊？什么？我还没说完呢。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Can we take this to the bed?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我们能到床上去说吗？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty11",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty11.webp",
+      "alt": "chikadormtwenty11"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Huh?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊？……"
+    },
+    {
+      "en": ": You mean, like...right now?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你是说……就现在？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Just to sit down, I mean.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我只是说坐过去而已。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty11r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty11r.webp",
+      "alt": "chikadormtwenty11r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, what the hell?! You knew I wasn't going to interpret it that way, you big jerk!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦，搞什么鬼？！你明知道我不会这么理解，你这个大混蛋！"
+    },
+    {
+      "en": ": I nearly had a heart attack just now!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我刚才差点心脏病发作！"
+    },
+    {
+      "en": ": Really? I guess that confirms you must be at least {i}somewhat{/i} perverted then, right?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 真的吗？那看来你至少也算{i}有点{/i}变态了，对吧？"
+    },
+    {
+      "en": ": I was making a totally wholesome request and you somehow twisted it into something inappropriate. Shame on you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我提的是个完全纯洁的请求，你却不知怎么把它扭曲成不正经的东西。丢人。"
+    },
+    {
+      "en": ": I'm not a...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我才不是……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty11rr",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty11rr.webp",
+      "alt": "chikadormtwenty11rr"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahh! Forget it!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊！算了！"
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika sighs to herself and angrily moves over to the bed, hopping on and bringing herself closer to the wall.",
+      "zh": "Chika 自顾自地叹了口气，气鼓鼓地挪到床上，一跃而上，朝墙边靠过去。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I catch a glimpse of what appears to be pink lace underwear as she adjusts herself and can’t help but think about how she’d react if I just went for it right now.",
+      "zh": "她调整坐姿时，我瞥见一抹似乎是粉色蕾丝内裤的东西，忍不住想，要是我现在就扑上去，她会是什么反应。"
+    },
+    {
+      "en": "But I’m a good person.",
+      "zh": "但我是个好人。"
+    },
+    {
+      "en": "I will not do that unless she invites me to do so.",
+      "zh": "除非她主动邀请，否则我不会那么做。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{s}I will not do that unless she invites me to do so.{s}",
+      "zh": "{s}除非她主动邀请，否则我不会那么做。{/s}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...Sensei?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 呃……Sensei？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty13",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty13.webp",
+      "alt": "chikadormtwenty13"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Why are you looking at me like that all of a sudden?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你干嘛突然这样看着我？"
+    },
+    {
+      "en": ": Like what? This is how I always look at you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哪样？我一直都是这么看你的啊。"
+    },
+    {
+      "en": ": Nuh-uh. You keep, like...staring at my legs.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 才不是。你一直，那个……盯着我的腿看。"
+    },
+    {
+      "en": ": It looked like you were...I don't know...maybe, like...thinking of something?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 看起来你好像……我不知道……也许，在……想什么事？"
+    },
+    {
+      "en": ": What would I be thinking of, Chika?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我会在想什么呢，Chika？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty14",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty14.webp",
+      "alt": "chikadormtwenty14"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don't know...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我不知道……"
+    },
+    {
+      "en": ": Stuff?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那种事？"
+    },
+    {
+      "en": ": What kind of stuff?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 哪种事？"
+    },
+    {
+      "en": ": Why do I have to be the one to say it?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 为什么非得由我来说出口啊？……"
+    },
+    {
+      "en": ": Because that's how this relationship has to work.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 因为这段关系就得是这样运作的。"
+    },
+    {
+      "en": ": You need to want it just as much as me.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你需要跟我一样想要它。"
+    },
+    {
+      "en": ": And if you don't, nothing will ever happen.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 如果你不想要，那就什么都不会发生。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ": But you want it to happen, don't you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 但你希望它发生，对吧？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty15",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty15.webp",
+      "alt": "chikadormtwenty15"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I'm...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我……"
+    },
+    {
+      "en": ": I'm a little scared.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我有点害怕。"
+    },
+    {
+      "en": ": Of what?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 怕什么？"
+    },
+    {
+      "en": ": I've just...never done anything like this before.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我只是……从没做过这种事。"
+    },
+    {
+      "en": ": I-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我——"
+    },
+    {
+      "en": ": We obviously both know we're on the bed cause, like...we want something to happen-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我们俩显然都清楚我们坐在床上是因为……我们希望有什么事发生——"
+    },
+    {
+      "en": ": But...when you really think about what we want to happen...don't you also think it's something we should maybe, like...not want at all?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 但是……当你认真想想我们希望发生的那件事……你不觉得那也许是件我们该……完全不该想要的事吗？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": No.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 不。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don't think anything even close to that.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我连一点类似的想法都没有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A moment of silence finds its way into the room, drowning out the volume of a live performance on TV that Chika must have been watching before letting me in.",
+      "zh": "一阵沉默钻进房间，盖过了电视里现场演出的声音——那应该是 Chika 放我进来之前一直在看的节目。"
+    },
+    {
+      "en": "It’s a strange thing when silence is powerful enough to kill off sound. And describing it to anyone who isn't swimming in the lakes of their own loneliness would prove problematic.",
+      "zh": "沉默强大到足以吞噬声音，这是件很奇怪的事。而要向那些没有在自己孤独的湖水里游过泳的人解释这一点，会相当困难。"
+    },
+    {
+      "en": "But me?",
+      "zh": "但我呢？"
+    },
+    {
+      "en": "I am an exceptional swimmer.",
+      "zh": "我是个游泳高手。"
+    },
+    {
+      "en": "I can understand things like this that no one else can.",
+      "zh": "我能理解这些别人理解不了的东西。"
+    },
+    {
+      "en": "Was living and loving always this easy?",
+      "zh": "活着和爱人，一直都这么容易吗？"
+    },
+    {
+      "en": "And is it even okay to equate moments like this to words as strong as ‘love’ when it's something I've never understood at all?",
+      "zh": "而我压根就没懂过爱这种东西，把这样的时刻等同于「爱」这么重的字眼，真的合适吗？"
+    },
+    {
+      "en": "I don’t know.",
+      "zh": "我不知道。"
+    },
+    {
+      "en": "But what I do know-",
+      "zh": "但我知道的是——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Sensei……"
+    },
+    {
+      "en": "What I do know is that now, in this moment-",
+      "zh": "但我知道的是，此刻——"
+    },
+    {
+      "en": "I want this girl.",
+      "zh": "我想要这个女孩。"
+    },
+    {
+      "en": "I don’t know if I will forever.",
+      "zh": "我不知道是否会一直想要下去。"
+    },
+    {
+      "en": "But I want her now.",
+      "zh": "但我现在想要她。"
+    },
+    {
+      "en": "And that’s all that matters.",
+      "zh": "这才是最重要的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if beachvacation16 == True:",
+      "zh": ""
+    },
+    {
+      "en": "Chika and Rin aren't going to end up together.",
+      "zh": "Chika 和 Rin 是不会有结果的。"
+    },
+    {
+      "en": "There was never a chance for them in the first place.",
+      "zh": "她们俩从一开始就没有可能。"
+    },
+    {
+      "en": "But what spells heartbreak for one opens doors for another.",
+      "zh": "但让一个人心碎的东西，会为另一个人打开门。"
+    },
+    {
+      "en": "I've done my duty in holding back thus far...but I was never going to keep that up forever.",
+      "zh": "到此刻为止我已经尽到了克制的本分……但我从没打算永远克制下去。"
+    },
+    {
+      "en": "What happens next is between Chika and me.",
+      "zh": "接下来发生的事，是我和 Chika 之间的事。"
+    },
+    {
+      "en": "Rin has nothing to do with it anymore.",
+      "zh": "Rin 跟这件事再无关系了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We move closer together.",
+      "zh": "我们靠得更近了。"
+    },
+    {
+      "en": ".........",
+      "zh": "……………"
+    },
+    {
+      "en": "......",
+      "zh": "………"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump chikadorm20x",
+      "zh": ""
+    },
+    {
+      "en": "label chikadorm20x:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikadormtwenty16",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty16.webp",
+      "alt": "chikadormtwenty16"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Her skin is warm. Burning, even.",
+      "zh": "她的皮肤很温暖。甚至可以说发烫。"
+    },
+    {
+      "en": "She knew something like this would wind up happening the second she let me onto her bed...and yet, she did nothing to stop me.",
+      "zh": "她让我上床的那一刻，就知道这种事迟早会发生……然而她什么也没做来阻止我。"
+    },
+    {
+      "en": "She wants this.",
+      "zh": "她想要这个。"
+    },
+    {
+      "en": "I want this.",
+      "zh": "我也想要这个。"
+    },
+    {
+      "en": "And it’s something that’s been brewing for a while now.",
+      "zh": "而这事已经酝酿有一阵子了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chikatownfirst == False:",
+      "zh": ""
+    },
+    {
+      "en": "How could I have turned away from this before?",
+      "zh": "我之前怎么会转身躲开这个？"
+    },
+    {
+      "en": "What a fool I was for neglecting the opportunity to be as close to her as this.",
+      "zh": "我真是傻，居然错过了能这样贴近她的机会。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": Ummm...Weird request, but can we...do it for a little while longer this time?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯……有个奇怪的请求，我们这次……能做得久一点吗？"
+    },
+    {
+      "en": ": I didn’t really get all I wanted out of my first kiss and I think I may have like, rushed it or something...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我的初吻没得到我想要的全部，我觉得我可能有点太急了什么的……"
+    },
+    {
+      "en": ": What more did you want?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你还想要什么？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty17",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty17.webp",
+      "alt": "chikadormtwenty17"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You tell me...You’re the experienced one.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你告诉我吧……你是有经验的那个人。"
+    },
+    {
+      "en": ": I’m just a {i}potentially-{/i}perverted girl who wound up falling for her teacher.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我只是个{i}可能是{/i}变态的女孩，最后爱上了自己的老师。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika’s fingers begin to tremble slightly and I worry that I might need to talk her into this if her nerves get any worse.",
+      "zh": "Chika 的手指开始微微发抖，我担心要是她再紧张下去，我可能得劝劝她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are you...really sure this is okay? It feels kind of weird still, doesn’t it?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你……真确定这样没问题吗？感觉还是有点怪怪的，不是吗？"
+    },
+    {
+      "en": ": I don’t feel weird at all.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我一点都不觉得怪。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty17r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty17r.webp",
+      "alt": "chikadormtwenty17r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I guess it's probably just me being nervous again, then...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那大概又只是我在紧张吧……"
+    },
+    {
+      "en": ": You’re like...even hotter close up. Which is totally crazy since I think you're, like...mega hot to begin with.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你近距离看……更帅了。这太离谱了，因为我本来就觉得你……超级帅了。"
+    },
+    {
+      "en": ": I think you’re beautiful as well.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我也觉得你很美。"
+    },
+    {
+      "en": ": You’re just saying that...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你只是说说而已吧……"
+    },
+    {
+      "en": ": I’m not.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我不是。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty18",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty18.webp",
+      "alt": "chikadormtwenty18"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Sensei……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The shaking stops as her eyes pierce through mine.",
+      "zh": "她不再发抖，目光刺穿了我的眼睛。"
+    },
+    {
+      "en": "She is completely, utterly enamored.",
+      "zh": "她已经彻底、完全地为我着迷了。"
+    },
+    {
+      "en": "I don't deserve this.",
+      "zh": "我不配得到这些。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Are you ready?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 准备好了吗？"
+    },
+    {
+      "en": ": I'm sorry in advance if I, like...screw up or something.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 要是我，那个……搞砸了什么的，我先道歉。"
+    },
+    {
+      "en": ": Just follow my lead and everything will be fine.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 跟着我的节奏来，一切都会好的。"
+    },
+    {
+      "en": ": Okay...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 好……"
+    },
+    {
+      "en": ": I trust you...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我相信你……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "You shouldn't.",
+      "zh": "你不该相信我。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty19",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty19.webp",
+      "alt": "chikadormtwenty19"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯～"
+    },
+    {
+      "en": ": Mngh...hmm...mm...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯……哼……嗯……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It takes a little while, but I'm able to get Chika to open her mouth and properly kiss me back.",
+      "zh": "花了一点时间，但我总算让 Chika 张开嘴，好好地回吻我。"
+    },
+    {
+      "en": "Her tongue trips over mine in a clumsy attempt to battle new experiences and the flood of emotions accompanied by them.",
+      "zh": "她的舌头笨拙地跟我的纠缠在一起，试图应对全新的体验和随之而来的情绪洪流。"
+    },
+    {
+      "en": "She’s scared. And I don’t blame her.",
+      "zh": "她害怕。我不怪她。"
+    },
+    {
+      "en": "Even though it’s clear that we have {i}feelings{/i} for one another, she’s experiencing a whole new world right now.",
+      "zh": "虽然我们显然对彼此有{i}感觉{/i}，但她此刻正在经历一个全新的世界。"
+    },
+    {
+      "en": "She’s been thrust into an endless battle between mind and body and is attempting to not only do what {i}feels{/i} good, but to hold herself back from {i}feeling{/i} too much.",
+      "zh": "她被抛进了一场理智与身体的无尽搏斗，不仅要努力去做{i}感觉{/i}舒服的事，还要克制自己别{i}感受{/i}太多。"
+    },
+    {
+      "en": "It is a level of self-control that I envy.",
+      "zh": "这是让我羡慕的自制力。"
+    },
+    {
+      "en": "And so I will do what I can to diminish it.",
+      "zh": "所以我要尽我所能把它消解掉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty20",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty20.webp",
+      "alt": "chikadormtwenty20"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mmnh...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯嗯……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She begins to calm down.",
+      "zh": "她开始平静下来。"
+    },
+    {
+      "en": "Slowly but surely, her tongue finds a new home in one of the worst possible places it could ever end up.",
+      "zh": "缓慢却坚定地，她的舌头在一个最不该去的地方找到了新归宿。"
+    },
+    {
+      "en": "She begins to submit, and I begin to press further.",
+      "zh": "她开始臣服，我开始进逼。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty21",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty21.webp",
+      "alt": "chikadormtwenty21"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mmm...nnnh...chu...mmf...hmm!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯……嗯嗯……啾……唔……哼！"
+    },
+    {
+      "en": ": Ngh...mmm...ahn...hah...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯……嗯……啊……哈……"
+    },
+    {
+      "en": ": {i}Sensei...Sensei...{/i}",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": {i}Sensei……Sensei……{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She gives in and I pull her shoulders closer. Her body presses against mine and the scent of rosewater leaks into my nostrils.",
+      "zh": "她彻底放开了，我把她的肩膀拉得更近。她的身体贴着我，玫瑰水的香气钻进我的鼻腔。"
+    },
+    {
+      "en": "She is happy.",
+      "zh": "她是快乐的。"
+    },
+    {
+      "en": "I can tell by the way she kisses me back.",
+      "zh": "从她回吻我的方式就看得出来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mmf...ahmm...mmm~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 唔……啊嗯……嗯～"
+    },
+    {
+      "en": ": Sen...sei...mmm...Sen...sei...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Sen……sei……嗯……Sen……sei……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty21r",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty21r.webp",
+      "alt": "chikadormtwenty21r"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A shaking hand suddenly finds its way into my lap and searches around for something I imagine she's even more afraid of.",
+      "zh": "一只发抖的手忽然摸到我的腿间，摸索着某样我想她更害怕的东西。"
+    },
+    {
+      "en": "She doesn't have any trouble finding it either, since I’ve gotten hard enough at this point to be almost bursting out of my jeans.",
+      "zh": "她没费什么劲就找到了，因为这时的我已经硬得快要从牛仔裤里撑出来了。"
+    },
+    {
+      "en": "I can feel two fingers trace the length of my shaft up and down as Chika’s tongue proceeds to fight back against mine.",
+      "zh": "我能感觉到两根手指沿着我的茎身上下来回描摹，而 Chika 的舌头还在跟我的纠缠不休。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm~ Chu...mmm~ Hmmph...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯～啾……嗯～唔……"
+    },
+    {
+      "en": ": Mf~! Hmm...mngh...Sensei...Sensei...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 唔～！哼……嗯嗯……Sensei……Sensei……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Her full hand wraps around the outline of my cock, stroking it through the fabric of my pants and causing a blend of both immense pleasure and mild discomfort.",
+      "zh": "她整只手握住我鸡巴的轮廓，隔着裤子的布料抚弄，带来一阵巨大的快感与轻微不适的混合。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Mm...hm...hmm...chu...ngh...hahm...ahn...mmm~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯……哼……嗯……啾……嗯……哈嗯……啊……嗯～"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Her noises begin to get louder and louder as the two of us grow closer.",
+      "zh": "随着我们越贴越近，她的声音开始越来越大。"
+    },
+    {
+      "en": "Her tongue is no longer restrained, but running free alongside mine as I do my best to guide her through the proper ways to love and be loved.",
+      "zh": "她的舌头不再拘束，而是跟我的自由纠缠，而我尽力引导她体会爱与被人爱的正确方式。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But it’s not enough.",
+      "zh": "但这还不够。"
+    },
+    {
+      "en": "I want to be even closer.",
+      "zh": "我想更近一点。"
+    },
+    {
+      "en": "So I push her down.",
+      "zh": "于是我把她按了下去。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty23",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty23.webp",
+      "alt": "chikadormtwenty23"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A mix of arousal and fear spreads across her face, but I ignore the second half.",
+      "zh": "她脸上交织着兴奋与恐惧，但我无视了后一半。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei...are you sure about this?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Sensei……你确定要这样吗？……"
+    },
+    {
+      "en": ": I...ummm...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我……嗯……"
+    },
+    {
+      "en": ": I think we should probably wait a {i}little{/i} longer before having sex...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我觉得我们做爱之前，也许该再{i}等等{/i}……"
+    },
+    {
+      "en": ": We're not having sex.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我们没在做爱。"
+    },
+    {
+      "en": ": We're not?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 没有吗？……"
+    },
+    {
+      "en": ": Then...what are you going to do?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那……你要做什么？……"
+    },
+    {
+      "en": ": Something I imagine you do to yourself quite a bit.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 一件我想你经常对自己做的事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty24",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty24.webp",
+      "alt": "chikadormtwenty24"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I don’t know what you're talking about...I'm innocent, remember?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我不知道你在说什么……我很清纯的，记得吗？"
+    },
+    {
+      "en": ": You certainly don't look it right now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你现在看起来可一点都不清纯。"
+    },
+    {
+      "en": ": Well forgive me for getting a little turned on when I just felt a penis the size of my forearm.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那原谅我吧，我刚摸到一根跟我小臂差不多大的鸡巴，有点情动了。"
+    },
+    {
+      "en": ": But that doesn't mean that I-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 但那不代表我——"
+    },
+    {
+      "en": ": Stop talking, Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 别说话了，Chika。"
+    },
+    {
+      "en": ": It'll just make it harder to enjoy yourself.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 说话只会让你更难享受。"
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Okay...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 好……"
+    },
+    {
+      "en": ": Go ahead...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 来吧……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty25",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty25.webp",
+      "alt": "chikadormtwenty25"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ngh!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I slide Chika's panties to the side and sink my middle finger into her pussy.",
+      "zh": "我把 Chika 的内裤拨到一边，中指没入了她的私处。"
+    },
+    {
+      "en": "It's a tight fit at first, but shows little resistance once I start to get going.",
+      "zh": "一开始有点紧，但我开始动作之后，几乎没遇到什么阻力。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh my...God...Sensei....",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦我的……天……Sensei……"
+    },
+    {
+      "en": ": It feels...so good...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 感觉……好舒服……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She really is a pervert, getting this wet from just kissing for a few minutes.",
+      "zh": "她真是个变态，光是亲了几分钟就湿成这样。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hoooooly shit...This is..hah...this is really happening...right now...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我操……这、哈……这是真的在发生……就在现在……"
+    },
+    {
+      "en": ": You wanted this to happen...didn't you, Chika?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你希望这件事发生……不是吗，Chika？"
+    },
+    {
+      "en": ": Ngh! Shut...up! I’m...innocent! I...really am...Sensei!...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯！闭……嘴！我是……清纯的！我真的……是，Sensei！……"
+    },
+    {
+      "en": ": If you're so innocent, how come you're letting your teacher finger you?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 要是你这么清纯，怎么会让你老师用手指弄你？"
+    },
+    {
+      "en": ": Ngh!...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯！……"
+    },
+    {
+      "en": ": Because I...I like...hi-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 因为我……我喜欢……你——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty26",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty26.webp",
+      "alt": "chikadormtwenty26"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AAAAAHHHHHHFUCK!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊——————操！"
+    },
+    {
+      "en": ": Whatever you just did...do it again...oh my God...oh my God...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你刚才做了什么……再做一次……我的天……我的天……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I lightly pull Chika's body upwards using nothing but my middle finger.",
+      "zh": "我仅用一根中指，轻轻把 Chika 的身体往上带。"
+    },
+    {
+      "en": "Lewd sounds escape from between her legs and begin to fill the room as she struggles to hold back her voice.",
+      "zh": "淫靡的声音从她双腿间漏出来，开始填满整个房间，而她拼命忍着不出声。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty27",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty27.webp",
+      "alt": "chikadormtwenty27"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hah......hah.......",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哈……哈……"
+    },
+    {
+      "en": ": Am I seriously...getting fingered by my teacher right now?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我是真的……正在被我的老师用手指弄吗？……"
+    },
+    {
+      "en": ": How does this...even happen?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 这种事……到底是怎么发生的？……"
+    },
+    {
+      "en": ": It’s your fault for being so cute.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 都怪你太可爱了。"
+    },
+    {
+      "en": ": And...mature...right?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 还有……成熟……对吧？……"
+    },
+    {
+      "en": ": You called me that...the first time you came to the mall...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你第一次来商场的时候……是这么叫我的……"
+    },
+    {
+      "en": ": It...hah...made me really...happy or...or something...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那让我……哈……特别……开心还是什么的……"
+    },
+    {
+      "en": ": I don’t know...my mind is melting...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我不知道……我的脑子在融化……"
+    },
+    {
+      "en": ": Please don't...pay attention to anything I say from this point on...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 从现在开始……我说的话请都别当真……"
+    },
+    {
+      "en": ": I told you talking would make it harder to enjoy yourself.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我说过，说话会让你更难享受。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty28",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty28.webp",
+      "alt": "chikadormtwenty28"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahh...hah...ahh!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊……哈……啊！"
+    },
+    {
+      "en": ": This is...no fair!...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 这……不公平！……"
+    },
+    {
+      "en": ": I was...going to do stuff to you tonight!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我今晚……本来打算对你做点什么的！"
+    },
+    {
+      "en": ": It was gonna be...how I paid you back for helping out with Chinami! But then you had to go and...beat me to the punch...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那本来是……我报答你帮 Chinami 的方式！结果你却……抢先下手了……"
+    },
+    {
+      "en": ": I guess that means you just owe me {i}two{/i} favors now.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 那看来你现在欠我{i}两个{/i}人情了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty29",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty29.webp",
+      "alt": "chikadormtwenty29"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh my...fucking....",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦我的……操……"
+    },
+    {
+      "en": ": How are you so good at this?...I’m, like...literally in Heaven right now...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你怎么这么厉害？……我现在……简直像在天堂一样……"
+    },
+    {
+      "en": ": It definitely helps that you managed to get so turned on from just kissing.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然有帮助——光是接吻你就情动成这样。"
+    },
+    {
+      "en": ": So...I like kissing...sue me...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我就是……喜欢接吻……告我啊……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika probably hasn’t noticed, but she’s been gyrating her hips and grinding back against my hand ever since I started.",
+      "zh": "Chika 大概没注意到，从我一开始，她就一直在扭动腰肢，往我手上蹭。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It...feels so good...Sensei...it's...so good...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 感觉……好舒服……Sensei……真的……好舒服……"
+    },
+    {
+      "en": ": I’ve never...felt like this before...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我从来……没有过这种感觉……"
+    },
+    {
+      "en": ": I highly doubt that, Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我很怀疑这一点，Chika。"
+    },
+    {
+      "en": ": No, really...it's like...totally different...when it's with someone you-",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 不，真的……就像是……完全不一样……当是跟你——"
+    },
+    {
+      "en": ": Are you going to cum soon?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你快到了吗？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty30",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty30.webp",
+      "alt": "chikadormtwenty30"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ahh...ahh...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊……啊……"
+    },
+    {
+      "en": ": Yeah...Yeah, I...think so...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯……嗯，我……觉得是……"
+    },
+    {
+      "en": ": Is that okay?...For me to...do it before...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 可以吗？……我……先来……"
+    },
+    {
+      "en": ": Of course. I'm doing this for you, after all.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 当然。毕竟我是为了你才这么做的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Knowing Chika is close, I speed up my movements and plunge into her much harder than before.",
+      "zh": "知道 Chika 快到了，我加快动作，比之前更用力地探入她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty31",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty31.webp",
+      "alt": "chikadormtwenty31"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": HAHH! AHHH...OH MY GOD...OH MY GOD...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哈啊！啊……我的天……我的天……"
+    },
+    {
+      "en": ": Sensei...Sensei...ignore my...noises!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Sensei……Sensei……别管我发出的……声音！"
+    },
+    {
+      "en": ": I really am...innocent! I swear!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我真的是……清纯的！我发誓！"
+    },
+    {
+      "en": ": I don’t know what’s...hah...what's getting into me!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我不知道……什么……哈……什么东西附到我身上了！"
+    },
+    {
+      "en": ": Just stop talking and cum, Chika.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 别说话了，去吧，Chika。"
+    },
+    {
+      "en": ": MMM~ Oh god...fuck...okay...I’m...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 嗯～哦天……操……好……我……"
+    },
+    {
+      "en": ": Sensei...that feels...so...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": Sensei……那感觉……好……"
+    },
+    {
+      "en": ": AHHHH...FUCK!~",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊——……操！～"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Another moment of silence.",
+      "zh": "又是一阵沉默。"
+    },
+    {
+      "en": "Enough to kill off the last remaining decibels of applause on the television.",
+      "zh": "足以扼杀电视里最后残存的掌声分贝。"
+    },
+    {
+      "en": "But that doesn’t matter right now.",
+      "zh": "不过现在那不重要了。"
+    },
+    {
+      "en": "What matters is this.",
+      "zh": "重要的是这个。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty32",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty32.webp",
+      "alt": "chikadormtwenty32"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah...Yeah...Right there!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 对……对……就是那里！"
+    },
+    {
+      "en": ": Just...like that! Just like that, Sensei...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 就……那样！就那样，Sensei……"
+    },
+    {
+      "en": ": Oh God...oh God...oh God...oh...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦天……哦天……哦天……哦……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty33",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty33.webp",
+      "alt": "chikadormtwenty33"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": AHHHHHHHHHHHHHHHHHHHHH~!!!!!!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 啊——————————～！！！！！！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika screams loud enough to alert the entire city and-",
+      "zh": "Chika 尖叫得响到足以惊动整座城市，然后——"
+    },
+    {
+      "en": "Well, it immediately becomes a problem.",
+      "zh": "好吧，麻烦立刻就来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty34",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty34.webp",
+      "alt": "chikadormtwenty34"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh my God. Was I too loud? That sounded really loud.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我的天。我是不是太大声了？听起来真的很响。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Chika? Is everything okay in there? I’m coming in.",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": Chika？里面没事吧？我进来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Yup. Definitely a problem.",
+      "zh": "没错，绝对是麻烦。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh my God. You have to hide.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我的天。你得躲起来。"
+    },
+    {
+      "en": ": What? Hide? Where?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 什么？躲？躲哪儿？"
+    },
+    {
+      "en": ": Under the bed! Under Yumi's bed! Anywhere! Makoto's got a key!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 床底下！Yumi 的床底下！哪儿都行！Makoto 有钥匙！"
+    },
+    {
+      "en": ": Come to think of it, why {i}does{/i} Makoto have a key to every-",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 话说回来，为什么 Makoto 每个房间都{i}有{/i}钥匙——"
+    },
+    {
+      "en": ": I don't know, but she does! Now hurry up and hide before we're like, totally screwed!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我不知道，但她就是有！趁我们还没彻底完蛋，快点躲起来！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I do as Chika says and quickly hop off the bed, doing my best to get underneath it without any of my appendages slipping out.",
+      "zh": "我照 Chika 说的做，迅速跳下床，尽力钻进床底，不让任何肢体露在外面。"
+    },
+    {
+      "en": "I really hope I don’t have to stay under here long, because I'm honestly not sure if I'll last...",
+      "zh": "我真希望不用在下面待太久，因为我实在不确定自己能撑多久……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What in the world is going on in here? Are you o-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 这里面到底怎么回事？你还好——"
+    },
+    {
+      "en": ": Woah...Why is your face all red? If you have a fever, I can-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 哇……你脸怎么这么红？要是发烧了，我可以——"
+    },
+    {
+      "en": ": A...spider! I saw a spider! I don’t know where it went!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 蜘……蜘蛛！我看到一只蜘蛛！不知道它跑哪儿去了！"
+    },
+    {
+      "en": ": You made {i}that{/i} noise just from seeing a spider?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 你只是看到蜘蛛就叫成{i}那样{/i}？"
+    },
+    {
+      "en": ": Yes! I hate spiders! They’re gross!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 是啊！我最讨厌蜘蛛了！恶心死了！"
+    },
+    {
+      "en": ": Well, where did it go?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 那它跑哪儿去了？"
+    },
+    {
+      "en": ": No clue! Bye, Makoto!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 不知道！拜拜，Makoto！"
+    },
+    {
+      "en": ": It probably just ran under the bed or something. Do you want me to-",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 它大概是跑到床底下什么的了。要我——"
+    },
+    {
+      "en": ": Wait! No! It wasn’t a spider! It was...a fly! I made a mistake!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 等等！不是！那不是蜘蛛！是……一只苍蝇！我说错了！"
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Oh, look! It just went back into the hallway! Guess I’m safe now! Bye, Makoto!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 哦，你看！它飞回走廊了！看来我现在安全了！拜拜，Makoto！"
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Bye, Makoto!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 拜拜，Makoto！"
+    },
+    {
+      "en": ": Hah...why do I even bother?",
+      "spk": "Makoto",
+      "spkColor": "#5D84FF",
+      "zh": ": 哈……我干嘛要多管闲事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": "Makoto leaves the room and I am finally able to emerge from my hiding place.",
+      "zh": "Makoto 离开房间，我终于能从藏身处爬出来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty9",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty9.webp",
+      "alt": "chikadormtwenty9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That was, uhh...way too close for comfort.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 刚才……呃……真是险到让人不舒服。"
+    },
+    {
+      "en": ": You need to clean underneath your bed. There were like six empty water bottles down there.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你该打扫一下床底了。下面大概有六个空水瓶。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty35",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty35.webp",
+      "alt": "chikadormtwenty35"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That's all you have to say about this?!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你就只说这个？！"
+    },
+    {
+      "en": ": I mean...yeah. What else is there to say?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我是说……是啊。还有什么好说的？"
+    },
+    {
+      "en": ": I don’t know! How about “I’m really glad I got to do stuff like that with you, Chika!” or “Wow, you’ve got a really nice body, Chika!”",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 我不知道！比如「我真高兴能跟你做这种事，Chika！」或者「哇，你的身材真好，Chika！」"
+    },
+    {
+      "en": ": I thought both of those things were implied by the earth shattering orgasm I just gave you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我以为我刚给你的那个天崩地裂的高潮，已经把这两层意思都表达清楚了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty36",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty36.webp",
+      "alt": "chikadormtwenty36"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So...you don’t think I’m like...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那……你不会觉得我……"
+    },
+    {
+      "en": ": You know...a slut now...or something?",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 你知道的……现在变成荡妇了……什么的？"
+    },
+    {
+      "en": ": You're...aware that getting fingered one time by a person you spend an absurd amount of time with doesn't make you a slut, right?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你……知道被一个你整天黏在一起的人用手指弄一次，并不会让你变成荡妇，对吧？"
+    },
+    {
+      "en": ": I feel like it’s pretty natural for us to be at this part of the relationship given how we feel about each other.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我觉得，考虑到我们对彼此的感觉，走到关系的这一步是很自然的。"
+    },
+    {
+      "en": ": Does...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那……"
+    },
+    {
+      "en": ": Does that mean you like me?...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 那是不是代表你喜欢我？……"
+    },
+    {
+      "en": ": Of course I like you.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 我当然喜欢你。"
+    },
+    {
+      "en": ": If I didn’t, I would have gracefully accepted the handjob instead of using our limited time here to please you instead.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 要是我不喜欢，我就会体面地接受你用手帮我，而不是拿我们有限的相处时间来取悦你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty37",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty37.webp",
+      "alt": "chikadormtwenty37"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay well, I totally feel like you could have left that last part out and made the moment like, ten times better. But I'll take what I can get.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 好吧，我觉得你要是把最后那句省了，这一刻会美好十倍。不过我也就凑合了。"
+    },
+    {
+      "en": ": Wording things correctly isn’t really one of my strong points.",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 把话说得妥当，确实不是我的强项。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikadormtwenty38",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/chikadormtwenty38.webp",
+      "alt": "chikadormtwenty38"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": That’s fine. Cause I’m pretty sure I learned a different strong point of yours tonight!",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 没关系。因为我敢肯定，今晚我领教了你另一项强项！"
+    },
+    {
+      "en": ": What happened to not being perverted, Chika?",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": 你不是说你不变态吗，Chika？"
+    },
+    {
+      "en": ": ...",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": ……"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "spkColor": "#969696",
+      "zh": ": ……"
+    },
+    {
+      "en": ": Shut up.",
+      "spk": "Chika",
+      "spkColor": "#AF7F00",
+      "zh": ": 闭嘴。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika and I don’t spend much time together after that.",
+      "zh": "那之后我和 Chika 没再多待。"
+    },
+    {
+      "en": "We figured we already came close enough to being caught {i}once{/i} tonight that it would probably be for the best if I just went home.",
+      "zh": "我们觉得今晚已经{i}够险{/i}了，我最好还是回家。"
+    },
+    {
+      "en": "And so I did.",
+      "zh": "于是我就回去了。"
+    },
+    {
+      "en": "But not without learning a valuable piece of information:",
+      "zh": "不过也并非一无所获——我得知了一条宝贵的信息："
+    },
+    {
+      "en": "Chika is really fucking hot.",
+      "zh": "Chika 真的他妈的辣。"
+    },
+    {
+      "en": "The end.",
+      "zh": "完。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ chikadorm20 = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Chika’s affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "……………"
+    },
+    {
+      "en": "......",
+      "zh": "………"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

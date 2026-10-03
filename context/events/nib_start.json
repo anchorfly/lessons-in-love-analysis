@@ -1,0 +1,1082 @@
+{
+  "label": "nib_start",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "# Show a background. This uses a placeholder by default, but you can",
+      "zh": ""
+    },
+    {
+      "en": "# add a file (named either \"bg room.png\" or \"bg room.jpg\") to the",
+      "zh": ""
+    },
+    {
+      "en": "# images directory to show it.",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "One day-",
+      "zh": "有一天 ——"
+    },
+    {
+      "en": "Everyone you love is going to die.",
+      "zh": "你爱着的每一个人都将死去。"
+    },
+    {
+      "en": "But that’s okay.",
+      "zh": "但那没关系。"
+    },
+    {
+      "en": "Because, one day-",
+      "zh": "因为，有一天 ——"
+    },
+    {
+      "en": "You are going to die as well.",
+      "zh": "你也会死去。"
+    },
+    {
+      "en": "And so will I.",
+      "zh": "我也是。"
+    },
+    {
+      "en": "All of us are going to die.",
+      "zh": "我们所有人都将死去。"
+    },
+    {
+      "en": "But for now-",
+      "zh": "但在那之前 ——"
+    },
+    {
+      "en": "Please live a beautiful life.",
+      "zh": "请过一种美丽的人生。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I love you.",
+      "zh": "我爱你。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sky_splash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/sky_splash.png",
+      "alt": "sky_splash"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene sky_76",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/sky_76.png",
+      "alt": "sky_76"
+    },
+    {
+      "en": "$ renpy.pause(4, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene bedroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/bedroom_day.jpg",
+      "alt": "bedroom_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wake up again. A wonderful start to the day.",
+      "zh": "我又一次醒来。这一天开始了，真是美妙。"
+    },
+    {
+      "en": "Hello, world.",
+      "zh": "你好，世界。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": =D",
+      "spk": "World",
+      "zh": ": =D",
+      "spkColor": "#A39E9F"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "My mouth is dry.",
+      "zh": "我的嘴很干。"
+    },
+    {
+      "en": "I grab a half-emptied water bottle from the nightstand and pour its contents down my throat.",
+      "zh": "我从床头柜上抓起一瓶喝剩一半的水，然后"
+    },
+    {
+      "en": "Millions of bacterial organisms that snuck into the bottle overnight are consumed in the process.",
+      "zh": "上百万个趁机溜进瓶子里的细菌"
+    },
+    {
+      "en": "Goodbye, new friends.",
+      "zh": "再见了，新朋友们。"
+    },
+    {
+      "en": "Please enjoy the warm embrace of my intestines.",
+      "zh": "请好好享受我肠道的温暖拥抱吧。"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": "I think to myself for a moment-",
+      "zh": "我思考了片刻 ——"
+    },
+    {
+      "en": "When was the last time I thanked my organs for performing their daily tasks?",
+      "zh": "上一次我感谢自己的器官维持运转，"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Thank you, organs.",
+      "spk": "Yuu",
+      "zh": ": 谢谢你们，器官们。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": Please continue to regulate the functions of my body.",
+      "spk": "Yuu",
+      "zh": ": 请继续调节我身体的各项机能。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": Your hard work is greatly appreciated.",
+      "spk": "Yuu",
+      "zh": ": 你们的辛勤劳动，我感激不尽。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "No reply. As expected.",
+      "zh": "没有回应。意料之中。"
+    },
+    {
+      "en": "Organs don’t talk.",
+      "zh": "器官不会说话。"
+    },
+    {
+      "en": "I think it’s good to thank them anyway, though.",
+      "zh": "不过我觉得，道谢本身就是件好事。"
+    },
+    {
+      "en": "Who knows when they might decide to turn on me?",
+      "zh": "谁知道它们什么时候会决定反咬我一口呢？"
+    },
+    {
+      "en": "Oh, right. I should introduce myself.",
+      "zh": "哦，对了。我该自我介绍一下。"
+    },
+    {
+      "en": "My name is Yuu.",
+      "zh": "我叫 Yuu。"
+    },
+    {
+      "en": "I’m the protagonist of this game.",
+      "zh": "我是这款游戏的主角。"
+    },
+    {
+      "en": "Welcome to my room!",
+      "zh": "欢迎来到我的房间！"
+    },
+    {
+      "en": "I haven’t changed it in many years.",
+      "zh": "我已经很多年没改动过它了。"
+    },
+    {
+      "en": "Every once in a while, though, someone will come over and I’ll have to tidy things up.",
+      "zh": "不过偶尔还是会有人过来，而我"
+    },
+    {
+      "en": "That happened yesterday.",
+      "zh": "昨天就发生过一次。"
+    },
+    {
+      "en": "So consider yourself lucky that you don't have to see it at its worst!",
+      "zh": "所以你该庆幸，自己不用看到它最"
+    },
+    {
+      "en": "...Hm?",
+      "zh": "……嗯？"
+    },
+    {
+      "en": "Who came over?",
+      "zh": "谁来过了？"
+    },
+    {
+      "en": "Ahh, my childhood friend.",
+      "zh": "啊，是我的青梅竹马。"
+    },
+    {
+      "en": "Her name is Saki.",
+      "zh": "她叫 Saki。"
+    },
+    {
+      "en": "She used to live next door.",
+      "zh": "她以前住在隔壁。"
+    },
+    {
+      "en": "Two years ago, she came home from school and found out that her entire family had been butchered by one of the neighbors.",
+      "zh": "两年前，她放学回家，发现"
+    },
+    {
+      "en": "I could hear her screams from all the way over here.",
+      "zh": "她的尖叫声，我在这边都听得一清二楚。"
+    },
+    {
+      "en": "I think they sounded something like this:",
+      "zh": "我觉得听起来大概是这样："
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(0.1, 0.0, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.pause(3.8, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "$ renpy.music.set_volume(1.0, 0.3, channel=\"music\")",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She has been very sad ever since.",
+      "zh": "从那以后，她一直都很伤心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But now she comes to wake me up in the morning, so not everyone lost something that day.",
+      "zh": "不过现在她早上会来叫我起床，所以也不全是"
+    },
+    {
+      "en": "Saki moved into an apartment several blocks away, but she needs to pass my house to get to school.\"",
+      "zh": "Saki 搬到了几个街区外的一间公寓，但她从"
+    },
+    {
+      "en": "I think that’s probably why she stops here as much as she does.",
+      "zh": "我想，这大概就是她这么常在这里停留的原因。"
+    },
+    {
+      "en": "It’s not because she wants to see me.",
+      "zh": "不是因为她想见我。"
+    },
+    {
+      "en": "She just feels bad.",
+      "zh": "她只是觉得过意不去。"
+    },
+    {
+      "en": "Oh, right. I haven’t told you yet.",
+      "zh": "哦，对了。我还没跟你说过。"
+    },
+    {
+      "en": "I’m sick.",
+      "zh": "我有病。"
+    },
+    {
+      "en": "It’s not life-threatening or anything like that.",
+      "zh": "不是什么会危及性命的病。"
+    },
+    {
+      "en": "It has something to do with how my brain is wired.",
+      "zh": "跟我大脑的构造方式有关。"
+    },
+    {
+      "en": "I think God may have mixed up the cables when he was creating me.",
+      "zh": "我觉得，上帝在造我的时候大概把线接错了。"
+    },
+    {
+      "en": "Or maybe one of his interns was responsible or something.",
+      "zh": "也可能是由他手下的某个实习生负责的。"
+    },
+    {
+      "en": "I don’t know.",
+      "zh": "我不知道。"
+    },
+    {
+      "en": "God isn’t real.",
+      "zh": "上帝并不存在。"
+    },
+    {
+      "en": "Nothing is real.",
+      "zh": "什么都不存在。"
+    },
+    {
+      "en": "Actually, interns are real.",
+      "zh": "不过，实习生是存在的。"
+    },
+    {
+      "en": "But anyway, I’m fine now.",
+      "zh": "总之，我现在很好。"
+    },
+    {
+      "en": "Things are good!",
+      "zh": "一切都好！"
+    },
+    {
+      "en": "Life is beautiful.",
+      "zh": "人生是美丽的。"
+    },
+    {
+      "en": "Amen.",
+      "zh": "阿门。"
+    },
+    {
+      "en": "…",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yuu! You’re going to be late for school!",
+      "spk": "Mom",
+      "zh": ": Yuu！你上学要迟到了！",
+      "spkColor": "#A39E9F"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...Is what my mom would probably be saying right now if she could.",
+      "zh": "……如果我妈妈还在世，她现在大概会这么说。"
+    },
+    {
+      "en": "She was killed by aliens a few years ago.",
+      "zh": "几年前她被外星人杀死了。"
+    },
+    {
+      "en": "It was a horrifying sight to behold.",
+      "zh": "那景象惨不忍睹。"
+    },
+    {
+      "en": "Hahah, just kidding.",
+      "zh": "哈哈，开玩笑的。"
+    },
+    {
+      "en": "She died of cancer.",
+      "zh": "她死于癌症。"
+    },
+    {
+      "en": "I like to say aliens were the cause because it makes her passing easier to deal with.",
+      "zh": "我喜欢说死因是外星人，因为那样她的离世"
+    },
+    {
+      "en": "Rewriting the past is fun.",
+      "zh": "改写过去很有趣。"
+    },
+    {
+      "en": "It's also a fantastic coping mechanism.",
+      "zh": "它也是一种绝佳的应对机制。"
+    },
+    {
+      "en": "I highly recommend it if you ever get the chance.",
+      "zh": "若有机会，我强烈推荐你试试。"
+    },
+    {
+      "en": "Let's hope things don't come to that, though.",
+      "zh": "不过还是希望事情别走到那一步。"
+    },
+    {
+      "en": "Reality is scary.",
+      "zh": "现实很可怕。"
+    },
+    {
+      "en": "Cancer is scary.",
+      "zh": "癌症很可怕。"
+    },
+    {
+      "en": "And that is why we thank our organs!",
+      "zh": "所以我们才要感谢自己的器官！"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Thank you, organs.",
+      "spk": "Yuu",
+      "zh": ": 谢谢你们，器官们。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "No response again.",
+      "zh": "又没有得到回应。"
+    },
+    {
+      "en": "Maybe one day.",
+      "zh": "也许有一天吧。"
+    },
+    {
+      "en": "I bring myself to the closet and dig out a fresh school uniform amidst the piles of unhung and unwashed clothes.",
+      "zh": "我走到衣柜前，翻出一套干净的学生制服。"
+    },
+    {
+      "en": "I’m going to have to do laundry soon.",
+      "zh": "我得尽快洗衣服了。"
+    },
+    {
+      "en": "Doing laundry is always a hassle because the water was turned off several months ago.",
+      "zh": "洗衣服总是很麻烦，因为水已经"
+    },
+    {
+      "en": "Now, I have to manually gather it from the lake nearby.",
+      "zh": "现在我只能手动去附近的湖里打水。"
+    },
+    {
+      "en": "Who has the energy to do that?",
+      "zh": "谁有那个精力干这种事？"
+    },
+    {
+      "en": "Water is surprisingly heavy for a compound with only three parts. But I guess anything is heavy if you have enough of it.",
+      "zh": "对一个只由三个原子构成的化合物来说，水意外地沉。"
+    },
+    {
+      "en": "Except for air. Or any other gas.",
+      "zh": "空气除外。或者任何一种气体。"
+    },
+    {
+      "en": "You get the point, right?",
+      "zh": "你懂我意思吧？"
+    },
+    {
+      "en": "Occasionally, Saki will stop by and take some of my clothes to wash at her apartment.",
+      "zh": "偶尔 Saki 会顺路过来，把我的一些衣服"
+    },
+    {
+      "en": "They have a laundromat in one of the buildings.",
+      "zh": "其中一栋楼里有家自助洗衣店。"
+    },
+    {
+      "en": "The heat from the machines and lack of ventilation in there makes it feel more like walking into a run-down sauna, though.",
+      "zh": "机器散出的热气，加上那里通风不良，"
+    },
+    {
+      "en": "I don’t really like going inside for that reason alone.",
+      "zh": "光凭这一点，我就不太想进去。"
+    },
+    {
+      "en": "But Saki doesn’t mind. I think it helps her take her mind off of things.",
+      "zh": "但 Saki 不介意。我觉得那能让她暂时不去想"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yuu! Hurry up! What are you doing in there?!",
+      "spk": "Mom [[Dead]",
+      "zh": ": Yuu！快点！你在里面干什么？！",
+      "spkColor": "#A39E9F"
+    },
+    {
+      "en": ": Just a minute! I’m getting dressed!",
+      "spk": "Yuu",
+      "zh": ": 等一下！我在换衣服！",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Jesus Christ, would it kill her to be a little more patient?",
+      "zh": "天哪，她就不能稍微有点耐心吗？"
+    },
+    {
+      "en": "Answer = No.",
+      "zh": "答案 = 不能。"
+    },
+    {
+      "en": "She can not die twice.",
+      "zh": "她不可能死两次。"
+    },
+    {
+      "en": "It would be rather unfortunate if she could.",
+      "zh": "要是真能的话，那可就太不幸了。"
+    },
+    {
+      "en": "I finish putting on my uniform and head for the door.",
+      "zh": "我穿好制服，走向门口。"
+    },
+    {
+      "en": "There is a small pile of candy on the shelf next to it.",
+      "zh": "门边的架子上放着一小堆糖果。"
+    },
+    {
+      "en": "I get cranky if I don’t eat in the morning, so I take two pieces and shove them into my mouth.",
+      "zh": "我早上不吃东西就会烦躁，所以拿了两颗。"
+    },
+    {
+      "en": "A delicious breakfast.",
+      "zh": "一份美味的早餐。"
+    },
+    {
+      "en": "Any more than two would be dangerous to my health.",
+      "zh": "再多就会危及我的健康了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Goodbye, house. Take care of yourself while I am away.",
+      "spk": "Yuu",
+      "zh": ": 再见了，房子。我不在的时候好好保重。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The house does not respond.",
+      "zh": "房子没有回应。"
+    },
+    {
+      "en": "I open the door.",
+      "zh": "我打开门。"
+    },
+    {
+      "en": "The building winces in pain as part of its body is suddenly mangled into an uncomfortable position.",
+      "zh": "这栋楼痛苦地抽搐了一下，因为它身体的一部分突然"
+    },
+    {
+      "en": "When I close the door, it goes back to normal.",
+      "zh": "等我把门关上，它又恢复了原样。"
+    },
+    {
+      "en": "The pain goes away.",
+      "zh": "疼痛消失了。"
+    },
+    {
+      "en": "I'm sorry.",
+      "zh": "对不起。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "scene street_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/street_day.jpg",
+      "alt": "street_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I’ve lived in this town my whole life.",
+      "zh": "我这辈子都住在这个镇上。"
+    },
+    {
+      "en": "And I will probably continue to live here until the day I die.",
+      "zh": "而且大概会一直住下去，直到我死"
+    },
+    {
+      "en": "I hate it just as much as any teenager hates their hometown-",
+      "zh": "我讨厌它，就跟任何一个讨厌家乡的青少年一样 ——"
+    },
+    {
+      "en": "Enough to complain but not enough to go anywhere else.",
+      "zh": "嘴上抱怨得够多，却没到真的要去别处的程度。"
+    },
+    {
+      "en": "Moving would be too much of a hassle.",
+      "zh": "搬家太麻烦了。"
+    },
+    {
+      "en": "I’ll probably just get an ordinary job after school and spend the rest of my life selling porno magazines over a corner-store counter or something like that.",
+      "zh": "毕业后我大概就找份普通的工作，然后"
+    },
+    {
+      "en": "Just kidding. No one reads porn in magazine-form anymore.",
+      "zh": "开玩笑的。现在没人看杂志版的色情刊物了。"
+    },
+    {
+      "en": "It’s all about Internet porn now.",
+      "zh": "如今已经是网络色情的天下。"
+    },
+    {
+      "en": "I guess this just means I’m doomed to a life of unemployment.",
+      "zh": "看来这就意味着，我注定要过一辈子失业的"
+    },
+    {
+      "en": "How unfortunate.",
+      "zh": "多么不幸。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yuu-kun? Is that you?",
+      "spk": "???",
+      "zh": ": Yuu 君？是你吗？",
+      "spkColor": "#e6e6e6"
+    },
+    {
+      "en": ": Hm?",
+      "spk": "Yuu",
+      "zh": ": 嗯？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I turn around to be greeted by a familiar face.",
+      "zh": "我转过身，迎面是一张熟悉的面孔。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_normal",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_normal.png",
+      "alt": "reina_normal"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, Reina. Good morning.",
+      "spk": "Yuu",
+      "zh": ": 哦，Reina。早上好。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_smile",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_smile.png",
+      "alt": "reina_smile"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Morning! Are you actually coming to school today?",
+      "spk": "Reina",
+      "zh": ": 早上好！你今天真的要去学校吗？",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ": It certainly appears that way.",
+      "spk": "Yuu",
+      "zh": ": 看起来确实是这样。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": I figure it can’t hurt to show up every once in a while.",
+      "spk": "Yuu",
+      "zh": ": 我觉得，偶尔去露个面也没什么坏处。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "This is Reina. She’s probably the most ordinary person I know.",
+      "zh": "这位是 Reina。她大概是我认识的人里最普通的一个。"
+    },
+    {
+      "en": "Her three sizes are 89/61/88 and she loves horror movies.",
+      "zh": "她的三围是 89/61/88，而且她喜欢恐怖片。"
+    },
+    {
+      "en": "We used to hang out a lot but I distanced myself from her for reasons I don’t really understand.",
+      "zh": "我们以前经常见面，但后来我疏远了她，因为"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_dirty",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_dirty.png",
+      "alt": "reina_dirty"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Shocker. And here I was thinking you’d dropped out.",
+      "spk": "Reina",
+      "zh": ": 真让人吃惊。我还以为你已经退学了呢。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ": Nope. Still a totally normal student.",
+      "spk": "Yuu",
+      "zh": ": 没有。我还是个完全正常的学生。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": Mhm. A totally normal student with a totally {i}abnormal{/i} attendance record.",
+      "spk": "Reina",
+      "zh": ": 嗯哼。一个完全正常、却有着完全{i}不正常{/i}的学生。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_smile",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_smile.png",
+      "alt": "reina_smile"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": But hey, at least we won't have to wake up this early for much longer.",
+      "spk": "Reina",
+      "zh": ": 不过话说回来，至少我们以后不用再这么早起床了。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ": There's not much time left.",
+      "spk": "Reina",
+      "zh": ": 剩下的时间不多了。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ": It would be pretty stupid for you to drop out now of all times.",
+      "spk": "Reina",
+      "zh": ": 你要是偏偏挑这个时候退学，那就太蠢了。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Oh, right. There are only two more weeks left until the end of the school year.",
+      "zh": "哦，对了。距离毕业只剩两周了。"
+    },
+    {
+      "en": "After that, Reina and I will graduate and slowly drift apart from one another.",
+      "zh": "在那之后，Reina 和我就会毕业，然后慢慢疏远。"
+    },
+    {
+      "en": "That’s just how life works.",
+      "zh": "人生就是这么回事。"
+    },
+    {
+      "en": "And unless the two of us start dating or harbor a child together, I can’t see that changing.",
+      "zh": "除非我们两个开始交往，或者共同怀上一个孩子。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, Yuu-kun. Wanna walk to school together?",
+      "spk": "Reina",
+      "zh": ": 喂，Yuu 君。要不要一起走去学校？",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_dirty",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_dirty.png",
+      "alt": "reina_dirty"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": You know, for old time's sake and stuff.",
+      "spk": "Reina",
+      "zh": ": 你知道的，看在往日情分的份上之类的。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ": Old time’s sake? Weren’t we on cleaning duty together like sixteen days ago?",
+      "spk": "Yuu",
+      "zh": ": 往日情分？我们不是大概两周前才一起做过值日吗？",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ": That’s basically the fourth strongest bond you can have with someone.",
+      "spk": "Yuu",
+      "zh": ": 那基本上算是你能和别人建立起的第四强的羁绊了。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_annoyed",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_annoyed.png",
+      "alt": "reina_annoyed"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Uhh, no...It’s not.",
+      "spk": "Reina",
+      "zh": ": 呃，不……才不是。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ": And what’s with all these weirdly-specific numbers?",
+      "spk": "Reina",
+      "zh": ": 还有，这些精确到个位数的怪说法是怎么回事？",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ": You know me. Just trying to keep things exciting.",
+      "spk": "Yuu",
+      "zh": ": 你懂我的。只是想让日子有点意思。",
+      "spkColor": "#74D9E9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_smile",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_smile.png",
+      "alt": "reina_smile"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah, yeah. Whatever.",
+      "spk": "Reina",
+      "zh": ": 好好好。随便吧。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_dirty",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_dirty.png",
+      "alt": "reina_dirty"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": I guess nothing is all that surprising if it's coming from you.",
+      "spk": "Reina",
+      "zh": ": 我想，只要是出自你口，什么都不会让人意外。",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Why do I feel like that is an insult?",
+      "zh": "为什么我觉得那是在侮辱我？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "show reina_smile",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/_nib/reina_smile.png",
+      "alt": "reina_smile"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": So, are we walking together or not?",
+      "spk": "Reina",
+      "zh": ": 所以，我们到底要不要一起走？",
+      "spkColor": "#5CB776"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "...",
+      "zh": "……"
+    },
+    {
+      "en": "What should I do?",
+      "zh": "我该怎么办？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Walk with Reina",
+      "zh": "和 Reina 一起走",
+      "opt": true
+    },
+    {
+      "en": "jump walkreina",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Walk alone",
+      "zh": "独自走",
+      "opt": true
+    },
+    {
+      "en": "jump walkalone",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

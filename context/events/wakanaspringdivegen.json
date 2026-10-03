@@ -1,0 +1,174 @@
+{
+  "label": "wakanaspringdivegen",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label wakanaspringdivegen:",
+      "zh": ""
+    },
+    {
+      "en": "if osakospring4 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene wakanaspringdivegen",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/wakanaspringdivegen.webp",
+      "alt": "wakanaspringdivegen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene wakanaspringdivegen2",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Events/wakanaspringdivegen2.webp",
+      "alt": "wakanaspringdivegen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It's another normal night at the dive bar. And I spend this one focusing on Wakana as she's hands down the easiest person for me to talk to here.",
+      "zh": "又是这个地下酒吧里一个普通的夜晚。这一晚我把注意力放在 Wakana 身上，因为在这儿她绝对是最容易跟我说话的人。"
+    },
+    {
+      "en": "Or maybe I'm just a masochist in constant search of the poison that drips off her tongue when she speaks of how much easier her life is without me in it as much.",
+      "zh": "或者也许我只是个受虐狂，不停地在寻找她谈起「没有我在，她的生活会轻松多少」时、从舌尖滴下来的毒。"
+    },
+    {
+      "en": "Even with that being said, though, there's a level of calmness I get when I'm with her that stands leagues above what I'd get from people like Imani and Rika.",
+      "zh": "话说回来，跟她在一起时我得到的那种平静，还是远远超过 Imani 和 Rika 那类人给我的。"
+    },
+    {
+      "en": "They're great, don't get me wrong, but this low-maintenance brand of friendship is the kind that I'm most suited to. And I'm {i}happy{/i} just sitting here, watching her drink.",
+      "zh": "她们很好，别误会，但这种低维护成本的友谊才是最适合我的那种。而我就这么坐着看她喝，就很{i}开心{/i}。"
+    },
+    {
+      "en": "Which is great, since I'm confident that she can outdrink virtually everyone in this city. So I'll always have something to watch.",
+      "zh": "这很好，因为我确信她能喝过这座城里几乎所有人。所以我永远有东西可看。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "cap": true,
+      "zh": ""
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Osako comes back over to our table when she realizes I'm alone with her girlfriend, and spares no time at all when it comes to snatching her arm and reclaiming what is hers.",
+      "zh": "Osako 发现我单独跟她女朋友在一起，就回到我们桌边，二话不说挽住她的胳膊，把自己的东西收回去。"
+    },
+    {
+      "en": "Wakana jests and reassures her that she'll never see me as anything more than a flesh-eating parasite, and I'm inclined to agree. In fact, I think that's the most accurate description of me yet.",
+      "zh": "Wakana 打趣着安抚她，说她永远不会把我当成食肉的寄生虫以外的东西，而我倾向于同意。事实上，我觉得这是迄今对我最准确的描述。"
+    },
+    {
+      "en": "Imani and Rika return as well and, within a matter of seconds, our peaceful intermission comes to an end and another lively night of drunken conversation ensues.",
+      "zh": "Imani 和 Rika 也回来了，几秒钟之内，我们平静的中场休息就结束了，又一个热闹的醉酒夜聊开始了。"
+    },
+    {
+      "en": "It's fine.",
+      "zh": "没事。"
+    },
+    {
+      "en": "But I can't help but wish right now that it was only Wakana.",
+      "zh": "可我忍不住希望此刻只有 Wakana 在。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ osako_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ wakana_love += 3",
+      "zh": ""
+    },
+    {
+      "en": "$ imani_love += 1",
+      "zh": ""
+    },
+    {
+      "en": "$ rika_love += 1",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Wakana's affection has increased by 3!{/i}",
+      "zh": "{i}Wakana 的好感度提升了 3!{/i}"
+    },
+    {
+      "en": "{i}Osako's affection has increased by 1!{/i}",
+      "zh": "{i}Osako 的好感度提升了 1！{/i}"
+    },
+    {
+      "en": "{i}Imani's affection has increased by 1!{/i}",
+      "zh": "{i}Imani 的好感度提升了 1！{/i}"
+    },
+    {
+      "en": "{i}Rika's affection has increased by 1!{/i}",
+      "zh": "{i}Rika 的好感度提升了 1!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "label": "gpmexk",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexk == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexk1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexk1.webp",
+      "alt": "gpmexk1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexk2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexk2.webp",
+      "alt": "gpmexk2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexk1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexk1.webp",
+      "alt": "gpmexk1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexk2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexk2.webp",
+      "alt": "gpmexk2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Wow! Would you look at that?! This place is {i}educational{/i} too!",
+      "spk": "Amy",
+      "zh": ": 哇！你看看这个？！这地方还{i}有教育意义{/i}！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I never thought in a million years that we’d see an outpost exhibit here! So this is what it’s like out there, huh?",
+      "spk": "Amy",
+      "zh": ": 我做梦都没想到会在这里看到一个前哨站展品！所以外面就是这样的，是吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": An outpost exhibit? What do you mean?",
+      "spk": "Sensei",
+      "zh": ": 前哨站展品？你什么意思？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh. Well, do you remember that girl, Alexis?",
+      "spk": "Amy",
+      "zh": ": 哦。那个，你记得那个叫 Alexis 的女孩吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene alexis8 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis8.webp",
+      "alt": "alexis8"
+    },
+    {
+      "en": "scene alexis24 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis24.webp",
+      "alt": "alexis24"
+    },
+    {
+      "en": "scene alexis1 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis1.webp",
+      "alt": "alexis1"
+    },
+    {
+      "en": "scene alexis22 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis22.webp",
+      "alt": "alexis22"
+    },
+    {
+      "en": "scene alexis21 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis21.webp",
+      "alt": "alexis21"
+    },
+    {
+      "en": "scene alexis10 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis10.webp",
+      "alt": "alexis10"
+    },
+    {
+      "en": "scene alexis19 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis19.webp",
+      "alt": "alexis19"
+    },
+    {
+      "en": "scene alexis23 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis23.webp",
+      "alt": "alexis23"
+    },
+    {
+      "en": "scene alexis18 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis18.webp",
+      "alt": "alexis18"
+    },
+    {
+      "en": "scene alexis22 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis22.webp",
+      "alt": "alexis22"
+    },
+    {
+      "en": "scene alexis25 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis25.webp",
+      "alt": "alexis25"
+    },
+    {
+      "en": "scene alexis9 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis9.webp",
+      "alt": "alexis9"
+    },
+    {
+      "en": "scene alexis25 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/alexis25.webp",
+      "alt": "alexis25"
+    },
+    {
+      "en": "scene gpmexk2 with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexk2.webp",
+      "alt": "gpmexk2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yeah. Why?",
+      "spk": "Sensei",
+      "zh": ": 没事啊。怎么了？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, I don’t know {i}how much{/i} you remember, but she was part of the outdoor cleanup crew. Which meant she’d spend long periods of time outside of the mall.",
+      "spk": "Amy",
+      "zh": ": 嗯，我不知道你记得{i}多少{/i}，但她曾经是户外清理队的一员。也就是说她会在商场外面待很长时间。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": So what they’d do is set up outposts like this to rest and recuperate while-",
+      "spk": "Amy",
+      "zh": ": 所以他们做的就是搭起像这样的前哨站来休息和恢复，同时——",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Hey! What do you think you’re doing?!",
+      "spk": "Harmony",
+      "zh": ": 嘿！你们以为自己在干什么？！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexk3 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexk3.webp",
+      "alt": "gpmexk3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ah! It’s the employee girl again!",
+      "spk": "Amy",
+      "zh": ": 啊！又是那个女员工！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I already apologized for trying to take some of the VIP bench water! What else do you want from me?!",
+      "spk": "Amy",
+      "zh": ": 我都已经为想拿长椅上那些 VIP 水道过歉了！你还想怎样？！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": This exhibit isn’t supposed to be open to the public yet! You’re not allowed to be here! In fact, how did you even {i}get{/i} here?!",
+      "spk": "Harmony",
+      "zh": ": 这个展品还没对外开放呢！你们不许在这里！话说回来，你们到底是{i}怎么{/i}到这儿来的？！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Beats me. I’ve just been following Akira around.",
+      "spk": "Amy",
+      "zh": ": 我哪知道。我就是一直跟着 Akira 走。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Yeah, I’m kind of just going wherever.",
+      "spk": "Sensei",
+      "zh": ": 是啊，我基本是走到哪算哪。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, stop it. Because you two are already on thin ice after the bench fiasco. And now you’re just one more misstep away from being banned from the Blissful Biosphere {i}permanently.{/i}",
+      "spk": "Harmony",
+      "zh": ": 那就停下。因为长椅那档子事之后，你们俩已经踩在薄冰上了。而现在你们只要再犯一次错，就会被{i}永久{/i}禁止进入极乐生物圈。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": {i}Permanently?!{/i} But that’s so totally unfair! This place literally just opened! There’s no way you have the authority to ban us!",
+      "spk": "Amy",
+      "zh": ": {i}永久？！{/i}可这也太不公平了！这地方明明才刚开！你绝对没有权力封我们！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Maybe I do, maybe I don’t! But the fact is that if you two get your grubby little hands on-",
+      "spk": "Harmony",
+      "zh": ": 也许有，也许没有！但事实是，如果你们俩那脏兮兮的小手碰——",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": {i}Ahem.{/i}",
+      "spk": "Amy",
+      "zh": ": {i}咳咳。{/i}",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Oh. Right. My bad.",
+      "spk": "Harmony",
+      "zh": ": 哦。对。是我说错了。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Better to have no hands than whatever is going on with your body.",
+      "spk": "Amy",
+      "zh": ": 没手也比你身上那副模样强。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Mine just fused together. But that’s beside the point! The issue here is that you’re going to contaminate the exhibit if you get too close to it! And that is something I simply cannot allow.",
+      "spk": "Harmony",
+      "zh": ": 我的只是黏在一起了。但这不是重点！问题在于，你们靠太近会污染这个展品！而那是我绝对不能允许的。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": The cleanup crew is not something you should be taking lightly, you know. They’re out there trying to make our world a better place.",
+      "spk": "Harmony",
+      "zh": ": 清理队可不是你们能小看的事，知道吗。他们在外面努力让我们的世界变得更好。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": It’s a super {i}dangerous{/i} job too. Which neither of you probably know anything about as I doubt you’ve worked even a day in your lives!",
+      "spk": "Harmony",
+      "zh": ": 那也是份超级{i}危险{/i}的工作。而你们俩大概对此一无所知，因为我怀疑你们活到现在连一天都没工作过！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Lies! I used to work at the smoothie kiosk in the west wing before nutrient injections came out and made my job meaningless.",
+      "spk": "Amy",
+      "zh": ": 谎言！我以前在西翼的果昔小摊上过班，后来营养注射问世，把我的工作变得毫无意义。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’s not only people like you who are at risk, though!",
+      "spk": "Harmony",
+      "zh": ": 不过，有风险的也不只是你们这种人！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Oh no. There’s not another civil war on the horizon, is there?",
+      "spk": "Amy",
+      "zh": ": 不会吧。不会又要爆发一场内战了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": No! I just meant that even now, they’re trying to come up with ways to clean up the space outside of the mall {i}without{/i} human assistance.",
+      "spk": "Harmony",
+      "zh": ": 不是！我只是说，就算到了现在，他们也在想办法在{i}没有{/i}人力的情况下清理商场外面的空间。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Isn’t that a good thing, though? If it’s such a dangerous job, I mean. Because we know a girl who got lungrot from being out there too long and her death was pretty intense.",
+      "spk": "Sensei",
+      "zh": ": 不过那不是好事吗？我是说，既然那份工作这么危险。因为我们认识一个女孩，在外面待太久得了肺腐病，她死得挺惨烈的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I’m sure it {i}sounds{/i} good. And yes, it is a dangerous job. But those people out there risking their lives for us are the only ones keeping us tethered to the old ways.",
+      "spk": "Harmony",
+      "zh": ": 我相信那{i}听上去{/i}很好。是的，那份工作确实危险。但那些在外面为我们冒险的人，是把我们和旧日方式拴在一起的唯一纽带。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": The moment they’re replaced by robots or whatever, we sever that connection and {i}probably{/i} never see the outside world again!",
+      "spk": "Harmony",
+      "zh": ": 一旦他们被机器人还是什么东西取代，我们就斩断了那条联系，而且{i}大概{/i}再也见不到外面的世界了！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": I guess it {i}would{/i} be kind of sad knowing that there just {i}wasn’t{/i} an “outside” anymore. But I still don’t get why that makes it okay for you to yell at us over just looking at something.",
+      "spk": "Amy",
+      "zh": ": 我想{i}确实{/i}会有点难过，知道以后就{i}没有{/i}什么「外面」了。但我还是不明白，这怎么就成了你光因为我们看了一眼东西就能冲我们吼的理由。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Yeah, we just wanted to learn a little about what it’s like to actually {i}be{/i} out there since all we have is this.",
+      "spk": "Sensei",
+      "zh": ": 对，我们只是想稍微了解一下真的{i}待在{/i}外面是什么感觉，毕竟我们只有这个。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": This is all most of us have. Only a brave few ever face the air. And if you {i}actually{/i} want to learn, great. But you’ll have to wait until the exhibit is {i}open{/i} if you want to do that.",
+      "spk": "Harmony",
+      "zh": ": 这也是我们大多数人拥有的全部。只有少数勇敢的人才敢面对那些空气。如果你们{i}真的{/i}想学，那很好。但要是想学，就得等展品{i}开放{/i}之后。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Aww, come on. Can’t you make an exception for us?",
+      "spk": "Amy",
+      "zh": ": 哎呀，别这样。你就不能给我们破个例吗？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Yeah, I’m sure {i}you{/i} can teach us a few things as an employee here, right?",
+      "spk": "Sensei",
+      "zh": ": 是啊，作为这里的员工，{i}你{/i}肯定能教我们一些东西，对吧？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Unfortunately, I’m still new. So there’s nothing I can teach you that you wouldn’t be able to learn at Kinokuniya.",
+      "spk": "Harmony",
+      "zh": ": 很遗憾，我还是新人。所以我能教你们的，你们在 Kinokuniya 都能学到。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Oh, is there a Kinokuniya here now? Like, {i}inside{/i} the frog or outside of it?",
+      "spk": "Amy",
+      "zh": ": 哦，这里有 Kinokuniya 了吗？就是，在青蛙{i}里面{/i}还是外面？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Outside of it, obviously. Who puts a bookstore inside of a frog? That’s crazy.",
+      "spk": "Harmony",
+      "zh": ": 当然是在外面。谁会把书店开在青蛙肚子里？那太离谱了。",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": I guess we can head there once we’re out of the Blissful Biosphere then, Akira! If you’re still interested in learning and weren’t just saying that to help me out, I mean. Heheh...",
+      "spk": "Amy",
+      "zh": ": 那等我们出了极乐生物圈就可以去那边了，Akira！我是说，如果你还想学，而不只是为了帮我才那么说。嘿嘿……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": We’ll see how I feel once we get out of here. Sorry for disturbing the exhibit, Harmony. We’ll be sure to come back once it’s open.",
+      "spk": "Sensei",
+      "zh": ": 等我们出去后看我心情吧。抱歉打扰了这个展品，Harmony。等它开放了我们一定再来看。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexk4",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexk4.webp",
+      "alt": "gpmexk4"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Thank you for understanding. But remember! You only get three strikes. And if either one of you break any other rules, I’ll have no choice but to-",
+      "spk": "Harmony",
+      "zh": ": 谢谢你们理解。但记住！你们只有三次机会。要是你们俩谁再违反规定，我就只能——",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ": Akira, come quick! There’s a huge button over here that says “don’t touch!”",
+      "spk": "Amy",
+      "zh": ": Akira，快来！这边有个巨大的按钮，上面写着「别碰」！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexk1 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexk1.webp",
+      "alt": "gpmexk1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Would it kill you listen for even just a second?!?!?!",
+      "spk": "Harmony",
+      "zh": ": 你们能不能哪怕就听一秒钟？！？！？！",
+      "spkColor": "#3CCBFA"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexk = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go somewhere else",
+      "zh": "去别的地方",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexb",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "change locations",
+      "zh": "换个地方",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexj",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "swim",
+      "zh": "游泳",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexf",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}

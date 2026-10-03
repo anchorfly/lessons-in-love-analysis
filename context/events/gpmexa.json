@@ -1,0 +1,640 @@
+{
+  "label": "gpmexa",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "if gpmexa and gpmexb and gpmexc and gpmexd and gpmexe and gpmexf and gpmexg and gpmexh and gpmexi and gpmexj and gpmexk and gpmexl and gpmexm and sawbioexittext == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexa1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa1.webp",
+      "alt": "gpmexa1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexa2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa2.webp",
+      "alt": "gpmexa2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Do you maybe want to take a break from the Blissful Biosphere, Akira? I’ve been asking around behind your back and I’m pretty sure we’ve seen all there is to see for now.",
+      "spk": "Amy",
+      "zh": ": Akira，你要不要先离开「极乐生物圈」休息一下？我一直背着你到处打听，我相当确定这里暂时能看的我们都看完了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What? Who have you even been asking and why has it been behind my back?",
+      "spk": "Sensei",
+      "zh": ": 什么？你到底问了谁，为什么还背着我？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": You’ve just looked so peaceful and entertained that I didn’t want to bother you! I don’t want to be stuck down here {i}forever{/i} when there’s still so much to see {i}outside{/i} of the frog too.",
+      "spk": "Amy",
+      "zh": ": 你看上去太安宁、太投入了，我不想打扰你！可青蛙{i}外面{/i}还有那么多东西可看，我可不想被困在这下面{i}一辈子{/i}。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": We can come back whenever you want, obviously! I think I just need a break from the air here or I’m going to trick myself into thinking I have lungrot.",
+      "spk": "Amy",
+      "zh": ": 我们当然随时可以回来！我只是觉得需要离开这儿的空气歇一歇，不然我都要骗自己以为我得了肺腐病了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Mmm...Maybe. I don’t know, Amy.",
+      "spk": "Sensei",
+      "zh": ": 嗯……也许吧。我不知道，Amy。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Okay...but just so you know, this is the only exit. And there’s no way of knowing when we’ll find our way back {i}here{/i} again.",
+      "spk": "Amy",
+      "zh": ": 好吧……不过先跟你说，这是唯一的出口。而且谁也不知道我们什么时候才能再找到回{i}这里{/i}的路。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’ll keep that in mind.",
+      "spk": "Sensei",
+      "zh": ": 我会记住的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sawbioexittext = True",
+      "zh": ""
+    },
+    {
+      "en": "elif gpmexa == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexa1 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa1.webp",
+      "alt": "gpmexa1"
+    },
+    {
+      "en": ": Hmm...",
+      "spk": "Sensei",
+      "zh": ": 嗯......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexa2 with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa2.webp",
+      "alt": "gpmexa2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What’s wrong, Akira? We’ve already been over here.",
+      "spk": "Amy",
+      "zh": ": 怎么了，Akira？我们已经来过这边了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": You’re not lost already, are you?",
+      "spk": "Amy",
+      "zh": ": 你该不会已经迷路了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course not. I know exactly what I’m doing.",
+      "spk": "Sensei",
+      "zh": ": 当然没有。我清楚得很自己在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexa1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa1.webp",
+      "alt": "gpmexa1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmexa2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa2.webp",
+      "alt": "gpmexa2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Akira! Akira!",
+      "spk": "Amy",
+      "zh": ": Akira！Akira！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What is this place? It looks way different from the rest of the mall.",
+      "spk": "Sensei",
+      "zh": ": 这是什么地方？跟商场其他地方完全不一样。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": That’s because it just opened a few minutes ago!",
+      "spk": "Amy",
+      "zh": ": 因为它是几分钟前才刚开的！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": A few minutes ago? Really?",
+      "spk": "Sensei",
+      "zh": ": 几分钟前？真的？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Mhm! It’s a new wing called “The Blissful Biosphere.”",
+      "spk": "Amy",
+      "zh": ": 嗯！是个新开的区域，叫「极乐生物圈」。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": A lot of people were complaining about never being able to go outside anymore, so they built an artificial environment inside of the frog’s stomach to try and emulate the real thing!",
+      "spk": "Amy",
+      "zh": ": 很多人抱怨再也出不了门，所以他们在青蛙肚子里造了一个人造环境，想模仿真实的外界！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Oh, I didn’t realize we were in the frog’s stomach.",
+      "spk": "Sensei",
+      "zh": ": 哦，我没意识到我们在青蛙的胃里。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Really? I guess that explains why you just waltzed into his mouth without a care in the world then. Hahah!",
+      "spk": "Amy",
+      "zh": ": 真的？那大概就解释了你怎么会毫不在意地大摇大摆走进他嘴里。哈哈！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’m surprised we even ran into him, to be honest. The Emergence of the Frog is super rare without anybody ringing the bell. ",
+      "spk": "Amy",
+      "zh": ": 说实话，我们居然撞上他，我还挺惊讶的。没人敲钟的话，「青蛙显现」是超级罕见的。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": The only thing I’m unsure of now is how we’re supposed to get out since I doubt there’s a mysterious hole I can definitely not push anybody out of this time.",
+      "spk": "Amy",
+      "zh": ": 现在唯一不确定的是我们该怎么出去，因为这次我怀疑不会再有那种我绝对没把谁推下去的神秘洞了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy-",
+      "spk": "Sensei",
+      "zh": ": Amy——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I didn’t do it. Seriously.",
+      "spk": "Amy",
+      "zh": ": 不是我干的。说真的。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I know. I just wanted to say I’m glad I get to experience the inside of this frog with you. ",
+      "spk": "Sensei",
+      "zh": ": 我知道。我只是想说，我很高兴能跟你一起体验这只青蛙的内部。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Really?! That makes me so happy! ",
+      "spk": "Amy",
+      "zh": ": 真的？！那我太高兴了！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I always figured that winding up inside of here meant certain death. Which is why I’m so glad I get to do it with you and that we’re both alive!",
+      "spk": "Amy",
+      "zh": ": 我一直以为落到这里面就等于必死无疑。所以我很高兴能跟你一起进来，而且我们俩都还活着！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I sure hope they figured out how to make the biosphere sustainable this time, though. ",
+      "spk": "Amy",
+      "zh": ": 不过我真希望这次他们搞清楚了怎么让这个生物圈维持下去。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": They tried this before outside of the frog, but the last one wound up with a crack in it and caused some of the outside air to get in. So a bunch of people wound up with lungrot and the infirmary was packed for days.",
+      "spk": "Amy",
+      "zh": ": 他们以前在青蛙外面试过一次，但上一个裂了道缝，让外面的空气漏了进来。结果一堆人得了肺腐病，医务室挤了好几天。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It looks like we’re among the first inside this time, though! So either we can have a bunch of fun before any cracks develop or we’ll die for science!",
+      "spk": "Amy",
+      "zh": ": 不过看起来这次我们是最先进来的一批！所以我们要么在出现裂缝之前玩个痛快，要么就为科学献身！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I’d prefer the former. You think cracks in the frog could hurt us, though? ",
+      "spk": "Sensei",
+      "zh": ": 我比较想选前者。不过你觉得青蛙身上的裂缝会伤到我们吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Maybe not as much as the outside air could. But I still don’t think it’d be good to be hanging out inside of a frog while he collapses.",
+      "spk": "Amy",
+      "zh": ": 可能没外面的空气那么伤。但我还是觉得，在青蛙倒下去的时候待在它肚子里不太妙。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Yeah, that’s-",
+      "spk": "Sensei",
+      "zh": ": 是啊，那——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, look! A plaque!",
+      "spk": "Amy",
+      "zh": ": 哦，你看！有块牌子！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexa3 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa3.webp",
+      "alt": "gpmexa3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Amy runs up the hill to a nearby house and begins to read something posted on a pole.",
+      "zh": "Amy 跑上小山坡，到附近一栋房子前，开始读贴在柱子上的一张东西。"
+    },
+    {
+      "en": "I try to catch up to her, but the grass here feels like sand and makes moving somewhat difficult.",
+      "zh": "我试着追上她，但这里的草摸起来像沙子，走起来有点费劲。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {size=-20}Akira! Akira! This house is super tiny up close! I can see into the second story window!{/size}",
+      "spk": "Amy",
+      "zh": ": {size=-20}Akira！Akira！这房子凑近了看超小！我能看到二楼的窗户里面！{/size}",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": {size=-20}There’s a tiny man inside! I wonder if he’s ever seen another human before?{/size}",
+      "spk": "Amy",
+      "zh": ": {size=-20}里面有个小小的人！不知道他这辈子有没有见过别的人类？{/size}",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, it’s hard to hear you all the way over there.",
+      "spk": "Sensei",
+      "zh": ": Amy，你在那么远的地方，我很难听清。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexa2 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa2.webp",
+      "alt": "gpmexa2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sorry! Hahaha. I think I just got a little too excited. ",
+      "spk": "Amy",
+      "zh": ": 抱歉！哈哈哈。我想我只是有点太兴奋了。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": But the good news is that there was a map over there too! And that there are apparently a ton of new locations the two of us can explore over here!",
+      "spk": "Amy",
+      "zh": ": 但好消息是那边还有张地图！而且看来这地方有超多新地点等我们俩去探索！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Oh, great. Let’s head back over there so I can memorize it then and not get lost this time.",
+      "spk": "Sensei",
+      "zh": ": 哦，太好了。那我们就回那边去，让我把地图记下来，这次别再迷路了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No.",
+      "spk": "Amy",
+      "zh": ": 不用。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": What? Why?",
+      "spk": "Sensei",
+      "zh": ": 什么？为什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": There actually wasn’t a map. I am a liar. Sorry!",
+      "spk": "Amy",
+      "zh": ": 其实根本没有地图。我是个骗子。抱歉！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Oh...",
+      "spk": "Sensei",
+      "zh": ": 哦......",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, I guess we can just keep doing what we always do then and wander around until something happens.",
+      "spk": "Sensei",
+      "zh": ": 那我想我们就照老样子，到处晃到有事发生为止吧。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yay! I hope this day lasts forever!",
+      "spk": "Amy",
+      "zh": ": 耶！我希望这一天永远不结束！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": It’ll be fun experiencing things for the first time together instead of me just showing you around this time.",
+      "spk": "Amy",
+      "zh": ": 这次由我们一起去第一次体验各种东西，而不是我带你看，会更好玩。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": I just hope the rumors aren’t true...",
+      "spk": "Amy",
+      "zh": ": 我只希望那些传言不是真的……",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Rumors? What rumors?",
+      "spk": "Sensei",
+      "zh": ": 传言？什么传言？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hm? I didn’t say anything about rumors. ",
+      "spk": "Amy",
+      "zh": ": 嗯？我没提过什么传言啊。",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Amy, do you know something about this place that I don’t?",
+      "spk": "Sensei",
+      "zh": ": Amy，你是不是知道一些我不知道的、关于这地方的事？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Uhhh...",
+      "spk": "Amy",
+      "zh": ": 呃呃呃......",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": L...Look over there!",
+      "spk": "Amy",
+      "zh": ": 你……你看那边！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene gpmexa1 with hpunch",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmexa1.webp",
+      "alt": "gpmexa1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Amy runs off before I have the chance to interrogate her. But I know she’ll follow me no matter where I go, so I decide to press on.",
+      "zh": "我还没来得及盘问她，Amy 就跑开了。但我知道不管我去哪儿她都会跟着，于是我决定继续往前走。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ gpmexa = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go up the hill",
+      "zh": "上山坡",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexb",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go down the hill",
+      "zh": "下山坡",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexe",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go through the hill",
+      "zh": "穿过山坡",
+      "opt": true
+    },
+    {
+      "en": "jump gpmexc",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "leave the blissful biosphere",
+      "zh": "离开极乐生态圈",
+      "opt": true
+    },
+    {
+      "en": ": Actually...let’s get out of here for now.",
+      "spk": "Sensei",
+      "zh": ": 其实……我们先离开这儿吧。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Hooray! Worse air!",
+      "spk": "Amy",
+      "zh": ": 万岁！更糟的空气！",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "$ renpy.pause(1, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmc1 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmc1.webp",
+      "alt": "gpmc1"
+    },
+    {
+      "en": "$ renpy.pause(2, hard=True)",
+      "zh": ""
+    },
+    {
+      "en": "scene gpmc2 with dissolve2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/gpmc2.webp",
+      "alt": "gpmc2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Now what, Akira?",
+      "spk": "Amy",
+      "zh": ": 那现在呢，Akira？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "go forward",
+      "zh": "往前走",
+      "opt": true
+    },
+    {
+      "en": "jump gpmd",
+      "zh": ""
+    },
+    {
+      "en": "go right",
+      "zh": "往右走",
+      "opt": true
+    },
+    {
+      "en": "jump gpme",
+      "zh": ""
+    },
+    {
+      "en": "go back",
+      "zh": "往回走",
+      "opt": true
+    },
+    {
+      "en": "jump gpma",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ renpy.block_rollback()",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    }
+  ]
+}
