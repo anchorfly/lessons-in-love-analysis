@@ -21,7 +21,13 @@
   header{position:sticky;top:0;z-index:10;background:rgba(22,24,29,.95);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:8px 18px}
   .top{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
   h1{font-size:18px;margin:0;font-weight:600;letter-spacing:.5px}
-  .search{flex:1 1 200px;min-width:150px;max-width:340px;padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--text);font-size:14px}
+  /* 搜索框宽度按数据实测来定，不再 flex:1 撑满：
+     标题平均 18.5 字符（中位 17、90 分位 30）→ 220px（约 28 字符）
+     label 平均 12.2 字符（中位 12、90 分位 17）→ 150px（约 18 字符）
+     flex:0 1 auto —— 不主动撑开，但窄屏时可收缩。 */
+  .search{flex:0 1 auto;padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--text);font-size:14px}
+  #searchTitle{width:220px}
+  #searchLabel{width:150px}
   .search:focus{outline:none;border-color:var(--accent)}
   .zoom{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);flex:0 0 auto}
   .zoom input[type=range]{width:120px;accent-color:var(--accent);cursor:pointer}
