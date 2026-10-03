@@ -932,6 +932,11 @@ function _fmt(s){
   t = t.replace(/\{b\}/g,"<b>").replace(/\{\/b\}/g,"</b>").replace(/\{\/B\}/g,"</b>");
   t = t.replace(/\{s\}/g,"<s>").replace(/\{\/s\}/g,"</s>");
   t = t.replace(/\{u\}/g,"<u>").replace(/\{\/u\}/g,"</u>");
+  /* 字面量 \n → 换行（2026-10-04）：Ren'Py 源码里的 "\n" 是换行符，
+     抽取器保留了源码写法，数据里存的是**反斜杠+n 两个字符**。
+     不转的话会原样显示成 "\n"（用户报的 Time/Location/Mood 那行）。
+     影响 53 个文件 / 155 行（如 amidate50 的 Blake 诗句）。 */
+  t = t.replace(/\\n/g,"<br>");
   t = t.replace(/\{size=([+-]?\d+)\}/g, function(_m,v){
     if(v.charAt(0)==='+') return '<span style="font-size:calc(var(--cfs,13px) + '+v.slice(1)+'px)">';
     if(v.charAt(0)==='-') return '<span style="font-size:max(9px, calc(var(--cfs,13px) - '+v.slice(1)+'px))">';
