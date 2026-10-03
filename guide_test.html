@@ -360,7 +360,7 @@ function openSms(i, k){
   // 短信面包屑 + meta 标题都挂 data-lab，语言切换时随 refreshTitles 一起刷新（与事件保持一致）
   setCrumbs([{label:c.name, onClick:'openCat('+i+')'},{label:dispTitleText(sms), lab:sms.label}]);
   let h = '';   // 「← 返回 XXX」已去掉（2026-10-04），面包屑自带返回入口
-  h += /* 元信息行已去掉（2026-10-04 用户要求，与事件页一致）：标题/label 面包屑里都有 */
+  /* 元信息行已去掉（2026-10-04 用户要求，与事件页一致）：标题/label 面包屑里都有 */
   /* 短信组内翻页（2026-10-04 用户要求）：上一个/下一个只在本分类的短信列表内走，
      头尾禁用不循环（与事件页一致）。例：Makoto 的 3 条短信可互相翻。 */
   if(c.sms && c.sms.length > 1){
