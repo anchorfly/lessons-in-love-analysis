@@ -184,7 +184,7 @@ function goHome(){
   for(const c of happy) h += catCard(c);
   h += '</div>';
   h += '<div class="section-title">人物</div><div class="grid char-grid">';
-  for(const c of chars) h += catCard(c);
+  for(const c of chars) h += charCard(c);
   h += '</div>';
   // 附加内容：① §3.6 历史版本事件（按 wiki 版本浏览）② §2.63 通用场景(*gen) 仅供查阅
   const extra = DATA.filter(c=>c.name === "通用场景");
@@ -205,6 +205,12 @@ function catCard(c){
   let img = c.icon ? '<img class="cicon" src="'+esc(c.icon)+'" alt="">' : '';
   return '<div class="card" onclick="openCat('+DATA.indexOf(c)+')">'
     + img + '<div class="name">'+esc(c.name)+'</div></div>';
+}
+/* 人物卡：只显示头像，不显示名字（用户要求首页 35 个人物去掉名字）。
+   alt 仍带名字，仅供无障碍与图片加载失败时提示，不占版面。 */
+function charCard(c){
+  const img = c.icon ? '<img class="cicon" src="'+esc(c.icon)+'" alt="'+esc(c.name)+'">' : '';
+  return '<div class="card" onclick="openCat('+DATA.indexOf(c)+')">' + img + '</div>';
 }
 function groupItems(items){
   const map = new Map();
