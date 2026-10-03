@@ -195,7 +195,7 @@ function goHome(){
   const extra = DATA.filter(c=>c.name === "通用场景");
   const nver = (VERSIONS && VERSIONS.length) ? VERSIONS.reduce((s,v)=>s+v.items.length,0) : 0;
   if(extra.length || nver){
-    h += '<div class="section-title">附加内容</div><div class="grid">';
+    h += '<div class="grid">';
     if(nver){
       h += verCard('历史版本事件', '', 'openVersions()');
     }
