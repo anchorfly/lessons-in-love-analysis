@@ -31,8 +31,8 @@
   .zoom input[type=range]{width:clamp(120px,12vw,240px);accent-color:var(--accent);cursor:pointer}
   .zoom #zoomVal{min-width:0;text-align:left;color:var(--text);font-variant-numeric:tabular-nums}
   .crumbs{margin-top:8px;font-size:15px;color:var(--muted)}
-  /* 非首页层级隐藏标题与搜索框（用户要求：这些只在首页显示）*/
-  body.sub .top h1, body.sub #searchTitle, body.sub #searchLabel{display:none}
+  /* 非首页层级隐藏搜索框（用户要求：只在首页显示）。标题 h1 已整体删除。 */
+  body.sub #searchTitle, body.sub #searchLabel{display:none}
   .crumbs a{color:var(--accent);cursor:pointer;text-decoration:none}
   .crumbs a:hover{text-decoration:underline}
   .crumbs .sep{margin:0 8px;opacity:.5}
@@ -128,7 +128,6 @@
 <body>
 <header>
   <div class="top">
-    <h1>LIL 事件导航</h1>
     <input id="searchTitle" class="search" placeholder="搜索事件标题" autocomplete="off">
     <input id="searchLabel" class="search" placeholder="搜索 label" autocomplete="off">
     <div class="langsw" role="group" aria-label="language"><button data-l="zh" onclick="setLang('zh')">中文</button><button data-l="en" onclick="setLang('en')">English</button><button data-l="bi" onclick="setLang('bi')">对照</button></div><div class="zoom"><input id="zoom" type="range" min="0.8" max="2.5" step="0.05" value="1.5"><span id="zoomVal">150%</span></div>
