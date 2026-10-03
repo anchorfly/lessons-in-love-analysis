@@ -128,6 +128,16 @@ self.addEventListener('activate', (e) => {
     const keys = await caches.keys();
     await Promise.all(keys.filter(k => !KEEP.has(k)).map(k => caches.delete(k)));
     await self.clients.claim();
+    /* 强制已打开的页面重载一次（2026-10-03）。
+       新版 guide.html 里的「controllerchange 自动重载」有鸡生蛋问题：
+       新版被旧 SW 挡着，那段代码根本没机会运行，用户只能自己硬刷新 ——
+       而普通用户不会开 DevTools。所以改由 SW 侧主动 navigate：
+       activate 时把所有受控窗口重新加载，页面立刻拿到新 HTML。
+       ⚠️ activate 每个 SW 版本只触发一次，不会造成重载循环。 */
+    try {
+      const wins = await self.clients.matchAll({ type: 'window' });
+      for (const w of wins) { try { await w.navigate(w.url); } catch (_) {} }
+    } catch (_) {}
   })());
 });
 
