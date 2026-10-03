@@ -18,25 +18,25 @@
   :root{ --bg:#16181d; --panel:#1d2027; --panel2:#23262f; --text:#e6e6e6; --muted:#9aa0aa; --accent:#5b8def; --warn:#e06464; --line:#2c303a; background:var(--bg); color:var(--text); color-scheme:dark; }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.5}
-  header{position:sticky;top:0;z-index:10;background:rgba(22,24,29,.95);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:8px 18px}
-  .top{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-  h1{font-size:18px;margin:0;font-weight:600;letter-spacing:.5px}
+  header{position:sticky;top:0;z-index:10;background:rgba(22,24,29,.95);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:clamp(8px,.7vw,14px) clamp(18px,2vw,44px)}
+  .top{display:flex;align-items:center;gap:clamp(10px,1vw,22px);flex-wrap:wrap}
+  h1{font-size:clamp(18px,1.1vw + 10px,30px);margin:0;font-weight:600;letter-spacing:.5px}
   /* 搜索框宽度：在第一版基础上再缩 1/3（用户反馈仍偏长）。
      标题 220→146px、label 150→100px；flex:0 1 auto 保证窄屏可收缩。 */
-  .search{flex:0 1 auto;padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--text);font-size:14px}
+  .search{flex:0 1 auto;padding:clamp(8px,.6vw,13px) clamp(12px,1vw,20px);border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--text);font-size:clamp(14px,.6vw + 8px,19px)}
   #searchTitle{width:146px}
   #searchLabel{width:100px}
   .search:focus{outline:none;border-color:var(--accent)}
-  .zoom{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);flex:0 0 auto}
-  .zoom input[type=range]{width:120px;accent-color:var(--accent);cursor:pointer}
-  .zoom #zoomVal{width:42px;text-align:right;color:var(--text);font-variant-numeric:tabular-nums}
+  .zoom{display:flex;align-items:center;gap:6px;font-size:clamp(12px,.4vw + 8px,16px);color:var(--muted);flex:0 0 auto}
+  .zoom input[type=range]{width:clamp(120px,12vw,240px);accent-color:var(--accent);cursor:pointer}
+  .zoom #zoomVal{min-width:0;text-align:left;color:var(--text);font-variant-numeric:tabular-nums}
   .crumbs{margin-top:8px;font-size:15px;color:var(--muted)}
   /* 非首页层级隐藏标题与搜索框（用户要求：这些只在首页显示）*/
   body.sub .top h1, body.sub #searchTitle, body.sub #searchLabel{display:none}
   .crumbs a{color:var(--accent);cursor:pointer;text-decoration:none}
   .crumbs a:hover{text-decoration:underline}
   .crumbs .sep{margin:0 8px;opacity:.5}
-  main{padding:14px 20px 32px;max-width:1200px;margin:0 auto}
+  main{padding:clamp(14px,1.2vw,26px) clamp(20px,2vw,44px) clamp(32px,3vw,56px);max-width:clamp(1200px,80vw,1800px);margin:0 auto}
   .section-title{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1.2px;margin:18px 0 8px}
   .section-title:first-child{margin-top:4px}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}
@@ -64,7 +64,7 @@
   h2.grp{margin:22px 0 8px;font-size:15px;font-weight:600;color:#f0c674;border-left:3px solid #f0c674;padding-left:10px;line-height:1.3}
   h2.grp:first-of-type{margin-top:4px}
   h2.grp .cnt{color:var(--muted);font-weight:400;font-size:12.5px}
-  .content{background:#0e0f12;border:1px solid var(--line);border-radius:10px;padding:16px;font-family:ui-monospace,Menlo,Consolas,monospace;--cfs:calc(13px * var(--zoom,1));font-size:var(--cfs);line-height:1.55;max-height:70vh;overflow:auto;margin-top:6px}
+  .content{background:#0e0f12;border:1px solid var(--line);border-radius:10px;padding:clamp(16px,1.2vw,28px);font-family:ui-monospace,Menlo,Consolas,monospace;--cfs:calc(13px * var(--zoom,1));font-size:var(--cfs);line-height:1.55;max-height:70vh;overflow:auto;margin-top:6px}
   /* 翻页后程序化聚焦正文框（tabindex=-1），不要显示浏览器默认的白色焦点框 */
   .content:focus,.content:focus-visible{outline:none;box-shadow:none}
   .content::-webkit-scrollbar{width:9px}
@@ -111,7 +111,7 @@
 
   /* ===== 三语切换按钮 ===== */
   .langsw{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;flex:0 0 auto}
-  .langsw button{background:transparent;border:0;color:var(--muted);padding:6px 12px;cursor:pointer;font-size:13px}
+  .langsw button{background:transparent;border:0;color:var(--muted);padding:clamp(6px,.5vw,10px) clamp(12px,1vw,20px);cursor:pointer;font-size:clamp(13px,.5vw + 8px,18px)}
   .langsw button.on{background:var(--accent);color:#fff}
   /* ===== 三语显隐（DOM 同原版：对话行 .l>.s+.d，旁白行 .c；中文行是镜像 .zh-l）=====
      字体/颜色/加粗完全沿用原版 .content 规则，此处只管显隐 */
@@ -131,7 +131,7 @@
     <h1>LIL 事件导航</h1>
     <input id="searchTitle" class="search" placeholder="搜索事件标题" autocomplete="off">
     <input id="searchLabel" class="search" placeholder="搜索 label" autocomplete="off">
-    <div class="langsw" role="group" aria-label="language"><button data-l="zh" onclick="setLang('zh')">中文</button><button data-l="en" onclick="setLang('en')">English</button><button data-l="bi" onclick="setLang('bi')">对照</button></div><div class="zoom"><span>字号</span><input id="zoom" type="range" min="0.8" max="2.5" step="0.05" value="1.5"><span id="zoomVal">150%</span></div>
+    <div class="langsw" role="group" aria-label="language"><button data-l="zh" onclick="setLang('zh')">中文</button><button data-l="en" onclick="setLang('en')">English</button><button data-l="bi" onclick="setLang('bi')">对照</button></div><div class="zoom"><input id="zoom" type="range" min="0.8" max="2.5" step="0.05" value="1.5"><span id="zoomVal">150%</span></div>
   </div>
   <div class="crumbs" id="crumbs"></div>
 </header>
