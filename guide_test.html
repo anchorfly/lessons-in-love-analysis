@@ -23,7 +23,7 @@
   .zoom{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);flex:0 0 auto}
   .zoom input[type=range]{width:120px;accent-color:var(--accent);cursor:pointer}
   .zoom #zoomVal{width:42px;text-align:right;color:var(--text);font-variant-numeric:tabular-nums}
-  .crumbs{margin-top:8px;font-size:13px;color:var(--muted)}
+  .crumbs{margin-top:8px;font-size:15px;color:var(--muted)}
   .crumbs a{color:var(--accent);cursor:pointer;text-decoration:none}
   .crumbs a:hover{text-decoration:underline}
   .crumbs .sep{margin:0 8px;opacity:.5}
@@ -330,7 +330,7 @@ function openSms(i, k){
   const c = DATA[i], sms = c.sms[k];
   // 短信面包屑 + meta 标题都挂 data-lab，语言切换时随 refreshTitles 一起刷新（与事件保持一致）
   setCrumbs([{label:c.name, onClick:'openCat('+i+')'},{label:dispTitleText(sms), lab:sms.label}]);
-  let h = '<span class="back" onclick="openCat('+i+')">← 返回 '+esc(c.name)+'</span>';
+  let h = '';   // 「← 返回 XXX」已去掉（2026-10-04），面包屑自带返回入口
   h += '<div class="meta"><b data-lab="'+escA(sms.label)+'">'+dispTitle(sms)+'</b>'
      + ' &nbsp;·&nbsp; <code>'+esc(sms.label)+'</code> &nbsp;·&nbsp; 短信</div>';
   h += '<div class="content">'+sms.content+'</div>';
@@ -590,13 +590,10 @@ const relPos = RELEASE && RELEASE.items.length
       nav += '</div>';
     }
   }
-  let h = inVer
-    ? '<span class="back" onclick="openVersion('+curVer+')">← 返回 '+esc(VERSIONS[curVer].version)+'</span>'
-    : inRel
-    ? '<span class="back" onclick="openRelease()">← 返回 '+esc(RELEASE.version)+' 版本更新事件</span>'
-    : inPkg
-    ? '<span class="back" onclick="'+(curSec === 'nib' ? 'openNib()' : 'openCarePackage('+curPkg+')')+'">← 返回 '+esc(curSec === 'nib' ? 'Nothing is Beautiful' : CUR_P()[curPkg].name)+'</span>'
-    : '<span class="back" onclick="openCat('+i+')">← 返回 '+esc(c.name)+'</span>';
+    /* 「← 返回 XXX」整行已去掉（2026-10-04 用户要求）——面包屑自带返回入口，
+     这一行是重复的。版本 / 版本更新 / 内容包三种来源的返回能力都还在面包屑上
+     （setCrumbs 的每一项都带 onClick）。 */
+  let h = '';
   h += nav;
   h += '<div class="meta"><b data-lab="'+escA(it.label)+'">'+dispTitle(it)+'</b>'
      + (it.missed?' &nbsp;<span class="badge">⚠ 可错过事件</span>':'')
