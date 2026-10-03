@@ -85,7 +85,10 @@
   .lb-bar:hover{background:rgba(255,255,255,.28)}
   .lb-fill{border-radius:2px}
   .lb-fill{height:100%;background:var(--accent,#6ea8fe);width:0;transition:width .18s ease}
-  .scene-cap{font-size:11px;color:var(--muted);letter-spacing:.5px;margin-top:8px;text-transform:uppercase}
+  /* scene-cap 场景说明行不再显示（2026-10-04 用户要求：只显示图片本身，不要 scene XXX 文字）。
+     用 display:none 而不是删掉渲染逻辑 —— DOM 里保留该元素，
+     抽取器 _rebuild_events.py 从渲染结果克隆时仍能读到它，数据不会丢。 */
+  .scene-cap{display:none}
   .back{display:inline-block;margin-bottom:14px;color:var(--accent);cursor:pointer;font-size:13px}
   .back:hover{text-decoration:underline}
   .evnav{display:flex;gap:10px;align-items:center;margin-bottom:12px}
