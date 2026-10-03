@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v161';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v162';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v162=SW 安装加超时
                                   //       v161=SW 安装加超时
                                   //       v160=短信页键盘翻页
                                   //       v159=文本框上边距归零
@@ -155,10 +156,11 @@ self.addEventListener('install', (e) => {
     const c = await caches.open(CACHE_DOC);
     // 安装即预缓存深色 HTML：v4 接管后首次点开即缓存命中，零网络等待、零白闪。
     // 已缓存则跳过，避免重复预缓存 1.3MB 的 guide.html。
+    const _to = new Promise(res => setTimeout(() => res(null), 8000));   /* 安装超时 */
     await Promise.all(PRECACHE_HTML.map(async (u) => {
       if (await c.match(u)) return;
       try {
-        const r = await fetch(u, { cache: 'reload' });   /* 绕过 HTTP 缓存 */
+        const r = await Promise.race([ fetch(u, { cache: 'reload' }), _to ]);   /* 绕过 HTTP 缓存 + 8s 超时 */
         if (r && r.status === 200) await c.put(u, r.clone());
       } catch (_) {}
     }));
