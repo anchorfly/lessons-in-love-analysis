@@ -1330,7 +1330,10 @@ if ('serviceWorker' in navigator) {
     _swReloading = true;
     location.reload();
   });
-  navigator.serviceWorker.register('sw.js').then(function(reg){
+  // updateViaCache:'none' —— 检查更新时不走 HTTP 缓存。
+  // 否则 sw.js 会被浏览器按 max-age 缓存（GitHub Pages 是 600s），
+  // 更新最长要等 10 分钟才被发现；这是「明明推了、线上却没变」的另一半原因。
+  navigator.serviceWorker.register('sw.js', {updateViaCache:'none'}).then(function(reg){
     try { reg.update(); } catch(e){}
   }).catch(function(){});
 }
