@@ -1532,6 +1532,9 @@ function __imgPrefetch(box){
    翻页时把正文框滚到对应图片（"文本框进度条随着图片滚动"）；Esc / 点背景关闭。
    打开时 ←/→ 不再触发事件翻页（下面的 keydown 里做了守卫）。 */
 (function(){
+  /* ⚠️ 必须等 DOM 就绪：这段 <script> 排在 <div class="lb"> 之前，
+     直接执行会拿到 null，被下面的守卫 return 掉、整个功能静默失效。 */
+  function _initLB(){
   var lb = document.getElementById('lb');
   var im  = document.getElementById('lbImg');
   var btP = document.getElementById('lbPrev');
@@ -1596,6 +1599,9 @@ function __imgPrefetch(box){
   lb.addEventListener('click', function(e){ if(e.target === lb) close(); });   // 点背景关闭
   // 点大图本身也关闭（习惯操作）
   im.addEventListener('click', function(e){ e.stopPropagation(); close(); });
+  }
+  if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', _initLB);
+  else _initLB();
 })();
 </script>
 <div class="lb" id="lb">
