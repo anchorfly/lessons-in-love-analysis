@@ -1271,8 +1271,23 @@ function renderLines(lines){
     // 只有【紧贴图片上下】的空行不渲染（用户要求：图片上下不要留空）；
     // 其余空行照旧保留 —— 用户明确说了不是要删掉本来就有的空行。
     if(!en && !zh){
-      const _next = lines[_i + 1];
-      if(_lastWasImg || (_next && _next.img)) continue;
+      /* 向后找第一个「会真正显示出来」的行，再判断它是不是图片。
+         ⚠️ 不能只看紧邻的一行：数据里常见 `文字 / 空行 / scene X / 图片` 这种排列，
+         scene 指令行已被 .scene-cap{display:none} 隐藏，紧邻的下一行并不是图片，
+         只看一行会判断失败（用户报的「图片上方还有空格」就是这个）。 */
+      let _vis = '';
+      for(let _k = _i + 1; _k < lines.length; _k++){
+        const _o = lines[_k];
+        if(!_o) continue;
+        if(_o.img){ _vis = 'img'; break; }
+        const _oe = (_o.en || '').trim(), _oz = (_o.zh || '').trim();
+        if(_oe || _oz){
+          if(!_oz && (/^scene\s+\S+$/i.test(_oe) ||
+             /^\s*\$|^\s*(image|hide|play|stop|with|window|pause|transform|camera|nvl|voice|queue)\b/.test(_oe))) continue;
+          _vis = 'text'; break;
+        }
+      }
+      if(_lastWasImg || _vis === 'img') continue;   // 紧贴图片上下 → 不渲染
       _lastWasImg = false;
       h += '<div class="c">&nbsp;</div>';
       continue;
