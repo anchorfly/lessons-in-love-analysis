@@ -157,7 +157,7 @@ function clearCrumbs(){
   crumbs.innerHTML = '<a onclick="goHome()">首页</a>';
 }
 function setCrumbs(parts){
-  // 进入任何非首页层级：隐藏「LIL 事件导航」标题与两个搜索框（用户要求只在首页显示）。
+  // 进入任何非首页层级：隐藏两个搜索框（用户要求只在首页显示；原「LIL 事件导航」标题已整体删除）。
   // 所有子层级（分类/事件/版本/内容包/短信/搜索结果）都会走 setCrumbs，一处钩子全覆盖。
   document.body.classList.add('sub');
   // parts: [{label, onClick, lab?}]  lab = 事件 label → 面包屑也带 data-lab，切语言时随标题一起刷新
