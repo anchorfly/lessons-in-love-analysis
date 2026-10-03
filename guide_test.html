@@ -92,6 +92,10 @@
   .back{display:inline-block;margin-bottom:14px;color:var(--accent);cursor:pointer;font-size:13px}
   .back:hover{text-decoration:underline}
   .evnav{display:flex;gap:10px;align-items:center;margin-bottom:12px}
+  /* 事件页首个元素是「上一个/下一个」导航时，去掉 main 的顶部内边距，
+     让它紧贴面包屑（用户要求：这两行中间别留空间）。
+     其余页面（首页/列表）第一个元素不是 .evnav，不受影响。 */
+  main:has(> .evnav:first-child){padding-top:0}
   .navbtn{flex:1 1 0;min-width:0;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:9px 12px;cursor:pointer;font-size:13px;color:var(--text);transition:.12s;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:center}
   .navbtn:hover{border-color:var(--accent);background:var(--panel2)}
   .navbtn.disabled{color:var(--muted);opacity:.45;cursor:default;border-style:dashed}
