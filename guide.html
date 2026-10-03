@@ -615,9 +615,9 @@ function openEvent(i,idx,rel){
      （setCrumbs 的每一项都带 onClick）。 */
   let h = '';
   h += nav;
-  h += '<div class="meta"><b data-lab="'+escA(it.label)+'">'+dispTitle(it)+'</b>'
-     + (it.missed?' &nbsp;<span class="badge">⚠ 可错过事件</span>':'')
-     + ' &nbsp;·&nbsp; <code>'+esc(it.label)+'</code></div>';
+  /* 元信息行已去掉（2026-10-04 用户要求）——标题和 label 面包屑里都有，属重复。
+     仅保留「可错过事件」徽标（有信息量，且别处没有）。 */
+  if(it.missed) h += '<div class="meta"><span class="badge">⚠ 可错过事件</span></div>';
   h += '<div class="content">'+it.content+'</div>';
   main.innerHTML = h;
   /* 翻页后把焦点交给正文框：.content 是 max-height:70vh + overflow:auto 的滚动容器，
