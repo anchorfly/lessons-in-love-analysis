@@ -78,7 +78,10 @@
   .lb-close:hover{background:rgba(60,64,74,.9)}
   .lb-foot{position:absolute;left:0;right:0;bottom:18px;display:flex;flex-direction:column;align-items:center;gap:8px}
   .lb-num{font-size:12px;color:#c8c8c8;letter-spacing:.5px}
-  .lb-bar{width:min(420px,60vw);height:4px;border-radius:2px;background:rgba(255,255,255,.16);overflow:hidden}
+  .lb-bar{position:relative;width:min(420px,60vw);height:4px;border-radius:2px;background:rgba(255,255,255,.16);overflow:visible;cursor:pointer;touch-action:none}
+  .lb-bar::before{content:'';position:absolute;left:0;right:0;top:-9px;bottom:-9px}
+  .lb-bar:hover{background:rgba(255,255,255,.28)}
+  .lb-fill{border-radius:2px}
   .lb-fill{height:100%;background:var(--accent,#6ea8fe);width:0;transition:width .18s ease}
   .scene-cap{font-size:11px;color:var(--muted);letter-spacing:.5px;margin-top:8px;text-transform:uppercase}
   .back{display:inline-block;margin-bottom:14px;color:var(--accent);cursor:pointer;font-size:13px}
@@ -1614,6 +1617,51 @@ function __imgPrefetch(box){
   lb.addEventListener('click', function(e){ if(e.target === lb) close(); });   // 点背景关闭
   // 点大图本身也关闭（习惯操作）
   im.addEventListener('click', function(e){ e.stopPropagation(); close(); });
+
+  /* 进度条可拖动（2026-10-04）：按下即跳、按住拖动连续切换。
+     用 pointer capture，指针移出条外也不丢。 */
+  var bar = document.querySelector('.lb-bar');
+  function seek(e){
+    if(!list.length) return;
+    var r = bar.getBoundingClientRect();
+    var p = (e.clientX - r.left) / r.width;
+    p = p < 0 ? 0 : (p > 1 ? 1 : p);
+    var i = Math.round(p * (list.length - 1));
+    if(i !== idx) show(i);
+  }
+  if(bar){
+    bar.addEventListener('pointerdown', function(e){
+      e.preventDefault(); e.stopPropagation();
+      try { bar.setPointerCapture(e.pointerId); } catch(_) {}
+      bar._dragging = true;
+      seek(e);
+    });
+    bar.addEventListener('pointermove', function(e){
+      if(!bar._dragging) return;
+      e.preventDefault(); e.stopPropagation();
+      seek(e);
+    });
+    var stop = function(e){
+      if(!bar._dragging) return;
+      bar._dragging = false;
+      try { bar.releasePointerCapture(e.pointerId); } catch(_) {}
+    };
+    bar.addEventListener('pointerup', stop);
+    bar.addEventListener('pointercancel', stop);
+    bar.addEventListener('click', function(e){ e.stopPropagation(); });
+  }
+
+  /* 鼠标滑轮翻页（2026-10-04）：滚轮上/下 = 上一张/下一张。
+     加 140ms 节流 —— 否则一格滚轮会连翻好几张。 */
+  var _lastWheel = 0;
+  lb.addEventListener('wheel', function(e){
+    e.preventDefault();
+    var now = Date.now();
+    if(now - _lastWheel < 140) return;
+    _lastWheel = now;
+    if(!list.length) return;
+    show(idx + (e.deltaY > 0 ? 1 : -1));
+  }, { passive: false });
   }
   if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', _initLB);
   else _initLB();

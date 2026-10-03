@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v132';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v133';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v133=大图进度条可拖动 + 滑轮翻页
                                   //       v132=搜索框再缩 1/3
                                   //       v131=搜索框按统计收窄
                                   //       v130=去掉附加内容分区标题
