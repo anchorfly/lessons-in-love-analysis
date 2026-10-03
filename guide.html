@@ -34,11 +34,12 @@
   .section-title{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1.2px;margin:18px 0 8px}
   .section-title:first-child{margin-top:4px}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}
-  .grid.char-grid{grid-template-columns:repeat(5,1fr);gap:10px}
-  /* 人物卡只有头像，让它填满格子（原来 .cicon 固定 48px，格子里空得厉害）。
-     头像是 190x190 正方形，用 aspect-ratio:1/1 + object-fit:cover 保持一致。 */
-  .char-grid .card{padding:6px;min-height:0;gap:0}
-  .char-grid .cicon{width:100%;height:auto;aspect-ratio:1/1;border-radius:8px}
+  /* 人物区：紧凑网格，目标是「一眼看全 35 个人物」。
+     列宽自适应（auto-fill + 76px 下限）：宽屏排得多、窄屏自动少，
+     头像填满格子但整体高度可控。 */
+  .grid.char-grid{grid-template-columns:repeat(auto-fill,minmax(76px,1fr));gap:8px}
+  .char-grid .card{padding:4px;min-height:0;gap:0}
+  .char-grid .cicon{width:100%;height:auto;aspect-ratio:1/1;border-radius:6px}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 8px;cursor:pointer;transition:.15s;display:flex;flex-direction:column;align-items:center;gap:6px;min-height:88px;justify-content:center}
   .card:hover{border-color:var(--accent);transform:translateY(-2px)}
   .card .name{font-weight:600;font-size:13px}
