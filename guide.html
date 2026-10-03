@@ -31,6 +31,8 @@
   .zoom input[type=range]{width:120px;accent-color:var(--accent);cursor:pointer}
   .zoom #zoomVal{width:42px;text-align:right;color:var(--text);font-variant-numeric:tabular-nums}
   .crumbs{margin-top:8px;font-size:15px;color:var(--muted)}
+  /* 非首页层级隐藏标题与搜索框（用户要求：这些只在首页显示）*/
+  body.sub .top h1, body.sub #searchTitle, body.sub #searchLabel{display:none}
   .crumbs a{color:var(--accent);cursor:pointer;text-decoration:none}
   .crumbs a:hover{text-decoration:underline}
   .crumbs .sep{margin:0 8px;opacity:.5}
@@ -158,9 +160,14 @@ const isChapter = n => /^Chapter\s*\d/i.test(n);
 const isHappy = n => /^HAPPY/i.test(n);
 
 function clearCrumbs(){
+  // 回到首页：恢复标题与搜索框（见 CSS body.sub）
+  document.body.classList.remove('sub');
   crumbs.innerHTML = '<a onclick="goHome()">首页</a>';
 }
 function setCrumbs(parts){
+  // 进入任何非首页层级：隐藏「LIL 事件导航」标题与两个搜索框（用户要求只在首页显示）。
+  // 所有子层级（分类/事件/版本/内容包/短信/搜索结果）都会走 setCrumbs，一处钩子全覆盖。
+  document.body.classList.add('sub');
   // parts: [{label, onClick, lab?}]  lab = 事件 label → 面包屑也带 data-lab，切语言时随标题一起刷新
   let html = '<a onclick="goHome()">首页</a>';
   for(const p of parts){
