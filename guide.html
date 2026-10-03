@@ -338,7 +338,21 @@ function smsMergeStructure(skeletonHtml, lines){
     if(cls === 'scene-cap'){ out.push({en: txt, zh: '', cap: true}); continue; }
     if(cls === 'opt') continue;                              // 选项行：没有译文，不补
     if(!txt){ out.push({en: '', zh: ''}); continue; }        // 空行
-    out.push(j < lines.length ? lines[j] : {en: txt, zh: ''});  // 对白/旁白：按顺序取译文
+    /* 对白/旁白：按顺序取译文。⚠️ events/{label}.json 的 lines 是「纯对白」，
+       只有 en/zh、**没有 spk**（说话人只存在于这个骨架里）。原来直接 push lines[j]
+       会把说话人丢掉 → 短信页面所有对话都不显示人名。这里从骨架的
+       <span class="s" style="color:#xxx">Name</span> 解析出说话人与颜色补回去。 */
+    const base = (j < lines.length) ? lines[j] : {en: txt, zh: ''};
+    const line = Object.assign({}, base);
+    if(!line.spk){
+      const sm = m[2].match(/<span class="s"[^>]*>([\s\S]*?)<\/span>/);
+      const cm = m[2].match(/<span class="s"[^>]*color:([^;"]+)/);
+      if(sm){
+        const nm = sm[1].replace(/<[^>]*>/g, '').trim();
+        if(nm){ line.spk = nm; if(cm) line.spkColor = cm[1].trim(); }
+      }
+    }
+    out.push(line);
     j++;
   }
   while(j < lines.length) out.push(lines[j++]);              // 骨架没覆盖到的译文补在末尾
