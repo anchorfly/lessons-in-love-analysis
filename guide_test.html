@@ -361,6 +361,21 @@ function openSms(i, k){
   setCrumbs([{label:c.name, onClick:'openCat('+i+')'},{label:dispTitleText(sms), lab:sms.label}]);
   let h = '';   // 「← 返回 XXX」已去掉（2026-10-04），面包屑自带返回入口
   h += /* 元信息行已去掉（2026-10-04 用户要求，与事件页一致）：标题/label 面包屑里都有 */
+  /* 短信组内翻页（2026-10-04 用户要求）：上一个/下一个只在本分类的短信列表内走，
+     头尾禁用不循环（与事件页一致）。例：Makoto 的 3 条短信可互相翻。 */
+  if(c.sms && c.sms.length > 1){
+    const _p = k > 0 ? c.sms[k-1] : null;
+    const _n = k < c.sms.length - 1 ? c.sms[k+1] : null;
+    h += '<div class="evnav">';
+    h += _p
+      ? '<span class="navbtn" data-lab="'+escA(_p.label)+'" onclick="openSms('+i+','+(k-1)+')" title="'+escA(dispTitleText(_p))+'">← 上一个：'+esc(dispTitleText(_p))+'</span>'
+      : '<span class="navbtn disabled" title="已是本组第一条短信">← 上一个</span>';
+    h += '<span class="totag">'+(k+1)+' / '+c.sms.length+'</span>';
+    h += _n
+      ? '<span class="navbtn" data-lab="'+escA(_n.label)+'" onclick="openSms('+i+','+(k+1)+')" title="'+escA(dispTitleText(_n))+'">下一个：'+esc(dispTitleText(_n))+' →</span>'
+      : '<span class="navbtn disabled" title="已是本组最后一条短信">下一个 →</span>';
+    h += '</div>';
+  }
   h += '<div class="content">'+sms.content+'</div>';
   main.innerHTML = h;
   // 尝试用 events/{label}.json 的三语 lines 替换（若有），保持中/英/对照一致
