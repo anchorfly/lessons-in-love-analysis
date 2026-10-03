@@ -338,8 +338,7 @@ function openSms(i, k){
   // 短信面包屑 + meta 标题都挂 data-lab，语言切换时随 refreshTitles 一起刷新（与事件保持一致）
   setCrumbs([{label:c.name, onClick:'openCat('+i+')'},{label:dispTitleText(sms), lab:sms.label}]);
   let h = '';   // 「← 返回 XXX」已去掉（2026-10-04），面包屑自带返回入口
-  h += '<div class="meta"><b data-lab="'+escA(sms.label)+'">'+dispTitle(sms)+'</b>'
-     + ' &nbsp;·&nbsp; <code>'+esc(sms.label)+'</code> &nbsp;·&nbsp; 短信</div>';
+  h += /* 元信息行已去掉（2026-10-04 用户要求，与事件页一致）：标题/label 面包屑里都有 */
   h += '<div class="content">'+sms.content+'</div>';
   main.innerHTML = h;
   // 尝试用 events/{label}.json 的三语 lines 替换（若有），保持中/英/对照一致
