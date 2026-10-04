@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v167';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v168';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v168=请求路径不再强制回源
                                   //       v167=去掉 docver meta
                                   //       v166=撤掉页面版本角标
                                   //       v165=版本角标读 meta
@@ -285,7 +286,13 @@ async function cacheFirstDoc(req, name) {
   const c = await caches.open(name);
   const hit = await c.match(req);
   if (hit) return hit;                    // 命中即秒回，零等待
-  const net = await fetch(req, { cache: 'reload' });   /* 绕过 HTTP 缓存 */
+  /* ⚠️ 这里**不能**用强制回源（cache: 'reload'）。
+     那是绕过 HTTP 缓存重新下载，而 guide.html 有 1.4MB —— 若 install 预缓存
+     因 8s 超时没填上新缓存，页面这次请求就会触发一次同样的 1.4MB 强制下载，
+     表现为「更新后第一次请求直接卡住」。
+     普通 fetch 可以用 HTTP 缓存，快得多；「拿到真·最新 HTML」的职责交给
+     install 预缓存（它在后台跑，不阻塞页面）。 */
+  const net = await fetch(req);
   if (net && net.status === 200) { try { c.put(req, net.clone()); } catch (_) {} }
   return net;
 }
