@@ -40,5 +40,21 @@ for _ in range(5):
 else:
     print('写入失败'); sys.exit(1)
 
+# 同步把版本写进 guide.html 的 <meta name="docver">（诊断「拿到的是哪一版」用）
+GH = os.path.join(ROOT, 'guide.html')
+try:
+    g = open(GH, encoding='utf-8').read()
+    g2 = re.sub(r'<meta name="docver" content="lil-doc-v\d+">',
+                '<meta name="docver" content="lil-doc-v%d">' % new, g, count=1)
+    if g2 != g:
+        tmp2 = GH + '.tmp%d' % os.getpid()
+        open(tmp2, 'w', encoding='utf-8').write(g2)
+        os.replace(tmp2, GH)
+        print('guide.html docver -> v%d  ✅' % new)
+    else:
+        print('⚠️ guide.html 里没找到 docver meta')
+except Exception as e:
+    print('⚠️ 写 guide.html docver 失败:', e)
+
 print('CACHE_DOC: lil-doc-v%d -> lil-doc-v%d  ✅' % (old, new))
 print('（改完 HTML 记得跑这个；事件 json 是另一条链路，跑 _gen_evtver.py）')
