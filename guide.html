@@ -339,7 +339,11 @@ function smsMergeStructure(skeletonHtml, lines){
     const cls = m[1];
     const txt = m[2].replace(/<[^>]*>/g, '').replace(/&nbsp;/g, '').trim();
     if(cls === 'scene-cap'){ out.push({en: txt, zh: '', cap: true}); continue; }
-    if(cls === 'opt') continue;                              // 选项行：没有译文，不补
+    /* 选项行（2026-10-04 恢复）：这些选项只存在于骨架，events/{label}.json 里没有
+       对应条目，丢弃就再也回不来（用户报的「你想说点什么？」后面选项丢失）。
+       renderLines 有 L.opt 分支会渲染；zh 也填英文，因为选项目前没有中文译文，
+       两个语言槽都填才能在中/英模式下都显示。 */
+    if(cls === 'opt'){ out.push({en: txt, zh: txt, opt: true}); continue; }
     if(!txt){ out.push({en: '', zh: ''}); continue; }        // 空行
     /* 对白/旁白：按顺序取译文。⚠️ events/{label}.json 的 lines 是「纯对白」，
        只有 en/zh、**没有 spk**（说话人只存在于这个骨架里）。原来直接 push lines[j]
