@@ -6,7 +6,7 @@
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#16181d">
 <link rel="preload" as="image" href="pic/chikathumb1.png"><link rel="preload" as="image" href="pic/yumithumb1.png"><link rel="preload" as="image" href="pic/ayanethumb1.png"><link rel="preload" as="image" href="pic/sanathumb1.png"><link rel="preload" as="image" href="pic/makotothumb1.png"><link rel="preload" as="image" href="pic/mikuthumb1.png"><link rel="preload" as="image" href="pic/futabathumb1.png"><link rel="preload" as="image" href="pic/rinthumb1.png"><link rel="preload" as="image" href="pic/amithumb1.png"><link rel="preload" as="image" href="pic/mayathumb1.png"><link rel="preload" as="image" href="pic/mollythumb1.png"><link rel="preload" as="image" href="pic/tsuneyothumb1.png"><link rel="preload" as="image" href="pic/utathumb1.png"><link rel="preload" as="image" href="pic/iothumb1.png"><link rel="preload" as="image" href="pic/nodokathumb1.png"><link rel="preload" as="image" href="pic/otohathumb1.png"><link rel="preload" as="image" href="pic/toukathumb1.png"><link rel="preload" as="image" href="pic/yasuthumb1.png"><link rel="preload" as="image" href="pic/norikothumb1.png"><link rel="preload" as="image" href="pic/kirinthumb1.png"><link rel="preload" as="image" href="pic/sarathumb1.png"><link rel="preload" as="image" href="pic/harukathumb1.png"><link rel="preload" as="image" href="pic/kaorithumb1.png"><link rel="preload" as="image" href="pic/chinamithumb1.png"><link rel="preload" as="image" href="pic/karinthumb1.png"><link rel="preload" as="image" href="pic/makithumb1.png"><link rel="preload" as="image" href="pic/yukithumb1.png"><link rel="preload" as="image" href="pic/nikithumb1.png"><link rel="preload" as="image" href="pic/wakanathumb1.png"><link rel="preload" as="image" href="pic/osakothumb1.png"><link rel="preload" as="image" href="pic/tsubasathumb1.png"><link rel="preload" as="image" href="pic/tsukasathumb1.png"><link rel="preload" as="image" href="pic/imanithumb1.png"><link rel="preload" as="image" href="pic/rikathumb1.png"><link rel="preload" as="image" href="pic/naothumb1.png">
-<meta name="docver" content="lil-doc-v174">
+<meta name="docver" content="lil-doc-v175">
 <title>LIL 事件导航</title>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-26H942Y9CE"></script>
 <script>
@@ -34,7 +34,7 @@
   .zoom input[type=range]{width:120px;accent-color:var(--accent);cursor:pointer}
   .zoom #zoomVal{min-width:0;text-align:left;color:var(--text);font-variant-numeric:tabular-nums}
   .crumbs{margin-top:8px;font-size:15px;color:var(--muted);max-width:1200px;margin-left:auto;margin-right:auto;padding:0 clamp(20px,2vw,44px)}
-  /* 非首页层级隐藏搜索框（用户要求：只在首页显示）。标题 h1 已整体删除。 */
+  /* 非首页层级隐藏搜索框（只在首页显示）。例外：搜索结果页要保留，见 runSearch。 */
   body.sub #searchTitle, body.sub #searchLabel{display:none}
   .crumbs a{color:var(--accent);cursor:pointer;text-decoration:none}
   .crumbs a:hover{text-decoration:underline}
@@ -698,6 +698,9 @@ function openEvent(i,idx,rel){
 function runSearch(q, mode){
   const label = mode==='title' ? '事件标题' : 'label';
   setCrumbs([{label:'搜索'+label+'：'+q}]);
+  /* 搜索结果页要保留搜索框 —— 否则没法改关键词，太反逻辑（用户反馈）。
+     setCrumbs 会给 body 加 sub 类来隐藏搜索框，这里立刻去掉。 */
+  document.body.classList.remove('sub');
   let res = [];
   DATA.forEach((c,ci)=>{
     groupItems(c.items).forEach(g=>{
