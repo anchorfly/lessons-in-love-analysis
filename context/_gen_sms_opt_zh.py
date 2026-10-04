@@ -58,9 +58,13 @@ print('短信选项 %d 个，匹配到译文 %d 个' % (len(opts), len(mapped)))
 
 # 4) 注入
 body = json.dumps(mapped, ensure_ascii=False, separators=(',', ':'))
-block = ('/* SMS_OPT_ZH_START */\n<script>var SMS_OPT_ZH = %s;</script>\n/* SMS_OPT_ZH_END */' % body)
+# ⚠️ 必须用 HTML 注释：这些标记在 <script> 标签外面，属于 HTML 正文，
+#    用 JS 的 /* */ 会被浏览器当普通文本渲染出来（用户报的每页都显示那串字）。
+block = ('<!-- SMS_OPT_ZH_START -->\n<script>var SMS_OPT_ZH = %s;</script>\n<!-- SMS_OPT_ZH_END -->' % body)
 
-if '/* SMS_OPT_ZH_START */' in t:
+if '<!-- SMS_OPT_ZH_START -->' in t:
+    t = re.sub(r'<!-- SMS_OPT_ZH_START -->[\s\S]*?<!-- SMS_OPT_ZH_END -->', block, t, count=1)
+elif '/* SMS_OPT_ZH_START */' in t:          # 兼容旧的 JS 注释格式（会一并清掉）
     t = re.sub(r'/\* SMS_OPT_ZH_START \*/[\s\S]*?/\* SMS_OPT_ZH_END \*/', block, t, count=1)
 else:
     anchor = '</script>'
