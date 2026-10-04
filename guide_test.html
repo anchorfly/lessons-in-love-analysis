@@ -132,6 +132,7 @@
   <div class="top">
     <input id="searchTitle" class="search" placeholder="搜索事件标题" autocomplete="off">
     <input id="searchLabel" class="search" placeholder="搜索 label" autocomplete="off">
+    <span id="verTag" title="当前页面版本 / SW 状态" style="margin-left:auto;font-size:12px;color:var(--muted);white-space:nowrap"></span>
     <div class="langsw" role="group" aria-label="language"><button data-l="zh" onclick="setLang('zh')">中文</button><button data-l="en" onclick="setLang('en')">English</button><button data-l="bi" onclick="setLang('bi')">对照</button></div><div class="zoom"><input id="zoom" type="range" min="0.8" max="2.5" step="0.05" value="1.5"><span id="zoomVal">150%</span></div>
   </div>
   <div class="crumbs" id="crumbs"></div>
@@ -1445,6 +1446,15 @@ if ('serviceWorker' in navigator) {
   // 更新最长要等 10 分钟才被发现；这是「明明推了、线上却没变」的另一半原因。
   navigator.serviceWorker.register('sw.js', {updateViaCache:'none'}).then(function(reg){
     try { reg.update(); } catch(e){}
+    /* 版本角标（2026-10-04 诊断用）：显示当前页面版本；发现新 SW 在装就加 ↑。
+       便于区分「页面是旧的」还是「页面是新的但内容没更新」。 */
+    try {
+      var tag = document.getElementById('verTag');
+      if(tag){
+        tag.textContent = CACHE_DOC.replace('lil-doc-', '');
+        reg.addEventListener('updatefound', function(){ tag.textContent += ' ↑'; });
+      }
+    } catch(e){}
   }).catch(function(){});
 }
 </script>
