@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v169';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v170';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v170=请求路径改 no-cache 校验
                                   //       v169=恢复 docver meta
                                   //       v168=请求路径不再强制回源
                                   //       v167=去掉 docver meta
@@ -293,7 +294,10 @@ async function cacheFirstDoc(req, name) {
      表现为「更新后第一次请求直接卡住」。
      普通 fetch 可以用 HTTP 缓存，快得多；「拿到真·最新 HTML」的职责交给
      install 预缓存（它在后台跑，不阻塞页面）。 */
-  const net = await fetch(req);
+  /* no-cache = 带条件请求重新校验：内容没变回 304（几乎零流量），变了才真下载。
+     不能用 'reload'（强制重下 1.4MB，弱网下卡住），
+     也不能用默认（直接吃 HTTP 缓存的 max-age=600 旧 HTML → 刷很多次才更新）。 */
+  const net = await fetch(req, { cache: 'no-cache' });
   if (net && net.status === 200) { try { c.put(req, net.clone()); } catch (_) {} }
   return net;
 }
