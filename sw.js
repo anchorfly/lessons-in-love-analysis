@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v182';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v183';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v183=gpmex 英文标题也去掉 EX：The Blissful Biosphere EX・X → The Blissful Biosphere・X
                                   //       v182=gpmex 中文标题去掉 EX：极乐生物圈 EX・X → 极乐生物圈・X
                                   //       v181=回退流程控制行过滤（jump/if/else/menu 恢复显示）
                                   //       v180=过滤流程控制代码行
