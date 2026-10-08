@@ -6,16 +6,21 @@
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#16181d">
 <link rel="preload" as="image" href="pic/chikathumb1.png"><link rel="preload" as="image" href="pic/yumithumb1.png"><link rel="preload" as="image" href="pic/ayanethumb1.png"><link rel="preload" as="image" href="pic/sanathumb1.png"><link rel="preload" as="image" href="pic/makotothumb1.png"><link rel="preload" as="image" href="pic/mikuthumb1.png"><link rel="preload" as="image" href="pic/futabathumb1.png"><link rel="preload" as="image" href="pic/rinthumb1.png"><link rel="preload" as="image" href="pic/amithumb1.png"><link rel="preload" as="image" href="pic/mayathumb1.png"><link rel="preload" as="image" href="pic/mollythumb1.png"><link rel="preload" as="image" href="pic/tsuneyothumb1.png"><link rel="preload" as="image" href="pic/utathumb1.png"><link rel="preload" as="image" href="pic/iothumb1.png"><link rel="preload" as="image" href="pic/nodokathumb1.png"><link rel="preload" as="image" href="pic/otohathumb1.png"><link rel="preload" as="image" href="pic/toukathumb1.png"><link rel="preload" as="image" href="pic/yasuthumb1.png"><link rel="preload" as="image" href="pic/norikothumb1.png"><link rel="preload" as="image" href="pic/kirinthumb1.png"><link rel="preload" as="image" href="pic/sarathumb1.png"><link rel="preload" as="image" href="pic/harukathumb1.png"><link rel="preload" as="image" href="pic/kaorithumb1.png"><link rel="preload" as="image" href="pic/chinamithumb1.png"><link rel="preload" as="image" href="pic/karinthumb1.png"><link rel="preload" as="image" href="pic/makithumb1.png"><link rel="preload" as="image" href="pic/yukithumb1.png"><link rel="preload" as="image" href="pic/nikithumb1.png"><link rel="preload" as="image" href="pic/wakanathumb1.png"><link rel="preload" as="image" href="pic/osakothumb1.png"><link rel="preload" as="image" href="pic/tsubasathumb1.png"><link rel="preload" as="image" href="pic/tsukasathumb1.png"><link rel="preload" as="image" href="pic/imanithumb1.png"><link rel="preload" as="image" href="pic/rikathumb1.png"><link rel="preload" as="image" href="pic/naothumb1.png">
-<meta name="docver" content="lil-doc-v183">
+<meta name="docver" content="lil-doc-v184">
 <title>LIL 事件导航</title>
 <style>
-  :root{ --bg:#16181d; --panel:#1d2027; --panel2:#23262f; --text:#e6e6e6; --muted:#9aa0aa; --accent:#5b8def; --warn:#e06464; --line:#2c303a; background:var(--bg); color:var(--text); color-scheme:dark; }
+  :root{ --bg:#16181d; --panel:#1d2027; --panel2:#23262f; --text:#e6e6e6; --muted:#9aa0aa; --accent:#5b8def; --warn:#e06464; --line:#2c303a; background:var(--bg); color:var(--text); color-scheme:dark;
+          --padx:clamp(20px,2vw,44px); }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.5}
+  /* 第三层级（有正文框的页面：事件页 / 短信页）—— 左右留白收窄，正文用满可用宽度。
+     header 的 .top/.crumbs 与 main 共用 --padx，所以收窄时左边缘仍严格对齐。
+     2026-10-08 用户：「第三层级宽度自适应时左右两边空隙留太大了」。 */
+  body.hasContent{ --padx:clamp(10px,1.4vw,30px); }
   header{position:sticky;top:0;z-index:10;background:rgba(22,24,29,.95);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);padding:8px 0}
   /* header 的两行与 main 用同一套容器参数（max-width 1200px + 相同的左右内边距），
      这样超宽屏下面包屑和搜索框仍与正文框左边缘对齐，不会甩到最左边。 */
-  .top{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1200px;margin:0 auto;padding:0 clamp(20px,2vw,44px)}
+  .top{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1200px;margin:0 auto;padding:0 var(--padx)}
   h1{font-size:clamp(18px,1.1vw + 10px,30px);margin:0;font-weight:600;letter-spacing:.5px}
   /* 搜索框宽度：在第一版基础上再缩 1/3（用户反馈仍偏长）。
      标题 220→146px、label 150→100px；flex:0 1 auto 保证窄屏可收缩。 */
@@ -23,16 +28,18 @@
   #searchTitle{width:146px}
   #searchLabel{width:100px}
   .search:focus{outline:none;border-color:var(--accent)}
-  .zoom{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--muted);flex:0 0 auto}
+  /* 文本大小滑块：只在「第三层级」（有正文框的页面）显示 —— 其它层级没有正文可调。 */
+  .zoom{display:none;align-items:center;gap:6px;font-size:12px;color:var(--muted);flex:0 0 auto}
+  body.hasContent .zoom{display:flex}
   .zoom input[type=range]{width:120px;accent-color:var(--accent);cursor:pointer}
   .zoom #zoomVal{min-width:0;text-align:left;color:var(--text);font-variant-numeric:tabular-nums}
-  .crumbs{margin-top:8px;font-size:15px;color:var(--muted);max-width:1200px;margin-left:auto;margin-right:auto;padding:0 clamp(20px,2vw,44px)}
+  .crumbs{margin-top:8px;font-size:15px;color:var(--muted);max-width:1200px;margin-left:auto;margin-right:auto;padding:0 var(--padx)}
   /* 非首页层级隐藏搜索框（只在首页显示）。例外：搜索结果页要保留，见 runSearch。 */
   body.sub #searchTitle, body.sub #searchLabel{display:none}
   .crumbs a{color:var(--accent);cursor:pointer;text-decoration:none}
   .crumbs a:hover{text-decoration:underline}
   .crumbs .sep{margin:0 8px;opacity:.5}
-  main{padding:clamp(14px,1.2vw,26px) clamp(20px,2vw,44px) clamp(32px,3vw,56px);max-width:1200px;margin:0 auto}
+  main{padding:clamp(14px,1.2vw,26px) var(--padx) clamp(32px,3vw,56px);max-width:1200px;margin:0 auto}
   .section-title{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1.2px;margin:18px 0 8px}
   .section-title:first-child{margin-top:4px}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}
@@ -60,7 +67,7 @@
   h2.grp{margin:22px 0 8px;font-size:15px;font-weight:600;color:#f0c674;border-left:3px solid #f0c674;padding-left:10px;line-height:1.3}
   h2.grp:first-of-type{margin-top:4px}
   h2.grp .cnt{color:var(--muted);font-weight:400;font-size:12.5px}
-  .content{background:#0e0f12;border:1px solid var(--line);border-radius:10px;padding:clamp(16px,1.2vw,28px);font-family:ui-monospace,Menlo,Consolas,monospace;--cfs:calc(13px * var(--zoom,1));font-size:var(--cfs);line-height:1.55;max-height:85vh;min-height:calc(100vh - 190px);overflow:auto;margin-top:0}
+  .content{background:#0e0f12;border:1px solid var(--line);border-radius:10px;padding:clamp(12px,1vw,24px);font-family:ui-monospace,Menlo,Consolas,monospace;--cfs:calc(13px * var(--zoom,1));font-size:var(--cfs);line-height:1.55;max-height:85vh;min-height:calc(100vh - 190px);overflow:auto;margin-top:0}
   /* 翻页后程序化聚焦正文框（tabindex=-1），不要显示浏览器默认的白色焦点框 */
   .content:focus,.content:focus-visible{outline:none;box-shadow:none}
   .content::-webkit-scrollbar{width:9px}
@@ -733,6 +740,15 @@ zoomEl.addEventListener('input', () => applyZoom(parseFloat(zoomEl.value)));
 })();
 
 goHome();
+
+/* 第三层级标记（2026-10-08）：页面出现 .content（事件/短信正文框）时给 body 加 hasContent。
+   用途：① 文本大小滑块只在第三层级显示 ② 左右留白收窄。
+   挂 MutationObserver 而不是改十几个 open* 函数 —— 所有层级自动覆盖，将来新增也生效。 */
+(function(){
+  const sync = () => document.body.classList.toggle('hasContent', !!main.querySelector('.content'));
+  new MutationObserver(sync).observe(main, {childList:true, subtree:true});
+  sync();
+})();
 </script>
 <script>
 // 第二层滚动位置记忆（方案 A，2026-09-03 新增，do NOT remove）：
