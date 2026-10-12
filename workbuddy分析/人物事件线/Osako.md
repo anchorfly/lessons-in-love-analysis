@@ -14,13 +14,13 @@
 - **核心弧线**：从"Wakana's Osako"走向自塑。osakodate15 里 Sensei 第一次点破："It just sounds kind of like you stopped existing as {i}Osako{/i} once you met her. Now you're just {i}Wakana's{/i} Osako."她承认这是"my greatest fear of all"，却拒绝因此改变（"fear is something that is meant to be confronted, not avoided"）。osakospring4 她启动"Osako 2.0 — the new, confident and cool model"，目标是"one whose existence doesn't entirely revolve around her partner"。osakospring5 里她对 Noriko 说出一个更朴素的版本："feeling a little more like...someone who doesn't solely exist for someone else would be nice."osakospring6 里她报告了这条路上唯一的收获——学会享受失败："I kind of like this feeling. Failure."
 - **社交史**：高中时朋友全是社团里的，大学开始和 Wakana 交往后社交圈收缩到只剩她一人（osakodate15）。osakospring9 里她自己总结困境："it's like my existence is just intrinsically tied to all of you guys"。
 - **与 Sensei 的关系是本线的暗骨**：起点是她口中"some asshole-ish creepy guy flirting with the rich girl at my karate class"（osakospring6 原话）；osakospring4 两人把话挑明（Sensei："I {i}want{/i} to be closer."；Osako："Let's...hang out more."）；osakospring6 她成为那个听他亲口说出"Getting a new hobby won't stop me from preying on teenagers, Osako."的成年人。
-- **她是怎么进入《The Girl Who Cannot Breathe》的**：靠 Wakana 的痴迷阅读。osakospring2 她说"I've heard basically everything she's ever written now thanks to Wakana"；chap4 的 springtime9 里她补上一句"I read her poetry too, you know? {i}With{/i} you."这部诗集的作者即 Ami 的母亲，其中反复出现一个只被称为"Boy"的形象（chap4 的 springtime9 里 Wakana 说明："There was a recurring subject in the early works of the Girl Who Cannot Breathe — a child known only as 'Boy'"）。她因此成了恋爱层与"作品内作品"之间的那根线。
+- **她是怎么进入《The Girl Who Cannot Breathe》的**：靠 Wakana 的痴迷阅读。osakospring2 她说"I've heard basically everything she's ever written now thanks to Wakana"；chap4 的 springtime9 里她补上一句"I read her poetry too, you know? {i}With{/i} you."这部诗集的作者即 Ami 的母亲，其中反复出现一个只被称为"Boy"的形象（chap4 的 springtime9 里 Wakana 说明："There was a recurring subject in the early works of the Girl Who Cannot Breathe — a child known only as 'Boy,' who is believed by most to be nothing more than a muse of sorts."）。她因此成了恋爱层与"作品内作品"之间的那根线。
 
 ## 二、love 线逐事件脉络
 
 ### 路由 stub（5 个）
 
-osakodojo、callosakomorning、osakodive、callosakoafternoon、callosakonight。前两个是按时间与章节状态分流的道场/电话入口（osakodojo 依 osako_love、章节标记分别跳转到 osakodojo1、karinspring4、osakospringdojogen、osakosummer2dojogen 或 osakodojogen；osakodive 一律跳 osakospringdivegen）；三个电话 stub 在 senseisad 时由 Sensei 主动挂断，否则拨号无人接听、退回原菜单。均无独立剧情。
+osakodojo、callosakomorning、osakodive、callosakoafternoon、callosakonight。osakodojo 按好感、日期与章节标记分流：osako_love 达标且 osakodojo1 未触发时跳 osakodojo1；secondbeach18 与 christmastwo20 组合下是一段 Osako 不在道场的空场（等不到人，直接入夜）；day > 5 且 beachfive16 触发过、karinspring4 未触发时跳 karinspring4；chap4active 跳 osakospringdojogen；chapthreeactive 跳 osakosummer2dojogen；否则跳 osakodojogen。osakodive 无论章节都跳 osakospringdivegen。三个电话 stub 在 senseisad 时由 Sensei 主动挂断，否则拨号无人接听、退回原菜单。均无独立剧情。
 
 ### osakodojogen — 道场喜剧开场
 
@@ -28,13 +28,13 @@ Sensei 承认自己来道场不是练空手道，而是"slack off and closely mo
 
 ### osakodate1 — 周年纪念夜谈
 
-起因是 Wakana 第一次主动联系了 Osako 以外的人（"It's the first time Wakana's ever gone out of her way to contact anyone who isn't me"），而那个人是 Sensei，于是 Osako 在周年纪念日当晚把他叫出去"谈谈"。走到便利店之前，两人已经把话说到了本线的核心：
+起因是 Wakana 第一次主动联系了 Osako 以外的人（"It's the first time Wakana's ever gone out of her way to contact anyone who isn't me"），而那个人是 Sensei——Wakana 为了给他做饭甚至向他求助，于是 Osako 在周年纪念日当晚把 Sensei 叫出去"谈谈"。走到便利店之前，两人已经把话说到了本线的核心：
 
-> o: I'm totally in love with Wakana and, despite her tendency to repeat the same thing over and over and over, she's always been a little unpredictable.
+> os: I'm totally in love with Wakana and, despite her tendency to repeat the same thing over and over and over, she's always been a little unpredictable.
 
 她坦白大学时就发誓要守护 Wakana 一辈子"even if she didn't want me to"，并承认自己"a little...defensive"，"Not just with myself but with anything I want to protect"。真正让她不安的是 Wakana 对 Sensei 热络得太快——"Wakana warmed up to you almost right away. Way quicker than she did with me"。她把恐惧说成两件：怕被"偷走"女朋友，更怕 Wakana 自己发现她想要的是别的东西。Sensei 反问：既然真的在乎她，难道不该希望她弄清自己到底想要谁？她的回答是把两件事分开——"I do. But that doesn't mean I'm not going to worry about it as well"。末尾她给出那个判词般的自我描述：
 
-> o: I guess I just think everything right now is a little too good to be true.
+> os: I guess I just think everything right now is a little too good to be true.
 
 便利店内购物段落由旁白收尾：她逛货架的动作"with surgical precision"，说明她常来；而旁白给出一个不设条件的判断——就算两人分手，也能想见 Osako 坐在某处门廊上慢慢老去，脑子里转的仍是 Wakana。临别时她忽然郑重起来，感谢他"being a friend to the girl I love more than anything else in the world"，随即用七个压迫点作威胁收尾——这句话在下一场直接兑现。
 
@@ -111,9 +111,9 @@ Osako 顺带把 Wakana 的思维方式讲清楚：学校里看着一板一眼，
 
 本篇结算罕见地注明"Osako's affection has increased by 10! But maybe it's just pity!"。随后系统文本宣告"[[DEPRESSION] has worsened"、"He has learned [[GREATER FACADE]"。夜里旁白否掉了她那句安慰：他躺下时"她"就在身边，用食指指甲在他胸口画圈；他什么也感觉不到，却记得从前她把指甲咬得太短、画着同样的圈时划出的血。这段落为"她还能伤人"提供了叙述者层面的证据。
 
-### osakospring3 — 教练办公室：建议你试一次男人
+### osakospring3 — 办公室：建议你试一次男人
 
-开场是 Imani 与 Wakana 在办公室谈运动会安排：1-A 班被其他班级集体拒绝同场竞技，只能"与自己比"，Wakana 让 Imani 自己想办法，并把"别在有成年男人旁观的情况下走光"作为唯一附加条件。Imani 摔门离开后，镜头转到办公桌下——Osako 正在给 Wakana 口交，而且已经做了约三十分钟。
+开场是 Imani 与 Wakana 在办公室谈运动会安排：1-A 班被其他班级集体拒绝同场竞技，只有它"与自己比"，其余班级照常互相比赛，Wakana 让 Imani 自己想办法，并把"别在有成年男人旁观的情况下走光"作为唯一附加条件。Imani 摔门离开后，镜头转到办公桌下——Osako 正在给 Wakana 口交，而且已经做了约三十分钟。
 
 这场戏表面是情色喜剧，实际是一次关系危机的当庭审理。Osako 一开口就问："You're not enjoying this at all, are you?"她分不清是 Wakana 湿了还是只有自己的口水；Wakana 先玩笑（"Can you not tell by how wet I am?"）、再安抚（"If I wasn't enjoying it, I'd simply close my legs and crush your skull"），最后给出实情：因为旧伤，"It's just harder for me to {i}finish{/i}"，"Orgasms just...they're rare. But just because I don't always {i}finish{/i} doesn't mean I'm not enjoying what we do"。她还说今天叫 Osako 来，本就是为了补偿自己近期的疏忽，因为 Osako 喜欢在半公开的地方做爱。
 
@@ -139,7 +139,7 @@ Osako 剪了短发。Sensei 立刻把它读成"a breakup move"，她半否认—
 
 > os: Regaining my confidence is just one step on the way to a new me — one whose existence doesn't entirely revolve around her partner.
 
-她承认这个动作的动机正是 Sensei 在 osakodate15 说过的话——"has just finally weighed on her a little too much with some of the things I've been saying to her"。至于怎么做，她毫无头绪："All I do apart from letting Wakana put stuff inside me is work. I think I need to...find a hobby or something." Sensei 能提供的唯一共同点只有色情片，于是三人（Osako、Sensei、Maki）聚在 Maki 的"MILF of the Month"俱乐部看本月明星 Reiko Kobayakawa。
+她交代了这条路的由来：自己长期以来对这段关系的忧虑，"终于压得她有点受不了了，因为我对她说了那些话"——剪发就是她的回应。至于怎么做，她毫无头绪："All I do apart from letting Wakana put stuff inside me is work. I think I need to...find a hobby or something." Sensei 能提供的唯一共同点只有色情片，于是三人（Osako、Sensei、Maki）聚在 Maki 的"MILF of the Month"俱乐部看本月明星 Reiko Kobayakawa。
 
 观影间隙的对话才是重点。Sensei 说和她在一起很放松，因为"everyone else I know wants to sleep with me"；并第一次把友谊的要求说出口——"We {i}can{/i} be closer. I {i}want{/i} to be closer."被追问动机时，他给出的理由是共犯式的：
 
@@ -188,7 +188,7 @@ Noriko 断言这两人能彼此救（"both of you can help each other"），Osak
 
 Sensei 随即宣布"我想我会辞职"，她把界线划得很清楚："They're important to you...and that's okay. It's everything else you're doing that's not."离场前两人约定继续一起上课："This doesn't have to just be for me anymore. We can figure shit out together."
 
-归途插入一段刺目的意识闪回：夜色里传来 Kaori 与 Nao 的日常说话声，他意识到自己夺走了 Nao 的第一次之后几乎没再看过她——"I took her first time and have barely looked at her since"，"She probably doesn't even realize what happened"，最后一句是"One more word and I would have kicked down the door."
+归途插入一段刺目的意识闪回：夜色里传来 Kaori 与 Nao 的日常说话声，旁白写道他夺走了 Nao 的第一次之后几乎没再看过她——"I took her first time and have barely looked at her since"，"She probably doesn't even realize what happened"，最后一句是"One more word and I would have kicked down the door."
 
 ### osakospring7 — 道场避难所：Niki、Ayane 与母亲的课题
 
@@ -220,7 +220,7 @@ Ayane 对自己的状态给出了一段极其精确的描述：她确证这不�
 
 > ay: But the weirdest part is that I feel like I've felt this way before. That I've had this exact conversation before. Just with someone else where you are now.
 
-她还说自己像是忘了"怎么快乐"，连想到快乐都会内疚；房间里贴满了她偷拍的 Sensei 睡照。Osako 承认自己也有同款空洞——"I'm the same way too, you know. Just with {i}purpose{/i} as a concept"。
+她还说自己像是忘了"怎么快乐"，连想到快乐都会内疚；房间里摆着一整批 Sensei 的照片，她最喜欢的还是他睡着时的那批。Osako 承认自己也有同款空洞——"I'm the same way too, you know. Just with {i}purpose{/i} as a concept"。
 
 话题随后滑向生育。Ayane 问她想不想要孩子，她先用"我不可能是母亲，我对小孩一窍不通"挡，Ayane 指出那是另一回事（"You can be horrible with them and still want them"）。她于是层层加码：不自信、孩子会彻底改变生活、以及最关键的一条——Wakana 讨厌小孩，"She'd never agree to this. She'd be signing her life away, and I don't blame her for that at all."Ayane 当场拆穿她的回避方式：
 
@@ -240,9 +240,9 @@ Ayane 临别还想把话说完——"If you {i}do{/i} want to be a mom...but Mis
 
 开场旁白用"吃飞机的法国人 Michel Lotito"写 Osako 的心脏下沉：这位法国艺人花了两年吃掉一整架 Cessna 150 飞机，靠的是异食癖与消化金属的能力；旁白把这个怪喻接到 Osako 身上——"And this is where the French and Japanese part ways. Because Lotito would have said the thing. And Osako would have chickened out and just gotten the surgery."她心里仍有一部分在问：如果不把那对翅膀烧掉，它们能带她飞多远。
 
-她回到与 Wakana 同住的公寓，手里还替 Wakana 取了处方药。屋里有烛光晚餐、Wakana 穿着礼服等着她——是她们的结婚纪念日，而她忘了。Wakana 说这顿饭靠的是一位与 Akira 某个学生有关的校友的人情（"I just looked up a certain alumni with relations to one of Akira's students"），搬家具、送酒的事则由 Tsukioka 家的仆人代劳。
+她回到与 Wakana 同住的公寓，手里还替 Wakana 取了处方药。屋里有烛光晚餐、Wakana 穿着礼服等着她——是她们的结婚纪念日，而她忘了。Wakana 说这顿饭靠的是一位与 Akira 某个学生有关的校友的人情（"I just looked up a certain alumni with relations to one of Akira's students"），食物与酒水则由 Tsukioka 家的仆人送到。
 
-晚餐谈话把前面几场全部回收了一遍：Wakana 问她去看 Ayane 的结果（她转述 Ayane"feels sort of like she lost something"，Wakana 评"How very {i}teenager{/i} of her"）；处方药是她进门第一句话交代的（"I stopped by the supermarket on the way back to grab your prescriptions"）；提到 Osako 的巫术课与 MILF 俱乐部时说"you're trying at least. And I'd be lying if I said I wasn't proud of you"；还提到 Rika 事后发来的几条醉后短信，以及 Ami（她称其为"Arakawa {i}Jr.{/i}"）居然敢当面说她会是个好母亲。Osako 为自己在 Wakana 沉迷诗集那阵子不够耐心而道歉，并许诺"我会做得更好"。她也再次说出现在的困境：
+晚餐谈话把前面几场全部回收了一遍：Wakana 问她去看 Ayane 的结果（她转述 Ayane"feels sort of like she lost something"，Wakana 评"How very {i}teenager{/i} of her"）；处方药是她进门第一句话交代的（"I stopped by the supermarket on the way back to grab your prescriptions"）；提到 Osako 的巫术课与 MILF 俱乐部时说"you're trying at least. And I'd be lying if I said I wasn't proud of you"；还提到 Rika 事后发来的几条醉后短信，以及 Ami（Wakana 称其为"Arakawa {i}Jr.{/i}"）在与她的一次交流里暗示她会是个好母亲。Osako 为自己在 Wakana 沉迷诗集那阵子不够耐心而道歉，并许诺"我会做得更好"。她也再次说出现在的困境：
 
 > os: It's like an annoying gossip paradox. I think I just need more friends.
 > os: The way it is now, it's like my existence is just intrinsically tied to all of you guys.
@@ -268,7 +268,7 @@ Osako 线的情欲内容集中在三处，全部服务于关系叙事而非奖�
 
 其一是 osakodate20 的成人用品店：DildoSaber 的闹剧之下，是一次关于"谁在服务谁"的坦白——她想让 Wakana 也"赢"一次，玩具只是焦虑的替身，而 Sensei 明确否掉了玩具能解决焦虑这条路。
 
-其二是 osakospring3 的教练办公室：一场被打断的口交写成一次失败的谈判，高潮能力的不对等最终引爆"你要不要试试男人"这颗关系炸弹，并以"mutual affection has decreased by 5"落地。
+其二是 osakospring3 的办公室：一场主动中止的口交写成一次失败的谈判，高潮能力的不对等最终引爆"你要不要试试男人"这颗关系炸弹，并以"mutual affection has decreased by 5"落地。
 
 其三是散落各处的身份喜剧：她反复声明对男性零性趣（osakodate1 里"even if I did like dudes, you're too much of a wimp"；osakodate15 里对 Uta 的"还是不是完完全全的蕾丝边"答"Still a lesbian, but thanks for checking"），Sensei 则以"Hey, we both like women, don't we?"自我安慰；MILF of the Month 观影（osakospring4）把三人放在同一间屋子里检验这条边界，结果是她承认 Kobayakawa"really {i}is{/i} hot"，但仍把"和 Rika 上床"当成比"和他上床"更有可能的选项。欲望在本线里始终是测量亲密与权力的仪表盘，不是目的地。
 

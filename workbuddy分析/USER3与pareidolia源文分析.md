@@ -106,7 +106,7 @@ Yumi 已把日常幻听归于它：
 > N: did you just hear something?（
 > y: I hear something every second of every fucking day now thanks to you.（
 
-梦境内层层叠叠的系统声音轮番登场：押韵双魔 dem1/dem2 宣布她"被标记为 tainted"、语音助手 vpa 广播身份倒置的格言、粉笔板上的双面神自封神格——
+梦境内层层叠叠的系统声音轮番登场：押韵双魔 dem1/dem2 宣布"坏消息在睡前"（dem1 "STICKBUG, STICKBUG, BURIED IN THE GRASS..."、dem2 "NO AMOUNT OF RHYMING WILL DISGUISE THE PAIN YOU FEEL..."，并预告 "YOU JUST NEED TO MAKE IT TO THE END OF THE GAME AND HOPE THE CORRECT WORDS ARE TYPED INTO THE WORDBOX."）、语音助手 vpa 先播报天气再宣布 Yumi "has been identified as 'tainted'"（第 8648–8649 行，被标记为污染态的命令出自 vpa 而非 dem1/dem2）并推销 "our patented cure"、最后是身份倒置的格言与粉笔板上的双面神自封神格——
 
 > vpa: And remember — there is no {i}you{/i} in Yumi. But there is Yumi in you.（
 > mig: I am Migi, the God of Chalk.（
@@ -238,4 +238,32 @@ USER3 即 pareidolia：一边在 beachwars 向玩家弹出连接请求（chap3�
 - **finalwarning 的声音网**：Sensei 听到的"take something that doesn't belong to me"讯息与 Ayane、Ami 各自听到的命令性人声是否同源于 pareidolia 或节目层，仅有症状相似性。
 - **TEMPLATE9** 是什么模板、覆盖多少角色：Nao 现场一次恢复即复原了整个事件状态，暗示备份粒度远超单个 NPC。
 - **重置次数的记账者**：MayaEvents 宣告"ONLY SEVERAL MORE RESETS ARE PERMITTED"，计数与宣告的主体始终隐身。
+
+---
+
+## 附：证据锚点（引文 → 文件:行号，2026-10-12 全库核对）
+
+**pareidolia 首秀（SanaEvents）**："hello again" 5502｜"you really should have heeded the warning / quit playing this game" 5506｜"you can call me pareidolia" 5513｜"our own demons" 5526｜"most i've spoken...probably ever" 5529｜"i become stronger" 5530｜"i'm not the only one growing" 5532｜"turning your screen black" 5548｜"take your absence as a yes" 5541｜"i am the only one who knows {i}how{/i} to use you" 5640。
+
+**streets10（YumiEvents 802 起）**：six "Tell me you see me."｜"Welcome to Lessons in Love, an adult dating simulation game!"（bonus 侧；非 bonus 侧为 "A happy, all-ages video game that was definitely not censored in any way!"）｜hex "61 20 77 6f 72 6c 64..." 1018（"a world in which we love"）。
+
+**yumispring2（YumiEvents）**："nana-nana poo-poo" 6210｜"you can have your brain back now / here, try again" 6239｜Ramen girl 转述（紧随其后）。
+
+**yumispring6（YumiEvents）**："Tell me, Friend — what did you dream of last night?" 8122｜"I grow within you like that dragon grows in her" 8129｜"Would you like to go back, Yumi?" 8142｜"Cultivate me!" 8373｜"i don't have hands" 8907。
+
+**yumispring7（YumiEvents 8473 起）**：q  stickbug 押韵段 8479–8509｜"oh my fucking me" 8523｜"did you just hear something" 8550｜"every second of every fucking day" 8552｜dem1/dem2 8635–8645｜vpa "tainted"+"patented cure" 8648–8650｜"in Yumi. But there is Yumi in you" 8650｜Migi/Hidari 8847–8852｜"cut off my consciousness / randomly stopped believing in me" 8886。
+
+**yumispring8（YumiEvents）**："There was a voice in her head..." 9092。
+
+**yumispring10（YumiEvents）**：Yumi "Parei-" 10138｜sev "One thing we're all dying to know...Code of Joy" 10167｜"yumi. get me out of here"（紧接 10167 后）｜"Wrong answer!"｜"it never changes / not even with a key" 10190。
+
+**新声音划界（YumiEvents）**："A girl was at war with a thing inside of the girl and I am a new voice..." 8541（斜体大写临时向导）。
+
+**USER 体系**：USER1 登录（AmiEvents 5170）｜USER2 宿主/感染/移除（chap4 20536–20544）｜Sensei 发问（script 33901）｜TEMPLATE9 异常→USER4 恢复（NaoEvents 2453–2458）｜TERMINAL 22（NaoEvents 3062）｜TERMINAL 23 两度被 USER2 夺取（ch2script 16522、20087）、服务中断（RinEvents 1210）、最终 USER3 接管（script 34095）、接管前独白 "It is times like these that I wish I could love."（script 34090）｜USER3 连接请求（script 36697–36698）。
+
+**postwarsix1（chap4part2 5031 起）**："You're being watched again." 5051｜hex 双行 5052–5053。
+
+**节目层**：sev "Horseface Taki"（AyaneEvents 10776 等多处）｜taki "six missing Maya pieces"（flowers 63）。
+
+**finalwarning**："take something that doesn't belong to me"（finalwarning 4107，循环叙事旁白）。
 

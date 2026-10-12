@@ -1,16 +1,16 @@
 # Nao 事件线全析
 
 > 源文件：NaoEvents.rpy ｜ 共 11 个剧情 label：naospecial1／naospecial2／naospecial3／naocamp1／naocamp2／halloweennao1／halloweennao2／naospring1／naospring2／naospring3／naospring4
-> 定位：全作把"角色是什么"摊得最开的一条线——一个发不出声音、异色瞳、会画画的女孩，能把 Sensei 一并拖进自称为神者的会面场所，并被系统当作 TEMPLATE9 从 USER4 的备份里恢复。
+> 定位：全作把"角色是什么"摊得最开的一条线——一个发不出声音、异色瞳、会画画的女孩，在 naospring1 与 naospring4 里两度把 Sensei 带进自称为神者的会面场所，并在 naocamp2 结尾被系统当作 TEMPLATE9 从 USER4 的备份里恢复。
 > 阅读提示：正文为纯论述，label 名是唯一锚点；台词直引以 `>` 起头。前缀：na＝Nao、s＝Sensei、a＝Ami、k＝Kaori、c＝Chika、ch＝Chinami、n＝Noriko、t＝Tsuneyo、os＝Osako、w＝Wakana、m＝Maya、m2＝Maya 2、q＝湖边少女（对话框显示「???」，Yuu 当面叫她 Miu）、yuu＝Yuu、flo＝Floral Laura、amb＝Amber、p1/p2/p4＝三株植物主持、john＝公鸡 John、foxgirl＝Student #21、tsurumi＝Tsurumi、moyo＝Moyo、sev＝名字以十六进制串 "79 6f 75 64 69 64 69 74"（解为 youdidit）登记的说话者。
 
 ## 一、角色基本盘
 
 - **发不出声音**：她的全部台词是由感叹号、问号与省略号组成的情绪串（"!..."、"?!?!?!"、"............"），另靠点头、手势与表情表意。naospecial3 里 Sensei 让她张嘴试试，确认结果是"so you can't make any noise even if you want to, huh?"——不是不肯说，是说不出。他自己给了一个猜测："Maybe your...vocal cords just need to grow in or something first?"
 - **沟通方式的三段变化**：naospecial1 她举的是 Kaori 预先写好、靠翻页找内容的牌子，Ami 当场指出"她不是在写，是在翻已经写好的内容"；naospecial2 里 Kaori 预备的笔记本被她忘在公交车上；到 naocamp2，Sensei 惊讶地问 "Since when do you know how to write?"，并说这是第一次不必受困于 "Kaori's premade notebooks"。此后她一路用笔记本：naospring2 能用它与 Osako 长谈，naospring3 则特意点明这一次她"没有笔记本"。
-- **异色瞳**：一只眼睛是 Ami 的颜色，另一只是 Maya 的。naospecial1 里 Ami 先夸她有异色瞳，接着问 "Isn't that...the same color as mine?"，再说 "And isn't the other one the same color as-" 便被打断；naospecial3 的 Noriko 分支里 Noriko 直接问 "why do her eyes look like a cross between Ami's and Maya's?"，Sensei 答 "Because they are."；halloweennao2 里他称她是 "the girl who appeared out of nowhere and bears the eyes of the two most important girls in the world to me"；naospring3 的旁白写成"她为住在这栋楼里的两个女孩各带了一只眼睛"。
+- **异色瞳**：一只眼睛是 Ami 的颜色，另一只是 Maya 的。naospecial1 里 Ami 先夸她有异色瞳，接着问 "Isn't that...the same color as mine?"，再说 "And isn't the other one the same color as-" 便被打断；naospecial3 的 else 分支里 Noriko 直接问 "why do her eyes look like a cross between Ami's and Maya's?"，Sensei 答 "Because they are."；halloweennao2 里他称她是 "the girl who appeared out of nowhere and bears the eyes of the two most important girls in the world to me"；naospring3 的旁白则写成"一个只是偶尔见过的女孩——为住在这栋楼里的每个姑娘各带了一只眼睛"。
 - **身世与监护**：没有姓氏（"She doesn't have one. Well...at least not one anybody knows yet."），年龄无人知晓。Kaori 在照看她，Sensei 称其为 "Kaori's surrogate daughter"。naocamp2 里他追问：为什么她偏偏在"Kaori 收到一张印着你卫衣汉字的藏宝图几小时后"就出现了。naospring2 中她在笔记本上把他写成"像她的爸爸"，但 Osako 念出来时紧接着说明"是他们一起'找到'她的，所以这不是收养那一类"。
-- **画**：naospecial3 里 Tsuneyo 递给她"一小把彩色自动铅笔和一张硬得可疑的纸"；她画出的东西被 Noriko 说成 "It's a sweet album cover"，Sensei 追问画的来历时画面断裂，没得到回答。naospring4 里她画纸中伸出一条手臂（舞台提示 "(Arm emergence)"），把她和 Sensei 一起拖进画中。
+- **画**：naospecial3 里 Tsuneyo 递给她"一小把彩色自动铅笔和一张硬得可疑的纸"；她画出的东西被 Noriko 说成 "It's a sweet album cover"，Sensei 追问画的来历时画面断裂，没得到回答。naospring4 里她画纸时纸中伸出一条手臂（舞台提示 "(Arm emergence)"），把她和 Sensei 一起拖进画中。
 - **她能把人送去别处**：naospring1 里 Sensei 问 "Can't you just send us back again? Like you did in the Old District?"；halloweennao2 里他质问 "How did you send me to...to wherever I just was"。naospring2 中他本人把这类经历概括为"被传送进某个别的口袋维度，然后某个神朝我们扔一堆废话"。
 - **自称为神者的出价**：Amber 说她"正是最能从我这里获益的那类'人类'"，开价给声音与更实在的形体；Great Overlook 上的 sev 说"我们甚至可以给你两个……那样你就跟 Thomas 一样了"。两次都以失败收场，sev 的结案陈词是 "I think, if anything, this girl is broken. Which would mean that trying to change her for the better is meaningless."
 - **她自己对性的态度**：naospring4 的旁白直接写出她的盘算——她考虑过借机动手，但"她是个好女孩（像 thomas tongueman）"，要让第一次插入式经验完全出于自愿，而且不要在拉面店里。
@@ -20,7 +20,7 @@
 
 ### naospecial1 — 举牌登门
 
-开场是一段十行的无署名诗，末行署 `- "Mommy"`。Ami 因为 Sensei 睡得不安稳来叫醒他，说楼下有个女孩举着牌子，进屋后一言不发地四处打量。Nao 全程只有 "..."、"!..."、"?!?!?!"。旁白说："the newest character in my life has decided to show up at my door significantly ahead of schedule"，紧接着补一句 "Like...half a decade ahead of schedule."——提前的是五年，旁白明说自己既不知道为什么也不知道怎么做到的，并强调"她不该知道我住哪儿，更不该一个人在 Kumon-mi 乱逛"。
+开场是一段九行的无署名诗（其前三行是三个渐次缩短的句点行），末行署 `- "Mommy"`。Ami 因为 Sensei 睡得不安稳来叫醒他，说楼下有个女孩举着牌子，进屋后一言不发地四处打量。Nao 全程只有 "..."、"!..."、"?!?!?!"。旁白说："the newest character in my life has decided to show up at my door significantly ahead of schedule"，紧接着补一句 "Like...half a decade ahead of schedule."——提前的是五年，旁白明说自己既不知道为什么也不知道怎么做到的，并强调"她不该知道我住哪儿，更不该一个人在 Kumon-mi 乱逛"。
 
 Ami 读出 Kaori 的纸条：开头是 "Greetings, Friendburger. I have to cream all day, so please sit on Nao-chan."，附言请他给 Nao 买"新的身体布料"，还警告"如果她想用你的杯子，别让她用。她是个 mug monster——就是像怪物，但是跟杯子有关的那种怪物"。Sensei 把"sit on"翻译成照看小孩；Ami 顺带承认自己是因为 Kaori 漂亮才吃醋。Ami 先对 Nao 宣示主权（Sensei 是她的舅舅和监护人，"将来还会是我孩子的父亲"），最后却被对方一句无声的请求打败，替她摸了头，还夸她"不能说话意味着你没法取笑我"。
 
@@ -45,7 +45,7 @@ Kaori 在电话里解释送人的理由是"Nao-chan 每天需要四小时社交�
 
 Tsuneyo 全程用点菜的方式与 Nao 沟通，凭"看一眼就知道人想吃什么"替她报了招牌豚骨拉面，并判断她不是本地人——"要么你不懂这是什么地方，要么你比我更懂，而我在这儿待了一辈子，所以只能是前者"。她从后厨翻出"一小把彩色自动铅笔和一张硬得可疑的纸"让 Nao 打发时间，还索要五星好评。Nao 画完后举给 Sensei 看，Noriko 说是 "It's a sweet album cover"，Tsuneyo 点破"她想要的是你夸她"；Sensei 照做（"Good job, Nao... I'm very proud of you."），画被 Tsuneyo 贴到后厨冰箱上。Noriko 低声评价："Tsuneyo's in, like...mom mode right now."
 
-事件结算（naospecial3 = True、好感 +1）之后，夜空下插入一段未署名的四行诗（"A solemn thing—it was—I said— / A woman—white—to be— / A hallowed thing—to drop a life / Into the purple well—"，即 Emily Dickinson 的诗，源文未署名）。随后 Sensei 送 Nao 回 Kaori 的公寓，路上追问那幅画的来历——"是你自己想出来的吗？"——她答不上来，画面在静电与长停顿中反复闪切（naobusramen67／68 交替），脚本置位 `$ letsgoexploring = True`，当日结束。
+事件结算（naospecial3 = True、好感 +1）之后，夜空下插入一段四行诗（"A solemn thing—it was—I said— / A woman—white—to be— / A hallowed thing—to drop a life / Into the purple well—"，源文未署名）。随后 Sensei 送 Nao 回 Kaori 的公寓，路上追问那幅画的来历——"是你自己想出来的吗？"——她答不上来，画面在静电与长停顿中反复闪切（naobusramen67／68 交替），脚本置位 `$ letsgoexploring = True`，当日结束。
 
 ### naocamp1 — 林间：Floral Laura 与红门小屋
 
@@ -82,6 +82,8 @@ Tsuneyo 全程用点菜的方式与 Nao 沟通，凭"看一眼就知道人想吃
 > //////////////////////TEMPLATE9 CAN NOT BE LOCATED
 > //////////////////////RESTORING BACKUP FROM "USER4"
 > //////////////////////...
+> //////////////////////...
+> //////////////////////...
 > //////////////////////TEMPLATE9 HAS BEEN RESTORED
 
 事件以晴夜空和一句 "I'm glad I decided to spend some time alone. But what should I do now?" 收尾，标记 naocamp2 = True，转入 campmenu2。
@@ -92,13 +94,13 @@ Ayane 家的万圣节派对上 Nao 突然出现：Chika 高喊 "AN ANGEL HAS GRA
 
 Nao 只肯用手势。Chika 提议由自己和 Ayane 代劳，Nao 坚持"只要 Sensei"；Ayane 不放心（"光是她出现在这里就已经够怪了，而这件事还只有你能帮上忙"），Sensei 还是跟着出去了。
 
-出门后是 Sensei 脑中那个声音的插话：它管他叫 "akira"，怂恿 "this is clearly your chance to fuck her"，并自称 "because i'm a fucking god or something, right? how else would i be able to make a little bitch like you see and hear and do a whole bunch of really cool stuff?"；被反问"你知道这女孩是谁吗？她怎么来的？"时它答不上来——"i don't have all the answers... that {i}thing{/i} lies beyond the boundaries of it. but {i}man{/i} does it look like it'd be fun to FUCK."。他把它压了回去（"that nagging voice in the back of my head that may or may not just be a get out of jail free card"）。
+出门后是 Sensei 脑中那个声音的插话：它怂恿 "this is clearly your chance to fuck her"，并自称 "because i'm a fucking god or something, right? how else would i be able to make a little bitch like you see and hear and do a whole bunch of really cool stuff?"；被反问"你知道这女孩是谁吗？她怎么来的？"时它答不上来——"i don't have all the answers... that {i}thing{/i} lies beyond the boundaries of it. but {i}man{/i} does it look like it'd be fun to FUCK."。他把它压了回去（"that nagging voice in the back of my head that may or may not just be a get out of jail free card"）。
 
-Nao 招来巨鸡 John 代步（"Aboard the back of a giant chicken, I have some time to think of a few things."）。他一路自问：为什么鸟比这个"可能有问题的孩子"更容易听懂；"Monsters pretending to be humans? Or humans pretending to be humans?"；"我比她更危险，不是吗？就算她真是某种不可名状的恐怖"。他还提到自己很久没听见 John 和 Noodles 的声音了。他试探着问 Nao"是不是根本没有紧急情况，你只是想把我从那个派对上弄走、好保护我"，并提到"去年万圣节过得不太好"。事件标记 halloweennao1 = True，转入 halloweennao2。
+Nao 一阵比划后，Sensei 发现自己骑上了巨鸡的背（"Aboard the back of a giant chicken, I have some time to think of a few things."）。他一路自问：为什么鸟比这个"可能有问题的孩子"更容易听懂；"Monsters pretending to be humans? Or humans pretending to be humans?"；"我比她更危险，不是吗？就算她真是某种不可名状的恐怖"。他还提到自己很久没听见 John 和 Noodles 的声音了。他试探着问 Nao"是不是根本没有紧急情况，你只是想把我从那个派对上弄走、好保护我"，并提到"去年万圣节过得不太好"。事件标记 halloweennao1 = True，转入 halloweennao2。
 
 ### halloweennao2 — 迷你屋是一道门，TERMINAL 22
 
-两人在学校落地，John 丢下一句 "BACAWK! (Later, bro.)" 就走了——Sensei 听得懂，Nao 听不懂。Ami 打来电话，他挂断，旁白说"我不再害怕了"。Nao 把他带到足球场边的一座迷你屋前，他先当成"玩偶之家"，画面闪回后改口：
+骑鸡抵达学校后，John 丢下一句 "BACAWK! (Later, bro.)" 就走了——Sensei 听得懂，Nao 听不懂。Ami 打来电话，他挂断，旁白说"我不再害怕了"。Nao 把他带到足球场边的一座迷你屋前，他先当成"玩偶之家"，画面闪回后改口：
 
 > it is a gate
 
@@ -126,7 +128,7 @@ Nao 招来巨鸡 John 代步（"Aboard the back of a giant chicken, I have some 
 
 ### naospring1 — 卡拉OK包厢与重建之神 Amber
 
-Kaori 与 Yumi 把 Sensei 拉进卡拉OK包厢（他讨厌包厢，Yumi 当场吐槽他"宁可带我去爱情旅馆也不进卡拉OK"）。两人出去买饭后，Nao 抓起沙锤摇了三下，让他下意识地许了个愿；随后她改用纸笔，Sensei 猜出她的意思——"You don't want me to {i}sing,{/i} do you?"（他本就极不愿唱，"在这里要么世界爆炸，要么我差点性侵别人"）。她接着指向空无一物的角落，他问"你是让我走？"，紧接着 Sensei 忽然喊出 "I AM GONE AND YOU CAN'T SEE ME. HAHAHAHAHAHA! / SING, NAO-CHAN! SING!"。画面切黑，只留下一行 "na (BREATHES IN)"、一声摔盘声与 "na (BREATHES OUT)"，两人就此离开了包厢。
+Sensei、Nao 与 Kaori、Yumi 四人在卡拉OK包厢（他讨厌包厢，Yumi 当场吐槽他"宁可带我去爱情旅馆也不进包厢"）。Kaori 与 Yumi 出去买饭后，Nao 抓起沙锤摇了三下，让他下意识地许了个愿；随后她改用纸笔，Sensei 猜出她的意思——"You don't want me to {i}sing,{/i} do you?"（他本就极不愿唱，"在这里要么世界爆炸，要么我差点性侵别人"）。她接着指向空无一物的角落，他问"你是让我走？"，紧接着 Sensei 忽然喊出 "I AM GONE AND YOU CAN'T SEE ME. HAHAHAHAHAHA! / SING, NAO-CHAN! SING!"。画面切黑，只留下一行 "na (BREATHES IN)"、一声摔盘声与 "na (BREATHES OUT)"，两人就此离开了包厢。
 
 落点是 "the Oceanic Branch Office"：广播称 "thank you for patiently waiting, {b}Arjuna Harish.{/i} The time has come for your recoordination."，并反复提到 HimawariCo.（"goodbyes are only temporary now. And HimawariCo. can assure you that your family is always just a click away."）。在这个空间里 Sensei 第一次能听懂 Nao 的话；她说自己也不知道是怎么做到的，他提起"你上次在旧城区那回"。屏幕随即打出 "{b}{size=+20}I HAVE BEEN SPOTTED.{/b}{/size}"。
 
@@ -181,7 +183,7 @@ Sensei 上门领人，Osako 开口就叫他 Akira，随即反应过来："{i}you
 
 开场旁白先做统计：Class-1A 宿舍楼那天晚上有三个人正在自慰——Kirin（趁 Noriko 出门取外卖，看女同乱伦片）、Uta（本来没打算，被 Instagram 的 thirst trap 拖下水，正"对抗一支小粉震动棒的微弱嗡鸣"）、Maya Makinami（Ami 在女仆咖啡厅上夜班，她要赶在 11:45 前打完一款 eroge 的青梅竹马线）。
 
-敲门声让她以为是 Sensei（"All of the girls in this building did, because it was a knock that belonged to {i}him.{/i}"），她赶紧把游戏静音。开门却是 Nao——一个"她只是偶尔见过、为住在这栋楼里的两个女孩各带了一只眼睛"的女孩。旁白说明："It was the first time Maya had ever been solicited for sex by someone on the opposite end of an age gap."。Maya 拒绝，一边把她往门外推，一边吐槽"如果你看到一个戴眼镜、长得像恋童癖的大块头，快跑——我可不想多一个热心过头的萝莉来抢生意"。
+敲门声让她以为是 Sensei（"All of the girls in this building did, because it was a knock that belonged to {i}him.{/i}"），她赶紧把游戏静音。开门却是 Nao——一个"她只是偶尔见过、为住在这栋楼里的每个姑娘各带了一只眼睛"的女孩。旁白说明："It was the first time Maya had ever been solicited for sex by someone on the opposite end of an age gap."。Maya 拒绝，一边把她往门外推，一边吐槽"如果你看到一个戴眼镜、长得像恋童癖的大块头，快跑——我可不想多一个热心过头的萝莉来抢生意"。
 
 就在推搡时，Maya 身后凝出"一团中等大小、冒泡搏动的肉块，活像一颗悬浮的肿瘤"，随即变形为"如果她生来没有视力大概会有的样子"：
 
@@ -236,13 +238,13 @@ Great Overlook 被定义为 "a meeting space for those with exaggerated features
 
 ## 三、lust 线概貌
 
-NaoEvents.rpy 里的 11 个 label 全部属于 love 线，没有独立的 Nao lust label；nudes.rpy 与 inappropriatecontent.rpy 中检索不到 Nao 的条目，screens.rpy 的画廊（gallerys／gallerys2，"Memories"）登记的十个 Replay 目标里也没有 Nao 的场景。欲望内容以三种形态内嵌在 love 线里。
+NaoEvents.rpy 里的 11 个 label 都是 love 线事件（其中 halloweennao1 不增加 nao_love），没有独立的 Nao lust label；nudes.rpy 与 inappropriatecontent.rpy 中检索不到 Nao 的条目，screens.rpy 的画廊（gallerys／gallerys2，"Memories"）登记的十个 Replay 目标里也没有 Nao 的场景。欲望内容以三种形态内嵌在 love 线里。
 
 其一，她自己清醒而克制的意愿：naospring4 的旁白写明她考虑过借机动手，却要求第一次插入式经验完全出于自愿、且不在拉面店里；naospring3 里她主动敲 Maya 的门提出性请求（Maya 的旁白称这是她第一次被年龄差距这么大的人求欢），被 Maya 直接拒绝并推出门外。
 
 其二，Sensei 脑中那个声音的怂恿：它在 naocamp2 被他自己称作"我体内的我"，在 halloweennao1 里直白催促他就地占有一个扮成猫的小女孩，并自称"差不多是个神"。这是他的声音，不是她的——旁白在 naocamp2 里明确写到他需要靠 Nao 一个摸头的动作才能压下去。
 
-其三，被标价的"改造手术"：Amber 的茧方案（naospring1）与 sev 一方的灌鱼仪式（naospring4，Moyo 的 "SWALLOW SEED. BECOME NEW."）。在这两处，开口说话不是奖赏，而是要付出代价的改造。三次外来的出价全部落空，结构一致：声音、形体、蜕变都被标价，而她没有成交。
+其三，被标价的"改造手术"：Amber 的茧方案（naospring1）与 sev 一方的灌鱼仪式（naospring4，Moyo 的 "SWALLOW SEED. BECOME NEW."）。在这两处，开口说话不是奖赏，而是要付出代价的改造。两次外来的出价全部落空，结构一致：声音、形体、蜕变都被标价，而她没有成交。
 
 ## 四、与主线/元叙事咬合点
 
