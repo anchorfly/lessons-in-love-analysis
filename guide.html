@@ -6,7 +6,7 @@
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#16181d">
 <link rel="preload" as="image" href="pic/chikathumb1.png"><link rel="preload" as="image" href="pic/yumithumb1.png"><link rel="preload" as="image" href="pic/ayanethumb1.png"><link rel="preload" as="image" href="pic/sanathumb1.png"><link rel="preload" as="image" href="pic/makotothumb1.png"><link rel="preload" as="image" href="pic/mikuthumb1.png"><link rel="preload" as="image" href="pic/futabathumb1.png"><link rel="preload" as="image" href="pic/rinthumb1.png"><link rel="preload" as="image" href="pic/amithumb1.png"><link rel="preload" as="image" href="pic/mayathumb1.png"><link rel="preload" as="image" href="pic/mollythumb1.png"><link rel="preload" as="image" href="pic/tsuneyothumb1.png"><link rel="preload" as="image" href="pic/utathumb1.png"><link rel="preload" as="image" href="pic/iothumb1.png"><link rel="preload" as="image" href="pic/nodokathumb1.png"><link rel="preload" as="image" href="pic/otohathumb1.png"><link rel="preload" as="image" href="pic/toukathumb1.png"><link rel="preload" as="image" href="pic/yasuthumb1.png"><link rel="preload" as="image" href="pic/norikothumb1.png"><link rel="preload" as="image" href="pic/kirinthumb1.png"><link rel="preload" as="image" href="pic/sarathumb1.png"><link rel="preload" as="image" href="pic/harukathumb1.png"><link rel="preload" as="image" href="pic/kaorithumb1.png"><link rel="preload" as="image" href="pic/chinamithumb1.png"><link rel="preload" as="image" href="pic/karinthumb1.png"><link rel="preload" as="image" href="pic/makithumb1.png"><link rel="preload" as="image" href="pic/yukithumb1.png"><link rel="preload" as="image" href="pic/nikithumb1.png"><link rel="preload" as="image" href="pic/wakanathumb1.png"><link rel="preload" as="image" href="pic/osakothumb1.png"><link rel="preload" as="image" href="pic/tsubasathumb1.png"><link rel="preload" as="image" href="pic/tsukasathumb1.png"><link rel="preload" as="image" href="pic/imanithumb1.png"><link rel="preload" as="image" href="pic/rikathumb1.png"><link rel="preload" as="image" href="pic/naothumb1.png">
-<meta name="docver" content="lil-doc-v184">
+<meta name="docver" content="lil-doc-v185">
 <title>LIL 事件导航</title>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-26H942Y9CE"></script>
 <script>
@@ -140,6 +140,16 @@
   [data-lang="zh"] .content .l.en-l.no-zh{display:flex}
   [data-lang="bi"] .content .zh-l.no-zh{display:none}
   .content .loading{color:var(--muted);font-style:italic;opacity:.55}
+  /* ===== 第三层级文本层 Tab 切换（中文 / English / 对照）=====
+     与顶部全局语言切换共用同一 setLang()，状态双向同步：
+     点这里会改变全局 LANG，点顶部按钮也会把这里的高亮刷成一致。
+     位置在正文 .content 之上，故不受 [data-lang] 正文显隐规则影响。 */
+  .langtabs{display:flex;gap:0;border:1px solid var(--line);border-radius:8px;overflow:hidden;
+            flex:0 0 auto;width:max-content;margin:0 0 10px}
+  .langtabs button{background:transparent;border:0;color:var(--muted);padding:5px 16px;
+                   cursor:pointer;font-size:12.5px;font-family:inherit;transition:.12s}
+  .langtabs button:hover{color:var(--text);background:var(--panel2)}
+  .langtabs button.on{background:var(--accent);color:#fff}
 </style>
   </head>
 <body>
@@ -406,6 +416,7 @@ function openSms(i, k){
       : '<span class="navbtn disabled" title="已是本组最后一条短信">下一个 →</span>';
     h += '</div>';
   }
+  h += langTabsHtml();
   h += '<div class="content">'+sms.content+'</div>';
   main.innerHTML = h;
   // 尝试用 events/{label}.json 的三语 lines 替换（若有），保持中/英/对照一致
@@ -690,6 +701,7 @@ function openEvent(i,idx,rel){
   /* 元信息行已去掉（2026-10-04 用户要求）——标题和 label 面包屑里都有，属重复。
      仅保留「可错过事件」徽标（有信息量，且别处没有）。 */
   if(it.missed) h += '<div class="meta"><span class="badge">⚠ 可错过事件</span></div>';
+  h += langTabsHtml();
   h += '<div class="content">'+it.content+'</div>';
   main.innerHTML = h;
   /* 翻页后把焦点交给正文框：.content 是 max-height:85vh + overflow:auto 的滚动容器，
@@ -1031,8 +1043,19 @@ function setLang(l){
   document.body.dataset.lang = l;
   localStorage.setItem("lil_lang", l);
   document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on", b.dataset.l===l));
+  /* 第三层级文本层 Tab 高亮同步：顶部按钮与正文 Tab 共用同一 LANG，状态必须一致 */
+  document.querySelectorAll(".langtabs button").forEach(b=>b.classList.toggle("on", b.dataset.l===l));
   /* 不重渲染：正文显隐由 [data-lang] CSS 控制，标题就地刷新 → 滚动位置/阅读位置保持不变 */
   refreshTitles();
+}
+/* 第三层级文本层的三语 Tab 条（事件正文 / 短信正文共用）。
+   按钮直接调 setLang()，与顶部全局语言切换是同一套状态，双向同步。 */
+function langTabsHtml(){
+  return '<div class="langtabs" role="group" aria-label="文本层语言">'
+    + '<button data-l="zh" class="'+(LANG==='zh'?'on':'')+'" onclick="setLang(\'zh\')">中文</button>'
+    + '<button data-l="en" class="'+(LANG==='en'?'on':'')+'" onclick="setLang(\'en\')">English</button>'
+    + '<button data-l="bi" class="'+(LANG==='bi'?'on':'')+'" onclick="setLang(\'bi\')">对照</button>'
+    + '</div>';
 }
 function _esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
 /* Ren'Py 文本标签 → HTML（与 build_nav.py 的 esc_html_rpy 对齐）
