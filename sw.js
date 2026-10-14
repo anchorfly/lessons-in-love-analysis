@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v186';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v187';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v187=上下事件导航条 sticky 固定 + Tab 键循环切三语 + 撤下正文重复 Tab（先只上 test 版）
                                   //       v186=第三层级文本框高度完全自适应、去内部滚动（先只上 test 版，guide.html 仍 v185）
                                   //       v184=第三层级：文本大小滑块只在正文页显示；左右留白 36→22px
                                   //       v183=gpmex 英文标题也去掉 EX：The Blissful Biosphere EX・X → The Blissful Biosphere・X

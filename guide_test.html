@@ -6,7 +6,7 @@
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#16181d">
 <link rel="preload" as="image" href="pic/chikathumb1.png"><link rel="preload" as="image" href="pic/yumithumb1.png"><link rel="preload" as="image" href="pic/ayanethumb1.png"><link rel="preload" as="image" href="pic/sanathumb1.png"><link rel="preload" as="image" href="pic/makotothumb1.png"><link rel="preload" as="image" href="pic/mikuthumb1.png"><link rel="preload" as="image" href="pic/futabathumb1.png"><link rel="preload" as="image" href="pic/rinthumb1.png"><link rel="preload" as="image" href="pic/amithumb1.png"><link rel="preload" as="image" href="pic/mayathumb1.png"><link rel="preload" as="image" href="pic/mollythumb1.png"><link rel="preload" as="image" href="pic/tsuneyothumb1.png"><link rel="preload" as="image" href="pic/utathumb1.png"><link rel="preload" as="image" href="pic/iothumb1.png"><link rel="preload" as="image" href="pic/nodokathumb1.png"><link rel="preload" as="image" href="pic/otohathumb1.png"><link rel="preload" as="image" href="pic/toukathumb1.png"><link rel="preload" as="image" href="pic/yasuthumb1.png"><link rel="preload" as="image" href="pic/norikothumb1.png"><link rel="preload" as="image" href="pic/kirinthumb1.png"><link rel="preload" as="image" href="pic/sarathumb1.png"><link rel="preload" as="image" href="pic/harukathumb1.png"><link rel="preload" as="image" href="pic/kaorithumb1.png"><link rel="preload" as="image" href="pic/chinamithumb1.png"><link rel="preload" as="image" href="pic/karinthumb1.png"><link rel="preload" as="image" href="pic/makithumb1.png"><link rel="preload" as="image" href="pic/yukithumb1.png"><link rel="preload" as="image" href="pic/nikithumb1.png"><link rel="preload" as="image" href="pic/wakanathumb1.png"><link rel="preload" as="image" href="pic/osakothumb1.png"><link rel="preload" as="image" href="pic/tsubasathumb1.png"><link rel="preload" as="image" href="pic/tsukasathumb1.png"><link rel="preload" as="image" href="pic/imanithumb1.png"><link rel="preload" as="image" href="pic/rikathumb1.png"><link rel="preload" as="image" href="pic/naothumb1.png">
-<meta name="docver" content="lil-doc-v186">
+<meta name="docver" content="lil-doc-v187">
 <title>LIL 事件导航</title>
 <style>
   :root{ --bg:#16181d; --panel:#1d2027; --panel2:#23262f; --text:#e6e6e6; --muted:#9aa0aa; --accent:#5b8def; --warn:#e06464; --line:#2c303a; background:var(--bg); color:var(--text); color-scheme:dark;
@@ -106,7 +106,13 @@
   .scene-cap{display:none}
   .back{display:inline-block;margin-bottom:14px;color:var(--accent);cursor:pointer;font-size:13px}
   .back:hover{text-decoration:underline}
-  .evnav{display:flex;gap:10px;align-items:center;margin-bottom:0}
+  /* 上一个/下一个导航条 sticky 固定（2026-10-14 用户要求：不随滚轮滚走）：
+     top 动态对齐 header 底边（--hdrH 由 JS 实时量，首页/子页 header 高度不同），
+     z-index 低于 header(10) 但盖过正文；背景实色 + 上下 5px 缓冲，
+     负 margin 抵消 padding —— 初始「紧贴面包屑」的视觉不变。 */
+  .evnav{display:flex;gap:10px;align-items:center;margin-bottom:0;
+         position:sticky;top:calc(var(--hdrH,44px) + 3px);z-index:9;
+         background:var(--bg);padding:5px 0;margin-top:-5px}
   /* 事件页首个元素是「上一个/下一个」导航时，去掉 main 的顶部内边距，
      让它紧贴面包屑（用户要求：这两行中间别留空间）。
      其余页面（首页/列表）第一个元素不是 .evnav，不受影响。 */
@@ -138,16 +144,6 @@
   [data-lang="zh"] .content .l.en-l.no-zh{display:flex}
   [data-lang="bi"] .content .zh-l.no-zh{display:none}
   .content .loading{color:var(--muted);font-style:italic;opacity:.55}
-  /* ===== 第三层级文本层 Tab 切换（中文 / English / 对照）=====
-     与顶部全局语言切换共用同一 setLang()，状态双向同步：
-     点这里会改变全局 LANG，点顶部按钮也会把这里的高亮刷成一致。
-     位置在正文 .content 之上，故不受 [data-lang] 正文显隐规则影响。 */
-  .langtabs{display:flex;gap:0;border:1px solid var(--line);border-radius:8px;overflow:hidden;
-            flex:0 0 auto;width:max-content;margin:0 0 10px}
-  .langtabs button{background:transparent;border:0;color:var(--muted);padding:5px 16px;
-                   cursor:pointer;font-size:12.5px;font-family:inherit;transition:.12s}
-  .langtabs button:hover{color:var(--text);background:var(--panel2)}
-  .langtabs button.on{background:var(--accent);color:#fff}
 </style>
   </head>
 <body>
@@ -414,7 +410,6 @@ function openSms(i, k){
       : '<span class="navbtn disabled" title="已是本组最后一条短信">下一个 →</span>';
     h += '</div>';
   }
-  h += langTabsHtml();
   h += '<div class="content">'+sms.content+'</div>';
   main.innerHTML = h;
   // 尝试用 events/{label}.json 的三语 lines 替换（若有），保持中/英/对照一致
@@ -686,7 +681,6 @@ const relPos = RELEASE && RELEASE.items.length
   /* 元信息行已去掉（2026-10-04 用户要求）——标题和 label 面包屑里都有，属重复。
      仅保留「可错过事件」徽标（有信息量，且别处没有）。 */
   if(it.missed) h += '<div class="meta"><span class="badge">⚠ 可错过事件</span></div>';
-  h += langTabsHtml();
   h += '<div class="content">'+it.content+'</div>';
   main.innerHTML = h;
   /* 翻页后不再把焦点塞给正文框（2026-10-14）：
@@ -882,6 +876,17 @@ goHome();
   window.addEventListener('keydown', function(e){
     var t = e.target;
     if(t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+    /* Tab 键循环切换三语（2026-10-14 用户要求）：中文 → English → 对照 → 中文。
+       放在输入类元素守卫之后：搜索框里按 Tab 仍走浏览器默认的焦点跳转。
+       拦掉默认行为（否则焦点会跳到下一个可聚焦元素）；长按只响应第一次。 */
+    if(e.key === 'Tab'){
+      e.preventDefault();
+      if(e.repeat) return;
+      var _seq = ['zh', 'en', 'bi'];
+      var _nx = _seq[(_seq.indexOf(LANG) + 1) % _seq.length];
+      setLang(_nx || 'zh');
+      return;
+    }
     // 大图查看器打开时：←/→ 翻图、Esc 关闭，不再翻事件
     if(window.__lbOpen && window.__lbOpen()){
       if(e.key === 'ArrowLeft'){ e.preventDefault(); window.__lbStep(-1); }
@@ -1026,19 +1031,8 @@ function setLang(l){
   document.body.dataset.lang = l;
   localStorage.setItem("lil_lang", l);
   document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on", b.dataset.l===l));
-  /* 第三层级文本层 Tab 高亮同步：顶部按钮与正文 Tab 共用同一 LANG，状态必须一致 */
-  document.querySelectorAll(".langtabs button").forEach(b=>b.classList.toggle("on", b.dataset.l===l));
   /* 不重渲染：正文显隐由 [data-lang] CSS 控制，标题就地刷新 → 滚动位置/阅读位置保持不变 */
   refreshTitles();
-}
-/* 第三层级文本层的三语 Tab 条（事件正文 / 短信正文共用）。
-   按钮直接调 setLang()，与顶部全局语言切换是同一套状态，双向同步。 */
-function langTabsHtml(){
-  return '<div class="langtabs" role="group" aria-label="文本层语言">'
-    + '<button data-l="zh" class="'+(LANG==='zh'?'on':'')+'" onclick="setLang(\'zh\')">中文</button>'
-    + '<button data-l="en" class="'+(LANG==='en'?'on':'')+'" onclick="setLang(\'en\')">English</button>'
-    + '<button data-l="bi" class="'+(LANG==='bi'?'on':'')+'" onclick="setLang(\'bi\')">对照</button>'
-    + '</div>';
 }
 function _esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
 /* Ren'Py 文本标签 → HTML（与 build_nav.py 的 esc_html_rpy 对齐）
@@ -1488,6 +1482,19 @@ openEvent = function(i, idx, rel){
 (function(){
   document.body.dataset.lang = LANG;
   document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on", b.dataset.l===LANG));
+})();
+
+/* .evnav sticky 的 top 要对齐 header 底边，而 header 高度会变：
+   首页显示两个搜索框（高），子页 body.sub 隐藏搜索框（矮）；窗口缩放也会变。
+   这里实时量 header.offsetHeight 写进 --hdrH，CSS 用 calc(var(--hdrH) + 3px)。
+   ResizeObserver 直接覆盖「class 变化 + 窗口缩放」两种情况，比监听 resize 更可靠。 */
+(function(){
+  var _hdr = document.querySelector('header');
+  if(!_hdr) return;
+  function _set(){ document.documentElement.style.setProperty('--hdrH', _hdr.offsetHeight + 'px'); }
+  try { new ResizeObserver(_set).observe(_hdr); }
+  catch(_e){ window.addEventListener('resize', _set); }
+  _set();
 })();
 </script>
 <script>
