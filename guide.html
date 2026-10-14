@@ -6,7 +6,7 @@
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#16181d">
 <link rel="preload" as="image" href="pic/chikathumb1.png"><link rel="preload" as="image" href="pic/yumithumb1.png"><link rel="preload" as="image" href="pic/ayanethumb1.png"><link rel="preload" as="image" href="pic/sanathumb1.png"><link rel="preload" as="image" href="pic/makotothumb1.png"><link rel="preload" as="image" href="pic/mikuthumb1.png"><link rel="preload" as="image" href="pic/futabathumb1.png"><link rel="preload" as="image" href="pic/rinthumb1.png"><link rel="preload" as="image" href="pic/amithumb1.png"><link rel="preload" as="image" href="pic/mayathumb1.png"><link rel="preload" as="image" href="pic/mollythumb1.png"><link rel="preload" as="image" href="pic/tsuneyothumb1.png"><link rel="preload" as="image" href="pic/utathumb1.png"><link rel="preload" as="image" href="pic/iothumb1.png"><link rel="preload" as="image" href="pic/nodokathumb1.png"><link rel="preload" as="image" href="pic/otohathumb1.png"><link rel="preload" as="image" href="pic/toukathumb1.png"><link rel="preload" as="image" href="pic/yasuthumb1.png"><link rel="preload" as="image" href="pic/norikothumb1.png"><link rel="preload" as="image" href="pic/kirinthumb1.png"><link rel="preload" as="image" href="pic/sarathumb1.png"><link rel="preload" as="image" href="pic/harukathumb1.png"><link rel="preload" as="image" href="pic/kaorithumb1.png"><link rel="preload" as="image" href="pic/chinamithumb1.png"><link rel="preload" as="image" href="pic/karinthumb1.png"><link rel="preload" as="image" href="pic/makithumb1.png"><link rel="preload" as="image" href="pic/yukithumb1.png"><link rel="preload" as="image" href="pic/nikithumb1.png"><link rel="preload" as="image" href="pic/wakanathumb1.png"><link rel="preload" as="image" href="pic/osakothumb1.png"><link rel="preload" as="image" href="pic/tsubasathumb1.png"><link rel="preload" as="image" href="pic/tsukasathumb1.png"><link rel="preload" as="image" href="pic/imanithumb1.png"><link rel="preload" as="image" href="pic/rikathumb1.png"><link rel="preload" as="image" href="pic/naothumb1.png">
-<meta name="docver" content="lil-doc-v185">
+<meta name="docver" content="lil-doc-v188">
 <title>LIL 事件导航</title>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-26H942Y9CE"></script>
 <script>
@@ -74,8 +74,13 @@
   h2.grp{margin:22px 0 8px;font-size:15px;font-weight:600;color:#f0c674;border-left:3px solid #f0c674;padding-left:10px;line-height:1.3}
   h2.grp:first-of-type{margin-top:4px}
   h2.grp .cnt{color:var(--muted);font-weight:400;font-size:12.5px}
-  .content{background:#0e0f12;border:1px solid var(--line);border-radius:10px;padding:clamp(12px,1vw,24px);font-family:ui-monospace,Menlo,Consolas,monospace;--cfs:calc(13px * var(--zoom,1));font-size:var(--cfs);line-height:1.55;max-height:85vh;min-height:calc(100vh - 190px);overflow:auto;margin-top:0}
-  /* 翻页后程序化聚焦正文框（tabindex=-1），不要显示浏览器默认的白色焦点框 */
+  /* 高度完全自适应内容（2026-10-14 用户要求：一目了然、不能滑动）：
+     不再设 max-height / min-height、不再内部滚动 —— 正文多高框就多高，
+     由整页滚动承载阅读位置；底部不再出现 min-height 撑出来的空白。
+     ::-webkit-scrollbar 三条规则保留（overflow:visible 下不生效，便于回退）。 */
+  .content{background:#0e0f12;border:1px solid var(--line);border-radius:10px;padding:clamp(12px,1vw,24px);font-family:ui-monospace,Menlo,Consolas,monospace;--cfs:calc(13px * var(--zoom,1));font-size:var(--cfs);line-height:1.55;margin-top:0}
+  /* 正文框不再设 tabindex / 程序化聚焦（2026-10-14 改高度自适应）。
+     这两条 focus 规则保留兜底：用户手动点选正文时也不该出现浏览器默认白色焦点框。 */
   .content:focus,.content:focus-visible{outline:none;box-shadow:none}
   .content::-webkit-scrollbar{width:9px}
   .content::-webkit-scrollbar-thumb{background:#2a2d34;border-radius:5px}
@@ -108,7 +113,15 @@
   .scene-cap{display:none}
   .back{display:inline-block;margin-bottom:14px;color:var(--accent);cursor:pointer;font-size:13px}
   .back:hover{text-decoration:underline}
-  .evnav{display:flex;gap:10px;align-items:center;margin-bottom:0}
+  /* 上一个/下一个导航条 sticky 固定（2026-10-14 用户要求：不随滚轮滚走）：
+     top 动态对齐 header 底边（--hdrH 由 JS 实时量，首页/子页 header 高度不同），
+     z-index 低于 header(10) 但盖过正文；背景实色 + 上下 5px 缓冲，
+     负 margin 抵消 padding —— 初始「紧贴面包屑」的视觉不变。 */
+  /* top 精确等于 header 高度（不再 +3px）、padding 只留下方缓冲：
+     按钮顶边无论静止还是 sticky 都严丝合缝贴住 header 底边（2026-10-14 用户报缝隙）。 */
+  .evnav{display:flex;gap:10px;align-items:center;margin-bottom:0;
+         position:sticky;top:var(--hdrH,44px);z-index:9;
+         background:var(--bg);padding:0 0 6px}
   /* 事件页首个元素是「上一个/下一个」导航时，去掉 main 的顶部内边距，
      让它紧贴面包屑（用户要求：这两行中间别留空间）。
      其余页面（首页/列表）第一个元素不是 .evnav，不受影响。 */
@@ -140,16 +153,6 @@
   [data-lang="zh"] .content .l.en-l.no-zh{display:flex}
   [data-lang="bi"] .content .zh-l.no-zh{display:none}
   .content .loading{color:var(--muted);font-style:italic;opacity:.55}
-  /* ===== 第三层级文本层 Tab 切换（中文 / English / 对照）=====
-     与顶部全局语言切换共用同一 setLang()，状态双向同步：
-     点这里会改变全局 LANG，点顶部按钮也会把这里的高亮刷成一致。
-     位置在正文 .content 之上，故不受 [data-lang] 正文显隐规则影响。 */
-  .langtabs{display:flex;gap:0;border:1px solid var(--line);border-radius:8px;overflow:hidden;
-            flex:0 0 auto;width:max-content;margin:0 0 10px}
-  .langtabs button{background:transparent;border:0;color:var(--muted);padding:5px 16px;
-                   cursor:pointer;font-size:12.5px;font-family:inherit;transition:.12s}
-  .langtabs button:hover{color:var(--text);background:var(--panel2)}
-  .langtabs button.on{background:var(--accent);color:#fff}
 </style>
   </head>
 <body>
@@ -416,7 +419,6 @@ function openSms(i, k){
       : '<span class="navbtn disabled" title="已是本组最后一条短信">下一个 →</span>';
     h += '</div>';
   }
-  h += langTabsHtml();
   h += '<div class="content">'+sms.content+'</div>';
   main.innerHTML = h;
   // 尝试用 events/{label}.json 的三语 lines 替换（若有），保持中/英/对照一致
@@ -701,16 +703,13 @@ function openEvent(i,idx,rel){
   /* 元信息行已去掉（2026-10-04 用户要求）——标题和 label 面包屑里都有，属重复。
      仅保留「可错过事件」徽标（有信息量，且别处没有）。 */
   if(it.missed) h += '<div class="meta"><span class="badge">⚠ 可错过事件</span></div>';
-  h += langTabsHtml();
   h += '<div class="content">'+it.content+'</div>';
   main.innerHTML = h;
-  /* 翻页后把焦点交给正文框：.content 是 max-height:85vh + overflow:auto 的滚动容器，
-     只有它获得焦点时 ↑/↓ 才会滚动它。否则左右键翻页后得先鼠标点一下正文才能用上下键。 */
-  var _cb = main.querySelector('.content');
-  if(_cb){
-    _cb.setAttribute('tabindex','-1');
-    try { _cb.focus({preventScroll:true}); } catch(_e){ try{ _cb.focus(); }catch(_e2){} }
-  }
+  /* 翻页后不再把焦点塞给正文框（2026-10-14）：
+     .content 已改为高度自适应、无内部滚动，↑/↓ 由整页滚动承载，
+     聚焦 .content 反而会让上下键「滚一个不滚的容器」。焦点交给 body，
+     浏览器默认行为即滚动 window（连点正文也不会抢走这个行为）。 */
+  try { document.body.focus({preventScroll:true}); } catch(_e){}
 }
 
 // 搜索（标题 / label 分开）
@@ -899,6 +898,17 @@ goHome();
   window.addEventListener('keydown', function(e){
     var t = e.target;
     if(t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+    /* Tab 键循环切换三语（2026-10-14 用户要求）：中文 → English → 对照 → 中文。
+       放在输入类元素守卫之后：搜索框里按 Tab 仍走浏览器默认的焦点跳转。
+       拦掉默认行为（否则焦点会跳到下一个可聚焦元素）；长按只响应第一次。 */
+    if(e.key === 'Tab'){
+      e.preventDefault();
+      if(e.repeat) return;
+      var _seq = ['zh', 'en', 'bi'];
+      var _nx = _seq[(_seq.indexOf(LANG) + 1) % _seq.length];
+      setLang(_nx || 'zh');
+      return;
+    }
     // 大图查看器打开时：←/→ 翻图、Esc 关闭，不再翻事件
     if(window.__lbOpen && window.__lbOpen()){
       if(e.key === 'ArrowLeft'){ e.preventDefault(); window.__lbStep(-1); }
@@ -1043,19 +1053,8 @@ function setLang(l){
   document.body.dataset.lang = l;
   localStorage.setItem("lil_lang", l);
   document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on", b.dataset.l===l));
-  /* 第三层级文本层 Tab 高亮同步：顶部按钮与正文 Tab 共用同一 LANG，状态必须一致 */
-  document.querySelectorAll(".langtabs button").forEach(b=>b.classList.toggle("on", b.dataset.l===l));
   /* 不重渲染：正文显隐由 [data-lang] CSS 控制，标题就地刷新 → 滚动位置/阅读位置保持不变 */
   refreshTitles();
-}
-/* 第三层级文本层的三语 Tab 条（事件正文 / 短信正文共用）。
-   按钮直接调 setLang()，与顶部全局语言切换是同一套状态，双向同步。 */
-function langTabsHtml(){
-  return '<div class="langtabs" role="group" aria-label="文本层语言">'
-    + '<button data-l="zh" class="'+(LANG==='zh'?'on':'')+'" onclick="setLang(\'zh\')">中文</button>'
-    + '<button data-l="en" class="'+(LANG==='en'?'on':'')+'" onclick="setLang(\'en\')">English</button>'
-    + '<button data-l="bi" class="'+(LANG==='bi'?'on':'')+'" onclick="setLang(\'bi\')">对照</button>'
-    + '</div>';
 }
 function _esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
 /* Ren'Py 文本标签 → HTML（与 build_nav.py 的 esc_html_rpy 对齐）
@@ -1506,6 +1505,21 @@ openEvent = function(i, idx, rel){
   document.body.dataset.lang = LANG;
   document.querySelectorAll(".langsw button").forEach(b=>b.classList.toggle("on", b.dataset.l===LANG));
 })();
+
+/* .evnav sticky 的 top 要对齐 header 底边，而 header 高度会变：
+   首页显示两个搜索框（高），子页 body.sub 隐藏搜索框（矮）；窗口缩放也会变。
+   这里实时量 header 高度写进 --hdrH，CSS 用 var(--hdrH)。
+   ResizeObserver 直接覆盖「class 变化 + 窗口缩放」两种情况，比监听 resize 更可靠。 */
+(function(){
+  var _hdr = document.querySelector('header');
+  if(!_hdr) return;
+  /* 用 getBoundingClientRect().height（保留小数）而不是 offsetHeight（取整）：
+     取整误差会让 sticky 的导航条和 header 之间露出 1px 级的缝。 */
+  function _set(){ document.documentElement.style.setProperty('--hdrH', _hdr.getBoundingClientRect().height + 'px'); }
+  try { new ResizeObserver(_set).observe(_hdr); }
+  catch(_e){ window.addEventListener('resize', _set); }
+  _set();
+})();
 </script>
 <script>
 if ('serviceWorker' in navigator) {
@@ -1583,16 +1597,19 @@ if ('serviceWorker' in navigator) {
 
   function _box(){ return document.querySelector('.content'); }
 
+  /* .content 已改为高度自适应、无内部滚动（2026-10-14 用户要求）：
+     阅读位置改由「页面滚动」承载，故锚点取「视口内第一行」
+     （getBoundingClientRect().bottom > 0），不再用 box.scrollTop。 */
   function _capture(){
     var box = _box();
     if (!box || !box.children.length) return null;
-    var kids = box.children, top = box.scrollTop;
+    var kids = box.children;
     for (var i = 0; i < kids.length; i++){
       var el = kids[i];
-      if (el.offsetHeight === 0) continue;
-      if (el.offsetTop + el.offsetHeight > top){
-        return { box: box, idx: i, delta: el.offsetTop - top,
-                 vTop: el.getBoundingClientRect().top };
+      if (el.offsetHeight === 0) continue;        // display:none：被当前语言隐藏的行
+      var r = el.getBoundingClientRect();
+      if (r.bottom > 0){
+        return { idx: i, vTop: r.top };
       }
     }
     return null;
@@ -1607,11 +1624,13 @@ if ('serviceWorker' in navigator) {
     return null;
   }
 
+  /* 恢复：切语言后 DOM 高度变化（zh→bi 时约翻倍），
+     把刚才那一行拉回原来的视口位置 —— 只调页面滚动。 */
   function _restore(a){
-    if (!a || !a.box || !a.box.isConnected) return;
-    var el = _nearestVisible(a.box.children, a.idx);
+    var box = _box();
+    if (!a || !box) return;
+    var el = _nearestVisible(box.children, a.idx);
     if (!el) return;
-    a.box.scrollTop = Math.max(0, el.offsetTop - a.delta);
     var dy = el.getBoundingClientRect().top - a.vTop;
     if (Math.abs(dy) > 1) window.scrollBy(0, dy);
   }

@@ -1488,7 +1488,7 @@ openEvent = function(i, idx, rel){
 
 /* .evnav sticky 的 top 要对齐 header 底边，而 header 高度会变：
    首页显示两个搜索框（高），子页 body.sub 隐藏搜索框（矮）；窗口缩放也会变。
-   这里实时量 header.offsetHeight 写进 --hdrH，CSS 用 calc(var(--hdrH) + 3px)。
+   这里实时量 header 高度写进 --hdrH，CSS 用 var(--hdrH)。
    ResizeObserver 直接覆盖「class 变化 + 窗口缩放」两种情况，比监听 resize 更可靠。 */
 (function(){
   var _hdr = document.querySelector('header');
