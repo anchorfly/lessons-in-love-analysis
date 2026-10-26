@@ -11,7 +11,7 @@
 """
 import re, os, sys, time
 
-ROOT = r'C:/Users/anke/Desktop/LIL/分析'.replace('\\', '/')
+ROOT = r'C:/Users/anke/Desktop/class/LIL/分析'.replace('\\', '/')
 SW = os.path.join(ROOT, 'sw.js')
 
 txt = open(SW, encoding='utf-8').read()

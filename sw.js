@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v189';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v190';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v190=短信 aminude2 三条带条件选项还原为 .opt
                                   //       v189=修复 renderLinesChunked 跨段时同图重复（去重状态提升为 ctx 跨段共享）
                                   //       v188=导航条 sticky 无缝贴 header（去 +3px 与 padding-top，hdrH 改用 rect.height 取小数）
                                   //       v187=上下事件导航条 sticky 固定 + Tab 键循环切三语 + 撤下正文重复 Tab（先只上 test 版）
