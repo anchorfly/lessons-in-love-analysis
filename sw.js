@@ -39,7 +39,8 @@
  */
 const CACHE_IMG = 'lil-img-v1';   // 图片：版本锁死，永不 bump、永不失效
 const CACHE_EVT = 'lil-evt-v8';   // 事件译文 JSON：v9 兜底 bump 到 v7；日常失效仍靠 evtver 精准删条目
-const CACHE_DOC = 'lil-doc-v194';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+const CACHE_DOC = 'lil-doc-v195';   // v112=撤销一批未上线的页面改动   // HTML 外壳等：网络优先(1.2s 超时回退缓存)。
+                                  //       v195=图片版本戳改日期式 ?v=20261028（修旧 key 别名污染）
                                   //       v194=0.61.1 列表去掉红字与⚠错过
                                   //       v193=0.61.1 更新内容（测试版；v191/v192 为同一次改造的中间 bump）
                                   //       v190=短信 aminude2 三条带条件选项还原为 .opt
@@ -278,7 +279,9 @@ async function cacheFirstImg(req) {
     hit = await c.match(req);
     if (hit && isGoodImage(hit)) return hit;
     // ② 旧 key 别名：迁移前缓存的那份，直接复用，避免重新下载
-    const oldReq = _imgOldReq(req);
+    //    ⚠️ 带版本戳（?v=…）的请求**必须跳过**：那正是「内容换过、要绕开旧缓存」的请求，
+    //       走别名会把迁移前的老图搬进新 key（2026-10-28 实测 saradate9 还是老图）。
+    const oldReq = new URL(req.url).search ? null : _imgOldReq(req);
     if (oldReq) {
       const old = await c.match(oldReq);
       if (old && isGoodImage(old)) {
