@@ -1,0 +1,158 @@
+{
+  "label": "norikoinviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label norikoinviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene norikoinvitehang",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/norikoinvitehang.webp",
+      "alt": "norikoinvitehang"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Without having any idea of how to spend the evening, Noriko and I decide to further cultivate our familial bond by not sleeping together.",
+      "zh": "不知道晚上该干什么，Noriko 和我决定用「不做爱」来进一步培养我们的家人情谊。"
+    },
+    {
+      "en": "At least not in the sense I'm most accustomed to, since we do wind up lying down and slowly drift off the moment we hit the mattress.",
+      "zh": "至少不是我通常那种意义上的不做爱，因为我们最后确实躺下了，一沾床就慢慢睡过去。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if springtimesadness1 == True:",
+      "zh": ""
+    },
+    {
+      "en": "It's a bit risky given that Niki's living here again and has already walked in on us once. But I feel like it's much easier to forgive me in this context, so I don't think it will be a problem.",
+      "zh": "这有点冒险，毕竟 Niki 又住在这儿，而且已经被她撞见过一次。但我觉得这种情况下的我应该更容易被原谅，所以应该没问题。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Regardless, when I close my eyes, it almost feels as if I {i}am{/i} lying beside Niki. Just...more comfortable, I guess?",
+      "zh": "不管怎样，闭上眼的时候，我几乎觉得自己{i}就是{/i}躺在 Niki 身边。只是……更舒服一点？"
+    },
+    {
+      "en": "Not in the sense that I'm not comfortable with Niki, obviously. There's just something about the way Noriko feels curled up against me that...",
+      "zh": "当然不是说我和 Niki 在一起不舒服。只是 Noriko 蜷在我身边的那种感觉……"
+    },
+    {
+      "en": "Well...",
+      "zh": "嗯……"
+    },
+    {
+      "en": "I guess it just feels nostalgic.",
+      "zh": "大概就是让人怀念吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I'm not sure which one of us falls asleep first, but I'd like to think it's me.",
+      "zh": "我不确定我们俩谁先睡着，但我愿意相信是我。"
+    },
+    {
+      "en": "I think that would make her happy.",
+      "zh": "我觉得那会让她开心。"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "I hope that it makes her happy.",
+      "zh": "我希望那能让她开心。"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "I hope that she is happy.",
+      "zh": "我希望她开心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ noriko_love += 3",
+      "zh": "$ noriko_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Noriko's affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

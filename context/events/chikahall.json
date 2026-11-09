@@ -1,0 +1,166 @@
+{
+  "label": "chikahall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikahall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikasummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chikasummer2hallgen.webp",
+      "alt": "chikasummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikahall6",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chikahall6.webp",
+      "alt": "chikahall6"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikahallwinter",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chikahallwinter.webp",
+      "alt": "chikahallwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! Welcome back! Did you come all the way over here just to see me?",
+      "spk": "Chika",
+      "zh": ": Sensei！你回来啦！你是特意跑这么远来看我的吗？",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika grabs the sleeve of my jacket and pulls me over to watch something on her phone.",
+      "zh": "Chika 抓住我外套的袖子，把我拉过去看她手机上的东西。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if yumiblock == False:",
+      "zh": ""
+    },
+    {
+      "en": "We hang out for a little while until Yumi screams something from the inside of her room again.",
+      "zh": "我们待了一会儿，直到 Yumi 又在自己房间里喊了句什么。"
+    },
+    {
+      "en": "Chika ignores her a good three or four times before finally giving in and apologizing for her friend’s behavior.",
+      "zh": "Chika 装没听见足足三四次，最后还是妥协了，并为朋友的举动道歉。"
+    },
+    {
+      "en": "It would be nice to actually spend some time alone with her for once. I can feel the two of us getting closer.",
+      "zh": "要是能真的和她独处一段时间就好了。我能感觉到我们俩在靠近。"
+    },
+    {
+      "en": "I guess I’ll just have to keep at it until then...",
+      "zh": "看来只能一直坚持下去，直到那一天……"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "Unfortunately, it winds up being some stupid K-pop dance video that I have to pretend to be interested in for the next five minutes.",
+      "zh": "不幸的是，那是某个傻兮兮的韩舞视频，接下来五分钟我都得装出很有兴趣的样子。"
+    },
+    {
+      "en": "But hey, if that gets her to like me more...so be it.",
+      "zh": "不过嘛，如果这能让她更喜欢我……那就这样吧。"
+    },
+    {
+      "en": "I'll put up with as many stupid dance videos as I have to.",
+      "zh": "再蠢的舞蹈视频，我都忍。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": "$ chika_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Chika’s affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

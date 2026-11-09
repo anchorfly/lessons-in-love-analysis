@@ -1,0 +1,175 @@
+{
+  "label": "ayaneinviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayaneinviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayaneinvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/ayaneinvitegen.webp",
+      "alt": "ayaneinvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ayane and I spend the next few hours sitting beside the bed and watching TV.",
+      "zh": "接下来几个小时，我和 Ayane 坐在床边看电视。"
+    },
+    {
+      "en": "Ami isn't around tonight, nor would I expect her to help in this regard even if she were, so the two of us order takeout food and wind up sharing our respective orders with one another.",
+      "zh": "Ami 今晚不在，就算在她也不会来帮这种忙，于是我俩人点了外卖，最后还互相尝了对方点的东西。"
+    },
+    {
+      "en": "I get talked into eating several vegetables and expectedly hate every single one of them.",
+      "zh": "我被说动吃了几样蔬菜，果不其然，每一样我都讨厌。"
+    },
+    {
+      "en": "I'm not sure how Ayane is able to stand things like that, but I guess there are a lot of things I'm not sure of when it comes to her.",
+      "zh": "我不知道 Ayane 是怎么受得了那种东西的，不过关于她，我搞不懂的事本来就不少。"
+    },
+    {
+      "en": "The show we wind up watching features several girls in a strange looking house.",
+      "zh": "我们最后看的节目里，有几个女孩待在一栋样子很奇怪的房子里。"
+    },
+    {
+      "en": "Each one of them eats garlic bread off of a paper plate in a very cramped kitchen.",
+      "zh": "她们每个人都在一个挤得要命的厨房里，用纸盘吃蒜香面包。"
+    },
+    {
+      "en": "It actually seems like more of a live-feed of someone's house rather than a standard program.",
+      "zh": "这看起来更像是某人家里的实时监控，而不是正常节目。"
+    },
+    {
+      "en": "What channel are we even watching right now?",
+      "zh": "我们现在到底是在看哪个频道？"
+    },
+    {
+      "en": "Ayane slides closer to me and wraps her arm around mine, pressing her head against my shoulder and offering up some of her body heat to counteract the cold temperature of the room.",
+      "zh": "Ayane 挪近了些，把胳膊绕上我的手臂，头靠在我肩上，把自己身上的温度分给我，抵挡房间里的寒气。"
+    },
+    {
+      "en": "Well, I say that it's to counteract the temperature, but it's obviously a lot more than that.",
+      "zh": "我嘴上说是为了抗寒，但显然远不止于此。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "I never would have thought that things would get to the point with Ayane where the two of us could just sit here, watching TV and eating food without fucking each other's brains out.",
+      "zh": "我从没想过和 Ayane 会走到这一步——两个人就这么坐着看电视、吃东西，而不把对方操到脑子发空。"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I never would have thought that things would get to the point with Ayane where bone necklaces don't come up.",
+      "zh": "我从没想过和 Ayane 会走到这一步——骨项链这种事都不再被提起。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But, as time goes by, she's starting to feel more and more like another Ami.",
+      "zh": "但时间一天天过去，她越来越像另一个 Ami。"
+    },
+    {
+      "en": "Like a member of the family.",
+      "zh": "像家里的一员。"
+    },
+    {
+      "en": "I don't say this out loud because I hate expressing myself.",
+      "zh": "我没把这话说出口，因为我讨厌表达自己。"
+    },
+    {
+      "en": "But I also know that I don't {i}need{/i} to say it because she's felt that way for years.",
+      "zh": "不过我也知道我不{i}需要{/i}说，因为她这么多年来一直都是这么觉得的。"
+    },
+    {
+      "en": "For her, this is just another wonderful day with someone she would die for.",
+      "zh": "对她来说，这只是又一个和愿意为之去死的人共度的美好日子。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 3",
+      "zh": "$ ayane_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ayane's affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

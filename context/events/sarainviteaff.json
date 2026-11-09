@@ -1,0 +1,144 @@
+{
+  "label": "sarainviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sarainviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene sarainvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/sarainvitegen.webp",
+      "alt": "sarainvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The two of us decide to spend the night together...not really doing anything.",
+      "zh": "我们俩决定一起过一晚……也没真的做什么。"
+    },
+    {
+      "en": "But it's a pleasant form of nothingness.",
+      "zh": "但这种「什么都没做」是舒服的那种。"
+    },
+    {
+      "en": "Sara lays down next to me on the bed and moves closer.",
+      "zh": "Sara 在我旁边的床上躺下，靠了过来。"
+    },
+    {
+      "en": "Her eyes lock onto mine and only stray from them in short bursts.",
+      "zh": "她的目光锁在我身上，只是偶尔短暂地飘开。"
+    },
+    {
+      "en": "But, for the most part, I'm all that she focuses on.",
+      "zh": "但大部分时间，她全部的注意力都在我身上。"
+    },
+    {
+      "en": "It feels a little uncomfortable at first given that neither of us are saying much.",
+      "zh": "一开始有点不自在，因为我们俩都没怎么说话。"
+    },
+    {
+      "en": "But once that initial unease subsides, it becomes overwhelmingly apparent to me that this might just be the most comfortable I've felt in a very long time...",
+      "zh": "但等最初那份不安退去，我就无比清楚地意识到——这大概是我很久以来最舒服的一刻……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sara falls asleep next to me and I can't find it in myself to wake her up until Ami gets home.",
+      "zh": "Sara 在我旁边睡着了，我实在不忍心叫醒她，直到 Ami 回家。"
+    },
+    {
+      "en": "It's a little awkward having to explain to her that Sara was literally {i}just{/i} sleeping and that nothing else happened at all, but she manages to buy it somehow.",
+      "zh": "要跟她解释 Sara 真的{i}只是{/i}在睡觉、别的什么都没发生，有点尴尬，不过她不知怎么就信了。"
+    },
+    {
+      "en": "Maybe it's due to how much she likes her or just...the fact that Sara could barely even keep her eyes open on the way out of the house but-",
+      "zh": "也许是因为她太喜欢 Sara，或者只是……Sara 出门时眼睛都快睁不开的样子——"
+    },
+    {
+      "en": "Well, somehow or another, everything seemed to work out in the end.",
+      "zh": "总之，最后一切好像都还顺利。"
+    },
+    {
+      "en": "It was a good night.",
+      "zh": "那是个美好的夜晚。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sara_love += 3",
+      "zh": "$ sara_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Sara's affection has increased to [sara_love]!{/i}",
+      "zh": "{i}Sara 的好感度提升到了 [sara_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "label": "nodokainviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label nodokainviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene nodokainvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/nodokainvitegen.webp",
+      "alt": "nodokainvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide against {i}taking{/i} Nodoka at all and elect to spend a quiet evening by her side instead.",
+      "zh": "我决定完全{i}不动{/i} Nodoka，只是安静地在她身边过一晚。"
+    },
+    {
+      "en": "She seizes this rare opportunity of non-physical affection to rest her head on my shoulder and read me poetry despite {i}not caring much{/i} for it herself.",
+      "zh": "她抓住这个难得的、不带身体接触的机会，把头靠在我肩上，给我读诗——尽管她自己{i}并不怎么喜欢{/i}诗。"
+    },
+    {
+      "en": "I ask her why she feels this way and she's reluctant to answer, stating something along the lines of it not being able to adequately explain certain feelings, but...",
+      "zh": "我问她为什么这样，她不太愿意回答，只说诗没法充分解释某些感受，可是……"
+    },
+    {
+      "en": "I feel like it's more her not understanding them than anything. Which is odd to me, given that she has not only made it apparent that she's familiar with poetry but...decided to read it to me today?",
+      "zh": "我觉得与其说是诗解释不了，不如说是她自己也搞不懂。这让我觉得奇怪，因为她不仅让我看出她熟悉诗，而且……今天还决定读给我听？"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "As always, I find it hard to understand her motivations. But I know she won't outright tell me them, so I don't bother pestering her about it.",
+      "zh": "和往常一样，我很难理解她的动机。但我知道她不会直接告诉我，所以我也懒得追问。"
+    },
+    {
+      "en": "I just lean into her as well and listen to her voice cut through the silence of the bedroom like a blade into-",
+      "zh": "我只是也靠过去，听她的声音穿过卧室的寂静，像一把刀切进——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ nodoka_love += 3",
+      "zh": "$ nodoka_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Nodoka's affection has increased to [nodoka_love]!{/i}",
+      "zh": "{i}Nodoka 的好感度提升到了 [nodoka_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

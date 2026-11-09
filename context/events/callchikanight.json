@@ -1,0 +1,258 @@
+{
+  "label": "callchikanight",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callchikanight:",
+      "zh": ""
+    },
+    {
+      "en": "if chikablock == True:",
+      "zh": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "Huh. I guess Chika's busy right now.",
+      "zh": "嗯。Chika 现在大概在忙吧。"
+    },
+    {
+      "en": "jump callnight",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callnight",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True and senseisad == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump chikaspringnightgen",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Chika's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点下 Chika 的名字，等她接听。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heya! Great timing. I actually just got back to the apartment.",
+      "spk": "Chika",
+      "zh": ": 嘿！正好。我其实刚回到公寓。",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ": Not staying at the dorm tonight?",
+      "spk": "Sensei",
+      "zh": ": 今晚不住宿舍？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Nahh. Gonna hang out with my sister instead.",
+      "spk": "Chika",
+      "zh": ": 不啦。我要跟我妹妹待着。",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ": You wanna come over and watch movies or something?",
+      "spk": "Chika",
+      "zh": ": 你要不要过来一起看个电影什么的？",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ": Sure. I'll be right there.",
+      "spk": "Sensei",
+      "zh": ": 好啊。我马上到。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Kay kay! See you soon~",
+      "spk": "Chika",
+      "zh": ": 好——的！待会儿见~",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I drop what I'm doing (Which is essentially nothing) and get on the first bus to the second half of town...",
+      "zh": "我放下手上的事（基本上也没什么事），赶上第一班去城市另一半的公交……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if christmas7 == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump chikanightgen2",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikanightgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chikanightgen.webp",
+      "alt": "chikanightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I arrive to find both Chika and Chinami in their pajamas and huddled under the blanket watching some drama I've never seen before.",
+      "zh": "到了之后，Chika 和 Chinami 都穿着睡衣，裹在同一条毯子里看一部我从没看过的剧。"
+    },
+    {
+      "en": "I'm glad that the two of them are comfortable enough to let me into the house like this, but I guess they don't really have any reason to {i}not{/i} trust me given that I pay their phone bill.",
+      "zh": "我很高兴她们俩自在到能这样让我进屋，不过想想我替她们付手机费，她们也确实没什么理由{i}不{/i}信我。"
+    },
+    {
+      "en": "Regardless, Chika lets Chinami watch a few episodes alone so the two of us can hang out on her balcony and talk.",
+      "zh": "不管怎样，Chika 让 Chinami 自己先看几集，好让我俩能去她阳台上聊天。"
+    },
+    {
+      "en": "I watch as she gazes joyfully up at the stars, her body outlined by the subtle light of the moon.",
+      "zh": "她抬头望着星星，笑得很开心，月光淡淡地勾出她的轮廓。"
+    },
+    {
+      "en": "And even if the moment comes and goes the second a cloud gets in the way, it's a sight I'll find hard to forget.",
+      "zh": "就算这画面在云飘过来的那一瞬间就没了，它也是我很难忘掉的景象。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami is already asleep by the time the two of us go back inside, so I decide to go home a little ahead of schedule.",
+      "zh": "我俩回屋时 Chinami 已经睡着了，于是我决定比原计划早一点回家。"
+    },
+    {
+      "en": "Chika apologizes for making me come all the way here to just hang out on her balcony, but I don't mind.",
+      "zh": "Chika 为让我大老远跑来只为在阳台上待一会儿而道歉，但我并不介意。"
+    },
+    {
+      "en": "She hugs me tightly just as I'm about to leave, and the two of us reluctantly break apart and go back to our respective lives...",
+      "zh": "我正要走的时候她紧紧抱住我，最后我俩不情愿地分开，各自回到各自的生活……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": "$ chika_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Chika's affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

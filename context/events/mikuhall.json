@@ -1,0 +1,145 @@
+{
+  "label": "mikuhall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mikuhall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene mikusummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mikusummer2hallgen.webp",
+      "alt": "mikusummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene mikuhall1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mikuhall1.webp",
+      "alt": "mikuhall1"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene mikuhallwinter",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mikuhallwinter.webp",
+      "alt": "mikuhallwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey again, Sensei! Did ya come to visit me?",
+      "spk": "Miku",
+      "zh": ": 又见面啦，Sensei！你是来看我的吗？",
+      "spkColor": "#FF8112"
+    },
+    {
+      "en": ": Let me tell you about this crazy thing I saw on the way to[school] the other day!",
+      "spk": "Miku",
+      "zh": ": 我跟你说，前几天去[学校]的路上我看到一件超离谱的事！",
+      "spkColor": "#FF8112"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Miku rants on and on about the eventful morning she had and I’m barely even able to get a word in.",
+      "zh": "Miku 一口气讲了半天她那忙碌的早上，我几乎插不上话。"
+    },
+    {
+      "en": "We talk for a little while before she tells me she needs to leave for some late-night workout she has planned.",
+      "zh": "我们聊了一会儿，她说她安排了深夜训练，得走了。"
+    },
+    {
+      "en": "Before I know it, I’m back on my own and a little worn out.",
+      "zh": "不知不觉我又只剩自己一个人，还有点累。"
+    },
+    {
+      "en": "I'm by no means an athlete, but hanging out with her is exercise all on its own and I'm glad I'm at least somewhat able to keep up.",
+      "zh": "我绝对不是运动员，但陪她待着本身就是运动，我很高兴自己至少勉强跟得上。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ miku_love += 1",
+      "zh": "$ miku_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Miku’s affection has increased to [miku_love]!{/i}",
+      "zh": "{i}Miku 的好感度提升到了 [miku_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "label": "porn3to4",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label porn3to4:",
+      "zh": ""
+    },
+    {
+      "en": "scene pornshop9",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/pornshop9.webp",
+      "alt": "pornshop9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to pay Makoto a visit at the porn shop.",
+      "zh": "我决定去色情用品店看看 Makoto。"
+    },
+    {
+      "en": "Of course, she isn’t exactly happy to see me there.",
+      "zh": "当然，她并不怎么高兴在那儿见到我。"
+    },
+    {
+      "en": "I spend the next twenty minutes trying to convince her to help me find something I can take home only to be pushed out the door yet again.\"",
+      "zh": "接下来二十分钟我一直在劝她帮我找点能带回家的东西，结果又被打发出门。\""
+    },
+    {
+      "en": "If she treats {i}me{/i} like this, I can only imagine how she handles normal customers...",
+      "zh": "她对我{i}都{/i}这样，真不敢想象她怎么对付普通顾客……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ makoto_love += 1",
+      "zh": "$ makoto_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Makoto’s affection has increased to [makoto_love]!{/i}",
+      "zh": "{i}Makoto 的好感度提升到了 [makoto_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

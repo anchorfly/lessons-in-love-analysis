@@ -1,0 +1,145 @@
+{
+  "label": "ayanehall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label ayanehall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayanesummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/ayanesummer2hallgen.webp",
+      "alt": "ayanesummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayanehall1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/ayanehall1.webp",
+      "alt": "ayanehall1"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene ayanehallwinter",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/ayanehallwinter.webp",
+      "alt": "ayanehallwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! You missed me didn’t you? Tell me you missed me!",
+      "spk": "Ayane",
+      "zh": ": Sensei！你想我了对不对？快说你想我了！",
+      "spkColor": "#00BAB1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Unfortunately, Sana is home right now so the two of us aren’t able to be alone together.",
+      "zh": "可惜 Sana 现在在家，所以我俩没办法独处。"
+    },
+    {
+      "en": "Instead, we talk for a bit about karate and how much Ayane hates her dad.",
+      "zh": "于是我们聊了会儿空手道，还有 Ayane 有多讨厌她爸。"
+    },
+    {
+      "en": "After that, we talk about me- because apparently her other interests don't matter nearly as much.",
+      "zh": "之后话题转到我身上——显然她其它那些兴趣根本没这么重要。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Eventually, she heads back inside to hang out with Sana and I’m left on my own...",
+      "zh": "到最后她回屋去陪 Sana 了，只剩我一个人……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ayane_love += 1",
+      "zh": "$ ayane_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ayane’s affection has increased to [ayane_love]!{/i}",
+      "zh": "{i}Ayane 的好感度提升到了 [ayane_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

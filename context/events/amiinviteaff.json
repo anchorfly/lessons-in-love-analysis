@@ -1,0 +1,181 @@
+{
+  "label": "amiinviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amiinviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "if halloweenfive17 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene amiinvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/amiinvitegen.webp",
+      "alt": "amiinvitegen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene amiinvitegen2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/amiinvitegen2.webp",
+      "alt": "amiinvitegen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to spend the night hanging out in my room with Ami.",
+      "zh": "我决定晚上在自己房间里陪 Ami 待着。"
+    },
+    {
+      "en": "No matter what I suggest doing, she playfully refuses and beckons me into the bed to lie with her and hold her hand.",
+      "zh": "不管我提议做什么，她都笑嘻嘻地拒绝，然后招手让我上床，躺在她旁边牵她的手。"
+    },
+    {
+      "en": "The next few hours pass by with her reciting memories that I wish I could have inherited when I arrived here.",
+      "zh": "接下来几个小时，她一直在讲那些回忆——我多希望自己来到这儿的时候能继承这些记忆。"
+    },
+    {
+      "en": "Unfortunately, her relationship with me is much more than mine will ever be with her.",
+      "zh": "可惜她和我的这段关系，比我与她之间的要厚重得多。"
+    },
+    {
+      "en": "And all of those memories that mean all of those things are more like anecdotes or poems.",
+      "zh": "而所有那些承载着这些意义的记忆，更像是轶事或者诗。"
+    },
+    {
+      "en": "One thing that means the world to one person might make absolutely no sense to someone else.",
+      "zh": "对一个人意义非凡的事，在另一个人看来可能完全说不通。"
+    },
+    {
+      "en": "I'm caught somewhere in between.",
+      "zh": "我夹在两者之间。"
+    },
+    {
+      "en": "I absorb the things she tells me, racking my brain and trying to connect any dots that someone else may have left behind.",
+      "zh": "我把她讲的东西都吸收进来，绞尽脑汁，想把别人可能留下的线索串起来。"
+    },
+    {
+      "en": "But I come up with nothing.",
+      "zh": "但我什么也想不出来。"
+    },
+    {
+      "en": "I think Ami notices this at some point since she carefully tiptoes away from anything involving the past and makes her way into the present.",
+      "zh": "Ami 大概在某个时刻察觉到了，于是小心翼翼地绕开任何涉及过去的话题，慢慢把话头带到当下。"
+    },
+    {
+      "en": "We talk about[school]. We talk about the dorms.",
+      "zh": "我们聊[学校]。聊宿舍。"
+    },
+    {
+      "en": "We talk about everything up until our eyes close.",
+      "zh": "一直聊到眼睛都闭上为止。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami falls asleep before I do- the same way she always does when the two of us are in this position.",
+      "zh": "Ami 比我先睡着——每次我俩这样躺着，她都是这样。"
+    },
+    {
+      "en": "I stare at her face as she sleeps on my shoulder, her mouth slightly drooped open and exerting soft, sweet breaths.",
+      "zh": "她靠在我肩上睡着，我盯着她的脸看，她嘴巴微微张开，呼出轻柔又甜的气息。"
+    },
+    {
+      "en": "She doesn't talk in her sleep, but she doesn't need to.",
+      "zh": "她不说梦话，但她也不需要说。"
+    },
+    {
+      "en": "I can understand everything she's thinking and everything she's feeling just by keeping my eyes on her.",
+      "zh": "只要一直看着她，我就能明白她在想什么、在感受什么。"
+    },
+    {
+      "en": "And so I do that until I, too, pass out...",
+      "zh": "于是我就这么看着，直到自己也睡着……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ami_love += 3",
+      "zh": "$ ami_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ami's affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

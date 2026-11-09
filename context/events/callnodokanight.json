@@ -1,0 +1,267 @@
+{
+  "label": "callnodokanight",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callnodokanight:",
+      "zh": ""
+    },
+    {
+      "en": "if nodokablock == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't really think I want to see Nodoka right now...",
+      "zh": "我现在其实不太想去见 Nodoka……"
+    },
+    {
+      "en": "jump callnight",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump nodokaspringnightgen",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump nodokasummer2nightgen",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Nodoka's name in my phone and wait for her to answer.",
+      "zh": "我在手机里点开 Nodoka 的名字，等她接。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hello, Sensei. How are things?",
+      "spk": "Nodoka",
+      "zh": ": 你好，Sensei。近来如何？",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Things exist.",
+      "spk": "Sensei",
+      "zh": ": 东西都还存在着。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": That they do. All sorts of things, actually.",
+      "spk": "Nodoka",
+      "zh": ": 确实。各种各样的东西，都是。",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Would you like to see some together?",
+      "spk": "Nodoka",
+      "zh": ": 要不要一起去看一些？",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Sure. I was actually just calling to see if you wanted to hang out.",
+      "spk": "Sensei",
+      "zh": ": 好啊。我打电话来其实正想问你要不要出来。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Then hang out we shall.",
+      "spk": "Nodoka",
+      "zh": ": 那就出来吧。",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ": Come meet me at the dorm.",
+      "spk": "Nodoka",
+      "zh": ": 来宿舍找我。",
+      "spkColor": "#AF89A2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I end the call and start heading over to meet up with Nodoka, curious about what the two of us will wind up getting up to tonight.",
+      "zh": "我挂了电话，动身去见 Nodoka，心里好奇今晚我们俩会干些什么。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene nodokanightgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/nodokanightgen.webp",
+      "alt": "nodokanightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Nodoka takes me to a mysterious phonebooth in a small park not far from the dorms.",
+      "zh": "Nodoka 把我带到离宿舍不远的小公园里一个神秘的电话亭。"
+    },
+    {
+      "en": "I'm not sure why she wanted to come {i}here{/i} of all places, but I'm not about to argue the idea of being alone in a confined space with an attractive girl.",
+      "zh": "我不明白她为什么偏偏想来{i}这儿{/i}，但「和一个漂亮女孩独处在封闭空间里」这种事，我是不会反对的。"
+    },
+    {
+      "en": "She props herself up on a ledge and kicks at the air with her slender legs, humming a slow and melodic tune I don't think I've ever heard before.",
+      "zh": "她撑着身子坐上窗台，纤细的双腿在空中晃着，哼起一段我从没听过的、缓慢又有旋律的调子。"
+    },
+    {
+      "en": "But even if the sounds are completely unfamiliar, they feel nostalgic in a way.",
+      "zh": "那声音明明完全陌生，却莫名让人觉得怀念。"
+    },
+    {
+      "en": "I could listen to her hum this forever.",
+      "zh": "我可以就这样听她哼一辈子。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I don't, of course, because forever is a very long amount of time.",
+      "zh": "当然我没有，因为一辈子是很长很长的时间。"
+    },
+    {
+      "en": "And even in this world, where time seems to be infinite, I still fear that all things will come to an end.",
+      "zh": "而且就算在这个时间仿佛无限的世界里，我依然害怕一切终会结束。"
+    },
+    {
+      "en": "But I guess that's just what it means to think.",
+      "zh": "不过，思考大概就是这个意思吧。"
+    },
+    {
+      "en": "No thoughts are free when we pay in time and fear to obtain them.",
+      "zh": "我们用时间和恐惧去换取想法，所以没有哪个想法是免费的。"
+    },
+    {
+      "en": "I let Nodoka's song distract me from this.",
+      "zh": "我让 Nodoka 的歌声把这些念头挡在外面。"
+    },
+    {
+      "en": "And one more night slips between my fingers-",
+      "zh": "又一个夜晚从我指缝里溜走——"
+    },
+    {
+      "en": "Dissolving into nothing.",
+      "zh": "溶进虚无。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ nodoka_love += 1",
+      "zh": "$ nodoka_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Nodoka's affection has increased to [nodoka_love]!{/i}",
+      "zh": "{i}Nodoka 的好感度提升到了 [nodoka_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

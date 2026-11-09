@@ -1,0 +1,112 @@
+{
+  "label": "kaorigenafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kaorigenafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "scene kaoriafternoongen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/kaoriafternoongen.webp",
+      "alt": "kaoriafternoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I call Kaori to find out that she's currently wandering around her neighborhood looking for a place to purchase a cantaloupe.",
+      "zh": "我打电话给 Kaori，才知道她正在附近街区转悠，想找个地方买哈密瓜。"
+    },
+    {
+      "en": "I decide against asking her {i}why{/i} she so desperately needs this large melon in the middle of the day and, instead, elect to just go help her find it.",
+      "zh": "我决定不去问她{i}为什么{/i}大白天非要这么迫切地买这个大瓜，而是干脆过去帮她找。"
+    },
+    {
+      "en": "By the time I'm able to meet up with her, she's already forgotten what it was she was looking for, and the two of us just hang out and talk for a while instead.",
+      "zh": "等我找到她时，她已经忘了自己要找什么了，于是我俩人就这么待着聊了一会儿。"
+    },
+    {
+      "en": "And I use the word 'talk' loosely because I'm not even sure how to recap the conversation from a narrator's perspective.",
+      "zh": "「聊」这个词我用得很宽松，因为我根本不知道该怎么以旁观者的角度复述那段对话。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Some time goes by before Kaori tells me she needs to go home and get ready for her shift at the bar.",
+      "zh": "过了一阵，Kaori 说她得回家准备去酒吧上班了。"
+    },
+    {
+      "en": "It is just then that I realize Kaori {i}lives{/i} somewhere and doesn't just aimlessly wander from place to place in search of cats and melons.",
+      "zh": "就在那时我才意识到，Kaori 是有{i}住处{/i}的，并不是为了找猫和瓜就无目的地四处游荡。"
+    },
+    {
+      "en": "I wonder what her house is like?...",
+      "zh": "不知道她家是什么样子……"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "Kaori drags me back to reality moments later and gives me a surprisingly enthusiastic fist-bump, which is apparently a thing she saw friends do on TV recently.",
+      "zh": "几秒后 Kaori 把我拽回现实，出人意料地热情地跟我碰了个拳——据说这是她最近在电视上看到朋友之间会做的事。"
+    },
+    {
+      "en": "She quickly turns around and heads home and I am left confused and unsure of how to move on with my day...",
+      "zh": "她很快转身回家去了，留下我一个人困惑地站在那儿，不知道这一天该怎么继续……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ kaori_love += 1",
+      "zh": "$ kaori_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Kaori's affection has increased to [kaori_love]{/i}!",
+      "zh": "{i}Kaori 的好感度提升到了 [kaori_love]{/i}!"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

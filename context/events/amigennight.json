@@ -1,0 +1,116 @@
+{
+  "label": "amigennight",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amigennight:",
+      "zh": ""
+    },
+    {
+      "en": "scene aminightgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/aminightgen.webp",
+      "alt": "aminightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head home early to spend some time with Ami.",
+      "zh": "我提早回了家，想陪 Ami 待一会儿。"
+    },
+    {
+      "en": "She's already in her pajamas when I get back, so the two of us spend the night eating pizza and watching movies on the couch.",
+      "zh": "我到家时她已经换上睡衣了，于是我俩人窝在沙发上，吃披萨、看电影，就这么过了一晚。"
+    },
+    {
+      "en": "And when I say 'watching movies,' I really mean that {i}I{/i} am the one watching movies. Or trying to, at least.",
+      "zh": "我说的「看电影」，其实是指{i}我{/i}在看电影。至少是在努力看。"
+    },
+    {
+      "en": "Ami sits there and playfully squeezes my arm, trying to get me to pay attention to her the entire time.",
+      "zh": "Ami 就坐在那儿，一边玩闹地捏我的胳膊，一边全程想让我把注意力放到她身上。"
+    },
+    {
+      "en": "Having a weakness for cute girls, I obviously wind up focusing on her instead and completely neglect whatever movie we were 'watching' in the first place.",
+      "zh": "我对可爱女孩向来没什么抵抗力，结果当然是把注意力全放在她身上，完全无视了我们原本「在看」的那部电影。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami eventually falls asleep on my shoulder and I have to carry her to her bedroom.",
+      "zh": "Ami 最后靠在我肩上睡着了，我只好把她抱回她的卧室。"
+    },
+    {
+      "en": "As I lay her down and begin to walk away, she unconsciously reaches out and grabs my hand to prevent me from leaving.",
+      "zh": "我把她放下、正要走开，她无意识地伸出手抓住我，不让我离开。"
+    },
+    {
+      "en": "After a while, she becomes too tired to hang on and I'm left with no other option but to call it a night...",
+      "zh": "过了一会儿，她实在困得抓不住了，我也就只能就此结束这一天……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ami_love += 1",
+      "zh": "$ ami_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ami's affection has increased to [ami_love]{/i}!",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]{/i}！"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

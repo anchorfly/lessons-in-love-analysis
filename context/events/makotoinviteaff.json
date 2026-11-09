@@ -1,0 +1,156 @@
+{
+  "label": "makotoinviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label makotoinviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene makotoinvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/makotoinvitegen.webp",
+      "alt": "makotoinvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to spend the night just hanging out with Makoto.",
+      "zh": "我决定晚上就陪 Makoto 待着。"
+    },
+    {
+      "en": "No sexual stuff involved. No teasing involved. Just-",
+      "zh": "没有性的部分。没有调戏的部分。只是——"
+    },
+    {
+      "en": "Well, actually, there is {i}some{/i} teasing involved. But it's all in good fun.",
+      "zh": "好吧，其实还是有{i}一些{/i}调戏。但都是善意的玩笑。"
+    },
+    {
+      "en": "That's just the sort of dynamic the two of us have together.",
+      "zh": "我们俩之间就是这样。"
+    },
+    {
+      "en": "I tease her. She blushes and yells at me. I pretend I don't feel anything at all for her. She pretends to think that as well.",
+      "zh": "我逗她。她脸红，冲我吼。我假装对她毫无感觉。她也假装自己是这么想的。"
+    },
+    {
+      "en": "But the moments we share like this, despite being few and far between, serve to contradict that.",
+      "zh": "但我们像这样共享的时刻，虽然少之又少，却恰好否定了这一切。"
+    },
+    {
+      "en": "Right now, in this very moment, it feels like she belongs here.",
+      "zh": "现在，就在这一刻，她好像本该属于这里。"
+    },
+    {
+      "en": "If only I could say the same for myself.",
+      "zh": "要是我也能对自己说同样的话就好了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The world grows darker by the minute.",
+      "zh": "天一分一分地暗下去。"
+    },
+    {
+      "en": "The house is consumed by the night.",
+      "zh": "房子被夜色吞没。"
+    },
+    {
+      "en": "Which, of course, means it's about time for Makoto to leave.",
+      "zh": "当然，这也意味着 Makoto 该走了。"
+    },
+    {
+      "en": "Ami should be getting home sometime soon anyway.",
+      "zh": "反正 Ami 也差不多快到家了。"
+    },
+    {
+      "en": "Makoto is reluctant to pack her things and go, but realizes that she must if the two of us are going to be able to spend more time together doing things like this.",
+      "zh": "Makoto 不太情愿收拾东西走，但她明白，如果想以后还能像这样多待一会儿，她就必须走。"
+    },
+    {
+      "en": "It's okay, though.",
+      "zh": "不过没关系。"
+    },
+    {
+      "en": "I'm sure I'll see her again before long.",
+      "zh": "我确定过不了多久就会再见到她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ makoto_love += 3",
+      "zh": "$ makoto_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Makoto's affection has increased to [makoto_love]!{/i}",
+      "zh": "{i}Makoto 的好感度提升到了 [makoto_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

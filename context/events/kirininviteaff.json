@@ -1,0 +1,168 @@
+{
+  "label": "kirininviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kirininviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene kirininvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/kirininvitegen.webp",
+      "alt": "kirininvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kirin and I spend the night inside of my room, gorging ourselves on fast food and talking about whatever things cross our minds.",
+      "zh": "我和 Kirin 晚上待在我房间里，猛吃快餐，想到什么聊什么。"
+    },
+    {
+      "en": "And when I say {i}our{/i} minds, I really just mean hers.",
+      "zh": "我说「我们」想到什么，其实只是她。"
+    },
+    {
+      "en": "She can be really talkative when there's no one else around.",
+      "zh": "没别人在的时候，她话真的很多。"
+    },
+    {
+      "en": "And the level of comfort she's been showing with me lately is far surpassing anything I ever expected to get out of her.",
+      "zh": "而且她最近对我表现出的自在程度，远远超出我原本对她的期待。"
+    },
+    {
+      "en": "Sure, there's still plenty that I don't know about her-",
+      "zh": "当然，关于她我不知道的事还有很多——"
+    },
+    {
+      "en": "But each hour we spend inside of this room, with me dodging french fries that she tries to force-feed me, somehow brings us closer together.",
+      "zh": "但在这间房里度过的每一个小时，我一边躲她硬塞过来的薯条，一边不知怎么就和她又近了一点。"
+    },
+    {
+      "en": "There's a certain beauty to moments filled with nothingness like these.",
+      "zh": "这种什么都没发生的时刻，有一种特别的美。"
+    },
+    {
+      "en": "And that beauty seems to be amplified when those taking part are overflowing with the complete opposite- packed to the brim with those horrible things called {i}feelings{/i}.",
+      "zh": "而当参与其中的人心里塞满了完全相反的东西——塞满了那种叫{i}感情{/i}的可怕玩意儿——这种美似乎就被放大了。"
+    },
+    {
+      "en": "It's everything and nothing all at once.",
+      "zh": "它同时是一切，也是什么都没有。"
+    },
+    {
+      "en": "Everything and nothing and french fries.",
+      "zh": "一切、什么都没有，还有薯条。"
+    },
+    {
+      "en": "Oh, how simple life can be at times.",
+      "zh": "啊，生活有时候真简单。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We finish eating and spend the next couple hours playing some trivia game Kirin made me install on my phone.",
+      "zh": "吃完之后，接下来几个小时我们都在玩 Kirin 逼我装到手机上的某个问答游戏。"
+    },
+    {
+      "en": "She absolutely demolishes me because, apparently, trivia happens to be something that she's really good at for some reason.",
+      "zh": "她把我打得毫无还手之力，因为不知为什么，问答恰好是她特别擅长的东西。"
+    },
+    {
+      "en": "I have no idea how she developed this skillset and even less of an idea of why she is trying to hone it alongside me, but at least she's having fun.",
+      "zh": "我完全不知道她这本事是怎么练出来的，更不明白她为什么非要拉着我一起磨，不过至少她玩得开心。"
+    },
+    {
+      "en": "And if getting demolished is able to make her smile, I suppose I'm fine with it every now and then.",
+      "zh": "如果被血虐能让她笑，那偶尔来一次我也无所谓。"
+    },
+    {
+      "en": "This girl could use more smiles.",
+      "zh": "这女孩该多笑一点。"
+    },
+    {
+      "en": "For all I know, they might even renew her warped perspective of everyone and everything.",
+      "zh": "说不定这还能让她那套扭曲的、对所有人所有事的看法重新鲜活起来。"
+    },
+    {
+      "en": "Or everything and nothing.",
+      "zh": "或者一切，或者什么都没有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ kirin_love += 3",
+      "zh": "$ kirin_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Kirin's affection has increased to [kirin_love]!{/i}",
+      "zh": "{i}Kirin 的好感度提升到了 [kirin_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

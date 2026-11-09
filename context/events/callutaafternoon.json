@@ -1,0 +1,333 @@
+{
+  "label": "callutaafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callutaafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if utablock == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't think I should call Uta right now...",
+      "zh": "我觉得现在不该打给 Uta……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Uta's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Uta 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "There's no answer. I guess she's busy right now.",
+      "zh": "没人接。看来她现在在忙。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Uta's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Uta 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Yooooooooooo! What's up, dawg?",
+      "spk": "Uta",
+      "zh": ": 哟哟哟哟哟！怎么了，老铁？",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": Sorry. I think I may have called the wrong number.",
+      "spk": "Sensei",
+      "zh": ": 抱歉。我可能打错号码了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Nonononono! It's me! Uta! The world's most adorablest maid and your best bud!",
+      "spk": "Uta",
+      "zh": ": 不不不不不！是我！Uta！全世界最可爱哒女仆，你的好兄弟！",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": Please don't ever call me {i}dawg{/i} again. I am a human.",
+      "spk": "Sensei",
+      "zh": ": 拜托以后别再叫我{i}老铁{/i}了。我是人类。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Blah blah blah bark bark bark. Let's do karaoke!",
+      "spk": "Uta",
+      "zh": ": 废话废话废话汪汪汪。我们去唱卡拉OK吧！",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": ": Are you going to try and kiss me again?",
+      "spk": "Sensei",
+      "zh": ": 你又要试着亲我吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Me? Kiss {i}you{/i}?",
+      "spk": "Uta",
+      "zh": ": 我？亲{i}你{/i}？",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": Are we actually going to hug this time? Because I feel like we've been pretty close-",
+      "spk": "Sensei",
+      "zh": ": 这次我们真的会抱上吗？因为我觉得我们已经很接近了——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei, you must be misremembering something. I would never ever {i}ever{/i} do that!",
+      "spk": "Uta",
+      "zh": ": Sensei，你一定是记错什么了。我绝对绝对{i}绝对{/i}不会做那种事！",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": That really hurts.",
+      "spk": "Sensei",
+      "zh": ": 这话真伤人。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, quit your whining and meet me at the singing booth so I can knock out some songs before work!",
+      "spk": "Uta",
+      "zh": ": 那就别抱怨了，来唱歌包间找我，让我在上班前把几首歌刷完！",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta hangs up on me, one of the greatest taboos of all, and I quickly find myself heading over to the karaoke place.",
+      "zh": "Uta 挂了电话——这是所有禁忌里最大的一条——很快我就发现自己已经在去卡拉OK的路上了。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utanoongen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/utanoongen.webp",
+      "alt": "utanoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "As expected, minimal attention is provided to me this afternoon.",
+      "zh": "果然，这个下午她几乎没怎么理我。"
+    },
+    {
+      "en": "But that's okay- because intentional neglect is still a form of attention.",
+      "zh": "不过没关系——因为刻意的冷落，也算是一种关注。"
+    },
+    {
+      "en": "However, neglect itself calls into question whether or not it {i}is{/i} intentional and-",
+      "zh": "但冷落本身又会让人怀疑，它到底是不是{i}刻意{/i}的，而且——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Uta, do you want to stop singing and maybe talk for a little while?",
+      "spk": "Sensei",
+      "zh": ": Uta，你要不要先别唱了，我们聊一会儿？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No can do, Sensei! I'm on a hot streak!",
+      "spk": "Uta",
+      "zh": ": 不行哦，Sensei！我正连着好几首呢！",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": Grab a mic and sing along if you're so desperate for some Ushibori time!",
+      "spk": "Uta",
+      "zh": ": 你要是这么渴望 Ushibori 时间，就自己抓个麦克风一起唱！",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide against grabbing a microphone and elect to continue watching Uta instead.",
+      "zh": "我决定不去抓麦克风，继续看着 Uta。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "This goes on for roughly half an hour before she runs out of breath and needs to take a break.",
+      "zh": "就这样过了大约半小时，她才唱到没气，需要休息一下。"
+    },
+    {
+      "en": "During that time, I avoid being neglected and manage to grow a little closer to Uta.",
+      "zh": "那段时间里，我躲开了被冷落，也算和 Uta 稍微近了一点。"
+    },
+    {
+      "en": "Even if she would likely take karaoke over {i}me{/i} any day of the week.",
+      "zh": "尽管她大概宁愿要卡拉OK，也不要{i}我{/i}——一周七天都是如此。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ uta_love += 1",
+      "zh": "$ uta_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Uta's affection has increased to [uta_love]!{/i}",
+      "zh": "{i}Uta 的好感度提升到了 [uta_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

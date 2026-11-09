@@ -1,0 +1,28 @@
+{
+  "label": "nodokahall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label nodokahall:",
+      "zh": ""
+    },
+    {
+      "en": "if nodokafirsthall == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump nodokafirsthall",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump nodokahallgen",
+      "zh": ""
+    }
+  ]
+}

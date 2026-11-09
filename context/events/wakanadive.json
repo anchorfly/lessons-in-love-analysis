@@ -1,0 +1,170 @@
+{
+  "label": "wakanadive",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label wakanadive:",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump wakanaspringdivegen",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene wakanadivegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/wakanadivegen.webp",
+      "alt": "wakanadivegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I find some time to meet up with Wakana and the others at the bar after work.",
+      "zh": "我抽空下班后去酒吧和 Wakana 她们碰头。"
+    },
+    {
+      "en": "And while the two of us spend the majority of the night attempting to navigate the labyrinth that is conversation with Imani and Rika, we {i}do{/i} find a little time to ourselves after a while.",
+      "zh": "虽然我和她大半个晚上都在试图穿越与 Imani 和 Rika 对话的那座迷宫，但过了一阵子我们还{i}是{/i}找到了一点独处的时间。"
+    },
+    {
+      "en": "I think it's pretty clear that both of us like them. They're just...very different from the way we are in that they actually {i}enjoy{/i} socializing for some reason.",
+      "zh": "我觉得很明显，我们俩都喜欢她们。她们只是……和我们非常不同，因为她们竟然出于某种原因是真的{i}喜欢{/i}社交。"
+    },
+    {
+      "en": "Within these small bouts of downtime, Wakana and I figure out a way to maximize our recharge period- discussing things like poetry and the sex acts she performs on her girlfriend.",
+      "zh": "在这些短暂的间隙里，Wakana 和我想出了一个最大化「回血期」的办法——聊聊诗歌之类，还有她对女朋友做的那些性行为。"
+    },
+    {
+      "en": "Okay, so she doesn't really discuss that second part. But I spare no effort in trying to {i}get her{/i} to.",
+      "zh": "好吧，后半部分她其实没怎么聊。但我不遗余力地想{i}让她聊{/i}。"
+    },
+    {
+      "en": "Eventually the night grows old and the time comes for all of us to leave- but our tradition manages to survive another week.",
+      "zh": "最终夜色渐老，我们所有人都该走了——但我们的传统又撑过了一周。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We split into two groups once we're outside of the bar so no one has to walk home alone and I wind up partnering up with Wakana for the night.",
+      "zh": "出了酒吧之后我们分成两组，这样没人需要独自回家，而我今晚和 Wakana 结成了伴。"
+    },
+    {
+      "en": "But seeing as the two of us live much further away from here than Imani and Rika, we wind up splitting the cost of a taxi and heading back together.",
+      "zh": "但因为我和她住得比 Imani 和 Rika 远得多，我们最后平摊了出租车费，一起回去。"
+    },
+    {
+      "en": "Our time as a duo is spent in complete silence, but it never feels...awkward.",
+      "zh": "我们两个独处的时间完全是在沉默中度过的，但这从不让人觉得……尴尬。"
+    },
+    {
+      "en": "It's more like we've just exhausted every last bit of energy we have...and decide to {i}be{/i} with each other without really {i}acknowledging{/i} each other.",
+      "zh": "更像是我们已经耗尽了最后一丝力气……然后决定{i}待在一起{/i}，却并不真的去{i}理会{/i}对方。"
+    },
+    {
+      "en": "I like it because it's easy.",
+      "zh": "我喜欢这样，因为它很轻松。"
+    },
+    {
+      "en": "And Wakana likes it because I am no longer probing her for hot lesbian details.",
+      "zh": "而 Wakana 喜欢这样，因为我不再追问她那些火辣的女同性恋细节了。"
+    },
+    {
+      "en": "Either way, the night comes to an end...but we all manage to get a little closer.",
+      "zh": "不管怎样，夜晚就这样结束了……但我们所有人都变得亲近了一点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ wakana_love += 3",
+      "zh": "$ wakana_love += 3"
+    },
+    {
+      "en": "$ imani_love += 1",
+      "zh": "$ imani_love += 1"
+    },
+    {
+      "en": "$ rika_love += 1",
+      "zh": "$ rika_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Wakana's affection has increased by 3!{/i}",
+      "zh": "{i}Wakana 的好感度提升了 3!{/i}"
+    },
+    {
+      "en": "{i}Imani's affection has increased by 1!{/i}",
+      "zh": "{i}Imani 的好感度提升了 1！{/i}"
+    },
+    {
+      "en": "{i}Rika's affection has increased by 1!{/i}",
+      "zh": "{i}Rika 的好感度提升了 1!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

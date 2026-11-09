@@ -1,0 +1,111 @@
+{
+  "label": "saragenafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label saragenafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "scene saraafternoongen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/saraafternoongen.webp",
+      "alt": "saraafternoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sara and I make plans over the phone to spend some time together in the city.",
+      "zh": "Sara 和我在电话里说好，去城里一起待一段时间。"
+    },
+    {
+      "en": "We meet in front of the same headquarters as our first 'date,' which has become sort of a landmark to us, and proceed to wander around the town looking for a place to get her boba tea.",
+      "zh": "我们约在第一次「约会」时那栋总部大楼前碰面——那儿对我们来说已经有点像地标了——然后开始在城里转悠，找地方给她买珍珠奶茶。"
+    },
+    {
+      "en": "I want to say I'm surprised at how [young]Sara acts despite having a [teenage]daughter, but I don't think anything about her would {i}really{/i} surprise me at this point.",
+      "zh": "我本想说我惊讶于 Sara 明明有个[十几岁]的女儿，举止却这么[年轻]，但到了这一步，她身上大概没什么能{i}真的{/i}让我惊讶了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "She's like a [teenage]girl trapped in an attractive mother's body...which might actually explain why I like hanging out with her as much as I do.",
+      "zh": "她就像一个困在迷人母亲身体里的[十几岁]女孩……这大概正好解释了我为什么这么喜欢跟她待在一起。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sara winds up spotting some tea-shop she's never seen before and forces me inside of it.",
+      "zh": "Sara 后来发现了一家她从没见过的奶茶店，硬把我拉了进去。"
+    },
+    {
+      "en": "She then {i}pretends{/i} to forget her wallet and I have to pay for her.",
+      "zh": "接着她{i}假装{/i}忘了带钱包，只好由我付钱。"
+    },
+    {
+      "en": "Things like this would piss me off coming from most people, but something about the way Sara does it makes it seem less malicious and more...endearing.",
+      "zh": "这种事换成大多数人做，我大概会火大，但 Sara 做起来就是没那么有恶意，反而……有点可爱。"
+    },
+    {
+      "en": "And so I buy her her stupid boba tea and the two of us walk around for another hour or so before heading home...",
+      "zh": "于是我给她买了那杯破珍珠奶茶，我俩又逛了一个来小时才回家……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sara_love += 1",
+      "zh": "$ sara_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Sara's affection has increased to [sara_love]{/i}!",
+      "zh": "{i}Sara 的好感度提升到了 [sara_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

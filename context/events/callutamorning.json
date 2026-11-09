@@ -1,0 +1,303 @@
+{
+  "label": "callutamorning",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callutamorning:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if utablock == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't think I should call Uta right now...",
+      "zh": "我觉得现在不该打给 Uta……"
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if uta_love >= 35 and utaspecial35 == True and utadate35 == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump utadate35",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Uta's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Uta 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "There's no answer. She might be at her club right now.",
+      "zh": "没人接。她现在也许在社团。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Uta's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Uta 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Guhhhhhhhh...",
+      "spk": "Uta",
+      "zh": ": 唔啊啊啊啊啊……",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": Sensei?...Why are you callin' me so early?...",
+      "spk": "Uta",
+      "zh": ": Sensei……？你怎么这么早就打来了……",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": What's goin' on?...",
+      "spk": "Uta",
+      "zh": ": 怎么了……？",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": Hey, Uta. I just wanted to see what you were up to.",
+      "spk": "Sensei",
+      "zh": ": 嘿，Uta。我只是想看看你在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Now?...{/i}",
+      "spk": "Uta",
+      "zh": ": {i}现在……？{/i}",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": I'm trying to sleep...",
+      "spk": "Uta",
+      "zh": ": 我在睡觉啊……",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": Sorry, but you're just so irresistable that I can't keep my mind off of you for even a second.",
+      "spk": "Sensei",
+      "zh": ": 抱歉，可你实在太让人无法抗拒了，我一秒钟都没法不想你。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Guhhhhhh damn it...Why do I have to be so cute?",
+      "spk": "Uta",
+      "zh": ": 唔啊啊啊该死……我为什么非得这么可爱……",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": Come with me to the cafe and I'll buy you coffee or something.",
+      "spk": "Sensei",
+      "zh": ": 陪我去咖啡馆吧，我给你买杯咖啡什么的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta yawns and then proceeds to knock something off of a table, pausing for a moment as she figures out if she wants to-",
+      "zh": "Uta 打了个哈欠，接着把桌上的什么东西撞了下去，停了一下，像是在考虑要不要——"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Ugh...fine.",
+      "spk": "Uta",
+      "zh": ": 呃……好吧。",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": But don't be expecting any interesting conversation.",
+      "spk": "Uta",
+      "zh": ": 但别指望有什么有意思的对话。",
+      "spkColor": "#EF61BF"
+    },
+    {
+      "en": ": Sounds good. See you soon.",
+      "spk": "Sensei",
+      "zh": ": 好。待会儿见。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene utamorninggen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/utamorninggen.webp",
+      "alt": "utamorninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Uta and I meet up at the cafe and it quickly becomes apparent to me just how hard it is for her to do virtually anything in the morning.",
+      "zh": "我和 Uta 在咖啡馆碰面，很快就发现她早上几乎什么事都做不成。"
+    },
+    {
+      "en": "I offer to buy her a drink and she accepts but, once we sit down at the table, she barely even touches it and just falls asleep instead.",
+      "zh": "我说请她喝一杯，她答应了，可等我们在桌边坐下，她几乎没碰那杯饮料，直接睡着了。"
+    },
+    {
+      "en": "I am forced to spend the morning talking to a girl who may or may not be able to hear me and look like an idiot in the process.",
+      "zh": "于是我只好一整个上午都在跟一个可能听得见、也可能听不见我说话的女孩讲话，看起来像个傻子。"
+    },
+    {
+      "en": "But at least I am an idiot in the company of a cute girl.",
+      "zh": "但至少我是个有可爱女孩陪着的傻子。"
+    },
+    {
+      "en": "Several of them, actually, as Rin comes over to the table and glances confusedly between the two of us on several occasions throughout the morning.",
+      "zh": "而且不止一个——整个上午 Rin 好几次走到桌边，困惑地在我俩之间来回看。"
+    },
+    {
+      "en": "Regardless, I somehow manage to get closer to Uta. Probably.",
+      "zh": "不管怎样，我总算和 Uta 近了一点。大概吧。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "At the very least, I know that she is comfortable sleeping around me.",
+      "zh": "至少我知道，她在我身边睡得很安心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ uta_love += 1",
+      "zh": "$ uta_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Uta's affection has increased to [uta_love]!{/i}",
+      "zh": "{i}Uta 的好感度提升到了 [uta_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

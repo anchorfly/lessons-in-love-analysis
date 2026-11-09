@@ -1,0 +1,393 @@
+{
+  "label": "callrinafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callrinafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "if dormwar17 == False:",
+      "zh": ""
+    },
+    {
+      "en": "Rin doesn't know I have her number yet, so I probably shouldn't call her...",
+      "zh": "Rin 还不知道我有她的号码，所以我大概不该打给她……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if rinphoneblock == True:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Rin's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Rin 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She doesn't.",
+      "zh": "她没有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if rinsad == True:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Rin's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Rin 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "She doesn't.",
+      "zh": "她没有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Rin's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Rin 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "There's no answer. I guess she's busy right now.",
+      "zh": "没人接。看来她现在在忙。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Rin's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Rin 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Greetings and salutations, Sensei!",
+      "spk": "Rin",
+      "zh": ": 致意并问候您，Sensei！",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": What's up?",
+      "spk": "Rin",
+      "zh": ": 怎么啦？",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": Hey, what are you doing right now?",
+      "spk": "Sensei",
+      "zh": ": 嘿，你现在在干什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Sad girl stuff.",
+      "spk": "Rin",
+      "zh": ": 悲伤女孩的事。",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": And what does that entail, exactly?",
+      "spk": "Sensei",
+      "zh": ": 那具体包括些什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Coffee and loud music about girls.",
+      "spk": "Rin",
+      "zh": ": 咖啡，还有关于女孩的吵闹音乐。",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": Are you still at work?",
+      "spk": "Sensei",
+      "zh": ": 你还在上班吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Would I have answered the phone if I was?",
+      "spk": "Rin",
+      "zh": ": 我要是在上班，还会接电话吗？",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": Probably.",
+      "spk": "Sensei",
+      "zh": ": 大概吧。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Dude! I am a GOOD employee. I follow the rules!",
+      "spk": "Rin",
+      "zh": ": 老兄！我可是个优秀的员工。我是守规矩的！",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": Unless the rule is making what the customer actually orders.",
+      "spk": "Sensei",
+      "zh": ": 除非规矩是「照顾客真正点的东西做」。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I've already told you! You're special.",
+      "spk": "Rin",
+      "zh": ": 我跟你说过了！你是特别的。",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": So special that I'm giving you a once in a lifetime opportunity to come hang out and be a sad girl with me.",
+      "spk": "Rin",
+      "zh": ": 特别到我要给你一个一生只有一次的机会，过来陪我当个悲伤女孩。",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": I don't want to be a sad girl.",
+      "spk": "Sensei",
+      "zh": ": 我不想当悲伤女孩。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}The coordinates are on the way.{/i}",
+      "spk": "Rin",
+      "zh": ": {i}坐标已经在路上了。{/i}",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": {i}Godspeed, Sensei...{/i}",
+      "spk": "Rin",
+      "zh": ": {i}一路顺风，Sensei……{/i}",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ": Rin-",
+      "spk": "Sensei",
+      "zh": ": Rin-",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The call comes to an end and I receive a text with an address shortly after.",
+      "zh": "电话挂断，很快我就收到一条写着地址的短信。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene rinnoongen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/rinnoongen.webp",
+      "alt": "rinnoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It turns out that the address I was sent was actually the address to another cafe in the area.",
+      "zh": "结果那个地址是附近另一家咖啡馆。"
+    },
+    {
+      "en": "I'm not exactly sure what would compel someone who works at a cafe to spend their free time at a {i}second{/i} cafe, but I guess that's how things are going to be today.",
+      "zh": "我不太明白，一个在咖啡馆工作的人，为什么会甘愿把空闲时间花在{i}第二家{/i}咖啡馆上，不过今天大概就是这样的一天。"
+    },
+    {
+      "en": "Rin orders some drink I immediately forget the name of as well as a few pastries and the two of us find a place to sit at a table near the window.",
+      "zh": "Rin 点了杯我转头就忘了名字的饮料，还有几样点心，我俩在窗边的桌子坐下。"
+    },
+    {
+      "en": "Despite being a self-proclaimed {i}sad girl{/i}, she seems pretty fine today.",
+      "zh": "虽然她自称{i}悲伤女孩{/i}，今天看起来倒挺正常的。"
+    },
+    {
+      "en": "I don't know if that's just a thing [young]people are saying now, but I also acknowledge the fact that true despair can strike at any moment.",
+      "zh": "我不知道这是不是现在[年轻]人流行的说法，但我也清楚，真正的绝望随时都可能袭来。"
+    },
+    {
+      "en": "And, more often than not, it's lurking somewhere in the background- waiting to devour people like her whole.",
+      "zh": "而且它多半就潜伏在某个背景里——等着把她这样的人整个吞掉。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "No one is devoured and we have a good time.",
+      "zh": "没有人被吞掉，我们玩得挺开心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ rin_love += 1",
+      "zh": "$ rin_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Rin's affection has increased to [rin_love]!{/i}",
+      "zh": "{i}Rin 的好感度提升到了 [rin_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

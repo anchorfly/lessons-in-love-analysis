@@ -1,0 +1,392 @@
+{
+  "label": "calliomorning",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label calliomorning:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if ioblock == True:",
+      "zh": ""
+    },
+    {
+      "en": "I should leave Io alone for now...",
+      "zh": "现在我该让 Io 一个人待着……"
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if io_love >= 35 and iodorm35 == True and predormwars3 == True and ioarchery35 == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump ioarchery35",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump iospringmorninggen",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump iosummer2morninggen",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Io's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Io 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! Good morning Sen-",
+      "spk": "Io",
+      "zh": ": 嘿！早上好，Sen——",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Oh, shoot.",
+      "spk": "Io",
+      "zh": ": 哦，糟了。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": I got too excited and might have woken Uta up.",
+      "spk": "Io",
+      "zh": ": 我太兴奋了，好像把 Uta 吵醒了。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Hold on.",
+      "spk": "Io",
+      "zh": ": 等等。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "A few seconds go by as Io presumably makes sure that her roommate is still asleep.",
+      "zh": "过了几秒，Io 大概是在确认她室友还睡着。"
+    },
+    {
+      "en": "It's kind of cute that she'd get so excited by just a phone call-",
+      "zh": "只是接到一个电话就这么兴奋，有点可爱——"
+    },
+    {
+      "en": "But the cuteness of that excitement quickly fades when I remember that she is just one of thirty-ish options, and that I could have just as easily called anyone else.",
+      "zh": "但这份可爱很快就褪色了，因为我想到她只是三十来个选项里的一个，而我本来也可以轻轻松松打给任何别人。"
+    },
+    {
+      "en": "She can't be happy every morning.",
+      "zh": "她不可能每个早上都开心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Okay. Back.",
+      "spk": "Io",
+      "zh": ": 好了。我回来了。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Sorry about that.",
+      "spk": "Io",
+      "zh": ": 抱歉。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": I went out into the hall and now I have to try and avoid confrontation with anyone else who happens to walk by.",
+      "spk": "Io",
+      "zh": ": 我走到走廊里了，现在得想办法避开任何一个碰巧路过的人。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": How about I make that a little easier by meeting up with you?",
+      "spk": "Sensei",
+      "zh": ": 那不如我过来找你，让你省点事？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Really? Right now?",
+      "spk": "Io",
+      "zh": ": 真的？现在？",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Is that a problem?",
+      "spk": "Sensei",
+      "zh": ": 这有什么问题吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Not at all! I'm already dressed, so we can meet wherever really.",
+      "spk": "Io",
+      "zh": ": 当然不介意！我都换好衣服了，哪里见都行。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": I just didn't think you'd be up to hanging out so early in the day.",
+      "spk": "Io",
+      "zh": ": 我只是没想到你一大早就愿意出来玩。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Well, I am.",
+      "spk": "Sensei",
+      "zh": ": 但我就是愿意啊。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Let's meet up near the bathhouse and just figure out what to do from there.",
+      "spk": "Sensei",
+      "zh": ": 那就在澡堂附近见吧，到了再想干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Cool! Sure!",
+      "spk": "Io",
+      "zh": ": 好啊！行！",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": See you soon!",
+      "spk": "Io",
+      "zh": ": 待会儿见！",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene iomorninggen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/iomorninggen.webp",
+      "alt": "iomorninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Io and I make plans to get breakfast at a nearby convenience store, but...",
+      "zh": "我和 Io 说好去附近的便利店吃早饭，可是……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Io.",
+      "spk": "Sensei",
+      "zh": ": Io。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yeah?",
+      "spk": "Io",
+      "zh": ": 嗯？",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Are you eating a hot dog for breakfast?",
+      "spk": "Sensei",
+      "zh": ": 你早饭在吃热狗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I'm eating {i}three{/i} hot dogs for breakfast.",
+      "spk": "Io",
+      "zh": ": 我早饭在吃{i}三根{/i}热狗。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": This is just the first one.",
+      "spk": "Io",
+      "zh": ": 这只是第一根。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": There are a few more stores on this road and I have timed my hot dog consumption to end just as we make it to the each of them.",
+      "spk": "Io",
+      "zh": ": 这条路上还有好几家店，我算好了吃热狗的节奏，正好每家店到的时候吃完一根。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Is that weird?",
+      "spk": "Io",
+      "zh": ": 这很奇怪吗？",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Yes.",
+      "spk": "Sensei",
+      "zh": ": 对。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh.",
+      "spk": "Io",
+      "zh": ": 哦。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Well, whatever. You should get one too.",
+      "spk": "Io",
+      "zh": ": 好吧，随便你。你也该来一根。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": How exactly are you this skinny again?",
+      "spk": "Sensei",
+      "zh": ": 你到底是怎么做到还这么瘦的？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Idunno. Intermittent fasting, maybe?",
+      "spk": "Io",
+      "zh": ": 不知道。也许是间歇性断食？",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": I normally only eat like once or twice a day.",
+      "spk": "Io",
+      "zh": ": 我平时一天也就吃一两顿。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": But that's not important right now! It's hot dog time!",
+      "spk": "Io",
+      "zh": ": 不过这不重要！现在是热狗时间！",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The rest of the morning goes by...strangely, I guess.",
+      "zh": "剩下的早上就这么过去了……怎么说呢，挺奇怪的。"
+    },
+    {
+      "en": "But at least Io is happy.",
+      "zh": "但至少 Io 很开心。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ io_love += 1",
+      "zh": "$ io_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Io's affection has increased to [io_love]!{/i}",
+      "zh": "{i}Io 的好感度提升到了 [io_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

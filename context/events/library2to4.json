@@ -1,0 +1,93 @@
+{
+  "label": "library2to4",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label library2to4:",
+      "zh": ""
+    },
+    {
+      "en": "scene library",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/library.png",
+      "alt": "library"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head to the library to hang out with Futaba.",
+      "zh": "我去图书馆跟 Futaba 待着。"
+    },
+    {
+      "en": "When I get there, she waves me over to a table and immediately starts talking about some book she’s been reading.",
+      "zh": "我到了之后，她把我招到一张桌边，立刻开始讲她最近在读的某本书。"
+    },
+    {
+      "en": "It’s surprisingly cute to see how excited she gets when discussing it.",
+      "zh": "看她聊起那个有多兴奋，意外地挺可爱。"
+    },
+    {
+      "en": "And even as someone who doesn’t particularly like reading, I can feel myself getting wrapped up in her description.",
+      "zh": "而就算我是个不怎么喜欢读书的人，我也能感觉到自己被她的描述吸引进去。"
+    },
+    {
+      "en": "She’s so much different alone than she is in class.",
+      "zh": "她一个人的时候，跟在班上完全不一样。"
+    },
+    {
+      "en": "I hope that some day she's able to act like this around everyone else as well...",
+      "zh": "我希望有朝一日，她也能在其他人面前这样……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ futaba_love += 1",
+      "zh": "$ futaba_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Futaba’s affection has increased to [futaba_love]!{/i}",
+      "zh": "{i}Futaba 的好感度提升到了 [futaba_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

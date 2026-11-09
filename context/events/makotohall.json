@@ -1,0 +1,156 @@
+{
+  "label": "makotohall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label makotohall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene makotosummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/makotosummer2hallgen.webp",
+      "alt": "makotosummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene makhall3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/makhall3.webp",
+      "alt": "makhall3"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene makotohallwinter",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/makotohallwinter.webp",
+      "alt": "makotohallwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! I’m glad you decided to drop by.",
+      "spk": "Makoto",
+      "zh": ": Sensei！很高兴你决定过来。",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": I actually have a few questions about what you think I could improve on as the class representative...",
+      "spk": "Makoto",
+      "zh": ": 我其实有几个问题，想听听你觉得我作为班长还能改进什么……",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Makoto and I talk about[school] for a few minutes before she has to leave for work.",
+      "zh": "我和 Makoto 聊了几分钟[学校]的事，然后她得去上班了。"
+    },
+    {
+      "en": "It never ceases to amaze me how dedicated she is to improving herself even during her off-time.",
+      "zh": "她连休息时间都这么用心提升自己，我每次都还是会被惊到。"
+    },
+    {
+      "en": "If I was even half as productive as that, I’d probably be in an entirely different position right now.",
+      "zh": "如果我有她一半的效率，现在大概完全会是另一番处境。"
+    },
+    {
+      "en": "It’s funny how {i}I’m{/i} the one being looked up to when she could probably teach this class even better than me.\"",
+      "zh": "有意思的是，被仰望的人居然是{i}我{/i}——而她说不定比我更会教这个班。\""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The two of us talk for another few minutes before she decides it’s best to head out.",
+      "zh": "我们又聊了几分钟，她才决定该走了。"
+    },
+    {
+      "en": "Being the gentleman I am, I walk her out of the dorm and make sure she’s in a nice area before the two of us separate.\"",
+      "zh": "身为绅士，我送她出了宿舍，确认她到了安全的地方，我们才分开。\""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ makoto_love += 1",
+      "zh": "$ makoto_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Makoto’s affection has increased to [makoto_love]!{/i}",
+      "zh": "{i}Makoto 的好感度提升到了 [makoto_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "label": "callionight",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callionight:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callnight",
+      "zh": ""
+    },
+    {
+      "en": "if ioblock == True:",
+      "zh": ""
+    },
+    {
+      "en": "I should leave Io alone for now...",
+      "zh": "现在我该让 Io 一个人待着……"
+    },
+    {
+      "en": "jump callnight",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump iospringnightgen",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump iosummer2nightgen",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Io's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Io 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! What's up?",
+      "spk": "Io",
+      "zh": ": 嘿！怎么了？",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": I was hoping you'd call.",
+      "spk": "Io",
+      "zh": ": 我还在盼着你打电话来呢。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Were you?",
+      "spk": "Sensei",
+      "zh": ": 是吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yup!",
+      "spk": "Io",
+      "zh": ": 嗯！",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day > 5:",
+      "zh": ""
+    },
+    {
+      "en": ": I'm actually about to leave work right now, and I was going to call you if you didn't call me first.",
+      "spk": "Io",
+      "zh": ": 我其实正要下班，要是你没先打来，我就打算打给你了。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": I'm actually on my way back from the convenience store right now and was just about to call you.",
+      "spk": "Io",
+      "zh": ": 我其实正从便利店往回走，刚想打给你。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What a convenient coincidence.",
+      "spk": "Sensei",
+      "zh": ": 真是方便得不得了的巧合。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Heheh! Super convenient.",
+      "spk": "Io",
+      "zh": ": 嘿嘿！超级方便。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Wanna go walk around the park or something?",
+      "spk": "Io",
+      "zh": ": 要不要去公园走走什么的？",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Nobody really goes to the one near the dorm, and there are a few trails there where nobody will bother us.",
+      "spk": "Io",
+      "zh": ": 宿舍附近那个公园基本没人去，里面有几条小路，不会有人来打扰我们。",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": Sounds good to me. I'll start heading over now.",
+      "spk": "Sensei",
+      "zh": ": 听起来不错。我现在就过去。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Awesome!",
+      "spk": "Io",
+      "zh": ": 太好了！",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ": See you soon, Sensei!",
+      "spk": "Io",
+      "zh": ": 一会儿见，Sensei！",
+      "spkColor": "#BBE3A1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene ionightgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/ionightgen.webp",
+      "alt": "ionightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Io and I spend the night roaming the park and talking about whatever crosses our minds.",
+      "zh": "我和 Io 在公园里晃了一整晚，想到什么就聊什么。"
+    },
+    {
+      "en": "As a result, the conversation rapidly switches back and forth from the meaning of life to food...then back around to what it means to exist and then, finally-",
+      "zh": "于是话题在人生的意义和食物之间来回横跳……然后又绕回存在的意义，最后——"
+    },
+    {
+      "en": "Bugs.",
+      "zh": "虫子。"
+    },
+    {
+      "en": "As it turns out, Io isn't only a tomboy in her woodworking, handicraft, and baseball hobbies. She also likes to catch bugs and torment Uta with them.",
+      "zh": "原来 Io 不只是木工、手工和棒球上的假小子，她还喜欢抓虫子，然后拿虫子去折腾 Uta。"
+    },
+    {
+      "en": "Their friendship becomes significantly stranger once I realize this, and I can't help but contemplate if Uta's pet beetle is somehow involved.",
+      "zh": "意识到这一点之后，她们俩的友谊在我眼里变得更奇怪了，我忍不住琢磨 Uta 那只宠物甲虫是不是也掺和在里面。"
+    },
+    {
+      "en": "Either way, Io decides against tormenting {i}me{/i} and instead just points out and names facts about almost every single creature we come across.",
+      "zh": "不管怎样，Io 决定不来折腾{i}我{/i}，只是把我们路上遇到的几乎每一种生物都指出来，讲上几句。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "I find it impressive how she is essentially a fountain of biological knowledge and manage to refrain from including any of {i}my{/i} biological knowledge into the conversation as well.",
+      "zh": "她简直就是一座行走的生物学知识喷泉，我很佩服——同时也忍住了没把{i}我{/i}那套生物学知识也塞进对话里。"
+    },
+    {
+      "en": "That was a sex joke.",
+      "zh": "那是个黄色笑话。"
+    },
+    {
+      "en": "Please laugh.",
+      "zh": "请笑一下。"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I find it impressive how she is essentially a fountain of biological knowledge and consider pushing her into further expanding that talent of hers once she gets out of college.",
+      "zh": "她简直就是一座行走的生物学知识喷泉，我甚至在考虑等她大学毕业以后，推她一把，把这方面的天赋再扩展扩展。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "We end the night by sitting on a park bench for another half hour or so, not really talking about anything- but instead just staving off the cold and gazing up at streetlights.",
+      "zh": "这一晚以我们在公园长椅上又坐了半个小时收尾，没聊什么正经的——只是挨着冷风，抬头看路灯。"
+    },
+    {
+      "en": "Io rests her head on my shoulder and ultimately falls asleep.",
+      "zh": "Io 把头靠在我肩上，最后睡着了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ io_love += 1",
+      "zh": "$ io_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Io's affection has increased to [io_love]!{/i}",
+      "zh": "{i}Io 的好感度提升到了 [io_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

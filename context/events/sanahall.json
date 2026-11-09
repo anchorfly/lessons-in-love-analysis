@@ -1,0 +1,192 @@
+{
+  "label": "sanahall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sanahall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene sanasummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/sanasummer2hallgen.webp",
+      "alt": "sanasummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene sanahall7",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/sanahall7.webp",
+      "alt": "sanahall7"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene sanahallwinter",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/sanahallwinter.webp",
+      "alt": "sanahallwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Um...Hello, Sensei...",
+      "spk": "Sana",
+      "zh": ": 嗯……你好，Sensei……",
+      "spkColor": "#00E77F"
+    },
+    {
+      "en": ": Hey Sana. Are you free right now?",
+      "spk": "Sensei",
+      "zh": ": 嘿 Sana。你现在有空吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Mhm. Did...you want to talk to me?",
+      "spk": "Sana",
+      "zh": ": 嗯。你……想跟我说话吗？",
+      "spkColor": "#00E77F"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana and I spend some time together outside of her room.",
+      "zh": "我和 Sana 在她房间外面待了一会儿。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if firsttimebar == True:",
+      "zh": ""
+    },
+    {
+      "en": "She tells me a few stories of how the bar has been as of late, and how she’s doing her best to try and engage more customers.",
+      "zh": "她跟我讲了几个酒吧最近的事，还有她怎么努力去招呼更多客人。"
+    },
+    {
+      "en": "Of course, that comes with its own list of setbacks as well.",
+      "zh": "当然，这中间也有它自己的一堆挫折。"
+    },
+    {
+      "en": "I’ll have to keep doing my best alongside her to make sure she gets the confidence she needs to run the place effectively.",
+      "zh": "我得继续陪她一起努力，确保她能攒够信心，把那个地方经营好。"
+    },
+    {
+      "en": "The more time I spend with Sana, the more aware I become of how I really see her.",
+      "zh": "和 Sana 待得越久，我就越清楚自己到底怎么看她。"
+    },
+    {
+      "en": "She’s definitely the outcast of the pack so far, and I want to keep protecting her for as long as I can...",
+      "zh": "到目前为止，她绝对是这群人里的异类，我想尽可能久地保护她……"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I spend the entire time thinking about having sex with her.",
+      "zh": "而我整个过程都在想着跟她做爱。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sana_love += 1",
+      "zh": "$ sana_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Sana’s affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "############################################",
+      "zh": ""
+    },
+    {
+      "en": "##########        ROOM 1          ##########",
+      "zh": ""
+    },
+    {
+      "en": "############################################",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "label": "sanainviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label sanainviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene sanainvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/sanainvitegen.webp",
+      "alt": "sanainvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Sana and I decide to take it easy and {i}not{/i} engage in anything sexual today.",
+      "zh": "Sana 和我决定今天放轻松，{i}不{/i}做任何跟性有关的事。"
+    },
+    {
+      "en": "But seeing as I'm boring and she still needs a way to stay occupied, she pulls out her Switch and crawls into my lap.",
+      "zh": "但我这人很无聊，她总得找点事做，于是她掏出 Switch，爬到我腿上。"
+    },
+    {
+      "en": "I watch her play games as I hold her from behind, responding sparingly every time she glances back to see if I'm still paying attention.",
+      "zh": "我从背后抱着她，看她玩游戏，每次她回头确认我还在不在看，我就稍微应一声。"
+    },
+    {
+      "en": "And I am. But I spend less time focusing on the game itself and more time observing the size of her fingers and the ways she's able to move them.",
+      "zh": "我确实在看。只是我更多是在观察她手指的大小、以及她活动手指的方式，而不是游戏本身。"
+    },
+    {
+      "en": "It's interesting...knowing that she's a living being inhabiting the same space as me. That I'd already done so much before she was even conceived.",
+      "zh": "这挺有意思的……知道她是一个和我处在同一个空间里的活人。知道在她还没被怀上之前，我就已经做过那么多事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But even more interesting than that is that despite this, she seems more comfortable with me than I've ever seen her with anyone else.",
+      "zh": "但更有意思的是，尽管如此，她在我身边看起来比我见过的她和任何人在一起时都更自在。"
+    },
+    {
+      "en": "Even Ayane seems to be falling victim to my hold on Sana now. And while it may not be her heart in my hands, whatever it is seems very important to her.",
+      "zh": "现在连 Ayane 好像都成了我对 Sana 这份掌控的受害者。虽然握在我手里的也许不是她的心，但那个东西对她显然非常重要。"
+    },
+    {
+      "en": "So small. So fragile. So...{i}mine.{/i} And why? Because I'm here? Because of coincidence?",
+      "zh": "这么小。这么脆弱。这么……{i}属于我{/i}。为什么？因为我在这里？因为巧合？"
+    },
+    {
+      "en": "I stare more at her fingers and try to forget, admiring the slender fleshworms that guide her on-screen body.",
+      "zh": "我继续盯着她的手指，努力把这些念头忘掉，欣赏这几条纤细的肉虫——它们操控着屏幕上她的身体。"
+    },
+    {
+      "en": "I silently thank the beings that brought her into existence.",
+      "zh": "我默默感谢那些让她得以存在的东西。"
+    },
+    {
+      "en": "I can name one of them. But for the other, all I can do is understand.",
+      "zh": "其中一个我能叫出名字。另一个，我只能去理解。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sana_love += 3",
+      "zh": "$ sana_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Sana's affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

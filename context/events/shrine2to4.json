@@ -1,0 +1,90 @@
+{
+  "label": "shrine2to4",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label shrine2to4:",
+      "zh": ""
+    },
+    {
+      "en": "scene shrine_noon",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/shrine_noon.png",
+      "alt": "shrine_noon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head back to the shrine to see if Maya’s there.",
+      "zh": "我回神社去看 Maya 在不在。"
+    },
+    {
+      "en": "As I reach the top of the stairs, I spot her sweeping the area around a donation box.",
+      "zh": "走到台阶顶上，我看见她正在香油箱周围扫地。"
+    },
+    {
+      "en": "She greets me with a mix of confusion and surprise before asking me why I’d willingly come back to a place like this.\"",
+      "zh": "她见到我时又困惑又惊讶，然后问我为什么会愿意回到这种地方来。\""
+    },
+    {
+      "en": "I tell her it’s out of boredom but, honestly, I just like seeing her in her shrine maiden outfit.",
+      "zh": "我说是因为无聊，但其实我只是喜欢看她穿巫女服的样子。"
+    },
+    {
+      "en": "Eventually, she asks me to leave so she can go back to focusing on her duties, and I find myself walking back down the stairs shortly after...\"",
+      "zh": "最后她让我走，好回去专心做她的事，于是我很快又走下台阶……\""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maya_love += 1",
+      "zh": "$ maya_love += 1"
+    },
+    {
+      "en": "$ shrinegeneric = True",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Maya’s affection has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

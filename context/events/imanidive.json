@@ -1,0 +1,174 @@
+{
+  "label": "imanidive",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label imanidive:",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump imanispringdivegen",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene imanidivegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/imanidivegen.webp",
+      "alt": "imanidivegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head over to the bar to meet up with Imani and others and find myself spending the entire night focusing on her- though, not intentionally.",
+      "zh": "我去酒吧和 Imani 她们碰面，结果整晚都在注意她——虽然不是故意的。"
+    },
+    {
+      "en": "You see, Imani was feeling particularly bored today and decided to come here a solid hour before the rest of us. Which means that she was already pretty drunk by the time we arrived.",
+      "zh": "你看，Imani 今天特别无聊，决定比我们早整整一个小时到。也就是说我们到的时候她已经喝得挺醉了。"
+    },
+    {
+      "en": "And when Imani is drunk, Imani is...",
+      "zh": "而 Imani 一醉，Imani 就……"
+    },
+    {
+      "en": "Well, take normal Imani and just multiply her by five.",
+      "zh": "这么说吧，把平时的 Imani 乘以五。"
+    },
+    {
+      "en": "It doesn't happen all the time as she's normally pretty good at holding herself back. But when it {i}does{/i} happen, it's basically the only thing any of us can focus on. ",
+      "zh": "这也不是常有的事，她平时挺能克制的。但一旦{i}真{/i}发生了，基本上就成了我们所有人唯一能关注的事。"
+    },
+    {
+      "en": "Or...are {i}allowed{/i} to focus on.",
+      "zh": "或者说……唯一{i}被允许{/i}关注的事。"
+    },
+    {
+      "en": "As you may have guessed, she talks my ear off and seemingly forgets that there are other people with us as well. Which is fine by me as it provides a great deal of attention-",
+      "zh": "你可能猜到了，她一直在我耳边说个不停，好像忘了旁边还有别人。这对我来说倒也无所谓，因为能收获大量注意力——"
+    },
+    {
+      "en": "But is also annoying- as it provides a great deal of attention.",
+      "zh": "但也很烦——因为能收获大量注意力。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Eventually, Imani accepts that she has had enough and elects me as the person responsible for bringing her home.",
+      "zh": "最后 Imani 承认自己喝够了，并指定我负责送她回家。"
+    },
+    {
+      "en": "As such, the two of us depart from the bar a bit earlier than Wakana and Rika and make our way out into the streets, barely managing to stay upright on account of one of us being dead weight.",
+      "zh": "于是我们比 Wakana 和 Rika 早一点离开酒吧，走上街头，因为我们当中有一个完全是累赘，勉强才没倒下。"
+    },
+    {
+      "en": "Imani needs to completely rely on the support of my arm to even walk and stays latched onto it the whole way back to her apartment.",
+      "zh": "Imani 得完全靠我的胳膊撑着才能走路，一路到她的公寓都紧紧抓着不放。"
+    },
+    {
+      "en": "Thankfully, the walk isn't all that long...so I'm able to get her up the stairs and into bed without a hitch.",
+      "zh": "幸好路不算远……我顺利把她扶上楼梯、弄到床上。"
+    },
+    {
+      "en": "As I turn around to leave, she thanks me and informs me that I can crash here as well if I want.",
+      "zh": "我转身要走时，她道了谢，还说我想的话也可以在这儿睡。"
+    },
+    {
+      "en": "But seeing as her apartment is the size of my torso and her blood alcohol level is 300%%, I decide to just head back home instead...",
+      "zh": "但看她那间公寓只有我躯干那么大，而她的血液酒精浓度大概有 300%%，我决定还是回家……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ wakana_love += 1",
+      "zh": "$ wakana_love += 1"
+    },
+    {
+      "en": "$ imani_love += 3",
+      "zh": "$ imani_love += 3"
+    },
+    {
+      "en": "$ rika_love += 1",
+      "zh": "$ rika_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Imani's affection has increased by 3!{/i}",
+      "zh": "{i}Imani 的好感度提升了 3!{/i}"
+    },
+    {
+      "en": "{i}Wakana's affection has increased by 1!{/i}",
+      "zh": "{i}Wakana 的好感度提升了 1!{/i}"
+    },
+    {
+      "en": "{i}Rika's affection has increased by 1!{/i}",
+      "zh": "{i}Rika 的好感度提升了 1!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

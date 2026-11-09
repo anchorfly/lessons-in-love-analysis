@@ -1,0 +1,115 @@
+{
+  "label": "soccer2to4",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label soccer2to4:",
+      "zh": ""
+    },
+    {
+      "en": "scene soccerfield",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/soccerfield.png",
+      "alt": "soccerfield"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I walk over to the soccer field to see how Miku and the rest of the team are doing.",
+      "zh": "我走到足球场，看看 Miku 和队里其他人怎么样。"
+    },
+    {
+      "en": "She notices me right away and runs up to me with the same level of excitement as always.",
+      "zh": "她立刻注意到我，像往常一样兴奋地朝我跑过来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if soccer20 == True:",
+      "zh": ""
+    },
+    {
+      "en": "I thought her enthusiasm might have died down a bit after I became the coach, but it's become easily apparent that this is not the case.",
+      "zh": "我本以为我当上教练之后，她那股热情会消退一点，不过现在显而易见并非如此。"
+    },
+    {
+      "en": "Regardless, I take a seat on the sidelines and watch as a group of attractive and fit [teenage]girls kick a ball around.",
+      "zh": "不管怎样，我在场边坐下，看着一群又好看又结实的少女踢球。"
+    },
+    {
+      "en": "It's something I wouldn't mind watching all day, but eventually practice comes to an end and I need to find something else to do...",
+      "zh": "那是我看一整天都不介意的东西，不过训练最终还是会结束，我得找点别的事做……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "Just like she does every time I'm here, Miku tries coaxing me into being the new coach.",
+      "zh": "就像我每次来这儿一样，Miku 试着哄我当新教练。"
+    },
+    {
+      "en": "Knowing absolutely nothing about soccer, I decline and Miku goes back to yelling at the rest of the girls to speed up.\"",
+      "zh": "我对足球一无所知，只好拒绝，Miku 便回头继续冲其他女孩喊，叫她们快点。\""
+    },
+    {
+      "en": "I stay and watch for a little while before realizing that I probably look like a creep and decide to get on with the rest of my day...\"",
+      "zh": "我留在那儿看了一会儿，然后意识到自己大概看起来像个变态，决定继续过我这一天……\""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ miku_love += 1",
+      "zh": "$ miku_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Miku’s affection has increased to [miku_love]!{/i}",
+      "zh": "{i}Miku 的好感度提升到了 [miku_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

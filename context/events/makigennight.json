@@ -1,0 +1,153 @@
+{
+  "label": "makigennight",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label makigennight:",
+      "zh": ""
+    },
+    {
+      "en": "scene makinightgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/makinightgen.webp",
+      "alt": "makinightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to head over to the porn shop to see if Maki is around.",
+      "zh": "我决定去色情用品店看看 Maki 在不在。"
+    },
+    {
+      "en": "As it turns out, Makoto is taking the night off to relax or unwind or something along those lines, so I get a rare opportunity to be alone with her mother.",
+      "zh": "结果 Makoto 今晚请假休息、放松什么的，于是我难得有机会和她妈妈单独待着。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "The conversation quickly devolves from relatively normal to outright abrasive as she grabs a dildo off of the counter and begins to wave it around in front of me.",
+      "zh": "话题很快从还算正常变成彻底不堪，她从柜台上抓起一根假阳具，在我面前挥来挥去。"
+    },
+    {
+      "en": "I'm not sure what her gameplan is here since I have absolutely no intention of ever purchasing an object like this, but it's mildly funny so I decide to let her do her thing.",
+      "zh": "我不太明白她打的什么算盘，因为我完全没有买这种东西的打算，不过这场面有点好笑，我就随她去了。"
+    },
+    {
+      "en": "I'm still shocked by how openly perverted the mother of someone like Makoto is, but I guess it takes a special kind of person to manage a porn shop...",
+      "zh": "像 Makoto 那样的人，母亲居然这么放得开，我到现在还是觉得震惊，不过管一家色情用品店，大概确实需要特别的人……"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "She seizes the opportunity to show me a new sculpture she purchased from a recent auction of fine art.",
+      "zh": "她抓住机会给我看她最近在一次美术拍卖会上买的新雕塑。"
+    },
+    {
+      "en": "I respect the piece for its artisinal craftsmanship and applaud her for her sophisticated taste.",
+      "zh": "我欣赏这件作品的手工，也称赞她品味不俗。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maki goes on to recommend me a few of her favorite DVDs and, having some extra cash, I decide to buy all of them.",
+      "zh": "接着 Maki 给我推荐了几张她最喜欢的 DVD，我手头正好有点闲钱，就全买了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "It's great finally having someone who will actually sell me porn, let alone recommend it, so wasting an opportunity like this would be outright foolish.",
+      "zh": "终于有人愿意卖我色情片、甚至还主动推荐，浪费这种机会简直蠢透了。"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "I am glad that Napoleon Dynamite is not included in her list of recommendations.",
+      "zh": "我很高兴她的推荐清单里没有《Napoleon Dynamite》。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I'll have to let her know how I feel about these once I finally get around to watching them...",
+      "zh": "等我真正看完，得跟她说说我的感受……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maki_love += 1",
+      "zh": "$ maki_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Maki's affection has increased to [maki_love]!{/i}",
+      "zh": "{i}Maki 的好感度提升到了 [maki_love]！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

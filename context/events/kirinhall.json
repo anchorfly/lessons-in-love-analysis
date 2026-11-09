@@ -1,0 +1,144 @@
+{
+  "label": "kirinhall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kirinhall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene kirinsummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/kirinsummer2hallgen.webp",
+      "alt": "kirinsummer2hallgen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene kirinhall1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/kirinhall1.webp",
+      "alt": "kirinhall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Thank fucking God. I was dying of boredom.",
+      "spk": "Kirin",
+      "zh": ": 他妈的谢天谢地。我都快无聊死了。",
+      "spkColor": "#9C8080"
+    },
+    {
+      "en": ": Please, {i}please{/i} do something with me before my brain starts to ooze out of my ears.",
+      "spk": "Kirin",
+      "zh": ": 拜托，{i}拜托{/i}陪我干点什么吧，不然我的脑子就要从耳朵里流出来了。",
+      "spkColor": "#9C8080"
+    },
+    {
+      "en": ": I will certainly do my best to prevent that from happening.",
+      "spk": "Sensei",
+      "zh": ": 那我一定尽力阻止这种事发生。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Did you want to go into your-",
+      "spk": "Sensei",
+      "zh": ": 你要不要进你房间——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No. Let's talk out here.",
+      "spk": "Kirin",
+      "zh": ": 不要。我们就在外面聊。",
+      "spkColor": "#9C8080"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Kirin and I spend the night in the hallway instead of going into her room for whatever reason.",
+      "zh": "不知为什么，Kirin 和我没进她房间，而是在走廊里待了一晚。"
+    },
+    {
+      "en": "I get feeling cooped up sometimes, but what is it about standing around in the hallway that seemed so alluring to her tonight?",
+      "zh": "我有时会觉得憋得慌，可今晚站在走廊里到底有什么吸引她的？"
+    },
+    {
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "en": "Oh, okay. I get it.",
+      "zh": "哦，好吧。我明白了。"
+    },
+    {
+      "en": "She probably just wants the others to see me hanging out with her.",
+      "zh": "她大概只是想让别人看见她跟我待在一起。"
+    },
+    {
+      "en": "Or at least that's what I imagine is going through her head.",
+      "zh": "至少我是这么猜她脑子里在想什么的。"
+    },
+    {
+      "en": "Regardless, we talk for an hour or so before deciding to call it a night, and I find myself heading back home having accomplished virtually nothing today.",
+      "zh": "不管怎样，我们聊了一个来小时才决定就此打住，然后我发现自己回到家，今天几乎什么都没做成。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "$ kirin_love += 1",
+      "zh": "$ kirin_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Kirin’s affection has increased to [kirin_love]!{/i}",
+      "zh": "{i}Kirin 的好感度提升到了 [kirin_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

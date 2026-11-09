@@ -1,0 +1,156 @@
+{
+  "label": "futabainviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label futabainviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene futabainvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/futabainvitegen.webp",
+      "alt": "futabainvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba and I spend the night quietly chatting in my room.",
+      "zh": "我和 Futaba 晚上在我房间里轻声聊天。"
+    },
+    {
+      "en": "She tells me more about some of the things she's been writing and about how she's coming closer and closer to {i}finding her voice.{/i}",
+      "zh": "她跟我讲了更多她在写的东西，还说她越来越接近{i}找到自己的声音{/i}了。"
+    },
+    {
+      "en": "I'm proud of her, but I always knew something like this was bound to happen once she got a little push from someone.",
+      "zh": "我为她骄傲，但我一直知道，只要有人稍微推她一把，这种事迟早会发生。"
+    },
+    {
+      "en": "I'm still not sure why she needed me, of all people, to be the one to push her-",
+      "zh": "我还是不明白，为什么偏偏要我来当那个推她的人——"
+    },
+    {
+      "en": "But I'm the one that wound up with the job, so I did what I had to do and I don't regret a second of it.",
+      "zh": "但既然这事落到我头上，我就做了该做的事，一秒钟都不后悔。"
+    },
+    {
+      "en": "Without any plans or desire to leave this place and actually do something, we wind up resigning ourselves to several hours of history channel documentaries.",
+      "zh": "我们既没计划也没意愿离开这儿去干点什么，最后只能认命地看了几个小时历史频道的纪录片。"
+    },
+    {
+      "en": "It's not something I'm particularly interested in, but Futaba seems to enjoy it...",
+      "zh": "这不是我特别感兴趣的题材，但 Futaba 好像挺享受……"
+    },
+    {
+      "en": "So I take one for the team and proceed to watch a group of strange looking Americans appraise curious objects inside of a dinky old pawn shop.",
+      "zh": "于是我为了大家忍着，看一群长相奇怪的美国人在一家破旧的当铺里鉴定些稀奇古怪的东西。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The sun sets and the moon rises, prompting me to see if Futaba wants to order anything for dinner.",
+      "zh": "太阳落山、月亮升起，我便问她要不要点些什么当晚饭。"
+    },
+    {
+      "en": "She thanks me for the offer but insists that she has food back at the dorm and is just going to eat there before going to sleep.",
+      "zh": "她谢过我的好意，但坚持说宿舍里还有吃的，回去吃完就睡。"
+    },
+    {
+      "en": "Eventually, the marathon of the pawn show comes to an end and we're thrust into a documentary about bees.",
+      "zh": "到最后那档当铺节目终于播完，我们又被塞进一部讲蜜蜂的纪录片。"
+    },
+    {
+      "en": "And, I can't believe I'm saying this, but it's somehow even {i}more{/i} boring than four dudes doing nothing but buying and selling stuff for hours on end.",
+      "zh": "而且我不敢相信自己会这么说——它居然比四个男人连着几小时只买卖东西{i}更{/i}无聊。"
+    },
+    {
+      "en": "Even Futaba must hate it, as she suddenly begins to pack up her things to head out before Ami gets back.",
+      "zh": "连 Futaba 都受不了，她突然开始收拾东西，想在 Ami 回来之前走。"
+    },
+    {
+      "en": "I walk her to the door and see her off with a hug.",
+      "zh": "我送她到门口，用一个拥抱道别。"
+    },
+    {
+      "en": "She smiles as she leaves and the loneliness sets in again.",
+      "zh": "她笑着离开，寂寞又回来了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ futaba_love += 3",
+      "zh": "$ futaba_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Futaba's affection has increased to [futaba_love]!{/i}",
+      "zh": "{i}Futaba 的好感度提升到了 [futaba_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

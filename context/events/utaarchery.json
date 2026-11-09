@@ -1,0 +1,36 @@
+{
+  "label": "utaarchery",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label utaarchery:",
+      "zh": ""
+    },
+    {
+      "en": "if io_love >= 20 and makiinv3 == True and ioarchery1 == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump ioarchery1",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump utaspringarcherygen",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump utasummer2archerygen",
+      "zh": ""
+    }
+  ]
+}

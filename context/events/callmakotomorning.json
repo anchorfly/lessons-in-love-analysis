@@ -1,0 +1,365 @@
+{
+  "label": "callmakotomorning",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callmakotomorning:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if makotoblock == True:",
+      "zh": ""
+    },
+    {
+      "en": "I should leave Makoto alone for now...",
+      "zh": "现在我该让 Makoto 一个人待着……"
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Makoto's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点了 Makoto 的名字，等她接。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "She doesn't.",
+      "zh": "她没有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump makotosummer2morninggen",
+      "zh": ""
+    },
+    {
+      "en": "if christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Makoto's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点了 Makoto 的名字，等她接。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "There's no answer. I guess she's still sleeping.",
+      "zh": "没人接。看来她还在睡。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Makoto's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点了 Makoto 的名字，等她接。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Good morning, Sensei.",
+      "spk": "Makoto",
+      "zh": ": 早上好，Sensei。",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": You're calling early today. Do you need me for something?",
+      "spk": "Makoto",
+      "zh": ": 你今天打来得挺早。有事要我做吗？",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Good morning, Makoto. And yes, I do.",
+      "spk": "Sensei",
+      "zh": ": 早上好，Makoto。是的，有事。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Okay...Are you going to tell me what it is?",
+      "spk": "Makoto",
+      "zh": ": 好吧……你打算告诉我是什么事吗？",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": I would like to see your face.",
+      "spk": "Sensei",
+      "zh": ": 我想看看你的脸。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Excuse me?",
+      "spk": "Makoto",
+      "zh": ": 你说什么?",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Your face. It is too far away from me.",
+      "spk": "Sensei",
+      "zh": ": 你的脸。它离我太远了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...",
+      "spk": "Makoto",
+      "zh": ": ...",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Did you want to...get coffee or something?",
+      "spk": "Makoto",
+      "zh": ": 你是想……去喝杯咖啡什么的吗？",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Yes. That is clearly what I was asking.",
+      "spk": "Sensei",
+      "zh": ": 对。我显然就是这个意思。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Clearly...",
+      "spk": "Makoto",
+      "zh": ": 显然……",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Let's meet up at Koi Cafe.",
+      "spk": "Makoto",
+      "zh": ": 在 Koi Cafe 见吧。",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": And please don't bring your dreaded demon of a [niece] or I will walk out.",
+      "spk": "Makoto",
+      "zh": ": 还有，千万别把你那个讨人厌的[侄女]恶魔带来，不然我立刻走人。",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Sounds good, Makoto. See you soon.",
+      "spk": "Sensei",
+      "zh": ": 没问题，Makoto。待会儿见。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yup! See you soon.",
+      "spk": "Makoto",
+      "zh": ": 嗯！一会儿见。",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotogenmorning",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/makotogenmorning.webp",
+      "alt": "makotogenmorning"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I arrive at Koi Cafe and take a seat next to Makoto.",
+      "zh": "我到了 Koi Cafe，在 Makoto 旁边坐下。"
+    },
+    {
+      "en": "The two of us spend the morning talking about[school] and how she should probably be tired of doing my job for me by now, but she just...somehow isn't.",
+      "zh": "我俩聊了一上午[学校]的事，还有她到现在本该早就受够了替我干活——可她偏偏……就是没有。"
+    },
+    {
+      "en": "I chalk it up to the fact that she's head over heels for me and leave it at that.",
+      "zh": "我把这归结为她被我迷得神魂颠倒，也就不再多想。"
+    },
+    {
+      "en": "But I wouldn't be surprised to find out if it was something else.",
+      "zh": "但要是真相是别的什么，我也不会惊讶。"
+    },
+    {
+      "en": "Something deeper.",
+      "zh": "更深的东西。"
+    },
+    {
+      "en": "Maybe even something as deep as her life not having any real purpose other than keeping my academic career afloat.",
+      "zh": "也许深到她的人生除了维持我的教学生涯之外，根本没有任何真正的目的。"
+    },
+    {
+      "en": "Perhaps I should take it easier on her and actually do my own job for once?",
+      "zh": "也许我该对她宽松一点，偶尔也真正干干自己的活？"
+    },
+    {
+      "en": "Or perhaps I should watch, the same way I always do, as she drowns in her own neuroticism and desire to be something bigger than what she actually is.",
+      "zh": "又或者，我该像一直以来那样，就这么看着——看她在自己的神经质和「想成为比现在的自己更了不起的东西」的渴望里慢慢淹没。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Morning leaves before we know it, and we head our separate ways.",
+      "zh": "不知不觉上午就过去了，我们各自分开。"
+    },
+    {
+      "en": "But at least we got to spend an hour or two away from the things that pain us.",
+      "zh": "但至少我们有过一两个小时，离那些折磨我们的东西远了一点。"
+    },
+    {
+      "en": "Weekends are good.",
+      "zh": "周末真好。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ makoto_love += 1",
+      "zh": "$ makoto_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Makoto's affection has increased to [makoto_love]!{/i}",
+      "zh": "{i}Makoto 的好感度提升到了 [makoto_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

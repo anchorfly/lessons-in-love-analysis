@@ -1,0 +1,232 @@
+{
+  "label": "callharukaafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callharukaafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True and saracamp2 == False:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if harukanumber == True and day89 == False:",
+      "zh": ""
+    },
+    {
+      "en": "I think I should probably get to know Haruka a little better before calling her.",
+      "zh": "我觉得打电话给 Haruka 之前，应该先多了解她一点。"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "elif harukadate1 == True and harukadate5 == False:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Haruka's name in my phone and wait for her to answer.",
+      "zh": "我在手机里点下 Haruka 的名字，等她接起来。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "There's no answer...She's probably at work anyway.",
+      "zh": "没人接……她大概在上班吧。"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "I hope she doesn't still feel weird about what happened at the bar the other night.",
+      "zh": "希望她别还为那天晚上在酒吧的事觉得别扭。"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Haruka's name in my phone and wait for her to answer.",
+      "zh": "我在手机里点下 Haruka 的名字，等她接起来。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hello?",
+      "spk": "Haruka",
+      "zh": ": 喂？",
+      "spkColor": "#FF48DC"
+    },
+    {
+      "en": ": Hey, it's me. What are you up to right now?",
+      "spk": "Sensei",
+      "zh": ": 嘿，是我。你现在在干什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if cafeclosed == False:",
+      "zh": ""
+    },
+    {
+      "en": ": I'm still at work. Did you need something?",
+      "spk": "Haruka",
+      "zh": ": 我还在上班。有什么事吗？",
+      "spkColor": "#FF48DC"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Damn. Looks like Haruka's busy. I should probably wait until she's done working to ask her out.",
+      "zh": "该死。看来 Haruka 在忙。我大概该等她下班再约她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": It's nothing urgent. I can just call you later.",
+      "spk": "Sensei",
+      "zh": ": 没什么急事。我晚点再打给你。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Okay...I'm sorry! Make sure you really {i}do{/i} call me later though, okay?",
+      "spk": "Haruka",
+      "zh": ": 好……对不起！不过你{i}一定{/i}要记得晚点打给我，好吗？",
+      "spkColor": "#FF48DC"
+    },
+    {
+      "en": ": Sorry, Haruka. {i}I make my own rules.{/i}",
+      "spk": "Sensei",
+      "zh": ": 抱歉，Haruka。{i}规矩是我自己定的。{/i}",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...What?",
+      "spk": "Haruka",
+      "zh": ": ……什么？",
+      "spkColor": "#FF48DC"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I hang up the phone and decide to call someone else instead.",
+      "zh": "我挂了电话，决定改打给别人。"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": Oh, you know. Just trying to get my life back together and convince the government I wasn't having sex in my cafe when we both know I was.",
+      "spk": "Haruka",
+      "zh": ": 哦，你知道的。就是在努力把生活重新拾起来，还得说服政府我没在自家咖啡馆里做爱——虽然我们俩都清楚我做了。",
+      "spkColor": "#FF48DC"
+    },
+    {
+      "en": ": Sounds like fun.",
+      "spk": "Sensei",
+      "zh": ": 听起来挺有意思的。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": It's not.",
+      "spk": "Haruka",
+      "zh": ": 不可以。",
+      "spkColor": "#FF48DC"
+    },
+    {
+      "en": ": Oh.",
+      "spk": "Sensei",
+      "zh": ": 哦。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Well, I guess I'll leave you alone then.",
+      "spk": "Sensei",
+      "zh": ": 那我就不打扰你了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Okay. Talk to you later, I guess.",
+      "spk": "Haruka",
+      "zh": ": 好。那就回头再聊。",
+      "spkColor": "#FF48DC"
+    },
+    {
+      "en": ": See you, Haruka.",
+      "spk": "Sensei",
+      "zh": ": 再见，Haruka。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I hang up the phone and decide to call someone else instead.",
+      "zh": "我挂了电话，决定改打给别人。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    }
+  ]
+}

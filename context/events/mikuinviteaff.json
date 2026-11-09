@@ -1,0 +1,144 @@
+{
+  "label": "mikuinviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mikuinviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene mikuinvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mikuinvitegen.webp",
+      "alt": "mikuinvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Somehow, I get talked into playing video games with Miku again. And while it's not my favorite (Or anywhere remotely close to a favorite) activity, it is nice getting to be this close to her.",
+      "zh": "不知怎么的，我又被说动和 Miku 一起打游戏。虽然这不算我最喜欢的活动（差得远），但能和她这么亲近还是挺好的。"
+    },
+    {
+      "en": "I've come to find recently that the Miku outside of my bedroom is worlds apart from the person she is {i}inside{/i} of here.",
+      "zh": "最近我发现，我卧室外的 Miku 和{i}这里{/i}的她完全是两个世界的人。"
+    },
+    {
+      "en": "Of course, it's extremely plausible that this is due to her newfound affinity for orgasms...but I'd like to think that it's a little more than that.",
+      "zh": "当然，这很可能是她新近爱上高潮的缘故……但我愿意相信不止于此。"
+    },
+    {
+      "en": "I'd like to think that in here, despite what anyone with all of their brain cells intact would say- she feels safe.",
+      "zh": "我愿意相信，在这里——不管任何脑子还正常的人会怎么说——她觉得安全。"
+    },
+    {
+      "en": "She knows that if things were to go wrong and she were to have yet another panic attack...that she would have someone to protect her.",
+      "zh": "她知道，万一出了什么事，万一她又发作一次恐慌……会有个人保护她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But instead, she just has me.",
+      "zh": "但事实上，她只有我。"
+    },
+    {
+      "en": "Someone who has failed to do that time and time again- and will continue to fail so long as there is a shallow crevice to sink my cock into.",
+      "zh": "一个一次又一次没能做到的人——而且只要还有一道浅浅的缝能让我把东西塞进去，我就会继续做不到。"
+    },
+    {
+      "en": "Miku is important to me. That much is inarguable. But she's also just one more naive soul unfortunate enough to cross the path of someone who can never return her innocent, heartwarming gaze.",
+      "zh": "Miku 对我很重要。这一点无可争辩。但她也不过是又一个天真的灵魂，不幸撞上了一个永远无法回应她那纯真温暖目光的人。"
+    },
+    {
+      "en": "As her eyes peer into the twisted vines of my own, falsely illuminated by the light of a television and made into something less disgusting, she gets wrapped up in all she thinks I am.",
+      "zh": "当她的眼睛望进我那扭曲的藤蔓里——那些被电视的光虚假照亮、显得没那么恶心的东西——她便沉进了她以为的我里。"
+    },
+    {
+      "en": "And I beat her in a game that she should have won.",
+      "zh": "然后我在一局她本该赢的游戏里赢了她。"
+    },
+    {
+      "en": "But it's not because I am better than her.",
+      "zh": "但那不是因为我比她强。"
+    },
+    {
+      "en": "It's because she'd already lost everything the moment she walked in.",
+      "zh": "而是因为她走进来那一刻，就已经输掉了一切。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ miku_love += 3",
+      "zh": "$ miku_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Miku's affection has increased to [miku_love]!{/i}",
+      "zh": "{i}Miku 的好感度提升到了 [miku_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

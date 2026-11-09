@@ -1,0 +1,161 @@
+{
+  "label": "chinamigenafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chinamigenafternoon:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Chinami's name and wait for her to answer.",
+      "zh": "我在手机上点开 Chinami 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hello! Thank you for calling the Chinami hotline! How may she be of service?",
+      "spk": "Chinami",
+      "zh": ": 你好！感谢致电 Chinami 热线！请问需要她做什么？",
+      "spkColor": "#FF9999"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I talk with Chinami for a few minutes before finding out that she's alone.",
+      "zh": "我和 Chinami 聊了几分钟，才知道她一个人在家。"
+    },
+    {
+      "en": "Apparently, Yumi was supposed to stop by but never did.",
+      "zh": "本来 Yumi 说要过来的，但一直没来。"
+    },
+    {
+      "en": "Not wanting to leave her alone, I decide to head over myself...",
+      "zh": "我不想把她一个人扔着，于是决定自己过去……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chinamiafternoongen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chinamiafternoongen.webp",
+      "alt": "chinamiafternoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "When I show up at the apartment, Chinami is in the middle of watching some gameshow on television.",
+      "zh": "我到公寓的时候，Chinami 正在看电视上的某个游戏节目。"
+    },
+    {
+      "en": "But despite hearing her cheers from the front door, she turns the TV off and decides to focus her attention on me instead.",
+      "zh": "但尽管我在门口就听见她在欢呼，她还是把电视关了，决定把注意力放在我身上。"
+    },
+    {
+      "en": "Sure, it feels a little weird being alone with her in the middle of the afternoon while her sister is unaware, but I shrug it off when I realize that both of them trust me.",
+      "zh": "当然，大白天和她独处、而她姐姐还不知道，感觉是有点奇怪，但想到她们俩都信得过我，我也就不再多想。"
+    },
+    {
+      "en": "{i}Why{/i} they trust me, I can't really say. But as long as it keeps providing me opportunities like this, I'm not going to complain.",
+      "zh": "她们{i}为什么{/i}信我，我说不上来。但只要这还能给我这样的机会，我就不会抱怨。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "It gets dark rather quickly and I decide to be a good person and order Chinami a pizza before I leave.",
+      "zh": "天很快就黑了，我决定做个好人，走之前给 Chinami 点了份披萨。"
+    },
+    {
+      "en": "She thanks me and hugs my legs, telling me that if I ever decide to marry her sister that she will support it wholeheartedly.",
+      "zh": "她道了谢，抱住我的腿，说如果我哪天决定娶她姐姐，她会全心全意支持。"
+    },
+    {
+      "en": "It is a strange way to say goodbye, but it's one that I have grown to accept.",
+      "zh": "这种告别方式有点奇怪，但我已经慢慢习惯了。"
+    },
+    {
+      "en": "Unfortunately for her, I don't plan on marrying anyone any time soon...",
+      "zh": "不过对她来说不幸的是，我近期没打算娶任何人……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chinami_love += 1",
+      "zh": "$ chinami_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Chinami's affection has increased to [chinami_love]!{/i}",
+      "zh": "{i}Chinami 的好感度提升到了 [chinami_love]！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

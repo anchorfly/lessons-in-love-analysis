@@ -1,0 +1,359 @@
+{
+  "label": "callmakotoafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callmakotoafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "if makoto_love >= 55 and toukaspring3 == True and makotospring1 == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump makotospring1",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if makotoblock == True:",
+      "zh": ""
+    },
+    {
+      "en": "I should leave Makoto alone for now...",
+      "zh": "现在我该让 Makoto 一个人待着……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if makoto_love >= 55 and mikuinvite2 == True and makotospecial50 == True and makotopool55 == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump makotopool55",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump makotospringnoongen",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump makotosummer2poolgen",
+      "zh": ""
+    },
+    {
+      "en": "if christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Makoto's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点了 Makoto 的名字，等她接。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "There's no answer. I guess she's busy right now.",
+      "zh": "没人接。看来她现在在忙。"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if makotobeachticket == True and day == 6 and soccer35 == True and mayadorm35 == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump makotowinterbeach1",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Makoto's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点了 Makoto 的名字，等她接。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": {i}Hello?...{/i}",
+      "spk": "Makoto",
+      "zh": ": {i}喂……？{/i}",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Makoto? Why are you talking so quietly?",
+      "spk": "Sensei",
+      "zh": ": Makoto？你怎么说话这么小声？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Because I'm in the library...I can't talk right now.{/i}",
+      "spk": "Makoto",
+      "zh": ": {i}因为我在图书馆……现在不能说话。{/i}",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Where are you? You're going to need to speak up.",
+      "spk": "Sensei",
+      "zh": ": 你在哪儿？你得说大声点。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}I said I'm in the-{/i}",
+      "spk": "Makoto",
+      "zh": ": {i}我说了我在——{/i}",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Makoto? Are you still there?",
+      "spk": "Sensei",
+      "zh": ": Makoto？你还在吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": I'm in the damn library, Sen- Ah!",
+      "spk": "Makoto",
+      "zh": ": 我在他妈的图书馆，Sen——啊！",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Yes. Yes, I know. I'm so sorry. It won't happen again.",
+      "spk": "Makoto",
+      "zh": ": 是。是，我知道。非常抱歉。不会再这样了。",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": The[school] library? I'll meet you there.",
+      "spk": "Sensei",
+      "zh": ": [学校]的图书馆？我过去找你。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": {i}Oh, no. The public library near the maid cafe.{/i}",
+      "spk": "Makoto",
+      "zh": ": {i}哦，不是。是女仆咖啡厅附近的那个公共图书馆。{/i}",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": {i}Don't bother coming, though. I have to stu-{/i}",
+      "spk": "Makoto",
+      "zh": ": {i}不过你别过来了。我还要复——{/i}",
+      "spkColor": "#5D84FF"
+    },
+    {
+      "en": ": Cool. See you soon.",
+      "spk": "Sensei",
+      "zh": ": 好。待会儿见。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I hang up the phone and begin to make my way over to the library...",
+      "zh": "我挂了电话，动身往图书馆去……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene makotogennoon",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/makotogennoon.webp",
+      "alt": "makotogennoon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "When I arrive, I find Makoto nose-deep in some book about religion.",
+      "zh": "到了之后，我看见 Makoto 埋在一本讲宗教的书里。"
+    },
+    {
+      "en": "Well, when I say {i}nose-deep{/i} I really just mean she's very invested.",
+      "zh": "我说「埋在书里」，其实只是说她特别投入。"
+    },
+    {
+      "en": "If you were to actually attempt to bury your nose inside of a book, it would likely cause you a lot of pain.",
+      "zh": "要是你真把鼻子往书里塞，大概会疼得够呛。"
+    },
+    {
+      "en": "At the same time, however, the topic she's found herself taking on today would probably cause even more pain if she were to truly get wrapped up in it.",
+      "zh": "但同时，她今天挑的这个题目，要是她真的一头扎进去，大概会让她更疼。"
+    },
+    {
+      "en": "Of all the things to waste your time studying, why choose the one thing no one will ever agree on?",
+      "zh": "值得花时间学的东西那么多，为什么偏挑一个永远没人能达成共识的？"
+    },
+    {
+      "en": "There are no gods. There isn't anything other than what's in front of us right now.",
+      "zh": "没有神。除了此刻眼前的东西，什么都不存在。"
+    },
+    {
+      "en": "I tell Makoto this and ask her to put down the book.",
+      "zh": "我把这话说给 Makoto 听，让她把书放下。"
+    },
+    {
+      "en": "She calls me an idiot.",
+      "zh": "她骂我白痴。"
+    },
+    {
+      "en": "The cycle continues.",
+      "zh": "这个循环又继续了下去。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I hang out for a little while longer, watching a strange smile creep across her face as new information finds its way into her brain.",
+      "zh": "我又多待了一会儿，看着新的信息钻进她脑子里时，她脸上慢慢浮起一种奇怪的笑。"
+    },
+    {
+      "en": "It pushes aside other pointless things she has studied-",
+      "zh": "那些东西把她学过的其它没用的玩意儿挤到一边——"
+    },
+    {
+      "en": "And contaminates her with the single most deadly poison known to man.",
+      "zh": "并用人类已知最致命的毒把她污染了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ makoto_love += 1",
+      "zh": "$ makoto_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Makoto's affection has increased to [makoto_love]!{/i}",
+      "zh": "{i}Makoto 的好感度提升到了 [makoto_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

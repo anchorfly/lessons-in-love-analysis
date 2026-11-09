@@ -1,0 +1,160 @@
+{
+  "label": "kaoriinviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label kaoriinviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene kaoriinvitehang with flash",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/kaoriinvitehang.webp",
+      "alt": "kaoriinvitehang"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "kaori use the computer kaori come over kaori sit kaori play games kaori do this kaori do that",
+      "zh": "kaori 用电脑 kaori 过来 kaori 坐下 kaori 玩游戏 kaori 做这个 kaori 做那个"
+    },
+    {
+      "en": "on the desk on the floor in the world in your yard, sandwich on the surface, eat it for nutrients eat it for me",
+      "zh": "在桌上 在地上 在世界上 在你家院子里 三明治在表面上 吃它为了营养 为我吃它"
+    },
+    {
+      "en": "everyone here. everyone dancing. everyone party. so much fun. so much joy. all is bright. all is beautiful.",
+      "zh": "所有人都在这里。所有人都在跳舞。所有人都在派对。好开心。好欢乐。一切都明亮。一切都美丽。"
+    },
+    {
+      "en": "playing guess who with the family. niki fast asleep then ami learns to fly. but i sit here and wonder wonder wonder {s}why{/s} how",
+      "zh": "和家里人玩猜猜谁。niki 睡得很沉 然后 ami 学会了飞。但我坐在这儿想啊想啊想 {s}为什么{/s}怎么会"
+    },
+    {
+      "en": "when she leaves what will happen to the rest of us",
+      "zh": "她走了以后我们剩下的人会怎样"
+    },
+    {
+      "en": "she is the glue that holds the gum together. don't make me chew my teeth again.",
+      "zh": "她是把口香糖黏在一起的那层胶。别让我再嚼自己的牙。"
+    },
+    {
+      "en": "may i have a bite, please?",
+      "zh": "我可以咬一口吗，拜托？"
+    },
+    {
+      "en": "no",
+      "zh": "不行"
+    },
+    {
+      "en": "may i have a bite, please?",
+      "zh": "我可以咬一口吗，拜托？"
+    },
+    {
+      "en": "no",
+      "zh": "不行"
+    },
+    {
+      "en": "i keep ask ask ask ask ask ask ask ask ask ask aska skskas akas askaskas aks aks ing",
+      "zh": "我一直问问问问问问问问问问问问 问问 问问问 问问问问 问 问个不停"
+    },
+    {
+      "en": "i can sdda asd sasd asd asd asdsdasddsada dsadasadsadsadsadsadsad asdikgfjdfjkgretjkolt",
+      "zh": "i can sdda asd sasd asd asd asdsdasddsada dsadasadsadsadsadsadsad asdikgfjdfjkgretjkolt"
+    },
+    {
+      "en": "mistake mistake mistook",
+      "zh": "错误 错误 犯了个错"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "she locks me in the closet",
+      "zh": "她把我锁在壁橱里"
+    },
+    {
+      "en": "he locked me in the closet",
+      "zh": "他把我锁在壁橱里"
+    },
+    {
+      "en": "i am locked in the closet",
+      "zh": "我被锁在壁橱里"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ kaori_love += 3",
+      "zh": "$ kaori_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Kaori's affection has increased to [kaori_love]!{/i}",
+      "zh": "{i}Kaori 的好感度提升到了 [kaori_love]！{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

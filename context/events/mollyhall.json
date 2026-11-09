@@ -1,0 +1,147 @@
+{
+  "label": "mollyhall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mollyhall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene mollysummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mollysummer2hallgen.webp",
+      "alt": "mollysummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene mollyhall1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mollyhall1.webp",
+      "alt": "mollyhall1"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene mollyhallwinter1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mollyhallwinter1.webp",
+      "alt": "mollyhallwinter1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Evening, Sir! Have you perhaps come to join the Cult of Molly?",
+      "spk": "Molly",
+      "zh": ": 晚上好，先生！您莫非是来加入 Molly 教的？",
+      "spkColor": "#4FCB80"
+    },
+    {
+      "en": ": Maybe next time. I kind of just want to talk for now.",
+      "spk": "Sensei",
+      "zh": ": 下次吧。我现在只想聊聊天。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Suit yourself! Please think seriously before joining as all membership fees are non-refundable.",
+      "spk": "Molly",
+      "zh": ": 随您便！不过加入前请慎重考虑，因为所有会费都不退。",
+      "spkColor": "#4FCB80"
+    },
+    {
+      "en": ": ...I have to pay?",
+      "spk": "Sensei",
+      "zh": ": ……我还得交钱？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Aye.",
+      "spk": "Molly",
+      "zh": ": 是啊。",
+      "spkColor": "#4FCB80"
+    },
+    {
+      "en": ": {i}In blood...{/i}",
+      "spk": "Molly",
+      "zh": ": {i}以血为证……{/i}",
+      "spkColor": "#4FCB80"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Molly and I hang out in the hallway for what feels like an hour or two but is probably only a few minutes.",
+      "zh": "Molly 和我在走廊里待着，感觉有一两个小时，其实大概只有几分钟。"
+    },
+    {
+      "en": "She attempts to coerce a few ounces of blood out of me but, knowing that this is completely insane, I am able to refuse.",
+      "zh": "她试图从我身上榨出几盎司血来，但我知道这完全是疯了，所以拒绝了她。"
+    },
+    {
+      "en": "She sighs to herself and tells me that she'll get me eventually, and I wind up walking home while constantly looking over my shoulder.",
+      "zh": "她叹了口气，说迟早会弄到我的，于是我一路回家，一边不停回头看。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "$ molly_love += 1",
+      "zh": "$ molly_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Molly’s affection has increased to [molly_love]!{/i}",
+      "zh": "{i}Molly 的好感度提升到了 [molly_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

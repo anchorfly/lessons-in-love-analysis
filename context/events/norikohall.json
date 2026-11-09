@@ -1,0 +1,132 @@
+{
+  "label": "norikohall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label norikohall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene norikosummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/norikosummer2hallgen.webp",
+      "alt": "norikosummer2hallgen"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene norikohall1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/norikohall1.webp",
+      "alt": "norikohall1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey! We made eye contact so that means you have to hang out with me now.",
+      "spk": "Noriko",
+      "zh": ": 嘿！我们对上眼了，也就是说你现在必须陪我。",
+      "spkColor": "#FF61A9"
+    },
+    {
+      "en": ": I had no idea such a rule existed.",
+      "spk": "Sensei",
+      "zh": ": 我不知道还有这种规矩。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": It exists and if you break it, I get to cut your arms off and wrap them around myself so I can be eternally hugged.",
+      "spk": "Noriko",
+      "zh": ": 有的，而且你要是违反，我就可以把你的胳膊砍下来缠在我身上，这样我就能被永远抱着了。",
+      "spkColor": "#FF61A9"
+    },
+    {
+      "en": ": You're a fucking psychopath, Noriko.",
+      "spk": "Sensei",
+      "zh": ": 你他妈是个精神病，Noriko。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": But I'm {i}your{/i} psychopath.",
+      "spk": "Noriko",
+      "zh": ": 但我是{i}你的{/i}精神病。",
+      "spkColor": "#FF61A9"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Noriko and I spend the evening hanging out in the hallway, doing nothing in particular.",
+      "zh": "Noriko 和我晚上在走廊里待着，也没干什么特别的。"
+    },
+    {
+      "en": "Some of the other girls wind up walking by and seeing us chatting.",
+      "zh": "后来有几个女孩路过，看见我们在聊天。"
+    },
+    {
+      "en": "I can tell that they want to get involved as well, but either out of respect for Noriko (Or for fear of her existence), they abstain.",
+      "zh": "我看得出她们也想凑过来，但也许是出于对 Noriko 的尊重（或者是怕她这个人），她们都没过来。"
+    },
+    {
+      "en": "Before I know it, it's almost midnight and I can already hear Ami scolding me for taking too long to get home...",
+      "zh": "不知不觉就快到午夜了，我已经能听见 Ami 骂我回家太慢……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": "$ noriko_love += 1",
+      "zh": "$ noriko_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Noriko’s affection has increased to [noriko_love]!{/i}",
+      "zh": "{i}Noriko 的好感度提升到了 [noriko_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

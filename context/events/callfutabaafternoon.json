@@ -1,0 +1,255 @@
+{
+  "label": "callfutabaafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callfutabaafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if library30 == True and futabadorm35 == False:",
+      "zh": ""
+    },
+    {
+      "en": "Futaba has seemed a little overworked lately...",
+      "zh": "Futaba 最近好像有点累过头了……"
+    },
+    {
+      "en": "I should probably leave her alone this afternoon.",
+      "zh": "这个下午我大概该让她一个人待着。"
+    },
+    {
+      "en": "Maybe I'll go see her later or something?",
+      "zh": "也许晚点再去看她？"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump futabaspringnoongen",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump futabasummer2noongen",
+      "zh": ""
+    },
+    {
+      "en": "if christmas7 == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump futabanoongen2",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Futaba's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点下 Futaba 的名字，等她接听。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hello?",
+      "spk": "Futaba",
+      "zh": ": 喂？",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": Hey, Futaba. What are you up to?",
+      "spk": "Sensei",
+      "zh": ": 嘿，Futaba。你在忙什么？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, hi!",
+      "spk": "Futaba",
+      "zh": ": 哦，嗨！",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": Umm...I'm not really doing anything.",
+      "spk": "Futaba",
+      "zh": ": 嗯……我没在做什么啦。",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": I just left the library so I'm kind of just...walking around and looking for things to do.",
+      "spk": "Futaba",
+      "zh": ": 我刚从图书馆出来，所以基本上就是……到处走走，看看有什么能做的。",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": So you're still near the[school]?",
+      "spk": "Sensei",
+      "zh": ": 那你还在[学校]附近？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Mhm...I was probably just going to head back to the dorms if-",
+      "spk": "Futaba",
+      "zh": ": 嗯……我本来大概就要回宿舍去了，如果——",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": Wait, did you want to see me? I forgot to ask why you're calling.",
+      "spk": "Futaba",
+      "zh": ": 等等，你是想见我吗？我都忘了问你为什么打电话来。",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": I don't want it to sound like I don't want to see you when I...definitely do.",
+      "spk": "Futaba",
+      "zh": ": 我不想让这话听起来像是我……不想见你，可我明明很想。",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": Well then how about we meet up at the park over there?",
+      "spk": "Sensei",
+      "zh": ": 那我们就在那边那个公园见吧？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh! That sounds good. I actually just passed it a few minutes ago but...I can go back.",
+      "spk": "Futaba",
+      "zh": ": 哦！听起来不错。我几分钟前刚好路过那儿，不过……我可以走回去。",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": Great. I'll see you there then.",
+      "spk": "Sensei",
+      "zh": ": 好。那就那儿见。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Y-Yeah! See you there!",
+      "spk": "Futaba",
+      "zh": ": 好、好的！那儿见！",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene futabaafternoongen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/futabaafternoongen.webp",
+      "alt": "futabaafternoongen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba and I meet up at the park and spend the afternoon chatting about random things.",
+      "zh": "我和 Futaba 在公园碰面，整个下午都在随便聊些杂七杂八的事。"
+    },
+    {
+      "en": "Several couples walk past us as we sit on the bench and each time, Futaba manages to get lost in thought watching them walk away.",
+      "zh": "我们坐在长椅上，好几对情侣从面前走过，每一次她都会望着人家走远的背影出神。"
+    },
+    {
+      "en": "In a perfect world, I'm sure she'd want something like that for the two of us.",
+      "zh": "要是在理想的世界里，她一定也希望我们俩能那样。"
+    },
+    {
+      "en": "She's always been one to get lost in daydreams, so I'm sure this student-teacher mask we're forced to put on in public can weigh heavily on her at times.",
+      "zh": "她一向容易陷进白日梦里，所以我相信我们在人前不得不戴的这副师生面具，有时候真的会压得她很重。"
+    },
+    {
+      "en": "But even with the weight of that burden, her smile is able to brighten my day.",
+      "zh": "但就算背着这份重量，她的笑容还是能把我的一天点亮。"
+    },
+    {
+      "en": "And who knows? Maybe some day, we'll be able to take that mask off.",
+      "zh": "谁知道呢？也许有一天，我们能把那副面具摘下来。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ futaba_love += 1",
+      "zh": "$ futaba_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Futaba's affection has increased to [futaba_love]!{/i}",
+      "zh": "{i}Futaba 的好感度提升到了 [futaba_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

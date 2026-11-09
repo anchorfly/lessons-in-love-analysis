@@ -1,0 +1,261 @@
+{
+  "label": "nikiinviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label nikiinviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene nikiinvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/nikiinvitegen.webp",
+      "alt": "nikiinvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Niki and I aren't able to decide on anything to do, so she takes it upon herself to use my laptop to play some game and start ignoring me.",
+      "zh": "Niki 和我想不出要干什么，于是她自作主张用我的笔记本玩游戏，然后开始无视我。"
+    },
+    {
+      "en": "I guess that's not a big surprise considering she's already coming over uninvited as if she owns the place, but it's still a little rude and I will never forgive her for it.",
+      "zh": "考虑到她本来就不请自来、把这地方当自己家，这也不奇怪，但还是有点没礼貌，我永远不会原谅她。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": ": You have literally nothing on this computer except porn. Is this really what you've been doing all these years?",
+      "spk": "Niki",
+      "zh": ": 你这台电脑上除了色情片什么都没有。你这些年真的就在干这个？",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": ": Do people use computers for things other than porn?",
+      "spk": "Sensei",
+      "zh": ": 人们用电脑还会干别的？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": You have literally nothing on this computer except essays and stock photos of hugs. Is this really what you've been doing all these years?",
+      "spk": "Niki",
+      "zh": ": 你这台电脑上除了文章和拥抱的图库什么都没有。你这些年真的就在干这个？",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": ": Do people use computers for other things?",
+      "spk": "Sensei",
+      "zh": ": 人们用电脑还会干别的事？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sometimes, yeah. This is just so...depressing.",
+      "spk": "Niki",
+      "zh": ": 有时候会啊。这真是……太让人沮丧了。",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": ": I'm going to delete everything.",
+      "spk": "Niki",
+      "zh": ": 我要把这一切都删掉。",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": ": Niki, please go home.",
+      "spk": "Sensei",
+      "zh": ": Niki，请你回家。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No. You invited me over. Do something entertaining or your math homework folder is getting nuked.",
+      "spk": "Niki",
+      "zh": ": 不要。是你请我来的。做点有意思的事，不然你的数学作业文件夹就要被清空了。",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": ": How did you know that's where the porn was? It was such a flawless disguise.",
+      "spk": "Sensei",
+      "zh": ": 你怎么知道色情片放在那儿？那伪装明明天衣无缝。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": It's the same exact thing you named your porn folder when we were in[school].",
+      "spk": "Niki",
+      "zh": ": 这跟你[上学]时给色情文件夹起的名字一模一样。",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ": How did you know where I was storing the hug photos? It was such a flawless disguise.",
+      "spk": "Sensei",
+      "zh": ": 你怎么知道我拥抱照片存在那儿？那伪装明明天衣无缝。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": It's the same exact thing you named your hug folder when we were in[school].",
+      "spk": "Niki",
+      "zh": ": 这跟你[上学]时给拥抱文件夹起的名字一模一样。",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": This is just one more addition to the list of stuff that basically confirms that you're the real you and not some amnesiac douche bag with an affinity for pink haired girls.",
+      "spk": "Niki",
+      "zh": ": 这又给「你就是真正的你、而不是某个迷恋粉发女孩的失忆混蛋」这一结论添了一条证据。",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": ": Jesus, you don't even have Steam on this thing. Did you age an extra thirty years while you were gone? Do you just hate fun now?",
+      "spk": "Niki",
+      "zh": ": 天啊，你这机器上连 Steam 都没装。你不在的这些年是不是多老了三十岁？你现在是讨厌乐趣了吗？",
+      "spkColor": "#FF00C2"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I don't {i}hate{/i} fun. I just don't find many things fun to begin with.",
+      "zh": "我不{i}讨厌{/i}乐趣。我只是本来就没多少东西觉得有趣。"
+    },
+    {
+      "en": "And, unsurprisingly, that list of things I don't find fun includes watching my ex-girlfriend go through files on my laptop and treat yet another possession of mine as if it's hers.",
+      "zh": "而毫不意外，这份「不觉得有趣」的清单里，包括看着我的前女友翻我笔记本里的文件、把我的又一件东西当成她自己的。"
+    },
+    {
+      "en": "Eventually, though, she calls it quits and the two of us spend the next couple hours watching some televised talent contest sort of thing about a bunch of girls competing to be idols.",
+      "zh": "不过最后她总算收手了，接下来几个小时，我们看了一档电视选秀节目，一群女孩比赛当偶像。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "Niki, being her typical conceited self, calls out the flaws in all of their performances while I, a civilized adult, just see a bunch of girls I want to have sex with.",
+      "zh": "Niki 一如既往地自以为是，把她们每个人的表演毛病都点出来，而我这个文明成年人，只看见一群我想操的女孩。"
+    },
+    {
+      "en": "And while I want to be dramatic and say that it's unfortunate I'll never be able to have sex with any of them...I know from experience now that this is not the case.",
+      "zh": "我很想戏剧性地说一句，可惜我永远没机会和她们任何一个做爱——但凭我的经验，现在这已经不成立了。"
+    },
+    {
+      "en": "I can have sex with basically anyone.",
+      "zh": "我基本上可以和任何人做爱。"
+    },
+    {
+      "en": "Probably.",
+      "zh": "大概吧。"
+    },
+    {
+      "en": "I just can't tell Niki that or she'll get mad at me and delete my porn for real next time...",
+      "zh": "只是我不能告诉 Niki，不然她会生气，下次真的把我的色情片删掉……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ niki_love += 3",
+      "zh": "$ niki_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Niki's affection has increased to [niki_love]!{/i}",
+      "zh": "{i}Niki 的好感度提升到了 [niki_love]！{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

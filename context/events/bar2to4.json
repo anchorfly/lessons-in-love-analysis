@@ -1,0 +1,100 @@
+{
+  "label": "bar2to4",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label bar2to4:",
+      "zh": ""
+    },
+    {
+      "en": "scene firstbar10",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/firstbar10.webp",
+      "alt": "firstbar10"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to visit Sana at the bar again.",
+      "zh": "我决定再去酒吧找 Sana。"
+    },
+    {
+      "en": "We work on the basics of public speaking but she shows little to no signs of improvement.",
+      "zh": "我们练习公开演讲的基础，但她几乎没有显示出进步的迹象。"
+    },
+    {
+      "en": "I might need to figure out an alternative method of teaching soon.",
+      "zh": "我可能很快就得想个别的教法了。"
+    },
+    {
+      "en": "Even though she’s still hesitant to converse with others, I can feel the two of us becoming slightly closer...",
+      "zh": "尽管她仍然不怎么愿意和别人交谈，但我能感觉到我们两个稍微亲近了一些……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ sana_love += 1",
+      "zh": "$ sana_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Sana’s affection has increased to [sana_love]!{/i}",
+      "zh": "{i}Sana 的好感度提升到了 [sana_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

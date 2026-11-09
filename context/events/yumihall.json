@@ -1,0 +1,137 @@
+{
+  "label": "yumihall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label yumihall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene yumisummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/yumisummer2hallgen.webp",
+      "alt": "yumisummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene yumihall2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/yumihall2.webp",
+      "alt": "yumihall2"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene yumihallwinter",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/yumihallwinter.webp",
+      "alt": "yumihallwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey Yumi.",
+      "spk": "Sensei",
+      "zh": ": 嘿，Yumi。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh god damnit, not this shit again.",
+      "spk": "Yumi",
+      "zh": ": 哦天杀的，别又来这套。",
+      "spkColor": "#FF4949"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I try talking to Yumi for as long as she’ll allow me to before she retreats back to the safety of her room yet again.\"",
+      "zh": "我尽量跟 Yumi 说话，直到她又一次躲回她房间的安全地带。\""
+    },
+    {
+      "en": "I swear I’ll get this girl to like me eventually...",
+      "zh": "我发誓，总有一天我要让这女孩喜欢上我……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yumi_love += 1",
+      "zh": "$ yumi_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Yumi’s affection has somehow increased to [yumi_love]!{/i}",
+      "zh": "{i}Yumi 的好感度不知怎么提升到了 [yumi_love]！{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

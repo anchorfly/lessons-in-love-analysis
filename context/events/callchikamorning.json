@@ -1,0 +1,265 @@
+{
+  "label": "callchikamorning",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callchikamorning:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if onsenticket == True and streets30 == True and day == 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump chikaonsen1",
+      "zh": ""
+    },
+    {
+      "en": "if chika_love >= 45 and mall40p2 == True and chikadate45 == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump chikadate45",
+      "zh": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Chika's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点下 Chika 的名字，等她接听。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "She doesn't.",
+      "zh": "她没有。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callmorning",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "jump chikasummer2morninggen",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Chika's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点下 Chika 的名字，等她接听。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hihi~ Good morning, Sensei. You're up early today.",
+      "spk": "Chika",
+      "zh": ": 嘻嘻～早上好，Sensei。你今天起得挺早呀。",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ": Any reason why?",
+      "spk": "Chika",
+      "zh": ": 有什么原因吗？",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ": Just seeing what you're up to.",
+      "spk": "Sensei",
+      "zh": ": 就是看看你在干什么。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Wanna see for yourself and come on over?",
+      "spk": "Chika",
+      "zh": ": 要不要自己过来看看？",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ": I'll make you breakfast~",
+      "spk": "Chika",
+      "zh": ": 我给你做早饭～",
+      "spkColor": "#AF7F00"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Being the type who never says no to free breakfast (Or cute girls), I get dressed and take the bus over to the second half of town...",
+      "zh": "我这种人从来不会拒绝免费的早饭（也不会拒绝可爱的女孩），于是换好衣服，坐公交去了城市另一半……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chikamorninggen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chikamorninggen.webp",
+      "alt": "chikamorninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I show up to find Chika stirring a pot of beef stew on the stove.",
+      "zh": "到了之后，我看见 Chika 正在灶台前搅一锅炖牛肉。"
+    },
+    {
+      "en": "And while this isn't exactly the type of breakfast I envisioned, I decide to go along with it.",
+      "zh": "虽然这跟我原本想象的早饭不太一样，我还是决定顺着她来。"
+    },
+    {
+      "en": "I vaguely remember a time in my life where I wound up making similar dishes due to the low price point-",
+      "zh": "我隐约记得自己人生中有过一段日子，因为价格便宜，也常做差不多的菜——"
+    },
+    {
+      "en": "But that memory fades as the two of us get to talking about some gossip she heard involving some of her coworkers at the mall.",
+      "zh": "但那点记忆很快就淡了，因为我俩开始聊起她在商场听同事说的八卦。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika finishes 'breakfast' and the two of us eat together while Chinami watches TV in the other room.",
+      "zh": "Chika 把「早饭」弄好，我俩一起吃，Chinami 在另一个房间看电视。"
+    },
+    {
+      "en": "It feels almost like I'm part of the family for a moment or two.",
+      "zh": "有那么一会儿，我几乎觉得自己是这个家的一员。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "And then it feels even stranger when I realize Chika is playing the 'mother' role when she very much could be my daughter.",
+      "zh": "接着我意识到 Chika 在扮演「母亲」的角色——而她明明很可能是我女儿那个年纪，这感觉就更奇怪了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "But regardless, we take our time enjoying the beef stew and wind up walking to the bus stop together so Chika can make it to work on time.",
+      "zh": "不过不管怎样，我们慢慢把炖牛肉吃完，然后一起走到公交站，好让 Chika 能准时上班。"
+    },
+    {
+      "en": "I get off at the last stop and decide to get on with my day...",
+      "zh": "我在终点站下车，决定继续过我的这一天……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chika_love += 1",
+      "zh": "$ chika_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Chika's affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

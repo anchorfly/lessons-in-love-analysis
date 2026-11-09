@@ -1,0 +1,174 @@
+{
+  "label": "tsuneyohall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label tsuneyohall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyosummer2hallgen1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tsuneyosummer2hallgen1.webp",
+      "alt": "tsuneyosummer2hallgen1"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyohall1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tsuneyohall1.webp",
+      "alt": "tsuneyohall1"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyohallwinter1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tsuneyohallwinter1.webp",
+      "alt": "tsuneyohallwinter1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey, Tsuneyo.",
+      "spk": "Sensei",
+      "zh": ": 嘿，Tsuneyo。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Ah-",
+      "spk": "Tsuneyo",
+      "zh": ": 啊——",
+      "spkColor": "#C8B330"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyosummer2hallgen2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tsuneyosummer2hallgen2.webp",
+      "alt": "tsuneyosummer2hallgen2"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyohall3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tsuneyohall3.webp",
+      "alt": "tsuneyohall3"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene tsuneyohallwinter2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/tsuneyohallwinter2.webp",
+      "alt": "tsuneyohallwinter2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": What's up, bro?",
+      "spk": "Tsuneyo",
+      "zh": ": 怎么了，兄弟？",
+      "spkColor": "#C8B330"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Tsuneyo and I attempt to have a conversation in the hall to the best of our ability.",
+      "zh": "Tsuneyo 和我在走廊里尽力试着聊天。"
+    },
+    {
+      "en": "She tries her hand at speaking informally but, as always, fails dramatically.",
+      "zh": "她试着用随便一点的口气说话，但和往常一样，彻底失败了。"
+    },
+    {
+      "en": "Either way, we manage to keep the ball rolling for a few minutes and I can feel the...strange bond between the two of us growing stronger.",
+      "zh": "不管怎样，我们总算把话头撑了几分钟，我能感觉到我们之间那种……奇怪的纽带在变强。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ tsuneyo_love += 1",
+      "zh": "$ tsuneyo_love += 1"
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Tsuneyo’s affection has increased to [tsuneyo_love]!{/i}",
+      "zh": "{i}Tsuneyo 的好感度提升到了 [tsuneyo_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    }
+  ]
+}

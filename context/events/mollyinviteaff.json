@@ -1,0 +1,128 @@
+{
+  "label": "mollyinviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mollyinviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "scene mollyinvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mollyinvitegen.webp",
+      "alt": "mollyinvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to give Molly free {b}reign{/b} of what we're going to do today and I don't think I've ever regretted anything so immediately before.",
+      "zh": "我决定今天让 Molly 完全{b}自由{/b}决定我们干什么——我从没这么快就后悔过一件事。"
+    },
+    {
+      "en": "She quickly summons me over to the computer and, after convincing her to avoid my porn folder (which is becoming customary any time someone else uses it), she opens up Youtube.",
+      "zh": "她立刻把我叫到电脑前，在我劝她别碰我的色情文件夹之后（这已经成了别人用我电脑时的惯例），她打开了 Youtube。"
+    },
+    {
+      "en": "And while she states that the purpose of such a thing is to educate me about upcoming games in an attempt to pique my interest, it turns out to be anything but.",
+      "zh": "她说这么做的目的是让我了解即将发售的游戏、勾起我的兴趣，结果完全不是那么回事。"
+    },
+    {
+      "en": "What it {i}does{/i} wind up being, however, is a great opportunity for her to argue with people who do not share her opinion in the comment section. Under my usernames, of course.",
+      "zh": "它{i}真正{/i}变成的，是她跟评论区里不同意她观点的人吵架的大好机会。当然，是用我的账号。"
+    },
+    {
+      "en": "I somehow am both proud and disappointed at the same time. Especially since I feel like she is using my account to agree with her own comments.",
+      "zh": "我不知怎么同时感到骄傲和失望。尤其是因为我感觉她在用我的账号给自己点赞。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Eventually, I manage to convince her to do something else and, after informing her that she can not download any games, we wind up moving the laptop over to the bed and watching some movie instead.",
+      "zh": "最后我说服她干点别的，并告诉她不能下载任何游戏，于是我们把笔记本搬到床上，改成看起了电影。"
+    },
+    {
+      "en": "She does not masturbate this time. And I don't either.",
+      "zh": "这次她没有自慰。我也没有。"
+    },
+    {
+      "en": "Which means that today is both successful {i}and{/i} unsuccessful at once.",
+      "zh": "也就是说，今天既成功{i}又{/i}失败。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ molly_love += 3",
+      "zh": "$ molly_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Molly's affection has increased to [molly_love]!{/i}",
+      "zh": "{i}Molly 的好感度提升到了 [molly_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

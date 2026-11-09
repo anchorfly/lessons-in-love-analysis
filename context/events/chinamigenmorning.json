@@ -1,0 +1,153 @@
+{
+  "label": "chinamigenmorning",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chinamigenmorning:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Chinami's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点开 Chinami 的名字，等她接电话。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hello! Thank you for calling the Chinami hotline! How may she be of service?",
+      "spk": "Chinami",
+      "zh": ": 你好！感谢致电 Chinami 热线！请问需要她做什么？",
+      "spkColor": "#FF9999"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I talk with Chinami and Chika for a few minutes before they invite me over to hang out.",
+      "zh": "我和 Chinami、Chika 聊了几分钟，然后她们邀我过去玩。"
+    },
+    {
+      "en": "Chika needs a Chinami-sitter for the morning and, not having anything else to do, I decide to take up the job...",
+      "zh": "Chika 上午需要有人看着 Chinami，我反正也没别的事，就接下了这活……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene chinamimorninggen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chinamimorninggen.webp",
+      "alt": "chinamimorninggen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika leaves shortly after I arrive and I spend the morning with Chinami, still in her pajamas.",
+      "zh": "我到没多久 Chika 就出门了，于是我一上午都在陪还穿着睡衣的 Chinami。"
+    },
+    {
+      "en": "I'm glad to know her sister trusts me enough to not think anything of it, but I will admit that it does feel a little odd seeing her like this.",
+      "zh": "我很高兴她姐姐这么信任我、一点都不多想，但我得承认，看她这副样子还是有点怪。"
+    },
+    {
+      "en": "Regardless, the two of us chat about a plethora of Chinami-things like what kinds of candy she likes and her strange affinity for slaughtering pigs.",
+      "zh": "不管怎样，我们聊了一大堆关于 Chinami 的事，比如她喜欢哪种糖，还有她对杀猪那种奇怪的爱好。"
+    },
+    {
+      "en": "Eventually, that affinity becomes a little too much for me and I decide to head out.",
+      "zh": "到最后这份爱好我实在有点受不了，决定该走了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chinami waves goodbye and tells me to be careful on the way home.",
+      "zh": "Chinami 挥手道别，让我回家路上小心。"
+    },
+    {
+      "en": "I lock the door behind me as I leave, being sure to warn her to not let any strange individuals inside the house.",
+      "zh": "我出门时把门锁上，还特意叮嘱她别让什么奇怪的人进屋。"
+    },
+    {
+      "en": "She agrees and promises to stay safe, and I feel marginally more comfortable leaving a girl like her alone...",
+      "zh": "她答应了，保证会注意安全，我这才稍微放心一点，把这样一个女孩单独留下……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chinami_love += 1",
+      "zh": "$ chinami_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Chinami's affection has increased to [chinami_love]!{/i}",
+      "zh": "{i}Chinami 的好感度提升到了 [chinami_love]！{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "label": "amihall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amihall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene amisummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/amisummer2hallgen.webp",
+      "alt": "amisummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene amihall3",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/amihall3.webp",
+      "alt": "amihall3"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene amihallwinter1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/amihallwinter1.webp",
+      "alt": "amihallwinter1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Sensei! Did you miss me?",
+      "spk": "Ami",
+      "zh": ": Sensei！你想我了吧？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ": Of course. I keep having to make my own dinner on the weekends and it’s ruining my life.",
+      "spk": "Sensei",
+      "zh": ": 当然想。我周末老得自己做饭，简直快把我的人生毁了。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Then I guess I’ll have to cook you something extra special next time I’m home! Okay?",
+      "spk": "Ami",
+      "zh": ": 那下次我回家，一定给你做点特别好吃的！好不好？",
+      "spkColor": "#FF4DD2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Ami and I spend some time hanging out in the hallway while she waits for Maya to get back.",
+      "zh": "Ami 在走廊等 Maya 回来，我就陪她在那儿待了一会儿。"
+    },
+    {
+      "en": "I’m glad that the two of them are so close, but it {i}is{/i} kind of lonely without her at times.",
+      "zh": "我很高兴她们俩关系这么好，不过有时候没有她在，确实有点{i}寂寞{/i}。"
+    },
+    {
+      "en": "Either way, it’s good that she seems to be enjoying her [high_school] life.",
+      "zh": "不管怎么说，她好像很享受她的[高中]生活，这是好事。"
+    },
+    {
+      "en": "Hopefully, the two of us can find some more time to spend together soon.",
+      "zh": "希望我们俩以后能多找点时间待在一起。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ami_love += 1",
+      "zh": "$ ami_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

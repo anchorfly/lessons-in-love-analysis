@@ -1,0 +1,319 @@
+{
+  "label": "callmikuafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label callmikuafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "if senseisad == True and saracamp2 == False:",
+      "zh": ""
+    },
+    {
+      "en": "I don't want to call her right now...",
+      "zh": "我现在不想叫她……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if mikublock == True:",
+      "zh": ""
+    },
+    {
+      "en": "I should probably leave Miku alone for now...",
+      "zh": "现在我大概该让 Miku 一个人待着……"
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Miku's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点下 Miku 的名字，等她接听。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "There's no answer. I guess she's busy right now.",
+      "zh": "没人接。看来她现在在忙。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Miku's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点下 Miku 的名字，等她接听。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "There's no answer. I guess she's busy right now.",
+      "zh": "没人接。看来她现在在忙。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump callafternoon",
+      "zh": ""
+    },
+    {
+      "en": "if miku_love >= 50 and christmastwo20 == True and mikudorm45p2 == True and mikuspecial50 == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump mikuspecial50",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I tap on Miku's name in my phone and wait for her to answer.",
+      "zh": "我在手机上点下 Miku 的名字，等她接听。"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Heya!",
+      "spk": "Miku",
+      "zh": ": 嗨呀！",
+      "spkColor": "#FF8112"
+    },
+    {
+      "en": ": Need something, Sensei?",
+      "spk": "Miku",
+      "zh": ": 有事吗，Sensei？",
+      "spkColor": "#FF8112"
+    },
+    {
+      "en": ": I was just about to head over to the park to do some laps. Wanna join me?",
+      "spk": "Miku",
+      "zh": ": 我正要去公园跑几圈。要不要一起来？",
+      "spkColor": "#FF8112"
+    },
+    {
+      "en": ": Didn't you literally just finish soccer practice?",
+      "spk": "Sensei",
+      "zh": ": 你不是刚踢完足球训练吗？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Yup! Which means it's time for practice round two! You comin' or not?",
+      "spk": "Miku",
+      "zh": ": 对啊！也就是说第二轮训练开始了！你来不来？",
+      "spkColor": "#FF8112"
+    },
+    {
+      "en": ": I'll come, but there is no way I am going to do any actual running.",
+      "spk": "Sensei",
+      "zh": ": 我来，但我绝对不会真的跑。",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": That's fine! Just be a creeper and sit on the bench while ya watch my bag or somethin'!",
+      "spk": "Miku",
+      "zh": ": 没事！你就当个变态，坐长椅上帮我看包什么的就行！",
+      "spkColor": "#FF8112"
+    },
+    {
+      "en": ": I'm going to the one near the[school], so just come there whenever ya can! Bye bye!",
+      "spk": "Miku",
+      "zh": ": 我要去[学校]旁边那个，你能来就来吧！拜拜！",
+      "spkColor": "#FF8112"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene mikugennoon",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mikugennoon.webp",
+      "alt": "mikugennoon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I show up at the park to find Miku waiting for me on the ledge of a fountain.",
+      "zh": "我到公园的时候，Miku 正坐在喷泉边上等我。"
+    },
+    {
+      "en": "She must have come directly from practice since she still has her bag with all of her stuff in it.",
+      "zh": "她大概是从训练场直接过来的，包还背着，东西全在里面。"
+    },
+    {
+      "en": "I have absolutely no idea how she's filled with so much energy that she needs to wash down practice with {i}more{/i} practice-",
+      "zh": "我完全搞不懂她哪来那么多精力，练完一轮还要用{i}更多{/i}的训练把上一轮冲下去——"
+    },
+    {
+      "en": "But I guess there's still a lot I don't really understand about Miku in the first place.",
+      "zh": "不过话说回来，关于 Miku，我搞不懂的事本来就不少。"
+    },
+    {
+      "en": "After spending a few minutes talking to me, it becomes clear that she's getting anxious and needs to get the rest of her energy out.",
+      "zh": "跟我聊了几分钟之后，很明显她开始坐不住了，得把剩下的精力发泄出去。"
+    },
+    {
+      "en": "I agree to watching her things and then subsequently watch {i}her{/i} as she takes off down the walking trail, carefully avoiding several women out walking their dogs or their children.",
+      "zh": "我答应帮她看东西，然后就看着她顺着步道跑出去，小心翼翼地绕开几个遛狗或者遛孩子的女人。"
+    },
+    {
+      "en": "Well, I guess you don't technically {i}walk{/i} children. But you might as well considering they're essentially useless.",
+      "zh": "严格来说，孩子不是用来「遛」的。不过考虑到他们基本上没什么用，也差不多。"
+    },
+    {
+      "en": "More people should just get dogs.",
+      "zh": "大家都该养条狗。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black with dissolve",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Miku only winds up running for ten minutes or so before deciding to call it for the day and spend more time with me.",
+      "zh": "Miku 最后只跑了十来分钟就决定收工，把时间留给我。"
+    },
+    {
+      "en": "But, with the sun already starting to set and daylight beginning to die out, I decide it's best to just walk her back to the dorm and get on with the rest of my night...",
+      "zh": "但太阳已经开始落了，天色慢慢暗下来，我决定还是把她送回宿舍，然后继续过我剩下的夜晚……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ miku_love += 1",
+      "zh": "$ miku_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Miku's affection has increased to [miku_love]!{/i}",
+      "zh": "{i}Miku 的好感度提升到了 [miku_love]!{/i}"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

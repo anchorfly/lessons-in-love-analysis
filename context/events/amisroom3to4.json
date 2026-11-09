@@ -1,0 +1,85 @@
+{
+  "label": "amisroom3to4",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amisroom3to4:",
+      "zh": ""
+    },
+    {
+      "en": "scene amiroom_day",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/amiroom_day.png",
+      "alt": "amiroom_day"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to spend the morning hanging out with Ami.",
+      "zh": "我决定早上陪 Ami 待着。"
+    },
+    {
+      "en": "She tells me a little about some Korean drama show she’s been watching while the two of us make breakfast together.\"",
+      "zh": "我俩一起做早饭，她跟我讲了几句最近在看的某部韩剧。\""
+    },
+    {
+      "en": "It feels strange being involved in a relationship like this out of virtually nowhere, but I'm getting used to it.",
+      "zh": "几乎毫无预兆地就卷进这样一段关系，感觉挺奇怪的，不过我也在慢慢习惯。"
+    },
+    {
+      "en": "She seems rather comfortable with me as well...",
+      "zh": "她好像对我也挺自在的……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ami_love += 1",
+      "zh": "$ ami_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ami’s affection has increased to [ami_love]!{/i}",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "jump saturdayafternoon",
+      "zh": ""
+    }
+  ]
+}

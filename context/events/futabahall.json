@@ -1,0 +1,149 @@
+{
+  "label": "futabahall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label futabahall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene futabasummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/futabasummer2hallgen.webp",
+      "alt": "futabasummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene futabahall6",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/futabahall6.webp",
+      "alt": "futabahall6"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene futabahallwinter",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/futabahallwinter.webp",
+      "alt": "futabahallwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, Sensei! It’s nice to see you.",
+      "spk": "Futaba",
+      "zh": ": 哦，Sensei！见到你真高兴。",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ": What brings you to the dorm?",
+      "spk": "Futaba",
+      "zh": ": 什么风把你吹到宿舍来了？",
+      "spkColor": "#E73CFF"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Futaba and I spend some time talking about random subjects together.",
+      "zh": "我和 Futaba 待了一会儿，天南地北地聊。"
+    },
+    {
+      "en": "She asks me for some advice regarding how to harness her creativity and I answer to the best of my ability.",
+      "zh": "她问我该怎么调动自己的创造力，我尽力给了些建议。"
+    },
+    {
+      "en": "Ami eventually texts me asking where I am and I decide to head back before she lights the house on fire.",
+      "zh": "后来 Ami 发短信问我在哪儿，我决定在她把房子点着之前回去。"
+    },
+    {
+      "en": "Futaba laughs at this and says she understands, but it’s easy to tell that she feels a little upset.",
+      "zh": "Futaba 听了笑起来，说她理解，但很容易看出来她有点难过。"
+    },
+    {
+      "en": "Regardless, I bid her goodbye with a pat on the head and begin my trek home...",
+      "zh": "不管怎样，我拍拍她的头道别，开始往回走……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ futaba_love += 1",
+      "zh": "$ futaba_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Futaba’s affection has increased to [futaba_love]!{/i}",
+      "zh": "{i}Futaba 的好感度提升到了 [futaba_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

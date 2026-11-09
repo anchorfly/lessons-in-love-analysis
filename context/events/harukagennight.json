@@ -1,0 +1,116 @@
+{
+  "label": "harukagennight",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label harukagennight:",
+      "zh": ""
+    },
+    {
+      "en": "scene harukanightgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/harukanightgen.webp",
+      "alt": "harukanightgen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I give Haruka a call and decide to spend some of the night at her place.",
+      "zh": "我给 Haruka 打了个电话，决定晚上去她那儿待一阵。"
+    },
+    {
+      "en": "It's a mostly wholesome get-together, with the conversation never really going anywhere unsavory.",
+      "zh": "这次聚会大体上很正经，话题始终没往什么不体面的方向跑。"
+    },
+    {
+      "en": "We sort of just sit around watching TV and reminiscing about when we were younger and further away from death.",
+      "zh": "我们基本上就是坐着看电视，聊聊年轻时、离死亡还远的日子。"
+    },
+    {
+      "en": "I'm glad Haruka has a lot to say in that respect because I'm still having a hard time remembering anything from when I was young.",
+      "zh": "这方面我很高兴 Haruka 有很多话可说，因为我至今仍想不起自己年轻时的任何事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I wind up getting a call from Ami in the middle of a movie Haruka and I are watching and am essentially forced to come home when I refuse to tell her where I am.",
+      "zh": "我和 Haruka 看电影看到一半，Ami 打来电话，而当我拒绝告诉她我在哪儿时，基本上就被逼着回家了。"
+    },
+    {
+      "en": "I feel kind of weird letting a [teenage]girl boss me around but Haruka laughs and chalks it up to me only agreeing because I'm 'subconsciously worried' about her.",
+      "zh": "被一个[十几岁]的女孩呼来喝去让我感觉有点怪，但 Haruka 笑了，说我只是「潜意识里担心她」才答应的。"
+    },
+    {
+      "en": "And even though that may be true, I can't help but feel a little bad for leaving Haruka on her own again with how often she talks about being lonely.",
+      "zh": "虽然这话也许没错，但想到她常说自己寂寞，我又把她一个人留下，还是忍不住有点过意不去。"
+    },
+    {
+      "en": "Either way, it still seems like the two of us are growing closer...So that's definitely something to be happy about.",
+      "zh": "不管怎样，我们俩似乎还是在靠近……这肯定是值得高兴的事。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ haruka_love += 1",
+      "zh": "$ haruka_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Haruka's affection has increased to [haruka_love]{/i}!",
+      "zh": "{i}Haruka 的好感度提升到了 [haruka_love]{/i}！"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

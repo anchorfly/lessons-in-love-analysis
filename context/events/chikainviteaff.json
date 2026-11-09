@@ -1,0 +1,177 @@
+{
+  "label": "chikainviteaff",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label chikainviteaff:",
+      "zh": ""
+    },
+    {
+      "en": "if halloweenfive17 == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikainvitegen2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chikainvitegen2.webp",
+      "alt": "chikainvitegen2"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene chikainvitegen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/chikainvitegen.webp",
+      "alt": "chikainvitegen"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Chika and I spend the night eating junk food and asking each other questions about things we'd like to know about one another.",
+      "zh": "我和 Chika 晚上吃着垃圾食品，互相问对方想了解的事。"
+    },
+    {
+      "en": "She has a lot more questions than I do.",
+      "zh": "她的问题比我多得多。"
+    },
+    {
+      "en": "Real questions. Big ones...like 'What did you want to be when you grew up' or 'Do you ever want to get married?'",
+      "zh": "真正的问题。很重大的那种……比如「你长大以后想做什么」，或者「你有想过结婚吗？」"
+    },
+    {
+      "en": "I have a hard time finding answers to all of them, to be honest.",
+      "zh": "说实话，这些问题我大多都答不上来。"
+    },
+    {
+      "en": "But even when that happens, it doesn't faze her one bit.",
+      "zh": "但就算我答不上来，她也完全不在意。"
+    },
+    {
+      "en": "In between the barrage of questions, she wastes no time in reaching her feet out underneath the table and playfully poking and kicking me with them.",
+      "zh": "在一连串问题之间，她还不忘从桌子底下伸脚过来，玩闹地戳我、踢我。"
+    },
+    {
+      "en": "She smiles the entire night. Even when nothing is happening.",
+      "zh": "她整晚都在笑。就算什么都没发生，她也在笑。"
+    },
+    {
+      "en": "I wish I could do that.",
+      "zh": "我也希望能做到那样。"
+    },
+    {
+      "en": "I have a hard enough time smiling even when good things happen.",
+      "zh": "就算碰上好事，我要笑出来都很费劲。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "If I was any good at smiling, I'd smile back at her.",
+      "zh": "如果我真会笑，我会回她一个笑。"
+    },
+    {
+      "en": "But, being the person I am, I sit back and let her continue to play one-sided footsie with me as I finish off the last of the french fries on the table.",
+      "zh": "但我就是这样的人，于是我靠回椅背，任由她继续一个人玩这种桌下踢脚的游戏，自己把桌上最后几根薯条吃完。"
+    },
+    {
+      "en": "Eventually, Chika moves to my side and rests her head on my shoulder.",
+      "zh": "后来 Chika 挪到我身边，把头靠在我肩上。"
+    },
+    {
+      "en": "She tells me about her dreams. How {i}she{/i} wants to get married.",
+      "zh": "她跟我讲她的梦想。讲{i}她{/i}想结婚。"
+    },
+    {
+      "en": "And how some day, in the distant future, she'd like to eat junk food and play question-games with someone who will look only at her.",
+      "zh": "讲在遥远的将来某一天，她想和某个只看着她的人一起吃垃圾食品、玩问答游戏。"
+    },
+    {
+      "en": "She smiles one last time.",
+      "zh": "她最后笑了一次。"
+    },
+    {
+      "en": "And then she leaves.",
+      "zh": "然后她就走了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ chika_love += 3",
+      "zh": "$ chika_love += 3"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Chika's affection has increased to [chika_love]!{/i}",
+      "zh": "{i}Chika 的好感度提升到了 [chika_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if chap4active == True:",
+      "zh": ""
+    },
+    {
+      "en": "if day >= 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsatch4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekdaych4",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

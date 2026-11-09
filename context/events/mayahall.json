@@ -1,0 +1,161 @@
+{
+  "label": "mayahall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label mayahall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene mayasummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mayasummer2hallgen.webp",
+      "alt": "mayasummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene mayahall1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mayahall1.webp",
+      "alt": "mayahall1"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene mayahallwinter1",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/mayahallwinter1.webp",
+      "alt": "mayahallwinter1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Hey there, stranger. Come here often?",
+      "spk": "Sensei",
+      "zh": ": 嘿，陌生人。常来这儿？",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": ...",
+      "spk": "Maya",
+      "zh": ": ...",
+      "spkColor": "#20EF00"
+    },
+    {
+      "en": ": ...",
+      "spk": "Sensei",
+      "zh": ": ...",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": Oh, sorry. Were you talking to me?",
+      "spk": "Maya",
+      "zh": ": 哦，抱歉。你是在跟我说话吗？",
+      "spkColor": "#20EF00"
+    },
+    {
+      "en": ": Yeah. I was wondering if-",
+      "spk": "Sensei",
+      "zh": ": 是啊。我在想你是不是——",
+      "spkColor": "#969696"
+    },
+    {
+      "en": ": No thanks.",
+      "spk": "Maya",
+      "zh": ": 谢了，不用。",
+      "spkColor": "#20EF00"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Maya heads back inside without giving me an opportunity to spend time with her.",
+      "zh": "Maya 没给我陪她的机会，径直回屋去了。"
+    },
+    {
+      "en": "But, for some strange reason, I still feel as if she likes me a little more.",
+      "zh": "但不知为什么，我还是觉得她好像更喜欢我了一点。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ maya_love += 1",
+      "zh": "$ maya_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Maya’s affection level has increased to [maya_love]!{/i}",
+      "zh": "{i}Maya 的好感度提升到了 [maya_love]！{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

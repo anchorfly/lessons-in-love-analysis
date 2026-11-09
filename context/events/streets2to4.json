@@ -1,0 +1,81 @@
+{
+  "label": "streets2to4",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label streets2to4:",
+      "zh": ""
+    },
+    {
+      "en": "scene citystreets",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/BGs/citystreets.png",
+      "alt": "citystreets"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I decide to wander the streets again and wind up bumping into Yumi.",
+      "zh": "我决定又在街上闲逛，结果撞见了 Yumi。"
+    },
+    {
+      "en": "As always, she spends the bulk of our time berating me and throwing rocks at cars as they pass by.",
+      "zh": "和往常一样，她把大部分时间用来骂我，还朝路过的车扔石头。"
+    },
+    {
+      "en": "Despite all of that, I still somehow feel closer to her.",
+      "zh": "尽管如此，我还是不知怎么觉得跟她更近了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ yumi_love += 1",
+      "zh": "$ yumi_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Yumi’s affection has increased to [yumi_love]!{/i}",
+      "zh": "{i}Yumi 的好感度提升到了 [yumi_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

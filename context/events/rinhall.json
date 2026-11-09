@@ -1,0 +1,150 @@
+{
+  "label": "rinhall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label rinhall:",
+      "zh": ""
+    },
+    {
+      "en": "if chapthreeactive == True:",
+      "zh": ""
+    },
+    {
+      "en": "scene rinsummer2hallgen",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/rinsummer2hallgen.webp",
+      "alt": "rinsummer2hallgen"
+    },
+    {
+      "en": "elif christmas7 == False:",
+      "zh": ""
+    },
+    {
+      "en": "scene rinhall7",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/rinhall7.webp",
+      "alt": "rinhall7"
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "scene rinhallwinter",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/rinhallwinter.webp",
+      "alt": "rinhallwinter"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ": Oh, hey Sensei! Want to hang out for a little while?",
+      "spk": "Rin",
+      "zh": ": 哦，嘿 Sensei！要不要一起待会儿？",
+      "spkColor": "#FF00AE"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I sit down next to Rin and we spend the next hour or so talking about nothing.",
+      "zh": "我在 Rin 旁边坐下，接下来一个小时我们都在聊些没营养的。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if bonus == True:",
+      "zh": ""
+    },
+    {
+      "en": "It’s a little odd how she consistently treats me more like someone her age than a full-grown adult.",
+      "zh": "她一直把我当成同龄人、而不是一个成年人来对待，这有点奇怪。"
+    },
+    {
+      "en": "But it’s nice. It feels different hanging out with her compared to the other girls.",
+      "zh": "但挺好的。和她待在一起的感觉跟别的女孩不一样。"
+    },
+    {
+      "en": "Then again, that's probably just due to the fact that she's entirely unlike virtually all of them.",
+      "zh": "不过话说回来，这大概只是因为她跟几乎所有其他人都不一样。"
+    },
+    {
+      "en": "Not in bad way, though. Just...in a {i}Rin{/i} way.",
+      "zh": "不是坏的那种不一样。只是……很{i}Rin{/i}的那种。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ rin_love += 1",
+      "zh": "$ rin_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Rin’s affection has increased to [rin_love]!{/i}",
+      "zh": "{i}Rin 的好感度提升到了 [rin_love]!{/i}"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}

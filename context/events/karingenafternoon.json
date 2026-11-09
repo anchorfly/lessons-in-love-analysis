@@ -1,0 +1,112 @@
+{
+  "label": "karingenafternoon",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label karingenafternoon:",
+      "zh": ""
+    },
+    {
+      "en": "scene karingenafternoon",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/karingenafternoon.webp",
+      "alt": "karingenafternoon"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head to the park to hang out with Karin for a bit.",
+      "zh": "我去公园陪 Karin 待了一会儿。"
+    },
+    {
+      "en": "She spends the first half hour running laps but eventually decides to take a break and talk to me instead.",
+      "zh": "前半小时她都在跑圈，最后决定休息一下，过来跟我说话。"
+    },
+    {
+      "en": "The two of us discuss simple things like her favorite activities and what she wants to do when she's out of [high_school].",
+      "zh": "我们聊了些简单的事，比如她最喜欢的活动，还有[高中]毕业以后想做什么。"
+    },
+    {
+      "en": "I'm not surprised to hear that she's basically got everything planned out already.",
+      "zh": "听说她基本上已经把一切规划好了，我并不意外。"
+    },
+    {
+      "en": "Unlike her sister, Karin has a clear direction of where she wants to go in life. And I'm glad she's willing to share some of that with me.",
+      "zh": "和她姐姐不同，Karin 对自己想走的路很清楚。我很高兴她愿意跟我分享一些。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "Karin hesitantly tells me that she needs to go as soon as the sun starts to set.",
+      "zh": "太阳刚开始落，Karin 就犹犹豫豫地说她得走了。"
+    },
+    {
+      "en": "I feel slightly bad about taking up so much of her time, so I obviously tell her to go do whatever it is she needs to do and not let me stop her.",
+      "zh": "占了她这么多时间，我有点过意不去，于是当然让她去做该做的事，别被我耽搁。"
+    },
+    {
+      "en": "She smiles as she leaves and nervously waves goodbye as she jogs off in the direction of her house.",
+      "zh": "她笑着离开，紧张地挥了挥手，然后朝她家的方向小跑而去。"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": "I might be a little quick in saying this, but I think she's already starting to get a little more comfortable around me...",
+      "zh": "这话也许说得早了点，但我觉得她在我身边已经开始放松一些了……"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ karin_love += 1",
+      "zh": "$ karin_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Karin's affection has increased to [karin_love]{/i}!",
+      "zh": "{i}Karin 的好感度提升到了 [karin_love]{/i}!"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "jump saturdaynight",
+      "zh": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "iohall",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label iohall:",
+      "zh": ""
+    },
+    {
+      "en": "if iofirsthall == False:",
+      "zh": ""
+    },
+    {
+      "en": "jump iofirsthall",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump iohallgen",
+      "zh": ""
+    }
+  ]
+}

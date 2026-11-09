@@ -1,0 +1,132 @@
+{
+  "label": "amigennight2",
+  "lines": [
+    {
+      "en": ""
+    },
+    {
+      "en": "label amigennight2:",
+      "zh": ""
+    },
+    {
+      "en": "scene aminightgen2",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Events/aminightgen2.webp",
+      "alt": "aminightgen2"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "I head home early to spend some time with Ami.",
+      "zh": "我提早回了家，想陪 Ami 待一会儿。"
+    },
+    {
+      "en": "She's already in her pajamas by the time I get back and immediately summons me into her room to lie on the bed with her.",
+      "zh": "我回去的时候她已经换好睡衣了，立刻把我叫进房间，要我躺到床上陪她。"
+    },
+    {
+      "en": "We don't talk much but instead just lie there looking at the ceiling for an uncomfortable amount of time.",
+      "zh": "我们没怎么说话，只是躺着看天花板，看了久到有点尴尬的时间。"
+    },
+    {
+      "en": "Frankly, I think it's a little boring. But each time I go to strike up a conversation and notice her happily smiling to herself with her eyes closed-",
+      "zh": "说实话，我觉得有点无聊。但每次我想开口聊点什么，就看见她闭着眼睛一个人笑得很开心——"
+    },
+    {
+      "en": "Well, I kind of forget that I was ever bored to begin with and instead just...continue to lie there.",
+      "zh": "于是我就忘了自己本来有多无聊，只是……继续躺在那儿。"
+    },
+    {
+      "en": "Doing nothing. Saying nothing.",
+      "zh": "什么都不做。什么都不说。"
+    },
+    {
+      "en": "But it's the most comfortable form of nothingness I've ever felt.",
+      "zh": "但这是我体会过最舒服的「什么都不做」。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "scene black",
+      "zh": "",
+      "cap": true
+    },
+    {
+      "img": "pic/Misc/black.png",
+      "alt": "black"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "The two of us eventually pass out, but I wake up several hours later and decide to get back into my own bed.",
+      "zh": "我俩最后都睡着了，不过几小时后我醒了过来，决定回自己的床上睡。"
+    },
+    {
+      "en": "I always hate sleeping in unfamiliar beds.",
+      "zh": "我一直讨厌在陌生的床上睡觉。"
+    },
+    {
+      "en": "Before I leave, I make sure Ami is tucked into her blanket and that her alarm is turned on so she can wake up on time and, you know, make me breakfast and whatnot.",
+      "zh": "走之前我确认了 Ami 被子盖好、闹钟也设好，好让她能准时起床，然后，你懂的，给我做早饭。"
+    },
+    {
+      "en": "I guess that all it takes for me to be a little considerate is knowing I'll get something out of it.",
+      "zh": "看来我只要知道自己能捞到点好处，就能变得体贴一点。"
+    },
+    {
+      "en": "Thank you for the breakfast, Future-Ami.",
+      "zh": "谢谢你，未来的 Ami，早饭就拜托了。"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "$ ami_love += 1",
+      "zh": "$ ami_love += 1"
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "{i}Ami's affection has increased to [ami_love]{/i}!",
+      "zh": "{i}Ami 的好感度提升到了 [ami_love]{/i}！"
+    },
+    {
+      "en": ".........",
+      "zh": "........."
+    },
+    {
+      "en": "......",
+      "zh": "......"
+    },
+    {
+      "en": "...",
+      "zh": "..."
+    },
+    {
+      "en": ""
+    },
+    {
+      "en": "if day < 6:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofweekday",
+      "zh": ""
+    },
+    {
+      "en": "else:",
+      "zh": ""
+    },
+    {
+      "en": "jump endofsat",
+      "zh": ""
+    }
+  ]
+}
